@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 368
+heat: 408
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia estimates ‘may prove conservative’ as Microsoft, Google mentions of AI more than double"
+    excerpt: "Microsoft and Alphabet mentioned \"AI\" so many times on earnings, one Nvidia analyst is thinking his bullish estimates may be too conservative."
+    publishedDateTime: 2023-07-26T17:30:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
+    images:
+      - url: "https://images.mktw.net/im-824287/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "All eyes on AI as Microsoft prepares for pivotal earnings report"
     excerpt: "Investors will be looking for early signs of traction from Microsoft’s artificial intelligence investments Tuesday afternoon when the company reports results for its fiscal fourth quarter. They’ll likely need"
     publishedDateTime: 2023-07-24T17:28:00Z
@@ -61,6 +77,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft and Alphabet’s results indicate the AI game is more of a long-term strategy"
+    excerpt: "Alphabet and Microsoft's results clearly indicate that the costs are high if you want to stay on the leaderboard in the modern AI arena."
+    publishedDateTime: 2023-07-26T16:40:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/microsoft-alphabet-ai-results-analysis/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-513101776.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
     excerpt: "Company’s $56.2bn revenue beat Wall Street expectations but slowing growth for cloud service Azure proved to be a dampener"
     publishedDateTime: 2023-07-25T21:41:00Z
@@ -76,6 +106,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/6e4f41537e3e1a14b26a759024914f0d87905a73/0_318_5454_3274/master/5454.jpg?width=620&quality=85&auto=format&fit=max&s=9db530a297607be53626c3c00ed90637"
         width: 620
         height: 372
+        isCached: true
+  - title: "Exclusive: Amazon has drawn thousands to try its AI service competing with Microsoft, Google"
+    excerpt: "Amazon.com’s cloud division has drawn thousands of customers to try out its service vying with Microsoft and Google in a key area of artificial intelligence, an executive told Reuters."
+    publishedDateTime: 2023-07-26T15:39:00Z
+    webUrl: "https://www.reuters.com/technology/amazon-has-drawn-thousands-try-its-ai-service-competing-with-microsoft-google-2023-07-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 73
+    images:
+      - url: "https://www.reuters.com/resizer/jdur2omKdgRbOGkx_JYIUWmwMTw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U66DBMLTJROWBBBNWVHUFORUIQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
     excerpt: "SAN FRANCISCO – Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4 per cent in late trading."
@@ -202,6 +246,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230726vl200_files/1_2b.jpg"
         width: 1280
         height: 865
+        isCached: true
+  - title: "Google, OpenAI, Microsoft and Anthropic join forces to promote safe AI development"
+    excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Microsoft Vice Chair and President Brad Smith. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"
+    publishedDateTime: 2023-07-26T16:25:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/google-openai-microsoft-anthropic-join-forces-promote-safe-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Google, OpenAI, Microsoft form ‘Frontier Model Forum’ to regulate AI development"
     excerpt: "The Forum outlined its initial set of goals that it intends to accomplish which includes advancing research on AI safety and identifying best practices for development and deployment of frontier models,"

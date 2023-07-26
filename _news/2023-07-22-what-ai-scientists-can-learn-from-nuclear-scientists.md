@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI Algorithms Can Learn Like Humans With Continual Learning Training"
-    excerpt: "Continual learning is a promising aspect of AI algorithms that enables computers to continuously learn a sequence of tasks, building on accumulated knowledge to improve their performance. But, just like humans,"
-    publishedDateTime: 2023-07-23T10:48:00Z
-    webUrl: "https://www.cryptopolitan.com/how-ai-algorithms-with-continual-learning/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 38
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-23_09-17-32.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Students dive in, learn about Artificial Intelligence at summer camp"
     excerpt: "Prepping young minds for the future of technology is what a summer camp in Greenville this week is all about. Sarah Gray Barr joined the campers and found out more about what it's all about."
     publishedDateTime: 2023-07-25T23:09:00Z

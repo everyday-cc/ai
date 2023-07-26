@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "dx5LwuIoEyqRy22iDqMKC89gi0iuxq2Kpb5PAodnqHxY0T7cNv1yk3MVifHaWoFnfQ4WU7Ksa6KI/vFQcwULmx3cVIpcJj36FssW0Il42FZ0lRM+rdzF1KmGads8dtLB6mby44yO1O0rCyFtm8ov6sOAHOuR6X7lMI/Ul8dIs0DgR125Rep3iNB5/O8yZ3AMz9WwUuD28bnQ0Ou3yPe4Hw1x4uPI/0vV8cECWw9cSDyjGE2e/zSomg3CvzInTNVYx4mLNbM4cT9Ej1M1yEXDId+vDKpYmSjqetBc9ohWAuQzuOBMEdUT28ugRfGAZ+A3edhQGr0C3gVBb24/siQCHdioTaqrcbDOmnovQvnOOSuqdcle1O3P7I3eBBJ8WSRUVb5Nh3JeOstRBNFfF7Hn6P9hMNCHyuTNDdWUuXkBfch2PeYnhQ9SX1pjphusHzKMqIKF0KrTlJEg5rGMpHrC5cBbFTFyWGvY2cCEf2xAN2hL7cq4UNjG1fEOmUvaA7TdRf29xqpftH5XPE7ktIjOtA==;vkzoUo795p7Gqs0ulxVJZQ=="
 ---

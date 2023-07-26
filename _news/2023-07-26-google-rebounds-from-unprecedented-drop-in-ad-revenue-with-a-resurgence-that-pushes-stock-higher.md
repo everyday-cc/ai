@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
-excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to reshape the competitive landscape."
-publishedDateTime: 2023-07-25T20:30:00Z
-originalUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-webUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-ampWebUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
+excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
+publishedDateTime: 2023-07-25T21:46:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Google ad rebound renews faith in AI investment"
@@ -52,6 +58,6 @@ related:
         height: 853
         isCached: true
 
-secured: "sq0tgpQnLKIofs9cQ0y9EVqQFD/QNFATLuGAB9V/MQgf1aQ8hg9fdH0SqkgF35cyxqLKyW2cDmG6km0ah0AdXLFpJ0FGB7XCO88jnLX65mz+0ztosvYyBuCR66y3OUtjZsS4zPxJcXmL+obbGNHv+KUfAN15UhTT36rvufPOWlWHijIc7E/pvxhYtByagc1qYL4+q4rVd9ag5r4UR4arTMj2etDmseLcnlG3jWqTMgNnzynPDEDJfl6gEt1gqr0Kv+YWU0Y/8wY5igj+u8ZiwIS/6BRPn9uBqUNiC00po2qamLqyKmJ+OUg5TDt1EExPY3iMLjyasVVQQvsa7Frgh6Up1N4g4QlBCCnFwAFHamsWGjlhHN4BPqxnHZRrI/BR3zWIJ0KL+iw4/ESSADbrCjVcvRLhNMNwtvJKwof31Kvph5ZMuUUpeEW4mJ8POoFHj7rjRbZi2jIiIMzmvlFVZMmsNTL+cap/0YK9Mz71Vq17cveFCj4h4ReSy95bAt7LoT6j5+L/dS0nmMgq3h+UOA==;e42+lWdrM9Yjic6LzqucpQ=="
+secured: "Q2sWoMyhlFKGQjojJf/unPMB3mtW8Vup0QcYlUS68LwlchpcUcYhZaWPlx7FaBb+dnwCpyRzR+MgW5I+J9nI5PTdXQrk/lmyO7Z+J//dIOgAgQgaZp99joXIItUkUw3tad3BGQZs4CMdvkGLwWjgnmZInZCbo/qOIp9rSgnXBbLQYaq10StWgrlLsMEsuzc7JVi7PWEEPlW9he5m2aHSHJ1go9l7vDaRHBa5u1u1Y9H2jsCpSzOa6V/NjzieJ7JQObKoKXviJgrYOT50P8hhggHr3A0BEgGze3KomDqE4Ebq5/s9us5Mih2ACxNxwHN77PbiO6CQzKFcW/RJTicR2nU9y6XH2WDUW57w/IkCtOE=;Albm5WejvrOJIjFPqzt5qg=="
 ---
 

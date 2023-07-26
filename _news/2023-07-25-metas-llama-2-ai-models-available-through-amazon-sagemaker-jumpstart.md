@@ -33,6 +33,20 @@ related:
         width: 1080
         height: 630
         isCached: true
+  - title: "Stability AI levels up image generation with new Stable Diffusion base model for better image composition"
+    excerpt: "Stability AI introduced innovations into the new Stable Diffusion model, SDXL 1.0, that make fine-tuning easier and improve composition."
+    publishedDateTime: 2023-07-26T16:30:00Z
+    webUrl: "https://venturebeat.com/ai/stability-ai-levels-up-image-generation-launch-new-stable-diffusion-base-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 52
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/stable-diffusion-sdxl.jpg?w=1200&strip=all"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
     excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
     publishedDateTime: 2023-07-25T13:20:00Z

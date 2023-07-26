@@ -66,6 +66,20 @@ related:
         width: 2400
         height: 1800
         isCached: true
+  - title: "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools"
+    excerpt: "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google"
+    publishedDateTime: 2023-07-26T16:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHYEvk8TxBUA/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
     publishedDateTime: 2023-07-25T13:29:00Z
@@ -283,6 +297,20 @@ related:
       - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/JasperArt_2023-07-26_08.01.32_upscaled.jpg"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "The Essential Guide to Prompt Engineering in ChatGPT"
+    excerpt: "Dive into 'Prompt Engineering' with our in-depth guide, focusing on its impact on the rapidly growing ChatGPT user base. Explore what prompt engineering is, how to become a prompt engineer, top techniques and grasp the potential of this trending AI career path."
+    publishedDateTime: 2023-07-26T15:52:00Z
+    webUrl: "https://www.unite.ai/prompt-engineering-in-chatgpt/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 24
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/07/prompt-engineering-transformed-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "ChatGPT parent company removes access to AI detection tool due to low accuracy"
     excerpt: "Even on its launch day, OpenAI admitted the tool was “imperfect” and results should be “taken with a grain of salt.” Now it has been pulled due to its \"low rate of accuracy.\""

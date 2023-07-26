@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Forget human extinction – these are the real risks posed by AI today"
-    excerpt: "Amid warnings that advanced AI could wipe out humanity, some experts insist we should be more worried about people using existing AIs to supercharge the spread of misinformation"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384063-forget-human-extinction-these-are-the-real-risks-posed-by-ai-today/"
+  - title: "Authors are resisting AI, but they have an advantage: Readers form relationships with writers"
+    excerpt: "Some are suggesting AI will render the author disposable: publishers will be able to package and market any piece of AI-generated text. But the truth is the reverse. Author-centric promotional spaces, such as social media, writers' festivals, radio and television programs and other events, are integral to getting books into readers' hands."
+    publishedDateTime: 2023-07-26T16:41:00Z
+    webUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: techxplore
+      domain: techxplore.com
+    quality: 48
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24164212/SEI_164400408.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Actors are really worried about the use of AI by movie studios – they may have a point"
-    excerpt: "AI might not yet be able to create leading performances from an actor’s likeness but the jobs of those in the background are far less safe."
-    publishedDateTime: 2023-07-24T16:06:00Z
-    webUrl: "https://theconversation.com/actors-are-really-worried-about-the-use-of-ai-by-movie-studios-they-may-have-a-point-210034"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 31
-    images:
-      - url: "https://images.theconversation.com/files/539025/original/file-20230724-27-ipn5gj.jpg?ixlib=rb-1.1.0&rect=17%2C643%2C3817%2C1908&q=45&auto=format&w=1356&h=668&fit=crop"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/authors-are-resisting.jpg"
         width: 1356
         height: 668
         isCached: true
+  - title: "South Florida resi agents lean into AI"
+    excerpt: "From writing listings to reviewing documents and generating marketing campaigns, the technology is proving to be a game changer in real estate."
+    publishedDateTime: 2023-07-26T14:30:00Z
+    webUrl: "https://therealdeal.com/miami/2023/07/26/south-florida-resi-agents-lean-into-ai/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 19
 
 secured: "335/d7IOcKbwWmx+1vOx5YWRHMf2MdB1D5fUA46e+TpgWfrSFDKmZeSA5TexZp4S4TzPEtw6kpG6NchTK36rX3WsAab2FBPGzowhHEKLBGFyo7deC+GGR3MvGSg+ffyr5FMH6429xzg83jHDSshXlbrc/JExysntYwEzrROeWwc2pjsP3FeAQFsAatSOs8GHcXjHTL+mHKpnf/Kq6jAh/MPlcodLHjQJOSqnPyqgGzGQZ0P9IoOpG56YF1yiQZ+07v+LnhXKZZTf6HcyOtXr3XzHE/Ko3T3ni2YLb6DlzXAe9nIIMEYLawL/U4S/yXWFECejUE+dsCYkeE21Irfw5HSCAgSZryYcwGKyXy7jab2coQbs+XjZ8Qx6lVKbS1NZGH4efFYYZVVArKS6bNmYkVRzkU0rhFfCM9dgA/7bNh/nFi9amMPrqOufP9dBNVyr0RmzK/LeTKtr2R2k+C8c1D+hA5eN9o1fBDCGzuV0v6R4/5/4FI4ELapfS4stLPGHxaFd4vteki1ZHOqa85ywJA==;A155D/q0897RIeGe9a3fbQ=="
 ---

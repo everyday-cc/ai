@@ -3,28 +3,31 @@ category: news
 title: "Google, Microsoft, OpenAI and Anthropic announce industry group to promote safe AI development"
 excerpt: "Some of the world’s top artificial intelligence companies are launching a new industry body to work together — and with policymakers and researchers — on ways to regulate the development of bleeding-edge AI."
 publishedDateTime: 2023-07-26T14:47:00Z
-originalUrl: "https://www.wral.com/story/google-microsoft-openai-and-anthropic-announce-industry-group-to-promote-safe-ai-development/20972675/"
-webUrl: "https://www.wral.com/story/google-microsoft-openai-and-anthropic-announce-industry-group-to-promote-safe-ai-development/20972675/"
-ampWebUrl: "https://www.wral.com/amp/20972675/"
-cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20972675/"
+originalUrl: "https://www.cnn.com/2023/07/26/tech/ai-industry-group/index.html"
+webUrl: "https://www.cnn.com/2023/07/26/tech/ai-industry-group/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
 type: article
-quality: 64
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: WRAL
-  domain: wral.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/230224125906-laptop-night-work-stock-restricted.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -44,19 +47,19 @@ related:
         width: 1300
         height: 729
         isCached: true
-  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
-    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
-    publishedDateTime: 2023-07-26T04:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
+  - title: "Google, Microsoft, OpenAI Join Forces to Create AI Safety Forum"
+    excerpt: "ChatGPT maker Open AI , startup Anthropic and tech giants Google and Microsoft have forged an alliance to create a framework for safety standards and the responsible development of what they're calling \"frontier AI\" models ."
+    publishedDateTime: 2023-07-26T17:45:00Z
+    webUrl: "https://www.cnet.com/tech/google-microsoft-openai-join-forces-to-create-ai-safety-forum/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
+      name: CNET
+      domain: cnet.com
+    quality: 86
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
-        width: 1260
-        height: 628
+      - url: "https://www.cnet.com/a/img/resize/0f75266d8693db9e798b8305c35556dca21fefa5/hub/2023/07/26/df575deb-f8b6-4020-9a56-597958e9c85b/gettyimages-1247212585-google-open-ai-microsoft.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google, Microsoft, OpenAI and startup form body to regulate AI development"
     excerpt: "Tech companies say Frontier Model Forum will focus on ‘safe and responsible’ creation of new models"
@@ -127,6 +130,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "FTiTwb91F4Ziuw6AOgt0eAB49YZM7LZtbKAju1m3bT1rUVZOrlcJ5rTjU7UL4DMI7HNDqAFUOFQQsfdHX5qkm+h60+aJb8uuQtWJXUPFavd4w73qTNZxClJSgVAfIyuQr9wIeTKxqu3sbHCI7xbM8LuVb8EXuqgTJVW69NCZo5uc53wTVc7tID2Yjd5muiw9znaveGMyefMnUL1f0sqnCjqVg7SLW0JB6PxiKpA8Tt5nb5KN2kSA0dxfGnz7JKaBsueYG7eSt3RXxeSk29wlHhROjVY1Uv2XXarSDQXywgnf9nFXHRJajfIxdFG0j9v/xw6GHFE4vLNOUIp+imnScxpzCdaWdA3BlvtkepYPX+M=;vrpQMRktkNtjvG1jGKGKFg=="
+secured: "+lRsC2h3kLHrRza17CALXNKDJfqKMItEHO1NovpDxkj4ULtqMqie/CJfqlg1kXVGoQ3HH18v/bzeoIghRk7QSz0qo6lRWG60RoC3U39n/YAhM7JBUJowM+pvscut4KfDEwKlTMK5bLg1MBWAOc8Ci/Ja14Yn7VVMGxb44o9Bo19dSMrLui1sgwcGoxnWYFVav0w0KfosCnz/9zBJ9jiJ1jSgDUgGUpffwl/krCXcumKe3/OFJw7MVQ79xTgjZhjhQayfnnH5Q7hAV6Uc16TUvSSg0hmeEJNDJjYG16N83m/eh2bS+EoweLjg0KOpVtJncksFx5fSxAh9UHG4DXMcLcW6u6CZ+KHewikp9vfArFg=;0eGQ7w4hehfDQ1pJlO79FA=="
 ---
 

@@ -25,28 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "What AI Scientists Can Learn From Nuclear Scientists"
-    excerpt: "Experts who develop revolutionary advances must also help society address the resulting dangers."
-    publishedDateTime: 2023-07-22T11:31:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2023/07/oppenheimer-nuclear-bomb-artificial-intelligence-ethics/674787/"
+  - title: "Predicting lifespan-extending chemical compounds for C. elegans with machine learning"
+    excerpt: "A new research paper was published in Aging titled \"Predicting lifespan-extending chemical compounds for C. elegans with machine learning and biologically interpretable features.\""
+    publishedDateTime: 2023-07-26T17:04:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-lifespan-extending-chemical-compounds-elegans-machine.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-lifespan-extending-chemical-compounds-elegans-machine.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-lifespan-extending-chemical-compounds-elegans-machine.amp"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 47
-  - title: "Students dive in, learn about Artificial Intelligence at summer camp"
-    excerpt: "Prepping young minds for the future of technology is what a summer camp in Greenville this week is all about. Sarah Gray Barr joined the campers and found out more about what it's all about."
-    publishedDateTime: 2023-07-25T23:09:00Z
-    webUrl: "https://www.wnct.com/video/students-dive-in-learn-about-artificial-intelligence-at-summer-camp/8849518/"
-    type: article
-    provider:
-      name: WNCT
-      domain: wnct.com
-    quality: 37
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 52
     images:
-      - url: "https://www.wnct.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/predicting-lifespan-ex.jpg"
+        width: 1280
+        height: 857
         isCached: true
 
 secured: "xapyYlXjzsij8mrXIpnLojUBqWTjae3VVTeMM9VCVe+134EeRlpF7DG2MPuvqsuI6UuqX9egAKmydmZJVj8sAWFN818jF3cjw+P2EwgedMrvi7cRw4/vYo5oD6eZbYdkMUz3imyVmJTjOHle9z8I6okAeTdYODf10GeoCbuyKJrQPUcVz3SeyEu+hu5gxE5vdyE+nYo9cKvSfvxxkoVcHtF7EH8T3aMbiUXDvfQPFWoT9ulKCmu+Rsd4bUIrC9Bh1ZPZrxY/qb51EwfJz+S7LanD6y+ttcrAzC0xC+D+IBQlmaDe7QjOQbsBFCXz1U3IEKkXsZh5JOY3W4r6UOnCaT9v9HjaRju4n/dhcwRsd+Nn+GlBEo1Qz4msyKplg+yzDWyD7My5u1t3I8t+wnpRsF1QZD6MR6ukNraXd18HHfgJ+VVTLbfcQnn+TCdRfA+hcYwAiFP66K5nU2V1n5NjDjhK9EaF7uRBWsTEGvWm8QiIENYRPcYZ8OBFf0YdDheefqbmP6pELPY7nxXMGOCgTA==;N0QL6LAD2lrsOhGUUrt7Bg=="

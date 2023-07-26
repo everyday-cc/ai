@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Egnyte is bringing generative AI capabilities to its storage platform"
+    excerpt: "Egnyte became the latest enterprise software company to offer generative AI capabilities on its platform today."
+    publishedDateTime: 2023-07-26T15:59:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1193843538.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI capabilities come to Amazon QuickSight"
+    excerpt: "Quicksight’s new generative AI will also be able to create calculations, Amazon says. Clicking “Ask Q” and describing a calculation will yield a corresponding expression syntax, saving time the time it’d take to look up the syntax, ostensibly."
+    publishedDateTime: 2023-07-26T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/11/mvimg_20171129_165124.jpg?resize=1200,733"
+        width: 1200
+        height: 733
+        isCached: true
   - title: "Nvidia announces availability of DGX Cloud on Oracle Cloud Infrastructure for generative AI training"
     excerpt: "Nvidia said that DGX Cloud is designed to meet the massive supercomputing demands for training generative AI and large language models."
     publishedDateTime: 2023-07-25T16:07:00Z

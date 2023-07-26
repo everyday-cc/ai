@@ -70,6 +70,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
+    excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
+    publishedDateTime: 2023-07-26T16:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/articleshow/102146946.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1354874,msid-102146987/indiaai-meta-pact.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
+    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
+    publishedDateTime: 2023-07-26T17:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "40hhhscsLXXG/IXTiMQIVd69g6bhAJazbMT7EFIjFqMQotmyBMkphTQrYUUUjWGsoQGGrFXbTRKKLRsQE7IelnPz/7udZGz/NAiK6Nl8rEvWNDsy9Wn++P0ttq0lbiUayfLgqVO05cMef7tuFsCdssfQLEcyGkUz6Y+QbUb11rajgSE+bxtUwCCtTDxFSeSPK9pZ+ZlfOAAVmBmCeAASrjBHQghLKBW7gH70E+9n9D+kmsgW4/CfsNzRq5jbe069pKhURCun3Ck5yoSiYkjt5WdVXsyDfK+Hg+2+wzz6fe4a9G4FWvkbhvAd59bthoI9UTzCG4KTSkPd5KaLgtQEqzt9xeNQQMn6kX7C8nzIge8=;l5gIMJKGeP5q6nZMEPzUUA=="
 ---

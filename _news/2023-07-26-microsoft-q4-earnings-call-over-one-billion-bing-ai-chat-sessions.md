@@ -7,8 +7,8 @@ originalUrl: "https://www.searchenginejournal.com/microsoft-earnings-call-q4-one
 webUrl: "https://www.searchenginejournal.com/microsoft-earnings-call-q4-one-billion-bing-ai-chat-sessions/492571/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Searchenginejournal.com
@@ -38,6 +38,22 @@ related:
       - url: "https://www.crn.com/resources/0281-17e8a96e83ea-ebca3c6e05ec-1000/amy-hood-microsoft.jpeg"
         width: 611
         height: 458
+        isCached: true
+  - title: "5 Analysts Size Up Microsoft Shares After Q4 Earnings: 'In The Early Innings Of A Massive Penetration Of AI And Cloud'"
+    excerpt: "Shares of Microsoft Corp (NASDAQ: MSFT) are trading lower Wednesday after the company reported fourth-quarter financial results after m"
+    publishedDateTime: 2023-07-26T16:25:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/07/33394837/5-analysts-size-up-microsoft-shares-after-q4-earnings-in-the-early-innings-of-a-mas"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33394837"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33394837"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/07/26/shutterstock_370707185.jpg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "gxEhzyNx6bwvyg0BflptHd06LW2YGw+OYXgSAT76Rx2Km8JagheIQKCCXnPMSJLdAXbCxJHcBNeWEY0lKZeGX1/WzBJDnsiX1YnsbzmRJbwUKHmq/YRUVOUNr/HVpzk7twCpv84eAMttKiTbsEiF56GjiOfLoj1vIomeHJ3jerqSbrFjb7nfOgNknpP/i1aYvDCoODVhW98d03veGXmY6WVIyaDB0F2xArGuO9vUVl4oReodiex9UUhYakZv85B11HRAGXoRdUt724yojBbsZMr8asnc9UlwIrFHAebzFq0oDWrzRDW6fOxWOkrbIGoK4YbG2ApMEsYC+wLDS68BRx2us2k3JfgZsmqrdHkGzKdB7guQl/6tGKmYPrPi0imWvji+jMMjcNY0YLZAubZAGupEWXbcElu9IZB1glOZBjAflYxbI0Og8TnoW9XZib0QL+rfZ0QVjHQr93Vdd1QmoYr1XO4iGjIX/lztaoroD7X6kBN+KoAGMnK09X1wOmtblVpsJnTpEQg3FxqZj6Q72Q==;37wvIL6D20wzYJeNgHbvAQ=="

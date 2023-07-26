@@ -212,15 +212,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "Influencing the Global Fintech and Digital Finance Market: Super Future Technology"
-    excerpt: "Traditional investment firms have become increasingly aware of the potential and value of digital assets, leading to a profound transformation in the financial industry. Previously, traditional invest"
-    publishedDateTime: 2023-07-21T23:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33331524/influencing-the-global-fintech-and-digital-finance-market-super-future-technology"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
   - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
     excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
     publishedDateTime: 2023-07-24T12:54:00Z

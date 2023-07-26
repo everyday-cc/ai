@@ -23,21 +23,81 @@ topics:
   - AWS AI
 
 related:
-  - title: "The Generative AI Battle Has a Fundamental Flaw"
-    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
-    publishedDateTime: 2023-07-25T11:08:00Z
-    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
-    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
+  - title: "AWS launches new healthcare-focused services, powered by generative AI"
+    excerpt: "Amazon says that the AI capabilities in HealthScribe are powered by Bedrock, its platform that provides a way to build generative AI-powered apps via pretrained models from startups as well as Amazon itself. This might be cause for alarm, given generative AI’s tendency to exhibit biases, confidently invent facts and generally go off the rails."
+    publishedDateTime: 2023-07-26T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 121
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "AWS offers new artificial intelligence, machine learning, and generative AI guides to plan your AI strategy"
+    excerpt: "Breakthroughs in artificial intelligence (AI) and machine learning (ML) have been in the headlines for months—and for good reason. The emerging and evolving capabilities of this technology promises new business opportunities for customer across all sectors and industries. But the speed of this revolution"
+    publishedDateTime: 2023-07-26T16:30:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-offers-new-artificial-intelligence-machine-learning-and-generative-ai-guides-to-plan-your-ai-strategy/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 118
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/25/generative-ai-guides-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
+    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
+    publishedDateTime: 2023-07-26T04:00:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
+        width: 1260
+        height: 628
+        isCached: true
+  - title: "It’s Official: Amazon Web Services (AWS) Launches HealthScribe, A Generative AI Powered Clinical Documentation Tool"
+    excerpt: "Amazon Web Services (AWS) announced the launch of HealthScribe, deepening its commitment to augmenting healthcare delivery and innovating cutting-edge industry solutions. HealthScribe is a new service that will enable healthcare software developers and providers to create clinical applications that use speech recognition,"
+    publishedDateTime: 2023-07-26T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/07/26/its-official-amazon-web-services-aws-launches-healthscribe-a-generative-ai-powered-clinical-documentation-tool/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/07/26/its-official-amazon-web-services-aws-launches-healthscribe-a-generative-ai-powered-clinical-documentation-tool/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/07/26/its-official-amazon-web-services-aws-launches-healthscribe-a-generative-ai-powered-clinical-documentation-tool/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c1218f0ab968e45fea0a55/0x0.jpg?format=jpg&crop=3338,1930,x0,y267,safe&width=1200"
+        width: 1200
+        height: 694
+        isCached: true
+  - title: "AWS announces generative A.I. tool to save doctors time on paperwork"
+    excerpt: "Amazon Web Services on Wednesday announced a new service for health care software providers called AWS HealthScribe."
+    publishedDateTime: 2023-07-26T15:42:00Z
+    webUrl: "https://www.cnbc.com/2023/07/26/aws-announces-generative-ai-tool-to-save-doctors-time-on-paperwork.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/26/aws-announces-generative-ai-tool-to-save-doctors-time-on-paperwork.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/26/aws-announces-generative-ai-tool-to-save-doctors-time-on-paperwork.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
     quality: 89
     images:
-      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
-        width: 2400
-        height: 1800
+      - url: "https://image.cnbcfm.com/api/v1/image/107232305-1682624081252-gettyimages-1245247316-775902453_006.jpeg?v=1690393330"
+        width: 594
+        height: 395
         isCached: true
   - title: "Amazon Web Services Wants to Teach You How to Use Generative AI"
     excerpt: "Amazon Web Services announced Wednesday that it will offer seven new courses designed to help people understand and use Amazon's generative AI services. Amazon will offer most of the initial courses for free, and the courses are intended for developers, business executives and anyone else interested in using AI."
@@ -53,119 +113,109 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
-    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
-    publishedDateTime: 2023-07-24T05:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+  - title: "AWS teams with FOX Sports for AI-powered highlights"
+    excerpt: "Driven by fans’ expectations that digitisation and the continued advancement of broadcast delivery technology should lead to a dynamic viewing experience, FOX Sports has revealed how it has deployed A"
+    publishedDateTime: 2023-07-25T07:38:00Z
+    webUrl: "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
+      - url: "https://www.rapidtvnews.com/images/2023/July_2023/AWS_fox_25July2023.png"
+        width: 854
+        height: 430
         isCached: true
-  - title: "How to navigate your engineering team through the generative AI hype"
-    excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
-    publishedDateTime: 2023-07-23T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/"
+  - title: "How Artificial Intelligence Changes Healthcare Industry"
+    excerpt: "Artificial intelligence has changed the world of the healthcare industry. AI can help with diagnoses, treatment, and even predictions about future health trends. Besides, there are many things those artificial intelligence has improved and changed entirely."
+    publishedDateTime: 2023-07-25T06:01:00Z
+    webUrl: "https://www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry"
+    ampWebUrl: "https://www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_07_2023_11_29_57_691016.jpg?width=1280"
+        width: 1280
+        height: 1132
         isCached: true
-  - title: "Generative AI is empowering the digital workforce"
-    excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
-    publishedDateTime: 2023-07-25T14:46:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
+  - title: "Cyclops Emerges From Stealth With Security Search Platform Powered by Generative AI"
+    excerpt: "Cyclops emerges from stealth mode with $6.4 million in seed funding and a generative AI-powered cybersecurity search platform."
+    publishedDateTime: 2023-07-26T14:35:00Z
+    webUrl: "https://www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/"
+    ampWebUrl: "https://www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 70
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "What generative AI really means for the economy, jobs and education"
-    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
+  - title: "How AWS is making generative AI simpler for businesses"
+    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
+    publishedDateTime: 2023-07-24T00:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 54
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
-        width: 1350
-        height: 900
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
-    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
-    publishedDateTime: 2023-07-25T16:09:00Z
-    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+  - title: "How FOX Teamed Up with AWS for AI-powered Highlights"
+    excerpt: "Rising to the occasion, FOX built and deployed its new AI-powered Catch Up With Highlights feature ahead of its US broadcast coverage of the FIFA World Cup Qatar 2022™. Leveraging Amazon’s open source Media Replay Engine (MRE) framework for automating video clipping and replay generation,"
+    publishedDateTime: 2023-07-24T17:30:00Z
+    webUrl: "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=159754"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 53
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 54
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137829-Soccer-OTT-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Wayfair takes the generative AI route to interior decoration"
-    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
-    publishedDateTime: 2023-07-26T02:31:00Z
-    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+  - title: "Fox Expands AI-Powered Highlights System with AWS"
+    excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
+    publishedDateTime: 2023-07-25T18:38:00Z
+    webUrl: "https://www.tvtechnology.com/news/fox-expands-ai-powered-highlights-system-with-aws"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 37
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
-    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
-    publishedDateTime: 2023-07-24T19:38:00Z
-    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 34
+  - title: "DocuSign Launches New AI-Powered ID Verification Solution"
+    excerpt: "This enhancement to DocuSign's ID Verification solution is another step in the company's use of AI to strengthen its suite of agreement products. DocuSign recently announced the launch of Agreement Summarization, enabled by an integration with Azure's ..."
+    publishedDateTime: 2023-07-25T14:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/25/9853396.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
-  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
-    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
+    publishedDateTime: 2023-07-26T16:38:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854711.htm"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 29
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
-        width: 942
-        height: 600
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "pOGKALJBc1rzdycwFmarLhD3X7Jg9vTixhYAJ85POMg4CxQg2VAeRMcnFYzNMrphHCjEpdTenSVjuQFLyeK6WCSpJLW3ys1LdeFSbnVdtjZPvIOhpUtO4Pl/hRDZjbTIZeHsFgM78lW9dwfIhCo1qUeJBClyDAiG52XN6EzWDYHBiuH1mTck0wXC6CqTVEROoFE8b5Zw6+Jep3rS/Fl7On40yoUgxi6sixhm4j5VO3QILBW9tVXtz3hYXvyOyqcoxML7JlYhq/B5/o4YxmxFiIogoo5AewctU7LT3FvIyi1VDA8W4aSPSdbs+JNTH1CwXqzoTz22UgOLpRIUrwbMlycaXWczkgHV3yns8d2tV40=;v1r4kKN2S6B6Z91RJNXL5A=="
 ---

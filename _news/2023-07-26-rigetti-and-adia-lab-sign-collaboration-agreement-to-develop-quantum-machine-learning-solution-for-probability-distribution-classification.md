@@ -20,15 +20,29 @@ topics:
   - Machine Learning
 
 related:
-  - title: "DocuSign Launches New AI-Powered ID Verification Solution"
-    excerpt: "This enhancement to DocuSign's ID Verification solution is another step in the company's use of AI to strengthen its suite of agreement products. DocuSign recently announced the launch of Agreement Summarization, enabled by an integration with Azure's ..."
-    publishedDateTime: 2023-07-25T14:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/25/9853396.htm"
+  - title: "Egnyte adds generative AI smarts to streamline content collaboration"
+    excerpt: "Content platform Egnyte today enhanced its platform with new generative AI smarts, including text summarization, transcription and more."
+    publishedDateTime: 2023-07-26T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1690384951113.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 375
+        isCached: true
+  - title: "Micron Announces “Second Generation” HBM3 Memory For Generative AI Workloads"
+    excerpt: "Micron has now entered the HBM3 race with what the company calls a “second-generation” HBM3 design, based on a faster, denser, more advanced semiconductor process node."
+    publishedDateTime: 2023-07-26T13:06:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/07/26/micron-announces-second-generation-hbm3-memory-for-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 46
 
 secured: "PhZCM8JtCU/BKdsAIt0R7DfCGCXvHkxUhVbiYKe/5/rtzdo22ZPcPlBbuJTo9X6QWfzU/9DLoIW7XXSrLnnRCRerLt8ajpF9ETtjfkJdR5uytxqYGlQBk2CuzavfKvEZqwgWg0z6IUfEvamFr+PwjGsWJpm8beGR3msA1EfOnadvevenqERA7QGjm31cqgSsol+UkdIA5JQqMkBubbjxlmDJOi7I5oITeqedmoAGJYpPZfLdzf+Nmza4+zQ+yQmii3kqatqRqBO3TujAzRgG3wK2R8ts8UjxKjWeCmZBdenUqX0qyoUCSpKk4RxnA+BFGrkOJ7ZgjC4j9lLKWR3WpTxiit1xrTM/n6dBExasXH0=;Eb/ptW1W+xO7ibDQOBjDNQ=="
 ---

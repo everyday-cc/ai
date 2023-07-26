@@ -216,15 +216,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "Influencing the Global Fintech and Digital Finance Market: Super Future Technology"
-    excerpt: "Traditional investment firms have become increasingly aware of the potential and value of digital assets, leading to a profound transformation in the financial industry. Previously, traditional invest"
-    publishedDateTime: 2023-07-21T23:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33331524/influencing-the-global-fintech-and-digital-finance-market-super-future-technology"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "qh/04ZlxYlacRakZpV8XzHwVWyQissvkcIne5jJjR7xfhzW6PBiKbnqNWOJVeRKeNASNPSldTQJZ2yTKkGLQu93pT0nmEqYr+XFvagf167h7cS/NTb2L1pCTJMs3hgpWv4m7uRPlEOxw/JWgOpXnOeRGo3UGAIpAKkSBkEziWQ8/PNJd4K9MJMUxeC9fF/Dn6z4pSdduLmRLrpkKbJTbTg6z5EKDltyyLezi+n0Kvn8wi/RXqhWyXXqUWFpyJAGLMstUaY/vc692Rh+qDye2wEPhKT70lVqgWULQc1Gw1ZTg2U7o4wG6IftYlakTIyRpvGWhSfZPqWUywpbwlaJTlHdbuyvwZiPKxn8Cij4zlAk=;JWYji6rpa6GRirLEuwCbEw=="
 ---

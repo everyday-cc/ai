@@ -24,6 +24,19 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Researchers develop machine-learning technique that can efficiently learn to control a robot"
+    excerpt: "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly."
+    publishedDateTime: 2023-07-26T16:07:00Z
+    webUrl: "https://techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 30
+
 secured: "NeO+Zu9QDBzQcHY0DKkK1buiv5u77gh1PNe+cBCXDm4BPSt0BBwuMAv7iW59k8t3MrsSWkQOUTr2yV3VNuGreRgryJ9Kd1dQkHdcpyamnZnJoIyrkN3epTGeRZ2Dea3LPqVUImjHWQqpvFVnxkiVi7bfx95osaD9BYM78F/gilLc6zq2A6dGyO/XnFN6I/jw4BfogeVlOTjRy7AjIgYPLdqPs9Cgq7L5Qh1M78fBrGgN5XuhPXBuO4FC60hIgBk8xxqaKDaNpDqeO3xwal7lk9QXojAUd7eqti2dMERpnBXhwyj/wFzPfMwki+otq5MSbb4p0Xg/5FY3lnKZhUodRCcyt5HDrGU62vp8iaA+lJ4=;AmvpLL4saACroREpGFtYmg=="
 ---
 

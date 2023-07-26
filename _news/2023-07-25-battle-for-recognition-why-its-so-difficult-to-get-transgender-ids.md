@@ -75,6 +75,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
+    excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."
+    publishedDateTime: 2023-07-26T17:27:00Z
+    webUrl: "https://www.techjuice.pk/punjab-police-introduces-ai-powered-facial-recognition-system/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 54
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/07/AI-Facial-Recognition-System-635x430-1.jpg"
+        width: 635
+        height: 430
+        isCached: true
   - title: "Individual whales, dolphins identified using facial recognition tech"
     excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
     publishedDateTime: 2023-07-23T16:00:00Z

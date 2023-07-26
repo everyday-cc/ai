@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-autonomous-drivi
 webUrl: "https://markets.businessinsider.com/news/stocks/3-autonomous-driving-stocks-you-better-be-buying-on-each-and-every-dip-1032473429"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "If You Can Only Buy One AI Chip Stock, It Better Be One of These 3 Names"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is driving markets higher. For the past seven"
+    publishedDateTime: 2023-07-26T17:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "If You Can Only Buy One Semiconductor Stock, It Better Be One of These 3 Names"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor industry is an integral part of several other industries in"
     publishedDateTime: 2023-07-25T15:43:00Z

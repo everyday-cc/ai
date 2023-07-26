@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
 type: article
 quality: 106
-heat: 296
+heat: 306
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
+    excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."
+    publishedDateTime: 2023-07-26T17:27:00Z
+    webUrl: "https://www.techjuice.pk/punjab-police-introduces-ai-powered-facial-recognition-system/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 54
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/07/AI-Facial-Recognition-System-635x430-1.jpg"
+        width: 635
+        height: 430
         isCached: true
   - title: "Battle For Recognition: Why It’s So Difficult To Get Transgender IDs"
     excerpt: "A leading cause for delays in processing comes from the digital divide that exists where applicants from rural areas either don’t have access to the internet or technical know-how."

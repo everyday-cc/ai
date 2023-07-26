@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -59,6 +59,36 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-22-Mar-2023-03-47-PM-7009.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
+    excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
+    publishedDateTime: 2023-07-26T16:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/articleshow/102146946.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1354874,msid-102146987/indiaai-meta-pact.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
+    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
+    publishedDateTime: 2023-07-26T17:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "With AI-Enabled Tech, Indian Navy To Soon Start Testing Advanced Control Systems For Warships, Submarines"
     excerpt: "“The CMS 24-29 can do faster threat assessment with inbuilt-AI algorithms and gives the warship’s captain suggestions on which particular weapon should be used in a particular situation. It can also talk to the existing CMS on board warships,” the TOI report said quoting an official source."

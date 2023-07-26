@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google and Microsoft partner with OpenAI to form AI safety watchdog group"
+    excerpt: "Called the Frontier Model Forum, the partnership comes after a White House meeting last week with the same companies, plus Amazon and Meta, to discuss the secure and transparent development of future AI."
+    publishedDateTime: 2023-07-26T16:16:00Z
+    webUrl: "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0430dc198ab4ed046b02d5baab33192ccb668571/2023/07/26/a18398ef-86e6-4115-8cdd-48c6fc6907e2/ai-gettyimages-1373071138.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google, Meta, Microsoft, Amazon Make Pledge on AI Safety and Security"
     excerpt: "ChatGPT creator OpenAI is also among the companies that met with President Biden to sign the voluntary agreement."
     publishedDateTime: 2023-07-24T21:48:00Z
@@ -65,20 +81,6 @@ related:
       - url: "https://images.mktw.net/im-709442/horizontal"
         width: 1320
         height: 742
-        isCached: true
-  - title: "Google, Microsoft, Amazon, Meta Pledge to Make AI Safer and More Secure"
-    excerpt: "The tech giants and ChatGPT creator OpenAI are among the companies that met with President Joe Biden and signed the voluntary agreement."
-    publishedDateTime: 2023-07-21T23:40:00Z
-    webUrl: "https://www.cnet.com/tech/google-microsoft-amazon-meta-pledge-to-make-ai-safer-and-more-secure/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI’s Grip on Tech Set for Test With Microsoft, Alphabet Earnings"
     excerpt: "Bets that artificial intelligence will revolutionize Corporate America and deliver riches to the biggest companies behind it will get a test Tuesday, as Microsoft Corp. and Alphabet Inc. report their first earnings since AI fever broke out."

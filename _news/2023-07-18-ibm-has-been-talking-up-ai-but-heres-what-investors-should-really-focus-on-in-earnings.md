@@ -1,24 +1,20 @@
 ---
 category: news
-title: "IBM has been talking up AI, but here’s what investors should really focus on in earnings"
-excerpt: "International Business Machines Corp. may be hitching to the artificial-intelligence bandwagon with its new WatsonX initiative, but analysts are more interested in areas of Big Blue’s business ..."
-publishedDateTime: 2023-07-18T14:12:00Z
-originalUrl: "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec"
-webUrl: "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec"
+title: "IBM has been talking up AI, but here's what investors should really focus on in earnings"
+excerpt: "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ..."
+publishedDateTime: 2023-07-17T22:24:00Z
+originalUrl: "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
+webUrl: "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "C0qoAfz1Qlz+AW1qCcRx8i+8Pex41kgMEBCD8wX6Cn8117M3JpdpaDO06B8+h2eGEv1UU7r7bPii7j5nmzmP7zbsR24AYSsUQDo+WewIGZY14RtxAyZbq/n9G3PEcD/nlDGdvXdVZoFXqSSZId/J0eD7H3eHJaZUg6ty8hsKGJblaUDl9eGpixEUxiltVUxSL3/a6zwWZi5tpjYdHzO31pzzJIm7cafXNFgi1Nyqv3DpdvWyVGDIenagBcexvQ0K0o+LLRF1UgiDDuDeJ4Mi7PD60ahh1lQ5Ip7sHXd9qX7c7A2stuqNmGHOGLhJdlLUh3BLpth4TUBbQqU+JIw/nW22GE9USmuBLFtFslcPC1Q=;ipXrI0VUM4JlIuYvZwbWkg=="
+secured: "FSY1OPtJ879F+FH1vTNx590TvH507pOfZw69FyFo1RCNxP3SVoYcdqS7HdpqwGnU72YykS88vXJvJs1xcUGXZVdMKxPX2ry5GS1SxpFmAbcB0J3aopjAtpf4EEWfpZ0rc/kWN8oyGEF3sTv/Xn2RMRaz6oBZv8Rw9vr54RVzd1ky3wBWtOzErnCmgDH/0Tq9sAr3t0nhbWy6oruWU9IRR9BMeOSzhNrO/Wyz53b0eaX6uNDS2pmtRng6Tt+JRfOqoXnz53KXqGrFXof23Hl9sRKi4PRD16OJIRaBuyK6S5vG5K1l7u+2Kv9dGCtR4/z/HZozPDm95K+2mvgaV2NfSIgGkPxchnD1hPhJCdNsJP4=;xL2f4OZ+5HBe1BIRo3hIGA=="
 ---
 

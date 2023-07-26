@@ -38,29 +38,6 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "Amazon Web Services Wants to Teach You How to Use Generative AI"
-    excerpt: "Amazon Web Services announced Wednesday that it will offer seven new courses designed to help people understand and use Amazon's generative AI services. Amazon will offer most of the initial courses for free, and the courses are intended for developers, business executives and anyone else interested in using AI."
-    publishedDateTime: 2023-07-26T10:00:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/amazon-web-services-wants-to-teach-you-how-to-use-generative-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/resize/36449787408eca6def5fad92320c9539c424c499/hub/2023/07/24/a5c60322-4233-4433-9bab-b807fd08e9d6/gettyimages-1252637842.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New technical deep dive course: Generative AI Foundations on AWS"
-    excerpt: "Generative AI Foundations on AWS is a new technical deep dive course that gives you the conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond. Developed by AWS generative AI worldwide foundations lead"
-    publishedDateTime: 2023-07-26T12:20:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-technical-deep-dive-course-generative-ai-foundations-on-aws/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
     excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
     publishedDateTime: 2023-07-24T05:41:00Z

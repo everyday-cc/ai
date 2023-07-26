@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-26-cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai.md",
-      "title": "Cyclops Emerges From Stealth With Security Search Platform Powered by Generative AI",
-      "excerpt": "Cyclops emerges from stealth mode with $6.4 million in seed funding and a generative AI-powered cybersecurity search platform.",
+      "path": "_news/2023-07-27-northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting.md",
+      "title": "Northern Arc’s ML tool NuScore to aid Pahal Financial Services’ underwriting",
+      "excerpt": "Northern Arc Capital's Nu Score, a machine-learning based analytical tool, will be used for underwriting and risk assessment by Pahal Financial Services, a Gujarat-based NBFC. Pahal aims disbursement of Rs 2,",
       "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/",
-      "originalUrl": "https://www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/",
+      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/articleshow/102130074.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/articleshow/102130074.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47338,msid-102147852/isb-applied-business-analytics-drive-business-growth-with-the-power-of-data-analytics.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/amp/",
-      "publishedDateTime": "2023-07-26T07:35:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms",
+      "publishedDateTime": "2023-07-26T10:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SecurityWeek",
-        "domain": "securityweek.com",
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,7 +42,7 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "AI in Security"
+        "Machine Learning"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 229,
       "tags": null,
       "images": [
         {

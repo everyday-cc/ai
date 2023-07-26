@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "If You Can Only Buy One AI Chip Stock, It Better Be One of These 3 Names"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is driving markets higher. For the past seven"
+    publishedDateTime: 2023-07-26T17:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "3 Autonomous Driving Stocks You Better Be Buying on Each and Every Dip"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2023 has brought to us an equities market rebound and novel improvements upon"
     publishedDateTime: 2023-07-25T08:06:00Z

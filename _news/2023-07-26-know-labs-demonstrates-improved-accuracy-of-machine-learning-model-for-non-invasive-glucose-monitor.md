@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Know Labs Demonstrates Improved Accuracy of Machine Learning Model for Non-Invasive Glucose Monitor"
-excerpt: "Comparatively, Know Labs released study results in May 2023 that analyzed data from five participants of a similar demographic using 1,555 observations from 130 hours of data collection, and the first application of the lightGBM ML model, which resulted in an overall MARD of 12.9%."
-publishedDateTime: 2023-07-26T15:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/07/26/9854525.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/07/26/9854525.htm"
+excerpt: "Know Labs, Inc. (NYSE American: KNW) today announced results from a new study titled, “ Novel data preprocessing techniques in an expanded dataset improve machine learning model accuracy for a non-invasive blood glucose monitor ."
+publishedDateTime: 2023-07-26T12:59:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/know-labs-demonstrates-improved-accuracy-of-machine-learning-model-for-non-invasive-glucose-monitor/article_ca4f3888-7c60-5b0b-8af8-648ad581fc20.html"
+webUrl: "https://www.galvnews.com/news_ap/business/know-labs-demonstrates-improved-accuracy-of-machine-learning-model-for-non-invasive-glucose-monitor/article_ca4f3888-7c60-5b0b-8af8-648ad581fc20.html"
 type: article
-quality: 5
-heat: 5
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Daily News
+  domain: galvnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "HYUjuaLzGs1fiQ6/JQbwEn4MJZ4Gn8Vtj7B/shXhBcLiYTzlOwnjF442MROe6TFUof2bCaM4S8RHKNjPiKWYlsU77bjYFUcJWFOzdQAKXyW2vJcxDffgMH1uJd3/7SJCkh+8AUAEJihPjfOIrqgggn4UmCm8qUgFjMBMTpQa5zCIAPYt/OBDBOEhT6vUX7qxUQMY2gvDCPnSVwdNE75B9aAUYvjjAcKBnswkhOK0qr6e3XBYQ1d4fPnRzhayVpr3aLKbBT4co+D+Oz3Bi2jcmRZaHSQ8+xo8Wl2z6gpHD9ZgtxYfD9K/Dl6COq6COL6v7mGjQz1aWFqjPkmu9lB6MbUmGIk3BVaiwgIBiCHiKyM=;rLMT/AmiDmEX4Efj1UrHjQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "x0Moekte/IMhMMCoZWGoibwNFwZb32Lma19JLxVoj6zxQ4p4VG6rzodNBscFsnUvw9KfrskWqHYwBuPA9uot+CjaFBiupD7+8N/uSTniMxztB3fQ9xAUc1HONZplhilu7ykFTrFosaO/RuMJEgczOljKd0tZM9/UE/l2dM4PwFHZpo3rw4O29ym3zGdjS5MrzkDLIIvxpca+qoBo0RuHj7wbZLHWgBGHWWm3qAzJS4KCfc3ke5UpfQxzRprzE74hm2SjSPE3MwCeTIbFG00ovTaupt9Q57jMPa1IF4GX53pR/PlsVCNrgT6PJGXAJhN97uVnyguL57vUYN0yOtKcYtraoClwGtwd2Fb2bBsL2eM=;zavQb7r17U+6p4/2fRUCBA=="
 ---
 

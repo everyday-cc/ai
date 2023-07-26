@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-for-generat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "Bf6hiftGg1rD3aI4YNToOm2P+ebVmPmV/RDWF8ZcOdmz1QgRndE50jVLLTU3yg6woQduaoZ5oLsGMd0G6GLOLtNdqoWd37bB+/uG3gs+R7C5pN4NQ+u1wLYb19HrFbMxkYrc8+ZjZM0LlqZYJ5YutS77ZwkmHBSOTrvj29So5/XnjjJYyk2xA7vQnnVwZjw7YT70KQS/L6bc6MW0C5hE6ZzMv27KJ/vTyRJCamH1cGwfnQH68apRfc+VtdnZyDqHU6G7DDynGHXdCcrDEuVScvmsLp29cyL9k3PUAFBNUaoN2cyHXtnqchJhCl4KEvwoGRFfoBgspKp5b+Vd2up7bK6V1MALDFdQ41lHCxwH/gdExOMQbSzdp4ikdxjjFCJIjn7DxNWcwZHf6R3yVBLlXVXsEuWsKRDvbJAiuDroOx5oXcXZJC26mPWHfaQVYgKtlTAwYPBp4bqjoGLXZdaabkcecU35n8KW5K2+W4Zm9MFrHCTt68lTRNVHQshgL6qFkn+syxZ030qB+RcrOLFR3A==;ce5D+Mh7Jlopppsaa0JJHA=="

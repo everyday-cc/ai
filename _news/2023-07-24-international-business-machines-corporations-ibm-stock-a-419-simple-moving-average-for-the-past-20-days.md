@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "GE HealthCare Technologies Inc.’s (GEHC) Stock: A 2.89% Simple Moving Average for the Past 20 Days"
-    excerpt: "The stock of GE HealthCare Technologies Inc. (GEHC) has gone up by 0.99% for the week, with a 3.78% rise in the past month and a -2.79% drop in the past quarter. The volatility ratio for the week is 1."
-    publishedDateTime: 2023-07-24T03:20:00Z
-    webUrl: "https://newsheater.com/2023/07/24/ge-healthcare-technologies-inc-s-gehc-stock-a-2-89-simple-moving-average-for-the-past-20-days/"
+  - title: "The Impact of Market Fluctuations on Sarcos Technology and Robotics Corporation’s (STRC) Stock"
+    excerpt: "The stock of Sarcos Technology and Robotics Corporation (STRC) has gone up by 13.82% for the week, with a -22.07% drop in the past month and a -18.94% drop in the past quarter. The volatility ratio for the week is 5."
+    publishedDateTime: 2023-07-26T16:15:00Z
+    webUrl: "https://newsheater.com/2023/07/26/the-impact-of-market-fluctuations-on-sarcos-technology-and-robotics-corporations-strc-stock/"
     type: article
     provider:
       name: newsheater
       domain: newsheater.com
-    quality: 25
+    quality: 42
     images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-108.png"
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-99.png"
         width: 640
         height: 422
         isCached: true

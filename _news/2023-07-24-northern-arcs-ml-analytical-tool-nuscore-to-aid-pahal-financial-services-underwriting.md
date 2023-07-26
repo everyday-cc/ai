@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Northern Arc’s ML tool NuScore to aid Pahal Financial Services’ underwriting"
+    excerpt: "Northern Arc Capital's Nu Score, a machine-learning based analytical tool, will be used for underwriting and risk assessment by Pahal Financial Services, a Gujarat-based NBFC. Pahal aims disbursement of Rs 2,"
+    publishedDateTime: 2023-07-26T17:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/articleshow/102130074.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47338,msid-102147852/isb-applied-business-analytics-drive-business-growth-with-the-power-of-data-analytics.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "NuScore to aid Pahal Financial Services underwriting"
     excerpt: "Northern Arc Capital, a diversified financial services company, on Monday announced that its machine learning (ML)-based analytical tool, Nu ."
     publishedDateTime: 2023-07-24T11:43:00Z

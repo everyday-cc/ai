@@ -34,19 +34,35 @@ related:
         width: 1300
         height: 729
         isCached: true
-  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
-    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
-    publishedDateTime: 2023-07-26T04:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
+  - title: "Google, Microsoft, OpenAI and Anthropic announce industry group to promote safe AI development"
+    excerpt: "Some of the world’s top artificial intelligence companies are launching a new industry body to work together — and with policymakers and researchers — on ways to regulate the development of bleeding-edge AI."
+    publishedDateTime: 2023-07-26T14:47:00Z
+    webUrl: "https://www.cnn.com/2023/07/26/tech/ai-industry-group/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
+      name: CNN
+      domain: cnn.com
+    quality: 92
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
-        width: 1260
-        height: 628
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230224125906-laptop-night-work-stock-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Google, Microsoft, OpenAI Join Forces to Create AI Safety Forum"
+    excerpt: "ChatGPT maker Open AI , startup Anthropic and tech giants Google and Microsoft have forged an alliance to create a framework for safety standards and the responsible development of what they're calling \"frontier AI\" models ."
+    publishedDateTime: 2023-07-26T17:45:00Z
+    webUrl: "https://www.cnet.com/tech/google-microsoft-openai-join-forces-to-create-ai-safety-forum/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/resize/0f75266d8693db9e798b8305c35556dca21fefa5/hub/2023/07/26/df575deb-f8b6-4020-9a56-597958e9c85b/gettyimages-1247212585-google-open-ai-microsoft.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google, Microsoft, OpenAI and startup form body to regulate AI development"
     excerpt: "Tech companies say Frontier Model Forum will focus on ‘safe and responsible’ creation of new models"
@@ -63,22 +79,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
         width: 620
         height: 372
-        isCached: true
-  - title: "Google, Microsoft, OpenAI and Anthropic announce industry group to promote safe AI development"
-    excerpt: "Some of the world’s top artificial intelligence companies are launching a new industry body to work together — and with policymakers and researchers — on ways to regulate the development of bleeding-edge AI."
-    publishedDateTime: 2023-07-26T14:47:00Z
-    webUrl: "https://www.wral.com/story/google-microsoft-openai-and-anthropic-announce-industry-group-to-promote-safe-ai-development/20972675/"
-    ampWebUrl: "https://www.wral.com/amp/20972675/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20972675/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 64
-    images:
-      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
     excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"

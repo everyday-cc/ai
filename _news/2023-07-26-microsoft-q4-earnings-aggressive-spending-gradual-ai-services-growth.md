@@ -39,6 +39,22 @@ related:
         width: 3000
         height: 1680
         isCached: true
+  - title: "5 Analysts Size Up Microsoft Shares After Q4 Earnings: 'In The Early Innings Of A Massive Penetration Of AI And Cloud'"
+    excerpt: "Shares of Microsoft Corp (NASDAQ: MSFT) are trading lower Wednesday after the company reported fourth-quarter financial results after m"
+    publishedDateTime: 2023-07-26T16:25:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/07/33394837/5-analysts-size-up-microsoft-shares-after-q4-earnings-in-the-early-innings-of-a-mas"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33394837"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33394837"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/07/26/shutterstock_370707185.jpg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "z4ZFqehXcezfuSrFeyDqaUvu9uHPRCdh6oYqBNO+VAqXhCm+/H54h2QxCK8MyEuP+//aTHlMX1O9E9pj78vlnhquFzrDmx4GmPLla0H/8bGEHAwcS3dKXTwVBa+a8HseWKyTBUS4a9MXXhUO81OsjmDab4xBVdTMzeKUEeq52x2qPri6pGviW3sYhvAe+4YF1OzOxGDejVEor0QkU2pVNYLAuEW34TMa4RehHehiRggELvehyXIbRFpAvE6p8qlzpIuYzdR6ezN8qK97Fct82D1rQtOcig8Bm1BI2biO6nwZUNgrOxUvc7P5NNeNXFIfl54j4aPk117WCRuR3Hmzc8HFf2uDPnbuCSZA0aC/FXM=;pXVkAntuXuQS3EkufhRgxw=="
 ---

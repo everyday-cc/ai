@@ -48,6 +48,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
+    excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
+    publishedDateTime: 2023-07-26T15:29:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startup-cerebras-takes-nvidia-ai-supercomputer"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 17
 
 secured: "nNerYAX1OpLQEcaHuBt3mwupDTJSwpPLiZ6AqeanKd7pZ7xogzp8pY91iYFKLxLHcbA6P0gOgZSNPILaoHPbbYUGHPN9QE9npv/HKa8p209GkoCjGLsxFOchPCm+ymqC1GMrEF+lr3VsMOxtzj0k/kDPJ79wfblBu5wqfplJ55zkE1KHyUDm06uywIcJxfng/umvYUyG56oQdGadtzPcVZByJkVylAQBxk+zrv0NKAOPDQJ+hC6dcSc8LuBq8vrv6HA2NiL0LHrRV7rqKZMmV4vMDbaC/TPuPb5L2aW6Uexz9iS1zKQwRgu8yqDCQFupoYC0ttSrpCdHX5XOSsRX8M9z2xhflatKJxZ63S3krdc=;z2SfZbuL52M2qVqSvbgKMw=="
 ---

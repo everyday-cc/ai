@@ -51,6 +51,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
+    excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
+    publishedDateTime: 2023-07-26T15:29:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startup-cerebras-takes-nvidia-ai-supercomputer"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 17
 
 secured: "etYIm3E2c4+TUMJYf/41n/MYvU6j0ApwWxeJjWQEGFOau9FbllKvRRWZP0lCITaiplFfUk2yn++73HMkDU0FoqCm/L2u54gVgW6XizmA+TUlpEB66Ph3v5CnmN24BcFYzT+C/eYG+LFOu9hyubGAxVsg1IpO72MUv9glgO1ku8QHi6xSOXF01Cdj2atYeGjlu+2c3Rx77dyGkUs1GFfTt2Fup7ZDnpUPCGZXV20hiaUcP6UB0raz/9sc8XK3e5h76n/1vsS2f7opeZJoGfevr0xN4bJIDCemeSEfdXD57qzPQYuzqfmI7OBIWaVhyQwiqVZM1qjtWzb2K5sN0eP+Mntr2nGBdnMQsoP0lZ8RcXCNTnxvJln/Kj7Lo6FBoWNimFzDT5aNQSmBZiUd8rIZYQJkutfSy9E5DyTumIaB3XFoIcIYfXopnfNwWhg48HRep7xt6PkVI2ejgIc89BdxugHa+AS+l5+itmffw+AehPy1x+d8Yf0Lqv7ubxiL2hFcNo5dRXXiVpJwSKaXvDJ/Jg==;g81jqQH/zfJjLFY0oXroUg=="
 ---

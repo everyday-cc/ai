@@ -58,6 +58,36 @@ related:
         width: 600
         height: 424
         isCached: true
+  - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
+    excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
+    publishedDateTime: 2023-07-26T16:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/articleshow/102146946.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1354874,msid-102146987/indiaai-meta-pact.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
+    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
+    publishedDateTime: 2023-07-26T17:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "With AI-Enabled Tech, Indian Navy To Soon Start Testing Advanced Control Systems For Warships, Submarines"
     excerpt: "“The CMS 24-29 can do faster threat assessment with inbuilt-AI algorithms and gives the warship’s captain suggestions on which particular weapon should be used in a particular situation. It can also talk to the existing CMS on board warships,” the TOI report said quoting an official source."
     publishedDateTime: 2023-07-24T06:59:00Z
@@ -73,6 +103,6 @@ related:
         height: 800
         isCached: true
 
-secured: "MsPnrdlYryFkExE+Ev2LtHIsZXLirL2bKbif+cH7c937zCLGZD3DUMgURQ6oBVEy2EuHdWEm2P31vLDOsTCW+xORcOrRi4xvtqx3mpsxSF4qag2yDpPJd7dtZ+3c59BPzax5J9PjuEbNTqZeWSYPDV4khthX4tXf3MBQEAAWqP2Cu8SOnYKqhatss4+r7mva+hyS00hZ1yn+RhqNcqAILbx7JrPpinLGwI2299HOOwnD0f9zTOtjfjoUKQR2WShkAad6ajMO6cpqQrxrRixHf4g6GZ7pZ2uRbbzHTMuhdeHaoGRLxhRgLVAXPbRSnWz/9gfk5RSZbwjMaQ2VCjWeMLewD1lNgImnrmPWpqdKBBI=;5c5QGuNWKpt7KYf1geYpHQ=="
+secured: "c/r9Nv2k/jXty4QPivpcXo5MXe63NEmNr6jOkzafV1rsguxcVimP9G4nsWlt6m0F7xMpCE+6bHdGAF13HbigkcAyPtFL6rtuZ38/mKnNommB7rOMA4s4L1rV7Mio1drgvQ0w0fUHbuDtWdfDhM4ldwenWqBuhy8qZGaUj5LJMWVgjijOszq2vew0JNKDUfjGzrGjcuGkU1Y9LJWarVejNV9DaJ24mmo/sHyavO/iFYOoJZogk2WCX9vuDpo9oofYGm98P35sqiSl5kV8+tTko6/UkmMmU6J0bTSkNsN1epaPzHLk8MMTWRBHOXEmJ9HhTW3voqvycZIc2NfZw+X0isqSGodXq6MfWsdaLqePiDumslhAwQE7d+OMwP4GVWEarpyNPRYj1im5ofMiKPwpL3a2PWdF5y3Uq4Hb5qwaOX8iQMTeeA0UC7BRaozNwVNlmBoNuLv71F5d4NxtLU4wzAdQi7DYijPMQDzMHYxjesE3+fPD9bldxtwPmKV1Z7ciI13gcEitT8OJcGEuj5f4jA==;Z0rAEG61EJgG8XePXVcE9Q=="
 ---
 

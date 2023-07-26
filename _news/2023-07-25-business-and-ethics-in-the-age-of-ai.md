@@ -44,6 +44,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "AI and Machine Learning Hold Potential in Fighting Infectious Disease"
+    excerpt: "New research showed that drug discovery, infection biology, and diagnostics are functions of AI and machine learning in treating infectious diseases."
+    publishedDateTime: 2023-07-26T17:31:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-potential-in-fighting-infectious-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
     excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
     publishedDateTime: 2023-07-25T18:51:00Z

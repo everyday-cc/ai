@@ -63,22 +63,6 @@ related:
         width: 900
         height: 494
         isCached: true
-  - title: "How Artificial Intelligence Changes Healthcare Industry"
-    excerpt: "Artificial intelligence has changed the world of the healthcare industry. AI can help with diagnoses, treatment, and even predictions about future health trends. Besides, there are many things those artificial intelligence has improved and changed entirely."
-    publishedDateTime: 2023-07-25T06:01:00Z
-    webUrl: "https://www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry"
-    ampWebUrl: "https://www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_07_2023_11_29_57_691016.jpg?width=1280"
-        width: 1280
-        height: 1132
-        isCached: true
   - title: "AI in clinical practice gains approval from 50% of healthcare professionals: Study"
     excerpt: "The report, based on a survey of 426 healthcare industry professionals between March -June, offers insights into the current utilisation and prospects of AI in eight major pharmaceutical markets -- the US,"
     publishedDateTime: 2023-07-24T11:38:00Z
@@ -133,6 +117,6 @@ related:
       domain: orissapost.com
     quality: 30
 
-secured: "R/4Cf0HRLkaYzwTHJUFVxQfGqh+cTncIlP4m5hsG+TWJiSv8wpiN0ZVWFlSTemlZx/Z41qIWqXYINI3BOsiCfxHlGlYBdw31vKMg/j1eVXl+/WaJezFgg+ECI6AQ63EyWmekRWghGBYk0DMfiCULN9CvL/4dr2R36GSDyGLmTaOIoeHQzaIxyIjkHKpqUeYkISgHVC0KD1AFFTC/qz7y48BT6m9fSP1gb+nZ3uVgGFeQqKNXogPLksO5fKB/j77WiqyqZkcU8ln9FjPaWAjCNbavCFv4757VjCKtQultu+TKSXvmDPLdqssyXl5nGGjvEoKRUEYIBPaxdJtFTasAef+9S6q0qUvvrBiQCTH+ov4=;IqSKjLh00dyznePbPDQShg=="
+secured: "UB6DCovhZoELXQBnXhh0/XzH6ERsNtbjqJdPeL3Qh77KrU6jMipTHR9PUPzL8APU0RNwPrzqdBE2MSNwmz7AGwrePtI69em2XLUtmGlGD/MU77hOGK+flDOWIQ8fIL4W8UrboW+q07V/BcQLGfYnFNtikBo6R+jssq9lbuyJllPkyn0HXHPlFQ/y4lloEhbjN36M9smcGWxgPd2G0ykSKFLSsgeq9pGLlHfTNw4tQyoYuT7iI6aNWfAtYEAcdT7uOh1H1O5PbJ0xc8a8xof13U6efv9HK55aVZtmHqxlqADY7abw7TV75JRyXa8qPXwvPug0XJta3p6yDgRr9/sifwCerrrmv3ObupNXX9hFxUiLqrfeHd89LI/RFMWcgyatDLEkFM02LDrzMw6TDKIRZ4V8Zf7bXJ1hSBhxVmR47FW9anZiCTzo34hhkL3o4dFxc0FEGohuKGxDmb1DirK9LPBbeMjuoAPOPw7SFLkHiYnev3pHowY+G8FwtvQdbmGjvyIy7bgn7xHowpsuOsuZkA==;DZ6WeDBBr1SjGBcQiv+eBg=="
 ---
 
