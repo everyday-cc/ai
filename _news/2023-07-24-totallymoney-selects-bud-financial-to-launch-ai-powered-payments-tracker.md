@@ -39,6 +39,20 @@ related:
         width: 900
         height: 480
         isCached: true
+  - title: "Leaders in Lending | Ep. 119: Partnering with a fintech to diversify in challenging times"
+    excerpt: "Providing fair access to credit in consumer lending is at the forefront of all financial institutions today — and tech is here to make that possible."
+    publishedDateTime: 2023-07-27T03:00:00Z
+    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-119-partnering-with-a-fintech-to-diversify-in-challenging-times/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 15
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "/vqZ/myReixaRsgZGWhukXJxgI1nLwiZaMHc9FrKbx0fZkNLlzwTg8j9bgyrcxkmNuNByha0ClConXCrbvfmDwtKVGC/7C7D4eS7GdAR1S3cw/zAFTviZojHR6UFhDUTHEkZJaQFvbJJFMT8do5nphDzr+JTJcF2w8J/j9QAGLJzGX4q5y84/L5VaVe2fRyve9HeZ2Yho5DGg5UTmhNArRe5mFSPZNzCLeIZGEwumYDzVvIOYE7CIxKrLKkiWsirK5dttS8DqzZUH2UpyVQNWGctdTnSKAk4xETsQ88D6+a3/ho71PD++vLEcKkAe0qYoI1S79YMCazTVBdyhwqNK3DPGoh0a55T/NYfmjXzA84=;q4CybIvYd3Eq0r9/64IGRg=="
 ---

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "‘Bargaining for our very existence’: why the battle over AI is being fought in Hollywood"
-    excerpt: "The ramifications of artificial intelligence are of concern to the actors and writers on strike – from big stars to bit players"
-    publishedDateTime: 2023-07-22T10:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/22/sag-aftra-wga-strike-artificial-intelligence?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 8
 
 secured: "nFyRb+wA2SbsW2QDMpzYNQu48TsKu7CYY3bVMgpHNiHVTTMfAwTVfPNnyVghqooQBdxBwF792qQcTdbzGE5fdSpEY5gDDOq4jBfjzbzo7gIpYzJ9N2cgFmLyz8C6zSF/OMx6E/2viK/GbicYEyvljnQssg8kBJj3FGB36cevkW9SREMEUx0whZnXvoXkUWW4URlKkgAv3EBAAssPABUpCGIylN/wKgnGYerfd04ecREVkBhksRCQIOkAMbAFYOaCPmw0S5eKi37jYdh+SDFd5EBVPryEV0TxWR9rsKReAt8xfGaqTInUxoU6Zpw0Y97NTVM0Mvz4if0NzwBnZm9J6TW0A4Vr/cIK9ExAcnHEZZs=;odZOMCKjFukh/WO/9zKF/w=="
 ---

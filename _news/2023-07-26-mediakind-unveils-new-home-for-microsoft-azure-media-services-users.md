@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/22.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft stock drops as Azure growth slows, earnings top estimates"
+    excerpt: "Microsoft reported fourth quarter results on Tuesday with investors focused on cloud growth, AI, and any updates on the pending acquisition of Activision Blizzard."
+    publishedDateTime: 2023-07-26T02:21:00Z
+    webUrl: "https://www.aol.com/microsoft-earnings-preview-focus-cloud-134041612.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KNqCJSLlFKyGennVsxgHKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTQ-/https://media.zenfs.com/en/aol_yahoo_finance_433/0ce8a14eb683e51d2a52c1bcabfffae1"
+        width: 1200
+        height: 754
         isCached: true
   - title: "Artifical intelligence puts Microsoft Azure in top gear"
     excerpt: "Microsoft’s latest quarterly earnings results show the company’s public cloud business was the largest contributor to revenue."

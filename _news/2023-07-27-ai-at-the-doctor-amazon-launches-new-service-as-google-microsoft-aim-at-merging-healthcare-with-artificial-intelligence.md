@@ -5,8 +5,10 @@ excerpt: "Amazon is continuing its expansion into the health space with the laun
 publishedDateTime: 2023-07-26T18:25:00Z
 originalUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/"
+ampWebUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
 type: article
-quality: 71
+quality: 113
 heat: -1
 published: false
 
@@ -22,6 +24,13 @@ topics:
   - AI
   - AI in Healthcare
   - Microsoft AI
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "AWS launches new healthcare-focused services, powered by generative AI"
@@ -289,6 +298,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "Qt6Wwgsq7/dqOGecqY879D74jGFaQQO48uFDoWh4pq1dEimoVfj8zbRCAjmCgKeMLfz3xHZc0UE9SVoI6baBl1hkoL1qBZ4318RLro4J7JR/cwrFT282waHm+EkR6gXMu9QOscIEHwfp0R5jE3pIP2UyugyyrVl9qib+972Uy/Q+G4EsuSmyifJdXKoLN0fgkEcCsA59g2UZk/ud65QlbZSyStlEg9X7b2dxhfswq2q8jcKcwlBpMMGJgyvMjCnZdnqlxBvyXGnoVjMcWBa+ZLY3oIezX0DtSr0qpJjzp43ii6y6ViSxSMWOe/5BpPFFJg/RjnTdlhvsD7bgkMHpXzf7ArYpQ/nivgdAKnU3WtQPTVSI6AlVZfbsfEJ+8mgBxK52PJbDkvIgHB4mzqmIrDuUhgJKyBgLhOJ3Nip/0ghBDK41zz727LLthocSPLXOrB/X/7ecHhAosBGxPDK0SQrQ6BaMJT0xhWlPV40XoiwZLwm6K5178sU9gJHd6zl0UVaA72AgToXYkU6evMxSWQ==;k7EvZEDkR8IAuIkmnZFj/g=="
+secured: "JIn3vu6fmfrxpNFw0k/TSDAlp1LPL/mrZgJb9Nx3RqIUzX7iVMKu5X6m1KXXUQFACJPWvr8/vvjg1ApVFwwXvnFI44If+RVyAHuxLg6h9k2EnlLSLpmy0GNoZPreG0iZYaYjJ5zwP/S+6VLcppb66YtB7N68+COfhiJOb4LAw4ExE/M6JXT5JG0a+JMxpcS2CtkQ9ABdvukwM0fTFC/sea6Q/vujF5mEQBuCQuty+NwZZFQhoF6Tn9kFXELgITmANraAU1Cm0IoECFTP+XhnXtHO/DtFv9dMy9JK7iIds0YbaOKOkD2L4GlF/aLtIuPyicl2S/sEd7nQ948fhlPEqwVjyH1Vxfv3F4uUk+VJIEA=;VnfiwIT4Aihgntf46oB1bA=="
 ---
 

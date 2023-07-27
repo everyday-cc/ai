@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agen
 webUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS draws thousands to try Bedrock AI offering"
+    excerpt: "Amazon Bedrock is the company's answer to services announced by Google and Microsoft, cloud rivals that have developed or marketed AI garnering significant public attention. Microsoft has invested in OpenAI, the startup that created ChatGPT and the AI model known as GPT-4."
+    publishedDateTime: 2023-07-27T01:07:00Z
+    webUrl: "https://www.crn.com.au/news/aws-draws-thousands-to-try-bedrock-ai-offering-598512"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2023-07-26T165348Z_2_LYNXMPEJ6P0WL_RTROPTP_4_AMAZON-COM-AI.JPG"
+        width: 1000
+        height: 691
+        isCached: true
   - title: "The biggest scientific challenges that AI is already helping to crack"
     excerpt: "AI isn't just for chatbots – many companies are using it to tackle everything from protein folding and drug development to commercially viable nuclear fusion"
     publishedDateTime: 2023-07-25T15:30:00Z

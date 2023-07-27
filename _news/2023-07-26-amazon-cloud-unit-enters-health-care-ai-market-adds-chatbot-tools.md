@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Please Stop Asking Chatbots for Love Advice"
-    excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
-    publishedDateTime: 2023-07-22T11:00:00Z
-    webUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/"
-    ampWebUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/please-stop-asking-chatbots-for-love-advice/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/64bacf7ec859c4a1cdecc48a/master/pass/Please-Stop-Asking-Chatbots-for-Love-Advice-Gear-GettyImages-1079532396.png"
-        width: 2400
-        height: 1800
-        isCached: true
   - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
     publishedDateTime: 2023-07-25T13:29:00Z

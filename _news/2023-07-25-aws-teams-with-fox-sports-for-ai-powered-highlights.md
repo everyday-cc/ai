@@ -57,6 +57,22 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence"
+    excerpt: "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,"
+    publishedDateTime: 2023-07-26T18:25:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 113
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
     excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
     publishedDateTime: 2023-07-26T04:00:36Z
@@ -158,15 +174,6 @@ related:
         width: 1280
         height: 1132
         isCached: true
-  - title: "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence"
-    excerpt: "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,"
-    publishedDateTime: 2023-07-26T18:25:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
   - title: "Cyclops Emerges From Stealth With Security Search Platform Powered by Generative AI"
     excerpt: "Cyclops emerges from stealth mode with $6.4 million in seed funding and a generative AI-powered cybersecurity search platform."
     publishedDateTime: 2023-07-26T14:35:00Z

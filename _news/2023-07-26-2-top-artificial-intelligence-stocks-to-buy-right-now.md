@@ -51,20 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Preachers and artificial intelligence"
-    excerpt: "The world of artificial intelligence is expanding exponentially. AI’s infancy dates from the 1950s and 1960s, but it is now like an adolescent experiencing a sudden growth burst. ChatBPT and its siblings in the AI family are the rage in business, health care, education, and more. Including religion."
-    publishedDateTime: 2023-07-22T10:00:00Z
-    webUrl: "https://helenair.com/news/community/how-will-artificial-intelligence-impact-religion-sermons-and-preachers/article_707cab9c-264b-11ee-835e-1f5bdfe33511.html"
-    type: article
-    provider:
-      name: Independent Record
-      domain: helenair.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/7/07/707cab9c-264b-11ee-835e-1f5bdfe33511/64b80a593bd1e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "dzDKtH+0f/GsQcA3Y3jvR7tWFXvAsqAPLFc2p5Ud908tq33E+ijHTXQgrimldJH3EXk+Jg1AwVqF7pqPca3y+RElVaBH2Ngv7+Fqygj2pDCRulCl6Ixu5GXaWP4c9Gtb5IL3yCacVA9Cwk9jyRBQfXtSVvtQRuSocmuL9Lfv6z1AA7sLPu4kClAuQmsyBD1RbpvRZ/Wsi44wanoli4EgR4/kzuskWsjNX2NF9xe7BRxlIJuBI9m0Op5qHJJQDF2z2OFSGNsWfSe8MvyxwaDGvhGVfWWTl9VBYU5YmbM4VkafFqi9zwU26a1PjQuEFnIDiSSPYU5a1MqIGwueUCbzliz2LT5pphijYrh0URYI7OScV5ES/FlR80UJMPhFxu3NGNJhQuM4yPcoY7PZEHkTTN65bSMp7juvKFuyRPNShXvo74yclQbok4Rnx4h+obmAq3rfQj3TyNcrmyHs/JksLsa0170xyWwXDZfGDHQQ9wkbxeVglF+nhe0Zhc0j+dg6F+nIxjjGMs+NjHUybG4EKg==;kJdf+jmKhrBwYMAXVpUCFQ=="
 ---

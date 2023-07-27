@@ -90,6 +90,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
+    excerpt: "The MoU aims to establish a framework for collaboration and cooperation between India AI and Meta in the field of artificial intelligence"
+    publishedDateTime: 2023-07-27T02:10:00Z
+    webUrl: "https://telanganatoday.com/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 39
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/07/watermarklogo.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
     excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
     publishedDateTime: 2023-07-26T17:52:00Z
@@ -118,15 +132,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
-    excerpt: "The effort will foster social inclusion, improve government service delivery, and spur innovation using large language models, Generative AI, cognitive systems and translation models."
-    publishedDateTime: 2023-07-26T19:04:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech-11037091.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 19
 
 secured: "Ptv9SPo34rtpy1Jp2F/PZ4jPEa8hTREqYQVUq9UQj3icDeqofCkDFhekmY/R2JK4ZLYMj7LR8SO+0e3rbEauqmTVNtaxBkv/jjNAON50XkKlPBmh/dOleNCUTcp+CYLwXtM/PNP2ghndgdRBBxGRQgnAfxFQsnCnQ2NE8yCxixY4bhwIQYqPhqWezdyDU4qYEc+1irpMy+Ei7AO6RBb/AR83niN5wDVg0vdbxklMni+DODYu6/ivpOBoOwr5jtVo8fU+70l0ktw4liHZzTj1lPfu/dmWJb28YHFQUi6YV9TGRbhfC8uAM+3h/waVV48maQPIts4D/zQmKuWQLe532/mwZ9KidhQMdKyI1F9i34c=;6PdF1m+2aPfocURE0atSNQ=="
 ---

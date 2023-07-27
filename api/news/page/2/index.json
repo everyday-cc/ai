@@ -680,6 +680,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-26-artificial-intelligence-ai-and-machine-learning-ml-integration-to-drive-revenue-management-system-market-growth.md",
+      "title": "Artificial Intelligence (AI) and Machine Learning (ML) Integration to Drive Revenue Management System Market Growth",
+      "excerpt": "The \"Revenue Management System Market Forecast to 2028: Global Analysis by Component, Deployment, and Verticals\" report has been added to ResearchAndMarkets.com's",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33386962/artificial-intelligence-ai-and-machine-learning-ml-integration-to-drive-revenue-management-system-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33386962/artificial-intelligence-ai-and-machine-learning-ml-integration-to-drive-revenue-management-system-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33386962",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33386962",
+      "publishedDateTime": "2023-07-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-mediakind-unveils-new-home-for-microsoft-azure-media-services-users.md",
       "title": "MediaKind unveils new home for Microsoft Azure Media Services users",
       "excerpt": "Building on what it says are the more than one billion video streams served in 2022 and 2023, MediaKind has unveiled MK/IO, a complete streaming solution built on Microsoft Azure that is said to be ab",
@@ -688,7 +731,7 @@
       "originalUrl": "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1181,49 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-microsoft-q4-earnings-call-over-one-billion-bing-ai-chat-sessions.md",
-      "title": "Microsoft Q4 Earnings Call: Over One Billion Bing AI Chat Sessions",
-      "excerpt": "Microsoft's latest earnings call revealed insight into ad spending, new AI products, and impressive usage metrics for Bing AI Chat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/microsoft-earnings-call-q4-one-billion-bing-ai-chat-sessions/492571/",
-      "originalUrl": "https://www.searchenginejournal.com/microsoft-earnings-call-q4-one-billion-bing-ai-chat-sessions/492571/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/07/microsoft-earnings-call-64c06a9a2521e-sej.jpg",
-          "width": 3000,
-          "height": 1680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

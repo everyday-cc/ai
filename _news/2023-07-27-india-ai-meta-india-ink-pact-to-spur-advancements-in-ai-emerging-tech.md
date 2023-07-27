@@ -1,22 +1,28 @@
 ---
 category: news
 title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
-excerpt: "The effort will foster social inclusion, improve government service delivery, and spur innovation using large language models, Generative AI, cognitive systems and translation models."
-publishedDateTime: 2023-07-26T19:04:00Z
-originalUrl: "https://www.moneycontrol.com/news/technology/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech-11037091.html"
-webUrl: "https://www.moneycontrol.com/news/technology/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech-11037091.html"
+excerpt: "The MoU aims to establish a framework for collaboration and cooperation between India AI and Meta in the field of artificial intelligence"
+publishedDateTime: 2023-07-27T02:10:00Z
+originalUrl: "https://telanganatoday.com/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech"
+webUrl: "https://telanganatoday.com/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/07/watermarklogo.png"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Indian tech giant Wipro to invest $1B in AI"
@@ -124,6 +130,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ihLR3/Bo8ezIJiOEfHyLjr/VIN35u3ZbqS4E+VuoXj7GUS8NM7uE6ctDeCY5pZAxBqwhLEeYjrJw5H6tEgItZv9xZoaSA8zELyImu8La9G3zWHKInjJT0EF+W9HKxWnQ9+wAQwawvAZyAaP2yoLL653WMY5y/r7BIQMR4fDUMofGKiTFbem99X5UnwaUizHlKNgmy5l3R1Cklw1cI456Ugzh0btdpllGJbVFsvQV51shc+1EN2se3CORMurmrbiT4yFZ563uIryzLYjC4v2wcoV/x1nNZoXpioFHOVHxFztmmKv5kGXAuIQgDXhILw+IGe7rK3Mfuc6qRbXWOsjQgHqCKNIPMXOMwH7DcQ2+58uPGDweB+t7wKfldqu5zF47YrLPAEyyh5xfSr66T3aHTRHueV0cscZmaRLATRpVCStUBXfqczm3V4+3Saw7rez/Zm61dDL8y1Ay45Uv9DJqv4jFjGEBSTAZp91Mh68XCERUEehWR8I9oKZ7EuAcJe6C/XTI/s+herhhX7IgY/wLug==;LoQollW/MlJHAo8077AZww=="
+secured: "b1Ynv2XeaoATG5/nS1KRfe+wn+MEitwwrYbFcQpGiy9S9Ubf7pyPy/5mym+KF4+5MnCvFKOY9bN3bNQJXf7x3w3x1w/6SICU7uyOGg+dmZxJdBeS0C8Vj9Yf8OMvbeXhIaAZfuszHvxdCAK0Gtd+EUBoiDHGQK7tFgyYpZ8auO/4L98jheF7ApR94SaaJkOVoNugzPfcXt3tgeYz+trWXowkYE/l9qxuJUznGgTev4IBVXz/SXyseu7H+Q7miO+1KqeXaOrnIAMVnIa1HNC1nrc3B2+jC0IJXnmS4uDfTBrQQxGbSfD4ZvQwivmF+GWBsVG+Uv6A0qCTrNRb8mVlHnuZ1sQbA8lraCypcNuc/0A=;WfzFlm7jew113qy8iLInEg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-06-17-robot-control-system-market-outlook-future-business-scope-2023-2081.md",
+      "title": "Robot Control System Market Outlook| Future business Scope| 2023-2081",
+      "excerpt": "Jun 16, 2023 (The Expresswire) -- 99 Pages Report: Latest Report of Robot Control System Market 2023 The Global \"Robot Control System Market\"research report [2023-2030] is a valuable resource for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robot-control-system-market-outlook-future-business-scope-2023-2081-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/robot-control-system-market-outlook-future-business-scope-2023-2081-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-researchers-build-working-robot-based-on-ais-design.md",
       "title": "Researchers build working robot based on AI’s design",
       "excerpt": "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production.",
@@ -1148,40 +1200,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-elon-musk-gives-google-a-driving-test.md",
-      "title": "Elon Musk Gives Google a Driving Test",
-      "excerpt": "Waymo didn't immediately respond to a request ... chatbot that has become the face of the progress made by artificial intelligence. \"Three million cars will drive themselves with no one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-gives-google-a-driving-test",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
+    excerpt: "The MoU aims to establish a framework for collaboration and cooperation between India AI and Meta in the field of artificial intelligence"
+    publishedDateTime: 2023-07-27T02:10:00Z
+    webUrl: "https://telanganatoday.com/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 39
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/07/watermarklogo.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
     excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
     publishedDateTime: 2023-07-26T17:52:00Z
@@ -115,15 +129,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
-    excerpt: "The effort will foster social inclusion, improve government service delivery, and spur innovation using large language models, Generative AI, cognitive systems and translation models."
-    publishedDateTime: 2023-07-26T19:04:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech-11037091.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 19
 
 secured: "9BDfZwCwU5yS9WI3lns2FPyJ6dHmKqMEl079YLthcB1xNQahTtOxgiUVafBzjAC20hQJ2xB3qVkYsJc1ARQREM+VNV67SyZKZZN7wd/nauwkP2LRhVpT7MPEJ3aFNn4htEQxe8/QvCT6N4m+pjL7iussalxE1jksOWRC0xScY8xj4PnOiDu/ckzWfxXT7ne/exqfpg+MGh6pSHPZI8gqjNkQHQDDeKQDVtzZhK1vQCu5Nde0+gtmw1cDKo5VAnDYIDKsdTU1KIcVHlI5UZu4YNkdN0MzmmHrPsSk+V2S9K5kF+C2wzxHi1xGcY3Na7j0YfPE88inY0POwzwxyvgRf0Zm//WoOGpdYD1CUEY9VtnvEbHCI8CNXwHzGHtej71jmuUHwjJPJ9ZE0yu9IShoCbU7XENWRKVH0coAj8ETwhQU/y0BCx2YWoy4QQ1ndPH7sxIM5+KLMOUqom+8ka6Hu/G6RCr/r2XurhFrYyn7IuuABRw5cY5kOMME6XTso42ANUSlXYzvurUoFmCL0yBiMQ==;iXResYHqffM4qxORJhsUbw=="
 ---

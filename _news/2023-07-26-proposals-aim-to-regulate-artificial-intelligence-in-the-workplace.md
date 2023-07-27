@@ -2,26 +2,26 @@
 category: news
 title: "Proposals aim to regulate artificial intelligence in the workplace"
 excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
-publishedDateTime: 2023-07-25T21:19:00Z
-originalUrl: "https://www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/"
-webUrl: "https://www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/"
-ampWebUrl: "https://www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/?outputType=amp"
-cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/?outputType=amp"
+publishedDateTime: 2023-07-26T04:43:00Z
+originalUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
+webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
+ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
+cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: WHIO
-  domain: whio.com
+  name: WOKV
+  domain: wokv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/FsihmC1tdsbGu5cej3mYp3hIEt0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/B2YR7DZMJ5EHNLKKCTFKMJZT3M.jpg"
+  - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -62,6 +62,6 @@ related:
       domain: axios.com
     quality: 19
 
-secured: "F3k43YUVK5+uWVjcxyGrqjUDWi44jpSUiTny8fYe5QLiTxO25DLZLgxcHbiZqv50csukBpvH5Ylss/rERkPVvOiUyJEaTs9b6WktVh+7FUrXnQ8A+IDQfQlTyU67qtTQr0VNsmfe04X8gOYsivEJ3W5O2RqZkDqaxQSiwYXB5rqgucDa2rNW2Yi+rJ3Ts6UixCn70OneymIlpLdJjtVRVM1SQvFWS+Ieyzc/Tc/7qgs0JOCDGTionOchyeVtaV7ZVvCbVQoUaXtAGOmMYPd+qg8TPUTsexDPcTBcuw5xzODGc+OZ4E9KrfjoIIa2S9e3y5boKaA8dYE2NUYnBzCcw2jLlOhI8Sg7rJc/qo0WK1g=;Hd/wMGEj5bRFvLINXSaDbA=="
+secured: "ocmixvxATw0fEVe1n0mfQFFPpww0pF4/uqCMH62e6vqVi6I/YV9BPw7TDC9W2kDWmu3LN1grB9jqkhmdxkfYafiWE+oGZ3ER3iQpT2cRS1gyU1YHLfRiAKv3wTUxNrkCIb0ppDU2TB05eKSvcagxBbkEOZPL4+R5l1xlNxtKejcUN+BthmdSKRD6M6TSZ6EdokE29UVV4y14h1HzYcM17IjR2dsuLj71DhhZUiE9oe89dZljO/kahSJtI+1BkwDiaaDFJt7NHrWUB+YG2+Q0alTwXFY90XafQ0WdISAPDRoTGCUlIktDVbRrXf5Y4wHubVTF2CRADLGVDH1XE3ZuIJbNbOJbRk2ehBW+XVk28Us=;A7uTw/TJLoiiNuF03PuGPw=="
 ---
 

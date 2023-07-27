@@ -7,8 +7,8 @@ originalUrl: "https://financialit.net/news/personal-finance/personal-finance-app
 webUrl: "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Financial IT
@@ -38,6 +38,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Leaders in Lending | Ep. 119: Partnering with a fintech to diversify in challenging times"
+    excerpt: "Providing fair access to credit in consumer lending is at the forefront of all financial institutions today — and tech is here to make that possible."
+    publishedDateTime: 2023-07-27T03:00:00Z
+    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-119-partnering-with-a-fintech-to-diversify-in-challenging-times/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 15
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "hIGyCzuMEV/Hebkyg4C3HYGwOvGwKXrAT+DSozWOV9zwgjE1WsZ3FP/5tR0ijS1K3tmv3h/mQmKv8fT02pGgodoydQuja/FJAxWwTWIPIM3/FqPfMkRU+oUgP2dXwcm8uisw8LJacz1jDrk7cnWAmI5OyWdO8Uls6viUgE6n+922jwwaL2ldWV6hm5cdNjMCG6IH5bR14KvE3ocgty4/hHhn6b8z2bprtkQRgTWqpae+Ntuq3KKoObc3g/MfNDtobw/c9Z5DHZfVIEOVgG18dFYWSrTeusQbeARnTaSw2h8Gl+S/f98pPcyR9+QTlqeRCpDxhLjaarukDAn3lXwqcajENitPgDhoyXDTo+UrOzZhAfsIbW4mnZt4DkKKKe4FnaAVFiKvUz7UBiTe+lCQVeKiM9PoWV9LkPXXu/8jeMtW4XMpSCnUZ8ER3dkmXYDFde6Z+x0Eq4XvMfh9dsaLV0FDyqt6hglXrh7uXhjjGnmdu1ZgiXiU3044p+OS1auVZO+PSkrXHfwR7kU3Zlyfyg==;BCln2PjH5fwH30fcOsI2bg=="

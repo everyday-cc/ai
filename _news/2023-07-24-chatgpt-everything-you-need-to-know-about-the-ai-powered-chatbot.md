@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 351
+heat: 341
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Please Stop Asking Chatbots for Love Advice"
-    excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
-    publishedDateTime: 2023-07-22T11:00:00Z
-    webUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/"
-    ampWebUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/please-stop-asking-chatbots-for-love-advice/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/64bacf7ec859c4a1cdecc48a/master/pass/Please-Stop-Asking-Chatbots-for-Love-Advice-Gear-GettyImages-1079532396.png"
-        width: 2400
-        height: 1800
         isCached: true
   - title: "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools"
     excerpt: "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google"

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-17-ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue.md",
+      "title": "AI-driven personalization-at-scale: The key to boosting fintech customer engagement and revenue",
+      "excerpt": "Learn how top fintechs are delighting customers and building strong relationships with AI-enabled platforms and data sources in this VB Spotlight. Register to watch free on-demand! “There’s a direct correlation between customers loving your products ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
+      "originalUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_155767679.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
+      "publishedDateTime": "2023-05-17T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-chatgpt-and-generative-artificial-intelligence-in-finance.md",
       "title": "ChatGPT And Generative Artificial Intelligence In Finance",
       "excerpt": "Drew Spaventa is the founder and CEO of The Spaventa Group, a leading investment company.",
@@ -1332,40 +1384,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-analytixinsight-reports-2022-financial-results-provides-corporate-update-and-reports-marketwall-q1-2023-record-financial-results.md",
-      "title": "AnalytixInsight Reports 2022 Financial Results, Provides Corporate Update and Reports MarketWall Q1 2023 Record Financial Results",
-      "excerpt": "InvestoPro momentum is now building and MarketWall has posted record breaking financial results for the first quarter of 2023 on the back of the new recurring revenue license agreement with our bank partner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

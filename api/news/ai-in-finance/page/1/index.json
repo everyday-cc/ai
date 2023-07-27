@@ -237,6 +237,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-personal-finance-app-totallymoney-partners-with-bud-financial-to-launch-ai.md",
+      "title": "Personal Finance App TotallyMoney Partners with Bud Financial to Launch AI...",
+      "excerpt": "As spiralling interest rates and inflation threaten to push ever wider swathes of UK consumers deeper into financial discomfort and distress, leading fintech experts and tech-savvy lenders empower millions of consumers to unlock holistic financial data to gain fairer access to the right financial products.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered",
+      "originalUrl": "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_2_16.png",
+          "width": 900,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers.md",
       "title": "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers",
       "excerpt": "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million.",
@@ -1328,50 +1371,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-advanced-ai-threatens-banking-security-systems.md",
-      "title": "How advanced AI threatens banking security systems",
-      "excerpt": "The future of payments promises to transform the fintech world as traditional friction barriers begin to disappear. Amid this innovation, concerns arise: could",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
-      "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-06/GettyImages-1490261842.jpg?itok=msI7us6j",
-          "width": 1200,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Banking",
-        "domain": "centralbanking.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
