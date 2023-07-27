@@ -47,20 +47,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "A Research Team Plans to Merge AI with Human Brain Cells"
-    excerpt: "A group of researchers in Australia have been awarded just over $400,000 (USD) in government funding to study the possibilities of merging AI with human brain cells, a research project likely to bring a number of AI-related ethical and existential questions to the fore."
-    publishedDateTime: 2023-07-24T14:57:00Z
-    webUrl: "https://tech.co/news/merge-ai-with-human-brain-cells"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/24101043/imgonline-com-ua-resize-I7B8Yq8jRlR4.jpg"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "rKs3KV112iIOLONa6L4g0eHJ7KIrQBXyCdBSoyS7C7YCaa14td9LHAFe75D9FQrsG0thsaEBqT+pWHHi8/0nXxTskemQgg1pmsRR8nmesRJgZOvJHQmz8HrgDP11nrN9CDrwXCGW9KXOkr4NnUT0Xt3mtLAj11M/n8ne8Ucv2sob3VP2KR/NWbjaDB5nePYI7ueYolpp2Ssaisni/YwmLOWaHdIgcewxFNc61S7jHk4t0gt1NlvxJQE6fXxGllED1HQ1p6Oe8ouBwHGnrN6D+lmR/V/LRaYR8946vgBV0R2J9PpS/fyAxe1JNbAFE7kdGzEsm+5RdNYvU1Pi4aGTVlZvoygFe1lPn5njfutkra1/MKQl30DL9tg9IPmdhEYsFgu7OrgD8U6r3J0mz9c71dCv5iuPjpCMsTVqGZhBHABfQKL2CtfFbfcUbhNCXR8y8QbveTe7ZiAxtEpfYd9wWpjaZwrI9mRTdMmJC8+K4wx1P+1MRVjpFQbfHqMBr0vk33CRzEFSA//bgic0IHpfQA==;FL6BRsjuywMsfw1p8KNc4g=="
 ---

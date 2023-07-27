@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intellig
 webUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: The Motley Fool
@@ -30,19 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions"
-    excerpt: "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI."
-    publishedDateTime: 2023-07-22T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628"
+  - title: "Missed Out on Nvidia's Surge? Buy This Cheap AI Stock Before It Doubles."
+    excerpt: "The chipmaker's price-to-sales ratio stands at a whopping 44, while its trailing earnings multiple is 237. Investors may not be comfortable buying Nvidia at such expensive multiples despite the terrific growth that the chipmaker is expected to deliver."
+    publishedDateTime: 2023-07-23T11:15:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
     images:
-      - url: "https://images.wsj.net/im-821616/social"
-        width: 1280
-        height: 640
+      - url: "https://g.foolcdn.com/editorial/images/740433/person-holding-a-smartphone-with-a-stock-chart-on-screen.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "Nvidia Investors Need A Reality Check, Focus On Risks Facing Global Chip Industry: FT"
+    excerpt: "For instance, when a new iPhone is launched, it requires a massive order of high-end chips. Currently, there’s an oversupply of chips, which hides potential risks. Furthermore, Nvidia’s chips are also crucial in the gaming and crypto sectors, which adds to the competition for chip supply."
+    publishedDateTime: 2023-07-26T04:17:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33383070/nvidia-investors-need-a-reality-check-focus-on-risks-facing-global-chip-industry-ft"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33383070"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33383070"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_Stock_7.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Elon Musk claims Tesla will spend \"well over\" $1bn on Dojo supercomputer, alongside Nvidia GPUs, for \"100 exaflops\" of AI"
     excerpt: "Tesla CEO Elon Musk claimed that the company will spend more than $1 billion over the next year on its Dojo supercomputer. The supercomputer uses the custom Dojo D1 chip architecture designed by the automotive company for training self-driving vehicle systems."
@@ -58,20 +74,6 @@ related:
         width: 750
         height: 395
         isCached: true
-  - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
-    excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
-    publishedDateTime: 2023-07-24T11:04:00Z
-    webUrl: "https://paultan.org/2023/07/24/tesla-in-talks-to-license-autopilot-full-self-driving-autonomous-tech-to-major-automaker-elon-musk/"
-    type: article
-    provider:
-      name: Paul Tan
-      domain: paultan.org
-    quality: 39
-    images:
-      - url: "https://paultan.org/image/2023/07/2023-PT-EVx_Tesla-Model-Y_Int-3-1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
     excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
     publishedDateTime: 2023-07-25T01:30:00Z
@@ -86,24 +88,6 @@ related:
         width: 5557
         height: 3111
         isCached: true
-  - title: "Elon Musk Launched His Own AI Startup—Here’s Musk’s Net Worth"
-    excerpt: "Tesla CEO Elon Musk announced his latest startup, xAI, which will focus on artificial intelligence. Musk is the richest person in the world as of July, thanks to the companies he leads including Tesla,"
-    publishedDateTime: 2023-07-22T12:00:00Z
-    webUrl: "https://www.investopedia.com/elon-musk-launched-his-own-ai-startup-heres-musks-net-worth-7562899"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 17
-  - title: "Experts Explain the Issues With Elon Musk's AI Safety Plan"
-    excerpt: "Musk's has positioned his latest venture, xAI, as a rival to ChatGPT and Google. But there are a few fundamental problems with his underlying strategy."
-    publishedDateTime: 2023-07-22T12:00:00Z
-    webUrl: "https://www.thestreet.com/technology/expert-explains-the-issues-with-elon-musks-ai-safety-plan"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
 
 secured: "rwpHdQbpBQePEFpUz/fTzuj1a3PHHiTtSCUtebnof4BEB+RnFGSKxlco0QjNCf/7j4LyVGvc8mNr5UlhK16qa1/m5o3C4JKdgKUc+8XDpbR1iHtqA71IP/9jGpGR3CW2tSmrqFSC8l3VBgG95o1k+ZNyvSJnk6sj+dhXpqTWa4hnjwPk8dWM2p4gJLIe3KGzfWouQUeFMAEfVhX5rZtTpoYOZbiIIIH4BC5kUNE9UqBHxDENbUD6pDo/IWniNJNBqG48z3BQqVrJJ3dLF2+F9ZRd4hqWzFgaYxcbRZRV/RIv9ZGu55ESzlplX2jsJtTHg2joUwJvjmKgP2rRlosDcawF3f4DobGx/tRSgajwywGFgubImvtQJdHIPme2bZi7t7/u0YWMhky3jOfrTR/e1sFiQdOPPTQCRWoYJHUH5feTkT+XYZi6iBmP3bn8vrmsPtLcUXGPveZDHvHUKh0O/6fibnqnrIiLgiZ74w9zbqO8lcYh/TJ9PhfdcwhUjgVimKp0ZDmBoQ+odeuIwIgeDA==;PyrCwO/NR2mtdR1jsEjqhQ=="
 ---

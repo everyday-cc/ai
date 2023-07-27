@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.co.uk/researchers-train-artificial-intelligenc
 webUrl: "https://www.ibtimes.co.uk/researchers-train-artificial-intelligence-help-detect-breast-cancer-1717989"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,63 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "AI: Researchers train artificial intelligence to help detect breast cancer"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that may help doctors detect cancer. The researchers from Cardiff University say it could help improve the accuracy of medical diagnostics and could lead to earlier breast cancer detection."
+    publishedDateTime: 2023-07-25T12:35:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-66298998.amp"
+    ampWebUrl: "https://www.bbc.com/news/uk-wales-66298998.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-66298998.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 100
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/495C/production/_130508781_gettyimages-917730078.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AI tools pose threat to research ethics"
+    excerpt: "Among the various impediments to the integrity and sanctity of academic research perhaps the most perilous as well as unprecedented challenge is the emergence of Artificial Intelligence (AI) tools like ChatGPT."
+    publishedDateTime: 2023-07-27T01:15:00Z
+    webUrl: "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html"
+    ampWebUrl: "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 74
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/11/AI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "A Research Team Plans to Merge AI with Human Brain Cells"
+    excerpt: "A group of researchers in Australia have been awarded just over $400,000 (USD) in government funding to study the possibilities of merging AI with human brain cells, a research project likely to bring a number of AI-related ethical and existential questions to the fore."
+    publishedDateTime: 2023-07-24T14:57:00Z
+    webUrl: "https://tech.co/news/merge-ai-with-human-brain-cells"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/24101043/imgonline-com-ua-resize-I7B8Yq8jRlR4.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "How AI could help detect wildfires earlier"
+    excerpt: "The big picture: Currently, at least seven states use AI detection to monitor wildfires, including California's Department of Forestry and Fire Protection (CalFire) and Arizona's Salt River Project."
+    publishedDateTime: 2023-07-24T20:57:00Z
+    webUrl: "https://www.axios.com/2023/07/24/ai-wildfires-early-detection"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "imBhS8dbcyVyvUacBgqc2PK27BVk1BlF0CWb16SJ3Jas8yX+s50uHNAQU/qHBbHsb0UDsIzSp6lH+ly5LAdlV6t7IZx7wxjP3dcmj75ODsCCh0/dAWrNlHUgpWWxTR+8vXqOS8Eki3fcr5itHNk/beJXgCnLmzExx20bEgD9mB78CBdYp3YQLHcwwZF94rfqNwuy1frHlPtEhF9rzRhylP3a8CfxCCtW+40zIJhCXTsYgQu6wTosyX9UCAk3c5ZGGnUh6FJPtx4NCm3rTFYCUSw3pjss6zVpvzG1rsacPSBKwzZixeNw8CRM+0v9sy/g/BTNOU5W38llfSrXG7N3h6trEwmLO3hEuhIlx0jdkPkDTztuZMfaKdFKuVYMIpc5s/+Pov3h9cF9oTPA3QoAQX9SWCx/hYmdSj86qBtTYK/DJnVLXDQeuOI07ulY0+WKwHO45lHTT2X9EHVqe1+6FqZWcdTc2Q+OW+Cjm7afFCna2Hdz/SfJXaN7b8CkkjrTVWp3GiN9iGHpIKK5sn37TA==;+bB6r1+aWG/HNkUNuDl2zA=="
 ---

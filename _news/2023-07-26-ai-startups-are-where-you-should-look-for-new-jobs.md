@@ -70,15 +70,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How AI could help detect wildfires earlier"
-    excerpt: "The big picture: Currently, at least seven states use AI detection to monitor wildfires, including California's Department of Forestry and Fire Protection (CalFire) and Arizona's Salt River Project."
-    publishedDateTime: 2023-07-24T20:57:00Z
-    webUrl: "https://www.axios.com/2023/07/24/ai-wildfires-early-detection"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "igCeyGBMrzdTTWw6MUU/R0wusE+AzfhzECc5Zk0FOUZvvMMwQOplD6a1jWD0/+6Wl6cN+HpdoW+vNuKZzZvhXO8w77Ig2QCO74kF7dNGlIXPgHdz9fkym49HvHeWsarErt4V2Jv3NqhzKb9+JD1H9NcWhx18uHneFUPrLN1eL79YMLMCv5pUfeKuwbWR4khdzxneNsykiVl+bTiI47hScv7hHzE1Mp67VpAE9N4qGAaglVM0FLGOCePO/hkvvDan8P/spq+SOm6GueCtBXIrXWHfpUABIXs9uiFkH5T7k9L1byKWY5VnpBssL4XVZn14IEv8BPgD7k6QTS0Xjz6YurMwn0+5I5ppSCAmS4rY61J8+F++nHfuYnasSi19+aHVvC3yCT4KSjg9pQ7zn5b79DTxYiDUsu/wRV2esho/Py4rbQeE0ZRNjdUe/RYckLsErVCINXSODw9EWjlzJaAvl/0gGGMtRF4FZWH+N2BgicFO0Ipg7zzC0xkWjQgSWc9YnG46S8y4bTSCDf1XCAwTNQ==;4HFKSYYtyD/pPhz/B7ZNpw=="
 ---

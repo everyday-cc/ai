@@ -18,29 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Missed Out on Nvidia's Surge? Buy This Cheap AI Stock Before It Doubles."
-    excerpt: "The chipmaker's price-to-sales ratio stands at a whopping 44, while its trailing earnings multiple is 237. Investors may not be comfortable buying Nvidia at such expensive multiples despite the terrific growth that the chipmaker is expected to deliver."
-    publishedDateTime: 2023-07-23T11:15:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/"
+  - title: "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service"
+    excerpt: "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article."
+    publishedDateTime: 2023-07-26T13:33:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740433/person-holding-a-smartphone-with-a-stock-chart-on-screen.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
-    publishedDateTime: 2023-07-25T00:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
+  - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
+    excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
+    publishedDateTime: 2023-07-25T03:43:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33359165/competition-for-nvidia-this-chipmaking-startup-introduced-game-changing-ai-supercomputer"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33359165"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359165"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_intelligence_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
     excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
     publishedDateTime: 2023-07-26T08:45:00Z
@@ -55,6 +62,29 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
+    excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
+    publishedDateTime: 2023-07-25T14:18:00Z
+    webUrl: "https://siliconangle.com/2023/07/25/nvidias-dgx-cloud-platform-now-available-offering-instant-access-generative-ai-infrastructure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/NVIDIA-DGX-Cloud-Image.jpg"
+        width: 1260
+        height: 680
+        isCached: true
+  - title: "Amazon launches program for startups using AI, climate computing"
+    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "2gsQNwXygQaWq8gqoBMh8yVsrCWcv8HyVwpirRJGpAnaHTSaimMPcPGnOvg8u1MM3xIiBFaUnsOFxe3ZYuc3AnyT70s8pN89is3P0eXUPYWT/Y6bb6b+JGV9rd/ceF0+gwYLbP3Ad7ZXpCsx+8MhPw+7i5z0pL9rpdJky0IIzMYj1xEaummylOd8hGxFixbTLwGYzgw/PN8uzq9pLQgwjcmYdxP+GXfHFuF1XUf/uFJU8YgpUt9qiQum7w9ZAnBY4VdcApVeVs5vmX8qeyiss12QERVY7E8G5NHHXlQrPGf1sZZY4Nn6k3TLZiVHi3MWxL1v4t8I3s+EF/U/78sFPnpxDhMobixFz9tN8grG0L4=;P3PCwW/FBd4myCR/UB1peA=="
 ---

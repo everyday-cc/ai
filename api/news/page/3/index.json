@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-26-ge-healthcare-ceo-on-advances-in-alzheimers-treatment-a-breakthrough-moment-for-patients.md",
+      "title": "GE HealthCare CEO on advances in Alzheimer's treatment: 'A breakthrough moment for patients'",
+      "excerpt": "GE HealthCare CEO Peter Arduini discussed his company's role in Alzheimer's treatment with CNBC's Jim Cramer on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107253594-1686246162711-gettyimages-1418953592-vcg111398371069.jpeg?v=1690327099",
+          "width": 5310,
+          "height": 3540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "publishedDateTime": "2023-07-25T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system.md",
+      "title": "Make The Doctor’s Office Fair! AI Can Help Create A More Equitable Healthcare System",
+      "excerpt": "Bringing a level of scrutiny to AI processes in healthcare, Marzyeh Ghassemi has some solutions for harmful bias in systems that, as a society, we want to root out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c033dd228eb00488105e80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "publishedDateTime": "2023-07-25T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer.md",
       "title": "Stop Crashes! Using AI To Predict Car Crashes, And Make Roads Safer",
       "excerpt": "“Imagine you put the world's safest driver and the world's best vehicle on our roads,” he said. “There's an inherent level of extrinsic risk caused by other vehicles, caused by the nature of the road geometry, and topology.”",
@@ -61,7 +165,7 @@
       "originalUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -454,7 +558,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -904,6 +1008,59 @@
       ]
     },
     {
+      "path": "_news/2023-07-25-nvidia-stock-investors-should-love-what-elon-musk-said-on-teslas-earnings-call-about-ai.md",
+      "title": "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI",
+      "excerpt": "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg",
+          "width": 2314,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-the-us-is-headed-for-a-roaring-economic-boom-thanks-to-ai-robots-quantum-computers-market-veteran-ed-yardeni-says.md",
       "title": "The US is headed for a roaring economic boom, thanks to AI, robots, quantum computers, market veteran Ed Yardeni says",
       "excerpt": "\"I think that by the end of the decade we'll look back on it and say, it started out awful, but it ended up awfully good.\"",
@@ -999,6 +1156,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-25-ai-researchers-train-artificial-intelligence-to-help-detect-breast-cancer.md",
+      "title": "AI: Researchers train artificial intelligence to help detect breast cancer",
+      "excerpt": "Researchers have developed an artificial intelligence (AI) system that may help doctors detect cancer. The researchers from Cardiff University say it could help improve the accuracy of medical diagnostics and could lead to earlier breast cancer detection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-66298998.amp",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-66298998.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/495C/production/_130508781_gettyimages-917730078.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-wales-66298998.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-66298998.amp",
+      "publishedDateTime": "2023-07-25T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm.md",
       "title": "IBM named a leader in ESG reporting and data management software by independent research firm",
       "excerpt": "Independent research firm Verdantix recently identified IBM as a leader in their report, &#8220;Green Quadrant: ESG Reporting and Data Management Software&#8221; (July 17, 2023), which evaluated and provided a detailed assessment of solution providers and their product offerings. The rigorous analysis",
@@ -1038,215 +1246,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-the-generative-ai-battle-has-a-fundamental-flaw.md",
-      "title": "The Generative AI Battle Has a Fundamental Flaw",
-      "excerpt": "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp",
-      "publishedDateTime": "2023-07-25T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-goodbye-to-graphics-how-gpus-came-to-dominate-compute-and-ai.md",
-      "title": "Goodbye to Graphics: How GPUs Came to Dominate Compute and AI",
-      "excerpt": "TechSpot is celebrating its 25th anniversary. TechSpot means tech analysis and advice you can trust. When you buy through our links, we may earn a commission. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
-      "originalUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/articles-info/2702/images/2023-07-24-image.jpg",
-          "width": 3213,
-          "height": 1806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-how-decentralized-networks-reduce-the-ai-costs.md",
-      "title": "How Decentralized Networks Reduce The AI Costs",
-      "excerpt": "This untapped potential provides a remarkable opportunity for AIGC. As an illustration, an AI startup based in New York could dispatch its training tasks to servers located in the Middle East. By doing so, the aggregated costs, encompassing server expenses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfa27ae60700645ff13678/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
-      "title": "Is This AI and Robotics Chip Stock a Buy Now?",
-      "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg",
-          "width": 3372,
-          "height": 1809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

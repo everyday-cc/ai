@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-26T22:57:00Z
 originalUrl: "https://virtualizationreview.com/articles/2023/07/26/microsoft-meta-ai.aspx"
 webUrl: "https://virtualizationreview.com/articles/2023/07/26/microsoft-meta-ai.aspx"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"

@@ -209,6 +209,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 59
+  - title: "Microsoft Cozies Up to Meta on AI, Maps"
+    excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
+    publishedDateTime: 2023-07-26T22:57:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/07/26/microsoft-meta-ai.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 56
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Viatel Technology Group launches secure AI tool for Microsoft Teams"
     excerpt: "Viatel Technology Group has revealed that they have introduced their latest innovation, a secure Artificial Intelligence (AI) tool called vAI for Microsoft"
     publishedDateTime: 2023-07-24T15:46:00Z
@@ -236,20 +250,6 @@ related:
       - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O0X3-BASEIMAGE.jpg"
         width: 800
         height: 534
-        isCached: true
-  - title: "Microsoft Cozies Up to Meta on AI, Maps"
-    excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
-    publishedDateTime: 2023-07-26T22:57:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/07/26/microsoft-meta-ai.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business and spending"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month \"Copilot\" for its Microsoft 365 service that can summarize a day's worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."

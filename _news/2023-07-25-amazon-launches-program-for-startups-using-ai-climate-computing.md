@@ -48,6 +48,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
+    excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
+    publishedDateTime: 2023-07-26T08:45:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/109301/nvidia-lets-customers-rent-ai-supercomputer-with-dgx-cloud/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
     excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
     publishedDateTime: 2023-07-25T14:18:00Z
@@ -62,6 +76,15 @@ related:
         width: 1260
         height: 680
         isCached: true
+  - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
+    excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
+    publishedDateTime: 2023-07-26T15:29:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startup-cerebras-takes-nvidia-ai-supercomputer"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 17
 
 secured: "D0H6Ch4haWlh2q+MBG/PfUIY/Z1SupGGtQNP3AXW+alX0/pV7rJvK3oBtq7SqaG/ePgB/hKQyucnoIZi0JorwYgBH2RHeXRRONvaqjkpfrsh3+7mIGTb6Ic4MrV4TOO4a0ifmJkIo1IbbJqhicPLX+56pxXvFo2MR70s6PMb0maYa/LWCqiUV63xn9SaRM4KPzfwkZOzdFwcX2NBWikQTcOzc/KILT/FlqNBhqjr+bk2q+gD665x6TrQaT7SoHKNyhtdSyeHbU4TkWKBBms2hoEn0IaTnCqN/s9BxOT5l977VabZ6+w9maCHLaQaVgtY13xf0EFaCr5s5gGy6agOXja0EVxZoTXDCnkLY2OFw/NoSo7RK5PhS1HBwVxHrKmJDO+WcCn2vH9q5dZHE4FTj6DXZn6b4DGqQS7CSb0Qmt26j7k+u4CZfiOjDxzrkISvVQtrv3ZFdHVWr9IdiYsZuuGYJ68DNsQzNRaViZuRiDgztihCsMFNm3/kX1EQxEay7lMR8N11nULBtyvZ8oq52w==;mRW9zQiuzoVmOpeQsMqYvw=="
 ---

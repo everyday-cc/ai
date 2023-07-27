@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-24-study-explores-the-use-of-deep-learning-algorithm-to-detect-occlusal-caries.md",
-      "title": "Study explores the use of deep learning algorithm to detect occlusal caries",
-      "excerpt": "A diagnostic study on the detection of occlusal caries from a clinical photograph using a deep learning algorithm will be presented at the 101st General Session of the IADR, which will be held in conjunction with the 9th Meeting of the Latin American Region and the 12th World Congress on Preventive Dentistry on June 21-24,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/992913",
-      "originalUrl": "https://www.eurekalert.org/news-releases/992913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk.md",
       "title": "Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK",
       "excerpt": "For data scientists, moving machine learning (ML) models from proof of concept to production often presents a significant challenge. One of the main challenges can be deploying a well-performing, locally trained model to the cloud for inference and use in other applications. It can be cumbersome to manage",
@@ -1365,6 +1331,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-the-week-in-ai-apple-makes-machine-learning-moves.md",
+      "title": "The week in AI: Apple makes machine learning moves",
+      "excerpt": "So until an AI can do it for you, here’s a handy roundup of the last week’s stories in the world of machine learning, along with notable research and experiments we didn’t cover on their own. It could be said that last week,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
+      "originalUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Apple-Vision-Pro-WWDC-21-1.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/amp/",
+      "publishedDateTime": "2023-06-15T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

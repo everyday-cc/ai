@@ -58,6 +58,20 @@ related:
         width: 600
         height: 424
         isCached: true
+  - title: "Venture Firm Debuts $150 Million Fund for Indian AI Startups"
+    excerpt: "Indian venture capital firm Together Fund announced a $150 million early-stage fund to back AI companies, aiming to capitalize on use of the technology in the software-as-a-service market."
+    publishedDateTime: 2023-07-26T23:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivo01YXH040Y/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
     excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
     publishedDateTime: 2023-07-26T16:04:00Z

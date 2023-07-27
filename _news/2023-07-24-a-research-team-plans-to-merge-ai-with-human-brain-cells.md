@@ -25,43 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers move to merge artificial intelligence with human brain cells"
-    excerpt: "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence."
-    publishedDateTime: 2023-07-24T11:03:00Z
-    webUrl: "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html"
+  - title: "AI: Researchers train artificial intelligence to help detect breast cancer"
+    excerpt: "Researchers have developed an artificial intelligence (AI) system that may help doctors detect cancer. The researchers from Cardiff University say it could help improve the accuracy of medical diagnostics and could lead to earlier breast cancer detection."
+    publishedDateTime: 2023-07-25T12:35:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-66298998.amp"
+    ampWebUrl: "https://www.bbc.com/news/uk-wales-66298998.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-66298998.amp"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 57
+      name: BBC
+      domain: bbc.com
+    quality: 100
     images:
-      - url: "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png"
-        width: 1500
-        height: 944
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/495C/production/_130508781_gettyimages-917730078.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Brain on a Chip: Research team bags grant to merge brain and AI"
-    excerpt: "This transformative project aims to grow human brain cells on silicon chips, creating remarkable capabilities in the realm of machine learning."
-    publishedDateTime: 2023-07-22T11:22:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-on-a-chip"
+  - title: "AI tools pose threat to research ethics"
+    excerpt: "Among the various impediments to the integrity and sanctity of academic research perhaps the most perilous as well as unprecedented challenge is the emergence of Artificial Intelligence (AI) tools like ChatGPT."
+    publishedDateTime: 2023-07-27T01:15:00Z
+    webUrl: "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html"
+    ampWebUrl: "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 74
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/22/image/jpeg/3OZ6p46Khs3mWIlC1CvBjv22qTs7kVRuXt4op969.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/11/AI.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Scientists Working on Merging AI With Human Brain Cells"
-    excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
-    publishedDateTime: 2023-07-23T12:32:00Z
-    webUrl: "https://futurism.com/the-byte/scientists-working-merging-ai-human-brain-cells"
+  - title: "Researchers train artificial intelligence to help detect breast cancer"
+    excerpt: "With the support of AI detection, there will be improvements in the accuracy of medical diagnostics as well as earlier breast cancer detection."
+    publishedDateTime: 2023-07-26T12:40:00Z
+    webUrl: "https://www.ibtimes.co.uk/researchers-train-artificial-intelligence-help-detect-breast-cancer-1717989"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 34
+  - title: "How AI could help detect wildfires earlier"
+    excerpt: "The big picture: Currently, at least seven states use AI detection to monitor wildfires, including California's Department of Forestry and Fire Protection (CalFire) and Arizona's Salt River Project."
+    publishedDateTime: 2023-07-24T20:57:00Z
+    webUrl: "https://www.axios.com/2023/07/24/ai-wildfires-early-detection"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "EVNMyy/OiXBVI9gdpldSRnKZUPocl+Wc+i7159Ra9FN3qob89s2TBUNeYianM8o22cAWSjxJHoETV0mlmXnq4656Z4LYm8NRPWhXJS6ri00+eodTvigv3KNg+NKO2CFCeD+NFCJ6xPrUgMjMd7nGesg9yOg/wh3Lp4nPvdSbeNnA3FX4oUJVPO7NJx+b1OD8bSJazyf/bE2kir/mp+2S0SnLxxvR16AiUqAHO9q2y8gqRF7d7aBitRDJWUnEgEJYMOHDU8QJDh28Xvc8Fh9sAYn0+jyR6s5TTTavVnwfrr1OfMTsPOqyf0rHaOHlR//ub1xU8ldmV09ALgHibPRuQS2aS2dbqTAKSI9sORwIy5o=;IWbGyxold3YLv7gRBt3VQA=="
 ---

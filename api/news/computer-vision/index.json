@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-26-a-painting-newly-attributed-to-raphael-by-ai-facial-recognition-goes-on-view-for-the-first-time.md",
+      "title": "A Painting Newly Attributed to Raphael by A.I. Facial Recognition Goes on View for the First Time",
+      "excerpt": "A painting of the Madonna and child is on view in the U.K. city of Bradford after A.I. determined it was the work of Raphael.",
+      "sourceUrl": null,
+      "webUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
+      "originalUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p-news-upload.storage.googleapis.com/2023/01/de-brecy-raphael-comparison.jpg",
+          "width": 1194,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
+      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
+      "publishedDateTime": "2023-07-26T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Artnet",
+        "domain": "artnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales.md",
       "title": "The ESRB Wants To Use ‘Facial Age Recognition’ AI Tech For Game Sales",
       "excerpt": "Apparently we have come a long way from when I used to have to ID kids buying M-rated games when I worked as a cashier at Best Buy. The ESRB is now pitching the FTC on new technology called “Privacy-P",
@@ -1285,40 +1328,6 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-tsa-to-expand-facial-recognition.md",
-      "title": "TSA to Expand Facial Recognition",
-      "excerpt": "Based on the success and early results of its pilot program, the Transportation Security Administration (TSA) plans to roll out facial recognition at security checkpoints in 400 more airports in the coming years, Fast Company reported. It’s a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.travelpulse.com/news/airlines-airports/tsa-to-expand-facial-recognition",
-      "originalUrl": "https://www.travelpulse.com/news/airlines-airports/tsa-to-expand-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TravelPulse",
-        "domain": "travelpulse.com",
         "images": null,
         "publishers": null,
         "authors": null

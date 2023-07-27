@@ -149,6 +149,59 @@
       ]
     },
     {
+      "path": "_news/2023-07-25-nvidia-stock-investors-should-love-what-elon-musk-said-on-teslas-earnings-call-about-ai.md",
+      "title": "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI",
+      "excerpt": "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg",
+          "width": 2314,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-researchers-move-to-merge-artificial-intelligence-with-human-brain-cells.md",
       "title": "Researchers move to merge artificial intelligence with human brain cells",
       "excerpt": "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence.",
@@ -157,7 +210,7 @@
       "originalUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -309,7 +362,7 @@
       "originalUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -361,7 +414,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1402,40 +1455,6 @@
       "provider": {
         "name": "jagranjosh.com",
         "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-self-driving-cars-could-be-closer-than-you-think-mine-may-have-been-right-behind-you.md",
-      "title": "Self-driving cars could be closer than you think. Mine may have been right behind you.",
-      "excerpt": "My optimism about self-driving cars was renewed recently on a hot, sunny Wednesday in a crowded office park and on a stretch of interstate in Detroit’s northern suburbs. Expectations for self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/money/cars/mark-phelan/2023/07/15/ai-enabled-self-driving-car-could-be-on-road-in-2025-add-just-1500/70404051007/",
-      "originalUrl": "https://www.freep.com/story/money/cars/mark-phelan/2023/07/15/ai-enabled-self-driving-car-could-be-on-road-in-2025-add-just-1500/70404051007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
+  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
+    publishedDateTime: 2023-07-25T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 Autonomous Driving Stocks You Better Be Buying on Each and Every Dip"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2023 has brought to us an equities market rebound and novel improvements upon"
     publishedDateTime: 2023-07-25T08:06:00Z

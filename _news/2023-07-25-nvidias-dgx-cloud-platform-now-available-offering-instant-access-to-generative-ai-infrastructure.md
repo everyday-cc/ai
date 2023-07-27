@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
+    excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
+    publishedDateTime: 2023-07-26T08:45:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/109301/nvidia-lets-customers-rent-ai-supercomputer-with-dgx-cloud/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Amazon launches program for startups using AI, climate computing"
     excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
     publishedDateTime: 2023-07-25T12:00:00Z
@@ -63,6 +77,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 17
+  - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
+    excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
+    publishedDateTime: 2023-07-26T15:29:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startup-cerebras-takes-nvidia-ai-supercomputer"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 17
 
 secured: "prl4ejG9i7/bc+lZOfmf3AkKF+h5/tt2agegUasqZeiMxhB/i2FTCgoltWGtQ1S+T+/rQ2YKxFX9mKRaY+pLGXn5JIT2eyOhmODF1aGxBlKItOY6JdgghO80jaBJcPDOzj5cs/vSJeJ/aV7VD8DAktBgQiSKjkOgxrAPSodIGSkA2Br+31RBoKaSb0/+3fb/EEHsL6TfgDtospAhzcPDdxTbBlIsS8vYfw/EOXKCjGKGlWoapPKIu5JApfEQGZhFX+BFG3WccVldp4wRA3bHoizyK+WNhaeJ2NBxiafr5/p5O1jtx7zIDzxKu5ty9BjOF1tKNgw8jPltcVpgPijtrViW1DwDLi/tiPsTPpsqI7c9aHMZTO22sJLb0B50y9D8GshJ4lxxOOLyHK2QfUmyspnpq2XbinZ8qjEoWE9JFU5auM8UNADLf2eJMbrOMs2wNa56Oth7r7oV7PPGChcO+xjWqgvowP/1FAs7UoErG6nnyvALkqQSwxHDtMqx+xxSEiX3kaN0wXigDZ2TaEbBJA==;8ZjQqeYCpygrl37aqx7Q/Q=="

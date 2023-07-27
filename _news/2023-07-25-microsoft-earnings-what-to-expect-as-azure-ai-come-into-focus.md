@@ -49,7 +49,7 @@ related:
     provider:
       name: WRAL TechWire
       domain: wraltechwire.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://wraltechwire.com/wp-content/uploads/2023/01/microsoft-ceo-e1688032366509.jpg"
         width: 2496

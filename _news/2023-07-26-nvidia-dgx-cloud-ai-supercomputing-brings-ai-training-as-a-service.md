@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/
 webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
 type: article
 quality: 67
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
+    excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
+    publishedDateTime: 2023-07-26T08:45:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/109301/nvidia-lets-customers-rent-ai-supercomputer-with-dgx-cloud/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
     excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
     publishedDateTime: 2023-07-25T14:18:00Z
@@ -66,6 +80,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 17
+  - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
+    excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
+    publishedDateTime: 2023-07-26T15:29:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startup-cerebras-takes-nvidia-ai-supercomputer"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 17
 
 secured: "LiLQGrGItkdMEcnKogpBpJbDim36DekvfZl/k+qe9kqhXrhTK2yP2RTPqjbExpAaq1RUHf8UveK12L7QNpxZLDeU4MmtQYte79ht+48UPOerv/v67fiOVCMEIuOAm/x4y8y5FfcCHAHUWngVRcx8aJRNKLprVF0NtnZfshEe+hGKX75aN/F5Bc2VGIWN2gJyYou1IwemfQFvw03+dxdb3lXlxPn1WTuyPZ+3X0U/lelTp/g2FSBLTtN1xEfGhQ9iuGY/2wjgVxjwbT498kFx5279bYU3d6eTKuYa5d022/KTRNh+S7DnZIhhGpiIS7dY3/tRc9CSE45tOA/hf2h2JzJFI/8jkuA56s7Mdr2PeUUQPYq2euIxDJOfkfl+Kd0BIi4bYATxRH161SU5NR4BhZKdgBeOUVnx+6s9OcodVpeN1HL0jMWyqthLSj24xsBVrBuUsHQ59Ejf/bh48FsLOcZRO7238yzTU/ysvmaEzIx5tVbBjm5Xo4J3HTx4jB7XVbm+KW/hforCDu4xLSd8Ag==;CC9ybXuD/m6/wurCoAT8kQ=="

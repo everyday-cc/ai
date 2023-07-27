@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
+    publishedDateTime: 2023-07-24T11:04:00Z
+    webUrl: "https://paultan.org/2023/07/24/tesla-in-talks-to-license-autopilot-full-self-driving-autonomous-tech-to-major-automaker-elon-musk/"
+    type: article
+    provider:
+      name: Paul Tan
+      domain: paultan.org
+    quality: 39
+    images:
+      - url: "https://paultan.org/image/2023/07/2023-PT-EVx_Tesla-Model-Y_Int-3-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5J16A/k4nwJi6lBZRelAoPpY3kbmzeY5SC68m14ICedqK/SjlaS+E0l2tkmkHayj4hIYF7aoiJzvXy6gAYVWGJwrS4NV54ZBOV1p5CZ0n0nOYEfp6yvOOjKhdQGi+IqfJjRDm8XI/4jsMjwodlJnIjHLzPTJ2Lpjx36eUDM3idA3G6M7NQdNS2w0ck6+NFGfdqmGYPv3CF8AKnJg+3N8+wgVgkZgIfFoMv/VYDKwoAWcBO6J9DvUKXqkd/0r06BWXdShYJaD42+gsp7ROFgarxTlibqGyWOIpYO9nr9pOjR0B1st1+UjjOPGFIpw5HE/wYc+hnhsV7pL/1FYyrz599dsQ0zLosx9py3PNHwLo6s=;Srt92EVIln8RTODNiNbsZg=="
 ---

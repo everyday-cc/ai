@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self
 webUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
+    publishedDateTime: 2023-07-24T11:04:00Z
+    webUrl: "https://paultan.org/2023/07/24/tesla-in-talks-to-license-autopilot-full-self-driving-autonomous-tech-to-major-automaker-elon-musk/"
+    type: article
+    provider:
+      name: Paul Tan
+      domain: paultan.org
+    quality: 39
+    images:
+      - url: "https://paultan.org/image/2023/07/2023-PT-EVx_Tesla-Model-Y_Int-3-1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "RBLGRLuJqN99lqnSh4ZLcL71ijtDA7wuCXNnrnP2eLKaFKddOkGUZnrZg+EZizaNXy0pGILNWH11njuP/IVI8mmCbZ2JRbQDObl51b+Z+P9pUVHah4o+FHSNdr6Fpb5JKq8b192QUgQKBLWgo6/KuhZIEiqnKX4zOBQv2C0mD5CGwZUqaHIb4DVPtsQU2mCSTg5si8egLYH4nAtclGKGKSzSQL3Vj3Jxhia1OBdQT8OGmsPabpun3rfZJm+xd4G/eWIq9SPIql/yrETM+pE62iun7HAMP0BIBueKun119H2SuAHS2SKLDcnt6C6rB3vnqCDPN7pS4hMlWthennrbudWVgSmyRxGlCeWXAAna2PQTcu0bl5tsPghQD/hsSa77I/aOBkFc5mukJ1WuMOQDBPZJxsUpF9EG1ZlDtPEE0hbSW0mvJsmkRasF/bMSbvXUHExJOkBClfrF47RawWfhYSaCWhztFUR+xW0w7ivkv823nPb18G1ZD3DbZsM8mbyWcGiNiX4vRc/3npAK/6I6VA==;XqkkqcQU3XvGkIJ7nr2VdA=="

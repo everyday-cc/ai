@@ -2,6 +2,257 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-06-06-cloudera-charts-a-path-toward-responsible-ai-at-scale.md",
+      "title": "Cloudera Charts A Path Toward Responsible AI At Scale",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead explains why the Cloudera Data Platform is well-positioned for the new world of enterprise AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e53226b36a6fb3b57d5cb/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/",
+      "publishedDateTime": "2023-06-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-cnets-new-guidelines-for-ai-journalism-met-with-union-pushback.md",
+      "title": "CNET's new guidelines for AI journalism met with union pushback",
+      "excerpt": "The storied tech publication is promising to disclose when artificial intelligence generates a portion of a story's text, but that's about it..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-met-with-union-pushback-152311269.html",
+      "originalUrl": "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-met-with-union-pushback-152311269.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/FNkV5GWhrrwid6LSrTZmbA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/862feb40-f403-11ed-b5ff-0f7c20b860cc.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud.md",
+      "title": "Cisco Shows Breakthrough Innovation Towards AI-First Security Cloud",
+      "excerpt": "Cisco launches new security service edge (SSE) solution to enable superior hybrid work experiences and dramatically simplify access",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/813707/Cisco_v2_Logo.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
+      "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
+      "excerpt": "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-usd-402-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-market-trends-market-growth-opportunities.md",
+      "title": "USD 4.02 Billion Growth in Automotive Voice Recognition System Market Size - Industry Analysis, Market Trends, Market Growth, Opportunities",
+      "excerpt": "Automotive voice recognition system refers to the concept of using speech recognition technology in vehicles. The technology is gaining traction among consumers across the globe due to its growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32740680/usd-4-02-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-marke",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32740680/usd-4-02-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-marke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32740680",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32740680",
+      "publishedDateTime": "2023-06-06T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-challenge-for-in-home-healthcare-clients.md",
       "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
       "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
@@ -887,233 +1138,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-aws-announces-general-availability-of-amazon-security-lake.md",
-      "title": "AWS Announces General Availability of Amazon Security Lake",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization’",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "originalUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
-      "publishedDateTime": "2023-06-05T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-eu-asks-big-tech-to-label-ai-generated-content.md",
-      "title": "EU asks Big Tech to label AI-generated content",
-      "excerpt": "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content",
-      "originalUrl": "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/nationalherald%2F2023-06%2F0ca0dd0d-d9f8-454c-af72-aa1acc943db1%2F65830692_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content",
-      "cdnAmpWebUrl": "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content",
-      "publishedDateTime": "2023-06-05T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Herald",
-        "domain": "nationalheraldindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-the-future-of-education-disruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5.md",
-      "title": "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5",
-      "excerpt": "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
-      "publishedDateTime": "2023-06-05T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-collaborative-robot-leverages-motion-control-speed-and-agility.md",
-      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
-      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
-          "width": 7360,
-          "height": 5197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-purdue-ethics-conference-tackles-big-picture-ai-challenges.md",
-      "title": "Purdue ethics conference tackles big-picture AI challenges",
-      "excerpt": "IEEE Ethics-2023 conference participants Sorin Adam Matei (left), professor of communication, and JP Messina, assistant professor of philosophy, participate in a panel discussion on “Perspectives from Liberal Arts on the Practical Turn in AI Ethics.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.purdue.edu/research/features/stories/purdue-ethics-conference-tackles-big-picture-ai-challenges/",
-      "originalUrl": "https://www.purdue.edu/research/features/stories/purdue-ethics-conference-tackles-big-picture-ai-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.purdue.edu/research/features/wp-content/uploads/2023/06/IEEE.-Ethics-Panel-800x450-1.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Purdue University",
-        "domain": "purdue.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

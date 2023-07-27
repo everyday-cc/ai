@@ -2,6 +2,213 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-19-why-some-celebrities-are-embracing-artificial-intelligence-deepfakes.md",
+      "title": "Why some celebrities are embracing Artificial Intelligence deepfakes",
+      "excerpt": "The actors' union has warned that \"artificial intelligence poses an existential threat to creative professions\" as it prepared to dig in over the issue. However, Ms Yeo is not worried. She is one of a growing number of celebrities embracing AI-generated advertising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
+      "originalUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/059E/production/_130183410_aaaaqfa3b6haqofh7zbfvipolgbt5ku-bkndsttedaciktjwhjrzthlpww-0afeimombx7zejjqxdcvapy9mlypgrzx84cf8pmal_uic1h_fmqmfjpbs_md0xsmqfs_hkd-h8hp31a7smho7bioqm0t0mnbb.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65995089.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp",
+      "publishedDateTime": "2023-07-18T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai.md",
+      "title": "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI",
+      "excerpt": "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "publishedDateTime": "2023-07-18T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-the-engines-of-ai-machine-learning-algorithms-explained.md",
+      "title": "The engines of AI: Machine learning algorithms explained",
+      "excerpt": "Trying everything is impractical to do manually, so of course machine learning tool providers have put a lot of effort into releasing AutoML systems. The best ones combine feature engineering with sweeps over algorithms and normalizations. Hyperparameter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
+      "originalUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-451936193-100632457-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
+      "publishedDateTime": "2023-07-18T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-enhance-amazon-lex-with-conversational-faq-features-using-llms.md",
+      "title": "Enhance Amazon Lex with conversational FAQ features using LLMs",
+      "excerpt": "Amazon Lex is a service that allows you to quickly and easily build conversational bots (“chatbots”), virtual agents, and interactive voice response (IVR) systems for applications such as Amazon Connect. Artificial intelligence (AI) and machine learning (ML) have been a focus for Amazon for over 20 years,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/18/enhance-lex-conversational-faq-llm.jpg",
+          "width": 1021,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T15:48:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-un-officials-urge-regulation-of-artificial-intelligence.md",
       "title": "U.N. Officials Urge Regulation of Artificial Intelligence",
       "excerpt": "The U.N. Security Council for the first time held a session on Tuesday on the threat that artificial intelligence poses to international peace and stability, and Secretary General António Guterres called for a global watchdog to oversee a new technology that has raised at least as many fears as hopes.",
@@ -1023,197 +1230,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-meet-a-founder-putting-humans-at-the-center-of-his-ai-startup.md",
-      "title": "Meet A Founder Putting Humans At The Center Of His AI Startup",
-      "excerpt": "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
-      "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200",
-          "width": 838,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
-      "publishedDateTime": "2023-07-18T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
-      "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
-      "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
-      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/07/1689667515_ml_story.jpg",
-          "width": 760,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
-      "publishedDateTime": "2023-07-18T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership.md",
-      "title": "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-teladoc-health-expands-collaboration-in-ai-with-microsoft-to-address-healthcare-workforce-crisis.md",
-      "title": "Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis",
-      "excerpt": "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/teladoc-health-expands-collaboration-in-ai-with-microsoft-to-address-healthcare-workforce-crisis/article_bfe2402d-d92c-5991-94c5-b198a5f2947c.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/teladoc-health-expands-collaboration-in-ai-with-microsoft-to-address-healthcare-workforce-crisis/article_bfe2402d-d92c-5991-94c5-b198a5f2947c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

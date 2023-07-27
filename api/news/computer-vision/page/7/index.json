@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-24-eff-calls-for-action-against-californias-new-facial-recognition-bill.md",
+      "title": "EFF calls for action against California's new facial recognition bill",
+      "excerpt": "The latest target of EFF's action is A.B. 642, a new California bill that would \"normalize and incentivize\" police use of facial recognition technology across the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html",
+      "originalUrl": "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-sensory-enables-voice-chat-with-generative-ai-on-consumer-devices.md",
       "title": "Sensory enables voice chat with generative AI on consumer devices",
       "excerpt": "Sensory, a maker of consumer voice AI, has announced it has integrated ChatGPT and other AI to drive voice responses on consumer devices.",
@@ -1310,50 +1353,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness.md",
-      "title": "Detect real and live users and deter bad actors using Amazon Rekognition Face Liveness",
-      "excerpt": "Financial services, the gig economy, telco, healthcare, social networking, and other customers use face verification during online onboarding, step-up authentication, age-based access restriction, and bot detection. These customers verify user identity by matching the user’s face in a selfie captured",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T13:31:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

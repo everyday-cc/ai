@@ -34,6 +34,22 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "Netflix invests more than half a million dollars in machine learning role amid SAG, WGA strikes"
+    excerpt: "As writers and actors continue to strike in demand for fair pay, streaming giants are investing their money into artificial intelligence, and Los Gatos-based company Netflix is leading the way."
+    publishedDateTime: 2023-07-26T23:43:00Z
+    webUrl: "https://www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/"
+    ampWebUrl: "https://www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 47
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/07/75a94362f5de4b67800b25f2615f4c66-1.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Bad Timing: Netflix Lists $900,000 AI Job Amidst Writers Strike"
     excerpt: "According to a posting on Netflix's job page, the FAANG company is a Machine Learning Platform Project Manager out of its Los Gatos, CA headquarters. The role has an option for remote work."
     publishedDateTime: 2023-07-26T13:43:00Z

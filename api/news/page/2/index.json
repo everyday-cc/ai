@@ -2,6 +2,142 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-26-nvidia-dgx-cloud-ai-supercomputing-brings-ai-training-as-a-service.md",
+      "title": "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service",
+      "excerpt": "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/",
+      "originalUrl": "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-what-is-zero-based-budgeting.md",
+      "title": "What is zero-based budgeting?",
+      "excerpt": "Zero-Based Budgeting (ZBB) is a strategic budgeting approach that mandates a fresh evaluation of all expenses during each budgeting cycle.\nThe post What is zero-based budgeting? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:25:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-fintech-revolution-transforming-the-traditional-banking-landscape.md",
+      "title": "Fintech Revolution: Transforming the Traditional Banking Landscape",
+      "excerpt": "Let us first delve into the ways fintech is streamlining operations. Once  characterized by endless rows of filing cabinets and reams of paperwork,  banks are now embracing AI, a powerful force multiplier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/",
+      "originalUrl": "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.phillyvoice.com/media/images/pexels-anna-tarazevich-1475127.2e16d0ba.fill-1200x630-c0_JXsFj88.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/",
+      "cdnAmpWebUrl": "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/",
+      "publishedDateTime": "2023-07-26T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phillyvoice.com",
+        "domain": "phillyvoice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
       "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
       "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",
@@ -544,49 +680,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-26-artificial-intelligence-ai-and-machine-learning-ml-integration-to-drive-revenue-management-system-market-growth.md",
-      "title": "Artificial Intelligence (AI) and Machine Learning (ML) Integration to Drive Revenue Management System Market Growth",
-      "excerpt": "The \"Revenue Management System Market Forecast to 2028: Global Analysis by Component, Deployment, and Verticals\" report has been added to ResearchAndMarkets.com's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33386962/artificial-intelligence-ai-and-machine-learning-ml-integration-to-drive-revenue-management-system-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33386962/artificial-intelligence-ai-and-machine-learning-ml-integration-to-drive-revenue-management-system-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33386962",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33386962",
-      "publishedDateTime": "2023-07-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-26-mediakind-unveils-new-home-for-microsoft-azure-media-services-users.md",
       "title": "MediaKind unveils new home for Microsoft Azure Media Services users",
       "excerpt": "Building on what it says are the more than one billion video streams served in 2022 and 2023, MediaKind has unveiled MK/IO, a complete streaming solution built on Microsoft Azure that is said to be ab",
@@ -729,6 +822,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-sk-hynix-posts-narrower-second-quarter-loss-amid-robust-ai-demand-sees-chip-recovery.md",
+      "title": "SK Hynix posts narrower second-quarter loss amid robust AI demand, sees chip recovery",
+      "excerpt": "SK Hynix in its latest earnings report said that the weak memory chip market is starting to recover amid robust artificial intelligence demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107276745-1690338268463-gettyimages-1246671088-porzycki-flashmem230130_npu1c.jpeg?v=1690351806",
+          "width": 3543,
+          "height": 2362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "publishedDateTime": "2023-07-25T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -989,58 +1134,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-26-sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand.md",
-      "title": "SK Hynix says memory chip recovery has begun, flags robust AI demand",
-      "excerpt": "South Korea's SK Hynix said on Wednesday the memory chip market was beginning to recover from a deep downturn amid robust artificial intelligence demand that helped it narrow its second-quarter operating loss from the prior quarter's record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O",
-      "originalUrl": "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/mz5uLABumoYAIy_PP-uLCpUe3D8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TGUHCMEOWVNKXBNKYOYSLWIGJY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T18:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-26-us-senators-express-bipartisan-alarm-about-ai-focusing-on-biological-attack.md",
       "title": "US senators express bipartisan alarm about AI, focusing on biological attack",
       "excerpt": "Both Democratic and Republican senators expressed alarm on Tuesday about the potential for a malevolent use of artificial intelligence, focusing on the possibility of AI being used to create a biological attack.",
@@ -1132,110 +1225,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ge-healthcare-ceo-on-advances-in-alzheimers-treatment-a-breakthrough-moment-for-patients.md",
-      "title": "GE HealthCare CEO on advances in Alzheimer's treatment: 'A breakthrough moment for patients'",
-      "excerpt": "GE HealthCare CEO Peter Arduini discussed his company's role in Alzheimer's treatment with CNBC's Jim Cramer on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107253594-1686246162711-gettyimages-1418953592-vcg111398371069.jpeg?v=1690327099",
-          "width": 5310,
-          "height": 3540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "publishedDateTime": "2023-07-25T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system.md",
-      "title": "Make The Doctor’s Office Fair! AI Can Help Create A More Equitable Healthcare System",
-      "excerpt": "Bringing a level of scrutiny to AI processes in healthcare, Marzyeh Ghassemi has some solutions for harmful bias in systems that, as a society, we want to root out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c033dd228eb00488105e80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
-      "publishedDateTime": "2023-07-25T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

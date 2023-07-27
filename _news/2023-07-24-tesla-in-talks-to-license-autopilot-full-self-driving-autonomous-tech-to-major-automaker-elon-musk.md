@@ -25,80 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions"
-    excerpt: "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI."
-    publishedDateTime: 2023-07-22T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628"
+  - title: "Tesla offers customers one-time Full Self-Driving transfer until September 30th"
+    excerpt: "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months.."
+    publishedDateTime: 2023-07-22T15:11:00Z
+    webUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: Engadget
+      domain: engadget.com
+    quality: 65
     images:
-      - url: "https://images.wsj.net/im-821616/social"
-        width: 1280
-        height: 640
+      - url: "https://s.yimg.com/uu/api/res/1.2/p5ASh2CB4Q2WKDSg3OF25w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/25277830-ae4a-11ed-bd7e-39bcf0c251ee.cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI"
-    excerpt: "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article."
-    publishedDateTime: 2023-07-25T14:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/"
+  - title: "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free"
+    excerpt: "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting."
+    publishedDateTime: 2023-07-22T22:34:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 77
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 63
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg"
-        width: 2314
-        height: 1296
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Elon Musk claims Tesla will spend \"well over\" $1bn on Dojo supercomputer, alongside Nvidia GPUs, for \"100 exaflops\" of AI"
-    excerpt: "Tesla CEO Elon Musk claimed that the company will spend more than $1 billion over the next year on its Dojo supercomputer. The supercomputer uses the custom Dojo D1 chip architecture designed by the automotive company for training self-driving vehicle systems."
-    publishedDateTime: 2023-07-24T09:05:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/elon-musk-claims-tesla-will-spend-well-over-1bn-on-dojo-supercomputer-alongside-nvidia-gpus-for-100-exaflops-of-ai/"
+  - title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
+    excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
+    publishedDateTime: 2023-07-25T14:22:00Z
+    webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 46
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 51
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/tesla_supercomp.fb856515.fill-1200x630.png"
-        width: 750
-        height: 395
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
-    excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
-    publishedDateTime: 2023-07-25T01:30:00Z
-    webUrl: "https://gizmodo.com.au/2023/07/elon-musk-still-thinks-self-driving-can-save-tesla/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/07/a2ae6341ce8ae9065edf978925dc54db.webp?quality=75"
-        width: 5557
-        height: 3111
-        isCached: true
-  - title: "Elon Musk Launched His Own AI Startup—Here’s Musk’s Net Worth"
-    excerpt: "Tesla CEO Elon Musk announced his latest startup, xAI, which will focus on artificial intelligence. Musk is the richest person in the world as of July, thanks to the companies he leads including Tesla,"
-    publishedDateTime: 2023-07-22T12:00:00Z
-    webUrl: "https://www.investopedia.com/elon-musk-launched-his-own-ai-startup-heres-musks-net-worth-7562899"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 17
-  - title: "Experts Explain the Issues With Elon Musk's AI Safety Plan"
-    excerpt: "Musk's has positioned his latest venture, xAI, as a rival to ChatGPT and Google. But there are a few fundamental problems with his underlying strategy."
-    publishedDateTime: 2023-07-22T12:00:00Z
-    webUrl: "https://www.thestreet.com/technology/expert-explains-the-issues-with-elon-musks-ai-safety-plan"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
 
 secured: "S5jMeQH6E0qyOboIEnbaTEygVOlgwxhOqWKZc6LDxccoADUQbLWztYxJupB2/PRuIL7GGEepY2X7rJakcli+Nze86DBxAtEsetW+YjjR6eAWcVwRwIKGWC73eMaIMem8mYYLLblCTpzAS7OW+TV6XTyzdKJXTHDOQrfp6stH2iLTZI5zz+UgxhFtnGkzgPnqUjSjDbqcEUhlrlDprZFrKJcF6TDMvxYGAOFWcWWz80j7xfIWBKctU6aIOFgnWY++iKiGTkdNA6lX0ld9lbg6bkoqkpS4JOrrlyvQw94iKll231KETGeWuwzk0J5ZYiRf9c+0gNXJG4fUjbDLnEyCxq9mt29LS/JtbuxDSsoXX/B9QbDDROxWzPdxREmCVlu6JK19B+9yfhEdnZipEnbwEgPuxd3Q62iIlgLC1ecQjI1ekSeH7eRq4G9mACPpab49GYdMKCNhx88kMvuA0IcpNiiE4R29rdTokzwXRb7ry3BlC9TDpTVZzkEMjQ9xUXD2bi3ExIX0PJ8oApSsE6fDXA==;bd2N0JDXwh5Hl61OBLyFMQ=="
 ---

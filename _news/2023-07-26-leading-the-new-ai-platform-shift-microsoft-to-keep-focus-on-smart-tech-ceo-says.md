@@ -8,7 +8,7 @@ webUrl: "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-m
 ampWebUrl: "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1"
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wraltechwire.com/wp-content/uploads/2023/01/microsoft-ceo-e1688032366509.jpg"

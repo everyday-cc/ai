@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-h
 webUrl: "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
-  - title: "How AI could help detect wildfires earlier"
-    excerpt: "The big picture: Currently, at least seven states use AI detection to monitor wildfires, including California's Department of Forestry and Fire Protection (CalFire) and Arizona's Salt River Project."
-    publishedDateTime: 2023-07-24T20:57:00Z
-    webUrl: "https://www.axios.com/2023/07/24/ai-wildfires-early-detection"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "fIV6lPpdozwGpIioHeuoSALeaVXxWmcyyyCXUk8x4SdLqskxbh7HxvdZ3j0HDvLpf2YdV5rVo2E5RLp7f575Ml3T6xfPkncthKOA7u3/coAjO56SHD1I8XnBp75kE2LovDAamdOkh4h2EpSjcFWv4VSEbzjsMb5NabJSMoVOKaeW4RVOaM4b5WC0Xk9l9UkjVKpRxK8cAEro+RwagvAbHYIsfB8BjxBHo2DBJz9ZueQoQHJfTFf5hAaMkN8Jo7J90yQyTDzh7KDjL7sr20WcwZbcl8MuNh8XDmPaeTJ15WoovEBH4LomnUrM84z9BSyIFnGdSXBmUko+/vlW6z6AXz8yzPtbwTvkwnqIWFVc1pZPEFMf4d5gCOGfPtPhd1KgiAu+EKT6Kc5eB7eZRrfHlbF6y/LcRQiTDqAvhgHy+L39VZy1bE8tJw8nGeF2N4TR0HDk906512Hv5Zx7moRttkgfVnJlpNhsrXiznd9eQNg5GNT34FMIcDzNuA8hO7wj9iULMui8+oJkHqeywVfdVg==;PdAdD2c9YHVwKKBt2kMX6Q=="
 ---

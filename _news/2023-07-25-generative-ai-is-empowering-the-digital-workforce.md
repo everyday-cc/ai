@@ -42,6 +42,22 @@ related:
         width: 2400
         height: 1800
         isCached: true
+  - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
+    excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
+    publishedDateTime: 2023-07-27T00:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
     excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
     publishedDateTime: 2023-07-24T05:41:00Z

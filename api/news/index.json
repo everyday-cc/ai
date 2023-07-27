@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-27-signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud.md",
+      "title": "Signifyd's Developed An AI-Powered Response Solution To Combat Retail Fraud",
+      "excerpt": "Fact: “If it were measured as a country, then cybercrime ...would be the world’s third-largest economy after the U.S. and China... and represents the greatest transfer of economic wealth in history.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1c0f8e717bf59b303e3c3/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1162,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
+      "publishedDateTime": "2023-07-26T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco.md",
       "title": "Can artificial intelligence bring a new tech boom to San Francisco?",
       "excerpt": "As San Francisco struggles with empty storefronts, homelessness and theft, there is new hope that a tech boom driven by artificial intelligence will help revitalize the city. CNBC’s Deirdre Bosa shares more on Scale AI,",
@@ -304,6 +355,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-27-we-will-inevitably-lose-skills-to-ai-but-do-the-benefits-outweigh-the-risks.md",
+      "title": "We Will Inevitably Lose Skills to AI, But Do The Benefits Outweigh The Risks?",
+      "excerpt": "The concern arises from the idea that as AI becomes proficient in tasks such as language translation, content generation and even coding, these skills might gradually become obsolete for humans. Imagine the revered art of translation. It's a task that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338",
+      "originalUrl": "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1690304062-artificial-intelligence-risks-benefits-0723-g1394953811.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-portland-debuts-first-ai-radio-disc-jockey.md",
       "title": "Portland debuts first AI radio disc jockey",
       "excerpt": "The first AI-generated radio DJ, \"AI Ashley,\" has launched in Portland. It's generated by RadioGPT and originates from the voice of a real disc jockey. NBC News' Noah Pransky talks to the content director and DJ at Live 95.",
@@ -398,7 +501,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -673,6 +776,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-a-painting-newly-attributed-to-raphael-by-ai-facial-recognition-goes-on-view-for-the-first-time.md",
+      "title": "A Painting Newly Attributed to Raphael by A.I. Facial Recognition Goes on View for the First Time",
+      "excerpt": "A painting of the Madonna and child is on view in the U.K. city of Bradford after A.I. determined it was the work of Raphael.",
+      "sourceUrl": null,
+      "webUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
+      "originalUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p-news-upload.storage.googleapis.com/2023/01/de-brecy-raphael-comparison.jpg",
+          "width": 1194,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
+      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
+      "publishedDateTime": "2023-07-26T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Artnet",
+        "domain": "artnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -994,7 +1140,7 @@
       "originalUrl": "https://hothardware.com/news/ai-lifts-microsoft-best-quarter-ever-xbox-sales-tumble",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1078,142 +1224,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-nvidia-dgx-cloud-ai-supercomputing-brings-ai-training-as-a-service.md",
-      "title": "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service",
-      "excerpt": "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/",
-      "originalUrl": "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-what-is-zero-based-budgeting.md",
-      "title": "What is zero-based budgeting?",
-      "excerpt": "Zero-Based Budgeting (ZBB) is a strategic budgeting approach that mandates a fresh evaluation of all expenses during each budgeting cycle.\nThe post What is zero-based budgeting? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T06:25:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-fintech-revolution-transforming-the-traditional-banking-landscape.md",
-      "title": "Fintech Revolution: Transforming the Traditional Banking Landscape",
-      "excerpt": "Let us first delve into the ways fintech is streamlining operations. Once  characterized by endless rows of filing cabinets and reams of paperwork,  banks are now embracing AI, a powerful force multiplier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/",
-      "originalUrl": "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.phillyvoice.com/media/images/pexels-anna-tarazevich-1475127.2e16d0ba.fill-1200x630-c0_JXsFj88.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/",
-      "cdnAmpWebUrl": "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/",
-      "publishedDateTime": "2023-07-26T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phillyvoice.com",
-        "domain": "phillyvoice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

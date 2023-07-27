@@ -62,7 +62,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -150,6 +150,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-26-sk-hynix-posts-narrower-second-quarter-loss-amid-robust-ai-demand-sees-chip-recovery.md",
+      "title": "SK Hynix posts narrower second-quarter loss amid robust AI demand, sees chip recovery",
+      "excerpt": "SK Hynix in its latest earnings report said that the weak memory chip market is starting to recover amid robust artificial intelligence demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107276745-1690338268463-gettyimages-1246671088-porzycki-flashmem230130_npu1c.jpeg?v=1690351806",
+          "width": 3543,
+          "height": 2362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
+      "publishedDateTime": "2023-07-25T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities.md",
       "title": "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities",
       "excerpt": "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings.",
@@ -202,58 +254,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-26-sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand.md",
-      "title": "SK Hynix says memory chip recovery has begun, flags robust AI demand",
-      "excerpt": "South Korea's SK Hynix said on Wednesday the memory chip market was beginning to recover from a deep downturn amid robust artificial intelligence demand that helped it narrow its second-quarter operating loss from the prior quarter's record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O",
-      "originalUrl": "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/mz5uLABumoYAIy_PP-uLCpUe3D8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TGUHCMEOWVNKXBNKYOYSLWIGJY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T18:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-25-generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft.md",
       "title": "Generative AI Views Of MIT Prof And Goldman CIO Bode Well For Microsoft",
       "excerpt": "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue",
@@ -262,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -305,6 +305,59 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-nvidia-stock-investors-should-love-what-elon-musk-said-on-teslas-earnings-call-about-ai.md",
+      "title": "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI",
+      "excerpt": "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg",
+          "width": 2314,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -818,58 +871,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-missed-out-on-nvidias-surge-buy-this-cheap-ai-stock-before-it-doubles.md",
-      "title": "Missed Out on Nvidia's Surge? Buy This Cheap AI Stock Before It Doubles.",
-      "excerpt": "The chipmaker's price-to-sales ratio stands at a whopping 44, while its trailing earnings multiple is 237. Investors may not be comfortable buying Nvidia at such expensive multiples despite the terrific growth that the chipmaker is expected to deliver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740433/person-holding-a-smartphone-with-a-stock-chart-on-screen.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

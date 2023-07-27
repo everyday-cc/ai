@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-mem
 webUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "SK Hynix posts narrower second-quarter loss amid robust AI demand, sees chip recovery"
+    excerpt: "SK Hynix in its latest earnings report said that the weak memory chip market is starting to recover amid robust artificial intelligence demand."
+    publishedDateTime: 2023-07-26T06:15:00Z
+    webUrl: "https://www.cnbc.com/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 97
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107276745-1690338268463-gettyimages-1246671088-porzycki-flashmem230130_npu1c.jpeg?v=1690351806"
+        width: 3543
+        height: 2362
+        isCached: true
   - title: "Strength in AI chips is unlikely to offset overall weakness in demand for SK Hynix: Analyst"
     excerpt: "SK Kim of Daiwa Capital Markets discusses SK Hynix's latest earnings and the severe competition the company may face regarding AI-related chips in the future."
     publishedDateTime: 2023-07-26T04:47:00Z
