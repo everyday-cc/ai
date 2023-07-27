@@ -49,6 +49,20 @@ related:
         width: 450
         height: 302
         isCached: true
+  - title: "Be prepared for AI technology, PH urged"
+    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
+    publishedDateTime: 2023-07-23T16:36:00Z
+    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "Y/tEKq1oreUg3r78XoipjxtpVJlxWcLc1DKhDBAppJvvcewHn6hDOv5W/iJVBac5k1DAQf03Vl5fC9O8kXGU3XXIPzR21KH0ZJi0C0B+F455sL3SiO+67qZjo2Yq5ICQt+4uZJPJ66FU4iPjo+8OfL2ySJk0xVU949dXO39aeTJhYoL12xCqcLIs4waSaNZlo7MOiXIbJtorcpaPA5J4wfOL3nrUyzFMMFxnYilUxmdbS7VYJ/23aFhhHNQBKREOdwpuEYZiIOvuw+/6/tsp/gQ1dS8Cc49I6oDwEBq8VbnWiN211RnwYip8EVr4V4SsHZyRwq/xmTMKY7mdMeWG6APFEp4cO8JaXavG8kaRR9OYXbiSMkGELIKWiDsI2r2NmuPb4mhW66IDSYpHPlnnLNeHe6S6xl58q4oOQ65130l9k/Eb9OlbS+1spG1sfGImZPk1iiw2jlbrQAxVi/WYLWIoXJ/SG2/s+814PYGn2EzM5s55XH+8YGbMv1BcdJloNZ29ZboUYtAEfMj8AfYSjw==;0bpPwKe00JzDikygBTZ3/A=="
 ---

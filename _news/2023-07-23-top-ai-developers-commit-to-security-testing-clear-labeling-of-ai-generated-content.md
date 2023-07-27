@@ -25,177 +25,110 @@ images:
     isCached: true
 
 related:
-  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
-    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
-    publishedDateTime: 2023-07-22T16:06:00Z
-    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
-    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+  - title: "How AI will impact the developer experience"
+    excerpt: "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers."
+    publishedDateTime: 2023-07-24T09:08:00Z
+    webUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html"
+    ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’"
-    excerpt: "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\""
-    publishedDateTime: 2023-07-25T17:38:00Z
-    webUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/"
-    ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
+  - title: "How AI and machine learning can personalise experiences in logistics"
+    excerpt: "When talking about AI-driven personalization for consumer engagement in logistics, its impact extends to transparency and communication besides just improved delivery experiences. According to a survey conducted by Deloitte, 79% of customers consider shipment visibility as a crucial factor in their overall satisfaction with a logistics provider."
+    publishedDateTime: 2023-07-23T04:12:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-183374100.jpg?resize=1200,805"
-        width: 1200
-        height: 805
-        isCached: true
-  - title: "OpenAI discontinues its AI writing detector due to “low rate of accuracy”"
-    excerpt: "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy. We are working to incorporate feedback and are currently researching more effective provenance techniques for text, and have made a commitment to develop and deploy mechanisms that enable users to understand if audio or visual content is AI-generated."
-    publishedDateTime: 2023-07-26T19:51:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/desert_slots-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "OpenAI pulls its own AI detection tool because it was performing so poorly"
-    excerpt: "When OpenAI rolled out its AI detection tool earlier this year, its creators called it 'imperfect.' That was apparently generous."
-    publishedDateTime: 2023-07-26T15:03:00Z
-    webUrl: "https://www.zdnet.com/article/openai-pulls-its-own-ai-detection-tool-because-it-was-performing-so-poorly/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-pulls-its-own-ai-detection-tool-because-it-was-performing-so-poorly/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-pulls-its-own-ai-detection-tool-because-it-was-performing-so-poorly/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/dc74b9180c64444b8d705bce94ce1e11fef63476/2023/07/26/56fbda7c-fe67-4ed1-aed6-6d8315e13292/gettyimages-1529221597.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design139.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
-    excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
-    publishedDateTime: 2023-07-25T15:56:00Z
-    webUrl: "https://www.pcmag.com/news/openai-quietly-shuts-down-ai-text-detection-tool-over-inaccuracies"
+  - title: "‘Every engineer will need to have some artificial intelligence expertise’"
+    excerpt: "Like cloud, every engineer will be expected to have some AI expertise – AI programming or usage of AI models/libraries, data analysis, AI system governance and such. Organisations are now even talking about the role of a chief AI ethics officer. What initiatives and solutions has Publicis Sapient implemented using GenAI?"
+    publishedDateTime: 2023-07-26T23:00:00Z
+    webUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/"
+    ampWebUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 58
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04G9X5qN41Ob8jrBRpXgvKS-1.fit_lim.size_1200x630.v1690299616.jpg"
-        width: 1120
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/artificial-intqqq.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
+    excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
+    publishedDateTime: 2023-07-24T19:56:00Z
+    webUrl: "https://www.crn.com/news/software/intel-seeks-to-win-over-ai-developers-with-open-source-reference-kits"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0283-18921cb6c571-03fcb9b1f615-1000/1630383708197.jpeg"
+        width: 251
+        height: 251
+        isCached: true
+  - title: "LaLiga transforms fan experience with AI"
+    excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
+    publishedDateTime: 2023-07-24T23:48:00Z
+    webUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Democracy, Defence and Conflict in the Age of AI"
+    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
+    publishedDateTime: 2023-07-25T03:07:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 37
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
+        width: 3133
+        height: 1764
+        isCached: true
+  - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
+    excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."
+    publishedDateTime: 2023-07-26T18:43:00Z
+    webUrl: "https://www.news5cleveland.com/news/local-news/no-a-bot-didnt-write-this-story-how-artificial-intelligence-will-expand-further-into-everyday-life"
+    type: article
+    provider:
+      name: Cleveland
+      domain: news5cleveland.com
+    quality: 22
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6540a6c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F06%2F20%2Ff2af123e4957866a6cc5ac5bf909%2Fchat-gpt-still.jpg"
+        width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI can’t tell if something was written by AI after all"
-    excerpt: "OpenAI shuttered a tool that was supposed to tell human writing from AI due to a low accuracy rate. In an (updated) blog, OpenAI said it decided to end its AI classifier as of July 20th. “We are working to incorporate feedback and are currently researching more effective provenance techniques for text,"
-    publishedDateTime: 2023-07-25T21:30:00Z
-    webUrl: "https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
-    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
-    publishedDateTime: 2023-07-24T22:19:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
-    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
-    publishedDateTime: 2023-07-26T01:23:00Z
-    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "How is generative AI relevant to telecom operators?"
-    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
-    publishedDateTime: 2023-07-24T14:42:00Z
-    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 41
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
-        width: 696
-        height: 382
-        isCached: true
-  - title: "Be prepared for AI technology, PH urged"
-    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
-    publishedDateTime: 2023-07-23T16:36:00Z
-    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "How businesses can leverage AI-generated text"
-    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
-    publishedDateTime: 2023-07-26T23:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
-  - title: "This Startup Wants to Create An AI-Generated CNN"
-    excerpt: "Channel 1 News, from former 'Tosh.0' veteran Scott Zabielski and entrepreneur Adam Mosam, plans to use generative AI to create personalized newscasts."
-    publishedDateTime: 2023-07-26T13:00:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/digital/ai-tv-news-channel-1-news-1235544580/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 17
 
 secured: "MsYQ1YBW00dtp3UogN8CWQljDNtWcWjt12bE0VD32X5INXFMcu4ZWMaODAPr7D31t3knv66binJ+ymq5zN4e1pLArJ9NA4OdwrXVpBFwkBFZTGEIMfDqrwCgP+ZUL2lw5U1l6n5HQzYoNoIltjGFbsiiCAq5jpqM3pNiBMgQjNJV30aJNGWnftq6jKXxakYj1fDn1C3/iqDu2pL1YlqZM1BiLPpJQR4DzVnZz4h3J2t/MUTqNHb+CVHTHEkuOugJ83XvAxABkR9G0/ZOLteM6TxWtAygDdlrwCNg0dhTVRJIJvtYkdgFb/BA9B9Y04DfBNZY1+O72/tzY0z/z9vUFSI3h8aVgx8GTHGjYn5L0QSpOp5aGFVtQRXXtLzD3S9dAnOjv/Pg1SrZQRi61uac0ushiy58bVmN/SN05qyvRCqbm6IAA6h6hQHZlz+6B/11mmNIuUUMXzV94ftiZwKhN7izAlMMSqZgi4xTeabwVliPdxW1RUWRZXufon62k/NY0D471XSj3/RxkI/YrBDDYg==;qQg9NN4Xo2/QCMg1on9wKw=="
 ---

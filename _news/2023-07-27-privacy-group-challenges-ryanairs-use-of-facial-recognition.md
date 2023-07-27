@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-c
 webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     height: 628
     isCached: true
 
-secured: "TBB68zEFE+8br9JJ20weHvwxyUlogi60Z4/O/BpP3eOp7Uw5DiQkwW8SEPOidW+zJuAXwDKUEmIDATjnlW3Jpp9s36V9yLcw30mq/N3/2Ild/2RyZMVCRjS2qkLn9HKd23xVuOlWFGgq0+hYiJReO2F6Oza/MST5J/b95Tn6p++6zmhqsN5rJ9aq4VISyDJUGllkwGWjwG9g5at8elG+ApStO7GDug1GhmfKG3DBDonZBgLvxhyM6XydWVWA+wTo/Qe4Zl5C9FPjW+cTOtLhXdqAHR0j4JElNxOFMt8EIgIdtLdyJqvxWf08Nst3hC6F7XUekSO2EQVH7fydqpzZTFB28/KRqQkoiK+ih4eezaE=;QCvToV6BpqhwKp53c2IE2g=="
+related:
+  - title: "Ryanair Accused Of 'Invasive' Facial Recognition Use"
+    excerpt: "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo \"invasive facial recognition process\"."
+    publishedDateTime: 2023-07-27T07:39:00Z
+    webUrl: "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
+        isCached: true
+
+secured: "Z0oZ6Ed0Q9IxNfdP1w/sCTroLAqQh6SfSfkOuWWJ1o3pWs9LKoby48KbINqCM1gSz9g++AVJkCSelpq2JnpsORNK+B1cJvjCle6h/P/P9oUmdGKcWq+yGTe+yoy+WuCchUMckPYa/GjbLplB9JGOYKx85EvVQiJ7o694Lk6WXxsKnpO+iTm+In1ah41et6yD5DG/lVTMm3Pbo5mDYUDI/2P58QwsvdahQ2ZscOaBWOI3kemTtF9s5P55PZjHSbNYW4zFJibfFl3GHN9pqRipN/AwwwbQcwCC0ZWe5DsITRhIuJfZzG+75eLLHwfpjfQZ8JHL5pcvMVMs7pYYy9yCqJ2Mv7f1qrKVjAAZdS2EHTnLQ2Em+zpkBAYP+dlBAiDloRFRVhiCSSz4lo+2BNi54JIpkBkLepuaBSsiCWCRGvM5jvnHU0rLDf7OIJyW8vyLzbmsn4ASXshc8UHu8Ywz9ogkTb8Zo+XIYUs4CqvaDntA/llSKT15WdaIeAIYgHBDc69rDhI1g6mBoM9q3DliOQ==;0zC44mJsYiGjnxPXqQG9rQ=="
 ---
 

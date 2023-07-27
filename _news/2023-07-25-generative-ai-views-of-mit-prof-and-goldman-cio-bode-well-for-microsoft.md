@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 448
+heat: 458
 published: true
 
 provider:
@@ -374,6 +374,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/S7v1gyUc.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Hexaware collaborates with Microsoft to propel innovation with generative AI - Tenjin for Knowledge Services"
+    excerpt: "ISELIN, N.J. and LONDON and MUMBAI, India, July 27, 2023 /PRNewswire/ -- Hexaware, a global frontrunner in IT services and digital solutions, is excited to announce its collaboration with Microsoft to propel technological advancement for businesses ready to embrace the future, harnessing the power of generative artificial intelligence (AI)."
+    publishedDateTime: 2023-07-27T09:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855011.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
+        width: 400
+        height: 240
         isCached: true
   - title: "Microsoft to get 'golden 1-2 punch' from cloud, AI, Wedbush says"
     excerpt: "Microsoft (MSFT) is slated to report fiscal fourth-quarter results on Tuesday and Wedbush Securities believes the tech giant will get a boost from the cloud and AI. Read for more."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
         width: 1280
         height: 661
+        isCached: true
+  - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T05:08:00Z
+    webUrl: "https://www.natlawreview.com/article/road-generative-ai-key-legal-considerations-automotive-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 32
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
+        width: 500
+        height: 309
         isCached: true
   - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
     excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"

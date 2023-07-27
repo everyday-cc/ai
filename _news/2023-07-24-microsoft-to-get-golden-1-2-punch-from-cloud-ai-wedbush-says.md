@@ -377,6 +377,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Hexaware collaborates with Microsoft to propel innovation with generative AI - Tenjin for Knowledge Services"
+    excerpt: "ISELIN, N.J. and LONDON and MUMBAI, India, July 27, 2023 /PRNewswire/ -- Hexaware, a global frontrunner in IT services and digital solutions, is excited to announce its collaboration with Microsoft to propel technological advancement for businesses ready to embrace the future, harnessing the power of generative artificial intelligence (AI)."
+    publishedDateTime: 2023-07-27T09:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855011.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Microsoft reports slowing cloud growth as it awaits AI revenue"
     excerpt: "The Redmond-based software giant has been introducing generative AI products and services to help boost flagging cloud sales."
     publishedDateTime: 2023-07-26T14:12:00Z

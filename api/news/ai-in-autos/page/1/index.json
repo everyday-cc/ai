@@ -106,49 +106,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-25-kwid-enjoyable-for-self-driving.md",
-      "title": "Kwid Enjoyable For Self Driving",
-      "excerpt": "The Renault Kwid is enjoyable for self-driving. It's a great vehicle for a very reasonable cost. If the rear had power windows as an option, it would be more popular. The service centres also provide excellent service facilities. The construction could be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm",
-      "originalUrl": "https://www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stimg.cardekho.com/images/car-images/large/Renault/KWID/10081/1683289765088/front-left-side-47.jpg",
-          "width": 500,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm?amp=1",
-      "cdnAmpWebUrl": "https://www-cardekho-com.cdn.ampproject.org/c/s/www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm?amp=1",
-      "publishedDateTime": "2023-07-25T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CarDekho",
-        "domain": "cardekho.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-25-nvidia-stock-investors-should-love-what-elon-musk-said-on-teslas-earnings-call-about-ai.md",
       "title": "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI",
       "excerpt": "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article.",
@@ -296,6 +253,58 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free.md",
+      "title": "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free",
+      "excerpt": "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

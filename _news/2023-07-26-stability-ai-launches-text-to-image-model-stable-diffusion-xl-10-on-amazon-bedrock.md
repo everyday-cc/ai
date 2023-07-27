@@ -56,6 +56,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
+    excerpt: "The latest text-to-image model from Stability AI is also released as open access to developers alongside its APINEW YORK, July 26, 2023"
+    publishedDateTime: 2023-07-26T18:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock-1032480848"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Stability AI Unveils Stable Diffusion XL 1.0"
     excerpt: "AI startup Stability AI has taken a significant leap forward in the realm of generative AI models. The company recently announced the release of its latest text-to-image model, Stable Diffusion XL 1.0."
     publishedDateTime: 2023-07-26T18:07:00Z

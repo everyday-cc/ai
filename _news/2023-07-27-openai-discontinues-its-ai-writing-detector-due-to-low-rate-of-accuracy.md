@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
-    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
-    publishedDateTime: 2023-07-22T16:06:00Z
-    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
-    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’"
     excerpt: "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\""
     publishedDateTime: 2023-07-25T17:38:00Z
@@ -120,85 +104,15 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
-    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
-    publishedDateTime: 2023-07-23T16:11:00Z
-    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+  - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
+    excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."
+    publishedDateTime: 2023-07-25T17:50:00Z
+    webUrl: "https://www.cnn.com/2023/07/25/tech/openai-ai-detection-tool/index.html"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
+      name: CNN
+      domain: cnn.com
     quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
-    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
-    publishedDateTime: 2023-07-26T01:23:00Z
-    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "How is generative AI relevant to telecom operators?"
-    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
-    publishedDateTime: 2023-07-24T14:42:00Z
-    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 41
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
-        width: 696
-        height: 382
-        isCached: true
-  - title: "Be prepared for AI technology, PH urged"
-    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
-    publishedDateTime: 2023-07-23T16:36:00Z
-    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "How businesses can leverage AI-generated text"
-    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
-    publishedDateTime: 2023-07-26T23:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
-  - title: "This Startup Wants to Create An AI-Generated CNN"
-    excerpt: "Channel 1 News, from former 'Tosh.0' veteran Scott Zabielski and entrepreneur Adam Mosam, plans to use generative AI to create personalized newscasts."
-    publishedDateTime: 2023-07-26T13:00:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/digital/ai-tv-news-channel-1-news-1235544580/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 17
 
 secured: "+auZ5YBIruYSLVpJIk0o7jBZctIFE6tzZoK9+p4vVmnPloa2rNft5lsh8a5Cvw7YDjUe36u28Jj5dCaVhld9DvmQIRE3ld3p0FYZOC6LAqe6OmlNWpNbjDYvwgLleefgix7Pchoqi/92/gehbqu2id5lDaPzCc7MuRYlsKgmFgcm7TGR7kaIo5yohiwvEFCsYqN/eihd+Jo+QvUacA/vWy5YMKwSC8q5iNaVDB7GCBay13pIFpCoo/HBDGxJuJ6OIGPJ0mnpOXNigbcXKBDkeS3s7fBKXZfCEqQq85+h/vzVzsxrjeXIKUn2fQ79SjAGIZ0Ks+2lMfc5W07ijS6nJg0Ooy3AVTrnQQ4fByZ4GTZgXU6wXQvHfONBSVPwlcIMtnIWCBHaw7r+1J37GqDchAvsTsDYOjycDX8RahyqIO7bBrc2i3j6EJaKF64Z6WylTIdrsi+tlELKcVWMe8NQdLapt/iPGsXVT6PtlGAtg2DjebNEU0CyJrnXfKURSUYGgln+xN3dJFacSJZ6Xgrr4g==;0GWLERqPJv9CwXEHbeO6hw=="
 ---

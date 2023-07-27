@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-ea
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
+    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 45
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "afn9pz4WYMuDWbFVdTgvVziGYDAcFP4f6y9DQMp9Y2hBJLL7rJ19ZV8UGI324ip0+sFFXruDkqFwIv5Weau8azki7Xmz6Ahrbcyay1E8b4pLmLLi3YugctRsEVW65B0SKdXFpIrat8bznJCS3D6XefIP+z1Ie7Slj9x1PcZYyWvtFb7XOXwF1eyp+VRAmAkFYnySXFN3CudliOpb4fscavQ5Lb/PJ8uhs2z5FJgC7Zf7PbCNrdMzSUTBGMDBQELhr6QYtHyqVWKP1PP6kYc6ZNN53uCTnjRBxDbCDlfUy3+GjYAjLjwpbcbdUApj0NQ+6uwWdYj7R7OBrkbob4HbJMJhCvoQbmRNbXzW0zOM2dK0f5sCkPB829CnSdtjR0a0MmN7O1aUfxq3l4YM1lkWctE6u+lE7o5tedCThqVLPMqfddVbN7er0vqsdM6xKuYogFcZamRv7oyrpyCIii+4N8YDSsuPVEEXCGaipw/LdF6lPqOHIYoIqG/cMByiXBf/+lLtJBPjw1va8kWhDaeASQ==;LVRcnkSO+DfkwcOrLncmQQ=="
 ---

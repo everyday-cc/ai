@@ -179,7 +179,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -317,7 +317,7 @@
       "originalUrl": "https://www.ibm.com/blog/it-operations-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -680,44 +680,26 @@
     },
     {
       "path": "_news/2023-07-18-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
-      "title": "IBM has been talking up AI, but here’s what investors should really focus on in earnings",
-      "excerpt": "International Business Machines Corp. may be hitching to the artificial-intelligence bandwagon with its new WatsonX initiative, but analysts are more interested in areas of Big Blue’s business ...",
+      "title": "IBM has been talking up AI, but here's what investors should really focus on in earnings",
+      "excerpt": "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
-      "originalUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-375235/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
-      "publishedDateTime": "2023-07-18T07:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T15:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

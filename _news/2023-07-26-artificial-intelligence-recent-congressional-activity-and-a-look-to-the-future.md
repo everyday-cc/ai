@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence: Recent Congressional Activity and a Look to The Future"
-excerpt: "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative ... perhaps a bit nervously, about “the robots taking over.” While many people in business, medicine, and the arts ..."
-publishedDateTime: 2023-07-26T16:35:00Z
-originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-recent-8605132/"
-webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-recent-8605132/"
+excerpt: "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and social c"
+publishedDateTime: 2023-07-25T22:42:00Z
+originalUrl: "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future"
+webUrl: "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: JD Supra
-  domain: jdsupra.com
+  name: The National Law Review
+  domain: natlawreview.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E"
+    width: 500
+    height: 308
     isCached: true
 
-secured: "eWN/Nrvw6E1iqrhgcIo0DkADmKmzAx0TdfGOC9FlbK+ZVMJ5BgUxYlV+MlnrBduzHlRzK92MKGrq4ns4RWDIavi1pDVTpffvkEsxJplHbCE2L4muj6Y2Y/5Rlo4hZQ9x2UmhSo/Wn+B4gZ9s0OlYbcWiL3PCF49mWhnWhQn6I+QgD+4doaFTUkmzTuGfGCBM12D9oLS1J9i8Fvo4PW0kEhw3DSEE18bpskOlY+vqjrdK5lV315uYI3e4ZyAcyGKBaHRfJ/O4hUFfk6pkrXjOWjaG+8YZreIg3gnW1gF6wtEUD4RiOooh+ZZjAadyyOnyGf1A6w8+pOVDQsTefu4wiR/nhMGYfqgmv/jkDiezzvo=;zIvuSZjdhiCLKPGJN5ljbQ=="
+secured: "5YibBi0Hm2Ql/ZoNP99hX7pERZ3kyieJEMWtD25z0nkw4OH5HeVbc2Q1KQm9Mjrm/pf4+66ihF4t9tWBI8V/YoYFzo32jaz7StS93k2oOkCd/MQvzmNImDG4Egb5dcrS7JDZ1bfwTNa1pOYp+rHvnZD/vBwl959ZanRXo4C3EWvV2z+beIY1mm+O5IkJmeSrVTQcNsbdXCtrcXPZMDGw5zz0CTXfFunY2Y0ZGo2t4pREpzy53adEh0AxOJx5YqDiWxb73j149IuZoMmplGemwMFB/nZT6uXvvUu1+AiaMaTTr7oYwMymiXif2B7wUWM7paG+WxISnWJKaliIr5Ka9ThKUnq6Z7xm5WUWM6a/owg=;G/QiaFFbvOsfxWMKhlEcvA=="
 ---
 

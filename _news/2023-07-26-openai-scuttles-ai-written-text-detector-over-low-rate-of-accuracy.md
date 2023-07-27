@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-de
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: TechCrunch
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
-    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
-    publishedDateTime: 2023-07-22T16:06:00Z
-    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
-    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OpenAI discontinues its AI writing detector due to “low rate of accuracy”"
     excerpt: "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy. We are working to incorporate feedback and are currently researching more effective provenance techniques for text, and have made a commitment to develop and deploy mechanisms that enable users to understand if audio or visual content is AI-generated."
     publishedDateTime: 2023-07-26T19:51:00Z
@@ -120,85 +104,15 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
-    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
-    publishedDateTime: 2023-07-23T16:11:00Z
-    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+  - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
+    excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."
+    publishedDateTime: 2023-07-25T17:50:00Z
+    webUrl: "https://www.cnn.com/2023/07/25/tech/openai-ai-detection-tool/index.html"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
+      name: CNN
+      domain: cnn.com
     quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
-    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
-    publishedDateTime: 2023-07-26T01:23:00Z
-    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "How is generative AI relevant to telecom operators?"
-    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
-    publishedDateTime: 2023-07-24T14:42:00Z
-    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 41
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
-        width: 696
-        height: 382
-        isCached: true
-  - title: "Be prepared for AI technology, PH urged"
-    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
-    publishedDateTime: 2023-07-23T16:36:00Z
-    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "How businesses can leverage AI-generated text"
-    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
-    publishedDateTime: 2023-07-26T23:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
-  - title: "This Startup Wants to Create An AI-Generated CNN"
-    excerpt: "Channel 1 News, from former 'Tosh.0' veteran Scott Zabielski and entrepreneur Adam Mosam, plans to use generative AI to create personalized newscasts."
-    publishedDateTime: 2023-07-26T13:00:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/digital/ai-tv-news-channel-1-news-1235544580/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 17
 
 secured: "gdMXn5pLwJUiO7QPR9LvfAm/FzRxrjgSpUeDhZ6QisW2wsPwb9lwWWYfF2izA5nuvLCiXkAj6wiiSxEwjG5PsVevwQ3f0oF9hTzzfVn+LWaYaRQhXiCJCdzUpnTYKqx8E3wuOx8oBloyfxhW5sf3O77r5PKZ3yut05GH6cy4TQ97lH2mpBySZ5n9r5jTnzdEiwkXOoJ1Hz0/Py2bFai/ETKgFACeepoSQ8RRzEVkREOEhuONtb9VvZpUZ+OosO7neZy9e6zfsy/zjNDh3ZDdHQNEUbiIYmmA/9CGxtnBSRiKDj/PATgXaMpLr6GVyazh9TjoL1PhGrFMduVmapbDBd76EDZIQWEaDsc9IwS2hdKmn6dlRZ8pcuZ1g07I6jQfXeYzP6D+LSzrsU2tEOPfyRBVwRV5efCAK4EAAJprW4uYboqNKMBSwR+5qoOkHxx+zWjeAFY+pb2PJxX91IK8HUZEHjSrgMpZs9qSf9V0iQT9hecNvwywR4YtRkaGR6LayqVfLX5/3dCBB4Dlcri4cg==;VE7LsvmuEBG7v8ZEjmpIww=="
 ---

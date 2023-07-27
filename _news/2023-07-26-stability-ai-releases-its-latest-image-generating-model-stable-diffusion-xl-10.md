@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
+    excerpt: "The latest text-to-image model from Stability AI is also released as open access to developers alongside its APINEW YORK, July 26, 2023"
+    publishedDateTime: 2023-07-26T18:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock-1032480848"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Stability AI launches text-to-image model Stable Diffusion XL 1.0 on Amazon Bedrock"
     excerpt: "SDXL 1.0 is just the latest addition to Stability AI’s growing library of AI models. In April, it announced the release of StableLM, which more closely resembles ChatGPT with its ability to generate text and code. Last month, it debuted Stable Doodle, a “sketch-to-image” tool that works by converting simple sketches into more illuminating images."
     publishedDateTime: 2023-07-26T16:30:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "Will ChatGPT Replace Psychiatrists?"
 excerpt: "Talking to a chatbot about mental health problems is becoming increasingly common. Commentators agree that chatbots may be of support but are not a replacement for mental health professionals. There are concerns that the human element in mental health care has already been disappearing."
-publishedDateTime: 2023-07-26T21:51:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
-webUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
+publishedDateTime: 2023-07-26T20:31:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
+webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,22 @@ images:
     height: 800
     isCached: true
 
-secured: "0TYBHbPiBPIYBm3ZeLAnqluuPP0PPMqVvXsju5sv/d3YFskzrcgtMgCTNUzftOjppVW9BbyK/7QkDFLm3wQqJg/vw4K2COO7+Lk/DBCvUPhfrVKv2dXDuPLZwiysondKo8XC9w5rl1bc10do0uVzE+0eOOBkoB7t/vP6Pe6fXmCIQhiFPqeZQXC6CVUi7II4tqQ+SkGCp2mokk/R4NTjjcOS6V4SmwP3I/GfkUEd5uQ8qXa1QLWwJdWxZMGEaKb+6rcsAUdd+K7iJDzsNee9HUbEjHOUMsGiZhtAJfcrzgGxjrFFQHPHlGTyAm5QnTRIJHZ9Lo2nra3hdm1XF0N05RIakRng+T+FyEETqW8yh391ypTfhsOCSt9dXBJCv4MNyK+huV7phpKgPUg6jPvweHU0F7+qdVJTnn+rVUFrRfYmkw//F2hwCkDGReUo+rnLhchu+eP4G676GGJvh0i/W8IzBOsYfWIrgo+vCOKCDtAqNJIJ6wOVk9MD0H6roZ+ChgFcOPNFFzIEP0HhRXA/2w==;f/wex9GDd+EuUfd8eDp92g=="
+related:
+  - title: "ChatGPT Creator Sam Altman Says AI Will Take People’s Jobs"
+    excerpt: "In The Atlantic interview, Altman calls fake news on the idea experts are sharing that AI chatbots will be a sort of assistant to discerning professionals who choose to embrace AI and gain efficiencies on their co-workers who do not."
+    publishedDateTime: 2023-07-26T11:04:00Z
+    webUrl: "https://tech.co/news/chatgpt-will-take-jobs"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/26065813/robots-taking-jobs-1.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+
+secured: "Al/uiF82oVVJBU3vrYozdR0iIanhHKWJIHpITYxH3pNhmAYqIgpaklrGlXgCHiJwbFPsRDy5AKZB31N0TReMuKxIbGnH3fEH+LyWVC+bJ8xAaDjaR9Ll+PMstaxhwJXk3mSp44AUbHVuz6aQpRHSlJlaAJBt6enuHp/pLTkFcKDX/Ne3YYfcwAHGQLZearhU/xwvv2aqS3cBDYVHCUVu5zMA1SkJUWLvkpWklXkFgCEW2Lfeji0yNRMxToq1EwzCdve6QHIJTvdFM0kojbA/HgYxUwQzXk8YiXuGbLSeh5f3yJT8qMtEcME10CbSbLyirpfLamxbkscEdStDM+BXp73FZlkQL9rhl/5B5a06n5c=;dV0sHlWPTpm9lDpsk2Vixw=="
 ---
 

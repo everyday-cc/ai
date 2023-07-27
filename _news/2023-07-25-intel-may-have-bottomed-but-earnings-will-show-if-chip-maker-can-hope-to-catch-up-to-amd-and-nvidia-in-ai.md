@@ -85,6 +85,20 @@ related:
         width: 834
         height: 556
         isCached: true
+  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
+    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 45
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "064/j+Hpq4hjRp2v1noPPRzgXJ6R46Md2nwlzXPyEKxCvpu83+RkPCE9JKSr4vDW5dPplG82cW/vP5aRnGTVMiBUDGK/b6D/kBITmYIqsrm6wosB5w0UQL0/n20VTBFqXJjKP4JVK3MamnLbHcXoBFZchby9SGVw+RamweUzgiEsu/njubeeEvwg42UlxT+Bu3vNT8QhX9P6+68Tj7Oh2c9iGNE/Bpif/Bz7+T25aAj3ZtFtmRsA5k6vdH7WMQbbMHKuyvOnNyKeutR/gVf2RCc1h7D8KvLDPsj51lza7u2UXcarZ8j3fhTsI8jiM8ZvDR2WqYG3g7YfGwbod0Qi4odudJd1QTY13N0wPNXCcedz7GrD+o+IP5UF4ws7+oM4fIj2Ml9AKOf3AVJx8d5teu9wPhsYy9yu7H0AJghVEK42A9zC3qd6VKS6lxJfrHCFMKkMqaqiJrttWssK3hfmQUxFQcl7optfZVLMyOK793bZeHUb4sphIL4ukQY9BxZOURCE698rvTbFC6HK2jaS4A==;0VIPFEswRDtS1K0lk6x2CQ=="
 ---

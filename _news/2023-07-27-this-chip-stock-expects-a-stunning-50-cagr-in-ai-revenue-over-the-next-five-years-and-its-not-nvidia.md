@@ -86,6 +86,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
+    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 45
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "p3yw8kiceJtbGLnoJ1XZmYz6UHt3ltmCms7n+asYPlrs34haokjX7H/I6ey8lk3WNodIKddhK2UPcsq4Oyfab46Xvvoqb9nWp/mJ8P6mzmioxOAkTPi79WTLcQotK/yZVCvn05Rwxg6PEBGC92oJg8Uo9E5AsJUJqQehEHRSwfLpd7AAcnSuFGOhMS+kNZ9Xn7kR6tlRG3G/RZpt+A020CLGKMKamz0WAHekMrHW120SzXEYjuI8gYBK8S7heQAmHZc/lKZVWTFvgKRv8i61b1O8T3Iv7y/jaarL7thJv/eZqnJY3jRSqwe40V8zbTBIwnT7S6hjaJVXCZyRdML/qGFgRo6NQzhFnArXW8zl95I7v+ilNWpa4cUAAwM7jGqmF3eOiBfh8qLLrl2bquPoIhedAJtAKnoHkxMZzMfIAAHmmJe+WFyVI8uYwbG5aNab9IjbXJppF2D5nldUy/O46zci0L0bTsii87ojTg69BvwvuMwZpsfRiVoTxd+z6sC1F3Zeyfmvq30GcDLbpErLvA==;tBraTeJMqeV0S+EXWyK3LQ=="
 ---

@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "US-India ties: President Joe Biden's Science Adviser calls for AI collaboration with India"
-    excerpt: "The Science Advisor to President Biden, Arati Prabhakar, said that the US and countries like India need to collaborate on shaping the course of artificial intelligence. This comes after the US administration enlisted the help of IT giants to prevent the misuse of AI."
-    publishedDateTime: 2023-07-22T15:58:00Z
-    webUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india-11689997881762.html"
-    ampWebUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/22/600x338/USA-BIDEN-SCIENCE-ADVISER-0_1655872000116_1689999784119.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI-generated anchors are making headlines in India"
     excerpt: "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor."
     publishedDateTime: 2023-07-25T18:27:00Z

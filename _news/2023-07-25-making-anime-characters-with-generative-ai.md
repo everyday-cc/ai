@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ASEAN’s Fintech Sector Attracts US$5.7Billion; Singapore Leads"
+    excerpt: "\"In the surge of a $5.7 billion investment wave, Singapore cements its role as the crucial gateway in the ASEAN Fintech landscape."
+    publishedDateTime: 2023-07-27T08:04:00Z
+    webUrl: "https://fintechnews.sg/76777/green-fintech/aseans-fintech-sector-attracts-us5-7billion-singapore-leads/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/Screenshot-2023-07-23-233407.png?x37864"
+        width: 768
+        height: 376
+        isCached: true
 
 secured: "dx5LwuIoEyqRy22iDqMKC89gi0iuxq2Kpb5PAodnqHxY0T7cNv1yk3MVifHaWoFnfQ4WU7Ksa6KI/vFQcwULmx3cVIpcJj36FssW0Il42FZ0lRM+rdzF1KmGads8dtLB6mby44yO1O0rCyFtm8ov6sOAHOuR6X7lMI/Ul8dIs0DgR125Rep3iNB5/O8yZ3AMz9WwUuD28bnQ0Ou3yPe4Hw1x4uPI/0vV8cECWw9cSDyjGE2e/zSomg3CvzInTNVYx4mLNbM4cT9Ej1M1yEXDId+vDKpYmSjqetBc9ohWAuQzuOBMEdUT28ugRfGAZ+A3edhQGr0C3gVBb24/siQCHdioTaqrcbDOmnovQvnOOSuqdcle1O3P7I3eBBJ8WSRUVb5Nh3JeOstRBNFfF7Hn6P9hMNCHyuTNDdWUuXkBfch2PeYnhQ9SX1pjphusHzKMqIKF0KrTlJEg5rGMpHrC5cBbFTFyWGvY2cCEf2xAN2hL7cq4UNjG1fEOmUvaA7TdRf29xqpftH5XPE7ktIjOtA==;vkzoUo795p7Gqs0ulxVJZQ=="
 ---

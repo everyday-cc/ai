@@ -33,6 +33,20 @@ related:
         width: 683
         height: 512
         isCached: true
+  - title: "Congress Urged to Regulate Self-Driving Vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry on July 26 warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-26T22:05:00Z
+    webUrl: "https://www.ttnews.com/articles/house-self-driving-vehicles"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/John-Bozella-650.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "F8sxCAneU2BUp48lTh77f0MMpCuyujYok7BSqHgZCGRvPW9KD6H8GtMuLghd2RX1CPj1uqgHhJxhzElm1+SkU9+lAXCdMdwBcxefBww9l9SQB1ds+R5OqKxPz6PnSq7qldmAGuxJr7S9hGoFIlHAlYJdQfu84MwQq1lYA3s9jv+mTS3PROZ7Nyai/42/deXwicfIhQISCqFu6Wn3eu59BkVIccX6Us3A7bMDfOP9pbPOCpTMff4YBWuxih3awjzlQpLxArzTEjjosFlC6auqcIpT3LXDLq09kfAwdojdwxflUjNbwXpWrsvEf2Q61CO4FG3HusAD8PpQuv385cMVEvtv6Z1RJHua/lJ4xTzeOuyBpP35p4lcd8d7qK8L+MfgEtlBr7BfEOYzA8s4wgNrAgwaZ7nL8S7AN+3+EkTB1HFn45nEp5qaOOm4b09qFjtWodHD//3RO/0ln+vVBmXPLtxlZ7hrWtjX/M53gc6w5y/rD7HY+6KqGAWuVJ4JeE1I9I0El5zEprXrWOUVQtaF/g==;o7eb9vUbsprC4jJElqIPnQ=="
 ---

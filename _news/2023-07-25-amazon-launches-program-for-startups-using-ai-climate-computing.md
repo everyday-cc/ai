@@ -76,6 +76,20 @@ related:
         width: 1260
         height: 680
         isCached: true
+  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
+    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
+    publishedDateTime: 2023-07-27T07:50:00Z
+    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 24
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
+        width: 684
+        height: 358
+        isCached: true
   - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
     excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
     publishedDateTime: 2023-07-26T15:29:00Z

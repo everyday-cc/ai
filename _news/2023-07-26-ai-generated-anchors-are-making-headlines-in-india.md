@@ -86,22 +86,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "US-India ties: President Joe Biden's Science Adviser calls for AI collaboration with India"
-    excerpt: "The Science Advisor to President Biden, Arati Prabhakar, said that the US and countries like India need to collaborate on shaping the course of artificial intelligence. This comes after the US administration enlisted the help of IT giants to prevent the misuse of AI."
-    publishedDateTime: 2023-07-22T15:58:00Z
-    webUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india-11689997881762.html"
-    ampWebUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/22/600x338/USA-BIDEN-SCIENCE-ADVISER-0_1655872000116_1689999784119.JPG"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "1/QEVH7W1hp0QuRX5kr299xFwZC6OIMBTHkVYO/YEmE0gkycy3jJom77yYooyPbWMLNKoR3vm+sAbVHZGrC+NnbUtrv6MD3vF9cPckuWmwavvYpfCfGEW++d2pVUAsKEWkTIYY5VGxuR0ZMOYF8ApwS1q2fnkgVA/zBikGKJrSxtjYj5maUO6KmUPc/BBWIKTfcLlgGpsxwPq4bvB9RCgtakvIAuuUJFAaGVIsa2YYusuQMZ83+nk7XlbXHFT/69GJQJAw693N6EOw70wBm7sLA2Ke+WEKECvbzdYpKwRSbSzPsU0eGpsv8Qwd8G2nHzzRcF+2F6oq27f/9m9JpWqYtPyxqcg6iZGkH7x5G+3PElDUp/FuFExqMV6Oy2fpywP+8TVvike3ZVZ2ywh0Wn+DdUPiN4+vn0aKi2N73+uqX3+vKaI34LIxeNLumvcf2o35P3qDYM5zMRXbu5L1nn0VRr7GvMmEvYWEKa8brmHcA1PlusXxFo3nkPT6hEZl8/KJtLc1GdehwkklDVjYM/jQ==;v0TBg92MsNylnOzgddcrOQ=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Introducing Microsoft Fabric: The future of data analytics"
+    excerpt: "Microsoft Fabric is a unified SaaS platform bridging the data and intelligence gap, says Zia Marais, engagement lead at Decision Inc."
+    publishedDateTime: 2023-07-27T09:06:00Z
+    webUrl: "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/07/Decision-Inc-27July2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Using Predictive Analytics And Machine Learning For Engaging Content"
     excerpt: "Your businesses could be leveraging predictive analytics and machine learning to help provide a more personalized user experience. By gathering data on how users interact with your site—such as which pages they visit,"
     publishedDateTime: 2023-07-26T12:31:00Z

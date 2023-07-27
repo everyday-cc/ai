@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Congress Urged to Regulate Self-Driving Vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry on July 26 warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-26T22:05:00Z
+    webUrl: "https://www.ttnews.com/articles/house-self-driving-vehicles"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/John-Bozella-650.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Congress urged to help get more self-driving vehicles on US roads"
     excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal government doesn't take steps in support of fully autonomous vehicles."
     publishedDateTime: 2023-07-26T18:59:00Z

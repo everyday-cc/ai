@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Introducing Microsoft Fabric: The future of data analytics"
+    excerpt: "Microsoft Fabric is a unified SaaS platform bridging the data and intelligence gap, says Zia Marais, engagement lead at Decision Inc."
+    publishedDateTime: 2023-07-27T09:06:00Z
+    webUrl: "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/07/Decision-Inc-27July2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Future of Data Analytics: 9 Emerging Trends and Technologies to Watch Out"
     excerpt: "In the rapidly evolving digital age, data has become the new currency, and organizations are harnessing its power to gain valuable insights and make informed...Read More The post The Future of Data Analytics: 9 Emerging Trends and Technologies to Watch Out appeared first on ISHIR | Software Development India."
     publishedDateTime: 2023-07-24T14:59:00Z

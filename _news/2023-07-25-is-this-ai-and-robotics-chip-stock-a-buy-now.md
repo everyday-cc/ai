@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-
 webUrl: "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/"
 type: article
 quality: 116
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Applying Artificial Intelligence to Robotics"
+    excerpt: "In this article, AZoRobotics explores the use of artificial intelligence in robotics, covering the challenges, applications and future prospects."
+    publishedDateTime: 2023-07-24T09:30:00Z
+    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=620"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 69
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/SocialSharingImage_620_16901909350143578.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "2 Top Artificial Intelligence Stocks to Buy Right Now"
     excerpt: "Nvidia ( NVDA 2.39%) and Microsoft ( MSFT 1.70%) are no-brainers. These top AI stocks delivered stellar returns to investors in recent years, and are already outperforming the market again in 2023 thanks to the growing demand for AI hardware and software. Here's why these two stocks are still great buys."
     publishedDateTime: 2023-07-26T09:05:00Z

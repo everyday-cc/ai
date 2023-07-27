@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nvidia Jumps Higher As Mizuho Analysts See $300 Billion AI Chip Potential"
-    excerpt: "Nvidia's 'dominating' presence in the expanding AI chip market could peg its market value near $2 trillion by 2027."
-    publishedDateTime: 2023-07-24T11:14:00Z
-    webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-jumps-higher-as-mizuho-analysts-see-300-billion-ai-chip-potential/article_c8d769fa-de43-5e5e-a3e9-d72ff9bd3b59.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/c8/dc8b0143-bc99-531f-b239-97980bd7e244/64be6d07c4dac.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
-        width: 620
-        height: 326
-        isCached: true
   - title: "NVIDIA stock could hit $769 on ~$300 billion AI opportunity by 2027 - Mizuho"
     excerpt: "“Assuming $30-100B AI revenues (or ~$65B at the midpoint), we estimate implied share price to reflect AI estimates for C23-25E would be $490-$769/share, and a midpoint at ~$625 PT,” the analysts concluded. The $769/share price implies Nvidia’s market cap at ~$1.9 trillion. Mizuho’s current price target on NVDA stock is $530 per share."
     publishedDateTime: 2023-07-24T09:31:00Z
@@ -75,6 +61,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia Jumps Higher as Mizuho Analysts See $300 Billion AI Chip Potential"
+    excerpt: "Nvidia's 'dominating' presence in the expanding AI chip market could peg its market value near $2 trillion by 2027."
+    publishedDateTime: 2023-07-24T15:14:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-higher-as-mizuho-analysts-see-300-billion-ai-potential"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 33
 
 secured: "REbCt/BaGInfW/UHvRSezNDcvYkN6ufxDv6PqHM+vL+yUTKQ4ePJqP4ayk8D1z/+sqVH2TUkGAFn/QHa06/3rpOlHcU4Tvh4gNrGqME7aLm6YeTIAM43sV+ujVgh1fZKreGKJVBOHG72iNBhl+5CTwm7c81lpv4QZ86TqjqxW/PdGLLLg01q0/93unmM7Roka6xNSz5B3Tz1NMmP5AL0AOzfUd77V4pd9U6sr1RD9poyHTIiyoMqPRAq1wNf03vILKvghJPvhTVwlfTIq0U6zrOoYDZTaGv4eLo7GTiG2XU1zunYTZRNDyvIQd3cCk0rKga8ytelX7VH/8ulYgV4fMd0IrHyN0vNJvP21Z2agGHh+Ix5wGGhRs9qrVriafxgPOmfJpRdQnX4Z9hC2DEuhmaLtuqOY11x8adVeq5MfwOfoQBLG3SusTlA15mZ+ySVkU/q2vHk13RUUMJySkUs6nkKLrHPPlXdN+2ksdrnDmYeCCk/bAHBIHBSWzFVR5sype/zttxYsJ6o52cyKLukrg==;XGpPk1KSRVwo5aATYUTs/A=="
 ---
