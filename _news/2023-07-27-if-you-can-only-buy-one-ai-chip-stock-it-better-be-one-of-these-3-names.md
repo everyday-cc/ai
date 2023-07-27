@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -28,15 +28,6 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
     publishedDateTime: 2023-07-24T15:29:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
-    publishedDateTime: 2023-07-25T00:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
     type: article
     provider:
       name: Business Insider

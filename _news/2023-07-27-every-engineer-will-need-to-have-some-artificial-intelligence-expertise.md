@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI and machine learning can personalise experiences in logistics"
-    excerpt: "When talking about AI-driven personalization for consumer engagement in logistics, its impact extends to transparency and communication besides just improved delivery experiences. According to a survey conducted by Deloitte, 79% of customers consider shipment visibility as a crucial factor in their overall satisfaction with a logistics provider."
-    publishedDateTime: 2023-07-23T04:12:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design139.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
     excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
     publishedDateTime: 2023-07-24T19:56:00Z

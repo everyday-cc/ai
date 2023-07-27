@@ -62,6 +62,38 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Can AI detectors save us from ChatGPT? I tried 5 online tools to find out"
+    excerpt: "With the sudden arrival of ChatGPT, educators and editors are facing a worrying surge of automated content submissions. We look at the problem and what might be done."
+    publishedDateTime: 2023-07-27T20:22:00Z
+    webUrl: "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-5-online-tools-to-find-out/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-5-online-tools-to-find-out/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-5-online-tools-to-find-out/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/69f53b17fd222baf337bde0508984dc0abbc56a2/2023/01/13/1b3cc46b-7c9b-445f-a88d-dc026d97e8e3/gettyimages-1418475387-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How researchers broke ChatGPT and what it could mean for future AI development"
+    excerpt: "Researchers bypassed the safety guardrails for ChatGPT, Bard, and Claude with a series of adversarial attacks."
+    publishedDateTime: 2023-07-27T20:58:00Z
+    webUrl: "https://www.zdnet.com/article/vulnerabilities-in-chatgpt-and-other-chatbots/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/vulnerabilities-in-chatgpt-and-other-chatbots/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vulnerabilities-in-chatgpt-and-other-chatbots/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/a65a72740549608a20705cc725ca8ff12c9a4947/2023/07/27/57788348-5325-46ad-9107-acdfe7d3b46b/gettyimages-1488400461.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools"
     excerpt: "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google"
     publishedDateTime: 2023-07-26T16:18:00Z
@@ -75,6 +107,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHYEvk8TxBUA/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Researchers jailbreak AI chatbots, including ChatGPT"
+    excerpt: "If you know the right string of seemingly random characters to add to the end of a prompt, it turns out just about any chatbot will turn evil."
+    publishedDateTime: 2023-07-27T21:09:00Z
+    webUrl: "https://mashable.com/article/chatgpt-claude-ai-chatbot-jailbreak"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/05q1XWgdyFHuBkikh5uAi3Z/hero-image.fill.size_1200x675.v1690489389.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
@@ -109,6 +155,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "DoorDash Is Working on an AI Chatbot to Speed Up Food Ordering"
+    excerpt: "DoorDash Inc., the US food-delivery service that competes with Uber Technologies Inc. and GrubHub, is looking to speed up ordering and help customers find food options with an artificial intelligence-based chatbot."
+    publishedDateTime: 2023-07-27T19:06:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-27/doordash-is-working-on-an-ai-chatbot-to-speed-up-food-ordering"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 47
   - title: "It’s time to break the ChatGPT habit"
     excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
@@ -188,6 +243,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "A Christian Chatbot? How AI Could Transform Bible Study"
+    excerpt: "Nils Gulbranson hopes his “Christian ChatGPT,” Biblemate.io, will help believers and non-believers to find answers to life’s"
+    publishedDateTime: 2023-07-27T20:00:00Z
+    webUrl: "https://www.movieguide.org/news-articles/a-christian-chatbot-how-ai-could-transform-bible-study.html"
+    type: article
+    provider:
+      name: Movieguide
+      domain: movieguide.org
+    quality: 39
+    images:
+      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/07/mojahid-mottakin-lmhMI34pPMA-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "ChatGPT broke the Turing test — the race is on for new ways to assess AI"
     excerpt: "In a test consisting of a series of brightly coloured blocks arranged on a screen, most people can spot the connecting patterns. But GPT-4, the most advanced version of the AI system behind the chatbot ChatGPT and the search engine Bing,"
     publishedDateTime: 2023-07-25T17:19:00Z

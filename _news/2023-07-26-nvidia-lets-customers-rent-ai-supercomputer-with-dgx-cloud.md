@@ -25,20 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service"
-    excerpt: "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article."
-    publishedDateTime: 2023-07-26T13:33:00Z
-    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
+  - title: "Banning Nvidia Chips In China Likely Won’t Deter China’s AI Progress"
+    excerpt: "The U.S. Government is considering new export controls on semiconductors made by U.S. companies, especially chips from Nvidia used in training AI models and running"
+    publishedDateTime: 2023-07-27T21:29:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg"
-        width: 1600
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to Nvidia and AMD in AI"
+    excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
+    publishedDateTime: 2023-07-24T21:24:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94?-cfp"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://images.mktw.net/im-822646/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Is the Clear AI-Chip Winner, Analyst Says. Why There’s Hope for Intel, AMD."
+    excerpt: "Mizuho analyst Vijay Rakesh raised his target price on Nvidia but said the growth of artificial intelligence is a tailwind for AMD and Intel too."
+    publishedDateTime: 2023-07-24T14:12:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 68
+    images:
+      - url: "https://images.barrons.com/im-803090/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "This Chip Stock Expects a Stunning 50% CAGR in AI Revenue Over the Next Five Years, and It's Not Nvidia"
+    excerpt: "This Chip Stock Expects a Stunning 50% CAGR in AI Revenue Over the Next Five Years, and It's Not Nvidia Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-07-26T22:31:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/this-chip-stock-expects-a-stunning-50-cagr-in-ai-r/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/741382/copy-of-jose-najarro-2023-07-25t181225501.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
+    publishedDateTime: 2023-07-25T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
     excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
     publishedDateTime: 2023-07-25T03:43:00Z
@@ -55,38 +112,15 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
-    excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
-    publishedDateTime: 2023-07-25T14:18:00Z
-    webUrl: "https://siliconangle.com/2023/07/25/nvidias-dgx-cloud-platform-now-available-offering-instant-access-generative-ai-infrastructure/"
+  - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to AMD and Nvidia in AI"
+    excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
+    publishedDateTime: 2023-07-24T19:41:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/NVIDIA-DGX-Cloud-Image.jpg"
-        width: 1260
-        height: 680
-        isCached: true
-  - title: "Amazon launches program for startups using AI, climate computing"
-    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
-  - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
-    excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
-    publishedDateTime: 2023-07-26T15:29:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startup-cerebras-takes-nvidia-ai-supercomputer"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
 
 secured: "nNerYAX1OpLQEcaHuBt3mwupDTJSwpPLiZ6AqeanKd7pZ7xogzp8pY91iYFKLxLHcbA6P0gOgZSNPILaoHPbbYUGHPN9QE9npv/HKa8p209GkoCjGLsxFOchPCm+ymqC1GMrEF+lr3VsMOxtzj0k/kDPJ79wfblBu5wqfplJ55zkE1KHyUDm06uywIcJxfng/umvYUyG56oQdGadtzPcVZByJkVylAQBxk+zrv0NKAOPDQJ+hC6dcSc8LuBq8vrv6HA2NiL0LHrRV7rqKZMmV4vMDbaC/TPuPb5L2aW6Uexz9iS1zKQwRgu8yqDCQFupoYC0ttSrpCdHX5XOSsRX8M9z2xhflatKJxZ63S3krdc=;z2SfZbuL52M2qVqSvbgKMw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for
 cdnAmpWebUrl: "https://www-cardekho-com.cdn.ampproject.org/c/s/www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CarDekho
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advocates for People with Disabilities Want Expansion of Autonomous (Self Driving) Taxi Services"
-    excerpt: "San Francisco’s LightHouse for the Blind and Visually Impaired, along with other community organizations, are urging state regulators to approve Waymo’s permit for its 24/7 self-driving car service. These organizations argue that autonomous vehicles are safer and provide more accessibility and independence for people with disabilities than traditional ride-hailing services."
-    publishedDateTime: 2023-07-23T03:54:00Z
-    webUrl: "https://assistivetechnologyblog.com/2023/07/waymo-robotaxi.html"
-    ampWebUrl: "https://assistivetechnologyblog.com/2023/07/waymo-robotaxi.html/amp"
-    cdnAmpWebUrl: "https://assistivetechnologyblog-com.cdn.ampproject.org/c/s/assistivetechnologyblog.com/2023/07/waymo-robotaxi.html/amp"
-    type: article
-    provider:
-      name: assistivetechnologyblog
-      domain: assistivetechnologyblog.com
-    quality: 46
-    images:
-      - url: "https://assistivetechnologyblog.com/wp-content/uploads/2023/07/Screenshot-2023-07-22-at-10.40.48-PM.png"
-        width: 1358
-        height: 802
-        isCached: true
   - title: "US Congress seeks to draw up regulations for self-driving autos"
     excerpt: "During a congressional hearing next week US lawmakers will aim to revive draft legislation to regulate self-driving cars"
     publishedDateTime: 2023-07-23T05:48:00Z

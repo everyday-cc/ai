@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Waymo pumps the brakes on self-driving trucks"
+    excerpt: "Waymo still plans to continue to collaborate with DTNA to advance the technical development of an autonomous trucking platform."
+    publishedDateTime: 2023-07-27T17:56:00Z
+    webUrl: "https://www.therobotreport.com/waymo-pumps-the-brakes-on-self-driving-trucks/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 49
   - title: "Waymo shelves self-driving commercial trucking operations in favor of taxi cab business"
     excerpt: "The CEOs of Waymo, Tekedra Mawakana and Dmitri Dolgov, said that their company will now be primarily focused on ride-hailing services, and will be investing their efforts and resources accordingly."
     publishedDateTime: 2023-07-27T08:26:00Z

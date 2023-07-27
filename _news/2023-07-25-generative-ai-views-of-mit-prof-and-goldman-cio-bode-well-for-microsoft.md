@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 638
+heat: 648
 published: true
 
 provider:
@@ -477,6 +477,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230726vl200_files/1_2b.jpg"
         width: 1280
         height: 865
+        isCached: true
+  - title: "Dentsu goes with Microsoft to unleash AI"
+    excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
+    publishedDateTime: 2023-07-27T21:33:00Z
+    webUrl: "https://www.adnews.com.au/news/dentsu-goes-with-microsoft-to-unleash-ai"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_300,g_faces:center,f_auto/http%3A%2F%2Fyaffa-cdn.s3.amazonaws.com%2Fadnews%2Flive%2Fimages%2FdmImage%2FStandardImage%2Fhighway-eric-weber-via-unsplash2.jpg"
+        width: 300
+        height: 203
         isCached: true
   - title: "Dentsu Partners with Microsoft to Unleash AI-powered Innovation for Brands"
     excerpt: "Little Black Book, Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment"

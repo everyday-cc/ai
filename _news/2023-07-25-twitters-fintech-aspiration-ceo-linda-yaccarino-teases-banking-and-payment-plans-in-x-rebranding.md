@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Transformers: the Google scientists who pioneered an AI revolution"
-    excerpt: "Their paper paved the way for the rise of large language models. But all have since left the Silicon Valley giant"
-    publishedDateTime: 2023-07-23T04:00:00Z
-    webUrl: "https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "Pd4ijhQfqV5S8StJLWROuxantC6px7ZB6gA7M5E9UYis/rftIbab4jACmB35ckyL9G2JuBfT9jFjYHqe3t2Mu4c1MYe9xitUrPemfPdLzaqzifqEGfsbjLgYPGY7Y9sV0tEC8l5VSTEcZsKsQfZRMYgXsNKxbd/djxkJN+qhVbrI2K8lGyHSsktoboqxaWo8LQmDAMh3/nBKp/d4mFuJ6flsbca4J4BkqWuaHWsy5K0SQ7QzerB7fJrVemRA5LH/FATHfIjlB46a1awox8sEj2v1x1GeNLa3eJEqpwxxHxs4L+VM2ldZFmmlMgQFmy9slBTUgVOjDQeq7TQmwY51SlMyu0RlNrjPgvpjOyimApU=;EfUNBTIdBcVrLH5xngRwjQ=="
 ---

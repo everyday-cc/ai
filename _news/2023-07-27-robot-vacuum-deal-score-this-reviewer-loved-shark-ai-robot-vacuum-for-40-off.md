@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewe
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/"
 type: article
-quality: 70
-heat: 80
+quality: 72
+heat: 82
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/14/d229c37b-5441-4ada-9e20-437bdf0ce2bd/thumbnail/1200x630/3b4bc9d8b4342f925e9f92d06aef8499/shark-ai-robovac-header.png?v=86db2ab42e1f4996c0f037a20ce5a325"
@@ -37,13 +38,13 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/04/855a7ea3-159f-48ec-955d-d1ff89de0e09/thumbnail/1200x630/a08a2e52a3fe6d6034ef8ff1297f1c79/robot-vacuum-hero-oct-4.jpg?v=86db2ab42e1f4996c0f037a20ce5a325"
         width: 1200
         height: 630
         isCached: true
 
-secured: "1jAKI05g6MLcBkGSr1VKOVFT35nkXnYFppTjz9DHi5pDP0AZEV2e15SlbauPtpWRzqNsnzGmwm+L+vd1sbdOZSfQoBNm5PkyrrMweD0zEcW69pHbr0KCollzJ7QnMckWXFXTxr7q2yBkAKkksT1QLhBazRViGBGghLPhTpVdkEjND72QgoHmYOryzg7JGJpXAiJjqOljwOBbJFCbJ1PfUXTwwgVsWOKfPjl8SbUUSyb+r7z1Ib5lKGOTJU5qfT6d40p0GG5Elq8dVYHQxPi9gpnwtWzkSy4y4qIdyxjWMpgmLgHOgOAN7QK8yYjA6CLyQTAw11n6grXWrg2DoQmNmLLabTkpl5x8QVzLXlcqGvM=;9efr8jp+jF8zVoj3kpHGOA=="
+secured: "6MzrDpkKywNd1sWpIPccEOs0NOWWK1uxTFJPOhbEcnLOAReVJ+dRx3xhIbrtFOU3l7g5S9y8HUdeAsSn0qUcjhFyouoz1eLjvzXAGgomN5SOu19trEFA3YDmjjxhMFPfG5X+9EDW5CMc72XrQSbIBPfyJZpzRilqkLTc3465LAobT1Yn4CQtzgfaf9Y1WJvzP4rjMEJISMJINZfa7uisZvInK6II92PCWDAmHYZmzFRN4/rzgdBeqZvktw1ZRzyZvGsQHm2wdAf8FAXs+9a0avjPpHet+ml51+HCbNolmw0Fj4VGx2zX+slFrGvaFPdeKf+FdiZu3bRqgnqThqHeAq8GUK361rr+Pfy7/kzI8IvollKh7sOOThxfmhzWD3BrJ0IHFf2U5QiPzfl2TTpVnWBz6wuozA6d93+KZK/7e4QHa+Id4RWUde8XAH8ch6hL7mJPTdNwZbot2IDywloAV7oJrk7QQA+joGreeN6MuzCoYl2IOO8Dq3sOnXCkb4AjmAE78UmbvsP3TA5qSK/dzQ==;t65qkrPkkeYiyCKYaoTJaw=="
 ---
 

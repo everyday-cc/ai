@@ -117,6 +117,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "The AI apocalypse might begin with a cost-cutting healthcare algorithm"
+    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us."
+    publishedDateTime: 2023-07-27T15:45:00Z
+    webUrl: "https://www.codastory.com/newsletters/cigna-ai-healthcare-algorithm/"
+    type: article
+    provider:
+      name: Coda Story
+      domain: codastory.com
+    quality: 54
+    images:
+      - url: "https://www.codastory.com/wp-content/uploads/2023/02/ATfacebook.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hands-on experience can help healthcare workers appreciate AI more: Report"
     excerpt: "As artificial intelligence (AI) increasingly finds its way into healthcare, physicians can recognise the true value of its advantages in clinical practice more prominently after successful implementation and regular usage in their day-to-day work,"
     publishedDateTime: 2023-07-27T11:56:00Z

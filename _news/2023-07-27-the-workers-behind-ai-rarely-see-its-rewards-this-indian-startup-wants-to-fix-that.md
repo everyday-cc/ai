@@ -3,10 +3,10 @@ category: news
 title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
 excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
 publishedDateTime: 2023-07-27T10:44:00Z
-originalUrl: "https://time.com/6297403/india-ai-kayra-startup/"
-webUrl: "https://time.com/6297403/india-ai-kayra-startup/"
+originalUrl: "https://time.com/6297403/india-ai-karya-startup/"
+webUrl: "https://time.com/6297403/india-ai-karya-startup/"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85"
-    width: 2400
-    height: 1800
-    isCached: true
 
 related:
   - title: "Indian tech giant Wipro to invest $1B in AI"
@@ -162,7 +156,16 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Indian Startup Looks to Change the Lives of Marginalized People Through AI"
+    excerpt: "A startup in India is revolutionizing artificial intelligence (AI) to make it transformative for the poorest and most marginalized people in the communities."
+    publishedDateTime: 2023-07-27T16:00:00Z
+    webUrl: "https://www.techtimes.com/articles/294357/20230727/indian-startup-karya-changing-lives-many-marginalized-people-through-ai.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 15
 
-secured: "d4GfVGsTxAd65+PgRs+eGxieD4K5UyGHb1dxbictt9OJ3byLVcQUatzM4pAHhgGOF2wk8smOq3+IiQZuilOVgefLGtoqirrFrCmsONoSToAEGXFqm/0UUxL1ScLqnd+gQofbnd54hY/UAwoExP5/boHIMJJfw8qf6NXfMGOX77Z5/EPJZxGROkNrov1imcWurKgRcKl4JqjfpbQwvt8vcfP+Hn/SovutzlFI+nCY8KwR5BmyRdjwZ4f7WuEuDmmgvaJEBbAAOnCWv1BJ7yB59+Gc+82PeW0Z6dm8fOgJeI9BMZT1Yi5cs8iXcJ6xy8f4KYzE2vCLB6OOPxvd49TaCoJQ82huo2nmdf44EQERWtk=;JaMzEihX4Bx4PcJ/0qSGAg=="
+secured: "zyaxeOVOG2Uh81WWaz4PCTDtG2uMh4jzAxBttO5XOHSnGrQmazoNTrgl4aYigSnO4y0ntxhUuZPJFbTvNSjC1fzT7nEIo9BegbPgorv80ztfA1km47F7adWew9jPibplbAPUh5nXLv/Dld4VmZ4Y9tCchJT7a6o0Pzbx5QBShE4BNEdr2SUuWLzsdX0KBQ+MM9EEQXrarDRf6EMd28jrLDq1rhLfpWFRn8VY10PM3pi9r6rqGsk17E7nqJdLR1L+ZI90Bs4nGNBxtl1xFurVVqqqbXnDMSlQ31Vl/KWiVQbk/1YHkoxNzNtm5xfiiZbyX25RjDVIUmBAp2z1OQwgzJvNFks83ZYnkHuFFZ21GS3iRDWVvD7G9cH2qm/kviV6oPOrvbPlWL/tjXGNRSoeM/K5HDNG/ulaz+chttvy4CUAQPEx0N8bPq6lNH3o3A+DDWqfx0BQbGVClOS0fgoPS7Q0hkwuQRUGTFsVH5Fc1PZmORNjFodQ+/pu4hV95V8ZTlsRxMWgi4WqJ+fL+lIErw==;1bEHkal3QAYE85hP3Vl7qQ=="
 ---
 

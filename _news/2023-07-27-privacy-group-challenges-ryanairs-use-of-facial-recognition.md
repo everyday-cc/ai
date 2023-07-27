@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-c
 webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
+    excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
+    publishedDateTime: 2023-07-27T21:15:00Z
+    webUrl: "https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
     excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."

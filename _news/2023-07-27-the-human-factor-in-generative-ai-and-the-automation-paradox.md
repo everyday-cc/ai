@@ -44,6 +44,15 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "Scale knowledge management use cases with generative AI"
+    excerpt: "Businesses looking to deploy generative AI models should join forces with a trusted partner that has created or sourced quality models from quality data.\nThe post Scale knowledge management use cases with generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-27T20:30:00Z
+    webUrl: "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Why media literacy is key to tackling AI-powered misinformation"
     excerpt: "With elections in the United States, United Kingdom, India, Taiwan, the European parliament and more than a dozen other European, Asian and African democracies all taking place in 2024, a huge"
     publishedDateTime: 2023-07-23T15:01:00Z

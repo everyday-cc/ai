@@ -41,6 +41,15 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "Scale knowledge management use cases with generative AI"
+    excerpt: "Businesses looking to deploy generative AI models should join forces with a trusted partner that has created or sourced quality models from quality data.\nThe post Scale knowledge management use cases with generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-27T20:30:00Z
+    webUrl: "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "The Human Factor In Generative AI And The Automation Paradox"
     excerpt: "Effective leaders understand the “automation paradox”: the more complex technology (including generative AI) gets, the more vital human users become to its operation."
     publishedDateTime: 2023-07-27T06:39:00Z

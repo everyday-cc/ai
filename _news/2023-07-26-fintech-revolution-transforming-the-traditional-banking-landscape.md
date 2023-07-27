@@ -9,8 +9,8 @@ ampWebUrl: "https://www.phillyvoice.com/fintech-revolution-transforming-traditio
 cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: phillyvoice.com
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Transformers: the Google scientists who pioneered an AI revolution"
-    excerpt: "Their paper paved the way for the rise of large language models. But all have since left the Silicon Valley giant"
-    publishedDateTime: 2023-07-23T04:00:00Z
-    webUrl: "https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "RHAONrUd/B2reI54BoMzjziQEHhiogOPuXvTds6JbPD2OzVaJ9R6Mpk59dWTY137UEXZiKOjMLCewfJn7eZRwyWCb59/Ysl3eOiRL0vWCQubt60+ixgVmF67bTxefmVBhoG3+6+t+2+ogDPR8lvM0vMCscGF/g/UueB0MnazZraHN2HXUbIMP6verLXFvTaYwHuCd8R1Q7TTtmHIfe+xPEMxiL36/8Bju6clTcg4BwyQujzOqkRanlbdiFu2Lw/BngaUKTjxALcOUGxdq+LHH0uavsFEz8+KMNA4M0J+Z6kCz1Vv2Lj12MmB7xmiFV+AD7EuxIZeY0lpqu9QqEeqzkS7dpPDHNTnPPqbToTDzYc0RyZf7AiDPI436pn28UdkQC0wUoKH8vL0ZX2O4MUuXIoT2+kvOP/mXCu8jV0VDyTZOAAttt4wgnivGGPZoA4ECoRxpbsq7dNgCBevzuUzb4SmN9CWn19chIarf1VzrgtefH3Hr/rEJBt6wlHvxFf+DbVWdJGQNFfTIHphbxpfXw==;fCWFn10ozEaLBpcKXS1oPQ=="
 ---

@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.itweb.co.za/static/pictures/2023/07/Meta-mobile-2023.jpg"

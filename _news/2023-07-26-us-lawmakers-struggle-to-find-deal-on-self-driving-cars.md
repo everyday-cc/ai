@@ -59,6 +59,22 @@ related:
         width: 1062
         height: 597
         isCached: true
+  - title: "US lawmakers struggle to find deal on self-driving cars: Report"
+    excerpt: "Approval for self-driving car legislation in Congress is uncertain due to concerns about China's aggressive efforts in this technology. Opposition from safety groups and labor unions also raises apprehensions about the proposed legislation."
+    publishedDateTime: 2023-07-27T21:51:00Z
+    webUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report-11690452142431.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/27/600x338/self_driving_cars_1690452752441_1690452762276.png"
+        width: 600
+        height: 338
+        isCached: true
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
     publishedDateTime: 2023-07-24T23:57:00Z

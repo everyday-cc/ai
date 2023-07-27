@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-11-50-amazon-fashion-finds-to-shop-for-under-50-this-prime-day.md",
+      "title": "50+ Amazon Fashion Finds to Shop For Under $50 This Prime Day",
+      "excerpt": "As POPSUGAR editors, we independently select and write about stuff we love and think you'll like too. If you buy a product we have recommended, we may receive affiliate commission, which in turn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
+      "originalUrl": "https://www.popsugar.com/fashion/best-cheap-amazon-clothes-women-46310389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.popsugar-assets.com/files/thumbor/sl6ZssptTFhQksuN-zISJLEK3M8=/0x686:3980x2326/828x610/filters:format_auto():extract_cover()/2023/06/04/331/n/1922564/e688b05e647d873a783305.39844499_.jpg",
+          "width": 828,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
+      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/amphtml/fashion/best-cheap-amazon-clothes-women-46310389",
+      "publishedDateTime": "2023-07-11T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PopSugar",
+        "domain": "popsugar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
+      "title": "Alteryx Fuels Finance Transformation With Decision Intelligence And Intelligent Automation Leveraging The Power Of Aws",
+      "excerpt": "2 Modernize with new technologies : Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science, robotic process ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
+      "originalUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-top-11-ai-as-a-service-companies-2023.md",
       "title": "Top 11 AI as a Service Companies 2023",
       "excerpt": "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more.",
@@ -1324,92 +1402,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-unlocking-the-true-potential-of-ai-with-automation-uipath-reveals-expanded-generative-ai-and-specialized-ai-offerings.md",
-      "title": "Unlocking the True Potential of AI with Automation: UiPath Reveals Expanded Generative AI and Specialized AI Offerings",
-      "excerpt": "New capabilities enable organizations to unleash AI-powered automation to targeted business challengesNEW YORK & LONDON--(BUSINESS WIRE)--UiPath (NYSE:",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/unlocking-the-true-potential-of-ai-with-automation-uipath-reveals-expanded-generative-ai-and-specialized-ai-offerings/",
-      "originalUrl": "https://www.01net.it/unlocking-the-true-potential-of-ai-with-automation-uipath-reveals-expanded-generative-ai-and-specialized-ai-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk.md",
-      "title": "Define customized permissions in minutes with Amazon SageMaker Role Manager via the AWS CDK",
-      "excerpt": "Machine learning (ML) administrators play a critical role in maintaining the security and integrity of ML workloads. Their primary focus is to ensure that users operate with the utmost security, adhering to the principle of least privilege. However, accommodating the diverse needs of different user personas",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/define-customized-permissions.jpg",
-          "width": 1023,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T13:42:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

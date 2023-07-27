@@ -64,6 +64,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Complete Guide to Investing in Artificial Intelligence"
+    excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
+    publishedDateTime: 2023-07-27T18:41:00Z
+    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 41
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/8c31f59e-606e-4c42-acbe-e86d919cabae.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "AI is amazing and frightening at the same time"
     excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
     publishedDateTime: 2023-07-24T17:28:00Z
@@ -91,20 +105,6 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Complete Guide to Investing in Artificial Intelligence"
-    excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
-    publishedDateTime: 2023-07-27T17:23:00Z
-    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide-what-you-should-know-money-morning/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 37
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/8c31f59e-606e-4c42-acbe-e86d919cabae.jpg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Business and ethics in the age of AI"
     excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"

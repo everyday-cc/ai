@@ -149,6 +149,22 @@ related:
         width: 594
         height: 395
         isCached: true
+  - title: "Mobile website builder Universe launches AI-powered designer"
+    excerpt: "Universe, the no-code mobile website builder, announced today it's launching an AI-powered website designer in beta."
+    publishedDateTime: 2023-07-27T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/"
+    ampWebUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/Universe_GUS_Beta.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon grows generative AI efforts with Bedrock expansion for AWS"
     excerpt: "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service."
     publishedDateTime: 2023-07-27T17:37:00Z
@@ -345,6 +361,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "Tzoj+ujVambuW1WJn7O3nFJRp1eievhSK70R7AwRugnSr29Fd8IP4CCFJSUob+O2aNUfhKH+v/sUcUnvF2/WpPRwvwvXb079BS76hq5t5oMjIXAVC1sSLPz+CvVx7+UOM4z8TdOMhN5PIuckQu73zSr7INjdLNjJStzYtzTybfc0r06laGGwUIKwjSFz9YiDu5sU+ak/V99lgwsGVmI++nowA9EzczNNb5c+BzZ0Ss/ExEF+G4zjxMmRGi1jMoywsh/YLpYWRJzSViAmu8AlSwX128LyM6x9DuFNwNfzs9hTkPghPGoNn9FcWqK5Lzi/eppPdP+/AieponWbIqacXM4atMPCCndufSK3oUfnEJM=;FkIgDELLg/W+UCAInxQuuw=="
+secured: "4kdvrqbRSSXrHeeKdHc1dzE6prRhuLAq5c7gxmnoK/PuX6/n6TNhc1GHmXALJ+uHvF34W0LHO8fGlUC6V8FRaWCdNIEfJYXKzw69CaO6ScYgNUGx51Aq5l6sPXySahev+iWLMr4HSjdpBYg6n/TihG/hgIY3i4QD2z/2NVKSEtIYpXTx498rwxAABuOOh/Eko/NJI10GwB0LjakkwdZX5ZANpKnBzwG6lo+wYX5kQ/yQQynLK161Vj05lvctBZFuK11ySyDSPXG+zbgNTgiKzKUUuWZQwk8OZI0uLhVKfby5r+QFM62fByi9oMS6TwfonFTzl9HXcajGX8tCzXRfmCSQva/aimK8oLrS4XFrVg787JqXvNUSp0jzAttqtRaablKp6WMl5NPhzjPGyXMhGFbaEst09x+Rkv1XJrZ26yrnPLjwQj4m3RyksG2yWkE0ZQ0PUryX8NQZ117KjyZDvVNKQ+W1HXE4qh9DGk3rb5JKiOkwyHQ0Ooq5ir7X5Qg5qq/4dMNY7QvrZPq/pRBA4Q==;5eEfcQp3hyCNhUetIFpenQ=="
 ---
 

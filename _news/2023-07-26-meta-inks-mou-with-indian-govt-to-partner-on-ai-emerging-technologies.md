@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
-    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
-    publishedDateTime: 2023-07-27T10:44:00Z
-    webUrl: "https://time.com/6297403/india-ai-kayra-startup/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 61
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85"
-        width: 2400
-        height: 1800
-        isCached: true
   - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
     excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
     publishedDateTime: 2023-07-27T09:10:00Z
@@ -118,6 +104,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
+    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
+    publishedDateTime: 2023-07-27T10:44:00Z
+    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 41
   - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
     excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
     publishedDateTime: 2023-07-27T05:25:00Z
@@ -160,6 +155,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Indian Startup Looks to Change the Lives of Marginalized People Through AI"
+    excerpt: "A startup in India is revolutionizing artificial intelligence (AI) to make it transformative for the poorest and most marginalized people in the communities."
+    publishedDateTime: 2023-07-27T16:00:00Z
+    webUrl: "https://www.techtimes.com/articles/294357/20230727/indian-startup-karya-changing-lives-many-marginalized-people-through-ai.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 15
 
 secured: "c/r9Nv2k/jXty4QPivpcXo5MXe63NEmNr6jOkzafV1rsguxcVimP9G4nsWlt6m0F7xMpCE+6bHdGAF13HbigkcAyPtFL6rtuZ38/mKnNommB7rOMA4s4L1rV7Mio1drgvQ0w0fUHbuDtWdfDhM4ldwenWqBuhy8qZGaUj5LJMWVgjijOszq2vew0JNKDUfjGzrGjcuGkU1Y9LJWarVejNV9DaJ24mmo/sHyavO/iFYOoJZogk2WCX9vuDpo9oofYGm98P35sqiSl5kV8+tTko6/UkmMmU6J0bTSkNsN1epaPzHLk8MMTWRBHOXEmJ9HhTW3voqvycZIc2NfZw+X0isqSGodXq6MfWsdaLqePiDumslhAwQE7d+OMwP4GVWEarpyNPRYj1im5ofMiKPwpL3a2PWdF5y3Uq4Hb5qwaOX8iQMTeeA0UC7BRaozNwVNlmBoNuLv71F5d4NxtLU4wzAdQi7DYijPMQDzMHYxjesE3+fPD9bldxtwPmKV1Z7ciI13gcEitT8OJcGEuj5f4jA==;Z0rAEG61EJgG8XePXVcE9Q=="
 ---

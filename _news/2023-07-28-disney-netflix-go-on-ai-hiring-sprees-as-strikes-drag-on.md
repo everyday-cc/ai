@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy"
+    excerpt: "It's no surprise one of the world's biggest tech companies is paying top dollar for AI experts - but we can still call them out."
+    publishedDateTime: 2023-07-27T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/its-not-just-netflixs-900k-ai-jobs-its-the-hypocrisy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "As Actors Strike for AI Protections, Netflix Lists $900,000 AI Job"
     excerpt: "Hollywood executives said writers’ and actors’ strike demands like raising wages and protecting actors’ likenesses from AI was “unrealistic.”"
     publishedDateTime: 2023-07-25T17:32:00Z
@@ -66,6 +75,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Netflix posts $1.3 million artificial intelligence job as actors strike"
+    excerpt: "Netflix has sparked outrage by announcing it is hiring a $1.3 million-per-year AI job, as actors and writers strike for better pay and protections against technology."
+    publishedDateTime: 2023-07-27T19:46:00Z
+    webUrl: "https://www.news.com.au/entertainment/tv/streaming/netflix-posts-13-million-artificial-intelligence-job-as-actors-strike/news-story/e0db159d748e0860a93a9b0bf6437cf0"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 19
   - title: "Bad Timing: Netflix Lists $900,000 AI Job Amidst Writers Strike"
     excerpt: "According to a posting on Netflix's job page, the FAANG company is a Machine Learning Platform Project Manager out of its Los Gatos, CA headquarters. The role has an option for remote work."
     publishedDateTime: 2023-07-26T13:43:00Z
@@ -85,6 +103,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "l1sNnk1Z3+ijf53PPjPGYDrIVeSSBTdiNNKe9YiN6mx7jU3uuiVvDc+SSrisXd5XzBKgkOmA+4gPA61/+wDs8R+1e8kpJXH2Sssx7xsilK4dPFWsPhaIc50RGoBO+a6OfL105io5941zWN59qagXnSlUkP1QcRA20MAMy0CEpbGC69vQOZ1Tvg6SeD2Yw2vbD9al/YbQqOIDo4YqQDG4iLgn/+A6etWBzXZxsklAKJYPjeEwtEm4ehdpcFRpfadvG7eTWuD/veRZeweMOB8VnmZtbHFzx/vQL4IvjUUe1EDhX507lAtn8CB68K6s4kiwa2+rVEqoUahCrEyCmIOVmtXM+SnaNVlzF5yEqjBWAgY=;cMvavAQW4txIk/y27cRvXw=="
+secured: "luT/VOYEhqZf759ycywWYHBzrxNfVWvcEOLgi+yiwUe4jJXlHOGrRXRxecN1O3JB3WcgrtZ/WcrRcCU6fKdck0pd7xaCrQk3TH3gYSAnsxTfcTs4ofisOviJfi7RBQncwNLn2LlEZAPipE/DIXu216fNtsu/f3X5xYod4500hASOyEntb3tt9jf8KUFpbTDnbNHOAnRnYfkq1bM2VYkzTYH2NmTEP7CiMC9qmiCWpymNuWTZejie0AbJTzvMsNJv2fwDvpDFtbNUfOhOV0Sy7SYCSVVGiy7GYVPmLQyRk4QeXxdZA0IHUPh0ROZg3EJa7DdXPMvkyrGVjbzyCI2fLUXPk7veqtFHJv4ozX5fuW/t2t3Wy2t+yX8+Y7SJjiigG+B8DcVQ4j5nF21MCZeXmZEWNaS8mNc4vbu8Z+Adeyzgu5kz0Uaotgcs0vRAB6ETcuZ9itqWY/UzRiYgvXnsbuE/88GJ0EsM3T9u7fItZ+is3aHsj1e3gVCBLZQL4okr1//+V9MyujSGWvsHg35HvQ==;eIKd4tdC2loez7ZIr2OFSA=="
 ---
 

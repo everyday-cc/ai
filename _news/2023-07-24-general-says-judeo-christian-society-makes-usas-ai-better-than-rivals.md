@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4120709/judeo-christian-society-m
 webUrl: "https://www.computing.co.uk/news/4120709/judeo-christian-society-makes-usas-ai-rivals"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Judeo-Christian’ roots will ensure U.S. military AI is used ethically, general says"
-    excerpt: "Lt. Gen. Richard G. Moore Jr. made the comment at a Hudson Institute event Thursday while answering a question about how the Pentagon views autonomous warfare."
-    publishedDateTime: 2023-07-23T03:44:00Z
-    webUrl: "https://www.stripes.com/branches/air_force/2023-07-22/general-artificial-intelligence-judeo-christian-10826463.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 47
-    images:
-      - url: "https://www.stripes.com/incoming/7zkqcp-4140893.jpg/alternates/LANDSCAPE_480/4140893.jpg"
-        width: 480
-        height: 299
-        isCached: true
   - title: "Air Force general says the country's 'Judeo-Christian' roots will help promote the military's ethical use of AI"
     excerpt: "An Air Force general spurred backlash this week when he asserted that the U.S. military can more ethically utilize artificial intelligence than other nations, citing “Judeo-Chrisitian” values."
     publishedDateTime: 2023-07-23T05:11:00Z

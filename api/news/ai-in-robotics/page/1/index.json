@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -139,7 +140,7 @@
       "originalUrl": "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -340,7 +341,7 @@
       "originalUrl": "https://time.com/6296234/ai-should-be-terrified-of-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

@@ -57,6 +57,20 @@ related:
         width: 635
         height: 430
         isCached: true
+  - title: "US cities could start banning facial recognition again"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-27T21:55:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Battle For Recognition: Why It’s So Difficult To Get Transgender IDs"
     excerpt: "A leading cause for delays in processing comes from the digital divide that exists where applicants from rural areas either don’t have access to the internet or technical know-how."
     publishedDateTime: 2023-07-25T07:16:00Z

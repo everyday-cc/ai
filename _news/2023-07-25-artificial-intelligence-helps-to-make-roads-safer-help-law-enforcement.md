@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-r
 cdnAmpWebUrl: "https://www-wrdw-com.cdn.ampproject.org/c/s/www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: WRDW
@@ -26,22 +26,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "How license plate recognition helps law enforcement"
-    excerpt: "Rekor Chief Science Officer Matt Hill discusses the many benefits of license plate recognition (LPR) technology and how it is changing the face of law enforcement today."
-    publishedDateTime: 2023-07-23T02:24:00Z
-    webUrl: "https://www.foxnews.com/video/6331685429112"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 54
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffbbec2f-0254-4ef7-8706-85a88d1068f5/3a2e73fd-8bf0-4a90-897a-9a2783ce7611/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "dkWpy6rEgr3FmFOa2S6vkYiNPQ1FB0S5KP0Y3n56WWGZsIplp0ThYWEiGLrnuq48kNmYtea43DRffavXBlhlUu2NVfJ9ErcxezHn5FaYCi91KQ3hpyOZB3g1rBWgilpophKuLa+1cEmFp+6O7QK7r+pMlV7L0Cf6kKoFjMaVQ3erQsRjZ+wUL0Z982itFBTnBFvUedAS3TIelvhZlSSJPk+CLOBtNMhJ+ZjfMwQv1RWppCEwhcEHlsmlyXaLPr7XH/J7ddO1mz7g+N11+9PCwTopy840FyDOCJMW208AjpuSz3zf4gtX+48DOFZ/W79K9GfVxhnJcYLE3hxxVSO5YvyxFqCeC4fARgGGGxWmPlwr1ugEUey9VHTEXEHllZu/vtS1yT/JV7t1enMOKFXXb0CAz8c12Ak81hqGzDvgx9RyHgDSgCGPP6xND3RMnrjRvKRpnYXk9+i0N/2q8KEOmqN7LUms/mbgYIX3jF+oxuy9QY+hF5XpdRygpPOUMjETTznVv/nYFtbo0VPu5585Qg==;kvpi1l3ub+SvqRLphz29pw=="
 ---

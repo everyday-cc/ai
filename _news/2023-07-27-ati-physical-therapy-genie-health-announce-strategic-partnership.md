@@ -2,9 +2,9 @@
 category: news
 title: "ATI PHYSICAL THERAPY, GENIE HEALTH ANNOUNCE STRATEGIC PARTNERSHIP"
 excerpt: "ATI Physical Therapy (\"ATI\" or the \"Company\"), a nationally recognized rehabilitation provider, today announced a strategic partnership with Genie Health (formerly known as PT Genie), a leader in the digital MSK healthcare space."
-publishedDateTime: 2023-07-27T14:03:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/27/9855411.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855411.htm"
+publishedDateTime: 2023-07-27T14:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ati-physical-therapy-genie-health-announce-strategic-partnership-/2023/07/27/9855411.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ati-physical-therapy-genie-health-announce-strategic-partnership-/2023/07/27/9855411.htm"
 type: article
 quality: 19
 heat: 19
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Ati Hooks Up With Genie Health"
+    excerpt: "ATI Hooks up with Genie Health ATI Physical Therapy (NYSE:ATIP) today announced a strategic partnership with Genie Health (formerly known as PT G"
+    publishedDateTime: 2023-07-27T19:28:00Z
+    webUrl: "https://menafn.com/1106719670/Ati-Hooks-Up-With-Genie-Health"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
   - title: "Deep Longevity and House of Gaia announce strategic partnership to advance longevity research and wellness solutions"
     excerpt: "Deep Longevity is at the forefront of AI-based longevity science, using deep learning techniques to analyse multiple data types and develop accurate aging clocks. These clocks provide valuable insights into an individual's biological age, offering a ..."
     publishedDateTime: 2023-07-25T14:22:00Z
@@ -29,6 +38,6 @@ related:
       domain: eurekalert.org
     quality: 0
 
-secured: "yumLRyHNFEdmVX51wDR5o0N88LFys3fP77oeGFQ74Y8oozE67/djoFJU5UYRa7E4Ofs2vSm78oDgG4I1clY9oDx+JUHma/AeUo9xGEq+BsJd4VBw7fMWQP9zCAzR7up2Z7vJIjlBnpyMbecb+0BsuuOzU6/sXFhVXDG59SogGxzWy3lFvR/0KTYayW3CcLm9qt8Wuy02eAUBGSHndPxGf/1TUa6llmgB/Zf8paIxuzchIb1Hq77IZfST3P2jBhit9wLy0nPiOBnnvv6D7Xc551jMUdyZMTsYyaB30yonRQZHEVLsunsiC95e+jqexzORVpmzWuge28MnSevY7sufz8Md/Gtz77XZSySFvJsJws8=;TohXkBbfHpo42d+bWnfGZA=="
+secured: "ehxNxX67aLS09FNfL9WHMaBn9ineLmna0J09JNImTq4ftylPupuAFFyi8ZYKC04sDT98UTx8KInif6Dqu6Lt+Jhr++MZDHD+QlP/OLmsh2X4pZSe/81tIjyAK/AYzrAqbxxYdYoXW2pWctOVdeSYN9ZBUFjyF1NzDRo24PoF+dq9SjLIW3iBxwf+UJfeZ8sh9ez/IVKolPWe1X5UD2GD3iHLekYc6P0IMFbk4oL5WDHJ0ISOTcusCUeIomoAV5dATtF7BKCaf3xaU+ikAYDpcVW8PuL5C85xQOkzlOD/g9CM1rNa5YUAZNu3yfCsGRo7fWveEIxigBQlTvD4s1La3xzw4Rz6ZxjfH75WDEe1vO8=;p78y5rkAUKeJh+u28f6QKg=="
 ---
 

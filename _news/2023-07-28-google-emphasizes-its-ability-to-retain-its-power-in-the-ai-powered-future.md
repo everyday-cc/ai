@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Artifact is getting an AI-powered text-to-speech feature to read you the news"
+    excerpt: "Artifact — the new-ish news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. The company is offering the new feature as part of a partnership with Speechify."
+    publishedDateTime: 2023-07-27T18:01:00Z
+    webUrl: "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 44
   - title: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI"
     excerpt: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI - Autonomous mobility has faced numerous challenges that have hindered its widespread adoption."
     publishedDateTime: 2023-07-24T02:52:00Z

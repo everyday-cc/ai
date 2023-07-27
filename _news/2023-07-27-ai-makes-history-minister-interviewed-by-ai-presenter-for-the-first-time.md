@@ -37,6 +37,15 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "AI Makes History: Minister Interviewed by AI Presenter for the First Time"
+    excerpt: "Channeliam.com, known for creating India's first AI news anchor Pragathy, has achieved a significant milestone by conducting an interview with Minister P.A. Muhammad Riyas, Minister of Public Works and Tourism Department of Kerala using an AI avatar."
+    publishedDateTime: 2023-07-27T19:46:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230727/4102833.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
 
 secured: "oYcQ4jre6/3sECrRzrNPVim3kHgk/fCr+0cWViDcuoINmR26t5CTpCZGt16uNzuo7dh7NhUj0o2UOvpS6BIi58+kv41sU1oh17OOTFWyfpEjquL7S7+6+s3fV4dCIyqmwgaE92rXXymk47mXzRYQtpGzP9TCpwRca7/3BOBSy0KqHSW+OT+su7zb0GS4LUqbEhhBVr7agHsMq1CrVK//TQHOSudo6BfYVYL41mI2WWgt6q6nhUv57Jo6FbU6bdQgisYR9zshVB7b/M58dbGqAdTYUy4y7NHNZGkBYcyIOYmsMOIrmWUTTmbZ87AB/sf3C07wMd9545qiL21l18zD01PuldMl9vgJk/JNOUbL1Ns=;yilNbUBpuOr5DXaJh1YApg=="
 ---

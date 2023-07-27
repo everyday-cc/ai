@@ -486,6 +486,20 @@ related:
         width: 1280
         height: 865
         isCached: true
+  - title: "Dentsu goes with Microsoft to unleash AI"
+    excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
+    publishedDateTime: 2023-07-27T21:33:00Z
+    webUrl: "https://www.adnews.com.au/news/dentsu-goes-with-microsoft-to-unleash-ai"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_300,g_faces:center,f_auto/http%3A%2F%2Fyaffa-cdn.s3.amazonaws.com%2Fadnews%2Flive%2Fimages%2FdmImage%2FStandardImage%2Fhighway-eric-weber-via-unsplash2.jpg"
+        width: 300
+        height: 203
+        isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business and spending"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month \"Copilot\" for its Microsoft 365 service that can summarize a day's worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
     publishedDateTime: 2023-07-25T20:03:00Z

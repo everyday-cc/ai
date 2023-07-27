@@ -140,6 +140,22 @@ related:
         width: 594
         height: 395
         isCached: true
+  - title: "Mobile website builder Universe launches AI-powered designer"
+    excerpt: "Universe, the no-code mobile website builder, announced today it's launching an AI-powered website designer in beta."
+    publishedDateTime: 2023-07-27T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/"
+    ampWebUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/Universe_GUS_Beta.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon grows generative AI efforts with Bedrock expansion for AWS"
     excerpt: "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service."
     publishedDateTime: 2023-07-27T17:37:00Z

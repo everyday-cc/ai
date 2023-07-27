@@ -22,6 +22,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Cruise is bringing its self-driving cars to Nashville"
+    excerpt: "Cruise is expanding its robotaxi operations in Nashville, the seventh city in the U.S. to get the GM subsidiary's self-driving cars."
+    publishedDateTime: 2023-07-27T18:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/cruise-is-bringing-its-self-driving-cars-to-nashville/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
+
 secured: "KseGNReUSuc7rufzaxk/K0IjJQpWZ2GZqIrsw76m6zPj4HnhpmIPwwTrLh3KS/Hlk7xTdtOO1AJbvCiKYaETA3ItyJx0fAUGAOdbOfVWJFVFv2JbMMMTWWRnOLZerXmhl3A027S9fYE1+Y1D1LjghiilDGcTXHM09s5Ykv356yaRlt3+/t4pF9VJnQ2qyiH1y9QXz5uSN/ZvXVgv/SKxPjvu8WTl81DFMQ/bg2PGj+XFFCcEu/rK9Av4pxgJKCGCaQfyKBltTL+k7CGtjQ0BDqY2qv9rgc+nSJHXXxVYWiZDGsXKdBIoCLBKSLtR+Hmwie3mo0s7lWPkbnPXLlH0UAkDlnj8w702C7nuy4lF4RLAMwmUHy4wHpmGfd+/9pZ1gk0ehAZ6hCFjChS9kfUFG5J+e6R7Xdvz7VdHKdnyzo0lUjxuK7/hCdcPqD5FL5bBvFwEW2bZ+y1JApSkAnutxWjUUDSpOSjCxejbzBF1e32T0F2SDHf+C5jtQ/ohygGNQCpwNSScgRsVPdw/cbnF6Q==;rNy9eY4Vs9LrkrkeY8XoHA=="
 ---
 

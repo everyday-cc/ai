@@ -65,6 +65,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
+    excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
+    publishedDateTime: 2023-07-27T21:15:00Z
+    webUrl: "https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "bU1MNbuvwkGVzhowlSigDkufGzFcxbzKObXWtxdKYkik04owQTeCAdEYSPKPnUQoq+vOc/sSc6I6Vp69UiriGX/wGFTlPuwZAGl3ExRTRm2TWY0/Uai9cvvadLbeiXvkBrl++I7QEOtVtkxF+zcK+U4+N2FK9nBYsHEklBJ7NxIbEYB0jPq6XvBElwv/xioXHbnTJsFX0uQ5vbHlZUV90OBVIBna6BqYGVDrh0H1m4IvY1Ny9+5b+RamVnNWc7leKsjL6bIHqqYBbRzrJg79zWaRe8IneEQJikJ+wLg08PBpSdo4kEgs0phqHyGUM0nu6CiXbZSVynGGTBl57EFo2+MqbzHmG+TPsYBgsJ836cjcvM3iGOBSYyPT3IstPzBqXl9Morx46uvTzMnCWPKPa6knJ6T4d7x5FaY8+Qsh8fHWbfDvKb4KGZ2WK6FFNdlKF+KMzZk9qUhVythdVL9OJvRzEnnD5CrCMZkoOTvlGM35MppaKnKPuK/zOKkNUt/Y0m+uM3q0OR6MVh5nOoL2Vw==;n+RHwGsx6+KyojHMh97u3Q=="
 ---

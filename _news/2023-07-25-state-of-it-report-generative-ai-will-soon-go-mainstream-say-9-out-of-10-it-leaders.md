@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/state-of-it-report-generati
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Mosti looking into legislation to make AI use more transparent, ethical"
-    excerpt: "The Ministry of Science, Technology and Innovation is preparing a Bill to regulate the use of artificial intelligence in a bid to address ethical"
-    publishedDateTime: 2023-07-23T01:43:00Z
-    webUrl: "https://www.malaymail.com/news/malaysia/2023/07/23/report-mosti-looking-into-legislation-to-make-ai-use-more-transparent-ethical/81241"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 50
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/07/23/thumbs/400x400/131929.jpg"
-        width: 400
-        height: 266
-        isCached: true
   - title: "Generative AI expected to impact SA companies"
     excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
     publishedDateTime: 2023-07-24T09:44:00Z

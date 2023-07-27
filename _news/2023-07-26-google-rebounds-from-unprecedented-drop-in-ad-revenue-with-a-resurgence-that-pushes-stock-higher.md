@@ -5,8 +5,10 @@ excerpt: "Google snapped out of an unprecedented advertising slump during its la
 publishedDateTime: 2023-07-25T21:46:00Z
 originalUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
 webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
 type: article
-quality: 0
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Google ad rebound renews faith in AI investment"
@@ -50,6 +58,6 @@ related:
         height: 853
         isCached: true
 
-secured: "BYTofO3TQq1pFGT6HEDox0J0vvnTu5C6ZiirgKD29vwUnEMBWuub4oJMdTms2G3QIVx2RYQ8wfLxXm98cbKU9ifUV48Q7JenCTBSwtUQwVzz5hKdznyYCo0lIjaYfmNr+mSvG2W1t+dlH5D9zGVAy4EuaEGwsZ8HTBo86b3LeQefw1aAfSKiXU8XMUmMr1tTbsI/tKrIl6K0/tHJ+MXftZuCRuW1/OKLwRuMEMJ+iGsOpAANRxr9nI1UgCaYK5yoG/eoSXjIaOehr5dfdkRwxea0FAhS/ceRmD7hZdF7CUg7jh+/wEvJShWAY7OPaGsK2eTldLum6xsFA0VBqS5T/WynxOUshGrNyImKicxaBc3Y+DuuWMy54KmrXxi8CjSqjP6pL01a0WxenyZii2ApqpBqf66iH5c1haJRsPuIj4aERxxOInZvgviQZKj9bMyew7IFx2v/22DtPHB40y+UTuuG2sOgFDoJj+a3XfDnBvoFf1dczQ6FTRluTgN+UZz9qdL7gL5Yso9xUFbcHET4mA==;59NuJXVPfcT5c/A99/7cbQ=="
+secured: "XPvC4JFKvJhlyUJDJcVRy4In+NaybgTDtdCFrfYiY753bTB+UPEIaXI2tBrCiJyqhk5Bm6NkSmF9GyIn5i8fZB8HQvCwuDzmalSLP6i6RIRoAEB/KmJ0GQeIVx5F6bGaalFE6M5MrORVV68YplkNELveR0l8CWX0bds+j8CQ3eS6zXbVhz3R+lU4E5rgtAXXi+2eYUIdBrruhDcyqi8ewpOecraHzk/Ki2xB2+zicfX0chTFZGakPyMrg+InUoyAzNTL7Ui3eZvelmuGKxNPy43PFMZC0MyoTUFHVxAvglJddfA5nIXIheLyUBPIPUwxi20ODBKUEzkRGdRU0zK1AnRjDJoYQE5q1Jwb2mLT+Tg=;YKDrozaBmEJxJWkDNu8tFw=="
 ---
 

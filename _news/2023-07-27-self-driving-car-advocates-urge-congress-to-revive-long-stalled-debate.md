@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "US lawmakers struggle to find deal on self-driving cars: Report"
+    excerpt: "Approval for self-driving car legislation in Congress is uncertain due to concerns about China's aggressive efforts in this technology. Opposition from safety groups and labor unions also raises apprehensions about the proposed legislation."
+    publishedDateTime: 2023-07-27T21:51:00Z
+    webUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report-11690452142431.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/27/600x338/self_driving_cars_1690452752441_1690452762276.png"
+        width: 600
+        height: 338
+        isCached: true
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
     publishedDateTime: 2023-07-24T23:57:00Z
@@ -112,6 +128,6 @@ related:
         height: 246
         isCached: true
 
-secured: "MPeWs1CBPWWRLzTQxzukv1XvAH+Su6y3t4DAvza+ZWjXMN7/HOoZXjjjPF1JP+6DW36lkLN6OoYcQXunmK17yzSTYUxhIF2AMfoi4NHEmewBLotzXDyczOFzVTOcryUxsg6JbVQxuJNe6e8iuwN4YtGtaVYiSIsNaqS+D9l5Dp2oOpU18MaHKuc/6k5YDFECfGUfcPGJwtl/cIAD/wyUeq0Kx2fAiPZTGGaDi8/qiY6HHBuiQR9EX58HKgmjiWqvc0xfy1sPP3OezKzPn6KWtPiuKtwTSnVTBb1oZRBuu7wnIxHOwIO7mkHkhM9l5jOghe4Rj4chtKPvkrR4a+lDZsR6yzAVIzZk6+fD1D4Cv5w=;R7JUSTFVmeWswzVqxqYP4w=="
+secured: "uZuwgdjMC1sdt7W0xuMTnHUPvr3rI5OSu5L42oXLNqNlNNeWFpzFjt6eROTVoBxZbE2hsq4GHtcX8yM5Ta7ol3lsZRv6VZ2zBzifNZfw1I/yVcoSbophodwaQ6V9TXnm5yiCQ7OG+AsjMIB5tk+84Kh8gRP5BQFT+uelFGza6UDi1Jd/7cOJ30wkzohuX7x63UBa/oBzKWFHoKzTYe7o/wKSRmRXkgOOhQz1olimySaRDJvoNvqvnpoFq0WV7KAtPL9QNQX690pBUSAuDVZTroIYHzjmo9PehxJEtukEMr6yNTRLnK7m3thHa/oKzMGYloY6JifLuwVirswFN0QIQT6tcXTA4MsnVXyjmi2GJPqeT0bd0Jg+NDkkuYC5NaSe5oF+XO+Cse3/rkQE1m4pqKRi4kqAN6DB00kT4v1QvRf9v8xnND+atFuTrrEHtEl6L/P/v6WCQ0KM02arLboX7rH7HcJcNC57wLNLYBdb7oOjlqeaqQh23dKbn+JRoDzv/4wur3japhMl+lEdAKmRCg==;FpHOLpyRMWA6pBfWV7ehSg=="
 ---
 

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Report: Mosti looking into legislation to make AI use more transparent, ethical"
-    excerpt: "The Ministry of Science, Technology and Innovation is preparing a Bill to regulate the use of artificial intelligence in a bid to address ethical"
-    publishedDateTime: 2023-07-23T01:43:00Z
-    webUrl: "https://www.malaymail.com/news/malaysia/2023/07/23/report-mosti-looking-into-legislation-to-make-ai-use-more-transparent-ethical/81241"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 50
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/07/23/thumbs/400x400/131929.jpg"
-        width: 400
-        height: 266
-        isCached: true
 
 secured: "vO6R456cvP1Xts67U2AQWAs38NdXRG3MrY8MA44A5YxltRj02M1EV31YbE1W4M3+7hGyUzwJTaxrn82SPK6RI8L2q1G/Qa2j7Hr8WLaFRpShEpW6ccVSsi2iCWFUkes1RQ28MNMTg+TNIWu4u4KycupgwVj9t1SCC+x8OqVoaH3nOXB+ywIhATpRsiOBg0LVyyNsqWWiWaOiJLsqWoiorLX4YInsbN7Yr7GHNgJTpCWw52HAeOo4odUrLPG+XHegle0kKEFQtYRR0/fKD28djFXL4W96yyYWT6H5hbx7UXSJCmABz3TZQYdYPQk5JX0TLxl0xOd7u6ByPyl5BC+fP0yX/PE5ynyMz0NFynthuBU=;ZISBCEvnEG3ixbjGodl3SQ=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Banning Nvidia Chips In China Likely Won’t Deter China’s AI Progress"
+    excerpt: "The U.S. Government is considering new export controls on semiconductors made by U.S. companies, especially chips from Nvidia used in training AI models and running"
+    publishedDateTime: 2023-07-27T21:29:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to Nvidia and AMD in AI"
     excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
     publishedDateTime: 2023-07-24T21:24:00Z
@@ -57,21 +73,30 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nvidia Takes The Crown As AI-Chip Winner, Intel And AMD Still Have Potential: Analyst"
-    excerpt: "Long-Term Optimism for Intel and AMD: While Nvidia is likely to be the primary beneficiary in the short term, Rakesh also expressed optimism for Intel Corporation INTC -1.15% + Free Alerts and Advanced Micro Devices, Inc. AMD -0.31% + Free Alerts in the longer term."
-    publishedDateTime: 2023-07-25T05:12:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33359646/nvidia-takes-the-crown-as-ai-chip-winner-intel-and-amd-still-have-potential-analyst"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33359646"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359646"
+  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
+    publishedDateTime: 2023-07-25T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
+    excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
+    publishedDateTime: 2023-07-25T03:43:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33359165/competition-for-nvidia-this-chipmaking-startup-introduced-game-changing-ai-supercomputer"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33359165"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359165"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 67
+    quality: 48
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Business,People,And,Humanoid,Ai,Robot,Sitting,And,Waiting,For_0.jpeg?width=1200&height=800&fit=crop"
-        width: 834
-        height: 556
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_intelligence_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to AMD and Nvidia in AI"
     excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
@@ -82,19 +107,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
-    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
-    publishedDateTime: 2023-07-26T01:23:00Z
-    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
+  - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
+    excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
+    publishedDateTime: 2023-07-26T08:45:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/109301/nvidia-lets-customers-rent-ai-supercomputer-with-dgx-cloud/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
+      name: techzine
+      domain: techzine.eu
+    quality: 39
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
-        width: 300
-        height: 250
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
         isCached: true
 
 secured: "kiD2bepc5gH0LU3v5/+oYxont3CRyCfIJ1S5DxnsieUUW7p+qUqzg3h1d6aWwD2TA5B4CBWRB3qJgmkQLT68E86TL3yl133gNOzDkaXXysWXmnvcP+HVOSR2MZtDAslHTMZgwm7G4efz6LNaVVuUB0G2WKFyFoB9AfUhqAS8fNwoWlt+9VuBemM+6r35jRwBM1lDqkqb7fXTOanrryNr1yRBbGGs5Wvlduw3LtKphMI1Bl8RuysCHMPSGworMWVrXC1Aqyb8lCMyWGFn2NzzdyWM0WrAeenYSEatjQb3BMMlOSovugEtawLqxBCsVhRw0cqlvLgh/nmGxcEmXeHCkQAk+ETRqHdo5zZ4WWTuYK4SGuAETrX9LdTSiwqxa/Ea5YPV/cQF+10ieZ0LMf+v5VQxJeV4uqulBUbnKTDM1ioeURtjZ1okstEQwGOvouFtjwZ2inPtFtkqQRki+kANVfo532XUgBUxZ/DCsFEVQryuH1UVZ/MbTHc7O0awuE9LMrgrHUc2sIjkMcA4TbAH+Q==;kN2rqn6DM/iE9M8HbwOPxg=="

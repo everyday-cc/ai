@@ -38,6 +38,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 38
+  - title: "AI Makes History: Minister Interviewed by AI Presenter for the First Time"
+    excerpt: "Channeliam.com, known for creating India's first AI news anchor Pragathy, has achieved a significant milestone by conducting an interview with Minister P.A. Muhammad Riyas, Minister of Public Works and Tourism Department of Kerala using an AI avatar."
+    publishedDateTime: 2023-07-27T19:46:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230727/4102833.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
 
 secured: "dBFsI5RKna/2/NtUOkZ8+UND3VkHHm2InYvZEXZJPJWRBT6W2cDYcZh2baOjkJR3WyZm7+u2yWlFgfA0+pi+tMA2fVRMJVmuGSYlq95PraJEnn09k8lHPC0LcMKSIiRkcYCpgbOfne//Z0QW6/qNIMI6abF+XEL+sDj+qs8NnRg0DDIFrzFwMvjlnZfzUwUU8U5mllCfraVoG99L4pNQ6Jh/xDR1p+3UcxYJ0HZTKfdKvW8D+fCf2WB/9HIu1QJFVacgVw8j1rCxfxd9qDQ4vEAL43/C5ZWsLOhQBxPsj+Yo1ZD3x8UB3mYAGRLlRSx1W2sLTaTHFO/Ko9hYgmF7mehSsfkF3P0m0w89dqXlemg=;p5LaOTaoB3wuuLFRorbAUg=="
 ---

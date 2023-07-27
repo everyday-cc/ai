@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Judeo-Christian’ roots will ensure U.S. military AI is used ethically, general says"
-    excerpt: "Lt. Gen. Richard G. Moore Jr. made the comment at a Hudson Institute event Thursday while answering a question about how the Pentagon views autonomous warfare."
-    publishedDateTime: 2023-07-23T03:44:00Z
-    webUrl: "https://www.stripes.com/branches/air_force/2023-07-22/general-artificial-intelligence-judeo-christian-10826463.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 47
-    images:
-      - url: "https://www.stripes.com/incoming/7zkqcp-4140893.jpg/alternates/LANDSCAPE_480/4140893.jpg"
-        width: 480
-        height: 299
-        isCached: true
   - title: "General says 'Judeo-Christian society' makes USA's AI better than rivals'"
     excerpt: "A US Air Force general has said the Pentagon's approach to AI surpasses its adversaries' in terms of ethics, attributing this advantage to the United States' \"Judeo-Christian\" foundation."
     publishedDateTime: 2023-07-24T08:30:00Z

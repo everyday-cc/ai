@@ -2,9 +2,9 @@
 category: news
 title: "Facebook parent Meta makes public its ChatGPT and Google rival LLaMA"
 excerpt: "Facebook parent company Meta Platforms has built ... Much like tech peers Google and Microsoft, the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as the release ..."
-publishedDateTime: 2023-07-19T08:51:00Z
-originalUrl: "https://www.telegraphindia.com/india/heavy-rains-lash-mumbai-and-suburbs-more-heavy-showers-forecast-in-next-24-hours/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051"
-webUrl: "https://www.telegraphindia.com/india/heavy-rains-lash-mumbai-and-suburbs-more-heavy-showers-forecast-in-next-24-hours/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051"
+publishedDateTime: 2023-07-19T07:47:00Z
+originalUrl: "https://www.telegraphindia.com/business/exchange-filing-in-24-hours-sebi-unveils-stiffer-disclosure-requirements/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051"
+webUrl: "https://www.telegraphindia.com/business/exchange-filing-in-24-hours-sebi-unveils-stiffer-disclosure-requirements/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051"
 ampWebUrl: "https://www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051"
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 600
     isCached: true
 
-secured: "tGwbH+TUsL7B8m+BLKfih/KDlRTCGlpLFU+OYde8yBxG6JN/E6S1pAEgFr6FUJooZ8REjEN/HrwJn1RwLtiaF/UCBw0ihMKgV/apI5JsvWM4YNnNE2kIrTYs5dp56LJptKgB/scdLzooczB3a0j3lzlJmQxScdmnwa2r11/x2UFbW48PgJz5iQ0sTqEthykhGWZrkJAhwi8EFE2lE3c86QSzf7nTQIZTNyXutoqRj2sdr81mKHRdzr3dMv4/r7jJLwdTYFbBXyX4Y6TBGJn74Evf+v0nV+bHv/IUr3oW3N+crqXYYvC9NESlC+Zbq5yESn2kLIWiEK/PNhmq8NblXirDUHtRX211ZfX0Fo+yAGU=;Z+VS1KjCwtWh1TrCpdeH2w=="
+secured: "AnIDO9WpBRMeEzrpFnedo49f+d7ZDRun8qcWMgwsQW0j/CYB76NpFEaRmnTEM1jAmebU/lcpdXhXB+dIsMhBK8k3c7Kpk8bhtPUXy0gjecerMV1FpV8R6nmz0FNZ9XJoKKMwuBk9fhMr2KUJe3GZ+sOSMrYahRIpevWCq0jefcKmcC/ZD3dVZ2oSJnRB4BZy3No1B1jiMKczjw1wx/pF/+4ulztpq2l8gg3j8hZDC2M6NzOFWBSr05lstjqhEKHCx3K3erP4a7r3CKiBBJUxjX3SFUqgKFJIIipG3bYIrb/ClEr7CSdRtxPQeWylPyKCWJqwuEXEdQ1MADk4y3B/LkESLDUrFr+p0zPVQm/2K5A=;xCEAnRbd0P4IiPZsaxK6Ew=="
 ---
 

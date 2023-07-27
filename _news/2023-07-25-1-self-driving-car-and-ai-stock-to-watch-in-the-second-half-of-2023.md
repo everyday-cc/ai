@@ -69,6 +69,22 @@ related:
         width: 1062
         height: 597
         isCached: true
+  - title: "US lawmakers struggle to find deal on self-driving cars: Report"
+    excerpt: "Approval for self-driving car legislation in Congress is uncertain due to concerns about China's aggressive efforts in this technology. Opposition from safety groups and labor unions also raises apprehensions about the proposed legislation."
+    publishedDateTime: 2023-07-27T21:51:00Z
+    webUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report-11690452142431.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/27/600x338/self_driving_cars_1690452752441_1690452762276.png"
+        width: 600
+        height: 338
+        isCached: true
   - title: "$20m grant set up to develop AI in self-driving vehicles, materials research for military use"
     excerpt: "Self-driving military vehicles and machinery can be dangerous if robot eyes fail to recognise objects clearly in bad weather – or worse, if the systems are hacked. Read more at straitstimes.com."
     publishedDateTime: 2023-07-26T10:28:00Z

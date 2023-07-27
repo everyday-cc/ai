@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy"
+    excerpt: "It's no surprise one of the world's biggest tech companies is paying top dollar for AI experts - but we can still call them out."
+    publishedDateTime: 2023-07-27T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/its-not-just-netflixs-900k-ai-jobs-its-the-hypocrisy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "As Actors Strike for AI Protections, Netflix Lists $900,000 AI Job"
     excerpt: "Hollywood executives said writers’ and actors’ strike demands like raising wages and protecting actors’ likenesses from AI was “unrealistic.”"
     publishedDateTime: 2023-07-25T17:32:00Z
@@ -73,6 +82,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Netflix posts $1.3 million artificial intelligence job as actors strike"
+    excerpt: "Netflix has sparked outrage by announcing it is hiring a $1.3 million-per-year AI job, as actors and writers strike for better pay and protections against technology."
+    publishedDateTime: 2023-07-27T19:46:00Z
+    webUrl: "https://www.news.com.au/entertainment/tv/streaming/netflix-posts-13-million-artificial-intelligence-job-as-actors-strike/news-story/e0db159d748e0860a93a9b0bf6437cf0"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 19
   - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
     excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
     publishedDateTime: 2023-07-26T18:16:00Z

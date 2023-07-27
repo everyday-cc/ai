@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/
 webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
 type: article
 quality: 67
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
-    excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
-    publishedDateTime: 2023-07-25T03:43:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33359165/competition-for-nvidia-this-chipmaking-startup-introduced-game-changing-ai-supercomputer"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33359165"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359165"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_intelligence_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
-    excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
-    publishedDateTime: 2023-07-26T08:45:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/109301/nvidia-lets-customers-rent-ai-supercomputer-with-dgx-cloud/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
     excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
     publishedDateTime: 2023-07-25T14:18:00Z

@@ -154,6 +154,22 @@ related:
         width: 594
         height: 395
         isCached: true
+  - title: "Mobile website builder Universe launches AI-powered designer"
+    excerpt: "Universe, the no-code mobile website builder, announced today it's launching an AI-powered website designer in beta."
+    publishedDateTime: 2023-07-27T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/"
+    ampWebUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/Universe_GUS_Beta.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Web Services Wants to Teach You How to Use Generative AI"
     excerpt: "Amazon Web Services announced Wednesday that it will offer seven new courses designed to help people understand and use Amazon's generative AI services. Amazon will offer most of the initial courses for free, and the courses are intended for developers, business executives and anyone else interested in using AI."
     publishedDateTime: 2023-07-26T10:00:00Z
@@ -350,6 +366,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "su0KWj8j7qw4rOVm5vz2jWHdectRtBBCJESKEQmuStM4cKZ9aLLqzgYNc2KKhgRVzLfBShtgNMWL6WgXbHsvem2MB3Ltqp7a2LGQK/CPhg9noguxEjIYUkAYy5iB1OmJrwqH+A35Rtt2QIHbf+AxGqDFrLbA/WbLBQ36zYo9AyyJSDCN+JfY4Niu55GJC3v28Jaq8SGeZjFPLxBQnK4Tsj/x7fvk/OkInGBUJC1zQTlIEnQv++x5Yusyt34iqvn4JX/yg8iMjAd/xoA4J7xVKjI5oVkJCMbYRyOcYeBfwVE+RY5KZZuhTauyOsERM0Lrc1hW3AZ+SGxZehSSIxeMLX/VMx0hdP2jDb94t5KBDrg=;Cv5OLuTY4qSpl73DbenMQQ=="
+secured: "74xQlgAZSdYYuIqzCuFTJIfcaB6zgiKWu0vFw/8iYIufV6F50XgHGKcVPD8aU5cPoSoWU3x4pQgIPxfWiHoWGxUV6Z4CNpvRwm2G4Y6TaSD/4R+x5TKGW504JcmXjgCXbwr8a/I5YQci5YYk1tEs+OE3H7643PCiE0E+fgDqE4Fb2ZwMMLwINzP1xquRup+WUd3EyGF3V9xnxTgnKun8P4N5E3AYiHgIHvRd6PBJXD3Bi5quzeYHOg3SNDTdOBlpiETGVvPZ8b4wSVV5jVB1ITrBdTY8ISrn2O4rIDk0+lnja4gyDJGZZ3ysI/WjxysEwbd4Fdkd29dDrbbPRC2WBmspyPeBcTnMl7EcaNsQVpg1pgvhS1tn2AWQYlXz0hY3BT2GHjRomduaVxlsMVHenRD6eDNcrDFnnq8Vo+OBchx43nNSLq/qKfcgl1Fu3+xx8Nw0dL2I5QoTd/f76s+M21ti83fHHgMZawVfk97C0ULfaz5y75+T8FJCMMf24pyEMQ+ZkQQH3QxvcRDrAWAm9g==;dY64yNd6T36O1D5V5tO0Mg=="
 ---
 

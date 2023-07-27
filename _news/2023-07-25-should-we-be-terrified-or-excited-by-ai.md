@@ -41,6 +41,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Google's Genesis AI Tool Could Write the News. It Should Be Stopped"
+    excerpt: "As Google CEO Sundar Pichai opened the tech giant's annual I/O developer conference in May, the phrase \"Making AI helpful for everyone\" was emblazoned on the crisp white screen behind him. Pichai noted this idea was the most profound way to advance the company's mission of organizing the world's information."
+    publishedDateTime: 2023-07-27T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/googles-genesis-ai-tool-could-write-the-news-it-should-be-stopped/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Biotech begins human trials of drug designed by artificial intelligence"
     excerpt: "A biotech company backed by Chinese conglomerate Fosun Group and private equity giant Warburg Pincus has begun one of the first mid-stage human trials of a drug discovered and designed by artificial intelligence ... with a novel therapy to treat the ..."
     publishedDateTime: 2023-07-25T21:13:00Z

@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Akuity Launches an AI Assistant for Argo CD to Help Troubleshoot Common Kubernetes Deployment Issues"
-    excerpt: "Press Release Akuity, provider of Kubernetes-native application delivery software powered by the Argo Project and enterprise support for this popular open source tool, announced a new feature inside their platform - AI Assistant for Argo CD."
-    publishedDateTime: 2023-07-26T02:25:00Z
-    webUrl: "https://venturebeat.com/business/akuity-launches-an-ai-assistant-for-argo-cd-to-help-troubleshoot-common-kubernetes-deployment-issues/"
+  - title: "The Power Of The Prompt: Unleashing AI's Full Potential For Work Productivity"
+    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at why prompts are critical for optimizing AI for workplace productivity."
+    publishedDateTime: 2023-07-27T19:46:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20230725088248/en/1849461/4/argo-ai-press-screenshot.jpg?strip=all&#038;ssl=1"
-        width: 480
-        height: 270
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2c7b9821236b6e642dbf0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Could artificial intelligence be the future of news production?"
+    excerpt: "TVBEurope talks to Sky News' Tom Clarke about how the broadcaster used AI to create a news package, from writing the text to presenting it on screen"
+    publishedDateTime: 2023-07-27T15:50:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/could-artificial-intelligence-be-the-future-of-news-production"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 17
 
 secured: "ueYkhNj2PLl3XB3M1dT3ewzmcd9ApVihmsbO61jrvJmS4ZVZ3G/loyMWjcWMLv7TOhPdX6gJaY3j+oGB/Cneon1YfENYiWsh7HMaj/VHmw6RFmWil6XSfY63p+haoYi2TzIfiXV5vPQyYynZkms5NBxu1lAhXkrrJE/4V/rjXrIPJzsvWzlZ8C3+07iu52ixvcZ1uzARBr4QvD34/BixtEE94xRHVhcHRjK+HTpZadXx6hWycrLVshdJxF02W6KQ4y5gQi8uq378sCdzxcrbRbfUC3lehNfUQK+2A/DzAG7LUNmHRzjGCYh6kPjhiUrfrliSh9o+9S7SYwLKyK8wSLy5+0jiJg7p2R3/NGrqxhGFMZi1sIujBMA+xjT2IfRmD7hxNsClYVxbn3IyC7SwMQwPnyJ3mGmNVmR18C7hYqOhDG+kLgX9UyYwlei3xJ+LsHyc7fR7vl0m3uhSm/ZybItTh6VJlIoGTQ8Xv3VqBupW9vsmH9g427H0dmJfw0C2DZ5/1PeRRNqMH2oHoJy2ww==;/VsplpASGUlRCwwDOBdqYQ=="
 ---

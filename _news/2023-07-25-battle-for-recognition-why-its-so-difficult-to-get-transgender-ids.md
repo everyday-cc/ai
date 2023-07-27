@@ -73,6 +73,20 @@ related:
         width: 635
         height: 430
         isCached: true
+  - title: "US cities could start banning facial recognition again"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-27T21:55:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Individual whales, dolphins identified using facial recognition tech"
     excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
     publishedDateTime: 2023-07-23T16:00:00Z

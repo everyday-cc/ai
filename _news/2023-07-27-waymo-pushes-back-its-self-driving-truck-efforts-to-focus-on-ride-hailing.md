@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-pushes-back-its-self-driving-truc
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-pushes-back-its-self-driving-truck-efforts-to-focus-on-ride-hailing-211355559.html"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Waymo pumps the brakes on self-driving trucks"
+    excerpt: "Waymo still plans to continue to collaborate with DTNA to advance the technical development of an autonomous trucking platform."
+    publishedDateTime: 2023-07-27T17:56:00Z
+    webUrl: "https://www.therobotreport.com/waymo-pumps-the-brakes-on-self-driving-trucks/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 49
   - title: "Waymo changes course from its self-driving truck ambitions to focus on ride-hailing"
     excerpt: "Alphabet Inc.’s Waymo LLC announced today that it’s putting the brakes on autonomous truck operations and will now focus its efforts on the self-driving ride-hailing part of the business."
     publishedDateTime: 2023-07-27T03:05:00Z

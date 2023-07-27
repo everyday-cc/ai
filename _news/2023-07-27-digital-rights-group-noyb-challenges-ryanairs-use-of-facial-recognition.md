@@ -57,6 +57,20 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
+    excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
+    publishedDateTime: 2023-07-27T21:15:00Z
+    webUrl: "https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
     excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."
     publishedDateTime: 2023-07-27T08:37:00Z
@@ -67,6 +81,6 @@ related:
       domain: irishtimes.com
     quality: 34
 
-secured: "Bm/pk5sIijK94QRy3l3Ts37BmNNks924L6spfjc1aURFu9lz7vV/HKGfdYXsA4W705J+xfk/73kY3z/XKC20kBmcKqdhzJcSpYiO3tCfRkChIoDLRYdRcmk3HCMJKuIde8/ieCvJ9Rz7EyGS8oTkk8QITqmtsnn5nLdbRV70SrFjpz01OQ6wMyXqBfsk6f2iw2Uu25xiAzOGpkM+pMEdULFUhOWgnfKPuL98G/7aWpjfkl0dLipAIdZYF4/p+5qYk+EbSF0PPNcMZ5hcbl5BTfcaSri8olzQQ3GNgP4nEwP624wyBzqt5Cz3/RxvRo0HOdHuwJdf7Bh937o43GB9M7uZyU3VIBe5CUFdzAkhX8s=;kz6h0nKmsqiqIxYCkv9dZQ=="
+secured: "o2kO4Z0aSFDlmPG2PgAOwIDPNdCAeyZmsi+zSl6wDOVM63r3iYRpU1Jdd6cN51M7J7MUFj4ugpnFyCzZtUTq68AYmBfmrwYNE2qAoFjNwidwQwhy+jecSD/ewhPrrE7VhnMb+SBgsx+S/HAbW7AvDSgeb+n2yOfTkeeEtE8jJ0CiMIlVcwt8Vlq6z1Ei/5iexJJsR2Ap+rKnjGKuDSEl99NxRQB+L1BVKypURlytP/CV5aBZ0hok6GlpV4qfULqeAgRJ31CPjkIhCF2UTnaPtX2DW/OWzHSycp5WQhY5ldKAeUtc2DTRYKznOIze5rLPJQeGi00bFjuUrAozHRiOxQFRvJhizfRu1PKJQdG4qWTu8uAVcyZc3jPqAmTD9i6pSkQaZFwxpMvtKjzmHu9v9oVIn5WbpwIEdI+uEONOJl04r130i2J2rF4OnJVI/R3Yx3afwee9Vp4ZUN22A2eadrbBjBjZgbvsvFoS7r8jZh0YEeTm+pGj9QSiGILdLpQZM82NA4EHWTOklChiTp+ZlA==;8gOJJyYna4Y4gEmjzr+f3g=="
 ---
 

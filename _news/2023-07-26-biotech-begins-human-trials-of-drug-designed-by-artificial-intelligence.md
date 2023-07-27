@@ -49,6 +49,15 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Google's Genesis AI Tool Could Write the News. It Should Be Stopped"
+    excerpt: "As Google CEO Sundar Pichai opened the tech giant's annual I/O developer conference in May, the phrase \"Making AI helpful for everyone\" was emblazoned on the crisp white screen behind him. Pichai noted this idea was the most profound way to advance the company's mission of organizing the world's information."
+    publishedDateTime: 2023-07-27T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/googles-genesis-ai-tool-could-write-the-news-it-should-be-stopped/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
 
 secured: "t7tXgu77fb4KFRdI0FX5AEmdxEJ9COgpm82pZjO9tMBeRo2FMJdb8qSFTxMVOc4vsyxrmmqmNDd+W980MWBFa3esZJtkL83o4nS8a9ShIaOpYT92IWriKMk5XFEernqtL9h8bmG/VmTH2IazbbFP4Svm087DYCwSWxPGZBhKWjA4AxyJuOf2bH2I8s1oWsW8HVweK73h4uCvdIzx8HK8/yNMLElSe0+Z6sshHP/z8FcOChsPHupLqMbcbYRZNehpOrG4Ou9pXgESgcqxFIGDAj2Ha3k1M/NW68058OtBBU+VF3+yEdNbWq4+7yql4D3R3iWQM9d6sLH4ytxCeIUn87mvM6a7cYD9P5u/11wH6aY=;Ug4eTXHI7AofydRuSUUJQQ=="
 ---
