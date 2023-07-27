@@ -22,38 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Hollywood writers fear losing work to AI"
-    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
-    publishedDateTime: 2023-07-27T06:02:00Z
-    webUrl: "https://www.bbc.com/news/business-66289583"
-    ampWebUrl: "https://www.bbc.com/news/business-66289583.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66289583.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E737/production/_130519195_index_writers_strike_976x549.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
     excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
     publishedDateTime: 2023-07-24T04:59:00Z
@@ -95,6 +63,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "Hollywood writers fear losing work to AI"
+    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
+    publishedDateTime: 2023-07-27T09:01:00Z
+    webUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
+        width: 976
+        height: 549
+        isCached: true
 
 secured: "uRQJ5e40B0XI7GefmAnLKyt4Ka1Hdppk7m/sz81BiRV40r4iyrlcbbbj8tB8V72QrgtmLcMRD3cTDbdH/b8K89Lc70c3yoBIdFo5LluTRwyDPgYTtKBAtViae56zIt22QFRApYbnieC195XqOi23wJn4RB1Rldjz1vriTsRgr4bTEPc03faMF/KaeK8caBEBQADHQru7RU+FQXvTKHOO5WKd6n+L1ikZTdD0ElDSMfJfN8WEymPckXBjk1bE+RPaAxp3OyJdvfffMBnLkhnvmTL0wTmBM7NlwruQCFH5GlsUDr3pJet8jQ9J3f21niJ79BxcnrnkUm3xbHqrgABwdC47w25br3pfRxvjgCxgm91s7Npa/KSWHY1aCTnRlXKYHZLpAVQEJhRRgb1Ri6J2nLtt3UtsUTCB2MZv3KX7WwkJ+ZcVhp/0FU7mW2iuyHLl1NCj2sucd529qB07ZCu57tvneAT5uRS10kwLuhWotYASfK58cLjq+mzlizKZLaCTGCaT970KX3/4LNwcJeOa9Q==;S5dVkBStVexY0dTHEgSx1g=="
 ---

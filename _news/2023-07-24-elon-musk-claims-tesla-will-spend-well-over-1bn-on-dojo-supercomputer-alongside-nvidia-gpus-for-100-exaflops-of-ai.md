@@ -70,6 +70,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Elon Musk says Tesla’s new Full Self-Driving update is ‘mind-blowing,’ but that doesn’t mean much anymore"
+    excerpt: "Elon Musk says Tesla’s upcoming new Full Self-Driving v12 update is “mind-blowing,” but that doesn’t mean much coming from"
+    publishedDateTime: 2023-07-27T14:21:00Z
+    webUrl: "https://electrek.co/2023/07/27/elon-musk-tesla-full-self-driving-update-mind-blowing/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
     excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
     publishedDateTime: 2023-07-25T01:30:00Z

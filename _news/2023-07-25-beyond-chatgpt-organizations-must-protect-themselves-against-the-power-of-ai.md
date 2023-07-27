@@ -160,20 +160,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "5 AI Chatbot Mobile Apps That Aim to Put a Therapist in Your Pocket"
-    excerpt: "Artificial intelligence, or AI, continues to make progress by leaps and bounds. Many of your gadgets and apps are already using AI in some form, and many more"
-    publishedDateTime: 2023-07-22T20:58:00Z
-    webUrl: "https://www.inferse.com/633248/5-ai-chatbot-mobile-apps-that-aim-to-put-a-therapist-in-your-pocket/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-24271.png"
-        width: 1680
-        height: 840
-        isCached: true
   - title: "Amara.ai an HR technology startup with an Interactive AI chatbot"
     excerpt: "Amara.ai an HR technology startup with an Interactive AI chatbot - Amara is an AI-powered chatbot that has transformed the employee experience since its inception in"
     publishedDateTime: 2023-07-24T09:58:00Z
@@ -269,19 +255,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Please Stop Asking Chatbots for Love Advice"
-    excerpt: "Simulations of human conversation powered by artificial intelligence—chatbots—have been much in the news, but I’d never had a patient tell me they’d actually used one for advice before. “What did it tell you?"
-    publishedDateTime: 2023-07-22T19:49:00Z
-    webUrl: "https://www.inferse.com/633137/please-stop-asking-chatbots-for-love-advice/"
+  - title: "How does ChatGPT work and do AI-powered chatbots “think” like us?"
+    excerpt: "The large language models behind the new chatbots are trained to predict which words are most likely to appear together – but “emergent abilities” suggest they might be doing more than that"
+    publishedDateTime: 2023-07-27T09:22:00Z
+    webUrl: "https://www.newscientist.com/article/2384030-how-does-chatgpt-work-and-do-ai-powered-chatbots-think-like-us/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 24
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-24216.png"
-        width: 1280
-        height: 670
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24160409/SEI_164399926.jpg"
+        width: 1350
+        height: 900
         isCached: true
   - title: "The Brilliance and Weirdness of ChatGPT – The New York Times"
     excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"

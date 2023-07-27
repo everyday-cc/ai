@@ -1,0 +1,41 @@
+---
+category: news
+title: "Samsung to continue trimming memory chip production amid AI demand"
+excerpt: "Samsung expects generative AI to drive a “rapid increase in demand” for high-performance memory able to process large amounts of data, said Jaejune Kim, executive vice president of Samsung’s memory business. But he warned, “Demand for general servers and storage was relatively limited.”"
+publishedDateTime: 2023-07-27T11:53:00Z
+originalUrl: "https://www.hindustantimes.com/technology/samsung-to-continue-trimming-memory-chip-production-amid-ai-demand-101690458564144.html"
+webUrl: "https://www.hindustantimes.com/technology/samsung-to-continue-trimming-memory-chip-production-amid-ai-demand-101690458564144.html"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: Hindustan Times
+  domain: hindustantimes.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Samsung extends cut in memory chip production, will focus on high-end AI chips instead"
+    excerpt: "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI."
+    publishedDateTime: 2023-07-27T07:49:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/"
+    ampWebUrl: "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 96
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
+
+secured: "S38x2d18Xah41bwtX3yZjZSwYCqpIFm/Tsuaq1GH3DAf52yYJGeejYrXGI+im/pdFgH1XviRQ3YPzDCzrW4XQ8Fr0W9ibTkSp3k8yRisnBIeZGlK6lw/dOWf+igwZXdRGgp9y4BKJ56R70kr0sJOIvc1HXaDVPnfOid58rKLPLGAW6kgYRjwexf62MKUzfDtH0Vzn9PLztALzGOd5xwqfNGph8bfOs8yKChQYU4YGDq+eq8rRrcn5xElmolEE+ROP/oLM3t/nVWOSG6MSo9JkrtoyleKWwid1ZqK2lS5foh9U6Odsdn5lVnqpdImkdK6qaMqCE6UP8b22sJM0eP9/TSHv2ncHNKEee13JI0mF+wwQ1lj0dycQmorIXk8epBRW2/MiMOiTIWbsVY40y5UkOZPe4xpY8iD/vL+i1dNYz6/HpHPrCTNdGkHn32JcYUtpo3ipHVaNr+3JPv3B+JZ2sbxb1WA7yoJKrxvg5bLxVAKfLRcbv+ok3SxSJaNMgwYt6yRjl3jqwTEMNz+MP6WNw==;d68QevvOXUXbPKjSupFMxA=="
+---
+

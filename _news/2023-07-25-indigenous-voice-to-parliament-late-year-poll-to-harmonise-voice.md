@@ -32,6 +32,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 15
+  - title: "A vote for an Indigenous voice to parliament makes economic sense"
+    excerpt: "The voice is about recognition, listening and making sure the billions of dollars we invest in programs are getting value for money and improving lives."
+    publishedDateTime: 2023-07-27T08:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/a-vote-for-an-indigenous-voice-to-parliament-makes-economic-sense/news-story/a11b5608eaea37e35942d73f3fa526d4"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "ufbIUwNBWb5PeyYmpqe6NF5dBeD7Xum59qtEGHfwNoD2EtAKdgNNq02gFfWb/dtFvS3gSqVNQkBWIQkpz4qiMx0G/m/1s/42UCsg6ZEaEjX+7WjSi7vTvPK1ENo76d+Bpc96W3OBgbuMzTP0tk9Xi+8+zCWB4ylz9RwlxIqGTOUsPo+vx5ncE899G9BEuQ11nza53Vzalrdoo0Htdj3bd9p4+QV37O/ioyfqhc03nPORCx4tXlzIzkptyd5f3Yh2sLuagjHj+GNtsx1bGMj2tzSOdUmi0Bc8MjK2jG7zFP6CXqbX8LcWpq0n7b+AT6NpOduLlgIUHEKC41Tq6AcDVPsGweYV+V8Fff7FC58I1kudxvwdiFje4lVPdzRB1tgLZLvDoZ4eO71Z/wKPhXfA+c5mNLV/1soKsSWZwhx/jO4YFjcleXBx6kvh34/g5IPhY/bXvQFSF5EOubwMVFXoUIObPAZ3/bStE0ei43EnPjwgCQHULCemcVDf4tgCJY/oDPZYW+Duf7acrf59tQfRUg==;HtL+qA7rNNBaZmUp9m9rLg=="
 ---

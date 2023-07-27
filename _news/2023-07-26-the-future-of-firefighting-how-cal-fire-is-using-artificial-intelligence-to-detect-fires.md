@@ -25,17 +25,6 @@ images:
     height: 641
     isCached: true
 
-related:
-  - title: "Cal Fire using artificial intelligence in the battle to quickly detect, fight wildfires"
-    excerpt: "As California braces for wildfires amid more record-breaking heat, state firefighters have deployed a new tool to spot potential fires early: artificial intelligence."
-    publishedDateTime: 2023-07-22T19:38:00Z
-    webUrl: "https://www.sacbee.com/news/local/article277214868.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 9
-
 secured: "q5g8b5Zb1HupzWa/R83oyv8O4tPx34xeJxHE3xWkhrXmQj7NbBgKqe7ts2S8YAxMsg3e7QH9Ys52jjY3SU5yk2W5oI2jZ4LNKRE1OJlVlMRSRcZhafLlCRTd4U8z+UPKtNN2XxMPs90YVrAS8j+D6kpEowpbJYN6PbyhnBPoWGb/um9/AlOU/sgDLcl+Q+C6Q6AJtiKIT3tyJ3ZdvA0In3MaY9BYoHiG68ZuIw4HUXoZlPZQHzeLymZbNj4PQtukyPeURLUjpGU7QWq26oU9CPnmL/u2T06PTBIpBTDRoJ4ai3MRO+7lnwSpmpxfn6IEtOx0zKM5xpPtpg3+NWy6EUkAdyqizvhA/XOA1T2dDREb5OvAAV51Ollc3pnLI4iLiFULaZ5EaJ1fyDjYQicy5wBSeCJQ84nksryCl/UcW8rqbM0kljFuEjxDdSxJ9XAoL+TWiO7NzmYOD4fbZj93H7hgvKRD4csa++dB5p7HSk0vctQnz5M9LbzUbiY4uQKMqCDo1bJeKQ3IhmOxHOLP6A==;zK03Uv394qVyTA4Gbd83bw=="
 ---
 

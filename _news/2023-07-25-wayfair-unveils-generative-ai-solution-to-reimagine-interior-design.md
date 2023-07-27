@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/wayfair-unveils-generative-ai-solution-
 webUrl: "https://venturebeat.com/ai/wayfair-unveils-generative-ai-solution-to-reimagine-interior-design/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Merkle Unveils Revolutionary Generative AI Technology"
+    excerpt: "Generative AI LKMs can be trained on vast amounts of performance data, synthesizing the relationships among all the variables to enable marketers to draw insights from data. And by informing every customer interaction with AI-driven insights and decisioning,"
+    publishedDateTime: 2023-07-27T15:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855340.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "hu9gjppql3EgzVp0VqRgSSGg+6WnGVigoip9W5DQlvHXOZqAKQO/3QfOwLQ2XcdoovJ1ZfJhD+zdaqApIjWBaF1mWKLJs6wyBZQd/xqlpv94Y5291wAtyKS2InsrOp82ykE+sYKoykzRUHS+uTVVIfyPi99INll1zyPXDn9ZEmM8feMZFH3s/ZpgnNAosKZi0zyf8U7brmhNMSEkdP9FTuSzZHGG4fUz9yk4v+SYt7kMaF73RfmZfk2ewU81+pGxDO/vVKfqOJ10aUodf0g4VpECH7mDxia/4kbLrgqrBsFnqxjX+Lx4W2IwHrF9gSvxWs7mADkThVqmwkGV5JoYg/7xeoX0KWUYyaQpiu749qgkRzrJQ3vAq0EqjcA6jzOgophynYjEm4mUx4KaKX4hqQZ6tJYLHp6xzf/mLA4ZgoN+OnjTL6POG6I0914pOlXl7m7Qg3Epl+saXwlCKWs+isawbRcv8DulHXLZXFji7jBTExDZlIFkOeFUBLIQW97DQBFqcnL5ZqFTmdShzBgKKA==;JsdQhxTXG1qv4Do1PfvkTw=="
 ---

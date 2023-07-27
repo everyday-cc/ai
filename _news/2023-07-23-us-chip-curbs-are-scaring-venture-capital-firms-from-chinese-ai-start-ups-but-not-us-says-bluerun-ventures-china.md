@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "CEOs Of Chip Companies Call On US To Assess Impact Of China Restrictions And Exercise Caution"
-    excerpt: "Top executives from major U.S. chip companies have advised Biden officials to carefully assess the consequences of export restrictions to China and suggested pausing before implementing any new measures."
-    publishedDateTime: 2023-07-22T19:42:00Z
-    webUrl: "https://www.benzinga.com/government/23/07/33333768/ceos-of-chip-companies-call-on-us-to-assess-impact-of-china-restrictions-and-exercise-caution"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
   - title: "Chinese Firms Can Seize Bigger Car Safety Market Share Amid New Chances From Self-Driving Tech, Insider Says"
     excerpt: "(Yicai Global) July 26 -- Chinese automotive safety system suppliers can claim a bigger market share if they seize the opportunities brought in by autonomous driving technologies, according to an industry insider."
     publishedDateTime: 2023-07-26T03:44:00Z

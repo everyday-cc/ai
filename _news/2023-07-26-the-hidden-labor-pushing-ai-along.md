@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-
 webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-07/25/CRN_659e8image_story.jpg"
         width: 640
         height: 395
-        isCached: true
-  - title: "Crafting a Hit Song with Artificial Intelligence"
-    excerpt: "With the rapid evolution of technology, it’s safe to say that the boundaries of creativity are being redrawn.  The advent of Artificial Intelligence (AI) has introduced a fascinating dimension to the world of art and music,"
-    publishedDateTime: 2023-07-22T22:18:00Z
-    webUrl: "https://pctechmag.com/2023/07/crafting-a-hit-song-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 37
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/07/Music-AI.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
     excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."

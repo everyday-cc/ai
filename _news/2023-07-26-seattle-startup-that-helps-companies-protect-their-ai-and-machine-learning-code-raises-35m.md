@@ -47,6 +47,15 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "Protect AI Raises $35 Million to Protect Machine Learning and AI Assets"
+    excerpt: "Machine Learning and Artificial Intelligence security firm Protect AI raised $35 million in Series A funding led by Evolution Equity Partners"
+    publishedDateTime: 2023-07-27T13:22:00Z
+    webUrl: "https://www.securityweek.com/protect-ai-raises-35-million-to-protect-machine-learning-and-ai-assets/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 34
 
 secured: "fQc6amci5oSpMZZuy6sqGu/tRlTRi53H/x39QQSkMQMbgrkbEMW6V0Or11QEwcUu9IO+nYmjvE0X2Rm6eoEDKqv5T1EJ8PgGY6Hu05hJ5EMHuj16+NlTLKFi+0WBel4a5rlOvxJYXCxikVOwIZlJV+jk0ovhWgP6yp4sF30KpYzUEP+bEy3kTlsgPzV9wFWpdh1MuDC9RWSEfmpc240t5iaHvDqfHM3mhtUTXQijLEXZFo84mcScVUXc7VXrxYuVPwfLMdvKu5QmLfSbvVFLM9uTeZeym9vlQE8HFTFGObvVi05BcuQyppJ1NVV3jed5933Gr4gOEcwWdcidNs1dHiAxnB44266IY6+e7lK1+0d2LqEhZRYq5WVr02Txxm8P85Vca7M+F7B2XrCudjRh6SBrulYaxVPjvAqr8bT483hT67AeMZYKY5kfJaeIht+JOqpL9MGNMlufi4WiIr9c90iKepnwoNmj/vA71Jv6HhhrkGiu9z9t5Dz/Wiwb6ZyQg/Rgy+JNeeBLGMbJXrNLbQ==;nxpVfi/TJxQUUgqoD9aRig=="
 ---

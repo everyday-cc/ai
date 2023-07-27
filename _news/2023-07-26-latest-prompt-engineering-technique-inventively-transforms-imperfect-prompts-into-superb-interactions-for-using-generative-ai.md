@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-eng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/amp/"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Translated Debuts Trust Attention for Unprecedented Quality in MT, Paving the Way for Accuracy in Generative AI"
+    excerpt: "Press Release Translated, a leading provider of AI-powered language solutions, announced the launch of ModernMT Version 7, a significant upgrade to its adaptive machine translation (MT) system. The latest version introduces Trust Attention,"
+    publishedDateTime: 2023-07-27T15:26:00Z
+    webUrl: "https://venturebeat.com/business/translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20230727250636/en/1852136/4/trust_attention.jpg?strip=all&#038;ssl=1"
+        width: 480
+        height: 388
+        isCached: true
 
 secured: "r/HMXg9t2rjgL6d53MzMf8vvhcj7fOJbbhvb5Ax1teb/w2globENFCZwCs7/nfpGScFLWFjPG+oiV/+h2pO4BnkVHe8fQfVj3Lnyh9lcYtJtqY9RQ+ICbvs7jf8ubbelY2FPRAkmU4M3ZY0oQObGuXIaBwGMO22Jcw902TYGSVjIdU1M3Scnsh1ENNw/ARVnnZ4GU5WVuhhr5eL7PpFCmlJXClH1l2c2HyruSt7j0Wz7fx83yg8pxtQLYjwDzUU0C5TYdsI+4a3jQmHxS/keDusOUhbR5X1VUEs7WWSpWcBSo4rfHRdZhCOo22ZlfUGQqiFsEZUreoGM/1e7iPY76yKJUKS4uE5T/cBbEHuGw3xxBra5FeQZi3j21SWtO9E31PjC/zXCUi1Hk1wRnT+8bBpS0ecRLdvBAjp5Sb+pSCbLbwSHaHlbWRbQSN2eQbnkWjFJexRT5I3D4lLa6dzfOyLD2LJbjBYWjFJi2aE2WmhAJPdbhEJXdlBAcOv1n3Xm3MGo9mF5dbKf4aGTHD6Z/g==;UGvJ4lXcOzaSn2lS1Au8mQ=="
 ---

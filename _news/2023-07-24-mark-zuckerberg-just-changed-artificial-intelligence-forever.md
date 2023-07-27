@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-cha
 webUrl: "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meta's Zuckerberg reaffirms commitment to metaverse, AI; Worldcoin struggles"
+    excerpt: "Meta, formerly Facebook, spent billions of dollars in 2022 in pursuit of metaverse projects. In the company’s recent earnings call, founder Mark Zuckerberg reaffirmed that Meta will continue chasing its two priorities, namely the metaverse and Artificial Intelligence (AI) projects."
+    publishedDateTime: 2023-07-27T12:42:00Z
+    webUrl: "https://www.fxstreet.com/cryptocurrencies/news/metas-zuckerberg-reaffirms-commitment-to-metaverse-ai-worldcoin-struggles-202307271242"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 16
   - title: "Meta Stock Leaps As Mark Zuckerberg Touts AI Pipeline In Solid Q2 Earnings, Revenue Outlook"
     excerpt: "\"We have the most exciting roadmap I've seen in a while with Llama 2, Threads, Reels, new AI products in the pipeline,\" said CEO Mark Zuckerberg."
     publishedDateTime: 2023-07-27T00:15:00Z

@@ -43,6 +43,22 @@ related:
         width: 6000
         height: 4002
         isCached: true
+  - title: "Self-driving car advocates urge Congress to revive long-stalled debate"
+    excerpt: "Advocates for the self-driving vehicle industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-27T12:22:00Z
+    webUrl: "https://www.autoblog.com/2023/07/27/self-driving-car-congress-legislation/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-07/41d99420-2c78-11ee-b6ff-5ebc1e025625"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
     publishedDateTime: 2023-07-24T23:57:00Z

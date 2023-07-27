@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
+    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
+    publishedDateTime: 2023-07-27T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 691
+        isCached: true
   - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
     excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
     publishedDateTime: 2023-07-27T00:01:00Z
@@ -151,6 +167,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
+    excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
+    publishedDateTime: 2023-07-27T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Educating the Next Generation in AI"
     excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
     publishedDateTime: 2023-07-26T21:00:00Z

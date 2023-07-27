@@ -53,20 +53,6 @@ related:
         width: 640
         height: 395
         isCached: true
-  - title: "Crafting a Hit Song with Artificial Intelligence"
-    excerpt: "With the rapid evolution of technology, it’s safe to say that the boundaries of creativity are being redrawn.  The advent of Artificial Intelligence (AI) has introduced a fascinating dimension to the world of art and music,"
-    publishedDateTime: 2023-07-22T22:18:00Z
-    webUrl: "https://pctechmag.com/2023/07/crafting-a-hit-song-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 37
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/07/Music-AI.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "3E0VFVZenkU7GxRiLfX0p1bpPzqELnsd+FEr8xoWkBgOjYHR4W7uhYDmEHi1wYuAE9+BWMmqCXZsqjsGsVMUiSwxVQwK0W0hvcPAE6aJTQXP1cWELbj7p7XsUhxhk498iuxKR2wySlk9I/1oAAcwN57W5GI89VL/tITqCuJyWpHh+/dVmdxiRERN0huGmc0amZ/ywEfaVlin+d1HbsYq6tgSz0zxyPEtW/YHCmoEKV2UxBag2vgrLn/XnWVjZEgyCJ7bmJnTiw8uXH8CVGwNnZi9kpf8tV04lR34/G+uB6BuNu3RkcnriXURebHOO4UTqzsJDfo6/ZFeuT9Et7uve9wf2BgI40JdCLtH6IBsnLfHQw6OF+CkUUzw5fqJhxsDFitJLn/chLO7DGbUyRvIogF2YgOPNfJC3WU0a8IEPpcCR9U+2ZxmJ6cKJjBW4z3ovNnqF8CkZzW5eFW4Mo520OsFXJn++3GRTlbeupOGFXCSmLQ/KSgsc5NmJO0Yk3m6fwtbcVzvKbQxY7IvUmvjvg==;vpIKcqHdWeL8ylW4m3JucA=="
 ---

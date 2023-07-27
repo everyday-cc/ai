@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-acc
 webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow Stock Drops After It Beats, Raises And Adds AI Services"
+    excerpt: "After reporting growth and profitability above expectations and raising guidance for the year on July 26, its stock lost 5% of its value."
+    publishedDateTime: 2023-07-27T12:40:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/07/27/servicenow-stock-drops-after-it-beats-raises-and-adds-ai-services/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Nvidia, ServiceNow, Accenture partner on generative AI effort for enterprise businesses"
     excerpt: "ServiceNow CEO Bill McDermott described Wednesday's announcement as \"a transformational moment for business to revolutionize how work gets done.\""
     publishedDateTime: 2023-07-26T22:23:00Z

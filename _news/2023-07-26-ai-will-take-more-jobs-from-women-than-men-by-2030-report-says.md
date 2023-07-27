@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2023/07/26/ai-women-workfo
 webUrl: "https://www.washingtonpost.com/business/2023/07/26/ai-women-workforce-automation/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1440
     height: 961
     isCached: true
+
+related:
+  - title: "AI, automation more likely to negatively affect women workers than men: study"
+    excerpt: "As the development of generative artificial intelligence extends possibilities for automation, a study says that women are more likely to need new occupations than men by the year 2030."
+    publishedDateTime: 2023-07-27T15:01:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/ai-automation-more-likely-negatively-affect-women-workers-than-men-study"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/ai-automation-more-likely-negatively-affect-women-workers-than-men-study.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/ai-automation-more-likely-negatively-affect-women-workers-than-men-study.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 54
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/office-working-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+iTQedRld3FzsJJBZcXcSnEbTdI+O+dzl2J2fl014E3s6kC8J7ikWJuzpZuMthhV9rP1qEIZ+XwCzA0ofc0Z6tKeMogHj3r35VSbFpuOxf7IBU0JDGCmEOW7T6jRM+tEN5fpeSNgY91QR7Ka+qRcwNMUbXA8ZF8HiBWmuYwnLRjDhKvEizYary8R87Ci2aHIOBk9c6JJ+t+O/igDAEO/2whh33Eip1aMpALNxbdey/zJDUlWQ4FaB2vrrTzfXzCW/qJL/l4bOmWEoYp8qihitDHGT9aZU/u0rU9jawwto2r3ZaUC1BplH8LBocfyF63wIyyILEr2oJE9tewVLcx7uCfJnuzgtedKOdGjBI5PBAjDSTXFIUF+W1SM8PK5He6sBU+fZIr3OW3/YXE2+swJJmWzuxrV0fVxFJOMAot3xDLEzf1IGnphTT7jYQETyRWSRtByQaZWEYXSpL4LDVvfhYHI2LiP0G/ilFB6+v0qto7jn/HLw162k8VVIVIZPgpEsCzezHT4QjrZMiyamiwFAQ==;QG+quILyWDkgNvj+ejxm6w=="
 ---

@@ -49,6 +49,15 @@ related:
         width: 700
         height: 413
         isCached: true
+  - title: "Korean Red Ginseng Can Alleviate Addictive Effects of Alcohol, Find Sahmyook University Researchers"
+    excerpt: "AUD is characterized by the abuse, dependency, and addiction of alcohol, leading to compromised social responses and interactions of the individual. Moreover, it impairs spatial working memory (memory that allows us to orient ourselves to our surroundings) and causes neuroinflammation?"
+    publishedDateTime: 2023-07-27T13:03:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855272.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "WqQI+KkwWQkKFkBqugcpdWwP6VvOZ9Finj9ynbPXX4gpEbUCOcYX6wP/HJ4dhK2wMeIozWgJJg9MvvdDNvwAH1ILBhYUUslt3Sz870cGDj6bhHnTRtQqMJWFpzwPS6wfO7qG8fYcDZIF/K5Cz3cnp4vdSsmKdxqzTQ7GCp+b6tnxaoJbiTCXwahjhHGXf/HDuVeuBdGbG8oTWNW8m0ZuUhHQPTJ5wyl7punikUeI3h01FoG2bS0YTFssUnaG6RCzmWz9R/ne0o0mSqYJ4QQ63sguSMAdCNcAH/Wgc9DKRXHVSdxf5d8Ih3RUuzJjBgac5xx/Fg92/iZ7U3UADj1HLuAK256o9AuGV2xZturqaXY=;1qU2Q+dNoQpNAQyePZaZ7A=="
 ---

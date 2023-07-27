@@ -31,6 +31,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "How The Era Of AI Is Reshaping The Cloud"
+    excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
+    publishedDateTime: 2023-07-27T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/how-the-era-of-ai-is-reshaping-the-cloud/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
     excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
     publishedDateTime: 2023-07-25T08:42:00Z

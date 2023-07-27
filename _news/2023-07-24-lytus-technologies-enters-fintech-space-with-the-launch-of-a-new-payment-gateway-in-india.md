@@ -81,6 +81,22 @@ related:
         width: 710
         height: 408
         isCached: true
+  - title: "Climate change and financial innovation: The rise of climate fintech"
+    excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
+    publishedDateTime: 2023-07-27T14:23:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Financial technology, or fintech, is changing our finances"
     excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
     publishedDateTime: 2023-07-24T11:03:00Z
@@ -235,6 +251,15 @@ related:
         width: 600
         height: 500
         isCached: true
+  - title: "Business school launches £3m FinTech centre"
+    excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
+    publishedDateTime: 2023-07-27T12:13:00Z
+    webUrl: "https://www.thebusinessdesk.com/westmidlands/news/2076390-business-school-launches-3m-fintech-centre"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 4
 
 secured: "qh/04ZlxYlacRakZpV8XzHwVWyQissvkcIne5jJjR7xfhzW6PBiKbnqNWOJVeRKeNASNPSldTQJZ2yTKkGLQu93pT0nmEqYr+XFvagf167h7cS/NTb2L1pCTJMs3hgpWv4m7uRPlEOxw/JWgOpXnOeRGo3UGAIpAKkSBkEziWQ8/PNJd4K9MJMUxeC9fF/Dn6z4pSdduLmRLrpkKbJTbTg6z5EKDltyyLezi+n0Kvn8wi/RXqhWyXXqUWFpyJAGLMstUaY/vc692Rh+qDye2wEPhKT70lVqgWULQc1Gw1ZTg2U7o4wG6IftYlakTIyRpvGWhSfZPqWUywpbwlaJTlHdbuyvwZiPKxn8Cij4zlAk=;JWYji6rpa6GRirLEuwCbEw=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Crafting a Hit Song with Artificial Intelligence"
-    excerpt: "With the rapid evolution of technology, it’s safe to say that the boundaries of creativity are being redrawn.  The advent of Artificial Intelligence (AI) has introduced a fascinating dimension to the world of art and music,"
-    publishedDateTime: 2023-07-22T22:18:00Z
-    webUrl: "https://pctechmag.com/2023/07/crafting-a-hit-song-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 37
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/07/Music-AI.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
     excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
     publishedDateTime: 2023-07-27T03:36:00Z

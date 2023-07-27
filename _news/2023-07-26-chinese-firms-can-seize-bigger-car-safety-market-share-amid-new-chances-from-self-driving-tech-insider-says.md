@@ -39,15 +39,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "CEOs Of Chip Companies Call On US To Assess Impact Of China Restrictions And Exercise Caution"
-    excerpt: "Top executives from major U.S. chip companies have advised Biden officials to carefully assess the consequences of export restrictions to China and suggested pausing before implementing any new measures."
-    publishedDateTime: 2023-07-22T19:42:00Z
-    webUrl: "https://www.benzinga.com/government/23/07/33333768/ceos-of-chip-companies-call-on-us-to-assess-impact-of-china-restrictions-and-exercise-caution"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
 
 secured: "cYliuB3WceAuqXzvM3mp6PD/MBK2WmbAZxnOq7YgcLEyF9CV87q/92rQxVBRE1MPScTOQ5ug2bd7cdhoO5OAd4JWFyqzmJVAeCRImX6CU0nCUphmM/yCBIpXHm8MVpOUpMz8Y7s8aEZHTZ1WOXM7JqgJBwZhNvSAPBRyFDwBIoMzeWZSe7MDW86vwt/7Oq0iDVjuCqVKga2O7gwwayg4c5xHAM3RecSK4iTUIwauu2I9KsNTXhl/JPw80i109GZh9dIoO6zralQamv9VnZfQD+vxP5JwEbd+iEocIIv6RQ3Jl8N9oEOYoIRL9ilAgAgkE841x6DyiTVzf/qMkRmXpDG+rr2Ff0aqAHdluV3VYWUoq7sh8fhX29GfpMxVMbd/Sm4Yb5NbbJeQwIQH/BOFKZ+pqNDrkFYYh1ZW8YpnVAyIdhCoLUahD6ixphnHUKQr1kTGAEB0VtubZuL4BT/XeyawWiuzQvUNhQZmEMCKp9vzRlb5gtmsQfk7ocYNbg5O8kM6XuNGsJOqQPHRjs8LTQ==;uRHvadsWV5vlSG3COyuAhg=="
 ---

@@ -57,6 +57,15 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 34
+  - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
+    excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
+    publishedDateTime: 2023-07-27T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clps-incorporation-launches-aigc-intelligent-automation-solution-optimizing-delivery-costs-through-llm-and-generative-ai-1032484411"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "/qrzS1PE2Bw1Tbv0694CAW6nF5Q5Pk1InVFKHf+GjyAOinyRB5dtnCKcT12zUO+jHMDy3ui0KOwyT7AfxU7vZCs8xGO7vYKBkAEkEwzvj1pbD7uy0VHLMO+3sbzCgJOqpXg1VemvWwg7v/Ii4BrIlTqmwU6NUZUuK22WetkV/1pdsb1v9Mmc9jJkRQdAoC2RbdMv3ctK5Myt3CuHK7UWzZVMS2NgkiH38gFH3iB5QLcAfU35hgpNYyzqpx77NujNmgmGYELilcj1KKvX632XiFgn2qzFJjMOfLgVVqSqXQXlsc1296CitrnQWASfBJbSokYJpZlprwXtnPav8oeutOnsZZHqRZOl7cUNb0R9oCc=;n6+8+ORL47iBwcZxdNHgCg=="
 ---

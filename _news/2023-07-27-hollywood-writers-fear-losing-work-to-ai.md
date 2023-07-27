@@ -2,50 +2,29 @@
 category: news
 title: "Hollywood writers fear losing work to AI"
 excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
-publishedDateTime: 2023-07-27T06:02:00Z
-originalUrl: "https://www.bbc.com/news/business-66289583"
-webUrl: "https://www.bbc.com/news/business-66289583"
-ampWebUrl: "https://www.bbc.com/news/business-66289583.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66289583.amp"
+publishedDateTime: 2023-07-27T09:01:00Z
+originalUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
+webUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
 type: article
-quality: 87
-heat: 137
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E737/production/_130519195_index_writers_strike_976x549.png"
-    width: 1024
-    height: 576
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
+    width: 976
+    height: 549
     isCached: true
 
 related:
-  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
     excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
     publishedDateTime: 2023-07-24T04:59:00Z
@@ -97,6 +76,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "iOIVm4JVzRgww+fxW/QeTLKkupAEuLG+5F5jwNDT7SkreRcfmU+9bMDPRVv1brEgv1Xh5kBBE8ofnps/wc7tX1EyMOWdXcE40TG5//0TEuti2cA/suGcJUG90oPSJJbU8/51Mx/BJ5MLYav24FBACDqID9yHA9YJOfM0+eAn+zsKs5orUHXsdZGCFM9kCWQeXjdMh+um7Cz8RgJT5pzcU7CLTr3JGXejaSg6VkMkP4PUw5zrgpADp55hUg+u8f6nH2tpTbGeeg/d19pXZT+a0deLvLM2lgzFpB4ER9nSlIInXUAMPOuDdw7gEmBh93+YEuG8FMzTa4zSETlEY/coRKI6dhkmTvepbDq/THI1MSk=;KeGoB17qt3okgxUdFxzHtw=="
+secured: "Hohl4qf8ITyfjrWvTHdRdIjz2zTF3yx7VIDGWc5MuMbcR0VVZL4eENFoxsACxwl01AWsIPBE3sy/MneYdSOt5zcyGjQ+Mw+G868Z7yw7/YPDTFwzTivaLEvNaPsp/gYwP4gRIyUGQc2Mp3nOmKdNwiQrUv361roYKd+4OG3mVFsLHwTAZ0VsiJxz3N0vIfPhE3BS1PdMcMBXhi7DrIw4QZYAQxN4ErBvMb4xLj5J6g9TvJYcvOj+23zZdHpFkRZotI3KB4pgqMJaObpV1YrNt7Ke5ZPAXDam79MHB47RSkCwZTSc0QkecEPO57TdLuyr7ePS1wZmh4cPXbl5HrQRYjGDaEYWl/JRKVfQabdeQtE=;UguwgL9uucuRBpwcu6T5rA=="
 ---
 

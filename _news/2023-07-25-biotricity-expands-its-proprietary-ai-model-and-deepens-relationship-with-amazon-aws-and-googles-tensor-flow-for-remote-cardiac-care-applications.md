@@ -33,6 +33,20 @@ related:
         width: 1688
         height: 922
         isCached: true
+  - title: "AWS Expands Partnership with Twilio"
+    excerpt: "Amazon Web Services at its AWS Summit New York this week announced an expanded partnership with Twilio, a customer engagement platform provider, to place artificial intelligence at the fingertips of Twilio customers."
+    publishedDateTime: 2023-07-27T03:59:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=159812"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "AWS Announces the General Availability of AWS Entity Resolution to Help Organizations Improve Data Quality and Customer Insights"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced the general availability of AWS Entity Resolution, an analytics service powered by machine learning (ML) that helps organizations easily analyze,"
     publishedDateTime: 2023-07-26T17:59:00Z

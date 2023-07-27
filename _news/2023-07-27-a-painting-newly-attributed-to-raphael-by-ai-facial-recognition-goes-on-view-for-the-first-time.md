@@ -1,27 +1,29 @@
 ---
 category: news
-title: "A Painting Newly Attributed To Raphael By A.I. Facial Recognition Goes On View For The First Time"
-excerpt: "A painting of the Madonna and child is on view in the U.K. city of Bradford, in West Yorkshire, with a fancy new attribution. Research teams from the"
-publishedDateTime: 2023-07-26T22:56:00Z
-originalUrl: "https://menafn.com/1106703352/A-Painting-Newly-Attributed-To-Raphael-By-AI-Facial-Recognition-Goes-On-View-For-The-First-Time"
-webUrl: "https://menafn.com/1106703352/A-Painting-Newly-Attributed-To-Raphael-By-AI-Facial-Recognition-Goes-On-View-For-The-First-Time"
+title: "A Painting Newly Attributed to Raphael by A.I. Facial Recognition Goes on View for the First Time"
+excerpt: "A painting of the Madonna and child is on view in the U.K. city of Bradford after A.I. determined it was the work of Raphael."
+publishedDateTime: 2023-07-27T14:55:00Z
+originalUrl: "https://news.artnet.com/art-world/exhibition-of-ai-attributed-raphael-2341923"
+webUrl: "https://news.artnet.com/art-world/exhibition-of-ai-attributed-raphael-2341923"
+ampWebUrl: "https://news.artnet.com/art-world/exhibition-of-ai-attributed-raphael-2341923/amp-page"
+cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/exhibition-of-ai-attributed-raphael-2341923/amp-page"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Artnet
+  domain: artnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-07/26/UAN_4ad1fimage_story.jpg"
-    width: 1024
-    height: 403
+  - url: "https://p-news-upload.storage.googleapis.com/2023/01/de-brecy-raphael-comparison.jpg"
+    width: 1194
+    height: 470
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 470
         isCached: true
 
-secured: "+g/F9AJgPsP0twGusmssYYjhZAqKQuLSSJ6AqZbk/UGUa43QPa5OgGLpP7rym1i+jrFjOEBgpGBc/BphlOI6KL28xyLKPMVtTamJsCPh0OUEAOEMiIwrNJl8kMcSrHyHuJBCBQig2U9S4bhSrD1zAov/XXVh+6DKjbj+dnGfUZWqZxmKMyr4wLlTqhnnlSwOUoZEksNYv11gcV7KtI0ZMJScIseDDgAs84OF3a6F+QXixSuMGtwf3EdhXhT/B5UE+wW3ycickWUkv4RcCwBnskfkovQxhKRrzmZEz2sCLmvFrqjEgWZbLJ7JuTbJ1bG/ST27xOdVGIn2N3nbXLLIPo2V2DRXgimpltNDfEymLmVQGrCpgBKKIwU7ufGepWcH4isR3OJ+bj+3Kzs44XC9kXedlQZL3rLogFMzuxLR+fu1CY/uopbRkBeWk+vqAXlK5TsT6Y/ngp9u5bhMdlBiydupTGourDBw01Zyb5CIrJTOAVE6Yg0R2iKRYrN041VjSfM5Jor26uiTpCrSy+rOLQ==;xX6U6RxuzdJgsN6PuJh9Hg=="
+secured: "KgBdl8IzvYkOufHdzQtzKkP+GLu4J0qp3LskFDaRBVubGdLZ9Z79gAgyof7umWw40BqjpWVxr7tdBxIYkqhNyj9HbwHBHg2MPcWsxDszQ/OP6GiBvbRtodtxpoKKWbkCtwKrrb+Q4vOS5PoNSHBohmkGgQZb84PiZZDFeQ1a9jWJDL2Lz2go4aUcnqMCBBeUMi46GzXuUt3JQK6WPaulBFW9htAcsL5KreLSAt0l7HZIHOHo2bMHNZz6TqCjQtLFDzgLwEn5UXm6MOgPzJqAugpgw5hZ1lvVeOBgoxq+Ilk/HIQt9lgHrqbB9WGWiqYRcRETTp1MnfHo7EZsHRTWu3c6D7SuyFZ16rzi/WQ3tEk=;CA4364Ub/XEmlwhbC+ML0A=="
 ---
 

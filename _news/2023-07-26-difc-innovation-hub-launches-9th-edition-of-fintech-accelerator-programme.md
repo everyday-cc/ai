@@ -41,6 +41,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Fintech startup Croissant launches with $24 million in seed funding"
+    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
+    publishedDateTime: 2023-07-27T15:35:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97592/fintech-startup-croissant-launches-with-24-million-in-seed-funding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Difc Innovation Hub Launches 9Th Edition Of Fintech Accelerator Programme"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today"
     publishedDateTime: 2023-07-26T23:13:00Z
@@ -55,6 +69,15 @@ related:
         width: 1336
         height: 876
         isCached: true
+  - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
+    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
+    publishedDateTime: 2023-07-27T14:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "LuwHmFH4OtYvybaC/xRWnH+fkqZUmaBpB/KP6KFZxQIpIp9NPLf3amtzUv9ScofhBGC/IqWyAwKvGgOK4DM6IEevX7B6GXRjSHZRBj8ygR1hOzi4Lzdye007OqlyCuPED+wl+CfaoBqyyvmzWZywraYmOw5S7cWtGYz3XoXo5GAYB5NUjF/Nwph/L05HlrVuub6AlqVBzHiaHi2sWbdBvkGmxKKqqqymgkbCVF1+lxluDqDI3fwEwrbZcU+cNGuc0w5cTLxA04N5AyjlMFUWugmP3Tkv7YcHpGOdUj9JxidrEBV+cnfekj4o0kEh8SB4e4D7LbX4XQEVfXVJe4mkSCDgjticBzIYycAGUP8Mnik=;lPFYisxl/sGj6H6GUj30Qg=="
 ---

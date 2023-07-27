@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/"
 type: article
 quality: 121
-heat: 321
+heat: 331
 published: true
 
 provider:
@@ -254,6 +254,15 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
+    quality: 51
+  - title: "AWS launches AI-powered healthcare-focused services"
+    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
+    publishedDateTime: 2023-07-27T12:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 51
   - title: "Fox Expands AI-Powered Highlights System with AWS"
     excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"

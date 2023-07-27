@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-c
 webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
+    excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."
+    publishedDateTime: 2023-07-27T08:37:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/07/27/schrems-privacy-group-challenges-ryanairs-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
 
 secured: "Z0oZ6Ed0Q9IxNfdP1w/sCTroLAqQh6SfSfkOuWWJ1o3pWs9LKoby48KbINqCM1gSz9g++AVJkCSelpq2JnpsORNK+B1cJvjCle6h/P/P9oUmdGKcWq+yGTe+yoy+WuCchUMckPYa/GjbLplB9JGOYKx85EvVQiJ7o694Lk6WXxsKnpO+iTm+In1ah41et6yD5DG/lVTMm3Pbo5mDYUDI/2P58QwsvdahQ2ZscOaBWOI3kemTtF9s5P55PZjHSbNYW4zFJibfFl3GHN9pqRipN/AwwwbQcwCC0ZWe5DsITRhIuJfZzG+75eLLHwfpjfQZ8JHL5pcvMVMs7pYYy9yCqJ2Mv7f1qrKVjAAZdS2EHTnLQ2Em+zpkBAYP+dlBAiDloRFRVhiCSSz4lo+2BNi54JIpkBkLepuaBSsiCWCRGvM5jvnHU0rLDf7OIJyW8vyLzbmsn4ASXshc8UHu8Ywz9ogkTb8Zo+XIYUs4CqvaDntA/llSKT15WdaIeAIYgHBDc69rDhI1g6mBoM9q3DliOQ==;0zC44mJsYiGjnxPXqQG9rQ=="
 ---

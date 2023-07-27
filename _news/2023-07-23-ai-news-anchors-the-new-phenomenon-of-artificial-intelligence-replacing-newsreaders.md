@@ -84,6 +84,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
+    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
+    publishedDateTime: 2023-07-27T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
 
 secured: "fTNxYr7GwqMY3RU/FyPpbmZHzUMZ+ASeNXZhujst7XDF5hr2W3v115xinttrrBAr06Kvl5/TC84dS1JH47hE47Uow2yvnnn8YEAE4jodgxpGsXJ3b+YzNQ2RvjsCgwQ++M/n+FQxCwyOZ6hk6Kf/CNPG368y0p0uy3fUQ1b0QfVbbWpLrAQdUn0N2pkBn1PctIq6RIenkmSLqKycOFWgsMnHerv4TDQJhFs2qZerL9cgcArRK8uw38f60NnbFEarvsI/92reQnrW5zwyO8OIGrswO1xFdzkbqmdpQD8Y9zd2IHipvK01WJiRQUoZkuRdBeh9NfBNKRwifsAHWqnzvDcpQVXOM4ZY5y4eQr1w5ggLVbMJK1/XisObgJbkh6NxjPXMJhOcv7V0i1t3X+iRrsqgKo6A9WKoHfBxOv9QKI8QUgfwGFEHNbW9Xl0ZFdhYWgHoFDICLk1XTdYzrRElIJbPVWw8ZdLYmXti4wq2Tt9d/bgCcD7NDIqL5CKXBxWtxHZDDs2VjKU3hhSHXM6CAQ==;FYTYArZx32bWZx6SoyqyGw=="
 ---

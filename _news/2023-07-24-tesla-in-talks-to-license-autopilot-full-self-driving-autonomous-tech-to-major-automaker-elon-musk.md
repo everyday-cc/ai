@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free"
-    excerpt: "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting."
-    publishedDateTime: 2023-07-22T22:34:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 63
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
     excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
     publishedDateTime: 2023-07-25T14:22:00Z
@@ -52,22 +38,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Advocates for People with Disabilities Want Expansion of Autonomous (Self Driving) Taxi Services"
-    excerpt: "San Francisco’s LightHouse for the Blind and Visually Impaired, along with other community organizations, are urging state regulators to approve Waymo’s permit for its 24/7 self-driving car service. These organizations argue that autonomous vehicles are safer and provide more accessibility and independence for people with disabilities than traditional ride-hailing services."
-    publishedDateTime: 2023-07-23T03:54:00Z
-    webUrl: "https://assistivetechnologyblog.com/2023/07/waymo-robotaxi.html"
-    ampWebUrl: "https://assistivetechnologyblog.com/2023/07/waymo-robotaxi.html/amp"
-    cdnAmpWebUrl: "https://assistivetechnologyblog-com.cdn.ampproject.org/c/s/assistivetechnologyblog.com/2023/07/waymo-robotaxi.html/amp"
-    type: article
-    provider:
-      name: assistivetechnologyblog
-      domain: assistivetechnologyblog.com
-    quality: 46
-    images:
-      - url: "https://assistivetechnologyblog.com/wp-content/uploads/2023/07/Screenshot-2023-07-22-at-10.40.48-PM.png"
-        width: 1358
-        height: 802
         isCached: true
   - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
     excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"

@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/perimeter-security/robotics/pres
 webUrl: "https://www.securityinfowatch.com/perimeter-security/robotics/press-release/53067234/robotic-assistance-devices-rad-aitxs-rad-shakes-up-campus-safety-with-large-rosa-robot-order"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AITX's Subsidiary, Robotic Assistance Devices, Books Order for 27 ROSA Security Robots from Leading Retail Chain"
+    excerpt: "The end-user client is a Fortune 100 ranked company with over 1,500 retail locations across the U.S. These 27 ROSAs units are scheduled to be deployed at 2 of the client’s retail distribution centers. The ROSA devices will be positioned to detect and deter after-hours trespassing, loitering and other security breaches."
+    publishedDateTime: 2023-07-27T14:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855271.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
 
 secured: "lvtXc/hJin1xtI1XbL//mqUauueJrb5+A9GAgETiHayb5Ym69VbIP3rzvoZ9lwp54ovA6lIBTv0YsPlJ4hD3UoyjLMl0F7G5tvfoMg/N70cJZezudtqd1HbXJ9y+PEDSAL3OVi7ij4vq9cgfC6m6Lf7I3pF4fevpWZpXaOP2OXHUJTA2f0fzqNVyqia+N2dJtF6dmsb8DrsmmbKbThbnFgfD4hTtgPO1cjVqgJjJJlPoRNcAorIXiJVYZ035zNyeW8ve9ZFbxIVVF6WScqqQezLwdhIa1fEV5OD2Ft4uP5Cjtr/+Uif1oacwpxaPnjKJIRPowxBdWlDcQJ1NWsL6ytBYgmPmwRQOyxR279zB+1/Bg3N36HKdIYPeWKpBDW3x3DKD1xwSvl4CE7dDYc4FU9/lRuYy7wU5Xe3U4TrlV8oEqdMPSrMPI9vGC2zMTnmmeC3+OKwIB9PSifywOPhIZSEJ8DIWFiDG78zc5vMyIOhE68fr/tyScTJuQvFEH8zuecut4F7vvEEH6G+tE018KQ==;n/SaCj7/b3qeAybm+lRoMA=="
 ---

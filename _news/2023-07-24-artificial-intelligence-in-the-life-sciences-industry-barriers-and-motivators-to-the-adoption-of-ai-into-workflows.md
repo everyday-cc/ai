@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
+    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
+    publishedDateTime: 2023-07-25T16:02:00Z
+    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI Is Rewriting the Rules of $200 Billion Games Industry"
     excerpt: "“AI is the game changer I've been waiting for,” 48-year-old Hanazawa said. By freeing developers from the burden of mass-producing graphics, it promises to revitalize the entire industry. “Publishers will be able to take more risks, creators can become creative again, and users as a result can choose from a much wider variety of games.”"
     publishedDateTime: 2023-07-26T15:56:00Z
@@ -96,6 +112,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Sight Machine Factory CoPilot Democratizes Industrial Data With Generative AI"
+    excerpt: "Sight Machine Inc. today announced the release of Factory CoPilot, democratizing industrial data through the power of generative artificial intelligence. By integrating Sight Machine’s Manufacturing Data Platform with Microsoft Azure OpenAI Service,"
+    publishedDateTime: 2023-07-27T12:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855100.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "W6YgKVg/hcugf8WA8p7mkh2GzIR5M1Y2XGKBtqJuQ//ftUGMGvQLYTWwbffINnBIu3zwZG0MW21HzewKkWFXo8C7/kD6KOgbSqb218Hr/aLcfw+ZzBE0bDTHvuEPYogrhURRnRT4IlwtHYGOU9DSiFPdnyCUBbo0j6WK79pCSj9RMFTddvJCTKlE5+fptrPODEGT0xlGweIYFkPZopKIOrBxea2U6vi+356l4wqTjzT26XEf+3FG6A/JtSEhPTd5THIYjwhMl1S0zeIAJpnH0sZErfL9g1eJ54ZEa5v5Mp5Bkpn4YVs4ElkNlJY47Sex+TiglmtefumWMhpA5wiufzfoZ15gxia0Ox6kW1Q8lh0=;ZSLwHcQl0oYHWw6L5y/XAg=="
 ---

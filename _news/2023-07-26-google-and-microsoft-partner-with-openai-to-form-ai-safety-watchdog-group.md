@@ -31,253 +31,120 @@ images:
     isCached: true
 
 related:
-  - title: "An AI-generated ‘South Park’ episode, Microsoft’s security woes, and Tesla’s first Cybertruck build"
-    excerpt: "In this edition of Week in Review, we cover the AI-generated \"South Park\" episode, Microsoft's security woes and Tesla's first Cybertruck build."
-    publishedDateTime: 2023-07-22T20:15:00Z
-    webUrl: "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/"
-    ampWebUrl: "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/"
+  - title: "A new partnership to promote responsible AI"
+    excerpt: "Today, Google, Microsoft, OpenAI and Anthropic published a joint announcement establishing the Frontier Model Forum."
+    publishedDateTime: 2023-07-26T10:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 124
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/Cybertruck_78.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.width-1300.png"
+        width: 1300
+        height: 729
         isCached: true
-  - title: "Google, Meta, Microsoft, Amazon Make Pledge on AI Safety and Security"
-    excerpt: "ChatGPT creator OpenAI is also among the companies that met with President Biden to sign the voluntary agreement."
-    publishedDateTime: 2023-07-24T21:48:00Z
-    webUrl: "https://www.cnet.com/tech/google-meta-microsoft-amazon-make-pledge-on-ai-safety-and-security/"
+  - title: "Google, Microsoft, OpenAI and Anthropic announce industry group to promote safe AI development"
+    excerpt: "Some of the world’s top artificial intelligence companies are launching a new industry body to work together — and with policymakers and researchers — on ways to regulate the development of bleeding-edge AI."
+    publishedDateTime: 2023-07-26T14:47:00Z
+    webUrl: "https://www.cnn.com/2023/07/26/tech/ai-industry-group/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 92
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230224125906-laptop-night-work-stock-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Google, Microsoft, OpenAI Join Forces to Create AI Safety Forum"
+    excerpt: "ChatGPT maker Open AI , startup Anthropic and tech giants Google and Microsoft have forged an alliance to create a framework for safety standards and the responsible development of what they're calling \"frontier AI\" models ."
+    publishedDateTime: 2023-07-26T17:45:00Z
+    webUrl: "https://www.cnet.com/tech/google-microsoft-openai-join-forces-to-create-ai-safety-forum/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 101
+    quality: 86
     images:
-      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.cnet.com/a/img/resize/0f75266d8693db9e798b8305c35556dca21fefa5/hub/2023/07/26/df575deb-f8b6-4020-9a56-597958e9c85b/gettyimages-1247212585-google-open-ai-microsoft.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft earnings top estimates, but stock falls as execs detail AI’s costs"
-    excerpt: "Microsoft topped profit and revenue expectations for its latest quarter, though shares were moving lower after the company discussed the year ahead."
-    publishedDateTime: 2023-07-25T23:37:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
+  - title: "Google, Microsoft, OpenAI and startup form body to regulate AI development"
+    excerpt: "Tech companies say Frontier Model Forum will focus on ‘safe and responsible’ creation of new models"
+    publishedDateTime: 2023-07-26T11:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 101
-    images:
-      - url: "https://images.mktw.net/im-709442/horizontal"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "AI’s Grip on Tech Set for Test With Microsoft, Alphabet Earnings"
-    excerpt: "Bets that artificial intelligence will revolutionize Corporate America and deliver riches to the biggest companies behind it will get a test Tuesday, as Microsoft Corp. and Alphabet Inc. report their first earnings since AI fever broke out."
-    publishedDateTime: 2023-07-25T09:40:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-25/ai-s-grip-on-tech-set-for-test-with-microsoft-alphabet-earnings"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2L_HiFv2QE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Google and Microsoft Paying Big to Play in AI"
-    excerpt: "The tech giants at the forefront of the AI race show recovering growth in their core businesses."
-    publishedDateTime: 2023-07-25T22:49:00Z
-    webUrl: "https://www.wsj.com/articles/google-and-microsoft-paying-big-to-play-in-ai-48cae808"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-823368/social"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Microsoft charges ahead with spending to serve AI demand"
-    excerpt: "Microsoft on Tuesday laid out an aggressive spending plan to meet demand for its new artificial intelligence services after surpassing Wall Street estimates for fiscal fourth-quarter revenue and profit."
-    publishedDateTime: 2023-07-25T22:43:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2023-07-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/jQHWXRMLG5Y_jyA1ZB6WFkLiKgw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TP3J7GYZQFJPRMG5M7QAFSB3M4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft Touts AI as Cloud Demand Cools"
-    excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
-    publishedDateTime: 2023-07-25T21:42:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-msft-q4-earnings-report-2023-3d6ebe64?mod=news_archive"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-818044/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft Partners With Indian Company To Build AI Centers"
-    excerpt: "This story was first published on the Benzinga India portal."
-    publishedDateTime: 2023-07-24T12:59:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33341965/microsoft-partners-with-indian-company-to-build-ai-centers"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33341965"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33341965"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/24/shutterstock_370707185.jpg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "It’s Microsoft Earnings Day. All Eyes Are on AI and Cloud."
-    excerpt: "Microsoft MSFT +0.39% will report June quarter earnings after the close of trading on Tuesday, with investors zeroed in on the outlook for the company’s Azure cloud computing arm and its rapidly expanding work on artificial intelligence. Already a subscriber? Sign In"
-    publishedDateTime: 2023-07-25T05:59:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-earnings-stock-price-231e11a9"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-stock-price-231e11a9"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-stock-price-231e11a9"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-822568/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Birlasoft and Microsoft collaborate for Generative AI Centre of Excellence"
-    excerpt: "The Gen AI-CoE will leverage Microsoft Azures OpenAI Service for research, training, and collaboration, to build 50 use cases and digitally transform the above sectors, the company said in a statement."
-    publishedDateTime: 2023-07-24T14:35:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 72
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
-        width: 1280
-        height: 723
+      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Microsoft leans on Azure, AI as cloud business grows"
-    excerpt: "The tech company’s public cloud platform accounted for more than half of its annual cloud revenue in FY2023, CEO Satya Nadella said."
-    publishedDateTime: 2023-07-26T22:08:00Z
-    webUrl: "https://www.ciodive.com/news/Microsoft-cloud-Azure-generative-AI-revenue-growth-GitHub/689113/"
+  - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
+    excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"
+    publishedDateTime: 2023-07-24T10:30:00Z
+    webUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us"
+    ampWebUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 69
-    images:
-      - url: "https://www.ciodive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "Generative AI’s Growth Bodes Well For Microsoft, ChatGPT"
-    excerpt: "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue."
-    publishedDateTime: 2023-07-25T16:39:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ais-growth-bodes-well-for-microsoft-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Genpact teams up with Microsoft to empower its workforce with generative AI tools"
-    excerpt: "Genpact aims to empower business teams with generative AI use cases, enhancing employee productivity, operational efficiency and agility."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/genpact-teams-up-with-microsoft-to-empower-its-workforce-with-generative-ai-tools/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-  - title: "Microsoft Cozies Up to Meta on AI, Maps"
-    excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
-    publishedDateTime: 2023-07-26T22:57:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/07/26/microsoft-meta-ai.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
+      name: Diginomica
+      domain: diginomica.com
     quality: 56
     images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
-        width: 647
-        height: 450
+      - url: "https://diginomica.com/sites/default/files/images/2017-03/White-House.jpg"
+        width: 1207
+        height: 610
         isCached: true
-  - title: "Viatel Technology Group launches secure AI tool for Microsoft Teams"
-    excerpt: "Viatel Technology Group has revealed that they have introduced their latest innovation, a secure Artificial Intelligence (AI) tool called vAI for Microsoft"
-    publishedDateTime: 2023-07-24T15:46:00Z
-    webUrl: "https://www.onmsft.com/news/viatel-technology-group-launches-secure-ai-tool-for-microsoft-teams/"
+  - title: "Google, Microsoft and artificial intelligence startups OpenAI, Anthropic create new group"
+    excerpt: "Google LLC, Microsoft Corp., OpenAI LLC and Anthropic PBC — have created what they're calling the Frontier Model Forum."
+    publishedDateTime: 2023-07-26T14:37:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/07/26/google-microsoft-openai-anthropic-ai-safeguards.html"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/vAI-for-Teams.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
-    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
-    publishedDateTime: 2023-07-25T20:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/25/microsoft-beats-quarterly-estimates/"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 40
+  - title: "The new universe of Artificial Intelligence"
+    excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
+    publishedDateTime: 2023-07-25T18:16:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/07/25/the-new-universe-of-artificial-intelligence"
     type: article
     provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O0X3-BASEIMAGE.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Microsoft beats quarterly estimates as AI boosts cloud business and spending"
-    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month \"Copilot\" for its Microsoft 365 service that can summarize a day's worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
-    publishedDateTime: 2023-07-25T20:03:00Z
-    webUrl: "https://gazette.com/news/us-world/microsoft-beats-quarterly-estimates-as-ai-boosts-cloud-business-and-spending/article_3fbee5bc-0317-59eb-8db3-01b62b975517.html"
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
+  - title: "Generative AI startup to create AI newscasts"
+    excerpt: "A new startup called Channel 1 wants to use generative AI to create automated newscasts with digital anchors that can be customized to fit viewers' political slant, Tim writes. Why it matters: The rapid acceleration of AI is blazing a path to disrupt the media industry."
+    publishedDateTime: 2023-07-26T13:00:00Z
+    webUrl: "https://www.axios.com/pro/media-deals/2023/07/26/generative-ai-startup-to-create-ai-newscasts"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/d/82/d829650c-ab9d-5666-a3cc-a48c3b8a0aa0/64c02b4890fd4.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "The AI Launch Pushing Microsoft's Price Higher"
-    excerpt: "The post The AI Launch Pushing Microsoft's Price Higher appeared first on American Institute for Crypto Investors."
-    publishedDateTime: 2023-07-24T18:25:00Z
-    webUrl: "https://moneymorning.com/investing/the-ai-launch-pushing-microsofts-price-higher/"
+      name: Axios
+      domain: axios.com
+    quality: 17
+  - title: "Top tech companies form group seeking to control AI"
+    excerpt: "Anthropic, Google, Microsoft and OpenAI team up to establish best practices but critics argue they want to avoid regulation"
+    publishedDateTime: 2023-07-26T10:00:00Z
+    webUrl: "https://www.ft.com/content/709f4375-83bf-4037-878d-964d1ead8858"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 36
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "ubRxf/c7G6C4a7Idefp4qdG1LgqNdGmJtkfM/dG4ggCir3/3h/8k7J/3cQUfQZ/7Rls96vXmO6m4gkhZgRftGKtfahmNYn990/erOsmw3Ust9+JkCzF0gYfs4vqxvdbWsUM+DCvVdx2RaqwO4E0024uPAg2EAWXp2RVrU2+9RyAf8DOg5CWar95GIT0DdE+PCM1YkPHdmkInJ8ReTrTLVWdaNeC+C24U/ahFogHCDHcpye6k5vMw32hdY4tZfWVSoE2m/UVeDxmqZe6qEKRdVKi1vrTGJTVdCwrHJrDWIr9N6nogBnR/tZQolji2N+gNF1OpWmeuzG4AbGyW2p5ReqQBEzWG1dBS5rLL+nRdgLM=;Sh0YoSpWCiFIyIPVPdfnYQ=="
 ---

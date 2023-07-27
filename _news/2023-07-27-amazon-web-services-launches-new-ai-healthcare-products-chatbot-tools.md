@@ -251,6 +251,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
+  - title: "AWS launches AI-powered healthcare-focused services"
+    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
+    publishedDateTime: 2023-07-27T12:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 51
   - title: "Fox Expands AI-Powered Highlights System with AWS"
     excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
     publishedDateTime: 2023-07-25T18:38:00Z

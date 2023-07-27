@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
+    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
+    publishedDateTime: 2023-07-27T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
 
 secured: "4CTe8WyuxJi5NRTpU58O830I74GL0ESBF2WKAovjZaPLyrfOUkSO2imnKZOfyHbTm23EmQnK/2HJ3JjYPd1s5kMM1kZY9ynllVdiB+TPPC8wqJSwhYjaz/6KCbNjoznPXs+82KMUiRgMk5G2S9rCSG5dEnvUmSkoPKATnql8PfKvYcv8rIjY06BLc1/wuf7E8nWU8wfZx4FoCsv2EUUSdDiXG0g2L/oVnuBkyvukO2gtGv4mbgrwIAOvOI8Skliy2Ue6KK5ft6SWGuYThXCxxr4UtpHRvoCXPxYlxz2Th2CqZ/XDazz45WOI1vH/LaqceT74a59nzm5nxUnQPMydqaV9XZsUei9/aNRwvVc4bOs7UDsl/ddeOi93xQe/0nxpuTUbj6mNlRrj3Iwc/fptKFloUu0GaRyfTASkgDGN5MJUAjwH9K/iJsjFcZ255ywWnIAEZT+9GfpYfGnEcwRLKDB1xR40lNLakFZv79P4JDVhQiBPwGirqEDgf+GN3RtXEoG+Pw131Z4y2c6Qb8vN9A==;j0ZZFniZubfWx+9i2uK8fw=="
 ---

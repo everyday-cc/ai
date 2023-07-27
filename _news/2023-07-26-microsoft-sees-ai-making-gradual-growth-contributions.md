@@ -60,6 +60,20 @@ related:
         width: 2496
         height: 1401
         isCached: true
+  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
+    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
+    publishedDateTime: 2023-07-27T15:26:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 39
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "YKLS4Dk44uwViljNDyNOE5FMaRiqnvTeT5URAJ/hsSklbc/EHguXWDXakP8Ik5dqx2uS2Q1+QMGpyoKebOyZhZauk8Yfcf5qNIepF9JckQaQVkqZQ0jgCj0GYVRs8+FmFmWmrzg12mwowHAIlCLZ8xGfNYtEGWEu6kwrN0XtmcjbIqIuYig/EwARxb8fEWV2yHJEjUknB8ZHDmwludS7YnCtf17lV7AI2YF/63fF36H4v+sthQy/eyUPIHLslNT7YpQVCr7s6N0GyDOGM/utckrw8q4S/Yt6k1I4iCEQTYsu0qF64kd6GiJ6MadUKQMqsFCXF94XLE1WA3LoJv6mAlcezQMWofmQkx7xvkHMCwVK6oQkKct+ixU4YV2qe21TVFcCTCMjhh+3cPjhnmAKO8FZCAQqbFciMMy2zJjVRF0yyozvA6zAB/OHkH5Vz17qtwZGPWG1vUOm5zyLu0DYz9LBWbYOJuLQ1SY2WWbTKI1yJh6vb5+2zA+funFHrkhxEXJDzsz7xnmcd/+9Ajdekw==;hmvl/nb9zMUFEPXqCBDOsw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-
 webUrl: "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 56
+  - title: "Protect AI Raises $35 Million to Protect Machine Learning and AI Assets"
+    excerpt: "Machine Learning and Artificial Intelligence security firm Protect AI raised $35 million in Series A funding led by Evolution Equity Partners"
+    publishedDateTime: 2023-07-27T13:22:00Z
+    webUrl: "https://www.securityweek.com/protect-ai-raises-35-million-to-protect-machine-learning-and-ai-assets/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 34
 
 secured: "+ZG+sh2xUFYDNo1Qkp3WAMfVLNjYp1g8ifcDrWDGGocgeDh5MajKk1qaZqZAGJT0s45PUZINVoB3l1+W5xndI1BH1tCmm/g2HRPz73s5QvPZ0sf5S19keLRiXNcfp2S+8Ct4P27g321s7SnIctPvw6P6bBk2jJaEaI/NB/CO2dYolH/MuCiNUqlZzXYBCDdB0djDC8OBMgKwJxj4/29vRWJ2Q7LmCZCiJm6u8U4IPKYlwkaJNx6cTKrk4D7/9SxUK+u1cCnBXODVExjd4m6aetHt9ZA0x8uqihkxWxnaivzUEhaY1LYgZyU51Unq9/Yfa3UWUTLyTR9XApPVVNcoI1W3D9docqleOVs0gap/daVXlInLmW/Wjqca1rwey90AoeXBCD5aH1DJUlVchcFu57i03xBB+e5M4zvF2vgfhwGx1XFpGWmR8hh0eILSnFlyKfCkxm8Ro4LoQVeHPDBmhNEpUJ3uR0VWTAnwYtn6sSH/+juxOHKsm7a3IHQmxokIe4B4VtpkO3oi+jJJlW/qpw==;yf8/S+1icGje61WSaytT0A=="
 ---

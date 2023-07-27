@@ -37,6 +37,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How The Era Of AI Is Reshaping The Cloud"
+    excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
+    publishedDateTime: 2023-07-27T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/how-the-era-of-ai-is-reshaping-the-cloud/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How AI pressure is making companies rethink cloud use"
     excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
     publishedDateTime: 2023-07-24T12:19:00Z

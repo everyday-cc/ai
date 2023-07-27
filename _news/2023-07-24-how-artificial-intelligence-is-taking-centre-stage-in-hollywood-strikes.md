@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Firstpost
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hollywood writers fear losing work to AI"
-    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
-    publishedDateTime: 2023-07-27T06:02:00Z
-    webUrl: "https://www.bbc.com/news/business-66289583"
-    ampWebUrl: "https://www.bbc.com/news/business-66289583.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66289583.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E737/production/_130519195_index_writers_strike_976x549.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
     excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
     publishedDateTime: 2023-07-23T08:07:00Z
@@ -83,6 +51,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "Hollywood writers fear losing work to AI"
+    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
+    publishedDateTime: 2023-07-27T09:01:00Z
+    webUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
     excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
     publishedDateTime: 2023-07-26T18:16:00Z

@@ -51,6 +51,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Startup to Use Generative AI to Create ‘Personalized News Network’"
+    excerpt: "Channel 1, a new startup founded by Tosh.0 producer Scott Zabielski and tech entrepreneur Adam Mosam, plans to launch a service by the end of this year that uses Generative AI to create “personalized” news networks customized to individual viewers’ tastes."
+    publishedDateTime: 2023-07-27T14:42:00Z
+    webUrl: "https://www.tvtechnology.com/news/startup-to-use-generative-ai-to-create-personalized-news-network"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2FixELCYkdNtCjqYDYmuiK-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Follow the AI money"
     excerpt: "OpenAI is giving away basic access to ChatGPT but selling $20-a-month enhanced subscriptions. Google and Microsoft are both making their AI-enhanced chat-based search products free, so expect advertisements — and the data mining that makes them more valuable — to kick in at some point."
     publishedDateTime: 2023-07-25T09:29:00Z

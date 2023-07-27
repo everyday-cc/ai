@@ -55,6 +55,29 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Fintech startup Croissant launches with $24 million in seed funding"
+    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
+    publishedDateTime: 2023-07-27T15:35:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97592/fintech-startup-croissant-launches-with-24-million-in-seed-funding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
+    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
+    publishedDateTime: 2023-07-27T14:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "TQvSRw3qjb+1YP5Na/e0PVbeu6VXhqzHZ5AEsA/G5oV6qTRGjljg+MtVPaOzHOCAB9ythm+7d3xlVr8GwAs4+NENXSgGvLt2i/8pLIPnIl8EnqPRCqHIdb+ZQH+ku/DXEWLoUgRtJN18lQwmGA+dDt3FTdC1P1PPEy234tm3GvSO9lJnQSav0tmS0jEAWzN4kKmqYEz32w5qbbaLey/YWOQMCpA+86E/+5aNa/XG77P37rfCo8yDcWLfN+T+SST2GZc87j8rj/K0ZWH3IOJXbd37xV3zZB0ph6yIlZFKWS2xuXdVXhjIwjtbNXaWIw61nGXOD3fWv5iqJNRqhFpLAf3pKZ20Ked1T1hOnM8JVECw16+a83TeQl3B758J69PYOCIL2cXxO7vo1w4QLLQqDv6LrNXH8S/R25v7Vu5hKZfQcShEZcNn7oo9ihidejBOoqOSv8RwhMAwzb3rMNQew8nK9AWBHpFtZfRrg8Jan3JeATosa4MZSG7oPQuqlr0XiP2FfFLYj/8Ve/T5gx/J8Q==;BZNK714eCy6axmhqlMSa2g=="
 ---

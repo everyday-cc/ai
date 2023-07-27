@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
+    excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."
+    publishedDateTime: 2023-07-27T08:37:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/07/27/schrems-privacy-group-challenges-ryanairs-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
 
 secured: "J82XOAOXe1JioxAWKKRgVVWcSG2lvF2Uiv7SdHMs8tvm5VENhK0vxA46slJToXsLl0UFzOYP6byJBolYgHNnQifwWVLrZtLmSohrry5bDuJf3WhZYPC1pT+fBZXit+YoBtSVzYFXSPLHA6DvrvcbpOkpYmPsagW/L6gEsusAe7gnxPbhhh1sYXZPhNkWVcxd0wjWDrNGJlRm1n8MeEXjZ3j7PeUg8EwvHwO2pMbr4y2MBA/kQCMSDCbA6rZHzcR+hMK9an1WYJ5k9lDyn7ziUPNos9ZK59gwKQeglPUi6+P2R+qwz9OprLsmxs9vB7RvXKBRNNAAvYvh2zpxynu9kWoqYuLWeR1OowRq6G/uYsw=;BXp8VTfN5s15nsY50NS5Cw=="
 ---

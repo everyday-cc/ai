@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/
 webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/NVIDIA-DGX-Cloud-Image.jpg"
         width: 1260
         height: 680
-        isCached: true
-  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
-    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
-    publishedDateTime: 2023-07-27T07:50:00Z
-    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 24
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
-        width: 684
-        height: 358
         isCached: true
   - title: "Amazon launches program for startups using AI, climate computing"
     excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."

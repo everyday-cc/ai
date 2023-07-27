@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Climate change and financial innovation: The rise of climate fintech"
+    excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
+    publishedDateTime: 2023-07-27T14:23:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Financial technology, or fintech, is changing our finances"
     excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
     publishedDateTime: 2023-07-24T11:03:00Z
@@ -227,6 +243,15 @@ related:
         width: 600
         height: 500
         isCached: true
+  - title: "Business school launches £3m FinTech centre"
+    excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
+    publishedDateTime: 2023-07-27T12:13:00Z
+    webUrl: "https://www.thebusinessdesk.com/westmidlands/news/2076390-business-school-launches-3m-fintech-centre"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 4
   - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
     excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
     publishedDateTime: 2023-07-24T12:54:00Z

@@ -5,9 +5,11 @@ excerpt: "Personal assistants like Siri haven't seen much improvement for severa
 publishedDateTime: 2023-07-26T19:26:00Z
 originalUrl: "https://www.barrons.com/articles/ai-chatbot-siri-alexa-inflection-pi-fa1809f8"
 webUrl: "https://www.barrons.com/articles/ai-chatbot-siri-alexa-inflection-pi-fa1809f8"
+ampWebUrl: "https://www.barrons.com/amp/articles/ai-chatbot-siri-alexa-inflection-pi-fa1809f8"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-chatbot-siri-alexa-inflection-pi-fa1809f8"
 type: article
-quality: 7
-heat: 7
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "FzxRAp9VmVkdBTqqRxvsq8ni13Nhngr+gyroW4SrTKZY6kLedmhRt1fBeflcxTk+W/P/EHkBBoioxq8DwWSOQ/3TirIEvy93WDwy9kWYuo1IF4y+iBgUcJm1aFBoHpPajD36z/8leHC3N0yTUjjG/ykjrndr5wnY4FC3Q0RaNSNTKo6rsAaB0UlqqccYeHqQQiHcprrO0HnYiKJixdKB60mgKX1fC0wmzbJEM5NOwi5157hf1qRV5fXfpLxmsHhydhlh9Fx8ZSvORGzNqnRzFdv7tIkEO287tqKOmxqsKLO4NaYLePhAnaJwlnfuqEKF3keQ85LNXr97hrtbNRvLmWVJiEH8HtqblCj4TsQMhQA=;81RajQqCvVbsHQZBubk7tw=="
+images:
+  - url: "https://images.barrons.com/im-823311/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "a7Q6IM6mR8kdzaA1qlfDpTHUjs1IH8ykdFEMO5eApu08+iUZgJ3IZaPXSEywNy6NDUcxtq9q7OKlGqXa+yzwg9Fv12x3FtT20j85KTv6Yl5FD5DDDadeoTv0g1E+jlQSWCbtDHPM5o9ZaqDLSfJg2CpyhsahlEYR+eUAdQ8v60PYxTPFrYVZeC8ZN4qEU2FHDd8nlJ5eeh3SrlgnzkOl8O5ClUTEFJ5V3fbLR0qvcRcbBhgmcgu53c7GL3TyUNZ3KfaJxBSliu3Y8Fs4amLAZndtvs6iq7Nko8wSdsMBpvuy5dtyhRfM+J7QgPi8N7pZZpBgNxnbbuq3AXmXwkWUHVIpv7aJWjAstSIckF63DoI=;rdFXeGPnUk16F3e4kPFTyA=="
 ---
 

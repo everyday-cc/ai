@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "ServiceNow Stock Drops After It Beats, Raises And Adds AI Services"
+    excerpt: "After reporting growth and profitability above expectations and raising guidance for the year on July 26, its stock lost 5% of its value."
+    publishedDateTime: 2023-07-27T12:40:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/07/27/servicenow-stock-drops-after-it-beats-raises-and-adds-ai-services/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "Zs0pYwmY98oyiLeGm0F0SnQGFtEVgT2u/fm5kUCj5Rl0JarqiZtMrQimVmFVutAJm8iKWE9PSO0LcuGNWSzOtAWaIgywYzVGdGH7pg9MSxL1vDqkpeTME96nFY9RTKSOhLlhmEjcvjLDdu5JTb2cezdBix5mhURkAkk8upLLShk8Q0XD/SBPOLYWs8/pmUq641oBy/TTHqg54CYv+/x/E5MErVUE2qu8lTzih5zIIsINe8vpB997ZerZoyoypNTmcyVwbkXGeH5URdPX2y+gzhHTiZ1SqYOHRqwzUT6va5rqssjAmMDBxuV9npeS1FPafLelO7y9x0Zpnz4gReTvxCSQ/Vl9Pxxu6+Sbdps3PwyLO0EoPWvomH5Bom5PTaXpKtvUY7uh6SBJailqAsw6qYzRlCofDk1G2FKyfJofdkjEZXRL/mcq8d2FBPogGDLLURrWjZ/Sh/112Snjv72DCVSqqCIkbqQ1IKYR5YykvYSuBODb5Q0F8Xa+LeQpPCQ16f7dZ2AEJdZBMcCRGwsYjw==;sw03g/4rKGQVISoBaujxGQ=="
 ---

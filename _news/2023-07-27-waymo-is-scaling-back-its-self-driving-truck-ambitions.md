@@ -89,6 +89,15 @@ related:
         width: 1095
         height: 610
         isCached: true
+  - title: "Waymo shelves self-driving commercial trucking operations in favor of taxi cab business"
+    excerpt: "The CEOs of Waymo, Tekedra Mawakana and Dmitri Dolgov, said that their company will now be primarily focused on ride-hailing services, and will be investing their efforts and resources accordingly."
+    publishedDateTime: 2023-07-27T08:26:00Z
+    webUrl: "https://www.neowin.net/news/waymo-shelves-self-driving-commercial-trucking-operations-in-favor-of-taxi-cab-business/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 41
 
 secured: "RuKytAOn+TB//N9moudrXr5k8J4k/vzqzVoJ/0C8NiD/4YT7oHqbSUW66mQ8Zy0KTtX4F+qqsBA+kpK6pfqgqCsPxMwyOD+34n3EgSeksqkCg0/O8UhrTfQUq2diKEvu5dx3wD8BsloPpkaqcEPAyz9OJnGb01cTazmfjhgwxkNHC9XqTKMzEtxsHwLUbataJXC3xegNLBZnuAf1Cf1LoIeGJ0blVRMrS+d8choaWGxrCUGMWjXi0WxephH8iBTLJMheUrV2DO1y1PpVZhSKjR5zT5OM0CKbuPmfcvtrJP6pMf2UTwWtt6pEk5byrAzRfudJssvwi8LQWtXJGbAJQm+rf7KIF0Cv8FB+FawAsagTLUvUgGZq0RvFbGLh0JvNtOISH0oWJrdWdGKTU/6uJfrHudPZo19ST0gxXzp+PjD8EoJXM5E/Jpk+j4Bs7vbinVE1vaO9ssABWmCZb9hRAEW9LXSzs9YRkE5JMTTo4xeAa2jCHpe6xJBUGc6cdbC2ggRTKqHbzjRZeNwvj9gAQw==;BJstJtKCyt7qdzFYOuwPFg=="
 ---

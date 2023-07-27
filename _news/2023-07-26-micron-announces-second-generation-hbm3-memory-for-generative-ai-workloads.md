@@ -37,6 +37,15 @@ related:
         width: 750
         height: 375
         isCached: true
+  - title: "Google Collab to Support Generative AI in Ambulatory Healthcare Settings"
+    excerpt: "Google Cloud and CareCloud are working together to expand small- and medium-sized healthcare providers’ generative artificial intelligence capabilities."
+    publishedDateTime: 2023-07-27T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-collab-to-support-generative-ai-in-ambulatory-healthcare-settings"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 33
   - title: "Rigetti and ADIA Lab Sign Collaboration Agreement to Develop Quantum Machine Learning Solution for Probability Distribution Classification"
     excerpt: "Together, Rigetti and ADIA Lab will collaborate to design, build, execute, and optimize a quantum computing solution intended to address the probability distribution classification problem, one of the greatest challenges of quantitative finance, with many direct applications to practical use cases in the investment industry."
     publishedDateTime: 2023-07-26T15:26:00Z

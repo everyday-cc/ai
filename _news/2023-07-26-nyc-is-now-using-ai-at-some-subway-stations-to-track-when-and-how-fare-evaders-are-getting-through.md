@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "NYC Using AI To Track Subway Fare Skippers"
-    excerpt: "The NYPD made 601 arrests and passed out 13,157 summons for fare evasion in the fourth quarter of last year. Those numbers came after the MTA announced plans to dramatically increase the presence of law enforcement underground, in large part to deter larger-scale crimes."
-    publishedDateTime: 2023-07-22T20:14:00Z
-    webUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01kHrNkw0Veu0X7olZeIH3x-1.fit_lim.size_1200x630.v1690056803.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
     excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
     publishedDateTime: 2023-07-25T12:00:00Z

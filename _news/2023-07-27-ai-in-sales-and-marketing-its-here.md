@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock to Buy Now and Hold Forever"
+    excerpt: "Looking ahead, AI will almost certainly be a defining trend of the next bull market. Several Wall Street strategists have cited AI for recent upward revisions in their S&P 500 price targets, and Ark Invest says AI software revenue will increase at 42% annually to reach $14 trillion by 2030."
+    publishedDateTime: 2023-07-27T13:43:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/bull-market-coming-1-ai-growth-stock-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 53
   - title: "AI hype is 'driven by marketing' right now, says former FDIC Chief Innovation Officer"
     excerpt: "AI has crossed over from being a tech buzzword into a household name, but consumers and investors should be circumspect when thinking about the AI hype, said Duke University professor Sultan Meghji, who previously served as the FDIC's Chief Innovation Officer."
     publishedDateTime: 2023-07-24T17:20:00Z

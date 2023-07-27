@@ -43,6 +43,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 46
+  - title: "Google Collab to Support Generative AI in Ambulatory Healthcare Settings"
+    excerpt: "Google Cloud and CareCloud are working together to expand small- and medium-sized healthcare providers’ generative artificial intelligence capabilities."
+    publishedDateTime: 2023-07-27T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-collab-to-support-generative-ai-in-ambulatory-healthcare-settings"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 33
 
 secured: "PhZCM8JtCU/BKdsAIt0R7DfCGCXvHkxUhVbiYKe/5/rtzdo22ZPcPlBbuJTo9X6QWfzU/9DLoIW7XXSrLnnRCRerLt8ajpF9ETtjfkJdR5uytxqYGlQBk2CuzavfKvEZqwgWg0z6IUfEvamFr+PwjGsWJpm8beGR3msA1EfOnadvevenqERA7QGjm31cqgSsol+UkdIA5JQqMkBubbjxlmDJOi7I5oITeqedmoAGJYpPZfLdzf+Nmza4+zQ+yQmii3kqatqRqBO3TujAzRgG3wK2R8ts8UjxKjWeCmZBdenUqX0qyoUCSpKk4RxnA+BFGrkOJ7ZgjC4j9lLKWR3WpTxiit1xrTM/n6dBExasXH0=;Eb/ptW1W+xO7ibDQOBjDNQ=="
 ---

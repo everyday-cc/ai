@@ -7,8 +7,8 @@ originalUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-
 webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Jalopnik
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free"
-    excerpt: "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting."
-    publishedDateTime: 2023-07-22T22:34:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 63
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Advocates for People with Disabilities Want Expansion of Autonomous (Self Driving) Taxi Services"
-    excerpt: "San Francisco’s LightHouse for the Blind and Visually Impaired, along with other community organizations, are urging state regulators to approve Waymo’s permit for its 24/7 self-driving car service. These organizations argue that autonomous vehicles are safer and provide more accessibility and independence for people with disabilities than traditional ride-hailing services."
-    publishedDateTime: 2023-07-23T03:54:00Z
-    webUrl: "https://assistivetechnologyblog.com/2023/07/waymo-robotaxi.html"
-    ampWebUrl: "https://assistivetechnologyblog.com/2023/07/waymo-robotaxi.html/amp"
-    cdnAmpWebUrl: "https://assistivetechnologyblog-com.cdn.ampproject.org/c/s/assistivetechnologyblog.com/2023/07/waymo-robotaxi.html/amp"
-    type: article
-    provider:
-      name: assistivetechnologyblog
-      domain: assistivetechnologyblog.com
-    quality: 46
-    images:
-      - url: "https://assistivetechnologyblog.com/wp-content/uploads/2023/07/Screenshot-2023-07-22-at-10.40.48-PM.png"
-        width: 1358
-        height: 802
-        isCached: true
   - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
     excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
     publishedDateTime: 2023-07-24T11:04:00Z

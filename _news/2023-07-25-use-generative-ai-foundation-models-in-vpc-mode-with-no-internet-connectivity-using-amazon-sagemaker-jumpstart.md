@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 34
+  - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
+    excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
+    publishedDateTime: 2023-07-27T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clps-incorporation-launches-aigc-intelligent-automation-solution-optimizing-delivery-costs-through-llm-and-generative-ai-1032484411"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
     excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
     publishedDateTime: 2023-07-25T13:20:00Z

@@ -258,6 +258,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
+  - title: "AWS launches AI-powered healthcare-focused services"
+    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
+    publishedDateTime: 2023-07-27T12:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 51
   - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
     publishedDateTime: 2023-07-26T16:14:00Z

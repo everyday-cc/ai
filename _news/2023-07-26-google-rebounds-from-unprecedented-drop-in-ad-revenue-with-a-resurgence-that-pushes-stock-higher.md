@@ -3,12 +3,10 @@ category: news
 title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
 excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
 publishedDateTime: 2023-07-25T21:46:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
-webUrl: "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
 type: article
-quality: 31
+quality: 0
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Google ad rebound renews faith in AI investment"
@@ -58,6 +50,6 @@ related:
         height: 853
         isCached: true
 
-secured: "DKlQehlHPHtvQ/3GFWFuaUxW39DL7vIU463Y1CCz2vTV2rMLGeh+FITw7iG/WcZP9H3+aLK9vZ/I69uIK376ZKNGulmer+FtVWKF7LKSm8WmdekPHb86jo+EmOHJgPZI4unWmeooxPio68ByymEeEkAPLQnkBMQcVR7x0cVmZU1rHl0e64Jqb94GxwF4B/7q56WJ2vuwykLTLd2bRVRmlFxGhlgiAkFu5MQ5dOyg2k3lleVQKuv91cJGgTLtiQZ/qHKuxDMtmQ7T6hgz11aOU4wPcVFFKNcJZI51vRD1NRTxoJK585nL6cGMa4BSz/ZJ3Rs03UMVy7v2HdE3Reuztk7jpUtznLa0kO8PNw+10+zBWN/COVSARcBrqSUxlKbvVwKSzfCobNnWI1NHS0SG/Gw4m0XjuK1v0egOqoFzMkK53oae2Y1P9XjaWhYHQUDAMsg6gpBj+lo6qs7Vs82Qc+yAsMZ1LU/KAUI+RK6SE8A3BQv6pMI1nzxqgzy1aQySxesLFK0130FN3QqlJZ/0cw==;gklYvJjcEx8bWTaQx7ypZA=="
+secured: "BYTofO3TQq1pFGT6HEDox0J0vvnTu5C6ZiirgKD29vwUnEMBWuub4oJMdTms2G3QIVx2RYQ8wfLxXm98cbKU9ifUV48Q7JenCTBSwtUQwVzz5hKdznyYCo0lIjaYfmNr+mSvG2W1t+dlH5D9zGVAy4EuaEGwsZ8HTBo86b3LeQefw1aAfSKiXU8XMUmMr1tTbsI/tKrIl6K0/tHJ+MXftZuCRuW1/OKLwRuMEMJ+iGsOpAANRxr9nI1UgCaYK5yoG/eoSXjIaOehr5dfdkRwxea0FAhS/ceRmD7hZdF7CUg7jh+/wEvJShWAY7OPaGsK2eTldLum6xsFA0VBqS5T/WynxOUshGrNyImKicxaBc3Y+DuuWMy54KmrXxi8CjSqjP6pL01a0WxenyZii2ApqpBqf66iH5c1haJRsPuIj4aERxxOInZvgviQZKj9bMyew7IFx2v/22DtPHB40y+UTuuG2sOgFDoJj+a3XfDnBvoFf1dczQ6FTRluTgN+UZz9qdL7gL5Yso9xUFbcHET4mA==;59NuJXVPfcT5c/A99/7cbQ=="
 ---
 

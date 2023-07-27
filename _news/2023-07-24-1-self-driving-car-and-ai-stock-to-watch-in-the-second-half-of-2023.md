@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stoc
 webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.reuters.com/resizer/MrMppNk3ohKSJBN0NahPuzv99Ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMXA5TMYMNORXKF5MBF6OVMY2A.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Self-driving car advocates urge Congress to revive long-stalled debate"
+    excerpt: "Advocates for the self-driving vehicle industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-27T12:22:00Z
+    webUrl: "https://www.autoblog.com/2023/07/27/self-driving-car-congress-legislation/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-07/41d99420-2c78-11ee-b6ff-5ebc1e025625"
+        width: 1062
+        height: 597
         isCached: true
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."

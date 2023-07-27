@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/"
 type: article
 quality: 96
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Samsung to continue trimming memory chip production amid AI demand"
+    excerpt: "Samsung expects generative AI to drive a “rapid increase in demand” for high-performance memory able to process large amounts of data, said Jaejune Kim, executive vice president of Samsung’s memory business. But he warned, “Demand for general servers and storage was relatively limited.”"
+    publishedDateTime: 2023-07-27T11:53:00Z
+    webUrl: "https://www.hindustantimes.com/technology/samsung-to-continue-trimming-memory-chip-production-amid-ai-demand-101690458564144.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 34
 
 secured: "8ADk11BeD9H589M8tNv2KRwMGYQtrN9koRS7p2lIBwcuEi30Uu5HddEoL3vDq3Jh/LbG3rmirrbm+evIxSZ/UOEf+CV6gluC9Dw/t6shWdBSmIqyEBstevLIi6aes7sYDXvWk0TC53/1nglc8iM7G4rpjdMglAvJuJiRqgSUgY5FXs8Ue6h6iWrQ7PWc1ye266f5WbOjjQfFSpfpDvU5AJAcqMNyWm9eBMcaP3f5JOmTqwO3ePfKkFwtd+xeASq61VYHuyCk+GKc1Xv67N6uDEtF38898F4eZqP9tO8go5wvdTR5fw/mabWGFud10SOOchEEhLwRRxiyQ9wLBPmkeUMp5s3f2JHaAKvMVWV+2FKeb4NBwTsOTXwSdB1KiGOhaGCfT4FWEFtLSbf2Zu37PaY9uy8YEHa005hJw+qaIUMjVZaqktHzEctJj60QyAYdRQeVOWwvjnNo4+iyY6stNM6CabyDx+pB+gGoAFhDK+ahME5/oFsWR1HG8iZKBwt1eY5wm925tHkK4nCxUO/t0w==;Fb+9LFy3XWQog5DOTtnlzg=="
 ---
