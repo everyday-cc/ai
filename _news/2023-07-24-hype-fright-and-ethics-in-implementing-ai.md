@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Complete Guide to Investing in Artificial Intelligence"
+    excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
+    publishedDateTime: 2023-07-27T17:23:00Z
+    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide-what-you-should-know-money-morning/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 37
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/8c31f59e-606e-4c42-acbe-e86d919cabae.jpg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "Business and ethics in the age of AI"
     excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"

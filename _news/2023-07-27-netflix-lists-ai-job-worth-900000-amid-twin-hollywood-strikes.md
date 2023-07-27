@@ -22,61 +22,70 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
-    excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
-    publishedDateTime: 2023-07-24T04:59:00Z
-    webUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html"
-    ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+  - title: "Disney, Netflix go on AI hiring sprees as strikes drag on"
+    excerpt: "As the Writers Guild and SAG-AFTRA strikes drag on — and with the use of AI being a big point of contention in negotiations — major entertainment companies appears to be hiring for jobs in the AI realm. The Hollywood Reporter searched searched through job listings and found a number of open positions related to AI."
+    publishedDateTime: 2023-07-27T17:35:00Z
+    webUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/"
+    ampWebUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 57
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg"
-        width: 640
-        height: 362
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000015043041.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
-    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-    publishedDateTime: 2023-07-23T08:07:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+  - title: "Netflix lists $900,000 AI job as actors and writers continue to strike"
+    excerpt: "Will this pair of Hollywood strikes ever end? It looks like the big corporations are digging in for a long battle, illustrated by Netflix’s recent job posting for a machine learning platform product manager."
+    publishedDateTime: 2023-07-25T19:06:00Z
+    webUrl: "https://www.engadget.com/netflix-lists-900000-ai-job-as-actors-and-writers-continue-to-strike-190037630.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Engadget
+      domain: engadget.com
+    quality: 47
+  - title: "Netflix invests more than half a million dollars in machine learning role amid SAG, WGA strikes"
+    excerpt: "As writers and actors continue to strike in demand for fair pay, streaming giants are investing their money into artificial intelligence, and Los Gatos-based company Netflix is leading the way."
+    publishedDateTime: 2023-07-26T23:43:00Z
+    webUrl: "https://www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/"
+    ampWebUrl: "https://www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
     quality: 47
     images:
-      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
-        width: 620
-        height: 372
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/07/75a94362f5de4b67800b25f2615f4c66-1.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
-    excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"
-    publishedDateTime: 2023-07-25T18:42:00Z
-    webUrl: "https://time.com/6297575/ai-film-hollwyood/"
+  - title: "As Actors Strike for AI Protections, Netflix Lists $900,000 AI Job"
+    excerpt: "Hollywood executives said writers’ and actors’ strike demands like raising wages and protecting actors’ likenesses from AI was “unrealistic.”"
+    publishedDateTime: 2023-07-25T17:32:00Z
+    webUrl: "https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 47
-  - title: "Hollywood writers fear losing work to AI"
-    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
-    publishedDateTime: 2023-07-27T09:01:00Z
-    webUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
+      name: The Intercept
+      domain: theintercept.com
     quality: 39
     images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
-        width: 976
-        height: 549
+      - url: "https://theintercept.com/wp-content/uploads/2023/07/Hollywood-sign-Artificial-Intelligence-zwei.jpg"
+        width: 2000
+        height: 1000
         isCached: true
+  - title: "Bad Timing: Netflix Lists $900,000 AI Job Amidst Writers Strike"
+    excerpt: "According to a posting on Netflix's job page, the FAANG company is a Machine Learning Platform Project Manager out of its Los Gatos, CA headquarters. The role has an option for remote work."
+    publishedDateTime: 2023-07-26T13:43:00Z
+    webUrl: "https://www.thestreet.com/entertainment/bad-timing-netflix-lists-900000-ai-job-amidst-writers-strike"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "uRQJ5e40B0XI7GefmAnLKyt4Ka1Hdppk7m/sz81BiRV40r4iyrlcbbbj8tB8V72QrgtmLcMRD3cTDbdH/b8K89Lc70c3yoBIdFo5LluTRwyDPgYTtKBAtViae56zIt22QFRApYbnieC195XqOi23wJn4RB1Rldjz1vriTsRgr4bTEPc03faMF/KaeK8caBEBQADHQru7RU+FQXvTKHOO5WKd6n+L1ikZTdD0ElDSMfJfN8WEymPckXBjk1bE+RPaAxp3OyJdvfffMBnLkhnvmTL0wTmBM7NlwruQCFH5GlsUDr3pJet8jQ9J3f21niJ79BxcnrnkUm3xbHqrgABwdC47w25br3pfRxvjgCxgm91s7Npa/KSWHY1aCTnRlXKYHZLpAVQEJhRRgb1Ri6J2nLtt3UtsUTCB2MZv3KX7WwkJ+ZcVhp/0FU7mW2iuyHLl1NCj2sucd529qB07ZCu57tvneAT5uRS10kwLuhWotYASfK58cLjq+mzlizKZLaCTGCaT970KX3/4LNwcJeOa9Q==;S5dVkBStVexY0dTHEgSx1g=="
 ---

@@ -27,8 +27,8 @@ images:
 related:
   - title: "AITX's Subsidiary, Robotic Assistance Devices, Books Order for 27 ROSA Security Robots from Leading Retail Chain"
     excerpt: "The end-user client is a Fortune 100 ranked company with over 1,500 retail locations across the U.S. These 27 ROSAs units are scheduled to be deployed at 2 of the client’s retail distribution centers. The ROSA devices will be positioned to detect and deter after-hours trespassing, loitering and other security breaches."
-    publishedDateTime: 2023-07-27T14:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855271.htm"
+    publishedDateTime: 2023-07-27T13:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855271.htm"
     type: article
     provider:
       name: TMCnet

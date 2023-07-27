@@ -7,8 +7,8 @@ originalUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-
 webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Jalopnik
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light"
+    excerpt: "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California."
+    publishedDateTime: 2023-07-27T15:58:00Z
+    webUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/"
+    ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
     excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
     publishedDateTime: 2023-07-24T11:04:00Z

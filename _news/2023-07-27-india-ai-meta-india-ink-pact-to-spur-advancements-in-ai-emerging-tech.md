@@ -88,7 +88,7 @@ related:
   - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
     excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
     publishedDateTime: 2023-07-27T10:44:00Z
-    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+    webUrl: "https://time.com/6297403/india-ai-kayra-startup/"
     type: article
     provider:
       name: Time

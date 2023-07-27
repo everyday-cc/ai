@@ -25,75 +25,94 @@ images:
     isCached: true
 
 related:
-  - title: "Five Ways To Boost Cybersecurity Training Efforts Using AI"
-    excerpt: "A personalized, interactive and collaborative approach to training can increase security knowledge and instill a feeling of accountability and responsibility."
-    publishedDateTime: 2023-07-27T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/"
+  - title: "Skilled partners hold the key to accelerating AI adoption"
+    excerpt: "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-27T17:45:00Z
+    webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Skilled-partners-hold-the-key-to-accelerating-AI-adoption-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "The Human Factor In Generative AI And The Automation Paradox"
+    excerpt: "Effective leaders understand the “automation paradox”: the more complex technology (including generative AI) gets, the more vital human users become to its operation."
+    publishedDateTime: 2023-07-27T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60d34861b0dc90f4f81bfd48/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "White House Cybersecurity Plan Misses the Boat on AI and IoT | Opinion"
-    excerpt: "The Biden administration's long-delayed National Cybersecurity Strategy Implementation Plan is here, and it's shockingly inadequate. Artificial intelligence (AI) doesn't appear once in the 57-page document."
-    publishedDateTime: 2023-07-26T11:29:00Z
-    webUrl: "https://www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333"
-    ampWebUrl: "https://www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
     quality: 87
     images:
-      - url: "https://d.newsweek.com/en/full/2261920/president-joe-biden-speaks.jpg"
-        width: 2500
-        height: 1698
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c19d4aa9e746b2deea0a57/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 751
         isCached: true
-  - title: "AI and machine learning cybersecurity startup Protect AI raises $35M"
-    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI Inc. today announced it has raised $35 million in new funding to scale up sales and marketing, go-to-market activities, research and development and customer success initiatives."
-    publishedDateTime: 2023-07-26T14:24:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/ai-machine-learning-cybersecurity-startup-protect-ai-raises-35m/"
+  - title: "Why media literacy is key to tackling AI-powered misinformation"
+    excerpt: "With elections in the United States, United Kingdom, India, Taiwan, the European parliament and more than a dozen other European, Asian and African democracies all taking place in 2024, a huge"
+    publishedDateTime: 2023-07-23T15:01:00Z
+    webUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/"
+    ampWebUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: The Hill
+      domain: thehill.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
-        width: 2500
-        height: 1313
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/fake_news_getty.jpg?w=1280"
+        width: 1280
+        height: 719
         isCached: true
-  - title: "AI Is About to Shake Up the Cybersecurity Industry"
-    excerpt: "This piece was contributed by Dan Barber, Cybersecurity Instructor within CSB. Artificial Intelligence is the hottest topic in technology and business right now. While companies try to leverage the potential for accelerated capability and Universities like ours are rethinking how we assign and measure meaningful work,"
-    publishedDateTime: 2023-07-24T15:44:00Z
-    webUrl: "https://www.wilmingtonbiz.com/insights/robert__burrus/ai_is_about_to_shake_up_the_cybersecurity_industry/3718"
+  - title: "Educating the Next Generation in AI"
+    excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
+    publishedDateTime: 2023-07-26T21:00:00Z
+    webUrl: "https://campustechnology.com/articles/2023/07/26/educating-the-next-generation-in-ai.aspx"
     type: article
     provider:
-      name: WilmingtonBiz
-      domain: wilmingtonbiz.com
-    quality: 41
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 39
     images:
-      - url: "http://wilmingtonbiz.s3.amazonaws.com/burrus_rob-headshot-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
+        width: 1920
+        height: 1081
         isCached: true
-  - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
-    excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."
-    publishedDateTime: 2023-07-26T19:52:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/07/26/protect-ai-series-a-fundraise-cybersecurity.html"
+  - title: "Prisma AI appoints Pitchfork Partners as strategic communication partner"
+    excerpt: "Pitchfork Partners will work on Prisma AI’s overall communication approach, from planning and formulation of key messaging to implementing effective campaign strategies, building and elevating brand awareness, and reaching out to relevant stakeholders to apprise them of the company’s offerings."
+    publishedDateTime: 2023-07-26T05:20:00Z
+    webUrl: "https://www.afaqs.com/corporate-communications-and-pr/prisma-ai-appoints-pitchfork-partners-as-strategic-communication-partner"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: AFAQS
+      domain: afaqs.com
+    quality: 38
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F0dbffd32-5a1c-435c-858a-d90013402f5d%2Fhavas1.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 769
+        isCached: true
+  - title: "Eversana, Amazon Web Service Partner to Accelerate Artificial Intelligence Across Life Sciences Industry"
+    excerpt: "Eversana revealed plans to fast-track the use of artificial intelligence (AI) in the life sciences sector. Through this association, the organizations plan on implementing the technology to help pharmaceutical and life science manufacturers drive efficiencies and business value while improving patient outcomes."
+    publishedDateTime: 2023-07-25T19:31:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/eversana-amazon-web-service-partner-to-accelerate-artificial-intelligence-across-life-sciences-industry"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 22
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/d4a320583231890faaea803c71c7b5f2a27c0ce4-1280x720.png?fit=crop&auto=format"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MsYQ1YBW00dtp3UogN8CWQljDNtWcWjt12bE0VD32X5INXFMcu4ZWMaODAPr7D31t3knv66binJ+ymq5zN4e1pLArJ9NA4OdwrXVpBFwkBFZTGEIMfDqrwCgP+ZUL2lw5U1l6n5HQzYoNoIltjGFbsiiCAq5jpqM3pNiBMgQjNJV30aJNGWnftq6jKXxakYj1fDn1C3/iqDu2pL1YlqZM1BiLPpJQR4DzVnZz4h3J2t/MUTqNHb+CVHTHEkuOugJ83XvAxABkR9G0/ZOLteM6TxWtAygDdlrwCNg0dhTVRJIJvtYkdgFb/BA9B9Y04DfBNZY1+O72/tzY0z/z9vUFSI3h8aVgx8GTHGjYn5L0QSpOp5aGFVtQRXXtLzD3S9dAnOjv/Pg1SrZQRi61uac0ushiy58bVmN/SN05qyvRCqbm6IAA6h6hQHZlz+6B/11mmNIuUUMXzV94ftiZwKhN7izAlMMSqZgi4xTeabwVliPdxW1RUWRZXufon62k/NY0D471XSj3/RxkI/YrBDDYg==;qQg9NN4Xo2/QCMg1on9wKw=="
 ---

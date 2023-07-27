@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Sees $7-Billion Loss In Chip Business, Plan To Extend Production Costs"
+    excerpt: "Samsung's memory chip stocks are decreasing rapidly after peaking in May, easing concerns about chip oversupply."
+    publishedDateTime: 2023-07-27T17:57:00Z
+    webUrl: "https://news.abplive.com/technology/samsung-q2-quarterly-earnings-sees-usd-7-billion-dollar-loss-in-chip-business-plan-to-extend-production-costs-1618744"
+    ampWebUrl: "https://news.abplive.com/technology/samsung-q2-quarterly-earnings-sees-usd-7-billion-dollar-loss-in-chip-business-plan-to-extend-production-costs-1618744/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/samsung-q2-quarterly-earnings-sees-usd-7-billion-dollar-loss-in-chip-business-plan-to-extend-production-costs-1618744/amp"
+    type: article
+    provider:
+      name: abp LIVE
+      domain: abplive.com
+    quality: 55
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/04/07/8593308c9e68174b71b05591a412c5641680852636749295_original.png"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Samsung to continue trimming memory chip production amid AI demand"
     excerpt: "Samsung expects generative AI to drive a “rapid increase in demand” for high-performance memory able to process large amounts of data, said Jaejune Kim, executive vice president of Samsung’s memory business. But he warned, “Demand for general servers and storage was relatively limited.”"
     publishedDateTime: 2023-07-27T11:53:00Z

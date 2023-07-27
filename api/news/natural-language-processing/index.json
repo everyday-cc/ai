@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-27-lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago.md",
+      "title": "Lessons Learned From Computer Conversations And Taming AI 70 Years Ago",
+      "excerpt": "To make progress in AI, one needs to significantly reduce one’s ambitions. Lessons learned from Yehoshua Bar-Hillel's pioneering work on machine translation",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/amp/",
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai.md",
       "title": "Translated Debuts Trust Attention for Unprecedented Quality in MT, Paving the Way for Accuracy in Generative AI",
       "excerpt": "Press Release Translated, a leading provider of AI-powered language solutions, announced the launch of ModernMT Version 7, a significant upgrade to its adaptive machine translation (MT) system. The latest version introduces Trust Attention,",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -638,34 +690,25 @@
     },
     {
       "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
-      "title": "How AI is helping to translate the Bible into rare languages",
-      "excerpt": "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”",
+      "title": "How AI is Helping to Translate the Bible Into Rare Languages",
+      "excerpt": "But one team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages. Ulf Hermjakob and Joel Mathew are ...",
       "sourceUrl": null,
-      "webUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
-      "originalUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
+      "webUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "originalUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg",
-          "width": 670,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
-      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
+      "ampWebUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
+      "cdnAmpWebUrl": "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
       "publishedDateTime": "2023-07-18T08:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Angelus",
-        "domain": "angelusnews.com",
+        "name": "National Catholic Register",
+        "domain": "ncregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1332,58 +1375,6 @@
         "name": "Statista",
         "domain": "statista.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-metas-newest-dataset-will-train-speech-recognition-engines-on-clusters-of-speakers.md",
-      "title": "Meta's newest dataset will train speech recognition engines on 'clusters' of speakers",
-      "excerpt": "A newly developed dataset from Meta AI, however, promises to improve the performance of such automatic speech recognition (ASR) tools by clustering speech at the “utterance level.” Meta has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "originalUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/9aRjn7EnqUFxy2EgxRP1vg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/a3e522a0-201c-11ee-9bf9-cb8798daadaa.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
-      "publishedDateTime": "2023-07-13T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -81,6 +81,20 @@ related:
         width: 1440
         height: 864
         isCached: true
+  - title: "Artificial Intelligence As A Service (AIaaS): Empowering Businesses With Smarter Solutions - By The Business Research Company"
+    excerpt: "1. Increasing Spending on Artificial Intelligence:"
+    publishedDateTime: 2023-07-27T15:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855525.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "DljDcFh6r/8l0MaKEYwrvHUsT/mIEi/3xxO9fmG+lGjoeak8ZchUh2sa7/D3eiSziq0hTdxAEEerDVuziARohFxiNJMcoEcqM4whpHAS0+OsphBwD8sI5SMoNmYbWTs/FSlwj6CTNSabecb8JbmYGokXHALj3mKf84fobE+EnHmTUCR7Ni7OQkBI6INjxpryZvtFEeVZ9lCDEH4wgPVfLG9KbdU3bNgKgHm/TxMS7KdbWXwjKQWEz2xOsCejJulhbOCkgxXal3NfbwpBt84/Rfvv/THHbl2TxwuLwGwy1j1JieyRMrsWzbyUK27UfF8RRpIgkiEdxmntfhzrTXgoHqnn6tve4UpgpegQKR7j0we0xAVGoZTqi0OTCAd0X8UdrEG0LjbgG9Vmd6pigzsP604hJm5BqPIfe09W+LlM6I13Q8xk6lFJnx1KaokjRRUEpEtpQqqUwULThML9v07ipAgGQH1k90rrCmbQgJrOZgNqIjU9vwUXmdf3aDHqbxmFhRyUAN0eSdb+sZMmSzbK5g==;gZ9fMdXDEUOW0ft81FnvXQ=="
 ---

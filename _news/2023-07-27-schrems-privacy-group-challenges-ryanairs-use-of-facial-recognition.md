@@ -49,6 +49,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "Digital rights group NOYB challenges Ryanair's use of facial recognition"
+    excerpt: "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking."
+    publishedDateTime: 2023-07-27T13:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "bU1MNbuvwkGVzhowlSigDkufGzFcxbzKObXWtxdKYkik04owQTeCAdEYSPKPnUQoq+vOc/sSc6I6Vp69UiriGX/wGFTlPuwZAGl3ExRTRm2TWY0/Uai9cvvadLbeiXvkBrl++I7QEOtVtkxF+zcK+U4+N2FK9nBYsHEklBJ7NxIbEYB0jPq6XvBElwv/xioXHbnTJsFX0uQ5vbHlZUV90OBVIBna6BqYGVDrh0H1m4IvY1Ny9+5b+RamVnNWc7leKsjL6bIHqqYBbRzrJg79zWaRe8IneEQJikJ+wLg08PBpSdo4kEgs0phqHyGUM0nu6CiXbZSVynGGTBl57EFo2+MqbzHmG+TPsYBgsJ836cjcvM3iGOBSYyPT3IstPzBqXl9Morx46uvTzMnCWPKPa6knJ6T4d7x5FaY8+Qsh8fHWbfDvKb4KGZ2WK6FFNdlKF+KMzZk9qUhVythdVL9OJvRzEnnD5CrCMZkoOTvlGM35MppaKnKPuK/zOKkNUt/Y0m+uM3q0OR6MVh5nOoL2Vw==;n+RHwGsx6+KyojHMh97u3Q=="
 ---

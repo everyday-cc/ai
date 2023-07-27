@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 emerging practices for responsible generative AI"
+    excerpt: "For our midyear update, we’d like to share three of our best practices based on this guidance and what we’ve done in our pre-launch design, reviews and development of ge…"
+    publishedDateTime: 2023-07-27T17:00:00Z
+    webUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/"
+    ampWebUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Evergreen_hero_social.width-1300.jpg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
     excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
     publishedDateTime: 2023-07-26T04:00:36Z
@@ -119,6 +135,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107232305-1682624081252-gettyimages-1245247316-775902453_006.jpeg?v=1690393330"
         width: 594
         height: 395
+        isCached: true
+  - title: "Amazon grows generative AI efforts with Bedrock expansion for AWS"
+    excerpt: "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service."
+    publishedDateTime: 2023-07-27T17:37:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all"
+        width: 1114
+        height: 570
         isCached: true
   - title: "Amazon Web Services Wants to Teach You How to Use Generative AI"
     excerpt: "Amazon Web Services announced Wednesday that it will offer seven new courses designed to help people understand and use Amazon's generative AI services. Amazon will offer most of the initial courses for free, and the courses are intended for developers, business executives and anyone else interested in using AI."
@@ -227,6 +257,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137829-Soccer-OTT-ORG.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS Releases Generative AI Service for Clinical Documentation"
+    excerpt: "The new AWS service will support generative AI clinical documentation capabilities for general medicine and orthopedics specialties."
+    publishedDateTime: 2023-07-27T17:00:00Z
+    webUrl: "https://ehrintelligence.com/news/aws-releases-generative-ai-service-for-clinical-documentation"
+    type: article
+    provider:
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 54
+    images:
+      - url: "https://ehrintelligence.com/images/site/article_headers/_normal/2016-06-03-amazon.png"
+        width: 691
+        height: 404
         isCached: true
   - title: "AWS introduces generative AI service for creating clinical documentation"
     excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."

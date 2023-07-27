@@ -38,22 +38,6 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "The Human Factor In Generative AI And The Automation Paradox"
-    excerpt: "Effective leaders understand the “automation paradox”: the more complex technology (including generative AI) gets, the more vital human users become to its operation."
-    publishedDateTime: 2023-07-27T06:39:00Z
-    webUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/"
-    ampWebUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c19d4aa9e746b2deea0a57/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 751
-        isCached: true
   - title: "Unleashing The Power Of Generative AI For Cloud ERP"
     excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
     publishedDateTime: 2023-07-27T14:03:00Z
@@ -177,20 +161,6 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
-        isCached: true
-  - title: "Educating the Next Generation in AI"
-    excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
-    publishedDateTime: 2023-07-26T21:00:00Z
-    webUrl: "https://campustechnology.com/articles/2023/07/26/educating-the-next-generation-in-ai.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 39
-    images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
-        width: 1920
-        height: 1081
         isCached: true
   - title: "Wayfair takes the generative AI route to interior decoration"
     excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"

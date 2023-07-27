@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models
 webUrl: "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models-complex-ai-task-automation/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
         width: 480
         height: 610
+        isCached: true
+  - title: "AWS Expands Amazon Bedrock with Additional Foundation Models, New Model Provider, and Advanced Capabilities"
+    excerpt: "Amazon Web Services, Inc. (AWS) at AWS Summit New York announced the expansion of its fully managed foundation model (FM)"
+    publishedDateTime: 2023-07-27T17:31:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-expands-amazon-bedrock-with-additional-foundation-models-new-model-provider-and-advanced-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 21
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
   - title: "AWS Announces the General Availability of AWS Entity Resolution to Help Organizations Improve Data Quality and Customer Insights"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced the general availability of AWS Entity Resolution, an analytics service powered by machine learning (ML) that helps organizations easily analyze,"

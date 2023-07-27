@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noi
 webUrl: "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noise-and-deliver-results/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI vs. the Drive-Through Customer"
+    excerpt: "One of the best places to see how artificial intelligence is affecting our lives and jobs may be at a fast-food drive-through. WSJ senior personal tech columnis"
+    publishedDateTime: 2023-07-27T16:42:00Z
+    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "http://images.wsj.net/im-824859?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "91QZVR03do9PXv9HI9H4mkGRLY5gBqlZPUy1ogwt82L9U7hcAlFkMaLWfa50RrVT6SsBpf02FVFX4mplw+CNJMpsRo16rzwtJAJOC5ETfJhhTUfGcpLcv6wnWRnw+ATnGLoxSwhY3vIFVqugh2bkXvL0t3e3xpUC9HE1qFVZOH9TlauSm/zAilUTptJonl8TQgN7gKqEfhHrxnDg3lfvN1O3n6jRZeaox6F86gEsmhayDD7xR6cCA91f1ZqbIgtYsSlvOyRSCix8yUl6aKAqGPbiqfN0HH98zsSdgdB6IO1JjStXLjLPwmJpSczfJHHKYwMZwBqkIpt7Ho+fgclhsyxJpGIK7PSkz0tZRqD1wEU=;69SqE4Ta7Nvs1CF5niVL6A=="
 ---

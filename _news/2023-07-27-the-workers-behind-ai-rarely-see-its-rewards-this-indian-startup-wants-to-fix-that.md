@@ -3,8 +3,8 @@ category: news
 title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
 excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
 publishedDateTime: 2023-07-27T10:44:00Z
-originalUrl: "https://time.com/6297403/india-ai-karya-startup/"
-webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+originalUrl: "https://time.com/6297403/india-ai-kayra-startup/"
+webUrl: "https://time.com/6297403/india-ai-kayra-startup/"
 type: article
 quality: 61
 heat: -1
@@ -163,6 +163,6 @@ related:
         height: 800
         isCached: true
 
-secured: "BMRtQ+YnFPnYCAnc1lrfBnFIPOoD7px0yvRvaHYP6mssQSVuvY+SItyUOEWoi/eLQhsfdN4H/8e2R4+AVNHhWR77qThcbOhRkANQNh2tBo1L76sxAQKHP1uj5KnwezuJ8j74DvN4IL6l7VI8IyqTCPwnGBoxoyfgA9AheJD+bjF7K0bbTr4BmUTxLM0qWXnCeCSrakn6KWrFPJHZKMmO5IwkQZn8LYmiiEu3Lfkk5PV/faMZmsImrF3NDPRXwojzUaih0tiEaHJ64I92Fqn+gCvnHQcyGqRm4ke9uiG6tLZPc7ihF/7FxsWjp8hSiJEdM75bzi0YPGYOKPv2wzXkuzU+1KV562A0GTLUb7jtRfP/q4EdTuy14OdiIsHRqoBm2Zkq0xZOnNf9Q92kU2a1Vv+mfDju9ZDbJuqsWZ4TG1bM/v1mgjzHQoYiLAcOeEad3b1DfmhXG9IY5oHzkNW/ARk4TlrxUywfDWRcwpX2hqL817s8zgCvJyKtN/9yMYmHcFn1s1Z8CaZW90vKnwGf2g==;/Zp9mEa5FtsJZmvn9um+qw=="
+secured: "d4GfVGsTxAd65+PgRs+eGxieD4K5UyGHb1dxbictt9OJ3byLVcQUatzM4pAHhgGOF2wk8smOq3+IiQZuilOVgefLGtoqirrFrCmsONoSToAEGXFqm/0UUxL1ScLqnd+gQofbnd54hY/UAwoExP5/boHIMJJfw8qf6NXfMGOX77Z5/EPJZxGROkNrov1imcWurKgRcKl4JqjfpbQwvt8vcfP+Hn/SovutzlFI+nCY8KwR5BmyRdjwZ4f7WuEuDmmgvaJEBbAAOnCWv1BJ7yB59+Gc+82PeW0Z6dm8fOgJeI9BMZT1Yi5cs8iXcJ6xy8f4KYzE2vCLB6OOPxvd49TaCoJQ82huo2nmdf44EQERWtk=;JaMzEihX4Bx4PcJ/0qSGAg=="
 ---
 

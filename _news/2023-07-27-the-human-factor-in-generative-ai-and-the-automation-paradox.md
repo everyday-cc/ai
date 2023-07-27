@@ -30,155 +30,50 @@ images:
     isCached: true
 
 related:
-  - title: "The Generative AI Battle Has a Fundamental Flaw"
-    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
-    publishedDateTime: 2023-07-25T11:08:00Z
-    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
-    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
+  - title: "Skilled partners hold the key to accelerating AI adoption"
+    excerpt: "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-27T17:45:00Z
+    webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
-        width: 2400
-        height: 1800
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Skilled-partners-hold-the-key-to-accelerating-AI-adoption-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
-  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
-    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
-    publishedDateTime: 2023-07-27T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+  - title: "Why media literacy is key to tackling AI-powered misinformation"
+    excerpt: "With elections in the United States, United Kingdom, India, Taiwan, the European parliament and more than a dozen other European, Asian and African democracies all taking place in 2024, a huge"
+    publishedDateTime: 2023-07-23T15:01:00Z
+    webUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/"
+    ampWebUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Hill
+      domain: thehill.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 691
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/fake_news_getty.jpg?w=1280"
+        width: 1280
+        height: 719
         isCached: true
-  - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
-    excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
-    publishedDateTime: 2023-07-27T00:01:00Z
-    webUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/"
-    ampWebUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
-    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
-    publishedDateTime: 2023-07-24T05:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
-        isCached: true
-  - title: "How to navigate your engineering team through the generative AI hype"
-    excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
-    publishedDateTime: 2023-07-23T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Generative AI is empowering the digital workforce"
-    excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
-    publishedDateTime: 2023-07-25T14:46:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Is generative AI mightier than the law?"
-    excerpt: "The seemingly unstoppable juggernaut launched by OpenAI late last year might soon run into headwinds from the FTC, the EU — and in court."
-    publishedDateTime: 2023-07-27T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html"
-    ampWebUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/compliance_regulations_rules_law_standards_policies_by_cnythzl_gettyimages-939942712_abstract_technology_by_monsitj_gettyimages_629285904_2400x1600-100797811-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "What generative AI really means for the economy, jobs and education"
-    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
-    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
-    publishedDateTime: 2023-07-25T16:09:00Z
-    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 53
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
-    excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
-    publishedDateTime: 2023-07-27T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: KSL
+      domain: ksl.com
     quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "Educating the Next Generation in AI"
     excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
     publishedDateTime: 2023-07-26T21:00:00Z
@@ -193,42 +88,33 @@ related:
         width: 1920
         height: 1081
         isCached: true
-  - title: "Wayfair takes the generative AI route to interior decoration"
-    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
-    publishedDateTime: 2023-07-26T02:31:00Z
-    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+  - title: "Prisma AI appoints Pitchfork Partners as strategic communication partner"
+    excerpt: "Pitchfork Partners will work on Prisma AI’s overall communication approach, from planning and formulation of key messaging to implementing effective campaign strategies, building and elevating brand awareness, and reaching out to relevant stakeholders to apprise them of the company’s offerings."
+    publishedDateTime: 2023-07-26T05:20:00Z
+    webUrl: "https://www.afaqs.com/corporate-communications-and-pr/prisma-ai-appoints-pitchfork-partners-as-strategic-communication-partner"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 37
+      name: AFAQS
+      domain: afaqs.com
+    quality: 38
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F0dbffd32-5a1c-435c-858a-d90013402f5d%2Fhavas1.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 769
         isCached: true
-  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
-    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
-    publishedDateTime: 2023-07-24T19:38:00Z
-    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
+  - title: "Eversana, Amazon Web Service Partner to Accelerate Artificial Intelligence Across Life Sciences Industry"
+    excerpt: "Eversana revealed plans to fast-track the use of artificial intelligence (AI) in the life sciences sector. Through this association, the organizations plan on implementing the technology to help pharmaceutical and life science manufacturers drive efficiencies and business value while improving patient outcomes."
+    publishedDateTime: 2023-07-25T19:31:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/eversana-amazon-web-service-partner-to-accelerate-artificial-intelligence-across-life-sciences-industry"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
-  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
-    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 29
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 22
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
-        width: 942
-        height: 600
+      - url: "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/d4a320583231890faaea803c71c7b5f2a27c0ce4-1280x720.png?fit=crop&auto=format"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "2y2o5wJ8BRp+ZNuK5H3PgD+sscOMai5jTEd+W9WlPy8PufSM1UOo1sla2pZHfF9quxrNOf1KYR4Vd5LxTb6dhDuW5+frH/mbqhPnnNzHdN1IP1FxD88LJmv33lQNFCPsw/RYG+GlEVfY3wPlG7Tg0mtHojdDXRSmsaYVS2+oBVUfCZsB9IB81Ggb3DldSoPRmd5icS1DATaQEjFTJlR6QMsTHt1CcZtClBgKUAeCphhqLvo2wKEq7nGSGAVydFy4xKlyCNSsSqHvfK5SHRBlUxHq4ZWxJOK1S94BMA8vwR4PqgfRv1cDJulvJB29qODTbgrsv+SZgiUq+9aqTCe0lwCIXgVhq/g3zJSpkytuMs+/JpExLfkuh7JvNubTmWriJN1ZNx2WtZjEVi0ybOUGYoG2Cb1t8B0H4tjVLOVbadz1ZKTPKXb+GEuV8r/OIfI3WtMfKhyT8ZnAPk3nbv5onEbkEVQGJIyMZiKbEZgeva+6K15SXAwNBrqRe2mgAMybI3ObjBo/dPU60Qg+ztQOvA==;wZZSNfdK4UgWlIXVBH32gA=="

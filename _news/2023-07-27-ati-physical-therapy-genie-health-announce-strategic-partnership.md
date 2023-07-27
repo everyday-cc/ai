@@ -2,9 +2,9 @@
 category: news
 title: "ATI PHYSICAL THERAPY, GENIE HEALTH ANNOUNCE STRATEGIC PARTNERSHIP"
 excerpt: "ATI Physical Therapy (\"ATI\" or the \"Company\"), a nationally recognized rehabilitation provider, today announced a strategic partnership with Genie Health (formerly known as PT Genie), a leader in the digital MSK healthcare space."
-publishedDateTime: 2023-07-27T14:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ati-physical-therapy-genie-health-announce-strategic-partnership-/2023/07/27/9855411.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ati-physical-therapy-genie-health-announce-strategic-partnership-/2023/07/27/9855411.htm"
+publishedDateTime: 2023-07-27T14:03:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/27/9855411.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855411.htm"
 type: article
 quality: 19
 heat: 19
@@ -29,6 +29,6 @@ related:
       domain: eurekalert.org
     quality: 0
 
-secured: "mW8MU/YnCkIHvZ0xtrHXyxdgAGfiz83gPAGBKkQmmNconN+iZdzZ70k+bZSVs0pOoW2u55CJXSNtmP6wx81UoGhTLkER7c5nmg3LwNyx82E8/uTBLjE47SloVKm1is1Hw9woUi19gpVTxHHiIz/ZVNzjBoxQdF81JOp1YNFCAu1Fy2LSAkAFRp2+YSajXXaBQcnCLClxioR9rQixt3dGWvvhXimR8yB2VNVdv1QdSp0Og4+RzW0ehUa2UWI3rOOUJd5urmC9lHJN7Y8L9T3mPNgCdIf5coVtlIJl43vX7qym6vzYhThoAhVe/1YVCkkYujHOEPUUNEz81eg5Wshn5C0lStmXFxYHVzQhl7hk3jo=;82t/+0CQUWHyc5IsXfuq6A=="
+secured: "yumLRyHNFEdmVX51wDR5o0N88LFys3fP77oeGFQ74Y8oozE67/djoFJU5UYRa7E4Ofs2vSm78oDgG4I1clY9oDx+JUHma/AeUo9xGEq+BsJd4VBw7fMWQP9zCAzR7up2Z7vJIjlBnpyMbecb+0BsuuOzU6/sXFhVXDG59SogGxzWy3lFvR/0KTYayW3CcLm9qt8Wuy02eAUBGSHndPxGf/1TUa6llmgB/Zf8paIxuzchIb1Hq77IZfST3P2jBhit9wLy0nPiOBnnvv6D7Xc551jMUdyZMTsYyaB30yonRQZHEVLsunsiC95e+jqexzORVpmzWuge28MnSevY7sufz8Md/Gtz77XZSySFvJsJws8=;TohXkBbfHpo42d+bWnfGZA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
-    excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
-    publishedDateTime: 2023-07-26T18:16:00Z
-    webUrl: "https://www.theguardian.com/culture/2023/jul/26/netflix-ai-job-hollywood-strikes"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "nFyRb+wA2SbsW2QDMpzYNQu48TsKu7CYY3bVMgpHNiHVTTMfAwTVfPNnyVghqooQBdxBwF792qQcTdbzGE5fdSpEY5gDDOq4jBfjzbzo7gIpYzJ9N2cgFmLyz8C6zSF/OMx6E/2viK/GbicYEyvljnQssg8kBJj3FGB36cevkW9SREMEUx0whZnXvoXkUWW4URlKkgAv3EBAAssPABUpCGIylN/wKgnGYerfd04ecREVkBhksRCQIOkAMbAFYOaCPmw0S5eKi37jYdh+SDFd5EBVPryEV0TxWR9rsKReAt8xfGaqTInUxoU6Zpw0Y97NTVM0Mvz4if0NzwBnZm9J6TW0A4Vr/cIK9ExAcnHEZZs=;odZOMCKjFukh/WO/9zKF/w=="
 ---

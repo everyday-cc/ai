@@ -72,20 +72,6 @@ related:
         width: 2500
         height: 1313
         isCached: true
-  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
-    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
-    publishedDateTime: 2023-07-23T16:11:00Z
-    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
     excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."
     publishedDateTime: 2023-07-26T19:52:00Z

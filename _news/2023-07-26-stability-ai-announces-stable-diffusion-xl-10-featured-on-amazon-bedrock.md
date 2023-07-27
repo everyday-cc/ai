@@ -52,6 +52,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
+    excerpt: "Stability AI, a leading open generative AI company, announced the release of Stable Diffusion XL (SDXL) 1.0, the latest and"
+    publishedDateTime: 2023-07-27T17:04:00Z
+    webUrl: "https://www.datanami.com/this-just-in/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Stability AI launches text-to-image model Stable Diffusion XL 1.0 on Amazon Bedrock"
     excerpt: "SDXL 1.0 is just the latest addition to Stability AI’s growing library of AI models. In April, it announced the release of StableLM, which more closely resembles ChatGPT with its ability to generate text and code. Last month, it debuted Stable Doodle, a “sketch-to-image” tool that works by converting simple sketches into more illuminating images."
     publishedDateTime: 2023-07-26T16:30:00Z

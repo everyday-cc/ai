@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Lead Yes spokesman reveals he agrees with No campaigner Jacinta Price, but says Voice still needed"
-    excerpt: "Indigenous MPs advocating for the No camp must consider their own voices cannot do what a Voice to parliament would, a lead ‘Yes’ campaigner says."
-    publishedDateTime: 2023-07-23T00:08:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/lead-yes-spokesman-reveals-he-agrees-with-no-campaigner-jacinta-price-but-says-voice-still-needed/news-story/567aa5f2389c277439aeeb311f9d45fa"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 5
-
 secured: "ZCY5XF7KQYdhWCEJmWnETtYjTW2aDyzO8+iqDZyexuLBIAmeMOQLteTN/f6+S0hLAQ7SPUfBqgln1IASG4OYmwA8Qoubj5dHWR21BBjaFwnFCrKG6N77lB0cSyz1thcecAPqLEitst35fA1gjRERkbhXq0Q+5uh+D4alcaUCmiyozL86SI2ycGA6+APumeswAkgD9W91rsc3lsXm3oY+rdKmJ6Vb8eV5d/MkKtxwHU5bimwPbYO3conjX0sNYXA6VTN7LgkyRVxDycX0bIcoI3zR/+uuEMKdul43jcH71Vs4rISe6fZ6I8JGRJyfpk0+x0Sqv8jR6OiWxsTN/tfS4fOC7hJhgcSihW0hEsQZ38U=;dZOorNsvLwZ4x+PxQjlk6A=="
 ---
 

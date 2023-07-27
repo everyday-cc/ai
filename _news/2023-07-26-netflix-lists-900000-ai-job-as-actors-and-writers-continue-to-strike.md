@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/netflix-lists-900000-ai-job-as-actors-and
 webUrl: "https://www.engadget.com/netflix-lists-900000-ai-job-as-actors-and-writers-continue-to-strike-190037630.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Disney, Netflix go on AI hiring sprees as strikes drag on"
+    excerpt: "As the Writers Guild and SAG-AFTRA strikes drag on — and with the use of AI being a big point of contention in negotiations — major entertainment companies appears to be hiring for jobs in the AI realm. The Hollywood Reporter searched searched through job listings and found a number of open positions related to AI."
+    publishedDateTime: 2023-07-27T17:35:00Z
+    webUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/"
+    ampWebUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000015043041.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Netflix invests more than half a million dollars in machine learning role amid SAG, WGA strikes"
     excerpt: "As writers and actors continue to strike in demand for fair pay, streaming giants are investing their money into artificial intelligence, and Los Gatos-based company Netflix is leading the way."
     publishedDateTime: 2023-07-26T23:43:00Z
@@ -60,6 +76,15 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 17
+  - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
+    excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
+    publishedDateTime: 2023-07-26T18:16:00Z
+    webUrl: "https://www.theguardian.com/culture/2023/jul/26/netflix-ai-job-hollywood-strikes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
 
 secured: "IV+iU4XwHDlNN3foqpZ2Q0fAzHu98h9Tbc7DGJxARb/d9BLy+oZQhjp0JaJ2aqINT70on77b5KcqyroclYVMw+BGWpPxvszYcQpQ/Sh7YnHw00gbvU5PDJw2CznsUyl70f4tjuqaDQOVG5GX9qyY8bl7EHGO/nUZqCNVmGwzR2lB2sWyDoBsW+9HYOnQCwX1/q9L/LlloMyHVwCSmxH8tIHTYWTyzLAVpykYR9Ld4kjbRFnrzF/wUqg7+8Uaz77HHawZBOtgP/DGAVYIpJ2BSuxzCqR0UWIzzWblzKnZKQnQGFgYEAdhkWEZ9go9PG+MayQLzkS4XIBs/6u0yaCAkiHXB5EAutHpcTF00BLf/N6NyRQAahueLMFUuqcVEjvK3eemZ1MmAV2Q9Or0r3mjjBadsbSFILgSpYio4WwV974j7H1OKqPGz3pXdNQtCLC+qQAK5CPySvO5fezAM9S26c5dlnH2ntc4foo/cSwOSsHF6ndmn266e+rEbsTjQasdKllUi9tbD77sBFALJTMMIw==;ObLkFbjObP08OVnhhvXjnA=="

@@ -34,15 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Changing customer needs, AI, automation, and security key to shifting business priorities: Salesforce State of IT report"
-    excerpt: "Salesforce’s new State of IT Report, released last week, highlights the key priorities and pain points of businesses, based on a survey of over 4000 IT leaders worldwide, including 200 in Canada. The"
-    publishedDateTime: 2023-07-24T18:07:00Z
-    webUrl: "https://www.itworldcanada.com/article/changing-customer-needs-ai-automation-and-security-key-to-shifting-business-priorities-salesforce-state-of-it-report/543380"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 11
 
 secured: "riOSAnPP6agEGUeH5CgTB4zN0wziua5IXv9zGvFqAovP7YD+JfRi5wO2hmbM7cennXk/QRC20arnz957O14HKvK/TS1xRTC+6O3xFWU9S/8Wt3hCG8Gh+Wv/Oq+kl3Dfn6mo2u172OtLJndnizrU3k4RdX9FT9LvEMlwKtuevvhY/dd4GIxIB6AWo835EbcahBdxIW674gXm7mPivT0XAs6Zqoqf7giya7rbRf3fjrNyJvzOUQBopt+5rmPCPbiNCti1n7f599EGOEKf/gLpoVFXjyo5+aHeBS+qY1hzDo0K8SmqV7eBxhX5TpAI77WOheONGndBr9/XG6Q03LmT4oE0OivavQlRHtkz143yybh8kF12X01jS862c5TjATdQYpcdS6XkBbB0ntx8G6aQSvc0JPSOTX0OpjWv8uVWbgXCF6YxbXGlYdBoF6j5mXI2sevK5u7cdHDRaSJRT/qYX5Lj35C5w0QfKryP23jowd6/d9mxb8q9wqyNu9AA3wuR7IMhLfazmWL0568rWf9RAQ==;YshF5myySzJ9jSkpH9ZWIA=="
 ---

@@ -15,6 +15,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "HoAA0OVobT+VaEPD9Lh73PkIhJjwE+f/DkvDIafk3HRPPG/wl7xmfr8EGnsV8renkMmJ+VsiIV2tpE1drp3eL1vJkyv04JLGCkp/zKHlTF0Y8yV1ndh/0qRJ9sJlgE7yXKoxVK9csqysAUq2DVi0oQB4ygmnaH5EOacaKjG0b4BiWIFEAsR2Fun9NKJMmuwfRhbLTLhWTePKVRDjUhyTnemf0V9LRGNl7TFt6leZx4uFtNTLvd+uBbss0KoO0Gy6TweCMpv4aBV+Q+ZvzeF9g9Wh1AZXTDi/Jz3kwuZnqAshrllV+ZeYO+MO7yZs4xL6fNnME+FUU9oNrH/+Lu1n6E3OdVw4qtzD8ou2X8kUxQY=;LiiS7VeFnajbc8V7O7hGyA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/8f/98f2caaa-032e-53e7-b14f-cd831a654a89/64b6fea90fda6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "MBu7GHJ1itptrnCZ3fapiISqeP0grvfCkFAxGn8uve0Wz2WZpdIhUjILmV+aI9nm8NEFPopBdBx74tzzrTLMEqdzsJ1DVTvaV2jiX3lcaTYo+JjRQ+JGOqyRanQnM/wdPhCb1bxKAeDC1xiQbcZg1Xf0yymW/w3ffdFBIi3ePSdukQGvDPeppfQFcI9r4Mda8YXl8P8TSQCSKVeAoPgt3bIieYE7R1h5k2lfHl+cy50P4yOAmKXxqhSrTLScsl1vQ2TDgTEvwwLF88SI2/Lws9zh0j0PqawyuGqUFuse+PFIbLIYVa05UW1r2wxKYdMa4sHO63ECXXbNYQUIQtgJ785gFcZ4ZkWBjc0t5BYyPgg=;+3PGH0wy+b/CWYKU0mA0mA=="
 ---
 

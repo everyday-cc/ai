@@ -66,15 +66,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
-    excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
-    publishedDateTime: 2023-07-26T18:16:00Z
-    webUrl: "https://www.theguardian.com/culture/2023/jul/26/netflix-ai-job-hollywood-strikes"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "Hohl4qf8ITyfjrWvTHdRdIjz2zTF3yx7VIDGWc5MuMbcR0VVZL4eENFoxsACxwl01AWsIPBE3sy/MneYdSOt5zcyGjQ+Mw+G868Z7yw7/YPDTFwzTivaLEvNaPsp/gYwP4gRIyUGQc2Mp3nOmKdNwiQrUv361roYKd+4OG3mVFsLHwTAZ0VsiJxz3N0vIfPhE3BS1PdMcMBXhi7DrIw4QZYAQxN4ErBvMb4xLj5J6g9TvJYcvOj+23zZdHpFkRZotI3KB4pgqMJaObpV1YrNt7Ke5ZPAXDam79MHB47RSkCwZTSc0QkecEPO57TdLuyr7ePS1wZmh4cPXbl5HrQRYjGDaEYWl/JRKVfQabdeQtE=;UguwgL9uucuRBpwcu6T5rA=="
 ---

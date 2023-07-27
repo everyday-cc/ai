@@ -68,15 +68,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
-    excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
-    publishedDateTime: 2023-07-26T18:16:00Z
-    webUrl: "https://www.theguardian.com/culture/2023/jul/26/netflix-ai-job-hollywood-strikes"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "JilRECGoWmTDSBrgYmPqWLqCyUBNd8EtZDjR66MKpBLCcth7xrZX59KwTfbsDcgTX21I6PfpL9+4daeGHvyxoI6B94rzjxmwE7j7AOMyLLMnbf3arZFo21PS008AAf8GCqwI84d0x2BI/qHS5CJEfcaDZhiekhYNUcZBSgoPWBqSatXn1damSBr8BHGq2q+E8Emh7v91vQyuflXkoZ5NdDf1ASDSFwF1I1nvJ4kPx4udQN3yKNYRXlqebCLHfY5wSPJqKFliqigZHWO3Ez37iNQaCwp8j81aDj4XcOCqgiLSnygPzmCkcKzPjzj5S+ikac11iGR4+9yl84pbGQVK4SdI/W4d2rOeGz9iPHmAjKI=;+b2Pia1VvJl24yj5ZbJOmA=="
 ---

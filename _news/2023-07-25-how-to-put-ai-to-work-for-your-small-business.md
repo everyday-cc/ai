@@ -72,6 +72,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial Intelligence As A Service (AIaaS): Empowering Businesses With Smarter Solutions - By The Business Research Company"
+    excerpt: "1. Increasing Spending on Artificial Intelligence:"
+    publishedDateTime: 2023-07-27T15:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855525.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "AI Changing the Dynamics of Image Processing Technology"
     excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
     publishedDateTime: 2023-07-27T05:44:00Z

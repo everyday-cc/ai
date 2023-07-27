@@ -18,33 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Jay Ambrose: Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-27T08:00:00Z
-    webUrl: "https://thebrunswicknews.com/jay-ambrose-artificial-intelligence-loves-america/article_d3bd6dc6-9a65-5704-b5a0-2623664ca993.html"
+  - title: "Montreal-based AI startup RailVision helps diesel trains clean up their act"
+    excerpt: "“It is just like Google Maps,” says Dev Jain, founder of RailVision Analytics, of his AI application that can be downloaded on a tablet and run offline. While Google Maps tells automobile drivers to turn right or left, RailVision’s app guides locomotive engineers to “stay idle” in the next mile or “increase speed.”"
+    publishedDateTime: 2023-07-27T15:43:00Z
+    webUrl: "https://financialpost.com/transportation/rail/montreal-ai-startup-railvision-diesel-trains-clean"
+    ampWebUrl: "https://financialpost.com/transportation/rail/montreal-ai-startup-railvision-diesel-trains-clean/wcm/17e3d882-3806-43db-9708-aff584015d46/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/transportation/rail/montreal-ai-startup-railvision-diesel-trains-clean/wcm/17e3d882-3806-43db-9708-aff584015d46/amp/"
     type: article
     provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 39
+      name: Financial Post
+      domain: financialpost.com
+    quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/6/3e/63e90684-7b0e-5280-bd1c-2984cdac50d3/64c236b4dfcc0.image.jpg?resize=400%2C267"
-        width: 400
-        height: 267
+      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/07/no0727via-rail.jpg"
+        width: 1000
+        height: 750
         isCached: true
-  - title: "The Use of Artificial Intelligence in iGaming in America"
-    excerpt: "The current iGaming world is a thrilling world, where artificial intelligence and cutting-edge technology collide to create an unforgettable experience. In America, the use of AI in this rapidly growing industry is revolutionizing the way we play and win as AI has become a game-changer that takes entertainment to new heights."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://techbullion.com/the-use-of-artificial-intelligence-in-igaming-in-america/"
+  - title: "AI Startup Helps Diesel Trains Clean Up Their Emissions"
+    excerpt: "RailVision Analytics has developed artificial intelligence-enabled software to help locomotive engineers make  adjustments in train driving that could lead to savings in diesel fuel."
+    publishedDateTime: 2023-07-27T14:54:00Z
+    webUrl: "https://www.ttnews.com/articles/ai-diesel-trains-emissions"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Transport Topics
+      domain: ttnews.com
     quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/IGaming-App.png"
-        width: 900
-        height: 500
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Locomotives-bb-1200.jpg"
+        width: 470
+        height: 246
         isCached: true
   - title: "An AI start-up is helping North American diesel trains clean up their act"
     excerpt: "Transportation is responsible for one-quarter of the world's greenhouse gas emissions. A Canadian start-up wants to lessen that impact."
@@ -59,20 +61,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/07/27/PDTN/70477424007-trainsbgba-28-b-57-e-2-c-9011-ee-8-b-037-d-5-f-55188800.jpg?auto=webp&crop=3997,2258,x0,y213&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
-    excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
-    publishedDateTime: 2023-07-26T15:51:00Z
-    webUrl: "https://www.pastemagazine.com/drink/whiskey/american-single-malt-definition-official-barrels-char-ttb-virginia-distillery-co"
-    type: article
-    provider:
-      name: Paste
-      domain: pastemagazine.com
-    quality: 24
-    images:
-      - url: "https://image-pastemagazine-com-public-bucket.storage.googleapis.com/wp-content/uploads/2023/07/25133636/american-single-malt-lineup-main.jpg"
-        width: 676
-        height: 380
         isCached: true
 
 secured: "YtXPzWfbJj/F70JExj4utml3DfXcQwpJTst2yXAQm1H9WgsP5U1V28dj8Iip8WSqVnUyaFRRe4hMOSdwAqOQLn5ogh2pyo3oUnHQyiT6esNRH4u7a0oObB4lCnS7omeEuL5Wr1JT9wy+KA1BIguXWrYLw35zssYhTBlztzrYg7zfh8PPeDrU6nz4/05OKgg0hYnZ6BcFdBbu/0WJB2Pw5WRbgfNjgBxFJ7k2bDjiqN6buehnQhDP4g+DljPapiD6jHKSeqt507T3aZ2G/SH8WX1XyIxF9sun9o6kxkI4sUPoMpLQgMFzWZUk1RdBSlLpNLnGCjPmR81rGHP10783AOny6p8c4kDe8bkSyck3CPs=;+CxqSvwZRa4SOCHyE+0e4Q=="

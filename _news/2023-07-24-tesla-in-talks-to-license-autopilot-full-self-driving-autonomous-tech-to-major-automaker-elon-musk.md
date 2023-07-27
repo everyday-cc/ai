@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light"
+    excerpt: "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California."
+    publishedDateTime: 2023-07-27T15:58:00Z
+    webUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/"
+    ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
     excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
     publishedDateTime: 2023-07-25T14:22:00Z

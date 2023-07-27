@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
         width: 2500
         height: 1313
         isCached: true
-  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
-    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
-    publishedDateTime: 2023-07-23T16:11:00Z
-    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "AI Is About to Shake Up the Cybersecurity Industry"
     excerpt: "This piece was contributed by Dan Barber, Cybersecurity Instructor within CSB. Artificial Intelligence is the hottest topic in technology and business right now. While companies try to leverage the potential for accelerated capability and Universities like ours are rethinking how we assign and measure meaningful work,"
     publishedDateTime: 2023-07-24T15:44:00Z
@@ -99,6 +85,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "S4P+nmA4fcul8axmvkz5Ni/Y4j72T90w45/HUERf6Nu8R9Q0qB2OAjyd3/8O+HgqYpD1dqzGyixR3PeQmW2GPtZCRHT8Pc3Z+Ugyqhs3pg0njAF/i9zW08H0jcr01hqbz7JScow7Nriv4UPxIOQUz6W54/JJT2Z9RcVfTgkJj3jhkPHNhNPNWCfH3ez/4AyAN4aJe4GsYIaaBvm4/KKg5RVIx0eQ6pzVqFVkyOHcaTQBgpRyT5q4dYbWLoDkdxSotGVU8gHtEC5949XAPYyOPZp48eAVu6GFGT6XAcySEk3kgP7mE+jmDWfOHiY/Pbr3Etq9KuyrbVKzbfO4f0B3n6HnmUf1OEM1gw3geS3u3h0=;5mQgA12A56ZgmHrrPF1dVg=="
+secured: "GoGBjXueyfc3XtHqX5V9TZ4NWA66Yh/IKc2G00RtlBLc532S/ErZn9eDCvHwf94KiVqcpgvIHHE6E0W2W5PyiCdrdCV7URPdOujtMrs4JX8na5DdiK3zUtde+aG2ia8lBlpCohID9vf6PyOf6mSKplbIuBvQBkpjU9qB+rgJ9U+cGWjLP4Bpeq96wIky8Wh0ACNr6QALBZo6hatgS8ybZqsFQABU3DNxh2cmWF883CAmOql/VwrQ2rKD4RBgL1Nj5a4pTOniIIfMxb/XvZu4bS4kSzuwbBRRm3i8m/PtvNBx5dRB+6OQi1HBVC225kBMxIjNgc6D4jseHRUnKBFFHUnI0L5pMVCTfzNWfafWL6FbA9IFoLLoEnsU98uhGAceXcjDPCyPP18uMCWhOJhB02yvIFloa3rHqtH8fW43dcfyFBNw+dVTp3jzYOSWu85xWYTIDbfbQAzJyt7hhvrnpCY3B2pLJxz8yZ2CRGIR92TXv4Iuip73FQV3k1PGYzR8Es5bNXAZY7JpxSgpkcJywA==;J4PYBnUngX4askp8oDo5UA=="
 ---
 

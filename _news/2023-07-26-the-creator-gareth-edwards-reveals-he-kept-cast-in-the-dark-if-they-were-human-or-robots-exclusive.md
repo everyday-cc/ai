@@ -26,6 +26,22 @@ images:
     height: 320
     isCached: true
 
+related:
+  - title: "THE CREATOR Director Reveals He Didn't Tell the Actors If They Were Playing Robots or Humans"
+    excerpt: "The Creator looks like it’s going to be an incredible sci-fi film! This past weekend at Comic-Con they showed ten minutes of footage from the movie, and I was told by my friends who attended the panel that it was incredible!"
+    publishedDateTime: 2023-07-27T17:30:00Z
+    webUrl: "https://geektyrant.com/news/the-creator-director-reveals-he-didnt-the-actors-if-they-were-playing-robots-or-humans"
+    type: article
+    provider:
+      name: GeekTyrant
+      domain: geektyrant.com
+    quality: 28
+    images:
+      - url: "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c12b78b8d7101441b66450/1690479024222/the-creator-director-reveals-he-didnt-the-actors-if-they-were-playing-robots-or-humans.jpg?format=1500w"
+        width: 1500
+        height: 844
+        isCached: true
+
 secured: "2R3ID1g5EtRQD3R7JPxTCQHmbUhXlwbA2mVQe4w8i3CfaSbTF8/NOO9U1XYmd7Chtajwnr+aMujiOyT2ljoLqltFk1ttHKpgIw1W6B0jVROtwZVU0og/uHYEZP+ETjYmzSMoIizqxdIZg2ScagM24+6m/c0lz4SQN0y7zZkj1h7eqg+2CAqhyNIxNnXMQjpzbzuEnyHHJ+VLpzsO+Y4AMC+ESNWaMgW3Afsnf0gBPGg644bQp6DO7OtBITCmpsDE6q8cWl627EBTdx0ifwR4oHOIyUOBxeOZ9ZAlutWtJWSbaloEX3btNjCC1c9u4GGB1/ZiCoHChaRMe+aMFkHNSdvgN7cScTHNyEylfkV54VkylNe7Sukr6aMRuZkRmWmulDPptOaMctiG9JJSwCiXcq7YG4KuvPJ9xE1H1L+xjjut1DQCEXFvFch4KJrchVRB9crDMTlIFAGAyflPfd9QQodacYSj5S6jns31Fvhdh5NLzdBZKiBfUYU/ejDBnv7uDBDSoAQBrtn3vO6f0pIW1w==;yorj6VXHbtbLsWwThsAOQg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,91 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter Changing to X and It Will Be AI Powered Interactivity"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2023-07-24T01:35:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/07/twitter-changing-to-x-and-it-will-be-ai-powered-interactivity.html"
+  - title: "Skilled partners hold the key to accelerating AI adoption"
+    excerpt: "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-27T17:45:00Z
+    webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Skilled-partners-hold-the-key-to-accelerating-AI-adoption-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "The Human Factor In Generative AI And The Automation Paradox"
+    excerpt: "Effective leaders understand the “automation paradox”: the more complex technology (including generative AI) gets, the more vital human users become to its operation."
+    publishedDateTime: 2023-07-27T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c19d4aa9e746b2deea0a57/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 751
+        isCached: true
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "Educating the Next Generation in AI"
+    excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
+    publishedDateTime: 2023-07-26T21:00:00Z
+    webUrl: "https://campustechnology.com/articles/2023/07/26/educating-the-next-generation-in-ai.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
     quality: 39
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/elonX.jpeg"
-        width: 1000
-        height: 1500
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
+  - title: "Prisma AI appoints Pitchfork Partners as strategic communication partner"
+    excerpt: "Pitchfork Partners will work on Prisma AI’s overall communication approach, from planning and formulation of key messaging to implementing effective campaign strategies, building and elevating brand awareness, and reaching out to relevant stakeholders to apprise them of the company’s offerings."
+    publishedDateTime: 2023-07-26T05:20:00Z
+    webUrl: "https://www.afaqs.com/corporate-communications-and-pr/prisma-ai-appoints-pitchfork-partners-as-strategic-communication-partner"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 38
+    images:
+      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F0dbffd32-5a1c-435c-858a-d90013402f5d%2Fhavas1.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 769
+        isCached: true
+  - title: "Eversana, Amazon Web Service Partner to Accelerate Artificial Intelligence Across Life Sciences Industry"
+    excerpt: "Eversana revealed plans to fast-track the use of artificial intelligence (AI) in the life sciences sector. Through this association, the organizations plan on implementing the technology to help pharmaceutical and life science manufacturers drive efficiencies and business value while improving patient outcomes."
+    publishedDateTime: 2023-07-25T19:31:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/eversana-amazon-web-service-partner-to-accelerate-artificial-intelligence-across-life-sciences-industry"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 22
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/d4a320583231890faaea803c71c7b5f2a27c0ce4-1280x720.png?fit=crop&auto=format"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "G+eyFsHe8ZIJfyxjeYRqs7p4xmNn56bUYzYncaHqcoaX9D/829haIs/r4KAXPczzxwnIHf0EnQbU4RpzcXI4zTH8nKPg9eDYeqOTQ/L40Hu55k1O2WgaAWlW465MLW1Kp32av5EQ+zou2KD8ROYEIFQ8WOCEzRYHb5HLTDuxlpeDHOR5GxochC3Imktc7tlfhkekK0K33Ha+pGNfMaiWiN3NpgMqA2uXI0YwZ216pFOwpVSCNFfuddXm+ETpuNfG/dOkp2MTzUEVZm6LjfHDSsUZg3iIbp0hQchatKjDWcpeN9RTKqpcwFLMDhVttnxCKGXPiUTF4p/DMqB0Q/O3qVDQ8wC27LQZyVuno86pL3L3sV3zJsPFZM61o5ekOu5OL8vuWXtYEiP9s8qEGHqAgEvRu99zr5LlTF4u59zZhIKNaK7MgmmV9MZQ4qP3cP/tD6IvdFEL8N4dgK5yE138/4jAdvPAhunG372vOhFbHV4iVhnEQmhFf/Kj/6Hm6jw+rnBmR2f4hcuOBHN2e9/dFg==;avHAy466ey43mtvbD96sXA=="

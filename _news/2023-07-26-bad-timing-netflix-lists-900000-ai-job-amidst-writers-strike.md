@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Disney, Netflix go on AI hiring sprees as strikes drag on"
+    excerpt: "As the Writers Guild and SAG-AFTRA strikes drag on — and with the use of AI being a big point of contention in negotiations — major entertainment companies appears to be hiring for jobs in the AI realm. The Hollywood Reporter searched searched through job listings and found a number of open positions related to AI."
+    publishedDateTime: 2023-07-27T17:35:00Z
+    webUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/"
+    ampWebUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000015043041.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Netflix lists $900,000 AI job as actors and writers continue to strike"
     excerpt: "Will this pair of Hollywood strikes ever end? It looks like the big corporations are digging in for a long battle, illustrated by Netflix’s recent job posting for a machine learning platform product manager."
     publishedDateTime: 2023-07-25T19:06:00Z
@@ -57,6 +73,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
+    excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
+    publishedDateTime: 2023-07-26T18:16:00Z
+    webUrl: "https://www.theguardian.com/culture/2023/jul/26/netflix-ai-job-hollywood-strikes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "L0sWU43W8SoCkoNlEDUQSRgO/Du/FRJFQ5J+WnpE5v6aIgBdLAPsrT+KXNihXMKkkbqBtEEGj8ZRoY7Iuf/QIUrRMci+lQ5wa68Yi0n3mB567ateLLMPYjVpdNdI9c8cHicv4ZUlPtfrsTfy2X7zQ/SAh1jSJJ1SbXTmMH8X+oXfJ1FRDDxQ/IXKqjmI+CxOK5+qDXCCy5sLy2HjSvcUTgub3+DZNHH5+vof85MbTLp+SgLugLXC48HUn9mFIuD9/cCRkjfqjY7ZN7rI7lafbdRqA8SPHAz4t18yqL3VuJNto4jU9GJeVt4J893sh61yEZRA7LEmno4hiY8sDoj6jNT0QcbLSXrXLN+bx+1EziKfHZZGemTEMyn+PZKsE9bVDEV1WK8Ulu9CeYoSftz36cavboQXuV3uP+N+5ZjgG4yJmHH/i82jyAo5hpcCKP/hCpdoEeicRUDZBjrtp3XkegQrZJMCVDYIZQ26l8c83KcP+ucATmKqLrBMzFGoiGyv5qkgxCqQbz5MmbFQQGvFRw==;K4BMl5VOCHZsYOfP6mV7Jg=="
 ---

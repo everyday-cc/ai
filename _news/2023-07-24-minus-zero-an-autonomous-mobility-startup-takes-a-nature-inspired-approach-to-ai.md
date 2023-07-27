@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future"
+    excerpt: "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ..."
+    publishedDateTime: 2023-07-27T17:17:00Z
+    webUrl: "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33426371"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The AI Arms Race: Uncovering the Future of Web 3.0"
     excerpt: "He emphasized the need to learn from past mistakes, like how Web 2.0 propagated vanity through likes and shares, suggesting that society has evolved beyond superficial engagements. He stated, \"Working in our job is to basically figure out what benefit it can do and what those scenarios that actually benefit"
     publishedDateTime: 2023-07-24T20:42:00Z

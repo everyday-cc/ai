@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-o
 webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future"
+    excerpt: "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ..."
+    publishedDateTime: 2023-07-27T17:17:00Z
+    webUrl: "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33426371"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI"
     excerpt: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI - Autonomous mobility has faced numerous challenges that have hindered its widespread adoption."
     publishedDateTime: 2023-07-24T02:52:00Z
