@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 351
+heat: 341
 published: true
 
 provider:
@@ -357,15 +357,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 13
-  - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
-    excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
-    publishedDateTime: 2023-07-22T18:50:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/from-dr-google-to-dr-chatgpt-ai-chatbots-are-increasingly-being-used-for-seeking-medical-advices/3182728/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 6
 
 secured: "Ytad7jox0q8Br95jXi6WvCRVtrZR167CYUWqiztA8iIw9YaOn7l/i/snBlO6lYpFSlAAfSx6J8AG/LmLBRD5i89MOnvdYWM+Q2MZ6E6CaQc6TOwpx3WjKOTODS8rVPelKmWB27sTlXw0d1k1X+fS4ZMVkjhqvA2R+MzcT15AySZ7CSND8OHnFVdDEq4it81W5wThA2wdHI5qANOuv/vZ4F3I/eS/k3GGuKJ6r9F3PioKbdQ3W84G32+weYqNMa7yj3iwujyessm+kaQb+MkbFrqDcUrxjZqcakR+Mu0C8Vpe2xqOfwrzq/u7mUuPSVIHuhRiCGsKMhg9XQN6rRH8t191+NnLSd72CESVv2cSyU8=;cY6bWDVat5TSJkXNx6QLbg=="
 ---

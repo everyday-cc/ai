@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-use-of-artificial-intelligence-in-igam
 webUrl: "https://techbullion.com/the-use-of-artificial-intelligence-in-igaming-in-america/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 900
     height: 500
     isCached: true
+
+related:
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-27T08:00:00Z
+    webUrl: "https://thebrunswicknews.com/jay-ambrose-artificial-intelligence-loves-america/article_d3bd6dc6-9a65-5704-b5a0-2623664ca993.html"
+    type: article
+    provider:
+      name: Brunswick News
+      domain: thebrunswicknews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/6/3e/63e90684-7b0e-5280-bd1c-2984cdac50d3/64c236b4dfcc0.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
+    excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
+    publishedDateTime: 2023-07-26T15:51:00Z
+    webUrl: "https://www.pastemagazine.com/drink/whiskey/american-single-malt-definition-official-barrels-char-ttb-virginia-distillery-co"
+    type: article
+    provider:
+      name: Paste
+      domain: pastemagazine.com
+    quality: 24
+    images:
+      - url: "https://image-pastemagazine-com-public-bucket.storage.googleapis.com/wp-content/uploads/2023/07/25133636/american-single-malt-lineup-main.jpg"
+        width: 676
+        height: 380
+        isCached: true
 
 secured: "hYVUMzvrYPG1UIYIgP85m+2hy1wUTHs3rW+a++is5VVQ28MM1bHQCHj0cAY2Nz5Ym3yzLnAZrTo7gCCj9eCfinaKcI/U4bQsmqoQMvIr1AIWTvaGrKefMDvOPtlL59zdv+drOxP25Ohm25FMOyrx4rX+wwA27j+YOVBbiR3Qe6X6xrIc+Y9Yh8odQhXRu6bFlGSfcW+9SUGODYBPgNrYV/y7e2aLuPLKk2mEWxjJoIoEqadEeJGRhw/z27+/K3ibHwr9r+zRIaqzA5Ysn09mxfM/VGu68l2/+2KqGsyqOMdKTx1/o+5ZWgwbhMN91/C1JW6qmcvs+WqQwH4BNckQvq5GDpXCEzZREdtbiBgTyWWolQYkeelx9m7wAroARc64k07Rx2OD38DkMqjC4+uHz1LSBCwvRSyEt2R+C5HG+xDhpZDxgpKpahU0pS5sK6RNbgHl/XcD6bYZlHBkIKYrfLO7jky3Y/+qfcfvt0HprE1gTkzxkN245/1l20dq/E1/PTDH0sL77IZ8C/hYqlcK3A==;gQUh/t2VGiSCH2BiAWdSPQ=="
 ---

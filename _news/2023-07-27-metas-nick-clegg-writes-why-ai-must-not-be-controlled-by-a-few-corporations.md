@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/opinion/columns/metas-nick-clegg-w
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/metas-nick-clegg-writes-why-ai-must-not-be-controlled-by-a-few-corporations-8862112/lite/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 667
     isCached: true
-
-related:
-  - title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
-    excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
-    publishedDateTime: 2023-07-22T18:59:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "B4ylcw1lDNkEQIZyDI2w7v3peIeb2d4kxGPgR4PTrIdRCUTVgREpcBnHL14vjvxKNaDiMjlqCCXRRCoF7CpEN41/c/iw752Op2+x1Uy7CAZvopHZFpjC0XMWyn9gMFCIswp1EMr4z0Ovcz7tS6HEh4vYDoIUjcvIvZw3BpBNODAS97Qa4qpXK8LJg8yMa4wkhORBujUhZKou5DUoBadiB2c4MOvmauvF58lhl/C2AJSNRrUxanZBD+WCsMRr0/u/7RDeu2LDGJPpTie76g63tXmwHsnkKlWinHjcKjECJyr39nEtIaThmUy21nXT5X3zgl5UFxTPwYkmQ57YPXfuvsRLNojxo0xdydv6UgI1DMA=;ItWBKSum8YXoBNwKzr2ksQ=="
 ---

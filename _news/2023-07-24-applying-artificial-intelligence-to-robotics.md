@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-24T09:30:00Z
 originalUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=620"
 webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=620"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/SocialSharingImage_620_16901909350143578.jpg"
@@ -53,6 +54,20 @@ related:
         width: 2359
         height: 1270
         isCached: true
+  - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
+    excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
+    publishedDateTime: 2023-07-27T10:03:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 62
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg"
+        width: 2122
+        height: 1412
+        isCached: true
   - title: "The 3 Best Value AI Stocks to Buy Right Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In 2023, it is impossible to have no knowledge about artificial intelligence"
     publishedDateTime: 2023-07-23T20:00:00Z
@@ -63,6 +78,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "HKqSrzBfxHZ8jauLCQ5AYkkvuuKLFtknAdSlqRJfWN+kGME4NGAxqHHFL5hJSxnQuoE2lFlF8SrfXJTilnssi1Ge4ISn3W9YIcE/nQ4bDqwFSQq0QpI4EkSM6prloSkqY+KXSTXClHnbiRQ6EnL89Hv03ce2qDhKH2M9oGxS1kxDbSvlOSao9OYEaLwL8OtNWL1BGcRF81wK8HY+51KVomShF31pvbnU2arZB6CQp2EbIb2O9L1mNBbRFDEg+8l9oIDqYpxNmpFZ6lzzMaYhWZ4L8jK5Cm6MvedO9WNuqHbzZ4GbODomsC58DDDJmhoO1yMUpNTGez/2brR2GENN/kTOAHyN16xN5h4YYBp7jNA=;noi6P9PJ/z3jq28J+w3WPQ=="
+secured: "PvekpVnMd2dxiweULRURDh6gGiW2Qho4jXb5k/aQtbt0Bbsw7on5tCLkhS4CsHd2vJLSv33BFAQTdjwrIBKtUvpzL7jHgfkOPZEi1LhHSgytT705T8SuJy8UNtbTHRhf8HMZV7xGyckJYkof6ghNVAPkxrr5Dy3py8eib+shjgzc0CIkDgT+CfjZlBZ+Vkqk0CTZoV9pi9I0rna6SfujWQsoGSAp8RqI/h6FrLCxlNhB7GB//1RV1Xh3Rgt0W4OehXIkYzdaujc86ceBDJzhnu63Njwp55xORJE/hdKkmlhsrUQTa2hmnthN7NzYez+mc7yCT2ZC/fkxiiJA5zvDT3m3A66ueEAD5hjvO57g89bg2EKYhbMIwTNxKU3VzqtKfpr5nP3fCcPLfXuV3kb/+w4+KedTnhL9utCM6xy7R1DdcPoIvKFIdNG8BF7RRlkCBM+AmfKSmf9dxCMRqfo9gkCqVoLcPGQog3nhyi/J3L/XZQVenC6+IucOD6QYHLx3cYiYS8cdu7pv4oib1ySP3A==;PjZWSuNuoru3m1WdyUQcoQ=="
 ---
 

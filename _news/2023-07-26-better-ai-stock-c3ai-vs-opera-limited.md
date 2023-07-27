@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-
 webUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
+    publishedDateTime: 2023-07-27T09:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-better-be-buying-on-each-and-every-dip-1032483582"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "UK6uf3/tKFBwXE5ZjYZMl+us80dPUtcvaP8uZGllHOY8CNm5sHpOfzbEVvBlHlrGe8fs5I59AX9eXgbZIm5z6sEQdPXcH+EFNQX8s9KHQEItPvD98ZnW8n06YXxNilzirB7h4X49Xb31VzIgPCz7rP1htePUpz/KXNV/pHl1lD34sZU4pDidOgpnac4G3AGzqioOFnNBPTVrl9FqNJo3X2Gnle0Vv618SWnQ+y4nzvwW1soStzqQKBzFIOX8hf0Cih1n+A43zoa/8kwKDq6uQVqYBoYvCq5reYuPLZyuYQuN7lZ4+UxSTNxTcoLarfVhJ8XN0eIuaYZgjTyHgjWohsAi+k8BPQ9AKAHJmRmdKSoUDmyZsdLrFLZmO89NMlVqbrHfK3ntMlxMTKt7YgJA7vVQEzeWVJGEy5yi14SMOw0f90RxSq8bHxQKYvldjiiQICYdeq9wZnHlmx3JeNeH93VCRFYXf8mx7PZp8LLvofStwA5iI0wuC+kUjCe/P/NwwcXjg8M9ckBiSwkPBfvcvA==;GbNSdVdGSDGJ8aZ2eKHIGQ=="
 ---

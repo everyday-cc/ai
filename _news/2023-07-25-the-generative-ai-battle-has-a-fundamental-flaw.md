@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/am
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
     quality: 57
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Is generative AI mightier than the law?"
+    excerpt: "The seemingly unstoppable juggernaut launched by OpenAI late last year might soon run into headwinds from the FTC, the EU — and in court."
+    publishedDateTime: 2023-07-27T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/compliance_regulations_rules_law_standards_policies_by_cnythzl_gettyimages-939942712_abstract_technology_by_monsitj_gettyimages_629285904_2400x1600-100797811-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true

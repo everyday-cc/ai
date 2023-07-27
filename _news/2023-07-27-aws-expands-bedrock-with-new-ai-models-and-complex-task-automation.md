@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-26T18:14:00Z
 originalUrl: "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models-complex-ai-task-automation/"
 webUrl: "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models-complex-ai-task-automation/"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
   name: SiliconANGLE
@@ -17,6 +17,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/swami-sivasubramanian-awssummitnyc2023.png"
+    width: 1688
+    height: 922
+    isCached: true
 
 related:
   - title: "AWS Announces the General Availability of AWS Entity Resolution to Help Organizations Improve Data Quality and Customer Insights"
@@ -38,6 +44,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "53YSIG9sOft7nExq3IUzfs0JO8aUsyViTbAzt/aSOVjrJRFjlJOMzYk6yt5onKSDJHDJ+qau2jJ9nIqKly2Ml7vTH1v1pR7s/gWYRMdPwlFXacUDe6CZPipsBqdwkpFV98cl2FPeJDO4VwwLWxMUyhjfMwxu+yRu8OW/QW8KQEVwyvY7dP0Od3STuv2QCCIkrFrCXzXF4Vy2JR5xW+bKNxFU5hTEnSkMK3EGYVSfINX7JC6NBr7aC4oD9OXetU/Oxk2axg9KorZl42IqUdcAyXDHpnVfEhu2Yqfw043VA9mwGKRILmbh3iLhV+NTy85UodbJXDd9hCWVCz5Xf7QXTFSUSywKz3qrKnCVjQBEKUo=;Vq3u6IQAnPVnjzwDmUNXdg=="
+secured: "V8FwarVUSvHiOJhMT8JPNx44Afzqx+x+EVusEwHNigkMzxTzBYqxPkY6Er+2tEoI+U/DhYknCWJpxx5C7PR6J8+cj2yGgEEGbM5D97MhbnGFC3GZAaxeBC37mXCoxtYICrpHqT5BfYda4jG0G283IUlhgExzUxKPocoUIvyFQ08YIljjOzMHcTkSZZLdVVRh337Jj7GkN1VKu6v5sGejGxa9Ee9aMyqcAa8iZ8wbA70tw8LFsdaCZsp6qeHk8XgiyCmxv9rW3YdsWe58AuFKxcdlTJGT6ByvAsfvLDWItA7d/afF1H2tiH8bC8goJFYqm4JpjT3QVpLVh3pdcBvb2BxvNNeRO8qRnK0hjXoqtEg=;eFOTbtOtU+ZH8y4uTfWULw=="
 ---
 

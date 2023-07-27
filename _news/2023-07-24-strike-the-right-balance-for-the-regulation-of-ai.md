@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Artificial Intelligence and International Affairs"
+    excerpt: "Artificial intelligence (AI) is a topic of global concern, with debates surrounding its potential dangers and benefits, highlighting the need for international regulation. The integration of AI into society raises profound questions of ethics,"
+    publishedDateTime: 2023-07-27T11:06:00Z
+    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/artificial-intelligence-and-international-affairs/"
+    type: article
+    provider:
+      name: Australian Institute of International Affairs
+      domain: internationalaffairs.org.au
+    quality: 54
+    images:
+      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2023/07/Picture1.jpg"
+        width: 1312
+        height: 677
+        isCached: true
   - title: "The Role of Artificial Intelligence in Improving Business Efficiency"
     excerpt: "The incorporation of artificial intelligence (AI) has emerged as a game-changer in a business environment that is revolutionizing the way organizations work and reach peak efficiency. It is impossible to overestimate the contribution of AI in increasing company efficiency,"
     publishedDateTime: 2023-07-26T12:18:00Z

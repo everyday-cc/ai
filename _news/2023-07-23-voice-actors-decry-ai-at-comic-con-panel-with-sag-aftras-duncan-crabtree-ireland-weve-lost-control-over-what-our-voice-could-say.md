@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Voice Actors Decry AI at Comic-Con Panel With SAG-AFTRA’s Duncan Crabtree-Ireland: ‘We’ve Lost Control Over What Our Voice Could Say’"
-excerpt: "The perils of artificial intelligence to the entertainment industry came to San Diego Comic-Con on Saturday, with SAG-AFTRA national executive director Duncan Crabtree-Ireland joining a panel of voice actors organized by NAVA,"
-publishedDateTime: 2023-07-23T02:08:00Z
-originalUrl: "https://www.aol.com/voice-actors-decry-ai-comic-230853693.html"
-webUrl: "https://www.aol.com/voice-actors-decry-ai-comic-230853693.html"
+excerpt: "The perils of artificial intelligence to the entertainment industry came to San Diego Comic-Con on Saturday, with SAG-AFTRA national executive director Duncan Crabtree-Ireland joining a panel of"
+publishedDateTime: 2023-07-22T23:08:00Z
+originalUrl: "https://variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/"
+webUrl: "https://variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/"
+ampWebUrl: "https://variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/amp/"
 type: article
-quality: 8
-heat: -1
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Variety
+  domain: variety.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/Q_HySvGw544M9HVdERweCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/variety.com/65a0e2f071233bde55537df98cdd4668"
-    width: 1200
-    height: 675
+  - url: "https://variety.com/wp-content/uploads/2023/07/MAB_3123.jpg?w=1000&h=563&crop=1"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "DcqbYVCfPSXjokF8aPxMaL/2AEl7PTU+4pkLjb/VnC5vXs2pTJFr5Owuzv+2Sr82yah5vhoRk/9shU0cjkgeGfBWKR6bVDsjQWrD4DZ2hGQnki3Qart9X3MWPZzq4VyYx8ThoK93Qu2xPpDVUEtsnc5iicEx+BxE66wm0SRnTh29AYu09Va+0mzpCFoeIgw51Ea0UTPNQCizWN4lCHqR8u1LxIuGIqYmn+XYD5f5qmqJYGOhKNmlYDCQmyjYF6WwNdUFB+XkTbG7f1sfkMOwgW5FlnziHlDkGgZaFpuJG2PVGEEZsfhbfiKanBlVqPquW7etpw/OvDcx+hu4TdniWPSfuY7r66N21Z0zacTKue8=;rrXDj9RkVaqZxJy0xy2kSA=="
+secured: "bOS4gfXZSrICDc3CY/nOX1uDH4CdNA2SdVmwu1dAh3dhYEDE+mx8prEqWsimug+SN1ETXvL1fiDD18a2CsrlHzimI1CddTiVaFkdBZk3tWLy5qh47w4Wmv/MY5yCIKSTkBkWBSX9EqhrJNyJVXFKnUMDO79GHrvmEvzHrsH1r9VHIkSQqtRIE/Avz9Ng/uMVpbmUg4ZoA3ZOXoDKf+nWDdEFhYhcRWNBU7AuW1nMl2EUjkHlJwCfYJSFY+mb6eZs/yJt2jZ+6Q7hnmFSUhCp3eAwK3h84mnQReXZFGdbO+fTDVadXMhYoU8nNG1V3GG+QepGq6tv6yVcI+MSvgNNczFwFN9/1tp3qxOwutQp3Is=;5tYbOV90E2+zbY82vlhejQ=="
 ---
 

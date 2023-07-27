@@ -2,839 +2,15 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-01-08-innocent-black-man-jailed-after-facial-recognition-got-it-wrong-his-lawyer-says.md",
-      "title": "Innocent Black Man Jailed After Facial Recognition Got It Wrong, His Lawyer Says",
-      "excerpt": "He was locked up for nearly a week. A facial recognition tool identified Reid as a suspect in the theft of the luxury purses, and that was all the cops needed to put him in jail, according to the ...",
+      "path": "_news/2023-03-28-ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031.md",
+      "title": "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031",
+      "excerpt": "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
-      "originalUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/25a6c8e0f24c0d1114215b09de0fbb1b.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-07T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-08-controversy-illuminates-rise-of-facial-recognition-in-private-sector.md",
-      "title": "Controversy illuminates rise of facial recognition in private sector",
-      "excerpt": "That controversy is over technology -- specifically, facial recognition software. When Kelly Conlon, a lawyer, tried to join her daughter's Girl Scout troop at a Rockettes performance the weekend ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
-      "originalUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/radio-gty-er-230105_1672951120625_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
-      "publishedDateTime": "2023-01-07T17:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-facial-recognitions-alarming-pitfalls.md",
-      "title": "Facial recognition's alarming pitfalls",
-      "excerpt": "Facial recognition also lets you unlock smartphones and tablets without a password. Driving the news: A Black man was recently jailed for almost a week in Georgia after a facial recognition system incorrectly matched his face with a suspect in a New Orleans robbery,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/2023/01/07/facial-recognition-issues-problems",
-      "originalUrl": "https://www.axios.com/2023/01/07/facial-recognition-issues-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/OjuswAauFS55c0w3Z6L9OxN53Ec=/0x0:1920x1080/1366x768/2023/01/06/1673035395318.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-07T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-ai-startup-eys3d-debuts-computer-vision-platform-for-autonomous-robots.md",
-      "title": "AI startup eYs3D debuts computer vision platform for autonomous robots",
-      "excerpt": "The startup explains that the modular XINK platform comes with everything a developer needs to add such capabilities to their robots, with high-performance compute power, an AI accelerator ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/05/ai-startup-eys3d-debuts-computer-vision-platform-autonomous-robots/",
-      "originalUrl": "https://siliconangle.com/2023/01/05/ai-startup-eys3d-debuts-computer-vision-platform-autonomous-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/eYesw3D.png",
-          "width": 801,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-acrelec-and-xxii-team-up-to-provide-restaurants-with-advanced-computer-vision-analytics-for-drive-thru.md",
-      "title": "ACRELEC and XXII Team Up to Provide Restaurants with Advanced Computer Vision Analytics for Drive-Thru",
-      "excerpt": "Restaurant operators will now have access to a platform that combines AI computer vision with timer technology to track the customer journey and alleviate roadblocks in the drive-thru CHICAGO, Jan. 6,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/06/9739153.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/06/9739153.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-how-banking-institutions-can-adopt-computer-vision.md",
-      "title": "How Banking Institutions Can Adopt Computer Vision",
-      "excerpt": "Incorporating computer vision in banking will help banks function more effectively. AI-based technologies like computer vision can automate banking procedures and processes to help humans complete repetitive activities more quickly and accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/financial/how-banking-institutions-can-adopt-computer-vision",
-      "originalUrl": "https://www.bbntimes.com/financial/how-banking-institutions-can-adopt-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances.md",
-      "title": "CEVA, LG to Bring Intelligent Vision Processing to Smart Home Appliances",
-      "excerpt": "CEVA, the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced that LG Electronics (LG) has licensed and deployed the CEVA-XM4 intelligent vision DSP in its Edge AI system-on-chip (SoC) 'LG8111' to advance the user experience of a new generation of smart home appliances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/27716503839b65af140e38aa28d5c6df.jpg?t=20230106_011855",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-tencent-cloud-named-as-major-player-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms-2022-vendor-assessment.md",
-      "title": "Tencent Cloud Named as Major Player in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment",
-      "excerpt": "Tencent Cloud – the cloud business of global technology company Tencent, today announced that it has been named a Major Player in the IDC MarketScape:",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
-      "originalUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2023/pr-newswire_500_4_199.jpg?h=7de12b8a&itok=70c_cR8I",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-harman-transforms-the-driving-experience-with-ready-vision-augmented-reality-head-up-display.md",
-      "title": "HARMAN Transforms the Driving Experience with Ready Vision Augmented Reality Head-Up Display",
-      "excerpt": "HARMAN Ready Vision, a set of Augmented Reality (AR) head-up display (HUD) hardware and AR software products to enhance driver safety and awareness. Ready Vision's AR software integrates with vehicle sensors to deliver immersive audio and visual alerts that empower the driver with critical knowledge and information,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/01/04/9737359.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/01/04/9737359.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-and-autonomous-vehicles.md",
-      "title": "Owl Autonomous Imaging launches monocular 3D Thermal Ranger computer vision for ADAS and autonomous vehicles",
-      "excerpt": "Owl Autonomous Imaging announced the availability of an Evaluation Kit for their new Thermal Ranger ADAS & Autonomous Navigation Development Platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230103pr202_files/4_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-syntiants-security-options-expand-via-computer-vision.md",
-      "title": "Syntiant’s Security Options Expand, Via Computer Vision",
-      "excerpt": "Irvine-based chip company Syntiant Corp. is adding to its product line. The firm, founded in 2017, has to date been best known primarily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
-      "originalUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3o53yol1vmqc8.cloudfront.net/wp-content/uploads/2023/01/CES-Syntiant.jpg",
-          "width": 1425,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Business Journal",
-        "domain": "ocbj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-eys3d-launches-one-stop-xink-development-platform-for-vision-equipped-robots.md",
-      "title": "eYs3D Launches One-Stop XINK Development Platform for Vision-Equipped Robots",
-      "excerpt": "PRNewswire/ -- eYs3D Microelectronics, a subsidiary of Etron Technology (TPEx: 5351. TW), a subsidiary of Etron Technology (TPEx: 5351. TW), launched at CES a state-of-the-art computer vision development platform for next-generation autonomous robotic applications such as AIoT (artificial intelligence of things),",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-facial-recognition-using-ai-with-aws.md",
-      "title": "Facial Recognition using AI with AWS",
-      "excerpt": "Amazon Rekognition is a cloud-based software as a service (SaaS) computer vision platform that was launched in 2016. It has been sold to and used by several United States government agencies as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/23494",
-      "originalUrl": "https://www.finextra.com/blogposting/23494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
-          "width": 500,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles.md",
-      "title": "Owl Autonomous Imaging Launches Monocular 3D Thermal Ranger Computer Vision for ADAS & Autonomous Vehicles",
-      "excerpt": "Owl Autonomous Imaging delivers monocular 3D thermal ranging computer vision solutions that dramatically enhance safety day or night and in adverse weather conditions, to automotive and industrial ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
-      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12573300-the-smartest-solution-for-the-r-300x246.jpeg",
-          "width": 300,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-are-databases-becoming-just-query-engines-for-big-object-stores.md",
-      "title": "Are Databases Becoming Just Query Engines for Big Object Stores?",
-      "excerpt": "One of the benefits of storing massive amounts of data in object storage is the ability to access it using different query engines. This is the simple recognition that what works best for low-latency ad-hoc analytics is probably not what works best for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
-      "originalUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2016/10/object-storage-system.png",
-          "width": 630,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-facial-recognition-using-ai-with-aws.md",
-      "title": "Facial Recognition using AI with AWS",
-      "excerpt": "Facial analysis capabilities, such as those available in Amazon Rekognition, allow users to understand where faces exist in an image or video, as well as what attributes those faces have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "originalUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
-          "width": 500,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-voice-and-face-recognition-are-more-closely-linked-than-previously-thought.md",
-      "title": "Voice and face recognition are more closely linked than previously thought",
-      "excerpt": "The new study, published last week in the Journal of Neurophysiology, suggests that voice and face recognition are linked even more intimately than previously thought. It offers an intriguing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neuroscience-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-facial-recognition-tool-led-to-mistaken-arrest-lawyer-says.md",
-      "title": "Facial recognition tool led to mistaken arrest, lawyer says",
-      "excerpt": "An attorney says Louisiana authorities' use of facial recognition technology led to the mistaken-identity arrest of a Georgia man on a fugitive warrant",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-tool-led-mistaken-arrest-lawyer-96085923",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-tool-led-mistaken-arrest-lawyer-96085923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-ai-in-computer-vision-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
-      "title": "AI in Computer Vision Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
-      "excerpt": "The AI in Computer Vision market Lead players (, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG, TELEDYNE TE",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2022-12-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2022-12-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T17:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
-      "title": "TSA's facial recognition technology raises security, privacy concerns",
-      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "originalUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kjrh.com",
-        "domain": "kjrh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029.md",
-      "title": "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029",
-      "excerpt": "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -850,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-22T22:45:00-08:00",
+      "publishedDateTime": "2023-03-27T14:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -874,312 +50,26 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-madison-square-garden-uses-facial-recognition-to-ban-its-owners-enemies.md",
-      "title": "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies",
-      "excerpt": "MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/22/multimedia/00dolan-cam-2-5b5e/00dolan-cam-2-5b5e-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
-      "publishedDateTime": "2022-12-22T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-guaido-the-face-of-opposition-in-venezuela-may-be-on-his-way-out.md",
-      "title": "Guaidó, the Face of Opposition in Venezuela, May Be on His Way Out",
-      "excerpt": "The lawmaker may soon be voted out of power by the opposition, which no longer sees his interim government as a path to “real political change” against the country’s authoritarian regime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/22/multimedia/22venezuela-opposition1-1-2be4/22venezuela-opposition1-1-2be4-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.amp.html",
-      "publishedDateTime": "2022-12-22T14:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-msg-allegedly-used-facial-recognition-to-remove-rival-attorney-from-rockettes-show.md",
-      "title": "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show",
-      "excerpt": "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
-      "originalUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-21T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-facial-recognition-used-in-new-york-to-stop-woman-from-seeing-christmas-show.md",
-      "title": "Facial recognition used in New York to stop woman from seeing Christmas show",
-      "excerpt": "The attorney and mother said the security staff knew her name, her place of work, and said their facial recognition had flagged her, before telling her that she wasn’t allowed to be there",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/vulek9/article66287816.ece/alternates/FREE_1200/BRITAIN%20FACIAL%20RECOGNITION",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/",
-      "publishedDateTime": "2022-12-20T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-face-recognition-technology-to-be-used-for-security-check-at-airports.md",
-      "title": "Face recognition technology to be used for security check at airports",
-      "excerpt": "Smart check in’ is provided by ETC for pre-boarding security check at airports. It uses the advanced face recognition technology with high accuracy in authenticating information. This important service was introduced in the 78 th national conference of the police force on December 19-20,",
-      "sourceUrl": null,
-      "webUrl": "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html",
-      "originalUrl": "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg",
-          "width": 560,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vietnamnet",
-        "domain": "vietnamnet.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI",
-        "AI in Security"
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-12-19-facial-recognition-wielded-in-india-to-enforce-covid-policy.md",
-      "title": "Facial recognition wielded in India to enforce COVID policy",
-      "excerpt": "After a pair of Islamist bombings rocked the south-central Indian city of Hyderabad in 2013, officials rushed to install 5,000",
+      "path": "_news/2023-03-27-facial-recognition-technology-a-threat-to-privacy-and-freedom.md",
+      "title": "Facial Recognition Technology: A Threat To Privacy And Freedom",
+      "excerpt": "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on ...",
       "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
-      "originalUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/12/ap_8df9a889fe874ba4a466839c97ed3cdd.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
-      "publishedDateTime": "2022-12-19T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-genesis-face-connect-could-eliminate-the-need-for-key-fobs-in-the-future.md",
-      "title": "Genesis' Face Connect Could Eliminate The Need For Key Fobs In The Future",
-      "excerpt": "It can be a hassle, but with Genesis introducing face recognition technology, this problem could soon be a thing of the past. Genesis has rolled out a new EV, the GV 60, with a Face Recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.topspeed.com/genesis-face-recognition-to-eliminate-key-fobs/",
-      "originalUrl": "https://www.topspeed.com/genesis-face-recognition-to-eliminate-key-fobs/",
+      "webUrl": "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom",
+      "originalUrl": "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/2022/12/3056-genesisgv60.jpg",
-          "width": 4096,
-          "height": 2304,
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/9ba3161/2147483647/strip/true/crop/2247x1498+0+0/resize/2247x1498!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F22%2F97%2Fcd7df23a41599366eb296240e54e%2Fap20176661952737.jpg",
+          "width": 2247,
+          "height": 1498,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1189,11 +79,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-19T00:29:00-08:00",
+      "publishedDateTime": "2023-03-26T22:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TopSpeed",
-        "domain": "topspeed.com",
+        "name": "WGBH",
+        "domain": "wgbh.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1208,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-16-shamir-selects-imdts-3d-stereo-vision-technology-to-power-its-next-generation-digital-measurement-device.md",
-      "title": "SHAMIR SELECTS IMDT's 3D STEREO VISION TECHNOLOGY TO POWER ITS NEXT-GENERATION DIGITAL MEASUREMENT DEVICE",
-      "excerpt": "Spark™ 4, Shamir's newest ultra-precise digital measurement device, deploys IMDT's accurate 3D technology to offer opticians a simple and effective ophthalmic measurement experience KFAR SABA, Israel,",
+      "path": "_news/2023-03-27-the-tiniest-computer-vision-platform-just-got-better.md",
+      "title": "The Tiniest Computer Vision Platform Just Got Better",
+      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
+      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1968947/imdt_spark4.jpg",
-          "width": 400,
-          "height": 210,
+          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1232,11 +122,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T02:47:00-08:00",
+      "publishedDateTime": "2023-03-26T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Hackaday",
+        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1251,21 +141,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-16-toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve.md",
-      "title": "Toxic waste is becoming a massive problem that AI can solve",
-      "excerpt": "The issue of hazardous waste should not be taken lightly; if left unchecked, there are serious repercussions. Here's how AI can help.",
+      "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
+      "title": "Object Recognition Imaging Systems Market Growth by 2031",
+      "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
-      "originalUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340683804.jpg?w=1200&strip=all",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 704,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1273,16 +163,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
-      "publishedDateTime": "2022-12-15T20:07:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1303,5 +193,5 @@
       ]
     }
   ],
-  "nextPage": 10
+  "nextPage": null
 }

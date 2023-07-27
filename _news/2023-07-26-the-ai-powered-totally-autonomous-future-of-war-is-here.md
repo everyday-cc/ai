@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-o
 webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
-  - title: "The Critical Role of VC In the AI Economy of the Future"
-    excerpt: "As we continue to navigate the aftermath of a global pandemic, the resilient rebound of the American economy outpaces those of other advanced nations. Yet fresh challenges arise as we a"
-    publishedDateTime: 2023-07-26T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2023/07/26/the_critical_role_of_vc_in_the_ai_economy_of_the_future_968453.html#!"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 17
   - title: "1. Exposure of workers to AI"
     excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
     publishedDateTime: 2023-07-26T17:56:00Z

@@ -119,6 +119,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Is generative AI mightier than the law?"
+    excerpt: "The seemingly unstoppable juggernaut launched by OpenAI late last year might soon run into headwinds from the FTC, the EU — and in court."
+    publishedDateTime: 2023-07-27T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/compliance_regulations_rules_law_standards_policies_by_cnythzl_gettyimages-939942712_abstract_technology_by_monsitj_gettyimages_629285904_2400x1600-100797811-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
     excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
     publishedDateTime: 2023-07-25T16:09:00Z

@@ -46,20 +46,18 @@ related:
         height: 438
         isCached: true
   - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
-    publishedDateTime: 2023-07-26T21:34:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks."
+    publishedDateTime: 2023-07-26T23:22:00Z
+    webUrl: "https://apnews.com/article/autonomous-vehicles-self-driving-cars-avs-f1cef9b9595a4bd87287670eaa1694d6"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 38
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://dims.apnews.com/dims4/default/4a9aae0/2147483647/strip/true/crop/4290x2413+0+386/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2F4c%2Fc8159ca8d95f2b82bc46404a20be%2F5354bed70d724525af5a30c9da7e3f3f"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "z4alORA1tv+wo9pD2u38PafNyLg/ojWmTzCTqn+oc+5iX+p6tTjv8dXT0+segIjc9FtF8JaA45cCHUVVXoH6wx29/I0aUPe1c8j7qoEHl579sdDZzL6yKq9wfkF1hjkL2gzu46pg/47pBJejyHdccOB4r74sdHguGHapk7l8YWfD4g00F/go7YTUaECjxzGI9PUtSPx5s0KksERCytM5UcKeZnEmncvt3Qeyc+lmEE/OOWx+i6I1mufdUDb/lw0SvR8l94GQA43vvETbZZXuWsh+qHV/RFXsArMeV6H14DRjXItcVilRneVZWnrl9fqLUz9wgj19tnTnN5kTdDZhZR+UQPkIkYSrN6+9nqzA0H4=;mZcyqfaIyiKQq6WdRAw7Zw=="

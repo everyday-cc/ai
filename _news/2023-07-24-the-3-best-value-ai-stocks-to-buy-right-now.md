@@ -44,7 +44,7 @@ related:
     provider:
       name: Azorobotics
       domain: azorobotics.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/SocialSharingImage_620_16901909350143578.jpg"
         width: 1000
@@ -63,6 +63,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/740808/artificial-intelligence-ai-on-circuit-board.jpg"
         width: 2359
         height: 1270
+        isCached: true
+  - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
+    excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
+    publishedDateTime: 2023-07-27T10:03:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 62
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg"
+        width: 2122
+        height: 1412
         isCached: true
 
 secured: "yWbQuwepxEtc2UUbpHmosblM1cyiAugLFMsOlog9qxal4O1AGXtF5aUL+DLHTpUfj4wmJRJ1tY64GK8NmkJGuBs8QyWlYBAvHfc4+e8Eg8zT9my7mfJ65NCnPgga39ql+KT9OdiMVAW+JsteqkTnzgQ3Wod5k2RxvS/gCjLRSO71LXafqptWJ/qjH/kC2jTcbN+YA90uTNCk351L0qjdD5pim6qe8I4pIDYyPbmSiPlGZK/GI0janLa9a7K6bWM3mFLC2F15HGDa0wy6m4hcMWS1/K5Xldl2vjvIH1YZh+mRPoOH09Vkp+loJ7Ms1S1i/4h1aSaAmk95XNky7iL/uP/Ur6fybyz05XXCw/pPDfTFUVUk9paol9FV8ij6bwW64wsOJ5CyCGSRT8CtwnvitR5W/+t30vNhWW06yt9O0j9u0qzX42FST2dyTCirx0I32YhBvA499zPbd4ZxaFM1ArCQ6GM2PiNcXFfgYeCB6O2yNj062TvJMiWwl2dKBQXd64JMCRaw0rnOwHqiqUdD2A==;REX8uhyTtiaSaLbnSmssKg=="

@@ -117,6 +117,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Hands-on experience can help healthcare workers appreciate AI more: Report"
+    excerpt: "As artificial intelligence (AI) increasingly finds its way into healthcare, physicians can recognise the true value of its advantages in clinical practice more prominently after successful implementation and regular usage in their day-to-day work,"
+    publishedDateTime: 2023-07-27T11:56:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104133"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 52
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_270723_fn.jpg"
+        width: 441
+        height: 244
+        isCached: true
   - title: "Nearly half of healthcare professionals endorse AI in clinical practice: Report"
     excerpt: "About 50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed its use in clinical practice and administrative tasks, according to a report Monday."
     publishedDateTime: 2023-07-24T13:06:00Z

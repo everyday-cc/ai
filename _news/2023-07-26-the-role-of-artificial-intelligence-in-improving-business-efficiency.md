@@ -50,6 +50,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence and International Affairs"
+    excerpt: "Artificial intelligence (AI) is a topic of global concern, with debates surrounding its potential dangers and benefits, highlighting the need for international regulation. The integration of AI into society raises profound questions of ethics,"
+    publishedDateTime: 2023-07-27T11:06:00Z
+    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/artificial-intelligence-and-international-affairs/"
+    type: article
+    provider:
+      name: Australian Institute of International Affairs
+      domain: internationalaffairs.org.au
+    quality: 54
+    images:
+      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2023/07/Picture1.jpg"
+        width: 1312
+        height: 677
+        isCached: true
 
 secured: "AsCGh3t/tBIeM/3SUG3bE5p12K60oCCLIEXpRhRDxv4pWXWcSd9QMd/hxZ9KscRMlBwgZ/0uPnXi+YMfzw7l0jMMH8408iCusiBH6V3MHjOSjlYefjnfrZrhbVdyVwove7EujzYLhIZWVS8zvhcVOQNdIgdR7sN1jqYjCu+nOSkxt5rIRWXDYIkeC6LZnwldLxvVZytcZfwk194sHX2unpSzg0tb6cqMPsxQH3sU7ydhaV6qfBlxAHdQNPDBv3Ehr+tT2MVKKg+vGm+eQhplUpJ3ul3XaEOCPC+HlZvwHizcX7TjLA/5yXwPt+kQ+3r3jNy7Yz7yIsEpvqzJPny8BRP7rn59H8aznmg3iDOouyA=;f78VwT4pApM/U3p+hmwQBg=="
 ---

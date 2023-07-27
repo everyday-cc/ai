@@ -27,10 +27,10 @@ images:
 related:
   - title: "Will ChatGPT Replace Psychiatrists?"
     excerpt: "Talking to a chatbot about mental health problems is becoming increasingly common. Commentators agree that chatbots may be of support but are not a replacement for mental health professionals. There are concerns that the human element in mental health care has already been disappearing."
-    publishedDateTime: 2023-07-26T20:31:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
+    publishedDateTime: 2023-07-26T21:51:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
     type: article
     provider:
       name: Psychology Today

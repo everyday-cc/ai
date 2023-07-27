@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
 type: article
 quality: 87
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -73,6 +73,36 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-22-Mar-2023-03-47-PM-7009.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
+    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
+    publishedDateTime: 2023-07-27T10:44:00Z
+    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 61
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85"
+        width: 2400
+        height: 1800
+        isCached: true
+  - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
+    excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
+    publishedDateTime: 2023-07-27T09:10:00Z
+    webUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/"
+    ampWebUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 59
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
     excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."

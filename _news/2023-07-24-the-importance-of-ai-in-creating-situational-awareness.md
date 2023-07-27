@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/07/23/600x338/oped1-kC7G--621x414LiveMint_1690125313086_1690125313224.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Artificial Intelligence and International Affairs"
+    excerpt: "Artificial intelligence (AI) is a topic of global concern, with debates surrounding its potential dangers and benefits, highlighting the need for international regulation. The integration of AI into society raises profound questions of ethics,"
+    publishedDateTime: 2023-07-27T11:06:00Z
+    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/artificial-intelligence-and-international-affairs/"
+    type: article
+    provider:
+      name: Australian Institute of International Affairs
+      domain: internationalaffairs.org.au
+    quality: 54
+    images:
+      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2023/07/Picture1.jpg"
+        width: 1312
+        height: 677
         isCached: true
   - title: "The Role of Artificial Intelligence in Improving Business Efficiency"
     excerpt: "The incorporation of artificial intelligence (AI) has emerged as a game-changer in a business environment that is revolutionizing the way organizations work and reach peak efficiency. It is impossible to overestimate the contribution of AI in increasing company efficiency,"

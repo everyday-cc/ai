@@ -27,7 +27,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/swami-sivasubramanian-awssummitnyc2023.png"
+        width: 1688
+        height: 922
+        isCached: true
   - title: "AWS Announces the General Availability of AWS Entity Resolution to Help Organizations Improve Data Quality and Customer Insights"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced the general availability of AWS Entity Resolution, an analytics service powered by machine learning (ML) that helps organizations easily analyze,"
     publishedDateTime: 2023-07-26T17:59:00Z

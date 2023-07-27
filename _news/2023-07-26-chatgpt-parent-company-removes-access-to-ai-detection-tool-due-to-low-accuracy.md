@@ -350,15 +350,6 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 17
-  - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
-    excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
-    publishedDateTime: 2023-07-22T18:50:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/from-dr-google-to-dr-chatgpt-ai-chatbots-are-increasingly-being-used-for-seeking-medical-advices/3182728/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 6
 
 secured: "D85sIge8vZJ3tEdEwfwTPSaBoCQFtnv+FnUb6opAU/B2qX515QUgc23gXlJgmZ9JsTYfVLTKyYQr3qrhpFB8njXZyRrQly4QTJLbiA/YgVCm01UKWWXOPhBX42Flm7M/U6QXOj8VCjI2oX9zJ0SEP7220mg3SiSJy5DP4ozG/ojjiyktqdD95J6ehdXHA1+bPzPxuezG6M1ve77c+MqqTOaOXAVUEBGxa2wjWaC39jxV6elhg9OxVMVH3Nwd9g6UarUgquNas4v/NSQ8uJ445PIxCmcvEpOHkbUrL+KmfmcWiMowk0lUrsFl9aUraf+iGaXsNPreaM+UEoJ1hPj110Ts3wEIHIbS1QaSsaGljVjGu0yhYJfJSI74jWDXDbo2YCi9YjFjBBN+u9F4FMRb8UQcxRFmsBUaDA9jIDEDZ5ZxXROub/5/ynUS0pzeuISKtuRioFuD24RlQfMtsa4tbnlaSF79yv7CHxfH8/V2eIwvOCLr7HQNB1hjcFuoDta9y1cTiIYJZcOoMPf423yBSg==;l5HT3Kp46VvAVmm47Hr5hA=="
 ---

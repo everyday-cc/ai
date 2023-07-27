@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-24-ai-should-be-terrified-of-humans.md",
+      "title": "AI Should Be Terrified of Humans",
+      "excerpt": "The idea of new technologies taking over the world and subjugating humans has been floating around the cultural consciousness for at least the last couple hundred years. And while robot overlords—like the villain of the latest installment of Mission Impossible—might be sci-fi fodder,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6296234/ai-should-be-terrified-of-humans/",
+      "originalUrl": "https://time.com/6296234/ai-should-be-terrified-of-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock.md",
+      "title": "How face recognition rules in the US got stuck in political gridlock",
+      "excerpt": "A national effort to ban police use of face recognition is facing a sobering reality: compromise",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/",
+      "publishedDateTime": "2023-07-24T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach.md",
       "title": "The Potential And Pitfalls Of AI In Healthcare: A Measured Approach",
       "excerpt": "It is critical that healthcare professionals and hospital executives maintain a measured approach toward AI in healthcare.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1188,108 +1283,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped.md",
-      "title": "Is Financial Inclusion A Friction Point As Synergies Between AI And Crypto Are Hyped?",
-      "excerpt": "The intersection of Web3 and artificial intelligence has emerged as a hot topic. However, as Congress and the White House focus on risks, what about equity and inclusion?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bb4cfc812bf57af59a6bb7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
-      "publishedDateTime": "2023-07-22T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-ai-is-supposed-to-make-our-jobs-easier-these-workers-disagree.md",
-      "title": "AI is supposed to make our jobs easier. These workers disagree",
-      "excerpt": "A new crop of artificial intelligence tools carries the promise of streamlining tasks, improving efficiency and boosting productivity in the workplace. But that hasn’t been Neil Clarke’s experience so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230718163526-office-worker-laptop-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "publishedDateTime": "2023-07-22T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

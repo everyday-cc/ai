@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "UNC-Chapel Hill’s archeology labs continue to hold the remains of hundreds of Native Americans"
-    excerpt: "Three decades after Congress passed a federal law intended to return ancestral remains to Native tribes, UNC-CH’s Research Laboratories of Archeology still hold remains representing more than 600 individuals — the largest share of unrepatriated remains in the state."
-    publishedDateTime: 2023-07-25T20:14:00Z
-    webUrl: "https://www.wunc.org/2023-07-25/unc-chapel-hills-archeology-labs-continue-to-hold-the-remains-of-hundreds-of-native-americans"
-    ampWebUrl: "https://www.wunc.org/2023-07-25/unc-chapel-hills-archeology-labs-continue-to-hold-the-remains-of-hundreds-of-native-americans?_amp=true"
-    cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2023-07-25/unc-chapel-hills-archeology-labs-continue-to-hold-the-remains-of-hundreds-of-native-americans?_amp=true"
+  - title: "Accelerated adoption of AI could automate 30% of Americans’ work hours: McKinsey"
+    excerpt: "A McKinsey Global Institute report found that rapid advancements in generative artificial intelligence technologies could see about 30% of Americans' hours worked automated by 2030."
+    publishedDateTime: 2023-07-27T10:00:00Z
+    webUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey"
+    ampWebUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
     type: article
     provider:
-      name: WUNC
-      domain: wunc.org
-    quality: 47
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 52
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/7114a58/2147483647/strip/true/crop/3812x2144+0+0/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F05%2F31%2Fap19116633997535_wide-a17160f449318e0c0c36de75166f0539605c2000.jpg"
-        width: 480
-        height: 270
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "f76gPIhqvTjPXHVmWD7e04thCI66a94Ua7RnaIkDH51wFbNbbMt7G7TrFxvErqzCJSp4HQsQTeleXr5SlUaa8v/XrsLFe2A+vzMEfF/6A6bsrUmgL8DrdcfW8KoFrZHji06i8BLPlQzI3WWnsOTuE8WlbzaNzzOIgrjOW5OoUYiEiDk1Q+IQ0BAVMj8gNGrxKO+UoCR1LVduVpWCXYBzfZ+9rzSiZ5yr3Yg6n9ylKjrBo4XLTCN0IGoXslMBb/z+42ki83zv4GTezNqcku0XikuShGDQINhCs+yZ3bIwgNproWYB/7d1wZ3aTsCG1Q6QDe+jR7qH/VfuB9pN1C1HPkdPaUeZ2pr9gBx+xKgvDis=;bQ77/gdADMpuM+m2+U9JQw=="

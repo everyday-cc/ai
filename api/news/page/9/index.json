@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-07-21-awss-ishit-vachhrajani-on-how-leaders-can-navigate-generative-ai.md",
+      "title": "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI",
+      "excerpt": "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/07/AWS-eSPEAKS-thumbnail-copy-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-artificial-intelligence-on-the-battlefield-lawmakers-weigh-the-risks-and-benefits-of-military-ai.md",
+      "title": "Artificial Intelligence on the Battlefield: Lawmakers weigh the risks and benefits of military AI",
+      "excerpt": "“The country that is able to most rapidly and effectively integrate new technology into warfighting wins,” Alexandr Wang, CEO of Scale AI, said. “If we don’t win on AI, we risk ceding global influence, technological leadership and democracy to strategic adversaries like China.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
+      "originalUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/jTXM2HgirZ1osy9b2haXNugKkyc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ZIBS2YHKN5D6LH6IIG3OIY6NHE.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
+      "publishedDateTime": "2023-07-20T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFTV",
+        "domain": "wftv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-ibms-watson-rebooted-as-a-secure-ai-alternative.md",
       "title": "IBM’s Watson rebooted as a secure AI alternative",
       "excerpt": "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now.",
@@ -1109,101 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest.md",
-      "title": "AI Growth Lifts Quanta’s Barry Lam To No. 1 Among Taiwan’s Richest",
-      "excerpt": "Lam, who founded Quanta in 1988 when Taiwan was disparagingly known as a “clone kingdom” for IBM PC knockoffs, was worth $9.2 billion on the list yesterday, compared with $5.6 billion on the 2023 Forbes Taiwan Rich List published in April. Lam has topped Zhang Congyuan, who at No. 2 has a fortune worth $7.7 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b8ac1a5e5cca27155b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
-      "publishedDateTime": "2023-07-19T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
-      "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
-      "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "originalUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "publishedDateTime": "2023-07-19T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

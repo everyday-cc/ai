@@ -231,15 +231,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Analyzing The Impact Of Fintech On Global Banking"
-    excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
-    publishedDateTime: 2023-07-22T18:46:00Z
-    webUrl: "https://menafn.com/1106647210/Analyzing-The-Impact-Of-Fintech-On-Global-Banking"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
   - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
     excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
     publishedDateTime: 2023-07-24T12:54:00Z

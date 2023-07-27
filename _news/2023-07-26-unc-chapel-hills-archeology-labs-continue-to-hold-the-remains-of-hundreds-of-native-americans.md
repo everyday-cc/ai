@@ -26,22 +26,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "Here's why 61% of Americans think AI could spell the end of humanity"
-    excerpt: "Benzinga took a look at the state of artificial intelligence by analyzing public concern about the future of AI and its global impacts."
-    publishedDateTime: 2023-07-26T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/26/heres-why-61-of-americans-think-ai-could-spell-the-end-of-humanity/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/07/artificial-intelligence_0.png"
-        width: 1080
-        height: 700
-        isCached: true
-
 secured: "OgFR0nrTbbuRSVXaRixIynSnt8vwTINFv5Boo/C7oFI9yJeiYJRP1n9BCYdl85h7AK0a3t6QgRf8N/kklt5mdurlyHk8c4uEIvOOyuZdsJnBIUNE40YjY5WMv4vZBSq2iTsMgFa0mZ009RveUeQpM6yJxriOah6OCHCYjjRg/mkxDK5ttxB1F0jBwlkDcM3QCPLTmomu8TjRv14728YJjdeiilika4Z/BxTmN5zcvZbCelSIV5mYqGfW0CtuGc07Z+mXsgX0KwCzF0GkW60JGvjbqUYwArs5QX3QyZFTNTS5mxoFALGWtUQgmhSoEWsrvi3hwvSjmQnRv1lHR+EVseyZP2I/NjpYdUP218uZn1p1G0DV7c9WZxVV+s01dnqYWKFHA8izVNv0UW64+9R8QIGNczkvZ+iYGtxC8sogyCrq7g87pIX0m7mV6ztURpTXGdJQW0PPEHPlKOzK7kF0tMawuDQfZZ8gFKTHC8KWDUw2Ae+nelXgjUO00n3Nev843hYjg21LE2i+8G7bgsdTCw==;H83WmWeFIMwxzGGXw638dg=="
 ---
 

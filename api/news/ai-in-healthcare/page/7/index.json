@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-11-mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup.md",
+      "title": "Mayo Clinic invests in NC artificial intelligence healthcare startup",
+      "excerpt": "Lucem Health, a startup that says it is utilizing artificial intelligence to deliver solutions for physicians and healthcare providers, has a big believer: Mayo Clinic. It's now an investor.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/",
+      "originalUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/05/AI-51123-e1683802381829.jpg",
+          "width": 912,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/11/mayo-clinic-invests-in-nc-artificial-intelligence-healthcare-startup/?amp=1",
+      "publishedDateTime": "2023-05-11T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
       "title": "Back Therapy Kit Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
       "excerpt": "Back Therapy Kit report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The Back Therapy Kit market is expected to witness significant growth in the coming years due to the increasing prevalence of back pain and the need for non-invasive treatment options.",
@@ -1325,58 +1368,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-students-use-ai-technology-to-find-new-brain-tumor-therapy-targets-with-a-goal-of-fighting-disease-faster.md",
-      "title": "Students use AI technology to find new brain tumor therapy targets — with a goal of fighting disease faster",
-      "excerpt": "Two high-school students partnered with Insilico Medicine, a Hong Kong-based medical tech company, to identify new target genes linked to glioblastoma and aging. Fox News Digital spoke to them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
-      "originalUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81ed2050-d425-4054-9746-8b8f6b6b3cd5/5bc734cb-7e3e-4509-b8f9-fc93215ffd49/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
-      "publishedDateTime": "2023-04-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

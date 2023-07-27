@@ -47,15 +47,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
-    excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
-    publishedDateTime: 2023-07-22T17:10:00Z
-    webUrl: "https://www.crypto-news-flash.com/hive-crypto-miner-uses-ethereum-rigs-and-ai-to-make-ordinals-art-on-bitcoins-blockchain/"
-    type: article
-    provider:
-      name: Crypto News Flash
-      domain: crypto-news-flash.com
-    quality: 10
 
 secured: "QqYIlbHXeua6+eBJTWT16EbzNiBSr7yHwIOtOh9O9kUidgrhrajUi/wybkHcBwZ9K+HnOpDli7bma4rXnj5YTiDuwVdi1pUz8Nh9/ZkbQ2a35Rg1Rul62xHTCtJ4pARBnQgGoP88Wwsgk1/z3KXBHMFP+STOauZ7fiMPEd1lrYvUkAL5+ESISxqQoSosaNWfJwk4zOPIkIh9CpEOHAYXi3LcE2YWXvOPHlTc0xSrj2PbjOl8Il5lt7q9+MPEbfqLBtdW6aLK1L+Arl9N8Uuq6pCeZRyUrJ7lI37RmTsLM4RKwnPKa0c+vPtI0F6JPOTau5CTYZ1NpHDT9dVVCeNfcQrwsovgNmQ+5kbXxj9b4xA=;iCFdQMf+5aDhBlPafihE2Q=="
 ---

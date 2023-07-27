@@ -27,7 +27,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/swami-sivasubramanian-awssummitnyc2023.png"
+        width: 1688
+        height: 922
+        isCached: true
   - title: "Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
     excerpt: "NDAQ:BTCY) Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
     publishedDateTime: 2023-07-25T12:20:00Z

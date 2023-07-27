@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "If You Can Only Buy One AI Stock, It Better Be One of These 3 Names"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If an investor were limited to purchasing a single AI stock investment, any of"
+    publishedDateTime: 2023-07-27T10:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-ai-stock-it-better-be-one-of-these-3-names-1032483775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "3 Autonomous Driving Stocks You Better Be Buying on Each and Every Dip"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2023 has brought to us an equities market rebound and novel improvements upon"
     publishedDateTime: 2023-07-25T08:06:00Z

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-05-ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence.md",
+      "title": "AI Anxiety: How These 20 Jobs Will Be Transformed By Generative Artificial Intelligence",
+      "excerpt": "We explore how generative artificial intelligence will transform twenty jobs across industries and how to embrace these changes and thrive in an AI-driven world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647d767e5317b4aee4d81907/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-06-04T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-academic-warns-against-using-ai-as-therapy-tool-points-to-security-risks.md",
       "title": "Academic warns against using AI as therapy tool, points to security risks",
       "excerpt": "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ...",
@@ -1339,50 +1391,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-addressing-the-ethical-use-of-ai-in-healthcare.md",
-      "title": "Addressing The Ethical Use Of AI In Healthcare",
-      "excerpt": "The push to digitize and automate healthcare data management represents a giant leap forward in helping health plans deliver better outcomes for their members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

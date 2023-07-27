@@ -2,6 +2,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-25-lawmaker-seeks-to-regulate-use-of-ai-technologies.md",
+      "title": "Lawmaker seeks to regulate use of AI technologies",
+      "excerpt": "A representative called on the country’s policymakers to consider the setup of a government body that would act as a “guardrail” in the local use and development of artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use-of-ai-technologies",
+      "originalUrl": "https://newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use-of-ai-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsinfo.inquirer.net/files/2023/05/2023-05-18-Robert-Ace-Barbers.jpg",
+          "width": 620,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use-of-ai-technologies/amp",
+      "cdnAmpWebUrl": "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use-of-ai-technologies/amp",
+      "publishedDateTime": "2023-07-24T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-optimize-aws-inferentia-utilization-with-fastapi-and-pytorch-models-on-amazon-ec2-inf1-inf2-instances.md",
+      "title": "Optimize AWS Inferentia utilization with FastAPI and PyTorch models on Amazon EC2 Inf1 & Inf2 instances",
+      "excerpt": "When deploying Deep Learning models at scale, it is crucial to effectively utilize the underlying hardware to maximize performance and cost benefits. For production workloads requiring high throughput and low latency, the selection of the Amazon Elastic Compute Cloud (EC2) instance, model serving stack,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-aws-inferentia-utilization-with-fastapi-and-pytorch-models-on-amazon-ec2-inf1-inf2-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-aws-inferentia-utilization-with-fastapi-and-pytorch-models-on-amazon-ec2-inf1-inf2-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/optimize-inferentia-utilization.jpg",
+          "width": 1025,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T13:55:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-artificial-intelligence-helps-to-make-roads-safer-help-law-enforcement.md",
+      "title": "Artificial intelligence helps to make roads safer, help law enforcement",
+      "excerpt": "In Georgia and South Carolina, artificial intelligence is working to make the roads safer while also helping local law enforcement agencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
+      "originalUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/dQj683k7w5RvC_jT5tGSgZ4mkXY=/800x450/filters:focal(265x138:275x128):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K645NRRT4VHL5KCAIIY54RAV5U.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wrdw-com.cdn.ampproject.org/c/s/www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
+      "publishedDateTime": "2023-07-24T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRDW",
+        "domain": "wrdw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says.md",
       "title": "‘AI-Driven Bubble’ May Burst And Drag Down Stock Market, JPMorgan Says",
       "excerpt": "Fallout from elevated interest rates, an “erosion” of personal savings and a “deeply troubling” geopolitical situation will lead to broad market declines, according to strategists at the world’s largest bank.",
@@ -561,7 +701,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -701,57 +841,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-24-greek-ai-shipping-startup-acquired-by-japanese-automation-giant.md",
-      "title": "Greek AI shipping startup acquired by Japanese automation giant",
-      "excerpt": "Greek shipping software startup DeepSea Technologies has sold a majority share to Japan’s automation giant Nabtesco for an undisclosed amount.  DeepSea will continue to develop the company’s fuel opti",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/greek-ai-startup-acquired-by-japanese-automation-giant",
-      "originalUrl": "https://thenextweb.com/news/greek-ai-startup-acquired-by-japanese-automation-giant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fmaritime-vessels-e1690208602997.jpg&signature=dbf1a4ffe9dea196e310d45f132b39f5",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-24-robot-preachers-ai-programs-may-undermine-credibility-of-religious-groups-study-finds.md",
       "title": "Robot preachers, AI programs may undermine credibility of religious groups, study finds",
       "excerpt": "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations for religious groups that rely on them,",
@@ -854,7 +943,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1141,101 +1230,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-should-be-terrified-of-humans.md",
-      "title": "AI Should Be Terrified of Humans",
-      "excerpt": "The idea of new technologies taking over the world and subjugating humans has been floating around the cultural consciousness for at least the last couple hundred years. And while robot overlords—like the villain of the latest installment of Mission Impossible—might be sci-fi fodder,",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6296234/ai-should-be-terrified-of-humans/",
-      "originalUrl": "https://time.com/6296234/ai-should-be-terrified-of-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock.md",
-      "title": "How face recognition rules in the US got stuck in political gridlock",
-      "excerpt": "A national effort to ban police use of face recognition is facing a sobering reality: compromise",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/",
-      "publishedDateTime": "2023-07-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

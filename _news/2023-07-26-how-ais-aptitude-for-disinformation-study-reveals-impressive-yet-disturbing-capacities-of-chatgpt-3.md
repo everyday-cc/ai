@@ -352,15 +352,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 13
-  - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
-    excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
-    publishedDateTime: 2023-07-22T18:50:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/from-dr-google-to-dr-chatgpt-ai-chatbots-are-increasingly-being-used-for-seeking-medical-advices/3182728/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 6
 
 secured: "qx0WU1mvipoUw1hcm6uLm4DWALz1zlgsWC3/j+ZwTbad3E6h40XrrIwf0YkGG5jaP8aAvHk9mWUVsape5b8un4z2xBAeexs+xmQZz2V/zxf2j6QgURP9g4pQCzxMyv3dmSNDNnyV3jkd6E90g0QFHjXOTRphpoBMK7BfUDIPzzx1PBhrxGFPR8ACLviT12n4xKr4K12z94FysSXoWjnku0o2RHhubIH9t+pyovffhPg9Qo9vmSHQVTlD9KZ33TPXNnIauOKf+sPkdISiPCveSSKPXOkOfKHyCXyba6OdbKzWImpiy/6n8oaqPu5kMxtoSFKko9tmB/r36LgAgCLmRITCBOf2gnQTm+CCblHaAfo=;MAWKLy/VZT38KvXMJuumTA=="
 ---
