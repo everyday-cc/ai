@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-03-3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023.md",
+      "title": "3 Artificial Intelligence Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The most exciting rally in the tech sector since 2021 has undeniably been in",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-us-ai-chip-controls-dont-deter-blackrock-from-going-all-in-the-week-in-ai.md",
       "title": "US AI Chip Controls Don’t Deter BlackRock From Going All In: The Week in AI",
       "excerpt": "Artificial intelligence has become the latest battleground for world dominance between China and the US, adding one more link in a long chain of technological rivalries between the two superpowers. The US has so far maintained a competitive edge, but an explosion of Chinese startups in recent months has brought its lead into question.",
@@ -1440,50 +1483,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla.md",
-      "title": "Software, Chips, Robots: Elon Musk Touts 'Super Exciting Work Happening At Tesla'",
-      "excerpt": "What Happened: “Super exciting work happening at Tesla in AI software, chip design & robots!” Musk said on Tuesday. The CEO was responding to a tweet by Tim Zaman who leads AI Infrastructure at Tesla and Twitter. Zaman called for people to either drop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
-      "originalUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla_Gigafactory._Photo_by_JHVEPhoto_on_Shutterstock_2.jpeg?width=1200&height=800&fit=crop",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32940159",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940159",
-      "publishedDateTime": "2023-06-20T21:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

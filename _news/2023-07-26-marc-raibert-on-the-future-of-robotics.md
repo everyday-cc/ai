@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/marc-raibert-on-the-future-of-robot
 webUrl: "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/"
 type: article
 quality: 99
-heat: 100
+heat: 99
 published: true
 
 provider:

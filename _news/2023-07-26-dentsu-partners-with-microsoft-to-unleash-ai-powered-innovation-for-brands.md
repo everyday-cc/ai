@@ -342,20 +342,6 @@ related:
         height: 894
         isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
-    publishedDateTime: 2023-07-22T15:00:00Z
-    webUrl: "https://www.sent-trib.com/2023/07/22/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house/"
-    type: article
-    provider:
-      name: Sentinel-Tribune
-      domain: sent-trib.com
-    quality: 40
-    images:
-      - url: "https://www.sent-trib.com/wp-content/uploads/2023/07/131659378_web1_131659378-8d5fba0753514d4d99f72b5c5ab22962.jpg"
-        width: 1068
-        height: 712
-        isCached: true
-  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "The commitments include third-party oversight of the workings of commercial AI systems, though they don’t detail who will audit the technology or hold the companies accountable."
     publishedDateTime: 2023-07-23T13:21:00Z
     webUrl: "https://www.lex18.com/news/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house"
@@ -470,6 +456,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "+BmDScWDbwFx3FV0pX5YJ4lmj/IVjotLhmxHad1oFLbG9h+VXHjcHcS+X50/JB4Bv4GV4yrK3eP6Ug2xuShcidrhjOWQNQXcRwmcBud14WRWLfpSGWHysztU45lEapJC1RFXs3/EOgpAdxHBwFzAJw6dSmnqAzxIaby7y+rThgPime70T3f0+XCK9YdXwKeagByu90trG98g2R7a57pxuTaMTFNrR5nWtdstHuTuOl8PWwLUeZHFJyXalbh7mrQ8LnujMn5JoIr+ZqKq4mv3zLXP8fbJO1xaHR+oPicctSM36S3q/YTH8bLy8nUVw8xnVvW704nMlxfTeAJbeZ47cuMmhBYjB0Y54NNNuP9nG4Q=;+85ns6AR7kaa3HjkyVtW3w=="
+secured: "+LbakB8GVRIP7NAu8cszWDtmydHoNkDD2MR5tx9vgPI1D/7fB8H25bQzVapZ3utwcttu8yUDZiHcpIOFTe5+rmBRpxhu9bUpgAKqJSvNFRM05QwSGha+jEdCck+mTJkVNtPkG0sjRJFNLY1btnpzif1U+PEMYyvCp+EhNcknIfw574YycwI59Tuv2JkLShwIx5JbIWTtzcYUEZfbE+yWAv2g8g2n+OM4DX2RJKXZjFRSkXa/GdN4xnWw762L1o5BPDwjN85sVVO2E7bUSuT2dbAHHwlmFrHCRbBpiuVbv7kuI7HKTTGlRbyJjynZBmkPYBS6dAAJ2SP578dpzzaXRICa+gmkY/3+MNHwxfeeSfMAy1fNkX2Wt4H8ZbtoRHrUt9naW4XTrDpHhP4CyAoWoA3w0B9U5WM+00y/f00+7xt0RLQCpDnhHouOVzGfOKBnX0axvVTb63mx8QQTTIiU2oRQGrDbr0qKydsYreNg1US/9eF6flzoy6y9kGmovPMBG/BcRG16wJ/yjscxxnVp+g==;+yvKb5zCzSzcKAb2I7ih1Q=="
 ---
 

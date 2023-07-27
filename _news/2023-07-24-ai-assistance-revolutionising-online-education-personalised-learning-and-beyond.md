@@ -28,68 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven personalisation : A new era in Ghanaian banking services"
-    excerpt: "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients. Creditably,"
-    publishedDateTime: 2023-07-24T14:31:00Z
-    webUrl: "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/"
-    ampWebUrl: "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp"
-    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp"
+  - title: "AI could replace politicians and CEOs if they play by Darwinian rules of evolution: expert"
+    excerpt: "Artificial intelligence could replace politicians and CEOs, according to a tech experts. UK politicians are already sounding the alarm that they could be replaced with AI."
+    publishedDateTime: 2023-07-27T06:03:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp"
     type: article
     provider:
-      name: business
-      domain: thebftonline.com
-    quality: 74
+      name: Fox News
+      domain: foxnews.com
+    quality: 77
     images:
-      - url: "https://i0.wp.com/thebftonline.com/wp-content/uploads/2023/07/By-Nana-Kofi-BOBBIE-SARFO.jpg?fit=1100%2C1540&ssl=1"
-        width: 1100
-        height: 1540
-        isCached: true
-  - title: "How AI is revolutionising banking services in rural areas"
-    excerpt: "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across"
-    publishedDateTime: 2023-07-26T11:42:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "Spotify CEO teases potential upcoming AI-powered capabilities surrounding personalization and ads"
-    excerpt: "Spotify CEO Daniel Ek teased a few ways the streaming service could introduce additional AI-powered functionality."
-    publishedDateTime: 2023-07-25T20:16:00Z
-    webUrl: "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/"
-    ampWebUrl: "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1013933224.jpg?resize=1200,709"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12f32090-d466-4946-8d6a-cfb9c81363bd/7511282e-5719-497f-be58-09896b59eaff/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 709
+        height: 675
         isCached: true
-  - title: "AI and Open Banking – the dynamic duo in Financial Services"
-    excerpt: "Open Banking and Artificial Intelligence (AI) have emerged as game-changers in the financial services industry, reshaping the way financial institutions operate and interact with their customers. The convergence of Open Banking's secure access to financial data and the advanced capabilities of AI has unlocked a world of practical possibilities and tangible benefits."
-    publishedDateTime: 2023-07-25T13:38:00Z
-    webUrl: "https://chyp.com/2023/07/25/ai-and-open-banking-the-dynamic-duo-in-financial-services/"
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-07-24T21:24:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-4539814/"
     type: article
     provider:
-      name: Consult Hyperion
-      domain: chyp.com
-    quality: 54
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 30
     images:
-      - url: "https://i0.wp.com/chyp.com/wp-content/uploads/2020/07/ch-logo-white.png?fit=1608590&#038;ssl=1"
-        width: 1608
-        height: 590
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
+        width: 1200
+        height: 900
         isCached: true
+  - title: "The AI revolution: Which tech companies will profit from it?"
+    excerpt: "Since the announcement of ChatGPT late last year, artificial intelligence (AI) has become the buzzword on everyone’s lips. In this Q&A article, members of global investment manager Schroder’s public and private equities team – including global sector specialists Jonathan McMullan,"
+    publishedDateTime: 2023-07-25T09:21:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/the-ai-revolution-which-tech-companies-will-profit-from-it/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "rBVY59/UIrX2EEtq2s9RvGiggx7lyPfUcIFFJ/xP3bIEdVLCDvFf55u/lzSwOK2y8Yh/whe2Bc1Fgwk2BaZrs7HuGLrCTJ53lLVVBjebdIOA0zTypRD2rGfpgfkfjvGK9lOdwxKHXY4G6vF5BnjmzgkrrV2YhhdHQwqdBxfQc3NNfW2NuoGGihCNzx9ynDjQ4yIuVi1t/cp4jXMIV87ayYmPJ2MUCWF5io8YmS5jGNUvgG0U+TqZxlwN346C/5mKFTyKjqnC9WZaS9sV7Bf3zC7Kf5uvcrSNwYhhLWKvrkI+0Jzi9hN+xO9mWsDJCB1tl0G25RTLt+FCFVPqRu1cZu6BKbhp/w5c3jm2OKE1FQg=;WtSCI7LesIxlbgVxa8IJMQ=="
 ---

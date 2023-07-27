@@ -351,20 +351,6 @@ related:
         height: 894
         isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
-    publishedDateTime: 2023-07-22T15:00:00Z
-    webUrl: "https://www.sent-trib.com/2023/07/22/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house/"
-    type: article
-    provider:
-      name: Sentinel-Tribune
-      domain: sent-trib.com
-    quality: 40
-    images:
-      - url: "https://www.sent-trib.com/wp-content/uploads/2023/07/131659378_web1_131659378-8d5fba0753514d4d99f72b5c5ab22962.jpg"
-        width: 1068
-        height: 712
-        isCached: true
-  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "The commitments include third-party oversight of the workings of commercial AI systems, though they don’t detail who will audit the technology or hold the companies accountable."
     publishedDateTime: 2023-07-23T13:21:00Z
     webUrl: "https://www.lex18.com/news/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house"

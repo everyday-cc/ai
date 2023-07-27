@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 709
         isCached: true
-  - title: "AI assistance revolutionising online education: Personalised learning and beyond"
-    excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
-    publishedDateTime: 2023-07-24T10:11:00Z
-    webUrl: "https://www.indiatoday.in/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 71
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/thisisengineering-raeng-bg0geue-cy8-unsplash-sixteen_nine.jpg?VersionId=EVKtVWSwKzXj.m6ShD2bAyHx4ZbZeB.9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI and Open Banking – the dynamic duo in Financial Services"
     excerpt: "Open Banking and Artificial Intelligence (AI) have emerged as game-changers in the financial services industry, reshaping the way financial institutions operate and interact with their customers. The convergence of Open Banking's secure access to financial data and the advanced capabilities of AI has unlocked a world of practical possibilities and tangible benefits."
     publishedDateTime: 2023-07-25T13:38:00Z

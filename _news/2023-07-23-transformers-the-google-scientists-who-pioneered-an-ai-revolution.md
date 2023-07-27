@@ -50,15 +50,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The AI revolution: Which tech companies will profit from it?"
-    excerpt: "Since the announcement of ChatGPT late last year, artificial intelligence (AI) has become the buzzword on everyone’s lips. In this Q&A article, members of global investment manager Schroder’s public and private equities team – including global sector specialists Jonathan McMullan,"
-    publishedDateTime: 2023-07-25T09:21:00Z
-    webUrl: "https://it-online.co.za/2023/07/25/the-ai-revolution-which-tech-companies-will-profit-from-it/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "kuunS6Y1vlICaZWPkgVsMyTQ5ns/pTcv2iOLpUCjPWCAolvsfckucztr4j2Q2dnEfDmTrBNtbv0ow9W5yKmZVErZx4a5GLvUzS8lLe4YaZ33JFguZr7DGtJ38s7axHPNEUSSyzhsH9iVddkkfMilqwJd580aH/SJx6aLe45efIubYKt22HkdGtVj1LQtT0YM2E8oZzefJejKzbt5zp63914D1gsbbCMNmFc8thKqZ4nAcbubwfBANtxJhAkfQkpTKizlkzktQyBCHpi6RqKNxMGwzuGa00sij1SETvhevSW50rOx9NlZLKJoRUyo7/3ec4HSevSxqCQyM3Q0eH/kC3+DXrkX5iZB9RcZ6Q7XkIw6VpM8xvgX7pOjCcYv3zAZXmA9mb2wdHw2xaoIHY8bcLWci0on0ETJ3GM44o+fuSAucnnILhGOoYPuGSuXJWHz+Gu49L8a3RXsaOUp+zSQMhneHtPxY08tvdkfP2mFDQZs3T3JjJ6//+bzFryaltoVTnMz/DAokwiVqzQS03tYEg==;bJfvCstoDQsBuYL+9LkfpQ=="
 ---

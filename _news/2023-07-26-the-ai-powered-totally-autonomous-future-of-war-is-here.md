@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-o
 webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
+    quality: 17
+  - title: "1. Exposure of workers to AI"
+    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
+    publishedDateTime: 2023-07-26T17:56:00Z
+    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
     quality: 17
 
 secured: "XmDu8R6MhcnaqH/LjHtNtK+1yTe4g75sutwR2Pp/TFMxBN2CQVEalqHqQlkyZpI4SgtRUQWNY727mWP8aqUkTJT0GjzugMBmeJ7kwZC4AYoAwn7VPmzfanqvQRHoBEfPjt7hKPm2f6p9pV5YyWC/YCSkzjz5QyPWnsM8Ajg0cbaK920wRCAhdCBFm7rO78VJkhBhNGNU+62Pu3ZTGrzbgCvAeOcvC6bn5H2fC5q6xy2RGpequMC9/sE/0uJd2OMcxITwVXdL/92t/m4lJi8ZG6XrfcgordoVEOnLFfDHRIrTIQft4JieKQcGpnSH8IgdgchgDKlteX7vhmm+rX7iQXI5YlKL/qFxoRpVIw/cdd8oaxMQc8nAzMvNtXfLrjeTE8at3UO85BlnAwzs2ebSwKlNeZtwEEmP/KxQspzCF28cNYbjbCHb8IFDW15PskNxLlmTwsU+QNVDdiyQuveeoKTlAEvr5cC77HB30fQmME3VPzDB9+Jo9upGWbHs7EyayLrMkso7x/n5UriRFLAXJQ==;spo9/XS74bMdpX3c1d1+2A=="

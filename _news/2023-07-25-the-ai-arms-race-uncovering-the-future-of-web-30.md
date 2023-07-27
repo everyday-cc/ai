@@ -56,6 +56,15 @@ related:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 17
+  - title: "1. Exposure of workers to AI"
+    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
+    publishedDateTime: 2023-07-26T17:56:00Z
+    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 17
 
 secured: "aaxKKPrhdo1Ajvwn2wYW5fCM1iOgKxlYq10BSwjuSYPFPVfIzIQCy2aNCZVvWMoGaI8kPFaaiRh6DGtvJtzTItK7F0s7z8+Ngil+mWeRrbTdp8YxVi/8nnuSIeWcY1l8JZ2TR6UH6kNakYDJbCm0hMsmhWNgT79qCiZNelNyJ3vhPH8VpSWBcjZyNzetXjN7W3tPrZvDR8zRUESpwg1+g+MtfzKGl3AT75IE14Vyb2WLmQZ99jPgWhDqVMrn4cXrgCsq3/CBiVkhr6lGobae70KbbfynfDYmbLlmHSicBmCeuC5YNwuOeqAXOpECOjvqEijMQ5fXnsDtJ2jgCdK3MhEuX5XQ1ZQza+h5txlUmyw=;rgA9CplCmAVdt2EyA2NIRA=="
 ---

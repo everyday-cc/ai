@@ -55,6 +55,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
+  - title: "1. Exposure of workers to AI"
+    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
+    publishedDateTime: 2023-07-26T17:56:00Z
+    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 17
 
 secured: "CT/RyqxqYFStxDIH1Ts6Ixp9SXpyHUg+SA+QjY5gbpdG/BX44EiVFWUZcRLAiAdHmMcD+nIH/ASh6Dsj8IUVpAv5KxguE1zXF4K2IV+1XPZYucyb2Sidb3MqcF/NDxIAY175eNlaJlZcAVmEznSfL2W+lBlwR4FFjdw0ci/zTjMd6sgAI9Pvpuu+9zMNmylUzb3tLg+38J1Y7wuSiePPrulst3cbJGtPzmNpc+b7VsCFGGeXb1BSlcncm423/UiW45yI1lUBTJLj7S9EDUfQfpAlVF36CDalVVV2+Wzt8Kc/s+GNpmjGChbzmISHYUd/frJd72DqksP3L9SJO3qlU+fBoXxYiJpNK03M9r/uHcaYTgjh6sq/LiUpS/T7ajZZFsrVhMcap7T3Gia8OiCk9tOQA+M7rjYLv1rcBoG7eDrDYIxex8pdeD7eGytHEO+T/brTuiXmgPk0oSZyOd9rxLnC3tjHocqTbYNsK1xrOz+vvIaHcrTiDLaovhUoqnEQ3dMHY0MyYwlf4piXtrw8mw==;wQbLpoTaQdvrhomYfgIBJg=="
 ---

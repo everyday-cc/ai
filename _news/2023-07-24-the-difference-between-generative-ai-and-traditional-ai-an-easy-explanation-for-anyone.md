@@ -46,6 +46,22 @@ related:
         width: 2400
         height: 1800
         isCached: true
+  - title: "The Human Factor In Generative AI And The Automation Paradox"
+    excerpt: "Effective leaders understand the “automation paradox”: the more complex technology (including generative AI) gets, the more vital human users become to its operation."
+    publishedDateTime: 2023-07-27T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c19d4aa9e746b2deea0a57/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 751
+        isCached: true
   - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
     excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
     publishedDateTime: 2023-07-27T00:01:00Z

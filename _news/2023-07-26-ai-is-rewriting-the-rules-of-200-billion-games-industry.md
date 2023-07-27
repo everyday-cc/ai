@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
     excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
     publishedDateTime: 2023-07-25T09:22:00Z
@@ -103,20 +87,6 @@ related:
       - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/07/24/1247860-parking.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-07-24T21:24:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-4539814/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 30
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Artificial Intelligence in the Life Sciences Industry: Barriers and Motivators to the Adoption of AI into Workflows"
     excerpt: "Barriers and motivators to the adoption of AI into workflows. Who scientists think are leading in life science AI among key organizations and brands developing AI or actively employing AI in their workflows. The analyst designed an online quantitative survey to address the objectives."

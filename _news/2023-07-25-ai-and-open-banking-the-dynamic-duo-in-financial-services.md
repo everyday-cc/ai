@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 709
         isCached: true
-  - title: "AI assistance revolutionising online education: Personalised learning and beyond"
-    excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
-    publishedDateTime: 2023-07-24T10:11:00Z
-    webUrl: "https://www.indiatoday.in/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 71
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/thisisengineering-raeng-bg0geue-cy8-unsplash-sixteen_nine.jpg?VersionId=EVKtVWSwKzXj.m6ShD2bAyHx4ZbZeB.9"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/StT90QND3fP5L/YkhZdZp2ouQLtk2kyzFIIvw0wwj1+cnFbvdafBQKG6EQN6qBJJAEkAK539tPxtcjj+MtI31K8eqoO2Qu9TiuwSJO8F8LTUxTvtgsEcLToWjRsJpsOp+dAzZjaWrye486LfB5vgzlIWbCoX//zHvtvwkYMleor2dH+bJWmMo/nc0ROI9fDTHIiooZHRHjxNC6D5iOZ+Ri0DyIhCjn2ZaYq0MVvYTWLmewOvexZ8hu9n75dl9WpdjyM0bU0mxrh88+G+cDWcsE4oK541CUcrhj8Hz/BhoRq7+K6khAE62q2uh3fnHiiYUoNrOsv8BsCJPkTefZUO21GnlqUCkh7T5zyYa2aBNA=;0fEOOIf1gPSwBLy37YcMfA=="
 ---

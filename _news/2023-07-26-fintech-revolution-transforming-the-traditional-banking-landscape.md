@@ -9,7 +9,7 @@ ampWebUrl: "https://www.phillyvoice.com/fintech-revolution-transforming-traditio
 cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The AI revolution: Which tech companies will profit from it?"
-    excerpt: "Since the announcement of ChatGPT late last year, artificial intelligence (AI) has become the buzzword on everyone’s lips. In this Q&A article, members of global investment manager Schroder’s public and private equities team – including global sector specialists Jonathan McMullan,"
-    publishedDateTime: 2023-07-25T09:21:00Z
-    webUrl: "https://it-online.co.za/2023/07/25/the-ai-revolution-which-tech-companies-will-profit-from-it/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Transformers: the Google scientists who pioneered an AI revolution"
     excerpt: "Their paper paved the way for the rise of large language models. But all have since left the Silicon Valley giant"
     publishedDateTime: 2023-07-23T04:00:00Z

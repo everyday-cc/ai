@@ -46,6 +46,22 @@ related:
         width: 2400
         height: 1800
         isCached: true
+  - title: "The Human Factor In Generative AI And The Automation Paradox"
+    excerpt: "Effective leaders understand the “automation paradox”: the more complex technology (including generative AI) gets, the more vital human users become to its operation."
+    publishedDateTime: 2023-07-27T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c19d4aa9e746b2deea0a57/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 751
+        isCached: true
   - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
     excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
     publishedDateTime: 2023-07-24T05:41:00Z

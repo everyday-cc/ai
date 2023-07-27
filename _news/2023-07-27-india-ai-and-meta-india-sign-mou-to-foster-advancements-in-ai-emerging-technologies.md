@@ -102,18 +102,18 @@ related:
         height: 450
         isCached: true
   - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
-    excerpt: "The MoU aims to establish a framework for collaboration and cooperation between India AI and Meta in the field of artificial intelligence"
-    publishedDateTime: 2023-07-27T02:10:00Z
-    webUrl: "https://telanganatoday.com/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech"
+    excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
+    publishedDateTime: 2023-07-27T05:25:00Z
+    webUrl: "https://yourstory.com/2023/07/india-ai-meta-india-ink-pact-advancements-ai"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
+      name: Your Story
+      domain: yourstory.com
     quality: 39
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/07/watermarklogo.png"
-        width: 1280
-        height: 720
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "With AI-Enabled Tech, Indian Navy To Soon Start Testing Advanced Control Systems For Warships, Submarines"
     excerpt: "“The CMS 24-29 can do faster threat assessment with inbuilt-AI algorithms and gives the warship’s captain suggestions on which particular weapon should be used in a particular situation. It can also talk to the existing CMS on board warships,” the TOI report said quoting an official source."

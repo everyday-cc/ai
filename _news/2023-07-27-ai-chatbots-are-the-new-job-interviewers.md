@@ -93,6 +93,22 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
+  - title: "AMA calls for stronger AI regulations after doctors use ChatGPT to write medical notes"
+    excerpt: "Artificial intelligence protections should include ensuring that clinicians make final decisions, Australian Medical Association says"
+    publishedDateTime: 2023-07-27T05:55:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/2ce43a07b1fb47b304a7bf8ff0fbda407563c2e7/0_218_6048_3628/master/6048.jpg?width=620&quality=85&auto=format&fit=max&s=9a2195325f6e969e5c4cf59dc90809bb"
+        width: 620
+        height: 372
+        isCached: true
   - title: "It’s time to break the ChatGPT habit"
     excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
     publishedDateTime: 2023-07-25T10:19:00Z

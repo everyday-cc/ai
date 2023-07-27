@@ -25,109 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI is coming for the visual effects industry: What the technology means for the future of animation"
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+  - title: "AI could replace politicians and CEOs if they play by Darwinian rules of evolution: expert"
+    excerpt: "Artificial intelligence could replace politicians and CEOs, according to a tech experts. UK politicians are already sounding the alarm that they could be replaced with AI."
+    publishedDateTime: 2023-07-27T06:03:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Fox News
+      domain: foxnews.com
+    quality: 77
     images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12f32090-d466-4946-8d6a-cfb9c81363bd/7511282e-5719-497f-be58-09896b59eaff/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+  - title: "AI assistance revolutionising online education: Personalised learning and beyond"
+    excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
+    publishedDateTime: 2023-07-24T10:11:00Z
+    webUrl: "https://www.indiatoday.in/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: India Today
+      domain: indiatoday.in
+    quality: 71
     images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/thisisengineering-raeng-bg0geue-cy8-unsplash-sixteen_nine.jpg?VersionId=EVKtVWSwKzXj.m6ShD2bAyHx4ZbZeB.9"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "AI Is Rewriting the Rules of $200 Billion Games Industry"
-    excerpt: "“AI is the game changer I've been waiting for,” 48-year-old Hanazawa said. By freeing developers from the burden of mass-producing graphics, it promises to revitalize the entire industry. “Publishers will be able to take more risks, creators can become creative again, and users as a result can choose from a much wider variety of games.”"
-    publishedDateTime: 2023-07-26T15:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
+  - title: "The AI revolution: Which tech companies will profit from it?"
+    excerpt: "Since the announcement of ChatGPT late last year, artificial intelligence (AI) has become the buzzword on everyone’s lips. In this Q&A article, members of global investment manager Schroder’s public and private equities team – including global sector specialists Jonathan McMullan,"
+    publishedDateTime: 2023-07-25T09:21:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/the-ai-revolution-which-tech-companies-will-profit-from-it/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/26/1600x900/ARGENTINA-DISAPPEARED-HUMAN-RIGHTS-AI-PORTRAITS-4_1690345459702_1690345485959.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
-    excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
-    publishedDateTime: 2023-07-25T09:22:00Z
-    webUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry"
-    ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "Several Brains Behind the Future of Automation, AI, and Robotics Explore Manufacturing That Will Transform the Industry"
-    excerpt: "Jared Glover, CEO of CapSen Robotics, and Michal Diga, P3 Product Director at Stratasys, discuss the future of automation, AI, and robotics."
-    publishedDateTime: 2023-07-26T22:12:00Z
-    webUrl: "https://marketscale.com/industries/engineering-and-construction/several-brains-behind-the-future-of-automation-ai-and-robotics-explore-manufacturing-that-will-transform-the-industry/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 45
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/07/CR_Video-Thumbnail-Image-1.png"
-        width: 1866
-        height: 1038
-        isCached: true
-  - title: "The Evolution of Parking Technology: How Artificial Intelligence is Shaping the Future of Parking?"
-    excerpt: "The evolution of parking technology, fuelled by artificial intelligence (AI), offers promising answers to the urgent issue of insufficient parking places."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html"
-    ampWebUrl: "https://zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html/amp"
-    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html/amp"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 43
-    images:
-      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/07/24/1247860-parking.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Artificial Intelligence in the Life Sciences Industry: Barriers and Motivators to the Adoption of AI into Workflows"
-    excerpt: "Barriers and motivators to the adoption of AI into workflows. Who scientists think are leading in life science AI among key organizations and brands developing AI or actively employing AI in their workflows. The analyst designed an online quantitative survey to address the objectives."
-    publishedDateTime: 2023-07-24T11:04:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/24/9852585.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "U9B64AUDURKjR5kvAUEfApZrShTX3M+ku13a+2siZRvZSEn5JFcSvsIiRaPEnkcUy1uxePh7ZcWeJnLsi9s02+pctPH7jRuzjmHvxD1mLlkJIf12QjVrnWlDRykZaMK5Q8L/vqsfmT8IufG/ACAtgUzGdkPy5iWuAgKFveoUAZFGYYxiRThMaVJlyFAICsh+HKW6pAn4yFPc9U67rbK2LHyQOXb4n7TzXOccsdDvgwUlDjgAsh6RgyS+2fvijijWw/WXEaP3X35cEIayJtkBm42xk6f07BkiXqSFS43ouNuCPTDz2AIBKij/KXbrHfl6cyv9DbS1aWwjOb3NO21c8ZCLnfkrVQKCAKqsvORYiao=;klL5Yhy2uZN+fcyxPu0Frw=="
 ---

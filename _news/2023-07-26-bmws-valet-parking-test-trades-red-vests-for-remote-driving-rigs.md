@@ -46,14 +46,21 @@ related:
         height: 438
         isCached: true
   - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-    excerpt: "WASHINGTON (AP) — Advocates for the self-driving vehicle industry on Wednesday warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage and urged Congress to expand their ability to test and eventually sell autonomous cars and trucks."
-    publishedDateTime: 2023-07-26T22:54:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/congress-urged-to-revive-long-stalled-debate-18262792.php"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
+    publishedDateTime: 2023-07-26T21:34:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
+      name: ABC
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "z4alORA1tv+wo9pD2u38PafNyLg/ojWmTzCTqn+oc+5iX+p6tTjv8dXT0+segIjc9FtF8JaA45cCHUVVXoH6wx29/I0aUPe1c8j7qoEHl579sdDZzL6yKq9wfkF1hjkL2gzu46pg/47pBJejyHdccOB4r74sdHguGHapk7l8YWfD4g00F/go7YTUaECjxzGI9PUtSPx5s0KksERCytM5UcKeZnEmncvt3Qeyc+lmEE/OOWx+i6I1mufdUDb/lw0SvR8l94GQA43vvETbZZXuWsh+qHV/RFXsArMeV6H14DRjXItcVilRneVZWnrl9fqLUz9wgj19tnTnN5kTdDZhZR+UQPkIkYSrN6+9nqzA0H4=;mZcyqfaIyiKQq6WdRAw7Zw=="
 ---

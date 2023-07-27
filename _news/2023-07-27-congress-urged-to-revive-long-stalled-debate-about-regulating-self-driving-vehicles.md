@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-excerpt: "WASHINGTON (AP) — Advocates for the self-driving vehicle industry on Wednesday warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage and urged Congress to expand their ability to test and eventually sell autonomous cars and trucks."
-publishedDateTime: 2023-07-26T22:54:00Z
-originalUrl: "https://www.houstonchronicle.com/business/article/congress-urged-to-revive-long-stalled-debate-18262792.php"
-webUrl: "https://www.houstonchronicle.com/business/article/congress-urged-to-revive-long-stalled-debate-18262792.php"
+excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
+publishedDateTime: 2023-07-26T21:34:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
 type: article
-quality: 0
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "BMW’s valet parking test trades red vests for remote driving rigs"
@@ -50,6 +58,6 @@ related:
         height: 438
         isCached: true
 
-secured: "NKyczvDyJaIdf7EEn/fYo3XUNzPxLh2AZesQw6cZ7tqY8nil1iLgWQUAZvHKYiL5fKEduYNM7wgh/SEYIVe/emcOgPyXWdPi5yo3hRZ/QaHqWdhgRMqiJO5uqpz+muWcWOafefSSUOoRPMkfGqR66lfBi7QNSwpyJFRsJB0Dr2lZYMMD5iYrHSeXoZf1ks2lrf8CZPZF6qkkXol4Dz1DA4sPQwFLuNLTNNWOt1pR9aM+EY9dY10M/ezf59QwMcszkuH6iVlYm7wcsnLhVao5SlEfjJimeUbkHwm54jbEDXFYd7grS4AypFBAMzFMgxkB7nSOzzJ7JKX2iogt4ZORhHUXSuAic3nmRS/DbGtBaT3GojoJriJlv6qEXmZHp+Hyk6c4bhk+IwJKpKJMHTSMOTAx55KIZgrEjeLE4azsGREKzM/aRTa0rgWCGmKy9Mnd0HSgdRAbMW3LLmvCVuGvYB9Xq3FDeAtaKt+WNgGV14BBEJLMmG96yAyxTnt8yVUHt8Atosl+tJTnRaBwJdGFgA==;LZ77xe3kKS8ZnRXREncgmA=="
+secured: "jME91SuMPs59ddjb9/Hq1mHDjD+ebcRhLbiJL79oUVQyWwDkDpWKksp/GEMUGYIj3l+gny0dhnMw+c1XrE06zicQwY1rSQZGhTd5S0eQy2DFYii84nQm4nBhUzp4OzERR59NTuKayFkmNjba8pHvXonr8xWLZPnAO0ffkTTzxBayGNKd8N06strDFviAsz1TM3LUcTznctfzWbi9+xiZIxecoPmg0vRtSEJ/vfG/+QWU8w/q0vANGOJwYo/54R219jsfz2fTfh0U9AiTDnw4IYp+1iv1NsUKzR6WTXZEYyh2ddS+HAX2Ut6eK/wZr/j1W1B1+Ikke6BtCl5F+Y33dJWznJlQNjhyHjyW4xeYeFY=;xr1FrrrRP6BOSo3UQs+Mig=="
 ---
 

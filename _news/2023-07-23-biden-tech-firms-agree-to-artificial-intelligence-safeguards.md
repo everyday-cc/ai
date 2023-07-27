@@ -23,17 +23,6 @@ images:
     height: 678
     isCached: true
 
-related:
-  - title: "Tech firms agree to AI safeguards"
-    excerpt: "WASHINGTON - President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet"
-    publishedDateTime: 2023-07-22T13:24:00Z
-    webUrl: "https://www.tnonline.com/20230722/tech-firms-agree-to-ai-safeguards/"
-    type: article
-    provider:
-      name: Times News
-      domain: tnonline.com
-    quality: 17
-
 secured: "29N4/CsPVYeeijQPcrV4B0LaBK9ldab80EKLnVE8sfrKzhe8JQvgdwGfQXHr0YiBsaFPzlQ5GD3Xh07QbBu/lU4IyPmifa4arhZCdwoeyL8RnPA/YyHRy2U8ZvyHk6u2zAsrzWadLJYNSdnw0pqeMpYBLlWq0QfxPlaOCT7OJysekPjq0Vo+6S8IJ7XqbABVlFMgbZjBwVmVBqIW2cnXsVKCHCKIR78uwsxnj6Gz6Z4M64Np5YHCoQsPm17ZVbUzVM/vIU5tlsHrNvqdZnfwJTlqRnsNrK/SU+FQoRXxIY9JLV3QOUZvPMhp8DSI7OiVNWzIhIXJfWxgs8YWmIr18lRgEZg4QgkBGP6soYgcpow=;UzOGJNMWCieNaoDvm3SYdg=="
 ---
 

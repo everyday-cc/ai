@@ -2,6 +2,264 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-26-ai-is-kicking-off-a-new-kind-of-tech-hiring-boom-but-only-in-certain-cities.md",
+      "title": "AI is kicking off a new kind of tech hiring boom — but only in certain cities",
+      "excerpt": "Nearly half of the US generative AI job postings in May came from one of six metros, per a Brookings Institution report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jobs-ai-chatgpt-us-hiring-tech-remote-location-2023-7",
+      "originalUrl": "https://www.businessinsider.com/jobs-ai-chatgpt-us-hiring-tech-remote-location-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c1302d671ed60019158670?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jobs-ai-chatgpt-us-hiring-tech-remote-location-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-ai-chatgpt-us-hiring-tech-remote-location-2023-7?amp",
+      "publishedDateTime": "2023-07-26T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-adobe-product-leader-says-ai-wont-kill-graphic-design-even-as-employees-worry.md",
+      "title": "Adobe product leader says AI won’t kill graphic design, even as employees worry",
+      "excerpt": "According to Adobe CPO Scott Belsky, while some industries \"may not need to exist in the age of AI,\" graphic designers will still flourish.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/adobe-product-leader-says-ai-wont-kill-graphic-design-even-as-employees-worry/",
+      "originalUrl": "https://venturebeat.com/ai/adobe-product-leader-says-ai-wont-kill-graphic-design-even-as-employees-worry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/b96e4c2a-2b8d-49cd-9a95-253892117cbb-adobe.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs.md",
+      "title": "BMW’s valet parking test trades red vests for remote driving rigs",
+      "excerpt": "Part of the autonomous driving dream is the ability to jump out of your vehicle in front of the store, mall, concert hall, or museum and let the car find its own parking while you enjoy life. No more creeping along in garages thinking you found the perfect spot, only to have your delight dashed by the motorcycle you couldn't quite see.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/",
+      "originalUrl": "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Automated-Valet-Parking-002-800x532.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/",
+      "publishedDateTime": "2023-07-26T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-shopify-adds-new-ai-tools-for-commerce-heres-how-you-can-use-them-for-your-business.md",
+      "title": "Shopify adds new AI tools for commerce. Here's how you can use them for your business.",
+      "excerpt": "Shopify, the e-commerce company, quickly adopted AI and unveiled features like Shopify Magic, which uses AI to generate product descriptions. Now, Shopify is building on Shopify Magic and adding several new AI features to the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/shopify-adds-new-ai-tools-for-commerce-heres-how-you-can-use-them/",
+      "originalUrl": "https://www.zdnet.com/article/shopify-adds-new-ai-tools-for-commerce-heres-how-you-can-use-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7a7a15dcc7e696f4414fde873c3ebeea6dffffff/2023/07/25/4938f02b-0f6c-4b71-b38f-318f8d443330/gettyimages-1247138001.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/shopify-adds-new-ai-tools-for-commerce-heres-how-you-can-use-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/shopify-adds-new-ai-tools-for-commerce-heres-how-you-can-use-them/",
+      "publishedDateTime": "2023-07-26T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-graft-is-building-an-ai-development-platform-for-the-masses.md",
+      "title": "Graft is building an AI development platform for the masses",
+      "excerpt": "Graft is attempting to take the complexity out of building AI applications with a templatized approach to development.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/",
+      "originalUrl": "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1481095076.jpg?resize=1200,694",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/amp/",
+      "publishedDateTime": "2023-07-26T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-ai-boosts-microsoft-to-its-best-quarter-ever-even-as-xbox-hardware-sales-tumble.md",
       "title": "AI Boosts Microsoft To Its Best Quarter Ever Even As Xbox Hardware Sales Tumble",
       "excerpt": "The industry is in the early stages of an artificial intelligence (AI) gold rush, and partially for that reason, Microsoft just reported its strongest quarter ever in its 48-year history.",
@@ -199,7 +457,7 @@
       "originalUrl": "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -784,7 +1042,7 @@
       "originalUrl": "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -970,262 +1228,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-web3-and-ai-startup-zyber-365-turns-indias-109th-unicorn.md",
-      "title": "Web3 And AI Startup ZYBER 365 Turns India's 109th Unicorn",
-      "excerpt": "Opinions expressed by Entrepreneur contributors are their own. Web3, AI startup ZYBER 365 raised $100 million in Series A funding at a $1.2 billion valuation from UK-based SRAM & MRAM Group. The funding worth $1.2 billion valuation has earned Web3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/web3-and-ai-startup-zyber-365-turns-indias-109th-unicorn/456418",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/web3-and-ai-startup-zyber-365-turns-indias-109th-unicorn/456418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1690351209-Untitleddesign-2023-07-26T112702809.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ai-could-deliver-bioweapons-capabilities-to-bad-actors-safety-chief-warns-grave-threat.md",
-      "title": "AI could deliver bioweapons capabilities to bad actors, safety chief warns: ‘Grave threat’",
-      "excerpt": "The CEO of an artificial intelligence safety and research company warned the Senate that AI could spread the capacity to build bioweapons if left unchecked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat",
-      "originalUrl": "https://www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat.amp",
-      "publishedDateTime": "2023-07-25T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-alibabas-cloud-unit-brings-metas-ai-model-llama-to-its-clients.md",
-      "title": "Alibaba's cloud unit brings Meta's AI model Llama to its clients",
-      "excerpt": "Alibaba's cloud computing division said it has become the first Chinese enterprise to support Meta's open-source artificial intelligence (AI) model Llama, allowing its Chinese business users to develop programs off the model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/alibabas-cloud-unit-brings-metas-ai-model-llama-its-clients-2023-07-26/",
-      "originalUrl": "https://www.reuters.com/technology/alibabas-cloud-unit-brings-metas-ai-model-llama-its-clients-2023-07-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Cx4blK3pIteOYzCHFxZa2H1mtfw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MMPZ3S2MB5MIDIVMCM3H2ZMHAQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities.md",
-      "title": "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities",
-      "excerpt": "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
-      "publishedDateTime": "2023-07-25T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-pentagon-funded-study-uses-ai-to-detect-violations-of-social-norms-in-text.md",
-      "title": "Pentagon-Funded Study Uses AI to Detect 'Violations of Social Norms' in Text",
-      "excerpt": "Have you texted someone lately to express guilt over...something? The government probably wants to know about it.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa-study-1850673979",
-      "originalUrl": "https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa-study-1850673979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/05680c14423d43096e9572b2872537c2.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

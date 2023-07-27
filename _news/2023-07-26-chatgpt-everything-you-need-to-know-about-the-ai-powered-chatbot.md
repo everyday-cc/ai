@@ -87,6 +87,22 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
+  - title: "AMA calls for stronger AI regulations after doctors use ChatGPT to write medical notes"
+    excerpt: "Artificial intelligence protections should include ensuring that clinicians make final decisions, Australian Medical Association says"
+    publishedDateTime: 2023-07-27T05:55:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/2ce43a07b1fb47b304a7bf8ff0fbda407563c2e7/0_218_6048_3628/master/6048.jpg?width=620&quality=85&auto=format&fit=max&s=9a2195325f6e969e5c4cf59dc90809bb"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI Chatbots Are The New Job Interviewers"
     excerpt: "Chatbots are increasingly being used by companies to interview and screen job applicants, often for blue collar jobs. But like other algorithmic hiring tools before them, experts and job applicants worry these tools could be biased."
     publishedDateTime: 2023-07-26T18:11:00Z

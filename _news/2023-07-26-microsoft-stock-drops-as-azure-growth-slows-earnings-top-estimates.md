@@ -66,6 +66,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
+  - title: "Microsoft Earnings Top Street Forecasts On Solid Azure Cloud Growth"
+    excerpt: "We remain focused on leading the new AI platform shift, helping customers use the Microsoft Cloud to get the most value out of their digital spend, and driving operating leverage,\" said CEO CEO Satya Nadella."
+    publishedDateTime: 2023-07-25T20:10:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-earnings-top-street-forecasts-on-solid-azure-cloud-growth"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
 secured: "uxbc5hZqCRboUFWzFQ1Z425XyGkmWAgMX5pg91J7MIjqg5x6YUo2SKG0EA7ujnrKrEQqdnc1bqv6s//Y+hbcb2B/b07SHnwKwmfwqf+XniqIYWQC60Vn2cIL7k8TSGjFafiAvDuI+em6fZXylpEuYGcUolvEsvjtwDBfhqLG60H5JK6C81kTN7WNkZ0X2YKWS8kjQ45e4rWwMOyFCIFx4bXsNMUoyFD9rbf7HYI7bA0cl7abqyqq3blq01WqVfYdy24BOEfFgKXYq4xymQzkIHD9Rd4MTi/K0xYq+eN/P4veRnfoalTcWxHl330sKOLhPLy4DCzuRm07E/IKzQmjZzBfqLzkODlheEPPba/qpiA=;N6pv9E23519crYhgq+be2w=="
 ---

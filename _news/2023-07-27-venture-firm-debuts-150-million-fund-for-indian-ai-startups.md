@@ -91,18 +91,18 @@ related:
         height: 450
         isCached: true
   - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
-    excerpt: "The MoU aims to establish a framework for collaboration and cooperation between India AI and Meta in the field of artificial intelligence"
-    publishedDateTime: 2023-07-27T02:10:00Z
-    webUrl: "https://telanganatoday.com/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech"
+    excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
+    publishedDateTime: 2023-07-27T05:25:00Z
+    webUrl: "https://yourstory.com/2023/07/india-ai-meta-india-ink-pact-advancements-ai"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
+      name: Your Story
+      domain: yourstory.com
     quality: 39
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/07/watermarklogo.png"
-        width: 1280
-        height: 720
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
     excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."

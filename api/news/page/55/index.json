@@ -2,6 +2,187 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-06-21-global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023.md",
+      "title": "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023",
+      "excerpt": "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "originalUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg",
+          "width": 1210,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience.md",
+      "title": "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience",
+      "excerpt": "IBM AI Draw Analysis creates a new statistic for tennis, offering deeper insight into a player's potential path to the final LONDON and ARMONK, N.Y., June 21, 2023 /PRNewswire/ -- IBM",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-wimbledon-digital-experience",
+      "originalUrl": "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-wimbledon-digital-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2023/IBM_Wimbledon_App_0.jpg?itok=Qp3eSKI4",
+          "width": 599,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions.md",
+      "title": "SoftBank’s Masayoshi Son Says He’s Focusing on AI Inventions",
+      "excerpt": "The CEO says he wants to invest more aggressively as tech stocks revive. “I want SoftBank to lead the AI revolution.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
+      "originalUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-803798/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-facial-recognition-cameras-to-boost-security.md",
+      "title": "Facial recognition cameras to boost security",
+      "excerpt": "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
+      "originalUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg",
+          "width": 750,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fiji Times",
+        "domain": "fijitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
       "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
       "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
@@ -943,177 +1124,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-2-best-chip-stocks-to-play-the-ai-boom-says-analyst.md",
-      "title": "2 Best Chip Stocks to Play the AI Boom, Says Analyst",
-      "excerpt": "Bernstein analyst Stacy Rasgon says Nvidia and Broadcom are the ideal chip stocks to benefit from the rising demand for artificial-intelligence semiconductors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-803090/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
-      "publishedDateTime": "2023-06-20T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-young-man-eyes-bright-future-in-robotics.md",
-      "title": "Young man eyes bright future in robotics",
-      "excerpt": "I really like robotics and engineering and hope to get a PHD in that at GCU,” he said. Artificial intelligence is something Liam said he wants to get into while working with mechanical robots. Liam is confident,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/",
-      "originalUrl": "https://www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/GrXuLJmmZaVS5nCRovxzVQPkVNw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OHKLR2VM4JHAVIIGVRWDOIYANE.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/?outputType=amp",
-      "publishedDateTime": "2023-06-20T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-re-invent-your-warranty-process-with-a-digital-twin.md",
-      "title": "Re-invent your warranty process with a digital twin",
-      "excerpt": "Warranty management is a continuous process. Learn how it will be reinvented with the wide availability of digital twins.\nThe post Re-invent your warranty process with a digital twin appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/re-invent-your-warranty-process-with-a-digital-twin/",
-      "originalUrl": "https://www.ibm.com/blog/re-invent-your-warranty-process-with-a-digital-twin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/09052022_SpencerLowell_Working_World_Le_Monde_Tesla_03.l_2x1-e1687276509879.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-in-san-francisco-biden-talks-with-tech-leaders-about-risks-and-promises-of-artificial-intelligence.md",
-      "title": "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence",
-      "excerpt": "SAN FRANCISCO – President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the “risks and enormous promises” of artificial intelligence. The Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
-      "originalUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
