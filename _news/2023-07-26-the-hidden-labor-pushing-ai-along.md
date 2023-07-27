@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-
 webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://pctechmag.com/wp-content/uploads/2023/07/Music-AI.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
+    excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
+    publishedDateTime: 2023-07-27T03:36:00Z
+    webUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us:-assessing-the-benefits-and-risks-of-artificial-intelligence"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 37
+    images:
+      - url: "https://cdn.field59.com/KOTV/736ae6b2bd3e44289b2e9aba8963aec637072c16.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "k4eC5+ySGxsLk0Uf81vtBkiQzZuIL84pp424+OvY0nW1b6c2PrPxNFzRvafK4h53wOULyN5/CTYUpfGNeZlQsOFNFwKAB2wlwUjny9TxVPePfdoZYypGI8K/Wgkw15ADI3DFCNRx2SoqaRjuG1JgwUr3/9jtIIQaq8llOcGsKxvzPKA8Y5w9S4B/ZT7C9D3LqCMNyIzkE9SNGeIFsN3T6Y/qyAlRcv6/CN4RyhOKTsPe+n86nJr05hZt8iKXhS1fhyjdCNVvAl+oDPejwewEvNDGDJoWhfEdvlDIuuQI3LnBRMuupsjDvsvsB4QwPXUb/Ei+exi+B/dYxMsvpxrQ7dqrHZ2tWe2MouDnUQ+gyTnwEibf0yWrkAcO0iQMr3zLK5rVURBZXLoJvj3WRc9GnyszzMFlzy4U1lp1t8QI7jox8Rr+D3AyG++CrAk2GqvcyxR4ChL4K0AxnbUOHCpECfSu084VFJhpQCvdHF7vZrQHB6nGTaW4qwC5j0JHJoi8R3sGNMVr3Yh2GGdrcW3nCw==;2qpgWtDGTo/De1jQQmPslA=="

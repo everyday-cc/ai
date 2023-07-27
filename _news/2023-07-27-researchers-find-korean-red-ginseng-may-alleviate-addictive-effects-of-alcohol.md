@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Korean Red Ginseng can alleviate addictive effects of alcohol, find Sahmyook University researchers"
+    excerpt: "Alcohol use disorder (AUD) is a medical condition where an individual loses the ability to control alcohol cravings, despite the negative consequences associated with its excessive consumption. Recently,"
+    publishedDateTime: 2023-07-26T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996767"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 10
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f4368ed3-0298-49ea-9eb6-a5f0994b4880/Rendition/low-res/Content/Public"
+        width: 700
+        height: 413
+        isCached: true
   - title: "Korean Red Ginseng may alleviate alcohol addiction, study reveals"
     excerpt: "The experts have established that Korean Red Ginseng (KRG), a traditional herbal medicine, can help alleviate the addictive effects of alcohol."
     publishedDateTime: 2023-07-26T18:26:00Z

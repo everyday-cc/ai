@@ -47,15 +47,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
-    excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
-    publishedDateTime: 2023-07-22T12:17:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/leading-artificial-intelligence-companies-make-voluntary-commitments-to-manage-the-risks-posed-by-ai/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 17
 
 secured: "JwxgZRCHb5zJWe7BqXR11fYFpgR5NPU0KqWx9ooH1qEMZaFFaahBVbEFXmPfMP66r9DFq3Yr+riJCI4AsRMQ2zQXnKl8wDLNEusPmLcOS32Xrj3mtgQUB45ijwse1G6AHNY9/eqw7/2lbipmRuDHsMbnlXd6hIcQZ5XHWMSXNka5yWLEq1DCpu10k17DyemzXYVQYlMzJSklt6RyphzFizt8+bSI8FJWV49XbEEJzz/l47IUCsBz0yllr2/6tzKwJ6+XH4FkCrRJswXIYITsfei2xCz9BMNxwL14fCuTHu638CdbAh4pfpEPd8yhFW9KIjinrDWAAolIgWPDobUSWMQ3IcSTPiZGM3zWqfxjXbI=;cC5GYpYZajS5gu7aKhX7lA=="
 ---

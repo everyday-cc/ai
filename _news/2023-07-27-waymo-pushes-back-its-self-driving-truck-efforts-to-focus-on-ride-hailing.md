@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-pushes-back-its-self-driving-truc
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-pushes-back-its-self-driving-truck-efforts-to-focus-on-ride-hailing-211355559.html"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/iGHzmTGcFmyLWMXETTMbBmGabng=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22787621/vpavic_191202_3827_0042.jpeg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Waymo changes course from its self-driving truck ambitions to focus on ride-hailing"
+    excerpt: "Alphabet Inc.’s Waymo LLC announced today that it’s putting the brakes on autonomous truck operations and will now focus its efforts on the self-driving ride-hailing part of the business."
+    publishedDateTime: 2023-07-27T03:05:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/waymo-changes-course-self-driving-truck-ambitions-focus-ride-hailing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Screenshot-2023-07-27-095021.png"
+        width: 1095
+        height: 610
         isCached: true
 
 secured: "IKrpwdmZV30SKZgema0WwJ7TKst0C14FOvW72OAoQAXxv0UYL97VkcmPGSSc5hiPj9LUQYgR1daObpDBikj5+PT/QWUiCBJNUsW9Zy2kRyj+OWsCgYqGbbKuoUBAJYk8ZI/4g1K+S/c8zSghmGDYoXg7b0AwCm4dtA2EZQHKR7FBgOAgYuc+oPvfg+gAO9b7j0VkmpY8ZPmvPmUhImMD9tBHHupPnQlat8sTN7QPLxcpo/OiCfR7JwGavqThlpRDbWE5aBDYIBy+I9au1XQAEWJuaXEsnlaTRI1XMm3volH0PVXpgzdz8Z0KAtBoqXk2ntyHV+mIdY1nD2oDDApitKqc9OyoKPr0rTf9NRHDQrc0+mTlOKVS51tdxquSbeMWRJjA8LvgpdkgKVGdspboCAO2M2c/XLpP052ue8ItBTgFZEpg+SpftA/dkVEJXXcAN7b6aD5XR3uNsymaM0eWYUDDC7V3EJBTb2oAuqYL9RSJrJhRKlb0AY2XDLbf+9NbsbmCYneSjQSPpG80/4N6Ow==;iKmaN2ltA7pGqO7mF0ujaQ=="

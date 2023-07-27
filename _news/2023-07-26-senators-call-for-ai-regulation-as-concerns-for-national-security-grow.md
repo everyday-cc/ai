@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Could artificial intelligence keep students safe in school?"
+    excerpt: "More school districts are relying on AI for help securing their facilities. One company claims its sensors can identify weapons on people who pass by."
+    publishedDateTime: 2023-07-27T00:01:00Z
+    webUrl: "https://www.wfaa.com/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 57
+    images:
+      - url: "https://media.wfaa.com/assets/WFAA/images/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "1Ft027Mw1phWTKXutptxGdZC71jtc1SKauxah+nvWLQBva4jGeyHCaoVObsDKaaTdfVoLcXcYefpDUk7XGd5ntNJYkCX8NR59T9TIkm4tHppAPYJqzjwX7HQvQwA2KF0fKmTaNdv0xkK4WaC3A03Ti0VJNeXWYDyTjVxPPIbyLidEQn7I0b60GMFKO+dGdq5g6TnG1+tv1mX3Mh7eKiOby/Ku0qoZvt4fjEzJ3XnxcALqAoMUY+GjQDduR43OSJBhP29/ziAUSpbRY9RhAbYmz7MyJWBosIiCeI5L0ys/Tp+5WGdTHAkKbnnuQDNp86WiY3dW8T/MkNtRJAa3GMoYyFsJxwxYMci51Kb4ykgNfY=;9ueZMPodb+nghju+AtUo5g=="
 ---

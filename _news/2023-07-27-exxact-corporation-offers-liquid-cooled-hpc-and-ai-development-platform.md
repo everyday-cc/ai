@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 694
         isCached: true
-  - title: "How is Artificial Intelligence Impacting the Forex Markets"
-    excerpt: "Artificial Intelligence has had a significant impact on the forex markets in 2023. With artificial intelligence available to nearly every trader, the information floating around the markets is now readily available."
-    publishedDateTime: 2023-07-24T13:58:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/forex-robot_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Firms More Eager To Use AI For Business Development, Not So Much Legal Services"
     excerpt: "Many law firms have been faster to embrace artificial intelligence for marketing and business development than for the practice of law, wary of AI's implications for client confidentiality, lawyer ethics and legal service pricing."
     publishedDateTime: 2023-07-25T14:11:00Z

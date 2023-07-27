@@ -3,13 +3,13 @@ category: news
 title: "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter"
 excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ..."
 publishedDateTime: 2023-07-13T15:23:00Z
-originalUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
-webUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+originalUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+webUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
 type: article
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "OAsAMvj45+HZeg6r2KT6XphepZPEWU4Covdjx06UT+fHZuAC5bMncUMH7yRBO6SYg7cpXccgfv6pLzPeXdJqS5WczYVrk1aGMas4fMT+k4vbL4KS6tzDr/0o8WBnPGMaOA5D6mlztuFpPa1r8Zg4L88go6IjvqG2EcozPBtOvw1Ie+Mus5lcGqlctrvjnES/geUevfQcYL0f/zS54jrpR73BJdsHCPWgg0jnMJgEWJZ6r2XrgjJR5olIicneE7Hk4wcWxEmPQQ3gyqeytVnT/kE9MHcysfWIJ/ooqJ7muHs8HMdva02GgubPD/pNVN9lsjJbZ3xM6kWMA7As6waTJLaE5CNFLlTn8I+TPZ5a/as=;VG69ChY9T8k3vQT0bFS6Dw=="
+secured: "4cAQXEm3Z8nBwL98/ipho9+GZZZ/KO2DOyV2HvL6sEGikESSPmtHh6IQn/owum5SIkWPLMdJe5lgjT5kkRLfOhiKwS2FeVLOpHY1aHgMsTWrwSF++XnUCP5zncIML7p9+aln+ocxVkjXdMYq+XzZEd98cm0UI5rnzc70i1gok8tBpDipa5iRwf9kC4RnYy21WWAO0K/w180BcwVhw0j4cfuy+IlBfzd4ecgANVF/NdnZ+cz5Le3OBtRPX/OtAiYhK2ZqYojqnofBilWuzBNhoIhUeY9qV8qXtabfN9s6yxffuQBtpKE+PN8TbF0xkzcv79MjY2u3DcN6QLim+NSnHkLGLfLvxqOYCZ9Kniwso8M=;sbqZPK0oxda0b3ppBIZcUw=="
 ---
 

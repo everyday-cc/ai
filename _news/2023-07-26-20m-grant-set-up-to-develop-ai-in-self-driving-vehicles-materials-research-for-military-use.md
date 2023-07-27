@@ -67,15 +67,6 @@ related:
         width: 720
         height: 449
         isCached: true
-  - title: "The 3 Best Self-Driving Car Stocks to Buy In July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The dream of self-driving cars has been around for generations. Soon, it may"
-    publishedDateTime: 2023-07-22T11:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-self-driving-car-stocks-to-buy-in-july-1032467094"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "How The Self-Driving Car Dream Became An Absolute Nightmare"
     excerpt: "The reason our self-driving utopia hasn’t arrived, it argues, is because it was never really supposed to. Instead, the promise of self-driving cars were just a lure to keep cities from building ..."
     publishedDateTime: 2023-07-25T10:43:00Z

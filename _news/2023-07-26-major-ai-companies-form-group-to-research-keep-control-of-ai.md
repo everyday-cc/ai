@@ -50,15 +50,6 @@ related:
         width: 1200
         height: 564
         isCached: true
-  - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
-    excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
-    publishedDateTime: 2023-07-22T12:17:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/leading-artificial-intelligence-companies-make-voluntary-commitments-to-manage-the-risks-posed-by-ai/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 17
 
 secured: "uVbQq1mhj2kw0hZISEpD9wYHSOV0RmE7ygfT1DR2ctgNWBUBMZORgWctKx2ZEOvhzT3cVLvIKIU9g6/hWfrctgxusHzj320W8ItoqJhPXF1h0OCS/+RU5Lh9Zpjy7BRypAqiMQrfWyv6SiEfrDgkJTZylgld7s9tB28k5eKaWYIoKYxyX2nlbKSeP/vJ5pTe6hvG4si2rtTJjROYho5KXMfyPwCoSZ3t0W2PoGfwXjDQm4yuF+IiWQqmkgFD9WocYQCzEu5CrSg1y7fO72UD/olzz+xnrrboChgBQezYL2FCw9SJpsbHh9DcjFco/bkYOD6m8GShT4KHPyI5TdmxPisgE9sMh/JqYyE2TTW6xNE4aHDXeOd4kPAXgn+sUYRGJUKwinA6HHu8JhWPyvL6i/VRcMscp8Wi3ZR6Y8Y1uSrwrqjeEyoGUZKlqBuzVd7xmIl9R5WgozmrnLb/J7tw42TB/MqY5yoAofQ/qilgjhsMPi3NlbYcwzSZrC/E7zGEM9iNX26ZOC7hxnQd9g1sMw==;NCp1rHfBbNlWbZVMXll+ZQ=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 980
         height: 671
         isCached: true
-  - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
-    excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
-    publishedDateTime: 2023-07-25T09:22:00Z
-    webUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry"
-    ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
-        width: 740
-        height: 450
-        isCached: true
 
 secured: "q5EN0cnvlnaLBUGq+RKBuXsng93mcDuRNK0D35KGQ9z1IcFlPn1CfNhBGUSMC0OaJn9D3g/cjchIoajymbf8CmdYbD8FbhuOh6OsdtbCmc2ZhVEVODV02/h8tDucIQGM6zmXjp8cVwwV8JYW8Y3ZpB2mMgEIXjfYmNn4HFPTa4REQ2xwVE77m3nt1CyqXUcpISP/E85HbPfcrupPWKrFd6QkaCWJbjmSoU3AHZHaLnWy+b3UBgr3ae4jzkwWcuKLd4ie8SGCSc7cIjo3QXjk+jVjwBdIH15jFhLrPEhk/iPyPX7zOZ05Hj4WUSe2YaZDghlRrjmkQDzOBUqMCfpFSNPvlksxapQWHj2zsrtrkDI=;vN0nLP2w0lEov5tAAI6arQ=="
 ---

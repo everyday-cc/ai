@@ -52,6 +52,20 @@ related:
         width: 640
         height: 395
         isCached: true
+  - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
+    excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
+    publishedDateTime: 2023-07-27T03:36:00Z
+    webUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us:-assessing-the-benefits-and-risks-of-artificial-intelligence"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 37
+    images:
+      - url: "https://cdn.field59.com/KOTV/736ae6b2bd3e44289b2e9aba8963aec637072c16.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "wi1UDvlVmLPnPoqWrYKe7oJAdNyideyC0Fq1UOLAYFE7UefUGxCQEuLh8M0NlePoZhlAmJ4wbmEzBdsd/6vWxGV4at+2lneYrx3fCILkNGFqSzLuay0uT8IZDhCKVh84Gq37RcjZNLifSkF9e6ff3cZTmyPMTBGuG4iUqMTWGjj3EqohiBwyaYPMCwEitvrgWN8vYcCsNB7Vzcz5UxKaUsKzB8LeBsSSkpQylGicVqtPt3ZV38PwKx5LirSJIpKlmZP6mZdhiK3JceWmxyqznODKbrNxOvczle7Y3tEdoPiizY0/hboGQWScB3hdS9oywfzLKoDfqpTj3nP2/pUSWaaBLwWOTsOEIcAVeRnqxNzpoMiLnagUCc0S4EVBPCcMmF75x7Fx/T8fj9g54zc1VkSCvHm7ixpPvOqbGif3p4p6/2fO4I/ioXNO96M8ZyTjAOYbcqHFg9gXwgxilKdo38wGCPYa/qViOK1fKZFhhZIxBA7O/w2ZEwrRtk+6QJI8qyGyURCahH1yOqm6Uh1Y8g==;8gmnOemMljbyK3xHVcYwDA=="
 ---

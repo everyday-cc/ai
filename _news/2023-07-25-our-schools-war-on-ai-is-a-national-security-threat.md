@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/our-schools-war-ai-national-security
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could artificial intelligence keep students safe in school?"
+    excerpt: "More school districts are relying on AI for help securing their facilities. One company claims its sensors can identify weapons on people who pass by."
+    publishedDateTime: 2023-07-27T00:01:00Z
+    webUrl: "https://www.wfaa.com/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 57
+    images:
+      - url: "https://media.wfaa.com/assets/WFAA/images/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Senators call for AI regulation as concerns for national security grow"
     excerpt: "The Senate Committee on the Judiciary’s Subcommittee on Privacy, Technology, and the Law held a hearing Tuesday on the principles for artificial intelligence regulation."
     publishedDateTime: 2023-07-26T16:22:00Z

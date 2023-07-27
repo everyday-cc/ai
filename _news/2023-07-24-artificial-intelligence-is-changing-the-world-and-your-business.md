@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 1440
         height: 864
         isCached: true
+  - title: "AI Changing the Dynamics of Image Processing Technology"
+    excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
+    publishedDateTime: 2023-07-27T05:44:00Z
+    webUrl: "https://www.pcquest.com/ai-changing-the-dynamics-of-image-processing-technology/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
 
 secured: "m15uos30b1z314+3XmgxV6jwTvQnGlHltRD6hIXiZXq0xcCL7QOKEK+fcxtuFXysdHN/naDi1ad/Y3msXX39oNBilufHE2AE5iL9P9TTGpwJLG1LI9CAs9Ar9wVApcILhphuzdWCEYGRqBeI26GEyle+3kTsWIlekoVMBOrpXF/3vr/+HMdeBj0fFhanNKwfVzz/0fhi7B7SMD09vFYCBSmEiqOan1PrwNuMpreCDUWiD842J51z4VC5CoLzp97b5zOCjYC7RwOsIEeteEXKQfWwHUPB/gO90/uVxQUD1rmIA+WVeoVCqmH9Ft3AobmhyeWcqk1Ln4QBeH0ap2GpkEou2DaA+/jrQe/r23IDIYN5nhkXYhWMSXnQTVI/n6rh+X/i9Ii1n/64EBsuiZmIo9Pi096+U2W0VDHE+1wDucFpo8p3HrYqP6itob8qvMISCpDPhupUzICLnlNeSQR0lMyh/lp4wjnJXC7Ldd8OEB2/Kzu93oUNM8bNm4w3Fu/s6DE1SBtu0dNf33NS0F3Zig==;0wfCD2cprApXBLJyKxIGhg=="
 ---

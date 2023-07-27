@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-compani
 webUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 564
         isCached: true
-  - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
-    excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
-    publishedDateTime: 2023-07-22T12:17:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/leading-artificial-intelligence-companies-make-voluntary-commitments-to-manage-the-risks-posed-by-ai/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 17
 
 secured: "CF+3HFf4H/Z2aoMH4oL9VltlHX5jXV3dySgmfw5slqOFvagFx9xrGAKLMrIsfOYCWN3avPdBMJe+xIRZq3SG/6hxaA959qm7SGSrI8fya8DpCJSxSFfKYjRSFWH+Ju6EsmyLi3Kjmo0Uj2ZwAUpY2TYGEc37UToyStYchx8qOVuAxjSR3BclGUnLGoD1ie0man3W+cNUsNDeM47ONDvh08OBECt1QVmHCJKRz9eGtpj4OGiikU+akLi31WWta25FBUXHijxnSb5UDIrdIET2G/w7T3UIlrVsJxjvybuFOkXYEhFlQYIfKk9ee7/YthVxC4eOtMSYETBqV1y14t1U3RHF6GQ5+Lj8UFJ7PMOb83E=;Om/ErRiestb00tQkEKhuVg=="
 ---

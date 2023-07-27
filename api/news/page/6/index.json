@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-24-big-tech-looks-to-turn-the-corner-on-cloud-as-ai-focus-stays-strong.md",
+      "title": "Big Tech looks to turn the corner on cloud as AI focus stays strong",
+      "excerpt": "U.S. tech giants could signal an end to the nearly year-long slowdown in their cloud businesses as signs of economic resilience encourage clients to boost technology spending, while a pickup in digital ads will also aid profits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
+      "originalUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ewLC4o7nLyx4CUrytY_ReHjSlGw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FM7RJCQEZNLQJIDZKUKZSWKYCE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too.md",
       "title": "Does ‘Buy American’ Policy Make Sense? The Answer Is Key for Your AI Portfolio Too",
       "excerpt": "Economists point to the 1990s as evidence that the users of technology reap its benefits, not the makers. Economic growth around the world suggests otherwise.",
@@ -105,49 +157,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-24-financial-industry-urged-to-capitalize-on-ai-to-create-synergy-in-corporate-world.md",
-      "title": "Financial industry urged to capitalize on AI to create synergy in corporate world",
-      "excerpt": "Financial firms can capitalize on artificial intelligence (AI) to partner with shipping, warehouse and other logistics businesses and create a synergy in a corporate world that is being rapidly transformed by AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/biz/2023/07/602_355574.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/07/602_355574.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202307/44203c7ce50c40ab85de2540697b65c2.jpg",
-          "width": 980,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574",
-      "publishedDateTime": "2023-07-23T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-24-ai-heart-scan-aims-to-catch-blockages-years-before-symptoms-unbelievable-breakthrough.md",
       "title": "AI heart scan aims to catch blockages years before symptoms: ‘Unbelievable breakthrough’",
       "excerpt": "Fountain Life offers an AI coronary artery scan that purports to detect heart attack risk 3, 5 or even 10 years before symptoms begin. The CEO explains the company's goals.",
@@ -238,6 +247,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes.md",
+      "title": "How Artificial Intelligence is taking centre stage in Hollywood strikes",
+      "excerpt": "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html",
+      "originalUrl": "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp",
+      "publishedDateTime": "2023-07-23T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -505,50 +556,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-moral-considerations-in-ai-marketing-building-trust-in-tech-industry.md",
-      "title": "Moral considerations in AI marketing: Building trust in tech industry",
-      "excerpt": "Deepfakes – Generative AI, including machine learning techniques like deepfakes, has the capability to produce synthetic media like images, videos, and audio. This AI-generated content can often be indistinguishable from real media, giving rise to significant ethical concerns and implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/",
-      "originalUrl": "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-23T104311.624.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/",
-      "publishedDateTime": "2023-07-23T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
       ]
     },
     {

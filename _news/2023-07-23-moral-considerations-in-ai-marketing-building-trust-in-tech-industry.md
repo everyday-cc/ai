@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/brandwagon-moral-considera
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -28,35 +28,51 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI is coming for the visual effects industry: What the technology means for the future of animation"
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+  - title: "AI in sales and marketing: It’s here"
+    excerpt: "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service."
+    publishedDateTime: 2023-07-27T05:18:00Z
+    webUrl: "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 93
     images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+      - url: "https://www.itweb.co.za/static/pictures/2023/07/Paul-Mulder-Jul-2023.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-07-24T21:24:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-4539814/"
+  - title: "How is Artificial Intelligence Impacting the Forex Markets"
+    excerpt: "Artificial Intelligence has had a significant impact on the forex markets in 2023. With artificial intelligence available to nearly every trader, the information floating around the markets is now readily available."
+    publishedDateTime: 2023-07-24T13:58:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 30
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/forex-robot_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI hype is 'driven by marketing' right now, says former FDIC Chief Innovation Officer"
+    excerpt: "AI has crossed over from being a tech buzzword into a household name, but consumers and investors should be circumspect when thinking about the AI hype, said Duke University professor Sultan Meghji, who previously served as the FDIC's Chief Innovation Officer."
+    publishedDateTime: 2023-07-24T17:20:00Z
+    webUrl: "https://www.aol.com/finance/ai-hype-driven-marketing-now-142046188.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 47
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/NBIrxocPIoXgvbjduTb2Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/3d3d768f55edc771dde4b3c757e92c12"
         width: 1200
-        height: 900
+        height: 800
         isCached: true
 
 secured: "5I0pvveHO/xreDcdTKus7Nu3EFRA3mCvfpaQZ5ygn2PW32LbynHU0qBGNnbGolAn8wTqUJ9B8YajJ6G5HrCzsxV+ipzQ4VCbSHxH8vgmiZUcwov0kRl0GqQcMl367w++BIkmmw7YldZSszBB1Q4KEM3xSoUUgKHvrrBA233h6C/8S6+vnPUpf70GqrsmrAhdWDtVOdJ6ePbHIb3vEabdAvhAg6jYY2nOwNFdPinvTzkqPS0S31xvvJnqy3Egmky9asZXAa+ZrBiw5j4Y+BZioghjvTz1a+9iz3anwlS9s/ALg7F7oDUsFS7ApMdY4V+lsHL0QRObdxQIZyuyjH32fK7Xastk4nvq4DcbzW0jeM4=;gkVs0KwxckDTfKiJoYq/Ow=="

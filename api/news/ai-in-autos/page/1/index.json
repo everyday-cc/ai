@@ -10,7 +10,7 @@
       "originalUrl": "https://www.engadget.com/waymo-pushes-back-its-self-driving-truck-efforts-to-focus-on-ride-hailing-211355559.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -202,21 +202,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-24-researchers-move-to-merge-artificial-intelligence-with-human-brain-cells.md",
-      "title": "Researchers move to merge artificial intelligence with human brain cells",
-      "excerpt": "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence.",
+      "path": "_news/2023-07-25-artificial-intelligence-helps-to-make-roads-safer-help-law-enforcement.md",
+      "title": "Artificial intelligence helps to make roads safer, help law enforcement",
+      "excerpt": "In Georgia and South Carolina, artificial intelligence is working to make the roads safer while also helping local law enforcement agencies.",
       "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "webUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
+      "originalUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png",
-          "width": 1500,
-          "height": 944,
+          "url": "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/dQj683k7w5RvC_jT5tGSgZ4mkXY=/800x450/filters:focal(265x138:275x128):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K645NRRT4VHL5KCAIIY54RAV5U.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -224,13 +224,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T04:03:00-07:00",
+      "ampWebUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wrdw-com.cdn.ampproject.org/c/s/www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
+      "publishedDateTime": "2023-07-24T13:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
+        "name": "WRDW",
+        "domain": "wrdw.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -240,10 +240,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Autos",
         "AI",
-        "Facebook AI",
-        "AI in Autos"
+        "AI in Healthcare"
       ]
     },
     {
@@ -255,7 +254,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {

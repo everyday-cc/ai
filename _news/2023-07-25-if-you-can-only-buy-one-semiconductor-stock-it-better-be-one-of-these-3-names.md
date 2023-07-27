@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
+  - title: "5 Moonshot AI Stocks to Buy Immediately"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
+    publishedDateTime: 2023-07-24T15:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
     publishedDateTime: 2023-07-25T00:36:00Z

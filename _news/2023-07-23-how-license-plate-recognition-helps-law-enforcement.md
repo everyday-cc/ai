@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6331685429112"
 webUrl: "https://www.foxnews.com/video/6331685429112"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Artificial intelligence helps to make roads safer, help law enforcement"
+    excerpt: "In Georgia and South Carolina, artificial intelligence is working to make the roads safer while also helping local law enforcement agencies."
+    publishedDateTime: 2023-07-24T20:01:00Z
+    webUrl: "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/"
+    ampWebUrl: "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wrdw-com.cdn.ampproject.org/c/s/www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp"
+    type: article
+    provider:
+      name: WRDW
+      domain: wrdw.com
+    quality: 61
+    images:
+      - url: "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/dQj683k7w5RvC_jT5tGSgZ4mkXY=/800x450/filters:focal(265x138:275x128):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K645NRRT4VHL5KCAIIY54RAV5U.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "tKmtfcjvA8rL986Vmg5F7lNaqR+GXWcEWip0STBRaXVttiaMB2GAf110PrPpfDSdHFP7tp9TY7OYvPnimVAQZ6O6HHbPkOc/0G0m9vQMtkGVXDM2Px8mI2oEk/vz0XAZJDFVuck1xhYjfd8SW+ywc1AGLDHoXjcHbMXrlVwrPkpS61HG+/onJHKZb6KHnp0cVej8tp4sYLiujaJyP2fqkUq9hFrleXhIPVMejEa0gn7iiJMz5/508NqH6u1FfRfa8evG2c/JIWOsGsfHLWSL4hJ7nokcqj89079sfek/hu/RD8YtTBqFI6AOKEDumo7BKvwtxsUtqUY5mRql2Ei0LmohHiHfoug5j1tV1ldzZNE=;OMov95w8JxW2dTZ6wzmppA=="
 ---

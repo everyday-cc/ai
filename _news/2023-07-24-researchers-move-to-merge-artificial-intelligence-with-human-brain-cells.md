@@ -7,8 +7,8 @@ originalUrl: "https://www.tweaktown.com/news/92509/researchers-move-to-merge-art
 webUrl: "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: TweakTown
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brain on a Chip: Research team bags grant to merge brain and AI"
-    excerpt: "This transformative project aims to grow human brain cells on silicon chips, creating remarkable capabilities in the realm of machine learning."
-    publishedDateTime: 2023-07-22T11:22:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-on-a-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/22/image/jpeg/3OZ6p46Khs3mWIlC1CvBjv22qTs7kVRuXt4op969.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Scientists Working on Merging AI With Human Brain Cells"
     excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
     publishedDateTime: 2023-07-23T12:32:00Z

@@ -75,6 +75,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Waymo changes course from its self-driving truck ambitions to focus on ride-hailing"
+    excerpt: "Alphabet Inc.’s Waymo LLC announced today that it’s putting the brakes on autonomous truck operations and will now focus its efforts on the self-driving ride-hailing part of the business."
+    publishedDateTime: 2023-07-27T03:05:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/waymo-changes-course-self-driving-truck-ambitions-focus-ride-hailing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Screenshot-2023-07-27-095021.png"
+        width: 1095
+        height: 610
+        isCached: true
 
 secured: "RuKytAOn+TB//N9moudrXr5k8J4k/vzqzVoJ/0C8NiD/4YT7oHqbSUW66mQ8Zy0KTtX4F+qqsBA+kpK6pfqgqCsPxMwyOD+34n3EgSeksqkCg0/O8UhrTfQUq2diKEvu5dx3wD8BsloPpkaqcEPAyz9OJnGb01cTazmfjhgwxkNHC9XqTKMzEtxsHwLUbataJXC3xegNLBZnuAf1Cf1LoIeGJ0blVRMrS+d8choaWGxrCUGMWjXi0WxephH8iBTLJMheUrV2DO1y1PpVZhSKjR5zT5OM0CKbuPmfcvtrJP6pMf2UTwWtt6pEk5byrAzRfudJssvwi8LQWtXJGbAJQm+rf7KIF0Cv8FB+FawAsagTLUvUgGZq0RvFbGLh0JvNtOISH0oWJrdWdGKTU/6uJfrHudPZo19ST0gxXzp+PjD8EoJXM5E/Jpk+j4Bs7vbinVE1vaO9ssABWmCZb9hRAEW9LXSzs9YRkE5JMTTo4xeAa2jCHpe6xJBUGc6cdbC2ggRTKqHbzjRZeNwvj9gAQw==;BJstJtKCyt7qdzFYOuwPFg=="
 ---

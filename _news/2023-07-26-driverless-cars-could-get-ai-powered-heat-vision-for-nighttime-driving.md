@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2384435-driverless-cars-could
 webUrl: "https://www.newscientist.com/article/2384435-driverless-cars-could-get-ai-powered-heat-vision-for-nighttime-driving/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Congress Urged to Regulate Self-Driving Vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry on July 26 warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-26T22:05:00Z
+    webUrl: "https://www.ttnews.com/articles/house-self-driving-vehicles"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/John-Bozella-650.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "RtAhkI22KQxBAyrGbHa1c2/iLX+kXwmGCKC5TnD5ahr8Bf3ulDMfmU0WJasSAgr2Q9OJlI3cLElFCjXazoSm4jJTcsu4oZhYZr+X4qYe+afPhiTqLeqD00AbaMzpB06J52rxkyrvkm4WhtThke/rQAtzO6kj2Bfpl6yyUbGw8el6gt5KYJsXFrqdU+ZJlg4OfXXLmnVQNqIh2bbSySOShTQn2RYljOyisYXyNLwqyj9tp6P0a+IcGnE9O/uh+ukos2BL3YH6TfpFE4FDx6q1MQzah6RiRtKSnN84WyxCf2HaAENUP/KqovZNCimBSznIx0SX8LBdnkyoFRnasabUi6PSMFdkNAaY2upj2YH5Y1l1qVTF81XJ95OBYkALyAzMpoak1fH2+O+Mx7ywpK4jOCyhmVF48qNjYrqULVhpOmWGcNASgBmVQTzYkSFLawC6V1708+xX7fw1PX9nA7EgA6KFiiSwXlJFO20jxr/bkR8fX8BKkrvstEu/tGQ1TqE+Z64ixpIqSFdtkM/FE2N50w==;lLaF1/ExwVsLmMNvtFfIhQ=="
 ---

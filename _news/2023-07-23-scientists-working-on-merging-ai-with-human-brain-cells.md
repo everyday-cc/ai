@@ -33,20 +33,6 @@ related:
         width: 1500
         height: 944
         isCached: true
-  - title: "Brain on a Chip: Research team bags grant to merge brain and AI"
-    excerpt: "This transformative project aims to grow human brain cells on silicon chips, creating remarkable capabilities in the realm of machine learning."
-    publishedDateTime: 2023-07-22T11:22:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-on-a-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/22/image/jpeg/3OZ6p46Khs3mWIlC1CvBjv22qTs7kVRuXt4op969.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "rKs3KV112iIOLONa6L4g0eHJ7KIrQBXyCdBSoyS7C7YCaa14td9LHAFe75D9FQrsG0thsaEBqT+pWHHi8/0nXxTskemQgg1pmsRR8nmesRJgZOvJHQmz8HrgDP11nrN9CDrwXCGW9KXOkr4NnUT0Xt3mtLAj11M/n8ne8Ucv2sob3VP2KR/NWbjaDB5nePYI7ueYolpp2Ssaisni/YwmLOWaHdIgcewxFNc61S7jHk4t0gt1NlvxJQE6fXxGllED1HQ1p6Oe8ouBwHGnrN6D+lmR/V/LRaYR8946vgBV0R2J9PpS/fyAxe1JNbAFE7kdGzEsm+5RdNYvU1Pi4aGTVlZvoygFe1lPn5njfutkra1/MKQl30DL9tg9IPmdhEYsFgu7OrgD8U6r3J0mz9c71dCv5iuPjpCMsTVqGZhBHABfQKL2CtfFbfcUbhNCXR8y8QbveTe7ZiAxtEpfYd9wWpjaZwrI9mRTdMmJC8+K4wx1P+1MRVjpFQbfHqMBr0vk33CRzEFSA//bgic0IHpfQA==;FL6BRsjuywMsfw1p8KNc4g=="
 ---

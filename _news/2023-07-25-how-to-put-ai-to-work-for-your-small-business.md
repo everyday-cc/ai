@@ -72,6 +72,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI Changing the Dynamics of Image Processing Technology"
+    excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
+    publishedDateTime: 2023-07-27T05:44:00Z
+    webUrl: "https://www.pcquest.com/ai-changing-the-dynamics-of-image-processing-technology/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
 
 secured: "NVJMeEsJ4vS2kMm1XtZ6KZUiF/zo9F4P2D+c+lK1AY7k3OtYYcScfoYCroSrFV/sAbtGkw9P7vJSRiX2RDw8Jr0wws3BXVfG+wa7WjUMYvpL3bAP9iBa3KSnrQUNE4xSxY3yqQtWIne0QUXfvX3wI/pXwA1H0DDx6N+RHM62uSlJX8uRrdn4ozzsyTZmxrwN/2S/nv4jG+kvcEgO/wpV+zHaFWyNSKNW91+y6/i7lI4cUIn8aGMiaP7v+LTJyy/mw4t28j7ohbbulZ+H5HsEZZpj1caDulUtRYvR2fvmjK0xUBB+YbkF68qPN0hpBeYIiXFnYbyUCRHVwqCjMEwuPPoK/c8tiY3bPPclUq7Y94s=;xqo5ThyLNc+RuEjUKP70Ew=="
 ---

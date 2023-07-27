@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
+    excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
+    publishedDateTime: 2023-07-24T04:59:00Z
+    webUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html"
+    ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 57
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
     excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
     publishedDateTime: 2023-07-23T08:07:00Z

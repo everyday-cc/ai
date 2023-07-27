@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3228805/artificial-inte
 webUrl: "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: scmp.com
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Is Rewriting the Rules of $200 Billion Games Industry"
-    excerpt: "“AI is the game changer I've been waiting for,” 48-year-old Hanazawa said. By freeing developers from the burden of mass-producing graphics, it promises to revitalize the entire industry. “Publishers will be able to take more risks, creators can become creative again, and users as a result can choose from a much wider variety of games.”"
-    publishedDateTime: 2023-07-26T15:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/26/1600x900/ARGENTINA-DISAPPEARED-HUMAN-RIGHTS-AI-PORTRAITS-4_1690345459702_1690345485959.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "ZU0SFKTEw3YB0j40kq7nw7QLi2nFjRq+IafjvKGyL54sCSzJ0Q/8JANvtZQmCy00y4I/aGvyuRde/swPEivZVqs+NOr8ML6XsjZIkK+iqxs/5VOeD1hjQ4aAl16DKS2oQudYQUA3muqQNJM1ISq+8CVgzhB/XElC0RczRujGCVYwg5MhQO9+eK8gEpLQXPHwIi2R2lJqtE+WMAsGC1KApkgp8Z3YkufaLoHc31F6ylcYq/LWppxPGoPTMPqD73uV9nn7HwPiTecGfkpnc97FHgoQkASXTyJrRnHSkZ5+QZyCK+U4rMNuWhG6iugDzmZNhpTVSNOpW/AxcT7W03xVFhVmvnsaw3X4c3hNN++fSSo=;55+p6Ddgjm1Cb/0YgyVljw=="
 ---

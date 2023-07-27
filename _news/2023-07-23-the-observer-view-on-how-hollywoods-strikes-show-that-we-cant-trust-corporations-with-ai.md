@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
+    excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
+    publishedDateTime: 2023-07-24T04:59:00Z
+    webUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html"
+    ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 57
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
     excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"
     publishedDateTime: 2023-07-25T18:42:00Z

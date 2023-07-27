@@ -7,7 +7,7 @@ originalUrl: "https://www.nbcrightnow.com/national/online-product-reviews-are-be
 webUrl: "https://www.nbcrightnow.com/national/online-product-reviews-are-becoming-a-battlefield-for-modern-ai/article_80dfe4fa-28d9-11ee-b4ce-e3babeb07e95.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 901
     height: 473
     isCached: true
-
-related:
-  - title: "Online product reviews are becoming a battlefield for modern AI"
-    excerpt: "Just what is or isn’t a fake review is now less clear, and the technology to detect fraudulent reviews is still a work in progress."
-    publishedDateTime: 2023-07-22T12:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/online-product-reviews-are-becoming-battlefield-modern-ai-rcna94710"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
 
 secured: "qRZ9lvH/SuJj8bYBhs/wU5Uj8Xg2hiJYeBAOjnyZ1aI9FbCVGJDWDDA75k9AB3lpgbuTcW4AxpVgFZNU11KHWyo1iQNXSQrd5gdpc2HrykkB1Ko7pkeUn65vsJnet8KwRaoyLLh2oKjxK2mVgtwwtnFzySqdMkjVAZXe0WDlDFGMvpR/7+JB1T9ehuotLn5r+IRw/nDGo19BkssvIbL6B0aBKYRFW/j4RCiud3YRER2t6Mq3+bLYVEKlOLBFfZ823592w7y5gRiJmQgjolorv0/M4fFn/QiqqqpXS8KwLGuasXI0Wrt2Tol7Cku2sGlxkUQClddqHIz1dq9BgiUeels/LLv2DV6yjyC4vZ9IYHc=;NueHPI6CiKTDEqImMZqxew=="
 ---

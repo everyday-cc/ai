@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Korea Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
-    excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
-    publishedDateTime: 2023-07-25T09:22:00Z
-    webUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry"
-    ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "Butte Library using artificial intelligence to educate, create"
     excerpt: "Butte-Silver Bow Library's IT specialist Axel Samano created an AI program that is the ghost of Frank Little, a labor leader killed in a lynching in Butte in 1917."
     publishedDateTime: 2023-07-26T18:40:00Z

@@ -41,6 +41,20 @@ related:
         width: 1336
         height: 876
         isCached: true
+  - title: "DIFC Innovation Hub kicks off FinTech Accelerator Programme 2023"
+    excerpt: "Dubai International Financial Centre ( DIFC) launched the ninth edition of DIFC Innovation Hub’s FinTech Accelerator Programme. The 2023 edition focuses on open banking and AI, automation, innovative payment solutions, hyper-personalisation and customer experience to enhance financial literacy."
+    publishedDateTime: 2023-07-27T05:29:00Z
+    webUrl: "https://gulfbusiness.com/difc-hub-9th-fintech-accelerator-programme-2023/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 24
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/DIFC-innovation-Hub-launches-FinTech-Accelerator-Programme-2023-Image-Dubai-Media-Office-DIFC.jpeg"
+        width: 930
+        height: 620
+        isCached: true
 
 secured: "TQvSRw3qjb+1YP5Na/e0PVbeu6VXhqzHZ5AEsA/G5oV6qTRGjljg+MtVPaOzHOCAB9ythm+7d3xlVr8GwAs4+NENXSgGvLt2i/8pLIPnIl8EnqPRCqHIdb+ZQH+ku/DXEWLoUgRtJN18lQwmGA+dDt3FTdC1P1PPEy234tm3GvSO9lJnQSav0tmS0jEAWzN4kKmqYEz32w5qbbaLey/YWOQMCpA+86E/+5aNa/XG77P37rfCo8yDcWLfN+T+SST2GZc87j8rj/K0ZWH3IOJXbd37xV3zZB0ph6yIlZFKWS2xuXdVXhjIwjtbNXaWIw61nGXOD3fWv5iqJNRqhFpLAf3pKZ20Ked1T1hOnM8JVECw16+a83TeQl3B758J69PYOCIL2cXxO7vo1w4QLLQqDv6LrNXH8S/R25v7Vu5hKZfQcShEZcNn7oo9ihidejBOoqOSv8RwhMAwzb3rMNQew8nK9AWBHpFtZfRrg8Jan3JeATosa4MZSG7oPQuqlr0XiP2FfFLYj/8Ve/T5gx/J8Q==;BZNK714eCy6axmhqlMSa2g=="
 ---

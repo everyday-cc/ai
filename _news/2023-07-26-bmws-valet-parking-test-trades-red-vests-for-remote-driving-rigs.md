@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 780
         height: 438
         isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "WASHINGTON (AP) — Advocates for the self-driving vehicle industry on Wednesday warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage and urged Congress to expand their ability to test and eventually sell autonomous cars and trucks."
+    publishedDateTime: 2023-07-26T22:54:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/congress-urged-to-revive-long-stalled-debate-18262792.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "z4alORA1tv+wo9pD2u38PafNyLg/ojWmTzCTqn+oc+5iX+p6tTjv8dXT0+segIjc9FtF8JaA45cCHUVVXoH6wx29/I0aUPe1c8j7qoEHl579sdDZzL6yKq9wfkF1hjkL2gzu46pg/47pBJejyHdccOB4r74sdHguGHapk7l8YWfD4g00F/go7YTUaECjxzGI9PUtSPx5s0KksERCytM5UcKeZnEmncvt3Qeyc+lmEE/OOWx+i6I1mufdUDb/lw0SvR8l94GQA43vvETbZZXuWsh+qHV/RFXsArMeV6H14DRjXItcVilRneVZWnrl9fqLUz9wgj19tnTnN5kTdDZhZR+UQPkIkYSrN6+9nqzA0H4=;mZcyqfaIyiKQq6WdRAw7Zw=="
 ---

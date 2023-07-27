@@ -57,15 +57,6 @@ related:
         width: 720
         height: 449
         isCached: true
-  - title: "The 3 Best Self-Driving Car Stocks to Buy In July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The dream of self-driving cars has been around for generations. Soon, it may"
-    publishedDateTime: 2023-07-22T11:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-self-driving-car-stocks-to-buy-in-july-1032467094"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "$20m grant set up to develop AI in self-driving vehicles, materials research for military use"
     excerpt: "Self-driving military vehicles and machinery can be dangerous if robot eyes fail to recognise objects clearly in bad weather – or worse, if the systems are hacked. Read more at straitstimes.com."
     publishedDateTime: 2023-07-26T10:28:00Z

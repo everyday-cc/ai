@@ -7,7 +7,7 @@ originalUrl: "https://www.imeche.org/news/news-article/drones-stay-on-course-in-
 webUrl: "https://www.imeche.org/news/news-article/drones-stay-on-course-in-difficult-conditions-thanks-to-machine-learning-control"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "A simpler method for learning to control a robot"
+    excerpt: "A new machine-learning technique can efficiently learn to control a robot, leading to better performance with fewer data."
+    publishedDateTime: 2023-07-26T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/07/230726171330.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Researchers develop machine-learning technique that can efficiently learn to control a robot"
     excerpt: "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly."
     publishedDateTime: 2023-07-26T16:07:00Z
