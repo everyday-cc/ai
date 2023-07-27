@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/07/25/openai-nvidia-gpu-new-ai/"
 webUrl: "https://www.gizmochina.com/2023/07/25/openai-nvidia-gpu-new-ai/"
 type: article
 quality: 70
-heat: 70
+heat: 72
 published: true
 
 provider:

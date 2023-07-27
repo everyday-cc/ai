@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Voice Actors Decry AI at Comic-Con Panel With SAG-AFTRA’s Duncan Crabtree-Ireland: ‘We’ve Lost Control Over What Our Voice Could Say’"
-excerpt: "The perils of artificial intelligence to the entertainment industry came to San Diego Comic-Con on Saturday, with SAG-AFTRA national executive director Duncan Crabtree-Ireland joining a panel of voice actors organized by NAVA,"
-publishedDateTime: 2023-07-23T02:08:00Z
-originalUrl: "https://www.aol.com/voice-actors-decry-ai-comic-230853407.html"
-webUrl: "https://www.aol.com/voice-actors-decry-ai-comic-230853407.html"
-ampWebUrl: "https://www.aol.com/amphtml/voice-actors-decry-ai-comic-230853407.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/voice-actors-decry-ai-comic-230853407.html"
+excerpt: "The perils of artificial intelligence to the entertainment industry came to San Diego Comic-Con on Saturday, with SAG-AFTRA national executive director Duncan Crabtree-Ireland joining a panel of"
+publishedDateTime: 2023-07-22T23:08:00Z
+originalUrl: "https://variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/"
+webUrl: "https://variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/"
+ampWebUrl: "https://variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/tv/news/voice-actors-ai-sag-aftra-strike-comic-con-1235677541/amp/"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Variety
+  domain: variety.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/_AUZj7rGOdcKSyB02UesRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_variety_168/65a0e2f071233bde55537df98cdd4668"
-    width: 1200
-    height: 675
+  - url: "https://variety.com/wp-content/uploads/2023/07/MAB_3123.jpg?w=1000&h=563&crop=1"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "LcGej/Yjw2gyXqku9T49X+fnUUxMEvHCFwCjtwWdePdfNV4R/OIfQFdEaP9B4U/HSjZXHtt/r+K+A1zmPJlI8FjFKaO97roxQuhtX32HTpBiuQka4UD08IMi9bcfdL5xBXJAXeIDeBMnJNqJI9NaNpElLT25v9xz9CtYpO1zIha2w1H5g3x+b3FUMvaX3YYmK8yqAsXsTBFrTz5M5GSHGOFYu5Godr44mM3Pytm171u8Y2DmcHT3luosI895QhRrRNMf6MStNfeSn6dXZbd3G6RhS4PnZL7hnCOKelKRZEaIdbQHXzKlGlAnteV87KCyWn7rf3Vxp2Pf+8psXAZskzWtupPKtN2fHz91nML0rlE=;dJvmZdGmZL83iqjVTjYAkQ=="
+secured: "6dtjD0jPxeXIjEQgjs1IUNk4rs30pFL4C8JqJlpcofIKe4FQ0VRzXzUwsZZKNja/sWfxpgqnS11ndB4+NGviyWhSHXfrpwn9wyOZONqDQn9hIGsblACu+6NB+UDkfsO87F2BoHjZrl7OWo1V1OZEOj8Ma/Y5QrZYq8sxoMU08RMCGJ13m637LuNKT5AqkbxNIyNywW464tIbaYACxRWCpF8yjHfQcQXsvnB3kc/1YkqiQCffGVcXuBoipVxXFs7fXF9r3d4WuXudMDcB+93/77CPFlHycb7U/Y4r/GV7ZVHPK2mgEPXKn5MdndnW+cGEaf3MjrJAtYHeO0uSm1/xUKGrOFVqB+0i19ReGzKdhqg=;G5wdGE/kbmWNHBcTsGSy6w=="
 ---
 

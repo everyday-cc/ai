@@ -43,7 +43,21 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Lam Research sales forecast beats estimates on AI boom"
+    excerpt: "Chip-making tools supplier Lam Research forecast quarterly revenue above Wall Street estimates, as semiconductor makers scramble to meet a surge in demand fueled by rising adoption of artificial intelligence (AI) technology."
+    publishedDateTime: 2023-07-26T21:33:00Z
+    webUrl: "https://www.reuters.com/article/lam-research-results/lam-research-sales-forecast-beats-estimates-on-ai-boom-idUSKBN2Z625V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/g73N9n8Giy_-Z2jEDA54bOOfaAA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VF5N7CEDBJO2NM7U5HEVSNOERQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "YmIVQLv1QcJo4An6JCZXd/wdgYp2wqAwo/ZPHir6/L/h8gIo8mk41C5qjg+z1lfxgAm5fWhPoogJTbDFhe1kkwN/9bPmq1PUMXKzDV0gcWhLLQjv8DF7WJ6OVspuf98U/aBnrOhyySYjzvx2ZBRJdT8y73x8/pYToXeMuME/ceQSrWg1yewi05PaMsQL0y50UBM3inPDUsV7j52FkHiYIiWWcq0HLG/fmHjgNe7Wx6e6Arqrf3Ifp6sY02OgAsIzIkx9ajI2PNC6LAhZe+zzV4GaDmz8UFn3rMV9bz1j1D9xTF5ApoXuFyyy7uX6S/5GQJl2KIwFGot0EdPPjEehDlzMZHPf3YeS05QSPhPz7to=;VXJUO+eCttXcozc/t4Ezjg=="
+secured: "gJBRtyw5u1RZSNiwaJuMqyxelsxMwzZSalBGeJSHM4AOau9D3PQTnRpTUU52PMS4F2KeAFHZBTjBzQzdfL4AqKIuvj2yTVY7NT9DfAa8weicxRi36h/Z9RKzwg8ImKnSoZxOUUB+oY7Sw/3JNCJfLoPN2anvO+AQ0hdZvmmEkyljjTGvCr9cqJiY4iC4yc5CPnpM7Z/yz5/RxXOdGWpAuJpgiOBEyvGtChFMPxlKhLQ1p9OaAKiLayWIvQ3lEnR7xIlFnW5y2Ck9SFdWJd9V+mYxyF1Z8kgeLrm5scaKvnP/dSd7uuiHMBLePjI3dsZgdyeJAAvtxHcv7TDntpQhFDvzxOZj4JqIxhcAnIr8/jaV1q7xQ60veRW6lnNPkSVb0cGQRbl57qyr5qR3oH76MjdeCkn9PcjJ4IiDdo4/oYDP2WKgVvcSZPJo5b0ZXCOTIWFY8ZXlWUB2AXG7DBhPQ0XTirIu8MmjewL7tnt6zcKCoKwW187f5FCRi+qMUWBboWSd5GASveWzIdkqRuHz8Q==;BJPqdrIs6/p0a5GodCuWpQ=="
 ---
 

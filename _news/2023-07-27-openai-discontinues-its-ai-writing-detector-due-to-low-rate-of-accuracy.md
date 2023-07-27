@@ -120,6 +120,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
     excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
     publishedDateTime: 2023-07-26T01:23:00Z
@@ -162,6 +176,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "How businesses can leverage AI-generated text"
+    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
+    publishedDateTime: 2023-07-26T23:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "This Startup Wants to Create An AI-Generated CNN"
     excerpt: "Channel 1 News, from former 'Tosh.0' veteran Scott Zabielski and entrepreneur Adam Mosam, plans to use generative AI to create personalized newscasts."
     publishedDateTime: 2023-07-26T13:00:00Z
@@ -172,6 +200,6 @@ related:
       domain: hollywoodreporter.com
     quality: 17
 
-secured: "9S6El2WudH+9sxxzE83n4dNtivBWuGWQuvaZUQ+8y3EP7BQs0++UYknaIsFW+kodQcScJWYfWqah8CoM7JNI5loN052QTd9kQZBYE+49zHivrTLgjjVon0pTIuqHxcKBAcX+BpqByoaIPTkjPctVXTfNNWuqgwE6IfRgLbdzJGqNvxMHj0sMOD2KY+dYvL5u+Sj8y9thDLKiMERfLG8ycywqZl73fCEXS8o8RJv0OQ4gTrG8I5FW8YCcMILXFN31cW5VoAgr0lMroVSdpU/58d8vlCnY0m9ldu/uT04hu6xTDMPoZXzDb4TbIpByYZDsZJEs8rdDzfYochmFHbAJoyRxX+8RDdTTVxmZ3f+ufuU=;M4U1/BoY1WlEu9e967t4bA=="
+secured: "+auZ5YBIruYSLVpJIk0o7jBZctIFE6tzZoK9+p4vVmnPloa2rNft5lsh8a5Cvw7YDjUe36u28Jj5dCaVhld9DvmQIRE3ld3p0FYZOC6LAqe6OmlNWpNbjDYvwgLleefgix7Pchoqi/92/gehbqu2id5lDaPzCc7MuRYlsKgmFgcm7TGR7kaIo5yohiwvEFCsYqN/eihd+Jo+QvUacA/vWy5YMKwSC8q5iNaVDB7GCBay13pIFpCoo/HBDGxJuJ6OIGPJ0mnpOXNigbcXKBDkeS3s7fBKXZfCEqQq85+h/vzVzsxrjeXIKUn2fQ79SjAGIZ0Ks+2lMfc5W07ijS6nJg0Ooy3AVTrnQQ4fByZ4GTZgXU6wXQvHfONBSVPwlcIMtnIWCBHaw7r+1J37GqDchAvsTsDYOjycDX8RahyqIO7bBrc2i3j6EJaKF64Z6WylTIdrsi+tlELKcVWMe8NQdLapt/iPGsXVT6PtlGAtg2DjebNEU0CyJrnXfKURSUYGgln+xN3dJFacSJZ6Xgrr4g==;0GWLERqPJv9CwXEHbeO6hw=="
 ---
 

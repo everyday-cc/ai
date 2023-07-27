@@ -1,20 +1,20 @@
 ---
 category: news
 title: "GigaIO Introduces the First Ever 32 GPU Single-Node Supercomputer for Next-Gen AI and Technical Computing"
-excerpt: "GigaIO's SuperNODE system was tested with 32 AMD Instinct MI210 accelerators on a Supermicro 1U server powered by dual 3 rd Gen MD EPYC ™ processors, using Hashcat and Resnet50. Both tests demonstrated unprecedented scalability, with Hashcat showing a 100% scale factor and Resnet 99%."
-publishedDateTime: 2023-07-13T19:09:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/13/9848192.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/13/9848192.htm"
+excerpt: "“As AI workloads become more broadly adopted ... “And as large language model applications drive demand for more GPU performance, technologies that work to minimize node-to-accelerator ..."
+publishedDateTime: 2023-07-13T17:39:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing"
+webUrl: "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "+FmE1RnYY1O/DV9fltP8c7l3lDD1DjbfWfq6ezHJ+zdIw7S4TT36w5r5mQUzy8V9qSymNeObQ51KTqInIfHPFdaoOZVr0Fj1PzOuOgRNVPD8Bl+ThkOTwqxm/ttyuZ+XJ9rEVimvNE14Kz/2nbuBN4zjXIBr2RWwH5wB8LvoGyvJXO1RIUDq6JEqvVx1e5l3THdezsK4Nbxp8ZO+5ap1dBDXgn9HhA53/PdMCw75+nWx9uuo6FiMQG6gkSKKQLIExYZ5pvKZfAiOBlyahPWPJ/lzvBHnMiMf+S01Ajhla7oyRRSxbTzVaPm3MZeGPJEcF+Vp7dnaj/0izhboapyp1nvkUZoUDckMb6LR6Dhsvx4=;5XTSdJoRy/GvFDFcy7dzaQ=="
+secured: "EpqMIotL/EugCc/8FguN6YyLVZrhAQk4PG5TysbVFTvx4IcRU8PPNoJmkVOASfaE3uDJogMm3aw5nRFtvz52mIROY7eEnt4c/Eu8uky0QfmWa5q7ZhilMeGPXaii9+aOXySeKzj3/5qLBZFD3MeoefldI1JriULJFHjJv1UhnU0dE7Qhz5dQG/H1YjG5nsoLRW42hFdUsefaUiXxktn3gz17Wh9vBZkBYcNE7FhCol9RsZyqcwjtYcZyKrOjTHva2DbzQZt7MN9v/DhkkQPV+tHbMqeczBhulTR4Tg4fehkhTHC/oPFPfVSd0R/PYaEOy8dvfM5adzUx7N65ryQDmBMh3jtRnnRFRY3BtI2pGgY=;9crjxRlJtXh/0BOjz7lYkQ=="
 ---
 

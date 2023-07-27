@@ -191,6 +191,17 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
+    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
+    publishedDateTime: 2023-07-26T23:05:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "ChatGPT broke the Turing test — the race is on for new ways to assess AI"
     excerpt: "In a test consisting of a series of brightly coloured blocks arranged on a screen, most people can spot the connecting patterns. But GPT-4, the most advanced version of the AI system behind the chatbot ChatGPT and the search engine Bing,"
     publishedDateTime: 2023-07-25T17:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6297983/ai-leaders-create-industry-watchdog-as-go
 webUrl: "https://time.com/6297983/ai-leaders-create-industry-watchdog-as-government-scrutiny-grows/"
 type: article
 quality: 67
-heat: 107
+heat: 109
 published: true
 
 provider:

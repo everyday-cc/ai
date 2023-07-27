@@ -60,12 +60,17 @@ related:
   - title: "Nvidia Jumps Higher As Mizuho Analysts See $300 Billion AI Chip Potential"
     excerpt: "Nvidia's 'dominating' presence in the expanding AI chip market could peg its market value near $2 trillion by 2027."
     publishedDateTime: 2023-07-24T11:14:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-higher-as-mizuho-analysts-see-300-billion-ai-potential"
+    webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-jumps-higher-as-mizuho-analysts-see-300-billion-ai-chip-potential/article_c8d769fa-de43-5e5e-a3e9-d72ff9bd3b59.html"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 33
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/c8/dc8b0143-bc99-531f-b239-97980bd7e244/64be6d07c4dac.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
+        isCached: true
 
 secured: "VMkt59W2ZcSaGpWrFfNWKcMgMl0xDhDr3Cbj07Q2plnnTOUypGmcvLru+uqznDKnOtwHAYb8ukyxdzrCejlBi58LTF6e3JxmVtD73HCpzS0nuGEX6ICmWuMdKl1f3B3fgOo/4H7SSZvvA7I7DjDTUfEp/nkxpQUIsOjo2KSTVVNRhy8KAfqq8qrw5JUA1UlIuherRVMlWHSin18226QMadD4afgv4BBXTpL48Dq+/Yh8rMviiZO5s0jNWQq4M3WmLRhPhTuJqSmlmp2pIIYF21lBJwgmXmeyP9kOWzDCbOnYAhD4pGaDFiuMNkaqlUswmf4EPXcoHWR7YdDLDnT+DPImENbf164AUKe+GXUezvjlqcmeEfqcjIOdiFnIYp+Ae7oDvBJGspzLhIAd9iiXrIUGsM/piskWAlCQWrblpuU2oQdRnaBcydkwsjL4rtcIqviZPUpK8wGDOrne2VNOxwbEBZXQS1PGOYNcM6l3SJxTgsFrpHwfw+ewptKprVDXwCC9OaCVfSn2ZMfcNwJ7kw==;+vXcsWGpmKU7OeL0FONZZg=="
 ---

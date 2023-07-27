@@ -181,6 +181,20 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Microsoft leans on Azure, AI as cloud business grows"
+    excerpt: "The tech company’s public cloud platform accounted for more than half of its annual cloud revenue in FY2023, CEO Satya Nadella said."
+    publishedDateTime: 2023-07-26T22:08:00Z
+    webUrl: "https://www.ciodive.com/news/Microsoft-cloud-Azure-generative-AI-revenue-growth-GitHub/689113/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 69
+    images:
+      - url: "https://www.ciodive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Generative AI’s Growth Bodes Well For Microsoft, ChatGPT"
     excerpt: "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue."
     publishedDateTime: 2023-07-25T16:39:00Z
@@ -226,6 +240,20 @@ related:
       - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O0X3-BASEIMAGE.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Microsoft Cozies Up to Meta on AI, Maps"
+    excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
+    publishedDateTime: 2023-07-26T22:57:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/07/26/microsoft-meta-ai.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business and spending"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month \"Copilot\" for its Microsoft 365 service that can summarize a day's worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."

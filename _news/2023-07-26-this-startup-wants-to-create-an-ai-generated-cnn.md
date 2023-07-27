@@ -124,6 +124,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
     excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
     publishedDateTime: 2023-07-26T01:23:00Z
@@ -165,6 +179,20 @@ related:
       - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
         width: 1200
         height: 674
+        isCached: true
+  - title: "How businesses can leverage AI-generated text"
+    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
+    publishedDateTime: 2023-07-26T23:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
+        width: 897
+        height: 500
         isCached: true
 
 secured: "P4jLVncnRZ8ceoC72f8yYuICW1zXNE7+w1Sae/nvCeTiZypP9uGXqypgv8sZxxPKH8mY5HHZkaTqQyVyf3Je9bKQdIsK+yKhRADwPwKr3SLdLNTyc8xv5JX8MoyECuMWKn1JEGMPrSoe1LgDdVhB/2mgdabrjkjPAw+twLedCCh77XWPLB82vey07PbTuGXtz2ESPRoXx1h6jMTjWKFx0GNtJLTr/j0IiW9KiZRmKqG5bvm9SfmCKQLc1tSjE3q8TUV/OCiBHkQa0UGx2tVT9/Zn2q4dDWB6RO/O9TRb1igDOXlNytpOczYJ21gzMJ7NUb64JVeWaxFvvNGM9vPUPODaIJqn7Q+397IAxtcmQcsRYKxyy4HHAIane7Rz4Wwg35Jy7wTOI/DBj1U7XL4N9KHzZO5YWYspkRSRyBgOdCo1P0r3KkEKs2ne6a+A0jcbwdDxPFbDKFS78tNWueldQztBphqOcZgVH539vMzpswmOcwafcJCxftayLQrVMcdf854i7n+3/CZDncwmpKtP+w==;j4e1zw86CPrvRQ43Q7Qalw=="

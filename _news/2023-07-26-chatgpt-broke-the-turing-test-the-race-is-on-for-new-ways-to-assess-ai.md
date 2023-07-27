@@ -202,6 +202,17 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
+    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
+    publishedDateTime: 2023-07-26T23:05:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "ChatGPT for Everyone: How OpenAI’s AI Chatbot is Empowering Users Worldwide"
     excerpt: "Welcome to the future of conversation! Imagine having a virtual assistant at your fingertips, ready to chat with you about anything and everything. Thanks to OpenAI’s groundbreaking AI technology, ChatGPT is making this dream a reality."
     publishedDateTime: 2023-07-25T16:02:00Z

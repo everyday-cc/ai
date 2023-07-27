@@ -3,13 +3,13 @@ category: news
 title: "Some Reasons Not to Fear Artificial Intelligence"
 excerpt: "However, a long history of adopting new technology has shown that such fears may be misplaced. Paranoia about artificial intelligence includes the view that it will attack our personhood by outdoing human creativity and ingenuity. Such fears may be overblown."
 publishedDateTime: 2023-07-26T15:51:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence?amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -36,6 +37,6 @@ related:
       domain: fool.com
     quality: 47
 
-secured: "Aaho77qUT/6QLLdFc6V5SMGMuYmggLQSUAxOom1RoD3NBkgMlBBlW+FEb/ijZVHYDWcm0+hoKdGfe+N6+ynkdZlqywHyfRZFcmwn8l0+iw9GbzYz8D6EeukJDHo+7po0qJHIV8COhNM255L3cdlH/wqzpWAbLyaY+hizzebjSaT+SvE+3b5dfz9CWJc+tR+4YMWqxfJO7N8MPQDEiJ44eTGikiObJnuhr2FDtSlI+owfmoc5kAug58x0mZqhyPfnLPuFi5oQkYeIVVj4aSHRFDdcKBHRaLUc7e9AjrF2xSYuAB1CDyusr4FMWJH5G5KooP8i0yzvNxIhblKKJFvmefTHa2lv45Z3mTdaxNaEioWBfH71uQP0wt1E6HyIJEwsSUbMjCHB+pUOSYh9CRsH3f60LK7BXPdOhzHDphdZRQ82us1wIKtXc9HV3XvhhDaj73cI7ftrayN53qWYRg1WdgjQb/vf9mnr0haqChJZorhAFZECd34EsetDQM14QidvLicUnrPqpOkLJL0uI7nOvw==;rPTff/9+tcwvDVjmDx1XbQ=="
+secured: "j1xOXXkiq7eaf3oQ+g6DzWixN69jZpuyV+QwPF34P6Wk2elD8ianqS6gAfpJ9EjA60wXDOE385GLEQWCcU1oPPflhNcTPVUmBjPe3J9B/kFxnKztQCkoSc8UVc18oKZStSptDfAWSj1U+9YYFeEwdKWufN1G0g4pBPQLT9DYAsr+U7bgnNYyqfFgwcob2MKPH0YeYCvFks9Fu5wCExlrwD7/zVFoi8ufyKMS3QS3+ajsZNqi5uz8VafXn3HBvkL3apHMFetUmJfQPU+k9hgsN8kR2Q4nVTNM5OOHPeTdRE2jPdzZvVboHXCElw0zwibHDUZCgywRvie+0yHM2t4GMF5T9FVckJl3waZFIW2d+20=;IoykJZ6MvYk8cTbPLmvayA=="
 ---
 

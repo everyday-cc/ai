@@ -2,22 +2,28 @@
 category: news
 title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
 excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
-publishedDateTime: 2023-07-26T16:38:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/26/9854711.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854711.htm"
+publishedDateTime: 2023-07-26T16:14:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-aws-healthscribe-a-new-generative-ai-powered-service-that-automatically-creates-clinical-documentation/article_66b3c0a5-4314-5b96-a2ff-65b34c3d4e77.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-aws-healthscribe-a-new-generative-ai-powered-service-that-automatically-creates-clinical-documentation/article_66b3c0a5-4314-5b96-a2ff-65b34c3d4e77.html"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Natural Language Processing
   - AI
   - AWS AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AWS launches new healthcare-focused services, powered by generative AI"
@@ -229,6 +235,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS introduces generative AI service for creating clinical documentation"
+    excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."
+    publishedDateTime: 2023-07-26T21:58:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/aws-introduces-generative-ai-service-creating-clinical-documentation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws.png"
+        width: 931
+        height: 521
+        isCached: true
   - title: "AWS bets big on healthcare AI"
     excerpt: "Amazon Web Services launches AWS HealthScribe, a new AI-powered service that automatically creates clinical documentation. Save clinicians time with speech reco"
     publishedDateTime: 2023-07-26T17:30:00Z
@@ -266,6 +286,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "kjO/y8MXLjiyZ+ucWDCxDlRbe/iX8lRZ6PNdpX6v6gwj6JHrR4HkZrNbXWoFpEhAhQvZb4xy1fDgsB2tkAsDsLE2HjqWSBH86KBflwRekR8ZG/CpD9Sd6wpvCTp2PovJ1ef5WzX5sj0AmHVPktrX8OU/P9/deAzMtBDzSzDNN6lvr6EGlQkrMh1IsMOETY3W8UPzvOp7+f092Xaud32zmTAebqWB2QWnitwEZF3wzvA1a3CIDtmrYLdFJJsWM/3Nhyg5u914i+ZlAnxtPyWsQkK29jkpI8cCiRuPEy2mzB3VU9Tcv5wo9O5KcVbv7Nvnr9Lw0JFsk6KH/wGgA5YMtGgofG9ZNDl4x3YauiwmU7o=;oajTkg4jrVHCEq96n7dvjg=="
+secured: "yWZdbVaKtDiRhgp2dfihk78JdbHK2RVaG7/U1e612jmx3M0LybGwWB7KmVLjlKz/GIJ0IGUnqCd99Iw1nSIEFTCGRroFmLIJmeRZxrb1a0sGOAiIGLO5U+mRv3nmR35OM+OE01eV5hdphCNB8IX9Zxl6hCIZka8VA4VzjgdqqB40/OfbGnQ2Hr4/CA44zY+qLS8Nl9GIHwdyGHgqhUuLqDQqv2u9GbHAB2/Ve8Flto2VP/eD+Ff6Soo6EgRrPzphE86RtBZObUxHEpHm6Vi2nZ8uQXYuofF+CiCTw9mK2vG/TM3rhM7zfC7GWk0hgf7P2k0TDSTqopdOX1GWpHJC0qcSanjCYcVE6R/6TBfCcmA=;oApNSSeLU/AjstBnv2Vx4Q=="
 ---
 

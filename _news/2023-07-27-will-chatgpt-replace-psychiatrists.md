@@ -2,11 +2,11 @@
 category: news
 title: "Will ChatGPT Replace Psychiatrists?"
 excerpt: "Talking to a chatbot about mental health problems is becoming increasingly common. Commentators agree that chatbots may be of support but are not a replacement for mental health professionals. There are concerns that the human element in mental health care has already been disappearing."
-publishedDateTime: 2023-07-26T20:31:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
-webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
+publishedDateTime: 2023-07-26T21:51:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
+webUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/our-new-discontents/202307/will-chatgpt-replace-psychiatrists?amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "PP/T99kqVAkzR/AtriiVR4W/IBfmNJVJMEYNl9xeYHBNsLs7cW0O5Bx6mSspqwrMsQIzFg6LB0pfh5NL2prALc6bc0iX6USltkRCL/dWFoaqTuOnje9NmBl7xA4/MewYo/5PRLOGAYCbTqCe1ZY9ZyoRFcstDrisxEIGx3kqqfptP8m/YSpAmfCPOXpKW0Axw9xrIa49xeIr7gBolXvvsbHNF1iKbInCILMNRk8rUPxd5QERyIUEW5KrYPjgUdxsRQx04Nj82exFSkUNVLAXTnS8zOylMyE3aCGTmog/05P+V0iJ8682C3vZHGE24SwMpzrrMVQnwlXLox46gmLSLDacUMuO/9oT82evJAXom+U=;hVuTeAY7jW5vCr9A9GeLmw=="
+secured: "l6/0J+f7v4qvJZ4j5HkmwAT+6rxpKuxZzpLSMYLtxRMdsLBM4DzsVziHetiCcth+O1ZZY910leTCEtA/GXtlhmQUU78G2uBHBtWWLgm+qox0B1CLz4IILfj7pF/xDPSIOeLvRijh/UBjGfMqIAjRcM+yhbra0bBAMgE1KbwH5qxVLg8dKvPUaTWtHa1uHXGY0kDVkHg+UfETIOq/Git2HSpsYirC4CpHF3nf2DT8rKEw2+SaSWtnu2tiMn3RX8ugtuOEx5qZJIx37KI1LZHwxm72yWAWmViRAQMeil4o0+yTd80wo6/Qoqe9aANCJBx8lPkshzplyG58PkFNFtMSb49fO8DYYtvcHpbPo8J30AQ=;v10gxxdHUNfv+l1r+J4YaA=="
 ---
 

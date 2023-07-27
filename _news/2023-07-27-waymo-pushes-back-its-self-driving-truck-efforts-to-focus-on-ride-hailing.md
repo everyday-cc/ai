@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-pushes-back-its-self-driving-truc
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-pushes-back-its-self-driving-truck-efforts-to-focus-on-ride-hailing-211355559.html"
 type: article
 quality: 103
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -47,7 +47,35 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Waymo Halts Autonomous Truck Work To Focus On Self-Driving Taxis"
+    excerpt: "Waymo, the company that has been working on self-driving automotive tech for years, has decided to narrow its focus to the ride-hailing part of the industry."
+    publishedDateTime: 2023-07-26T21:54:00Z
+    webUrl: "https://www.slashgear.com/1350084/waymo-halts-autonomous-truck-focus-on-self-driving-taxis/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/waymo-halts-autonomous-truck-work-to-focus-on-self-driving-taxis/l-intro-1690408242.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Waymo is scaling back its self-driving truck ambitions"
+    excerpt: "Waymo is pausing its efforts to develop autonomous truck technology to refocus on ridehailing services instead. The Alphabet-owned company announced today that it will “push back” the timeline on its commercial and operational efforts for trucking and will also be scaling back development in the unit."
+    publishedDateTime: 2023-07-26T23:02:00Z
+    webUrl: "https://www.theverge.com/2023/7/26/23809237/waymo-via-autonomous-truck-delay-timeline-layoffs"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/iGHzmTGcFmyLWMXETTMbBmGabng=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22787621/vpavic_191202_3827_0042.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "Giz1M0cKdS8xRRCXTdKJueBT132q1bvxwOKNqKRy1BM+hozUCbdisO8Od8g5FVnAaNeh71T8obpsVhqvclZnUkg8SJbyjpY6Bf2sxg4UcmxDTnImgkpnH21EoUVVt5rRjUPW62wI92qNxAz662SfRw0LXD0SdEKUE9A4k7BbexKaa7wyjCGzj6QfGSMgQpInl5fbKJKvRS6o4H67BQfjQwGFadsz5iSWpCg1ne7H4oTWixWyxL6ymCoLNT/5npLGsGVLr2xj4Lj1Vjcr8vSw80IYj9DdcqbPe34bViG5CDcOgYo4L2DbsvpJnjQtLc84u0MOmqr8mM+vv6S6Y0whfQQz0RJf8fP8z1JsYd51glE=;ZBjpaqKoWzEuuyeT7RSuCw=="
+secured: "IKrpwdmZV30SKZgema0WwJ7TKst0C14FOvW72OAoQAXxv0UYL97VkcmPGSSc5hiPj9LUQYgR1daObpDBikj5+PT/QWUiCBJNUsW9Zy2kRyj+OWsCgYqGbbKuoUBAJYk8ZI/4g1K+S/c8zSghmGDYoXg7b0AwCm4dtA2EZQHKR7FBgOAgYuc+oPvfg+gAO9b7j0VkmpY8ZPmvPmUhImMD9tBHHupPnQlat8sTN7QPLxcpo/OiCfR7JwGavqThlpRDbWE5aBDYIBy+I9au1XQAEWJuaXEsnlaTRI1XMm3volH0PVXpgzdz8Z0KAtBoqXk2ntyHV+mIdY1nD2oDDApitKqc9OyoKPr0rTf9NRHDQrc0+mTlOKVS51tdxquSbeMWRJjA8LvgpdkgKVGdspboCAO2M2c/XLpP052ue8ItBTgFZEpg+SpftA/dkVEJXXcAN7b6aD5XR3uNsymaM0eWYUDDC7V3EJBTb2oAuqYL9RSJrJhRKlb0AY2XDLbf+9NbsbmCYneSjQSPpG80/4N6Ow==;iKmaN2ltA7pGqO7mF0ujaQ=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 620
         height: 473
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Surges to USD 16.3 Billion by 2027, Driven by a Remarkable CAGR of 47.9%"
+    excerpt: "\"Artificial Intelligence in Manufacturing Market\"The global AI in manufacturing market in terms of revenue was estimated to be worth $2.3 billion in 2022 and is poised to reach $16.3 billion by 2027,"
+    publishedDateTime: 2023-07-26T23:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33406852/artificial-intelligence-in-manufacturing-market-surges-to-usd-16-3-billion-by-2027-driven-by-a-re"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33406852"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33406852"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "qtcv7nWQBsH2D/YBcqCjptdhRuYSxmNt22imI8PtVWjFmLFI8zU+gVOnpyZSPBXyTZirEG7FGacbIdZk1K0/obYaYcogA2mhDvc1LWRXlh7FMK9T4QSLJVZNBjGaxVOKAd87UP2RRN8ECnQHZsiEymBIvZbYj9Uc4jqOJ8zbp+pQw6mYaDgKpwbmw3LbuS+8x2ShafYVYtml/fU+0QM8w8VnWGNfwWv0svizEGvTbFC0Bt6XZPOke6XmEIz3VIE3/P1tf00RTOExKlRZYLOSVHzGMctj7JCm3VnpzMQcWdDUDimaddwkPgBMHi3WrQ7wSuzU7WYnqvqy5QhEbIOLk00A2bEhkKPR5NsSvUkFYB4=;lFZL/aa/cM0kfxQymk7pPQ=="
 ---

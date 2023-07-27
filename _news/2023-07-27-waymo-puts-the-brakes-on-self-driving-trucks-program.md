@@ -47,6 +47,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Waymo Halts Autonomous Truck Work To Focus On Self-Driving Taxis"
+    excerpt: "Waymo, the company that has been working on self-driving automotive tech for years, has decided to narrow its focus to the ride-hailing part of the industry."
+    publishedDateTime: 2023-07-26T21:54:00Z
+    webUrl: "https://www.slashgear.com/1350084/waymo-halts-autonomous-truck-focus-on-self-driving-taxis/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/waymo-halts-autonomous-truck-work-to-focus-on-self-driving-taxis/l-intro-1690408242.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Waymo is scaling back its self-driving truck ambitions"
+    excerpt: "Waymo is pausing its efforts to develop autonomous truck technology to refocus on ridehailing services instead. The Alphabet-owned company announced today that it will “push back” the timeline on its commercial and operational efforts for trucking and will also be scaling back development in the unit."
+    publishedDateTime: 2023-07-26T23:02:00Z
+    webUrl: "https://www.theverge.com/2023/7/26/23809237/waymo-via-autonomous-truck-delay-timeline-layoffs"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/iGHzmTGcFmyLWMXETTMbBmGabng=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22787621/vpavic_191202_3827_0042.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "lERolpfae7aqWS0lNXZNvN5iCdFQrL3CYFHZZPY/CSoPcW8s7mcSIhTZaxDDe9mXDLoQei6MOrP9t4Ts0fBI1gh2La9UXKaeB5tBCjKmIAPDD54wzUL++Cj77SZmD1x9s2pM6xD5BHrHsG0Fngm+gifQhS+lXIZqEmYlkeyUpRT/b7zMnGPT1A8Vx3blJIbt1EU3gVgrI5ANW80HVgWrostr/MNoaOXfQBnof6ufvS78BzNWjUa3sx0GLMTvZ4YZ2SIPBQJLkmK7peHrOBezDslQOUpZGg/rxO9Jndj3pXxJuW2jX8PGhx7HOuPzQmCbe1yRXPxV8Dr9p4o45okgKBkwaKXgaN+8pzpfVYU4GLI=;Eje2F0K9RA8ZKrE7a3uzjQ=="
 ---

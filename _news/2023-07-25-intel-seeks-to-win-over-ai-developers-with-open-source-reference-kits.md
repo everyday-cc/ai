@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Every engineer will need to have some artificial intelligence expertise’"
+    excerpt: "Like cloud, every engineer will be expected to have some AI expertise – AI programming or usage of AI models/libraries, data analysis, AI system governance and such. Organisations are now even talking about the role of a chief AI ethics officer. What initiatives and solutions has Publicis Sapient implemented using GenAI?"
+    publishedDateTime: 2023-07-26T23:00:00Z
+    webUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/"
+    ampWebUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 58
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/artificial-intqqq.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "LaLiga transforms fan experience with AI"
     excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
     publishedDateTime: 2023-07-24T23:48:00Z

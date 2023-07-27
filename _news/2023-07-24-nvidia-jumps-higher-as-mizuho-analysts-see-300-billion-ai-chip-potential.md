@@ -3,20 +3,26 @@ category: news
 title: "Nvidia Jumps Higher As Mizuho Analysts See $300 Billion AI Chip Potential"
 excerpt: "Nvidia's 'dominating' presence in the expanding AI chip market could peg its market value near $2 trillion by 2027."
 publishedDateTime: 2023-07-24T11:14:00Z
-originalUrl: "https://www.thestreet.com/investing/stocks/nvidia-higher-as-mizuho-analysts-see-300-billion-ai-potential"
-webUrl: "https://www.thestreet.com/investing/stocks/nvidia-higher-as-mizuho-analysts-see-300-billion-ai-potential"
+originalUrl: "https://www.news-journal.com/arena/thestreet/nvidia-jumps-higher-as-mizuho-analysts-see-300-billion-ai-chip-potential/article_c8d769fa-de43-5e5e-a3e9-d72ff9bd3b59.html"
+webUrl: "https://www.news-journal.com/arena/thestreet/nvidia-jumps-higher-as-mizuho-analysts-see-300-billion-ai-chip-potential/article_c8d769fa-de43-5e5e-a3e9-d72ff9bd3b59.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/c8/dc8b0143-bc99-531f-b239-97980bd7e244/64be6d07c4dac.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
+    width: 620
+    height: 326
+    isCached: true
 
 related:
   - title: "Nvidia is ‘dominating’ and could unlock $300 billion in AI revenue by 2027, analyst says"
@@ -66,6 +72,6 @@ related:
         height: 533
         isCached: true
 
-secured: "fB1SpAWPnv3epf5PDzhOeP3zNymkpEVVKqP93D4z6JTB3o6pMnh0XhsZOnnuz1IS0qnkfIupjXJJqH+/SiBntgI+ZOaHelc5zPPufqxsb/005WhbnOTB2zxT6dDvX7wtd5kMvomuDK1oX3YId066YsezAdnXwUKM7ezKgAOav8MhEOP6pMf2RMawNYNMjOGsap6mOFszOSUu6b5TAGSf14BjSkotknoZTtZn86sIg5UdpS42989SR/jO8TuBsvvUBQBXfDXNtM8uBH+WMXK8RfqHDbx8HRxmhzOqm4go6t38+Ygifn5pUSO/nFt/MR/tpAtyV6+fwIFO0q5Bq+WlJxljjdLlPhxiVsY6ZYcWQ/VnCLf+7JOZFZ9i7e/azg6iXEx0z5Gsrzh5q6mbfETID04WHsVcv8hVPikYar3QowdVVlZoXZ9VIXOaa2/rVNdES8ZwqnPZTkFVvukJQrbhpTHkGd8pA8Z/6/6S/00V9+nEPMNz5EkReZnD5/P2uGNWLMcT1HPhzkYtMjjttVKDEg==;yng481UEbHPPoRc7bfBRqQ=="
+secured: "DB/2si1wbO43Ch2J4Lf8Dg94+gBTQg5/OopEqNb2vgdjT+HMqdr7aNuO25wmdwLHv1eRuL3bnRXfOQHNCsdrMhu98GWp+WUbv3ghLyOy7jTlpZe6NOPKJNt0gUWlBA7JmnBJW5Vpny29nkgTap0CwJS7t4VXzi+aydBlI22SPgSFEQKY0SZEm7sugKmm42/YEOMrY2drR+3d8X4kmYTylaE33tCoCLz/4QiWkIXDdtYW90WR4Ct404hPI6gqOr5G4FlAW3RJ4ej5IyIvA83xx1LKu9MfPCZZBD1rphi2d4r8g37puVk6zSIRHO9M6EBGJ6AqTlQuVCvKJ2/rgIFlJ8NC0BPjgI9Id4VeS1D5FlA=;5bLIz9tbri3CdMw+Ouqdwg=="
 ---
 

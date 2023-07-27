@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/cadence-design-results-idUSL4N39A4
 webUrl: "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lam Research sales forecast beats estimates on AI boom"
+    excerpt: "Chip-making tools supplier Lam Research forecast quarterly revenue above Wall Street estimates, as semiconductor makers scramble to meet a surge in demand fueled by rising adoption of artificial intelligence (AI) technology."
+    publishedDateTime: 2023-07-26T21:33:00Z
+    webUrl: "https://www.reuters.com/article/lam-research-results/lam-research-sales-forecast-beats-estimates-on-ai-boom-idUSKBN2Z625V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/g73N9n8Giy_-Z2jEDA54bOOfaAA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VF5N7CEDBJO2NM7U5HEVSNOERQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ServiceNow Raises Sales Forecast, Bets on Boost From AI"
     excerpt: "ServiceNow Inc. raised its annual subscription sales forecast, signaling a strong pipeline for automation software and betting the interest in artificial intelligence will continue to boost demand."
     publishedDateTime: 2023-07-26T20:14:00Z

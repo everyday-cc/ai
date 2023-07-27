@@ -43,6 +43,20 @@ related:
         width: 980
         height: 671
         isCached: true
+  - title: "Butte Library using artificial intelligence to educate, create"
+    excerpt: "Butte-Silver Bow Library's IT specialist Axel Samano created an AI program that is the ghost of Frank Little, a labor leader killed in a lynching in Butte in 1917."
+    publishedDateTime: 2023-07-26T18:40:00Z
+    webUrl: "https://www.kpax.com/news/montana-news/butte-library-using-artificial-intelligence-to-educate-create"
+    type: article
+    provider:
+      name: kpax
+      domain: kpax.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3befff1/2147483647/strip/true/crop/1416x743+0+17/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2Fab%2F1f6a1e3944e99a815f52d1b93f95%2Fai-technology.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gH0voAdkBlmha6NpBCGmTuB9ek6ifvG0+SbU2GX0N5FYwa3SDCJ6i4qcud3ZxDOwA5HZ0t35OOBvIacKGxjitaHlydnEB2avhrqK67xgy7cous3FcA1oVOh3apTh2gH0FAH7xvvXSkOjz9GIo2E4EeQAh8sOFwgI5mp/OS+dCMhGISgNV+uzOMrgowck5SebNTzvjdcY2J72OhrfD1x1YrvmtMRDaJ6JeUG0njgbEU1CONxr6BV+631TtT72bhV9RvGFRzDcUCCzE2nRscrL9OKZOyXuznrGCv4WNG7paN5nCbo4oNUpqV5l/fBmB7GOnjN/b+vqWsD+gAqyttLiWKHaW+dfMDtrsyikALsPCXo=;XsWuZcx3s+b+nU2TQ1zZ/Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/"
 type: article
 quality: 89
-heat: 103
+heat: 99
 published: true
 
 provider:

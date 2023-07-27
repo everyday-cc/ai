@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity In The Era Of AI And Quantum"
-    excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
-    publishedDateTime: 2023-07-22T05:29:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1500
-        isCached: true
   - title: "White House Cybersecurity Plan Misses the Boat on AI and IoT | Opinion"
     excerpt: "The Biden administration's long-delayed National Cybersecurity Strategy Implementation Plan is here, and it's shockingly inadequate. Artificial intelligence (AI) doesn't appear once in the 57-page document."
     publishedDateTime: 2023-07-26T11:29:00Z
@@ -71,20 +55,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
         width: 2500
         height: 1313
-        isCached: true
-  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
-    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
-    publishedDateTime: 2023-07-23T16:11:00Z
-    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
         isCached: true
   - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
     excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."

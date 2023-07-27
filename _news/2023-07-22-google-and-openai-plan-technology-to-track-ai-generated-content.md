@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-op
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
     excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
     publishedDateTime: 2023-07-26T01:23:00Z
@@ -161,6 +175,20 @@ related:
       - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
         width: 1200
         height: 674
+        isCached: true
+  - title: "How businesses can leverage AI-generated text"
+    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
+    publishedDateTime: 2023-07-26T23:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
+        width: 897
+        height: 500
         isCached: true
   - title: "This Startup Wants to Create An AI-Generated CNN"
     excerpt: "Channel 1 News, from former 'Tosh.0' veteran Scott Zabielski and entrepreneur Adam Mosam, plans to use generative AI to create personalized newscasts."

@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "This Chip Stock Expects a Stunning 50% CAGR in AI Revenue Over the Next Five Years, and It's Not Nvidia"
+    excerpt: "This Chip Stock Expects a Stunning 50% CAGR in AI Revenue Over the Next Five Years, and It's Not Nvidia Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-07-26T22:31:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/this-chip-stock-expects-a-stunning-50-cagr-in-ai-r/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/741382/copy-of-jose-najarro-2023-07-25t181225501.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to AMD and Nvidia in AI"
     excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
     publishedDateTime: 2023-07-24T19:41:00Z

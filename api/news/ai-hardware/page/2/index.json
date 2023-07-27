@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-20-corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names.md",
+      "title": "Corporate earnings season heating up, TSMC outlook adding concerns to AI and chip names",
+      "excerpt": "- Industrials: Saab [SAABB.SE] +3.5% (Q2 results), Electrolux [ELUXB.SE] -15.0% (earnings; starts preparations for a potential divestment of Zanussi and other non-core brands during the coming years which could be valued at SEK10B in total), Volvo Cars [VOLCARB.SE] -1.0% (Q2 results), Alfa Laval [ALFA.SE] +6.0% (Q2 results).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "originalUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editorial.fxstreet.com/images/Markets/Equities/DowJones/DowJones_frontbuilding_Small.jpg",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "publishedDateTime": "2023-07-20T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-taiwans-export-orders-slump-for-10th-straight-month-in-june-taipei-pins-hopes-on-ai-demand.md",
       "title": "Taiwan’s export orders slump for 10th straight month in June, Taipei pins hopes on AI demand",
       "excerpt": "Taiwan’s export orders fell by 24.9 per cent from a year ago in June, but Taipei expects improvements in the second half of the year due to the growing demand for its artificial intelligence (AI) supply chain.",
@@ -1090,10 +1133,10 @@
     {
       "path": "_news/2023-07-14-gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing.md",
       "title": "GigaIO Introduces the First Ever 32 GPU Single-Node Supercomputer for Next-Gen AI and Technical Computing",
-      "excerpt": "GigaIO's SuperNODE system was tested with 32 AMD Instinct MI210 accelerators on a Supermicro 1U server powered by dual 3 rd Gen MD EPYC ™ processors, using Hashcat and Resnet50. Both tests demonstrated unprecedented scalability, with Hashcat showing a 100% scale factor and Resnet 99%.",
+      "excerpt": "“As AI workloads become more broadly adopted ... “And as large language model applications drive demand for more GPU performance, technologies that work to minimize node-to-accelerator ...",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/07/13/9848192.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/07/13/9848192.htm",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230713658216/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1103,11 +1146,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T12:09:00-07:00",
+      "publishedDateTime": "2023-07-13T10:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1354,59 +1397,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly.md",
-      "title": "AMD-powered LUMI supercomputer lets TurkuNLP create new AI models quickly",
-      "excerpt": "Powered by Advanced Micro Devices chips, the LUMI supercomputer – recently ranked as the fastest supercomputer in Europe as well as one of the most energy efficient – has enabled the TurkuNLP Group to create new models quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
-      "originalUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/lumi-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

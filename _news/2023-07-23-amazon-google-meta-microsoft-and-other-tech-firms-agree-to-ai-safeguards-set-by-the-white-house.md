@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft to supply AI tech to Japan government -Nikkei"
+    excerpt: "Microsoft Corp will provide artificial intelligence technology to the Japanese government after enhancing the processing power of its data centres located within the country, the Nikkei newspaper reported on Thursday."
+    publishedDateTime: 2023-07-26T22:27:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-supply-ai-tech-japan-government-nikkei-2023-07-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/f21U5LqpEcGxuv-wMjJHq0GdpIw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XJKGLP3IJBOCDPPD7XALAXBS6Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft and Alphabet’s results indicate the AI game is more of a long-term strategy"
     excerpt: "Alphabet and Microsoft's results clearly indicate that the costs are high if you want to stay on the leaderboard in the modern AI arena."
     publishedDateTime: 2023-07-26T16:40:00Z
@@ -254,6 +268,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230726vl200_files/1_2b.jpg"
         width: 1280
         height: 865
+        isCached: true
+  - title: "Dentsu Partners with Microsoft to Unleash AI-powered Innovation for Brands"
+    excerpt: "Little Black Book, Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment"
+    publishedDateTime: 2023-07-26T13:11:00Z
+    webUrl: "https://www.lbbonline.com/news/dentsu-partners-with-microsoft-to-unleash-ai-powered-innovation-for-brands"
+    type: article
+    provider:
+      name: lbbonline
+      domain: lbbonline.com
+    quality: 52
+    images:
+      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/dentsu_z6KgUEG_elKe9jk.png"
+        width: 925
+        height: 521
         isCached: true
   - title: "Google, OpenAI, Microsoft and Anthropic join forces to promote safe AI development"
     excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Microsoft Vice Chair and President Brad Smith. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"

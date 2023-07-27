@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recogni
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
 type: article
 quality: 59
-heat: 81
+heat: 79
 published: true
 
 provider:

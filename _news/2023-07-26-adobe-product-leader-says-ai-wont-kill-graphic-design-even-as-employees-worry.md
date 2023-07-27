@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/adobe-product-leader-says-ai-wont-kill-
 webUrl: "https://venturebeat.com/ai/adobe-product-leader-says-ai-wont-kill-graphic-design-even-as-employees-worry/"
 type: article
 quality: 63
-heat: 73
+heat: 75
 published: true
 
 provider:

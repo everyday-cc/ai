@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/akuity-launches-an-ai-assistant-f
 webUrl: "https://venturebeat.com/business/akuity-launches-an-ai-assistant-for-argo-cd-to-help-troubleshoot-common-kubernetes-deployment-issues/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
+    excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
+    publishedDateTime: 2023-07-26T07:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854129.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/2161813/WPS_AI_Showcase.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "OZzeHFDUmLjd09aRrN0Im3NC7Vrldsj4FNs0Bibx3ukOJXNdiODUSjfsxZ2WcyfpilWlrSZ0h9KILkDza/5hGbIyD7lZuWuXPQ4u2JQDuxsWrPczDtRBJv/FjPfX10GlK26571Imj8/la4E6is3iOUSffyFoO+wSwhDeRvUUxFhqCQ/LbJG13wZktC2Hwmwpyp7rPnY/aEAT6RIoYqy5h+iZYe8v4syiME9DTEgJTFGkUNCMmnvlZsjEeR7XTDdhZFGQVdYrMHu/X0xfxn5E+x/WGZUS4XBTdoV9HnHekWOh6R7hzdmbp0hY+bN0gnDhUsD9KcrqkIwX1SgegjSbTvW3l/cwI/6xlKK2HI8H51E=;ArLke8KBL/keh1HPETsfeQ=="
 ---
