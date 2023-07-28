@@ -96,6 +96,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0"
+    excerpt: "AI startup Stability AI continues to refine its generative AI models in the face of increasing competition — and"
+    publishedDateTime: 2023-07-28T05:57:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/290781/Stability-AI-releases-its-latest-image-generating-model,-Stable-Diffusion-XL-1.0"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 32
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-27-161814003.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Stability AI launches text-to-image model Stable Diffusion XL 1.0 on Amazon Bedrock"
     excerpt: "SDXL 1.0 is just the latest addition to Stability AI’s growing library of AI models. In April, it announced the release of StableLM, which more closely resembles ChatGPT with its ability to generate text and code. Last month, it debuted Stable Doodle, a “sketch-to-image” tool that works by converting simple sketches into more illuminating images."
     publishedDateTime: 2023-07-26T16:30:00Z

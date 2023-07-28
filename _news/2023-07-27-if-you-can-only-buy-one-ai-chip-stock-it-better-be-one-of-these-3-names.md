@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010"
 type: article
 quality: 65
-heat: 105
+heat: 106
 published: true
 
 provider:

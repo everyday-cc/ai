@@ -87,6 +87,20 @@ related:
         width: 251
         height: 251
         isCached: true
+  - title: "Why AI Will Never Replace Reporters at the NYT"
+    excerpt: "Cary Grant, Ralph Bellamy, and Rosalind Russel in His Girl Friday, Hoard Hawks, director, Columbia Pictures, 1940. Screenshot. Time: Spring 2024"
+    publishedDateTime: 2023-07-28T05:31:00Z
+    webUrl: "https://www.counterpunch.org/2023/07/28/why-ai-will-never-replace-reporters-at-the-nyt/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
+        width: 1429
+        height: 1053
+        isCached: true
   - title: "Democracy, Defence and Conflict in the Age of AI"
     excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
     publishedDateTime: 2023-07-25T03:07:00Z

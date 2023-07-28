@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffus
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
         width: 1893
         height: 767
+        isCached: true
+  - title: "Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0"
+    excerpt: "AI startup Stability AI continues to refine its generative AI models in the face of increasing competition — and"
+    publishedDateTime: 2023-07-28T05:57:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/290781/Stability-AI-releases-its-latest-image-generating-model,-Stable-Diffusion-XL-1.0"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 32
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-27-161814003.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Stability AI launches text-to-image model Stable Diffusion XL 1.0 on Amazon Bedrock"
     excerpt: "SDXL 1.0 is just the latest addition to Stability AI’s growing library of AI models. In April, it announced the release of StableLM, which more closely resembles ChatGPT with its ability to generate text and code. Last month, it debuted Stable Doodle, a “sketch-to-image” tool that works by converting simple sketches into more illuminating images."

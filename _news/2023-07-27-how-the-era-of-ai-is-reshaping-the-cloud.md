@@ -31,15 +31,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Making Sense Of Tech Companies’ AI Commitments To The White House"
-    excerpt: "Tech companies made commitments to the White House around the safety, security and trust of their AI systems. There are tradeoffs associated with these commitments."
-    publishedDateTime: 2023-07-23T12:24:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/07/23/making-sense-of-tech-companies-ai-commitments-to-the-white-house/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
     excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
     publishedDateTime: 2023-07-25T08:42:00Z

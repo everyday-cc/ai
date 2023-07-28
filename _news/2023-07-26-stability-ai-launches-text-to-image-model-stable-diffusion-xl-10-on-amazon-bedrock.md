@@ -109,6 +109,20 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0"
+    excerpt: "AI startup Stability AI continues to refine its generative AI models in the face of increasing competition — and"
+    publishedDateTime: 2023-07-28T05:57:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/290781/Stability-AI-releases-its-latest-image-generating-model,-Stable-Diffusion-XL-1.0"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 32
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-27-161814003.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Stability AI Unveils Stable Diffusion XL 1.0"
     excerpt: "AI startup Stability AI has taken a significant leap forward in the realm of generative AI models. The company recently announced the release of its latest text-to-image model, Stable Diffusion XL 1.0."
     publishedDateTime: 2023-07-26T18:07:00Z

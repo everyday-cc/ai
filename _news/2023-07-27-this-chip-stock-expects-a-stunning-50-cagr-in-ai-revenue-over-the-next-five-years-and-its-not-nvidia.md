@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "NVIDIA prioritizes AI GPU supply for long-term partners"
+    excerpt: "NVIDIA has given its long-term partners, including Quanta Computer, Wistron, and Supermicro, priority to receive its AI GPUs which are in great demand, according to industry sources. TSMC, the manufacturer of NVIDIA's chips,"
+    publishedDateTime: 2023-07-28T03:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20230728PD208/ai-server-ic-manufacturing-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230728pd208_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
     publishedDateTime: 2023-07-25T00:36:00Z

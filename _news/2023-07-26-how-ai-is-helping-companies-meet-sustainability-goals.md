@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustaina
 webUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/"
 type: article
 quality: 99
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Making Sense Of Tech Companies’ AI Commitments To The White House"
-    excerpt: "Tech companies made commitments to the White House around the safety, security and trust of their AI systems. There are tradeoffs associated with these commitments."
-    publishedDateTime: 2023-07-23T12:24:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/07/23/making-sense-of-tech-companies-ai-commitments-to-the-white-house/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How The Era Of AI Is Reshaping The Cloud"
     excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
     publishedDateTime: 2023-07-27T13:30:00Z

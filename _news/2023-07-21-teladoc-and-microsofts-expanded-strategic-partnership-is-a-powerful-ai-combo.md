@@ -18,6 +18,12 @@ topics:
   - Microsoft AI
   - AI
 
+images:
+  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204743045/image_1204743045.jpg?io=getty-c-w1536"
+    width: 1536
+    height: 836
+    isCached: true
+
 related:
   - title: "An AI-generated ‘South Park’ episode, Microsoft’s security woes, and Tesla’s first Cybertruck build"
     excerpt: "In this edition of Week in Review, we cover the AI-generated \"South Park\" episode, Microsoft's security woes and Tesla's first Cybertruck build."
@@ -237,6 +243,6 @@ related:
       domain: moneymorning.com
     quality: 36
 
-secured: "OjwoliAUBYK10Azf2iIrdyK+gGSojMpMcQLDtjkGzLtZ9oazv6oHgLNW4eRYrF068cK9xMoxqXt1jtWjmQpiaYpJBMcNDUvPH9bvVii6B+XC+QpeTPrQiqMx1wNz9QnLwkU9zAeIjRCyM4lzbvjW8yovUMzkOU58n4i0ZHBZtTE6r8wI8RFTekdii6BLRKA83B2yo0IV/65UFLT+/Y7knvuzumT04V52bjcfSPAXu00ZUNGQFnXVD7F1tGCB/YBqLpUlKbex/hH0ju5niP5yc3Dm+/Ar5pk9zAX+11JaZbvnsHuy4Y3FABLOhE4ugohqW3q0LNixo8G6lpweOOtmWawpI4C5eOckxv4QMLQxGfA=;O8a46x2ALX6nLEV8/wHg5Q=="
+secured: "PzGNrrxY7YyFCNmYOz/xGJOomIEY9YY/04eqoHbjhCDtAFKuXyzWwinTtwzQBtjuLiPuxqkwI2QJHCWMuunYGtuOVRLSWu6PPBcZFM5Y9iVAgD9Ahzv56l/1JPL1E+vndrIyfe0OiIXeM4Yg1ZO8s5i7ekgV6NPQHjk2oOXgaEy4JvcA0pvi3r7Z3suPFtThi7j37IComt5rjfa/7fMch9/Z8McqAwwdnPRSFW6Cz/pJF1CxdViTSEvRi4gtaJjY66az8axWOnhGMca6m8J2BFxxjh3DTiZZ0618JOf4YPWkvOBd8cZsxeN8gawEeoupZ8Xx5sOHHcJ2so4zmwESJD0+Fd5LwzMXMq+nhFk5Olc=;nccr1SduDXiV51dUS64Shw=="
 ---
 

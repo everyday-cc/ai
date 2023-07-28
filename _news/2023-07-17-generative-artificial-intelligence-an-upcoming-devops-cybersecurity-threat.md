@@ -5,6 +5,8 @@ excerpt: "Understanding the potential vulnerabilities is the best way to set you
 publishedDateTime: 2023-07-17T12:14:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/amp/"
 type: article
 quality: 44
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6399d93eaccb6518c9a6c001/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Continues To Revolutionize Cybersecurity"
@@ -94,6 +103,6 @@ related:
       domain: cbsnews.com
     quality: 17
 
-secured: "jvRncEjPVW7Sp78jvag6ggkAFWSZK+ZKOXaTmwne+xJfrbPfIVCBNQHeSnnDyEiXJYGqdYGdbKLyfsE1vTI7oZhAqqAJ625VWV0UOepbyRcWmIDQbXFoJERnb0BkI797XLKOI9XFn6vGbH5KhFvUjwhwGwdEySxV4cPTH0SAznGC3pp8dt7PeZEqjtZvEvHzpLp2lDACB0CvQYnPNYGWOvBr2yyKDNvzKKJi8yiD/+sMc1GZdD1oOy1LemoBprZMO0t+bHVCl1rGA8xg8cWqWSZIJo0nt2mjdXh75pPo3X0Qw0zFmvYxbYpL6fqi3D8Iv6quOd7UQTjUf/wTySlCA1z4OZD8RTR0NNdbjbfFiZ+3Lmsur5dKQw9g/SIF33PCC3XGJ427bxmNoCp1XwEmUl09+WC1ifndfFQqB3JUYQ3tcIghnr+8xSpAHXQlKDtjZibMc/X0VEISq9O/42H/s+kaFQh+x0yoRMa5Hjo3e3biMFUisbnUP27rqMADModYHs13xIkg3Oomi2fmePC+GQ==;c/3pQiPjphoRUDnluZ5nHQ=="
+secured: "/VU1OCPLDYjCwBLouXfc5wd2UD7Q/vCBV7fwzwDWsROqBZsWyfc2C4GzTNMRnN9WtD8GIyBdKkWWnDug7UUY6itPgJAMqkgOsDXyA4PqjpOMkxbQIDxm4oG/+gkQAbIgKVyR2eVMg0J4cOKE2M5KHWN9l1xpr7NNUZnbODIfu4F4ae355EyMCro+YxOtx34J/jjx4Qfx8VD4/L7n2fcSOsr28se3vZ/ReFLPlSFgK+Z3TDWJSTYC9kuTcG9tPtS2IX+JBT8Hxod9ap/JUA+9WNXLevd054edt33mrPT3x2Q5kgBuxzF7vR8gzBJAixvwA9c1+ankUMKFPvTca/dHrY78DjGpdiTQCl5MtI8BUUI=;kLhGgtIGgWWg4KISCzcKWQ=="
 ---
 

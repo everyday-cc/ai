@@ -65,6 +65,20 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Tiny surgical robots could transform detection and treatment of cancers"
+    excerpt: "A tiny robot which can travel deep into the lungs to detect and treat the first signs of cancer has been developed by researchers at the University of Leeds."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996661"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c71a7a42-10ed-4896-8b06-520ba8adb2d8/Rendition/thumbnail/Content/Public"
+        width: 952
+        height: 507
+        isCached: true
   - title: "How AI could help detect wildfires earlier"
     excerpt: "The big picture: Currently, at least seven states use AI detection to monitor wildfires, including California's Department of Forestry and Fire Protection (CalFire) and Arizona's Salt River Project."
     publishedDateTime: 2023-07-24T20:57:00Z

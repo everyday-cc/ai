@@ -42,21 +42,16 @@ related:
         height: 628
         isCached: true
   - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
-    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
-    publishedDateTime: 2023-07-25T21:46:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to reshape the competitive landscape."
+    publishedDateTime: 2023-07-25T20:30:00Z
+    webUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+    ampWebUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 31
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 11
 
 secured: "xWDLklmhWTdbu1340MR1kCIejpDXzY1Z7TzZpdZNnV8mbHUuvy3gTI8xraJsnYtFNGQSV6hAleyFGCLz6fSYEkZ/mqpin8X7qxZ0Cf4U3KK0Au4ey3NsaPHwheMim2OM34cSMbWxFV1F+XdrdCHKJ9qo1gBOVBUZBF3XTtrhO2JJeYYFdIO7eCZQ8q6bIug96/zKcUS4w1ZfL1w5oLBnKUMeYGrzX8ApMSyctk5sdEQhTaRjlKKAzmVUXIyeIu9vgbKXQgsnG9oYTuBSnmhL0a51TpMv3dt17JiLCJoXZdyRZR+hmJJysm3nTQP1hsg8W7QTsOnNaCQxXIC3QEIwoercGWjRjD7dZwnQPVXUgOcQL/UFqXVN9uiecAq4jVSnc/LOX/23PQaZxLvHgzyv6xboWc6EV1gxEA+jselEfe20hTp5QuFBtWClTA7zBFZjaMMYrinORpsTibspO5BuPi1cUX9UCP1UU1mESm0M7ondo8R6pwQLJ9lEJRLhbYPSrUgO8qN7PxLnEqQrZQ9hHA==;6glmBm8UMKftCQd7gwOoBw=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1062
         height: 597
         isCached: true
+  - title: "Self-Driving Cars Are Here. What Could Go Wrong."
+    excerpt: "Hundreds of autonomous vehicles from Amazon, GM, and Alphabet are operating across the country. But safety concerns are real, as are fears about the U.S. falling behind China in driverless technology."
+    publishedDateTime: 2023-07-27T21:04:00Z
+    webUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+    ampWebUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-824945?size=1.5005861664712778&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US lawmakers struggle to find deal on self-driving cars: Report"
     excerpt: "Approval for self-driving car legislation in Congress is uncertain due to concerns about China's aggressive efforts in this technology. Opposition from safety groups and labor unions also raises apprehensions about the proposed legislation."
     publishedDateTime: 2023-07-27T21:51:00Z

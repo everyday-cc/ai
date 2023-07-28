@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM’s Watson rebooted as a secure AI alternative"
-excerpt: "IBM jumped into the generative artificial intelligence rumble last week with the roll-out of watsonx. The platform is a far cry from Big Blue’s Watson “cognitive computing” platform ..."
-publishedDateTime: 2023-07-21T00:32:00Z
-originalUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
-webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
+excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
+publishedDateTime: 2023-07-20T20:51:00Z
+originalUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
+webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 568
     isCached: true
 
-secured: "QHB1kewO/KBuFa+GJyxhdVby0zd9aseD7YT/+oLIuEFJDSIqwbR4SrvboiG2sx3yuvm2MaEj1qpNxdIOJ9OwcCvBWLs2TILe8W+kl1as4KzM2atoSqUS4GdwKbx5QOs1ioUVrmeZy7ahVZke5Esy7HAO2lOUj9weFohMyanclCgEt0dDZ9n8xj27xiwzBszdct+kF6Jh8cbXGWvrZELxoQ0ttdQ7ffVL0yH06IL1bW3zdpmC2IUCf0IhsPhJobc6m+Uspj2ov+GSaW5QoOU6If/qQIHEB6VyoA2UlPT+tIL96yk2283NdAKYTx2EszrI3tWvMmBMLM8L2AyOaZFMUhOJilnOQhaf8pLPlHbcqcg=;FqGG+uO/uv2eorpw7QDG3A=="
+secured: "Y3lcpnkOhnD8RvqdDqx7jq4VOYOJWx9xVMUBCZgPoa9hhAldQMnLWLVtnx1tIrzZ4g+wAWJ3O5EPrLWIsn85hTemQNOt0XygPKL3unVbymiwFM0F/O2YYhWzErhXtYaYmOB6G3cFC1w7gfcQ4rRqB3JVWFTpxIHSYAuXDRv1wv045j/N+76TgKjUqWzdD5KDuN1pdOuCHEhhYnkl8bfztlOjYFDTgMysyjwXVgxENj9b68zb4qVkxCtTJKN2x0HmukG8PHKx2h/rOwmV8HHrycMofvmzUaZ7Zpv4ix+M3Y1wjdqDeNHia8tZmYhw/4/tvHE0RFmMboIDVFUWNAYsmEsxkHhs7pSFjMpGdS1zF/s=;rNhVjVZwwlLEXQOcZ2DInA=="
 ---
 

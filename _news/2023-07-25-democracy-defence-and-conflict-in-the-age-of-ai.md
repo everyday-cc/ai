@@ -100,6 +100,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Why AI Will Never Replace Reporters at the NYT"
+    excerpt: "Cary Grant, Ralph Bellamy, and Rosalind Russel in His Girl Friday, Hoard Hawks, director, Columbia Pictures, 1940. Screenshot. Time: Spring 2024"
+    publishedDateTime: 2023-07-28T05:31:00Z
+    webUrl: "https://www.counterpunch.org/2023/07/28/why-ai-will-never-replace-reporters-at-the-nyt/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
+        width: 1429
+        height: 1053
+        isCached: true
   - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
     excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."
     publishedDateTime: 2023-07-26T18:43:00Z

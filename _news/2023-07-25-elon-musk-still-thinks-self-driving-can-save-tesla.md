@@ -39,20 +39,6 @@ related:
         width: 2314
         height: 1296
         isCached: true
-  - title: "Missed Out on Nvidia's Surge? Buy This Cheap AI Stock Before It Doubles."
-    excerpt: "The chipmaker's price-to-sales ratio stands at a whopping 44, while its trailing earnings multiple is 237. Investors may not be comfortable buying Nvidia at such expensive multiples despite the terrific growth that the chipmaker is expected to deliver."
-    publishedDateTime: 2023-07-23T11:15:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740433/person-holding-a-smartphone-with-a-stock-chart-on-screen.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Nvidia Investors Need A Reality Check, Focus On Risks Facing Global Chip Industry: FT"
     excerpt: "For instance, when a new iPhone is launched, it requires a massive order of high-end chips. Currently, there’s an oversupply of chips, which hides potential risks. Furthermore, Nvidia’s chips are also crucial in the gaming and crypto sectors, which adds to the competition for chip supply."
     publishedDateTime: 2023-07-26T04:17:00Z

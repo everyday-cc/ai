@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous voice to parliament supporters say Anthony Albanese shouldn’t delay referendum"
-    excerpt: "Voice co-architect and senior Australian of the Year Tom Calma says the referendum must be held this year and a delay will not change the will of the people, as Anthony Albanese is told to “go the course” by Yes advocates."
-    publishedDateTime: 2023-07-23T11:33:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 15
   - title: "A vote for an Indigenous voice to parliament makes economic sense"
     excerpt: "The voice is about recognition, listening and making sure the billions of dollars we invest in programs are getting value for money and improving lives."
     publishedDateTime: 2023-07-27T08:30:00Z

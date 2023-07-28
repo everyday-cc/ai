@@ -30,17 +30,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "Indigenous voice to parliament supporters say Anthony Albanese shouldn’t delay referendum"
-    excerpt: "Voice co-architect and senior Australian of the Year Tom Calma says the referendum must be held this year and a delay will not change the will of the people, as Anthony Albanese is told to “go the course” by Yes advocates."
-    publishedDateTime: 2023-07-23T11:33:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 15
 
 secured: "zad2v5M80bWO11wJy+C+BI0rr5dFpAtPMoWruPKl7usXWkWoNQS4rW65O+rjNDRxZOUDuLe4zr92aVbRgeYuZSRE9Hk0hrAd18FRlVtGDr1zfWID3yI8MHN6qSc+qxeihOkInhq+o2XKCuMUZY4yzVmKwXJwfhL82zPJrBhWc2KeZygheViuOQD+aLAjgol5mef5VorUWVClsvWBr5oKHICKEdTpeCRfGx5qEjhIP87qrAQ422Pjl7GbohtlMYDkUDAtNWOarg/rO/JqjrbkeP8xb22f8Iy1rvu4N+qJAAmaUyPlE4DQ02d8R1yhFFH8+co4st/JUHUoJcFfkWpLNximoBgU3QyDj6MDlzB7dLS6e5KdpYr7v3ac5JdslOaBiQNXMWsC1LWyM4sy5GNERpyNKJcCW+V9VK/4a8BTTZfb8xEsfOeoZszOwg4md27hmk1uY14MB+bfTtVFEBUafkTNLSR6owypAJ8ZkE/U0iGaHdszEz36OaXmN10GCb3jHTc8Wd/Bl+B6fcT+ucrqSw==;Al2Durb6k2tdQVcfmNhYlg=="
 ---

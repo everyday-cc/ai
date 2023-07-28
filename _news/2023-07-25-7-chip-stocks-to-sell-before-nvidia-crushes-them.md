@@ -85,6 +85,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NVIDIA prioritizes AI GPU supply for long-term partners"
+    excerpt: "NVIDIA has given its long-term partners, including Quanta Computer, Wistron, and Supermicro, priority to receive its AI GPUs which are in great demand, according to industry sources. TSMC, the manufacturer of NVIDIA's chips,"
+    publishedDateTime: 2023-07-28T03:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20230728PD208/ai-server-ic-manufacturing-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230728pd208_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
     excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
     publishedDateTime: 2023-07-25T03:43:00Z
