@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chip Giant TSMC Determined To 'Keep Roots In Taiwan': CEO"
+    excerpt: "Semiconductor giant TSMC said it was determined to \"keep its roots in Taiwan\" as it launched a massive facility in the island's north on Friday geared towards developing the world's most cutting-edge microchips."
+    publishedDateTime: 2023-07-28T07:45:00Z
+    webUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+    ampWebUrl: "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1113229468787666246496686568250953985199---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Taiwan Semi Invests Outside U.S. to Meet AI Chip Demand as Arizona Plant Delayed"
     excerpt: "TSMC, the world’s largest contract chip maker, is planning a new facility in Taiwan, while a report also suggests it is close to an investment in Germany."
     publishedDateTime: 2023-07-25T13:54:00Z

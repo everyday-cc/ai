@@ -585,20 +585,6 @@ related:
         width: 1280
         height: 894
         isCached: true
-  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-    excerpt: "The commitments include third-party oversight of the workings of commercial AI systems, though they don’t detail who will audit the technology or hold the companies accountable."
-    publishedDateTime: 2023-07-23T13:21:00Z
-    webUrl: "https://www.lex18.com/news/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house"
-    type: article
-    provider:
-      name: lex18
-      domain: lex18.com
-    quality: 40
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/554590f/2147483647/strip/true/crop/5622x2952+0+398/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F23%2F70%2F0c810b0d456787679becc36eb5ee%2Fap23202666560057.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Genpact Collaborates with Microsoft to Equip Workforce with AI Tools, Fueling Enterprise Innovation"
     excerpt: "Azure’s cloud infrastructure coupled with the flexibility of the Azure OpenAI Service will help accelerate these solution developments. “Generative AI’s potential to drive innovation is unprecedented, and by democratizing access to this technology ..."
     publishedDateTime: 2023-07-25T10:50:00Z

@@ -25,22 +25,6 @@ images:
     height: 668
     isCached: true
 
-related:
-  - title: "AI can make life easier, but it could seriously distort democracies"
-    excerpt: "While artificial intelligence is a transformative tool that can release us from tedious tasks, we must be wary of its unprecedented power to to supercharge propaganda"
-    publishedDateTime: 2023-07-26T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25934493-600-ai-can-make-life-easier-but-it-could-seriously-distort-democracies/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/26125527/SEI_1653894801.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-
 secured: "KZbnh8fFLVSWTX0HZmTjYUUxgLLKYRHpo+VbbtnqJ9IXddFL/PI4S6o8SVKMOELE07UKYicnn4gHrU/BAo1eBz0HNwTH+EL6GLky1SATcCVgzIHFfGz+p8LB6mta9OBekyfWNn6X2BXYgALaAsNmCIYvNLJaEZQ0czOh+AbzZi4wcNu0U502PUJOg2GdCIAiJf/kOZQCqAGTP+HZIzIJYRtdFlZAAtJ15uD5QApG6CBH5Ru2KRtIqY8ZH4yPQ+bqo2GuecBxoqtw5O84ua4oYyQhAGZZ4xV0YT86C1h/4//2c1ztdmWI9x2gUhDOe/7tzERHBB3aFfpI3jskinw9JMZZieLfxUpI3rEUNLePANzZq9la2ttHxgSpLI+eG10bq9jdZY18brtcPJxJ5UU0+oxTkjgql7MewOLqVBwbfgrsRnHmKPj2R4nvumtmMXt40bQG97rz5OoxMdIqmFTjMqtm0DTs4XFY5Rvcei6dObgOFg4wUbcaJfgZahPuYRN56fyRhDhpPcJBq2jfB1C6Rw==;se25hPFpgivfVhdojwF5aA=="
 ---
 

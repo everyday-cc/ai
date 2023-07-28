@@ -7,7 +7,7 @@ originalUrl: "https://www.spectator.com.au/2023/07/the-voice-is-a-national-disas
 webUrl: "https://www.spectator.com.au/2023/07/the-voice-is-a-national-disaster/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "How online disinformation is hijacking the Voice"
+    excerpt: "Voice advocates are facing a barrage of incorrect and malicious claims about the proposed body’s powers being spread on social media."
+    publishedDateTime: 2023-07-28T07:24:00Z
+    webUrl: "https://www.afr.com/politics/federal/how-online-disinformation-is-hijacking-the-voice-20230721-p5dq7p"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.5176%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f0a8e29949360126e146e655f322f149e1ee75e3"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "Cjis49HrqJv5EMUT3TJb2qygDRY7iPtXqCYgO0fJSu8RQGdc8ZxIhdsimhvjAuJ+IL8360iqNdh2g6BC4a/l/+s4DGv6cV6FfMaZxbplDWiA4B0t4xJYz3gIcCyKRB626Ag8ukCZUmF4VXLiloIW9LEUMu/KB0td2gtomz4Egv1peZgUB07GPPcAhHXUkNev6+t6MaoxNIUjUDzZKPDiYIWeMFKO/4zijgZSAuvDCtv77dquiWOozI651ynjQ57QZWT9UDiyHLCWuVdsnP8ZuZxfmJ0RItc8jY5GOU2z31wP/f4u5OySFYc8cL/74/CtyQJfZBhfuHw4X3MIxq4APxo2U7YOwmsCa7r52DNdJ1pZXwFTW7ZMVPIQaz/9l3fyv9j2wFf4/DPW8RZFjDpDIDmRxVRD81byrKby2lXUw+GNtgOYaZy3m/LpA0kRVHSo+fMEibOK+ftZ2DCd5hDIxtpb+1jY6CayRov7Lm7z/y6X0rRhHsL4P3Ne8/4hB48daragv9rkwH8EVexXrpmG+w==;0zUK61L3A8jROLzSR++tfQ=="
 ---

@@ -24,7 +24,7 @@ related:
   - title: "Facial recognition system implemented at Incheon Airport"
     excerpt: "Incheon Airport said it has begun utilizing preregistered facial information to streamline the departure process for passengers from Friday. Dubbed the \"facial recognition smart pass service,\" the newly launched service will allow passengers to quickly pass through the identification process at departure and boarding gates without having to show their passports and boarding passes to security personnel."
     publishedDateTime: 2023-07-28T05:09:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230728000502"
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230728000502&np=1&mp=1"
     ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230728000502"
     cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230728000502"
     type: article

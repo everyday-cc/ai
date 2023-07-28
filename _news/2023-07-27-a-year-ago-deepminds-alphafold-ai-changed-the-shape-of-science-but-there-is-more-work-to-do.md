@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/a-year-ago-deepminds-alphafold-ai-chang
 webUrl: "https://venturebeat.com/ai/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

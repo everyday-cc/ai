@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-
 webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Atlantic
@@ -28,34 +28,68 @@ images:
     isCached: true
 
 related:
-  - title: "The Dilemmas Of Using Artificial Intelligence To Raise The Dead"
-    excerpt: "An advertising campaign showing the late Elis Regina and her daughter Maria Rita playing a duet has sparked antagonistic reactions on social media.In the Volkswagen piece, the singer who died in the eighties was brought back to life using Artificial Intelligence (AI) ."
-    publishedDateTime: 2023-07-25T07:38:00Z
-    webUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Intelligence-To-Raise-The-Dead"
+  - title: "Offering free AI training for everyone in the UK"
+    excerpt: "Jonny Cottom knows the juggle involved with running a start-up single handedly. Since launching BreakBottle, an eco-friendly water bottle brand, last year, he has been s…"
+    publishedDateTime: 2023-07-28T05:00:00Z
+    webUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/"
+    ampWebUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://menafn.com/updates/pr/2023-07/25/CRN_659e8image_story.jpg"
-        width: 640
-        height: 395
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-07-28_7.31.52_AM.width-1300.png"
+        width: 901
+        height: 451
         isCached: true
-  - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
-    excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
-    publishedDateTime: 2023-07-27T03:36:00Z
-    webUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us:-assessing-the-benefits-and-risks-of-artificial-intelligence"
+  - title: "UK Health Officials Tap into the AI Revolution"
+    excerpt: "The UK is betting big on artificial intelligence (AI) in healthcare – specifically AI diagnostic tools. UK Health and Social Care Secretary Steve Barclay recently allocated £21 million ($26.7 million) to the National Health Service (NHS) for a new fund ..."
+    publishedDateTime: 2023-07-25T00:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/uk-health-officials-tap-ai-revolution"
     type: article
     provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 37
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
     images:
-      - url: "https://cdn.field59.com/KOTV/736ae6b2bd3e44289b2e9aba8963aec637072c16.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/AI%20software%20for%20brain%20scan%20stroke%20diagnosis.png"
+        width: 770
+        height: 400
         isCached: true
+  - title: "Time for agreement on AI governing framework"
+    excerpt: "Leading scientists, technologists, philosophers, ethicists and humanitarians from every continent must come together to secure a broad agreement on a framework for governing AI that can win support at the local,"
+    publishedDateTime: 2023-07-26T09:49:00Z
+    webUrl: "https://www.theasset.com/article/49642/time-for-agreement-on-ai-governing-framework"
+    type: article
+    provider:
+      name: The Asset
+      domain: theasset.com
+    quality: 39
+    images:
+      - url: "https://www.theasset.com/storage/Image/2023/Jul/1690260128aiicannc.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
+    excerpt: "The advent of AI-enabled drones holds huge promise for Ukraine’s military but may also be exploited by nefarious non-state actors."
+    publishedDateTime: 2023-07-26T14:03:00Z
+    webUrl: "https://www.detroitnews.com/story/news/world/2023/07/26/the-war-in-ukraine-is-spurring-a-revolution-in-drone-warfare-using-ai/70469007007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
+    excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
+    publishedDateTime: 2023-07-26T19:43:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/26/the-war-in-ukraine-is-spurring-a-revolution-in-dro/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 19
 
 secured: "k4eC5+ySGxsLk0Uf81vtBkiQzZuIL84pp424+OvY0nW1b6c2PrPxNFzRvafK4h53wOULyN5/CTYUpfGNeZlQsOFNFwKAB2wlwUjny9TxVPePfdoZYypGI8K/Wgkw15ADI3DFCNRx2SoqaRjuG1JgwUr3/9jtIIQaq8llOcGsKxvzPKA8Y5w9S4B/ZT7C9D3LqCMNyIzkE9SNGeIFsN3T6Y/qyAlRcv6/CN4RyhOKTsPe+n86nJr05hZt8iKXhS1fhyjdCNVvAl+oDPejwewEvNDGDJoWhfEdvlDIuuQI3LnBRMuupsjDvsvsB4QwPXUb/Ei+exi+B/dYxMsvpxrQ7dqrHZ2tWe2MouDnUQ+gyTnwEibf0yWrkAcO0iQMr3zLK5rVURBZXLoJvj3WRc9GnyszzMFlzy4U1lp1t8QI7jox8Rr+D3AyG++CrAk2GqvcyxR4ChL4K0AxnbUOHCpECfSu084VFJhpQCvdHF7vZrQHB6nGTaW4qwC5j0JHJoi8R3sGNMVr3Yh2GGdrcW3nCw==;2qpgWtDGTo/De1jQQmPslA=="
 ---

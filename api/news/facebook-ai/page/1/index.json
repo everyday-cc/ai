@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 105,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -159,7 +159,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -661,18 +661,27 @@
       "title": "Facebook parent Meta makes public its ChatGPT and Google rival LLaMA",
       "excerpt": "Facebook parent company Meta Platforms has built ... Much like tech peers Google and Microsoft, the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as the release ...",
       "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/entertainment/salman-khans-kisi-ka-bhai-kisi-ki-jaan-becomes-the-third-highest-opening-weekend-grosser-of-2023/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
-      "originalUrl": "https://www.telegraphindia.com/entertainment/salman-khans-kisi-ka-bhai-kisi-ki-jaan-becomes-the-third-highest-opening-weekend-grosser-of-2023/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "webUrl": "https://www.telegraphindia.com/india/heavy-rains-lash-mumbai-and-suburbs-more-heavy-showers-forecast-in-next-24-hours/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "originalUrl": "https://www.telegraphindia.com/india/heavy-rains-lash-mumbai-and-suburbs-more-heavy-showers-forecast-in-next-24-hours/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/May/1684324426_meta.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T00:08:00-07:00",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "publishedDateTime": "2023-07-19T01:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Telegraph",
@@ -796,7 +805,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/8f/98f2caaa-032e-53e7-b14f-cd831a654a89/64b6fea90fda6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

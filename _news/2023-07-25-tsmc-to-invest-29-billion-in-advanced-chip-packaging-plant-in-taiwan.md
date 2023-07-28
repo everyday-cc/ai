@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-i
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.reuters.com/resizer/qQ_XJUhuFJg5lG74aEkz52t04e0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BJE2VHMQUJL7VEROUOBDJL3EGA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Chip Giant TSMC Determined To 'Keep Roots In Taiwan': CEO"
+    excerpt: "Semiconductor giant TSMC said it was determined to \"keep its roots in Taiwan\" as it launched a massive facility in the island's north on Friday geared towards developing the world's most cutting-edge microchips."
+    publishedDateTime: 2023-07-28T07:45:00Z
+    webUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+    ampWebUrl: "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1113229468787666246496686568250953985199---1.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Taiwan Semi Invests Outside U.S. to Meet AI Chip Demand as Arizona Plant Delayed"
     excerpt: "TSMC, the world’s largest contract chip maker, is planning a new facility in Taiwan, while a report also suggests it is close to an investment in Germany."

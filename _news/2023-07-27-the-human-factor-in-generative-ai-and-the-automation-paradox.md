@@ -53,22 +53,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Why media literacy is key to tackling AI-powered misinformation"
-    excerpt: "With elections in the United States, United Kingdom, India, Taiwan, the European parliament and more than a dozen other European, Asian and African democracies all taking place in 2024, a huge"
-    publishedDateTime: 2023-07-23T15:01:00Z
-    webUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/"
-    ampWebUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/fake_news_getty.jpg?w=1280"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
     excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
     publishedDateTime: 2023-07-23T16:11:00Z

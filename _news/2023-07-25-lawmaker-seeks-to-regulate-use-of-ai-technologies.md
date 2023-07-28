@@ -9,8 +9,8 @@ ampWebUrl: "https://newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use
 cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use-of-ai-technologies/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Philippine Daily Inquirer
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Barbers calls for strict regulation of AI tech"
-    excerpt: "Surigao del Norte Rep. Robert Ace Barbers on Sunday  urged policy-makers in the legislative and the executive branches to urgently"
-    publishedDateTime: 2023-07-23T14:11:00Z
-    webUrl: "https://manilastandard.net/news/national/314352833/barbers-calls-for-strict-regulation-of-ai-tech.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 39
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2021/03/9c4da_barbers-robert-ace.jpg"
-        width: 450
-        height: 302
-        isCached: true
   - title: "Be prepared for AI technology, PH urged"
     excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
     publishedDateTime: 2023-07-23T16:36:00Z

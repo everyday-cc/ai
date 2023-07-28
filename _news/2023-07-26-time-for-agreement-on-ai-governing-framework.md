@@ -25,22 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "AI Governance Maturity Index: A Comprehensive Assessment Framework"
-    excerpt: "There are 5 broad levels of AI Governance Maturity that an organization may adopt. Each comes with key tradeoffs between speed of development, and risk mitigation, as well as costs to implement. The appropriate maturity level for an organization takes into account the organization's size,"
-    publishedDateTime: 2023-07-26T21:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/"
+  - title: "Offering free AI training for everyone in the UK"
+    excerpt: "Jonny Cottom knows the juggle involved with running a start-up single handedly. Since launching BreakBottle, an eco-friendly water bottle brand, last year, he has been s…"
+    publishedDateTime: 2023-07-28T05:00:00Z
+    webUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/"
+    ampWebUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c1900005fe9519e9ea0a5f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-07-28_7.31.52_AM.width-1300.png"
+        width: 901
+        height: 451
         isCached: true
+  - title: "The Hidden Labor Pushing AI Along"
+    excerpt: "Search engines, ChatGPT, and other AI tools wouldn’t function without an army of contractors. Now, those workers say they’re underpaid and mistreated."
+    publishedDateTime: 2023-07-26T11:00:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/7QtnxADmRsWVwDdR4VGJdwzCL3U=/0x551:2160x1676/1200x625/media/img/mt/2023/07/ai_rater_f_3/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
+  - title: "UK Health Officials Tap into the AI Revolution"
+    excerpt: "The UK is betting big on artificial intelligence (AI) in healthcare – specifically AI diagnostic tools. UK Health and Social Care Secretary Steve Barclay recently allocated £21 million ($26.7 million) to the National Health Service (NHS) for a new fund ..."
+    publishedDateTime: 2023-07-25T00:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/uk-health-officials-tap-ai-revolution"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/AI%20software%20for%20brain%20scan%20stroke%20diagnosis.png"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
+    excerpt: "The advent of AI-enabled drones holds huge promise for Ukraine’s military but may also be exploited by nefarious non-state actors."
+    publishedDateTime: 2023-07-26T14:03:00Z
+    webUrl: "https://www.detroitnews.com/story/news/world/2023/07/26/the-war-in-ukraine-is-spurring-a-revolution-in-drone-warfare-using-ai/70469007007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
+    excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
+    publishedDateTime: 2023-07-26T19:43:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/26/the-war-in-ukraine-is-spurring-a-revolution-in-dro/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 19
 
 secured: "SdWOtR08i59/xFymMkeeT5u+tPM4OQU0HVAmZQ1aBPN5QiMVqGejJkvGkE5JnVzbQrbI4R8oEmP79tkZIEqvk4Kj2bjakuuQ9y3AMSvZNw03jqOvpW4Va5a2fyP6ErY01+umK0Lz9aElcpJkebKuNCQ+RRhGfWEpqpeqMTLmZCWI6bfLt5KmSP52CTAPr41D32P8IkCeBjsjpUQKFsqx9GLICPA3Lm3Y9kPxsWkqokbQgKkq8XERT/pC92BWnYRDg+x2nTxjEVMWs+f5Z1Y4rrkjkjEmPRMn+sv4uOpvBBtE7AY+lbOInLMPjX+YItqYg5x1+gtfR7TI/h1oL6t2nebDEmpFjNgNwvXGLc4SVOk=;5lr2h0nPzlmpt92co5eEcA=="
 ---

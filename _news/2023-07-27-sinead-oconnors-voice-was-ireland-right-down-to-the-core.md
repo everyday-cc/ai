@@ -7,7 +7,7 @@ originalUrl: "https://www.breakingnews.ie/ireland/sinead-oconnors-voice-was-irel
 webUrl: "https://www.breakingnews.ie/ireland/sinead-oconnors-voice-was-ireland-right-down-to-the-ground-1507763.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 627
     isCached: true
+
+related:
+  - title: "O’Connor Was a Lonely Voice for Change — Until Ireland Changed With Her"
+    excerpt: "Sinead O’Connor shocked her strongly Catholic country when she tore up the pope’s picture. But the Church’s sexual abuse scandals made Ireland more secular, and more understanding of her criticisms."
+    publishedDateTime: 2023-07-28T07:01:00Z
+    webUrl: "https://www.nytimes.com/2023/07/28/world/europe/sinead-oconnor-changed-ireland.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/images/2023/07/27/multimedia/27sinead-reaction-zfjt/27sinead-reaction-zfjt-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "6teeob5LO305mHpVsHQx6xrcCVNyHe3er6q1n7RZCWuUWjV4MnOOTCzW1PMVf8aDpMhEY5tIE9cRsIAgYsVWdBnrd1ktSLMrqVtN/2hz5HS3a9hWPhFPOkl2qxybwJXBr3jb8fd0QsIPS6Z4bn/vbahPpTQh11zPGu/dyIHN+gGF3If5iQk3GA1zVSZiHCtKYSOpsZxQ4/dtHWoW9dyYT21TOu6jzCh90uEoskV061X6f9RpTNjfIzh3ZnqKv9nC0Kot1JIQUbdtMgfH7NkhDRs9Deb1QFkcTHkV5GUqJRtuZkm4ces9qmO/iE3Kv1wF1E3v4KpTAMEihLoydrijIdcNlj3gC5Zgsuaup4hg4G4=;IgOlo1ZCkJpumoH7RZyLLw=="
 ---

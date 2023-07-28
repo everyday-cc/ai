@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-matur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Time for agreement on AI governing framework"
-    excerpt: "Leading scientists, technologists, philosophers, ethicists and humanitarians from every continent must come together to secure a broad agreement on a framework for governing AI that can win support at the local,"
-    publishedDateTime: 2023-07-26T09:49:00Z
-    webUrl: "https://www.theasset.com/article/49642/time-for-agreement-on-ai-governing-framework"
-    type: article
-    provider:
-      name: The Asset
-      domain: theasset.com
-    quality: 39
-    images:
-      - url: "https://www.theasset.com/storage/Image/2023/Jul/1690260128aiicannc.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "4VxSpVqL+MpNZNQnGl/tNBtsuwXo+GRC0IHDbjIIqQtJrgHyGOBCK4vxg4gUZUvWOyNiSpNjhm4HKOADMaZ/bPKSKix8TPi5eu/UZ4rQlYI9/tBdslygJmeronwSrxB3ODNGcaoliVHak7yvqYdX7P8/CBTU5poMiBqHBjHa7umHlTgD7vQ1nVirzHbWQ0aWjsHt/rtGkZn5t0eoUp/Pa0aSV/gpiVdz7SbbcYGCiMQxv8P7B4LkyfrvKCKJre5CNV6cNWGPZ4LCA+ADnigCKOAtH41nI5TuO5YZ5VrHsWbOwn9RpZA64XYKIxL0nUagITHHxTlmE80R8uRmawvFDUXaKb80X2+aR4thxPaJcuERdcEx4NGXuPPSe+oC+hzIgzsgO1TVFZsFk1YZAKWFtnpJppnjGbP0bHfdJ/U1iT/yQdzona3YYZrPyOmQwtu6l3U/suMoNPFptdTyYZecRw5TKnvdU0Zjca6D804GMv/NmDs1WT0Xa6xwA7O/XG4+EpWtuqMy6p7VAeiuTGBI/Q==;9UXaNvrwqxJeE0pNFw7OWA=="
 ---

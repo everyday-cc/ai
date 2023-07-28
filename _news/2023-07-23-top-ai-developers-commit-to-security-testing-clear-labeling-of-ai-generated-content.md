@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 751
         isCached: true
-  - title: "Why media literacy is key to tackling AI-powered misinformation"
-    excerpt: "With elections in the United States, United Kingdom, India, Taiwan, the European parliament and more than a dozen other European, Asian and African democracies all taking place in 2024, a huge"
-    publishedDateTime: 2023-07-23T15:01:00Z
-    webUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/"
-    ampWebUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/fake_news_getty.jpg?w=1280"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Educating the Next Generation in AI"
     excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
     publishedDateTime: 2023-07-26T21:00:00Z

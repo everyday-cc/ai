@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-07-13-gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-computing.md",
+      "title": "GigaIO Introduces the First Ever 32 GPU Single-Node Supercomputer for Next-Gen AI and Technical Computing",
+      "excerpt": "“As AI workloads become more broadly adopted ... “And as large language model applications drive demand for more GPU performance, technologies that work to minimize node-to-accelerator ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and/article_24341d37-07dd-56cf-8cad-7596ff35994d.html",
+      "originalUrl": "https://www.eagletribune.com/region/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and/article_24341d37-07dd-56cf-8cad-7596ff35994d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
       "title": "Could AI-powered robot 'companions' combat human loneliness?",
       "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic. A new report maps some of the ethical considerations, and urges stakeholders to come ...",
@@ -1114,40 +1157,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-big-tech-ai-partnership-promotes-critical-race-theory-marxist-teachings.md",
-      "title": "Big Tech AI Partnership Promotes Critical Race Theory, Marxist Teachings",
-      "excerpt": "Big Tech AI Partnership Promotes Critical Race Theory, Marxist Teachings Jason Cohen on July 12, 2023 Partnership on AI (PAI), a nonprofit connected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.shorenewsnetwork.com/2023/07/12/big-tech-ai-partnership-promotes-critical-race-theory-marxist-teachings/",
-      "originalUrl": "https://www.shorenewsnetwork.com/2023/07/12/big-tech-ai-partnership-promotes-critical-race-theory-marxist-teachings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "shorenewsnetwork",
-        "domain": "shorenewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

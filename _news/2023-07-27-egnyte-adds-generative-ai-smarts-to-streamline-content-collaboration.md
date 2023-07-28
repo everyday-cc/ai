@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-str
 webUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/"
 type: article
 quality: 69
-heat: 101
+heat: 99
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Int
 webUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Intelligence-To-Raise-The-Dead"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 640
     height: 395
     isCached: true
-
-related:
-  - title: "The Hidden Labor Pushing AI Along"
-    excerpt: "Search engines, ChatGPT, and other AI tools wouldn’t function without an army of contractors. Now, those workers say they’re underpaid and mistreated."
-    publishedDateTime: 2023-07-26T11:00:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/7QtnxADmRsWVwDdR4VGJdwzCL3U=/0x551:2160x1676/1200x625/media/img/mt/2023/07/ai_rater_f_3/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
-  - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
-    excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
-    publishedDateTime: 2023-07-27T03:36:00Z
-    webUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us:-assessing-the-benefits-and-risks-of-artificial-intelligence"
-    type: article
-    provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 37
-    images:
-      - url: "https://cdn.field59.com/KOTV/736ae6b2bd3e44289b2e9aba8963aec637072c16.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "kd1QD2TyeY7tdw8xaf81aILAO8OqVi9tkp1SlqDwASJ1VGWoKZvXqa24YhaZ4fBA+9pDgNbyziIZEouRgIpb2d2VFkaPyqjRdNzoASfEUiNX2vKQpU5w9WLYhbMUthPM8BNgOB5hfPA7Pj6sJruLwCCUQgQhXFp+8Aw/dEEireIsTIlPouGIcTUCCR+LYXuGGJUEcV2w7GI6SXPf7ToVFHvVGRD5LKElBCSgO74ENAnhrP+g4uw25T2u712MpM9+iuHj4mXl/3wroDFsa1xWIJuyECHPbXnU6Iw/RjL7RL47iryJza0yKsrRHTUznckuijtUOONYWLJEgqXO0A7Kw4Jz511K407NrtfX/4BfxDxaqPkaPLnkvz//GXw13bu/k2DdV6gqjDYMHppMyAyyfU2vrS8W2xhulJZVtP6HWxI46dDz4LsEpiHVkpz04llsKhHlu/4Cj5mYUZLSYOkKwaGZs6T+Nr32qc1JgyerZ/jQEB+cJ0iwRjlhCy79hBUd8nThmAyuON+KEWEUwOz/Kw==;VJuo60kSR7nHl5T4jVnNxQ=="
 ---

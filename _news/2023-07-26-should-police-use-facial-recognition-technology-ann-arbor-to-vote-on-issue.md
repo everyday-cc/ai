@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Should police use facial-recognition technology? Ann Arbor to vote on issue"
-excerpt: "ANN ARBOR, MI — Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months."
-publishedDateTime: 2023-07-25T20:58:00Z
-originalUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html"
-webUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html"
+excerpt: "Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months."
+publishedDateTime: 2023-07-26T00:58:00Z
+originalUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
+webUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
 ampWebUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
 type: article
@@ -53,6 +53,6 @@ related:
       domain: bianet.org
     quality: 0
 
-secured: "pPWBhsSigpbYbx414IZUvQvncJRLwyaal15aPSdFC+zuM+WgPTqmTO2KeYt/yIdVN/wQtbrr+OcQ9iWThCU6EjvtoqLTH/QPXI6vDTPGsgqTb6qWAN4xFoI5IWYjyQU2IUv2wgQKvuQSDCMdklrWjOf6sf5LxVR8G4PV4AQ6rUjcxajBT0CY7qleIb1nHoewHFFpv9J2tHItab1o3HYEoCDgNrV4rfmog7oYDL1g6n0+PZSWeTsWMdruV2O1T1Vx3dl5ocNPAcyM3Ko9989aXhFs3AhbfDLVbtt8oZX1+yTywAsm2rGo09EFyIy93mAVbj9P6JId9o40nsZSAiGv7L3gRtppn4O7mbRkXmRXdQY=;Wxn9PwnLlguqrYtKGK9XLg=="
+secured: "zQh+KyTpQ5FlyK0CPbDu2LzKlBYcqNkRkDMK19OwkGAfFf0EmyJBCO5wVK4JvjY6ohtnpik3Zav6OYlk3MqHnoLm4+CTcHXI6nZnQvcwQq0yo7948IHYyCLNVJmn4FLcncma+A95RVwZc46/IKh/JxQlYHcVObxMbsaFa/CtSz0DvtCpcOjVcegKQyglaAKQV4eFN2tdbCQBGyVVsQcjRWmHlyjqD0XjVgpUz3Ww1ydNzjWB5IZtjr9RTMkm2koem+GgmuScMz+Qut+Nu/e5Zc1ahjdtMs/ADCzjJa39B4oBXAhbVx7lowLahiB+7Hgje3P6QhCJxx5CZI9rL8ME534EvD6vAleN4uwSPLhBwuE=;QZ+0jbCKBqI8M8FjNPkhnQ=="
 ---
 
