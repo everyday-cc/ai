@@ -72,7 +72,7 @@ related:
     provider:
       name: Marketplace
       domain: marketplace.org
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-486107054-e1690492073918.jpg"
         width: 3000
@@ -120,20 +120,6 @@ related:
         width: 1429
         height: 1053
         isCached: true
-  - title: "Democracy, Defence and Conflict in the Age of AI"
-    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
-    publishedDateTime: 2023-07-25T03:07:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
-    type: article
-    provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
-        width: 3133
-        height: 1764
-        isCached: true
   - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
     excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."
     publishedDateTime: 2023-07-26T18:43:00Z
@@ -149,6 +135,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6xc+eSgOswDmd0xCzt96R159sDL/OdjZicTRblInIwijLGZ+doaejcJ7tV8jshXNwIY69jqDUFAewps0kqlSweI4YobrRDqVsyhdecgfiDmPEWBfK2U9jrvT4TiBfJU7hgScw929Ub61WY4UnHO+nz4XjP2a2POQ2mPs3lOUllIHHr5+DHiUBuZpsjwxN1RvjXuXLIghPhQoAj1hGb14SOg0cOxQVVE7UAcnEnSv3JgXsZKSv8m4TQXXlyWHQV8aHOx8LK7oM2+YXwo+MHW5ECbt3WKZDfy+SQTSGWqz/6s6col4zaiy4qw8fsgzCLY0N4XNavTdLavfEvm7PUUzGoxh/Nu8A9dtCJJoRmy3XP0=;bRI2xi2RxlLsH2Aj89ocIg=="
+secured: "8U5/n4Aql7QJr4wuZu2VeUNevS6uMG1nkJYpQHbr0iaaefs7ChulbibB7jlJ8dqJt92h4vusunuMP+r8KIAIATPOyao/K96AXB/qGt/lccZ5INR3O+lYFjA1CvMcHctdI6QenrfNF6y7KO0WqPzwQSnrEzLJe7M+ix2aXhQP7JL2JjDOJ/If8Zsz8pMb5fuTGi2oAqK5WAj2TFjvyIboiJontHGnJVimr45WUVzVkPPnHwjBVePDPjCGnWBzfHJhaHAMm7KYzuZwiLQcv443Be8YI0HMgwMNP9+EVRrhha9jGecf0fif8SP10GcMmc15Xb85qNC/rfxFuLa6MeTs4jkf2Ja7h5fsISD2G9YaHEUXdWOWFU7P5UzCDriZVlC26rgGi3svTUSP4H7vW8gEpbJNfqR98kBCEom7qp4OjviGT1xkqK4YVASgNhOFEWhyN+zqn8XVsRK7dYK1SklSN3W/fQJI6+8423Fwre2uqY9zUkQjgUwD/cYoZqsfr+uL9SRtedqQYpVIAOdYrPrNzw==;gPbyj07EfeAC+7uE3L8Zuw=="
 ---
 

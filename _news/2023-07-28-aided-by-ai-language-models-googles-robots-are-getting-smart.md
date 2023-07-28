@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-28T10:00:00Z
 originalUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
 webUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
 type: article
-quality: 69
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static01.nyt.com/images/2023/07/28/multimedia/28ROOSE-02-zwqm/28ROOSE-02-zwqm-facebookJumbo.jpg"
@@ -73,7 +74,25 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Google's building A.I. into robots to teach them to throw out the trash"
+    excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
+    publishedDateTime: 2023-07-28T11:19:00Z
+    webUrl: "https://www.cnbc.com/2023/07/28/googles-builds-ai-into-robots-to-teach-them-to-throw-out-the-trash.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
+  - title: "A New Dawn in Robotics: Touch-Based Object Rotation"
+    excerpt: "In a groundbreaking development, a team of engineers at the University of California San Diego (UCSD) has designed a robotic hand that can rotate objects using touch alone, without the need for visual input."
+    publishedDateTime: 2023-07-28T13:21:00Z
+    webUrl: "https://www.unite.ai/a-new-dawn-in-robotics-touch-based-object-rotation/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
 
-secured: "mFBpPomYB1GuqTHnSf2eICa2eYw19yysWYGj6rAXlw9EPLgGK+bum06XI5O4BNMHbVQfFm9r2gmOqs+akBi/jqYd9BHJsjmYpAs6fcwl40z6To40C2wBOQd2B/XI045PUN6YrjCn/+9JHZwxDIJ81S5ejuw3M+uSus+lpbKtiYKFQ922y4Tpg9W5I97L7AEpyzRcS89xpFFAUSKO1ZKlAYnDBTvxryi4os8JTlugilp8zxaosCNGtk9/nVN5ilhAZBUPMt4AKaxthGrP4aYv0N+pCRkX9dPaCrfsIaGI9azYHGa46hd2QwlxrMKdtd26b5Lb++5h3QqpEVCDAm9cQKq+GCT2GK2F2NfytqEiXTE=;kHyjT0zzPtnv4HgFuap3hw=="
+secured: "RADF72KxcDuZomYVKgOHd1fX3XErAkUspQV9TP9tv1c0pXCPKL6QDDiyyeAuj+NmeEqDYMilfIWhfTtWz+z/NMkaHNayoqEHzObuHq2+S5WZo184QImjCNaWDUlH7SqF9bE/eLe937qwVhW7r61LT2adQMTiEnfP6pJdFruhRu1BpaFpa4N+4d0gC8gtbzuv/TCimG1ezaey5CEy+6YY3qPo6i7RHrxoIv505ZPBrG0/tgGFKngttP6+gu7QJ0/Va8DKhJWaBp6SMj7R7ZZ2AxD1zh0Qtff2AyMo1Z+JEGYh6Ni5PeZKVqu2KJopivt5KfihwbNfmiuMkdleqahWx6N2YNzWeRWxbyarqSzyy0mpwEz3/uqf+RPRlNUfQb/z4GL2txY4kokJ0LoxBf7CPP/Cf/jefaPNbHMJsIy80SOPxcoZ5eA6M/X0aScix1GTuXaQE3Kk0SHB+wYRNWk+zSaAyM46Qa9P0myZvZBbK8bqCGwuMUTE/KuFtG2aW+rOJqmmqAQqwIv0NCMMYo3WhQ==;2GBu5dGWnKR8/qJPEPacoQ=="
 ---
 

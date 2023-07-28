@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce"
+    excerpt: "Croissant, a fintech with a mission to empower intentional commerce, launched today with $24 million in seed funding from suite of investors.."
+    publishedDateTime: 2023-07-28T14:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/09/Choice-Options-Decision-Croissant-Food-Breakfast.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "DIFC Innovation Hub Launches 9th Edition Of Fintech Accelerator Programme"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today launch"
     publishedDateTime: 2023-07-26T07:27:00Z
@@ -41,20 +57,6 @@ related:
         width: 1336
         height: 876
         isCached: true
-  - title: "DIFC Innovation Hub kicks off FinTech Accelerator Programme 2023"
-    excerpt: "Dubai International Financial Centre ( DIFC) launched the ninth edition of DIFC Innovation Hub’s FinTech Accelerator Programme. The 2023 edition focuses on open banking and AI, automation, innovative payment solutions, hyper-personalisation and customer experience to enhance financial literacy."
-    publishedDateTime: 2023-07-27T05:29:00Z
-    webUrl: "https://gulfbusiness.com/difc-hub-9th-fintech-accelerator-programme-2023/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/DIFC-innovation-Hub-launches-FinTech-Accelerator-Programme-2023-Image-Dubai-Media-Office-DIFC.jpeg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "Difc Innovation Hub Launches 9Th Edition Of Fintech Accelerator Programme"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today"
     publishedDateTime: 2023-07-26T23:13:00Z
@@ -69,10 +71,19 @@ related:
         width: 1336
         height: 876
         isCached: true
+  - title: "US fintech Croissant exits stealth with $24m raise to shake up the e-commerce experience"
+    excerpt: "Integrating directly into merchants’ shopping experiences, Croissant offers customers guaranteed buybacks to amplify their purchasing power."
+    publishedDateTime: 2023-07-28T12:09:00Z
+    webUrl: "https://www.altfi.com/article/us-fintech-croissant-exits-stealth-with-usd24m-raise-to-shake-up-the-e-commerce-experience"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 10
   - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-27T14:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
+    publishedDateTime: 2023-07-27T13:23:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855387.htm"
     type: article
     provider:
       name: TMCnet

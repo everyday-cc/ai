@@ -186,6 +186,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 17
+  - title: "Disney, Netflix, Amazon, Apple, and Sony Ramp Up AI Hiring Amid Ongoing Writer Strikes: Report"
+    excerpt: "Major entertainment companies are on a hiring spree with plum pay packages for positions in the artificial intelligence (AI) fie"
+    publishedDateTime: 2023-07-28T11:45:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33437141/disney-netflix-amazon-apple-and-sony-ramp-up-ai-hiring-amid-ongoing-writer-strikes-report"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "nFyRb+wA2SbsW2QDMpzYNQu48TsKu7CYY3bVMgpHNiHVTTMfAwTVfPNnyVghqooQBdxBwF792qQcTdbzGE5fdSpEY5gDDOq4jBfjzbzo7gIpYzJ9N2cgFmLyz8C6zSF/OMx6E/2viK/GbicYEyvljnQssg8kBJj3FGB36cevkW9SREMEUx0whZnXvoXkUWW4URlKkgAv3EBAAssPABUpCGIylN/wKgnGYerfd04ecREVkBhksRCQIOkAMbAFYOaCPmw0S5eKi37jYdh+SDFd5EBVPryEV0TxWR9rsKReAt8xfGaqTInUxoU6Zpw0Y97NTVM0Mvz4if0NzwBnZm9J6TW0A4Vr/cIK9ExAcnHEZZs=;odZOMCKjFukh/WO/9zKF/w=="
 ---

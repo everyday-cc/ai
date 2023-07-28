@@ -30,210 +30,267 @@ images:
     isCached: true
 
 related:
-  - title: "The Generative AI Battle Has a Fundamental Flaw"
-    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
-    publishedDateTime: 2023-07-25T11:08:00Z
-    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
-    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
+  - title: "HR and Talent in the Era of AI"
+    excerpt: "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified"
+    publishedDateTime: 2023-07-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "The Indispensable Role Of Agencies In The Age Of AI"
+    excerpt: "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality."
+    publishedDateTime: 2023-07-27T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Proposals aim to regulate artificial intelligence in the workplace"
+    excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
+    publishedDateTime: 2023-07-26T04:43:00Z
+    webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
+    ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
+    type: article
+    provider:
+      name: WOKV
+      domain: wokv.com
+    quality: 74
+    images:
+      - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
+    excerpt: "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!"
+    publishedDateTime: 2023-07-24T10:01:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg"
+        width: 6000
+        height: 4002
+        isCached: true
+  - title: "10 of the scariest versions of artificial intelligence in movie history"
+    excerpt: "Tom Cruise (as Ethan Hunt) has battled all sorts of villains across 27 years and seven movies, but his most recent nemesis, a piece of rogue artificial intelligence known simply as the Entity, has come the closest to bringing him to his knees."
+    publishedDateTime: 2023-07-24T14:20:00Z
+    webUrl: "https://www.insider.com/scariest-ai-robots-movie-history"
+    ampWebUrl: "https://www.insider.com/scariest-ai-robots-movie-history?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/scariest-ai-robots-movie-history?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/64baf313bea34400195eee26?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Strike the right balance for the regulation of AI"
+    excerpt: "Trai has recommended a statutory body for India even as moves are made elsewhere to keep AI risks under human control. We must ensure our regulatory efforts don’t stifle innovation"
+    publishedDateTime: 2023-07-24T02:46:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai-11690125158611.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai/amp-11690125158611.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai/amp-11690125158611.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/23/600x338/oped1-kC7G--621x414LiveMint_1690125313086_1690125313224.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
+    excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
+    publishedDateTime: 2023-07-28T09:00:00Z
+    webUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/64c30ccecf0778001965f5a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The emergence of an AI revolution in the IT industry"
+    excerpt: "Incidentally, AI as a concept was also first introduced in the 1950s by Alan Turing. Early AI applications were limited due to computational power constraints. The exponential growth of computing power and access to big data laid the foundation for AI development."
+    publishedDateTime: 2023-07-28T02:30:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-27T172014.074.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Threads Is the Latest Move in the AI Arms Race"
+    excerpt: "Mark Zuckerberg's choice to launch Meta's Threads app stands in stark contrast to Elon Musk’s recent moves to charge for data from X."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/"
     type: article
     provider:
       name: Wired
       domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
-  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
-    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
-    publishedDateTime: 2023-07-27T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    quality: 49
+  - title: "How AI Is Revolutionizing The Role Of The Business Analyst"
+    excerpt: "Cyborgs aside, we're in such an innovation moment for business analysts. Here are three ways AI is resulting in a profound shift in the role of analysts and what this means for businesses that want to do more with AI."
+    publishedDateTime: 2023-07-24T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/how-ai-is-revolutionizing-the-role-of-the-business-analyst/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 691
-        isCached: true
-  - title: "The Future Of Art: Generative AI, Web3 And The Immersive Internet"
-    excerpt: "The generative AI, the metaverse and Web3 technology are set to revolutionize the art world, offering new opportunities for artists and collectors."
-    publishedDateTime: 2023-07-28T06:39:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c360def8a6665c5f03e3c1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
-    excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
-    publishedDateTime: 2023-07-27T00:01:00Z
-    webUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/"
-    ampWebUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI is empowering the digital workforce"
-    excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
-    publishedDateTime: 2023-07-25T14:46:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI could be a critical tool for the visually impaired"
-    excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
-    publishedDateTime: 2023-07-27T16:42:00Z
-    webUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html"
-    ampWebUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/01/wire_mesh_fence_blurred_blurry_bokeh_world_beyond_by_vjapratama_cc0_via_pexels_1200x800-100784627-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Is generative AI mightier than the law?"
-    excerpt: "The seemingly unstoppable juggernaut launched by OpenAI late last year might soon run into headwinds from the FTC, the EU — and in court."
-    publishedDateTime: 2023-07-27T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html"
-    ampWebUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/compliance_regulations_rules_law_standards_policies_by_cnythzl_gettyimages-939942712_abstract_technology_by_monsitj_gettyimages_629285904_2400x1600-100797811-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI-Generated Data Can Poison Future AI Models"
-    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
-    publishedDateTime: 2023-07-28T11:16:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "What generative AI really means for the economy, jobs and education"
-    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
-    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
-    publishedDateTime: 2023-07-25T16:09:00Z
-    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 53
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
-    excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
-    publishedDateTime: 2023-07-27T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
     quality: 47
-  - title: "Wayfair takes the generative AI route to interior decoration"
-    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
-    publishedDateTime: 2023-07-26T02:31:00Z
-    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+  - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
+    excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
+    publishedDateTime: 2023-07-25T18:51:00Z
+    webUrl: "https://federalnewsnetwork.com/federal-insights/2023/07/bake-risk-management-and-ethics-into-the-planning-and-implementation-of-your-agencys-ai-projects/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 41
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/GettyImages-1449569562-scaled-e1690314487418.jpg"
+        width: 2073
+        height: 1081
+        isCached: true
+  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
+    excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
+    publishedDateTime: 2023-07-24T23:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NXPI/pressreleases/18728384/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/d7e25ecb14e17af850223515fdd1e332/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f999b696c5a6ef2d9298be4bd30026b6a.png%26amp%3Bw%3D700"
+        width: 720
+        height: 449
+        isCached: true
+  - title: "Blue Bird Examines the Use of AI and Self-Driving Cars"
+    excerpt: "The application of AI in the transportation sector is a necessity, especially for self-driving or without a driver. However, Indonesia is considered not ready in terms of infrastructure, regulations and driving behavior."
+    publishedDateTime: 2023-07-25T01:55:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/07/24/en-blue-bird-kaji-pemanfaatan-ai-dan-mobil-swakemudi"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 39
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/IQHj-5ddjXuAPaUfWMeGkEy7VPU=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F24%2F9dbb8623-120f-4c43-a10f-b323fe508a0e_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Democracy, Defence and Conflict in the Age of AI"
+    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
+    publishedDateTime: 2023-07-25T03:07:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
     quality: 37
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
+        width: 3133
+        height: 1764
         isCached: true
-  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
-    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
-    publishedDateTime: 2023-07-24T19:38:00Z
-    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
+  - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
+    excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
+    publishedDateTime: 2023-07-27T03:36:00Z
+    webUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us:-assessing-the-benefits-and-risks-of-artificial-intelligence"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
-  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
-    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 29
+      name: News on 6
+      domain: newson6.com
+    quality: 37
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
-        width: 942
-        height: 600
+      - url: "https://cdn.field59.com/KOTV/736ae6b2bd3e44289b2e9aba8963aec637072c16.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Job seekers are still intrigued by the tech industry, even after layoffs and the threat of AI"
+    excerpt: "An Indeed analysis suggests people are exploring software development jobs despite concerns over AI, layoffs, and fewer postings."
+    publishedDateTime: 2023-07-25T19:02:00Z
+    webUrl: "https://www.businessinsider.com/jobs-ai-artificial-intelligence-tech-hiring-indeed-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "Business and ethics in the age of AI"
+    excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"
+    publishedDateTime: 2023-07-25T09:27:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/business-and-ethics-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
+  - title: "Embedding Artificial Intelligence In Enterprise"
+    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
+    publishedDateTime: 2023-07-28T10:02:00Z
+    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 21
+  - title: "Follow the AI money"
+    excerpt: "OpenAI is giving away basic access to ChatGPT but selling $20-a-month enhanced subscriptions. Google and Microsoft are both making their AI-enhanced chat-based search products free, so expect advertisements — and the data mining that makes them more valuable — to kick in at some point."
+    publishedDateTime: 2023-07-25T09:29:00Z
+    webUrl: "https://www.axios.com/2023/07/25/follow-the-ai-money-business-models"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
+  - title: "AI and the role of the company board"
+    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
+    publishedDateTime: 2023-07-25T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
+  - title: "The Role of Artificial Intelligence in Improving Business Efficiency"
+    excerpt: "The incorporation of artificial intelligence (AI) has emerged as a game-changer in a business environment that is revolutionizing the way organizations work and reach peak efficiency. It is impossible to overestimate the contribution of AI in increasing company efficiency,"
+    publishedDateTime: 2023-07-26T12:18:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-improving-business-efficiency/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
 
 secured: "ua2+JX+Acv/Ht2DUU0ENnCwS/xp+IItLViR1a2bANfQuDapxpfz5lDIPoN7A1CKK9lW3arpAKd51pKpcynATxejWa81+erHoHJSZenpVZbECPxRQLh3flcDbXHAVZtsb8DKcNvR4/8NM+Mgi+7zHAzOEKKqfSlZiYbcbEhsZWCXq44w9WMGMf+Kg0N7HUJXIx4zOtXVNUNTdXfwJHvQ0bklIYa1IZoyStE8f4g/XZkMo1NQlFsH4AufKE6eWj9j0NMXgb7AUkl5nWg+hPB73gtR6PK4fYEgc7jn+5XkV9Np0vZH4LlpU79vDVcNF7HAJXGxOmUSBp/Zuo/523HNSttPUhursyfg8ND69RRS4kuV5q6+fVHWwLeg7gbc3i3N2HMOGTjjwEn0w8HxL8jjSVvbLMeyM7f6oTDn4QLEEJ2HWfV7VnaAYI2WWZ5lsXWjpD7tBpCER5pGQYtmLCJmWqppu4apj3LA1VtPfi19qISJ3UYFBEa+TqFI+54RDUvIgMR7J5IO0v2Q7Z3HIhUt+Jw==;rnEDG6aYl7oQ8ex46hv97Q=="
 ---

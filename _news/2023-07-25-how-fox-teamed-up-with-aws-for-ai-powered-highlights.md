@@ -268,20 +268,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "AWS Releases Generative AI Service for Clinical Documentation"
     excerpt: "The new AWS service will support generative AI clinical documentation capabilities for general medicine and orthopedics specialties."
     publishedDateTime: 2023-07-27T17:00:00Z
@@ -328,6 +314,20 @@ related:
       name: Daijiworld
       domain: daijiworld.com
     quality: 51
+  - title: "AWS launches AWS HealthScribe"
+    excerpt: "Amazon Web Services has launhced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
+    publishedDateTime: 2023-07-28T14:26:00Z
+    webUrl: "https://www.techcentral.ie/aws-launches-aws-healthscribe/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/06/Tech-central-MPU-1300-×-250-px.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Fox Expands AI-Powered Highlights System with AWS"
     excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
     publishedDateTime: 2023-07-25T18:38:00Z

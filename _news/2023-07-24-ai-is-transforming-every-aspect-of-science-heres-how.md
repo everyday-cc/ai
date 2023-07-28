@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How Skin-like Sensors are Transforming the Field of Robotics"
+    excerpt: "Recently, researchers have made significant strides in robotics by developing an innovative skin-like sensor, transforming the dynamics of robot-environment interactions."
+    publishedDateTime: 2023-07-28T15:13:00Z
+    webUrl: "https://www.electropages.com/blog/2023/07/skin-sensors-breakthrough-robotics-you-need-know-about"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 56
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2023/7-July/conductive-ink-acts-as-a-sensor-in-silicone-og.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oc5lGlz2zz03v0cQc3zhA48YH4MNgTV5JyT+fUdvl0PIoU0frklLlarH8ec0cBD+V4jv5TZyZt5qeeP/avkeUDt/pB1Iclh7kT+M2ZK89rrh0wvVvNuc2nJp2mlZWgIuPjl0N/OL0oFjyF6jMQd7Ces0OlbK+DirKWJ7Pj4OnciOEEWVwgY2Q6PNCq0tEUHNAuY1ge8BWx+rAuQJfNe9BO36tZhKqXuTix5pVaZyAT3dpkpwB3ihrJEp+lvBCHqS2iCFOvHizXV0vFpCMDw9srowqjWLHs1uMl08fbQQLbTq8htlV+NPvYB8jVqmBOlcxGJblGi69K7+krC36rhfIhDTyu3tkwktYk15HaBBlyY=;YtGSFecOOQNX0S7913IH5g=="
 ---

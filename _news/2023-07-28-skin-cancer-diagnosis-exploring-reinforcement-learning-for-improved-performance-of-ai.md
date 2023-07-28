@@ -1,0 +1,70 @@
+---
+category: news
+title: "Skin cancer diagnosis: Exploring reinforcement learning for improved performance of AI"
+excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice. An international research team led by Harald Kittler of MedUni Vienna has now explored a learning method in which greater accuracy in AI results can be achieved by incorporating human decision-making criteria."
+publishedDateTime: 2023-07-28T14:42:00Z
+originalUrl: "https://medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.html"
+webUrl: "https://medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.amp"
+type: article
+quality: 51
+heat: 81
+published: true
+
+provider:
+  name: Medical Xpress
+  domain: medicalxpress.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/skin-cancer-diagnosis.jpg"
+    width: 1817
+    height: 2025
+    isCached: true
+
+related:
+  - title: "Harnessing machine learning for early cancer detection in primary care"
+    excerpt: "Machine learning (ML) presents a promising opportunity to revolutionize early cancer detection in primary care, addressing the challenges associated with diagnostic errors and improving patient outcomes."
+    publishedDateTime: 2023-07-25T10:48:00Z
+    webUrl: "https://www.drugtargetreview.com/news/110966/harnessing-machine-learning-for-early-cancer-detection-in-primary-care/"
+    type: article
+    provider:
+      name: drugtargetreview.com
+      domain: drugtargetreview.com
+    quality: 39
+    images:
+      - url: "https://www.drugtargetreview.com/wp-content/uploads/ML.jpg"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Skin cancer diagnosis: reinforcement learning for improved performance of artificial intelligence explored"
+    excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors"
+    publishedDateTime: 2023-07-28T07:10:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235953"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 21
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/4a793502-6fa8-4dd7-8e9b-b606c8d03d65-978-3-8471-1532-8.jpg"
+        width: 401
+        height: 600
+        isCached: true
+  - title: "Imagene's Ai-Based Molecular Profiling Revolutionizes Lung Cancer Diagnostics: Two Patients Receive Immediate Targeted Therapy, Avert Brain Radiation"
+    excerpt: "A groundbreaking case report publication on the impact of rapid molecular testing on lung cancer patients   TEL"
+    publishedDateTime: 2023-07-26T13:11:00Z
+    webUrl: "https://menafn.com/1106698858/Imagenes-Ai-Based-Molecular-Profiling-Revolutionizes-Lung-Cancer-Diagnostics-Two-Patients-Receive-Immediate-Targeted-Therapy-Avert-Brain-Radiation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+
+secured: "cD+E7G9a/2dvWBYVdw1MLR39BBTKyONkKviaNoVCPi3XLY+KrRDu4HkSqc6iwnps6h8LJKZtaSrZxbSx48hVekv1cStgkRNiAR3zVWZLE2JPtEli248o3uIsdlkp4f/r5VwjKpsvZEv05dEmpLrkx3TKA2WREYjfhasKk8WkNH4f6utRrgcVhLuYMGVIm73YBDZ/Mic5sfVJr/KKx970ADEQwkFl+aIiZjmiDHH0mldYrFZI9LUZ1fCvL4q2cZdO4TEd2NnIw0CBnDE8yABrN89MXsGgIM9P4J/DHY5T/wFjHb8SK0T29WKeRUdZxhdskW/YEALv6rByZXPXU+2YeNuHhwO4cDGKv/xrQAKjadc=;zlfr6yAoLvpzLF881HxcEw=="
+---
+

@@ -90,22 +90,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
-    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
-    publishedDateTime: 2023-07-24T05:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
-        isCached: true
   - title: "Generative AI is empowering the digital workforce"
     excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
     publishedDateTime: 2023-07-25T14:46:00Z
@@ -193,6 +177,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "AXA deploys secure generative AI to employees"
+    excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
+    publishedDateTime: 2023-07-28T15:20:00Z
+    webUrl: "https://www.reinsurancene.ws/axa-deploys-secure-generative-ai-to-employees/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 39
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
+        width: 1000
+        height: 575
+        isCached: true
   - title: "Wayfair takes the generative AI route to interior decoration"
     excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
     publishedDateTime: 2023-07-26T02:31:00Z
@@ -231,6 +229,6 @@ related:
         height: 600
         isCached: true
 
-secured: "QZj/Eaj1NmIiokHR58Y6+DW6rPv2OpOCeXXZCN42XP3ZdJ48HHkt1WcLissZQtqIUnlQ6aLHuZdGDTgY/0go1SjumDSZw1LrCpobcdIZKQNsocJkXL+uxYbQYdItSWbEGbQoFfbBSvAz1jq6JEe2NdM0TsRadMMCSmb0Rc4y2OaZdhcMoxtG3Prhbmfgg3qyVfq5lEpLIm2mq3tszjTwcFzQ5vDv7Wf8hzxKNJOJC3n3QlomW7qW+mH5C9A8Mh5tjY1BpPVZepbAvkLE3CHMYnaHNY27lGf4XO0a7evCUhgGwXVfqM7QZAESMvFCma3OZBqmqBbHkkHZ/aDUh4Hww921gFZCBZxWwjMZ8KCePBI=;ZKczFgLKWS02W7qVvzTA4w=="
+secured: "7y+tUjRo9i0YheGs7taUjEtoajqWbpK/y6aAAtePKQ/C/zEg8Sk8G47HjwdhNXPrDj6q5+hgIx1ixEXIBEeR/zKFrHYYwnkGdxb085LfOv420inxY2pCO7g5p5DM1pSGQssVGYXr2J5M1gQ4PncRsvh5ko8SdFz7nxgaRVt7xXM4yV/CW8VS8m6+oYuStCShNKPe59IgOv7n6QRLH4JzenQIw3TqVxO6/jgg2OX0FPFVQ0QtCVV5+LiQGkeGGVuvSBh0KnygjBPjAl+vre/guBInYLo98cQ4B61xUsXpTj+/qLAlRdo1baBINii1onZId3tdy0OPmRO1bAsw+2eFxlz+Pp7Ls6pgfmJTIHPhtLtQ4S5wygEx/Jtam8CfRXx8+7/LyVWEYlJROmrk4H78qJbTsR3JqLo4dg3YIxZ6KcVqiKRd1G1Kchcbi3lvzPlT2PJQyA78eG/kCHccqFsuRNhKVwzi7/LmzNH3mHh90t48kauDWWIpQFku7jL+ubo1fXf6OAw1U2DiQLqykpZNhQ==;o0pJ7b12mVEGQ1+CURBAxg=="
 ---
 

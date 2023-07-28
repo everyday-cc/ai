@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-pushes-back-its-self-driving-truc
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-pushes-back-its-self-driving-truck-efforts-to-focus-on-ride-hailing-211355559.html"
 type: article
 quality: 103
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
       name: Neowin
       domain: neowin.net
     quality: 41
+  - title: "Waymo to reduce autonomous trucking focus"
+    excerpt: "Given its success in ride-hailing robotaxis, Waymo, the autonomous driving arm of Alphabet, said it will change its focus to primarily robotaxis and push back on the development of autonomous trucks."
+    publishedDateTime: 2023-07-28T12:22:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19996/waymo-to-reduce-autonomous-trucking-focus"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "IKrpwdmZV30SKZgema0WwJ7TKst0C14FOvW72OAoQAXxv0UYL97VkcmPGSSc5hiPj9LUQYgR1daObpDBikj5+PT/QWUiCBJNUsW9Zy2kRyj+OWsCgYqGbbKuoUBAJYk8ZI/4g1K+S/c8zSghmGDYoXg7b0AwCm4dtA2EZQHKR7FBgOAgYuc+oPvfg+gAO9b7j0VkmpY8ZPmvPmUhImMD9tBHHupPnQlat8sTN7QPLxcpo/OiCfR7JwGavqThlpRDbWE5aBDYIBy+I9au1XQAEWJuaXEsnlaTRI1XMm3volH0PVXpgzdz8Z0KAtBoqXk2ntyHV+mIdY1nD2oDDApitKqc9OyoKPr0rTf9NRHDQrc0+mTlOKVS51tdxquSbeMWRJjA8LvgpdkgKVGdspboCAO2M2c/XLpP052ue8ItBTgFZEpg+SpftA/dkVEJXXcAN7b6aD5XR3uNsymaM0eWYUDDC7V3EJBTb2oAuqYL9RSJrJhRKlb0AY2XDLbf+9NbsbmCYneSjQSPpG80/4N6Ow==;iKmaN2ltA7pGqO7mF0ujaQ=="
 ---

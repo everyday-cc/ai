@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/automatic-people-how-robotics-transforming-li
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research?amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Skin-like Sensors are Transforming the Field of Robotics"
+    excerpt: "Recently, researchers have made significant strides in robotics by developing an innovative skin-like sensor, transforming the dynamics of robot-environment interactions."
+    publishedDateTime: 2023-07-28T15:13:00Z
+    webUrl: "https://www.electropages.com/blog/2023/07/skin-sensors-breakthrough-robotics-you-need-know-about"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 56
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2023/7-July/conductive-ink-acts-as-a-sensor-in-silicone-og.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI is transforming every aspect of science. Here's how."
     excerpt: "In the future, research labs will embrace the transformative potential of artificial intelligence to tackle wicked problems and speed up scientific discovery."
     publishedDateTime: 2023-07-24T09:00:00Z

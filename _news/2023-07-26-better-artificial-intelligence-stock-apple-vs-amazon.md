@@ -43,6 +43,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Why Artificial Intelligence (AI) Stock C3.ai Was Edging Higher This Week"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-07-28T12:44:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/28/why-artificial-intelligence-ai-stock-c3ai-was-edgi/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 63
   - title: "Expert Ratings for C3.ai"
     excerpt: "Below is a summary of how these 11 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts are on the stock"
     publishedDateTime: 2023-07-24T12:13:00Z

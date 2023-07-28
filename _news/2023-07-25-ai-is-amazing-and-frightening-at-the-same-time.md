@@ -25,105 +25,82 @@ images:
     isCached: true
 
 related:
-  - title: "Hype, Fright And Ethics In Implementing AI"
-    excerpt: "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways."
-    publishedDateTime: 2023-07-23T20:56:00Z
-    webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
+  - title: "Artificial Intelligence Is Changing The World And Your Business"
+    excerpt: "Regardless of the industry, whether your company is based around services, manufacturing, consumer or business-to-business, AI will play a role in company operations."
+    publishedDateTime: 2023-07-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bd914505a8958614d98958/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ba8e17f5fa3c5cc0d98952/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 642
+        height: 800
         isCached: true
-  - title: "HR and Talent in the Era of AI"
-    excerpt: "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified"
-    publishedDateTime: 2023-07-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
+  - title: "Understanding the Chip Business and Solar Inverters"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-07-25T15:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/25/understanding-the-chip-business-and-solar-inverter/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "AI and Machine Learning Hold Potential in Fighting Infectious Disease"
-    excerpt: "New research showed that drug discovery, infection biology, and diagnostics are functions of AI and machine learning in treating infectious diseases."
-    publishedDateTime: 2023-07-26T17:31:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-potential-in-fighting-infectious-disease"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-        width: 690
-        height: 400
+      - url: "https://g.foolcdn.com/editorial/images/740838/mfm_20230720.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
-    excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
-    publishedDateTime: 2023-07-25T18:51:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-insights/2023/07/bake-risk-management-and-ethics-into-the-planning-and-implementation-of-your-agencys-ai-projects/"
+  - title: "How AI Is Changing The Face Of Careers As We Know It"
+    excerpt: "Look into roles that are more strategic in nature. Join teams or organizations that are looking to give humans ways to combat the bot."
+    publishedDateTime: 2023-07-24T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/24/how-ai-is-changing-the-face-of-careers-as-we-know-it/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How to Put AI to Work for Your Small Business"
+    excerpt: "“You still have to know what you want it to do.” For AI-powered chatbots, she stresses the importance of learning prompts that are specific to your industry. If you’re not sure where to start, try searching online for prompt guides, suggests Joe ..."
+    publishedDateTime: 2023-07-24T21:07:00Z
+    webUrl: "https://www.nerdwallet.com/article/small-business/ai-for-small-business"
+    type: article
+    provider:
+      name: NerdWallet
+      domain: nerdwallet.com
+    quality: 37
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/GettyImages-1449569562-scaled-e1690314487418.jpg"
-        width: 2073
-        height: 1081
+      - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/07/GettyImages-1138451175-1440x864.jpg"
+        width: 1440
+        height: 864
         isCached: true
-  - title: "Complete Guide to Investing in Artificial Intelligence"
-    excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
-    publishedDateTime: 2023-07-27T18:41:00Z
-    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide/"
+  - title: "Artificial Intelligence As A Service (AIaaS): Empowering Businesses With Smarter Solutions - By The Business Research Company"
+    excerpt: "1. Increasing Spending on Artificial Intelligence:"
+    publishedDateTime: 2023-07-27T15:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855525.htm"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 41
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/8c31f59e-606e-4c42-acbe-e86d919cabae.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Why You Should Create a Plan to Implement Artificial Intelligence Now"
-    excerpt: "Questions to get you started on upskilling and strategic planning that can keep your business ahead of the AI curve."
-    publishedDateTime: 2023-07-26T10:06:00Z
-    webUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
+  - title: "AI Changing the Dynamics of Image Processing Technology"
+    excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
+    publishedDateTime: 2023-07-27T05:44:00Z
+    webUrl: "https://www.pcquest.com/ai-changing-the-dynamics-of-image-processing-technology/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Business and ethics in the age of AI"
-    excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"
-    publishedDateTime: 2023-07-25T09:27:00Z
-    webUrl: "https://it-online.co.za/2023/07/25/business-and-ethics-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
-  - title: "Embedding Artificial Intelligence In Enterprise"
-    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
-    publishedDateTime: 2023-07-28T10:02:00Z
-    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
+      name: PCQuest
+      domain: pcquest.com
+    quality: 19
 
 secured: "gH/tsmD767HNLsH+AJtTByK5Xyh1hhUYGnQGcwyO/EAWd9kHrr73mvusH8j28m/E45YGpX+1JuQmvmzJZIwNN7toVpYSlYUE7pWrcPxzljjSF4IVZeyyDIo3QTzHK3A2TDpiVigUjyEzaqtC/8Tc3yMfr55zVLuL7RfVn77z08Osmqr1QKaDffw3/lOyjKeDjo4VRdDPLr1wzDHK4I96H1UXgRwXzlwYTWC2OfVeubp80LZL/gPswBo4cG513m/Y/CTjzXvMBCuzZXexrBDVH62s7g9CLmk3e3WTFgC5Urgx0KCWElBpC4OaDb/EfDXkjfhQ7XbtJZ9nXSNqYU4BAa4F5qkW69urOG0wlV15pCQ=;2/LSWhZUYXrFuiG8BFWBCA=="
 ---

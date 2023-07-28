@@ -57,6 +57,20 @@ related:
         width: 813
         height: 412
         isCached: true
+  - title: "Risks of opening up AI"
+    excerpt: "Meta has annouced that its Llama 2 large language model will maxde freely available under a community licence with certain restrictions"
+    publishedDateTime: 2023-07-28T10:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366545672/Risks-of-opening-up-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 41
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-250723-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
 
 secured: "jtK8PpmrdfQhorBbAvGZITwlisC6VmYUvR9XDL5ReiXUTZsBLb5vXqYlyyK/tO8blsVLOLM9VwWtDJ6HxmrP1u10/AEnsHup4BjGPg2p0KbiMGB8pUtTKxG/IageNxpVcKwx1L7W0mA5jr6SVKiLZvU9qX3gTFq5z0pf7i73wFzNlo8iSwvjdPiHhKDiOVi5Ww9VH67Xkb2008W8y1eJLeGTa6VGIbms+EARzhO35h2FkRWFCiO61MQEieOSdUhVQHCdG0b2s4qP6K2sEnm7+n17WREjJ6oDldytH6xos8Cz5mO2NeGJ2Z6nlHyvNJrGnTyQt3MJLDVIF3JlM2SkgAAg+CoJCiF9HvbTz0OSjXROZyNnnaLNCFA6kw34GESATB9HB02EqEecIIMxKejg7kMsBfLdeuTgrL2kA3UFbS4HVzAuV24XG8j0nQZc8cu2AbaS/ei79vjXY4bm6ppnZdkZzVKnLUDftc4irGcL56ha4ZoWAwIEB7S+Pl/UHH9uZUrUty4RQrHxHMX0b85f6A==;4Zb2vIYgMlxClj/qLSkaZA=="
 ---

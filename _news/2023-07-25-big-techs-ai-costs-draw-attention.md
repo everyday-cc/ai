@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Proposals aim to regulate artificial intelligence in the workplace"
-    excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
-    publishedDateTime: 2023-07-26T04:43:00Z
-    webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
-    ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
-    type: article
-    provider:
-      name: WOKV
-      domain: wokv.com
-    quality: 74
-    images:
-      - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Startup to Use Generative AI to Create ‘Personalized News Network’"
     excerpt: "Channel 1, a new startup founded by Tosh.0 producer Scott Zabielski and tech entrepreneur Adam Mosam, plans to launch a service by the end of this year that uses Generative AI to create “personalized” news networks customized to individual viewers’ tastes."
     publishedDateTime: 2023-07-27T14:42:00Z
@@ -65,15 +49,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Follow the AI money"
-    excerpt: "OpenAI is giving away basic access to ChatGPT but selling $20-a-month enhanced subscriptions. Google and Microsoft are both making their AI-enhanced chat-based search products free, so expect advertisements — and the data mining that makes them more valuable — to kick in at some point."
-    publishedDateTime: 2023-07-25T09:29:00Z
-    webUrl: "https://www.axios.com/2023/07/25/follow-the-ai-money-business-models"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "32I2if3X9CiH7QHvYgRU435+riB/QEMYnYG3XcHdZ5PkZpmqbRxUkJ4H8nCxbYTs7SL2oLgglzhno3FLyAHYxarpE1czbSSzkT1K5guRr957aEwp2hPmVc4cZ9fwu4ETTkQOVWUSgpXKAh0cuhRLUOGD9g57nHiiV4LUTEz/AOn9XoQJ+qQug1oJ5N9E8UMVPMyQIVva8TVJFW/CcIM7OIdRAAfJsc7MCMh5u3g1e8rp7iFNv9SER+ulSeZko7KOV594LEho7e0sDc0Thce7T+athXR9tBI1HKVPSzDPP4ecGQyuTF/gMevNEDnVi9KsXqRrMbkbmjqEf0Zgi0swpF5o2u+cQsB/QoH6mvOzYJbw+6xFcHD4Jo0JSUOJZ6Ag0qujGwY6bxsIZo5/WpWCKgyhWPL7KsACMeSUS60/Prl5ih1nAd/18knJD9cvQvM162lDmtv/3HiPpXb0/5azgQg8bInD+pO4EylOY7p2JkRK/axJFTGvlGJqW/EMFxI2yji6CdeqEYO0LaXkh6j2iQ==;kW6BuxsQu0YkXmwafhMwPA=="
 ---

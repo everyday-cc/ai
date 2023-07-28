@@ -53,6 +53,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Organizational Resilience And Operating At The Speed Of AI"
+    excerpt: "The hope is that AI (and its close cousin automation) can help solve the productivity paradox. Indeed, Goldman Sachs analysts predict AI will deliver \"a 7% (or almost $7 trillion) increase in global GDP and lift productivity growth by 1."
+    publishedDateTime: 2023-07-28T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d79a86fd87ce0403e3c1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "8 limitations of using Artificial Intelligence"
     excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
     publishedDateTime: 2023-07-28T10:31:00Z
@@ -69,6 +85,15 @@ related:
         width: 282
         height: 500
         isCached: true
+  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
+    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
+    publishedDateTime: 2023-07-28T12:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Educating the Next Generation in AI"
     excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
     publishedDateTime: 2023-07-26T21:00:00Z

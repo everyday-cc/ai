@@ -58,15 +58,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How AI Is Revolutionizing The Role Of The Business Analyst"
-    excerpt: "Cyborgs aside, we're in such an innovation moment for business analysts. Here are three ways AI is resulting in a profound shift in the role of analysts and what this means for businesses that want to do more with AI."
-    publishedDateTime: 2023-07-24T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/how-ai-is-revolutionizing-the-role-of-the-business-analyst/"
+  - title: "AI is amazing and frightening at the same time"
+    excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
+    publishedDateTime: 2023-07-24T17:28:00Z
+    webUrl: "https://www.greensburgdailynews.com/opinion/columns/ai-is-amazing-and-frightening-at-the-same-time/article_82ff7704-2a47-11ee-b2b1-1f290672e0e1.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Greensburg Daily News
+      domain: greensburgdailynews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/greensburgdailynews.com/content/tncms/custom/image/0441c36e-bdf2-11e5-a5df-bb2003ff1eb0.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "How to Put AI to Work for Your Small Business"
     excerpt: "“You still have to know what you want it to do.” For AI-powered chatbots, she stresses the importance of learning prompts that are specific to your industry. If you’re not sure where to start, try searching online for prompt guides, suggests Joe ..."
     publishedDateTime: 2023-07-24T21:07:00Z

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-28-ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning.md",
+      "title": "IBM and AWS partnering to transform industrial welding with AI and machine learning",
+      "excerpt": "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-machine-learning-technique-can-efficiently-learn-to-control-a-robot.md",
       "title": "Machine Learning Technique Can Efficiently Learn To Control a Robot",
       "excerpt": "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly.",
@@ -10,7 +55,7 @@
       "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1277,62 +1322,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-top-11-ai-as-a-service-companies-2023.md",
-      "title": "Top 11 AI as a Service Companies 2023",
-      "excerpt": "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/07/ew-ai-as-a-service-companies.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

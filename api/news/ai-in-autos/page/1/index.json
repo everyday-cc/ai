@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-28-driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed.md",
+      "title": "Driverless 4-wheeler in Bengaluru marks its presence on the internet; users impressed",
+      "excerpt": "Minus Zero, a Bengaluru-based start-up while announcing the launch, called it 'just the beginning' and indicated towards more exciting changes that lie ahead for India in the next five years",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html",
+      "originalUrl": "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/07/AI-vehicle.jpg",
+          "width": 640,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html/amp",
+      "publishedDateTime": "2023-07-27T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
       "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
       "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -53,7 +96,7 @@
       "originalUrl": "https://www.engadget.com/waymo-pushes-back-its-self-driving-truck-efforts-to-focus-on-ride-hailing-211355559.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -77,6 +120,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-us-lawmakers-struggle-to-find-deal-on-self-driving-cars.md",
+      "title": "US lawmakers struggle to find deal on self-driving cars",
+      "excerpt": "Congress still faces serious hurdles to winning approval for long-stalled legislation to speed the adoption of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/",
+      "originalUrl": "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MrMppNk3ohKSJBN0NahPuzv99Ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMXA5TMYMNORXKF5MBF6OVMY2A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -199,59 +294,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-1-self-driving-car-and-ai-stock-to-watch-in-the-second-half-of-2023.md",
-      "title": "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023",
-      "excerpt": "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg",
-          "width": 6000,
-          "height": 4002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1380,49 +1422,6 @@
       "provider": {
         "name": "NBC DFW",
         "domain": "nbcdfw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-congressman-says-americans-could-be-the-losers-in-the-ai-social-experiment.md",
-      "title": "Congressman Says Americans Could Be the 'Losers' in the AI 'Social Experiment'",
-      "excerpt": "Rep. Adam Schiff calls the entertainment industry the \"tip of the spear\" in the battle against the disruptive use of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
-      "originalUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/Decrypt-Wallpaper-Format-72-gID_7.png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "decrypt",
-        "domain": "decrypt.co",
         "images": null,
         "publishers": null,
         "authors": null

@@ -27,122 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
-    excerpt: "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!"
-    publishedDateTime: 2023-07-24T10:01:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
+  - title: "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light"
+    excerpt: "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California."
+    publishedDateTime: 2023-07-27T15:58:00Z
+    webUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/"
+    ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg"
-        width: 6000
-        height: 4002
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "US lawmakers struggle to find deal on self-driving cars"
-    excerpt: "Congress still faces serious hurdles to winning approval for long-stalled legislation to speed the adoption of self-driving cars."
-    publishedDateTime: 2023-07-26T16:02:00Z
-    webUrl: "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/MrMppNk3ohKSJBN0NahPuzv99Ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMXA5TMYMNORXKF5MBF6OVMY2A.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Self-Driving Cars Are Here. What Could Go Wrong."
-    excerpt: "Hundreds of autonomous vehicles from Amazon, GM, and Alphabet are operating across the country. But safety concerns are real, as are fears about the U.S. falling behind China in driverless technology."
-    publishedDateTime: 2023-07-27T21:04:00Z
-    webUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
-    ampWebUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-824945?size=1.5005861664712778&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "US lawmakers struggle to find deal on self-driving cars: Report"
-    excerpt: "Approval for self-driving car legislation in Congress is uncertain due to concerns about China's aggressive efforts in this technology. Opposition from safety groups and labor unions also raises apprehensions about the proposed legislation."
-    publishedDateTime: 2023-07-27T21:51:00Z
-    webUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report-11690452142431.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/27/600x338/self_driving_cars_1690452752441_1690452762276.png"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
-    excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
-    publishedDateTime: 2023-07-24T23:57:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NXPI/pressreleases/18728384/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/d7e25ecb14e17af850223515fdd1e332/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f999b696c5a6ef2d9298be4bd30026b6a.png%26amp%3Bw%3D700"
-        width: 720
-        height: 449
-        isCached: true
-  - title: "$20m grant set up to develop AI in self-driving vehicles, materials research for military use"
-    excerpt: "Self-driving military vehicles and machinery can be dangerous if robot eyes fail to recognise objects clearly in bad weather – or worse, if the systems are hacked. Read more at straitstimes.com."
-    publishedDateTime: 2023-07-26T10:28:00Z
-    webUrl: "https://www.straitstimes.com/tech/20m-grant-set-up-to-develop-ai-in-self-driving-vehicles-materials-research-for-military-use"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 28
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/CKW2973.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "How The Self-Driving Car Dream Became An Absolute Nightmare"
-    excerpt: "The reason our self-driving utopia hasn’t arrived, it argues, is because it was never really supposed to. Instead, the promise of self-driving cars were just a lure to keep cities from building ..."
-    publishedDateTime: 2023-07-25T10:43:00Z
-    webUrl: "https://jalopnik.com/how-the-self-driving-car-dream-became-a-nightmare-1850641230"
+  - title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
+    excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
+    publishedDateTime: 2023-07-25T14:22:00Z
+    webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
     type: article
     provider:
       name: Jalopnik
       domain: jalopnik.com
-    quality: 24
+    quality: 51
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bb9a938264e5320444c84db192c94a98.jpg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Congress Wades Into Self-Driving Debate With New House Bills"
-    excerpt: "Congress is wading into the debate over whether automakers should be allowed to more self-driving cars while manufacturers seek federal permission to expand testing of the technology."
-    publishedDateTime: 2023-07-25T20:12:00Z
-    webUrl: "https://www.ttnews.com/articles/congress-self-driving-cars"
+  - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
+    publishedDateTime: 2023-07-24T11:04:00Z
+    webUrl: "https://paultan.org/2023/07/24/tesla-in-talks-to-license-autopilot-full-self-driving-autonomous-tech-to-major-automaker-elon-musk/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
+      name: Paul Tan
+      domain: paultan.org
+    quality: 39
     images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Capitol-Night-1200.jpg"
-        width: 470
-        height: 246
+      - url: "https://paultan.org/image/2023/07/2023-PT-EVx_Tesla-Model-Y_Int-3-1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Would You Trust Tesla's Self-Driving System? Read This!"
+    excerpt: "Tesla's self-driving system has been criticized repeatedly over the years. One group calling for a ban on Tesla's Full Self-Driving software is The Dawn Project, a nonprofit group founded by Dan O'Dowd. It's campaigning to get Congress to ban it."
+    publishedDateTime: 2023-07-28T00:26:00Z
+    webUrl: "https://www.timesunion.com/news/article/would-you-trust-tesla-s-self-driving-system-18265021.php?IPID=Times-Union-cars-headlines"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 19
+  - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
+    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
+    publishedDateTime: 2023-07-24T17:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "uZuwgdjMC1sdt7W0xuMTnHUPvr3rI5OSu5L42oXLNqNlNNeWFpzFjt6eROTVoBxZbE2hsq4GHtcX8yM5Ta7ol3lsZRv6VZ2zBzifNZfw1I/yVcoSbophodwaQ6V9TXnm5yiCQ7OG+AsjMIB5tk+84Kh8gRP5BQFT+uelFGza6UDi1Jd/7cOJ30wkzohuX7x63UBa/oBzKWFHoKzTYe7o/wKSRmRXkgOOhQz1olimySaRDJvoNvqvnpoFq0WV7KAtPL9QNQX690pBUSAuDVZTroIYHzjmo9PehxJEtukEMr6yNTRLnK7m3thHa/oKzMGYloY6JifLuwVirswFN0QIQT6tcXTA4MsnVXyjmi2GJPqeT0bd0Jg+NDkkuYC5NaSe5oF+XO+Cse3/rkQE1m4pqKRi4kqAN6DB00kT4v1QvRf9v8xnND+atFuTrrEHtEl6L/P/v6WCQ0KM02arLboX7rH7HcJcNC57wLNLYBdb7oOjlqeaqQh23dKbn+JRoDzv/4wur3japhMl+lEdAKmRCg==;FpHOLpyRMWA6pBfWV7ehSg=="
 ---

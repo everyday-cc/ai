@@ -724,7 +724,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 648,
+      "heat": 638,
       "tags": null,
       "images": [
         {
@@ -883,7 +883,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -935,7 +935,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1176,59 +1176,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-1-self-driving-car-and-ai-stock-to-watch-in-the-second-half-of-2023.md",
-      "title": "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023",
-      "excerpt": "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg",
-          "width": 6000,
-          "height": 4002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1518,6 +1465,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-computer-chip-with-built-in-human-brain-tissue-gets-military-funding.md",
+      "title": "Computer chip with built-in human brain tissue gets military funding",
+      "excerpt": "Monash University scientists created the \"DishBrain\" – a semi-biological computer chip with some 800,000 human and mouse brain cells lab-grown into its electrodes. Demonstrating something like sentience,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/human-brain-chip-ai/",
+      "originalUrl": "https://newatlas.com/computers/human-brain-chip-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/474cbba/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F83%2F70%2F1d37aa81476bbc3534b48a2120d1%2Floz9501-a-computer-chip-with-some-human-brain-tissue-in-a-small-95451b8c-01dc-4613-8dff-14df00131c92.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

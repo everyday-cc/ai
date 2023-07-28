@@ -210,58 +210,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-27-we-will-inevitably-lose-skills-to-ai-but-do-the-benefits-outweigh-the-risks.md",
-      "title": "We Will Inevitably Lose Skills to AI, But Do The Benefits Outweigh The Risks?",
-      "excerpt": "The concern arises from the idea that as AI becomes proficient in tasks such as language translation, content generation and even coding, these skills might gradually become obsolete for humans. Imagine the revered art of translation. It's a task that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338",
-      "originalUrl": "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1690304062-artificial-intelligence-risks-benefits-0723-g1394953811.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-26-flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection.md",
       "title": "Flag harmful language in spoken conversations with Amazon Transcribe Toxicity Detection",
       "excerpt": "The increase in online social activities such as social networking or online gaming is often riddled with hostile or aggressive behavior that can lead to unsolicited manifestations of hate speech, cyberbullying, or harassment. For example, many online gaming communities offer voice chat functionality",
@@ -1397,6 +1345,40 @@
       "ampWebUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
       "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
       "publishedDateTime": "2023-07-13T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-top-5-programming-languages-for-ai-and-natural-language-processing.md",
+      "title": "Top 5 Programming Languages for AI and Natural Language Processing",
+      "excerpt": "This capability proves particularly beneficial for applications involving natural language processing, sentiment analysis, and image recognition. R is a powerful statistical programming language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T19:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",

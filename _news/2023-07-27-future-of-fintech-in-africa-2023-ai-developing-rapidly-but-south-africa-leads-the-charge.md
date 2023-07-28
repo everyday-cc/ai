@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "15 companies from Nigeria, others accede to AI ethics code"
+    excerpt: "Ethics Code has received further global boost as 15 companies from 12 countries including Nigeria joined the international technology watchdog at the ongoing Russia-Africa Economic and Humanitarian Forum in St Petersburg,"
+    publishedDateTime: 2023-07-28T12:55:00Z
+    webUrl: "https://www.vanguardngr.com/2023/07/15-companies-from-nigeria-others-accede-to-ai-ethics-code/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/07/Capture.jpg"
+        width: 285
+        height: 297
+        isCached: true
 
 secured: "42pRmJAlsS+P/WTuZQCVIBlUZXDHqaZRZlqdwYDG2WK8wPzjldoWqx8qBgGsGtckJpZCfeRhGjJPBV2hZIVZbsGCJ4AJVMFVQaBNa9SAttgl0OgA5q5GnWTObPOxbekuc0ayoRJDd0g1WPY4OTkzZQ5S417CDUxK7qpDCd6beO7g6YVgC6L3LQtzIBMD9DmC++aRxX1ew1nRyzDKU5FOEugWgU4PCMzROUMkXMhqNJYuumLt2tDGtvByp/egYnBi9fJiucZy0JfzAFJqbL7Bn+aJaEhwObyfm0yieMAwn5xrI6UJU4GF05RJK5iIRr1P9ayTSriU3wQKQ6yzXe5UcYX4f2ofoMtU0VBBNZZLsYDfqyA3/x8WOvhd/nnxTqSYdYQfVd9xKowuVst0tpzq2H5pvhQydM+bM1U9kSGENiQtNA3U+NQBJiuSc9/V/vdGKkz52IWXmPraqfrp2Sq1fEqcnQR1xj6q51NlsjFCFxGvK43R+GoThtu7IN8OlidrwYqA3Dy6z+p3dnaCNpbESA==;80ksj9xCsNAUROiRsV0REQ=="
 ---

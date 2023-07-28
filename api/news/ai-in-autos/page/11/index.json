@@ -2,6 +2,83 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-29-washington-dc-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Washington D.C. Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Booz Allen will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost in the Fall of 2023. The AI Bootcamp in Washington,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092320/washington-d-c-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092320/washington-d-c-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32092320",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092320",
+      "publishedDateTime": "2023-04-28T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-indianapolis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Indianapolis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "Corteva will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Indianapolis will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
+          "width": 550,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023",
@@ -1264,92 +1341,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-self-driving-cars-autonomous-driving-levels-explained.md",
-      "title": "Self-driving cars: Autonomous driving levels explained",
-      "excerpt": "They have no autonomous or self-driving controls at all, with all aspects of driving needing to be taken care of by the driver, including reacting to hazards. Level 1: Level 1 autonomy is the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "originalUrl": "https://www.pocket-lint.com/sae-autonomous-driving-levels-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/143955-cars-feature-autonomous-vehicles-the-various-levels-of-autonomy-explained-image1-yfsj6ukbpj.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-baidu-future-ai-giant-with-improving-core-ad-business.md",
-      "title": "Baidu: Future AI Giant With Improving Core Ad Business",
-      "excerpt": "I like Baidu as the key enabler of AI adoption across industries in China, working on autonomous driving, ML/ AI cloud computing, and even chip design. Baidu recently leveraged its AI research ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
-      "originalUrl": "https://seekingalpha.com/article/4595821-baidu-bidu-future-ai-giant-improving-core-ad-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488987708/image_488987708.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -190,6 +190,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 17
+  - title: "Disney, Netflix, Amazon, Apple, and Sony Ramp Up AI Hiring Amid Ongoing Writer Strikes: Report"
+    excerpt: "Major entertainment companies are on a hiring spree with plum pay packages for positions in the artificial intelligence (AI) fie"
+    publishedDateTime: 2023-07-28T11:45:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33437141/disney-netflix-amazon-apple-and-sony-ramp-up-ai-hiring-amid-ongoing-writer-strikes-report"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "uBbcPPe+kUXAZqQ3qn72N/egKpLe29FYi2btgvAgGS9En29GXmdgJ8Jys8qlryMPe5MyHOXWeNRLS9NONzLhUVOPQoMfhYQrmPulYJ0EQsBMV7i5ZOZ8eVk78XVgplQnwX6/lEbZFmFsgj1wdmrXO2ZjeI2nzxKA1EJkrg+/b6uF/mCEaErj7aBJjsMjaOgSWvb4x3hf+Q0ATSPQfw+R657iLqtasXpx5kU+Cc+INzytfmw+YyELnELqY6Zm5yScBvss6h4R9X+doZFKCXJrEmzy4A8yriQrhkEBpTE3WBeaCQTsQ4PYCnoWrjDhZ3j2qa++pBBwVub/2dZGgbplVBAHgcgyKTz1Z0P3FRlfJXV5u7Yn7Hk0zeyM49xEe+Zm9tZ8QyIhl9a7ppyYpjiH/idX1nkA2y0l2kWKHBmByeIqKpxhhtGelCzlH33MJBIAe44I/CFM5/mOzzO9ZhCipnEE9mmuSYJMYRrhvviKhUZ2gvDKunju5ht1LRaa+J31hTnkjltWglBKg3CNSIU5BA==;+DhFjkPfbHmQ3dzVK8TScQ=="
 ---

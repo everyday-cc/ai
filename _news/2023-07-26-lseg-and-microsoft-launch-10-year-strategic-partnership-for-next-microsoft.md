@@ -693,15 +693,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Kpmg And Microsoft Enter A Landmark Agreement To Put Ai At The Forefront Of Professional Services"
-    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory."
-    publishedDateTime: 2023-07-23T19:27:00Z
-    webUrl: "https://menafn.com/1106651961/Kpmg-And-Microsoft-Enter-A-Landmark-Agreement-To-Put-Ai-At-The-Forefront-Of-Professional-Services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
   - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
     excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
     publishedDateTime: 2023-07-26T23:57:00Z

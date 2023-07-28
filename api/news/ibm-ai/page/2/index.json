@@ -2,6 +2,179 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-12-oee-vs-teep-whats-the-difference.md",
+      "title": "OEE vs. TEEP: What’s the difference?",
+      "excerpt": "OEE and TEEP are two related KPIs that are used to help prevent losses by measuring and improving the performance of equipment and production lines.\nThe post OEE vs. TEEP: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/oee-vs-teep/",
+      "originalUrl": "https://www.ibm.com/blog/oee-vs-teep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T06:04:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs.md",
+      "title": "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs",
+      "excerpt": "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/07/12/ibm_bangalore_manyata_2.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33197115",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33197115",
+      "publishedDateTime": "2023-07-12T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data.md",
+      "title": "Enterprises need generative AI tailored to their unique needs, with their own unique data",
+      "excerpt": "Learn why enterprises need generative AI, and how IBM watsonx offers a seamless, efficient, and governed approach to their AI deployment.\nThe post Enterprises need generative AI tailored to their unique needs, with their own unique data appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
+      "originalUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs.md",
+      "title": "IBM may use its own AI chip in cloud service to lower costs",
+      "excerpt": "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
+      "originalUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg",
+          "width": 640,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
+      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
+      "publishedDateTime": "2023-07-12T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecom Lead",
+        "domain": "telecomlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
       "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
       "excerpt": "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service.",
@@ -1182,187 +1355,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai.md",
-      "title": "Bernstein Says IBM is Best-Positioned to Take Advantage of AI",
-      "excerpt": "According to Bernstein analysts, IBM (NYSE:IBM) is the leading US IT hardware company in terms of leveraging AI technology. They believe that generative AI has a “neutral to potentially positive” impact on IT hardware companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cweb.com/bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai/",
-      "originalUrl": "https://www.cweb.com/bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cweb.com/wp-content/uploads/2023/07/fmp-1688144241283.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cweb",
-        "domain": "cweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-what-would-einstein-have-said-about-the-impact-of-generative-ai-on-higher-education.md",
-      "title": "What would Einstein have said about the impact of generative AI on higher education?",
-      "excerpt": "The debate over AI taking over our jobs has intensified in recent years. There was much discussion after the 2011 Jeopardy quiz show during which IBM’s Watson outsmarted two human champions, and the 2016 Go match in which Google’s AlphaGo beat Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/fb5e7661-4967-4384-aec2-0bbdfb230ba9_f8895cc2.jpg?itok=ZIS8I_lg&v=1688042148",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-in-recruitment.md",
-      "title": "AI in recruitment",
-      "excerpt": "Let’s rethink recruiting. If you were to design the recruitment process for a new company, what would you automate to identify and get the best talent?\nThe post AI in recruitment appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
-      "originalUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:45:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-cmms-vs-eam-two-asset-management-tools-that-work-great-together.md",
-      "title": "CMMS vs. EAM: Two asset management tools that work great together",
-      "excerpt": "Two commonly used asset management and maintenance solutions are computerized maintenance management systems (CMMS) and enterprise asset management (EAM).\nThe post CMMS vs. EAM: Two asset management tools that work great together appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
-      "originalUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:12:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -262,20 +262,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "How FOX Teamed Up with AWS for AI-powered Highlights"
     excerpt: "Rising to the occasion, FOX built and deployed its new AI-powered Catch Up With Highlights feature ahead of its US broadcast coverage of the FIFA World Cup Qatar 2022™. Leveraging Amazon’s open source Media Replay Engine (MRE) framework for automating video clipping and replay generation,"
     publishedDateTime: 2023-07-24T17:30:00Z
@@ -336,6 +322,20 @@ related:
       name: Daijiworld
       domain: daijiworld.com
     quality: 51
+  - title: "AWS launches AWS HealthScribe"
+    excerpt: "Amazon Web Services has launhced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
+    publishedDateTime: 2023-07-28T14:26:00Z
+    webUrl: "https://www.techcentral.ie/aws-launches-aws-healthscribe/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/06/Tech-central-MPU-1300-×-250-px.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AWS launches major GenAI push, debuts new offerings at NYC Summit"
     excerpt: "Generative artificial intelligence (GenAI) will transform every application, industry and business and is finally taking shape due to an assortment of technological advances, Swami Sivasubramanian, vice president of database,"
     publishedDateTime: 2023-07-28T00:28:00Z

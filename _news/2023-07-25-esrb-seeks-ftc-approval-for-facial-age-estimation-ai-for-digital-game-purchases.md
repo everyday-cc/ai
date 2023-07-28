@@ -199,6 +199,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US cities weigh value of facial recognition for police"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-28T15:14:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "ESRB plans “facial age estimation” checker for age verification"
     excerpt: "The video game rating board for the US, the ESRB, has had its new plans unearthed after the FTC put them up for public opinion. Dubbed Privacy-Protective Facial Age Estimation, the tech would allow parents to upload a photo of themselves to give permission to their child to play certain games."
     publishedDateTime: 2023-07-25T17:39:00Z

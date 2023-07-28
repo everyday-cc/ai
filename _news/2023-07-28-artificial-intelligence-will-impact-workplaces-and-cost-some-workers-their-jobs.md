@@ -8,7 +8,7 @@ webUrl: "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-o
 ampWebUrl: "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-486107054-e1690492073918.jpg"
@@ -115,20 +116,6 @@ related:
       - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
         width: 1429
         height: 1053
-        isCached: true
-  - title: "Democracy, Defence and Conflict in the Age of AI"
-    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
-    publishedDateTime: 2023-07-25T03:07:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
-    type: article
-    provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
-        width: 3133
-        height: 1764
         isCached: true
   - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
     excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."

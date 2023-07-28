@@ -2,6 +2,403 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-24-the-markets-fomo-driven-rally-is-unsustainable-and-most-ai-stocks-are-still-bottoming-cio-says.md",
+      "title": "The market's FOMO-driven rally is unsustainable and most AI stocks are still bottoming, CIO says",
+      "excerpt": "\"We tell investors who have a case of FOMO that only a small part of the train has left the station, as most stocks are still bottoming.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64be8ed4bea34400195fe3bc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "publishedDateTime": "2023-07-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 391,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-24T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ai-driven-personalisation-a-new-era-in-ghanaian-banking-services.md",
+      "title": "AI-driven personalisation : A new era in Ghanaian banking services",
+      "excerpt": "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients. Creditably,",
+      "sourceUrl": null,
+      "webUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
+      "originalUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thebftonline.com/wp-content/uploads/2023/07/By-Nana-Kofi-BOBBIE-SARFO.jpg?fit=1100%2C1540&ssl=1",
+          "width": 1100,
+          "height": 1540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp",
+      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp",
+      "publishedDateTime": "2023-07-24T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business",
+        "domain": "thebftonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility.md",
+      "title": "AI-Driven Innovations Unveiled: Bolstering Security, Customer Experience, And Visibility",
+      "excerpt": "Splunk's makes AI pivot, enhancing security & productivity. New offerings include automated threat analysis & observability advancements, solidifying its leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64be89b3549ce84619d98956/0x0.jpg?format=jpg&crop=1499,844,x0,y75,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
+      "publishedDateTime": "2023-07-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-robot-preachers-ai-programs-may-undermine-credibility-of-religious-groups-study-finds.md",
+      "title": "Robot preachers, AI programs may undermine credibility of religious groups, study finds",
+      "excerpt": "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations for religious groups that rely on them,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/robot-preachers-ai-pro.jpg",
+          "width": 592,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp",
+      "publishedDateTime": "2023-07-24T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-mark-zuckerberg-just-changed-artificial-intelligence-forever.md",
+      "title": "Mark Zuckerberg Just Changed Artificial Intelligence Forever",
+      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740797/ai-image.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ayozat-integrate-ai-into-their-deep-tech-product-tlc.md",
+      "title": "AYOZAT Integrate AI Into Their Deep Tech Product, TLC",
+      "excerpt": "With AI now built into the AYOZAT TLC core, the Company will be one of the first to integrate AI in TV channel building and curating. AYOZAT will",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/9210/174576_ayozat1.jpg",
+          "width": 560,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-the-importance-of-ai-in-creating-situational-awareness.md",
+      "title": "The Importance Of AI In Creating Situational Awareness",
+      "excerpt": "As the way organizations operate continues to change rapidly, understanding the role of AI in sustaining situational awareness can help align several business aspects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/",
+      "publishedDateTime": "2023-07-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-artificial-intelligence-is-changing-the-world-and-your-business.md",
       "title": "Artificial Intelligence Is Changing The World And Your Business",
       "excerpt": "Regardless of the industry, whether your company is based around services, manufacturing, consumer or business-to-business, AI will play a role in company operations.",
@@ -155,7 +552,7 @@
       "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -552,59 +949,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-24-1-self-driving-car-and-ai-stock-to-watch-in-the-second-half-of-2023.md",
-      "title": "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023",
-      "excerpt": "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg",
-          "width": 6000,
-          "height": 4002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-07-24-generative-ai-is-coming-for-the-visual-effects-industry-what-the-technology-means-for-the-future-of-animation.md",
       "title": "Generative AI is coming for the visual effects industry: What the technology means for the future of animation",
       "excerpt": "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs.",
@@ -613,7 +957,7 @@
       "originalUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -664,7 +1008,7 @@
       "originalUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -894,365 +1238,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.md",
-      "title": "NY police used AI to track drivers on highways as attorney questions legality",
-      "excerpt": "A drug trafficker, David Zayas of Massachusetts, was nabbed by police in New York who used artificial intelligence technology to sift through 1.6 billion license plates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
-      "originalUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Screenshot-2023-07-11-at-10.08.23-AM.png",
-          "width": 734,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
-      "publishedDateTime": "2023-07-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-failing-to-embrace-ai-is-the-real-threat-to-the-us-in-the-global-ai-race-investor.md",
-      "title": "Failing to embrace AI is the real 'threat' to the US in the global AI race: Investor",
-      "excerpt": "Founder & CEO of RSE Ventures explains why he thinks \"fearmongering\" and a failure to \"create a culture of innovation\" are costing the U.S. in the AI race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107275256-16901668911690166889-30442148960-1080pnbcnews.jpg?v=1690170537&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-for-execs-how-to-cut-through-the-noise-and-deliver-results.md",
-      "title": "AI for execs: How to cut through the noise and deliver results",
-      "excerpt": "Where are your key business pain points and inefficiencies? Ultimately, the best approach is to start with the problem rather than the exciting new AI solution. We recommend taking new technologies as building blocks to create enterprise-ready solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noise-and-deliver-results/",
-      "originalUrl": "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noise-and-deliver-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_an_executive_leading_a_successful_business_meeting._col_75a8f6d4-f73f-4ecb-809e-159525094e5b.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-hype-fright-and-ethics-in-implementing-ai.md",
-      "title": "Hype, Fright And Ethics In Implementing AI",
-      "excerpt": "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bd914505a8958614d98958/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/",
-      "publishedDateTime": "2023-07-23T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-microsoft-teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload.md",
-      "title": "Microsoft & Teladoc Expand Partnership, Enabling AI To Reduce Clinician Workload",
-      "excerpt": "This represents a growing trend by healthcare organizations, which are increasingly leveraging AI to augment workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bd4f852559900c20d3e1a4/0x0.jpg?format=jpg&crop=3000,1688,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/",
-      "publishedDateTime": "2023-07-23T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-the-newspapermans-trick-for-ai.md",
-      "title": "The Newspaperman’s Trick for AI",
-      "excerpt": "An undisclosed source provided the following.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
-      "originalUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-822237/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work.md",
-      "title": "At Startup That Says Its AI Writes Medical Records, Humans Do a Lot of the Work",
-      "excerpt": "DeepScribe relies on a team of people to review tech-generated reports, listen to medical conversations and revise the records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work-794be22e",
-      "originalUrl": "https://www.wsj.com/articles/at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work-794be22e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-801306/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

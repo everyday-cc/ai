@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealt
 webUrl: "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealth-not-with-bang-2023-07-28/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

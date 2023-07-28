@@ -106,6 +106,15 @@ related:
         width: 1095
         height: 610
         isCached: true
+  - title: "Waymo to reduce autonomous trucking focus"
+    excerpt: "Given its success in ride-hailing robotaxis, Waymo, the autonomous driving arm of Alphabet, said it will change its focus to primarily robotaxis and push back on the development of autonomous trucks."
+    publishedDateTime: 2023-07-28T12:22:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19996/waymo-to-reduce-autonomous-trucking-focus"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "ItFyaglmiK/9aocCSL/RpafDyLchbC52bn9xC5lCU5zMesgIcSTfJvEtG5asHDnQ+VkRh4wd3QJN99xSlIkvd7L23SGVkaME+1dRqns0jQRVipWtkyYRcy+YtOJz+Q0A9VwiOSB4sVFSN4WGMe8fURMpQVP9KlOHhMvDcf9SC6bk01TvRDSx0NgZzVYaS3pYvkVvdP+yhguK7j9q5ILKxL3yn0iRsyMzAw7oxcc5/YqQbDHrkcRkjCvEwcMo2VjzOCAJQjNikAU+UxjUgCQR2Fohvqql6pd1JRdiFJNhilvFx9TeyDRMUkIiQhlVWV9/hWud04Ph8/o7oGD7jZEU1DI5l/OKDSAd2p+ySQfboz2kaOouzFOQnXMAt4cPgRx0rnDty1z61IGrFSQfjG1ovFgM/OWVHu85QL17E7UIlOdJGv6yTnIhMmg2RJtQBAJnXjZ4yzOi/qOTurAlrio4iB5kZfzQcc4G4Igazoct3LrhcBFfb7AQzvc8Uxt/LWk1rW9xeehQ5t2uM291vsJt7A==;tnD9T68+vgis7aQMuaFXQg=="
 ---

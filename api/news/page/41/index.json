@@ -2,6 +2,368 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
+      "title": "The True Threat of Artificial Intelligence",
+      "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html",
+      "originalUrl": "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-top-ten-transferable-skills-into-fintech-as-of-2023.md",
+      "title": "The Top Ten Transferable Skills Into Fintech As Of 2023",
+      "excerpt": "In an industry in constant change, individuals whose skills can constantly transfer to new demands will be increasingly important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649e96a331545e6dc10b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 758,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/",
+      "publishedDateTime": "2023-06-30T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook.md",
+      "title": "Meta explains how its AI algorithms work on Instagram and Facebook",
+      "excerpt": "The social media giant has put out a post explaining how its AI Algorithms decide on the content you see on your feed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/353634079_292975916467647_5811223305601545193_n.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp",
+      "publishedDateTime": "2023-06-30T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-inflection-ai-collects-about-13-billion-during-a-fundraising-round.md",
+      "title": "Inflection AI collects about $1.3 billion during a fundraising round",
+      "excerpt": "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/Image-Credit-Freepik223.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/",
+      "publishedDateTime": "2023-06-30T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-service-robotics-germany.md",
+      "title": "AI Service Robotics - Germany",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$264.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.12%, resulting in a market volume of US$627 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-natural-language-processing-germany.md",
+      "title": "Natural Language Processing - Germany",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$1.02bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.92%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-when-bytes-bias-unraveling-the-myth-of-neutral-ai.md",
+      "title": "When Bytes Bias: Unraveling The Myth Of Neutral AI",
+      "excerpt": "In this article, we discuss the concept of technochauvinism, shedding light on the often-overlooked societal implications and biases in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649e7325a69e4ef2a20b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "publishedDateTime": "2023-06-29T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-this-ai-startup-generates-videos-with-text-and-it-just-raised-141m-led-by-google-and-nvidia.md",
+      "title": "This AI Startup Generates Videos With Text — And It Just Raised $141M Led By Google And Nvidia",
+      "excerpt": "Generative AI startup Runway has raised $141 million from investors which include Alphabet Inc.-owned GOOGL Google and Nvidia Corp. NVDA. Runway helps content creators generate videos and tweak ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/33074471/this-ai-startup-generates-videos-with-text-and-it-just-raised-141m-led-by-google-and-nvidia",
+      "originalUrl": "https://www.benzinga.com/news/23/06/33074471/this-ai-startup-generates-videos-with-text-and-it-just-raised-141m-led-by-google-and-nvidia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/rw-blog-post-v3.png?width=1200&height=800&fit=crop",
+          "width": 843,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33074471",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33074471",
+      "publishedDateTime": "2023-06-29T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-microsoft-backed-ai-start-up-inflection-raises-us13-billion-from-nvidia-and-others.md",
       "title": "Microsoft-backed AI start-up Inflection raises US$1.3 billion from Nvidia and others",
       "excerpt": "Inflection AI, a start-up backed by several Silicon Valley heavyweights, said on Thursday it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence sector.",
@@ -746,367 +1108,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-googles-deepmind-unveils-its-powerful-new-ai-gemini.md",
-      "title": "Google’s DeepMind Unveils Its Powerful New AI, Gemini",
-      "excerpt": "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/",
-      "originalUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 2263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp",
-      "publishedDateTime": "2023-06-29T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks.md",
-      "title": "Retail Leaderboard: Individual Investors Keep Buying Tesla, Tech, AI Stocks",
-      "excerpt": "Individual investors' net purchases of U.S. stocks and ETFs stalled last week, but they kept buying certain favorite picks, according to Vanda Research. Tesla, Amazon.com, Apple, Nvidia and Advanced M",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-809755?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-6-ways-you-didnt-know-ai-can-help-with-your-side-gig.md",
-      "title": "6 Ways You Didn’t Know AI Can Help With Your Side Gig",
-      "excerpt": "“Moreover, Rekognition by Amazon Web Services is yet another helpful AI tool. I can now offer services like content moderation, object recognition and facial analysis thanks to Rekognition’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/6-ways-didn-t-know-190004758.html",
-      "originalUrl": "https://www.aol.com/finance/6-ways-didn-t-know-190004758.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/HTRB65PBcZTgoXWrYFVJlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/830fa60e94844d97ed0eeb4ac34f6f41",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-arteraai-announces-first-ever-ai-derived-biomarker-for-predicting-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.md",
-      "title": "ArteraAI Announces First-Ever AI-Derived Biomarker for Predicting Androgen Deprivation Therapy (ADT) Benefit in Prostate Cancer",
-      "excerpt": "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced today the publication of data in",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230629089773/en/ArteraAI-Announces-First-Ever-AI-Derived-Biomarker-for-Predicting-Androgen-Deprivation-Therapy-ADT-Benefit-in-Prostate-Cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-why-india-risks-falling-behind-in-the-ai-race.md",
-      "title": "Why India Risks Falling Behind in the AI Race",
-      "excerpt": "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
-      "title": "Researchers teach an AI to write better chart captions",
-      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
-      "publishedDateTime": "2023-06-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment.md",
-      "title": "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'",
-      "excerpt": "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,",
-      "sourceUrl": null,
-      "webUrl": "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment",
-      "originalUrl": "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/chy143-the-canadian-press.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/",
-      "cdnAmpWebUrl": "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/",
-      "publishedDateTime": "2023-06-29T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The StarPhoenix",
-        "domain": "thestarphoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge.md",
-      "title": "Runway draws fresh $141 million as next-level generative AI video begins to emerge",
-      "excerpt": "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/",
-      "originalUrl": "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

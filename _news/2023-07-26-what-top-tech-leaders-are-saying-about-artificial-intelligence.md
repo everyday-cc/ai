@@ -56,6 +56,15 @@ related:
         width: 1345
         height: 900
         isCached: true
+  - title: "As Publishers Seek AI Payments, AP Gets a First-Mover Safeguard"
+    excerpt: "The Associated Press’s pact with OpenAI gives it the right to reset terms if another publisher gets a better deal."
+    publishedDateTime: 2023-07-28T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/as-publishers-seek-ai-payments-ap-gets-a-first-mover-safeguard-f5a6f186"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
 
 secured: "sdGMqKj6hQgjxIPQg2HMnhptrgv61Ad5LJ6bDV8gP2q4c2dBx+Sbw+PUmo2lxuhpPZiElH3yJvfYHfQEBJT6g5Ajo1sAmDhNlOASqpOm5n9QlTfO9+c+cLJ0V5bD62jOMZh+hWSrS/o8rjZOqWGrO2Zzk1E70c9apvwIY/D2dmZGf4zVbMX5tWb7Yo6H9o+txKX0Xi6BdX5pXQ3BZaxvZLUFr7Okoeb7vapYcdoqfoLPTxR6tVOdvdew3a8xGD9Oj4BGlYZT4bBl7I8mYYyRriYLdzOjCrNKSOBj1Wal8r/ValznBCfw9sUg4gLZDiLj9p9Ol7x1J/bjeZ9bmMyuvjr4OBllSJFHRQwIW5IvpGc=;4cm9vzUTsg/vIoN1iMEL7A=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 676
         height: 380
         isCached: true
+  - title: "Commentary: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-28T12:00:00Z
+    webUrl: "https://www.union-bulletin.com/commentary-artificial-intelligence-loves-america/article_d48a318a-2cb9-11ee-a292-cf639ea6ace5.html"
+    type: article
+    provider:
+      name: Walla Walla Union Bulletin
+      domain: union-bulletin.com
+    quality: 19
 
 secured: "uLbCRTBKY65xLSUqdXaXx7EyEGoMwTuADH/BLdCiukFPHPWcZNPlYErJuI9Eu1awoWbRuJV/fZqqZ3S8BeqW76+UeOboZOncfQaM9jXx700zwpVPBKOqNP2Nsbcvpjb77WnQmWyTajApuljGy1b2+2WFpYE1LzgWidM+fHpf0h7Bi3nMWohvAsZTZhAEyJuGKaAHrOEff90GR1kcWF7JcXF8yPBiFcCAkZKPq7o7EvWY7g0aUM/imYFw+XEh+AFvrBhziA2gM7nHRb0vVREphMKb+p7kEFn6gUbXtbRDTipoM05nfidlkddQzl9kPgTUBxc/V5nfMkNjqEnBdjbA5XNGz3LH+kTv0g2wvx46kR0E7+7Y6YE21TWc/7/3pP6d96d+zckTq7hkeYkc+nJdudumXSYrQCVvoFzL72W6mZGfANEEGl0M1pFyZA2dhpPSu17Vkbv5z6ecn+T+6JLvOUI+eEP3PieWLS7Za/8hfbG91zfSGvIXRuZNWUIFQVHgQf0WhtBpxQdnRvfRWwefLQ==;gMuCgle4S7KLJz2YUkxn3A=="
 ---

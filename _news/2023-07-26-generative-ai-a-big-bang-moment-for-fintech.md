@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://static.toiimg.com/photo/75433510.cms"
         width: 330
         height: 300
+        isCached: true
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 41
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
         isCached: true
   - title: "Financial technology, or fintech, is changing our finances"
     excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
@@ -228,6 +242,15 @@ related:
       name: Fortune India
       domain: fortuneindia.com
     quality: 19
+  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T21:09:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 12
   - title: "Business school launches £3m FinTech centre"
     excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
     publishedDateTime: 2023-07-27T12:13:00Z

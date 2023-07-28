@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/machine-learni
 webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Reinforcement learning allows underwater robots to locate and track objects underwater"
+    excerpt: "A research team has shown for the first time that reinforcement learning—i.e., a neural network that learns the best action to perform at each moment based on a series of rewards—allows autonomous vehicles and underwater robots to locate and carefully track marine objects and animals."
+    publishedDateTime: 2023-07-28T15:32:00Z
+    webUrl: "https://techxplore.com/news/2023-07-underwater-robots-track.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-underwater-robots-track.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-underwater-robots-track.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/reinforcement-learning.jpg"
+        width: 1280
+        height: 820
+        isCached: true
   - title: "A simpler method for learning to control a robot"
     excerpt: "A new machine-learning technique can efficiently learn to control a robot, leading to better performance with fewer data."
     publishedDateTime: 2023-07-26T00:00:00Z

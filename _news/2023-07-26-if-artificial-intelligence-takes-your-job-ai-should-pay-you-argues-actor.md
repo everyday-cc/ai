@@ -27,6 +27,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Why You Should Create a Plan to Implement Artificial Intelligence Now"
+    excerpt: "Questions to get you started on upskilling and strategic planning that can keep your business ahead of the AI curve."
+    publishedDateTime: 2023-07-26T10:06:00Z
+    webUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Z7v/PHVlS1KHpzEPrJ/Xedit5FsrmMhCiI3QH8Omj1d5BVwK3Cng9vzglacqBJvo6vTTW2iX9RQO9Yvthwi5i4XCppjojW+JT8eWxs61FrGWZ2m31/ElmyWEaO4Hz448l5hqSJrVFCXu/IjVmzpir0r2aWelw30Y0iJQ5g5g5JaJac3WMbHrX5hwN5jBUJbux3WjuggAn2HTC56Xs+iGuMjOvtg+ShpqXwbhZyVYpfxSiVUwDE/TcoX5gtTUx6sVWsT/FmRoWH7YTlXSrNu2pY9/Yup4TtNtqU63Oos/PaaHNJOAxaDRb2P595utc0G4PNB9RkcTo5weSw0tBN9HHjYJup5M5+QfhTbI3eNPDIC4h6pE6I5raYlWhJ68I/ECxWfFWSPmDoVGDCXyIRrTM9qvZjsa6nMTALvstaYUo+ljIY+tr4f4CW6bVuoKXADGcYEgnSm/3ZhbGfeURTWhX6NLXwEwKt1v3YnZ+oY9LDhkp5+qbhXyd6857eTSWrXfi1MNRF52nH28HAz5rBJ2gg==;S5fsYZtSjlDwqWl+RGrdGA=="
 ---

@@ -83,7 +83,7 @@ related:
     provider:
       name: Marketplace
       domain: marketplace.org
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-486107054-e1690492073918.jpg"
         width: 3000
@@ -116,20 +116,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
         width: 504
         height: 315
-        isCached: true
-  - title: "Democracy, Defence and Conflict in the Age of AI"
-    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
-    publishedDateTime: 2023-07-25T03:07:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
-    type: article
-    provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
-        width: 3133
-        height: 1764
         isCached: true
   - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
     excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."

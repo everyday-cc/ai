@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 648
+heat: 638
 published: true
 
 provider:
@@ -691,15 +691,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Kpmg And Microsoft Enter A Landmark Agreement To Put Ai At The Forefront Of Professional Services"
-    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory."
-    publishedDateTime: 2023-07-23T19:27:00Z
-    webUrl: "https://menafn.com/1106651961/Kpmg-And-Microsoft-Enter-A-Landmark-Agreement-To-Put-Ai-At-The-Forefront-Of-Professional-Services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
     publishedDateTime: 2023-07-25T22:42:00Z

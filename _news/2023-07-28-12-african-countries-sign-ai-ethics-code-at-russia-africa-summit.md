@@ -7,8 +7,8 @@ originalUrl: "https://www.kbc.co.ke/12-african-countries-sign-ai-ethics-code-at-
 webUrl: "https://www.kbc.co.ke/12-african-countries-sign-ai-ethics-code-at-russia-africa-summit/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Kenya Broadcasting Corporation
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "15 companies from Nigeria, others accede to AI ethics code"
+    excerpt: "Ethics Code has received further global boost as 15 companies from 12 countries including Nigeria joined the international technology watchdog at the ongoing Russia-Africa Economic and Humanitarian Forum in St Petersburg,"
+    publishedDateTime: 2023-07-28T12:55:00Z
+    webUrl: "https://www.vanguardngr.com/2023/07/15-companies-from-nigeria-others-accede-to-ai-ethics-code/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/07/Capture.jpg"
+        width: 285
+        height: 297
+        isCached: true
   - title: "Future of Fintech in Africa 2023: AI developing rapidly, but South Africa leads the charge"
     excerpt: "AI Media Group South Africa determined in a 2022 report that 2,400 companies were listed as AI-focused, and 40% were founded in the last five years. This marks the rapid development of AI within the continent."
     publishedDateTime: 2023-07-27T10:53:00Z

@@ -45,6 +45,20 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Aided by A.I. Language Models, Google’s Robots Are Getting Smart"
+    excerpt: "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots."
+    publishedDateTime: 2023-07-28T10:00:00Z
+    webUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2023/07/28/multimedia/28ROOSE-02-zwqm/28ROOSE-02-zwqm-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Applying Artificial Intelligence to Robotics"
     excerpt: "In this article, AZoRobotics explores the use of artificial intelligence in robotics, covering the challenges, applications and future prospects."
     publishedDateTime: 2023-07-24T09:30:00Z
@@ -59,20 +73,24 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Aided by A.I. Language Models, Google’s Robots Are Getting Smart"
-    excerpt: "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots."
-    publishedDateTime: 2023-07-28T10:00:00Z
-    webUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
+  - title: "Google's building A.I. into robots to teach them to throw out the trash"
+    excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
+    publishedDateTime: 2023-07-28T11:19:00Z
+    webUrl: "https://www.cnbc.com/2023/07/28/googles-builds-ai-into-robots-to-teach-them-to-throw-out-the-trash.html"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/07/28/multimedia/28ROOSE-02-zwqm/28ROOSE-02-zwqm-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
+  - title: "A New Dawn in Robotics: Touch-Based Object Rotation"
+    excerpt: "In a groundbreaking development, a team of engineers at the University of California San Diego (UCSD) has designed a robotic hand that can rotate objects using touch alone, without the need for visual input."
+    publishedDateTime: 2023-07-28T13:21:00Z
+    webUrl: "https://www.unite.ai/a-new-dawn-in-robotics-touch-based-object-rotation/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
 
 secured: "KUjurAvR1LJ+1EHmsNilCUtUXbYlsueddXgqgLEQWVCaTmjDS3w0OQE45tqqo5vVxSXxZfG3W0ryTpWYNlf70SChsN7oVUrR1aX9UKyrwlezUyAHiAzf9e/3Tfxfh2AHKn07dz43SXvT/zDkIhfc/muMVUq2YDU1r6k6SAycqdQKtEYJku5DLC9ZwYqKs0+jKEE2OIG9K25GGVmoVlMXiiE77FADsK2EBXAA8+u3IlWayTPh7hw41tsbfpsY3dvI1nf0Z/jO1GyRoP/S8xoAbgdu735B2VK0ZM7vyASoPgPGPPdr2s94WNXo2aycxMLdFvwhzuVkz/SVF4F3pnig7J5bZM3vLN/qmTiBN0gVPUo=;UEQSC2deVNPdoRi3X2qWEA=="
 ---

@@ -38,6 +38,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Actors are really worried about the use of AI by movie studios. They may have a point"
+    excerpt: "Film and television actors in the US came out on strike on July 14, causing Hollywood productions to shut down. The action has also had an impact on US films shooting in the UK: director Tim Burton's Beetlejuice 2 has \"paused\" and the production of Deadpool 3,"
+    publishedDateTime: 2023-07-25T16:06:00Z
+    webUrl: "https://techxplore.com/news/2023-07-actors-ai-movie-studios.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 12
 
 secured: "5DTjScrswfH/c7Ns74cqC319ySSBSmfnBAQ+n8uTQ0cAkZ6aSW+uyMEjv2gCarWB6+wQgradzSUbgs5Bt36o1hlBpVWWXeJOEC9X+o+PjtvNVAy8ePafxudZvTRjYWZtQwVs9kNC0gJA7s2GV33K/OlChuTZK2P395qLeuwEP1MW1Djm+CXn2izWHTZV5Fq0rZE4Ej06TNb8ctKASzjcE7x8Cl+s6kBfmnDW5paKnjahtkxf1p2O1fP2CfaPWaRBNUAiczD0pCOJb5mQicNFya0UFR1/4HU/eToXD51+gCGxxpTZI9eAlwRNiCYlbRccun8oHDeswCz8iPXRxQg8oA0uyBFjCM3sl0CJvrmSP562d4KWKKZ7UNSc4EyhWIs6roIPQyg85KcJHzIWMK6N+J8suwWrqzBnJxK2680Z3D5MRHH+DYKeAxGwkH7DSLvQsyXYl86OXervm+ZmoGStHO441NG6POLD+u9X0ZGJMhgZIvnFen4hUxDAirg6VD4wd0FPvYaqqXws4/n16Jz+rQ==;UBbB/HzCX2MHqctsIYFz5g=="
 ---

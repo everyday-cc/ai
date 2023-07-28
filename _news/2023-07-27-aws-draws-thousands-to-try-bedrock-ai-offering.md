@@ -25,43 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "AWS is ready to power AI agents that can handle busywork instead of just chatting"
-    excerpt: "Other AWS announcements included bringing generative AI to healthcare through a new service called AWS HealthScribe and a partnership with Nvidia allowing AWS to handle larger amounts of memory and data by using Nvidia H100 Tensor Core GPUs."
-    publishedDateTime: 2023-07-26T21:40:00Z
-    webUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy"
+  - title: "IBM and AWS partnering to transform industrial welding with AI and machine learning"
+    excerpt: "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-28T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
+      name: IBM
+      domain: ibm.com
+    quality: 127
+  - title: "How AWS is making generative AI simpler for businesses"
+    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
+    publishedDateTime: 2023-07-24T00:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ttBtmyVRGnR5dITVexFJJD6wnOk=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24812347/AWS_Summit_NY_2023_003.JPG"
-        width: 1200
-        height: 628
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "The biggest scientific challenges that AI is already helping to crack"
-    excerpt: "AI isn't just for chatbots – many companies are using it to tackle everything from protein folding and drug development to commercially viable nuclear fusion"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/"
+  - title: "Several Brains Behind the Future of Automation, AI, and Robotics Explore Manufacturing That Will Transform the Industry"
+    excerpt: "Jared Glover, CEO of CapSen Robotics, and Michal Diga, P3 Product Director at Stratasys, discuss the future of automation, AI, and robotics."
+    publishedDateTime: 2023-07-26T22:12:00Z
+    webUrl: "https://marketscale.com/industries/engineering-and-construction/several-brains-behind-the-future-of-automation-ai-and-robotics-explore-manufacturing-that-will-transform-the-industry/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: marketscale
+      domain: marketscale.com
+    quality: 45
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24165513/SEI_164804484.jpg"
-        width: 1350
-        height: 899
+      - url: "https://marketscale.com/wp-content/uploads/2023/07/CR_Video-Thumbnail-Image-1.png"
+        width: 1866
+        height: 1038
         isCached: true
-  - title: "South Florida resi agents lean into AI"
-    excerpt: "From writing listings to reviewing documents and generating marketing campaigns, the technology is proving to be a game changer in real estate."
-    publishedDateTime: 2023-07-26T14:30:00Z
-    webUrl: "https://therealdeal.com/miami/2023/07/26/south-florida-resi-agents-lean-into-ai/"
+  - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
+    excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
+    publishedDateTime: 2023-07-28T14:59:00Z
+    webUrl: "https://washingtontechnology.com/top-100/2023/07/ibms-tech-and-business-agenda-leads-ai-hybrid-cloud/388925/"
     type: article
     provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 19
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 41
+    images:
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/07/27/IBM_logo/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "7R0isKl9oFC+Fth8mdcdOvNa7GXrqha/fNhT0XhQI+HsJzrmlYF1qMSUOJCslafGArK7U7KeZleONfhqUFgPLaKszV6Va9o6t2E/RXkEzTwof/4mxLh6A4Y1GDasGCeSX5MYWfPnA1933nF92Xai9W5itJwME2/ffzzzawB//WVRMNDRY9gIdrHsiOLYW7nYX/nJ+Fh0hekhXPhnjeBhS/4Ljcy5pfqUGpPJlOqG8m3/u1XfSmxFWQtZoeb+Wwl/okvbiiRs/LcHZnY+6o5+o8uvROJvU6sj8i2eo68NukRpnJHYqUY5sBtE88ms9T/Xxnk0wUQbHXli9GyCyXDoStpfOAksbj+bB2HvEI+cwd0=;YDOlgkAdtUfXykZbTMhDTg=="
 ---

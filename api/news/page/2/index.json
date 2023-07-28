@@ -2,6 +2,448 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-28-complex-domain-neural-network-advances-large-scale-coherent-imaging.md",
+      "title": "Complex-domain neural network advances large-scale coherent imaging",
+      "excerpt": "by combining artificial intelligence diagnosis, this technology may unlock the secrets of complex biological systems and push the boundaries of medical diagnostics. More information: Xuyang Chang et al, Complex-domain-enhancing neural network for large ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.html",
+      "originalUrl": "https://phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/complex-domain-neural.jpg",
+          "width": 1280,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.amp",
+      "publishedDateTime": "2023-07-27T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-intel-earnings-turns-surprise-q2-profit-with-129b-in-revenue-as-ai-drives-growth.md",
+      "title": "Intel earnings turns surprise Q2 profit with $12.9B in revenue as AI drives growth",
+      "excerpt": "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Intel reported that its second-quarter revenues and profits were above expectations,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/intel-earnings-turns-surprise-q2-profit-with-12-9b-in-revenue-as-ai-drives-growth/",
+      "originalUrl": "https://venturebeat.com/games/intel-earnings-turns-surprise-q2-profit-with-12-9b-in-revenue-as-ai-drives-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/cto-7.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity.md",
+      "title": "The Power Of The Prompt: Unleashing AI's Full Potential For Work Productivity",
+      "excerpt": "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at why prompts are critical for optimizing AI for workplace productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2c7b9821236b6e642dbf0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/",
+      "publishedDateTime": "2023-07-27T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-skilled-partners-hold-the-key-to-accelerating-ai-adoption.md",
+      "title": "Skilled partners hold the key to accelerating AI adoption",
+      "excerpt": "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/",
+      "originalUrl": "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Skilled-partners-hold-the-key-to-accelerating-AI-adoption-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth.md",
+      "title": "Chip-equipment suppliers rally after Lam says AI servers will drive growth",
+      "excerpt": "Semiconductor-related stocks surged Thursday, and leading the pack were stocks of the companies that make the equipment used to make chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "originalUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-473098/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "publishedDateTime": "2023-07-27T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection.md",
+      "title": "RSA Survey Reveals Identity Security Knowledge Gaps And AI's Role In Improving Protection",
+      "excerpt": "A new report from RSA highlights concerning gaps in the knowledge of self-identified identity professionals, and shares insight on the future of identity security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d402ffd3da1bf4624c5504/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/amp/",
+      "publishedDateTime": "2023-07-27T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-meta-and-microsoft-vets-land-22m-for-startup-building-shared-brain-developer-platform.md",
+      "title": "Meta and Microsoft vets land $2.2M for startup building ‘shared brain’ developer platform",
+      "excerpt": "A new artificial intelligence startup wants to help software development teams capture, store, and query their company data and knowledge. Augmend recently emerged from stealth mode with $2.2 million",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/meta-and-microsoft-vets-land-2-2m-for-startup-building-shared-brain-developer-platform/",
+      "originalUrl": "https://www.geekwire.com/2023/meta-and-microsoft-vets-land-2-2m-for-startup-building-shared-brain-developer-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/07/AugmendTeam-1260x649.jpg",
+          "width": 1260,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future.md",
+      "title": "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future",
+      "excerpt": "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future",
+      "originalUrl": "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33426371",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371",
+      "publishedDateTime": "2023-07-27T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-h100-gpu-instance-pricing-on-aws-grin-and-bear-it.md",
+      "title": "H100 GPU Instance Pricing On AWS: Grin And Bear It",
+      "excerpt": "It is funny what courses were the most fun and most useful when we look back at college. Both microeconomics and macroeconomics stand out, as does poetry writing, philosophy, and religious studies despite the focus on engineering and American literature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/",
+      "originalUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/07/aws-ec2-ultrascluster-logo.jpg",
+          "width": 1090,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/amp/",
+      "publishedDateTime": "2023-07-27T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo.md",
       "title": "Laptops will need to support growing AI and security priorities, says Lenovo",
       "excerpt": "Machine learning and cybersecurity are among CIOs' top priorities today, so work devices should be built to support these requirements.",
@@ -313,7 +755,7 @@
       "originalUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -674,57 +1116,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-27-the-indispensable-role-of-agencies-in-the-age-of-ai.md",
-      "title": "The Indispensable Role Of Agencies In The Age Of AI",
-      "excerpt": "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-07-27T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-27-meta-rallies-as-ai-powered-ad-sales-drive-monster-forecast.md",
       "title": "Meta rallies as AI-powered ad sales drive 'monster' forecast",
       "excerpt": "Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.",
@@ -825,400 +1216,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-could-replace-politicians-and-ceos-if-they-play-by-darwinian-rules-of-evolution-expert.md",
-      "title": "AI could replace politicians and CEOs if they play by Darwinian rules of evolution: expert",
-      "excerpt": "Artificial intelligence could replace politicians and CEOs, according to a tech experts. UK politicians are already sounding the alarm that they could be replaced with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert",
-      "originalUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12f32090-d466-4946-8d6a-cfb9c81363bd/7511282e-5719-497f-be58-09896b59eaff/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
-      "publishedDateTime": "2023-07-26T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-as-ai-goes-global-let-the-un-control-it.md",
-      "title": "As AI goes global, let the UN control it",
-      "excerpt": "In record time, Europe produced a significant body of regulation with the ambition of getting a grip on the use of data and ensuring the tech industry behind it pivots toward Europe. The U.S. and China have similar policies in place, making the race for technological supremacy increasingly important in a changing geopolitical context.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
-      "originalUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84b9ac1d-a4a4-4612-9a07-2799d6cac361/c1628bc1-adc0-42c1-92a3-b0869cf171a8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
-      "publishedDateTime": "2023-07-26T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-privacy-group-challenges-ryanairs-use-of-facial-recognition.md",
-      "title": "Privacy group challenges Ryanair's use of facial recognition",
-      "excerpt": "Digital rights group NOYB on Thursday filed a complaint against Ryanair , alleging that it is violating customers' rights to data protection by using facial recognition to verify their identity when booking through online travel agents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
-      "originalUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/dIDyVgha2Ldzns3rcSc6hqCdXt0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FBR3K75CPFPAZMM63XCHD3ESFE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-fake-or-fact-the-disturbing-future-of-ai-generated-realities.md",
-      "title": "Fake Or Fact? The Disturbing Future Of AI-Generated Realities",
-      "excerpt": "From deepfakes to misinformation, discover the ethical implications and potential solutions in a world where AI blurs the line between truth and fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c200fd980aca1380ea0a57/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
-      "publishedDateTime": "2023-07-26T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-in-sales-and-marketing-its-here.md",
-      "title": "AI in sales and marketing: It’s here",
-      "excerpt": "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "originalUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/07/Paul-Mulder-Jul-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "publishedDateTime": "2023-07-26T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud.md",
-      "title": "Signifyd's Developed An AI-Powered Response Solution To Combat Retail Fraud",
-      "excerpt": "Fact: “If it were measured as a country, then cybercrime ...would be the world’s third-largest economy after the U.S. and China... and represents the greatest transfer of economic wealth in history.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1c0f8e717bf59b303e3c3/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1162,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/",
-      "publishedDateTime": "2023-07-26T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption.md",
-      "title": "ServiceNow partners with Nvidia and Accenture on ‘AI Lighthouse’ for rapid enterprise AI adoption",
-      "excerpt": "The program aims to help customers build and deploy custom generative AI large language models (LLMs) and generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_futuristic_lighthouse_beams_glowing_digital_computer__eca72640-231d-4a86-960c-3ac35e4c93ae.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco.md",
-      "title": "Can artificial intelligence bring a new tech boom to San Francisco?",
-      "excerpt": "As San Francisco struggles with empty storefronts, homelessness and theft, there is new hope that a tech boom driven by artificial intelligence will help revitalize the city. CNBC’s Deirdre Bosa shares more on Scale AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690412846568_nn_dbo_can_ai_save_san_francisco_230726_1920x1080-0lpxtm.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189352005970",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189352005970",
-      "publishedDateTime": "2023-07-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

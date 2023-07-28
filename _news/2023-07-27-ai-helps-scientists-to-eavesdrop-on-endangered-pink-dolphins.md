@@ -23,6 +23,22 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Scientists listen to sounds of endangered dolphins via artificial intelligence"
+    excerpt: "Scientists launched a study on Friday to monitor the movements of two endangered dolphin species via artificial intelligence (AI). The Catalonia Technical University which is located in Barcelona and the Mamiraua Sustainable Development Institute in the Amazon conducted the study to detect the sounds of dolphins in the Amazon River."
+    publishedDateTime: 2023-07-28T14:36:00Z
+    webUrl: "https://www.aa.com.tr/en/science-technology/scientists-listen-to-sounds-of-endangered-dolphins-via-artificial-intelligence/2956826"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 35
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2023/07/28/thumbs_b_c_9743804b8d2e58634e72dce6480450ce.jpg?v=164032"
+        width: 864
+        height: 486
+        isCached: true
+
 secured: "92d/asg1anE9FgPwe+5sYMh8iSOeYdTFhu/Ynm6CdFhLx7hUtvuYpYfqv725jvlRhrzpjDJ+BoRqdi6+FtkeaPtI2UYry98Ug5BWp2elvq4e5jchyPTeVZni3wkm/qaeb/m59CjeITjw40lzr0dyJHuU7ed91oTJ8bHAuhx7tq9dvYGBbuv1P24FqlkacbMIBiwMKkv4BUTczHv4niZelBhGDj4vOfzPp7hiobEh1FY/3w30Ak5xviCewzOrV2nBQNz4uWRbrW5HZHMJ7HvBxRmuHi6xkfK4Eg0F8k9LO9Q+EqzVsCfWUDl9CSHtWE2U+Swtr4T95kIvQuX3mGXDtBhXn9Dngq9mkR6247oIsByyBRMSH33yjqS2JN0h8GuxIBBrvsMPZK7cleufetqXrxh2Vp42W3EqmJ4xCzd8VaoE5TekOvDcSht/qfDZowtb6CoPUiJYVys/mWTE6ppQpeJLDuieMNM3192BUplq14D/+uxXPGHPArmiIfzSCMzVeDaQscNqv9eB4Odn0V9ecQ==;k2AGKbbTzta//Or7m63WYA=="
 ---
 

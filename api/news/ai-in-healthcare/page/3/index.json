@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-28-doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer.md",
+      "title": "Doctors tout use of artificial intelligence to detect breast cancer",
+      "excerpt": "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/f3930e0c-b427-4756-a33f-4337d802d80d/thumbnail/1200x630/5ebeefed9c8b7814e764532f5325cf1b/artificial-intelligence-for-breast-cancer.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "publishedDateTime": "2023-06-27T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-artificial-intelligence-and-the-future-of-sdgs.md",
       "title": "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS",
       "excerpt": "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g",
@@ -1320,40 +1363,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-healthy-approach-to-ai.md",
-      "title": "Healthy approach to AI",
-      "excerpt": "The risk AI poses in the health care industry is that people will go ... “It’s not just computational power, AI is bringing us the intelligence to solve problems,” Capps said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.html",
-      "originalUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.amp.html",
-      "publishedDateTime": "2023-06-15T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

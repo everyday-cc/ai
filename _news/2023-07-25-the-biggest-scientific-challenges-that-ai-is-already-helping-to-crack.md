@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AWS draws thousands to try Bedrock AI offering"
-    excerpt: "Amazon Bedrock is the company's answer to services announced by Google and Microsoft, cloud rivals that have developed or marketed AI garnering significant public attention. Microsoft has invested in OpenAI, the startup that created ChatGPT and the AI model known as GPT-4."
-    publishedDateTime: 2023-07-27T01:07:00Z
-    webUrl: "https://www.crn.com.au/news/aws-draws-thousands-to-try-bedrock-ai-offering-598512"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/2023-07-26T165348Z_2_LYNXMPEJ6P0WL_RTROPTP_4_AMAZON-COM-AI.JPG"
-        width: 1000
-        height: 691
-        isCached: true
   - title: "South Florida resi agents lean into AI"
     excerpt: "From writing listings to reviewing documents and generating marketing campaigns, the technology is proving to be a game changer in real estate."
     publishedDateTime: 2023-07-26T14:30:00Z

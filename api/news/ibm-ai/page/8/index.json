@@ -2,6 +2,210 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-21-how-ibm-is-innovating-for-a-more-sustainable-future.md",
+      "title": "How IBM is innovating for a more sustainable future",
+      "excerpt": "IBM has been building out an ecosystem of technologies and partnerships to help clients optimize their core operations across assets, infrastructure and supply chains.\nThe post How IBM is innovating for a more sustainable future appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/textile-factory-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T07:13:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
+      "title": "The CFO: at the forefront of innovation",
+      "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-5.45.24-PM.png",
+          "width": 1940,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "These are true artificial intelligence stocks and include those ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "Microsoft AI",
+        "IBM AI",
+        "Machine Learning",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-ai-system-can-generate-novel-proteins-that-meet-structural-design-targets.md",
+      "title": "AI system can generate novel proteins that meet structural design targets",
+      "excerpt": "The researchers from MIT, the MIT-IBM Watson AI Lab, and Tufts University employed a generative model, which is the same type of machine-learning model architecture used in AI systems like DALL-E 2.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-ai-generate-proteins.html",
+      "originalUrl": "https://phys.org/news/2023-04-ai-generate-proteins.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/protein-folding.jpg",
+          "width": 2880,
+          "height": 2366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-ai-generate-proteins.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp",
+      "publishedDateTime": "2023-04-20T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-5-best-ai-chatbots-in-2023.md",
       "title": "5 Best AI Chatbots in 2023",
       "excerpt": "IBM has long been developing artificial intelligence, including Deep Blue, the computer that beat the reigning world chess champion, and Watson, its supercomputer that won the game show Jeopardy ...",
@@ -1106,103 +1310,7 @@
         "AI",
         "AI in Healthcare"
       ]
-    },
-    {
-      "path": "_news/2023-03-28-ai-solutions-for-healthcare-market-2023-2028-future-updates.md",
-      "title": "AI Solutions for Healthcare Market 2023-2028: Future Updates",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"AI Solutions for Healthcare Market\" Growth report for 2023 is a comprehensive study that provides valuable insights into the industry's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 306,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech.md",
-      "title": "Former IBM CEO on AI, layoffs, women leaders in tech",
-      "excerpt": "Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game show “Jeopardy!\"",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/wirestory_9835eafd038b790563f6bbaa2e8963f8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 9
 }

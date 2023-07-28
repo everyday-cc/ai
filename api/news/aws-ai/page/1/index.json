@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-28-ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning.md",
+      "title": "IBM and AWS partnering to transform industrial welding with AI and machine learning",
+      "excerpt": "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-h100-gpu-instance-pricing-on-aws-grin-and-bear-it.md",
       "title": "H100 GPU Instance Pricing On AWS: Grin And Bear It",
       "excerpt": "It is funny what courses were the most fun and most useful when we look back at college. Both microeconomics and macroeconomics stand out, as does poetry writing, philosophy, and religious studies despite the focus on engineering and American literature.",
@@ -54,7 +99,7 @@
       "originalUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1384,58 +1429,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads.md",
-      "title": "Access private repos using the @remote decorator for Amazon SageMaker training workloads",
-      "excerpt": "As more and more customers are looking to put machine learning (ML) workloads in production, there is a large push in organizations to shorten the development lifecycle of ML code. Many organizations prefer writing their ML code in a production-ready style in the form of Python methods and classes as",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/11/acces-private-repos-remote-decorator.jpg",
-          "width": 1020,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T09:25:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

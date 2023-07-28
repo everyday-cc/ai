@@ -51,16 +51,14 @@ related:
       domain: theverge.com
     quality: 44
   - title: "AI-powered travel assistant touted as most powerful ever"
-    excerpt: "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ..."
-    publishedDateTime: 2023-07-25T10:44:00Z
-    webUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
-    ampWebUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
-    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
+    excerpt: "Travel technology company Mondee has rolled out a new artificial intelligence-powered planning assistant named Abhi, which the firm says is the most powerful in the industry. The Austin, Texas-based company introduced Abhi this week in conjunction with the one-year anniversary of the firm going public on Nasdaq and says the new tool's ability to generate a fully bookable travel itinerary within the Mondee Marketplace is revolutionary."
+    publishedDateTime: 2023-07-25T01:46:00Z
+    webUrl: "https://www.fox29.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
     type: article
     provider:
-      name: fox6now
-      domain: fox6now.com
-    quality: 39
+      name: FOX 29
+      domain: fox29.com
+    quality: 19
 
 secured: "K8Zq3GypjQMNJw/LdatCRH2Q5i4o+cHui38idESU+XwSftzMduHfO82fVk5TMJ/+5CRqvW7YsVrhUjSyF8TBYnHl9SEWPsdqjp6ARoIvTiJYwkN+5B/Jviv30WW/tJvOWGp84taAqFdrBo+xnH955ll+Xn83gP37bNZOJvtCi71yMOqVe6Gn7TSQGKHTPHk1XxKgHHRckaxFn1QvIz7o4cCYHU7PoUCdcKnjyPsZIAdDXnavAr+Oq5QNgl4MoT/xs7qyX0EADOKydzRQ00zDq1LPzJ1Y/T1/I3hvVsccWCo3lXhboQD3NKWwUJj0AApXTLlIXqR+2t0NRSC9xAH1oc2kfdPvK5l9baWr+Z6XaMg=;BWt/8gFio3Ryq8qVaakzjQ=="
 ---

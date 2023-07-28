@@ -41,6 +41,15 @@ related:
         width: 630
         height: 451
         isCached: true
+  - title: "S. Korea’s Incheon Airport implements facial recognition system for travellers"
+    excerpt: "Incheon Airport said it has begun using pre-registered facial information to streamline the departure process for passengers from Friday (July 28)."
+    publishedDateTime: 2023-07-28T12:19:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/28/s-koreas-incheon-airport-implements-facial-recognition-system-for-travellers"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 30
   - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
     excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."
     publishedDateTime: 2023-07-27T13:37:00Z
@@ -53,6 +62,6 @@ related:
       domain: freepressjournal.in
     quality: 27
 
-secured: "iN8tFVgF/jSo2CqO27IojV9NkI0/diDMH7ZTl1jBLs+j3mRmLRVRAF2x8uWHvDj/ONM9g+RGFKEFx9+Jtw4NQxOdqz5RAK4XEue8AF5H8x58YHgrSyF2wjpOrVCf5HvN1de03KBJmgzv8qn5GZ6820YnW0/2tnDvQcSFtoYAqUDzaNaYBeo29Nu8VYMqxIOh3UjDynTYIlLtyMenuV2whqLK4J8VITezXNWG1lQGWIbbOgfiop9V64YqA6/LlkPA1h7gZJS9LpxP10JLb/0sBFtm+nXi9q9kGbmt8bFKZWNJvQSzX3A+hVyY/yofzzMzkjTF2Sec5JZ2JtZHnxurYiPe3honwx8Q+CqNoefxwvY=;3bNKXEesB29/X7aGfhqKZw=="
+secured: "2GTc/9uxvZc528l7rhtIQKwHwW+LPMX5p8PfelozUNV/wqrJEz7Ob+eUHQ7Sknh23ZROzMi9PIc0EJdyiiYBlCy4PGOfVIUYtGppXgTWjtsVm9r60fMla7EVisNQl7w+xc0bU/u0xgUKN1oeukb5BCmLwFGE/fn012zkJZI6r2T+YICqt9ton/4Xg8tv8S/C4qR2DzSdYbpbsRDapGZYbIt2JfYoSKVYxQNMKtgIVJtfLGWeTd73C/bEe8GKtB/B/bd/RAwJB37Krx7WEFUzFcopdFz2nY/tq14aCkhpspSVhuU3P9moz4cxokqOV4kPRA9p/kztGBf/17BQf4tOav0L5kVyK65Ho1rtYA1hJV60PnbUcP/bnC9aZaxzwykHpnJ387wK/2RQW861R7VIl7R0FBDxX0lvVlg1QQCpIUbI9evw8Z5fmIcQz8YCEK6Zno+nFPtc641WNd2EXdz91s72yVw+9MWl1+stscJLaUrP1wlFPuFGWt4zJoBPjT7xA8ftDu3Y3br73RGi2whJew==;RrMW+mzBTLfXy9PC8iZVmg=="
 ---
 

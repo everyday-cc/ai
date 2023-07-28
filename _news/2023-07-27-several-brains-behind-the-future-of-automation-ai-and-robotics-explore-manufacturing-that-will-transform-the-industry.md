@@ -25,104 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI is coming for the visual effects industry: What the technology means for the future of animation"
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+  - title: "IBM and AWS partnering to transform industrial welding with AI and machine learning"
+    excerpt: "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-28T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: IBM
+      domain: ibm.com
+    quality: 127
+  - title: "How AWS is making generative AI simpler for businesses"
+    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
+    publishedDateTime: 2023-07-24T00:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+  - title: "AWS draws thousands to try Bedrock AI offering"
+    excerpt: "Amazon Bedrock is the company's answer to services announced by Google and Microsoft, cloud rivals that have developed or marketed AI garnering significant public attention. Microsoft has invested in OpenAI, the startup that created ChatGPT and the AI model known as GPT-4."
+    publishedDateTime: 2023-07-27T01:07:00Z
+    webUrl: "https://www.crn.com.au/news/aws-draws-thousands-to-try-bedrock-ai-offering-598512"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
     images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.nextmedia.com.au/News/2023-07-26T165348Z_2_LYNXMPEJ6P0WL_RTROPTP_4_AMAZON-COM-AI.JPG"
+        width: 1000
+        height: 691
         isCached: true
-  - title: "AI Is Rewriting the Rules of $200 Billion Games Industry"
-    excerpt: "“AI is the game changer I've been waiting for,” 48-year-old Hanazawa said. By freeing developers from the burden of mass-producing graphics, it promises to revitalize the entire industry. “Publishers will be able to take more risks, creators can become creative again, and users as a result can choose from a much wider variety of games.”"
-    publishedDateTime: 2023-07-26T15:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
+  - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
+    excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
+    publishedDateTime: 2023-07-28T14:59:00Z
+    webUrl: "https://washingtontechnology.com/top-100/2023/07/ibms-tech-and-business-agenda-leads-ai-hybrid-cloud/388925/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 41
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/26/1600x900/ARGENTINA-DISAPPEARED-HUMAN-RIGHTS-AI-PORTRAITS-4_1690345459702_1690345485959.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
-    excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
-    publishedDateTime: 2023-07-25T09:22:00Z
-    webUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry"
-    ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "The Evolution of Parking Technology: How Artificial Intelligence is Shaping the Future of Parking?"
-    excerpt: "The evolution of parking technology, fuelled by artificial intelligence (AI), offers promising answers to the urgent issue of insufficient parking places."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html"
-    ampWebUrl: "https://zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html/amp"
-    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html/amp"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 43
-    images:
-      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/07/24/1247860-parking.jpg"
-        width: 700
+      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/07/27/IBM_logo/open-graph.jpg"
+        width: 400
         height: 400
         isCached: true
-  - title: "Sight Machine Factory CoPilot Democratizes Industrial Data With Generative AI"
-    excerpt: "Sight Machine Inc. today announced the release of Factory CoPilot, democratizing industrial data through the power of generative artificial intelligence. By integrating Sight Machine’s Manufacturing Data Platform with Microsoft Azure OpenAI Service,"
-    publishedDateTime: 2023-07-27T12:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855100.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-  - title: "Artificial Intelligence in the Life Sciences Industry: Barriers and Motivators to the Adoption of AI into Workflows"
-    excerpt: "Barriers and motivators to the adoption of AI into workflows. Who scientists think are leading in life science AI among key organizations and brands developing AI or actively employing AI in their workflows. The analyst designed an online quantitative survey to address the objectives."
-    publishedDateTime: 2023-07-24T11:04:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/24/9852585.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "eXqBeiaRUta8zc+XqGiN4FJ+8fnFKgtsZLu1DbtDa/YA8HtKNgvlKfv1W5/LxE3UCWjvTXFPfCqMGc987lIFr7Bl7Quruc8HQNW/q8YZIbaNrAA/b1sqsEMCV3bul6qs2iBKrTnMWQ7dBN9RtrSPalN86/4xXgQqy6qpF/VghqMW2CISIXRavBVBZ3mFIXmHYV/361ZDaUXFHi4Lo/Gq7aUqUdyjX0lbxldGO2Yw8K68IlatFB16stPe1sotNPnWKBtioUJHJcgyaKntwhCweNBphJIjB/aIE/C0vDmNZi5L7TgQmTP0zyFAaMwSIEuugdxCH29WmvAZ7pgsG6wTzxyJ1FoMYhDinz9UpdDEIwVcQoVXn/ODECBqGolzRA+puMPuhzF8fX1sX1XaAtLMLdx2x/N0ZGYPmeAcwyFE5wz70VJXwkNYmhOiI03UivHIfxHayDJWYSfk15Hi1rUEHHhho5X9wfynmQIs00XTZNUOIC4rlBJo7JZww3zMcZvBCvjvY/szgN/vDAgjqfCYbQ==;oAoD4ocQPiJAYU4au38gwg=="
 ---

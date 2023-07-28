@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-30-artificial-intelligence-will-change-the-world-here-are-the-3-stocks-with-the-most-to-gain.md",
+      "title": "Artificial Intelligence Will Change the World. Here Are the 3 Stocks With the Most to Gain.",
+      "excerpt": "Nvidia has the most to gain from artificial intelligence. Jake Lerch (Nvidia): To me, this choice is simple: No company has more to gain from the unfolding emergence of artificial",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/investing/artificial-intelligence-will-change-the-world-here-are-the-3-stocks-with-the-most-to-gain/",
+      "originalUrl": "https://moneymorning.com/investing/artificial-intelligence-will-change-the-world-here-are-the-3-stocks-with-the-most-to-gain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-new-report-finds-canadian-smbs-are-open-to-new-payment-options.md",
       "title": "New report finds Canadian SMBs are open to new payment options",
       "excerpt": "The 2023 Chase Payment Solutions State of Canadian Payments report reveals that merchants are open to adopting new payments options over the next year as payment innovations for consumers increase in Canada. The State of Canadian Payments Report ...",
@@ -1347,59 +1381,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-artificial-intelligence-signs-of-acceleration-in-2023.md",
-      "title": "Artificial Intelligence: Signs of Acceleration in 2023",
-      "excerpt": "One final investment area that I’ll mention, that’s core to setting Amazon up to invent in every area of our business for many decades to come,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wisdomtree.com/investments/-/media/us-media-files/blog/blog-images-2/2023/april/artificial-intelligence-signs-of-acceleration-in-2023/figure-1.jpg",
-          "width": 768,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

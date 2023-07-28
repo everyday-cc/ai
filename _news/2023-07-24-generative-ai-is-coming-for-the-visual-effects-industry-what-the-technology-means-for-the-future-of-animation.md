@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
         width: 740
         height: 450
-        isCached: true
-  - title: "Several Brains Behind the Future of Automation, AI, and Robotics Explore Manufacturing That Will Transform the Industry"
-    excerpt: "Jared Glover, CEO of CapSen Robotics, and Michal Diga, P3 Product Director at Stratasys, discuss the future of automation, AI, and robotics."
-    publishedDateTime: 2023-07-26T22:12:00Z
-    webUrl: "https://marketscale.com/industries/engineering-and-construction/several-brains-behind-the-future-of-automation-ai-and-robotics-explore-manufacturing-that-will-transform-the-industry/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 45
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/07/CR_Video-Thumbnail-Image-1.png"
-        width: 1866
-        height: 1038
         isCached: true
   - title: "The Evolution of Parking Technology: How Artificial Intelligence is Shaping the Future of Parking?"
     excerpt: "The evolution of parking technology, fuelled by artificial intelligence (AI), offers promising answers to the urgent issue of insufficient parking places."

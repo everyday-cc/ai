@@ -88,6 +88,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Meta to Charge Cloud Computing Companies Fees for AI Model Llama 2 Despite Initial Open-Source Plans"
+    excerpt: "Meta, formerly known as Facebook, has announced its decision to charge significant cloud computing companies, such as Microsoft and Alphabet, to use its artificial intelligence (AI) model, Llama 2. This is a surprise move,"
+    publishedDateTime: 2023-07-28T12:12:00Z
+    webUrl: "https://www.cryptopolitan.com/cloud-computing-companies-ai-model-llama-2/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 26
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-28_13-00-42.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
     excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
     publishedDateTime: 2023-07-27T07:50:00Z
@@ -102,15 +116,6 @@ related:
         width: 684
         height: 358
         isCached: true
-  - title: "AI and the role of the company board"
-    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
-    publishedDateTime: 2023-07-25T18:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
 
 secured: "AAXWevHYUCzrNHdnvTVs6g1h1jVSY0/2BVB/QooKNnvlofqfYsoamZThXErhuMvRdfs12To/GbqUqcjpOMVPLecQgrtHnO1ItqifmJJn5diB8k8ErY2ho35GhbajVaLDGhAYFvVHFpi76zxcoulhlp8PP/8IdWoKsX8mlt5LOAIRupbvPRgmI8U9LNQWnKUXQsou0DEhNUCLYZztPx/Uvs+c6gHkR5N0fp3aRRtuFeHgNAll8ICSnn/Z0uYwI1c/elczdiOrLBwY7QJuO9VRwiE0wcFBMIfwK2Ip+c++0KoOxUcBlDRvb2h/DiuxGJU3LD9HIGQ36384y8QvyUk4QuZNUNUSD2trQFLnb5bZGcqFfkONnoUiBubqE5ZcGxIVftpDivztWOdXksuAlHyo+fKHWrbFMOxXIAVVuxDtvnFu1RAslpWG3hGhuD1ystjpt0kb/3ng3d7KNcAmRgcDrHmT4jBPi3jvuR10bGIS6b4WHIvZPJz4mdxncSd/GliRnu8NBDpyBl267pyNG7UStw==;W5D4ygjWgu51Z4S6NQtAaQ=="
 ---

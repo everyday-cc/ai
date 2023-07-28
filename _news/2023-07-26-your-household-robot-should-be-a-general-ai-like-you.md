@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-
 webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-robot-should-be-a-general-ailike-you/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Why You Should Create a Plan to Implement Artificial Intelligence Now"
+    excerpt: "Questions to get you started on upskilling and strategic planning that can keep your business ahead of the AI curve."
+    publishedDateTime: 2023-07-26T10:06:00Z
+    webUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "If artificial intelligence takes your job, AI should pay you, argues actor"
     excerpt: "\"'Generative AI' cannot generate anything at all without first being trained on massive troves of data it then recombines. Who produces that training data? People do. And those people deserve residuals,"
     publishedDateTime: 2023-07-26T11:54:00Z

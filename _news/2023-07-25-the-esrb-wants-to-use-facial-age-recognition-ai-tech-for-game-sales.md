@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
 type: article
 quality: 106
-heat: 306
+heat: 316
 published: true
 
 provider:
@@ -189,6 +189,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "US cities weigh value of facial recognition for police"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-28T15:14:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "ESRB seeks FTC approval for facial age estimation AI for digital game purchases"
     excerpt: "The Entertainment Software Ratings Board (ESRB) has proposed the use of facial recognition technology as a means of age verification. The ESRB wants FTC"

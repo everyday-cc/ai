@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230728000502"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230728000502"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "S. Korea’s Incheon Airport implements facial recognition system for travellers"
+    excerpt: "Incheon Airport said it has begun using pre-registered facial information to streamline the departure process for passengers from Friday (July 28)."
+    publishedDateTime: 2023-07-28T12:19:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/28/s-koreas-incheon-airport-implements-facial-recognition-system-for-travellers"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 30
   - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
     excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."
     publishedDateTime: 2023-07-27T13:37:00Z

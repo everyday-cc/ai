@@ -107,6 +107,15 @@ related:
       name: Neowin
       domain: neowin.net
     quality: 41
+  - title: "Waymo to reduce autonomous trucking focus"
+    excerpt: "Given its success in ride-hailing robotaxis, Waymo, the autonomous driving arm of Alphabet, said it will change its focus to primarily robotaxis and push back on the development of autonomous trucks."
+    publishedDateTime: 2023-07-28T12:22:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19996/waymo-to-reduce-autonomous-trucking-focus"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "QERIgn4cgBtjDygQjJLfK0aJLUf43zz9X6dbVQdKtOzMzwXaQdSZv09+wCGcU8iEV8oK+d5mG92gkPcuknjOYbsMtB0XCiqtazcRt2fwurdfjSWWdTLwZOb4MZ8LPi7DAGH5KE7YwzsIE3ROy7cyocIY7wcibdYoSxSxgVJPSAqp/bxVorLdn5hEkl69wU1aN4MNlmgRisRYXQ8tP3H34ozNWG/4fEvOSWszBtQp18Xb7ATeoC2oUp3zY6wfVHuOBoTGe3c9JLMt2m229A4WJoXoSzfsYScZQBhCMOwMBpcRPSs/gaSH/wSmr4ZzbvQpmv7ojGkHgdkedeZ1ZloBGGRKdGw4ZXwHICJv4ZZ0ZWC1ld6aD23DBDnQIffN5e/GNzb3NHmWgwEFUGt5PXYMOAebJc/bG9LilFbCmi2GEpdGJWQ9j7anMR+k/pkdUQYyKp5si31LsjTGIxPqomPUNOPYmsPYOdbr2/OdAYbBed888zznBappjAXOXVj6kFYPKnJM18JtK8OKKGXMAaQ88w==;hhieZA0mftlcaEVk+8YiPQ=="
 ---

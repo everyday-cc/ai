@@ -90,20 +90,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Several Brains Behind the Future of Automation, AI, and Robotics Explore Manufacturing That Will Transform the Industry"
-    excerpt: "Jared Glover, CEO of CapSen Robotics, and Michal Diga, P3 Product Director at Stratasys, discuss the future of automation, AI, and robotics."
-    publishedDateTime: 2023-07-26T22:12:00Z
-    webUrl: "https://marketscale.com/industries/engineering-and-construction/several-brains-behind-the-future-of-automation-ai-and-robotics-explore-manufacturing-that-will-transform-the-industry/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 45
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/07/CR_Video-Thumbnail-Image-1.png"
-        width: 1866
-        height: 1038
-        isCached: true
   - title: "Sight Machine Factory CoPilot Democratizes Industrial Data With Generative AI"
     excerpt: "Sight Machine Inc. today announced the release of Factory CoPilot, democratizing industrial data through the power of generative artificial intelligence. By integrating Sight Machine’s Manufacturing Data Platform with Microsoft Azure OpenAI Service,"
     publishedDateTime: 2023-07-27T12:57:00Z

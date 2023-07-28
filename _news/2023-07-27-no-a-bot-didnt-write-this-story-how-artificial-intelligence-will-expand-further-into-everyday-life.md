@@ -82,7 +82,7 @@ related:
     provider:
       name: Marketplace
       domain: marketplace.org
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-486107054-e1690492073918.jpg"
         width: 3000
@@ -129,20 +129,6 @@ related:
       - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
         width: 1429
         height: 1053
-        isCached: true
-  - title: "Democracy, Defence and Conflict in the Age of AI"
-    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
-    publishedDateTime: 2023-07-25T03:07:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
-    type: article
-    provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
-        width: 3133
-        height: 1764
         isCached: true
 
 secured: "1Yvm9150rzSdxJ5rWMFZ6vrN+cXzs/bugt6zWXgSrt079TWkURQr2yJxTKJYtXPAnc34Ls3g+1kcr7TDxQE6JWxUq45I36ua32Q+A7/RuDEszcTEjPBFE6le6dvFIHSD9qwi8tnxpqdl4ZRRF8RRJmpTUbkKs5kXyz6vzJ+jp4OYr6dET5TZ5Lf24iNEpYIyl+2UEXUo7Ui0/HMIGEl5pYIB5NA4e10P/5bMlwPtEgrJy8MotfeKk6XqroBgcHNKvDB9rwuUANExqVIK9AWSOq1FNt5oZrVu+rN8sLKffYbwy5y6N/7RaIl7FbS8YSsev6bXSU9NT4OPZmgGiA5UuIilprccSY2yCLGEkqCrqNp4LFaVVai5Mgx+yv713huJ3LcSc2vVZRgkwLF+XvPzzxHSrFz0Okb0ZRmmOHYtip0I3En4BImd83uFovm68meRsLE7prpvh0WcMz/a1l7+5bBzA53ZCrGnJ1jHUNzXaOjuy3KfvXjFEcSvuiPa9ModqmxyMStX3Wer4YO/ZOMFtw==;Cma4JzfNk3nsrg8juZpE1w=="

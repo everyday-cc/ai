@@ -2,9 +2,9 @@
 category: news
 title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
 excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-publishedDateTime: 2023-07-27T14:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
+publishedDateTime: 2023-07-27T13:23:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/27/9855387.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855387.htm"
 type: article
 quality: 0
 heat: -1
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce"
+    excerpt: "Croissant, a fintech with a mission to empower intentional commerce, launched today with $24 million in seed funding from suite of investors.."
+    publishedDateTime: 2023-07-28T14:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/09/Choice-Options-Decision-Croissant-Food-Breakfast.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "DIFC Innovation Hub Launches 9th Edition Of Fintech Accelerator Programme"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today launch"
     publishedDateTime: 2023-07-26T07:27:00Z
@@ -34,20 +50,6 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/DIFC%20%282%29.JPG?itok=UVlnDhN3"
         width: 1336
         height: 876
-        isCached: true
-  - title: "DIFC Innovation Hub kicks off FinTech Accelerator Programme 2023"
-    excerpt: "Dubai International Financial Centre ( DIFC) launched the ninth edition of DIFC Innovation Hub’s FinTech Accelerator Programme. The 2023 edition focuses on open banking and AI, automation, innovative payment solutions, hyper-personalisation and customer experience to enhance financial literacy."
-    publishedDateTime: 2023-07-27T05:29:00Z
-    webUrl: "https://gulfbusiness.com/difc-hub-9th-fintech-accelerator-programme-2023/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/DIFC-innovation-Hub-launches-FinTech-Accelerator-Programme-2023-Image-Dubai-Media-Office-DIFC.jpeg"
-        width: 930
-        height: 620
         isCached: true
   - title: "Fintech startup Croissant launches with $24 million in seed funding"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
@@ -77,7 +79,16 @@ related:
         width: 1336
         height: 876
         isCached: true
+  - title: "US fintech Croissant exits stealth with $24m raise to shake up the e-commerce experience"
+    excerpt: "Integrating directly into merchants’ shopping experiences, Croissant offers customers guaranteed buybacks to amplify their purchasing power."
+    publishedDateTime: 2023-07-28T12:09:00Z
+    webUrl: "https://www.altfi.com/article/us-fintech-croissant-exits-stealth-with-usd24m-raise-to-shake-up-the-e-commerce-experience"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 10
 
-secured: "kwyq0iUzv3lKgDPurE5rOtJfqrOhVJsJYv53eJE1HGu3Lll9qXjjdB2m/0z0naCx28KaNXJrBDTPyr2Mveyxe6RvK3R3a3ziexhNNyu40iH8X+PW/Y5i0Jbm7k7MNoPkdNubAht1oC+kiNsongry8RlYxbCiBg4dXql9Jm0vhTAaV/Tedp+PeapLNgZPjvWHMLY6or3gryUjoCgWqE0VU+0Xfh6SqLsK4fSwP9vOI38L7EShXGeNxUriPuv870XBF1QGeeKbTpND/rKw3cFBTdwMBNDdQmTDhUrXmYR1VrMhRUUHhp8DPbxSjnLss9lOn45QaEuPJvyV1SYBz4oBjmiLe87vW6uUeiOtr3TwzlAUZRsUfOOxpz+dyaO+hnY9bg09bAa+lxNYnpo5oUgBTuAolpYXVJFpbdVFT1w/dTOGMtuPzDFXQgMxRJc2LOXqhw6Wr1jkiRXCKyMt9pq+2cEUoMWH62XAp1+v/y9CCnLgweE+iLdFCDwVQHYNL7qPANE4mRupvb1o6CohlFk9rA==;46tWfBXdkrnBmlyZIFISNg=="
+secured: "DLpkoBXo7aOmLzNuP2Hke98F8rF7hvBKsbc4QJuiKc7awaa7591BNSSeUcrd9Qiu9hs9Cojr/mmnGLjtorJtCoNQhLBYjJFFJgpSEo74+rk1VWFwaHyZfMN/463HFz0kXO4Ur7ETCCdsLRtsID1wSisJrcfmu1AHvebIz3+lpOA9i4b68ZSOSrta/cjXIFNTcOR67oz9f3CZncZkgFPrjwCFRbquOHgdxg74Hppp+jfD6LztfzY03Vam+zHlI7c6uObPkgJWssHFgPJVWqR69DnkwT9076cupRZgO9e/OqWP2DJ9iBnl+RxwkHnS9GhDNR4F+SzlkdLO/71nmJ4WIBHBlh+ZXZFT30Uoq2P+eVgClLwvPaJbJdFsIfPM4069y/GwVI3jPLE+7ky/e5yGx2VC6msDiK6S4TJHsJSw0f5niff+DVLbfYEakbxQKHe6i6AVyolYPYc+qAq3/O/wFcrXh/3LW4Q4ZWdPrwAZWzXw4GUtvg1fkBSRbNoSkR9/WrhlaQXV2fdqnWaD4T93lQ==;KxjbjZJHpk8NDGcNmGMtNw=="
 ---
 

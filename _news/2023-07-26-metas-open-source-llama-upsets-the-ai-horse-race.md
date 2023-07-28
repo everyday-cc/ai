@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-
 webUrl: "https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Wired
@@ -26,17 +26,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "Threads Is the Latest Move in the AI Arms Race"
-    excerpt: "Mark Zuckerberg's choice to launch Meta's Threads app stands in stark contrast to Elon Musk’s recent moves to charge for data from X."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
 
 secured: "AXGTwlcyvxf9RhSyR+MluoJTAUJnCFKxSeH8dO/PP+wDhGNQc6TEHCS79KywrhjR7RLo4oxlRS3FarYZ+Z297t0FgBcoALkZTV6kCIjReUtbJAQdg3y/FlqTjYq0Y8rW7w6rsjMf9tq+oF1NR+XS6ekvkA158E0NiUi8qlmxlZTUGI6uKpwQWvPwbSdELxpJ7iEvpSabOTRT/L0rAaLr5c/4/iWF9LTLbalR9s5VAXY+7i9V2rNMPvsYBcIpuyr9ew9VjJov90jG8Iq4KPe/1RdbmuBS29D6K5zxkUcSNemTd13B8xAUzuuM1BGbGMTcb7OBlI1O6dqZgbrCeb6tWEuDAvainq0oOc6ywrsYOmxJ3qZSzLPqUoDGdN9Hbj56FLnCihh6qnGYRrNAHnes99/2egmch3Rtvtjf6HudZiGGUjtj4+cyaE/IpZKqyt0+LJtdbn2w5/028im46vQWhfHv60+nEuWMMEpB0laQWv6qqpZhUjVwg3a0NlxCcgbRkI1vAyIzWQKFHlx85meeFQ==;zWS21X0QvrGHmWypMgiCkg=="
 ---

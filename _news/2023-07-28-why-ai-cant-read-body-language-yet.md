@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Demonstrating Why AI Can’t Do High-Quality Translation"
+    excerpt: "With all the excitement and anxiety about AI soon matching or exceeding human intelligence, it turns out that AI hasn’t actually made much progress since the 1950s."
+    publishedDateTime: 2023-07-28T12:59:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/07/28/demonstrating-why-ai-cant-do-high-quality-translation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "TRAI’s call for AI regulatory body is flawed"
     excerpt: "As AI is evolving, rather than have strict rules, a guardrails approach will encourage self-correction and foster improvement"
     publishedDateTime: 2023-07-25T15:34:00Z
