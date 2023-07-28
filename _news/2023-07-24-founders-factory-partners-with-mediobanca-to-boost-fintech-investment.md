@@ -159,20 +159,6 @@ related:
         width: 500
         height: 309
         isCached: true
-  - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
-    excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"
-    publishedDateTime: 2023-07-23T17:21:00Z
-    webUrl: "https://menafn.com/1106651433/Egyptian-Fintechs-Team-Up-with-Fintech-Galaxys-Open-Finance-Platform-to-Tap-into-wider-MENA-Market"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?137769"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Roundtable Held On Advancing FinTech"
     excerpt: "The Bermuda Government’s Economic Development Department [EDD] led a roundtable discussion on June 27th that brought together industry stakeholders and DABA-licensed companies. A spokesperson said, “This strategic dialogue marks a critical step in the ongoing evolution of Bermuda’s FinTech ecosystem,"
     publishedDateTime: 2023-07-24T14:15:00Z

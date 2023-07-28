@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Is Impacting DevOps"
+    excerpt: "There are some unique aspects of DevOps that make it uniquely adaptable to AI augmentation. Because code is ultimately language, and large language models (LLMs) are the heart of GPT functionality, LLMs and GPTs are especially well suited toward capabilities like code generation."
+    publishedDateTime: 2023-07-28T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "‘Every engineer will need to have some artificial intelligence expertise’"
     excerpt: "Like cloud, every engineer will be expected to have some AI expertise – AI programming or usage of AI models/libraries, data analysis, AI system governance and such. Organisations are now even talking about the role of a chief AI ethics officer. What initiatives and solutions has Publicis Sapient implemented using GenAI?"
     publishedDateTime: 2023-07-26T23:00:00Z

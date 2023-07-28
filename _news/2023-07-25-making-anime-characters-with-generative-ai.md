@@ -58,6 +58,20 @@ related:
         width: 768
         height: 376
         isCached: true
+  - title: "Singapore’s health tech agency IHiS relaunches as Synapxe, taps artificial intelligence for better care"
+    excerpt: "Health Minister Ong Ye Kung said Synapxe is a “critical entity” that ensures medical information flows seamlessly throughout the healthcare ecosystem."
+    publishedDateTime: 2023-07-28T10:24:00Z
+    webUrl: "https://www.channelnewsasia.com/singapore/singapore-health-tech-agency-ihis-relaunches-synapxe-taps-artificial-intelligence-ai-better-care-3661441"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--AYScmkr3--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/07/28/min_ong1.jpg?itok=EYFbF8UG"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "dx5LwuIoEyqRy22iDqMKC89gi0iuxq2Kpb5PAodnqHxY0T7cNv1yk3MVifHaWoFnfQ4WU7Ksa6KI/vFQcwULmx3cVIpcJj36FssW0Il42FZ0lRM+rdzF1KmGads8dtLB6mby44yO1O0rCyFtm8ov6sOAHOuR6X7lMI/Ul8dIs0DgR125Rep3iNB5/O8yZ3AMz9WwUuD28bnQ0Ou3yPe4Hw1x4uPI/0vV8cECWw9cSDyjGE2e/zSomg3CvzInTNVYx4mLNbM4cT9Ej1M1yEXDId+vDKpYmSjqetBc9ohWAuQzuOBMEdUT28ugRfGAZ+A3edhQGr0C3gVBb24/siQCHdioTaqrcbDOmnovQvnOOSuqdcle1O3P7I3eBBJ8WSRUVb5Nh3JeOstRBNFfF7Hn6P9hMNCHyuTNDdWUuXkBfch2PeYnhQ9SX1pjphusHzKMqIKF0KrTlJEg5rGMpHrC5cBbFTFyWGvY2cCEf2xAN2hL7cq4UNjG1fEOmUvaA7TdRf29xqpftH5XPE7ktIjOtA==;vkzoUo795p7Gqs0ulxVJZQ=="
 ---

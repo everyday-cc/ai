@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI and the role of the company board"
-    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
-    publishedDateTime: 2023-07-25T18:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
 
 secured: "CT/RyqxqYFStxDIH1Ts6Ixp9SXpyHUg+SA+QjY5gbpdG/BX44EiVFWUZcRLAiAdHmMcD+nIH/ASh6Dsj8IUVpAv5KxguE1zXF4K2IV+1XPZYucyb2Sidb3MqcF/NDxIAY175eNlaJlZcAVmEznSfL2W+lBlwR4FFjdw0ci/zTjMd6sgAI9Pvpuu+9zMNmylUzb3tLg+38J1Y7wuSiePPrulst3cbJGtPzmNpc+b7VsCFGGeXb1BSlcncm423/UiW45yI1lUBTJLj7S9EDUfQfpAlVF36CDalVVV2+Wzt8Kc/s+GNpmjGChbzmISHYUd/frJd72DqksP3L9SJO3qlU+fBoXxYiJpNK03M9r/uHcaYTgjh6sq/LiUpS/T7ajZZFsrVhMcap7T3Gia8OiCk9tOQA+M7rjYLv1rcBoG7eDrDYIxex8pdeD7eGytHEO+T/brTuiXmgPk0oSZyOd9rxLnC3tjHocqTbYNsK1xrOz+vvIaHcrTiDLaovhUoqnEQ3dMHY0MyYwlf4piXtrw8mw==;wQbLpoTaQdvrhomYfgIBJg=="
 ---

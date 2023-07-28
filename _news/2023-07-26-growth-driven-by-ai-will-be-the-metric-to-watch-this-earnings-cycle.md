@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-e
 webUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -28,29 +28,89 @@ images:
     isCached: true
 
 related:
-  - title: "META, GOOGL, MSFT: How Will AI Investments Affect Their Earnings This Week?"
-    excerpt: "Still, AI should play a role in Microsoft's Q2-2023 results. Thus, you'll definitely want to keep a lookout for the company's upcoming earnings release. After three consecutive beats, analysts are now prepared for Microsoft to report EPS of $2.55."
-    publishedDateTime: 2023-07-24T20:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/meta-googl-msft:-how-will-ai-investments-affect-their-earnings-this-week"
+  - title: "The Future Of Cloud Computing: AI-Powered And Driven By Innovation"
+    excerpt: "Tech giants Microsoft and Google report strong Q2 earnings, driven by AI innovations in their cloud businesses. AWS also invests heavily in AI."
+    publishedDateTime: 2023-07-28T11:51:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
-  - title: "Strong cloud growth driven by AI workloads boosts Alphabet’s stock"
-    excerpt: "Shares of Google LLC’s parent company Alphabet Inc. gained more than 5% in extended trading today as the company delivered more than $8 billion in cloud revenue for the first time."
-    publishedDateTime: 2023-07-26T03:59:00Z
-    webUrl: "https://siliconangle.com/2023/07/25/strong-cloud-growth-driven-ai-workloads-boosts-alphabets-stock/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/google-1-1.png"
-        width: 718
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3aa8297c5886d5716a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "The Future Of Manufacturing: Generative AI And Beyond"
+    excerpt: "The manufacturing industry is headed towards a future where AI, the metaverse and web3 technologies will play a significant role."
+    publishedDateTime: 2023-07-25T05:53:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bf62cf2162d71bf6d8f5ea/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "The AI-Powered, Totally Autonomous Future of War Is Here"
+    excerpt: "We don’t want to start World War III.” Brasseur and others at the base ... The question for the Navy, as Stewart saw it, was how to hasten the adoption of robotics and AI without getting mired in institutional bureaucracy. Others at the time were ..."
+    publishedDateTime: 2023-07-25T18:49:00Z
+    webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64beab4e7b25a434b1f3bfc1/191:100/w_1280,c_limit/WI090123_FF_RobotWars_01.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service"
+    excerpt: "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article."
+    publishedDateTime: 2023-07-26T13:33:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
+    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
+    publishedDateTime: 2023-07-27T07:50:00Z
+    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 24
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
+        width: 684
+        height: 358
+        isCached: true
+  - title: "AI and the role of the company board"
+    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
+    publishedDateTime: 2023-07-25T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "AAXWevHYUCzrNHdnvTVs6g1h1jVSY0/2BVB/QooKNnvlofqfYsoamZThXErhuMvRdfs12To/GbqUqcjpOMVPLecQgrtHnO1ItqifmJJn5diB8k8ErY2ho35GhbajVaLDGhAYFvVHFpi76zxcoulhlp8PP/8IdWoKsX8mlt5LOAIRupbvPRgmI8U9LNQWnKUXQsou0DEhNUCLYZztPx/Uvs+c6gHkR5N0fp3aRRtuFeHgNAll8ICSnn/Z0uYwI1c/elczdiOrLBwY7QJuO9VRwiE0wcFBMIfwK2Ip+c++0KoOxUcBlDRvb2h/DiuxGJU3LD9HIGQ36384y8QvyUk4QuZNUNUSD2trQFLnb5bZGcqFfkONnoUiBubqE5ZcGxIVftpDivztWOdXksuAlHyo+fKHWrbFMOxXIAVVuxDtvnFu1RAslpWG3hGhuD1ystjpt0kb/3ng3d7KNcAmRgcDrHmT4jBPi3jvuR10bGIS6b4WHIvZPJz4mdxncSd/GliRnu8NBDpyBl267pyNG7UStw==;W5D4ygjWgu51Z4S6NQtAaQ=="
 ---

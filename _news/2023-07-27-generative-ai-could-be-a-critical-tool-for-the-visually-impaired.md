@@ -138,6 +138,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "What generative AI really means for the economy, jobs and education"
     excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
     publishedDateTime: 2023-07-25T15:30:00Z

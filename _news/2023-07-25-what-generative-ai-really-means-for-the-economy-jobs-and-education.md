@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
     excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
     publishedDateTime: 2023-07-25T16:09:00Z

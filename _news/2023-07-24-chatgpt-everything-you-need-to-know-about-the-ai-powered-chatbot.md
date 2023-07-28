@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 381
+heat: 391
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/05q1XWgdyFHuBkikh5uAi3Z/hero-image.fill.size_1200x675.v1690489389.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
+    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
+    publishedDateTime: 2023-07-28T11:27:00Z
+    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+    images:
+      - url: "http://images.wsj.net/im-823806?width=1280&height=720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"

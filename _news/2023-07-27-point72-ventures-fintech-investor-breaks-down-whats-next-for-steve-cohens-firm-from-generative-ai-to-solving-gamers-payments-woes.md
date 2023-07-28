@@ -149,20 +149,6 @@ related:
         width: 500
         height: 309
         isCached: true
-  - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
-    excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"
-    publishedDateTime: 2023-07-23T17:21:00Z
-    webUrl: "https://menafn.com/1106651433/Egyptian-Fintechs-Team-Up-with-Fintech-Galaxys-Open-Finance-Platform-to-Tap-into-wider-MENA-Market"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?137769"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Founders Factory partners with Mediobanca to boost fintech investment"
     excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."
     publishedDateTime: 2023-07-24T08:30:00Z

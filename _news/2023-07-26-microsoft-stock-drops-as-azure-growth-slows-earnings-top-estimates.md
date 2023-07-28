@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "MediaKind unveils new home for Microsoft Azure Media Services users"
-    excerpt: "Building on what it says are the more than one billion video streams served in 2022 and 2023, MediaKind has unveiled MK/IO, a complete streaming solution built on Microsoft Azure that is said to be ab"
-    publishedDateTime: 2023-07-26T07:52:00Z
-    webUrl: "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.amp.html"
+  - title: "Microsoft earnings: What to expect as Azure, AI come into focus"
+    excerpt: "For one, the company’s Azure cloud-computing business has been in a slowdown, while the Windows business is in decline amid a tough market for personal computers. These days, however, Wall Street is intently focused on the company’s AI opportunities ..."
+    publishedDateTime: 2023-07-25T12:35:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
     type: article
     provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 74
-    images:
-      - url: "https://www.rapidtvnews.com/images/2023/July_2023/Media_Azure_26July2023.png"
-        width: 897
-        height: 417
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
   - title: "Microsoft shares down as Azure cloud-services business slows down"
     excerpt: "Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4% in late trading."
     publishedDateTime: 2023-07-26T11:37:00Z
@@ -56,6 +49,103 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/22.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘Leading the new AI platform shift:’ Microsoft to keep focus on smart tech, CEO says"
+    excerpt: "Organizations are asking not only how – but how fast – they can apply this next generation of AI to address the biggest opportunities and challenges they face – safely and responsibly,” Microsoft's CEO says."
+    publishedDateTime: 2023-07-26T10:54:00Z
+    webUrl: "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 69
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/01/microsoft-ceo-e1688032366509.jpg"
+        width: 2496
+        height: 1401
+        isCached: true
+  - title: "AI Boosts Microsoft To Its Best Quarter Ever Even As Xbox Hardware Sales Tumble"
+    excerpt: "The industry is in the early stages of an artificial intelligence (AI) gold rush, and partially for that reason, Microsoft just reported its strongest quarter ever in its 48-year history."
+    publishedDateTime: 2023-07-26T14:20:00Z
+    webUrl: "https://hothardware.com/news/ai-lifts-microsoft-best-quarter-ever-xbox-sales-tumble"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 67
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62149/content/Microsoft_Building_Hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
+  - title: "Microsoft Q4 Earnings Call: Over One Billion Bing AI Chat Sessions"
+    excerpt: "Microsoft's latest earnings call revealed insight into ad spending, new AI products, and impressive usage metrics for Bing AI Chat."
+    publishedDateTime: 2023-07-26T01:12:00Z
+    webUrl: "https://www.searchenginejournal.com/microsoft-earnings-call-q4-one-billion-bing-ai-chat-sessions/492571/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/microsoft-earnings-call-64c06a9a2521e-sej.jpg"
+        width: 3000
+        height: 1680
+        isCached: true
+  - title: "Microsoft Q4 Earnings: ‘Aggressive’ Spending, ‘Gradual’ AI Services Growth"
+    excerpt: "Microsoft is “aggressive in meeting the demand curve and focusing on the transition and growth in gross margins and delivering the operating leverage,” Hood told analysts on the call. But the Redmond, Wash.-based vendor still expects year-over-year growth from the prior fiscal year, which ended June 30."
+    publishedDateTime: 2023-07-26T14:09:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-q4-earnings-aggressive-spending-gradual-ai-services-growth"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 52
+    images:
+      - url: "https://www.crn.com/resources/0281-17e8a96e83ea-ebca3c6e05ec-1000/amy-hood-microsoft.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "5 Analysts Size Up Microsoft Shares After Q4 Earnings: 'In The Early Innings Of A Massive Penetration Of AI And Cloud'"
+    excerpt: "Shares of Microsoft Corp (NASDAQ: MSFT) are trading lower Wednesday after the company reported fourth-quarter financial results after m"
+    publishedDateTime: 2023-07-26T16:25:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/07/33394837/5-analysts-size-up-microsoft-shares-after-q4-earnings-in-the-early-innings-of-a-mas"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33394837"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33394837"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/07/26/shutterstock_370707185.jpg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "'AI momentum building in Redmond': Here's how Wall Street is reacting to Microsoft's earnings report"
+    excerpt: "\"Generative AI is the seminal technological breakthrough of our generation and one that will likely play out over years to come,\" JPMorgan said."
+    publishedDateTime: 2023-07-26T15:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-4q-earnings-results-wall-street-reactions-ai-copilot-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
+    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
+    publishedDateTime: 2023-07-27T15:26:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 39
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "Artifical intelligence puts Microsoft Azure in top gear"
     excerpt: "Microsoft’s latest quarterly earnings results show the company’s public cloud business was the largest contributor to revenue."
@@ -75,6 +165,24 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
+  - title: "Microsoft sees AI making ‘gradual’ growth contributions"
+    excerpt: "After a year where AI headlines have sent stocks soaring, Microsoft management reminded investors that AI's contributions to revenue won't happen over night."
+    publishedDateTime: 2023-07-26T15:43:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-sees-ai-making-gradual-124300655.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+  - title: "AI will benefit tech earnings: Jeff Sica"
+    excerpt: "Circle Squared Alternative Investments founder Jeff Sica weighs in on whether companies can profit from artificial intelligence and how it will impact the economy on ‘Varney & Co.’"
+    publishedDateTime: 2023-07-24T18:41:00Z
+    webUrl: "https://www.foxbusiness.com/video/6331753826112"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 17
 
 secured: "uxbc5hZqCRboUFWzFQ1Z425XyGkmWAgMX5pg91J7MIjqg5x6YUo2SKG0EA7ujnrKrEQqdnc1bqv6s//Y+hbcb2B/b07SHnwKwmfwqf+XniqIYWQC60Vn2cIL7k8TSGjFafiAvDuI+em6fZXylpEuYGcUolvEsvjtwDBfhqLG60H5JK6C81kTN7WNkZ0X2YKWS8kjQ45e4rWwMOyFCIFx4bXsNMUoyFD9rbf7HYI7bA0cl7abqyqq3blq01WqVfYdy24BOEfFgKXYq4xymQzkIHD9Rd4MTi/K0xYq+eN/P4veRnfoalTcWxHl330sKOLhPLy4DCzuRm07E/IKzQmjZzBfqLzkODlheEPPba/qpiA=;N6pv9E23519crYhgq+be2w=="
 ---

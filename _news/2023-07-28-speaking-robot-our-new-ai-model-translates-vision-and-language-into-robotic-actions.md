@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-m
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/SocialSharingImage_620_16901909350143578.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Aided by A.I. Language Models, Google’s Robots Are Getting Smart"
+    excerpt: "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots."
+    publishedDateTime: 2023-07-28T10:00:00Z
+    webUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2023/07/28/multimedia/28ROOSE-02-zwqm/28ROOSE-02-zwqm-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "4kpZEl59Vahy5bJOzgBUunUmvB0d9WbHEqJ1h8vBXXqPPbVAkhUZ/Ujip+WCCRDkvyCljbn18lqHvY9J+yjUslYjiHCIr1Y0Ka217CQrWDkCAshhryH8tmcEGOn3XzASwJZTWUeiicnnMhpu8kEUydV6r7iEEvzqlZHWqVVSpSP0nEq8Z1q6Cg8y1mp/7tvOGZue8sZyl1ZQBR32FENzEYpiGOq0ogBF6yosuj5WG/5Y/DOzzVZZrPpyr3Fx62m2+o/kSQGlwPBmaUuBK7Js9yrA0NMtxNcOuePD00TBfgynnUrhGBa+/+aH7UiyOWK443eQEDayVTJkYIRR1gTvZrClt0LpeQQQ/G5B6nFGHB8=;QL4WSmY+7DabkbluvSMTcQ=="

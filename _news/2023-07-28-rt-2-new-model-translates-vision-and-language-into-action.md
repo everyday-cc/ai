@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Aided by A.I. Language Models, Google’s Robots Are Getting Smart"
+    excerpt: "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots."
+    publishedDateTime: 2023-07-28T10:00:00Z
+    webUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2023/07/28/multimedia/28ROOSE-02-zwqm/28ROOSE-02-zwqm-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "KUjurAvR1LJ+1EHmsNilCUtUXbYlsueddXgqgLEQWVCaTmjDS3w0OQE45tqqo5vVxSXxZfG3W0ryTpWYNlf70SChsN7oVUrR1aX9UKyrwlezUyAHiAzf9e/3Tfxfh2AHKn07dz43SXvT/zDkIhfc/muMVUq2YDU1r6k6SAycqdQKtEYJku5DLC9ZwYqKs0+jKEE2OIG9K25GGVmoVlMXiiE77FADsK2EBXAA8+u3IlWayTPh7hw41tsbfpsY3dvI1nf0Z/jO1GyRoP/S8xoAbgdu735B2VK0ZM7vyASoPgPGPPdr2s94WNXo2aycxMLdFvwhzuVkz/SVF4F3pnig7J5bZM3vLN/qmTiBN0gVPUo=;UEQSC2deVNPdoRi3X2qWEA=="
 ---

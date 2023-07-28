@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
+    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
+    publishedDateTime: 2023-07-28T11:27:00Z
+    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+    images:
+      - url: "http://images.wsj.net/im-823806?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "OpenAI’s ChatGPT is too good for its own AI to detect"
     excerpt: "When OpenAI launched Classifier in January, it was supposed to have been smart enough to detect when a user (say, a student) used ChatGPT or another AI program to author a work. OpenAI pitched Classifier as a way for a teacher to identify if an essay, for example, had been authored by AI instead of as an original work."
     publishedDateTime: 2023-07-26T13:28:00Z

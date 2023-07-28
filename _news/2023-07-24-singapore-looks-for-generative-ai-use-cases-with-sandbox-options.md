@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-for-generat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/Screenshot-2023-07-23-233407.png?x37864"
         width: 768
         height: 376
+        isCached: true
+  - title: "Singapore’s health tech agency IHiS relaunches as Synapxe, taps artificial intelligence for better care"
+    excerpt: "Health Minister Ong Ye Kung said Synapxe is a “critical entity” that ensures medical information flows seamlessly throughout the healthcare ecosystem."
+    publishedDateTime: 2023-07-28T10:24:00Z
+    webUrl: "https://www.channelnewsasia.com/singapore/singapore-health-tech-agency-ihis-relaunches-synapxe-taps-artificial-intelligence-ai-better-care-3661441"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--AYScmkr3--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/07/28/min_ong1.jpg?itok=EYFbF8UG"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "Bf6hiftGg1rD3aI4YNToOm2P+ebVmPmV/RDWF8ZcOdmz1QgRndE50jVLLTU3yg6woQduaoZ5oLsGMd0G6GLOLtNdqoWd37bB+/uG3gs+R7C5pN4NQ+u1wLYb19HrFbMxkYrc8+ZjZM0LlqZYJ5YutS77ZwkmHBSOTrvj29So5/XnjjJYyk2xA7vQnnVwZjw7YT70KQS/L6bc6MW0C5hE6ZzMv27KJ/vTyRJCamH1cGwfnQH68apRfc+VtdnZyDqHU6G7DDynGHXdCcrDEuVScvmsLp29cyL9k3PUAFBNUaoN2cyHXtnqchJhCl4KEvwoGRFfoBgspKp5b+Vd2up7bK6V1MALDFdQ41lHCxwH/gdExOMQbSzdp4ikdxjjFCJIjn7DxNWcwZHf6R3yVBLlXVXsEuWsKRDvbJAiuDroOx5oXcXZJC26mPWHfaQVYgKtlTAwYPBp4bqjoGLXZdaabkcecU35n8KW5K2+W4Zm9MFrHCTt68lTRNVHQshgL6qFkn+syxZ030qB+RcrOLFR3A==;ce5D+Mh7Jlopppsaa0JJHA=="

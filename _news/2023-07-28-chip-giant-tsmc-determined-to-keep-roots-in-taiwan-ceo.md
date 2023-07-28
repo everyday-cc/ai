@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Chip Giant TSMC Determined To 'Keep Roots In Taiwan': CEO"
-excerpt: "Chip giant TSMC said it is determined to \"keep its roots in Taiwan\", as it launched a massive new research and development facility in the northern city of Hsinchu on Friday."
-publishedDateTime: 2023-07-28T09:54:00Z
-originalUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-2e779548?refsec=topics_afp-news"
-webUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-2e779548?refsec=topics_afp-news"
-ampWebUrl: "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-2e779548"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-2e779548"
+excerpt: "Semiconductor giant TSMC said it was determined to \"keep its roots in Taiwan\" as it launched a massive facility in the island's north on Friday geared towards developing the world's most cutting-edge microchips."
+publishedDateTime: 2023-07-28T11:44:00Z
+originalUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+webUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+ampWebUrl: "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
 type: article
 quality: 74
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP6307774578526972767564491728022726855182---1.jpg"
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP1113229468787666246496686568250953985199---1.jpg"
     width: 768
-    height: 511
+    height: 512
     isCached: true
 
 related:
@@ -159,6 +159,6 @@ related:
       domain: businesstimes.com.sg
     quality: 30
 
-secured: "ercz/dclPL+zMuBcRHH0xSlLOvFhB2HDm9ZURBqEFr5yHR+fY0pkmuHkdGBbpaQ2SKDu9V5VwreUcSkre+ZDQ5q8ybcLCZUMIzZMd68XA4AN0n6a60W4GduMCwxpGYALiZXzrN240TVtc0jorBF1Bvj0A56+RUV9mH6qeZ+2Bq3zP9x+vpxCrd5HE/6OTVhdMsNBGUSzMW52jNm5vXFJ34PBv7p4nRa4pbBP66T/o5ZUv+XTgcKZqLbqqCbvklH1npz6mK5KaDnFHEdL6EfHXBRJFi1FxL18mM5rLtsbcojZl6VDj11lyMGXcBkxG4dtfdSbvUCr4JLinbcdNhaCZcuSodfF7vXo1V/qzsGlXmk=;ptLBjxvRAKSqm+aLtUsUqA=="
+secured: "GbMqor/dy0c2rZAyuSfazn11EanMWIZsua/G4Vp5+Yyg/kaIF2pwrmsasHC4YoEG47Vph3i2mSDs0IlMOuafo7Q9W0jY71Z/QKLm+T3RjXiNM/1qs1cmzL+/z5KHyLXdTcF8a+Q1fCiA0LK1KdwO5XFaSWlbMqNJBflX0foRmNj3UpcPvt03q0Ei/HfFD2+H092vLTECsZ3vGcQZGiTiEDQPH5WuwphBxdi/ujX+sUR/Qm5aHSLv28NbEU4uDH9j28y6ikXiJz7X/C9E2i0xUm3VN9bDxZwiAc6JdB2BDOV8XGV+zc9kNYiG7mGpUvObaKZfzrmoLbdKX48wx+GNsSBFS4tIuOqe1b/KuPlHAnU=;PkvWHIexBHAvp5844stpVg=="
 ---
 

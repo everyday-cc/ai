@@ -19,68 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "The AI-Powered, Totally Autonomous Future of War Is Here"
-    excerpt: "We don’t want to start World War III.” Brasseur and others at the base ... The question for the Navy, as Stewart saw it, was how to hasten the adoption of robotics and AI without getting mired in institutional bureaucracy. Others at the time were ..."
-    publishedDateTime: 2023-07-25T18:49:00Z
-    webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
+  - title: "Failing to embrace AI is the real 'threat' to the US in the global AI race: Investor"
+    excerpt: "Founder & CEO of RSE Ventures explains why he thinks \"fearmongering\" and a failure to \"create a culture of innovation\" are costing the U.S. in the AI race."
+    publishedDateTime: 2023-07-24T01:48:00Z
+    webUrl: "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: CNBC
+      domain: cnbc.com
+    quality: 60
     images:
-      - url: "https://media.wired.com/photos/64beab4e7b25a434b1f3bfc1/191:100/w_1280,c_limit/WI090123_FF_RobotWars_01.jpg"
-        width: 1280
-        height: 670
+      - url: "https://image.cnbcfm.com/api/v1/image/107275256-16901668911690166889-30442148960-1080pnbcnews.jpg?v=1690170537&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future"
-    excerpt: "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ..."
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33426371"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artifact is getting an AI-powered text-to-speech feature to read you the news"
-    excerpt: "Artifact — the new-ish news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. The company is offering the new feature as part of a partnership with Speechify."
-    publishedDateTime: 2023-07-27T18:01:00Z
-    webUrl: "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 44
-  - title: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI"
-    excerpt: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI - Autonomous mobility has faced numerous challenges that have hindered its widespread adoption."
-    publishedDateTime: 2023-07-24T02:52:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/minus-zero-an-autonomous-mobility-startup-takes-a-natureinspired-approach-to-ai-nid-224244-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/k4WeCHUB.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "1. Exposure of workers to AI"
-    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
-    publishedDateTime: 2023-07-26T17:56:00Z
-    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 17
 
 secured: "aaxKKPrhdo1Ajvwn2wYW5fCM1iOgKxlYq10BSwjuSYPFPVfIzIQCy2aNCZVvWMoGaI8kPFaaiRh6DGtvJtzTItK7F0s7z8+Ngil+mWeRrbTdp8YxVi/8nnuSIeWcY1l8JZ2TR6UH6kNakYDJbCm0hMsmhWNgT79qCiZNelNyJ3vhPH8VpSWBcjZyNzetXjN7W3tPrZvDR8zRUESpwg1+g+MtfzKGl3AT75IE14Vyb2WLmQZ99jPgWhDqVMrn4cXrgCsq3/CBiVkhr6lGobae70KbbfynfDYmbLlmHSicBmCeuC5YNwuOeqAXOpECOjvqEijMQ5fXnsDtJ2jgCdK3MhEuX5XQ1ZQza+h5txlUmyw=;rgA9CplCmAVdt2EyA2NIRA=="
 ---

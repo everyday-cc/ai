@@ -151,6 +151,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-26-microsoft-reports-201-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift.md",
+      "title": "Microsoft reports $20.1 billion quarterly profit as it promises to lead 'the new AI platform shift'",
+      "excerpt": "The software giant said its fiscal fourth-quarter profit was $20.1 billion, or $2.69 per share, beating analyst expectations for $2.55 per share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp",
+      "publishedDateTime": "2023-07-25T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-the-us-is-headed-for-a-roaring-economic-boom-thanks-to-ai-robots-quantum-computers-market-veteran-ed-yardeni-says.md",
       "title": "The US is headed for a roaring economic boom, thanks to AI, robots, quantum computers, market veteran Ed Yardeni says",
       "excerpt": "\"I think that by the end of the decade we'll look back on it and say, it started out awful, but it ended up awfully good.\"",
@@ -212,7 +256,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1445,59 +1489,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly.md",
-      "title": "AMD-powered LUMI supercomputer lets TurkuNLP create new AI models quickly",
-      "excerpt": "Powered by Advanced Micro Devices chips, the LUMI supercomputer – recently ranked as the fastest supercomputer in Europe as well as one of the most energy efficient – has enabled the TurkuNLP Group to create new models quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
-      "originalUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/lumi-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

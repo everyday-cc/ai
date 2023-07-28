@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "Embedding Artificial Intelligence In Enterprise"
+    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
+    publishedDateTime: 2023-07-28T10:02:00Z
+    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 21
 
 secured: "jwMaXun1qgCw91gkR/50mxTGmPmQNbryhceg+iNCOA/zrI6lCuLrXiZhHSEalmrPyLuWtW+U5TPjq+xj45Kl0os2MS0TZ2GTfHWqpi/UECjfqYK3yw3ChLLc8Wec3nKFw21LnqqMXFOg6RP5Exyw1nAYN8ysmt8oVPNZixcqVBSHYxx3vBfYlS4k3LnaNF1zT5ZCBS7ZnO1Tfbr7GnXRuz7rfhtvWj3rY8Dbr8l7WQ+LXMBedKOaXw8x8ybhg61nOWL1lKwafBB1ZQ0KYaXoh15k53EzUfJivbT+gvLti+CJoC9ptzqiVqu5b5avehsvIq58pTdm1wMu8wJYSyOXVdG9Nn9hiIav50VAtHin+eA2vNvCJAivFd5EXWQHeZdZo8fIIC6uQU9vuLavg+W/EEIjXwiNnzIlg19beZcYv9OLfXhstcX/fSYL1E+oURH6GlyOOpNbsy8vHYDHdQf0eGGtq/nKqXc4hYg1embmaUtQ7V0FX5pHSQXvmFuUDWl93JEBc9D84aEICooHX2jj9Q==;JwTsMUccKDSXuMPqHhUhJg=="
 ---

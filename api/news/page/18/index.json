@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-07-15-3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results.md",
+      "title": "3 ways AI is already transcending hype and delivering tangible results",
+      "excerpt": "Tailored recommendations and improved security are just two of the ways AI is already transforming business and society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "originalUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_leading_a_business_meeting._Colorful_futuristic_dbf87c4f-2578-4163-9e44-6f53b705e2ac.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-self-driving-cars-could-be-closer-than-you-think-mine-may-have-been-right-behind-you.md",
       "title": "Self-driving cars could be closer than you think. Mine may have been right behind you.",
       "excerpt": "My optimism about self-driving cars was renewed recently on a hot, sunny Wednesday in a crowded office park and on a stretch of interstate in Detroit’s northern suburbs. Expectations for self ...",
@@ -1110,57 +1161,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-dont-pause-act-how-to-unlock-ais-vast-potential-by-driving-more-trustworthy-and-responsible-ai.md",
-      "title": "Don't Pause, Act: How to Unlock AI's Vast Potential by Driving More Trustworthy and Responsible AI",
-      "excerpt": "While the pace of recent advancements has been breathtaking, some of the biggest AI advances just over the horizon could be even more profound.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
-      "originalUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2257353/keyboard.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
-      "publishedDateTime": "2023-07-14T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

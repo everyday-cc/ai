@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/am
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/05/compliance_regulations_rules_law_standards_policies_by_cnythzl_gettyimages-939942712_abstract_technology_by_monsitj_gettyimages_629285904_2400x1600-100797811-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "What generative AI really means for the economy, jobs and education"
     excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"

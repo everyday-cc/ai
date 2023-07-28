@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "8 limitations of using Artificial Intelligence"
+    excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
+    publishedDateTime: 2023-07-28T10:31:00Z
+    webUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+    ampWebUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 59
+    images:
+      - url: "https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/7/28/1690538015666_ai5.jpg"
+        width: 282
+        height: 500
+        isCached: true
   - title: "Prisma AI appoints Pitchfork Partners as strategic communication partner"
     excerpt: "Pitchfork Partners will work on Prisma AI’s overall communication approach, from planning and formulation of key messaging to implementing effective campaign strategies, building and elevating brand awareness, and reaching out to relevant stakeholders to apprise them of the company’s offerings."
     publishedDateTime: 2023-07-26T05:20:00Z

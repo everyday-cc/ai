@@ -36,6 +36,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
+    publishedDateTime: 2023-07-28T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 39
 
 secured: "vf5XAmwhsxc3AFsp6+MNCwwoRuk8mZGEOgKz03Rv/PUYy3vTcxpLr07hZJ+dmqLJZ1xDzKAjNOLIXOuApNY+maEU/ue91YoNcOtB8u9qofHc3FojpbY3joJMDcEM0TrEdI7Nd+FC84YBgi5xuS0g7oDOHz629NgF9DpxjG8DQJRU7aYUdMrsoxSEGW00t0+3NlWwjDe7WcoPWhtL4lxRkEsEYPlEehbgBLXxaNQIlwZdNonJdqutVEiGyEbedvnmPYR/5YakvTnP75AADdpRTzSw3WxY+VrwUV5rjwF6tEvsZtGC6J7hJ6JRD/+OOun/L8JrS7sv2+i/ifqXkbLbXt7jJR4pouX/3t2++78Gl5U=;YhbKjM26PlgY5ed6+ET9xw=="
 ---

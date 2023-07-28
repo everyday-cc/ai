@@ -46,6 +46,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Stability AI releases Stable Diffusion XL, its next-gen image synthesis model"
+    excerpt: "On Wednesday, Stability AI released Stable Diffusion XL 1.0 (SDXL), its next-generation open weights AI image synthesis model. It can generate novel images from text descriptions and produces more detail and higher-resolution imagery than previous versions of Stable Diffusion."
+    publishedDateTime: 2023-07-27T22:58:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
     excerpt: "The latest text-to-image model from Stability AI is also released as open access to developers alongside its API NEW YORK, /PRNewswire/ -- Stability AI, a leading open generative AI company, today ann"
     publishedDateTime: 2023-07-26T16:30:00Z

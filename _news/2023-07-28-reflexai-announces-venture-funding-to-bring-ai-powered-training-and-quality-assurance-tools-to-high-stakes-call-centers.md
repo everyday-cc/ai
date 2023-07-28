@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Twitter Changing to X and It Will Be AI Powered Interactivity"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2023-07-24T01:35:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/07/twitter-changing-to-x-and-it-will-be-ai-powered-interactivity.html"
+  - title: "Student Brings Artificial Intelligence to Basketball Officiating"
+    excerpt: "Every sports fan can recall a moment that had them screaming from their seat or their couch as their favorite team landed on the wrong end of an official’s crucial call. Now, artificial intelligence could offer assistance."
+    publishedDateTime: 2023-07-26T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/student-brings-artificial-intelligence-basketball-officiating"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
+      name: cc.gatech.edu
+      domain: gatech.edu
     quality: 39
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/elonX.jpeg"
-        width: 1000
-        height: 1500
+      - url: "https://www.cc.gatech.edu/sites/default/files/styles/thumbnail_262_x_148_/public/images/main/2021/female-grad-student-presenting-at-conference-2019-850x478.jpg?itok=Qkww2D80"
+        width: 850
+        height: 478
         isCached: true
 
 secured: "T7xyExJVHOqM9zRWvMhPyQ3q0JrVWAHloUSruAoYaOJIjl9wXPP2Zxs4peIeTx3wZ1+monzlGNGsXwdBenLVYiWCF9QGgrPM+rkwMnEABs7TkkQdREAVZiUX6x3du7g4REELGIPbfrWB9yFlgfzPNVQLS6vDbsMsB9bv+Al5ffuM6woqI8y3W2sX3M21Tit15AVc6r/bA0RaBomwsVUmwNkNTtvG/1c+5Jy6QLLJH3K6rPz9GVViK3Ps/jASEmBhWv8Y2bM7NTOZaVI2SbjjJjyBb/0oF7PwroMB/PtADYv0eiVyhBuBEd/S6Dr34D3DckZ6WGkdSkredqvnRkksnFoHuywaZ5KExhYsf/i/YKs=;imkOVyqIz1MYa08+sc83og=="

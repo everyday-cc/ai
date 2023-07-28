@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/
 webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -28,38 +28,89 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
-    excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
-    publishedDateTime: 2023-07-25T14:18:00Z
-    webUrl: "https://siliconangle.com/2023/07/25/nvidias-dgx-cloud-platform-now-available-offering-instant-access-generative-ai-infrastructure/"
+  - title: "The Future Of Cloud Computing: AI-Powered And Driven By Innovation"
+    excerpt: "Tech giants Microsoft and Google report strong Q2 earnings, driven by AI innovations in their cloud businesses. AWS also invests heavily in AI."
+    publishedDateTime: 2023-07-28T11:51:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/NVIDIA-DGX-Cloud-Image.jpg"
-        width: 1260
-        height: 680
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3aa8297c5886d5716a7fe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Amazon launches program for startups using AI, climate computing"
-    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
+  - title: "The Future Of Manufacturing: Generative AI And Beyond"
+    excerpt: "The manufacturing industry is headed towards a future where AI, the metaverse and web3 technologies will play a significant role."
+    publishedDateTime: 2023-07-25T05:53:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
-  - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
-    excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
-    publishedDateTime: 2023-07-26T15:29:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startup-cerebras-takes-nvidia-ai-supercomputer"
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bf62cf2162d71bf6d8f5ea/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "The AI-Powered, Totally Autonomous Future of War Is Here"
+    excerpt: "We don’t want to start World War III.” Brasseur and others at the base ... The question for the Navy, as Stewart saw it, was how to hasten the adoption of robotics and AI without getting mired in institutional bureaucracy. Others at the time were ..."
+    publishedDateTime: 2023-07-25T18:49:00Z
+    webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64beab4e7b25a434b1f3bfc1/191:100/w_1280,c_limit/WI090123_FF_RobotWars_01.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Growth driven by AI will be the metric to watch this earnings cycle"
+    excerpt: "With Alphabet and Microsoft reporting their results today, there's going to be a lot of scrutiny on their investments in AI tech."
+    publishedDateTime: 2023-07-25T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-482028705-1.jpg?resize=1200,818"
+        width: 1200
+        height: 818
+        isCached: true
+  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
+    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
+    publishedDateTime: 2023-07-27T07:50:00Z
+    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 24
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
+        width: 684
+        height: 358
+        isCached: true
+  - title: "AI and the role of the company board"
+    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
+    publishedDateTime: 2023-07-25T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "LiLQGrGItkdMEcnKogpBpJbDim36DekvfZl/k+qe9kqhXrhTK2yP2RTPqjbExpAaq1RUHf8UveK12L7QNpxZLDeU4MmtQYte79ht+48UPOerv/v67fiOVCMEIuOAm/x4y8y5FfcCHAHUWngVRcx8aJRNKLprVF0NtnZfshEe+hGKX75aN/F5Bc2VGIWN2gJyYou1IwemfQFvw03+dxdb3lXlxPn1WTuyPZ+3X0U/lelTp/g2FSBLTtN1xEfGhQ9iuGY/2wjgVxjwbT498kFx5279bYU3d6eTKuYa5d022/KTRNh+S7DnZIhhGpiIS7dY3/tRc9CSE45tOA/hf2h2JzJFI/8jkuA56s7Mdr2PeUUQPYq2euIxDJOfkfl+Kd0BIi4bYATxRH161SU5NR4BhZKdgBeOUVnx+6s9OcodVpeN1HL0jMWyqthLSj24xsBVrBuUsHQ59Ejf/bh48FsLOcZRO7238yzTU/ysvmaEzIx5tVbBjm5Xo4J3HTx4jB7XVbm+KW/hforCDu4xLSd8Ag==;CC9ybXuD/m6/wurCoAT8kQ=="
 ---

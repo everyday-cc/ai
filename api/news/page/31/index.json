@@ -2,6 +2,40 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-07-07-musk-predicts-tesla-self-driving-cars-later-this-year.md",
+      "title": "Musk predicts Tesla self-driving cars 'later this year'",
+      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
+      "originalUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023.md",
       "title": "Artificial Intelligence In Manufacturing: Four Use Cases You Need To Know In 2023",
       "excerpt": "Discover how AI-powered cobots, 3D printing enhancements, futuristic generative designs, and predictive maintenance are revolutionizing the manufacturing industry in 2023",
@@ -1123,49 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-usc-researchers-use-ai-to-help-translate-bible-into-very-rare-languages.md",
-      "title": "USC researchers use AI to help translate Bible into very rare languages",
-      "excerpt": "an AI-powered technology to help streamline the highly technical process of biblical translation. Combining Hermjakob’s long experience with natural language processing and Mathew’s field ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/2023/07/06/usc-researchers-use-ai-help-translate-bible-into-very-rare-languages/",
-      "originalUrl": "https://www.washingtonpost.com/religion/2023/07/06/usc-researchers-use-ai-help-translate-bible-into-very-rare-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JQF6TWXMCQI6XIV2HPRR2NESLA.jpg&w=1440",
-          "width": 1414,
-          "height": 2121,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

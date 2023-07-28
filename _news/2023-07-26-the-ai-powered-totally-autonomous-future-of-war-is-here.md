@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-o
 webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
 type: article
 quality: 69
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -29,63 +29,89 @@ images:
     isCached: true
 
 related:
-  - title: "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future"
-    excerpt: "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ..."
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33426371"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371"
+  - title: "The Future Of Cloud Computing: AI-Powered And Driven By Innovation"
+    excerpt: "Tech giants Microsoft and Google report strong Q2 earnings, driven by AI innovations in their cloud businesses. AWS also invests heavily in AI."
+    publishedDateTime: 2023-07-28T11:51:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3aa8297c5886d5716a7fe/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Artifact is getting an AI-powered text-to-speech feature to read you the news"
-    excerpt: "Artifact — the new-ish news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. The company is offering the new feature as part of a partnership with Speechify."
-    publishedDateTime: 2023-07-27T18:01:00Z
-    webUrl: "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify"
+  - title: "The Future Of Manufacturing: Generative AI And Beyond"
+    excerpt: "The manufacturing industry is headed towards a future where AI, the metaverse and web3 technologies will play a significant role."
+    publishedDateTime: 2023-07-25T05:53:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 44
-  - title: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI"
-    excerpt: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI - Autonomous mobility has faced numerous challenges that have hindered its widespread adoption."
-    publishedDateTime: 2023-07-24T02:52:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/minus-zero-an-autonomous-mobility-startup-takes-a-natureinspired-approach-to-ai-nid-224244-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/k4WeCHUB.jpg"
-        width: 570
-        height: 367
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bf62cf2162d71bf6d8f5ea/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "The AI Arms Race: Uncovering the Future of Web 3.0"
-    excerpt: "He emphasized the need to learn from past mistakes, like how Web 2.0 propagated vanity through likes and shares, suggesting that society has evolved beyond superficial engagements. He stated, \"Working in our job is to basically figure out what benefit it can do and what those scenarios that actually benefit"
-    publishedDateTime: 2023-07-24T20:42:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/the-ai-arms-race-uncovering-the-future-of-web-3-0"
+  - title: "Growth driven by AI will be the metric to watch this earnings cycle"
+    excerpt: "With Alphabet and Microsoft reporting their results today, there's going to be a lot of scrutiny on their investments in AI tech."
+    publishedDateTime: 2023-07-25T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-482028705-1.jpg?resize=1200,818"
+        width: 1200
+        height: 818
+        isCached: true
+  - title: "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service"
+    excerpt: "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article."
+    publishedDateTime: 2023-07-26T13:33:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
+    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
+    publishedDateTime: 2023-07-27T07:50:00Z
+    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 24
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
+        width: 684
+        height: 358
+        isCached: true
+  - title: "AI and the role of the company board"
+    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
+    publishedDateTime: 2023-07-25T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
     quality: 19
-  - title: "1. Exposure of workers to AI"
-    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
-    publishedDateTime: 2023-07-26T17:56:00Z
-    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 17
 
 secured: "XmDu8R6MhcnaqH/LjHtNtK+1yTe4g75sutwR2Pp/TFMxBN2CQVEalqHqQlkyZpI4SgtRUQWNY727mWP8aqUkTJT0GjzugMBmeJ7kwZC4AYoAwn7VPmzfanqvQRHoBEfPjt7hKPm2f6p9pV5YyWC/YCSkzjz5QyPWnsM8Ajg0cbaK920wRCAhdCBFm7rO78VJkhBhNGNU+62Pu3ZTGrzbgCvAeOcvC6bn5H2fC5q6xy2RGpequMC9/sE/0uJd2OMcxITwVXdL/92t/m4lJi8ZG6XrfcgordoVEOnLFfDHRIrTIQft4JieKQcGpnSH8IgdgchgDKlteX7vhmm+rX7iQXI5YlKL/qFxoRpVIw/cdd8oaxMQc8nAzMvNtXfLrjeTE8at3UO85BlnAwzs2ebSwKlNeZtwEEmP/KxQspzCF28cNYbjbCHb8IFDW15PskNxLlmTwsU+QNVDdiyQuveeoKTlAEvr5cC77HB30fQmME3VPzDB9+Jo9upGWbHs7EyayLrMkso7x/n5UriRFLAXJQ==;spo9/XS74bMdpX3c1d1+2A=="
 ---

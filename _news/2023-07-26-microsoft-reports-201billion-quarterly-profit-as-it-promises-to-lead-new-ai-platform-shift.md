@@ -7,7 +7,7 @@ originalUrl: "https://www.orissapost.com/microsoft-reports-20-1billion-quarterly
 webUrl: "https://www.orissapost.com/microsoft-reports-20-1billion-quarterly-profit-as-it-promises-to-lead-new-ai-platform-shift/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Microsoft reports $20.1 billion quarterly profit as it promises to lead 'the new AI platform shift'"
+    excerpt: "The software giant said its fiscal fourth-quarter profit was $20.1 billion, or $2.69 per share, beating analyst expectations for $2.55 per share."
+    publishedDateTime: 2023-07-26T00:54:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 62
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'"
+    excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent"
+    publishedDateTime: 2023-07-27T01:31:00Z
+    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=421102"
+    type: article
+    provider:
+      name: RiverBender.com
+      domain: riverbender.com
+    quality: 45
+    images:
+      - url: "https://s3.amazonaws.com/rbweb-ap-photos/d06df0f9eae04dd183aabbaaef444388.jpg"
+        width: 640
+        height: 395
+        isCached: true
+  - title: "Microsoft reports $20.1B quarterly profit as it promises to lead ‘the new AI platform shift’"
+    excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent Meta in selling the latest artificial intelligence technology."
+    publishedDateTime: 2023-07-25T21:39:00Z
+    webUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
 
 secured: "GLTJFaJgbn8KlkJBYF/HKihQswxyxYxKJpdCZXB5qZFykS8Ouc5vKah+lsmTCP11AjrUXdu05P9fR+YRLgjq6q1jT6cPosJSrWGCi7Ntd40J1VoflUdrOQNelssjyqlLWw8KBqLJifR9p9o3ZUZSZhPwS8uDZNo5uj406XetNDsjB0HGGTK8krK7uthZPBZdCtRp8Y8mVQpyHd23HC5bTclqfnD1Mq+OHHINPIthiUDDoAq8d15ewuYukfTF6k8Ea+Yo36uJ8vxJXmtyaN0KEinlN/aOpyooD6xDf7XMQqsaxCegEyE+eBMmvzD5BnFhkSFYmUQ2ybBGJnKuN8W2gm9PjLj3f37F9c/gELN472Q=;JzuJfswuR6k0RLL/3zXXqA=="
 ---

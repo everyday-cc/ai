@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/leveraging-high-performance-computing-to-
 webUrl: "https://www.ibm.com/blog/leveraging-high-performance-computing-to-help-solve-complex-challenges-across-industries/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
-    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
-    publishedDateTime: 2023-07-27T07:50:00Z
-    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 24
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
-        width: 684
-        height: 358
-        isCached: true
 
 secured: "xErMmjS5x9rvHOPh49qwKjPZjJ+C5qJLOkIVDQMz/LBMl+8Op0Yh/dY2VDb7ETfMxotSrteh0w/IH3mzjckO9f2S2t7iBE8r0KvqMBOXBlqo3VyBBnZgIkb0Ehbsxtv98EY0LFvrupYJVpve9F1fdbUzFaavcYdiJlsdxQWyCzEckHHKRL2ffsRfX2mp11d/Tip90thdPK1E3IDLo7imGUUf36Lt9AMUwNL5bdf2QoDuLOJybHsNaePpQAH0UzlGs7QzIRf4NEvVPkKghBUINqrOc/NT3l2twPULrz0Bw0jpiUVy8mTTPCSYHWRhmGVydFINlfasKyukwb5C2UzI3fOBCFY4Nt4hh2LLmDlvOIM=;ZtDF1i/EESZfolXhXZDDkw=="
 ---

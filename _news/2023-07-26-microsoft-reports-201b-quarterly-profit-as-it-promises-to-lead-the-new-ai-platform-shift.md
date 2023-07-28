@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI Boosts Microsoft To Its Best Quarter Ever Even As Xbox Hardware Sales Tumble"
-    excerpt: "The industry is in the early stages of an artificial intelligence (AI) gold rush, and partially for that reason, Microsoft just reported its strongest quarter ever in its 48-year history."
-    publishedDateTime: 2023-07-26T14:20:00Z
-    webUrl: "https://hothardware.com/news/ai-lifts-microsoft-best-quarter-ever-xbox-sales-tumble"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 67
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62149/content/Microsoft_Building_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "Microsoft reports $20.1 billion quarterly profit as it promises to lead 'the new AI platform shift'"
     excerpt: "The software giant said its fiscal fourth-quarter profit was $20.1 billion, or $2.69 per share, beating analyst expectations for $2.55 per share."
     publishedDateTime: 2023-07-26T00:54:00Z
@@ -64,15 +50,20 @@ related:
         width: 640
         height: 395
         isCached: true
-  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
-    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
-    publishedDateTime: 2023-07-26T08:39:00Z
-    webUrl: "https://www.inferse.com/639754/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
+  - title: "Microsoft reports $20.1billion quarterly profit as it promises to lead ‘new AI platform shift’"
+    excerpt: "Redmond: Microsoft Tuesday reported fiscal fourth-quarter profit of $20.1 billion, or $2.69 per share, beating analyst expectations for $2.55 per share. It posted revenue of $56.2 billion in the April-June period,"
+    publishedDateTime: 2023-07-26T09:45:00Z
+    webUrl: "https://www.orissapost.com/microsoft-reports-20-1billion-quarterly-profit-as-it-promises-to-lead-new-ai-platform-shift/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 16
+      name: orissapost
+      domain: orissapost.com
+    quality: 42
+    images:
+      - url: "https://i0.wp.com/www.orissapost.com/wp-content/uploads/2023/02/Microsoft-AI.jpg?fit=1000%2C600&ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "CHgcDp/HCyA+2EyfysIYB0WmmBgf+yx+izxdUTVnry6lxr3XQemoUa1QWLc5K14eYVoaW1glkZuxxT/McQ3IvgFL1P/IYpZRQaOwESIjP9Smo9CYlVfPIeNi7Bs2xQjLCM1nLbNCRfKuie2+e+3M2ahyziVcL1HuvUZw4sUWNDBMHmUUdH8cFc8aeCFAmFRBpRs8Sg4sRYK8AiE7OcM8r/kfWw/6derzjXo6uk8QwbohAq8iOEENRKKCeHdCni0KBjqpkOt4qNMoJ6ZZU1qSegkEFM6zInzwEDc60yeB15ZMkAwebanlWMyHLNn2e6AZKKij6pRdfqdzvgBm1Srk4B/aTE4To95x8VxICKmVh/l7qgODzYDwKTH0/ugSbSq5AACdmrmZS3jXruNzNrxRu+XhOWe7XkP4tbSMwRcO+chQI0e4VpAE08wItepaNNL4dNsDDu91vccJf4qKPDgmhPjPn0gKvGBeYshCNM2qwbAIc2q9ZFSGE+Cg02liN9FpovYNXxXZ4UoZ+ZPEQTrnqg==;kimxv4CIwewwebx8xbosVg=="
 ---

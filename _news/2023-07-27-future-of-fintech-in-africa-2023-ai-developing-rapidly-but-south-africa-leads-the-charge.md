@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/the-long-read/749/future-of-fintech-in-af
 webUrl: "https://www.finextra.com/the-long-read/749/future-of-fintech-in-africa-2023-ai-developing-rapidly-but-south-africa-leads-the-charge"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Medius acquires Expensya to boost FinTech in North Africa"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-26T06:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/medius-acquires-expensya-to-boost-the-fintech-sector-in-north-africa/"
+  - title: "12 African countries sign AI Ethics Code at Russia-Africa summit"
+    excerpt: "Kenya is among 12 African countries that have signed the code of ethics of artificial intelligence (AI Ethics Code), during the second Russia-Africa Economic and Humanitarian Forum at St Petersburg. Other foreign companies that have joined the community of AI experts are from Nigeria,"
+    publishedDateTime: 2023-07-28T11:29:00Z
+    webUrl: "https://www.kbc.co.ke/12-african-countries-sign-ai-ethics-code-at-russia-africa-summit/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 54
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
-        width: 400
-        height: 224
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/07/technology.jpg"
+        width: 1000
+        height: 666
         isCached: true
 
 secured: "42pRmJAlsS+P/WTuZQCVIBlUZXDHqaZRZlqdwYDG2WK8wPzjldoWqx8qBgGsGtckJpZCfeRhGjJPBV2hZIVZbsGCJ4AJVMFVQaBNa9SAttgl0OgA5q5GnWTObPOxbekuc0ayoRJDd0g1WPY4OTkzZQ5S417CDUxK7qpDCd6beO7g6YVgC6L3LQtzIBMD9DmC++aRxX1ew1nRyzDKU5FOEugWgU4PCMzROUMkXMhqNJYuumLt2tDGtvByp/egYnBi9fJiucZy0JfzAFJqbL7Bn+aJaEhwObyfm0yieMAwn5xrI6UJU4GF05RJK5iIRr1P9ayTSriU3wQKQ6yzXe5UcYX4f2ofoMtU0VBBNZZLsYDfqyA3/x8WOvhd/nnxTqSYdYQfVd9xKowuVst0tpzq2H5pvhQydM+bM1U9kSGENiQtNA3U+NQBJiuSc9/V/vdGKkz52IWXmPraqfrp2Sq1fEqcnQR1xj6q51NlsjFCFxGvK43R+GoThtu7IN8OlidrwYqA3Dy6z+p3dnaCNpbESA==;80ksj9xCsNAUROiRsV0REQ=="

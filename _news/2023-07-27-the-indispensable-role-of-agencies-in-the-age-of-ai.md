@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the role of the company board"
-    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
-    publishedDateTime: 2023-07-25T18:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
   - title: "The Critical Role of VC In the AI Economy of the Future"
     excerpt: "As we continue to navigate the aftermath of a global pandemic, the resilient rebound of the American economy outpaces those of other advanced nations. Yet fresh challenges arise as we a"
     publishedDateTime: 2023-07-26T05:00:00Z

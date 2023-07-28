@@ -114,6 +114,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Embedding Artificial Intelligence In Enterprise"
+    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
+    publishedDateTime: 2023-07-28T10:02:00Z
+    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 21
 
 secured: "hw6dbODQxZ05MB+X30e/4nIJQRgfVyZkbDRWJtqGW9o7V7rQJuRtbX6julux7cmoIZuvdNI1t0Wc8KVTATenwzVTHi0lrDsN5WSQ8J1tAdvjOO48dZLgzC2hXbJtrC77zWBhljyz0ElLLbmJioZMgZtpa4IsIIyzlesKBEeHzppmDwjScd0/YEcWtMok09BxoOVqOE+mgjHSsLl263vSDX87ysA/3jSku1j/QDbMgrR2hHXZ51nVE7+ACQFRJnSysrkoYKJ+L5eZsDHcTksuvDvDLx2YU83A9cABfg4XNsiBob7f1MVmxteU4r61MpEJLgqATJNiOZGkyL1hHJ2EK9blG4L6jAB/peob6/BjYvL0YfEsUDgFOdU9p6kilCuLKsOrYoYYoDYnaBtBHb6t9LdkaIhH1h5Z7ZCnQLswomH8QQoxMiHewLLQwq4umNIcqQ/rLLmKIBNRErmovzUjvp/FLPsBctBATfTQN8DgGcN1Xnsq7lC83A5wtSZxpg0u2S0qgSm6vsDTKNUJaOL7bw==;DmlUtihkneK88O33mIeApA=="
 ---

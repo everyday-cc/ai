@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/does-buy-american-policy-make-sense-t
 webUrl: "https://www.wsj.com/articles/does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too-562825af"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -37,6 +37,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
+    publishedDateTime: 2023-07-28T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 39
 
 secured: "v8yPg/YaUs6yqINDuakQdxtPz4UCJJln21d673siqslCClBmBgz4Hv2++j6guQCiDi+Imv2xuE+tBUKYuJI78qYf8hMyWLieNmyLz51J1SaE2V0Ypm1LmM+OllD1BJwVA5IPFV/oYGUCvTCpfkLLYRDbPMRvoRfp/JcthVRCkXBrqOXApZL96jer9Fb3ZNSXWo+vv6HFD90YzY94GkfD0KuTjvhIxn3LOCV/LPR2UcWzf51po8y5SApqtzdwLiT0v6JnUc/VykkwC6tmLIZ7ejAkZKZKyF8+sILauUj4FmP45ktJppjSKfSc6VLHPcmNTY8li3PqTWjg4kelf02YcN9aohhEUsbv7SGkD9axLUO2qtLMu/7KtDbLL0UrvQoC1uTJlxXaRGyEGZjwvjX3Ds3pBTqvNRNt/yeS6UjKCvO4FfKczQ6rn7OyLPxMuhIYyw/JZyXtjR+w4ylQpBhEDdqMpA/mi6f4Y2F2FQcMK8COqY8gXkBf4gwH0MADjKJIdkGs8wQLjKcUyYTIWTNN4w==;almZebAIzsQKGetyJsWXyg=="
 ---

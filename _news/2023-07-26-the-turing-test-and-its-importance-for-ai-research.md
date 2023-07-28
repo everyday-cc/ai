@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 712
         isCached: true
-  - title: "The Future Of Manufacturing: Generative AI And Beyond"
-    excerpt: "The manufacturing industry is headed towards a future where AI, the metaverse and web3 technologies will play a significant role."
-    publishedDateTime: 2023-07-25T05:53:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/25/the-future-of-manufacturing-generative-ai-and-beyond/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bf62cf2162d71bf6d8f5ea/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
 
 secured: "WSnpueliRycqztGqd/v7GGu0MZrQJzSsSNLDZ8Hjo0w9AtIj5nujZ85ZYWKUtxeyObY566ZGvoonvdRfJyALT36LFbRAvofKTWTr4YNlA2jdwviFJlo30dvelcY9BSGqc4gLJRrWnLpig250ZgT8yIQReDdytvzOxQR6LK8iLsyIem3IhfUpc4DwPqrQPt1+r81ubMF0OBodr33SzURkM9VSKqnGfYS00aXGFLSTxhUFVPrYGRvR1PuS4IebXPT1PO00kaizDsAJcyfNDo1NOy0ZZLfL+uGVmex2laAi0/0g2oD6WuASLtEOkNScHiQfd9Z54Fj3tD30uvvuMahR7s5GSbY0VMK0puTHzXzR6Ac=;z8NKlo5oUKxOWYFRMxhPUg=="
 ---
