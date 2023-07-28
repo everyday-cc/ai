@@ -2,9 +2,9 @@
 category: news
 title: "From customer profile to improving accuracy, fintech takes to AI"
 excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
-publishedDateTime: 2023-07-26T07:12:00Z
-originalUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
-webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
+publishedDateTime: 2023-07-26T12:01:00Z
+originalUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/India%27s richest"
+webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/India%27s richest"
 type: article
 quality: 39
 heat: -1
@@ -145,20 +145,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
-    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
-    publishedDateTime: 2023-07-23T06:58:00Z
-    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 32
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
-        width: 1280
-        height: 661
-        isCached: true
   - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T05:08:00Z
@@ -262,6 +248,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "h0W+mBNmXvZo5Nr5PFqF8TKTtfHIXJNYw7W9MWp0Safdl8Lp0SWZ1RIuk+nxyMxWpyt+5wLD+qUC0ANTdro5AneXJ9lG5ra9wcAB54Rjb0NtCpPJs+BAw2pDtzRRdkzUETGyJfp1OL1EWvg/VGAnllEEZtYaniwo+AK4mUPURZAbE04yMM2x+ozqb4t0kf9kgegjh62WYzgQczrms3Dmf3MY4LvMW7Pi+7ampLN2NoymQali9mI7WAkNU9KknHwJK5hbRM+eONT1NosMQpsk9qhh2U/DCJECkkrlrflGktAQbDFZ2XOPK4npvEoYITUDOn5KVZKQn/1px/lqh58SMjhnAY7VtHihZHUtk0vzjFFFS6cpVqGTzkGRVD231VmcapxrQzy1aGUv0z2rpyp3zUm4FJxfOkjBtHdK28+azlKx55HNm+j/RTGEETJ+N+s6J1nUn2dWVH+fwJ+p102ZrqyFg+4jXBS+YXytVVDfjaaT01YVlgk+FzvyxF6G0IEy9p8VkLxAAgT4UL71VqBIcw==;YXmUAA2SSNLrrj4SDS3UIg=="
+secured: "TAMtkOQJnq34IgvkD7R3wKl905L01OSwy7P5MAywecjXdhOWYLn6dIIUdo/FFXct9Cjg/RXG0aVHvEmddjwpLTypttZo3NavexmgHDlKUcQDARvVK/VhrRGOsMLm9GC/ZfCf8N+2pAFDQWkJ/euLE+iyDQUoj/PXYXR9zOrZacMHOfr3o5CgxMy1ezHjfwpVx/arONjFqcOdQrBXFcn8f8ZkJvVsTEN7A5gWd+f1wOYtu3kbkmceW7cQnAQV1hzRS8gV2qocU5j4BHPBSyH7gkGOHJsP3IzNsvW0YfPw8XaR36+M74Dn+tI4dR05jQSvP94ToLjRFdq9WF/kpKT/QFudkhnoNuF8JesbrgP+arc=;u8Vlg2mNEHVMax6O5UT6LQ=="
 ---
 

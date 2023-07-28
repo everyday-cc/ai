@@ -1,23 +1,42 @@
 ---
 category: news
 title: "HULFT Inc. Announces the Deployment of HULFT Square by International Trade Leader TradeWaltz"
-excerpt: "HULFT, Inc., the global data integration software leader, today announced that HULFT Square is serving as the data integration solution for TradeWaltz that connects the global trading platform with dozens of major trading partners."
-publishedDateTime: 2023-07-27T11:18:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/27/9855015.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/27/9855015.htm"
+excerpt: "HULFT, Inc., the global data integration software leader, today announced that HULFT Square is serving as the data integration solution for TradeWaltz that connects the global trading platform with do"
+publishedDateTime: 2023-07-27T09:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/b33412487/hulft-inc-announces-the-deployment-of-hulft-square-by-international-trade-leader-tradewaltz"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/b33412487/hulft-inc-announces-the-deployment-of-hulft-square-by-international-trade-leader-tradewaltz"
+ampWebUrl: "https://www.benzinga.com/amp/content/33412487"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33412487"
 type: article
-quality: 0
-heat: 0
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "FrT45K7+DVjTmR2hbv29C7BDAIgHNPw5kIWIgMS+bKIqb7zLq6BkuQEPoe1Kc/by7SbAAIV1fXSHOKqJUhYrfGrYvQf9CsmQ5z362oX4mSX1WpWSOQAthApDyR/1XockRJm2hPbtv8vdvKAd2my1CUKvlekJnicvdYcfdWTDgCLbuls6nLsqlf/HDwX9mGaW4og6rFABVFaybDDnz9EouZcvQNpF8w0jk/04O63ObhC2JLH73DiALpdtQDeZ3XGntk7QyYW88n+hWwJaZCm1LLLqJ4FnHcuctaxt9QQTR1FPE0bI75PR/zNt8KNqBUOF+L9bLmxaAVbkwO4MIn8R0MLDKQfgfSElI0WnRN+YAmo=;QZJdXweEr+HhUEt/qzL4PA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+related:
+  - title: "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud"
+    excerpt: "SAN DIEGO,  (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software and services that combines advanced technology,"
+    publishedDateTime: 2023-07-26T17:45:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854740.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
+
+secured: "rfSAmuN4tbdhCsITCRXLPAIshtqqkGC4jUS/Y8rA7x9uPvo66EfPJgAF3bpT+L4NO9LRgTrkVAUQQCilvtxBBbzPC7BjJbuRioewa+RtgUvftlRRaeTUtyBHp04y/sQ6XN22yFqwEr0IgNxp5dzuGZjnsI65ABtxhF8e1GieiUkUsR3xqWnNsjDOJwRoIFnxGqB0BoAC1cVuI2PszGmRsqxzzyEqk+PIEumpR+96axdW+RgofnUmwsevSLdfdKglGBJaaAxs/J+ig8vNHLMvNpkHlDhAnDGLsVMn8B370bOr/EzL/uByJYlXB/qqaTsDCuWvBItzyxfbTo2oVKiQDPe3NYSKySHv/USnOmIedGo=;aRTHJ9ZWNmyYMmYplzNU6w=="
 ---
 

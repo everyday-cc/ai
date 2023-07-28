@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Adjust and data.ai Find Japan App Usage Surge In 2023, Marking Strong Recovery"
-excerpt: "New Japan Mobile App Trends 2023 report shows in-app spending increased by 13% during the first quarter of the year in Japan, with total 2023"
-publishedDateTime: 2023-07-27T12:50:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/adjust-and-data-ai-find-japan-app-usage-surge-in-2023-marking-strong-recovery-1032484437"
-webUrl: "https://markets.businessinsider.com/news/stocks/adjust-and-data-ai-find-japan-app-usage-surge-in-2023-marking-strong-recovery-1032484437"
+excerpt: "Today, leading measurement and analytics suite Adjust and mobile data analytics provider data.ai released a new report with mobile app trends and critical benchmarks for performance analytics in Japan."
+publishedDateTime: 2023-07-27T14:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855267.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855267.htm"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "qnFOXI4n9OwhK9IJYXKvDbsirm2UpkWxX4xv+Q3c8p5/1p3X/gJKeQCrxJni1SJ8VAHIpFJ0U2uI9wYUL1SUGsoZUb3F0BDFUts4GkqzRgYLbFPL2XgScrRjT9Qx3/F81a3mdHKMVe5Hqu28CH6Ek+GP+rczwRe/firBHvsOguk9cuwuZYmr1/u0S4EUeu/OugfLCnHvw1X1JqpqGwN0fyNdlnOGPwqZhUpBKNqIUah3TN9MbHnyiSb/li2mcQlRIOBhJH4ohhT2xXP9T93C3c0zwVh8s3fFBl3A2hRFfjn7/YGFZYmJ5cz/2FW1OUfTZXBtsdijHLyYOX07xCxd9ThQu4El4z0AcbRtwsTZ1PCePVtbsqG3jJoKEzD/d4kvd/SYQI/g0S5n+0JIW0aUuBdKODkXquuHmu65iuAdyB3SAUllN3QXCb3YzdsRTRRjvespYeHa9xe4mugRCY78Jg/y+FZ0cQvxxdocj6WLPgBwtCTE5ZegZguoTrzjRBJGYrtbtw2quTlYs4d+ZMBkdQ==;fqFi5WHJiq2HcaAnnQKCwQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/2163264/Adjust___Japan_Mobile_App_Trends.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "pRRyWYX7tCQ9yENGz+R1ERAui9WKCpg3l/A8LEt0adSp0y3He/Q+2ETUQjWMXJ5PM69XAaFwKgZvb9Zp3Oiemr8Xa5O0QqFnxEL5BiEKkxpIBrx/rdSb6Tf11XpuXymSTZD0swQRflUOIAUqy/B8+qAzkQ0oekgzMCeSHjY0gaN4Udk+GrvBRty1yW5cJ7UNT79GY/W9N5EHlYtbTc2dP1/fbnvhet6ZqqCBFYJ+apvFCRKi4xsWWgMwxoLWu8Io8IPZ2fc25UFRBAZYt7KxE054dZ0at363O8t3emDlISirid953X4ZrAkO+1zJ2SaTf9Evpl4KlTgXC5OBEodvtQaAD7SiwyiD1GZlNiWVUhA=;EMIGJ+/hQynoyYEJzTz/Ng=="
 ---
 

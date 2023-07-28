@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/jobs-ai-chatgpt-us-hiring-tech-remot
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-ai-chatgpt-us-hiring-tech-remote-location-2023-7?amp"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

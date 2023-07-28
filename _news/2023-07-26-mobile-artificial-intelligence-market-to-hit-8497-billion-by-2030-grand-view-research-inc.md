@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Mobile Artificial Intelligence Market to Hit $84.97 Billion by 2030: Grand View Research, Inc."
-excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by"
-publishedDateTime: 2023-07-26T10:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33386961/mobile-artificial-intelligence-market-to-hit-84-97-billion-by-2030-grand-view-research-inc"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33386961/mobile-artificial-intelligence-market-to-hit-84-97-billion-by-2030-grand-view-research-inc"
-ampWebUrl: "https://www.benzinga.com/amp/content/33386961"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33386961"
+excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by Grand View Research, Inc."
+publishedDateTime: 2023-07-26T11:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/26/9854193.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/26/9854193.htm"
 type: article
-quality: 47
-heat: 47
+quality: 7
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+  - AI
 
 related:
   - title: "Mobile AI market will reach $84.97 billion by 2030"
@@ -41,23 +33,7 @@ related:
         width: 620
         height: 473
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Surges to USD 16.3 Billion by 2027, Driven by a Remarkable CAGR of 47.9%"
-    excerpt: "\"Artificial Intelligence in Manufacturing Market\"The global AI in manufacturing market in terms of revenue was estimated to be worth $2.3 billion in 2022 and is poised to reach $16.3 billion by 2027,"
-    publishedDateTime: 2023-07-26T23:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33406852/artificial-intelligence-in-manufacturing-market-surges-to-usd-16-3-billion-by-2027-driven-by-a-re"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33406852"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33406852"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
-secured: "qtcv7nWQBsH2D/YBcqCjptdhRuYSxmNt22imI8PtVWjFmLFI8zU+gVOnpyZSPBXyTZirEG7FGacbIdZk1K0/obYaYcogA2mhDvc1LWRXlh7FMK9T4QSLJVZNBjGaxVOKAd87UP2RRN8ECnQHZsiEymBIvZbYj9Uc4jqOJ8zbp+pQw6mYaDgKpwbmw3LbuS+8x2ShafYVYtml/fU+0QM8w8VnWGNfwWv0svizEGvTbFC0Bt6XZPOke6XmEIz3VIE3/P1tf00RTOExKlRZYLOSVHzGMctj7JCm3VnpzMQcWdDUDimaddwkPgBMHi3WrQ7wSuzU7WYnqvqy5QhEbIOLk00A2bEhkKPR5NsSvUkFYB4=;lFZL/aa/cM0kfxQymk7pPQ=="
+secured: "FyQwxs8TXiNvP2BeOZPKhutnu1aGRj+PSE3oXqt6CSqhM4ALKFdzm8Qw5dcoaaVYaagvyLF2YH513WKEqyflUEZdg6QGd2hD9tUXrChpN7iNYrJJWH9db9EiY0H7mnOTnkEFeBufHT/j1yDJlVPRQ106lWMWouFjns6XWfuXFn4N6lLeVbEw+ejpgWfcIYgr+EDJEzl6or/vePYpl8BgxR+oWRCxNulraEoCwn7SwyKxGdJ9WpB3jLaxTSX/VobFR5x6MfCdm6zVltiHVw97QfIM/74258zh7XBb2QVaukjBFlYUTvtYydmcgCxcXM34MO1DtPRFuHSg0SScuko1U0Oi593T2evLjXkRcF0rq7Q=;YMQyWQuVUmYg431LHtZa3A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-dev
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/artificial-intqqq.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Artificial intelligence will impact workplaces and cost some workers their jobs"
+    excerpt: "A new report from the McKinsey Global Institute says some will lose their jobs and low-wage workers are the most likely to be hit."
+    publishedDateTime: 2023-07-27T22:40:00Z
+    webUrl: "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/"
+    ampWebUrl: "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 53
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-486107054-e1690492073918.jpg"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
     excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"

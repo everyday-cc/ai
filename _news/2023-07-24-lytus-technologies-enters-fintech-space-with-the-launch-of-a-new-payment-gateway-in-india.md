@@ -127,8 +127,8 @@ related:
         isCached: true
   - title: "From customer profile to improving accuracy, fintech takes to AI"
     excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
-    publishedDateTime: 2023-07-26T07:12:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
+    publishedDateTime: 2023-07-26T12:01:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/India%27s richest"
     type: article
     provider:
       name: Fortune India
@@ -152,20 +152,6 @@ related:
       - url: "https://i.insider.com/5e20993762fa811b4215d2e4?width=700"
         width: 700
         height: 525
-        isCached: true
-  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
-    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
-    publishedDateTime: 2023-07-23T06:58:00Z
-    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 32
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
-        width: 1280
-        height: 661
         isCached: true
   - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."

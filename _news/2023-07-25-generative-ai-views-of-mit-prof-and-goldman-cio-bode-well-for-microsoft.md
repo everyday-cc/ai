@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 648
+heat: 658
 published: true
 
 provider:
@@ -176,6 +176,20 @@ related:
       - url: "https://www.reuters.com/resizer/f21U5LqpEcGxuv-wMjJHq0GdpIw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XJKGLP3IJBOCDPPD7XALAXBS6Q.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Box extends AI efforts with Microsoft 365 Copilot integration"
+    excerpt: "The integration expands Box's efforts to use generative AI to help enterprises better understand the value of their content"
+    publishedDateTime: 2023-07-27T22:00:00Z
+    webUrl: "https://venturebeat.com/ai/box-extends-ai-efforts-with-microsoft-365-copilot-integration/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/box-social.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft and Alphabet’s results indicate the AI game is more of a long-term strategy"
     excerpt: "Alphabet and Microsoft's results clearly indicate that the costs are high if you want to stay on the leaderboard in the modern AI arena."

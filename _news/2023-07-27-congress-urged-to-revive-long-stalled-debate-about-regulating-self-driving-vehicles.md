@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks."
-publishedDateTime: 2023-07-26T23:22:00Z
-originalUrl: "https://apnews.com/article/autonomous-vehicles-self-driving-cars-avs-f1cef9b9595a4bd87287670eaa1694d6"
-webUrl: "https://apnews.com/article/autonomous-vehicles-self-driving-cars-avs-f1cef9b9595a4bd87287670eaa1694d6"
+excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
+publishedDateTime: 2023-07-26T21:26:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683779"
+webUrl: "https://abcnews.go.com/Technology/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683779"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683779"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683779"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://dims.apnews.com/dims4/default/4a9aae0/2147483647/strip/true/crop/4290x2413+0+386/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2F4c%2Fc8159ca8d95f2b82bc46404a20be%2F5354bed70d724525af5a30c9da7e3f3f"
-    width: 1440
-    height: 810
+  - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 438
         isCached: true
 
-secured: "R9y8HUA6Q5NJyNOmDwR9JLT1W7FC+2HcTFt3OEpmSMFF2MMgziJ7H3HQnv0DN2SA4PlGbLmxlLP8oyySrJxL89sOWZvUPAsdN1W7bjUuXsE6KBVbxvkvGWhJ7QSXvXSbX3FjzQPufbHKFIex6f83/HrRd+YyRTr0uSXGzN6qgBJB0lHy1kxYgOtSWN6Mgp7EFhAfCsK1ScIVFFtbIvVrhX/Q756Sd6s/DhnWNH4VLsYGgWFbwfujoyz7waFgwLbMu7g4yZDxdiSRynJbx64RF315YVp8xYzsf33qHkaYzcr1NAjL29DDLWwLRq0EJyZKcjkOdIdTWdT/Rp3Kn2MM/0tNrudUb+V+GtVt2OOD0Q0=;v1PUkH09ieu/PVBotfPwLw=="
+secured: "dQSxJ9KpxImPhRaGW29JjiN6oaIOFXzxrv5mK2zt3xx0W3NA/YNQu2ZIoUSRma65/J4h0kIXYtxcM5ukAknKOl28K5qKGq8dKAEUacVxMuPbfju8W0L+1XgRMUPfLwLAoJaQEp/Od8m+6v1e7G6mD8zawFU4j1WOcFeA1R0kboHih7Axw7z7ASEv+14o9Fk4MlvnAHmMzxps9yr37lC2HEna3HCEvCsg6cUXw51/Fvym2ueLWGakbFaeNke5Qp1qZtEcjAWNW90pJyFSA1pHHd4NwOEnpxH1hxPFJR7A/W/66fMdZIGxJd50YXRUnTU+btdU6Ue3W1VcUlL/NQH2a7RVo7yn5xbLkqTT/HCS9cQ=;gIdfa6lMallnE1vgawSa9g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-e
 webUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/"
 type: article
 quality: 67
-heat: 89
+heat: 87
 published: true
 
 provider:

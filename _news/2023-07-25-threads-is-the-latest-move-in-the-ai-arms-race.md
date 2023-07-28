@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta (META.O) is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-23T05:31:00Z
-    webUrl: "https://cyprus-mail.com/2023/07/23/meta-opens-ai-model-to-commercial-use-throwing-nascent-market-into-flux/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 40
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2023/07/meta-1.jpg"
-        width: 1275
-        height: 889
-        isCached: true
 
 secured: "CTenDMve80FMPEF/Yw4gAG8kfD1p3xStD0zHJMNgjV2CLTmMgRBv9BTTCdOAE355VEH/Cl9Q5Vz6kTnaAKXPJx6kZSN++BeJNisemDjbeOJa5hVIjj05a7n2oJ8BNNKL0ts+iqqra2t6my4QRpqVtqUWoSImP8RIeS+CFU4s5esIACAA2wgIepuqkdEI6aBp/ho00VSnHsQTERkU9gG96UbdoCN+l/Cl9LeqpQVrir3AIbJtZhTZKqxRSyi5jXfgt+/bJ+4dBv08+bN7e5g56zQ4ZNzVZxD1mKI8AaXsHzwB1V4ICPg6wbuwOmujh+HRK77mfC4ztUi8+WfXqw4QX/lIknxWeRseVKYMBYS7yXLAtlccB2pjvPgk79JiEbZcgu3Os1U0rHLpmqpCBhmFi308Eoqy7mSacw+pUp0OThBS/L+3402xEvzil9riMy6kQT21lCGAuY1q/CYlQPCA7mVOtOdKXGUGbl3GyprJEkgnWgRL5Uyc3Ar4vMSMkOCVkWHfEGAMZ73yVeGz1N2e2A==;DR/Hg7BhQYl3mA7RsB6nrA=="
 ---

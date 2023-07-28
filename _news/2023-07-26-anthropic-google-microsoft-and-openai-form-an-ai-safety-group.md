@@ -183,6 +183,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Box extends AI efforts with Microsoft 365 Copilot integration"
+    excerpt: "The integration expands Box's efforts to use generative AI to help enterprises better understand the value of their content"
+    publishedDateTime: 2023-07-27T22:00:00Z
+    webUrl: "https://venturebeat.com/ai/box-extends-ai-efforts-with-microsoft-365-copilot-integration/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/box-social.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft and Alphabet’s results indicate the AI game is more of a long-term strategy"
     excerpt: "Alphabet and Microsoft's results clearly indicate that the costs are high if you want to stay on the leaderboard in the modern AI arena."
     publishedDateTime: 2023-07-26T16:40:00Z

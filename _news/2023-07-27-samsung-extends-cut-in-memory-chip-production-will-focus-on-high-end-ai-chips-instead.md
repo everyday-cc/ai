@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 118
 published: true
 
 provider:

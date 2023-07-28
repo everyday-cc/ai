@@ -33,20 +33,6 @@ related:
         width: 1080
         height: 630
         isCached: true
-  - title: "Stability AI levels up image generation with new Stable Diffusion base model for better image composition"
-    excerpt: "Stability AI introduced innovations into the new Stable Diffusion model, SDXL 1.0, that make fine-tuning easier and improve composition."
-    publishedDateTime: 2023-07-26T16:30:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-levels-up-image-generation-launch-new-stable-diffusion-base-model/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 52
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/stable-diffusion-sdxl.jpg?w=1200&strip=all"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
     excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
     publishedDateTime: 2023-07-27T13:00:00Z
