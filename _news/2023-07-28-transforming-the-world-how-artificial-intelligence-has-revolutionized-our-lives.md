@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-28T16:31:00Z
 originalUrl: "https://www.tech-critter.com/transforming-the-world-how-artificial-intelligence-has-revolutionized-our-lives/"
 webUrl: "https://www.tech-critter.com/transforming-the-world-how-artificial-intelligence-has-revolutionized-our-lives/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://secure.gravatar.com/avatar/cfac215c599f8f3ec6ae2564a97d0677?s=300&d=mm&r=g"

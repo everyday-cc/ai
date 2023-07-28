@@ -94,6 +94,15 @@ related:
       name: The Irish Times
       domain: irishtimes.com
     quality: 34
+  - title: "Ryanair accused of violating customers’ rights with facial recognition"
+    excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
+    publishedDateTime: 2023-07-28T12:37:00Z
+    webUrl: "https://metro.co.uk/2023/07/28/ryanair-sued-for-violating-customer-privacy-with-facial-recognition-19209515/?ico=tag-post-strip_item_3_news"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 34
 
 secured: "o2kO4Z0aSFDlmPG2PgAOwIDPNdCAeyZmsi+zSl6wDOVM63r3iYRpU1Jdd6cN51M7J7MUFj4ugpnFyCzZtUTq68AYmBfmrwYNE2qAoFjNwidwQwhy+jecSD/ewhPrrE7VhnMb+SBgsx+S/HAbW7AvDSgeb+n2yOfTkeeEtE8jJ0CiMIlVcwt8Vlq6z1Ei/5iexJJsR2Ap+rKnjGKuDSEl99NxRQB+L1BVKypURlytP/CV5aBZ0hok6GlpV4qfULqeAgRJ31CPjkIhCF2UTnaPtX2DW/OWzHSycp5WQhY5ldKAeUtc2DTRYKznOIze5rLPJQeGi00bFjuUrAozHRiOxQFRvJhizfRu1PKJQdG4qWTu8uAVcyZc3jPqAmTD9i6pSkQaZFwxpMvtKjzmHu9v9oVIn5WbpwIEdI+uEONOJl04r130i2J2rF4OnJVI/R3Yx3afwee9Vp4ZUN22A2eadrbBjBjZgbvsvFoS7r8jZh0YEeTm+pGj9QSiGILdLpQZM82NA4EHWTOklChiTp+ZlA==;8gOJJyYna4Y4gEmjzr+f3g=="
 ---

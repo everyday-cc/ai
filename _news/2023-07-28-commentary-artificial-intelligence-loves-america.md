@@ -47,20 +47,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
-    excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
-    publishedDateTime: 2023-07-26T15:51:00Z
-    webUrl: "https://www.pastemagazine.com/drink/whiskey/american-single-malt-definition-official-barrels-char-ttb-virginia-distillery-co"
-    type: article
-    provider:
-      name: Paste
-      domain: pastemagazine.com
-    quality: 24
-    images:
-      - url: "https://image-pastemagazine-com-public-bucket.storage.googleapis.com/wp-content/uploads/2023/07/25133636/american-single-malt-lineup-main.jpg"
-        width: 676
-        height: 380
-        isCached: true
 
 secured: "ypfXQoF055iBz/gi5sYC0Bnh0Lzos9PA40EOWqwWnTGIfp3HerzN+qIcPPVtH4seajnNOqtjj+STiLOqiNcl/lLHa46rZmoYDDJF71Z46STKswkRzDTCwQZr6NwsK8vHyV5/+jkvwqe/cBoSt+ZFWXeN+BN6LRkH0D9YP1syJqGqzeSnmoDviseoc7aCy3Gg8p9h8xWrCFREu3Cbg3kVshmaztPtX2LoRvFwS7BDw+NZF80u+5xzIGf8dqnsaIFtwMjAPtYcxmO+rYRpE5UeAM+crZYn7kB73Ld23qs2ZDr7XyiaF7pVtXJin74mw+a5aXKv4V8bDhovXUh3tvanMk1axI+1DM2NZ5sF11MSVREPEANCJFrtqUwjly+iaRtGY09NLzpvyOqsDbnhDPVw09R65vHPsqSao7eAnwhQZgiLk9BeVDRa7oKZTldncNWWmW38LqI2HkhgVCZFsQxPGLxr80wrRO9pkVGPKcplXhX9IhcBoPo/DkuftGW071vDqWoPrjTlHUYmNU/kMzxY0A==;x6b2kbHkMbGVEGjHBmT9cA=="
 ---

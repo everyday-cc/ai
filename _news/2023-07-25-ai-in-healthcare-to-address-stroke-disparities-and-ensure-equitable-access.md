@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare leaders urge caution on AI"
+    excerpt: "Healthcare leaders are urging caution when using emerging AI technologies such as generative AI and large language models, as they could lead to inaccurate info"
+    publishedDateTime: 2023-07-28T19:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-urge-caution-on-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Hands-on experience can help healthcare workers appreciate AI more: Report"
     excerpt: "As artificial intelligence (AI) increasingly finds its way into healthcare, physicians can recognise the true value of its advantages in clinical practice more prominently after successful implementation and regular usage in their day-to-day work,"
     publishedDateTime: 2023-07-27T11:56:00Z

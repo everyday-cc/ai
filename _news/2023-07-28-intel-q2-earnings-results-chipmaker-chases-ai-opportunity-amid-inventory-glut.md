@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Intel earnings turns surprise Q2 profit with $12.9B in revenue as AI drives growth"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Intel reported that its second-quarter revenues and profits were above expectations,"
-    publishedDateTime: 2023-07-27T20:21:00Z
-    webUrl: "https://venturebeat.com/games/intel-earnings-turns-surprise-q2-profit-with-12-9b-in-revenue-as-ai-drives-growth/"
+  - title: "Here's why this AI chipmaker continues to outflank the competition"
+    excerpt: "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat."
+    publishedDateTime: 2023-07-28T17:27:00Z
+    webUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/cto-7.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
+      name: CNBC
+      domain: cnbc.com
+    quality: 64
+  - title: "Taiwan chipmaker UMC sees 'uncertain' demand, gearing up for AI"
+    excerpt: "Taiwanese chipmaker United Microelectronics Corp (UMC) said on Wednesday that it sees \"uncertain\" demand in the third quarter but stuck to its 2023 capital spending plans as its gears up to meet customer demand for artificial intelligence (AI)."
+    publishedDateTime: 2023-07-26T13:35:00Z
+    webUrl: "https://www.aol.com/news/taiwan-chipmaker-umc-sees-uncertain-103503770.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
 
 secured: "EBxDGyaZoM6Lde/yffozHnLbbQf8NlW0iN0XOW5hqy4H5Jxy7x7XzYhZthQvE+lpu92rvhw5BC+JCR0rA8h+c0wIT7q3mjU0A9hIxo+HzJ5y/KfYULlfak1UNrXPbYRyKJKvSQ9Sh4kQ85VprB6PHGiQJuo2zKFAtvrHO9tG9uykF4CqDZI2DG3XGOVyyHqoFA+jS8/3n01OGBtLV9UTTcPwFxLgHIs5K1admHXO5qjzAPzllbDuww/D4q3QneDjYTejWkFvt1iW3gr6XOlPnO8gr43giqbQCIdV2rg1xGPkjzUGuz3krDBS3a+fpjmIIzHgOKDZ1ForhmCooP6k4YSuulnOTk1iEdA7+B+b8vg=;5+VNxw2YBf4R+f20k1RMpQ=="
 ---

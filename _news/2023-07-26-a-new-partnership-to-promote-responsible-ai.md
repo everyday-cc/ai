@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/public-policy/google-micros
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/0f75266d8693db9e798b8305c35556dca21fefa5/hub/2023/07/26/df575deb-f8b6-4020-9a56-597958e9c85b/gettyimages-1247212585-google-open-ai-microsoft.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OpenAI, Microsoft, Google, Anthropic Launch Frontier Model Forum to Promote Safe AI"
+    excerpt: "The forum's goal is to establish \"guardrails\" to mitigate the risk of AI. Learn about the group's four core objectives, as well as the criteria for membership."
+    publishedDateTime: 2023-07-28T21:28:00Z
+    webUrl: "https://www.techrepublic.com/article/openai-frontier-model-forum-news/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 80
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
+        width: 1400
+        height: 719
         isCached: true
   - title: "Google, Microsoft, OpenAI and startup form body to regulate AI development"
     excerpt: "Tech companies say Frontier Model Forum will focus on ‘safe and responsible’ creation of new models"

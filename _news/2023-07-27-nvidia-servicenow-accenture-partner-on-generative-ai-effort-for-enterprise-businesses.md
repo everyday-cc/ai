@@ -41,6 +41,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
+    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
+    publishedDateTime: 2023-07-28T19:46:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
 
 secured: "Zs0pYwmY98oyiLeGm0F0SnQGFtEVgT2u/fm5kUCj5Rl0JarqiZtMrQimVmFVutAJm8iKWE9PSO0LcuGNWSzOtAWaIgywYzVGdGH7pg9MSxL1vDqkpeTME96nFY9RTKSOhLlhmEjcvjLDdu5JTb2cezdBix5mhURkAkk8upLLShk8Q0XD/SBPOLYWs8/pmUq641oBy/TTHqg54CYv+/x/E5MErVUE2qu8lTzih5zIIsINe8vpB997ZerZoyoypNTmcyVwbkXGeH5URdPX2y+gzhHTiZ1SqYOHRqwzUT6va5rqssjAmMDBxuV9npeS1FPafLelO7y9x0Zpnz4gReTvxCSQ/Vl9Pxxu6+Sbdps3PwyLO0EoPWvomH5Bom5PTaXpKtvUY7uh6SBJailqAsw6qYzRlCofDk1G2FKyfJofdkjEZXRL/mcq8d2FBPogGDLLURrWjZ/Sh/112Snjv72DCVSqqCIkbqQ1IKYR5YykvYSuBODb5Q0F8Xa+LeQpPCQ16f7dZ2AEJdZBMcCRGwsYjw==;sw03g/4rKGQVISoBaujxGQ=="
 ---

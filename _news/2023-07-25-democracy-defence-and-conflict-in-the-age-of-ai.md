@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Strike the right balance for the regulation of AI"
-    excerpt: "Trai has recommended a statutory body for India even as moves are made elsewhere to keep AI risks under human control. We must ensure our regulatory efforts don’t stifle innovation"
-    publishedDateTime: 2023-07-24T02:46:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai-11690125158611.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai/amp-11690125158611.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai/amp-11690125158611.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/23/600x338/oped1-kC7G--621x414LiveMint_1690125313086_1690125313224.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
     excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
     publishedDateTime: 2023-07-28T09:00:00Z
@@ -158,6 +142,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-27T172014.074.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Can AI deliver therapy? U of T PhD candidate examines the pros and cons"
+    excerpt: "Katz is in the early stages of her doctoral research that examines the pros and cons of AI-facilitated psychotherapy, specifically AI-delivered therapy that doesn’t involve a clinician at any point."
+    publishedDateTime: 2023-07-28T20:38:00Z
+    webUrl: "https://www.utoronto.ca/news/phd-candidate-rachel-katz-examines-pros-and-cons-ai-therapy"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 56
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/2023-07/GettyImages-1291606290-crop.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Threads Is the Latest Move in the AI Arms Race"
     excerpt: "Mark Zuckerberg's choice to launch Meta's Threads app stands in stark contrast to Elon Musk’s recent moves to charge for data from X."

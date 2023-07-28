@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Twitter Changing to X and It Will Be AI Powered Interactivity"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2023-07-24T01:35:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/07/twitter-changing-to-x-and-it-will-be-ai-powered-interactivity.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 39
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/elonX.jpeg"
-        width: 1000
-        height: 1500
-        isCached: true
   - title: "AI-powered travel assistant touted as most powerful ever"
     excerpt: "Travel technology company Mondee has rolled out a new artificial intelligence-powered planning assistant named Abhi, which the firm says is the most powerful in the industry. The Austin, Texas-based company introduced Abhi this week in conjunction with the one-year anniversary of the firm going public on Nasdaq and says the new tool's ability to generate a fully bookable travel itinerary within the Mondee Marketplace is revolutionary."
     publishedDateTime: 2023-07-25T01:46:00Z

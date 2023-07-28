@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-c
 webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
     provider:
       name: The Irish Times
       domain: irishtimes.com
+    quality: 34
+  - title: "Ryanair accused of violating customers’ rights with facial recognition"
+    excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
+    publishedDateTime: 2023-07-28T12:37:00Z
+    webUrl: "https://metro.co.uk/2023/07/28/ryanair-sued-for-violating-customer-privacy-with-facial-recognition-19209515/?ico=tag-post-strip_item_3_news"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
     quality: 34
 
 secured: "Z0oZ6Ed0Q9IxNfdP1w/sCTroLAqQh6SfSfkOuWWJ1o3pWs9LKoby48KbINqCM1gSz9g++AVJkCSelpq2JnpsORNK+B1cJvjCle6h/P/P9oUmdGKcWq+yGTe+yoy+WuCchUMckPYa/GjbLplB9JGOYKx85EvVQiJ7o694Lk6WXxsKnpO+iTm+In1ah41et6yD5DG/lVTMm3Pbo5mDYUDI/2P58QwsvdahQ2ZscOaBWOI3kemTtF9s5P55PZjHSbNYW4zFJibfFl3GHN9pqRipN/AwwwbQcwCC0ZWe5DsITRhIuJfZzG+75eLLHwfpjfQZ8JHL5pcvMVMs7pYYy9yCqJ2Mv7f1qrKVjAAZdS2EHTnLQ2Em+zpkBAYP+dlBAiDloRFRVhiCSSz4lo+2BNi54JIpkBkLepuaBSsiCWCRGvM5jvnHU0rLDf7OIJyW8vyLzbmsn4ASXshc8UHu8Ywz9ogkTb8Zo+XIYUs4CqvaDntA/llSKT15WdaIeAIYgHBDc69rDhI1g6mBoM9q3DliOQ==;0zC44mJsYiGjnxPXqQG9rQ=="

@@ -111,6 +111,20 @@ related:
       name: Neowin
       domain: neowin.net
     quality: 41
+  - title: "Alphabet's Waymo unit slows self-driving trucking"
+    excerpt: "Waymo, the self-driving unit owned by Alphabet Inc., is slowing the development of autonomous trucking that's being done by its Via subsidiary."
+    publishedDateTime: 2023-07-28T21:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/alphabets-waymo-unit-slows-self-driving-trucking"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/WAYMO_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/aKOml6uAJwworlnLvAirmMBuShMPfqaEsUU599pNfYS5XQvjYBPl5N9qvk1IAYtwVouHJef+6yKsXHpmXLVt7gpmSxgOb+HgyHB1x0KvfWZPtowPS0x4LdiEjG/GZ672vu1hL9qeADK7i9eBH+GqREWGyOI4xKnNaEUQXaSHW1FCuJpJqy8kDdPrsPXSkP2nhhrKb4WDLrK5WKSpmiTj7Lwp4Z2rYdW8RK2Ietb2W3W5P7s0CE0qC5kA4V49K4x328AFeKG++HbPohZiLeup25hWnyqDz4mQua3vR++oUFovW03qrEu+HH0vjWKeSAxVIRQ6HevYgS38fYesMcSbkcFRABsWyUZi9sQZ1CFIoNwkSjUIacMz2sg0RK2PAYHvlDyXR2PcY3Mq/NqBAgXa/zIWNMu4E6gJcocfIzZ5X8Kuic+0RPnMSvmqvzOTQn7MxVynCnCdKexThjqVaC/ZIInk9YPiwOmwcHQuoIWLu7aGzqhFeyNB4tLANGkaitcJY+n5B/HwmW1TLMLmbe7VA==;AoidnOhN1ZK3PH3M2GIpLA=="
 ---

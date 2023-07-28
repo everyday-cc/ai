@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board"
+    excerpt: "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean"
+    publishedDateTime: 2023-07-28T17:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/0Qs0EITqVZabcNzobJLcG7NxPF53/1690518197013-0.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Money20/20: The intersection of generative AI and blockchain"
     excerpt: "We get the thoughts of Worldpay from FIS Head of Crypto/Web3, Nabil Manji, on the intersection on the intersection of generative AI and blockchain"
     publishedDateTime: 2023-07-25T16:04:00Z

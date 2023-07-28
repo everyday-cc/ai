@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
         width: 1500
         height: 800
+        isCached: true
+  - title: "Biden considering executive order to limit sales of artificial intelligence and semiconductors to China"
+    excerpt: "President Joe Biden is reportedly planning to sign an executive order limiting United States investments in key technologies in China, a further escalation in the antagonism between the two countries over semiconductor chips and other advanced tech."
+    publishedDateTime: 2023-07-28T21:46:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/biden-considering-executive-order-to-limit-sales-of-artificial-intelligence-and-semiconductors-to-china"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 38
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/9ebe762/2147483647/strip/true/crop/2277x1196+4+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fc5%2Fe3%2F2c2cec8146cc9503ae35aac2c9a6%2Fap-19101778924939.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "P3t1pvbVPXJhEFZcn3yRB7eaYwjw0kuXzeCTQatdS845St5dlTrhU/b/U7Jwpl2HkSsf+euHrzIjCPmuYLRXI5iHLYT66E9PZpPOF5Hgs3wIci2nUs6wTyymcuZrZxT6ruHbs8H7ecp+WoZbMV6jcMaumVvxcc4TGG3aJ1GVoOkJIEnJG/qIbFVbRgc9e7pTpjHA/W16qYzAGg+2Q/rMT80VxPCiKSa57tVtNcnGraom8PeFlUb8Q0yhdIq0JquUpPbbPx7wmd/+2MQ7MEwLKElj+22vPJWM4JjVdJWe/pvOVQSmeuVRAukVs4wl5aLBREnhEhTaOHwlwIDUTTIiKYwxgFiAFhUDz7aA/+MakI8=;XlajmRN0zRXnamIs1Plvlw=="

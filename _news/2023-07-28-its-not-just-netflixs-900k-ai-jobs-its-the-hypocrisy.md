@@ -38,6 +38,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Netflix criticized for posting AI jobs paying up to $900,000 while writers and actors are on strike"
+    excerpt: "Amazon, Disney and Sony are also posting several AI-related positions paying six-figure salaries, even as the Writers Guild of America strike continues"
+    publishedDateTime: 2023-07-28T15:41:00Z
+    webUrl: "https://www.marketwatch.com/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://images.mktw.net/im-811932/horizontal"
+        width: 1320
+        height: 742
+        isCached: true
   - title: "Disney, Netflix go on AI hiring sprees as strikes drag on"
     excerpt: "As the Writers Guild and SAG-AFTRA strikes drag on — and with the use of AI being a big point of contention in negotiations — major entertainment companies appears to be hiring for jobs in the AI realm. The Hollywood Reporter searched searched through job listings and found a number of open positions related to AI."
     publishedDateTime: 2023-07-27T17:35:00Z
@@ -69,22 +85,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cbc248a4-d4d7-41a4-bfff-50b03c3832c7/e26698d2-8572-4452-9f46-3c179b7ba31c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
-    excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
-    publishedDateTime: 2023-07-24T04:59:00Z
-    webUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html"
-    ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 57
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg"
-        width: 640
-        height: 362
         isCached: true
   - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
     excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"

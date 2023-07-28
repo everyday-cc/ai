@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-28T16:21:00Z
 originalUrl: "https://siliconangle.com/2023/07/28/google-unveils-rt-2-ai-language-model-telling-robots/"
 webUrl: "https://siliconangle.com/2023/07/28/google-unveils-rt-2-ai-language-model-telling-robots/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/64c28b81ad5efcad99aca86f_rt2_header-min-p-2000.png"
@@ -118,6 +119,6 @@ related:
       domain: unite.ai
     quality: 34
 
-secured: "a0R8xSByHRrd+MARzqWNLRevICa/dVJkfR9A/cNLFLJnXfROCwElHU0RgUNG366u1T0yHWGKQ2y+oETJaEoG4A6bvjEVZD/onnSLth5EblEemoonNPl/btfxglkhbg1qwXZz1nguyV42UWKiLohh9cnCQNwKIh1qVvh+uzay7a+9Z7nFsRroI6I7jCLDBYjy0kovNvUXUq2EvCpnIewn507PPliQjgDJs02S4AzNuEeX18P7Vfm2R5VHBDVUz9J1COrZpP0TYQS2gm+5Uf6OIgBcIoFWLHKiGoIfHSoMFfIc5D68I2z078tbse19d74OjwOm3S79gfidWJl7U4cBmaD0F4X88e93f9/JlD3+zSk=;1KW0sjwBrdsgS8NeO73J6g=="
+secured: "eN2ASaYbGGY7iB81HTCXofEp71gZD/feZJQsyQCw/oubftS3ONXw9ZP4B61I4OgXjQxhcvL96ulOO53fUUaYvw1M2QfIy5uzP4EVZ3b/JGGARFv2FLuehTxlLqAXJopToGZubW7s5OcBfSPUb4sji6ejyJiMVQPCoZanfhbblPevtQxXbhIwqd/tuIALRgQ7C3xktoNz/2ohiXDB4tRFUsUho8GXDKnx1CBp/AkCAs84bpjAsa1+eHpRMk+uyAkSGaAIyY1i6JEpsJ0IQ49jAYo8BRhkbbxxrogVsq3XnYiaKdhDHNgVmqNBZt6Fu5P0Fuzf31ZixY+/Ll3BBp6pF+27w/KZZWROCRPfFsChx4wYTiV965rnLsYhqH538drSXomjjvaEDUCssnDw1Tcc7Xj8C9c9aVxJBi5FTVDhKxWAwYFa8Cn1r5O2FCyM9HKorTq+e77SZkjU/O9Nxq8bTrO6vo8g88bb1R+l7k6SgS3/Ol0PAQeTTZ8vp3U03xwB5mccN2UXJAlQmoNmv6w23g==;7Le9mqkPFy9ZxjqZhtR7OQ=="
 ---
 

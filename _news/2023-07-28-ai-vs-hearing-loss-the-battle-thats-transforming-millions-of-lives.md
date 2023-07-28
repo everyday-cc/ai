@@ -54,7 +54,7 @@ related:
     provider:
       name: tech-critter.com
       domain: tech-critter.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://secure.gravatar.com/avatar/cfac215c599f8f3ec6ae2564a97d0677?s=300&d=mm&r=g"
         width: 300

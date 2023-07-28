@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/japans-advantest-sees-ai-drivin
 webUrl: "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:

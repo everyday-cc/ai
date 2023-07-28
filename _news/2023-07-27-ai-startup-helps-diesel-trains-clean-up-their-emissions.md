@@ -40,29 +40,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "An AI start-up is helping North American diesel trains clean up their act"
-    excerpt: "Transportation is responsible for one-quarter of the world's greenhouse gas emissions. A Canadian start-up wants to lessen that impact."
-    publishedDateTime: 2023-07-27T15:52:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/07/27/an-ai-start-up-is-helping-north-american-diesel-trains-clean-up-their-act/70477441007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/07/27/PDTN/70477424007-trainsbgba-28-b-57-e-2-c-9011-ee-8-b-037-d-5-f-55188800.jpg?auto=webp&crop=3997,2258,x0,y213&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "AI Startup Aims to Help North American Rail Cut Diesel Use"
-    excerpt: "Transportation is responsible for one quarter of the world’s greenhouse gas emissions. While companies have touted electric vehicles and sustainable aviation fuel as ways to cut emissions from air and road travel,"
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ai-startup-aims-to-help-north-american-rail-cut-diesel-use"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 17
 
 secured: "R0JohMQ41b9elb5IjANSyMNh2w6yaWWnDyA5QEo+W7aybWM+7OZU+BjdQ50H1TRpBnKNozJHWdw03gyUJ60nUIvLbrITiNiM+iF8d0zHIS/q+643LI42OP7kv3WzOl1pzuorxxaqPyjqxNjI1DoSYT73+AL5R035hdlQ2wR+LMyA5NDOUtf/lrF37rX3F2f1r0wFK3hl2cCcZbRGNZFRXpgaaSxUOrsJ6sfSurfG/6GtawLFiGJ+DwfL5l2EcdFhzOgZHgV4V64C0SOBMHe/o0fS4vkY0wPP/6Q/wM6soN6dluUbK/m2Dqxnw4TW5pXI/sRqnixnWvmgTe9sXl4pagcyyb2KhwrTu7tW5VMBR06/SFJqXCvuoMhYaJAeqeeYOEFrwww78ir7sz90IP2EAZyOYM/1Rxsjnla65sc9fEbGqv/MGICcylssRsaXBDtdkXL0duOHrejcfH1EKogRqugWllkZYQ/7TJ741ZB5nLSNxBxABeDFqGoeGFHAhKZTqj60ujsh8uxidz1V/Fg2HA==;2mK9/jrT4HcPHb/N5K2j/A=="
 ---

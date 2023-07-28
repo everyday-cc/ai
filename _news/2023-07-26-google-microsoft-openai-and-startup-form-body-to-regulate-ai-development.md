@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI, Microsoft, Google, Anthropic Launch Frontier Model Forum to Promote Safe AI"
+    excerpt: "The forum's goal is to establish \"guardrails\" to mitigate the risk of AI. Learn about the group's four core objectives, as well as the criteria for membership."
+    publishedDateTime: 2023-07-28T21:28:00Z
+    webUrl: "https://www.techrepublic.com/article/openai-frontier-model-forum-news/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 80
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
+        width: 1400
+        height: 719
+        isCached: true
   - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
     excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"
     publishedDateTime: 2023-07-24T10:30:00Z

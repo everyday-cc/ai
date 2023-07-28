@@ -44,20 +44,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 44
-  - title: "Twitter Changing to X and It Will Be AI Powered Interactivity"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2023-07-24T01:35:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/07/twitter-changing-to-x-and-it-will-be-ai-powered-interactivity.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 39
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/elonX.jpeg"
-        width: 1000
-        height: 1500
-        isCached: true
 
 secured: "neFQgXOKXJtauYiZRZ4fDljp49n9jptnGytbpuAi0dcJcV1+2WCM1ltJkCMqVSoJHRbtO+kT+gZ4mQ8m/Z3Q3NEBNY6zauujOeq4eVdfd80D/4g2Z9WtTaYRyq9TzSb3lKf63dXUvyy5hKTQKWBvztRO4oaeFvdDQgPyYLFEzXOeDfXv0ljYlAVPvPN3UQUfgEWMn+8DuKzWQpV0jgbKYq93Bv/6ZBi9p1Fo454cBnAKduI36fy0xcTi+lFbaaL5gpyQcphCSBEnagRiRn22RrrrhxjqgK3QE4hHHOB1SEgfwfOE62NxGuJdjWvzs8rWRDYZ7rk0MWDqmqUVRkBZtcLg9wVHjsB1FIiZXWFA+cM7c6TmLCs+gs505ebAUy3vRZVxdMcLyKz40wdaTKCVLCXcxeCES9Yt20Ioivng1t/dEFW6+DbIWKrsuFLtH+k54qOi4VivxnJipEDakHUqZQqMeLbeDw/0JkSH19Bzu7YNB0I89zJ6mztjIIPnBzbPBHM4v0TciPnif6Y8uGS6Zw==;Wf1jQ87NtNg+3F5XezKbiQ=="
 ---

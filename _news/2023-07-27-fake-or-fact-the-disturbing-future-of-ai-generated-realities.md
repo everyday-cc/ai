@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 672
     isCached: true
+
+related:
+  - title: "Protecting the Future of the Electric Grid with Artificial Intelligence"
+    excerpt: "As the DOE urges grantees to incorporate advanced technology into grid operation, more and more power utilities will look to solutions that employ artificial intelligence"
+    publishedDateTime: 2023-07-28T19:46:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21270344/protecting-the-future-of-the-electric-grid-with-artificial-intelligence"
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 17
 
 secured: "J/RoaJKkIk4WO359rWrZHb8dQ2o27fKJNdvFgD/3k+9TfqIb11kAJ3nJZMlZ+dMJJLePGce1AhBRh6W7fzxZqluk5/O1yYIMebozF197DaEcRAjbM/jmWP//stdnYmJwsS3AB/bMQ7n9t6BoFHXeCoKhMe3tJPfSaCIqVL0IT/Lw8KSpMpN53Xvo6g4UQ59/QnlQcF/r/A5Gac4+eHNjIrH/2H7CPYNRzV1h+a8ymbLWQ8VcHvEqo5pChIqDcJcppo7uYA/DrFNdbWD9YURQ7Ed1o9t3nC8oN3ZQI4EMyooQJDsmBkX0q186ufxDHlGBoXHwBjavwktpd4LLWzvxWH7EccEbHKImeLm5SMQkRq1t3fxX/DBhnAHLwJD/hEOBEXPQFuuaWCacF1poVuA9ATII29h1YwjCc3GTxY921x8MWns4A2Txz8rOTs31/wNzj99Pfn4+JL29ZT7j506Fre+KBUFi7TV4k/PZQpD5qvkvEgX3dhyTYuOMY6IKAgYPnPMkUH/cmk2Yj3CyvDMI/A==;MLxJh73KF97v6vb7JhwRzg=="
 ---

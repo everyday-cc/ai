@@ -9,8 +9,8 @@ ampWebUrl: "https://financialpost.com/transportation/rail/montreal-ai-startup-ra
 cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/transportation/rail/montreal-ai-startup-railvision-diesel-trains-clean/wcm/17e3d882-3806-43db-9708-aff584015d46/amp/"
 type: article
 quality: 55
-heat: 85
-published: true
+heat: 65
+published: false
 
 provider:
   name: Financial Post
@@ -40,29 +40,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "An AI start-up is helping North American diesel trains clean up their act"
-    excerpt: "Transportation is responsible for one-quarter of the world's greenhouse gas emissions. A Canadian start-up wants to lessen that impact."
-    publishedDateTime: 2023-07-27T15:52:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/07/27/an-ai-start-up-is-helping-north-american-diesel-trains-clean-up-their-act/70477441007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/07/27/PDTN/70477424007-trainsbgba-28-b-57-e-2-c-9011-ee-8-b-037-d-5-f-55188800.jpg?auto=webp&crop=3997,2258,x0,y213&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "AI Startup Aims to Help North American Rail Cut Diesel Use"
-    excerpt: "Transportation is responsible for one quarter of the world’s greenhouse gas emissions. While companies have touted electric vehicles and sustainable aviation fuel as ways to cut emissions from air and road travel,"
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ai-startup-aims-to-help-north-american-rail-cut-diesel-use"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 17
 
 secured: "DBnnRt4CO3QoAJNiRgN31IYB+5a5AK8oLy5NxTPXDG3DL4k/wNJMA1GWpo5aKivraPf+NVJfXM+Te2xQuYdAoOahIMTEU6chts1wcLl7vwpPBTR/81zTwcbqUzvBIGSg3p+UEi3HMfiyUne6xTK74qcpe3eKLEJoslYvBhqS+aR9Cd7OT7L+rEXJ1EPNU1TsQSQLKVEU+xNdR8+aphbDKECClZWTRXztf0GPtprfMipK7u4X3OF82dcOoCdFJzAuFefBT7W3M9ft+O9PaBzXBa+MOeDOv9E30dmGA27P9EJecykjAFzi8Td2DZrMk43npACz2MKUBxNBV5ELxuYXrKrhAhQLUFdY2C9PObr8ZJ4=;bR0bZydwDBcSO72/JY09VA=="
 ---

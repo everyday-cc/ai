@@ -135,6 +135,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Biden considering executive order to limit sales of artificial intelligence and semiconductors to China"
+    excerpt: "President Joe Biden is reportedly planning to sign an executive order limiting United States investments in key technologies in China, a further escalation in the antagonism between the two countries over semiconductor chips and other advanced tech."
+    publishedDateTime: 2023-07-28T21:46:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/biden-considering-executive-order-to-limit-sales-of-artificial-intelligence-and-semiconductors-to-china"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 38
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/9ebe762/2147483647/strip/true/crop/2277x1196+4+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fc5%2Fe3%2F2c2cec8146cc9503ae35aac2c9a6%2Fap-19101778924939.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kiD2bepc5gH0LU3v5/+oYxont3CRyCfIJ1S5DxnsieUUW7p+qUqzg3h1d6aWwD2TA5B4CBWRB3qJgmkQLT68E86TL3yl133gNOzDkaXXysWXmnvcP+HVOSR2MZtDAslHTMZgwm7G4efz6LNaVVuUB0G2WKFyFoB9AfUhqAS8fNwoWlt+9VuBemM+6r35jRwBM1lDqkqb7fXTOanrryNr1yRBbGGs5Wvlduw3LtKphMI1Bl8RuysCHMPSGworMWVrXC1Aqyb8lCMyWGFn2NzzdyWM0WrAeenYSEatjQb3BMMlOSovugEtawLqxBCsVhRw0cqlvLgh/nmGxcEmXeHCkQAk+ETRqHdo5zZ4WWTuYK4SGuAETrX9LdTSiwqxa/Ea5YPV/cQF+10ieZ0LMf+v5VQxJeV4uqulBUbnKTDM1ioeURtjZ1okstEQwGOvouFtjwZ2inPtFtkqQRki+kANVfo532XUgBUxZ/DCsFEVQryuH1UVZ/MbTHc7O0awuE9LMrgrHUc2sIjkMcA4TbAH+Q==;kN2rqn6DM/iE9M8HbwOPxg=="
 ---

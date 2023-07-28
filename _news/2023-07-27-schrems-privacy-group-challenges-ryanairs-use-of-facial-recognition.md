@@ -93,6 +93,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Ryanair accused of violating customers’ rights with facial recognition"
+    excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
+    publishedDateTime: 2023-07-28T12:37:00Z
+    webUrl: "https://metro.co.uk/2023/07/28/ryanair-sued-for-violating-customer-privacy-with-facial-recognition-19209515/?ico=tag-post-strip_item_3_news"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 34
 
 secured: "bU1MNbuvwkGVzhowlSigDkufGzFcxbzKObXWtxdKYkik04owQTeCAdEYSPKPnUQoq+vOc/sSc6I6Vp69UiriGX/wGFTlPuwZAGl3ExRTRm2TWY0/Uai9cvvadLbeiXvkBrl++I7QEOtVtkxF+zcK+U4+N2FK9nBYsHEklBJ7NxIbEYB0jPq6XvBElwv/xioXHbnTJsFX0uQ5vbHlZUV90OBVIBna6BqYGVDrh0H1m4IvY1Ny9+5b+RamVnNWc7leKsjL6bIHqqYBbRzrJg79zWaRe8IneEQJikJ+wLg08PBpSdo4kEgs0phqHyGUM0nu6CiXbZSVynGGTBl57EFo2+MqbzHmG+TPsYBgsJ836cjcvM3iGOBSYyPT3IstPzBqXl9Morx46uvTzMnCWPKPa6knJ6T4d7x5FaY8+Qsh8fHWbfDvKb4KGZ2WK6FFNdlKF+KMzZk9qUhVythdVL9OJvRzEnnD5CrCMZkoOTvlGM35MppaKnKPuK/zOKkNUt/Y0m+uM3q0OR6MVh5nOoL2Vw==;n+RHwGsx6+KyojHMh97u3Q=="
 ---

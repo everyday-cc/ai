@@ -282,6 +282,20 @@ related:
         width: 691
         height: 404
         isCached: true
+  - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
+    excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
+    publishedDateTime: 2023-07-28T19:23:00Z
+    webUrl: "https://siliconangle.com/2023/07/28/final-thoughts-aws-summit-nyc-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/AWS-Summit-NY-2023_003.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AWS introduces generative AI service for creating clinical documentation"
     excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."
     publishedDateTime: 2023-07-26T21:58:00Z
@@ -314,6 +328,15 @@ related:
       name: Daijiworld
       domain: daijiworld.com
     quality: 51
+  - title: "AWS HealthScribe Uses Generative AI And Real-Time Doctor-Patient Conversations To Update Medical Charts"
+    excerpt: "AWS HealthScribe can potentially reduce the number of human hours associated with charting patients’ visits. Besides saving the healthcare industry a staggering amount of time in charting, its automated features promise to streamline patient care and improve clinical workflows for medical practitioners."
+    publishedDateTime: 2023-07-28T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/28/aws-healthscribe-uses-generative-ai-and-real-time-doctor-patient-conversations-to-update-medical-charts/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
   - title: "AWS launches AWS HealthScribe"
     excerpt: "Amazon Web Services has launhced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
     publishedDateTime: 2023-07-28T14:26:00Z
@@ -374,6 +397,6 @@ related:
       domain: tmcnet.com
     quality: 11
 
-secured: "L9cPCySPRh5A0jmy2iAo2opml9u6VUoKcoboECXjVuQvzNnb9+s1yr/MXTBYJZt476TVnA+AzO1OrcJ68MhhKjBdgKKNgupIpaoNRnITuZAjtmPmwyXal0zW2+dJJqv6d4C7P3E/EDolwcZb33PsmqWFIcSBNnmy4M4yPO5adbdFy2w4mjfQsAqbMCdF7FHPTly0lnTAtVvLxkaR1wjbWHx4AlItyUvTmA3+1IWHgKRuWi4bwaJH7vWkNPtj3WlxcJIsPQ1vw2pHLDBwnxhJflHgg6idAekGFZVW4fL7gm7xAY1v6ItUgl5O/Lry+tyAfDYmcB5aERgH/s3GOaWcoI5rvzU4Ga3uLrY0ri6SluU=;3jC04+4yEJ8q+2DLpQNq7w=="
+secured: "48fEKhZDv2wbTohCRjglcqJVzK1P+n66LoCTK28a9OmWtqtoqzWL9IZpRaRC0wURvY65eUX2EUXFxifW227Mqb4agq0snDdXgzJiAFW7n4vL11wTiJNd7EymJaiSuwI0rMr09NT+0ZhKYbbTSE9G3uEILQWQZicF2Hkw1L+ddVE4PcX3tkq5b+meYgKTDchV1GZy3b9Dg0FPB3XwfyfpUGoLBGfloTiqZ1fmE6Qj8of/2qUGNF4OFj77HuO7m6Kh3B0oPpxFKnxM8nGgEoSfhvV95LNNy1wQK/pcTkrInTagdO0MF2wdjHJPXJ10pPZjk+rbZnOVsu4ZlNxtST7SMOA30/+qucAYlliwJUMsG+m5yT8Lwgf2jbECJZeEj8py6VaTeKTzoUZeyalv5U90TZipj+svKH+5PuN2H0dWJhtgD8kFMI1OizkWA+v/yUww5bkHQmMzxK9Df0q6PKF28Q/arIpdcr9384kXsoBlMc3VkLzvThUiO85l7SCm3ZB9nxJH4nxDQ8n1lu2eYRIjuQ==;OQJo0mYLCCnJnX/akzQ/ig=="
 ---
 

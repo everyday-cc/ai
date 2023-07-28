@@ -105,7 +105,7 @@ related:
     provider:
       name: Cloud Security Alliance
       domain: cloudsecurityalliance.org
-    quality: 41
+    quality: 43
     images:
       - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
         width: 800

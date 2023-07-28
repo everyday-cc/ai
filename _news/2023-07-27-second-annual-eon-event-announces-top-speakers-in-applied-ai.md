@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "ReflexAI announces venture funding to bring AI-powered training and quality assurance tools to high-stakes call centers"
+    excerpt: "ReflexAI, the provider of AI-powered training and quality assurance tools for high-stakes call centers, today announced its first round of venture funding. Led by Footwork, the $3.3M oversubscribed round included Emerson Collective,"
+    publishedDateTime: 2023-07-27T17:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855558.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "Gg2wbKmYOl2UNoS0JCa+FOYa+5PdCUw4Ya/z/ejR2hDats0i3/VzaVLLtUGRvRV8Fupa+6lRbkKFUj7Y0UCa2JB72dDMruxNcdbpqwGbuiZjlv780+zralwzM+6e7d4TCvBkVdz3s7YbrVHilrMK7M1HtJQsDC57vq7ZTv2xrCOBAKQEjZZQq7lgZnkv5/8AB4EKiPoNgBVkTBU0Bbuk1wvn7W3gykt+9t8gSSgDZE+lypEn4B+k0BKDeOVhSVkJXdM6H7wiOW0mqZearxQnGxymkOHLmsbIROVrmEGqQbV8/VzOfInfHKKhM4uN4lPijdkY6zxuWpx72RJhZGoOoI9AMkGmGWF/TDTP60QobSI=;VpLerdfugj3NoX2ktDwaeA=="
 ---
 

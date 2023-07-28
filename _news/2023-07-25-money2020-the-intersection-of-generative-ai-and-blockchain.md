@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/videos/money20-20-the-intersection-of-
 webUrl: "https://fintechmagazine.com/videos/money20-20-the-intersection-of-generative-ai-and-blockchain"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board"
+    excerpt: "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean"
+    publishedDateTime: 2023-07-28T17:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/0Qs0EITqVZabcNzobJLcG7NxPF53/1690518197013-0.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "New research shows how brain-like computers could revolutionize blockchain and AI"
     excerpt: "Researchers from Technische Universität Dresden developed a reservoir computing paradigm that uses a vortex of magnons for calculations, with revolutionary implications for the fields of blockchain and artificial intelligence."
     publishedDateTime: 2023-07-24T17:45:00Z
