@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence is powering politics – but it could also reboot democracy"
 excerpt: "Generative AI can involve citizens directly in decision-making, but not while developers’ incentives are only financial, says Polly Curtis, chief executive of Demos"
-publishedDateTime: 2023-07-28T05:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
+publishedDateTime: 2023-07-28T05:50:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy?ref=upstract.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 900
         isCached: true
 
-secured: "3BDcWMd2MmFrz+aC5zdpCvCX9we3gQGqLpifyjvPdL/s17YmD0VBd8nHYo+afpmj13VHQNl35XcOtQsIlxJnmafIhzFqLwEDgUb/B/Man/oCyfYYeYzwfas5lQtZXV9JeTx0oOikSxSP2mD+Jw62BrHOaf1PahQmuXCkfR4KwSSWG4sgxksWBn/NCGxM8/yAoomCpUxV+7aJ51ZCrpK+LijAR/aPc1Js0T8VM9/TZtrUqsZd8ycfAc24J0004b8RORv/OepLeQG0tfknjzLo0mSgk4jRslACB4rqaHKwuV1kKO/aaA+EMzSkKcJMjxyRApvRh+9eHbiA5Z0cf2Ze+4FYPu2q9+rXFTNurQ/chbY=;gvzamr8JD+g8UxDK81VArw=="
+secured: "OEp69wqLsrYEmwgIYFc+6yuuFL9rwm01D1HX7mkgfO/BRymE/b8t+0rDbjVb6d3bW8ZteFz4eOHSC7NXXbmDZgFYZInBioNv0sSgVCeVeLBkCsJIE4kNndwbgiEljUjhNROPxK0BHdCz0fghKEGyOlMDDV0BjrWb6kKMZ7Lw6CN74bST7nXkN1++B2eQSVDvpjCK61mcig0/b02rFEpmVIRL8xCXSzM/5KAsUJFA2KEKMe8T/6YJzS27aEPWeQSL6i7GM+Fro63awaqKpdm7EkqimLe5gV1kLqyXpOYl+cu/bAqJOjz7icAcsjSb1mjT0JNfFn77u2Cfujlak5ae7/Zw/MNYJwLkPPx8mlOaYSY=;SttEn/ptvU7043p5HFB8hw=="
 ---
 

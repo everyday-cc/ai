@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-de
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
+    excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
+    publishedDateTime: 2023-07-28T09:00:00Z
+    webUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/64c30ccecf0778001965f5a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
     excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."

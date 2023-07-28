@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -148,6 +148,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
         width: 976
         height: 549
+        isCached: true
+  - title: "AI news recap: While Hollywood strikes, is ChatGPT getting worse?"
+    excerpt: "There is anger over a Netflix AI job paying up to $900,000, coming as actors are still striking over the use of AI in film and TV.  In other AI news, problems with training data can cause glitches or"
+    publishedDateTime: 2023-07-28T09:05:00Z
+    webUrl: "https://www.newscientist.com/article/2384188-ai-news-recap-while-hollywood-strikes-is-chatgpt-getting-worse/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/26162553/SEI_165496948.jpg"
+        width: 1350
+        height: 901
         isCached: true
   - title: "Netflix posts $1.3 million artificial intelligence job as actors strike"
     excerpt: "Netflix has sparked outrage by announcing it is hiring a $1.3 million-per-year AI job, as actors and writers strike for better pay and protections against technology."

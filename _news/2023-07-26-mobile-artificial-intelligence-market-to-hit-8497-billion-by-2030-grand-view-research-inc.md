@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Mobile Artificial Intelligence Market to Hit $84.97 Billion by 2030: Grand View Research, Inc."
-excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by"
-publishedDateTime: 2023-07-26T10:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33386961/mobile-artificial-intelligence-market-to-hit-84-97-billion-by-2030-grand-view-research-inc"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33386961/mobile-artificial-intelligence-market-to-hit-84-97-billion-by-2030-grand-view-research-inc"
+excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by Grand View Research, Inc."
+publishedDateTime: 2023-07-26T11:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/26/9854193.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/26/9854193.htm"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -34,6 +34,6 @@ related:
         height: 473
         isCached: true
 
-secured: "eRYJYatLAIp+QpYqAJx8I/8Orwqqc01LYpBQwuquTnA274ZG/FW409df0VUckswr+CAdr48bx9Qso5qtCTnTmVNbqb9NVgGzHlh8hfs2Fx1l89ZCiht3F1RtT7G5sPOj+ydfyRbiGfQhBP127OGu+agrMS8uyFGjCG25DqQrZdR3MV+HoM5kbfcY+Scw29sNE3a2H8W2edrVppFqY788Giejn2ARX0NXr2lv2C3fg5JnOa8EAJTvUBoxizB6zFsUe0Li92IesWB9DjRBWoXh7nuPp2oiiCoRhNCvSPEqUsTFL/mQvgA7k5SHEUOyFSt/K5rOhkoLKSo4fJkdql1T82PPm2JOaeg/1zEXolyF18k=;pOyEdOxsvHGMB5nLSvhGhQ=="
+secured: "fV8h0wzmFQG2HS/KZ85idHBeFwARiOHkatRqFF1oJTELApj1hSB+08hWa4eEcC5nsX3eX3y/XwMJzBorC658zYuQKG/XSNvifPUBDBBeGWtn6FlTt5MKu9N4dHCkCWQBKaTjZ40QRyYRCHpYW1lRnkRekDc6t+Q7O6apI3yMy0fr1GasBJ8IeTS6VyVIsaIak7A+UOdK4/WskYtu/bTJbCVAqZWOqwk3Hkv+P+ez17zzMf8mSikQBlmJuoMy/jrpfiMqK/+4xXHrqTUQxc4JohRSIplsQwKjsonNQdk/5YqVfiDmCV5Hovo5B5mRdnAGDfLQJ+5sAYQrCJUhDwaAWOGURpHyWMJE5dIyqm1xJyk=;6vyJWxyV+zgTTgNP+ijg6g=="
 ---
 

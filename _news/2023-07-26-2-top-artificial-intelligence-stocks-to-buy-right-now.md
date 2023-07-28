@@ -42,20 +42,6 @@ related:
         width: 3372
         height: 1809
         isCached: true
-  - title: "Applying Artificial Intelligence to Robotics"
-    excerpt: "In this article, AZoRobotics explores the use of artificial intelligence in robotics, covering the challenges, applications and future prospects."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=620"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 71
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/SocialSharingImage_620_16901909350143578.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
     excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
     publishedDateTime: 2023-07-27T10:03:00Z

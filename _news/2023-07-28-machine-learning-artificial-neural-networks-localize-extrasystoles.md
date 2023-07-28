@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-28T07:01:00Z
 originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg"
@@ -24,6 +25,6 @@ images:
     height: 547
     isCached: true
 
-secured: "BxFnynaQq2SxBjAsP63Twug22mz1eD/BqZGFE90gzlSd+Xm6lmVyA1JVafcXALSlPtmW5C3wB/q2a/WMWpwH9VdXzWkV5bmArQqY8hHucL9IPcS2k+dIKSY+Du3TqPEpf3+VEcrvlim5zSxizYy0JZqV5wBfrPpSgCypzdgjTW50mK8gr2AF5J1zwEmWLtu7CX9dkOrPcqe9lqWXF9C3Gfv3p82VCrSb0BuI0eXr69H/Hsh5bVsBdXNBv2UjqRfji7n6KUof1NNy9OBbMVISG4LiqRzWu9MoxPUUZNBnzcSxGznHS4kiWm1BzqILxcpaSEbwRF6XGKDMU4DJ8l+KL0mWMcgNDwOPvi75g5Fu88w=;cmNaFCFpwKDRJ6g994xJXQ=="
+secured: "my9/qXwpfIkdMhK2rTGDZjxQNPII3iTPoVI3R/rdBKzQB+SRWaSTnwG1t0lizbEOFeW1Wvv98exqBaxkt4j3rU1aE0BO0ypRL7LWqrieHubvYwh+IVWzGsBOKVTEGUG8LFE/Cppy3KkJ+P177VZKEDBLONefrydF+2+xjr2Us9CIu8TLHMFeDUPkFSimM6lCxEHNcEYOcvXJl0avIoH9b28nULNtFHvxSL6YIsgJOlW0CsdFPuMNEpQOI5ZvfkXgm5iKhyhmNj0HP0dDCcGEpB7FRO8xbRr2nfSB75YaUuN+nivH+WsRljmmHWCyXpln8VjTvFk/AJgv0QqCItRwuCT6UEL8+9CUOWOd0DsMXoxGIoIqzlw2i1L0Xo1wWj7i1jvlWuWO4isnGqLfMsJg2k1Lt8gLqRIZHneNnHKAQO6VJBMti3IYy6mASKBOMKbcB0VnQZti+3LuNTEoFH80OuReI6Y4ZufvRzvKxb0seEMLnCj97/Hqa+bfDyfIecfDsW7+KKEpxQw9YGqxVqld6Q==;Tj+9t7kh49gcmcjiGwiRQg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -218,6 +218,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/MicrosoftTeams-image-187.png"
         width: 600
         height: 500
+        isCached: true
+  - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
+    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
+    publishedDateTime: 2023-07-28T09:58:00Z
+    webUrl: "https://financialit.net/news/fundraising-news/croissant-fintech-platform-launches-24m-change-future-commerce"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 20
+    images:
+      - url: "https://financialit.net/sites/default/files/croissant.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "From customer profile to improving accuracy, fintech takes to AI"
     excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."

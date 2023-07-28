@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence Will Not Kill Creativity, Opine Tech, Literature And Arts Experts"
-excerpt: "QNA Despite the almost daily development in programs and applications of artificial intelligence (AI), it is impossible to abandon the human"
-publishedDateTime: 2023-07-18T16:39:00Z
-originalUrl: "https://menafn.com/1106620181/Artificial-Intelligence-Will-Not-Kill-Creativity-Opine-Tech-Literature-And-Arts-Experts"
-webUrl: "https://menafn.com/1106620181/Artificial-Intelligence-Will-Not-Kill-Creativity-Opine-Tech-Literature-And-Arts-Experts"
+title: "Artificial Intelligence will not kill creativity, opine tech, literature and arts experts"
+excerpt: "Despite the almost daily development in programs and applications of artificial intelligence (AI), it is impossible to abandon the human creator,"
+publishedDateTime: 2023-07-18T05:49:00Z
+originalUrl: "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts"
+webUrl: "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Peninsula
+  domain: thepeninsulaqatar.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-07/18/TP_b6163image_story.jpg"
+  - url: "https://thepeninsulaqatar.com/get/maximage/20230718_1689659446-844.jpg?1689659446"
     width: 1000
     height: 750
     isCached: true
 
-secured: "Jqeeh73p8TRhhLSGC/NadYpBzIFXU/m/pfw8wgCHa0rTcFBTKHHWlnh5w1+GHYgsvrUwjQqqxKh78dJGf/ZofL3/4gxB+k4cwt/24UWGSbLoFa2gEY5ub1KDQXRdbNsW2yGTyEWltXCBPTmCbHrPWqw9KNOCYgsY6WS4nddSMdwxhrEqpKEm5j7tMXpwAQmlNwEjsiz0nrvKqCO6a01Q9kMF4FAAbBRsQ3p3mndEl8Xoxkyd6IsK/UgoAPVmz2SWuCv5Ti0Ti7EUTmfTW4vFLC6VXw5GbkfLSo6VEruWSTNVNCADSP9rf2D0siRmf1N/xYRu9J/s4m6Y2C4/JPzgq3fDkh6xHBNaGpYBGI7fnZ8=;v/lW2eTup1GSiGQmR57GXA=="
+secured: "FlZQ3QWksU93+4l5XjI3LP+d0veWAni/TXNB43pc98ZK5C892OH07wtddln7QgIlpGfl9fcMsN+HNE7NqT3qufQ4TSEOBETVfBImMzgRZrN2akLB/Lytl6TGqt6oIxZ5z7Q7ZiLeWNen0FqHR7C9R5t5w02YPj6AGbmwSbmrbRNcbuHwlhu/2umeEloOydaX+JhlJHadixTYce7kdoqc5UnAbyQ4HGFYwUE7ZIYGXeIWtv7CTUnvU+JYsGz0B+0xGXQPI33XbeBcvM2kqeHjc1oyu/JD0Py+BD/WSgCHO7m9ekkh1+dYEAIEfvMvL3jBF72QFqD1suylMvJmwPTs7Qrhu5JHWOeScMpuEUnlpnw=;/RB20mq5GrJyDh8CCBveWw=="
 ---
 

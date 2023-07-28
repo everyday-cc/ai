@@ -101,20 +101,6 @@ related:
         width: 1152
         height: 648
         isCached: true
-  - title: "Individual whales, dolphins identified using facial recognition tech"
-    excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
-    publishedDateTime: 2023-07-23T16:00:00Z
-    webUrl: "https://mauinow.com/2023/07/23/individual-whales-dolphins-identified-using-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Maui Now
-      domain: mauinow.com
-    quality: 39
-    images:
-      - url: "https://media.mauinow.com/file/mauinow/2023/07/dolphin-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Facial recognition helps ID whales and dolphins"
     excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."
     publishedDateTime: 2023-07-24T16:41:00Z

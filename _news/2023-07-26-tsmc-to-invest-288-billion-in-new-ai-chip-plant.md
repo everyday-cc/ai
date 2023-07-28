@@ -72,20 +72,20 @@ related:
         height: 628
         isCached: true
   - title: "Chip Giant TSMC Determined To 'Keep Roots In Taiwan': CEO"
-    excerpt: "Semiconductor giant TSMC said it was determined to \"keep its roots in Taiwan\" as it launched a massive facility in the island's north on Friday geared towards developing the world's most cutting-edge microchips."
-    publishedDateTime: 2023-07-28T07:45:00Z
-    webUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
-    ampWebUrl: "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49"
+    excerpt: "Chip giant TSMC said it is determined to \"keep its roots in Taiwan\", as it launched a massive new research and development facility in the northern city of Hsinchu on Friday."
+    publishedDateTime: 2023-07-28T09:54:00Z
+    webUrl: "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-2e779548?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-2e779548"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-2e779548"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
     quality: 74
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1113229468787666246496686568250953985199---1.jpg"
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP6307774578526972767564491728022726855182---1.jpg"
         width: 768
-        height: 512
+        height: 511
         isCached: true
   - title: "Taiwan Semi Invests Outside U.S. to Meet AI Chip Demand as Arizona Plant Delayed"
     excerpt: "TSMC, the world’s largest contract chip maker, is planning a new facility in Taiwan, while a report also suggests it is close to an investment in Germany."

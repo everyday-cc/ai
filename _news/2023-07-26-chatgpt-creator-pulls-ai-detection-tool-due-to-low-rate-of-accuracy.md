@@ -112,6 +112,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
+    excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
+    publishedDateTime: 2023-07-28T09:00:00Z
+    webUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/64c30ccecf0778001965f5a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "W2kBA4LRSmPN18eO4wumUJjLxt110HjeGx4jD63AlNz5VBT1TRNGgRcfK8EMCN5qpdCKuXIT7hoEFz4JuMAmrKocS7SPsyVjcPk3fVzOgxz6PP8am+cVA7wCe/D1P88i8svDt8tI71Yhnfvd1hKOllJ4ZvcqHRQhpgcQFTE7MCRV4v9Pv/SBL6lpPa4soHWxFbhm+zry5/ZRGqX2xh0jHMDrY1uyRnTIxmTi1j5yq46pBt3tzhjrJ20XkAfunS0IdL04WQEYHDRMe17hXHqZ+wU2LU6sQ7659UBYVRhItcfrIWP/SNXU6WZYa+FuDisiwm6px+nNTT8rKDeG8di5YyLvhZe1dQM7s68w6fmeJWRqPvY4JpaE32jp0ZLi2s6Bjc2sDXLrGveUdqGSPMAH1uSztaGIOp8FOD7/b5PFtIySmwkJkBcR7G90LJg+g63wh9HLyz5kPC5SfS2K89VGwwWMDt9WnJzotm8PEHAkTr3z/jexehRkG6P8SgrqAVE6827fe++K1j2vXoRacc+0Qg==;HNAN4VIxd6nLpZHqxy+HbA=="
 ---

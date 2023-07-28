@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "How to navigate your engineering team through the generative AI hype"
-    excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
-    publishedDateTime: 2023-07-23T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Generative AI is empowering the digital workforce"
     excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
     publishedDateTime: 2023-07-25T14:46:00Z
@@ -121,6 +107,22 @@ related:
     quality: 57
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI could be a critical tool for the visually impaired"
+    excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
+    publishedDateTime: 2023-07-27T16:42:00Z
+    webUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/01/wire_mesh_fence_blurred_blurry_bokeh_world_beyond_by_vjapratama_cc0_via_pexels_1200x800-100784627-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
@@ -217,6 +219,6 @@ related:
         height: 600
         isCached: true
 
-secured: "5dQTVu+FqG7dB+O8SAjvS739AUgcAHRN9efFnnw1vXVEZo064NHtMSO4IBQRGJLToJ4azxvQjxhTaCsgdiwr9vOSWL8LJzTSudkzYV3Z3TU0vw+OtpVJvdH2A3cHDAq1zgx87imh7LnPLbO4Cm8q1Fjm8QEtVW1LNaZDfLptrz51lvSBQeqNzxp18YzTuY07Wq3etq3O7jo2rF/vUyrwI3GOWyXSDTZTOQ1vUnR+MWBnfrOjV2kMTJ2svnuxSUBAqlSzFupVHAEaSqsvCng5ZZICpJHBnarjRCoPsAS5FFBkFqnelViX/kfN4RL9b/gwkrgrcDlZ0zWbMvU8T+vbylkmXgJ74nD9sOkSJPQ4AZs=;z6eJIvMiOdaHnps4AyGqFw=="
+secured: "uohUkwDPx7VwOLud91Oaauf4i8DSYWznnvqaCrVNRm3ITWt04yHoM+F8YuD4t4O+Xx37Hpf2Irvu8dPryjOdhfhUNw4Q9ljrGdhJq+QHAAbccL0jNEopOf3P3AwcIN6+5Wa8IIP0/Rr7jIIhWe1+EKZfPV2TWFTaF7kvWmedfk9nUOaYIYsxUVVnyIuO14/gbFJ/r0Ck0UnQcaWiNZwzASnvjwuqSSpiOHiNx5BbJp6qbn/CYZP8Y7eSkd4PzF/sYD4aHlZLctGuf5e40yfgJ30IjxAf2Dn+KjIea3TImZx9pPhXlJz/I2ZuyeNW+oami7u55MBqToOm6lb6f7wTXZ7bt3tUuNmDRwF4pCHw3FdpQdSpL1KzxtHx1PWDH/pn3jSozGdGfZUvStGFZE85ms5w+DfCX9H3ZwqUM17BIUCAFK2+EIXRKjvY7nnIW7MysOaO9ssiCek/cwjxys36PSzzIdo2XZKhyLht8XOZHE5it5QYiWuKuXWfA1Ulk6L1Wmxa2rvsNNrnZJYzJRX+IQ==;lsasGBa9c+KKPusRtqDecQ=="
 ---
 

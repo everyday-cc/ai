@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
 type: article
 quality: 106
-heat: 316
+heat: 306
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://www.boomlive.in/h-upload/2023/07/25/1011809-pride-01.jpg"
         width: 1152
         height: 648
-        isCached: true
-  - title: "Individual whales, dolphins identified using facial recognition tech"
-    excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
-    publishedDateTime: 2023-07-23T16:00:00Z
-    webUrl: "https://mauinow.com/2023/07/23/individual-whales-dolphins-identified-using-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Maui Now
-      domain: mauinow.com
-    quality: 39
-    images:
-      - url: "https://media.mauinow.com/file/mauinow/2023/07/dolphin-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Facial recognition helps ID whales and dolphins"
     excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."

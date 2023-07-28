@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 638
+heat: 648
 published: true
 
 provider:
@@ -517,6 +517,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/d/82/d829650c-ab9d-5666-a3cc-a48c3b8a0aa0/64c02b4890fd4.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
         width: 800
         height: 420
+        isCached: true
+  - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
+    excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
+    publishedDateTime: 2023-07-28T09:25:00Z
+    webUrl: "https://za.investing.com/news/5-big-earnings-hits-meta-delights-microsoft-warns-in-huge-week-for-tech-ai-2824014"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 51
+    images:
+      - url: "https://d1-invdn-com.investing.com/content/c74d600952f59cc9004ec48c4e5994d2.jpeg"
+        width: 650
+        height: 397
         isCached: true
   - title: "Google, OpenAI, Microsoft and Anthropic join forces to promote safe AI development"
     excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Microsoft Vice Chair and President Brad Smith. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"
