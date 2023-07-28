@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI news anchors: The new phenomenon of Artificial Intelligence replacing newsreaders"
-    excerpt: "The AI era has arrived, and as AI news anchors become a reality, will AI replace human news anchors in the same way it displaces labour in other industries?"
-    publishedDateTime: 2023-07-23T11:00:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 67
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sana-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Generative AI courses in hot demand as more Indians flock to upskilling platforms"
     excerpt: "He took up a 12-month-course offered by an online upskilling company, and right when he was about to finish the course, Generative AI (GenAI) took the tech ecosystem by storm. Chalk it up to luck, Sharma now has all the right skills up his sleeves at a time when tech companies are keenly seeking them, to gain an edge in the AI race."
     publishedDateTime: 2023-07-25T03:26:00Z

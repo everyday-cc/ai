@@ -2,6 +2,94 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-01-april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations.md",
+      "title": "April 1st, NZXT GPU, AI Fans and Other Incredible Tech Innovations",
+      "excerpt": "This GPU sports a white minimalist squared design ... XPG this year announced that they would be taking a step into AI and introduced the XPG 1337GPT. XPG understands that gamers can have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
+      "originalUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-nvidia-rides-the-generative-ai-wave-at-gtc.md",
+      "title": "Nvidia Rides The Generative AI Wave At GTC",
+      "excerpt": "Microsoft is incorporating AI technology into Bing for search and chat and in Microsoft 365 as its Copilot assistant to work tasks. All of these services run on Nvidia GPUs. Microsoft Azure cloud services are already using the new Nvidia H100 GPUs in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64265ed735054b4de58ad28b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/",
+      "publishedDateTime": "2023-03-30T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit.md",
       "title": "The ‘explosive’ AI trend is here to stay. These stocks are poised to benefit.",
       "excerpt": "The rise to prominence of ChatGPT has made artificial intelligence one of the key themes for companies in 2023, and numerous players are set to reap its benefits during the coming months. “Unlike many other innovative technologies that have relatively ...",

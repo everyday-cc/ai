@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 type: article
 quality: 93
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Moral considerations in AI marketing: Building trust in tech industry"
-    excerpt: "Deepfakes – Generative AI, including machine learning techniques like deepfakes, has the capability to produce synthetic media like images, videos, and audio. This AI-generated content can often be indistinguishable from real media, giving rise to significant ethical concerns and implications."
-    publishedDateTime: 2023-07-23T08:28:00Z
-    webUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/"
-    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-23T104311.624.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How is Artificial Intelligence Impacting the Forex Markets"
     excerpt: "Artificial Intelligence has had a significant impact on the forex markets in 2023. With artificial intelligence available to nearly every trader, the information floating around the markets is now readily available."
     publishedDateTime: 2023-07-24T13:58:00Z

@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI investment is booming. How much is hype?"
-    excerpt: "French startup Mistral AI didn’t have a working product when it raised €105 million ($118 million) in one of Europe’s largest-ever seed rounds last month. But Antoine Moyroud, a partner at Lightspeed Venture Partners,"
-    publishedDateTime: 2023-07-23T09:00:00Z
-    webUrl: "https://www.cnn.com/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230718092914-business-startup-stock.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI investment is booming. But is it all hype?"
     excerpt: "The investment into Mistral AI is just one of many venture capitalists jostling for a seat aboard the AI rocketship this year. In the first six months of 2023, they plowed $15.2 billion into generative AI companies globally, according to Pitchbook data."
     publishedDateTime: 2023-07-23T12:08:00Z

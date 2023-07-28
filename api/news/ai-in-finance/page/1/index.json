@@ -237,6 +237,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-ayozat-integrate-ai-into-their-deep-tech-product-tlc.md",
+      "title": "AYOZAT Integrate AI Into Their Deep Tech Product, TLC",
+      "excerpt": "With AI now built into the AYOZAT TLC core, the Company will be one of the first to integrate AI in TV channel building and curating. AYOZAT will",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/9210/174576_ayozat1.jpg",
+          "width": 560,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-personal-finance-app-totallymoney-partners-with-bud-financial-to-launch-ai.md",
       "title": "Personal Finance App TotallyMoney Partners with Bud Financial to Launch AI...",
       "excerpt": "As spiralling interest rates and inflation threaten to push ever wider swathes of UK consumers deeper into financial discomfort and distress, leading fintech experts and tech-savvy lenders empower millions of consumers to unlock holistic financial data to gain fairer access to the right financial products.",
@@ -1328,40 +1380,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-fintech-dobin-brings-game-changing-ai-powered-solution-to-personal-finance.md",
-      "title": "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance",
-      "excerpt": "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

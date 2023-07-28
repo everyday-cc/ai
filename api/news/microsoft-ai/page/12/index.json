@@ -2,6 +2,102 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-27-turing-launches-ai-powered-services-to-form-engineering-dream-teams.md",
+      "title": "Turing launches AI-powered services to form engineering dream teams",
+      "excerpt": "Turing’s Talent Cloud uses AI to eliminate the arduous task of matching highly qualified ... GCP, BigQuery, Node, React, Azure and Python. Turing designs its services using a distributed application framework and the microservices architecture to scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
+      "originalUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
+      "publishedDateTime": "2023-03-27T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-education-might-not-save-you-from-cognitive-decline-new-study.md",
+      "title": "Education might not save you from cognitive decline – new study",
+      "excerpt": "Giovanni Sala receives funding from the University of Liverpool. Take a look at any list of risk factors for cognitive decline and you’re bound to find “education” among them. The received ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
+      "originalUrl": "https://theconversation.com/education-might-not-save-you-from-cognitive-decline-new-study-200684",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/514261/original/file-20230308-1134-cj3g93.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/education-might-not-save-you-from-cognitive-decline-new-study-200684",
+      "publishedDateTime": "2023-03-27T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-better-late-than-never-3-artificial-intelligence-ai-stocks-that-still-have-massive-upside.md",
       "title": "Better Late Than Never: 3 Artificial Intelligence (AI) Stocks That Still Have Massive Upside",
       "excerpt": "SentinelOne's use of artificial intelligence gives it a performance edge over its ... SentinelOne scores very high on benchmarks such as MITRE's ATT&CK Evaluations, and research firm Gartner gave it the top rank in endpoint protection.",

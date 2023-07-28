@@ -45,20 +45,6 @@ related:
         width: 3543
         height: 2362
         isCached: true
-  - title: "SK Hynix says memory chip recovery has begun, flags robust AI demand"
-    excerpt: "South Korea's SK Hynix said on Wednesday the memory chip market was beginning to recover from a deep downturn amid robust artificial intelligence demand that helped it narrow its second-quarter operating loss from the prior quarter's record."
-    publishedDateTime: 2023-07-26T01:56:00Z
-    webUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/mz5uLABumoYAIy_PP-uLCpUe3D8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TGUHCMEOWVNKXBNKYOYSLWIGJY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SK Hynix Says Chip Market Seeing Signs Of Recovery, AI Demand Aiding Turnaround"
     excerpt: "While the memory chip market is showing signs of improvement, market conditions remain varied depending on the type of chips. ( Image Source : Getty ) SK Hynix, a prominent memory chip manufacturer based in South Korea,"
     publishedDateTime: 2023-07-26T20:01:00Z
@@ -75,6 +61,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "SK Hynix says memory chip recovery has begun, flags robust AI demand"
+    excerpt: "South Korea's SK Hynix said on Wednesday the memory chip market was beginning to recover from a deep downturn amid robust artificial intelligence demand that helped it narrow its second-quarter operating loss from the prior quarter's record."
+    publishedDateTime: 2023-07-26T01:56:00Z
+    webUrl: "https://www.reuters.com/technology/sk-hynix-reports-q2-loss-chip-glut-continues-2023-07-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
 
 secured: "eXidBz80I83t631YD94BQM9d18AqdiDdDZ1Ja9/9gh7JdeaD3VoJ+WZbNlIewpe6tUldIKQC3F2awT/leTXXjJ2bazChn7a/ammhdvMuQ2SaCwGs/H6M8a09MYSSF31amSj0/tLOVFkBQSRBBJB2XIwJo8fBskl55BPhjbGAQ66pouY05u7s2thMTTYA5DOCEG8IU188ePbkmAkKKLbItJYZnLQpTyyFbUWxiOD/Bzh8Z9pzH8q6teZNqAT0tdxDTAgqMaoPTNYL+svB5JtfDGtAUPL9sMVYsIoxOxi5sMJ6K9E0/dAFP8zOWiCsW2kEqqvSfJByzP7Os+7z+LzfzRx+esT56tfJS+Sr3JpKbwb0iZFcWdUPio/4Vxh2YKIw8JFh4fE7rXu8FktyIy6tWULIPpeB66jeLUNbLfwjt37QUB0JJzHsn8mfpp0rBjXLiuLNv/oLfLXp0S1RWPskgWyRoxXliRVgY729yRz7uudJckMg9S1BqO+vgjwXSm/FgEuPlC/FjOF5qH8LWOq0lQ==;lLsXPW9IRJUUIkR9KGqHDg=="
 ---

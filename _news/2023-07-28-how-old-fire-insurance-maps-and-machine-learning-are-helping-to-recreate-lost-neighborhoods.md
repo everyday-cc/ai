@@ -2,7 +2,7 @@
 category: news
 title: "How old fire insurance maps and machine learning are helping to recreate lost neighborhoods"
 excerpt: "An Ohio State University professor is combining old and new technologies to breathe life back into long lost neighborhoods."
-publishedDateTime: 2023-07-27T17:02:00Z
+publishedDateTime: 2023-07-27T21:02:00Z
 originalUrl: "https://www.wyso.org/2023-07-27/ohio-state-recreating-old-neighborhoods-sanborn-maps"
 webUrl: "https://www.wyso.org/2023-07-27/ohio-state-recreating-old-neighborhoods-sanborn-maps"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "K38yAp6eIZ3w2WrYV+I6zkLx4btr/UzYYGnkRmACsBJqrDt7UpsYhoK5NIrFmShuWi7Kz8BCFV0kuFSRUJNbNEGCV5h+5CiXPdbxBxMRsAMV4RHCdItzn0c9UlnNQzJpyKS/XoaWMFmRG7JTflIsc8xscPmEqdzbPdXk8G5OTBe5SF4QWVCn7Tr8Q2Oo6+x7L+dpgxPiSZcD30ZdV9zB+soZ8k5IWLLK/+CepRJT6OAFX+X2vrCm5y/wxmLSFTkzSuIcpGGw1vkQ4HnRqtUSsVFJAFezNpTmHHMYgb/iyr3K2a7qOPc/8FcuI0KZs+LSX42jBDlI3pBqZqETcU4nGZ0ffZjlVaFKJ5Qp/Hq/dWniifwnYHpbnuRexphiDW9z1c0OaLnfFAEaTR48EOMmsqhTD3yZC84RijvOnD76o4/wIuQtnM3UWCUq9LkISYR5X65OhRFhGBZRfAWLXT7GYbtoV4RixQJxJ/N/kTM7BGVNd3BWt50ndqv4pavk3JPF/JUxTTUsOi9YjWPiILITRw==;fx18XLOeTFpDuSr/Z+FuSQ=="
+secured: "PBox20TDJUomUuiCdfWnJ4+xKPKWsmAWUgByj5ZFTmCknRz5wVryuXVWE/gs5CWjzyQaesKJ9OyiFD34RFMFVRk/zwBZG5Hg4DYiRkFSYaS0FznZlAS6Z53N14uypZ9Jkay4lzZPHv4IGNiswDx8qtCEnAZUtwJEU6eHg6mVAeTEz6s2vd9VZPC6UJ/QpyeQCyHZIw8YVzhclAlQLFINXRAWah2/VkiWXQ/OwLxytox8VUfeas5qMZlHXSypYYPGFhjO+SHe84BjvTa45bOWzqr3SWVgE55VjpRvTqW+FMdBFH1ZhCFzYaAthWhgQepUcAEAQ4d2UXbpvrjKrmI8Mpe29hvzFZqMwU6WhJq292M=;lThgWhN614WchuGCc2iprw=="
 ---
 

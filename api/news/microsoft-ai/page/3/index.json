@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-01-chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week.md",
+      "title": "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week",
+      "excerpt": "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop",
+          "width": 626,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33088892",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892",
+      "publishedDateTime": "2023-07-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-microsoft-tiktok-give-generative-ai-a-sort-of-memory.md",
+      "title": "Microsoft, TikTok give generative AI a sort of memory",
+      "excerpt": "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
+      "publishedDateTime": "2023-07-01T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
       "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
       "excerpt": "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award.",
@@ -1324,93 +1420,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-mongodb-embraces-ai-reduces-developer-friction-with-new-features.md",
-      "title": "MongoDB Embraces AI & Reduces Developer Friction With New Features",
-      "excerpt": "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
-      "publishedDateTime": "2023-06-25T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
-      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
-      "excerpt": "“The application of Azure’s OpenAI service within PowerSchool ... strategies of both algorithmic and data fairness in the machine learning process to inculcate fairness, accountability ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230621956382/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-24T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

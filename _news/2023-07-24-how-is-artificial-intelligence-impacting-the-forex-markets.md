@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Moral considerations in AI marketing: Building trust in tech industry"
-    excerpt: "Deepfakes – Generative AI, including machine learning techniques like deepfakes, has the capability to produce synthetic media like images, videos, and audio. This AI-generated content can often be indistinguishable from real media, giving rise to significant ethical concerns and implications."
-    publishedDateTime: 2023-07-23T08:28:00Z
-    webUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/"
-    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-23T104311.624.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock to Buy Now and Hold Forever"
     excerpt: "Looking ahead, AI will almost certainly be a defining trend of the next bull market. Several Wall Street strategists have cited AI for recent upward revisions in their S&P 500 price targets, and Ark Invest says AI software revenue will increase at 42% annually to reach $14 trillion by 2030."
     publishedDateTime: 2023-07-27T13:43:00Z

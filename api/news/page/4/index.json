@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-26-japans-advantest-sees-ai-driving-demand-for-chip-testing.md",
+      "title": "Japan's Advantest sees AI driving demand for chip testing",
+      "excerpt": "Japan's Advantest Corp said on Wednesday it expects growing use of high-end semiconductors for generative artificial intelligence applications to drive demand for its chip testing machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/",
+      "originalUrl": "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/gSBHHq2X9rB65cz8UMfNJZK7tOI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B2APLTSTTJKGTHLIBI6AGQCEZA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-github-and-others-call-for-more-open-source-support-in-eu-ai-law.md",
       "title": "GitHub and others call for more open-source support in EU AI law",
       "excerpt": "In a paper sent to EU policymakers, a group of companies, including GitHub, Hugging Face, Creative Commons, and others, are encouraging more support for the open-source development of different AI models as they consider finalizing the AI Act. EleutherAI, LAION, and Open Future also cosigned the paper.",
@@ -857,7 +909,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1062,7 +1114,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 658,
+      "heat": 648,
       "tags": null,
       "images": [
         {
@@ -1192,57 +1244,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver.md",
-      "title": "Meta’s stock picks up an upgrade ahead of earnings — but AI is the biggest driver",
-      "excerpt": "It isn't lost on New Street Research analyst Dan Salmon that he's upgrading shares of Meta Platforms Inc. a day before the company is due to report earnings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "originalUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-748566/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "publishedDateTime": "2023-07-25T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

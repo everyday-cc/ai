@@ -2,11 +2,11 @@
 category: news
 title: "From customer profile to improving accuracy, fintech takes to AI"
 excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
-publishedDateTime: 2023-07-26T12:01:00Z
-originalUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/India%27s richest"
-webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/India%27s richest"
+publishedDateTime: 2023-07-26T07:12:00Z
+originalUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
+webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://gumlet.assettype.com/fortuneindia/2023-07/bd664f0b-8b35-4e19-b3d2-4b103faf5879/Santosh_Bipin_blog_pic.jpg?w=700"
-    width: 700
-    height: 437
-    isCached: true
 
 related:
   - title: "Generative AI: A Big Bang Moment For FinTech"
@@ -248,6 +242,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "TAMtkOQJnq34IgvkD7R3wKl905L01OSwy7P5MAywecjXdhOWYLn6dIIUdo/FFXct9Cjg/RXG0aVHvEmddjwpLTypttZo3NavexmgHDlKUcQDARvVK/VhrRGOsMLm9GC/ZfCf8N+2pAFDQWkJ/euLE+iyDQUoj/PXYXR9zOrZacMHOfr3o5CgxMy1ezHjfwpVx/arONjFqcOdQrBXFcn8f8ZkJvVsTEN7A5gWd+f1wOYtu3kbkmceW7cQnAQV1hzRS8gV2qocU5j4BHPBSyH7gkGOHJsP3IzNsvW0YfPw8XaR36+M74Dn+tI4dR05jQSvP94ToLjRFdq9WF/kpKT/QFudkhnoNuF8JesbrgP+arc=;u8Vlg2mNEHVMax6O5UT6LQ=="
+secured: "hZAJehD9V2UAmr7ojLdKHyfoYWfakPC58y3NcjX3x2xhIIgXQbcMlwlQsnF94rQeswTABXZT6gbvN+He2DCdBoBxoYQYIIl50RZ37ay7J1s4fZV/VuzBussKGvarSqeX/a15eUj7YSTzJ4Yfd26hoBw1NGM1xBrlrgYtVoGJULqHjAMoTX+BXi72X6xyBl26daBJ4INdK5mZ8iBWbmVShMK+1Wri6QShnX6IGvJ2o2rDUJDif+DEQM5TVtInoGO6FtkP4hwA9iQxRgObAlzL+Jcpp9MjCkTpg7Nlf7zRT4qUTYcCbado9zawGW8+tB0Qj+pfamDQLP77lB2Ou9vFHB9YCdbffmfKCWie/V21VDOWJOdfeUXMCexkWtv+tkgmMgozzdNyFzNJS87BxFjOVJdgxIoNkwsTIGZEVhYv5aZ6SqPwHQvWgIT7fWdO4cyGMj+VIjPGzodDeHq7Vg/+ol9FjrWs/vqzs3TebNCR1/4XpiLKaBvrmOl1BIcQ2oA6Afqr4Hf/Xm7B2D10omdiyg==;5HVObJiWLQZzB1aPPna5yw=="
 ---
 

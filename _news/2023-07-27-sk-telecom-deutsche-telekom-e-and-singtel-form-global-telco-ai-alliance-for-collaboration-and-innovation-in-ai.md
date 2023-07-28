@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Use cases of ChatGPT in telecom"
-    excerpt: "ChatGPT being a large language model developed by OpenAI can accelerate innovation and boost operational efficiency for telcos. By leveraging the power of AI and natural language processing, telecom companies can optimize efficiency."
-    publishedDateTime: 2023-07-23T08:57:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102054010,imgsize-15770,width-1200,height=765,overlay-ettelecom/internet/use-cases-of-chatgpt-in-telecom.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "How is generative AI relevant to telecom operators?"
     excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
     publishedDateTime: 2023-07-24T14:42:00Z

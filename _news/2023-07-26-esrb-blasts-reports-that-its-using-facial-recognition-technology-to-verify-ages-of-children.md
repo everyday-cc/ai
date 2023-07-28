@@ -281,6 +281,15 @@ related:
       name: Open Rights Group
       domain: openrightsgroup.org
     quality: 19
+  - title: "Face recognition technology for pensioners soon"
+    excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."
+    publishedDateTime: 2023-07-28T00:29:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/face-recognition-technology-for-pensioners-soon-529577"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 19
   - title: "The ESRB Wants to Start Using Facial Scanning Technology to Check People's Ages"
     excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
     publishedDateTime: 2023-07-25T19:43:00Z

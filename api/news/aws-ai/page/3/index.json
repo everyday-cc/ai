@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-27-artificial-intelligence-to-be-hot-topic-at-collision-tech-conference-in-toronto.md",
+      "title": "Artificial intelligence to be hot topic at Collision tech conference in Toronto",
+      "excerpt": "As the Collision tech conference gets underway in Toronto, its chief executive expects much of the chatter at the event to focus on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
+      "originalUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://q107.com/wp-content/themes/corus-fm-radio/assets/dist/images/blank-featured.png",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Q107 Toronto",
+        "domain": "q107.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-unlocking-the-true-potential-of-ai-with-automation-uipath-reveals-expanded-generative-ai-and-specialized-ai-offerings.md",
       "title": "Unlocking the True Potential of AI with Automation: UiPath Reveals Expanded Generative AI and Specialized AI Offerings",
       "excerpt": "New capabilities enable organizations to unleash AI-powered automation to targeted business challengesNEW YORK & LONDON--(BUSINESS WIRE)--UiPath (NYSE:",
@@ -1310,58 +1353,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-13T10:41:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights.md",
-      "title": "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights",
-      "excerpt": "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/generative-ai-modern-data-architecture.jpg",
-          "width": 1021,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:18:47-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

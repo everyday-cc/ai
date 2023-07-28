@@ -3,10 +3,10 @@ category: news
 title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
 excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa ..."
 publishedDateTime: 2023-07-17T17:55:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-66166236"
-webUrl: "https://www.bbc.co.uk/news/technology-66166236"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236"
+originalUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "ilVmpnnpd6h0FGT96yUWOXucO0ZoURihppG7ou6qb9R8VtCfkswqUSflSP6U52e4Y/9VAyCyUzHXQsZq6FAP3MagOQp5uGI5FX/wtIG5zIK8iinEmelCmi/QDAhfiEccFmiNLJXLxpniXxnGqEmIVWxa0t9fuhMMihfbUaWSUw8Cp94p1+j2EGW78u6NSoTkz5yPDkN3Bv2kT5qD3UHlF8fBXFVRAPva65tdiaW9rJcXu7zZk9A0QClInQT4F0hPUqAuQxBJKKk3kATLzME+qPFypBw6vpdFti8g2IVl7uS6FQ0ZggGSaYxQkIrCFV9+hQbnFPGKiRaFZDOZbRorblrlXW2evhHe0ijQIdDBeQM=;BrRACWQIL4zRY8ic0BkKYA=="
+secured: "qSJj0DaAxddVnJRlSrzzhKScJDLUwmAHsSYmsxIJCN5BFcWzgMDNsNl7M8EnAePjRUHa7G8WAvgtXgA5Jtf+YDUGXx1WILV7BcRT5kAZwTKil5gjQNs5lyoO5X4hHS69yn7tSnL1z33ZLgHj6YzfNfhCJ7Rz4Xp3Z6oQaH2HSYAy3GQrd5iWujb/Y3rFHzwGAERO2w3uw0BJdZ5cZg2CTfzNivxhLtw9PLn+TAd3+9bkHqSEUt4+e6wbM9UlvrQpry0+LIL5KdnT9/6M9pTTzTr5vTVKxM2rM3Q4aOPXyS1Navz22z07x4jUnsqJwg/5UGW8eU11NOtB109aNlPxT5UrJb3vPvZcz7LC+9S3gS4=;lMuK5EtybfuDes+JKbc2WA=="
 ---
 

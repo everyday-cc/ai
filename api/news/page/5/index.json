@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-25-metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver.md",
+      "title": "Meta’s stock picks up an upgrade ahead of earnings — but AI is the biggest driver",
+      "excerpt": "It isn't lost on New Street Research analyst Dan Salmon that he's upgrading shares of Meta Platforms Inc. a day before the company is due to report earnings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
+      "originalUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-748566/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
+      "publishedDateTime": "2023-07-25T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-bing-ai-chat-expands-to-chrome-and-safari-for-select-users.md",
       "title": "Bing AI chat expands to Chrome and Safari for select users",
       "excerpt": "\"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" said Caitlin Roulston, Microsoft director of communications. \"We are excited to expand access to even more users once our standard testing procedures are complete.\"",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 306,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -1212,57 +1263,6 @@
         "AI",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says.md",
-      "title": "‘AI-Driven Bubble’ May Burst And Drag Down Stock Market, JPMorgan Says",
-      "excerpt": "Fallout from elevated interest rates, an “erosion” of personal savings and a “deeply troubling” geopolitical situation will lead to broad market declines, according to strategists at the world’s largest bank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/",
-      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bed4cc9cc6a1aae39b88ca/0x0.jpg?format=jpg&crop=2553,1435,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/amp/",
-      "publishedDateTime": "2023-07-24T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

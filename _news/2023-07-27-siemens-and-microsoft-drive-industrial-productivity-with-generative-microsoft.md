@@ -358,22 +358,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "KPMG and Microsoft enter a landmark agreement to put AI at the forefront of professional services"
-    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of busine"
-    publishedDateTime: 2023-07-23T08:28:00Z
-    webUrl: "https://www.albawaba.com/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/KPMG_Microsoft_EA_LinkedIn_1200x627.jpg?itok=GG3YmLd-"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Genpact teams up with Microsoft to empower its workforce with generative AI tools"
     excerpt: "Genpact aims to empower business teams with generative AI use cases, enhancing employee productivity, operational efficiency and agility."
     publishedDateTime: 2023-07-25T12:00:00Z
@@ -645,6 +629,20 @@ related:
       name: Money Morning
       domain: moneymorning.com
     quality: 36
+  - title: "Hexaware collaborates with Microsoft to propel innovation with generative AI - Tenjin for Knowledge Services"
+    excerpt: "ISELIN, N.J. and LONDON and MUMBAI, India, July 27, 2023 /PRNewswire/ -- Hexaware, a global frontrunner in IT services and digital solutions, is excited to announce its collaboration with Microsoft to propel technological advancement for businesses ready to embrace the future, harnessing the power of generative artificial intelligence (AI)."
+    publishedDateTime: 2023-07-27T10:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-collaborates-with-microsoft-propel-innovation-with-generative-/2023/07/27/9855011.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Microsoft to get 'golden 1-2 punch' from cloud, AI, Wedbush says"
     excerpt: "Microsoft (MSFT) is slated to report fiscal fourth-quarter results on Tuesday and Wedbush Securities believes the tech giant will get a boost from the cloud and AI. Read for more."
     publishedDateTime: 2023-07-24T12:14:00Z
@@ -712,15 +710,6 @@ related:
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 15
-  - title: "Hexaware collaborates with Microsoft to propel innovation with generative AI - Tenjin for Knowledge Services"
-    excerpt: "ISELIN, N.J. and LONDON and MUMBAI, India, July 27, 2023 /PRNewswire/ -- Hexaware, a global frontrunner in IT services and digital solutions, is excited to announce its collaboration with Microsoft to propel technological advancement for businesses ready to embrace the future, harnessing the power of generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-27T10:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-collaborates-with-microsoft-propel-innovation-with-generative-/2023/07/27/9855011.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 15
   - title: "The future of business is here: How industries are unlocking AI innovation and greater value with the Microsoft Cloud"
     excerpt: "I have witnessed the staggering speed and scale of generative AI technology adoption, and how it has opened doors for organizations to imagine new ways to solve business, societal, and sustainability challenges."

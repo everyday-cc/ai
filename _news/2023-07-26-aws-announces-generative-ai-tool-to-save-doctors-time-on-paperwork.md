@@ -240,6 +240,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Web Services (AWS) Launches HealthScribe, A Generative AI Powered Clinical Documentation Tool"
+    excerpt: "Amazon Web Services (AWS) announced the launch of HealthScribe, deepening its commitment to augmenting healthcare delivery and innovating cutting-edge industry solutions. HealthScribe is a new service that will enable healthcare software developers and providers to create clinical applications that use speech recognition,"
+    publishedDateTime: 2023-07-26T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/07/26/its-official-amazon-web-services-aws-launches-healthscribe-a-generative-ai-powered-clinical-documentation-tool/?n=@"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Amazon hones in on generative AI at AWS Summit and unveils new AI projects"
     excerpt: "At AWS, Amazon announced that the choices will now include Claude 2, Anthropic's latest LLM, SDZL 1, Stability AI's latest text-to-image model, and a brand new foundational model -- Cohere."
     publishedDateTime: 2023-07-26T19:11:00Z
@@ -332,20 +341,15 @@ related:
       name: TV Technology
       domain: tvtechnology.com
     quality: 34
-  - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
-    publishedDateTime: 2023-07-26T16:14:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/aws-announces-aws-healthscribe-a-new-generative-ai-powered-service-that-automatically-creates-clinical-documentation/article_66b3c0a5-4314-5b96-a2ff-65b34c3d4e77.html"
+  - title: "AWS launches major GenAI push, debuts new offerings at NYC Summit"
+    excerpt: "Generative artificial intelligence (GenAI) will transform every application, industry and business and is finally taking shape due to an assortment of technological advances, Swami Sivasubramanian, vice president of database,"
+    publishedDateTime: 2023-07-28T00:28:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-launches-major-genai-push-debuts-new-offerings-at-nyc-summit/543772"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 33
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 34
   - title: "DocuSign Launches New AI-Powered ID Verification Solution"
     excerpt: "This enhancement to DocuSign's ID Verification solution is another step in the company's use of AI to strengthen its suite of agreement products. DocuSign recently announced the launch of Agreement Summarization, enabled by an integration with Azure's ..."
     publishedDateTime: 2023-07-25T14:39:00Z
@@ -364,6 +368,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
+  - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
+    publishedDateTime: 2023-07-26T16:38:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854711.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "yTPp3KgkcOBZPKSKxNyN4aBfGds5ks9tQ4v6pwfYJCIamEHTyAM0a1QlxWcMMpjrHPTXuy8bzEOE/rBgTWEB587pf/loc1zzlJkGIyvQns9Bibpovr1BjFW6P1C6TNKbh656JSCp2yxTxm51LAEK6D75Cby6Z/zFN5t0Qj5gnCGt9KvcSfNiQSoiC0EqWw1cjR54KHqtH62lj+4/xIfbWnJfVeY6wh0PElQXFG1dzh+BYBBnGEEOWM3IlLZ1ii3nad0DsVnq+rUU99sdFOsL5qKMQBRAZw9/3IElMa9LXQpGcirfYSn/MUWJf3wF3f+bekJZhUErkRlQMiOeRGHjtEy9RLWuW71EgID8qeJIMgIVv0vViJLvz/AZdSby60csBpPtw5wCsdYzB5Jpsetp4a//wUH49eReZ0YmhZ2xAX0i9xP4aOWOMiutmpo/rZmWIQcXoMf9HO5S34OgOdoW9Scjr4i4UNOm2cWC0enW48yj7EvTiPlMSyckpmc/nVg1RnkpJHvF329EsTg+sdP7uA==;lVP0Zlfwyxr04QoBrf2Zvw=="
 ---

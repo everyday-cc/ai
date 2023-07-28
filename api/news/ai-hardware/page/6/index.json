@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-14-amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.md",
+      "title": "AMD reveals new A.I. chip to challenge Nvidia's dominance",
+      "excerpt": "AMD's announcement on Tuesday represents the strongest challenge to Nvidia, which currently dominates the market for AI chips. AMD said on Tuesday its most-advanced GPU for artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?v=1686778965",
+          "width": 4548,
+          "height": 3026,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "publishedDateTime": "2023-06-13T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight.md",
+      "title": "AMD Cloud-Native EPYC Bergamo, HPC Optimized Genoa-X CPUs And MI300 AI Accelerators Take Flight",
+      "excerpt": "Under Dr. Su’s leadership, the company has assembled a comprehensive suite of silicon solutions for the lucrative cloud data center, HPC and AI markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "publishedDateTime": "2023-06-13T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market.md",
       "title": "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market",
       "excerpt": "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT.",
@@ -1359,92 +1464,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make",
-      "sourceUrl": null,
-      "webUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
-      "originalUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/c/a8/ca876be0-0143-11ee-9b3d-1b859d4763af/6479e538866c4.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
-      "cdnAmpWebUrl": "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
-      "publishedDateTime": "2023-06-04T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Niagara Gazette",
-        "domain": "niagara-gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perform other tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/",
-      "originalUrl": "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chattanooga Times Free Press",
-        "domain": "timesfreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

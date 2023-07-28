@@ -2,6 +2,237 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-19-automated-machine-learning-automl-market-will-reach-usd-154993-million-by-2030-says-ps-intelligence.md",
+      "title": "Automated Machine Learning (AutoML) Market Will Reach USD 15,499.3 Million by 2030, Says P&S Intelligence",
+      "excerpt": "By analyzing browsing history, clickstream data, demographics, prior purchases, and previous product searches for patterns in the consumer behavior, autoML systems may provide customized products ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59614131-automated-machine-learning-automl-market-will-reach-usd-15-499-3-million-by-2030-says-p-s-intelligence-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59614131-automated-machine-learning-automl-market-will-reach-usd-15-499-3-million-by-2030-says-p-s-intelligence-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-red-teaming-101-what-is-red-teaming.md",
+      "title": "Red teaming 101: What is red teaming?",
+      "excerpt": "Red teaming is the process of testing your cybersecurity effectiveness through the removal of defender bias by applying an adversarial lens to your organization.\nThe post Red teaming 101: What is red teaming? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
+      "originalUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T09:47:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-what-can-ubiquitous-radio-waves-do-for-healthcare.md",
+      "title": "What Can Ubiquitous Radio Waves Do For Healthcare?",
+      "excerpt": "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
+      "publishedDateTime": "2023-07-19T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data.md",
+      "title": "Use a generative AI foundation model for summarization and question answering using your own data",
+      "excerpt": "Large language models (LLMs) can be used to analyze complex documents and provide summaries and answers to questions. The post Domain-adaptation Fine-tuning of Foundation Models in Amazon SageMaker JumpStart on Financial data describes how to fine-tune an LLM using your own dataset. Once you have a solid",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/19/use-generative-ai-foundation-model-summarization-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T09:27:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-fox-news-artificial-intelligence-newsletter-nolan-on-ais-oppenheimer-moment-and-musks-lofty-goal.md",
+      "title": "Fox News Artificial Intelligence Newsletter: Nolan on AI's 'Oppenheimer' moment and Musk's lofty goal",
+      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bea4177d-fc89-447a-a047-adafe41d7d1d/198a0a87-17b4-45ca-b298-3ee6cc53798c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp",
+      "publishedDateTime": "2023-07-19T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha.md",
       "title": "SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha",
       "excerpt": "In case one needed more evidence that there’s a massive appetite for generative AI, SAP, the Germany-based consulting giant, yesterday invested in three major generative AI players: Anthropic, Cohere and Aleph Alpha. The terms of the direct investments ...",
@@ -950,238 +1181,6 @@
         "name": "Reading Eagle",
         "domain": "readingeagle.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama.md",
-      "title": "Facebook parent Meta makes public its ChatGPT and Google rival LLaMA",
-      "excerpt": "Facebook parent company Meta Platforms has built ... Much like tech peers Google and Microsoft, the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as the release ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/entertainment/salman-khans-kisi-ka-bhai-kisi-ki-jaan-becomes-the-third-highest-opening-weekend-grosser-of-2023/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
-      "originalUrl": "https://www.telegraphindia.com/entertainment/salman-khans-kisi-ka-bhai-kisi-ki-jaan-becomes-the-third-highest-opening-weekend-grosser-of-2023/cid/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/May/1684324426_meta.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
-      "publishedDateTime": "2023-07-19T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-computer-vision-eu-27.md",
-      "title": "Computer Vision - EU-27",
-      "excerpt": "Value in the Computer Vision market is projected to reach US$4.32bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.07%, resulting in a market volume of US$10.21bn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eu-27",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eu-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-speech-recognition-eu-27.md",
-      "title": "Speech Recognition - EU-27",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$1.32bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.82%, resulting in a market volume of US$3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eu-27",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eu-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-why-some-celebrities-are-embracing-artificial-intelligence-deepfakes.md",
-      "title": "Why some celebrities are embracing Artificial Intelligence deepfakes",
-      "excerpt": "The actors' union has warned that \"artificial intelligence poses an existential threat to creative professions\" as it prepared to dig in over the issue. However, Ms Yeo is not worried. She is one of a growing number of celebrities embracing AI-generated advertising.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
-      "originalUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/059E/production/_130183410_aaaaqfa3b6haqofh7zbfvipolgbt5ku-bkndsttedaciktjwhjrzthlpww-0afeimombx7zejjqxdcvapy9mlypgrzx84cf8pmal_uic1h_fmqmfjpbs_md0xsmqfs_hkd-h8hp31a7smho7bioqm0t0mnbb.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-65995089.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp",
-      "publishedDateTime": "2023-07-18T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai.md",
-      "title": "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI",
-      "excerpt": "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
-      "publishedDateTime": "2023-07-18T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

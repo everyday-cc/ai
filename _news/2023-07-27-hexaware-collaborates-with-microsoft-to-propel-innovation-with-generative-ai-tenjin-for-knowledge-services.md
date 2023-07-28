@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-27T10:33:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-hexaware-collaborates-with-microsoft-propel-innovation-with-generative-/2023/07/27/9855011.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-hexaware-collaborates-with-microsoft-propel-innovation-with-generative-/2023/07/27/9855011.htm"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
+    width: 400
+    height: 240
+    isCached: true
 
 related:
   - title: "Generative AI Views Of MIT Prof And Goldman CIO Bode Well For Microsoft"
@@ -358,22 +364,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "KPMG and Microsoft enter a landmark agreement to put AI at the forefront of professional services"
-    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of busine"
-    publishedDateTime: 2023-07-23T08:28:00Z
-    webUrl: "https://www.albawaba.com/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/KPMG_Microsoft_EA_LinkedIn_1200x627.jpg?itok=GG3YmLd-"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Genpact teams up with Microsoft to empower its workforce with generative AI tools"
     excerpt: "Genpact aims to empower business teams with generative AI use cases, enhancing employee productivity, operational efficiency and agility."
     publishedDateTime: 2023-07-25T12:00:00Z
@@ -732,6 +722,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "Zw69hx791T5o0JvKBuyvkOCOlDSrCrpLM1AqV24lyvvD7cc0mocoUffuLxJIlPvtNc3zOvMb+vyYVg/0KvSmlGwTuWsJ5mb7pbRztuhPgeOVAfU5t9n7Um4zbyzwa0qfCownSsaBZUQveIOD6ownqYvoptm2zSsIn1QWqE0dFvD20McDvxhaqPs0EIrJvfXiiEAlR4XamgYayv7VZb/DZTW4ribJzYHXhDIpb0h4eviGn9NfYEObFHYRaXjisu7MvryyKgjA6OsFn4VtdZF/Y6sOK3jMSDTv9QFQCQ8y6XLdoYp84XU6vYDswyYiZw4pdvGXIjVSQlU3VQCDgCnJp38AkzmuWkV8eevI+ujDf+/Q7m/Pvgt2SIK+bO4Le6k4mWqoNe7WoSWjyxZ2eD3XFv1AweSq+n9u0nhzVher35LpObxwmbQhCqtw+voHCuLczOLg+bqZ9P/m1UXjGpmhAsuaH1MlAyl0UASYcRQ+qgpe+6Fb2p7DTOwf9aG1kfQ0I6Xes3QIe6wM2OGcW+4EMQ==;+OvQiPMvqatzJnF3iJgOwg=="
+secured: "FENCXErBxq3XQjt+HvWGjPMgVvoTgeBtwUEMC5/uRBsm846uBLObiYlLStOx2UUD+oVTsSTW2ptGYje4C9DLIQXkN6lVSN46aqbQ9ecGxiVow5OycjpLgD8ib4zTQEr4q5Nw2U+SdXRvupKPg2RJORiR+50zyiuIfbSJlZ4urneqO3h2LM5HsvS6q/6x4elSOD8Ys1Qlbye837+lfy4/IRGVfhP+HVGA6Ilom2awCOYZ+pV+1w7sI0F3ZDE/pyfqMwSE9+EABrYGZIpm0JUoGjRcE59Vziu7EdU5FkkPtKElUNrEuIXWsYfUFzlcg4VcrgzW1fpRXV1BaGc8nUaKzZ4CV6RnyWMC5BFkFI/daiQ=;xfIC8NzJxuvCaZ/s7fMqXw=="
 ---
 

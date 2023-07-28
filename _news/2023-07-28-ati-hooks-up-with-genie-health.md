@@ -21,8 +21,8 @@ topics:
 related:
   - title: "ATI PHYSICAL THERAPY, GENIE HEALTH ANNOUNCE STRATEGIC PARTNERSHIP"
     excerpt: "ATI Physical Therapy (\"ATI\" or the \"Company\"), a nationally recognized rehabilitation provider, today announced a strategic partnership with Genie Health (formerly known as PT Genie), a leader in the digital MSK healthcare space."
-    publishedDateTime: 2023-07-27T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ati-physical-therapy-genie-health-announce-strategic-partnership-/2023/07/27/9855411.htm"
+    publishedDateTime: 2023-07-27T14:03:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855411.htm"
     type: article
     provider:
       name: TMCnet

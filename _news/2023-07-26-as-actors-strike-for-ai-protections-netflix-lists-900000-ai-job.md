@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Netflix touts $900k AI jobs amid Hollywood strikes"
+    excerpt: "\"So $900k/yr per soldier in their godless AI army when that amount of earnings could qualify thirty-five actors and their families for Sag-Aftra health insurance is just ghoulish,\" actor Rob Delaney, told The Intercept."
+    publishedDateTime: 2023-07-28T02:34:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-66332876"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11C97/production/_130555827_gettyimages-1242278437.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Disney, Netflix go on AI hiring sprees as strikes drag on"
     excerpt: "As the Writers Guild and SAG-AFTRA strikes drag on — and with the use of AI being a big point of contention in negotiations — major entertainment companies appears to be hiring for jobs in the AI realm. The Hollywood Reporter searched searched through job listings and found a number of open positions related to AI."
     publishedDateTime: 2023-07-27T17:35:00Z
@@ -57,6 +73,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
+    excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
+    publishedDateTime: 2023-07-24T04:59:00Z
+    webUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html"
+    ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 57
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
+    excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"
+    publishedDateTime: 2023-07-25T18:42:00Z
+    webUrl: "https://time.com/6297575/ai-film-hollwyood/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "Netflix lists $900,000 AI job as actors and writers continue to strike"
     excerpt: "Will this pair of Hollywood strikes ever end? It looks like the big corporations are digging in for a long battle, illustrated by Netflix’s recent job posting for a machine learning platform product manager."
     publishedDateTime: 2023-07-25T19:06:00Z
@@ -91,6 +132,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Hollywood writers fear losing work to AI"
+    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
+    publishedDateTime: 2023-07-27T09:01:00Z
+    webUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Netflix posts $1.3 million artificial intelligence job as actors strike"
     excerpt: "Netflix has sparked outrage by announcing it is hiring a $1.3 million-per-year AI job, as actors and writers strike for better pay and protections against technology."
     publishedDateTime: 2023-07-27T19:46:00Z

@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-25-ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says.md",
+      "title": "‘AI-Driven Bubble’ May Burst And Drag Down Stock Market, JPMorgan Says",
+      "excerpt": "Fallout from elevated interest rates, an “erosion” of personal savings and a “deeply troubling” geopolitical situation will lead to broad market declines, according to strategists at the world’s largest bank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bed4cc9cc6a1aae39b88ca/0x0.jpg?format=jpg&crop=2553,1435,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/amp/",
+      "publishedDateTime": "2023-07-24T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-cadence-lifts-revenue-forecast-as-ai-boom-boosts-chip-design-demand.md",
       "title": "Cadence lifts revenue forecast as AI boom boosts chip-design demand",
       "excerpt": "Cadence Design Systems Inc on Monday raised its full-year revenue forecast slightly above Wall Street estimates, as a surge in artificial intelligence (AI) innovation fueled demand for custom semiconductor design.",
@@ -744,6 +795,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-ayozat-integrate-ai-into-their-deep-tech-product-tlc.md",
+      "title": "AYOZAT Integrate AI Into Their Deep Tech Product, TLC",
+      "excerpt": "With AI now built into the AYOZAT TLC core, the Company will be one of the first to integrate AI in TV channel building and curating. AYOZAT will",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/9210/174576_ayozat1.jpg",
+          "width": 560,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-the-importance-of-ai-in-creating-situational-awareness.md",
       "title": "The Importance Of AI In Creating Situational Awareness",
       "excerpt": "As the way organizations operate continues to change rapidly, understanding the role of AI in sustaining situational awareness can help align several business aspects.",
@@ -752,7 +855,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1135,111 +1238,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach.md",
-      "title": "The Potential And Pitfalls Of AI In Healthcare: A Measured Approach",
-      "excerpt": "It is critical that healthcare professionals and hospital executives maintain a measured approach toward AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64999aa003d4598ee35d4178/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
-      "publishedDateTime": "2023-07-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security.md",
-      "title": "For a short time only: Time-based restrictions for enhanced cloud security",
-      "excerpt": "Learn how to apply time-based restrictions on IBM Cloud with Terraform.\nThe post For a short time only: Time-based restrictions for enhanced cloud security appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
-      "originalUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/91584999.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T03:26:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

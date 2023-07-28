@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SK Hynix says memory chip recovery has begun, flags robust AI demand"
-    excerpt: "South Korea's SK Hynix said on Wednesday the memory chip market was beginning to recover from a deep downturn amid robust artificial intelligence demand that helped it narrow its second-quarter operating loss from the prior quarter's record."
-    publishedDateTime: 2023-07-26T01:56:00Z
-    webUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/mz5uLABumoYAIy_PP-uLCpUe3D8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TGUHCMEOWVNKXBNKYOYSLWIGJY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Strength in AI chips is unlikely to offset overall weakness in demand for SK Hynix: Analyst"
     excerpt: "SK Kim of Daiwa Capital Markets discusses SK Hynix's latest earnings and the severe competition the company may face regarding AI-related chips in the future."
     publishedDateTime: 2023-07-26T04:47:00Z
@@ -75,6 +61,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "SK Hynix says memory chip recovery has begun, flags robust AI demand"
+    excerpt: "South Korea's SK Hynix said on Wednesday the memory chip market was beginning to recover from a deep downturn amid robust artificial intelligence demand that helped it narrow its second-quarter operating loss from the prior quarter's record."
+    publishedDateTime: 2023-07-26T01:56:00Z
+    webUrl: "https://www.reuters.com/technology/sk-hynix-reports-q2-loss-chip-glut-continues-2023-07-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
 
 secured: "TZDzJQkePv3DuRZCCeNTRHCh2iaS8txdaPCpAlfzRevOAc2kRmMUk7poNrgUb0vP38SBrL1oZR10K4a+Xas+w1Xzq1iD8WQ8KEyV7ka3kuXZP6iXJS3MBPJDVgBlVw45w/4PoLIdzUsBNIHOluiXoaJASjDlnUu9iNMZ27f0jBf+reDAjMD/pqC8gzv+lbrj+t81iefSl1XgVHtJonJB5WLs+6pvU6leBo/OUKqq3XjRzQYG1xI1UJi+LaPcGJc3JeQgTtGTnFezu+6YjysGWME9XJ2UKvlcbZmRFO95yGMGEre8ODtAwlbQZS+Yf0jJFlLX5A+n/qi5W7XmHGTTlds/HxPMo1QTUynmq+NsF1YX7OW6xkO6jC95uKRHKwwDuxHyirmNOInaWumCpNQYhbg2/dwLNgF5zVdzxls/Pscqa5HUaBCSVHpklu6P0GBUTj4hNz85mHdYF3OhiIrHnQhtTy7cHBJxt3lQXLHDuRAd6n+CG0dUwWNQT0rvm2Iqkcmv6TUVlM3BCC8vIURLjA==;tRHyhnso0dNfReHLQqAbHg=="
 ---

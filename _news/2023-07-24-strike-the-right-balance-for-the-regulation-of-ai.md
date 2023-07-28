@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The emergence of an AI revolution in the IT industry"
+    excerpt: "Incidentally, AI as a concept was also first introduced in the 1950s by Alan Turing. Early AI applications were limited due to computational power constraints. The exponential growth of computing power and access to big data laid the foundation for AI development."
+    publishedDateTime: 2023-07-28T02:30:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-27T172014.074.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence and International Affairs"
     excerpt: "Artificial intelligence (AI) is a topic of global concern, with debates surrounding its potential dangers and benefits, highlighting the need for international regulation. The integration of AI into society raises profound questions of ethics,"
     publishedDateTime: 2023-07-27T11:06:00Z

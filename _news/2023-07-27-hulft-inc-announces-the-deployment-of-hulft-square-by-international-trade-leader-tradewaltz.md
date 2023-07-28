@@ -26,17 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud"
-    excerpt: "SAN DIEGO,  (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software and services that combines advanced technology,"
-    publishedDateTime: 2023-07-26T17:45:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854740.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
-
 secured: "rfSAmuN4tbdhCsITCRXLPAIshtqqkGC4jUS/Y8rA7x9uPvo66EfPJgAF3bpT+L4NO9LRgTrkVAUQQCilvtxBBbzPC7BjJbuRioewa+RtgUvftlRRaeTUtyBHp04y/sQ6XN22yFqwEr0IgNxp5dzuGZjnsI65ABtxhF8e1GieiUkUsR3xqWnNsjDOJwRoIFnxGqB0BoAC1cVuI2PszGmRsqxzzyEqk+PIEumpR+96axdW+RgofnUmwsevSLdfdKglGBJaaAxs/J+ig8vNHLMvNpkHlDhAnDGLsVMn8B370bOr/EzL/uByJYlXB/qqaTsDCuWvBItzyxfbTo2oVKiQDPe3NYSKySHv/USnOmIedGo=;aRTHJ9ZWNmyYMmYplzNU6w=="
 ---
 

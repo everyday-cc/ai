@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Adjust and data.ai Find Japan App Usage Surge In 2023, Marking Strong Recovery"
-excerpt: "Today, leading measurement and analytics suite Adjust and mobile data analytics provider data.ai released a new report with mobile app trends and critical benchmarks for performance analytics in Japan."
-publishedDateTime: 2023-07-27T14:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855267.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855267.htm"
+excerpt: "New Japan Mobile App Trends 2023 report shows in-app spending increased by 13% during the first quarter of the year in Japan, with total 2023"
+publishedDateTime: 2023-07-27T12:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/adjust-and-data-ai-find-japan-app-usage-surge-in-2023-marking-strong-recovery-1032484437"
+webUrl: "https://markets.businessinsider.com/news/stocks/adjust-and-data-ai-find-japan-app-usage-surge-in-2023-marking-strong-recovery-1032484437"
 type: article
-quality: 35
-heat: 35
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2163264/Adjust___Japan_Mobile_App_Trends.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "pRRyWYX7tCQ9yENGz+R1ERAui9WKCpg3l/A8LEt0adSp0y3He/Q+2ETUQjWMXJ5PM69XAaFwKgZvb9Zp3Oiemr8Xa5O0QqFnxEL5BiEKkxpIBrx/rdSb6Tf11XpuXymSTZD0swQRflUOIAUqy/B8+qAzkQ0oekgzMCeSHjY0gaN4Udk+GrvBRty1yW5cJ7UNT79GY/W9N5EHlYtbTc2dP1/fbnvhet6ZqqCBFYJ+apvFCRKi4xsWWgMwxoLWu8Io8IPZ2fc25UFRBAZYt7KxE054dZ0at363O8t3emDlISirid953X4ZrAkO+1zJ2SaTf9Evpl4KlTgXC5OBEodvtQaAD7SiwyiD1GZlNiWVUhA=;EMIGJ+/hQynoyYEJzTz/Ng=="
+secured: "/MhRtkJqJtFsx2CLlED1RK3BqqnPiRJbf8x3oaiYhePavl9DcYDZFuLXT9cEaAWilCNN34r/D7J5nLFsqn91R88QHjB/6UpUuja/SzRvqtQXi1FUL7hiLlOdWRfMDVBcxfjoI50Q7O6ffoPhBDvmXHHKllhEu5mD+QSdAQbL/A3cxo1/QUSFLuJsreOf+jYOqpN0AVrrxovQ9d2Vsy63xwTr91kTFCkpUP/F6bATGZka9npMqvLjDrTduoDp3HIitNqjMoHwaOcSg9Qm0Xk/c17XIrWvZ671OqQSNZihA4pGJ9tbkyYj6NGzEihkpNX5kXalKZUhKX6SGiVmKk2GXcgXnFYiRy7LjYfLAv0B8IDdzeehnjGG8uv1ApojDpw3fu2Xe287zFwpb2KqjoqazycmfOQR1PlDBSlVsn4kOja/jVrND1VfT4fOp/m9OFKqBZk1kN4x7XEHDpQmPD6EXzbTtHmlUpH+f4qmpTaYRymcndD4j9/dZ2DLxIs/SXK5jyTOqgC4VJbZ14b4UFxt2Q==;BYHXZ4EabWT5WL8JxGOG/g=="
 ---
 

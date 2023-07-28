@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Mobile Artificial Intelligence Market to Hit $84.97 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by Grand View Research, Inc."
-    publishedDateTime: 2023-07-26T11:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854193.htm"
+    excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by"
+    publishedDateTime: 2023-07-26T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33386961/mobile-artificial-intelligence-market-to-hit-84-97-billion-by-2030-grand-view-research-inc"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 7
 
 secured: "engaFupJzdOvg/KTomgkMnerMz1qoKq4AOZ0fAGOI2JJgN0o6UcoWwmFueBtblZb6rC+UeKScPsgMeaoB50O8v8gzHvjip1nOqnPtbnnMUsV/2iGFgMtHIPMjKh/z/B878Le0aik+oGJ2kbgvhPy+4BMzKXszb7Wdjk/vbhKOZO1SjhBgG+H33dRd/GEJreOqsfp+HFGBO6p0zpYBZQTlVg0nS8jyjIwXsdu/+2bI3pVmSMrdHt3lPSil3S5tHUKr0L0QpQAzWHywil0omBAJnLFszALgTggVSgCux86Q60dmWyOmlvASfrZREkXCSyGzBGmhs2E3UKTzRR0R9vVd46yOu6E4QlRxG/FykiHlFvPnJbqw8fID9qJUqtooQ5Xxm4JrjZZ7fbE3s5WRlldAvIY1phQfIgK7H5a78ncErFOIRgdVBdSXds0TOQkvOhJQoZKGyzizA6XSn5PpFvviAKczV/49zkh8M1S4jR/yzQ6/5M5gN/GEnH1QkXMSWCkil0FfAJy4X0BILBuNgA39Q==;uTZOCT3qBi31zo0Rkmr7Yg=="

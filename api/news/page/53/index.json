@@ -2,6 +2,394 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-06-23-aws-100-million-investment-to-train-customers-in-generative-ai.md",
+      "title": "AWS’ $100 Million Investment to Train Customers in Generative AI",
+      "excerpt": "The intention behind Amazon's $100 million investment in Cloud AI education, is to persuade clients to switch to AWS to build new generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technowize.com/aws-100-million-investment-to-train-customers-in-generative-ai/",
+      "originalUrl": "https://www.technowize.com/aws-100-million-investment-to-train-customers-in-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
+      "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
+      "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "publishedDateTime": "2023-06-23T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-marvels-secret-invasion-ai-scandal-is-strangely-hopeful.md",
+      "title": "Marvel’s Secret Invasion AI Scandal Is Strangely Hopeful",
+      "excerpt": "News broke this week that the show’s opening credits were made using artificial intelligence. Fans immediately cried foul.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6494948a9ec11a2433532b58/191:100/w_1280,c_limit/The-Monitor-Marvel-Secret-Invasion-Culture.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-machine-learning-from-a-digital-marketers-perspective.md",
+      "title": "Machine Learning From A Digital Marketer's Perspective",
+      "excerpt": "I believe that machine learning holds the transformative potential to revolutionize digital marketing and SEO in ways we are yet to fully grasp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6168a643eda3c2e0494d8640/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/",
+      "publishedDateTime": "2023-06-23T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-ai-leaders-have-an-incentive-for-us-to-believe-robots-can-kill-us.md",
+      "title": "AI Leaders Have an Incentive for Us to Believe Robots Can Kill Us",
+      "excerpt": "Onstage, leaders in the field kept repeating one idea: that AI, and the people building it, are very important. “This is unquestionably going to be the most radical transformation of our lifetimes,” said Mustafa Suleyman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRGjUocpN1o0/v1/1200x799.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-ai-investment-value-at-every-link-of-the-value-chain.md",
+      "title": "AI: Investment Value at Every Link of the Value Chain",
+      "excerpt": "This is the second article in a series. The first article can be found here: “Although AI is a Bubble, It’s Still Investible.“",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-530-1024x465.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-the-generative-ai-investment-sprints-for-supremacy.md",
+      "title": "The Generative AI Investment Sprints For Supremacy",
+      "excerpt": "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1391,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
+      "publishedDateTime": "2023-06-23T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-aws-invests-100-mn-to-help-customers-build-generative-ai-solutions.md",
+      "title": "AWS invests $100 mn to help customers build generative AI solutions",
+      "excerpt": "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879",
+      "originalUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp",
+      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp",
+      "publishedDateTime": "2023-06-23T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News Minute",
+        "domain": "thenewsminute.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-ai-has-the-potential-to-automate-40-of-the-average-work-day.md",
       "title": "AI has the potential to automate 40% of the average work day",
       "excerpt": "Research says AI could automate two-thirds of your work. Making the most of that potential will depend on the ability and motivation of employees.",
@@ -799,402 +1187,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
-      "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
-      "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "publishedDateTime": "2023-06-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai.md",
-      "title": "Korean webtoon uses AI to copy anime artwork and characters raising questions on the ethics of using AI",
-      "excerpt": "A South Korean webtoon has allegedly plagiarised Mushoku Tensei's artwork using AI causing uproar among the community. The ethics of AI usage are under scrutiny A South Korean webtoon is under fire as it is accused of plagiarism and for using artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
-      "originalUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Jobless_Reincarnation_1687438850587_1687438860004.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
-      "publishedDateTime": "2023-06-22T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.md",
-      "title": "MongoDB adds vector search to Atlas database to help build AI apps",
-      "excerpt": "In addition to integrating Google Cloud’s Vertex AI foundation models, MongoDB is adding features aimed at making Atlas a complete developer data platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
-      "originalUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/programming_coding_elements_lines_of_code_development_developers_teamwork_by_dean_mitchell_gettyimages-1055056840_2400x1600-100795791-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
-      "publishedDateTime": "2023-06-22T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-amazoncom-to-invest-100-million-in-new-aws-ai-center.md",
-      "title": "Amazon.com to Invest $100 Million in New AWS AI Center",
-      "excerpt": "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "originalUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 444,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "publishedDateTime": "2023-06-22T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031.md",
-      "title": "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031",
-      "excerpt": "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-the-last-ai-boom-didnt-kill-jobs-feel-better.md",
-      "title": "The Last AI Boom Didn't Kill Jobs. Feel Better?",
-      "excerpt": "ChatGPT is stoking fears of mass layoffs, but a study of several EU countries found the deep-learning boom of the 2010s actually created job opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/649386a2e416fd283a85c3dd/191:100/w_1280,c_limit/The-Last-AI-Boom-Didn&#x27;t-Kill-Jobs-Business-1253019033.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws.md",
-      "title": "How Light & Wonder built a predictive maintenance solution for gaming machines on AWS",
-      "excerpt": "This post is co-written with Aruna Abeyakoon and Denisse Colin from Light and Wonder (L&amp;W). Headquartered in Las Vegas, Light &amp; Wonder, Inc. is the leading cross-platform global game company that provides gambling products and services. Working with AWS, Light &amp; Wonder recently developed",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/09/lnw-figure3.png",
-          "width": 974,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T08:59:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.md",
-      "title": "AMD to spend $135M on chip R&D in Ireland for AI, data center, mobile tech",
-      "excerpt": "A year after AMD acquired Xilinx, the chipmaker has announced plans to build on the semiconductor ecosystem Xilinx had already established in Ireland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
-      "originalUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/06/amd_hq-100942505-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
-      "publishedDateTime": "2023-06-22T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

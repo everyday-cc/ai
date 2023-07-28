@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-fintech-dobin-brings-game-changing-ai-powered-solution-to-personal-finance.md",
+      "title": "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance",
+      "excerpt": "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-top-ten-transferable-skills-into-fintech-as-of-2023.md",
       "title": "The Top Ten Transferable Skills Into Fintech As Of 2023",
       "excerpt": "In an industry in constant change, individuals whose skills can constantly transfer to new demands will be increasingly important.",
@@ -1296,41 +1330,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-unlocking-efficiencies.md",
-      "title": "Juniper Research: Regtech Spend to Surge to $207 Billion Globally by 2028, with AI & Machine Learning Unlocking Efficiencies",
-      "excerpt": "A new study from Juniper Research, the foremost experts in fintech, has found that spend on regtech by financial institutions and other industries will increase by 124% between 2023 and 2028 globally,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32810416/juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-u",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32810416/juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-u",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

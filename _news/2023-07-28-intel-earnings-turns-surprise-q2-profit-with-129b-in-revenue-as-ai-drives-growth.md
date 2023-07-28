@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-27T20:21:00Z
 originalUrl: "https://venturebeat.com/games/intel-earnings-turns-surprise-q2-profit-with-12-9b-in-revenue-as-ai-drives-growth/"
 webUrl: "https://venturebeat.com/games/intel-earnings-turns-surprise-q2-profit-with-12-9b-in-revenue-as-ai-drives-growth/"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/cto-7.jpg?w=1200&strip=all"
@@ -43,6 +44,6 @@ related:
         height: 457
         isCached: true
 
-secured: "tgNxKDqq5sM2WSWvI7w6cymcsLqd32sdMIhXC3849h4j/Q5CwybQecf4DNOkOey58uMrdsa4XgKJhyilXEULZSG/jI7q+5RARxMrIJ3ZaR4r/8wdZHTqOYQdm4N8iNhiQnZWwL/Xjv6YaCySwazkmPB/ETwgUeeQ43M4Scy+i3vDLt0/AcaIoxLApIlNMqcm/URM1GsyqkQfUHIEEZpmGH/s+1NqS7gytUwuadzVfVfel6UzpBwh8c2eJLDML1MmA5B1wnkLobTGLEnpCF8CaD/wh/JabCNPRWHGDwi7UZPSfH2oFnNA2+TvFCYHnI/W4JZk0EuC72+7qQg9Pesfk8LUY/dKY5ocWw0EXYdoC2M=;Ys7esLjIeUH37iDpwUbz7A=="
+secured: "2E8bI5YEQMW3qEPQhjx9t72TnF4azgcFXlQNpnW12uhsPbJkiGXmRuamlcincr/kB6/7+tULCiRzzgGKBu92YtUKJXx9uTn4tCcRpYnDQrTJdx6bXkpTvKJB8SQLH7itmzlgEWRb+SmCenumcG27t9QzIrl0jAXZJBllwTP0Zk9y4lvN97liaF67teHuck6Ko+drcaJjKl7H5Fd9BGVhN9oVc654cApwetsCfhYS5kpUXxFhOhx2glPub7jwo/Z9VkJNglqrEzOJf95HOofvJxYtuX9tgrMJiuSRVgPeWKF5gGgO7/USvKFoCmR/tmPgzEjSkXOIGlvwAQTMipsdLQruBYxCGotShz0LSoDpUXnlvDFe2EzMKw7cZxvzIeHgUswZEdJwLg0ftO1y9sn4edksMbMBcn5SQLizkYaOlkuQf5Ap+L9cJy1396e8etVWPoo1UZT9kvcm90KMisgpt/wGNNHHIl/y3TPCxF9eP+sGTRM0foUIQ8nkk2lz92F5MhFYcOUJLweCG4d4vUnJUA==;JkVoRN9YXBE6ra3sYh/s3Q=="
 ---
 

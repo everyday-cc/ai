@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
       domain: thehindubusinessline.com
     quality: 39
 
-secured: "aPCCJ7ZHiUa+QlQ71myieqvXBZ91Yz/04nvbT7mbZwVb8IwBDUGhw8O4mWLMoTvKVFHkSOx0m1urj+tMYZpP0a0fI4in5HZ7hazkRK+I3BYPYfZyXW4ls5d0CXQwUxpdQOiHSBjJf0JgyH2k/HEedL+2zJiXq8GC79ULOXwYbj7nkc+srZJUUKFu1aKBRIkvjIxKzh+6HuPtJ09wDSyT4ZtDKqCh+m1aAZCCOAy/oreJouD2AZbcMwlBo4j++wNh833dy7a7wW7cILy1a7l/y2JD8PtHdMrXo0T6rMszb+sDFVutLpvUTtGBmtQPsO6GjT+Reuvgsboi44/ZWAQNzTq50LjNVu6lx7N1z5gi7f0=;UOnZXh8vzQoU7PhmlvZpiA=="
+secured: "qcRDpzNkNUT07o7tM0dv5WoAYLI+ED6fehk/KFajs9cRXr2ywgmFrfgxEzgTNkkbCtV7P4MYyoi3Pzduf2bpT3twWEwEC7PQJXYMTofgbQGcxDjvqcZ54wBFxIfCYphqidl8sTGMO+VG0Z/SaYnKgyHkb3c7KEp2GSzmcZjZ1PS85qTvGEZyhG2l2+l7MnDRDLCpMpsccwBDqUmiGZcr4dXASpuK6wMvEggcOqP1AbYN8tqqx5IJRRCzS5ak+T1b9X5Xtj+yoqsvorlGTmqw36Cla95YUR/TGWZDJxTkyZ05v1F60l8WkAIqsEutdZbW2+Z7W97x3ls3vtYzfTyeL2+cTIl65TSoMql5eiZgJYsXxdXphZYk14sBSNQPjin4yoddreKZrX5iFrnHdIvO1LqbgEu/Wurgf9RvNNhVkxCbs2+ieTwh6q7m7kJ20Y1tnDb8G3PnMT4E8lF4S7Ps6zSKY29xDy9qPbvQj13gME73oHJwDIMW7fff+DJgpfPHHp1/0QfrCJQhfTDpuEgodg==;3BgEtwVxMXDajI4AC+GJnQ=="
 ---
 

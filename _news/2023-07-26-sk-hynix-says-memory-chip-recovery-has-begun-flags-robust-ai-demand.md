@@ -3,10 +3,10 @@ category: news
 title: "SK Hynix says memory chip recovery has begun, flags robust AI demand"
 excerpt: "South Korea's SK Hynix said on Wednesday the memory chip market was beginning to recover from a deep downturn amid robust artificial intelligence demand that helped it narrow its second-quarter operating loss from the prior quarter's record."
 publishedDateTime: 2023-07-26T01:56:00Z
-originalUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O"
-webUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O"
+originalUrl: "https://www.reuters.com/technology/sk-hynix-reports-q2-loss-chip-glut-continues-2023-07-25/"
+webUrl: "https://www.reuters.com/technology/sk-hynix-reports-q2-loss-chip-glut-continues-2023-07-25/"
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/mz5uLABumoYAIy_PP-uLCpUe3D8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TGUHCMEOWVNKXBNKYOYSLWIGJY.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "SK Hynix posts narrower second-quarter loss amid robust AI demand, sees chip recovery"
@@ -76,6 +70,6 @@ related:
         height: 900
         isCached: true
 
-secured: "HiYXJKwKa3ujqb1jmb7pm2Wb16E8crh+djAhXcRRQuRTmSYAtTKMr/RVMwP4I82wfjAedkz1F1hgPGZ2+SQMEtyLqKxMA/pPjJuORnypWOU667KaYFEbcorjfmi78x0xhaZoaGm5OvoDzAJNd7OKI4efZ8s6QICLNNAbS4qbf+86mqSnjJ5Y8OaNpILbTE8E4PQ8xBori2ThEmHtc7b5ecRhKZT6CZHbrVAJzyQ172o0j1DI18Rn+u3BV/bXfDexB/0oouMbn3cPSXj0HB17BWsWvTbgZInzAPViFe9llObMv/Bc+MYoCx/yfWC3XSAY8a4++lRVzmMN1mMfVPffLy5WJiKKs2VnW6g6TqOLNu2FBkiWIvXjJhhV4wX23qY4uTZAGwnRqVrPASxoyAtCwtwa2/dS3heMyTSm3MWgRtieefD8hNQe3l+otTNSIzwm7mzfGFg8hZKhStivw/S0YL2apAt6lPhsfbUGhgy1uYLLmWBF0o1GuAUo5KFwdsjnutZGWKExKw2Xv4WWS0/59g==;zmNFWjm8H5gZFbTQIxipcQ=="
+secured: "wNXZdOzyessxIpmcBfTT87PDQ97gkMnbQARG57IgcTGX5YNEV5XVZzbdgP1szDOO9kpHM2v4aLpr1CTfQOeaQPzzlBL/6DTWReMK4Lh0udHH2xfRvWbkvTHIo+rGLpuaL4LqNM8RuXJdnY0YyEqdfMJSTbA+OHrf0Kj4vcyS8dxcNw0vsgu3GwEYhef1mzTPDsngE9Abrv3RAhbDBRRqXOfyoIOeMzZD12QrAngdJfkyD9+wHF43Gfl6R6oURm4kbYtxmiz3S9NRY8nrD4MAthgUcpgHN3IQVBGDDPMOQc1qlR1A0jux0T14CcWLxcAGn2118UWF1N9J4/gA/sZCq6TrpQB8PV3DdiLfNE6HH3X/J0/RLZ/4kg/VyyzprBeTFNyPj8UPf/uUzzbqYu1Ngad+1kMGq3Seb2H7D8XoZ8ogYhMHTnX9cqgoUUn09oDwSxrrG3i16ozNctgqFzG6mnPCobpugjUFr5ZsjFUC9YRCxUjMfg9iaC77CI+xSKmwCrxj/640XJ36kD5wqwU8/g==;aamZta2dr6py868VVffTDA=="
 ---
 

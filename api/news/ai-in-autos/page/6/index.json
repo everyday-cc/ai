@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-15-robotaxis-take-over-the-wheel.md",
+      "title": "Robotaxis take over the wheel",
+      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
+      "originalUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d14e0irai0gcaa.cloudfront.net/www.lewistownsentinel.com/images/2017/01/31093349/fb1.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LewistownSentinel.com",
+        "domain": "lewistownsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-artificial-intelligence-got-you-freaked-out-watch-these-movies-to-feel-better-or-totally-validated.md",
       "title": "Artificial intelligence got you freaked out? Watch these movies to feel better (or totally validated)",
       "excerpt": "Naturally, this happened after said robots revolted against humans ... to kick off war with the Soviet Union. A doll with artificial intelligence leans into the very human emotions of jealousy ...",
@@ -1351,49 +1394,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say.md",
-      "title": "DMV can't be trusted to prevent crashes by driverless trucks, California legislators say",
-      "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. How we got here The Legislature handed driverless vehicle regulation to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say/article_e2876637-adc7-59ae-b204-437ce2a944da.html",
-      "originalUrl": "https://www.eagletribune.com/region/dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say/article_e2876637-adc7-59ae-b204-437ce2a944da.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

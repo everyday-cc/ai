@@ -193,7 +193,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 371,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -1180,6 +1180,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-12-the-best-amazon-prime-day-deals-of-2023.md",
+      "title": "The Best Amazon Prime Day Deals of 2023",
+      "excerpt": "Apple Watch Series 8 (45 mm) — Top Pick Amazon deal price: $310; street price: $360 What we like: The larger version of our top pick. Builds on the features we liked from its predecessor by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2023-0712/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2023-0712/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-amazon-prime-day-day-2-best-prime-day-laptop-deals-2023.md",
       "title": "Amazon Prime Day, Day 2: Best Prime Day laptop deals 2023",
       "excerpt": "The experts at CBS Essentials have rounded up top-rated, customer-loved laptops at Amazon now. All of these laptops have a four-star rating or higher and include tons of positive reviews.",
@@ -1393,40 +1436,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab.md",
-      "title": "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab",
-      "excerpt": "The post Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab appeared first on Spotlight Growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

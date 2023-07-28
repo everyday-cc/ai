@@ -125,20 +125,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "From customer profile to improving accuracy, fintech takes to AI"
-    excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
-    publishedDateTime: 2023-07-26T12:01:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/India%27s richest"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2023-07/bd664f0b-8b35-4e19-b3d2-4b103faf5879/Santosh_Bipin_blog_pic.jpg?w=700"
-        width: 700
-        height: 437
-        isCached: true
   - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
     excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
     publishedDateTime: 2023-07-26T19:55:00Z
@@ -237,6 +223,15 @@ related:
         width: 600
         height: 500
         isCached: true
+  - title: "From customer profile to improving accuracy, fintech takes to AI"
+    excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
+    publishedDateTime: 2023-07-26T07:12:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 19
   - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
     excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
     publishedDateTime: 2023-07-24T12:54:00Z

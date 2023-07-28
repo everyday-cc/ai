@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI news anchors: The new phenomenon of Artificial Intelligence replacing newsreaders"
-    excerpt: "The AI era has arrived, and as AI news anchors become a reality, will AI replace human news anchors in the same way it displaces labour in other industries?"
-    publishedDateTime: 2023-07-23T11:00:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 67
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sana-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "India now has AI news anchors. I tuned in and within the first 5 minutes, it's clear that news presenters are in serious trouble."
     excerpt: "Add India to the growing list of countries with AI-generated news presenters, who could easily pass for humans if don't look closely."
     publishedDateTime: 2023-07-25T09:25:00Z

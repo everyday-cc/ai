@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-27-leveraging-high-performance-computing-to-help-solve-complex-challenges-across-industries.md",
+      "title": "Leveraging high performance computing to help solve complex challenges across industries",
+      "excerpt": "As industries strive to remain competitive, IBM Cloud HPC is designed to help them analyze data, perform complex calculations and run intensive simulations.\nThe post Leveraging high performance computing to help solve complex challenges across industries appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/leveraging-high-performance-computing-to-help-solve-complex-challenges-across-industries/",
+      "originalUrl": "https://www.ibm.com/blog/leveraging-high-performance-computing-to-help-solve-complex-challenges-across-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T06:21:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-navigating-the-new-frontier-creating-a-human-centric-ai-team-in-finance.md",
       "title": "Navigating The New Frontier: Creating A Human-Centric AI Team In Finance",
       "excerpt": "Remember, although AI might be the tool, it's the human expertise, intuition and innovation that will ultimately steer its success in finance.",
@@ -464,7 +506,7 @@
       "originalUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1130,7 +1172,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 371,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -1172,58 +1214,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration.md",
-      "title": "Egnyte adds generative AI smarts to streamline content collaboration",
-      "excerpt": "Content platform Egnyte today enhanced its platform with new generative AI smarts, including text summarization, transcription and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/",
-      "originalUrl": "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1690384951113.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
