@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
+    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
+    publishedDateTime: 2023-07-28T16:18:00Z
+    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "India now has AI news anchors. I tuned in and within the first 5 minutes, it's clear that news presenters are in serious trouble."
     excerpt: "Add India to the growing list of countries with AI-generated news presenters, who could easily pass for humans if don't look closely."
     publishedDateTime: 2023-07-25T09:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/memory-disk-drive-stocks-artifi
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/memory-disk-drive-stocks-artificial-intelligence-10a374f0"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AI vs. the Drive-Through Customer"
+    excerpt: "One of the best places to see how artificial intelligence is affecting our lives and jobs may be at a fast-food drive-through. WSJ senior personal tech columnis"
+    publishedDateTime: 2023-07-27T16:42:00Z
+    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "http://images.wsj.net/im-824859?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Carol Juel is leading Synchrony through the hazards of generative AI"
+    excerpt: "The bank's chief technology officer is testing several ideas for using advanced AI to improve processes and customer experience."
+    publishedDateTime: 2023-07-26T15:32:00Z
+    webUrl: "https://www.americanbanker.com/news/how-carol-juel-is-leading-synchrony-through-the-hazards-of-generative-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 38
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/13c6115/2147483647/strip/true/crop/800x420+0+147/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F7e%2F6a%2F1b6989c94eb7a1f60ee0f15c872e%2Fimg-0752.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "A3JCjpooqS88kF1zeelulmIjbKkf32EmZOe78Xbgtb0ezXHcVXWY6Tb4gaf7YAzwebtjzSX8QQYRLTIvejT/EYhIze/eM5aMYHSsrpxiM6ODfm6gKm9kiHEax0INI9EocplpPdLOAHLKeBKvt3Bm4v2Y77ExnuocIy1wLNqgmf8j/76H8cUspPmhVzMmyK/jBlth8YkjLAcorkOKeZz75aI55I4Mr93w2YlXfubjNd3dm+Xtr49NuTxtRObU/VQGHGMcXJV6ohL2YDhXTIIdmO45P9w6y+WOBa6V3QE3XxQYqzjwD57TVyFoake7t8ToSdqYxMb2LHG2PpQVUkDWYppED5+ZWP+djgEAO3Lz9U8=;2RfakE3gKgYTphbPn1ZaMg=="
 ---

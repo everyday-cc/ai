@@ -55,6 +55,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Reinforcement learning improves performance of AI-based skin cancer diagnosis"
+    excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice."
+    publishedDateTime: 2023-07-28T17:17:00Z
+    webUrl: "https://www.news-medical.net/news/20230728/Reinforcement-learning-improves-performance-of-AI-based-skin-cancer-diagnosis.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Imagene's Ai-Based Molecular Profiling Revolutionizes Lung Cancer Diagnostics: Two Patients Receive Immediate Targeted Therapy, Avert Brain Radiation"
     excerpt: "A groundbreaking case report publication on the impact of rapid molecular testing on lung cancer patients   TEL"
     publishedDateTime: 2023-07-26T13:11:00Z

@@ -317,6 +317,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
+    excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
+    publishedDateTime: 2023-07-27T15:04:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/despite-slowing-growth-the-battle-for-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/741311/a-person-studying-stock-charts-and-graphs-on-multiple-computer-monitors.jpg"
+        width: 2119
+        height: 1415
+        isCached: true
   - title: "Generative AI’s Growth Bodes Well For Microsoft, ChatGPT"
     excerpt: "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue."
     publishedDateTime: 2023-07-25T16:39:00Z
@@ -326,6 +340,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Microsoft Azure OpenAI service approved for use on sensitive government systems"
+    excerpt: "The service has received FedRAMP High approval, meaning it can be used in cloud environments that hold sensitive, unclassified data."
+    publishedDateTime: 2023-07-28T16:56:00Z
+    webUrl: "https://fedscoop.com/azure-openai-approved-for-use-on-sensitive-gov-systems/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 65
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/09/White-House-exterior.jpg?w=505"
+        width: 505
+        height: 336
+        isCached: true
   - title: "Microsoft's AI Bets Have Failed to Hurt Google (So Far)"
     excerpt: "Google has retained market share versus Bing this year, even on desktop computers. Alphabet will likely benefit from AI due to its cloud computing division. Alphabet shares still look cheap after running higher this year."
     publishedDateTime: 2023-07-26T13:21:00Z

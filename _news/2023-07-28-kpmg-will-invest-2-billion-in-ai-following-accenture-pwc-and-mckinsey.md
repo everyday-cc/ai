@@ -7,7 +7,7 @@ originalUrl: "https://iblnews.org/kpmg-will-invest-2-billion-in-ai-following-acc
 webUrl: "https://iblnews.org/kpmg-will-invest-2-billion-in-ai-following-accenture-pwc-and-mckinsey/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 860
     height: 494
     isCached: true
+
+related:
+  - title: "4 careers where workers will have to change jobs by 2030 due to AI and shifts in how we shop, according to a McKinsey study"
+    excerpt: "AI and changes in how we shop could force nearly 12 million US workers to change jobs in less than a decade, a McKinsey study found."
+    publishedDateTime: 2023-07-28T16:36:00Z
+    webUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/64c3d73acf07780019665507?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2BwKgeOWDrHqgGnW/4VZRScflkfNQsUDrhZyVfCIJZePiVLM/mw3v8MiDmgTDbhG6H8UIW/Iq+8U1C3h1Fs95kHeBhWT5OYouRcrPswu7zJY1/cLEHrPr+b2CwplrHy+d4CyPB2n0be/KXcWysI3qaC90h8oHYFYhmrX00bFDJP/DPCLZbdqSedM9j/ZLYzhArhd33/UgK73O4tritaNpsk+rDZNra8s8Hgu0k8km2frWTODPoWzblPNJR8TWargJFY1XWeETN8IwSFAJKY0KkvJQRBweBysZn0rq+GFCgDXD92QrUdY+NeJxa0Rk9y4pBEQjHRBU4R8vjcUVLWm6bKPXJA6WgrkNKVVDXOn8QLDtiixrdCOVQLieQQTCQ+YtIgf485BndI35vZ61kCA8SqbC0W5QOcW9qnXCT9nnUabPME1ym+RnpLbp75ou83tn4/wSmsyJODpEXz6M0GuPgHLNMV6QeowLj21Tf1YjlUehFr6ASWaUfs7JoegobA/eTPN5x7rkz5jizcv8Y831g==;QkV2AIRikEnPiIQ9+o6P8A=="
 ---

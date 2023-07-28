@@ -30,22 +30,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 38
-  - title: "5 things about AI you may have missed today: AI anchor interviews minister, AI eco boost for diesel trains, and more"
-    excerpt: "AI is shaking the world up. From police, diesel trains, Cloud services to news anchors, AI is showing its capabilities in amazing news ways. All this, and more in our AI roundup today. Artificial intelligence is a hot topic and seems to be getting ever hotter with each passing day due to the rapid developments happening in the field."
-    publishedDateTime: 2023-07-27T14:54:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-ai-anchor-interviews-minister-ai-eco-boost-for-diesel-trains-and-more-71690469276369.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-anchor-interviews-minister-ai-eco-boost-for-diesel-trains-and-more-71690469276369.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-anchor-interviews-minister-ai-eco-boost-for-diesel-trains-and-more-71690469276369.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 36
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/27/1600x900/technology-3389904_640_1690469608575_1690469616018.jpg"
-        width: 1599
-        height: 900
-        isCached: true
 
 secured: "9rld+0E1I8pjM8EHrcnm6PZCCi4lrcSbUSaE0/z7BmY1KAAM/rq5hmY6umD2cCpeQfqSqk/3Lf636Wcvuru0QMpPwKIYxDZoWleiFTez5btoxpgP16mmZrS1j/lpNgjQtRgmF0t7RFaB3VsugIHpuEOz1v6+tvgLf172JtILDymCBI1YKc9Ox2IoaKmdRHP2ENnxdt7L9hePJZRoeUZkh+TQaMe548Zwp4jtuI4vJgnr+Vu0oiAJqRazXWPSNd8oisbr9iAERxtwrwwjeaaGdrlAJp6Y2efSvXQMe1MR7eLG9TsO3N8Y3MPrCKQQ7X7InF39IuNQuQRu9x4+pGbZjQ07SyBLyrhahWTgaE4qefM=;1WYq89CMYgqobUskVM7BqA=="
 ---

@@ -27,26 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "AI Makes History: Minister Interviewed by AI Presenter for the First Time"
-    excerpt: "During this momentous interview, a wide range of topics were covered, including discussions on new technologies and Keralas preparedness for advancements such as robotics.httpschanneliam.com a digital news media startup founded by Nisha Krishnan and incubated since 2016 in Kerala Startup Mission,"
-    publishedDateTime: 2023-07-27T05:55:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2538254-ai-makes-history-minister-interviewed-by-ai-presenter-for-the-first-time"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2538254-ai-makes-history-minister-interviewed-by-ai-presenter-for-the-first-time?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2538254-ai-makes-history-minister-interviewed-by-ai-presenter-for-the-first-time?amp"
+  - title: "5 things about AI you may have missed today: AI promise by Intel, US’ chip exports, and more"
+    excerpt: "AI Roundup: These are the latest developments in the world of artificial intelligence that happened today. Intel has announced plans to incorporate AI into their products, while US lawmakers urged the government to tighten the restrictions around AI chip exports."
+    publishedDateTime: 2023-07-28T16:07:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-ai-promise-by-intel-us-chip-exports-and-more-71690560160626.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-promise-by-intel-us-chip-exports-and-more-71690560160626.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-promise-by-intel-us-chip-exports-and-more-71690560160626.html"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 38
-  - title: "AI Makes History: Minister Interviewed by AI Presenter for the First Time"
-    excerpt: "Channeliam.com, known for creating India's first AI news anchor Pragathy, has achieved a significant milestone by conducting an interview with Minister P.A. Muhammad Riyas, Minister of Public Works and Tourism Department of Kerala using an AI avatar."
-    publishedDateTime: 2023-07-27T19:46:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230727/4102833.html"
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 63
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/28/1600x900/web-4861605_640_1690560376232_1690560384310.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "5 things about AI you may have missed today: Sonata Software’s new AI, Turnitin's AI detection tool and more"
+    excerpt: "Sonata Software, an Indian IT firm, has launched its own generative AI offering called Harmoni.AI, as per a report by Live Mint. The company claims that the AI platform adopts a ‘responsible by design' approach and prioritizes ethics, trust, privacy, security, and compliance."
+    publishedDateTime: 2023-07-26T04:56:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 18
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 40
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/25/1600x900/CHINA-SECURITY--5_1686201744902_1690303824155.JPG"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "n3EQEHukUeW6VjPUHDhi1ceM3UxaGF3HJQC8gP8aEzuekVEAxlHFHSWWj2rN0babehU0nz3qfLj00Mcj14kUgEIwfgDE+1PLPrwbClM5sQMiBFUnzmQSCh2FBy9AoHf1jKYUu2/Ta5OUnPrDLoydnUIKOBqrC2ScNLTlYXcf4Bob3h/iGwYDOIoa0+QigVFXPNhuJYuW7nXj51Ai8sr/s+j9/6bpheFRrpRjqpG36Vddj1HoNu28MklXyWiJIHqtIBvjrZ2yuP2M56VniGQiTonFJh70BzMefGazD0+jr82MfaaC2iVI/C1ktaIhYT5iBBu3dKa9+tqRhYPq8vXJLD2OwDn2uO5wasgPLn+Rht3M5tebBO1ujiJA4KXYYtXm3FlI43kcviAt2Y5ytyCVZxZZpt6qcfIsVYe2dOI6HEpj16RJQcvFfsPHou78jYOWeP7ILHrRt/1GdNPGMe7XIbBIRDDO70MuW/aEp4bkRe+bkjKjf0StCCvEQoSuG/fp4gCyDnMmAllcxlcicVD7Ew==;4/HbE30IduTHx+HY85GdRA=="
 ---

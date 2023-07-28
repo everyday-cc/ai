@@ -27,36 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Sonata Software joins AI race, launches Harmoni.AI"
-    excerpt: "Sonata Software has launched Harmoni.AI, an artificial intelligence (AI) platform that focuses on ethics and responsible design. The platform offers industry solutions, service delivery platforms, and accelerators,"
-    publishedDateTime: 2023-07-25T07:41:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/sonata-software-joins-ai-race-launches-harmoniai-11690270745169.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/sonata-software-joins-ai-race-launches-harmoniai/amp-11690270745169.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/sonata-software-joins-ai-race-launches-harmoniai/amp-11690270745169.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/25/600x338/sonata__1690270770435_1690270779906.png"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "AI Roundup: Sonata launches new generative AI platform called Harmoni.AI."
-    excerpt: "Sonata Software, an Indian IT firm, has launched its own generative AI offering called Harmoni.AI, as per a report by Live Mint. The company claims that the AI platform adopts a ‘responsible by design' approach and prioritizes ethics, trust, privacy, security, and compliance."
-    publishedDateTime: 2023-07-25T16:53:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
+  - title: "5 things about AI you may have missed today: AI promise by Intel, US’ chip exports, and more"
+    excerpt: "AI Roundup: These are the latest developments in the world of artificial intelligence that happened today. Intel has announced plans to incorporate AI into their products, while US lawmakers urged the government to tighten the restrictions around AI chip exports."
+    publishedDateTime: 2023-07-28T16:07:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-ai-promise-by-intel-us-chip-exports-and-more-71690560160626.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-promise-by-intel-us-chip-exports-and-more-71690560160626.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-promise-by-intel-us-chip-exports-and-more-71690560160626.html"
     type: article
     provider:
       name: Hindustan Times Tech
       domain: hindustantimes.com
-    quality: 58
+    quality: 63
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/25/1600x900/CHINA-SECURITY--5_1686201744902_1690303824155.JPG"
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/28/1600x900/web-4861605_640_1690560376232_1690560384310.jpg"
         width: 1600
+        height: 900
+        isCached: true
+  - title: "5 things about AI you may have missed today: AI anchor interviews minister, AI eco boost for diesel trains, and more"
+    excerpt: "AI is shaking the world up. From police, diesel trains, Cloud services to news anchors, AI is showing its capabilities in amazing news ways. All this, and more in our AI roundup today. Artificial intelligence is a hot topic and seems to be getting ever hotter with each passing day due to the rapid developments happening in the field."
+    publishedDateTime: 2023-07-27T14:54:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-ai-anchor-interviews-minister-ai-eco-boost-for-diesel-trains-and-more-71690469276369.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-anchor-interviews-minister-ai-eco-boost-for-diesel-trains-and-more-71690469276369.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-ai-anchor-interviews-minister-ai-eco-boost-for-diesel-trains-and-more-71690469276369.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 36
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/27/1600x900/technology-3389904_640_1690469608575_1690469616018.jpg"
+        width: 1599
         height: 900
         isCached: true
 

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Pocatello Animal Services adopts facial recognition technology to help reunite pets with owners"
+    excerpt: "Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
+    publishedDateTime: 2023-07-28T16:45:00Z
+    webUrl: "https://www.idahostatejournal.com/community/pocatello-animal-services-adopts-facial-recognition-technology-to-help-reunite-pets-with-owners/article_2b98be04-2d66-11ee-a72f-e7ab8a8bb917.html"
+    type: article
+    provider:
+      name: Idaho State Journal
+      domain: idahostatejournal.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/a/17/a1735fbc-2d66-11ee-aca1-f70f861549ce/64c3f1d021b15.image.png?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+        width: 1196
+        height: 628
+        isCached: true
 
 secured: "FaebKFtg4u5MRBLsAI2BujRDmIBbzJnwLAE4f4jDv6zO0nldcVR0DR7Kc5bkTwrDegKHw84lhKRvkLI/J7SQq5i3Mbafv/67GJYrgGEN+Ac/07osTIYF59sQTMYET1ohxppkqsGGXxnjHz7Uw0ZyhL7C+zBBuNKNQNgj5vo3lZjqja5pff0QlzHKgMN4wQEU+DV8XNA+trbyZPNjpslMeOxORZvSUV06QlH33PppVx71p+ZBQRlBcYVtoMgEbwL5dfk0nUT/Pj5Zkq0wF0NFNeQWW0UqZ3ic/H4RuBGT/uchDnUJqhPEVZFjRNUGTQm667yBVINNtJnakGa5PXfznMgpK1EvssFetf3P0EleGOWu4UQRHKbup5nrsXVNJR7ySQINEeN5Id+cwXOM27H4TUpKiBWc0RWrzUNxAT13HOjwvyLubPA0RE1TxqeVbSmyzuooiUjhlS77C8sVxm1BAaNhK9uKSL/Vw0DPiUgKDW1YIDwpK07RLc75UKYolaDDxO46895FysarrB12r1CQ+A==;/o63ltFD7u6XEPjXHWiyXA=="
 ---

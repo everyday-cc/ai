@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/cities/chandigarh/himachal-govt-in
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Indian Express
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pocatello Animal Services adopts facial recognition technology to help reunite pets with owners"
+    excerpt: "Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
+    publishedDateTime: 2023-07-28T16:45:00Z
+    webUrl: "https://www.idahostatejournal.com/community/pocatello-animal-services-adopts-facial-recognition-technology-to-help-reunite-pets-with-owners/article_2b98be04-2d66-11ee-a72f-e7ab8a8bb917.html"
+    type: article
+    provider:
+      name: Idaho State Journal
+      domain: idahostatejournal.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/a/17/a1735fbc-2d66-11ee-aca1-f70f861549ce/64c3f1d021b15.image.png?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+        width: 1196
+        height: 628
+        isCached: true
   - title: "Google supercharges Maps voice commands with Assistant speech recognition"
     excerpt: "Google Maps has replaced the old and outdated Speech Services voice input option with an integrated Google Assistant card"
     publishedDateTime: 2023-07-27T20:01:00Z

@@ -1,0 +1,75 @@
+---
+category: news
+title: "Intel CEO says they will incorporate AI in all platforms"
+excerpt: "In this ongoing AI revolution, it's no secret that every company is trying everything at their disposal to integrate AI into"
+publishedDateTime: 2023-07-28T16:56:00Z
+originalUrl: "https://www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html"
+webUrl: "https://www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html"
+ampWebUrl: "https://www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html?amp"
+cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html?amp"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: Android
+  domain: androidheadlines.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.androidheadlines.com/wp-content/uploads/2023/06/AI-image-81982181.jpg"
+    width: 1440
+    height: 900
+    isCached: true
+
+related:
+  - title: "Intel CEO: Get Ready for the 'AI PC'"
+    excerpt: "As Intel faces more competition than ever, the chip maker is betting that AI-capable PCs will help drive the company’s growth. Intel CEO Pat Gelsinger mentioned the “AI PC” push in an earnings call on Thursday as the company projects the PC market ..."
+    publishedDateTime: 2023-07-28T17:57:00Z
+    webUrl: "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 71
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/i/intel-ceo-/intel-ceo-get-ready-for-the-ai-pc_2nqv.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel Needs to Latch Onto the AI Boom"
+    excerpt: "PC recovery will only get chip maker so far as data center market pivots toward Nvidia."
+    publishedDateTime: 2023-07-28T15:34:00Z
+    webUrl: "https://www.wsj.com/articles/intel-needs-to-latch-onto-the-ai-boom-36484994"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-825721/social"
+        width: 1279
+        height: 640
+        isCached: true
+  - title: "Intel CEO Gelsinger: ‘We’re Going To Build AI Into Every Product We Build’"
+    excerpt: "Gelsinger has placed his bets on Meteor Lake, a next-generation processor planned for the fall, as a way for Intel to own the coming AI PC moment. He wants Intel to have a repeat of how the vendor’s Centrino wireless computer network adapters helped the spread of Wi-Fi in the 2000s."
+    publishedDateTime: 2023-07-28T14:11:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-ceo-gelsinger-we-re-going-to-build-ai-into-every-product-we-build-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/027d-172a628013fd-c9ee24cea71d-1000/pat-gelsinger-intel-vision3.jpeg"
+        width: 610
+        height: 458
+        isCached: true
+
+secured: "I8DU+yiEFGCvbAA/Bu0hi5dmQoQggTTMj0yWrwfHTn9Iu9QpLNkqLkFFxT2EhEq38FLjFDJxJgg+CmOdPZn3yLtf2u8Adf1Ngoo49rQaRFEKiDtFyvXuXce4nUx3NfP0SHlW75ClJyV3LnGm4T5jdCAp1re1GtZnAGvPfqgdWOlYIvprgi/pzelaJI0OM6IxCibwmXPeY2m6osF+FDc4pewAim3mxOTq8SqgsqkpjCBE2IoZKtPpInx1vSdgZsBrYwYdkihOGogWXA9Fvw2c3JDwwYfXoz4TOhg8l9V23d0M5GKJIbCu49NOX+tyIc6knMWZCFItFOorcZwfOetkFplV9klz8eY2lN2NW8Pi1Ls=;HwgOESEpTvQ+xekxpmd4qw=="
+---
+

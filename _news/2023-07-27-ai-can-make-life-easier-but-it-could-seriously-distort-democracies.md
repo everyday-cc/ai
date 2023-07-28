@@ -26,8 +26,8 @@ images:
 related:
   - title: "Artificial intelligence is powering politics – but it could also reboot democracy"
     excerpt: "Generative AI can involve citizens directly in decision-making, but not while developers’ incentives are only financial, says Polly Curtis, chief executive of Demos"
-    publishedDateTime: 2023-07-28T05:50:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy?ref=upstract.com"
+    publishedDateTime: 2023-07-28T08:15:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
     type: article

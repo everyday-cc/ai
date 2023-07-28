@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-27T18:12:00Z
 originalUrl: "https://www.techrepublic.com/article/aws-summit-nyc-2023-keynote/"
 webUrl: "https://www.techrepublic.com/article/aws-summit-nyc-2023-keynote/"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "FQHozc99dU6hfpH2rvZA7ipSf7/wvG9t9bmMJPQ5r5NI/FlortLRpDSbRjxb5D4UjobHjGnYrb0QEK2qTquofSj+OWbD7S+dm3MMoPK8WpzUkAA2WolVot1U+2fAS9LWT4FiWQ/DLNN+xDHrsfNttntCGDExAHCPg+4ij7V2caUaRCjCj0e9vCAxeryT7dlsiwNWHz0jngAD9zGLZfXgjymGOxbVZowbJPRHaHx65FdRl72qRF/cj8CcmD+6ToUpU6Mh3xsx+x4BQxXtaTw8pSrPszd0vFScoAiR/yPMlCB8aj1AqooTI89g3WsPk9Yge4kWwoX4O7Q45zc2/gS3lZV1BgUQ9QDPddhUWvmiTaQ=;iNrjbHQWABIEjO1b28MZsA=="
+images:
+  - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72723-AWS-News-Summit-Swami-.png"
+    width: 1400
+    height: 836
+    isCached: true
+
+secured: "y2Q4aWYV+bl/EFwrkWCCqgQ13c1JxFC8TWQPbbf+GgDurwEnrsErEJdiq7+RYvUNL/vf/FQspG1ANCw7vigYZTeqb/5udLbej/KGeEdyHtck/DBJqAYthLD1OTestJTtuQqzNYHGkWN5dMgpMaqQRYPz1+MIaFbSXQteyQFCKKHCaarjc+3fAcmxu0TIbWaFFCm1GGB1y124nYyaR2yr1NfkU6/QY1eqtSFOCPycwPR/Ptk95qd883CF/mVSt2N6pLcBMnKJbjbPaY2p+KJWOho6+I8geEJNVpu0kvrUdAt0NhLXTrJVYioQjOqYcBsqHodXWPCmP+rmj0VQyhgB31O1TYPzV1XUEQWz07mc1bE=;/fpdpGVyQBUOhdOXYn5dBw=="
 ---
 

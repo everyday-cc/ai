@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-driv
 webUrl: "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,19 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI for execs: How to cut through the noise and deliver results"
-    excerpt: "Where are your key business pain points and inefficiencies? Ultimately, the best approach is to start with the problem rather than the exciting new AI solution. We recommend taking new technologies as building blocks to create enterprise-ready solutions ..."
-    publishedDateTime: 2023-07-23T23:26:00Z
-    webUrl: "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noise-and-deliver-results/"
+  - title: "Memory and Disk Drive Stocks Rally. Surprise! The Driver Is Generative AI."
+    excerpt: "Shares of Seagate Technology, Western Digital and Micron Technology shares are all trading sharply higher as spending on AI-related hardware accelerates."
+    publishedDateTime: 2023-07-27T23:30:00Z
+    webUrl: "https://www.barrons.com/articles/memory-disk-drive-stocks-artificial-intelligence-10a374f0"
+    ampWebUrl: "https://www.barrons.com/amp/articles/memory-disk-drive-stocks-artificial-intelligence-10a374f0"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/memory-disk-drive-stocks-artificial-intelligence-10a374f0"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Barron's
+      domain: barrons.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_an_executive_leading_a_successful_business_meeting._col_75a8f6d4-f73f-4ecb-809e-159525094e5b.png?w=1200&strip=all"
+      - url: "https://images.barrons.com/im-825152/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How Carol Juel is leading Synchrony through the hazards of generative AI"
+    excerpt: "The bank's chief technology officer is testing several ideas for using advanced AI to improve processes and customer experience."
+    publishedDateTime: 2023-07-26T15:32:00Z
+    webUrl: "https://www.americanbanker.com/news/how-carol-juel-is-leading-synchrony-through-the-hazards-of-generative-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 38
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/13c6115/2147483647/strip/true/crop/800x420+0+147/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F7e%2F6a%2F1b6989c94eb7a1f60ee0f15c872e%2Fimg-0752.jpeg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "5Rj9HRt/KVuT19Rr6g31QJjBwvLppwgAUJ10ZfIRWUaIguYYDsFxKrtvnEo4fHvEjKwjfCjvmSkVEAL3nGWC24J5re/r9Sv/rQK2yie3njObOwMUBjGU2KLbZJ3Z6crnm+tM1aW1eLg9QnarNGVEndtnnFGbL3sNdBxLdY6SvGnEuHEfhXlvcc5LCoreIGxo5rJABeGfFwZUu6i2vINRdpJhBKqPqowlOSpuM3fsINvPI2vPUV7lCfGzvx6HzYmQo9UWFoWjFF8AtJIZlXSbTjmRGnv44g30qQibI61p0E62kGTgAPzG6gyj5EDAkuJGNzA2RmNVF72GaQwjN3oWF/uE+DlnqdxMZswr5jHzuCrNy4p98DEY8tDxwUxl5ziRgG4HqEQglTt5A8Y9jnnie/W59HHf4wlqamFgMqkxQHhNJP0WSa1UE1Ms9VNfkEbFq/4DzCY6xGP1hVAzIYwV67Gg5OTBarFwwPyhPZ2w+2mlKN6gKrXHWv+bLf4m2jVm1K/CeBxJtjqeanMcEDZrGw==;2tBD54WbPg0F28iRMa/dEg=="

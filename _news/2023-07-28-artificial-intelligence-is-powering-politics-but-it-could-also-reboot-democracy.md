@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence is powering politics – but it could also reboot democracy"
 excerpt: "Generative AI can involve citizens directly in decision-making, but not while developers’ incentives are only financial, says Polly Curtis, chief executive of Demos"
-publishedDateTime: 2023-07-28T05:50:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy?ref=upstract.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy?ref=upstract.com"
+publishedDateTime: 2023-07-28T08:15:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 900
         isCached: true
 
-secured: "6z1inbClYH2U6RYnLUdV/ZfeoB5X8hb3rjSdUdashwNv8+PEASYN/p+Qv5dAsJeaVhTTd/aGn756WKtXWYNH9zFxiCqyWDPErA4GZjxqbN8ADsktNB2a3FwQrPT2VokFOraS0bgIfHNuuZbFfCZa1dqwCc3Mhf2UW4+Gii6SwLI59kv+POoJKhLWyUkc1VTZtmEUjyu6Y6GK3ZsIbGYwkaO1cxz99kn5PNh1JFLfTtzmmH1XJPcsIIKmOrKgjmIoHB186NObcHVaDVyCuwwY+xpvl41XzFmtUVw8aZp5aGrtnvwGkiLFw/87noXrNoO7VX9ATLbkBSXUwau/yStoD1gyrvFdXu2K/ZxU7FGBEM/KJL89vFL+bzhFtpdLjhTIqZkZBNR4vveX8JN5TjQoQZosa4/vviT1MMHZmQ05Ksg+mN5YyuvMxa8PefU0vV9zWIfEtfxCXzXHJv5yKdQMw3n14SiONPY0VwlWGbUfi1ToU10D7Jv5+uixWKJwyYkCY0z+4mEIHuX/4WNiW6WkeQ==;R58DMTrNRuH0Dq09op4QdA=="
+secured: "JXAdiPfBCzR37vdwr+QL2nLY99hrL2cLL3dxZEE4R087wVzBtTFbtGF1l8jAdVHdX+1NzSpK0mNw+HDlI4BxgTooXwBXuSOp5Cwbcn6wcMuwsj5gnU37D3B+XmDdYZkFe+oguWgva8KFkXypb2NlPKb0ajuA0qsj8bKctoDKNxyA+OAp9ayMQxSfgcNFuniCQq+mPYO3a4OGwGWZOViL7eHLVz9KJLj/aslRvmoHdUT3LwKYiw6GqwAcDla0mDtq33tPWxnfR4kKNhd1UvXcGLxSixyTst4DSMUXdNxwy887hd8mEzfa+xSjWinzwodAt/x1KcAB4buoAW6pG+qdqYyMg3x5Zs2jHCyX/LAPU0Q=;K3j1tba6eIsJERF4EAr0xA=="
 ---
 

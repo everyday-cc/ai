@@ -77,6 +77,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions"
+    excerpt: "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions."
+    publishedDateTime: 2023-07-28T16:23:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33444703"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33444703"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/07/28/google_ai.png?width=1200&height=800&fit=crop"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Google's building A.I. into robots to teach them to throw out the trash"
     excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
     publishedDateTime: 2023-07-28T11:19:00Z
@@ -86,6 +102,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 49
+  - title: "Google unveils RT-2, an AI language model for telling robots what to do"
+    excerpt: "Google LLC today unveiled a new artificial intelligence model that will allow humans to speak to robots and tell them what to do by transforming words into action."
+    publishedDateTime: 2023-07-28T16:21:00Z
+    webUrl: "https://siliconangle.com/2023/07/28/google-unveils-rt-2-ai-language-model-telling-robots/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/64c28b81ad5efcad99aca86f_rt2_header-min-p-2000.png"
+        width: 2000
+        height: 1225
+        isCached: true
 
 secured: "AtsaWGCWGwoXOWiCnm1GbEy2IjWWoYMAegqvIAKLFjmcVFL83BY/a1d1XotUuLpjY/ToIBRxnOMOi/5lTTbW4YOU4xALwjbH8n1SIiMbbGJqviTWSxHRPObK7rzQrMG/YEGoIoMMKq8WOxMuDtmob27/1S+1lIxe7PcKCicMDmGszxoMJbS+usTgk6VYlHBv+er2EZFZoLo1mZtIks5KTwVaD2L4htnwuNoJ2ktoyKku29bMmgSYB8l0cxS7SX+0/SFhPvWCpL+9ls0dsD6D73BFZLfGnMY7YHCaTwaNuFUELsJUjOjVeyTOjoMA5HPfB9rudPGLzEm5HPcw1QmOh1q4STRFZOMgZ92EZcKHmnJmGw1ql2GMuYVUYJZaFaLDyx4cS7dfJQZOgp4f3CIjUBvbqWaGf2UHjKzkEuQqYshduN+JcfYpLSv08eniNfeLNloOVksEUs4/FVXZjmck73kICoPnzJl4SYoaSBRMZEyNABEqGaahlsO8uK740+UVUpa7YJbwsOczUxsDUhRDzA==;UIVlhByx/dQlMCEjriB1LA=="
 ---

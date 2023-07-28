@@ -35,20 +35,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 127
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "AWS draws thousands to try Bedrock AI offering"
     excerpt: "Amazon Bedrock is the company's answer to services announced by Google and Microsoft, cloud rivals that have developed or marketed AI garnering significant public attention. Microsoft has invested in OpenAI, the startup that created ChatGPT and the AI model known as GPT-4."
     publishedDateTime: 2023-07-27T01:07:00Z
@@ -78,6 +64,6 @@ related:
         height: 1038
         isCached: true
 
-secured: "44brdmZ7u1Lo/mzo34Rfo9Ojkil4/W/S2uK6EEssCqobubomI98+fNS9hX29CCVUx2eu/7WVdoSpGro5gdQnwtQcXveipp+kYLRofy8zD/jaOIGAaQU9Y4vOjnzudD8MS7K5xleCUkVCl3rQ9Nb+KDpYIZxzX8rJtr1hD5/ysopBMykOBH4qFM8UoJbioeZn5crF9f/lvPrHfgz+w8Mfkc85ZcofQE5/UI+8KcQvA2zlHTa4v2o0dQqf2e5IIGsMVFRqll35NI+gg9fCwVGbnn5gJgvWGvFuuaTznBl0Z75Wv9Ev+kVL9uFSfGnhBEBB9NmV5b7ePn5fFFUr/Hgh87rTCbU9B5YIC/cqzEIngZ0=;zawUx9Jgw0mKld1/JZ+KNw=="
+secured: "GD3nXzkWrYLBBMmT1x4KFl3vlfSsXXZtTPrPNb8/c5OAH4ZK6Cmlc5cYvpx86CUHdR7Q92xVrBv76JA6ELfXbuTZ+xf8kPD3Ff7jfJu/+0b8cR1owXcfrBtHrcwyVPYjyP7N+TWvhP8nBcyGV72NEO/iVsZDPKIyy2cy6KWcZtN1gvuDY9F8ML5J09sTTSMa4n07WxkWSugL/fdYouDt0k4PwxEXH1wTwS/vdp24YlPVdGYH08RKr6auelQhTeKFMn/rprt8KTWRiO09tgky6BPYKQSPB5ykCPtFcYjBTJOME4Ft3xuQY1iGaDoEUEq+Cs0ndOKi9R1JHAs3354LFEdBtTLZKJD5xAA8LVh5SF3a2L/AO9iFoiuttsBKSsovSvZYTl0AWO3EuparqFWgW52STMcU2sZRr2rklapCtmUFAbhXWD4XvUsMh03VWQGe90gXacUbl6alBizWPIcNgomNIM1Nav5zCYrzN6W44fMozw2XZgH/QtzoGQMyqiWp9VoI4XXH/5v93PW2IA1dtw==;Lx6+7WKdG0v+p+rdyV3mhw=="
 ---
 
