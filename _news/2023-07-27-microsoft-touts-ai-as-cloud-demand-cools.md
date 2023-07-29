@@ -257,22 +257,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Birlasoft and Microsoft collaborate for Generative AI Centre of Excellence"
-    excerpt: "The Gen AI-CoE will leverage Microsoft Azures OpenAI Service for research, training, and collaboration, to build 50 use cases and digitally transform the above sectors, the company said in a statement."
-    publishedDateTime: 2023-07-24T14:35:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 72
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
   - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
     excerpt: "SAN FRANCISCO – Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4 per cent in late trading."
     publishedDateTime: 2023-07-26T00:46:00Z
@@ -693,15 +677,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "The future of business is here: How industries are unlocking AI innovation and greater value with the Microsoft Cloud"
-    excerpt: "I have witnessed the staggering speed and scale of generative AI technology adoption, and how it has opened doors for organizations to imagine new ways to solve business, societal, and sustainability challenges."
-    publishedDateTime: 2023-07-24T14:10:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/07/24/the-future-of-business-is-here-how-industries-are-unlocking-ai-innovation-and-greater-value-with-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "T7T70zVbqHd9GPEBJ5YjdXa0SXazBSmYy9M6ARexTkyhllW2NvvMSwE2htK8GmSFw9eSvfNddH54erokc2ga1rv5zZnNevi1UCeI8X8gSyMFL0+S5gtDt6MR3/UPklMZy2RfoCPpRRRJk1AizY70wEcBzyIxTVN+erZ3KN3JxV4h21kbxSl2iL+a/IUdpjAI+t56WvMSQwnsPTWMCft4d9JuwYxR+zW4SIJp4b+4Zi6EsKeht979RSWZeYtjRLfI9ly2xWb9bD82Ilcyiq74bWSh1pBjOdUgYF3q/SxzMdVwNm5RAq/acH05ISXP48b7jMhwgbVxLkza7Jsh+dKbxZMyh06bZEf396SToeM5TpXmfy3RqH+ljTd5knF8dsTl1MH0f6xwJKvWKTIkLVssLMqhCXRH6xV6BzEpjgHh4MrdIkO161wUzJdZ52ExwqaHZu5xNik9LBOaQ0FKgnY6RJSCUBLoD6dNdbYgBhOF7q0UlELXyhLncWb92HTSIiTh+kfPgaCu40O8UHP+NVeiXQ==;FSU8nUZ1fJbzmwCU/W62BQ=="
 ---

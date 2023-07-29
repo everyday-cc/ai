@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-indus
 webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
 type: article
 quality: 127
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -81,6 +81,17 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
+    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
+    publishedDateTime: 2023-07-29T05:58:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 16
 
 secured: "2C62tLVP5ldwoQQOrSbV/lG7euZuepNwvvFGNG2V/G01tuoPB7xEC9EyF19KijoyeTqzCl8l/UHNxJrM735GWIaLcXveW0g/0G5zJnp9OP62QspbgxheClvaDJTrKrvZbjNbNJAFbe4hTs6EEo0fNojQdBS61IOAI9zwR99/uoNCqqPrCF6ZrxMsYU1KFbtKAlVtTQnHQXhKDhFRnYLLImLn3dAbfXQyR4JAHTw37Wxnkji4w6dpCbRyJWcPoEsNW9Vh0uGO2zurIbh19tibvztUstiCD++7MGhCrQFLsWpEIb1UcwwEDReSREVEDmCUeCdXsfY7OXjrms4E9ZvT3KB8MRw4reM2KJHr9rnPKO8=;98dL1mGE9mo6zvYx8AOTUA=="
 ---

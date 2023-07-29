@@ -67,6 +67,22 @@ related:
         width: 3294
         height: 2018
         isCached: true
+  - title: "Google’s DeepMind AI enables robots to perform novel tasks"
+    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic (the understanding of words and sentences), and visual understanding beyond the robotic data it was exposed to."
+    publishedDateTime: 2023-07-29T06:11:00Z
+    webUrl: "https://www.gujaratsamachar.com/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
+    ampWebUrl: "https://www.gujaratsamachar.com/amp/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
+    cdnAmpWebUrl: "https://www-gujaratsamachar-com.cdn.ampproject.org/c/s/www.gujaratsamachar.com/amp/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
+    type: article
+    provider:
+      name: Gujarat Samachar
+      domain: gujaratsamachar.com
+    quality: 74
+    images:
+      - url: "https://static.gujaratsamachar.com/articles/articles_thumbs/photo_1690611113728.jpeg"
+        width: 370
+        height: 250
+        isCached: true
   - title: "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions"
     excerpt: "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions."
     publishedDateTime: 2023-07-28T16:23:00Z

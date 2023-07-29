@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A Research Team Plans to Merge AI with Human Brain Cells"
-    excerpt: "A group of researchers in Australia have been awarded just over $400,000 (USD) in government funding to study the possibilities of merging AI with human brain cells, a research project likely to bring a number of AI-related ethical and existential questions to the fore."
-    publishedDateTime: 2023-07-24T14:57:00Z
-    webUrl: "https://tech.co/news/merge-ai-with-human-brain-cells"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/24101043/imgonline-com-ua-resize-I7B8Yq8jRlR4.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Tiny surgical robots could transform detection and treatment of cancers"
     excerpt: "A tiny robot which can travel deep into the lungs to detect and treat the first signs of cancer has been developed by researchers at the University of Leeds."
     publishedDateTime: 2023-07-27T00:00:00Z

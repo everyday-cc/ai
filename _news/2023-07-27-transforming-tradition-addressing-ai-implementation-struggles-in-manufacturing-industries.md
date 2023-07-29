@@ -76,7 +76,18 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
+    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
+    publishedDateTime: 2023-07-29T05:58:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 16
 
-secured: "CsPBRpIzjTQ7ZTskBda59IF6jSGcNLqAmHkGs7HUE0b1f8u7UcaiA/izAgWorHtvi686+2MGaWu8WY+Xy9JqZOUj3EmyJJ7KkibJt16dr+uR6lasLBQ5VJADu3t2eAXPOKPds08L8T8WZ3OIUDhdezniCLJKEYenmw1IlQMJnTCqwIatWxIPSDraZ5nC7jbMoFh3qaFlFqPsZdLJI5neQ/5E3buuPIGI8VWIVNHLvz31IKLbd2Ct/ty5zvBLOD0afacn8MYSaX2QZGqqRFXrv+hs3cDv7AdYsFn2vYNuJTsMZCclWX8jY60INEjpIfn27q+98vrxCT4eaZA2gqmQdpwI6aIjAE9C+ixrkN5nPV4=;e+izt335q1dZPcQRTsELuA=="
+secured: "DTLek+UZePOP2wUOvaPfLob6RMevfao1aaMa6ixB3tbf5YWQFfj7VHZDpWLmsQu/i/4L2rrDm6EylmQtRtDM8DJ5H74w68lGs2muXJ6TfEdXX7C4vruOaA9lxu84Eu/61f9QNd0k4t5AAQUbq2NePmRpHGIw6gb3pS5gOJOrajadWnmLHJIFD0UwyJuvI34ntepskZDd7kvtM5DEiqAbC8MnbTkwj/NBFk+3W9XHfkUvZ3PSrJz1bZ/dsGez6GsjXR2lDIFdK90lOyKysamHwtMMCjML73k5UYVA5Ui8o/9FtvjyUNoW8BJZoMFRDNGMY71TIZ5NcwKihKci0ejXcnSozbAX9iu/75DEmWvTL+iGva5PyFZ9xB/44Cm/XVIvDOoMz0Az8WHUYnc4rRXdbeyNKtc7ccG8mmJEYbHnXAdzdg8+Id1NRBlANIyhwfx1+vSFG3V6W1OcHAYVQRQmCZxAUqEN8+zCAh6wbbOnfniAXMKRXappei2VVjMSoufl0iDWQgKJccMT3+hcCRroGA==;UDbKhOBOrq/fGE4WQLafYw=="
 ---
 

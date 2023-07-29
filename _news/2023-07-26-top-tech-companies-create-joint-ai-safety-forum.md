@@ -69,15 +69,6 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence"
-    excerpt: "VERSES Technologies, a cognitive computing company specializing in the next generation of artificial intelligence, today announces the release of a landmark AI industry report \"The Future of Global AI Governance.”"
-    publishedDateTime: 2023-07-24T13:58:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/18736087/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 12
 
 secured: "VU5S42if1BSC3dbeCRIXO6rd25R70oAXnlTTgQFbsU5jQaaijOx//T1el2nMBOhgguucU7ofbOq2WnKRMQR4xaxH1X8qyonHpYX2dPIImVlcsAkrBmf4gMsYG0UGUSgP1A07BQ8iyQN0qYdzirSuNNowKUWwykCD/yBOnqnH71FNRz3KkjuCOiobVtZIY4l6Oijlb9p85U3YlVN8rE/NEE08FKancQvUOGiSpOsVgsU0D8N3v6Ob7fwKzNURjf1sw5lXXt6DfbDlRBZ+w1VqKeOOvDePIkW6MJJMC9zuVpykfEqnUGpVx6aSDvTSgT5bXsEHFm1oRDf2SvF12nUYBz9NN1HDiTuBKAgEwsaijV48HiCeqIqqHkWOHTmyNwn/ATeeCX6AesUGDPyvdYSqcRdUs/yRlPMIoJV4rct3mX0u9rrNf+cOMhymPybQLn9IxvQJQaOWni1trGqysjf+ExTvpDGAI8n7xK6xJ8LvOORg6Tlao2Q5i49lxPQOhB20HnM8WC2EWBM5355lHB014Q==;xb1gXxoMI3q/MA1OreOcCQ=="
 ---

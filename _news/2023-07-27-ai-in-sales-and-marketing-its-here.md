@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How is Artificial Intelligence Impacting the Forex Markets"
-    excerpt: "Artificial Intelligence has had a significant impact on the forex markets in 2023. With artificial intelligence available to nearly every trader, the information floating around the markets is now readily available."
-    publishedDateTime: 2023-07-24T13:58:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/forex-robot_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock to Buy Now and Hold Forever"
     excerpt: "Looking ahead, AI will almost certainly be a defining trend of the next bull market. Several Wall Street strategists have cited AI for recent upward revisions in their S&P 500 price targets, and Ark Invest says AI software revenue will increase at 42% annually to reach $14 trillion by 2030."
     publishedDateTime: 2023-07-27T13:43:00Z

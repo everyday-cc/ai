@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 628
+heat: 608
 published: true
 
 provider:
@@ -250,22 +250,6 @@ related:
       - url: "https://www.reuters.com/resizer/jdur2omKdgRbOGkx_JYIUWmwMTw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U66DBMLTJROWBBBNWVHUFORUIQ.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Birlasoft and Microsoft collaborate for Generative AI Centre of Excellence"
-    excerpt: "The Gen AI-CoE will leverage Microsoft Azures OpenAI Service for research, training, and collaboration, to build 50 use cases and digitally transform the above sectors, the company said in a statement."
-    publishedDateTime: 2023-07-24T14:35:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 72
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
-        width: 1280
-        height: 723
         isCached: true
   - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
     excerpt: "SAN FRANCISCO – Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4 per cent in late trading."
@@ -696,15 +680,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "The future of business is here: How industries are unlocking AI innovation and greater value with the Microsoft Cloud"
-    excerpt: "I have witnessed the staggering speed and scale of generative AI technology adoption, and how it has opened doors for organizations to imagine new ways to solve business, societal, and sustainability challenges."
-    publishedDateTime: 2023-07-24T14:10:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/07/24/the-future-of-business-is-here-how-industries-are-unlocking-ai-innovation-and-greater-value-with-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "kLXrPRxogxzRu9BKR3FiMs+rpuPXVd7tHfyQnw22GjoWI+4OlNN8oQ9lRSDGbZ9KxgmLL2mTK2kchyWRMGmTNYvSJ30FvT45CbZJI93R4/WRf0K94jbPdfwC5yyKLHidGO5h37vFbvKc2P906nPO5BuyMjTgZeDUTANSfpZORYdrfnhAUdPD5J5WNcl0thQpRkTJottzzrelFEoqOchPzVXu0GgM3st1rojnL66ZCm6HKxiObiZIaSTuDbDy9Yju+cCrjbNU24huHCF2zdotzaLtkwZmwPwEicaZGnp7eKb4lpAhPQyPTgrfjTf6eoMNgKNicwjqaneTDusqpcLhvhpXT30FcY7ivmyXSTkaKd5SubzpoPzd+u7OgJLD0zDt/UL3hyFqnLdpaqUWDWMOthZqIcRWmrz3P9GEaBdCA2VdXJDh3MyNwgRxk44CdahbTXtURp70vkFLB//oHl6iX1pt1n+aAJhrTR985kBpNR/njdhbMszzrBUL1yC1XKGkmxYowYXZ57lZe4D4gTASGA==;hUX9NUgl/DJIn6UMzqLdPA=="
 ---

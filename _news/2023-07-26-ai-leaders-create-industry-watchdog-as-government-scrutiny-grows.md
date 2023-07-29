@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6297983/ai-leaders-create-industry-watchdog-as-go
 webUrl: "https://time.com/6297983/ai-leaders-create-industry-watchdog-as-government-scrutiny-grows/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence"
-    excerpt: "VERSES Technologies, a cognitive computing company specializing in the next generation of artificial intelligence, today announces the release of a landmark AI industry report \"The Future of Global AI Governance.”"
-    publishedDateTime: 2023-07-24T13:58:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/18736087/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 12
 
 secured: "t00Z4GjnjJMkMRY/gaAVrvRuthuOhu8a/Q2/1cFPnnaGiHHHE8Wn6kMDFaSJ8frKCq/NVJM2P+9rhhTMXGdU+L4otip0dtL2xXYfOAogoIDYx/8j8iTemsQNcMeOHvXd9qRk7TNDyRZdYCxh46NOVMPp8REwCuTZz1TvztqWoZbvCMkubirzNBI5gv69VB0bpTNXQXp6u5RHWcSA7lA8Op6erhagLWZKCYWrm+L2UhQGG9zvGgBBlGaNSTmIKqB61uY14j81Au8QC01p6qVUz03R4FTZZiAlAXpUH4IUF4wtyrMOFKQib2NjNjRORCpRMR1q7+PMkH8XpfQmw415HahvKvaGQmjQUDyLUhNoPNeJ1SOj8GIN56CoJ8DIYUNW+SEnZJ+p9YheHVtAhOXQCf59i5Q6Pskb/75U6I28thDtX/xgfHa1h0AH5DJcJJ3m4t2thCHXYnXESoOwhtl5I3CbV91ufuang9cRsPdVCMShC5pnE3mZddPzAfZyxO809gfm405pfkdoSuEZ4Mq3YA==;34ZV0Zkz7A/Pgk+CQm41ow=="
 ---

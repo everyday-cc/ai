@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa
 webUrl: "https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa-study-1850673979"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Your T-Zone Oily, Dry Or Normal? Perfect Uses AI To Launch Skin Detection Tech"
-    excerpt: "The AI Skin Type Detection supports detection across the T-zone and U-zone of the face in order to determine normal, oily, dry, sensitive, and combination skin types."
-    publishedDateTime: 2023-07-24T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/is-your-t-zone-oily-dry-or-normal-perfect-uses-ai-to-launch-skin-detection-tech-1032470308"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "DARPA-Funded Study Uses AI to Detect Violations of Social Norms In Texts"
     excerpt: "GPT3, a powerful language prediction model, allowed the researchers to form a foundational set of social norm categories upon which violations could be assessed. Because the system would be trained on texts,"
     publishedDateTime: 2023-07-25T11:00:00Z

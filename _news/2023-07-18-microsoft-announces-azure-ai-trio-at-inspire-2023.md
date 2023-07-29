@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft announces Azure AI trio at Inspire 2023"
-excerpt: "Among them are three new AI capabilities that merit deeper exploration. These capabilities follow a substantial number of Azure-based AI releases this year from the Redmond-based corporation."
-publishedDateTime: 2023-07-18T00:00:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/?ref=dailydispatch.ai"
-webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/?ref=dailydispatch.ai"
+excerpt: "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale."
+publishedDateTime: 2023-07-18T16:08:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
+webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "hUe/t14vW+uabK47HeWkqaNKrSq05bq8tM3LTeS11gq32+8hvrK1KjS3QVTmzGtEe/eJjQCcdjZe/ehgDh5gpzZC8h1fwukp5IoyyKV3gATVT4UGLgKTgIu8fKnoW4LkuKuoy39pS/t0VuVOk30z1x1wGPQBtdKnWIXQcHEkjlRAMYP/r3QHRTEVwwuiPoGJuxF1dSgqFFiBx2D59cnpukMyU2eqP3pr4Q8LZonl+fVKKYCH8GxWUlxaEiWyRXbK11pehw4sd0LEFH8Oh3X3KJMjLHwa+SPYWpcnQFDZTymWlnNIIHRjCFAY38dqnHzvlCRcPiS3g5NDgp1QL18Nz6veIDxr7E2n1mo+d102iP8=;agSIkgjyHvH40YKT3jXBPg=="
+secured: "8d/hOlHWKanGHesiARJAPjrJmZza3tVuUb0Aa6NMfbMHPxUSWqFPSuWfn7yXr6/g4DP1ei1KVusmrxBJ/k2gyXC1R7DNjbhOLIUapWKp73rMIlgcd3StPSqT0Dho3rkTha5NSuMV3lBnr0/z2yInJgrByCPLyFkdldkOe9tVSmU6OBZTGCvjMkBr/Nt/RRZ9V0KauEumIiWQDX/W3W84uORXrLwZUF4vKle6XH/HUcw/eUSWX6BZ7E//U6Eb9fP8jjJgB6er6FZ4UC7/EPmK7RX/9+uX3ygpxm7yHREyCvOqm+2+uTgMC3QIvUJoVoKWpOarFIYSmH/xkhEF+c7005TPWiKzbgoMm43TJJpUG9U=;zHNnvXbgB2DK8Dn9ULffnQ=="
 ---
 

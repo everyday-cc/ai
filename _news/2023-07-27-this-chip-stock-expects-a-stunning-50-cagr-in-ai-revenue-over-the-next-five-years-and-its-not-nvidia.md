@@ -61,22 +61,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Is the Clear AI-Chip Winner, Analyst Says. Why There’s Hope for Intel, AMD."
-    excerpt: "Mizuho analyst Vijay Rakesh raised his target price on Nvidia but said the growth of artificial intelligence is a tailwind for AMD and Intel too."
-    publishedDateTime: 2023-07-24T14:12:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 68
-    images:
-      - url: "https://images.barrons.com/im-803090/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "NVIDIA prioritizes AI GPU supply for long-term partners"
     excerpt: "NVIDIA has given its long-term partners, including Quanta Computer, Wistron, and Supermicro, priority to receive its AI GPUs which are in great demand, according to industry sources. TSMC, the manufacturer of NVIDIA's chips,"
     publishedDateTime: 2023-07-28T03:50:00Z

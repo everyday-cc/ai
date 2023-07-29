@@ -117,20 +117,6 @@ related:
         width: 500
         height: 309
         isCached: true
-  - title: "Roundtable Held On Advancing FinTech"
-    excerpt: "The Bermuda Government’s Economic Development Department [EDD] led a roundtable discussion on June 27th that brought together industry stakeholders and DABA-licensed companies. A spokesperson said, “This strategic dialogue marks a critical step in the ongoing evolution of Bermuda’s FinTech ecosystem,"
-    publishedDateTime: 2023-07-24T14:15:00Z
-    webUrl: "https://bernews.com/2023/07/bermuda-hosts-roundtable-on-advancing-fintech/"
-    type: article
-    provider:
-      name: Bernews
-      domain: bernews.com
-    quality: 24
-    images:
-      - url: "https://cloudfront.bernews.com/wp-content/uploads/2019/06/fintech-dollar-generic-2r32-TWFB.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Fintech firm supports charity Ablaze with mentoring day"
     excerpt: "The students visited the Novia Financial office, getting an introduction into financial services as well as discussing artificial intelligence (AI) and technology"
     publishedDateTime: 2023-07-25T08:59:00Z

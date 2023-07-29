@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3228805/artificial-inte
 webUrl: "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/07/26/1600x900/ARGENTINA-DISAPPEARED-HUMAN-RIGHTS-AI-PORTRAITS-4_1690345459702_1690345485959.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Recording Academy revamps rules, places restrictions on artificial intelligence in music"
-    excerpt: "B, NNPA Newswire @StacyBrownMedia The Grammy Awards have issued changes to address how artificial intelligence (AI) affects music. Among the revisions is a rule stating that only […]"
-    publishedDateTime: 2023-07-27T11:21:00Z
-    webUrl: "https://afro.com/recording-academy-revamps-rules-places-restrictions-on-artificial-intelligence-in-music/"
-    type: article
-    provider:
-      name: Afro
-      domain: afro.com
-    quality: 28
-    images:
-      - url: "https://afro.com/wp-content/uploads/2023/07/alexey-ruban-73o_FzZ5x-w-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "ZU0SFKTEw3YB0j40kq7nw7QLi2nFjRq+IafjvKGyL54sCSzJ0Q/8JANvtZQmCy00y4I/aGvyuRde/swPEivZVqs+NOr8ML6XsjZIkK+iqxs/5VOeD1hjQ4aAl16DKS2oQudYQUA3muqQNJM1ISq+8CVgzhB/XElC0RczRujGCVYwg5MhQO9+eK8gEpLQXPHwIi2R2lJqtE+WMAsGC1KApkgp8Z3YkufaLoHc31F6ylcYq/LWppxPGoPTMPqD73uV9nn7HwPiTecGfkpnc97FHgoQkASXTyJrRnHSkZ5+QZyCK+U4rMNuWhG6iugDzmZNhpTVSNOpW/AxcT7W03xVFhVmvnsaw3X4c3hNN++fSSo=;55+p6Ddgjm1Cb/0YgyVljw=="

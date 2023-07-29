@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Mark Zuckerberg Just Changed Artificial Intelligence Forever"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-07-24T13:56:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740797/ai-image.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "Meta's Zuckerberg reaffirms commitment to metaverse, AI; Worldcoin struggles"
     excerpt: "Meta, formerly Facebook, spent billions of dollars in 2022 in pursuit of metaverse projects. In the company’s recent earnings call, founder Mark Zuckerberg reaffirmed that Meta will continue chasing its two priorities, namely the metaverse and Artificial Intelligence (AI) projects."
     publishedDateTime: 2023-07-27T12:42:00Z

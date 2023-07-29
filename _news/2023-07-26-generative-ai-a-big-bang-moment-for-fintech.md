@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
         width: 500
         height: 309
-        isCached: true
-  - title: "Roundtable Held On Advancing FinTech"
-    excerpt: "The Bermuda Government’s Economic Development Department [EDD] led a roundtable discussion on June 27th that brought together industry stakeholders and DABA-licensed companies. A spokesperson said, “This strategic dialogue marks a critical step in the ongoing evolution of Bermuda’s FinTech ecosystem,"
-    publishedDateTime: 2023-07-24T14:15:00Z
-    webUrl: "https://bernews.com/2023/07/bermuda-hosts-roundtable-on-advancing-fintech/"
-    type: article
-    provider:
-      name: Bernews
-      domain: bernews.com
-    quality: 24
-    images:
-      - url: "https://cloudfront.bernews.com/wp-content/uploads/2019/06/fintech-dollar-generic-2r32-TWFB.jpg"
-        width: 600
-        height: 300
         isCached: true
   - title: "Fintech firm supports charity Ablaze with mentoring day"
     excerpt: "The students visited the Novia Financial office, getting an introduction into financial services as well as discussing artificial intelligence (AI) and technology"

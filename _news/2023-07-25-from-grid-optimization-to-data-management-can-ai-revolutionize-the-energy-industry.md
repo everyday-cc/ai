@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revo
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI, machine learning ‘ll revolutionise industries – NCC"
-    excerpt: "The Nigerian Communications Commission (NCC) on Tuesday said that Artificial Intelligence (AI) and Machine Learning (ML) had the potential to revolutionise industries."
-    publishedDateTime: 2023-07-25T13:27:00Z
-    webUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/"
+  - title: "SAASTEPS™ and Featurewave Partner to Revolutionize Revenue Acceleration Management and Sales Engagement with AI-Powered Solutions"
+    excerpt: "By integrating SAASTEPS™ SAASRAM™ suite, built 100% Native & Lightning inside Salesforce, with Featurewave's AI-powered sales efficiency platform, built on Salesforce and powered by Azure,"
+    publishedDateTime: 2023-07-27T20:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/p33430444/saasteps-and-featurewave-partner-to-revolutionize-revenue-acceleration-management-and-sales-engage"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33430444"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33430444"
     type: article
     provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
     images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/04/image-257.png"
-        width: 1200
-        height: 750
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "gH0voAdkBlmha6NpBCGmTuB9ek6ifvG0+SbU2GX0N5FYwa3SDCJ6i4qcud3ZxDOwA5HZ0t35OOBvIacKGxjitaHlydnEB2avhrqK67xgy7cous3FcA1oVOh3apTh2gH0FAH7xvvXSkOjz9GIo2E4EeQAh8sOFwgI5mp/OS+dCMhGISgNV+uzOMrgowck5SebNTzvjdcY2J72OhrfD1x1YrvmtMRDaJ6JeUG0njgbEU1CONxr6BV+631TtT72bhV9RvGFRzDcUCCzE2nRscrL9OKZOyXuznrGCv4WNG7paN5nCbo4oNUpqV5l/fBmB7GOnjN/b+vqWsD+gAqyttLiWKHaW+dfMDtrsyikALsPCXo=;XsWuZcx3s+b+nU2TQ1zZ/Q=="

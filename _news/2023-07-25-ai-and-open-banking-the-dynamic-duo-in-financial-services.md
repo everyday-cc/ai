@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven personalisation : A new era in Ghanaian banking services"
-    excerpt: "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients. Creditably,"
-    publishedDateTime: 2023-07-24T14:31:00Z
-    webUrl: "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/"
-    ampWebUrl: "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp"
-    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp"
-    type: article
-    provider:
-      name: business
-      domain: thebftonline.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/thebftonline.com/wp-content/uploads/2023/07/By-Nana-Kofi-BOBBIE-SARFO.jpg?fit=1100%2C1540&ssl=1"
-        width: 1100
-        height: 1540
-        isCached: true
   - title: "How AI is revolutionising banking services in rural areas"
     excerpt: "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across"
     publishedDateTime: 2023-07-26T11:42:00Z
@@ -57,21 +41,51 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Spotify CEO teases potential upcoming AI-powered capabilities surrounding personalization and ads"
-    excerpt: "Spotify CEO Daniel Ek teased a few ways the streaming service could introduce additional AI-powered functionality."
-    publishedDateTime: 2023-07-25T20:16:00Z
-    webUrl: "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/"
-    ampWebUrl: "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/"
+  - title: "Digital Revolution In Retail: How Computer Vision Is Leading The Way"
+    excerpt: "Harnessing the vast potential of CV in retail also carries ethical responsibilities, especially concerning customer data."
+    publishedDateTime: 2023-07-25T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/25/digital-revolution-in-retail-how-computer-vision-is-leading-the-way/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "AI, machine learning ‘ll revolutionise industries – NCC"
+    excerpt: "The Nigerian Communications Commission (NCC) on Tuesday said that Artificial Intelligence (AI) and Machine Learning (ML) had the potential to revolutionise industries."
+    publishedDateTime: 2023-07-25T13:27:00Z
+    webUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1013933224.jpg?resize=1200,709"
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/04/image-257.png"
         width: 1200
-        height: 709
+        height: 750
+        isCached: true
+  - title: "First AI as CEO in Europe Revolutionizes Leadership using Human Supervision for Safety"
+    excerpt: "LONDON, July 24, 2023 /PRNewswire/ -- Hunna Technology ( https://hunna.app ), a UK-headquartered HealthTech startup, today unveiled the first-ever AI in Europe to act as the CEO of a company. Using a combination of AI and human intelligence, the hybrid system goes beyond just a chatbot, and is based on a new simple mathematical algorithm."
+    publishedDateTime: 2023-07-24T15:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/first-ai-as-ceo-in-europe-revolutionizes-leadership-using-human-supervision-for-safety-1032470750"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Recording Academy revamps rules, places restrictions on artificial intelligence in music"
+    excerpt: "B, NNPA Newswire @StacyBrownMedia The Grammy Awards have issued changes to address how artificial intelligence (AI) affects music. Among the revisions is a rule stating that only […]"
+    publishedDateTime: 2023-07-27T11:21:00Z
+    webUrl: "https://afro.com/recording-academy-revamps-rules-places-restrictions-on-artificial-intelligence-in-music/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 28
+    images:
+      - url: "https://afro.com/wp-content/uploads/2023/07/alexey-ruban-73o_FzZ5x-w-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "/StT90QND3fP5L/YkhZdZp2ouQLtk2kyzFIIvw0wwj1+cnFbvdafBQKG6EQN6qBJJAEkAK539tPxtcjj+MtI31K8eqoO2Qu9TiuwSJO8F8LTUxTvtgsEcLToWjRsJpsOp+dAzZjaWrye486LfB5vgzlIWbCoX//zHvtvwkYMleor2dH+bJWmMo/nc0ROI9fDTHIiooZHRHjxNC6D5iOZ+Ri0DyIhCjn2ZaYq0MVvYTWLmewOvexZ8hu9n75dl9WpdjyM0bU0mxrh88+G+cDWcsE4oK541CUcrhj8Hz/BhoRq7+K6khAE62q2uh3fnHiiYUoNrOsv8BsCJPkTefZUO21GnlqUCkh7T5zyYa2aBNA=;0fEOOIf1gPSwBLy37YcMfA=="

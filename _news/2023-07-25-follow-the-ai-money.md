@@ -74,22 +74,6 @@ related:
         width: 800
         height: 576
         isCached: true
-  - title: "10 of the scariest versions of artificial intelligence in movie history"
-    excerpt: "Tom Cruise (as Ethan Hunt) has battled all sorts of villains across 27 years and seven movies, but his most recent nemesis, a piece of rogue artificial intelligence known simply as the Entity, has come the closest to bringing him to his knees."
-    publishedDateTime: 2023-07-24T14:20:00Z
-    webUrl: "https://www.insider.com/scariest-ai-robots-movie-history"
-    ampWebUrl: "https://www.insider.com/scariest-ai-robots-movie-history?amp"
-    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/scariest-ai-robots-movie-history?amp"
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/64baf313bea34400195eee26?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
     excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
     publishedDateTime: 2023-07-28T09:00:00Z
@@ -145,15 +129,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
-  - title: "How AI Is Revolutionizing The Role Of The Business Analyst"
-    excerpt: "Cyborgs aside, we're in such an innovation moment for business analysts. Here are three ways AI is resulting in a profound shift in the role of analysts and what this means for businesses that want to do more with AI."
-    publishedDateTime: 2023-07-24T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/how-ai-is-revolutionizing-the-role-of-the-business-analyst/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
     excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
     publishedDateTime: 2023-07-25T18:51:00Z

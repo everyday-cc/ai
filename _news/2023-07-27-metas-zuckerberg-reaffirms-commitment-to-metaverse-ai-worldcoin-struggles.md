@@ -7,7 +7,7 @@ originalUrl: "https://www.fxstreet.com/cryptocurrencies/news/metas-zuckerberg-re
 webUrl: "https://www.fxstreet.com/cryptocurrencies/news/metas-zuckerberg-reaffirms-commitment-to-metaverse-ai-worldcoin-struggles-202307271242"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mark Zuckerberg Just Changed Artificial Intelligence Forever"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-07-24T13:56:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740797/ai-image.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "Meta Stock Leaps As Mark Zuckerberg Touts AI Pipeline In Solid Q2 Earnings, Revenue Outlook"
     excerpt: "\"We have the most exciting roadmap I've seen in a while with Llama 2, Threads, Reels, new AI products in the pipeline,\" said CEO Mark Zuckerberg."
     publishedDateTime: 2023-07-27T00:15:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-29T05:03:00Z
 originalUrl: "https://www.knowyourmobile.com/ai-intelligence/ai-2033-a-glimpse-into-the-future-of-artificial-intelligence/"
 webUrl: "https://www.knowyourmobile.com/ai-intelligence/ai-2033-a-glimpse-into-the-future-of-artificial-intelligence/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.knowyourmobile.com/wp-content/uploads/2023/07/a1-2033.jpg"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "hcq9djpG38Dtqh6S32pYi07OfLyWVLjQ+L3NZmSqkhXwYrDSvub56Lyb7xu3DENP8VIF1mTYgAsJkSeWAgZLcQYnktcE40m6q4DqwfcaSvHvM7UsZNnGwcF2d67Nv/MTjnT20MKtDwWLefNqLOfR8+V13x4cgWia9SppZsd6wvsishUcEK2vAJM8DtqoFhQzrrm1nHCV6S9l2QI9I5anJI6pFMSfOwgNwzj1qDO4uebcC/boJKID60JelXC57xvYSQt0FxU3YszTUHZx7GK3JoxusdGZPusvm7WIa3sa9BY3aeWtwxklgPcS1HyWDuLQegmGpE/m43v//jYXGeTypGVNt37nK7N8sLrtJsJroMA=;rr6Y5ULNK36jwSTamaX9DA=="
+secured: "TuRSjzH6w+2EIenNdLNbuLl9Dl3/FXcHtgU5BAeM4C6grkSCLoVTHR0w1SrclYB0MDiWer38gClU525Bun+EoYAMn3o1BAg1qfBxYvy9YEIQKeDDulxx8aFymp0/39sDjHX2/Qkb/lMfX9oSwh5XdDL0SoydLfBcN0YNvXIiUg5NVZrOwi1U4O2y6WzjUt1xh6o83wMNUtB/YHAap+Unp9LMQxODw9w9p7sxApPTtNqlfINqORbYB+y+AJp3dM15mp83k2+MyA8GEjiG3a7lNkWtAhIO4SRlAQ+KR9spYaCbh39ElQH+yr1LnR/94DfUJv5XZZr33FPCUNuHj0/5xydLGIEkXQ14DbVNLJBIWtLlj4mAAnlNxzFIbIDMwSTxKCxlGI+XjKY8dZRE7NHzKYgs+Cj3I3efZ9cVB4LJQWGfrg86fh1zb9mcOy87WMwY1r89pOVpC+GwF+dxjZiTXFMUCORrDMAdtMQrhCUzNOzOdGiRke/whSbhKonTPBwXNvoULdQ1F68npcFiyCKJzA==;CAh3se/HM05WZ0UQK5gqqg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.amp"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1110
     height: 832
     isCached: true
-
-related:
-  - title: "New AI-based system aims to facilitate the rehabilitation process for stroke patients"
-    excerpt: "Statistics indicate that globally 1 in 4 adults over the age of 25 will have a stroke in their lifetime. One of the most serious consequences of this disease is disability."
-    publishedDateTime: 2023-07-24T14:57:00Z
-    webUrl: "https://www.news-medical.net/news/20230724/New-AI-based-system-aims-to-facilitate-the-rehabilitation-process-for-stroke-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 32
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Stroke-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "Jgq5mHXra+/dpMxVAgmlZ25EqZ6ungMQaqPRn4qvDi8VQ2KXEPI4htwZDcHxRRtR6rgURXHescSFkhwtIK0sEFYF5AfW3Zqvs5PR40C/OZUiQqG/p8MtypqpCJFyCOkAnwGmTiF1Wisd61N9ihRvw+PClUgd2Wn+85q9RH7J9EX1gR/Jo0OwFh2CUwJp03VMwQ4gPI6dIeEBG2/p/Fngawa+08a2iCgnDzfG8EihiZaDOwWuRT/Zyzw6ETmCrRr6K9f0Bm2NiGbC6FXNq+nr324llw8/rvmyq6KwdAZLouQ4pBxZTtS/zRgpFLNmyapgYr6BhEssjvXa4lKUD8uozoAFfmZ2r+sKFq/FiqOTxU0ZFA2mXgf/7Y5ZMs1fKT+PBsIWY+oc0ga3xwWoTs/DhabBDZ2BbIe5Sh8IrEkozXzLA6VGx9DxNfd5dQ4BeAFLOZdoTwq4eQG32pFP+UE0JyU7XJ0Ev8Qg5eJxovCnONPcJYsXf/i5cBUl7r2pg2lLFKcXrLDWjuP+ZLNSMMbYpw==;u5ps5iJMZVc3mBYe/VpmQQ=="
 ---
