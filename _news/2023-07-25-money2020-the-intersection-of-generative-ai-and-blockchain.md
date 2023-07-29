@@ -39,20 +39,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "New research shows how brain-like computers could revolutionize blockchain and AI"
-    excerpt: "Researchers from Technische Universität Dresden developed a reservoir computing paradigm that uses a vortex of magnons for calculations, with revolutionary implications for the fields of blockchain and artificial intelligence."
-    publishedDateTime: 2023-07-24T17:45:00Z
-    webUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-computers-could-revolutionize-blockchain-and-ai"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNWFlMjFjMmMtMTBmYi00ZWFhLTk4NDUtY2FjOTAxOWViMzZlLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "cSigma Finance Launches AI and Blockchain Powered Debt Capital Platform"
     excerpt: "PRNewswire/ -- cSigma Finance, a New York based FinTech company, launched a debt capital platform that uses artificial intelligence and blockchain technology to connect credit"
     publishedDateTime: 2023-07-25T14:10:00Z

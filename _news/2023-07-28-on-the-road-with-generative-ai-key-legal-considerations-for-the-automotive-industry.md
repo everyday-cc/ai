@@ -176,17 +176,17 @@ related:
     quality: 19
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-29T08:26:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
+    publishedDateTime: 2023-07-29T09:25:00Z
+    webUrl: "https://www.asiaone.com/business/cib-fintech-and-huawei-jointly-win-asian-bankers-award-best-data-infrastructure"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Asia One
+      domain: asiaone.com
     quality: 18
     images:
-      - url: "https://mma.prnewswire.com/media/2165287/image_986294_20677656.jpg"
-        width: 400
-        height: 267
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2023/image_986294_20677656.jpg?itok=Nhjap4hM"
+        width: 600
+        height: 400
         isCached: true
   - title: "Business school launches £3m FinTech centre"
     excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/laptops-will-need-to-suppor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/"
 type: article
 quality: 101
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Changing customer needs, AI, automation, and security key to shifting business priorities: Salesforce State of IT report"
-    excerpt: "Salesforce’s new State of IT Report, released last week, highlights the key priorities and pain points of businesses, based on a survey of over 4000 IT leaders worldwide, including 200 in Canada. The"
-    publishedDateTime: 2023-07-24T18:07:00Z
-    webUrl: "https://www.itworldcanada.com/article/changing-customer-needs-ai-automation-and-security-key-to-shifting-business-priorities-salesforce-state-of-it-report/543380"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 11
 
 secured: "EETrFF85pQKGjH505AAdLQd3uHgVogpHuPSg+z1r9MylSar9zpu+WZc/6/P7iC5IhtsCGfvYJo/XWIvk+kRjUXx/mskfLu7xsPNkvhMbPCq9vsYQKbRHhotXyQuxI6lc6X1JLrq1kbB6dQ+pgssKlaEHjjDyzuo+RCyNh4EWgYMI60qQRgDv4D5VOyqPj+LcMofYC5MKFpRk4AyASFasnTrDGQgO7IUgVmEEaYaz11Az4H5Ae8LTsqEHIxyAwfrVoWeIr59G792htuWHohs6wnc2EjYJtx5nSqDWaar7UQT15VxjZMpAMatcJa9JOfuCFNsBm0t0b7oe16nCv0lbVnk/rhoAtagMKa2ptnOvWAzGfr/1bjAs7OCdrs6EibL5DsICgx/KE8f/kcr4wEtWT1pIQYLKaZURD6c7yJJygSvLbjpQgqb1YS6/zooZco0t7Mcz7VLT3P1nOf4vOhepOJeE0oDffspIWjsKhBiv1Tj7BrCAUVgQiFlOaWxm4shdFdrQVLHkfTRyGGn42/Sjvg==;NvEejnfInRhWBh+nKrT2nQ=="
 ---

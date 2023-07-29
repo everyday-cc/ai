@@ -3,10 +3,10 @@ category: news
 title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
 excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
 publishedDateTime: 2023-07-25T21:46:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
-webUrl: "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
 type: article
 quality: 31
 heat: -1
@@ -58,6 +58,6 @@ related:
         height: 853
         isCached: true
 
-secured: "MyscKw9OdX1mxNZWZBa9hy0ekVHwVd8JrbGNXjyAZefR3O0KrddiNG98ngS90KkO6MTwKCK5EVFZwtuB5UfME+LGKkrXZjma/VLw9rhj13u7FBu7l8Dyg9vEGnLI6GtH6qAqSO43wpfFD0xaKpHCStCN4dNBFAK3/rqHqTUsbh6lHbhNo2jIQUHZdl4WAydwjw59++cPiO1G3Mo/lPkxXnLU1p20BTSGEFz8dc8rZQ2G/4w6n41iM17AQtdx/Cxkaf4pfS7GMsVw/7GfoDtZeJje/UsdMXzrAXHF7L88EJK5haPHkqx9XHVoE5sdjZFDxvLFodnLi7wY4/xd+eB52WXW+riG4uKKJRdvXSG8ft3eKC8DytMPgyslZ6ocO1MHby5F/Apkd1bNLScQyZiGr7zjiuqgczo/Cln09V02BmLE+v77oKeFpuoME4t1N+oFKX3DyfyIpFrAVmb/evbvHtCU0OlTynOE5bPyBqpEx/DhctkQlNrY2IVquSqT/VISnxnwxNigaZRc8qeCg+odgA==;z1nCZgGKtV7Vd3JotXO1tw=="
+secured: "dTh14DBYHk1FhX1lfZm8O7LL336xOQbg7AbAUmb9w8zu25wi45UvHnMjFo7RhIYRFECGJC6GbTubtHB4fzeBbIKOcsAYJicIhEpR1TCyEekjRoaYGYn1u1BmuLGTmuWahOsrHy/9pC6SN/ns8JqI0H5BOsS1jMRYcerEfxeRtQ4bNLmIF6HoBwl5Q9M5ZcW4Ilv+cRT/fJZo9wMZaSvJxnMwlRLij5N4cVw6bzj3vlhdWteNZ9i8uJlOCfkQN70QjmX6Ux1P8fhXFjB8HNK9RDyWyW1TLPzmcNTwSdeeailzOT9X8GvrwVqW/694qL26fkhD1m8Bv6Yyl8Urk573/qlt3FTbxmZc9bJyjdl7uS4=;iqbAPTJ3QCrX5gyo5ShyAQ=="
 ---
 

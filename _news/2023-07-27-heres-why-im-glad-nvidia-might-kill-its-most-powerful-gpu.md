@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-ha
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 24
-  - title: "Nvidia Unveils Palm-Sized External Ampere Professional GPU With Thunderbolt"
-    excerpt: "This is happening in the GPU world, too, as a company named ADLink has introduced a portable GPU for AI acceleration on a small laptop. The palm-sized module connects to any laptop with a Thunderbolt 3 port,"
-    publishedDateTime: 2023-07-24T17:20:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-unveils-palm-sized-external-ampere-professional-gpu-with-thunderbolt"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 17
 
 secured: "wQ5dfZJgBTnx9a08IQqYJsoP6cOZHSNAmtA6mhdjC4tR3SA2zgng0rOjm2xjL6vdnvCtIgFOHTVnVT8Cnmu203R7pM2Hn+GFMzxHI+osVUVnxVWflAfMSycYIVFugQw8rhnVRYPpEfYLFpn8LM56/QM1HUttNVP5AnoN/enXXd6/XtUYqbKiRK9cAn3aySBUAsmcnxHuruMl8z3Ca2AhD8sU/9TZop9kTstZBMPSwrjMnu4ZEI9+ULYuh053aHnZEYEaCaw4/bY5zs97I0gnnzzTwsxHVUkMprDukspAwPTZgmVg1ynBjEIJC7L6lEnn6F8iNpUIOAsDUevSYVcOH8EJ2MD94JcqDVk69nTyQaRHDrPgrRh5LXq+I02x9RUqoJ2Do0LCdP9gMUgJTh/d1uZozP2xMQzSENOndurxIaowFp0/ygD2kxbn3sVk0zE23WWc7fWwFADznDMWSqQeGPKgVqdOox4cweTPsuf7m/rykvBY3raaZVkh9quK5b+kMGZEwGO0XCX+f2ANEgdT1w==;4MOkvB8saW2umCPy3qN0eA=="
 ---

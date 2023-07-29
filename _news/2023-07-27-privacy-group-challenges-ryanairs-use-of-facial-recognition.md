@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-c
 webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Ireland's Ryanair's use of facial recognition challenged"
+    excerpt: "NOYB has filed a complaint against Ryanair for violating customers data protection rights by using facial recognition to verify their identities when booking through online travel agents"
+    publishedDateTime: 2023-07-29T10:42:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273914693/ireland-ryanair-use-of-facial-recognition-challenged"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1690607773194.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
     excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."

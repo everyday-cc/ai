@@ -7,7 +7,7 @@ originalUrl: "https://www.the74million.org/article/student-led-conference-puts-f
 webUrl: "https://www.the74million.org/article/student-led-conference-puts-focus-on-ai-and-education/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 825
     height: 495
     isCached: true
-
-related:
-  - title: "St. Vrain Valley Innovation Center STEM Camps Focus on AI"
-    excerpt: "(TNS) — Students at St. Vrain Valley's Innovation Center got a hands-on lesson this week in artificial intelligence as they learned to program a DeepRacer self-driving car, then tested them on a large track. \"You learn by doing,\" said Dominic Herrera ..."
-    publishedDateTime: 2023-07-24T18:09:00Z
-    webUrl: "https://www.govtech.com/education/k-12/st-vrain-valley-innovation-center-stem-camps-focus-on-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 21
 
 secured: "pg1XqwxFLrZWihYqiMdBq8umwlu5QmTY2OMJA5BJ620dTzYvoEjszZryy+qJM4RFTDv+7VhL54YaCRTlUzJV2IHwwFT+4r1NYMKgOe0GXG9RAlL4TSa094JmZzvjw67KF3QBg0oYKKaPSv+9dzKkCgZ9JjNVjZQehucfpkAb9ehxPf2Lh1YqxRKkvndRTefXZv+C8xLZgO1vNThn1XxlPYE9kSo/aFyeaV+VrPsyxDJRkkujebvG6zYmFzczhVWg5eJTqOdBmqBlcR1/2yKRAbUptbkz1dr9MQdUNDGTBhwX14qOWOfknlzMNHQyvjREyqWW2hopfRKV6+QWqjQqv+AQKnSjtvG0sak9kHajo+6kW+XYAH88+mwz4TmsgychbpAGXZvP9BP0ARTrq/AVm5rxw6mSE4DCw7nwe6Fcj+WXZqeSIIZdUmF3qZvjguz3pZKvF2XlcEH2UvkIViQpw0XEi7LLayN3a7sJrA77Rbd4P2AcDBSdKpfSla7/Z7ZbgD/fyFlj2NPQmId9Y/JTiw==;Y2DLUzBbu1SBPUZepiEexw=="
 ---

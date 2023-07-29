@@ -93,6 +93,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Ireland's Ryanair's use of facial recognition challenged"
+    excerpt: "NOYB has filed a complaint against Ryanair for violating customers data protection rights by using facial recognition to verify their identities when booking through online travel agents"
+    publishedDateTime: 2023-07-29T10:42:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273914693/ireland-ryanair-use-of-facial-recognition-challenged"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1690607773194.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Ryanair accused of violating customers’ rights with facial recognition"
     excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
     publishedDateTime: 2023-07-28T12:37:00Z

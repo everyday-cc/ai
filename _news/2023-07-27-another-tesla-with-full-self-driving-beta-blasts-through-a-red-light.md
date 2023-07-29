@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-drivi
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
       name: Times Union
       domain: timesunion.com
     quality: 19
-  - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
-    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
-    publishedDateTime: 2023-07-24T17:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "5pJPF9xL+65v4421uT9azd7woAjCW1gF/fmtnzzNwAZbAm10TrCfrFxMPFx6bFjMXfwQihEnr18cmUnp7qWTxIymLaGN7rO9Ko1fdw5L9ZSMyctaDUCoDeRnPTbTzHTgejDcOIMtk13ayPzxUS0rY1sujMI7oeRj1hcDcuYRzQk+uHB2whWhy+SvB8dYAAkmM/qNjSNLDKWaTs1Id9wSiFnQre2tewi3nqKDbbd/UOM1xW5T5weo1xoqNxqmK5jRPYHkFDY9vE3s/ZNAXxOQKhM0aB/kafQGA4BH5ic2iEJsTqEp2iSF9oJrkzyRqDWz+u4LHggTvT7IYVqL0Anj2zQYDVB7fGPMeA2Zo2UdVm8jRshQfFQCFp51vzkit6bF7767oz2lh1lW+aFTaC29pgKWcf2PMjpDj2NE3bdEcCSO9DrnT/ju7/fwVE22lCYYcdNZVmm0u4MGn/5/xzf4/4PcA0xfcqeMWve/uJ/sxP508xeLDp9JKmZgB9iWTDW2lCOtuFXL3HfoBvpmJ7B82w==;M+gIFt3DnnSZm5aHmnGkcQ=="
 ---

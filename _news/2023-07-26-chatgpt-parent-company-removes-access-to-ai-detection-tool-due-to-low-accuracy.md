@@ -366,15 +366,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 19
-  - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
-    excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"
-    publishedDateTime: 2023-07-24T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/2383850-gpt-4-is-the-ai-behind-chatgpt-getting-worse/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
 
 secured: "D85sIge8vZJ3tEdEwfwTPSaBoCQFtnv+FnUb6opAU/B2qX515QUgc23gXlJgmZ9JsTYfVLTKyYQr3qrhpFB8njXZyRrQly4QTJLbiA/YgVCm01UKWWXOPhBX42Flm7M/U6QXOj8VCjI2oX9zJ0SEP7220mg3SiSJy5DP4ozG/ojjiyktqdD95J6ehdXHA1+bPzPxuezG6M1ve77c+MqqTOaOXAVUEBGxa2wjWaC39jxV6elhg9OxVMVH3Nwd9g6UarUgquNas4v/NSQ8uJ445PIxCmcvEpOHkbUrL+KmfmcWiMowk0lUrsFl9aUraf+iGaXsNPreaM+UEoJ1hPj110Ts3wEIHIbS1QaSsaGljVjGu0yhYJfJSI74jWDXDbo2YCi9YjFjBBN+u9F4FMRb8UQcxRFmsBUaDA9jIDEDZ5ZxXROub/5/ynUS0pzeuISKtuRioFuD24RlQfMtsa4tbnlaSF79yv7CHxfH8/V2eIwvOCLr7HQNB1hjcFuoDta9y1cTiIYJZcOoMPf423yBSg==;l5HT3Kp46VvAVmm47Hr5hA=="
 ---

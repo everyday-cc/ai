@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
 type: article
 quality: 106
-heat: 296
+heat: 286
 published: true
 
 provider:
@@ -232,15 +232,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ESRB asks FTC to approve facial recognition age checker"
-    excerpt: "Sign up for the GI Daily here to get the biggest news straight to your inbox The ESRB has proposed that the FTC"
-    publishedDateTime: 2023-07-24T18:07:00Z
-    webUrl: "https://www.gamesindustry.biz/esrb-asks-ftc-to-approve-facial-recognition-age-checker"
-    type: article
-    provider:
-      name: GamesIndustry
-      domain: gamesindustry.biz
-    quality: 19
   - title: "South Wales Police state their case for using facial recognition"
     excerpt: "On 28 June, the parliamentary session’s final Senedd cross-party group (CPG) on digital rights and democracy, of which Open Rights Group (ORG) acts as secretariat, took place online with over 20 attendees tuning in to hear a follow-up to a previous group session on facial recognition technology."
     publishedDateTime: 2023-07-25T12:33:00Z

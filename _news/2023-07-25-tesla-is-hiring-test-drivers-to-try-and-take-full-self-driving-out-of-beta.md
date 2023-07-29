@@ -66,15 +66,6 @@ related:
       name: Times Union
       domain: timesunion.com
     quality: 19
-  - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
-    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
-    publishedDateTime: 2023-07-24T17:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "5J16A/k4nwJi6lBZRelAoPpY3kbmzeY5SC68m14ICedqK/SjlaS+E0l2tkmkHayj4hIYF7aoiJzvXy6gAYVWGJwrS4NV54ZBOV1p5CZ0n0nOYEfp6yvOOjKhdQGi+IqfJjRDm8XI/4jsMjwodlJnIjHLzPTJ2Lpjx36eUDM3idA3G6M7NQdNS2w0ck6+NFGfdqmGYPv3CF8AKnJg+3N8+wgVgkZgIfFoMv/VYDKwoAWcBO6J9DvUKXqkd/0r06BWXdShYJaD42+gsp7ROFgarxTlibqGyWOIpYO9nr9pOjR0B1st1+UjjOPGFIpw5HE/wYc+hnhsV7pL/1FYyrz599dsQ0zLosx9py3PNHwLo6s=;Srt92EVIln8RTODNiNbsZg=="
 ---

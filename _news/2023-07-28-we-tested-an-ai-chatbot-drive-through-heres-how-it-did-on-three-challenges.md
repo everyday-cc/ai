@@ -362,15 +362,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 19
-  - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
-    excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"
-    publishedDateTime: 2023-07-24T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/2383850-gpt-4-is-the-ai-behind-chatgpt-getting-worse/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
   - title: "ChatGPT parent company removes access to AI detection tool due to low accuracy"
     excerpt: "Even on its launch day, OpenAI admitted the tool was “imperfect” and results should be “taken with a grain of salt.” Now it has been pulled due to its \"low rate of accuracy.\""
     publishedDateTime: 2023-07-25T19:08:00Z

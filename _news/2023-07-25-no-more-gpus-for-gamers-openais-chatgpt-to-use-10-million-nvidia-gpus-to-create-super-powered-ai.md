@@ -54,15 +54,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 24
-  - title: "Nvidia Unveils Palm-Sized External Ampere Professional GPU With Thunderbolt"
-    excerpt: "This is happening in the GPU world, too, as a company named ADLink has introduced a portable GPU for AI acceleration on a small laptop. The palm-sized module connects to any laptop with a Thunderbolt 3 port,"
-    publishedDateTime: 2023-07-24T17:20:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-unveils-palm-sized-external-ampere-professional-gpu-with-thunderbolt"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 17
 
 secured: "eMmvmcIwivEF1xC6tm+8O0jwI0/xfBLLfiLo4Zb5XDUlndXOidtCTGI5CiVIUT4S7GuPfLfZvL6D+V2L8izsd7W84whU93VrkLmkEVh1Avaj0QPlCj+mtTDdkG+N2U7E9oDv1mOuOL3AIdcyquCpGhxW4Bdkc3wDGswdbhNuPsbCn7PupvtChiIsKXLunY+jQgoXh0WFL1cLg1lFdefpEGOT6vfcWGhqDoEWbP5VqCeZgwmnbRVpGK/ycayzxchO32ZYco1Tq0jG+QuetFW5PTvFgtuxUmHq+Sq44GFYRDCANv9FzXDkttma4FaQPcdmUhJ/LLcOMDXGYx41EKgroG30H+cQ8OX/705vhIpROh0=;1hsUcEoTYhecRScV2EHwUQ=="
 ---

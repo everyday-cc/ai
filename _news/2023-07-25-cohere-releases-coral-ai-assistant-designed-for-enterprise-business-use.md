@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Artificial intelligence ad agency launches for small businesses"
-    excerpt: "A new advertising agency plans to offer cut-price creative services to small businesses using artificial intelligence tools.Antony Young and Matt McNeil,"
-    publishedDateTime: 2023-07-24T17:32:00Z
-    webUrl: "https://businessdesk.co.nz/article/media/artificial-intelligence-ad-agency-launches-for-small-businesses"
-    type: article
-    provider:
-      name: businessdesk
-      domain: businessdesk.co.nz
-    quality: 37
-    images:
-      - url: "https://media.businessdesk.co.nz/file/c_fill,w_800,q_100/Antony-Young-2-f.jpg"
-        width: 800
-        height: 647
-        isCached: true
-
 secured: "SWreYVlFPcZciLs5fIxJ+D7GYrzr7Fc6htYjNOHzy5K1VDuzNL27H+mLt8CcQ1dDm3fQBH6h3x9TefMVnD5JJ+w1QdrJi9629KQ4aFtVVugbaezog/idHlEUhQGcdHc8k7nix85Wl5qEhXJW9Ly/vPAjFV5e/JNRBOsWhwNtvzZJqwQ9uz62/qOO/cGh1a+WZPkq3KfMEH8YkDIkm1BYPV+9rTpR6qk1bIHvcZpEQwbeoxOwbzltsngCALsqk9XKv8O3dVeNIqZ7KAnXbAt9KBVU0iuSFKHsZhEkbHc1OtvzfFB10i3zbajw1pUQ4NXaWEpUO6S8fYsddXyq0qhfZdRaAyumFekIegbHkuhc+Ji9pDffqUB01abMnXR0PrHfjEYsBbcJUouKXLVnhSkaC1pTuS3xZmB+MeD7Y2sw2uvML6K4KG6Ph54KzVJFvS9zrSG4Q0ncbjexaZ6BgYf0EwGO/BumpJ+1SncTIEdYdnSn3Bk/7CX3nIL2odlAjPggjyAgB1CN8fUIXENMxtjtPQ==;9/ZISiKpv8LFlCVyFVlF5Q=="
 ---
 

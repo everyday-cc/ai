@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI hype is 'driven by marketing' right now, says former FDIC Chief Innovation Officer"
-    excerpt: "AI has crossed over from being a tech buzzword into a household name, but consumers and investors should be circumspect when thinking about the AI hype, said Duke University professor Sultan Meghji, who previously served as the FDIC's Chief Innovation Officer."
-    publishedDateTime: 2023-07-24T17:20:00Z
-    webUrl: "https://www.aol.com/finance/ai-hype-driven-marketing-now-142046188.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 47
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/NBIrxocPIoXgvbjduTb2Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/3d3d768f55edc771dde4b3c757e92c12"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ufGXERHJZADLWxYTEXJHTiXORDKUKPBKb+m7H/2eA3oT7+NGk3k782wpQS4SrVHk2l30iyajEfrLIWSVhDCGgiEqZ9skxL/63V7Nd3J0T5BPSpa7FD2jdBaaA6Fq32qx84dgALjQvUGQLFDTANxOmz80O0E3VOEbQ1b5AdEJK9WODA0jvNBOJyukGTKr2IZrxDMxRY8Xxsjijl5hRZGzNs1+GGjkdX5Doxx63ujNt2zI+OjdZtVaE1xIwopDasoImyffYo9RB2R1+4Lsh6GWe88kfKx4WkVEU4X23yVhz3+2TXUawQFQ6lKFBntsvm+wKEXH50TF+dDH5Lw8PaoXTgUAw6IAfC/JBZFqCPhr0yS0sYttLzlLQUIcflBdsxdGKxJ7B79jLIEnwmkwY7CiM8Y1yHUZQlqr+UD7LDsxN89uzDNptlQAoFf9q6qvHQogkfY7rZNU1QC3Sk4oVcM61GEg6Gg6aHNeM2/2GkuOxar+jxuuebpFVrKbrVq0Kuw05eqQ7ImGgrtVcfCymE+d6w==;nC5E8nU47nYXBUBuLRcVyg=="
 ---

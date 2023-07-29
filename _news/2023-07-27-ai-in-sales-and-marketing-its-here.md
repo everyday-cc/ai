@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 53
-  - title: "AI hype is 'driven by marketing' right now, says former FDIC Chief Innovation Officer"
-    excerpt: "AI has crossed over from being a tech buzzword into a household name, but consumers and investors should be circumspect when thinking about the AI hype, said Duke University professor Sultan Meghji, who previously served as the FDIC's Chief Innovation Officer."
-    publishedDateTime: 2023-07-24T17:20:00Z
-    webUrl: "https://www.aol.com/finance/ai-hype-driven-marketing-now-142046188.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 47
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/NBIrxocPIoXgvbjduTb2Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/3d3d768f55edc771dde4b3c757e92c12"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "kP06nRnZOtXWPgT9YLS6nmaq7DmDCLcQ2qgmvltZcdZAT7lC/qucwwGDHpTg77CWERBNg/bR4l2MA6faRhND/XeQWch3foezUuQ+Efd1QpDdyWYJULxgFvc37mGZ7f/nbT705XEcjV4SU/2HAE9ASAP7wb/WGoSF6vj4YW+4nNwnPfIgm3I5e4KwTUUBsTSEBADqo55rnaDtAt1o/Y3miCelTlUkfMChWURKOjX8LH5W9wvueI5lB2fi9bp/bFvchxBKbJ1RdSUI/WWTBEZkkiMkTF6jJNEqCC4OPr61cT8KvTMb3mAiTxDeKt9wwSkZt/f6hvldvFC2rI7rOcWOfMLCAU1YT1YQN956ClZtZwU=;3M2OFmHrbh7AzjJyTVtzfQ=="
 ---

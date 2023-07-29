@@ -173,15 +173,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
-  - title: "AI will benefit tech earnings: Jeff Sica"
-    excerpt: "Circle Squared Alternative Investments founder Jeff Sica weighs in on whether companies can profit from artificial intelligence and how it will impact the economy on ‘Varney & Co.’"
-    publishedDateTime: 2023-07-24T18:41:00Z
-    webUrl: "https://www.foxbusiness.com/video/6331753826112"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 17
 
 secured: "YKLS4Dk44uwViljNDyNOE5FMaRiqnvTeT5URAJ/hsSklbc/EHguXWDXakP8Ik5dqx2uS2Q1+QMGpyoKebOyZhZauk8Yfcf5qNIepF9JckQaQVkqZQ0jgCj0GYVRs8+FmFmWmrzg12mwowHAIlCLZ8xGfNYtEGWEu6kwrN0XtmcjbIqIuYig/EwARxb8fEWV2yHJEjUknB8ZHDmwludS7YnCtf17lV7AI2YF/63fF36H4v+sthQy/eyUPIHLslNT7YpQVCr7s6N0GyDOGM/utckrw8q4S/Yt6k1I4iCEQTYsu0qF64kd6GiJ6MadUKQMqsFCXF94XLE1WA3LoJv6mAlcezQMWofmQkx7xvkHMCwVK6oQkKct+ixU4YV2qe21TVFcCTCMjhh+3cPjhnmAKO8FZCAQqbFciMMy2zJjVRF0yyozvA6zAB/OHkH5Vz17qtwZGPWG1vUOm5zyLu0DYz9LBWbYOJuLQ1SY2WWbTKI1yJh6vb5+2zA+funFHrkhxEXJDzsz7xnmcd/+9Ajdekw==;hmvl/nb9zMUFEPXqCBDOsw=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
 excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-publishedDateTime: 2023-07-29T08:26:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
+publishedDateTime: 2023-07-29T09:25:00Z
+originalUrl: "https://www.asiaone.com/business/cib-fintech-and-huawei-jointly-win-asian-bankers-award-best-data-infrastructure"
+webUrl: "https://www.asiaone.com/business/cib-fintech-and-huawei-jointly-win-asian-bankers-award-best-data-infrastructure"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2165287/image_986294_20677656.jpg"
-    width: 400
-    height: 267
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2023/image_986294_20677656.jpg?itok=Nhjap4hM"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -199,6 +199,6 @@ related:
       domain: thebusinessdesk.com
     quality: 4
 
-secured: "YrKMAq8fVyWtVaOVpnUI0TjRLxbjCdBPD6OSs0U/6Nwwc7YdKI5PET0duCkipplNxgwn/OAToqa4qABbI6REmTUteryBf53Jn2wBOcecpBsn2X1OLLR2IMHsxSEwAPWvJxcVDPUToXS62D8fbTV+PQyDNxECQxSOZ7V7EqBN1ds75cYtWjBCqq9BXWqvNALpgAlAdmd5DgTmX4d+DimWxEt3lutBzNrAo48RcunxRUqDlDxrY68RsZCgPfSLlQ1uv0qDxjbu1Da+7YzMQ6IUz3PnRGwpY55og6+UHXipYcju7qD9pBTKj8gJRFV9FBoTkD6NX+vZRxXmda4o47aCNfDihRXSk9lKiJBb+/fAA+A=;4LYdrcQD7wzEPlz9D208wg=="
+secured: "VN7wM/kEDIRfVOrzsRycXjSs2YrVlAk+iwQrf7AwwqjOKDamL2dctHEF5KkTqkyHam1DmlNVrl1+xxouQwsYA97LcUGYerFE7TsnHnB9rnpowaOXSE/3ijGc63fCPP8qU4SnNBJzO/OfKShwN+G9k7PS38c2Zbpyi44weD9f2Hlqsj/bpe/4GhhhNhCmV5hG7atKBGghWfm+/MNdJMh61iP/HPGL8win7rLI5QpT40chLyzaNujIYS6J5Ig9d4LQrYK8aOx9E2bobuZgRyEw11DYNoOY5j+B8YJpIrL20S5iYzUXNCZXTZGN/GNNftQsk2QpWR6ScbUpxl517bNSprOel4aHJZxNQFizPa8kQBA=;quxg645MDDWuMP9c7k37Qg=="
 ---
 

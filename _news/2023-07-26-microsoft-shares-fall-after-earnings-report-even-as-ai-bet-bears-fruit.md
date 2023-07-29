@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "All eyes on AI as Microsoft prepares for pivotal earnings report"
-    excerpt: "Investors will be looking for early signs of traction from Microsoft’s artificial intelligence investments Tuesday afternoon when the company reports results for its fiscal fourth quarter. They’ll likely need"
-    publishedDateTime: 2023-07-24T17:28:00Z
-    webUrl: "https://www.geekwire.com/2023/all-eyes-on-ai-as-microsoft-prepares-for-pivotal-earnings-report/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 84
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-msft-logo.jpg"
-        width: 900
-        height: 628
-        isCached: true
   - title: "AI lesson for Microsoft and Google: Spend money to make money"
     excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
     publishedDateTime: 2023-07-26T07:57:00Z
@@ -596,15 +582,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "The AI Launch Pushing Microsoft's Price Higher"
-    excerpt: "The post The AI Launch Pushing Microsoft's Price Higher appeared first on American Institute for Crypto Investors."
-    publishedDateTime: 2023-07-24T18:25:00Z
-    webUrl: "https://moneymorning.com/investing/the-ai-launch-pushing-microsofts-price-higher/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 36
   - title: "Hexaware collaborates with Microsoft to propel innovation with generative AI - Tenjin for Knowledge Services"
     excerpt: "ISELIN, N.J. and LONDON and MUMBAI, India, July 27, 2023 /PRNewswire/ -- Hexaware, a global frontrunner in IT services and digital solutions, is excited to announce its collaboration with Microsoft to propel technological advancement for businesses ready to embrace the future, harnessing the power of generative artificial intelligence (AI)."
     publishedDateTime: 2023-07-27T10:33:00Z

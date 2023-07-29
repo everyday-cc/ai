@@ -235,15 +235,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ESRB asks FTC to approve facial recognition age checker"
-    excerpt: "Sign up for the GI Daily here to get the biggest news straight to your inbox The ESRB has proposed that the FTC"
-    publishedDateTime: 2023-07-24T18:07:00Z
-    webUrl: "https://www.gamesindustry.biz/esrb-asks-ftc-to-approve-facial-recognition-age-checker"
-    type: article
-    provider:
-      name: GamesIndustry
-      domain: gamesindustry.biz
-    quality: 19
   - title: "Face recognition technology for pensioners soon"
     excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."
     publishedDateTime: 2023-07-28T00:29:00Z

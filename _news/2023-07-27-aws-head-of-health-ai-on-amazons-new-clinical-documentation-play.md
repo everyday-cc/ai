@@ -268,20 +268,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "How FOX Teamed Up with AWS for AI-powered Highlights"
-    excerpt: "Rising to the occasion, FOX built and deployed its new AI-powered Catch Up With Highlights feature ahead of its US broadcast coverage of the FIFA World Cup Qatar 2022™. Leveraging Amazon’s open source Media Replay Engine (MRE) framework for automating video clipping and replay generation,"
-    publishedDateTime: 2023-07-24T17:30:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=159754"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137829-Soccer-OTT-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS Releases Generative AI Service for Clinical Documentation"
     excerpt: "The new AWS service will support generative AI clinical documentation capabilities for general medicine and orthopedics specialties."
     publishedDateTime: 2023-07-27T17:00:00Z

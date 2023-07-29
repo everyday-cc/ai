@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expec
 webUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
 type: article
 quality: 79
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -177,15 +177,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "AI will benefit tech earnings: Jeff Sica"
-    excerpt: "Circle Squared Alternative Investments founder Jeff Sica weighs in on whether companies can profit from artificial intelligence and how it will impact the economy on ‘Varney & Co.’"
-    publishedDateTime: 2023-07-24T18:41:00Z
-    webUrl: "https://www.foxbusiness.com/video/6331753826112"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 17
 
 secured: "6t/QE8mka0ldQ/7jxl2SbL5ASeuLaUkFphljQzz3mojLw1wBAwg6gwciZzIjrU5CreE8C2m8d7FTbHot/DIFJhzamB13ay/9gHFw9fYbMU0DVDSFtcosrejbLSUG3cWzOQxfVZNhV46LUwf80kkbW6ZjMW2cVW8gtzIVWxgXs9P2gkuz6shBzGP+BKtCqlR/3hu21/MDVziR5tonw49QpRc5zcX+t4p5a2vj2t7Vmzji9TibyBQoTvLnct97GWbzUsaLrCuxP/uZNiDAvCkOddYZ3uH+NX7Q6h+S2bAZHBxP2K+1TX/+oEcZwdytxY0OAYNqp3xoVC4kBkA3wHurthBFLMYeHM5bWuOYepvc7FTcRVKMERsg8/0mGjWzbOKNqWdKTWGgJWVLizliwgb/7RGak9uKczUoPaB9TEsumUYST5FnohzLI3ydeLUDeUHaG34EEFczxLFdkt1il3bCePr1JB/PlEh+dtE7aoFVudusetsE7OCMnVFW/XjIEG/aDZrhtc4o83vK06njtaZa7w==;25gOhabMZhipyqLPr+irZA=="
 ---

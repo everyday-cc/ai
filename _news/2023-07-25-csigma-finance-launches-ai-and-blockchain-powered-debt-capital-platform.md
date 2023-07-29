@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "New research shows how brain-like computers could revolutionize blockchain and AI"
-    excerpt: "Researchers from Technische Universität Dresden developed a reservoir computing paradigm that uses a vortex of magnons for calculations, with revolutionary implications for the fields of blockchain and artificial intelligence."
-    publishedDateTime: 2023-07-24T17:45:00Z
-    webUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-computers-could-revolutionize-blockchain-and-ai"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNWFlMjFjMmMtMTBmYi00ZWFhLTk4NDUtY2FjOTAxOWViMzZlLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "QqYIlbHXeua6+eBJTWT16EbzNiBSr7yHwIOtOh9O9kUidgrhrajUi/wybkHcBwZ9K+HnOpDli7bma4rXnj5YTiDuwVdi1pUz8Nh9/ZkbQ2a35Rg1Rul62xHTCtJ4pARBnQgGoP88Wwsgk1/z3KXBHMFP+STOauZ7fiMPEd1lrYvUkAL5+ESISxqQoSosaNWfJwk4zOPIkIh9CpEOHAYXi3LcE2YWXvOPHlTc0xSrj2PbjOl8Il5lt7q9+MPEbfqLBtdW6aLK1L+Arl9N8Uuq6pCeZRyUrJ7lI37RmTsLM4RKwnPKa0c+vPtI0F6JPOTau5CTYZ1NpHDT9dVVCeNfcQrwsovgNmQ+5kbXxj9b4xA=;iCFdQMf+5aDhBlPafihE2Q=="
 ---
