@@ -148,7 +148,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 411,
+      "heat": 421,
       "tags": null,
       "images": [
         {
@@ -441,49 +441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ai-based-device-to-monitor-arm-movements-aims-to-help-people-after-stroke.md",
-      "title": "AI-based device to monitor arm movements aims to help people after stroke",
-      "excerpt": "Statistics indicate that globally one in four adults over the age of 25 will have a stroke in their lifetime. One of the most serious consequences of this disease is disability. A joint study by Rytis Maskeliūnas,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-based-system-develo.jpg",
-          "width": 1110,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.amp",
-      "publishedDateTime": "2023-07-24T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1445,6 +1402,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-tempus-announces-the-gemini-non-small-cell-lung-cancer-study.md",
+      "title": "Tempus Announces the GEMINI Non-Small Cell Lung Cancer Study",
+      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, announces its GEMINI Non-small Cell Lung Cancer (NSCLC) study (NCT05236114). The Tempus-sponsored study, being run in collaboration with AstraZeneca,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelera
 webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
 type: article
 quality: 119
-heat: 199
+heat: 201
 published: true
 
 provider:

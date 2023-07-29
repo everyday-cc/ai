@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealt
 webUrl: "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealth-not-with-bang-2023-07-28/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba’s Taobao Sells Last of Its Stake in Chinese AI Startup SenseTime"
-    excerpt: "Taobao Holding, a unit of Chinese e-commerce giant Alibaba Group Holding, has sold all of the remaining class B shares it held in SenseTime Group, the artificial intelligence startup said on July 21."
-    publishedDateTime: 2023-07-24T08:56:00Z
-    webUrl: "https://www.yicaiglobal.com/news/alibabas-taobao-sells-last-of-its-stake-in-chinese-ai-startup-sensetime"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 36
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/28875001988805.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "The Chinese Government Establishes Generative AI Rules – Will Other Countries Follow?"
     excerpt: "China is setting some legal boundaries in how generative AI technology should and could be used. What about the other global players?"
     publishedDateTime: 2023-07-24T09:36:00Z

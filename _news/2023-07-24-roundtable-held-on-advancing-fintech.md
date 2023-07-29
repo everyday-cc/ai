@@ -173,20 +173,6 @@ related:
         width: 500
         height: 309
         isCached: true
-  - title: "Founders Factory partners with Mediobanca to boost fintech investment"
-    excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."
-    publishedDateTime: 2023-07-24T08:30:00Z
-    webUrl: "https://www.altfi.com/article/founders-factory-partners-with-mediobanca-to-boost-fintech-investment"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/25gBva9WMYHsQ9IQAmyJXa/e7fe46a165ce36af245a541cde71fff8/Founders_Factory.png"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Fintech firm supports charity Ablaze with mentoring day"
     excerpt: "The students visited the Novia Financial office, getting an introduction into financial services as well as discussing artificial intelligence (AI) and technology"
     publishedDateTime: 2023-07-25T08:59:00Z

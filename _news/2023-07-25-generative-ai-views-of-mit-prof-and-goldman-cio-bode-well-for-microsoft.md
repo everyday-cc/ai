@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 648
+heat: 658
 published: true
 
 provider:
@@ -310,6 +310,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Xiaoice uses Microsoft Azure to upgrade AI-powered chatbot"
+    excerpt: "Xiaoice is using Microsoft Azure to upgrade its artificial intelligence-powered chatbot and X-CoTA technology for enterprise customers in Asia. The AI digital workforce solution can understand humanlike AI conversations,"
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.technologyrecord.com/article/xiaoice-uses-microsoft-azure-to-upgrade-ai-powered-chatbot"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4507/Xiaoice_web2-1.jpg"
+        width: 975
+        height: 548
         isCached: true
   - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
     excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."

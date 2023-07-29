@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-25-debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs.md",
+      "title": "Debunking observability myths – Part 1: Why you can’t skip monitoring and rely only on logs",
+      "excerpt": "In this blog post, we will shed light on a myth surrounding observability: \"You can skip monitoring and rely on logs.”\nThe post Debunking observability myths &#8211; Part 1: Why you can’t skip monitoring and rely only on logs appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs/",
+      "originalUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T11:33:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy.md",
       "title": "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’",
       "excerpt": "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\"",
@@ -215,7 +257,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 648,
+      "heat": 658,
       "tags": null,
       "images": [
         {
@@ -474,7 +516,7 @@
       "originalUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 306,
       "tags": null,
       "images": [
         {
@@ -1217,58 +1259,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-tsmc-to-invest-29-billion-in-advanced-chip-packaging-plant-in-taiwan.md",
-      "title": "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan",
-      "excerpt": "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "publishedDateTime": "2023-07-24T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

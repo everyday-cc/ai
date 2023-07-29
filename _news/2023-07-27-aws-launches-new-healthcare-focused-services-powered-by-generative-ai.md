@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/"
 type: article
 quality: 121
-heat: 411
+heat: 421
 published: true
 
 provider:
@@ -272,6 +272,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137829-Soccer-OTT-ORG.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS’ head of health AI on Amazon’s new clinical documentation play"
+    excerpt: "AWS’ Tehsin Syed shared what differentiates HealthScribe from other AI-based medical scribes and how Amazon is approaching tricky questions of accuracy and responsibility around generative AI in healthcare."
+    publishedDateTime: 2023-07-27T16:16:00Z
+    webUrl: "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/53gowIaP8QxjnVDdtQ9rskIbm7xfdCn4x-I8DWwbeOs/crop:1763:996/g:nowe:34:422/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2F3cy1ueWMtc3VtbWl0LmpwZw.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "AWS Releases Generative AI Service for Clinical Documentation"
     excerpt: "The new AWS service will support generative AI clinical documentation capabilities for general medicine and orthopedics specialties."

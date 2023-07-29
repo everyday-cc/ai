@@ -3,8 +3,8 @@ category: news
 title: "Twilio (TWLO) Stock Trades Up, Here Is Why"
 excerpt: "Twilio is up 27.6% since the beginning of the year, but at $64.32 per share it is still trading 34.5% below its 52-week high of $98.19 from August 2022. Investors who bought $1,000 worth of Twilio's shares five years ago would now be looking at an investment worth $1,110."
 publishedDateTime: 2023-07-28T19:08:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/H0Z24/pressreleases/18894479/twilio-twlo-stock-trades-up-here-is-why/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/H0Z24/pressreleases/18894479/twilio-twlo-stock-trades-up-here-is-why/"
+originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/YMM18/pressreleases/18894479/twilio-twlo-stock-trades-up-here-is-why/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/YMM18/pressreleases/18894479/twilio-twlo-stock-trades-up-here-is-why/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 1137
     isCached: true
 
-secured: "n3w3t1ct1x+zrR9bN25B1yF8Z5kOkVJHJ4KkXgJNxor14KvPDYycNmziStB/fJkgx1VbivUwL2/NwyoDQhBm6vevMqVAEeluUwiPLzTBqOboj/zDaCB8wpy2A7PudzNko0jFpgykYiGKOkseyAVknNNbnBDv+1s7PkUgcmTZXIta0+p3iWW61tV/8wSXnTjgwVAQJwK/wgdfyE0sDBC+pJOE7ByfCPWUjJDTpCO/185PcG4LNtuKgZ63ZSrIJIkLeJAiwc1xC2SF3f7eWE0WPDuMA5Yr4h+lN3KMsr8RBc/+MxqAmu8iHzjQhVNM13ufHzgFe9Z36X0V3vcYiroAzUPLrpbbV3NpNRXarrO8LRI=;gdpR0q82u5xP4jm5sOHAGw=="
+secured: "ercgG9ftbE/u5cbsz52GdkTfqSaMqarSzMr2AspGukfiWlj9I0GkgFT1u1HkXYgp0AsUQvtBK+kqGeD11vKjbzBL3+bgerTB9RGT+Pv1cfz92uKnGsOHYfv9kPoSFc2oacb0PSQpm6SaYTokBtS5xMR31Bq/o9+G4Lqmu6VaiSt2/Mo/ipf4WVY9XdhUDPp3N1odrjhxW3daKdE6V40q69Q/YzbSOyIsIzLpmtRHRv0XGHApBT8VyPu5q6KWtIj/OT14Jzoog4TOQf7sQgRxNAhYgoiXz9VsIEHkz7ZTJ58u7yeqT1oIC8VQMzl1R0nXJYLYjDsk08JvCuMOrLsUrULMR1jLoq3pb0kjnix0tWA=;xAgFTQstB5ehxJXSopy8Nw=="
 ---
 

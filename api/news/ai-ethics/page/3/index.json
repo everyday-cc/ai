@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-29-how-weaponizing-ai-could-alter-the-outcomes-of-elections.md",
+      "title": "How weaponizing AI could alter the outcomes of elections",
+      "excerpt": "Mike Hamilton, co-founder of cybersecurity firm Critical Insight, says there are currently no guardrails against AI’s power to surgically target voters for disinformation. He hopes that it could also be applied to detecting fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1448697510.jpg?fit=740%2C416",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/",
+      "publishedDateTime": "2023-06-29T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-the-vatican-has-a-plan-to-help-keep-ai-in-control.md",
       "title": "The Vatican Has A Plan To Help Keep AI In Control",
       "excerpt": "In 2020, Pope Francis also called for AI regulation using \"algor-ethics,\" as reported by Reuters. Titled \"Ethics In The Age Of Disruptive Technologies,\" the ITEC handbook cites Microsoft ...",
@@ -1373,58 +1416,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-the-vector-ai-research-institute-releases-six-ai-ethical-principles.md",
-      "title": "The Vector AI Research Institute Releases Six AI Ethical Principles",
-      "excerpt": "This article provides a list of the Vector Institute's updated Ethical AI Principles & a helpful list of other leading institutions researching and advancing Ethical AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b7e68e97e0cbab9b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/amp/",
-      "publishedDateTime": "2023-06-15T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

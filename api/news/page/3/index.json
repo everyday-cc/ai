@@ -728,6 +728,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-27-studios-quietly-go-on-hiring-spree-for-ai-specialist-jobs-amid-picket-line-anxiety.md",
+      "title": "Studios Quietly Go On Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety",
+      "excerpt": "Netflix is hiring a $900,000 per year AI product manager, Disney is looking for generative AI specialists, and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/",
+      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/2023_07-Nicholas-AI_Hiring.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/amp/",
+      "publishedDateTime": "2023-07-27T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-meta-rallies-as-ai-powered-ad-sales-drive-monster-forecast.md",
       "title": "Meta rallies as AI-powered ad sales drive 'monster' forecast",
       "excerpt": "Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.",
@@ -1172,48 +1215,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco.md",
-      "title": "Can artificial intelligence bring a new tech boom to San Francisco?",
-      "excerpt": "As San Francisco struggles with empty storefronts, homelessness and theft, there is new hope that a tech boom driven by artificial intelligence will help revitalize the city. CNBC’s Deirdre Bosa shares more on Scale AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690412846568_nn_dbo_can_ai_save_san_francisco_230726_1920x1080-0lpxtm.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189352005970",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189352005970",
-      "publishedDateTime": "2023-07-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

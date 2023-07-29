@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.amp"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based system developed by Lithuanian researchers will help people after stroke"
-    excerpt: "The joint study by researchers ifrom Lithuanian Universities is focused on creating an artificial intelligence (AI)-based system that aims to"
-    publishedDateTime: 2023-07-24T08:28:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235827"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 34
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/91967_KTU%20logo%20EN.jpg"
-        width: 2126
-        height: 1417
-        isCached: true
   - title: "New AI-based system aims to facilitate the rehabilitation process for stroke patients"
     excerpt: "Statistics indicate that globally 1 in 4 adults over the age of 25 will have a stroke in their lifetime. One of the most serious consequences of this disease is disability."
     publishedDateTime: 2023-07-24T14:57:00Z

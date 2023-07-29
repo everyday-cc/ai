@@ -323,6 +323,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Xiaoice uses Microsoft Azure to upgrade AI-powered chatbot"
+    excerpt: "Xiaoice is using Microsoft Azure to upgrade its artificial intelligence-powered chatbot and X-CoTA technology for enterprise customers in Asia. The AI digital workforce solution can understand humanlike AI conversations,"
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.technologyrecord.com/article/xiaoice-uses-microsoft-azure-to-upgrade-ai-powered-chatbot"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4507/Xiaoice_web2-1.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "Generative AI’s Growth Bodes Well For Microsoft, ChatGPT"
     excerpt: "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue."
     publishedDateTime: 2023-07-25T16:39:00Z

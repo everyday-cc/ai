@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AI-powered travel assistant touted as most powerful ever"
-excerpt: "Travel technology company Mondee has rolled out a new artificial intelligence-powered planning assistant named Abhi, which the firm says is the most powerful in the industry. The Austin, Texas-based company introduced Abhi this week in conjunction with the one-year anniversary of the firm going public on Nasdaq and says the new tool's ability to generate a fully bookable travel itinerary within the Mondee Marketplace is revolutionary."
-publishedDateTime: 2023-07-25T01:46:00Z
-originalUrl: "https://www.fox29.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
-webUrl: "https://www.fox29.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
+excerpt: "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ..."
+publishedDateTime: 2023-07-25T10:44:00Z
+originalUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
+webUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
+ampWebUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
+cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: FOX 29
-  domain: fox29.com
+  name: fox6now
+  domain: fox6now.com
 
 topics:
   - IBM AI
@@ -45,6 +47,6 @@ related:
       domain: theverge.com
     quality: 44
 
-secured: "neFQgXOKXJtauYiZRZ4fDljp49n9jptnGytbpuAi0dcJcV1+2WCM1ltJkCMqVSoJHRbtO+kT+gZ4mQ8m/Z3Q3NEBNY6zauujOeq4eVdfd80D/4g2Z9WtTaYRyq9TzSb3lKf63dXUvyy5hKTQKWBvztRO4oaeFvdDQgPyYLFEzXOeDfXv0ljYlAVPvPN3UQUfgEWMn+8DuKzWQpV0jgbKYq93Bv/6ZBi9p1Fo454cBnAKduI36fy0xcTi+lFbaaL5gpyQcphCSBEnagRiRn22RrrrhxjqgK3QE4hHHOB1SEgfwfOE62NxGuJdjWvzs8rWRDYZ7rk0MWDqmqUVRkBZtcLg9wVHjsB1FIiZXWFA+cM7c6TmLCs+gs505ebAUy3vRZVxdMcLyKz40wdaTKCVLCXcxeCES9Yt20Ioivng1t/dEFW6+DbIWKrsuFLtH+k54qOi4VivxnJipEDakHUqZQqMeLbeDw/0JkSH19Bzu7YNB0I89zJ6mztjIIPnBzbPBHM4v0TciPnif6Y8uGS6Zw==;Wf1jQ87NtNg+3F5XezKbiQ=="
+secured: "4GndZlTxqURHhUyvYi1WtqH7Egru/xp9XUzzOrHD1TgoiRvuvbPTsQnx3cR5jzTSmg+f/TgdKkmklxoQGd20OKm/M6vFiKxfh9NaPAmC+G52zYDr8mjuVtN1vLcIi+NGCOcgcNl9XFxEo/+fe8CknzxUrmZN2qN+j0R+ByapyxSoxDxE5MjySD5hX1t41EVSf6GkfC8od7m1yBTiIboXx2bLvWGe9tmSh6V3Y3rfFN9obQACngJaVLFaCOIw+vEAooYh3DoQXFUjqiYz2xH8YfUblnojcl+57+f2qowJTzRKwqAZmCN/xW3lfqfptGpT9voC3owt3xZs5ze+4eo8IgoOR/N97Nxt+5xQBj09YQM=;GGfoeFM4lzRG0OJDpp8xNQ=="
 ---
 

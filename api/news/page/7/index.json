@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-25-tsmc-to-invest-29-billion-in-advanced-chip-packaging-plant-in-taiwan.md",
+      "title": "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan",
+      "excerpt": "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229",
+          "width": 3543,
+          "height": 2362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
+      "publishedDateTime": "2023-07-24T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-artificial-intelligence-is-rewriting-the-rules-of-us200-billion-video-games-industry.md",
       "title": "Artificial intelligence is rewriting the rules of US$200 billion video games industry",
       "excerpt": "From San Francisco to Tokyo and Hong Kong, the companies that power the digital entertainment sphere are responding to decades of escalating costs and stagnant prices by adopting and developing new AI tools.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -466,49 +518,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ai-based-device-to-monitor-arm-movements-aims-to-help-people-after-stroke.md",
-      "title": "AI-based device to monitor arm movements aims to help people after stroke",
-      "excerpt": "Statistics indicate that globally one in four adults over the age of 25 will have a stroke in their lifetime. One of the most serious consequences of this disease is disability. A joint study by Rytis Maskeliūnas,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-based-system-develo.jpg",
-          "width": 1110,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-based-device-arm-movements-aims.amp",
-      "publishedDateTime": "2023-07-24T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

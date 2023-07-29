@@ -305,6 +305,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Xiaoice uses Microsoft Azure to upgrade AI-powered chatbot"
+    excerpt: "Xiaoice is using Microsoft Azure to upgrade its artificial intelligence-powered chatbot and X-CoTA technology for enterprise customers in Asia. The AI digital workforce solution can understand humanlike AI conversations,"
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.technologyrecord.com/article/xiaoice-uses-microsoft-azure-to-upgrade-ai-powered-chatbot"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4507/Xiaoice_web2-1.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
     excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
     publishedDateTime: 2023-07-27T15:04:00Z

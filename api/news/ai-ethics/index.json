@@ -194,6 +194,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-27-studios-quietly-go-on-hiring-spree-for-ai-specialist-jobs-amid-picket-line-anxiety.md",
+      "title": "Studios Quietly Go On Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety",
+      "excerpt": "Netflix is hiring a $900,000 per year AI product manager, Disney is looking for generative AI specialists, and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/",
+      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/2023_07-Nicholas-AI_Hiring.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/amp/",
+      "publishedDateTime": "2023-07-27T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-ai-in-sales-and-marketing-its-here.md",
       "title": "AI in sales and marketing: It’s here",
       "excerpt": "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service.",
@@ -1400,60 +1443,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
-      "title": "Top 6 AI Trends 2023",
-      "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     }
   ],

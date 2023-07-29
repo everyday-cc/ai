@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-compani
 webUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
-    publishedDateTime: 2023-07-24T08:28:00Z
-    webUrl: "https://woub.org/2023/07/22/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai/"
-    type: article
-    provider:
-      name: WOUB
-      domain: woub.org
-    quality: 36
-    images:
-      - url: "https://woub.org/wp-content/uploads/2023/07/gettyimages-1258873333_custom-6e8cb3e6184fafdf6d9aa9ae11ebd8425a23cb04-scaled-e1690052565770.jpg"
-        width: 1200
-        height: 564
-        isCached: true
 
 secured: "CF+3HFf4H/Z2aoMH4oL9VltlHX5jXV3dySgmfw5slqOFvagFx9xrGAKLMrIsfOYCWN3avPdBMJe+xIRZq3SG/6hxaA959qm7SGSrI8fya8DpCJSxSFfKYjRSFWH+Ju6EsmyLi3Kjmo0Uj2ZwAUpY2TYGEc37UToyStYchx8qOVuAxjSR3BclGUnLGoD1ie0man3W+cNUsNDeM47ONDvh08OBECt1QVmHCJKRz9eGtpj4OGiikU+akLi31WWta25FBUXHijxnSb5UDIrdIET2G/w7T3UIlrVsJxjvybuFOkXYEhFlQYIfKk9ee7/YthVxC4eOtMSYETBqV1y14t1U3RHF6GQ5+Lj8UFJ7PMOb83E=;Om/ErRiestb00tQkEKhuVg=="
 ---

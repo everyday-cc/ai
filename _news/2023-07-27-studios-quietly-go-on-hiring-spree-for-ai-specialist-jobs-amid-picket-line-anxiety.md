@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/ai-jobs-stu
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Hollywood Reporter
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Studios Seek AI Specialists as Tech’s Role Debated Amid Strikes"
+    excerpt: "Major studios are seeking AI specialists as striking writers and actors express concern over the technology's rising role in"
+    publishedDateTime: 2023-07-28T23:00:00Z
+    webUrl: "https://www.movieguide.org/news-articles/studios-seek-ai-specialists-as-techs-role-debated-amid-strikes.html"
+    type: article
+    provider:
+      name: Movieguide
+      domain: movieguide.org
+    quality: 39
+    images:
+      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2022/11/0vgg7cqtwco.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Studios Quietly Go on Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety"
     excerpt: "Netflix is hiring a $900,000 per year AI product manager, Disney is looking for generative AI specialists, and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs."
     publishedDateTime: 2023-07-27T20:36:00Z

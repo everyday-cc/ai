@@ -115,20 +115,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "OP-ED | Facial Recognition Is Not New"
-    excerpt: "Opinion writer Barth Keck says he's not where people have been hiding, but facial recognition surveillance is not new. Retailers have been using facial recognition technologies for years – more than 35 organizations have been calling for U."
-    publishedDateTime: 2023-07-24T08:45:00Z
-    webUrl: "https://ctnewsjunkie.com/2023/07/24/op-ed-facial-recognition-is-not-new/"
-    type: article
-    provider:
-      name: CT News Junkie
-      domain: ctnewsjunkie.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/ctnewsjunkie.com/wp-content/uploads/2023/07/twitter-facial-recognition-shoprite-screenshot-2023-07-23-1200x900-1.jpg?fit=1200%2C900&ssl=1"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "ESRB proposes facial recognition age verification for parental consent"
     excerpt: "The Entertainment Software Rating Board has proposed a new verification mechanism which it says will ensure parental consent is properly obtained under the Children's ..."
     publishedDateTime: 2023-07-25T11:10:00Z

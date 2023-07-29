@@ -282,6 +282,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS’ head of health AI on Amazon’s new clinical documentation play"
+    excerpt: "AWS’ Tehsin Syed shared what differentiates HealthScribe from other AI-based medical scribes and how Amazon is approaching tricky questions of accuracy and responsibility around generative AI in healthcare."
+    publishedDateTime: 2023-07-27T16:16:00Z
+    webUrl: "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/53gowIaP8QxjnVDdtQ9rskIbm7xfdCn4x-I8DWwbeOs/crop:1763:996/g:nowe:34:422/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2F3cy1ueWMtc3VtbWl0LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
     excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
     publishedDateTime: 2023-07-28T19:23:00Z

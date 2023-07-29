@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mediobanca invests €12 million in London fintech incubator"
-    excerpt: "Mediobanca has joined with Founders Factory, the London-based global company builder and early-stage investor, to launch a new fintech venture studio and accelerator, underpinned by an overall €12 million investment from the Italian investment bank."
-    publishedDateTime: 2023-07-24T08:58:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42677/mediobanca-invests-12-million-in-london-fintech-incubator"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/3283.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Italy’s Mediobanca, London’s Founders Factory to Invest in Fintech Startups"
     excerpt: "Mediobanca Group, Italy’s largest investment bank, has signed a partnership with Founders Factory, the London-based global company builder."
     publishedDateTime: 2023-07-24T12:37:00Z
