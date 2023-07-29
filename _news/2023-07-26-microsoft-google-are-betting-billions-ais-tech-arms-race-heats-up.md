@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 881
         isCached: true
-  - title: "Google, Meta, Microsoft, Amazon Make Pledge on AI Safety and Security"
-    excerpt: "ChatGPT creator OpenAI is also among the companies that met with President Biden to sign the voluntary agreement."
-    publishedDateTime: 2023-07-24T21:48:00Z
-    webUrl: "https://www.cnet.com/tech/google-meta-microsoft-amazon-make-pledge-on-ai-safety-and-security/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft earnings top estimates, but stock falls as execs detail AI’s costs"
     excerpt: "Microsoft topped profit and revenue expectations for its latest quarter, though shares were moving lower after the company discussed the year ahead."
     publishedDateTime: 2023-07-25T23:37:00Z
@@ -67,6 +53,20 @@ related:
       - url: "https://images.mktw.net/im-709442/horizontal"
         width: 1320
         height: 742
+        isCached: true
+  - title: "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House"
+    excerpt: "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:"
+    publishedDateTime: 2023-07-29T15:00:00Z
+    webUrl: "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 98
+    images:
+      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia estimates ‘may prove conservative’ as Microsoft, Google mentions of AI more than double"
     excerpt: "Microsoft and Alphabet mentioned \"AI\" so many times on earnings, one Nvidia analyst is thinking his bullish estimates may be too conservative."

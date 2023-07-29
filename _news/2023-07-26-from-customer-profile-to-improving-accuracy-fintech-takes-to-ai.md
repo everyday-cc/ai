@@ -165,20 +165,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
-    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-29T09:25:00Z
-    webUrl: "https://www.asiaone.com/business/cib-fintech-and-huawei-jointly-win-asian-bankers-award-best-data-infrastructure"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 18
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2023/image_986294_20677656.jpg?itok=Nhjap4hM"
-        width: 600
-        height: 400
-        isCached: true
   - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T21:09:00Z
@@ -197,6 +183,15 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-29T08:26:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "hZAJehD9V2UAmr7ojLdKHyfoYWfakPC58y3NcjX3x2xhIIgXQbcMlwlQsnF94rQeswTABXZT6gbvN+He2DCdBoBxoYQYIIl50RZ37ay7J1s4fZV/VuzBussKGvarSqeX/a15eUj7YSTzJ4Yfd26hoBw1NGM1xBrlrgYtVoGJULqHjAMoTX+BXi72X6xyBl26daBJ4INdK5mZ8iBWbmVShMK+1Wri6QShnX6IGvJ2o2rDUJDif+DEQM5TVtInoGO6FtkP4hwA9iQxRgObAlzL+Jcpp9MjCkTpg7Nlf7zRT4qUTYcCbado9zawGW8+tB0Qj+pfamDQLP77lB2Ou9vFHB9YCdbffmfKCWie/V21VDOWJOdfeUXMCexkWtv+tkgmMgozzdNyFzNJS87BxFjOVJdgxIoNkwsTIGZEVhYv5aZ6SqPwHQvWgIT7fWdO4cyGMj+VIjPGzodDeHq7Vg/+ol9FjrWs/vqzs3TebNCR1/4XpiLKaBvrmOl1BIcQ2oA6Afqr4Hf/Xm7B2D10omdiyg==;5HVObJiWLQZzB1aPPna5yw=="
 ---

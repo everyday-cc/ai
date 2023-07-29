@@ -2,27 +2,21 @@
 category: news
 title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
 excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-publishedDateTime: 2023-07-29T09:25:00Z
-originalUrl: "https://www.asiaone.com/business/cib-fintech-and-huawei-jointly-win-asian-bankers-award-best-data-infrastructure"
-webUrl: "https://www.asiaone.com/business/cib-fintech-and-huawei-jointly-win-asian-bankers-award-best-data-infrastructure"
+publishedDateTime: 2023-07-29T08:26:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2023/image_986294_20677656.jpg?itok=Nhjap4hM"
-    width: 600
-    height: 400
-    isCached: true
 
 related:
   - title: "Generative AI: A Big Bang Moment For FinTech"
@@ -199,6 +193,6 @@ related:
       domain: thebusinessdesk.com
     quality: 4
 
-secured: "VN7wM/kEDIRfVOrzsRycXjSs2YrVlAk+iwQrf7AwwqjOKDamL2dctHEF5KkTqkyHam1DmlNVrl1+xxouQwsYA97LcUGYerFE7TsnHnB9rnpowaOXSE/3ijGc63fCPP8qU4SnNBJzO/OfKShwN+G9k7PS38c2Zbpyi44weD9f2Hlqsj/bpe/4GhhhNhCmV5hG7atKBGghWfm+/MNdJMh61iP/HPGL8win7rLI5QpT40chLyzaNujIYS6J5Ig9d4LQrYK8aOx9E2bobuZgRyEw11DYNoOY5j+B8YJpIrL20S5iYzUXNCZXTZGN/GNNftQsk2QpWR6ScbUpxl517bNSprOel4aHJZxNQFizPa8kQBA=;quxg645MDDWuMP9c7k37Qg=="
+secured: "vQGQZ523icdR2nRzAwg5O/M68FRzQhf3GZiQPiigVocy40mx2vMV1X1AExa5FIdue5YyydDdcVA64vExZyTUoKfeKaAYTDBtubOIySiaBR57YxEQRGCBdxKcMmv9um+tjcswBrIfbtizHsijurzZu7+QTKSKQb0fmf7F4MGUo1OT0KvHP5s7L/Ao2WmfdwkTca6PtMZauBqWZT8ETBt23HOmh8gjvMWYKMWLQN8KJJNK0DJGxbKMzpbml3qkohFCVayjsvR1ZuHhdk5n5c+hnjroFvIw7iu90U59HKFx57ErBohZ3F7w1SWRJubx0E5VgiiHcwNqpP9HX6rdGG6w7Mx5H+dm8i766t5vrm8TNcJllEMyMInbdoVz2E47Xlovwk7TtYblqDhQd9nOMafUDvDI09txgltnMPa88f9ZDdOEsVyptuRSW3zKMjduCSH/puXdQohXJxxg4JzvAlz0CCvibIq4j/umwm+U6SzwuvjjBe5T0Sh+ia/wJgkWj5tpFAOioVHovNlHbtP5XYnDDg==;PV0H5adOxgJpB5VCh7Jiaw=="
 ---
 

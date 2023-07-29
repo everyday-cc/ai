@@ -73,20 +73,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "Congress Urged to Regulate Self-Driving Vehicles"
-    excerpt: "Advocates for the self-driving vehicle industry on July 26 warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
-    publishedDateTime: 2023-07-26T22:05:00Z
-    webUrl: "https://www.ttnews.com/articles/house-self-driving-vehicles"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/John-Bozella-650.jpg"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Lobbyists And Lawmakers Want You To See The Race To Self-Driving As A Race Against China"
     excerpt: "Also, Stellantis' CEO doesn't think he's needed at UAW contract talks and VW expects to sell fewer cars this year than it planned, all in today's Morning Shift."
     publishedDateTime: 2023-07-27T15:08:00Z

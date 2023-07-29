@@ -219,15 +219,6 @@ related:
         width: 1000
         height: 575
         isCached: true
-  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
-    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
-    publishedDateTime: 2023-07-24T19:38:00Z
-    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
 
 secured: "G/P70zFhhKY8aJnWXwGpJiZCn6CwVG1rwU+Ca3RK8qmbXZ22X0T2bAMG3qLOg8Xdggkv23Mj9KRruiZZ9mb5MMyYzirxAuWpvbD8SV9myOF2iKyoAGpeGXrVwLY3F5jVgLWEJgxcNnscsOTY0RV+qOT8KjWyuBc9EdSgd4Uuq01LPKgBP2B8a+3lTozOnZTNUxodUlmbIh4TBeGbIqWZXtJ1bvT/CTbvbrs1XQggpXHVk2YN67BbWaG+yqQsWx3/emx4DPqCMSzuSoaVeK/42n6mmtOPpDYYK/BwAvx82ozOS61rh75h7tXD1S32czLiYInt4PBmfE5a0gZ0+krF7uwsm0tkqgbVhOy3bvCxLR0=;YJ8mNm67MDRXBl7AdcImzw=="
 ---

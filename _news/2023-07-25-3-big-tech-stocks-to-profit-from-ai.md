@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence could aid treatment of mental health issues"
+    excerpt: "Knowing ahead of time that a patient may be at risk of harm can help us develop intervention strategies ... and adjustments to their care plan,' says Waypoint official"
+    publishedDateTime: 2023-07-29T14:16:00Z
+    webUrl: "https://www.orilliamatters.com/local-news/artificial-intelligence-could-aid-treatment-of-mental-health-issues-7320010"
+    type: article
+    provider:
+      name: orilliamatters
+      domain: orilliamatters.com
+    quality: 54
+    images:
+      - url: "https://www.vmcdn.ca/f/files/midlandtoday/images/people/20230724andreawaddellsupplied.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Healthcare leaders urge caution on AI"
     excerpt: "Healthcare leaders are urging caution when using emerging AI technologies such as generative AI and large language models, as they could lead to inaccurate info"
     publishedDateTime: 2023-07-28T19:44:00Z
@@ -55,24 +69,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Big Tech's AI costs draw attention"
-    excerpt: "Microsoft and OpenAI's partnership helped to set off an AI race, but the resulting investor euphoria could be giving way to more discerning questions."
-    publishedDateTime: 2023-07-24T22:02:00Z
-    webUrl: "https://www.axios.com/2023/07/24/microsoft-openai-earnings"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
-  - title: "Big tech prepares its next AI pitch"
-    excerpt: "As big tech earnings approach, investors will be on the lookout for company commentary on when AI prospects will turn to real profits."
-    publishedDateTime: 2023-07-24T19:30:00Z
-    webUrl: "https://www.aol.com/finance/big-tech-prepares-next-ai-193043993.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
   - title: "AI builds momentum for smarter health care"
     excerpt: "Life sciences anticipates huge opportunities as AI helps boost targeted drug discovery, personalized health care, and more efficient production"
     publishedDateTime: 2023-07-27T18:30:00Z

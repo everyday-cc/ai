@@ -174,20 +174,6 @@ related:
       name: Fortune India
       domain: fortuneindia.com
     quality: 19
-  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
-    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-29T09:25:00Z
-    webUrl: "https://www.asiaone.com/business/cib-fintech-and-huawei-jointly-win-asian-bankers-award-best-data-infrastructure"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 18
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2023/image_986294_20677656.jpg?itok=Nhjap4hM"
-        width: 600
-        height: 400
-        isCached: true
   - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T21:09:00Z
@@ -197,6 +183,15 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 12
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-29T08:26:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Y46sPdNFamewd4Cux7WpUvwfN6oKPrI5Xn8BtL9ahUyf4zO/0z5h8Q9f9bVSdeg+W4lB7hb6guNWoXzxDxnJG8m3YCeIBjdUnP/sSVyUqWq88ScILpX6J9Z5COffzpkRkuZCBa4PIRZxWSXpl2WWbaoyJj1X4wbOraOPYaE4BTvlu/dkuEINNA0eHFmdxFgp/kFs+CukrLRtHzT/bFCiPnO2laqEoNHV2fgQr4Dr7ARgE6fZoUcNEiHdIB8MUM5aBS7T+EWm1ez2KjhQIcFvRoBbZmJ6D8ycget/O+Pz1oOcyPNYyQQHaTnDyX+x8KpzADhanknN4pCfYVajOeXq0W/+mq905c60lqZTnUUEOThuuMFYqhNmTFQpV6Pdz0OD+Z/Q73r9+8g+w1F/WXl2KVDulO4ubibL9aLyvfV2KISljkSawO9FzzM0FgFssBbBhP5htfTvYYk13hXyrpuhPJT8f39E7y8TATEjc8gKr8anONNj1N7V660QEaBORG5ITLOTPPTzgDVyncJKw9oIqQ==;d8Ek60SSjyXMBNgg93k4Pg=="
 ---

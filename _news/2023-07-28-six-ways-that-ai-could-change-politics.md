@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/28/1076756/six-ways-that-ai
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/28/1076756/six-ways-that-ai-could-change-politics/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MIT Technology Review
@@ -41,20 +41,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/41ec994b36029f462af0a6a769c900a81dab0434/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=f01cb002de1358cd6c4ed8ada14c7222"
         width: 620
         height: 372
-        isCached: true
-  - title: "Politicians' Intuition and Artificial Intelligence in Contests"
-    excerpt: "Candidates running for the DPR are required to develop a strategy. The electability survey, for example, is used to target groups of people who can vote. If one mapped, no doubt can miss."
-    publishedDateTime: 2023-07-24T22:01:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/07/21/en-intuisi-politisi-dan-kecerdasan-buatan-dalam-kontestasi"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 37
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/rNxsssUrZA_scDdgRPofvs6H6-0=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F24%2F3966433c-07ab-446f-9cfc-9be6e6d3f776_jpeg.jpeg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "EFAysV5CF340unzr5zkrcr5uzqihmNsDc5IXf+FXj5n96KlVYBMg8ZU7Wb/psT8t1hdRoSFLLCCMGgfcC23mxpm9SqgwcsmM+o+GHDIJJd9dtoY5DKP7kSZzX6cnMJS6U51lAvQilTjHjtcA28r2/fAAkTaB88OlHkA6mFCOgJvnwO7SvYccbnTUujRGYJJn5zM3Zi3kkEz+MJwQU67wt6cEQZP/06Afi9aIWf88TGqkfd2nUpI9Sx7d9sGuWOMd4S+iasHydOar6dePx9eIZk/EgCcqyK9qXuoOFa4534ZQd8ktAa/TJ01h5mPm5NZNM9sE0qSv+aHIx3Z75ggEMM1Kuvn1bY+MuiRxh1CG2cxYoAT2MnJSL9wttJMDDLQfFLFHeEnBNxAguJ6JvfI39kWVZ6X+Tvg7M0NLzy+EO/X932ClLPMkibowmB8+JYtD5KhWwJEd6vGj/rl3gba2XzgIkWg5XHn92GmFWaTQoBSondKh0uXYoJGGxMJPEI6jjAIf6anWCYNLa48PvGE9Ug==;TNj656yDibCnDev3AEd5Hw=="

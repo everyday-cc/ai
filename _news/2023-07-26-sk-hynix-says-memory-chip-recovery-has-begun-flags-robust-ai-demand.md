@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "SK Hynix and Samsung’s early bet on AI memory chips pays off"
+    excerpt: "Korean semiconductor groups benefit from strong demand in niche technology vital for building generative AI systems"
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.ft.com/content/8f65a241-414b-4661-8923-78f6b9941b65"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "wNXZdOzyessxIpmcBfTT87PDQ97gkMnbQARG57IgcTGX5YNEV5XVZzbdgP1szDOO9kpHM2v4aLpr1CTfQOeaQPzzlBL/6DTWReMK4Lh0udHH2xfRvWbkvTHIo+rGLpuaL4LqNM8RuXJdnY0YyEqdfMJSTbA+OHrf0Kj4vcyS8dxcNw0vsgu3GwEYhef1mzTPDsngE9Abrv3RAhbDBRRqXOfyoIOeMzZD12QrAngdJfkyD9+wHF43Gfl6R6oURm4kbYtxmiz3S9NRY8nrD4MAthgUcpgHN3IQVBGDDPMOQc1qlR1A0jux0T14CcWLxcAGn2118UWF1N9J4/gA/sZCq6TrpQB8PV3DdiLfNE6HH3X/J0/RLZ/4kg/VyyzprBeTFNyPj8UPf/uUzzbqYu1Ngad+1kMGq3Seb2H7D8XoZ8ogYhMHTnX9cqgoUUn09oDwSxrrG3i16ozNctgqFzG6mnPCobpugjUFr5ZsjFUC9YRCxUjMfg9iaC77CI+xSKmwCrxj/640XJ36kD5wqwU8/g==;aamZta2dr6py868VVffTDA=="
 ---

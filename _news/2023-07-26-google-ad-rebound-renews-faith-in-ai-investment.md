@@ -44,19 +44,12 @@ related:
   - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
     excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
     publishedDateTime: 2023-07-25T21:46:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+    webUrl: "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 31
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+    quality: 0
 
 secured: "oUGUh4hNt7f/PRRlX3Aq8hSQ+ll0MnqDefVkWV5+PXS/BK/8xn6ZXQ5NN/wPB9a/OZZCY4+U7mYImUzryPRYy+k+RtU6frBpQVSIkMZOWp2/fvxDzExfiBMYEVKb44RfiPqzic8YRmXG/Cmc+Ywo2PNGrCoW815NoLnMw/ALIqeLzP/HhWESEDExlIsF8fSynjXJZa4HMGcU5hpBUSnniMbCTXcm6O88nt1yV39LdpIacEDLg1Q4vjB5Tm37HAcb/SyQW5OJk79wu+dCRZmwurTVUnEs51kkBwx6YayJxqbjaISqgIVcFC84P+gST3JdMA6GgbataV3HMzfumffMYxL66QZ2aRNPU8KWYOxwt/lIymOCm5xaVdexZTVjmknbTX8wL70VPuD5VmV7iLPdDvGvGbG4qgQN7+FncumHm6kVs+3BLKhbLze2lImBAnaAQxJRZIoBL37wW/6rcphWCCpPu1XTO05IOJardeOuSgbPT+yXsY4ULNRRmpUCy0wJ59mfgSwuS9hNPB/7oYfXCA==;sEGd9Zg9RNuhZApgPdnLFg=="
 ---

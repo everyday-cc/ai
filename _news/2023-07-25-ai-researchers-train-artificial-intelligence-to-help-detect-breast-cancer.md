@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-66298998.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-66298998.amp"
 type: article
 quality: 100
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 34
-  - title: "How AI could help detect wildfires earlier"
-    excerpt: "The big picture: Currently, at least seven states use AI detection to monitor wildfires, including California's Department of Forestry and Fire Protection (CalFire) and Arizona's Salt River Project."
-    publishedDateTime: 2023-07-24T20:57:00Z
-    webUrl: "https://www.axios.com/2023/07/24/ai-wildfires-early-detection"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "foM1O8dd1oZjhgzRgK9BI7wqjxnZz9R1l8bacTVhGLsVCeWikbPs2xo/Nl1DaUET6Ylmnrj776ll7vkVv8UOvFovZTSGWHfUPWU83ULBwHb8aW+TPt9OxzpaeJQFlcfyD4GQabx+E7vUuMzBEMm9n5HbphQcpyy+ouQlfopdxQwMGU/2q7mMRIA04YD8DSItmuzfMDwknBjZKU/BDkHJ+QGJ/GZBGYtaoFeGeemIFN6CWVUVpAzjEy0ZNbVhvEcEgC3zRloIZjGwYwhtY0kc8ztbdH8LW5gAoS5CQzIh0Y294nv838vVP1OCQ3I7/66BRh0ALmAmqpG/3krPcU9ttmZiizUOBspOEC70/xOufeb4t6raS2M0Rbct5+BYsldpyV1SJBFhq+/CHY3sH4Hi35qd6Nb4P/M+04gprxBtHk4VVF+MPpDjvjFqLpCkHNv0c08ej4sFUE816NsKwhTbezqdMuf/gJeZLruFMYN4c2ivAG1WvJtTeZlopgvMAL0lwA6mLyjkRmyRHR+0ozneGw==;M4oZSIWgGK39KIQIQRXiHA=="
 ---

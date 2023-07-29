@@ -37,6 +37,20 @@ related:
         width: 1080
         height: 630
         isCached: true
+  - title: "Use Stable Diffusion XL with Amazon SageMaker JumpStart in Amazon SageMaker Studio"
+    excerpt: "Today we are excited to announce that Stable Diffusion XL 1.0 (SDXL 1.0) is available for customers through Amazon SageMaker JumpStart. SDXL 1.0 is the latest image generation model from Stability AI. SDXL 1.0 enhancements include native 1024-pixel image generation at a variety of aspect ratios. It’s"
+    publishedDateTime: 2023-07-26T21:09:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-stable-diffusion-xl-with-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/ml-15160-image018-share.jpg"
+        width: 894
+        height: 447
+        isCached: true
   - title: "Meta’s LLaMA 2 AI models available through Amazon SageMaker JumpStart"
     excerpt: "AWS is now offering Meta's recently disclosed LLaMA 2 AI models through Amazon SageMaker JumpStart. This should make it easier for users to develop and"
     publishedDateTime: 2023-07-25T12:56:00Z

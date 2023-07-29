@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-ube
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 4
+  - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
+    excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
+    publishedDateTime: 2023-07-29T13:17:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/backup-uber-driver-self-driving-car-that-killed-pedestrian-2018-pleads-guilty-endangerment/Y5U3FKI2RRHKHOKML4NW2IWXW4/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 0
 
 secured: "OaRxldhXwSrEmf/VJJ9m11WRWm6VVY8iqwvLpM7XswOyZfK8XD7DDOlx9FsOILZrs97jdObRehWOT/Gbi+WTalpLW/zDENprjIh2teGScCVHDGS85hRM9LXaIUcdb8TuoBFXc5p85KntwkQDrKPY+ZegDskdD64mB00V0Mv+GcCI/ZYzNIdQf5s8SLsVwvGOGbJIMa4SNA4JGO271zcqvHgpOKvj76dAAD2KVqS0lnu5Bu8mzTCh43tT+I/HQRsIXYbelrbB0LyZkNgD/W40w94Qd0Ym1t4FjOeLlN9CokGNvSdWbzVofFsNBCRrcKm2T5nEw1ucJtWMsK/NH8IQvi2oKNM7NqussZ0qyr4pbV4=;eijVDp9r6285SKTSE/TMBw=="
 ---

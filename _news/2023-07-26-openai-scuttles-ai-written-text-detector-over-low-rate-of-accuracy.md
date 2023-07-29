@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-de
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
-    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
-    publishedDateTime: 2023-07-24T22:19:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
     excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."

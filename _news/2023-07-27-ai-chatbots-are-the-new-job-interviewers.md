@@ -112,6 +112,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Researchers find multiple ways to bypass AI chatbot safety rules"
+    excerpt: "Preventing artificial intelligence chatbots from creating harmful content may be more difficult than initially believed, according to new research from Carnegie Mellon University which reveals new"
+    publishedDateTime: 2023-07-29T15:54:00Z
+    webUrl: "https://thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/"
+    ampWebUrl: "https://thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/64519ba185baa9.10986482-e1683927109195.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI prompt engineering: learn how not to ask a chatbot a silly question"
+    excerpt: "Understanding how to interact with ChatGPT and its rivals so that their output matches your expectations will soon be a key office skill. Here’s what you need to know"
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/11f941dc122e177b0a3e99ab36acbc9f00802cce/0_0_1600_960/master/1600.jpg?width=620&quality=85&auto=format&fit=max&s=d89db484c3c4a4b4e3e6afe292b41364"
+        width: 620
+        height: 372
+        isCached: true
   - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
     publishedDateTime: 2023-07-25T13:29:00Z

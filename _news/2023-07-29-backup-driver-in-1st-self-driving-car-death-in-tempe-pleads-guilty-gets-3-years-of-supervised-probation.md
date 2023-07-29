@@ -110,6 +110,15 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 4
+  - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
+    excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
+    publishedDateTime: 2023-07-29T13:17:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/backup-uber-driver-self-driving-car-that-killed-pedestrian-2018-pleads-guilty-endangerment/Y5U3FKI2RRHKHOKML4NW2IWXW4/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 0
 
 secured: "RfRDWVm4wr36HQo12mwnZz7DOBULYPfE9t9dqz28qCowQpv2r1/d/rvSEhCmh+97MGMBy3L51zq0fEakoesgxeEmXjXTLpNy05GbjRjSmCaXrM9q7d6odY/GSTJL1IIbcMWsGsVeDh0RAqqdPy16GaK1XR8Nc4yMor0SHpzNqFCnjlqU/l/4vH/1XDciIOklEyPCJeDmdCD+WSIzvwxz5/POX2nAxtc/981VYEiY73ps35KmbFLsYvqFRqlST7puu6g3HRRa53tGdbbyHddajsAhhxsHIxajPp1NUz+0Ym8Y33VLXAwXCMUMnlFaftbuUf+bqUxN6nuz9Sx2omIbVr/C0uci4RvVX9b2AVX6j2Bw8IoLe4D/8y8nS8ipoDpf/4BZF09IcP1rZpQ/zfpobbXxsPpcndA19xofIzETrsgVjbRnDRDEJteYY8oT7fROfH0rb5qRdBJNNbEvRTXGffKovBBXTpXQg1rOLxVQQdODUMKg6EmG699RVwgy2O0fNrdiUyddBD0IbNWf/67QYg==;vu3PDNRL5TfKpLOyZP5caA=="
 ---

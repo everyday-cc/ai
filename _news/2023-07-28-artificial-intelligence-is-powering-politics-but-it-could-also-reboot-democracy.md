@@ -46,20 +46,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Politicians' Intuition and Artificial Intelligence in Contests"
-    excerpt: "Candidates running for the DPR are required to develop a strategy. The electability survey, for example, is used to target groups of people who can vote. If one mapped, no doubt can miss."
-    publishedDateTime: 2023-07-24T22:01:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/07/21/en-intuisi-politisi-dan-kecerdasan-buatan-dalam-kontestasi"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 37
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/rNxsssUrZA_scDdgRPofvs6H6-0=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F24%2F3966433c-07ab-446f-9cfc-9be6e6d3f776_jpeg.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "0P5Ie+tYOyfJCcVabNVzLFwth7yPQAfJpCyuow/G/+npQidt4kDTvVxOcWdUjWWQrs9tXoQnLSb7+kgDz4vcUX3R5dE4FurdLVu6SMQ7xf3C5/OP3PetyrWCLNT4QWGppkZlrW9HJDwWlk2x7H0G2llHqIfC2kBL2i8gaAO/qC16sDY5j3UY0Fyfgy4rKIiXBvO0NzBJJhJi99gV1pmXDBvVsODrHwpH78rBDaOA5iDxeFTyX30FNI/6g3bgK30o9oE573XCyvgIGmIP3L6ODhDhIiUePDpUdEMZy2+0qEuEj5UX0XzQC+8Cq4XIYFnfqqSa0j6ZH9j9KW/NnYucGyEIEi51JNf/HTa70gBZ4AQl5MFb2qAkUm9VdZjSWZvdJpdbB7m84SWOsPF/Zuh4HGpDRX0NnkJovsz3CsAvQuWQl10cA8MYDgCPuyq4hWqPpl5tS7iRme7r9BL1rYsvlHDfooDTHj3mfeqrFV8N/fNytF50lEA+ghUbd7X/byvAAKvua1+JSlwbhBtO705i1g==;Z7F+BS89xLMizUqBFdMcVw=="
 ---

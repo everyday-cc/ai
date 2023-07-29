@@ -132,6 +132,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
+  - title: "Love and relationships in the era of Artificial Intelligence"
+    excerpt: "When it comes to relationships and in particular sexual relationships, that gets very weird, very quickly.” Author Nina Schick and three other pioneers in the field of Artificial Intelligence discuss how AI could radically change the way we interact with machines."
+    publishedDateTime: 2023-07-27T18:14:00Z
+    webUrl: "https://www.cnn.com/videos/world/2023/07/27/exp-ai-love-relationships-intw-072701pseg2-cnni-world.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
     excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
     publishedDateTime: 2023-07-25T18:51:00Z

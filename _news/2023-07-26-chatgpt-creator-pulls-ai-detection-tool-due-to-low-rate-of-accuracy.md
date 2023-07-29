@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
-    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
-    publishedDateTime: 2023-07-24T22:19:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
 
 secured: "W2kBA4LRSmPN18eO4wumUJjLxt110HjeGx4jD63AlNz5VBT1TRNGgRcfK8EMCN5qpdCKuXIT7hoEFz4JuMAmrKocS7SPsyVjcPk3fVzOgxz6PP8am+cVA7wCe/D1P88i8svDt8tI71Yhnfvd1hKOllJ4ZvcqHRQhpgcQFTE7MCRV4v9Pv/SBL6lpPa4soHWxFbhm+zry5/ZRGqX2xh0jHMDrY1uyRnTIxmTi1j5yq46pBt3tzhjrJ20XkAfunS0IdL04WQEYHDRMe17hXHqZ+wU2LU6sQ7659UBYVRhItcfrIWP/SNXU6WZYa+FuDisiwm6px+nNTT8rKDeG8di5YyLvhZe1dQM7s68w6fmeJWRqPvY4JpaE32jp0ZLi2s6Bjc2sDXLrGveUdqGSPMAH1uSztaGIOp8FOD7/b5PFtIySmwkJkBcR7G90LJg+g63wh9HLyz5kPC5SfS2K89VGwwWMDt9WnJzotm8PEHAkTr3z/jexehRkG6P8SgrqAVE6827fe++K1j2vXoRacc+0Qg==;HNAN4VIxd6nLpZHqxy+HbA=="
 ---

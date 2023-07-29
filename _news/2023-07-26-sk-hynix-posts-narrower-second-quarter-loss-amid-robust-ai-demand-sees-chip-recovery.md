@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrow
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html"
 type: article
 quality: 97
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "SK Hynix and Samsung’s early bet on AI memory chips pays off"
+    excerpt: "Korean semiconductor groups benefit from strong demand in niche technology vital for building generative AI systems"
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.ft.com/content/8f65a241-414b-4661-8923-78f6b9941b65"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "TZDzJQkePv3DuRZCCeNTRHCh2iaS8txdaPCpAlfzRevOAc2kRmMUk7poNrgUb0vP38SBrL1oZR10K4a+Xas+w1Xzq1iD8WQ8KEyV7ka3kuXZP6iXJS3MBPJDVgBlVw45w/4PoLIdzUsBNIHOluiXoaJASjDlnUu9iNMZ27f0jBf+reDAjMD/pqC8gzv+lbrj+t81iefSl1XgVHtJonJB5WLs+6pvU6leBo/OUKqq3XjRzQYG1xI1UJi+LaPcGJc3JeQgTtGTnFezu+6YjysGWME9XJ2UKvlcbZmRFO95yGMGEre8ODtAwlbQZS+Yf0jJFlLX5A+n/qi5W7XmHGTTlds/HxPMo1QTUynmq+NsF1YX7OW6xkO6jC95uKRHKwwDuxHyirmNOInaWumCpNQYhbg2/dwLNgF5zVdzxls/Pscqa5HUaBCSVHpklu6P0GBUTj4hNz85mHdYF3OhiIrHnQhtTy7cHBJxt3lQXLHDuRAd6n+CG0dUwWNQT0rvm2Iqkcmv6TUVlM3BCC8vIURLjA==;tRHyhnso0dNfReHLQqAbHg=="
 ---

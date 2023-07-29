@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-s
 webUrl: "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
     quality: 24
     images:
       - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Capitol-Night-1200.jpg"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Congress Urged to Regulate Self-Driving Vehicles"
-    excerpt: "Advocates for the self-driving vehicle industry on July 26 warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
-    publishedDateTime: 2023-07-26T22:05:00Z
-    webUrl: "https://www.ttnews.com/articles/house-self-driving-vehicles"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/John-Bozella-650.jpg"
         width: 470
         height: 246
         isCached: true

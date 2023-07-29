@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Companies Are Trying to Have It Both Ways"
-    excerpt: "Last week, seven technology companies appeared at the White House and agreed to voluntary guardrails around the use of AI. In promising to take these ... as Twitter and Facebook were freshly public and start-ups abounded, did change things (though the ..."
-    publishedDateTime: 2023-07-24T22:58:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/"
+  - title: "AI tools could leave companies liable for anti-bias missteps"
+    excerpt: "Companies deploying AI technology are responsible for any biases that run afoul of anti-discrimination laws, so it's critical to establish a management framework now to head off legal problems later."
+    publishedDateTime: 2023-07-28T07:01:00Z
+    webUrl: "https://www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.amp.html"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/L-Ee5j36-Th9i-bxuAffSAYJMWE=/0x296:5843x3339/1200x625/media/img/mt/2023/07/GettyImages_1561046611-1/original.jpg"
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2238570409-100943969-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 625
+        height: 507
         isCached: true
 
 secured: "uVbQq1mhj2kw0hZISEpD9wYHSOV0RmE7ygfT1DR2ctgNWBUBMZORgWctKx2ZEOvhzT3cVLvIKIU9g6/hWfrctgxusHzj320W8ItoqJhPXF1h0OCS/+RU5Lh9Zpjy7BRypAqiMQrfWyv6SiEfrDgkJTZylgld7s9tB28k5eKaWYIoKYxyX2nlbKSeP/vJ5pTe6hvG4si2rtTJjROYho5KXMfyPwCoSZ3t0W2PoGfwXjDQm4yuF+IiWQqmkgFD9WocYQCzEu5CrSg1y7fO72UD/olzz+xnrrboChgBQezYL2FCw9SJpsbHh9DcjFco/bkYOD6m8GShT4KHPyI5TdmxPisgE9sMh/JqYyE2TTW6xNE4aHDXeOd4kPAXgn+sUYRGJUKwinA6HHu8JhWPyvL6i/VRcMscp8Wi3ZR6Y8Y1uSrwrqjeEyoGUZKlqBuzVd7xmIl9R5WgozmrnLb/J7tw42TB/MqY5yoAofQ/qilgjhsMPi3NlbYcwzSZrC/E7zGEM9iNX26ZOC7hxnQd9g1sMw==;NCp1rHfBbNlWbZVMXll+ZQ=="

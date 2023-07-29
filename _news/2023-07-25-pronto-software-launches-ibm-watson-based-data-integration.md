@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/pronto-software-launches-ibm-watson-ba
 webUrl: "https://www.crn.com.au/news/pronto-software-launches-ibm-watson-based-data-integration-598416"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Perth's Nexion to resell IBM ESG offerings and Watson AI"
-    excerpt: "ASX listed Nexion Group has entered a new agreement with IBM to become a Silver Business Partner so it can resell some of the vendor’s software solutions. The company will resell IBM’s artificial intelligence platform Watson and Sustainability Suite, incorporating asset management and environmental, social and governance (ESG) reporting."
-    publishedDateTime: 2023-07-24T23:03:00Z
-    webUrl: "https://www.crn.com.au/news/perths-nexion-to-resell-ibm-esg-offerings-and-watson-ai-598397"
+  - title: "Pronto Software and IBM’s new data integration feature set to deliver unparalleled business intelligence"
+    excerpt: "With the introduction of Pronto Xi BI Unlimited suite of products, customers gain access to an expanded landscape of data, enabling them to accelerate their business insights and achieve a complete picture of their operations in a single view."
+    publishedDateTime: 2023-07-25T05:57:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/pronto-software-and-ibm’s-new-data-integration-feature-set-to-deliver-unparalleled-business-intelligence.html"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
+      name: ITWire
+      domain: itwire.com
+    quality: 7
     images:
-      - url: "https://i.nextmedia.com.au/News/20230725100452_0_0_0_0_70__News_watson20121227071906.png"
-        width: 525
-        height: 352
+      - url: "https://itwire.com/media/k2/items/cache/5eaa235ac7cf4a6f9f91cc2e913ef384_M.jpg"
+        width: 375
+        height: 222
         isCached: true
 
 secured: "Ty4axk7DJT6hbNwgEjUYQtNEFciJP9RJtCTDy0jKAdblgSwNzWG3/XVPb5UDkvTQ60fOl2uL8GvORhIsDqgRjMKcwdmwCV9f26eEvf3kUf8z1XgHqj8E/h3BsOZMCtZaRzFb91fIJrMQ9HW/wu8cDEbMOXxk7wgdFQscFYkfTWua/KMAw27eob6eCsYNDIyiZ4Ruakb6T354+dJhpLpnEOjBzRZTDltb3oJOm+gy8ATKWuMX4f2KJqtRdrRUaWLb+0+e7wrYaC8hWMdV7vsY7nZPxNoDQFOvAHN4Ixk6c8T/0XtvRMP6m1zwYg0l7+IQS+Gl85zzPYtxyShI+EllRJER0omDgfdEF36ttMRFD6Tlf57mwO23o6cl1QtJfqu0JEyu3m709GZZAjIy2/IWR9IDZWJyJ+ZCDyitd7TMfe9L186nYaMQCoClOTn/YdHAOiqIQUvKA8dd/6NYwdvnE8AHh1MBA+ox02j13CXLGW1z/0qd8IJY+dZT/sw0jRoPRH4VvouaIp17CpAIhb9YnQ==;iNsCkIEbWBk/BguV0eVMOQ=="

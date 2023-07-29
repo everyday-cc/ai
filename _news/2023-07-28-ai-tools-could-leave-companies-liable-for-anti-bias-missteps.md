@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3703610/ai-tools-could-leave-c
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 507
     isCached: true
+
+related:
+  - title: "Major AI companies form group to research, keep control of AI"
+    excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Brad Smith, vice-chair and president of Microsoft. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"
+    publishedDateTime: 2023-07-26T13:16:00Z
+    webUrl: "https://arstechnica.com/ai/2023/07/major-ai-companies-form-group-to-research-keep-control-of-ai/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
 
 secured: "nOv6yEXwD2mDs4fMr39mXKpKdJ7gB2ebhX4OqbD1uAP7TseQod/lxZXYx+XnjfS/uOaFTz2l0vahRjEhqBBDVNjR4MbbHkg6T6wcgGAOD5NHO3r+5pzPSYN9VoaEbbtBkFryTSEwXmOxCxxL3OWJP3ngHEGHAQFQdqzQxqGh7kicM7dBvcJx+Hrkr14v6RcD14cSByiTcRrg1SvTuN2w+VHqfbwOEIWaQUZ51BbEQ/9x1Pf3yX/hyPylF2MKr4dy7H3NbS1nam54ykDQDQ4I6cQwZQlWdcYFxibemu4Du2AWiDygJ7Dx7OUxaKmQ/FnZTnCv8EuQevEh0SsiJxYLapvtdMA9OUXeNF9fvV3f3r5dy4RclEd2DbG0jg3Jfz+UxOVU2I1Tj1hyK+m0i1q09QjxJm3tkIB7TW2/d9+kL4QDVeC3odhzRzSpqCTwSlBPnCUyB6HkR22w9gAStKt1xWotAInjDYxDY1OdM8ASdTQ03jr3kh1pDDL6cyGWG8XVYPLNK+JYvo8ihU5PjdwS+w==;LNfWMgSoi2ErNPBwtrwwPQ=="
 ---

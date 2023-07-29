@@ -65,15 +65,6 @@ related:
         width: 952
         height: 507
         isCached: true
-  - title: "How AI could help detect wildfires earlier"
-    excerpt: "The big picture: Currently, at least seven states use AI detection to monitor wildfires, including California's Department of Forestry and Fire Protection (CalFire) and Arizona's Salt River Project."
-    publishedDateTime: 2023-07-24T20:57:00Z
-    webUrl: "https://www.axios.com/2023/07/24/ai-wildfires-early-detection"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "imBhS8dbcyVyvUacBgqc2PK27BVk1BlF0CWb16SJ3Jas8yX+s50uHNAQU/qHBbHsb0UDsIzSp6lH+ly5LAdlV6t7IZx7wxjP3dcmj75ODsCCh0/dAWrNlHUgpWWxTR+8vXqOS8Eki3fcr5itHNk/beJXgCnLmzExx20bEgD9mB78CBdYp3YQLHcwwZF94rfqNwuy1frHlPtEhF9rzRhylP3a8CfxCCtW+40zIJhCXTsYgQu6wTosyX9UCAk3c5ZGGnUh6FJPtx4NCm3rTFYCUSw3pjss6zVpvzG1rsacPSBKwzZixeNw8CRM+0v9sy/g/BTNOU5W38llfSrXG7N3h6trEwmLO3hEuhIlx0jdkPkDTztuZMfaKdFKuVYMIpc5s/+Pov3h9cF9oTPA3QoAQX9SWCx/hYmdSj86qBtTYK/DJnVLXDQeuOI07ulY0+WKwHO45lHTT2X9EHVqe1+6FqZWcdTc2Q+OW+Cjm7afFCna2Hdz/SfJXaN7b8CkkjrTVWp3GiN9iGHpIKK5sn37TA==;+bB6r1+aWG/HNkUNuDl2zA=="
 ---

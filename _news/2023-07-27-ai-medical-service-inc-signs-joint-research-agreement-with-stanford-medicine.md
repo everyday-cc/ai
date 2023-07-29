@@ -37,6 +37,20 @@ related:
         width: 2000
         height: 1064
         isCached: true
+  - title: "Could AI Cause Burnout in Medicine?"
+    excerpt: "With its potential to enhance efficiency, support physicians in simpler cases, and automate certain aspects of their workflows, AI is widely regarded as a possible solution to address the burnout crisis in healthcare."
+    publishedDateTime: 2023-07-29T14:02:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/105679"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/105xxx/105679.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "kIKgl0VwdVupHd3LZWueWH0xDQL4NkXrg0LGaHymIf9LcgqMrk/xm226y03jFxcNP4Egzh5koFccUHzuwVXMORmZvHjSnDrvLgOaDMBSCfx2BhvcXpAd2YpWgkqI8aagpCPZUU1dFqPoUF8m7cWhQOAFYqlVYMXTm2BbZTD38h3R4gPMBclVAwKhZOIqFrK758NVV1GIDkf9BsyJLha7jPn4xB4jp9csWlhGioCTuhE6xXiEdrChEIMkCpZ5UG+TOdMRqZUeyR4Om1K9i29dFnhbsmvO+JisuMktPlgUdOm0+/10Tmyl91nn4W4WS3EdrcTzQMcKhMkUdRn4EIe8mkJrUmRJooOv+sfc2eu4KCk=;goVGoc1sEgmsDvRnq4/SBg=="
 ---

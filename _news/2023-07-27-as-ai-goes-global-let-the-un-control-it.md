@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/ai-goes-global-un-control-it.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-goes-global-un-control-it.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI Powered Human Like Robot Have Impact At A Global UN Summit"
+    excerpt: "Nine robots made their debut at the recent UN Global Summit in Geneva discussing AI for Good. Perspectives on three cobots are profiled that are changing human lives."
+    publishedDateTime: 2023-07-29T12:06:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/29/ai-powered-human-like-robot-have-impact-at-a-global-un-summit/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "62Jb9e8SRireLXW2iyHiHDJtXNfCDmrxNg1Wz6GavBIxeP+W6l3lW2kJZVSsm1lCUzu7iYNI61B3tBisHoac7cELc2wjqJmJVRAIZAdapwl2ly1kzAiR+3ed/AVjt7Di2N7vRz/Vr5I7imYrhadlFc3iKghODV4b2S9RtNlIuulWQeBRn72PMJYeDXeZhNsoCQj/bDCMwBYmfH28r5J7c0aKQnyw3jVoapgy/PFHqAR1j3zGBG4e4CmHkMGtk6nnoJNMrcIjyatEKGs1nWywcMg06iiTy5wQtXpC+HKF9zFdWzTEyEc2PRoVLM6rBV4PF5lJKteBgKm4S5Q+pbeiFQ3taCBjh8hdZ2hHG+3I4OY=;KCfBOUr6uDQ2GCUMyNpz/A=="
 ---

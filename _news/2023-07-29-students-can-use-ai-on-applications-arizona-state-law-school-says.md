@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-ap
 webUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,17 @@ images:
     width: 728
     height: 381
     isCached: true
+
+related:
+  - title: "Arizona State University Law School allows generative AI on applications"
+    excerpt: "Arizona State University said Thursday that applicants to degree programs at its college of law will be allowed to use generative artificial intelligence in application preparation."
+    publishedDateTime: 2023-07-29T13:04:00Z
+    webUrl: "https://www.foxbusiness.com/technology/arizona-state-university-law-school-allows-generative-ai-applications"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 16
 
 secured: "hxQnm/pN73GPrypIYLI1NPJ2h5s8ZzfWdiu0Sm97WKIxNx2xyObMewCONBlb+BifpQ8yy6OMOv0LPjQDSxwmpMOewNQovtkd7MsTCkxfJufHDKcHBQrdsP71Da6MMX+UtvcQcaIrsMEaPl/qPESGU4jkkp/cXowi37UW0omhjnE3jXw7FMWKu/QzxewyaJP22qQ5UbzkPaJFNGmJ+LjA37EpVIVJ6VyHH0W1G7kY0gbKv40OCp4Mdwf+8Mp6XJ79J6np6XzImCeJA6b9TNhhxQMt5vKVDJAUWVPvKmGLDyO7CH7W+/+UNq6F+wNuwDpuuXKJhU0BnNoJ8ydDW+YwL1/63XAzPpP0d5WpQK8zHOh+8CL9Uh4Itrxh3VxVEbZMQXXIgKKKnWL0hDE+MvyqJ9Crw4/nZIBBEAyNBS47OY4A2vslC2ni4QPoDpw9Q3h3pjWrv8kkkiYVD4Unjhg3gfdHFO7SXO9szOplvZuQ9QZ3tnjxz5Tm80dpNJ9UG1t7OjjsT/Sj/PQJI3Vw0s1xWg==;sEs1D2sS3IbPBhtEIFjiHQ=="
 ---

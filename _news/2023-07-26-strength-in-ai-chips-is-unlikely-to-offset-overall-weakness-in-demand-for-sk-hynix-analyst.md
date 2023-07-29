@@ -70,6 +70,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "SK Hynix and Samsung’s early bet on AI memory chips pays off"
+    excerpt: "Korean semiconductor groups benefit from strong demand in niche technology vital for building generative AI systems"
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.ft.com/content/8f65a241-414b-4661-8923-78f6b9941b65"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "eXidBz80I83t631YD94BQM9d18AqdiDdDZ1Ja9/9gh7JdeaD3VoJ+WZbNlIewpe6tUldIKQC3F2awT/leTXXjJ2bazChn7a/ammhdvMuQ2SaCwGs/H6M8a09MYSSF31amSj0/tLOVFkBQSRBBJB2XIwJo8fBskl55BPhjbGAQ66pouY05u7s2thMTTYA5DOCEG8IU188ePbkmAkKKLbItJYZnLQpTyyFbUWxiOD/Bzh8Z9pzH8q6teZNqAT0tdxDTAgqMaoPTNYL+svB5JtfDGtAUPL9sMVYsIoxOxi5sMJ6K9E0/dAFP8zOWiCsW2kEqqvSfJByzP7Os+7z+LzfzRx+esT56tfJS+Sr3JpKbwb0iZFcWdUPio/4Vxh2YKIw8JFh4fE7rXu8FktyIy6tWULIPpeB66jeLUNbLfwjt37QUB0JJzHsn8mfpp0rBjXLiuLNv/oLfLXp0S1RWPskgWyRoxXliRVgY729yRz7uudJckMg9S1BqO+vgjwXSm/FgEuPlC/FjOF5qH8LWOq0lQ==;lLsXPW9IRJUUIkR9KGqHDg=="
 ---

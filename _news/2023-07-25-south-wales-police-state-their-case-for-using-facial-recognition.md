@@ -151,20 +151,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The ESRB wants to start using facial recognition to check people's ages"
-    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
-    publishedDateTime: 2023-07-24T21:52:00Z
-    webUrl: "https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US cities weigh value of facial recognition for police"
     excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
     publishedDateTime: 2023-07-28T15:14:00Z
@@ -220,20 +206,6 @@ related:
       - url: "https://assetsio.reedpopcdn.com/AdobeStock_331209580.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The ESRB wants to start using facial scanning technology to check people's ages"
-    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
-    publishedDateTime: 2023-07-24T21:52:00Z
-    webUrl: "https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 20
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Face recognition technology for pensioners soon"
     excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."

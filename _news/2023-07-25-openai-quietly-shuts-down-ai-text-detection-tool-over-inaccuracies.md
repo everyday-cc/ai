@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
-    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
-    publishedDateTime: 2023-07-24T22:19:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
     excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."
     publishedDateTime: 2023-07-25T17:50:00Z
