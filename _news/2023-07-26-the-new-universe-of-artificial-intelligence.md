@@ -111,22 +111,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI as Cognitive Partner: A New Cognitive Age Dawns"
-    excerpt: "The cognitive age is also forcing us to reevaluate the boundaries of creativity. The age-old dichotomy of human versus machine is being replaced by a cooperative partnership. In this new reality, AI is not usurping human creativity; it is amplifying it, pushing the horizons of what we previously thought possible."
-    publishedDateTime: 2023-07-29T16:32:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-07/Thinker.png.jpg?itok=6v9bdXGq"
-        width: 320
-        height: 320
-        isCached: true
   - title: "Google, Microsoft and artificial intelligence startups OpenAI, Anthropic create new group"
     excerpt: "Google LLC, Microsoft Corp., OpenAI LLC and Anthropic PBC — have created what they're calling the Frontier Model Forum."
     publishedDateTime: 2023-07-26T14:37:00Z
@@ -153,6 +137,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "AI as Cognitive Partner: A New Cognitive Age Dawns"
+    excerpt: "The cognitive age is also forcing us to reevaluate the boundaries of creativity. The age-old dichotomy of human versus machine is being replaced by a cooperative partnership. In this new reality, AI is not usurping human creativity; it is amplifying it, pushing the horizons of what we previously thought possible."
+    publishedDateTime: 2023-07-29T16:32:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 17
 
 secured: "ShRH2CynImLucZXKzS+OvDLsxC/M8t38HBt3+EkBY8+Co5ih4ynLBOf2ItTodk5+PcQRtKhGwNEB9wMJmwPQ8wGI3PYIJTRXk/HFiWAu1Pffao5ZD7rrsgxkPNoJIzwaAcYY83Ns83Lwv8E31wtenSDV0W7UcoIcBFKdRMTaqwf/8DYBh4wuV/50TrwfZBo3NJTmS8gLnot6L1Pn3t3ARWdij9Q+bzmrWWkgUVjZ6a2Dg/1PLQ0lIdKHVCP98qriM+gIF/CcDT5CGnX8/2iS+KXbI7owR0CV/jHgyXmCfAdecch3km1cw6ubWG1f4rnKofzTn2jA6+vsEIbVjle8PElqDJFo/6jmOVzQVuq3BHbG/sUJlR6LJjagoYtBukTRvkp7YvSNRJwKZMAeIFFtPuYwR4LJAsPi69FVehHvjCPBBiQPn0RMoU6MKqbJFuR9xBxrw+CFgjdVSlblcAU5+gGmc+BOpUu+e/9I/zHWwCT72rl2eD5Dbg4Mhw7DU37xOXrXtcrKCY5Wr6yB1vKxtQ==;bm8QJLlgu8QT9p4ypZTX3Q=="

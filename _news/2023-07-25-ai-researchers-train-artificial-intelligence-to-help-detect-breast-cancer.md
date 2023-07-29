@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-66298998.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-66298998.amp"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 34
+  - title: "Bucknell research: Smaller AI models can be more accurate"
+    excerpt: "A team of Bucknell University business analytics researchers have found that less may be more in improving accuracy and reducing bias when it comes to artificial intelligence (AI)"
+    publishedDateTime: 2023-07-27T09:30:00Z
+    webUrl: "https://www.ncnewsonline.com/news/lifestyles/bucknell-research-smaller-ai-models-can-be-more-accurate/article_872325ed-58b3-558d-8a0c-96a5c9d20a34.html"
+    type: article
+    provider:
+      name: New Castle News
+      domain: ncnewsonline.com
+    quality: 19
 
 secured: "foM1O8dd1oZjhgzRgK9BI7wqjxnZz9R1l8bacTVhGLsVCeWikbPs2xo/Nl1DaUET6Ylmnrj776ll7vkVv8UOvFovZTSGWHfUPWU83ULBwHb8aW+TPt9OxzpaeJQFlcfyD4GQabx+E7vUuMzBEMm9n5HbphQcpyy+ouQlfopdxQwMGU/2q7mMRIA04YD8DSItmuzfMDwknBjZKU/BDkHJ+QGJ/GZBGYtaoFeGeemIFN6CWVUVpAzjEy0ZNbVhvEcEgC3zRloIZjGwYwhtY0kc8ztbdH8LW5gAoS5CQzIh0Y294nv838vVP1OCQ3I7/66BRh0ALmAmqpG/3krPcU9ttmZiizUOBspOEC70/xOufeb4t6raS2M0Rbct5+BYsldpyV1SJBFhq+/CHY3sH4Hi35qd6Nb4P/M+04gprxBtHk4VVF+MPpDjvjFqLpCkHNv0c08ej4sFUE816NsKwhTbezqdMuf/gJeZLruFMYN4c2ivAG1WvJtTeZlopgvMAL0lwA6mLyjkRmyRHR+0ozneGw==;M4oZSIWgGK39KIQIQRXiHA=="
 ---

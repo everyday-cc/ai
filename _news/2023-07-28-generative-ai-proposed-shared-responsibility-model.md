@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-28T15:04:00Z
 originalUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
 webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
@@ -168,6 +170,15 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
+  - title: "PKKFF Tenet Fintech Group Inc."
+    excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://seekingalpha.com/symbol/PKKFF"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
     publishedDateTime: 2023-07-29T08:26:00Z
@@ -177,7 +188,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-29T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1337300&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
-secured: "egt/lTcS0628JGu6ultHM56brZXjNN9RQdKidugoEljaxhQAMQWucRHmOp22o/Nb2v9Lj6EFbPlqUZKJehKbh9aLKAr9huJ8szH4BFtbiPIi+d7bD+KDW0tY/leeBk8futI7juV8+0kd6bdNpmb/ReTnUhAxhgEc0cHKcDTUhzCNFOW8G8LoUyM0ETRj8jQsbncnK8CftpmtiAuR3GWjDIzkPwgL9UWldHJ4qy2RnGRPRb/CFtm9CkOyxSEAEcOkcdJF1/z/kDQUB6zSoEWOd28WOPdQf1BjxCmMnciEdCyA6lTza6pzjwnm1KtgikGtMGLRSZDxeD8QiCRWoIoRPUpWSPwf/5Nu7PZHb1EQeKo=;p42KnPiVig4LrMZ0qma4KQ=="
+secured: "mk9ly3F3weGY8MdQbGm6+R4/xxKvmKOT2MzdvP3HawojPpJJ6W2yBnpHD8PMZ+XKsU/6X+G1PUCdnII7fWHI8yIR6WCVVGqSQbH4w/SpMBk1G+Fj7Pc70HVis+9Alx4pP3JIKuAtF9wXn2WPG1sw9ctHZLosCWAQT1xo4MV5/yAYNvVl4nuLoUb57kd142y+rPSKlS19nph4bBk9NhCV697wWoVTzJqTnWx8/le98ZuqWmI7ppMuGz9ylQGwbqwy1Uds2AARkNTl7KFBl2Q1hQc8+5BJFB8QjyKhhsHdloA09be6LFz6M1b47jwsPAFqe4E7QaK/Y7paSaaMOwIhoHL8x+djguuCxcgvSIlh1cz9EBkN2WqIWUGYurcxARQZG8/N/3NQf2FT2eP47unbSFrKPYM6wc4CeWSVcjEdR4j8soAviyLN7ibwpKoE1lc86lQg9DT6EE/Fb0/xStKvY4hLPQvYWgm+jl+4OeVhbip2ZzBUit2cV/odCxVmUTOFtt8NfSFAjXWa+EXDJAXMGQ==;dlVuSGTlYWvRqmoit5SrIg=="
 ---
 

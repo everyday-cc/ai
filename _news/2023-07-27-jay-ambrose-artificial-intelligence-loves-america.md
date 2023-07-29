@@ -34,6 +34,15 @@ related:
       name: Walla Walla Union Bulletin
       domain: union-bulletin.com
     quality: 19
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
+    publishedDateTime: 2023-07-29T18:27:00Z
+    webUrl: "https://www.timesleader.com/opinion/op-ed/1615617/jay-ambrose-artificial-intelligence-loves-america"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 19
 
 secured: "uLbCRTBKY65xLSUqdXaXx7EyEGoMwTuADH/BLdCiukFPHPWcZNPlYErJuI9Eu1awoWbRuJV/fZqqZ3S8BeqW76+UeOboZOncfQaM9jXx700zwpVPBKOqNP2Nsbcvpjb77WnQmWyTajApuljGy1b2+2WFpYE1LzgWidM+fHpf0h7Bi3nMWohvAsZTZhAEyJuGKaAHrOEff90GR1kcWF7JcXF8yPBiFcCAkZKPq7o7EvWY7g0aUM/imYFw+XEh+AFvrBhziA2gM7nHRb0vVREphMKb+p7kEFn6gUbXtbRDTipoM05nfidlkddQzl9kPgTUBxc/V5nfMkNjqEnBdjbA5XNGz3LH+kTv0g2wvx46kR0E7+7Y6YE21TWc/7/3pP6d96d+zckTq7hkeYkc+nJdudumXSYrQCVvoFzL72W6mZGfANEEGl0M1pFyZA2dhpPSu17Vkbv5z6ecn+T+6JLvOUI+eEP3PieWLS7Za/8hfbG91zfSGvIXRuZNWUIFQVHgQf0WhtBpxQdnRvfRWwefLQ==;gMuCgle4S7KLJz2YUkxn3A=="
 ---

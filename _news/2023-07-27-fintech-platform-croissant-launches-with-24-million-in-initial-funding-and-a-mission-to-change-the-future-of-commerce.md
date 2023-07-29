@@ -2,9 +2,9 @@
 category: news
 title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
 excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-publishedDateTime: 2023-07-27T13:23:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/27/9855387.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855387.htm"
+publishedDateTime: 2023-07-27T14:46:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
 type: article
 quality: 0
 heat: -1
@@ -80,6 +80,6 @@ related:
         height: 876
         isCached: true
 
-secured: "tAF8fvZM7GzZLQUVTAZzRTmDqRN0Z+MwWHmylBAYVpAUKVfxbas0L56aHtNE3gJNpwPYZI+wYwlwJ7uAJ0FZx54096001PVVfv1lFbqTxlCrsvEbAGlDJU+AQx78e48OMvJFJy2M9wKCiZjxA0McB3gNwRlrh0bGxs4rAkUA7DkBCmD3+d9Uak14mjfRmgMu7gA9wE4lMIt8j7bPRwWr5HMm8qyo7kZgsQG/DM3YWQoS47i0JqIWAEBS8SYNnFbGw7lwr5ai1Xe/RYguE+m8AY5DfUK1urVWErFwlEaAeeDS7R0y0+rTBz8GSxMz5HPydncx08wpIZ7FNLJdTdbFldxv89AmmqETHQKlOkBFek16VY9ScWSyMGqtmhax61ed5/NeaG+YwVkP7qy8081quDyR+2nxX82EAZWkgKd+gmcHbawbbOmpRebNvincp1oXSd5HmfDjVaTJxVPRCHxKx9R/DguruHaAPUvTgTYMCzswObAupDsp0e/UexhHJD0FP2Pz3n8k1wjnmBYT/E040A==;wk24XS1NkN1kdgXbCxyx1A=="
+secured: "KWWmrV4YS6ZiNlVyY3wlwKTJYdukYZ290/En0tKt0g/yAqbUEcdvHgGewD5GuwDg8n6YW1uhF0gWG6TjRgmBiZm55lJwE8T00Pj5AcRNLbudWI2NZbDswb9cjhTt+mSLw4630Le5imcyFFfl3DD+9roLpsSdxm8w+FgI95pSmRBOKEX4g/XCYOQQ769qkDlUpnfpMT5rdhISe3g1UMF80PeXdb1NyxiiAGiC/6qoMSaxQxqnwJvytwJ/fRsUJQJ6pisdCpk8iCHq47e3VQS9XIuxXZMARHtWUSHxNCffhTxoU9iUsGV0M80eQTZgf1ewOMaHy2vL6kaQyepzDTtPO3NY/IxB2ZZRISvKmudQnRMil8BRsk2CUGpD/EQM97+mUXobMSUp5ScJufz+5BT7OSr7YUAjus5LCoYAUkotWgy3FRDxGcEs2W72zvcqvUUtjgjON3X6DD1Pzcwdi7SjqtDPl0TmgqiG3cVbjUV10Eqz8WXph7bLaRrDa5uIcBEGEvttsInHc2kfzX3vJV/DqA==;3dx0GEC3UF2sZT2wCvAusQ=="
 ---
 

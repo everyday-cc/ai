@@ -2,14 +2,12 @@
 category: news
 title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
 excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
-publishedDateTime: 2023-07-29T15:11:00Z
-originalUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-webUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-ampWebUrl: "https://amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+publishedDateTime: 2023-07-29T16:26:00Z
+originalUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters?ref=biztoc.com"
 type: article
-quality: 49
-heat: 49
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -24,12 +22,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/3db4e2352f0c005d9cb730443a4f3d40a71f612d/0_653_1512_907/master/1512.jpg?width=620&quality=85&auto=format&fit=max&s=14ecf08b5772b0758f675dc478f5e63b"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "KadAbaPF5HH8CuiX7Z3EqE8TQkYMSz2QyNXEZ5W7+QBOK1mcw9gP6sFGxJ4lXFTOQ3Ntay4YALfVjFZcFiJotCcaSfu6Fc4jWrKQNkJvkMeGGUvtV5Z1LYg0hMmGOTmCjA+SXpqBh3wiZvNunYUYNNitVV/zaQ3n7JvGvbRjEZvXSOPCZcUjTO6KKcNebwvFbjHDYc0YUk1r20U4mckzK7IsNfK5d0LoKXiDWxxsiH4piWxNy5SP+l6ht2x8djGfAy5D7ieSbmvJ99aVeg8JDf9qsplzo93GBMwDNwoG8RiuXPWZyLosBFxQSz1Ut5NlZt2+jmAGUb0RiEWNt74JbG+rvr82oZPY6f3ltjuGiKo=;qHT7wkdkt9hErE9B/E2IPg=="
+secured: "jbA/OnCkoxtPXGcJBnYrNxYAWLoTQkebygcypsLKN0VfKmjsdOf6rCRCxzxiGSNUHbp9hu8oS+l/HBlPXEsvxtg+/6HuyD6iyG+TsjGsdLLtWVTbtnnk3EZbz3p0oBRQ3uTo3RCglQFYxexlXt6uuV9StHiRdtlu/sbHA5/+2XFRIDeIk4QU7+CclV6mxuGFZQZ4J3SMZ7WbToRScdmqz1zr1yoMttNZmTRwt75gQwHFsBL9snZ/fF+9d7ilpRiVSBYnb72LeW2i8jwT0JethksuoR69SsTK9rWnznZsy5C9tROpYVBxYPulMCBgu31urp1hE6MUhnwH5bF2x2ZKQDuGeJZvvOFlO5GR+4MhHvzRd3XVG7yY/NW+HgnoTZa6WekzQiZSuQ8Hl3K908BcHO+oSWG89Nu1lYSE1e2B0NuYn39F/o+oF/TlBZXJoHF7OWK+5zssT+tPZGZHNdOm04JCZEXN7fon/HzyGCxqnAJ/viIcl6mK28c+xst9od36W62jatfjJmJvBq1GR7+yAg==;yYDI9nBNNXL3asbxG0N6kQ=="
 ---
 

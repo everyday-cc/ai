@@ -59,20 +59,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Driven by AI boom, TSMC to invest $2.9 bln in advanced chip plant in Taiwan"
-    excerpt: "Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90 billion ($2.87 billion) in an advanced packaging facility in northern Taiwan, the company said on Tuesday."
-    publishedDateTime: 2023-07-25T02:27:00Z
-    webUrl: "https://www.reuters.com/article/taiwan-tsmc/driven-by-ai-boom-tsmc-to-invest-2-9-billion-in-advanced-chip-plant-in-taiwan-idUSKBN2Z5033"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://www.reuters.com/resizer/qQ_XJUhuFJg5lG74aEkz52t04e0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BJE2VHMQUJL7VEROUOBDJL3EGA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Taiwan Semi Invests Outside U.S. to Meet AI Chip Demand as Arizona Plant Delayed"
     excerpt: "TSMC, the world’s largest contract chip maker, is planning a new facility in Taiwan, while a report also suggests it is close to an investment in Germany."
     publishedDateTime: 2023-07-25T13:54:00Z
@@ -89,15 +75,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Driven by AI boom, TSMC to invest $2.9 billion in advanced chip plant in Taiwan"
-    excerpt: "Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90 billion ($2.87 billion) in an advanced packaging facility in northern Taiwan, the company said on Tuesday."
-    publishedDateTime: 2023-07-25T02:27:00Z
-    webUrl: "https://www.reuters.com/technology/tsmc-invest-nearly-29-bln-build-advanced-chip-plant-taiwan-media-2023-07-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
   - title: "TSMC to invest $2.9bn in advanced packaging plant for AI chips"
     excerpt: "TAIPEI -- Taiwan Semiconductor Manufacturing Co. will invest 90 billion New Taiwan dollars ($2.87 billion) to build a plant in western Taiwan that handles advanced packaging of high-performance semiconductors necessary for generative artificial intelligence."
     publishedDateTime: 2023-07-25T15:31:00Z
@@ -149,15 +126,6 @@ related:
       name: globalconstructionreview
       domain: globalconstructionreview.com
     quality: 34
-  - title: "Driven by AI boom, TSMC to invest T$90 billion in advanced chip plant in Taiwan"
-    excerpt: "Taiwan Semiconductor Manufacturing (TSMC) plans to invest nearly T$90 billion (S$3.8 billion) in an advanced packaging facility in northern Taiwan, the company said on Tuesday (Jul 25). Read more at The Business Times."
-    publishedDateTime: 2023-07-25T04:34:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/driven-ai-boom-tsmc-invest-t90-billion-advanced-chip-plant-taiwan"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 30
 
 secured: "GbMqor/dy0c2rZAyuSfazn11EanMWIZsua/G4Vp5+Yyg/kaIF2pwrmsasHC4YoEG47Vph3i2mSDs0IlMOuafo7Q9W0jY71Z/QKLm+T3RjXiNM/1qs1cmzL+/z5KHyLXdTcF8a+Q1fCiA0LK1KdwO5XFaSWlbMqNJBflX0foRmNj3UpcPvt03q0Ei/HfFD2+H092vLTECsZ3vGcQZGiTiEDQPH5WuwphBxdi/ujX+sUR/Qm5aHSLv28NbEU4uDH9j28y6ikXiJz7X/C9E2i0xUm3VN9bDxZwiAc6JdB2BDOV8XGV+zc9kNYiG7mGpUvObaKZfzrmoLbdKX48wx+GNsSBFS4tIuOqe1b/KuPlHAnU=;PkvWHIexBHAvp5844stpVg=="
 ---

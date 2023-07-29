@@ -103,12 +103,12 @@ related:
         isCached: true
   - title: "What to do with an old mine? Turn it into a self-driving test track"
     excerpt: "BMW has launched a new test site in Sokolov, Czechia, aimed at developing self-driving and self-parking. The German car maker says the 300-million euro Future Mobility Development Center (FMDC) will play a key role in the company’s development of automated driving."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/what-to-do-with-an-old-mine-turn-it-into-a-self-driving-test-track-2023-07-28"
+    publishedDateTime: 2023-07-28T13:15:00Z
+    webUrl: "https://www.miningweekly.com/article/what-to-do-with-an-old-mine-turn-it-into-a-self-driving-test-track-2023-07-28"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
+      name: Mining Weekly
+      domain: miningweekly.com
     quality: 4
   - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
     excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
@@ -118,6 +118,15 @@ related:
     provider:
       name: WSB-TV
       domain: wsbtv.com
+    quality: 0
+  - title: "Probation sentence 'appropriate' in fatal Tempe self-driving Uber collision: MCAO"
+    excerpt: "Maricopa County Attorney Rachel Mitchell said the three-year probation sentence imposed on the backup Uber driver of a self-driving vehicle that struck and killed a woman in Tempe was"
+    publishedDateTime: 2023-07-29T18:59:00Z
+    webUrl: "https://www.yourvalley.net/stories/probation-sentence-appropriate-in-fatal-tempe-self-driving-uber-collision-mcao,414435"
+    type: article
+    provider:
+      name: Sun City West Independent
+      domain: yourvalley.net
     quality: 0
 
 secured: "txz3nQ6TO+d58LV/BlOtwnrv9YAqKZKaFpfs5xfio+wNbgYC3tpe2y6nfTMP/0D0VYmObYEGBu2Z6M9s5UpWO9A9V653RjJudFbEdzBR6KAaDg1a3iBclRyPpUz7sPeUrf7e78Ve8PEwPobcHxpVs2Ts+T2rnmb5rhSxaFRwUlx5LJ9zmCc4Idh+XFNFA7zPt1AxXi3xVEfT9xPRRYiVEMU/eLYFwrZIXqK6qGtU5ZtD/QBzZOi/BCWzsmwlupYqRnlVLAERxGi332tngCHYOC0xqcvteXK/s6Tfys/cUN38oqHRoTz5SpecL4E4rMbNQZy69Xxhxf0aQFiAmVoWxAKbng5/w/64CkIK6pjyoKn/d3l1bS02y/9NNsjzx7qEZGR9pL/MmTC3A46LUinGo/E3YT+0kdlyyFGSYzzITulixYX08BdVh4RsWbIRDVdH+3h59xNbn0W09SekxJHjseFTlu7rMJ3tcVlcdGwngCi/pziDC25BFz+CXHbdxz3L+WskGC4ijg9/NVbZ2oibcg==;StqJX4RDSDBKRKvmk5rDQw=="

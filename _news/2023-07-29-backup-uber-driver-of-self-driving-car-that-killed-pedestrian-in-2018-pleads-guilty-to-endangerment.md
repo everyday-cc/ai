@@ -111,13 +111,22 @@ related:
         isCached: true
   - title: "What to do with an old mine? Turn it into a self-driving test track"
     excerpt: "BMW has launched a new test site in Sokolov, Czechia, aimed at developing self-driving and self-parking. The German car maker says the 300-million euro Future Mobility Development Center (FMDC) will play a key role in the company’s development of automated driving."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/what-to-do-with-an-old-mine-turn-it-into-a-self-driving-test-track-2023-07-28"
+    publishedDateTime: 2023-07-28T13:15:00Z
+    webUrl: "https://www.miningweekly.com/article/what-to-do-with-an-old-mine-turn-it-into-a-self-driving-test-track-2023-07-28"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
+      name: Mining Weekly
+      domain: miningweekly.com
     quality: 4
+  - title: "Probation sentence 'appropriate' in fatal Tempe self-driving Uber collision: MCAO"
+    excerpt: "Maricopa County Attorney Rachel Mitchell said the three-year probation sentence imposed on the backup Uber driver of a self-driving vehicle that struck and killed a woman in Tempe was"
+    publishedDateTime: 2023-07-29T18:59:00Z
+    webUrl: "https://www.yourvalley.net/stories/probation-sentence-appropriate-in-fatal-tempe-self-driving-uber-collision-mcao,414435"
+    type: article
+    provider:
+      name: Sun City West Independent
+      domain: yourvalley.net
+    quality: 0
 
 secured: "wYy4LOKr/WPzYdvhQ2LwKROPnIm698C2I7bjbJcguNr8tgWKzdzApFORqT381eStIkjFdeBaW3YkO2vWN1UhQg37DzpcHBGqqJRuIDKPfNnOva+qcAqrMKGpfTNQqK6VpA1LnfHZcBd9Ozn8XTcpvRRZTFAdw68rQt1iaqKOSaaR/6K9yJgR9syWCKPd+dbvP+TjppPZ5Uba/Re0Ieu7UD1NvP2Hg5WNjoX0PRjn00jKn59o2OpM9jA5IoBE6nzSbc12YyJLyszPuja9ZGZlrJka9V3LBb8VzaibwVWVlBQhiCk3q1caJzFwBODc1Ea9SA97lmZ/JTIDi2qF+7Amq1/LluaCMF/8WAuqbZn3/d9Mpy0NUZMRd9VD7J7g55W7BVkS4rAqjKwa6ouEKvEL/O1N3YLk79Ezl7bEdv2CkZWkAewAu5jxEdSV91IuinIVFyIeGE9JjxX6Yk7V1Hs2vaA0XfiuRw37sSIYmSZPpxx6YTTW7Sn0Pl42kssS88whIn4ww0a6D1dtZTP61/rvTQ==;S8HOUKX63jD99F9W4anlqQ=="
 ---

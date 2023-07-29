@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Making Anime Characters With Generative AI"
-    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
-    publishedDateTime: 2023-07-25T02:22:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Generative AI is empowering the digital workforce"
     excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
     publishedDateTime: 2023-07-25T14:46:00Z
@@ -221,6 +207,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "jDS45NEhBR0D5eUx0Zj3muA+wmE6pYvfxI3HDLKas8SQvsHQs3+PmhywlqFNNi2sV+RMqF1VttgHGtVwNBjxbykG9+RcL1XvlZUtabjpIurYcM3G6iP3Gf62FaIm/GkOtLrlcm+KPs5DXaA6gggrEruVE/Mx21DlALEeWlNDIkD4PZbzz9x29RsqUW26Up8eDz8ZIRTE2igMSPD9C+XxVP+k4MKQhBu1fFF3HHXbcA7nUEx7JH6iXstybnUT2Z2RK5wp/709xUj63+UIboAqiSofDCwkboGVkJLGIK1U5co06xNisMASMMuiZCOXRGzXtwzfxfFs7KdkcCdYE48o+4GOpBt75W/xauuy1ghPKYM=;wkHYCbRJ4a5xjj0dcl0k9A=="
+secured: "EH5g2m9ynv+YkGjONyUmi8n3KYleulA57ZEBEWDE6VaKB6IYw+Z/I/WuOljwJiCl0/m/PF5s9LVVtPCrRUiYkAMS95tZWqjRqHY+wVYFDpQfk78krBVu1U5SiY6Ew0IWr0ESgB6D+6t05Kz5Zgh3mKoyJi908DmTrmCjKe5EDu06abiHEMjWkhrPXmhuGMnC5kukksUwgSIA8bkqgm1hMcRJdFeE0MLRzFrA/hdLwiPcpOnvgIb7+pE0iMSqO817NAQ3/h29JWM3Uy2lQamE1iWuu/RzB5ZkRuLZXmhj4bed1gWXwfsLM7YJlzuYOdeQW2hP0ahVZB1o2ZEYLFl6PMuDmmX8OazFaKItqLrzlaOIbLns2UUDxR6n0DTszz316FPl0FYECXQK8+PD715i9nyG7jKtz3qd0Iiz4dzYwb0I0OUs2sUt+m4gNY+ICZrDROeDip312J59bppsaasgXCPxxXJr3UKYl6U/pCbv/GNP/JYhnbF5F07G6HxReepMbFDZq0OPNta21vZ4kBbW+Q==;2ixr0VQq4XhY0K2R60O/yA=="
 ---
 

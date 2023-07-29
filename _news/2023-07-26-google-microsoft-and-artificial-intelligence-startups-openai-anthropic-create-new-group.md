@@ -111,22 +111,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI as Cognitive Partner: A New Cognitive Age Dawns"
-    excerpt: "The cognitive age is also forcing us to reevaluate the boundaries of creativity. The age-old dichotomy of human versus machine is being replaced by a cooperative partnership. In this new reality, AI is not usurping human creativity; it is amplifying it, pushing the horizons of what we previously thought possible."
-    publishedDateTime: 2023-07-29T16:32:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-07/Thinker.png.jpg?itok=6v9bdXGq"
-        width: 320
-        height: 320
-        isCached: true
   - title: "The new universe of Artificial Intelligence"
     excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
     publishedDateTime: 2023-07-25T18:16:00Z
@@ -153,6 +137,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "AI as Cognitive Partner: A New Cognitive Age Dawns"
+    excerpt: "The cognitive age is also forcing us to reevaluate the boundaries of creativity. The age-old dichotomy of human versus machine is being replaced by a cooperative partnership. In this new reality, AI is not usurping human creativity; it is amplifying it, pushing the horizons of what we previously thought possible."
+    publishedDateTime: 2023-07-29T16:32:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 17
 
 secured: "lYwiU96s9cSOJfPYJwGDMso7CiOG7aldjdQQruszmWsTWvwiUT84k9Az9BcHEWbcSqSpPqxhJ5hABWVqT6ByreAsqFG11q5zXKh74nALBGG+xDorV3Qbzy6941m0SQ1ieyZlL3L6D7SlIIOluEpFtBjMCLBv9ygDg88Pw63ndDPG6Vv6ecmN178Uq7e3+fXatV0aK4P30IVqXK1uLnyWkJjObbWZGOagp6MPFfozIeo97mUGWjrkbiTD0bfBbjva0WuQUUMDzdlyMzsfgA49CpLY9cXscaRutg6ocQQipLq/SalwxvnbbeFtp89fI83AKV8uJB194x1jyqFaF+ivJvxIRB48NzHOYsUeB1rgxhHfQv34M3go6lvL3BNGhNsarYa6Ct0yFTtcqplkGYPCy2KvriM5b6e0oYZsf7BuaveU2fwDb2kCTx8EtEFECrO77pVwJ/iJvWusrFb5icfTgX9NErUuQEQaOwkGIfqE/qljFzXg90mNtc+8q40FFeKWU4gBmQF/g9yYMroVeWoW9w==;fR5D7msgXo9jqI4jiK7NDg=="

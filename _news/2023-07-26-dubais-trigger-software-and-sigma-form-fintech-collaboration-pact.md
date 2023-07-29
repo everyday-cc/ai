@@ -65,7 +65,7 @@ related:
     provider:
       name: Cloud Security Alliance
       domain: cloudsecurityalliance.org
-    quality: 39
+    quality: 43
     images:
       - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
         width: 800
@@ -168,6 +168,15 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
+  - title: "PKKFF Tenet Fintech Group Inc."
+    excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://seekingalpha.com/symbol/PKKFF"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
     publishedDateTime: 2023-07-29T08:26:00Z
@@ -176,6 +185,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-29T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1337300&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "BIXbwWJH+kYiLlUkK1OaHGn7uMXtJ3OHJsPuyRfRpTRddSEdQnN6pNdABj3JozY7bJUuC9fq2ep81WhNgp18HMfT+tPUPN9v+QCTHR28bdgM6Ku82QmgVDnUz0dp/VdWRdhMJmw2hE5xUWnkJFljHugpupM6rZ5QFbZn0kXP9C8xPy048ficroO9j8QoYQu2CpbTJ4G8OSi8z62a4fSMqtbuJx14vGpD74T1x9MtbTY4QyozirdVxrpa+EGqqoLhlmYeHD1QBcyrHswKPtuWRnzO2STI4KVLhFojj7bly8BQJy12DkMOvXFzhwQnDaCMedCEDm1LkBGma9O3ImpWeBqc/zRSJlzp2FGiQRIq8hQ=;nSJ6Jq+Sj/g20IjxoJQzdA=="

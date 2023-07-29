@@ -33,6 +33,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
+    publishedDateTime: 2023-07-29T18:27:00Z
+    webUrl: "https://www.timesleader.com/opinion/op-ed/1615617/jay-ambrose-artificial-intelligence-loves-america"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 19
 
 secured: "ypfXQoF055iBz/gi5sYC0Bnh0Lzos9PA40EOWqwWnTGIfp3HerzN+qIcPPVtH4seajnNOqtjj+STiLOqiNcl/lLHa46rZmoYDDJF71Z46STKswkRzDTCwQZr6NwsK8vHyV5/+jkvwqe/cBoSt+ZFWXeN+BN6LRkH0D9YP1syJqGqzeSnmoDviseoc7aCy3Gg8p9h8xWrCFREu3Cbg3kVshmaztPtX2LoRvFwS7BDw+NZF80u+5xzIGf8dqnsaIFtwMjAPtYcxmO+rYRpE5UeAM+crZYn7kB73Ld23qs2ZDr7XyiaF7pVtXJin74mw+a5aXKv4V8bDhovXUh3tvanMk1axI+1DM2NZ5sF11MSVREPEANCJFrtqUwjly+iaRtGY09NLzpvyOqsDbnhDPVw09R65vHPsqSao7eAnwhQZgiLk9BeVDRa7oKZTldncNWWmW38LqI2HkhgVCZFsQxPGLxr80wrRO9pkVGPKcplXhX9IhcBoPo/DkuftGW071vDqWoPrjTlHUYmNU/kMzxY0A==;x6b2kbHkMbGVEGjHBmT9cA=="
 ---

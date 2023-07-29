@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence: Recent Congressional Activity and a Look to The Future"
-excerpt: "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and social c"
-publishedDateTime: 2023-07-25T22:42:00Z
-originalUrl: "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future"
-webUrl: "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future"
+excerpt: "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative ... perhaps a bit nervously, about “the robots taking over.” While many people in business, medicine, and the arts ..."
+publishedDateTime: 2023-07-26T16:35:00Z
+originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-recent-8605132/"
+webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-recent-8605132/"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: The National Law Review
-  domain: natlawreview.com
+  name: JD Supra
+  domain: jdsupra.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "C6y+tcrbBVOUmr60xhwNL7wyzPTYBJWhP15h6LIvNZ1uw5PinlQKJbfy2kFBqY/AaLMA/PgBViRfG3BSFwTQNL5oJGvuYyaiwQ3m1vOFecNx1Igy6jSkHnos696MDqXqef5OCBCmEVM01xmsCrwYUIKXNV+uJcmk09wnfSnFmlkg8XWO9pwjTdw7Ixj9zv44hTeGy5d5hcGubHdK0HEdulO708G8RhMuPcRM1vFB8N44LR0vUr5jkTxG1AIJ1NpveQObbEIkkmeM5A+NcUezROwtwrpHdqQ1LaSjcYyQe+mo9LI0AXRBuVMjiBU2ZX+QCecsZYa/J9iJwl0JbMC7JYHViDvt0CkVrYkIl6VBMVNpEwo3r81S13yJbfa9BX2rOrWk/QvUVVrz69LQrkR1OPLiK+CZgQVoBgwmygVAVM5EYLf2i7L6q7PkVMv+SnsHCKbVF1hAuQR8ig0Vy0qL6MQ3PJ+yGDy3VvbhMrtWl1+KKYAO8dC/B3QZrGoD2Ro2hXwbETVQUr0XUg5YRhZvaw==;/qwaxvrHc021pr4vo6fqjg=="
+images:
+  - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "2cXhxH+e5v7i2PpUmHWZIebeDYw1iKkAfViekOYHNfYjvZqnmVDbtl7tNzKJBO3Y+lP7sITVtaZhFh6Hpqt0VVtHv7Y/cqldzIHV0EpmdrniJ/vQOeRrJAENIKPnhd5wKiyFCwBWSVqSbkGRGWXKde0ddW/bDjd/PX1h+UCNGo4g3OjSr+GelqMK1MeyWRpee/Zt79TfWcY5ByOi7THTbeAmu2bwipdhivCRbDF3Fei1AjVd6tqnw/tAFGQJOYrmL3YhSpRvTQ3APMQ1CiH15+MtxnD/crLpRKjGsCVN2vjABmp9Q4+s2aFUZuqy+/dhTiUWunNTnZ8t0P2iNqzDehurHR87+g75nf05DmlbKXU=;3JnMhQpTc7keF9MDBQTfIQ=="
 ---
 

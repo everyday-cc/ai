@@ -57,15 +57,6 @@ related:
         width: 845
         height: 454
         isCached: true
-  - title: "New Orleans police use of facial recognition technology nets zero arrests in nine months"
-    excerpt: "Facial recognition technology that has been touted as an important tool to reduce violent crime in the city was used by the New Orleans Police Department only 13 times from Oct. 1, 2022, to July 1, 2023, resulting in zero arrests, according to a new report from City Council consultant AH Datalytics."
-    publishedDateTime: 2023-07-28T15:24:00Z
-    webUrl: "https://neworleanscitybusiness.com/blog/2023/07/28/new-orleans-police-use-of-facial-recognition-technology-nets-zero-arrests-in-nine-months/"
-    type: article
-    provider:
-      name: New Orleans City Business
-      domain: neworleanscitybusiness.com
-    quality: 10
 
 secured: "ezvRmHDAf0OMHyr75MXzfuxYizWf7nL1/aAHImhspt7pE5oL7bWEhvgVk6dH+QJmw31EoKv5nMQdOcs++XARJyNGimkxyO5qi83z6Ld8xO8VWXriz3vlb543SEu6yjo/MCYkLmA5XSeyN20ZaVljXwrQAcN3OfhL4rg6feT7unyc3evCCXn6uif2rjsBieyeFLk/diEFyRg/yeWnB99V+Fee01D2704PIST4ih6ZbBVHDZAMTOnOpK03zt64E4skJ2aA4bwE795aF/N/lUdPbOJVf++TTEhMhg9LEh2ls/lEMb3KZ7nN7cfLVK50qcS7bgNgyM5E3ikYczktH+Pu0nXbbxvpqL5dWUPOvnomQVARQZIeF4dlvu9w8TykXUFASvw71pNtgWJ1fLqEyMmhCzBqOQ8hfWYLeueD1tm0FSa743nmDto8Om7Ow9Sj+WMIw1yeMI1bVdPb9nB8vkfbqCkNi2+zLJDEED+rnYG/DpAmpPRtIiZZDtt3bwixahtplmjMAhDhGa5J9+5AMbtPUg==;yyRyvVovwUbwJXywPHilaQ=="
 ---

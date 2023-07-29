@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intellig
 webUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
-    excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
-    publishedDateTime: 2023-07-25T01:30:00Z
-    webUrl: "https://gizmodo.com.au/2023/07/elon-musk-still-thinks-self-driving-can-save-tesla/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/07/a2ae6341ce8ae9065edf978925dc54db.webp?quality=75"
-        width: 5557
-        height: 3111
         isCached: true
 
 secured: "rwpHdQbpBQePEFpUz/fTzuj1a3PHHiTtSCUtebnof4BEB+RnFGSKxlco0QjNCf/7j4LyVGvc8mNr5UlhK16qa1/m5o3C4JKdgKUc+8XDpbR1iHtqA71IP/9jGpGR3CW2tSmrqFSC8l3VBgG95o1k+ZNyvSJnk6sj+dhXpqTWa4hnjwPk8dWM2p4gJLIe3KGzfWouQUeFMAEfVhX5rZtTpoYOZbiIIIH4BC5kUNE9UqBHxDENbUD6pDo/IWniNJNBqG48z3BQqVrJJ3dLF2+F9ZRd4hqWzFgaYxcbRZRV/RIv9ZGu55ESzlplX2jsJtTHg2joUwJvjmKgP2rRlosDcawF3f4DobGx/tRSgajwywGFgubImvtQJdHIPme2bZi7t7/u0YWMhky3jOfrTR/e1sFiQdOPPTQCRWoYJHUH5feTkT+XYZi6iBmP3bn8vrmsPtLcUXGPveZDHvHUKh0O/6fibnqnrIiLgiZ74w9zbqO8lcYh/TJ9PhfdcwhUjgVimKp0ZDmBoQ+odeuIwIgeDA==;PyrCwO/NR2mtdR1jsEjqhQ=="

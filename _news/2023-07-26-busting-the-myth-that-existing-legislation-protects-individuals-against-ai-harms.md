@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/busting-myth-existing-legislation-protects-in
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/busting-myth-existing-legislation-protects-individuals-against-ai-harms?amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "iPhone and Android need this photo invention that protects against AI fakes"
+    excerpt: "Researchers invented technology that prevents generative AI from creating incredible photo fakes, and iPhone and Android camera apps need it."
+    publishedDateTime: 2023-07-29T20:14:00Z
+    webUrl: "https://bgr.com/tech/iphone-and-android-need-this-photo-invention-that-protects-against-ai-fakes/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 35
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/09/apple-iphone-13-pro-7.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "X39Mt/V7gxaNp71W4FmtnCG8Zg8FmoQf2Ou+VvUd+swjfjFhD0k04/sg12CPUnsWvJv4EhV3osH5jFnGxQxG3cO0e6pHtzKtPEjXAbbW30r3TpRnAg3/KNYlJh5cVo9CaG1fraAzidULM5AOZ0n0uO8R2MJ08qMuiPjjbYyrqwNNr9PD8ubEE8HC6+rEHvtkFOOaAXwwMDkPCbCtidUu9iVee4GXBBdFuTN29VC12eMw65fGDwwDwU997246vmH4MSo9glMKOe5o/YA1xw8X4wiYW1bzribGqXJX7Excm1DJ7t4xE3+PD0o+KABjVySoOS5O3spTc8yy6tm+bGU0OqmDyvSk032yo7pcBAw0YBI=;22rHocN9V0IJUkNQFiQaFw=="
 ---

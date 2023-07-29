@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/ai-start-up-founders-reveal-artifi
 webUrl: "https://www.information-age.com/ai-start-up-founders-reveal-artificial-intelligence-trends-123505990/"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 2560
     height: 1378
     isCached: true
-
-related:
-  - title: "AWS reveals A/NZ start-ups for inaugural GenAI Accelerator"
-    excerpt: "Amazon Web Services (AWS) has unveiled 10 start-ups from Australia and New Zealand to take part in a new accelerator focused on generative artificial intelligence."
-    publishedDateTime: 2023-07-25T02:34:00Z
-    webUrl: "https://www.reseller.co.nz/article/708137/aws-reveals-nz-start-ups-inaugural-genai-accelerator/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_262794615.jpg"
-        width: 473
-        height: 315
-        isCached: true
 
 secured: "74F4gzzFnbGpxS5na++HBZt8xlDK8h6Kgw8UuqelV/5d4/kc1B7A+GtxO7IrnhfVmKIq+dkxlnCrjy1EGOMPOcZOmFNhHySEjluP3Ig8uR9tA7wP3u96LPn1Fi8n+oarM0ZJgr6YaX0g8MVN5UhNR8Ee6Hu7qw/3nYSh0nzsI5oj+puA41kokydJLPuVPxHlZr1eekFp4Lz/uWQhz1861oFC0Dv2nZC+Rc0nmgtI6kfrrnRYdOQ8qKUePvtKZCasf6CURAjS059GnmEt2U/QzZxFMKrvHs/J6qcsk5xO3Ds8l6yasfo3Nevgwd7CyzkHgpaxAgbgAhSQAW9VeJgLkeNBg8Mhb4eQOYx3i/nLChTKj3dBdJRigbfbhkXdhS8ayZNAQ7Lc8oApmbRmTY7XzH2AIl4muLmTrSTdD0eurCUZqVh7kdH9VNITiJJ0K0ya9LWCRBKGtqiJuydt/3kIu/g2ORN7i3soYFWVjW1+cFqamaLieKRI2rlxKkGmxzWp/WOqLOJyaLvwknpe0zdU9A==;ZcbCJScE24SLon6KgSVz0w=="
 ---

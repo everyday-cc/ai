@@ -3,12 +3,10 @@ category: news
 title: "AI as Cognitive Partner: A New Cognitive Age Dawns"
 excerpt: "The cognitive age is also forcing us to reevaluate the boundaries of creativity. The age-old dichotomy of human versus machine is being replaced by a cooperative partnership. In this new reality, AI is not usurping human creativity; it is amplifying it, pushing the horizons of what we previously thought possible."
 publishedDateTime: 2023-07-29T16:32:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
-webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
+webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-07/Thinker.png.jpg?itok=6v9bdXGq"
-    width: 320
-    height: 320
-    isCached: true
 
 related:
   - title: "A new partnership to promote responsible AI"
@@ -155,6 +147,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "EfFKV+UXugLN5k6HIftI9pMGXWXHZLj0gBR154wAKHW9ShgvuwbtOzaP4xTDWXOJyfr/tHAM6zTXfvbtMTfrKbtDFFb3qYfAMIeohkecfg4bJRyy8IjsGjY3TLaPNIkLi2rWaptGHYUD16NT81/qYRms9cK/yry5cUxhqxOaCG4ECnT7ILQD1uccaVXExjErZDfUCm8YoOQlpSZpNKCKZOxTmuOnwwkXzbwsUGVK6sI6f+iJ3pp0sSmHjqxhA1n0pz0sUKZbmOZIhX5fVS9uC8P7cFniC+uPSPU+H6ejghS6MkPqG9IwfW3Uve46sBxYm5q+ppaSvopfNSLZ+sCKb2G4KCLsUWNWHKx/BZ1Ukws=;mFe4/zjbK8lJwEHBJ0jV1A=="
+secured: "awyo2os9ALfFSoOkfLx3ojwCz5Znm2t1sIHpfQaidy8KLYHC4WHUANz/4ihM18aFFTosjvoci8JNbn21Vp1vFnIK6Q1Z3TdF4TC+hhEjCLYWsXKwcevEim3cj92HArVV/dgIfiTokxE/llyQLIgvHzsJMGpFRxsdAx2/vWrfjLiUjLk2YddOTe91XiSnETohTDY7bw267l5Z7l5je+dKJ0zPIg788qhwPgT1IQn5GZ23jCbaQFglJTyvK3D+zD+8+HWc/dtKrCFGPv5Jtm6lWxYjQo+c4OKk+JfpckuaD/btoMxdIaE+VaVyiy5XFNktQYXJxWJDSzoIh+7Lmn86eoQlf2TgWAKSBcKm9wsZt1PgigeEiRPgHtk7YvHJhjY2lkJ+LiFZuMZUZ0jk42TRD4AxCaX/TJSibSrEfZPOGtFGHeCnqQXqGCk23bMmONFffXIBmDMu2hBPxb08YLe+CWnTGEJO7GRVzPQKbUVZ8qYsWQRaaHhFjaZ7o3r1vkj9GArzjfbBrbAC9IIdnh2xfQ==;29XHGfXTLDQkmcVaoXPTSw=="
 ---
 

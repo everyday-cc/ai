@@ -66,6 +66,15 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 34
+  - title: "Bucknell research: Smaller AI models can be more accurate"
+    excerpt: "A team of Bucknell University business analytics researchers have found that less may be more in improving accuracy and reducing bias when it comes to artificial intelligence (AI)"
+    publishedDateTime: 2023-07-27T09:30:00Z
+    webUrl: "https://www.ncnewsonline.com/news/lifestyles/bucknell-research-smaller-ai-models-can-be-more-accurate/article_872325ed-58b3-558d-8a0c-96a5c9d20a34.html"
+    type: article
+    provider:
+      name: New Castle News
+      domain: ncnewsonline.com
+    quality: 19
 
 secured: "xizvT0mfb1FTbTWNNgTrAjhm1VFHpcvkoMVdxtIjUDtPBe88Xr/U3rxyW77iVR4xgeB4oZ/cygnCNIRh+FTJQnorACHa5BfYgrICSBCHcUFenYbhzNJyDKu5A2Z0SnrDdVsU0pooOZne5V/RkM0IWRI0vAPWgGuMHl+Ce1fqVzKh4K+4mEVfulyo/V30scs0ae89VQnD+dRR/OzTw5bWvN5MnWEalD05z/PM6K3ingMmAj6jq2X+yLmrLJj60pNrp9gMpRqq7xgS6SEwNtck6Ci7jdQ9cUvPULGOmYrHoU4vlGxThWhtGwEqLagU7344+7F3UlRJtn28yvc/DWLhNycqjrEKQTQfeZ4SzeCT47tJH2wulr1H45LM1o7oLvNhl9v+T6wEkOwS+4AaU/Q39sJjBF7f72q3ZaRgztW77eIJbmVTDi6x6TBo906Q4wjtjOfBOd9/ItU7kfq8+rKGYsmjHSTvwa9jQGaswj4wK1SjWfNW67nRbAV2i0k0YOZLoD5mDtL18ltWhHxyyqafVg==;nrEfIqxlL61E2VS3XSWKcQ=="
 ---

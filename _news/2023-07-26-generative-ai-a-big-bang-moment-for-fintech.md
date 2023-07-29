@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 43
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
     publishedDateTime: 2023-07-26T08:57:00Z
@@ -60,20 +74,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Generative AI: Proposed Shared Responsibility Model"
-    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
-    publishedDateTime: 2023-07-28T15:04:00Z
-    webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
-    type: article
-    provider:
-      name: Cloud Security Alliance
-      domain: cloudsecurityalliance.org
-    quality: 39
-    images:
-      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
-        width: 800
-        height: 600
         isCached: true
   - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
     excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
@@ -172,6 +172,15 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
+  - title: "PKKFF Tenet Fintech Group Inc."
+    excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://seekingalpha.com/symbol/PKKFF"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
     publishedDateTime: 2023-07-29T08:26:00Z
@@ -180,6 +189,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-29T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1337300&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "dajnLckh1AB5twfQhfmVNiYs9mDtOdQp+7O/5CQxVmiDYrxl+4ZI9d/7PqxCuocTCGik/JLNvX0sgn4h2Yv4dkUfpxxLR0YeQyCbLbSH7T4C0XMawOyyQQ8WQZYvVVRCGBXoAMS/YI+xaMza5epczFNpmQESmORfRVYmW49nSqK3bM9UTGjcLqT3ep+JgXyTiFGqpohHykl4orYG9eRad8t6rwPgH0atjMtSVl/H5/0rVWH11kBXXuGgFtRyM++Uy3qYN6dgqwLEWlyVqzL7wplJ4IbGvW5qmR4vo43+hWL9sB3ggooDc2Sq3h5GXxTfXPW26le+kzLVbcfPyoJo0THK39N87/zeSy0gQZBzWuzHYUF/iDVYSHxOhRaAf3GrzmequZ61Yb66MRUy4rxDRNfMKHf9obiitrLGgwuUmWVq4T1JOUXXW4oQIT+HXctk+XdOhvzSCnTK2L8o0KDhG3sW8V4VDBU8p0dErMY/Rt56AdXDQpYzLZMS8XyApFRN6/YlWURhrZZe3FgiyXqd+A==;LNTZlUEI7ZxKrS4rvTUBfg=="

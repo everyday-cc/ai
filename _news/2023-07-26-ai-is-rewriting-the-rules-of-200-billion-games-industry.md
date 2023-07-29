@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-ru
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is rewriting the rules of US$200 billion video games industry"
-    excerpt: "From San Francisco to Tokyo and Hong Kong, the companies that power the digital entertainment sphere are responding to decades of escalating costs and stagnant prices by adopting and developing new AI tools."
-    publishedDateTime: 2023-07-25T03:50:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry"
+  - title: "Authors are resisting AI, but they have an advantage: Readers form relationships with writers"
+    excerpt: "Some are suggesting AI will render the author disposable: publishers will be able to package and market any piece of AI-generated text. But the truth is the reverse. Author-centric promotional spaces, such as social media, writers' festivals, radio and television programs and other events, are integral to getting books into readers' hands."
+    publishedDateTime: 2023-07-26T16:41:00Z
+    webUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 62
+      name: techxplore
+      domain: techxplore.com
+    quality: 48
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/25/728a8e3b-ab0b-4a50-ad2c-b82c189f4353_04f6242c.jpg?itok=6jwOZYNo&v=1690256330"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/authors-are-resisting.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "VtCC4XvxzJyT1CWIcm/0e7MNz4mpgSLeyU4/XETviKNStqGox65JF+C6ZSEbUM0dBM29pm6bifw4VSgDpk3iZ1cm4DQsGNehNZRY3YU7JjG1t+oe0B6Npwm6DoQM9xIw6gHWeQ+zGptqaTghjRZ3BK/9Icu28pvG5usFbteVHfmmPfQpZJ249hkpuQ+pLC0UP7SbMrjJemyl7PZSYCUoOFfecgFUxUZYc+EQzUZzpmoyb82D6fQPWUa0Yb9gn2WaJO49PBdRX01CxOdl0IF+h5S4SUKzpbtWHExy8RZ/DZFz/3iBXjRPlN/jImOyfmMUiZJWjKrp/2lgrWp85brbW2UwAFvkk0wzbh2v3qLPoR0=;umQ0B3QFj/Vjvaof55dIpw=="

@@ -51,6 +51,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 43
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
     publishedDateTime: 2023-07-26T08:57:00Z
@@ -64,20 +78,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Generative AI: Proposed Shared Responsibility Model"
-    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
-    publishedDateTime: 2023-07-28T15:04:00Z
-    webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
-    type: article
-    provider:
-      name: Cloud Security Alliance
-      domain: cloudsecurityalliance.org
-    quality: 39
-    images:
-      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
-        width: 800
-        height: 600
         isCached: true
   - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
     excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
@@ -167,6 +167,15 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
+  - title: "PKKFF Tenet Fintech Group Inc."
+    excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://seekingalpha.com/symbol/PKKFF"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
     publishedDateTime: 2023-07-29T08:26:00Z
@@ -175,6 +184,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-29T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1337300&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "hZAJehD9V2UAmr7ojLdKHyfoYWfakPC58y3NcjX3x2xhIIgXQbcMlwlQsnF94rQeswTABXZT6gbvN+He2DCdBoBxoYQYIIl50RZ37ay7J1s4fZV/VuzBussKGvarSqeX/a15eUj7YSTzJ4Yfd26hoBw1NGM1xBrlrgYtVoGJULqHjAMoTX+BXi72X6xyBl26daBJ4INdK5mZ8iBWbmVShMK+1Wri6QShnX6IGvJ2o2rDUJDif+DEQM5TVtInoGO6FtkP4hwA9iQxRgObAlzL+Jcpp9MjCkTpg7Nlf7zRT4qUTYcCbado9zawGW8+tB0Qj+pfamDQLP77lB2Ou9vFHB9YCdbffmfKCWie/V21VDOWJOdfeUXMCexkWtv+tkgmMgozzdNyFzNJS87BxFjOVJdgxIoNkwsTIGZEVhYv5aZ6SqPwHQvWgIT7fWdO4cyGMj+VIjPGzodDeHq7Vg/+ol9FjrWs/vqzs3TebNCR1/4XpiLKaBvrmOl1BIcQ2oA6Afqr4Hf/Xm7B2D10omdiyg==;5HVObJiWLQZzB1aPPna5yw=="

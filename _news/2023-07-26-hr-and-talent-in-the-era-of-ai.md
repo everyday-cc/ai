@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 type: article
 quality: 99
-heat: 279
+heat: 259
 published: true
 
 provider:
@@ -146,34 +146,6 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/GettyImages-1449569562-scaled-e1690314487418.jpg"
         width: 2073
         height: 1081
-        isCached: true
-  - title: "Blue Bird Examines the Use of AI and Self-Driving Cars"
-    excerpt: "The application of AI in the transportation sector is a necessity, especially for self-driving or without a driver. However, Indonesia is considered not ready in terms of infrastructure, regulations and driving behavior."
-    publishedDateTime: 2023-07-25T01:55:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/07/24/en-blue-bird-kaji-pemanfaatan-ai-dan-mobil-swakemudi"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 39
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/IQHj-5ddjXuAPaUfWMeGkEy7VPU=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F24%2F9dbb8623-120f-4c43-a10f-b323fe508a0e_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Democracy, Defence and Conflict in the Age of AI"
-    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
-    publishedDateTime: 2023-07-25T03:07:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
-    type: article
-    provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
-        width: 3133
-        height: 1764
         isCached: true
   - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
     excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."

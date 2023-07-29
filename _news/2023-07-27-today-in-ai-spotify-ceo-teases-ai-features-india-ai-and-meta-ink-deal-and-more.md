@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Generative AI courses in hot demand as more Indians flock to upskilling platforms"
-    excerpt: "He took up a 12-month-course offered by an online upskilling company, and right when he was about to finish the course, Generative AI (GenAI) took the tech ecosystem by storm. Chalk it up to luck, Sharma now has all the right skills up his sleeves at a time when tech companies are keenly seeking them, to gain an edge in the AI race."
-    publishedDateTime: 2023-07-25T03:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/generative-ai-courses-in-hot-demand-as-more-indians-flock-to-upskilling-platforms-11015551.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/generative-ai-courses-in-hot-demand-as-more-indians-flock-to-upskilling-platforms-11015551.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/generative-ai-courses-in-hot-demand-as-more-indians-flock-to-upskilling-platforms-11015551.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Generative-AI-Upskilling.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI-generated anchors are making headlines in India"
     excerpt: "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor."
     publishedDateTime: 2023-07-25T18:27:00Z

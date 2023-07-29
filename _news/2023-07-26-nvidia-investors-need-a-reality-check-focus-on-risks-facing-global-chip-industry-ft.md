@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
-    excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
-    publishedDateTime: 2023-07-25T01:30:00Z
-    webUrl: "https://gizmodo.com.au/2023/07/elon-musk-still-thinks-self-driving-can-save-tesla/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/07/a2ae6341ce8ae9065edf978925dc54db.webp?quality=75"
-        width: 5557
-        height: 3111
-        isCached: true
 
 secured: "Gf0OIhfzB/J79kwiaGRuQ0HwfmxUcGAwerUXYnohsN+PIB9LniZqTN9Rsp1obSXh511DRiDDS9PxvXw096VCdKQnuXN2xu6N2c5aVvwbkZICTQEtJ4x/G1OHBW4rhXsLWH8OiIEmu7RK/DQ0OD+wCHIfUMVWJ8tJmGtYUVDpBWctNdT+8bn+V5aaQspuT/olpxgVmoys7ROBBy2iu3PxhyrjOrWUmuICxpvYphwpvu7ef1nE6FSJehCEArNrjkFDYe0PCjR09DqdnrYz10g2aZDZhhNdMZ5AWLWV0uFAHZouGLU+20cz9toaA5fUoZzHnqRP0+AUuEqW1mCNIkbNn+gzetqAB4U+faTZz9GkLsM=;AUIW9326kfB4Syku3GIUOg=="
 ---
