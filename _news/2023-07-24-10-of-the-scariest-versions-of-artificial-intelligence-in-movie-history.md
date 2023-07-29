@@ -68,6 +68,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading"
+    excerpt: "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes"
+    publishedDateTime: 2023-07-29T05:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg"
+        width: 800
+        height: 576
+        isCached: true
   - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
     excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
     publishedDateTime: 2023-07-28T09:00:00Z

@@ -40,15 +40,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 28
-  - title: "How AI pressure is making companies rethink cloud use"
-    excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
-    publishedDateTime: 2023-07-24T12:19:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
   - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
     excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
     publishedDateTime: 2023-07-24T15:23:00Z

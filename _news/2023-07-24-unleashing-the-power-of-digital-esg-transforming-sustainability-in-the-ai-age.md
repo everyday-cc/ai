@@ -46,15 +46,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 28
-  - title: "How AI pressure is making companies rethink cloud use"
-    excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
-    publishedDateTime: 2023-07-24T12:19:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "jRivKyMi+rcvYe96bEADVYHcn2v0uFNyecdX6XGO34wg3imt/RyD//hAhWb06baNLjfez7iNkk3wv0jSxWaXdR5bGvo210N0iSEWOUnYrIQyUtAtvYfM8GhIQ1o8J6aan13Zx19FlqFJ1fiPRnWFwNVNITOgDm5MS0ELeg+WK5TaAAPrN+3jn4NCZzr1vcfdgalinlGHuz6WWUZqaGBTgVJ+3Yazx9mbe2K6UG6xw248Hg4TwV+ccN8hFqeONkFFbl9tIl+pujrZOuTTLMMeYxBEgPnqqmHmsFQb3hMWwJvDz5ySudX68pdKdjZ/xAUU9Ojr4hU2EPy+9XH+cl2GnxjBF6nP9ofPS/2S8TnVBp0=;Be4CzQzpD2odMR3MZ72GEA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Announcing the second group of judges for Startup Battlefield at TechCrunch Disrupt 2023"
-    excerpt: "Additionally, he contributes to GC’s expanding AI efforts. Bhargava’s four core areas of interest include security and data infrastructure; startup tooling platforms that make building software — especially financial services — companies easier ..."
-    publishedDateTime: 2023-07-24T13:01:00Z
-    webUrl: "https://techcrunch.com/2023/07/24/announcing-the-second-group-of-judges-for-startup-battlefield-at-techcrunch-disrupt-2023/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 23
 
 secured: "kh9fhiwa1D5HG1U4/xi9sjY5FqTx/fj9tzV1u7DqNymDB+kiw8BSB77gJ/pwbKGC/L1ExOvazbABK4kQdY778tE2Vxr8wBoFtaUA5a0HYAMpx/uDlKSGbYc98GTTTeQXnCujpWWMpGd3GmbuL7tPrzb0tdh2kXiu93IjihC0WVlDmMNXRLHIdZI8L9t3ewwilvhw9vZQb7dICsVCkeoodSfDWQW4Gsp0ueBWGe44jS2c6H3F7u/Yax4iE0sPnMxMTu3JA/iXGmIfIqTkty8FW4q+TzOySEWIdEaerCD8CliDDTE3xb4ndxDppwG/P72DmGjW9QlgeYeP2uI3y0xQoE77r27UXg3JQ+4cjdqv3JFFWnf5pamR+UrweKkKKvYAl9kAmZrcFgk9q11m7l8fIDTmaK02y7um0XT9wYJFzZxSJeUmtI2hbH7kPkLKOkzChuvGvu7qK4q4MDy5koO3X4tiUmUBSoDVlEYdRQU5zz8ybvIbmQMVOJXpyikg4d4nntbt3YkeL7LluGMYIr1ViA==;wOBwHfLiNAYOIMZbes2nOw=="
 ---

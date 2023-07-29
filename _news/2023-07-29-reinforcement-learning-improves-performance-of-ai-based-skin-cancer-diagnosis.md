@@ -56,19 +56,14 @@ related:
         height: 450
         isCached: true
   - title: "Skin cancer diagnosis: reinforcement learning for improved performance of artificial intelligence explored"
-    excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors"
-    publishedDateTime: 2023-07-28T07:10:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235953"
+    excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice. An international research team led by Harald Kittler of MedUni Vienna has now explored a learning method in which greater accuracy in AI results can be achieved by incorporating human decision-making criteria."
+    publishedDateTime: 2023-07-27T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/997042"
     type: article
     provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 21
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/4a793502-6fa8-4dd7-8e9b-b606c8d03d65-978-3-8471-1532-8.jpg"
-        width: 401
-        height: 600
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 1
   - title: "Imagene's Ai-Based Molecular Profiling Revolutionizes Lung Cancer Diagnostics: Two Patients Receive Immediate Targeted Therapy, Avert Brain Radiation"
     excerpt: "A groundbreaking case report publication on the impact of rapid molecular testing on lung cancer patients   TEL"
     publishedDateTime: 2023-07-26T13:11:00Z

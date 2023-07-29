@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/shopify-adds-new-ai-tools-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/shopify-adds-new-ai-tools-for-commerce-heres-how-you-can-use-them/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/Wayfair-1.jpg?w=1280"
         width: 730
         height: 800
+        isCached: true
+  - title: "How to Put AI to Work for Your Small Business"
+    excerpt: "“You still have to know what you want it to do.” For AI-powered chatbots, she stresses the importance of learning prompts that are specific to your industry. If you’re not sure where to start, try searching online for prompt guides, suggests Joe ..."
+    publishedDateTime: 2023-07-24T21:07:00Z
+    webUrl: "https://www.nerdwallet.com/article/small-business/ai-for-small-business"
+    type: article
+    provider:
+      name: NerdWallet
+      domain: nerdwallet.com
+    quality: 37
+    images:
+      - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/07/GettyImages-1138451175-1440x864.jpg"
+        width: 1440
+        height: 864
         isCached: true
 
 secured: "Dqhl+sYDimXQQo8WoEj4O8y9J68ymSgeFRYuQBdWg+EdaY5dpzGPSnHKCgeLUJGAQ3tfDg37lXBXuY/RYMZSXxhA8Pzasqxrytgi/nir1d1BwkK/MWn7r7Cvglfp3Sg430ru57hvSAoBFChcZXhwcQcaS7zSXO+hkAXtPh1SzMwXH1bwlyhofCSr8tQQIvhEMTQyad68Ka4E3aWHk0/HylaxIRhii5PRsi1NLjQUsJ9+W7fQ5TviP2eKOdxcaExMsnbApg2BToxMilEtot3A+yo1tymHef6ihPdtHK8DoyxhyAqT03eXVD1O3goUa8hW4c1G7BezJPIseGRPDdfya9uDSRky6SJj9BofbYDPh9w=;Er/LB4DbiTB9LTkAKFG28w=="

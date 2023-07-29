@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/japans-advantest-sees-ai-drivin
 webUrl: "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "The Turing Test and Its Importance for AI Research"
+    excerpt: "Many people have argued that the Turing Test does not provide an appropriate goal for research into AI. For example, the questions in the test are limited and often based on very specific fields of knowledge."
+    publishedDateTime: 2023-07-26T00:08:00Z
+    webUrl: "https://www.wewantscience.com/the-turing-test-and-its-importance-for-ai-research/"
+    type: article
+    provider:
+      name: wewantscience
+      domain: wewantscience.com
+    quality: 19
 
 secured: "u1W3H7WsmLE7kCg0jWrxd1qCLZNcOcpMXaVn7YBlUrygneo/JEdBZwnHxjcOqPBJgRrLcinrsQ07+82PFPTx+zc/Pj0bY0YpgEfOTS3STWEG5cKytR17rXgZji+HKgOs+OViDdNyRPflAMGNXeuAN90rHnhcj1vXUv8GNRDI1xzq5IcY7bJ3vC3ZkrTXRaDGt+o3FJUzExj4+GXHEkBKxpeBoKetP9rqSHbxBQF+I7bS63h4PYefNKH5bQH2JQuWVVvF1+/u5NUH/HEZ7meOcP0oUBTBhy+wUESugmXA4txXjFd96ksAOcDueG3hvcHLAVg9v2utYvZyohvTGpBT4K2nQIcxGbDU39BQOGU1rSr8AR4z0n5im7TegkazF+JKfDLt4Ze0DCDWF/nZ0yvdt6BEMyp5HegNHw+OqoFwZLJjGk9AhHw11F1JKyFVPIKE9MBuaGsX4mKZD5hfSRVTd+9DVXFj52XE3DifAdO06S/2k5JDr5cbGt7/6rIhe9i9jUVVSsPRrIiAc53UjOhvfg==;t+ESdKqgI94MG6o+R/ZUNA=="
 ---

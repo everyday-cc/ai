@@ -25,60 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Top News Publishers Are Reportedly Planning To Sue AI Firms"
-    excerpt: "The New York Times, News Corp, Axel Springer, Dotdash Meredith owner IAC are reportedly banding together to sue AI giants for using the publishers’ content to train their AI models."
-    publishedDateTime: 2023-07-24T11:13:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
+  - title: "State of IT report: Generative AI will soon go mainstream, say 9 out of 10 IT leaders"
+    excerpt: "Generative AI has only recently become mainstream. The report shows 86% of IT leaders believe generative AI will have a prominent role it their organization in the near future. Yet 64% of IT leaders are concerned about the ethics of generative AI, and 62% are concerned about its impacts on their careers."
+    publishedDateTime: 2023-07-24T18:24:00Z
+    webUrl: "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be5c6b2b786bbad2de7b89/0x0.jpg?format=jpg&crop=3543,1993,x0,y275,safe&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/67c0491949d4da919f64dea355dd58d24e2cc5fc/2023/07/24/c1b1e887-4a8e-4180-96e7-045494b7bc9c/aigettyimages-1455352999.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tension rises among publishers that fear AI might replace media"
-    excerpt: "The IAC as well as other reputable media publishing bodies fear that AI might replace the media, hence the need to fight back."
-    publishedDateTime: 2023-07-25T22:03:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
-        width: 1345
-        height: 900
-        isCached: true
-  - title: "As Publishers Seek AI Payments, AP Gets a First-Mover Safeguard"
-    excerpt: "The Associated Press’s pact with OpenAI gives it the right to reset terms if another publisher gets a better deal."
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/as-publishers-seek-ai-payments-ap-gets-a-first-mover-safeguard-f5a6f186"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "What top tech leaders are saying about artificial intelligence"
-    excerpt: "With artificial intelligence (AI) rising up corporate and societal agendas, we gauge the views of the key tech leaders in the space"
-    publishedDateTime: 2023-07-26T15:43:00Z
-    webUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-about-artificial-intelligence-123505879/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/07/what-top-tech-leaders-say-about-artificial-intelligence-1-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
 
 secured: "o5qrindlqITfm5Z9KVEyaf83sneGqazlo47J01pi3Odxn+bSyDiOKPYs+QwRCW+bq5mliMNwyfBqgiD/SB0UkTosUT8fN2XQmOoRgZXz//Lardg/PyxT08mqUpYuJcHC69rf6xvVTxQjFGR+V6OwYRHteIdzm2LO4bCDOgMSQPtYGb2GH7vUmxR9w5FnmjrHeOyJdSPx8DDtefzkrUN0KooItPMRM8aPsuz+jsJLBIlTYTeeJ687kEaHF3Cpb6OhXFH5nqmHLPntqECuMD+lGLds1wDbTCCURUDKJjwy7ZMi5hPhjwW06okA/8GLD9XZc3iUZkBykaHXXdn1TYU8uzsMougmbBWBdyrpxU600Yo=;uh+vr3X5ENcBrx5RFvewKQ=="

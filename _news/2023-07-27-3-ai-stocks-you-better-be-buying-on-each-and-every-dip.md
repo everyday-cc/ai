@@ -59,15 +59,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 63
-  - title: "Expert Ratings for C3.ai"
-    excerpt: "Below is a summary of how these 11 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts are on the stock"
-    publishedDateTime: 2023-07-24T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1032469877"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "TGGiA5tYUHMKBs2ToiBYXrSsaHNcWRGjvqEpBnEHRhmUB13eU/zx0LJcSDIuh1KJwl0UWiFDNcJU1RN72zr3oqzIeSPVpBRVVmx7l/NdQ4NxZUsMMSHsFFlvujmKctw816kD5Xa8ZLDMk520qIUt5kBqZ22vXchUMFUeVSzRM8ujikBcoc7NPhVHwK/g8NROLV6jSItdiAQ3SaXcKb19bURRNc+GG2JL98+b5uqinOb+T3Uu4O4h9W+PqNgFLF4anqhKmRQBYXqIzslGZCjLqmlhYNTQZ94lt4qE6yNF39xhbavxZkVb/9WQSgT3c33mWfEQd0aG1ZjugozFiH6RnYaGBgZsSbJow7Oeygd3h1QmelhvCkTOtSoZDHEtt6kLKd8j9V9IhToKNRvJJD8CnRV7FNbME6bsXEQlUDjDwApJJE8ilM6tcopLW9Izr9F0vqkyznFRsaO1bsisUSnl/ihMGYQyC6D53DTfnHm5uIlb5j9UaZ3CS1Wxjl6G0d8c6XHxvDlItmNWIcCzd6RJGw==;J5pdZNpb+AFz6T/SR7c0mw=="
 ---

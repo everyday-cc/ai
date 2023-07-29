@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-
 webUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-invest-inc-welcomes-jas-mathur-as-new-chief-marketing-officer/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: GeekWire
@@ -28,17 +28,6 @@ images:
     width: 630
     height: 595
     isCached: true
-
-related:
-  - title: "Women in fintech: innovating chargebacks with Monica Eaton"
-    excerpt: "In response to the lack of female representation in fintech, Eaton established the LIFT: Elevating Women Through Mentorship programme, a free mentorship programme that seeks to bridge the gap between established women in the fintech industry, and those who are still trying to find their way."
-    publishedDateTime: 2023-07-24T12:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-innovating-chargebacks-with-monica-eaton"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "l7OVW9yHowkHjKRtZeTH2gF0fqz4lufMqiR6OiY9q9DACLcbaD4S+q73bOhlzGnJemAdNbcGGWy2Z6jnYW8aMM8At2NDb6Bfv33VPdsfEwR2IVbTvg8bH2rkW6vfyOaZ+s+oHGyWwgCri42bCAmjQ8i90/fuP2i+/+5kT/4gaRKA2xbFRQcjvShJADLUtTXnmcrUBMKEYNo61eR1e/WuixQ1IqXydjaToc+eZuM3SBxT46J1jIkhr0hQ9kFaF0Pmj3ydtJBgdWIloGqQsD4ehnEvMTSVw/h/1CYxbsV0rctR/UjpA9XF4+4zXGL0ldIanmGthXYS65LbOcOdm3ekunuJJCFaKuNt1Hxakjxo7BukFkQRADyI/6wnkhjCJ2tlcmN2E+g5hX3MCo+A9rqduzzT2YEQKto5i1a3c0JwwnApbExB7/xvw35NQHF9f1Cv38hR/83VhiPu4G8VyHKIVyo7godkKD8LJ8h6sXGOheb2+/2m0FKBWh0p2U5X8RoBj0Atlga5jM79220YpRPu+A==;j6QLO7piJNOuavasFwXFBg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.kpax.com/news/montana-news/butte-library-using-artific
 webUrl: "https://www.kpax.com/news/montana-news/butte-library-using-artificial-intelligence-to-educate-create"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon launches program for startups using AI, climate computing"
-    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
+  - title: "How one artist is using AI to create his ‘ideal world’"
+    excerpt: "Venezuelan artist Jose Hernandez uses AI-generated images to show things that don’t exist in this world — but he thinks should."
+    publishedDateTime: 2023-07-28T18:34:00Z
+    webUrl: "https://www.cnn.com/interactive/2023/07/style/ai-artist-ideal-world-cnnphotos/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
+      name: CNN
+      domain: cnn.com
+    quality: 67
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230728134857-ai-artist-ideal-world-cnnphotos-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "q5EN0cnvlnaLBUGq+RKBuXsng93mcDuRNK0D35KGQ9z1IcFlPn1CfNhBGUSMC0OaJn9D3g/cjchIoajymbf8CmdYbD8FbhuOh6OsdtbCmc2ZhVEVODV02/h8tDucIQGM6zmXjp8cVwwV8JYW8Y3ZpB2mMgEIXjfYmNn4HFPTa4REQ2xwVE77m3nt1CyqXUcpISP/E85HbPfcrupPWKrFd6QkaCWJbjmSoU3AHZHaLnWy+b3UBgr3ae4jzkwWcuKLd4ie8SGCSc7cIjo3QXjk+jVjwBdIH15jFhLrPEhk/iPyPX7zOZ05Hj4WUSe2YaZDghlRrjmkQDzOBUqMCfpFSNPvlksxapQWHj2zsrtrkDI=;vN0nLP2w0lEov5tAAI6arQ=="
 ---

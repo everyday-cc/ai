@@ -53,6 +53,20 @@ related:
       name: Hawaii Tribune-Herald
       domain: hawaiitribune-herald.com
     quality: 39
+  - title: "Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-29T05:29:00Z
+    webUrl: "https://www.meadvilletribune.com/opinion/artificial-intelligence-loves-america/article_406a1124-2d53-11ee-86a7-3b63d22f9063.html"
+    type: article
+    provider:
+      name: The Meadville Tribune
+      domain: meadvilletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
     excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
     publishedDateTime: 2023-07-26T15:51:00Z

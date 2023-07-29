@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Skin cancer diagnosis: reinforcement learning for improved performance of artificial intelligence explored"
-excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors"
-publishedDateTime: 2023-07-28T07:10:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235953"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235953"
+excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice. An international research team led by Harald Kittler of MedUni Vienna has now explored a learning method in which greater accuracy in AI results can be achieved by incorporating human decision-making criteria."
+publishedDateTime: 2023-07-27T23:59:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/997042"
+webUrl: "https://www.eurekalert.org/news-releases/997042"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/4a793502-6fa8-4dd7-8e9b-b606c8d03d65-978-3-8471-1532-8.jpg"
-    width: 401
-    height: 600
-    isCached: true
 
 related:
   - title: "Skin cancer diagnosis: Exploring reinforcement learning for improved performance of AI"
@@ -79,6 +73,6 @@ related:
       domain: menafn.com
     quality: 0
 
-secured: "p6nVNPHTSavWove1cfyu+l1fEFSVZU2hBvKaqlto87Kc+4Yx9cdWvrg6Sr2aiHrtK6UpcRBVwNjt6ljnwhPNhjZm9K8i11o4cV8t6dtQAkP2USiXAZ29smgLF0FLuQ5lZwS8RZ0w2fdqqBSR6IwxfjwH1M5c4Op6gZPArJs+TtqaxAZYjLY2zEJl1NuRHShO//Grwai9AZLtEHEkkfPuHJXVVzhX56fn2SjsfXrUYZumVb/gWD3CYMXfvUIJ5O+NhiQqKYYDfjPoI3jg1X+i0524PmrmYeSyYkVsWyCmSKYWZp5zkMdCRE7TpLmpFGcvzMEva823GqS2a1mYkJX33qwrn/DIsiHyUDr/VSwu0Tc=;wY7Eusn00FOGUAWD3btH6Q=="
+secured: "lpkPtD4Jl+T9lK2XL4tex2S2iWGKLzsbzXdgbC/Hx6zEku8tsxmDhAImeCAVMu1JPGXDn/ro8pjAWyT7C84Aez1QsXSvuTHB8sU/ifk3q+5WV3fyp6t0BXpiZUxNl10SkrTGYJ/pgCsVnQhkcCTuAumIqRRa6Qwh7QBXvqr+2lou2sURYX5/7mbri5CD3+OC/nCdoso/3q6g7AVRvM5y1+Kh0MkZq2O7HKpVsxyDHzNkNCU3CHude3p/en8EteXoAl5/vHz9giHAJfwobasxMpo+Yg8jedOqVgve3gPXSpLenP3fJEDEZrr/4zbWZh0GtdKntAfF3aG45Z8y77QWu7s9mO9HTnxMXpJR5wI/bEw=;jnVomlKDeWg4g+U12RjUbQ=="
 ---
 

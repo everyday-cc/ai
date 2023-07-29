@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-indus
 webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
 type: article
 quality: 127
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/07/27/IBM_logo/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Transforming Tradition: Addressing AI Implementation Struggles in Manufacturing Industries"
+    excerpt: "By focusing on culture changes and selecting the right AI vendor, traditional manufacturers can successfully implement AI and stay competitive in the market."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2023/addressing-ai-implementation-manufacturing"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 29
+    images:
+      - url: "https://www.automation.com/getmedia/e0f73077-2c43-4316-a4a5-4dadca2650de/AI-feature-July-27-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "2C62tLVP5ldwoQQOrSbV/lG7euZuepNwvvFGNG2V/G01tuoPB7xEC9EyF19KijoyeTqzCl8l/UHNxJrM735GWIaLcXveW0g/0G5zJnp9OP62QspbgxheClvaDJTrKrvZbjNbNJAFbe4hTs6EEo0fNojQdBS61IOAI9zwR99/uoNCqqPrCF6ZrxMsYU1KFbtKAlVtTQnHQXhKDhFRnYLLImLn3dAbfXQyR4JAHTw37Wxnkji4w6dpCbRyJWcPoEsNW9Vh0uGO2zurIbh19tibvztUstiCD++7MGhCrQFLsWpEIb1UcwwEDReSREVEDmCUeCdXsfY7OXjrms4E9ZvT3KB8MRw4reM2KJHr9rnPKO8=;98dL1mGE9mo6zvYx8AOTUA=="

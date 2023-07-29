@@ -59,6 +59,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading"
+    excerpt: "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes"
+    publishedDateTime: 2023-07-29T05:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg"
+        width: 800
+        height: 576
+        isCached: true
   - title: "10 of the scariest versions of artificial intelligence in movie history"
     excerpt: "Tom Cruise (as Ethan Hunt) has battled all sorts of villains across 27 years and seven movies, but his most recent nemesis, a piece of rogue artificial intelligence known simply as the Entity, has come the closest to bringing him to his knees."
     publishedDateTime: 2023-07-24T14:20:00Z

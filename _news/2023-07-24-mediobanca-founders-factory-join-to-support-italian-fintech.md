@@ -24,17 +24,6 @@ images:
     height: 629
     isCached: true
 
-related:
-  - title: "Italy’s Mediobanca, London’s Founders Factory to Invest in Fintech Startups"
-    excerpt: "Mediobanca Group, Italy’s largest investment bank, has signed a partnership with Founders Factory, the London-based global company builder."
-    publishedDateTime: 2023-07-24T12:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210536-italys-mediobanca-londons-founders-factory-to-invest-in-fintech-startups/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 2
-
 secured: "eeggocGcxVfldKtmGyf1urUe7Yrt7tcSw+dH1+w2VNwxwQE+1obmaGpwZ3hEefkuyIX9hwYcRGBGBQi0XMY9y3PMzzKqM+DustjrdRfb/3Ku+AgJwUHb/jPxslf/2QphyU/N8uCstF/VgeoW722Kq4QH6Jc/NQ8PJ42UBgrfNvM8Jk9y5Vs1XNRSiRWLbRKkXGIQAqi5RjEyE6COFgSBVi9wgK1Sy7OIwTOhjPUCzLslAckV6wQtlm0SiuM1bcQDKX+vd2tBd8lBrohKkZfwFezFJT96EHx5EJqJwPKHcQATfytKX2m3+3WqkC2z7IdVkFhoC2MuuwLDA0NglUPu2dFZ7UotM7o6IJv6kANvNx7M6RMyXkdGiIUGZvEZFDqqmX0vQXLgqbHQsKWifD5DaYEXuH9UaLOm0yIxiG+LU0QB0Ci9Ow6Bg+3nVogyaCgBiiwfDZOIL50tsiOXQpp37RwxEekBOot2e0PQJdZejDasDZOf8oRDik170olL16xIIjGLs04QisBkJRi4dAMQRg==;ZXHAovc7PUxq8jN/WcLDGg=="
 ---
 

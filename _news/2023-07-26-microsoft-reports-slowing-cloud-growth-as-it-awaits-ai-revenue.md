@@ -207,22 +207,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Partners With Indian Company To Build AI Centers"
-    excerpt: "This story was first published on the Benzinga India portal."
-    publishedDateTime: 2023-07-24T12:59:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33341965/microsoft-partners-with-indian-company-to-build-ai-centers"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33341965"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33341965"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/24/shutterstock_370707185.jpg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "It’s Microsoft Earnings Day. All Eyes Are on AI and Cloud."
     excerpt: "Microsoft MSFT +0.39% will report June quarter earnings after the close of trading on Tuesday, with investors zeroed in on the outlook for the company’s Azure cloud computing arm and its rapidly expanding work on artificial intelligence. Already a subscriber? Sign In"
     publishedDateTime: 2023-07-25T05:59:00Z
@@ -669,15 +653,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Microsoft to get 'golden 1-2 punch' from cloud, AI, Wedbush says"
-    excerpt: "Microsoft (MSFT) is slated to report fiscal fourth-quarter results on Tuesday and Wedbush Securities believes the tech giant will get a boost from the cloud and AI. Read for more."
-    publishedDateTime: 2023-07-24T12:14:00Z
-    webUrl: "https://seekingalpha.com/news/3989997-microsoft-golden-1-2-punch-from-cloud-ai-wedbush"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Google, Microsoft form group to create best practices for emerging AI models"
     excerpt: "Another industry group has emerged promising to promote best practices for artificial intelligence applications at a time when governments around the world are looking at regulating AI. Google, Microsoft,"
     publishedDateTime: 2023-07-26T19:00:00Z
@@ -696,20 +671,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 31
-  - title: "Birlasoft Collaborates with Microsoft to Establish Generative AI Centre of Excellence, Driving Value Creation and Innovation"
-    excerpt: "BSOFT], part of the USD 2.9 billion diversified C.K. Birla Group has established a Generative AI Centre of Excellence, in collaboration with Microsoft."
-    publishedDateTime: 2023-07-24T11:21:00Z
-    webUrl: "https://www.thehansindia.com/business/birlasoft-collaborates-with-microsoft-to-establish-generative-ai-centre-of-excellence-driving-value-creation-and-innovation-811052"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 27
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/07/24/1367059-birlasoft.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
     publishedDateTime: 2023-07-25T22:42:00Z

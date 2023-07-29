@@ -146,6 +146,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Hollywood writers fear losing work to AI"
+    excerpt: "Hollywood screenwriter Michelle Amor says she is fearful about the impact of artificial intelligence (AI) on her livelihood. \"I don't want to be replaced with something artificial\". Ms Amor and fellow US television and film writers have now been on strike since the start of May."
+    publishedDateTime: 2023-07-28T10:24:00Z
+    webUrl: "https://www.aol.com/hollywood-writers-fear-losing-ai-060158690.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
+        width: 976
+        height: 549
+        isCached: true
   - title: "AI news recap: While Hollywood strikes, is ChatGPT getting worse?"
     excerpt: "There is anger over a Netflix AI job paying up to $900,000, coming as actors are still striking over the use of AI in film and TV.  In other AI news, problems with training data can cause glitches or"
     publishedDateTime: 2023-07-28T09:05:00Z

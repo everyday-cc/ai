@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Azure Synapse Analytics vs Snowflake: ETL Tool Comparison"
+    excerpt: "Azure Synapse Analytics and Snowflake are ... and serve data for immediate BI and machine learning needs.” The service is one of the most popular tools available for information warehousing ..."
+    publishedDateTime: 2023-07-27T17:40:00Z
+    webUrl: "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/04/istock-1153656985.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Using Predictive Analytics And Machine Learning For Engaging Content"
     excerpt: "Your businesses could be leveraging predictive analytics and machine learning to help provide a more personalized user experience. By gathering data on how users interact with your site—such as which pages they visit,"
     publishedDateTime: 2023-07-26T12:31:00Z

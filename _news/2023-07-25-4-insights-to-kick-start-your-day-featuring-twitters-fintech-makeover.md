@@ -73,20 +73,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Financial technology, or fintech, is changing our finances"
-    excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
-    publishedDateTime: 2023-07-24T11:03:00Z
-    webUrl: "https://www.castanet.net/news/It-s-Your-Money/438101/Financial-technology-or-fintech-is-changing-our-finances"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 39
-    images:
-      - url: "https://www.castanet.net/content/2023/7/millard_072423_p3706387.jpg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
     publishedDateTime: 2023-07-26T08:57:00Z
@@ -212,15 +198,6 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
-  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
-    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
-    publishedDateTime: 2023-07-24T12:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "P5u3We6Viq1c7g+J2gzs77j6QhxdyvIQLJ5bMpQ9CweUISwA+6jhysgIqWKb1G1Qk+E12CQg5jcqdyT+Ipm9uu7luq6EdItZHrG01XzdQVQog5zLIivcL+LetHxai3S1s4AVGhNspEjA8cbvPwycxJYJJzlyAnQktMq+8NawVjT83PSrh7rbErLPksZ0m53rAnmRUebDchBjoWqZ76y4UhKg7xE08C9md9xlELaXrPsj3ueiMxoWeNWzL28Uy+dioLqND/0Ry11UAhqIJmrQ1RD2AgCl7BAJRhACaz0Q7HUnzSeiusESnfa2wBYnnT3sbzos2o/Bq8vpDYmpT2glI/DqOYOWDOEbQ1a1Ahfe/L9i8t8k1vphXlDpeDijfsI3IReLyKGdO/0/TzAMDH/WbcORBOkRA6XcE8+Khc+Dt7VqEmE4j/Q0Qh1eQtPbJVhgVZaOU1iYyNH17uMpF2s5Tv15fwzXScByowVRs/E5YXXfz6FP8Q7FYUrx3IdYFkHkfMMtOFcLDjOOPdi2SNuVYQ==;I7YXSEpniEg/8vjTacJg5Q=="
 ---

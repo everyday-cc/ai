@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "From data chaos to data products: How enterprises can unlock the power of generative AI"
+    excerpt: "Bruno Aziza, an Alphabet executive who led a roundtable discussion at VB Transform last week focused on providing a playbook for how enterprises can prepare their data and analytics infrastructure to leverage large language models (LLMs)."
+    publishedDateTime: 2023-07-26T13:14:00Z
+    webUrl: "https://venturebeat.com/ai/from-data-chaos-to-data-products-how-enterprises-can-unlock-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
   - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
     excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
     publishedDateTime: 2023-07-26T07:45:00Z

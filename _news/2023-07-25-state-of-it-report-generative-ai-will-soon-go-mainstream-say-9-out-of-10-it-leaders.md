@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/state-of-it-report-generati
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Why AI Will Never Replace Reporters at the NYT"
+    excerpt: "Cary Grant, Ralph Bellamy, and Rosalind Russel in His Girl Friday, Hoard Hawks, director, Columbia Pictures, 1940. Screenshot. Time: Spring 2024"
+    publishedDateTime: 2023-07-28T05:31:00Z
+    webUrl: "https://www.counterpunch.org/2023/07/28/why-ai-will-never-replace-reporters-at-the-nyt/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
+        width: 1429
+        height: 1053
+        isCached: true
 
 secured: "HNtt6ICzpHaZVcA+SG8OThrB+FvGZsdpQQAlqy8/of1Zt7GKUK7o9KYXF5dcP1KWDkx6x9QA5FhOTPlBnGw+ivDbUTNPJRKmo8DsehBiyEl6aucGPJT0U+XXRq99INMLWbz26sYkYqKyl2kEwiAZtCR1FA4KaCKOabClDiX3PBZLaUhD8yJKMelHa2ZnuaXz9ueNSUkieGDUdBHu/VPZZRBw/zil6Zk9PEn+JKe3m52rJKDUhqfXy17//IHwS3rtkrZ7kLoGJ9FQFoyWV9Dq70r3VxsQVtGRaH59EuMjYgBNHVZnMnvB7ED6SIEPnnSpcbUW3dKA43tU/QjUv9JaG22Ex6hWtNYsv/BhyWN+w4sEKSQW+0pfbdm7xYhUmdpZPDyIG6l/JuVo5ENHu9k4+lS29e/j4BZyUOLrmsBfoQ++171zAhstsHC/06RzEZg6J+pBJtn9/O9NMmqFh6KjDumnSDBjn/yVlzFPk1uV+cQ2FtcJ3IxjjyPo17u4bu02RzvKksURVZitTamqm0aYfw==;3/zG7CjVbkHesZ+QHLlfKw=="
 ---

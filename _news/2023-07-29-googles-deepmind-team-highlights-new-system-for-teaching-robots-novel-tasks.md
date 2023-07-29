@@ -47,6 +47,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind enables robots to perform novel tasks"
+    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation"
+    publishedDateTime: 2023-07-29T05:16:00Z
+    webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
+    ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
+        width: 2000
+        height: 1225
+        isCached: true
+  - title: "Google DeepMind empower robots to accomplish new and unique task"
+    excerpt: "“RT-2 is not only a simple and effective modification over existing VLM models, but also shows the promise of building a general-purpose physical robot that can reason, problem solve, and interpret information for performing a diverse range of tasks in the real-world,” said Google DeepMind."
+    publishedDateTime: 2023-07-29T05:36:00Z
+    webUrl: "https://telanganatoday.com/google-deepmind-empower-robots-to-accomplish-new-and-unique-task"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 39
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/03/Google.jpg"
+        width: 1280
+        height: 750
+        isCached: true
 
 secured: "Gs369JyYgIO0MjXjgsRz1Bz6Vox0wiwu3OE2VRMSDrKeyzm0Xw9SZoLT1g/8UNi0XJSJJGcPEMF9MEg79mAN+zf1k0Se1DNWoxQVAPT+nnBJNZA8rcnVwtN/EfxoDPAIprvMrNyEtuHlM9SF4W99JYdZOhoRzg4tWLE8+z99E83FXn2Ae0vnA7GlAw5He3LJlWo68QPxxwl3oPfnEy9pAF+rt5ZoY6MiJx+t2fgX7jc8bT7mD5hHuwbfgVFdAYQWyQJyBtTIOq5DViuZjAtwr+uO/blS2sEnI9LTvyAQe3+h5ntT1MXLZ/80qRNRrvorxY4TO8NNB4CgHrVnRyZ4chdw07NvgLmnzlgVqYUuh7Q2fNsSkmGcegiEZsooE8QjEUYOD/PZN9NkEoMDdZqZadSVc6EFKclh69M5DXeymy1QEXe9B1Vr4uzkW0OX/jcoSmOXETZJOSUMst+33bc5odzlvP6VZZmng2i42skhO8bG7SnhewwNT7vUpRVWSHVDHHUqRn68ML+Rx7SUoIdD+A==;u3tZvPl7B4wv+BwNJK0tlw=="
 ---

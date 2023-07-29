@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI is amazing and frightening at the same time"
+    excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
+    publishedDateTime: 2023-07-24T17:28:00Z
+    webUrl: "https://www.greensburgdailynews.com/opinion/columns/ai-is-amazing-and-frightening-at-the-same-time/article_82ff7704-2a47-11ee-b2b1-1f290672e0e1.html"
+    type: article
+    provider:
+      name: Greensburg Daily News
+      domain: greensburgdailynews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/greensburgdailynews.com/content/tncms/custom/image/0441c36e-bdf2-11e5-a5df-bb2003ff1eb0.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "dbC70Ai92CdGI+SsOg7wDE+Z1fEsx0OcLn/yn0WK40hx4yZrc2mvyMTbUATjDRqJrZTB8eTQ9069fVlBd7ayCBbpgqtrxWGGci/vNvQSOM9C43JFIMoertQZIXiOvPuBiXnXEqXh2qapurqaKGgf5y6qfMNij6eOfGGhb8kqJ09XbQB0jfQhrrh4FTdCC9+fqPZra3DbqjQLeZdU0LXnoBNeOROSjXzIN5s+rs+jjG6SDWs+Ao9n41IbaXN+ziUQbMJLhTUpKX+DGyXSUsFoen/DasZ168s2h4LOhBgVvCNwwXarQqjvutioHJroMxIvhs/c42/fxNRaoQut+bOvu5QASuoINnymxyZdXDyTg1DouZ8cJLEW7N7xrMOkGoCmGK9SG4UW7WS3UFgrIa/E+RDdGEk6s7z8nsXS7CymCV2nE54Xw3KIdbtuyiBNfjQylUZ9p2/TV8csGDETbu4d4P/lYLa7mtgO47Vo6Gc+xBoquDIrjmmFVkrndzC5hsKlmCDQXDnijPwcUp4Q4oIzLg==;DBs/zKyrH4W9ZoltqfHreg=="
 ---

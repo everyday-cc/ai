@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/mastering-ai-art-a-concise-guide-to-midjourne
 webUrl: "https://www.unite.ai/mastering-ai-art-a-concise-guide-to-midjourney-and-prompt-engineering/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Earning A Master’s In Computer Engineering: What To Know"
+    excerpt: "If you work in the computer technology or engineering field and already have a bachelor’s degree, a master’s in computer engineering can help you qualify for higher-level positions or even a doctoral program,"
+    publishedDateTime: 2023-07-28T13:39:00Z
+    webUrl: "https://www.forbes.com/advisor/education/masters-in-computer-engineering/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/07/person-working-with-computers.jpeg.jpg"
+        width: 958
+        height: 539
+        isCached: true
 
 secured: "5NlVfpeMBhlv9Fm33/UwYbNohLHQXAyNuaoSPkijf4Zb64LNU8s6QY0Vs2WijkcO/L6S5z9CiDMY5X6PAig20IEbioVY4AlXvXaob5TgawSzRtk3ILqSEVkC1mHbJQEU+sBVE1y4ilVS05MmuKJA26ypronT6pMZGWctNj4iN7SC/6mFsYgRe9pjZstiU2o4RhB5M2DgMCszkQorj/SicRKkAdskeF96jRCuN/csmwxi0MdqbcIVgUxTKUx/o2ugnUs1RQiDZ6J5DxM/0STgJKysQp1GBj7uESEaeuF+vjFe6yW+R1CS48PaMXLzp5Yel/CahYZMTYFNI5nbtvle+4aevbjHoT8Y5qr1+Pm0tLnvfEe81j5rVg2/4SM3XV1BTyHiJckgVhyJiM3ronK/BCw07u/nTEB+Gm2YK3fWiji4WYTyc+a8r3K8GPCl6k+EryTlYoRe+dYiRq8CGWVn+O2Gw9is5gh+5b6aWM9lY4D7Cv/FKnPnXVZ93MRIpJvFRgKyJ0VKMtNHxMUw5qPLtQ==;a8QwLbT11SF4GTICz6yTlQ=="
 ---

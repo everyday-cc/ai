@@ -81,20 +81,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Financial technology, or fintech, is changing our finances"
-    excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
-    publishedDateTime: 2023-07-24T11:03:00Z
-    webUrl: "https://www.castanet.net/news/It-s-Your-Money/438101/Financial-technology-or-fintech-is-changing-our-finances"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 39
-    images:
-      - url: "https://www.castanet.net/content/2023/7/millard_072423_p3706387.jpg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
     publishedDateTime: 2023-07-26T08:57:00Z
@@ -211,15 +197,6 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
-  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
-    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
-    publishedDateTime: 2023-07-24T12:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "tjSOZ14WpNw3lCI4dkfHBoIF1YdAY++IVylkAyuImkHUHwva7J2h4RPyvPtRO7Luh8ocPTgtJhTsTzGzlWsgAFBbsdzodCe5IVlfmnc4gqhJk2/Yyu7crez70VQ2IziwtVlPdpZxvVVn8ZXpegsnFage3EeuFVzumNTydulZCQL2jXLcfmsZOUzMuQlOYDxc2Zx17FjgLJTBYTpXwd0EX9MuyBHUETw7Lvzs0bMw142O7/PZILnwwy0OZRhk4Q97bPKp+/IHpOEQkUFwfAJD6iuCoatHkxMm4PZCRzGss+AYHhXBbp2V+Sz15sF0kxNeiilP4Az8wDp5He4kLk3UFVl6CGSkOwsaemVaYH+J5X4=;nFzBh3JkLd0IHmUNWdl3XQ=="
 ---

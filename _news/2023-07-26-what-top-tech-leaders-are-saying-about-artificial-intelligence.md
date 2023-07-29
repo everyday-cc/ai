@@ -24,61 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Top News Publishers Are Reportedly Planning To Sue AI Firms"
-    excerpt: "The New York Times, News Corp, Axel Springer, Dotdash Meredith owner IAC are reportedly banding together to sue AI giants for using the publishers’ content to train their AI models."
-    publishedDateTime: 2023-07-24T11:13:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
+  - title: "NYC is now using AI at some subway stations to track when and how fare evaders are getting through"
+    excerpt: "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement."
+    publishedDateTime: 2023-07-25T17:12:00Z
+    webUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be5c6b2b786bbad2de7b89/0x0.jpg?format=jpg&crop=3543,1993,x0,y275,safe&width=1200"
+      - url: "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Tension rises among publishers that fear AI might replace media"
-    excerpt: "The IAC as well as other reputable media publishing bodies fear that AI might replace the media, hence the need to fight back."
-    publishedDateTime: 2023-07-25T22:03:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
+  - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
+    excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.newsweek.com/moving-fast-breaking-thingshow-some-health-care-startups-are-putting-patients-risk-opinion-1814984"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
-        width: 1345
-        height: 900
-        isCached: true
-  - title: "As Publishers Seek AI Payments, AP Gets a First-Mover Safeguard"
-    excerpt: "The Associated Press’s pact with OpenAI gives it the right to reset terms if another publisher gets a better deal."
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/as-publishers-seek-ai-payments-ap-gets-a-first-mover-safeguard-f5a6f186"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Why AI Will Never Replace Reporters at the NYT"
-    excerpt: "Cary Grant, Ralph Bellamy, and Rosalind Russel in His Girl Friday, Hoard Hawks, director, Columbia Pictures, 1940. Screenshot. Time: Spring 2024"
-    publishedDateTime: 2023-07-28T05:31:00Z
-    webUrl: "https://www.counterpunch.org/2023/07/28/why-ai-will-never-replace-reporters-at-the-nyt/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 39
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
-        width: 1429
-        height: 1053
-        isCached: true
+      name: Newsweek
+      domain: newsweek.com
+    quality: 19
 
 secured: "sdGMqKj6hQgjxIPQg2HMnhptrgv61Ad5LJ6bDV8gP2q4c2dBx+Sbw+PUmo2lxuhpPZiElH3yJvfYHfQEBJT6g5Ajo1sAmDhNlOASqpOm5n9QlTfO9+c+cLJ0V5bD62jOMZh+hWSrS/o8rjZOqWGrO2Zzk1E70c9apvwIY/D2dmZGf4zVbMX5tWb7Yo6H9o+txKX0Xi6BdX5pXQ3BZaxvZLUFr7Okoeb7vapYcdoqfoLPTxR6tVOdvdew3a8xGD9Oj4BGlYZT4bBl7I8mYYyRriYLdzOjCrNKSOBj1Wal8r/ValznBCfw9sUg4gLZDiLj9p9Ol7x1J/bjeZ9bmMyuvjr4OBllSJFHRQwIW5IvpGc=;4cm9vzUTsg/vIoN1iMEL7A=="
 ---

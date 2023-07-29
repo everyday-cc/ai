@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 219
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
         width: 800
         height: 600
-        isCached: true
-  - title: "Financial technology, or fintech, is changing our finances"
-    excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
-    publishedDateTime: 2023-07-24T11:03:00Z
-    webUrl: "https://www.castanet.net/news/It-s-Your-Money/438101/Financial-technology-or-fintech-is-changing-our-finances"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 39
-    images:
-      - url: "https://www.castanet.net/content/2023/7/millard_072423_p3706387.jpg"
-        width: 640
-        height: 426
         isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
@@ -216,15 +202,6 @@ related:
       name: The UK
       domain: thebusinessdesk.com
     quality: 4
-  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
-    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
-    publishedDateTime: 2023-07-24T12:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "dajnLckh1AB5twfQhfmVNiYs9mDtOdQp+7O/5CQxVmiDYrxl+4ZI9d/7PqxCuocTCGik/JLNvX0sgn4h2Yv4dkUfpxxLR0YeQyCbLbSH7T4C0XMawOyyQQ8WQZYvVVRCGBXoAMS/YI+xaMza5epczFNpmQESmORfRVYmW49nSqK3bM9UTGjcLqT3ep+JgXyTiFGqpohHykl4orYG9eRad8t6rwPgH0atjMtSVl/H5/0rVWH11kBXXuGgFtRyM++Uy3qYN6dgqwLEWlyVqzL7wplJ4IbGvW5qmR4vo43+hWL9sB3ggooDc2Sq3h5GXxTfXPW26le+kzLVbcfPyoJo0THK39N87/zeSy0gQZBzWuzHYUF/iDVYSHxOhRaAf3GrzmequZ61Yb66MRUy4rxDRNfMKHf9obiitrLGgwuUmWVq4T1JOUXXW4oQIT+HXctk+XdOhvzSCnTK2L8o0KDhG3sW8V4VDBU8p0dErMY/Rt56AdXDQpYzLZMS8XyApFRN6/YlWURhrZZe3FgiyXqd+A==;LNTZlUEI7ZxKrS4rvTUBfg=="
 ---

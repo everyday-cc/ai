@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "From data chaos to data products: How enterprises can unlock the power of generative AI"
+    excerpt: "Bruno Aziza, an Alphabet executive who led a roundtable discussion at VB Transform last week focused on providing a playbook for how enterprises can prepare their data and analytics infrastructure to leverage large language models (LLMs)."
+    publishedDateTime: 2023-07-26T13:14:00Z
+    webUrl: "https://venturebeat.com/ai/from-data-chaos-to-data-products-how-enterprises-can-unlock-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
   - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
     excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
     publishedDateTime: 2023-07-26T07:45:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-26T10:06:00Z
 originalUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
 webUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"

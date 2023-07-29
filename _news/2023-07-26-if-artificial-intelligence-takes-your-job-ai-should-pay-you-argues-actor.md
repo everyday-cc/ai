@@ -44,7 +44,7 @@ related:
     provider:
       name: Inc
       domain: inc.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
         width: 1024

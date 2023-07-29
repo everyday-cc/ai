@@ -62,6 +62,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Transforming Tradition: Addressing AI Implementation Struggles in Manufacturing Industries"
+    excerpt: "By focusing on culture changes and selecting the right AI vendor, traditional manufacturers can successfully implement AI and stay competitive in the market."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2023/addressing-ai-implementation-manufacturing"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 29
+    images:
+      - url: "https://www.automation.com/getmedia/e0f73077-2c43-4316-a4a5-4dadca2650de/AI-feature-July-27-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "eXqBeiaRUta8zc+XqGiN4FJ+8fnFKgtsZLu1DbtDa/YA8HtKNgvlKfv1W5/LxE3UCWjvTXFPfCqMGc987lIFr7Bl7Quruc8HQNW/q8YZIbaNrAA/b1sqsEMCV3bul6qs2iBKrTnMWQ7dBN9RtrSPalN86/4xXgQqy6qpF/VghqMW2CISIXRavBVBZ3mFIXmHYV/361ZDaUXFHi4Lo/Gq7aUqUdyjX0lbxldGO2Yw8K68IlatFB16stPe1sotNPnWKBtioUJHJcgyaKntwhCweNBphJIjB/aIE/C0vDmNZi5L7TgQmTP0zyFAaMwSIEuugdxCH29WmvAZ7pgsG6wTzxyJ1FoMYhDinz9UpdDEIwVcQoVXn/ODECBqGolzRA+puMPuhzF8fX1sX1XaAtLMLdx2x/N0ZGYPmeAcwyFE5wz70VJXwkNYmhOiI03UivHIfxHayDJWYSfk15Hi1rUEHHhho5X9wfynmQIs00XTZNUOIC4rlBJo7JZww3zMcZvBCvjvY/szgN/vDAgjqfCYbQ==;oAoD4ocQPiJAYU4au38gwg=="
 ---
