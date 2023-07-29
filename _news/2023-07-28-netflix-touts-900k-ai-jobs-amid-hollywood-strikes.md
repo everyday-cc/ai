@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
 type: article
 quality: 87
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cbc248a4-d4d7-41a4-bfff-50b03c3832c7/e26698d2-8572-4452-9f46-3c179b7ba31c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amid screenwriters' and actors' strike, Hollywood wants Artificial Intelligence experts"
+    excerpt: "For a few weeks now, the actors and screenwriters' strike in Hollywood has put the industry in check. There have been weeks of protests and claims of a guild that feels attacked, a"
+    publishedDateTime: 2023-07-29T16:46:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/movies/2023/07/29/64c54f79268e3e035d8b4593.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/movies/2023/07/29/64c54f79268e3e035d8b4593.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/movies/2023/07/29/64c54f79268e3e035d8b4593.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 49
+    images:
+      - url: "https://phantom-marca.unidadeditorial.es/324538eb1885d5209aebeadf1b589dcd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/29/16906447999149.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
     excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"

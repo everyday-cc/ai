@@ -57,6 +57,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
+    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
+    publishedDateTime: 2023-07-29T15:11:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
+    images:
+      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
+        width: 620
+        height: 372
+        isCached: true
   - title: "US cities could start banning facial recognition again"
     excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
     publishedDateTime: 2023-07-27T21:55:00Z

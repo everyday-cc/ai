@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Needs to Latch Onto the AI Boom"
-    excerpt: "PC recovery will only get chip maker so far as data center market pivots toward Nvidia."
-    publishedDateTime: 2023-07-28T15:34:00Z
-    webUrl: "https://www.wsj.com/articles/intel-needs-to-latch-onto-the-ai-boom-36484994"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-825721/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "Intel CEO says they will incorporate AI in all platforms"
     excerpt: "In this ongoing AI revolution, it's no secret that every company is trying everything at their disposal to integrate AI into"
     publishedDateTime: 2023-07-28T16:56:00Z

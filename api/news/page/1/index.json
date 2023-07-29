@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-29-executives-need-to-be-careful-before-diving-into-the-world-of-ai.md",
+      "title": "Executives Need To Be Careful Before Diving Into The World Of AI",
+      "excerpt": "With AI continuing to make headlines, organizations feel under pressure to adopt the new technology. But many questions remain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c54268c990bbf4f1ade19b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
+      "publishedDateTime": "2023-07-29T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-warning-programming-and-learning-can-be-complementary.md",
+      "title": "Warning! Programming And Learning Can Be Complementary!",
+      "excerpt": "Starting with ‘why we like programming,’ Solar-Lezama pointed out the value of generalization, modularity and encapsulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53d940536c203b1ade19b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
+      "publishedDateTime": "2023-07-29T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-norway-endless-beauty-and-endless-ai-leadership.md",
+      "title": "Norway Endless Beauty And Endless AI Leadership",
+      "excerpt": "I am researching in Norway & its beauty is endless & breathtaking. Highlights of this country & its AI leadership; a leader on the AI scene that deserves recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53fb73e9ca5472f03e6f9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/amp/",
+      "publishedDateTime": "2023-07-29T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-the-robots-we-were-afraid-of-are-already-here.md",
       "title": "The Robots We Were Afraid of Are Already Here",
       "excerpt": "The long-anticipated automation revolution has begun. Robots are ready to operate forklifts and do laundry. It’s not as scary as it sounds.",
@@ -507,7 +661,7 @@
       "originalUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1073,145 +1227,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur.md",
-      "title": "How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur",
-      "excerpt": "As an independent software vendor (ISV), we at Primeur embed the Open Liberty Java runtime in our flagship data integration platform, DATA ONE.\nThe post How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur/",
-      "originalUrl": "https://www.ibm.com/blog/how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T06:07:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning.md",
-      "title": "IBM and AWS partnering to transform industrial welding with AI and machine learning",
-      "excerpt": "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-the-future-of-cloud-computing-ai-powered-and-driven-by-innovation.md",
-      "title": "The Future Of Cloud Computing: AI-Powered And Driven By Innovation",
-      "excerpt": "Tech giants Microsoft and Google report strong Q2 earnings, driven by AI innovations in their cloud businesses. AWS also invests heavily in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3aa8297c5886d5716a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/",
-      "publishedDateTime": "2023-07-28T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

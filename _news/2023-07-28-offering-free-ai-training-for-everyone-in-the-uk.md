@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/go
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
 type: article
 quality: 109
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/7QtnxADmRsWVwDdR4VGJdwzCL3U=/0x551:2160x1676/1200x625/media/img/mt/2023/07/ai_rater_f_3/original.jpg"
         width: 1200
         height: 625
-        isCached: true
-  - title: "UK Health Officials Tap into the AI Revolution"
-    excerpt: "The UK is betting big on artificial intelligence (AI) in healthcare – specifically AI diagnostic tools. UK Health and Social Care Secretary Steve Barclay recently allocated £21 million ($26.7 million) to the National Health Service (NHS) for a new fund ..."
-    publishedDateTime: 2023-07-25T00:01:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/uk-health-officials-tap-ai-revolution"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/AI%20software%20for%20brain%20scan%20stroke%20diagnosis.png"
-        width: 770
-        height: 400
         isCached: true
   - title: "Time for agreement on AI governing framework"
     excerpt: "Leading scientists, technologists, philosophers, ethicists and humanitarians from every continent must come together to secure a broad agreement on a framework for governing AI that can win support at the local,"

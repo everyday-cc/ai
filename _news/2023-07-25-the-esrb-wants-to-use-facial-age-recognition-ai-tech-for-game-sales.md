@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
 type: article
 quality: 106
-heat: 266
+heat: 276
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
+    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
+    publishedDateTime: 2023-07-29T15:11:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
+    images:
+      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
+        width: 620
+        height: 372
         isCached: true
   - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
     excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."

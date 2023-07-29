@@ -3,10 +3,10 @@ category: news
 title: "Generative AI: Proposed Shared Responsibility Model"
 excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
 publishedDateTime: 2023-07-28T15:04:00Z
-originalUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
-webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
+originalUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
+webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
 type: article
-quality: 43
+quality: 39
 heat: -1
 published: false
 
@@ -15,10 +15,8 @@ provider:
   domain: cloudsecurityalliance.org
 
 topics:
-  - Microsoft AI
-  - AI
-  - Natural Language Processing
   - AWS AI
+  - AI
 
 images:
   - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
@@ -42,22 +40,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c004db540f53f5ded8f5fe/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 779
-        isCached: true
-  - title: "4 insights to kick-start your day, featuring Twitter’s fintech makeover"
-    excerpt: "Twitter’s fintech pivot; Coffee Day insolvency; Byju’s loan deal; and tech co’s on AI laws. Bye-bye, blue birdie! This just happened. Twitter changes its logo to X. Hidden in plain sight. The new logo is a throwback to one of the early ventures that Elon Musk first made a name with — X."
-    publishedDateTime: 2023-07-25T00:53:00Z
-    webUrl: "https://economictimes.indiatimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/primearticleshow/102092222.cms"
-    ampWebUrl: "https://m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
-        width: 710
-        height: 408
         isCached: true
   - title: "Climate change and financial innovation: The rise of climate fintech"
     excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
@@ -196,6 +178,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "WNZ+onfMmm1QwvOAUEaqpzqtKoJzc+ghsxSnIPKbMr+aUpWLbBch7moMotkOzkp1o2/ywamUrCyJUHK1DELmoGhSSOPvJ7xXSCMk/jxFkpItlT7RUz85bmiu2pUDD/qupLOXKyZZF5dlMw5M7TRLHYnKxOvtKmu4aGxnBTnNJY1c1ZjacG3KPa1geoerjxCEka6sWKWPiHmwbMaj1ZK1vx6WVYMBMiMiOFtWHXzP1cBnhlLCzr6jWyKEvDbzMcrAbkkxcLdj9Kpl8kZGrhQfVAot6ujyJg/D4FXgZ53M2oXrUxU8PUh+TwbVtlyYlKd/s31Cd1Ixls7ZJiWSKpMIz5Da72UioNlZxzRp0V8RDk9eBvRD/aBFN9GjuGuCCGyVKHaoeNsxGzUALKBy79h2EHX10JgV7zIo0gqMqBupKYhAvEPPWP0iWajbrvshAzaqY2kJ2bZAs+JZNzwpBfFlb+vXJc3YFixK2kXzr+SiTUgrfYnnTbdM6/o8GW7ZcQSjBot14o5/cEvacLl7kEC3+w==;Negxr/qK/RRHfSVe667SJA=="
+secured: "egt/lTcS0628JGu6ultHM56brZXjNN9RQdKidugoEljaxhQAMQWucRHmOp22o/Nb2v9Lj6EFbPlqUZKJehKbh9aLKAr9huJ8szH4BFtbiPIi+d7bD+KDW0tY/leeBk8futI7juV8+0kd6bdNpmb/ReTnUhAxhgEc0cHKcDTUhzCNFOW8G8LoUyM0ETRj8jQsbncnK8CftpmtiAuR3GWjDIzkPwgL9UWldHJ4qy2RnGRPRb/CFtm9CkOyxSEAEcOkcdJF1/z/kDQUB6zSoEWOd28WOPdQf1BjxCmMnciEdCyA6lTza6pzjwnm1KtgikGtMGLRSZDxeD8QiCRWoIoRPUpWSPwf/5Nu7PZHb1EQeKo=;p42KnPiVig4LrMZ0qma4KQ=="
 ---
 

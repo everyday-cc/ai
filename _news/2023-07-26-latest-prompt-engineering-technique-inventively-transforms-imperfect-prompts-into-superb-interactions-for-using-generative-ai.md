@@ -45,6 +45,20 @@ related:
         width: 480
         height: 388
         isCached: true
+  - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
+    excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
+    publishedDateTime: 2023-07-29T16:51:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/path-to-predictive-analytics-generative-ai-paving-way-immersive-data-insights/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_graph_with_colorful_lines_behind_it._Colorful_futuris_2f638b4b-7c38-4b18-ab88-137857cb6578.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "r/HMXg9t2rjgL6d53MzMf8vvhcj7fOJbbhvb5Ax1teb/w2globENFCZwCs7/nfpGScFLWFjPG+oiV/+h2pO4BnkVHe8fQfVj3Lnyh9lcYtJtqY9RQ+ICbvs7jf8ubbelY2FPRAkmU4M3ZY0oQObGuXIaBwGMO22Jcw902TYGSVjIdU1M3Scnsh1ENNw/ARVnnZ4GU5WVuhhr5eL7PpFCmlJXClH1l2c2HyruSt7j0Wz7fx83yg8pxtQLYjwDzUU0C5TYdsI+4a3jQmHxS/keDusOUhbR5X1VUEs7WWSpWcBSo4rfHRdZhCOo22ZlfUGQqiFsEZUreoGM/1e7iPY76yKJUKS4uE5T/cBbEHuGw3xxBra5FeQZi3j21SWtO9E31PjC/zXCUi1Hk1wRnT+8bBpS0ecRLdvBAjp5Sb+pSCbLbwSHaHlbWRbQSN2eQbnkWjFJexRT5I3D4lLa6dzfOyLD2LJbjBYWjFJi2aE2WmhAJPdbhEJXdlBAcOv1n3Xm3MGo9mF5dbKf4aGTHD6Z/g==;UGvJ4lXcOzaSn2lS1Au8mQ=="
 ---

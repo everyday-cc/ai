@@ -2,6 +2,186 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-07-19-facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama.md",
+      "title": "Facebook parent Meta makes public its ChatGPT and Google rival LLaMA",
+      "excerpt": "Facebook parent company Meta Platforms has built ... Much like tech peers Google and Microsoft, the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as the release ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "originalUrl": "https://www.telegraphindia.com/business/facebook-parent-meta-makes-public-its-chatgpt-and-google-rival-llama/cid/1953051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-why-some-celebrities-are-embracing-artificial-intelligence-deepfakes.md",
+      "title": "Why some celebrities are embracing Artificial Intelligence deepfakes",
+      "excerpt": "The actors' union has warned that \"artificial intelligence poses an existential threat to creative professions\" as it prepared to dig in over the issue. However, Ms Yeo is not worried. She is one of a growing number of celebrities embracing AI-generated advertising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
+      "originalUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/059E/production/_130183410_aaaaqfa3b6haqofh7zbfvipolgbt5ku-bkndsttedaciktjwhjrzthlpww-0afeimombx7zejjqxdcvapy9mlypgrzx84cf8pmal_uic1h_fmqmfjpbs_md0xsmqfs_hkd-h8hp31a7smho7bioqm0t0mnbb.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65995089.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp",
+      "publishedDateTime": "2023-07-18T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai.md",
+      "title": "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI",
+      "excerpt": "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "publishedDateTime": "2023-07-18T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-facebook-parent-meta-makes-public-its-chatgpt-rival-llama.md",
+      "title": "Facebook parent Meta makes public its ChatGPT rival Llama",
+      "excerpt": "Facebook parent company Meta Platforms ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/ypcl3y/article67096798.ece/alternates/FREE_1200/Meta_Artificial_Intelligence_78805.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece/amp/",
+      "publishedDateTime": "2023-07-18T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-robot-control-system-internship-with-lab42.md",
       "title": "Robot Control System Internship with Lab42",
       "excerpt": "The gThe goal of the project is to develop a robot control system that can be successfully used on robots with flexible arrangements of sensors and actuators to solve various tasks. The robot control system will be developed according to principles that ...",
@@ -898,6 +1078,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-microsoft-announces-azure-ai-trio-at-inspire-2023.md",
+      "title": "Microsoft announces Azure AI trio at Inspire 2023",
+      "excerpt": "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1496ee39182cc4443e405da8d169c49c0daabaf1/2023/07/18/29cb280f-8891-4ff4-a4ff-45b5cb9a0b61/gettyimages-1513927725.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
+      "publishedDateTime": "2023-07-18T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-why-inclusive-sets-of-images-help-us-make-better-products.md",
       "title": "Why inclusive sets of images help us make better products",
       "excerpt": "We worked with TONL, a stock image company, to create more representative datasets to help teams build more inclusive products.",
@@ -947,237 +1179,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending.md",
-      "title": "Fed watchdog warns AI, machine learning may perpetuate bias in lending",
-      "excerpt": "The Federal Reserve’s top watchdog warned Tuesday artificial intelligence and machine learning could bolster bias in lending practices. “While these technologies have enormous potential, they also carry risks of violating fair lending laws and ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/",
-      "originalUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/644c432596de01.94562039.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/business/housing/4103358-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending/amp/",
-      "publishedDateTime": "2023-07-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-2-top-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top AI Stocks Ready for a Bull Run",
-      "excerpt": "Semiconductor companies will play a central role in adopting AI as advanced chips are needed to train large language models and also for running inferences on the trained models. For instance, OpenAI's popular chatbot, ChatGPT, was reportedly trained using more than 30,000 graphics processing units from Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740040/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-web3-meets-ai-a-dynamic-duo-transforming-user-experiences.md",
-      "title": "Web3 Meets AI: A Dynamic Duo Transforming User Experiences",
-      "excerpt": "By integrating AI technologies into their platforms, innovative companies aim to provide enhanced user experiences, streamline processes, and deliver cutting-edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59f0b88ffbe0aac248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "publishedDateTime": "2023-07-18T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ai-and-advanced-applications-are-straining-current-technology-infrastructures.md",
-      "title": "AI and advanced applications are straining current technology infrastructures",
-      "excerpt": "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "originalUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/28e0c7652f5d2bd561c5c6d4f0ce4ad069b88299/2023/07/18/be068a2f-3083-43e1-bc85-8ee67d15ecf4/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "publishedDateTime": "2023-07-18T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
-      "title": "How AI is Helping to Translate the Bible Into Rare Languages",
-      "excerpt": "But one team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages. Ulf Hermjakob and Joel Mathew are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "originalUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
-      "cdnAmpWebUrl": "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
-      "publishedDateTime": "2023-07-18T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Catholic Register",
-        "domain": "ncregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -158,20 +158,6 @@ related:
         width: 2073
         height: 1081
         isCached: true
-  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
-    excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
-    publishedDateTime: 2023-07-24T23:57:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NXPI/pressreleases/18728384/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/d7e25ecb14e17af850223515fdd1e332/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f999b696c5a6ef2d9298be4bd30026b6a.png%26amp%3Bw%3D700"
-        width: 720
-        height: 449
-        isCached: true
   - title: "Democracy, Defence and Conflict in the Age of AI"
     excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
     publishedDateTime: 2023-07-25T03:07:00Z

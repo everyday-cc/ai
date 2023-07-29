@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-29-warning-programming-and-learning-can-be-complementary.md",
+      "title": "Warning! Programming And Learning Can Be Complementary!",
+      "excerpt": "Starting with ‘why we like programming,’ Solar-Lezama pointed out the value of generalization, modularity and encapsulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53d940536c203b1ade19b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
+      "publishedDateTime": "2023-07-29T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
       "title": "Researchers successfully train a machine learning model in outer space for the first time",
       "excerpt": "For the first time, researchers have trained a machine learning model in outer space, on board a satellite. This achievement could enable real-time monitoring and decision making for a range of applications,",
@@ -400,6 +452,49 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-5-deep-learning-courses-for-high-salary-jobs.md",
+      "title": "5 Deep Learning Courses for High Salary Jobs",
+      "excerpt": "In this article, we will look at 5 Deep Learning Courses for High Salary Jobs. We have also discussed the innovations and intelligence of deep learning and companies that are making huge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2015/08/artificial-intelligence-503592_1280.jpg?auto=format&expires=1722124800&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
+      "publishedDateTime": "2023-07-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1240,75 +1335,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-profet-ais-first-overseas-crossover-talks.md",
-      "title": "Profet AI's First Overseas Crossover Talks",
-      "excerpt": "Jonathan Yu, General Manager of Sales of Profet AI, said: \"There are more than 5 trillion-dollar industries in Taiwan, and Profet AI has over 100 success cases. We're going to take these experiences to Vietnam. We want to cultivate local talents with our advanced AI technology, which will help both markets grow.\"",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/07/12/9847515.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/07/12/9847515.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks.md",
-      "title": "NETSCOUT Combines Leading Global Threat Intelligence With Machine Learning to Protect Enterprises From Rapidly Spreading Dynamic DDoS Attacks",
-      "excerpt": "Every enterprise is at grave risk today if they don’t deploy an effective DDoS solution on-premises to protect their network edge, internet-facing services ... of DDoS mitigation experience, and machine learning (ML) software intelligence to ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

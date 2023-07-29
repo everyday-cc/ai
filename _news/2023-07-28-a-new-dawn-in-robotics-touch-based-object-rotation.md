@@ -95,6 +95,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Google's New AI Model Controls Robots"
+    excerpt: "Forget AI that can draw pictures, Google’s latest AI model can control a robot. On Friday, Google introduced Robotics Transformer 2, or RT2 a vision-language-action (VLA) model that can take text and images and output them into robotic actions."
+    publishedDateTime: 2023-07-29T17:37:00Z
+    webUrl: "https://www.pcmag.com/news/googles-new-ai-model-controls-robots"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00remt9EBrpPM9xQCL6Q1ee-1.fit_lim.size_1200x630.v1690652217.png"
+        width: 957
+        height: 537
+        isCached: true
   - title: "Google unveils RT-2, an AI language model for telling robots what to do"
     excerpt: "Google LLC today unveiled a new artificial intelligence model that will allow humans to speak to robots and tell them what to do by transforming words into action."
     publishedDateTime: 2023-07-28T16:21:00Z
@@ -120,6 +134,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
+    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
+    publishedDateTime: 2023-07-29T16:26:00Z
+    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62179/content/hero-robot-hand-touching-human-hand.jpg"
+        width: 708
+        height: 399
+        isCached: true
   - title: "Google's building A.I. into robots to teach them to throw out the trash"
     excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
     publishedDateTime: 2023-07-28T11:19:00Z

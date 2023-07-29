@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 insights to kick-start your day, featuring Twitter’s fintech makeover"
-    excerpt: "Twitter’s fintech pivot; Coffee Day insolvency; Byju’s loan deal; and tech co’s on AI laws. Bye-bye, blue birdie! This just happened. Twitter changes its logo to X. Hidden in plain sight. The new logo is a throwback to one of the early ventures that Elon Musk first made a name with — X."
-    publishedDateTime: 2023-07-25T00:53:00Z
-    webUrl: "https://economictimes.indiatimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/primearticleshow/102092222.cms"
-    ampWebUrl: "https://m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
-        width: 710
-        height: 408
-        isCached: true
   - title: "Climate change and financial innovation: The rise of climate fintech"
     excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
     publishedDateTime: 2023-07-27T14:23:00Z
@@ -63,20 +47,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Generative AI: Proposed Shared Responsibility Model"
-    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
-    publishedDateTime: 2023-07-28T15:04:00Z
-    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
-    type: article
-    provider:
-      name: Cloud Security Alliance
-      domain: cloudsecurityalliance.org
-    quality: 43
-    images:
-      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
     publishedDateTime: 2023-07-26T08:57:00Z
@@ -90,6 +60,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 39
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
         isCached: true
   - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
     excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."

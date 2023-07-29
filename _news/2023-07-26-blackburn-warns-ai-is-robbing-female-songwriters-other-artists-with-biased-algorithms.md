@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/us/blackburn-warns-ai-robbing-female-songwri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/blackburn-warns-ai-robbing-female-songwriters-artists-biased-algorithms.amp"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Fox News
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Is Artificial Intelligence Anti-Black?"
-    excerpt: "The rise of artificial intelligence like ChatGPT is ushering in a new era of possibilities. This article examines the anti-blackness baked into our AI systems."
-    publishedDateTime: 2023-07-25T00:42:00Z
-    webUrl: "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/"
-    ampWebUrl: "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bf1828c39d451c82b88edd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 708
-        isCached: true
 
 secured: "jcIGn88OKp/b2R+eWAh3lkloOr7gNwH2h0WkpeBeIfDisrSWR+lGWCpiLhRzgAEQFYkK4YJF50b6YP0zP7//PBtQCxoIHI5oRJooafpTjFot6gPYojINrNE4L5bFIsUWG3KzzlY5WE53vhdsZ6ThZ42aT0exU1nkSAA8B2f7UhnRkXPqP/CqsIGETV/dyzX4jM0IWXxrppn8lPL1AzrfgFXqGBsnBI8cU0N2A6UT0CQ0UfEB1VFJ10jGz/39X21AOe7N4gzcHsa9pYxaBwVPRunaRlWnbIUyn/8HWbaKOG8yjSO2MTYZ2100rCiM5Ur8NlRJqbl9Edyc2Pz5XGJA6luPJKA3woNOBSF4HLp3m1M=;reALcH/299JjeFLOnA00qg=="
 ---

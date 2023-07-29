@@ -59,15 +59,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
-    publishedDateTime: 2023-07-25T00:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
     excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
     publishedDateTime: 2023-07-25T03:43:00Z
