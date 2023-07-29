@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Driver of self-driving Uber car takes plea deal for fatal crash in Tempe"
+    excerpt: "Rafaela Vasquez was sentenced Friday to three years of probation after pleading guilty to endangerment for a deadly 2018 crash involving an autonomous Uber car."
+    publishedDateTime: 2023-07-28T19:39:00Z
+    webUrl: "https://www.12news.com/article/news/local/valley/driver-self-driving-uber-car-takes-plea-deal-fatal-crash-in-tempe/75-d75e0710-d757-4640-9b53-5867c05ea041"
+    ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/driver-self-driving-uber-car-takes-plea-deal-fatal-crash-in-tempe/75-d75e0710-d757-4640-9b53-5867c05ea041"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/driver-self-driving-uber-car-takes-plea-deal-fatal-crash-in-tempe/75-d75e0710-d757-4640-9b53-5867c05ea041"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 43
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/566591672/566591672_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Backup driver pleads guilty to endangerment after self-driving car kills woman in Tempe"
     excerpt: "PHOENIX (AP) — The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car."
     publishedDateTime: 2023-07-28T19:40:00Z
@@ -56,6 +72,34 @@ related:
       - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/WTccGvM9huAM6e1LnjBmzz472ak=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/LHVR3AGGPBBCDDDWXJQUVTNGHQ.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Self-driving car crash case ends"
+    excerpt: "The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car."
+    publishedDateTime: 2023-07-29T09:46:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/jul/29/self-driving-car-crash-case-ends/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/img/photos/2023/07/28/3A1Uber0729_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Backup driver in 1st self-driving car death in Tempe pleads guilty, gets 3 years of supervised probation"
+    excerpt: "The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday."
+    publishedDateTime: 2023-07-28T23:00:00Z
+    webUrl: "https://ktar.com/story/5522087/backup-driver-in-1st-self-driving-car-death-in-tempe-pleads-guilty-gets-3-years-of-supervised-probation/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 7
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2023/04/Autonomous_Vehicle_Fatality-Uber_55148-e1690579792692.jpg"
+        width: 1600
+        height: 898
         isCached: true
   - title: "What to do with an old mine? Turn it into a self-driving test track"
     excerpt: "BMW has launched a new test site in Sokolov, Czechia, aimed at developing self-driving and self-parking. The German car maker says the 300-million euro Future Mobility Development Center (FMDC) will play a key role in the company’s development of automated driving."

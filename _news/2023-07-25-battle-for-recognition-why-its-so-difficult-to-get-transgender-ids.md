@@ -87,20 +87,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Facial recognition helps ID whales and dolphins"
-    excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."
-    publishedDateTime: 2023-07-24T16:41:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2023/07/facial-recognition-helps-id-whales-and-dolphins/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2023/07/24062558/os-dolphin-facial-id-.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "ESRB proposes facial recognition age verification for parental consent"
     excerpt: "The Entertainment Software Rating Board has proposed a new verification mechanism which it says will ensure parental consent is properly obtained under the Children's ..."
     publishedDateTime: 2023-07-25T11:10:00Z

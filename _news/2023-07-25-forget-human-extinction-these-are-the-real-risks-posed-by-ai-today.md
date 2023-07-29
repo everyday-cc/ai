@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Actors are really worried about the use of AI by movie studios – they may have a point"
-    excerpt: "AI might not yet be able to create leading performances from an actor’s likeness but the jobs of those in the background are far less safe."
-    publishedDateTime: 2023-07-24T16:06:00Z
-    webUrl: "https://theconversation.com/actors-are-really-worried-about-the-use-of-ai-by-movie-studios-they-may-have-a-point-210034"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 31
-    images:
-      - url: "https://images.theconversation.com/files/539025/original/file-20230724-27-ipn5gj.jpg?ixlib=rb-1.1.0&rect=17%2C643%2C3817%2C1908&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Actors are really worried about the use of AI by movie studios. They may have a point"
     excerpt: "Film and television actors in the US came out on strike on July 14, causing Hollywood productions to shut down. The action has also had an impact on US films shooting in the UK: director Tim Burton's Beetlejuice 2 has \"paused\" and the production of Deadpool 3,"
     publishedDateTime: 2023-07-25T16:06:00Z

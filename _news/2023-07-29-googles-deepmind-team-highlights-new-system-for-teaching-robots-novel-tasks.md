@@ -48,20 +48,20 @@ related:
         height: 675
         isCached: true
   - title: "Google DeepMind enables robots to perform novel tasks"
-    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation"
-    publishedDateTime: 2023-07-29T05:16:00Z
-    webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
-    ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
+    publishedDateTime: 2023-07-29T08:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
-        width: 2000
-        height: 1225
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Google DeepMind empower robots to accomplish new and unique task"
     excerpt: "“RT-2 is not only a simple and effective modification over existing VLM models, but also shows the promise of building a general-purpose physical robot that can reason, problem solve, and interpret information for performing a diverse range of tasks in the real-world,” said Google DeepMind."

@@ -166,6 +166,20 @@ related:
       name: Fortune India
       domain: fortuneindia.com
     quality: 19
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-29T08:26:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/2165287/image_986294_20677656.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T21:09:00Z

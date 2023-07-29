@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
 type: article
 quality: 106
-heat: 306
+heat: 296
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://www.boomlive.in/h-upload/2023/07/25/1011809-pride-01.jpg"
         width: 1152
         height: 648
-        isCached: true
-  - title: "Facial recognition helps ID whales and dolphins"
-    excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."
-    publishedDateTime: 2023-07-24T16:41:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2023/07/facial-recognition-helps-id-whales-and-dolphins/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2023/07/24062558/os-dolphin-facial-id-.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "ESRB proposes facial recognition age verification for parental consent"
     excerpt: "The Entertainment Software Rating Board has proposed a new verification mechanism which it says will ensure parental consent is properly obtained under the Children's ..."

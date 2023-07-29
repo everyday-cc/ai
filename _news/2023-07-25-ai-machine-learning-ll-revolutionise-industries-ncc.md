@@ -64,15 +64,6 @@ related:
         width: 1608
         height: 590
         isCached: true
-  - title: "First AI as CEO in Europe Revolutionizes Leadership using Human Supervision for Safety"
-    excerpt: "LONDON, July 24, 2023 /PRNewswire/ -- Hunna Technology ( https://hunna.app ), a UK-headquartered HealthTech startup, today unveiled the first-ever AI in Europe to act as the CEO of a company. Using a combination of AI and human intelligence, the hybrid system goes beyond just a chatbot, and is based on a new simple mathematical algorithm."
-    publishedDateTime: 2023-07-24T15:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/first-ai-as-ceo-in-europe-revolutionizes-leadership-using-human-supervision-for-safety-1032470750"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Recording Academy revamps rules, places restrictions on artificial intelligence in music"
     excerpt: "B, NNPA Newswire @StacyBrownMedia The Grammy Awards have issued changes to address how artificial intelligence (AI) affects music. Among the revisions is a rule stating that only […]"
     publishedDateTime: 2023-07-27T11:21:00Z

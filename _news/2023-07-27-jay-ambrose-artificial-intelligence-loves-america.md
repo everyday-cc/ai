@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Use of Artificial Intelligence in iGaming in America"
-    excerpt: "The current iGaming world is a thrilling world, where artificial intelligence and cutting-edge technology collide to create an unforgettable experience. In America, the use of AI in this rapidly growing industry is revolutionizing the way we play and win as AI has become a game-changer that takes entertainment to new heights."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://techbullion.com/the-use-of-artificial-intelligence-in-igaming-in-america/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/IGaming-App.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Commentary: Artificial intelligence loves America"
     excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-28T12:00:00Z

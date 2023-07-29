@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3703251/teradata-acquires-stemma-t
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.amp.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: InfoWorld
@@ -31,59 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "What is IT operations analytics?"
-    excerpt: "IT operations analytics (ITOA) is the data-driven process by which organizations collect, store and analyze data produced by their IT services.\nThe post What is IT operations analytics? appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-24T15:59:43Z
-    webUrl: "https://www.ibm.com/blog/it-operations-analytics/"
+  - title: "Teradata Buys Data Startup Stemma To ‘Accelerate’ AI, ML Analytics"
+    excerpt: "Cloud data analytics company Teradata acquires tech startup Stemma Technologies to growth its AI and machine learning analytics technology."
+    publishedDateTime: 2023-07-25T17:00:00Z
+    webUrl: "https://www.crn.com/news/software/teradata-buys-data-startup-stemma-to-accelerate-ai-ml-analytics"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
+      name: CRN
+      domain: crn.com
+    quality: 56
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/donedsc07661retocada.jpg"
-        width: 800
-        height: 400
+      - url: "https://www.crn.com/resources/0281-180b09f845b4-35b44c120bdf-1000/artificial-intelligence-edge-globe.jpeg"
+        width: 611
+        height: 458
         isCached: true
-  - title: "Azure Synapse Analytics vs Snowflake: ETL Tool Comparison"
-    excerpt: "Azure Synapse Analytics and Snowflake are ... and serve data for immediate BI and machine learning needs.” The service is one of the most popular tools available for information warehousing ..."
-    publishedDateTime: 2023-07-27T17:40:00Z
-    webUrl: "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/04/istock-1153656985.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Introducing Microsoft Fabric: The future of data analytics"
-    excerpt: "Microsoft Fabric is a unified SaaS platform bridging the data and intelligence gap, says Zia Marais, engagement lead at Decision Inc."
-    publishedDateTime: 2023-07-27T09:06:00Z
-    webUrl: "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/07/Decision-Inc-27July2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Using Predictive Analytics And Machine Learning For Engaging Content"
-    excerpt: "Your businesses could be leveraging predictive analytics and machine learning to help provide a more personalized user experience. By gathering data on how users interact with your site—such as which pages they visit,"
-    publishedDateTime: 2023-07-26T12:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/using-predictive-analytics-and-machine-learning-for-engaging-content/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "/kzH42Rik6i5u6hfE4jREVp2bIeNUfAPICEToHND7SPsF5n1d1LDwXXlQyiL1A13TGXjfY8viqY39qAO0DdgSoS9Fpb+TE5qBpDBlEaGB5zwuTkXO5pxPKbC4vQyMnPMojpCXSpPVjLeFUNJ7ReTq5W7Cg7UxVYz309GvCowxulds4/AV96ntUaqOcMxAf1dhXa9vlkYS31rKzwX/n6CdK/Lmf93iTiTsUe0A+3Ef8NOPCIqTkcFHRJkLbPOFHOP9waRsL0SKY1+d+cM+3kF/eS5MQ8pIcvGgvfxU82dznxyUsJuDv7dYrQOCm6qYyXCd8wWqhjkN7skXXIFWJMKMHKd5B4o1Ls5peTc0SOntEu+Z7Yird39rral0o8l0zhhxUKDDsZ26HStfPf4eKRHIMS7X7z1mnnDZd7y/LdNaSZTbpFrBKbUbUA5edBUBSH24Sdeh5EvO5/cZq5FZTg7pFBxS0K9Yqo3Xeycjc+/dY+nejUh/Bc722gU6UGvCzIeJCBFyud2oG1h/LNx3pIBFA==;XKVEbrDo/5DHt3uYG8U4GA=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving cars, AI and near-oblivion at a CVS drive-thru"
+    excerpt: "Mr. Oblivious Bicyclist didn’t so much as glance over his shoulder before taking the curve at speed, suddenly veering rightward past the corner CVS and slotting himself between the Volvo"
+    publishedDateTime: 2023-07-29T08:59:00Z
+    webUrl: "https://www.djournal.com/lifestyle/living/self-driving-cars-ai-and-near-oblivion-at-a-cvs-drive-thru/article_7b3d7f2e-2d63-11ee-b83a-f77fc9c99ccf.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/9c/a9c3c20e-c067-53ff-b79b-aa4d53cdaca9/63517bff59a39.image.jpg?crop=1141%2C599%2C0%2C325&resize=1141%2C599&order=crop%2Cresize"
+        width: 1141
+        height: 599
+        isCached: true
 
 secured: "r2GTf69h3P75dKVnsDB1qc0X0Qbk3B8a6OBnJK2ITx8d2QHMdNNNT7h30GT1dYt9kqaQAOTPZAcHOphzM6FFrxs5b/7x4h/3iInOaLwKyFgVqbMoLKihnpDqhwQkyD1XhgAEGqUk3CvFBjaucBn7t7pSaIrqYt9iZJ1J//aFlm91ZKPNmuAn/oX3VelpHm4hkkgrjcX+TQxuWnVJt4+0KiMWLn1E/quzvmUwtx7xCoI0DhtgN3+CYHo9yNTAraEV9j1BdU8hSE/09zEmn3wQ4pkJxncHOvGF/QE9VRhm7PhHks0d/tcbL0fbtpj6iEqVJXTqVTWrpr+dPYrOQFe8tGS2qF9NwBFS9AUILFhKIsvb1P8kLHOKBSU2JK0EPP+8shAzkYLpHboI2zq0dXBi/YDWVxnEinZg7XCnu0RsXKkIizku4j0pIiHEnGK8O24dt6EbdJBM7nk5FaPrNxggQJSG/YFqNRNbu1n/u/UZD+2zelXCv1XeJ3JEVk1M4M+gRqQLl9sHs7CYNVftHzKS4w==;GV1ZLTp2hQCWY8HEuB4JzA=="
 ---

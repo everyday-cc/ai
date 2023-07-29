@@ -40,15 +40,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 28
-  - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
-    excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
-    publishedDateTime: 2023-07-24T15:23:00Z
-    webUrl: "https://www.cmswire.com/the-wire/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 15
 
 secured: "/rd/VN6WuJUkM2gg/CfgBJiyCvQpefkERnR+asxoSYPaNOsEzbxmd3DyGevNfrPQWoxsVQnjcpRDK1foc3yIZSfapjssQ2KBay9mfPMbjAXLf6n8YOHT0wnRGZwo3HMm5fn5QG2nuhWYKqX0i1sFMoE7l4xVtOn27NykzlGoLJbrPB/i5gXKkWSNlsImNxTHA96psJQdMclGUQrCxSpLjneXAzK2suxCbYhxZCVw5HHD6UpYrQnSoerRGygkTs6/CNWbKO6Q0PgFXByimiLFUa+PxlaVIpFaiyUvRhd4JjgXq/oYAI8IKgjms0OmjCwIfQGQ7Mk2pNeGtkmscRpdFsucFjUuxPD03frYpzhWBxmBSiT7mioj0QWvbRAG8u3LWnPP0uSRwHxfEQeaumcGeDigyZUlqrS/HcpRwdpAeWr3xeXpssMZb9Op5FggvWciA9I1nfEXrrIietl2+4rNkLGQoo/HYl0kdsMrxFBGdxGLKWHq2NJTmabbWnGddNLw2ubl8JFFVYYHkkhCLRN7oA==;9aP3gnogDrv9YbiHpBoDfQ=="
 ---

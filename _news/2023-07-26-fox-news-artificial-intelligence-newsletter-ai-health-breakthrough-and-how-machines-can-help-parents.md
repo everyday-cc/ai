@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsle
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-health-breakthrough-machines-help-parents.amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Newsletter: Facial recognition at a gas station?"
-    excerpt: "Dot web_crawlr newsletter is your daily internet culture rundown. Subscribe and we will crawl the web so you don't have to."
-    publishedDateTime: 2023-07-24T15:30:00Z
-    webUrl: "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/"
-    ampWebUrl: "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://uploads.dailydot.com/2023/07/Daily-Dot-Newsletter-Web-Crawlr-Image-07-24-2023.jpg?auto=compress&fm=pjpg"
-        width: 2000
-        height: 1000
-        isCached: true
 
 secured: "gApOiP0lJjtFQGCrphQhZbbXoj4LPQfg3FhAbMSiPzAiJvgFwPLLNNc6Ryyeso5mgwyt4UHQ2A1MuMUuSwyrAlgCRRYwWYD/AQO17W+fq+rQP7ctluR4u4qEbvWF54O5K86fFUSOYaoTkxZO9GHZIi7qTf+v4rE2S+yHEJolBGtOdLAgt6xWfwlbUVkhOyrcUgHV+kEIm4wqyxYXr0qDwf60STM2Q11PweLwxLXpsP2FptBWA04pWmDA7t12B76tPU+dr+K8xthmRMWWhOjCoUG81tbuZMCyXuPU+D/vFxFdL0xM5Rc6MS5BSdKCYdgYcJUti+DxifRR3F/Nm04cF2WnkDhbxa0yYTjBH8Jbg7iqOVpQPtOVbR3u7k/72IO2eYdlUcLisitOg5Ga79lP7vPBCrzSOtquwavrMLlCDiQpSm6XcDtVk3cQckrGrv5MuT3ZrLxhYwVNuwNe5HqW3DS5g8eEO3Q+1qOnpFfOnJMqIGe6CR0hZNuCY0+DtSOGAD+HswblhUuvHf//nq7x+w==;RAGxHZi4gCn1iDqXQ2BUiA=="
 ---

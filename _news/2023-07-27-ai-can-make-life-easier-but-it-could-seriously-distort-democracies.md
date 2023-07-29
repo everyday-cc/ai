@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is powering politics – but it could also reboot democracy"
-    excerpt: "Generative AI can involve citizens directly in decision-making, but not while developers’ incentives are only financial, says Polly Curtis, chief executive of Demos"
-    publishedDateTime: 2023-07-28T08:15:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
+  - title: "AI can reinforce racial bias, but used correctly, it could make hiring practices more inclusive"
+    excerpt: "Hiring is normally featured as a prime example for algorithmic bias. This is where a tendency to favor some groups over others becomes accidentally fixed in an AI system designed to perform a specific task."
+    publishedDateTime: 2023-07-25T16:57:00Z
+    webUrl: "https://phys.org/news/2023-07-ai-racial-bias-hiring-inclusive.html"
+    ampWebUrl: "https://phys.org/news/2023-07-ai-racial-bias-hiring-inclusive.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ai-racial-bias-hiring-inclusive.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 52
+      name: Phys.org
+      domain: phys.org
+    quality: 45
     images:
-      - url: "https://i.guim.co.uk/img/media/41ec994b36029f462af0a6a769c900a81dab0434/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=f01cb002de1358cd6c4ed8ada14c7222"
-        width: 620
-        height: 372
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-can-reinforce-racia.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "bMG/sE6pH8Th6cvzESBM3ymyN/Vw38TKfMk/ekut2kA4z7ZJ1H9dksXXRrDLYnClkdFKXqdxaE/YVeQRFBh8WxqaYAv9WuPDvuM0ubneJ+lwlfIKS/pnXQn7HV65MD5uaAoz8I78KuztMQFQJUoXCdrIDhgyL6LlaHkOb+TfgxW5mHsLOv3v2BgbPhw7WNc5UGz0TsLZj42fd+9UEKZ3MPLYiQQ1oG23XJC8qvverChvn8kQIYbKjeMViN9ExLfLeOn2pUoIBanmDhGbSrl4xe9wZmaf9HiwbDeg/lbTQTG1fojksl6ds+QOGwXRJ2i+tu+oWvOBWugYh4sZnC10GxkQH3hyx2Zmfz2+xNYRBKEtaEV7D+TKWyl4w/bwhHbGiHi1G53Avgewr2SOAaNgzVo5oAb0vvzVZf24LAgVA/mbR61vtVsbIo7ftNaX+Sz/n9TOyVQPihonFuuPixttZZFGVehYbqVSVNebsNA1hyuP/gOmlPPwMbIQwnTcDnztlLVF4BjGxgpIjKz8KGn+aw==;TqjRycrFv5K9nDZdImXLuw=="

@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2023-07-29-the-robots-we-were-afraid-of-are-already-here.md",
-      "title": "The robots we were afraid of are already here",
-      "excerpt": "A humanoid warehouse worker, Digit walked upright on goatlike legs and grabbed bins off a shelf with muscular arms made from aerospace-grade aluminum. It then placed the boxes on an assembly line and walked back to the shelf to search for more.",
+      "title": "The Robots We Were Afraid of Are Already Here",
+      "excerpt": "The long-anticipated automation revolution has begun. Robots are ready to operate forklifts and do laundry. It’s not as scary as it sounds.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/the-robots-we-were-afraid-of-are-already-here/articleshow/102227298.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/the-robots-we-were-afraid-of-are-already-here/articleshow/102227298.cms",
+      "webUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-151138,msid-102227397/the-robots-we-were-afraid-of-are-already-here.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://static01.nyt.com/images/2023/07/30/multimedia/00mr-robot-01-zmfw/00mr-robot-01-zmfw-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/the-robots-we-were-afraid-of-are-already-here/amp_articleshow/102227298.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/the-robots-we-were-afraid-of-are-already-here/amp_articleshow/102227298.cms",
-      "publishedDateTime": "2023-07-29T00:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

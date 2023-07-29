@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Making Anime Characters With Generative AI"
+    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
+    publishedDateTime: 2023-07-25T02:22:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI is empowering the digital workforce"
     excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
     publishedDateTime: 2023-07-25T14:46:00Z
@@ -216,20 +230,6 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
-    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 29
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
-        width: 942
-        height: 600
         isCached: true
 
 secured: "t4CHyTdBYKCy/EIXrVaySbgfu3Tol7DQIvpplmSdvYZPVTbHLOAoF+jimTFk1Of3+0IcbhSSVMpMEPIoqFv7RtYW3+vYwHfoAWYTYqcb6WQsSzjIN4Ty480heiq54B3QVQWRjBeqsH4WGgfV8c5yG7jySv9lbtrNJBruhxL9xO071nxhZlaLRQSg8l4FPWv/HY3SH1EI/Ux3oyLTXH3u0e8tDUaR0No6QGSz/2gwvOuLye8H2utmDLebwBOmBvK+Dg5F327Dod/vGjkx0PUu0AP1wO4htBgseu18xioh59mbBp6Nib6ClGjcqAv3BPqFHAZHejjPP2cr4qNi369LRIsGbv3lwnPVCuElImpL9Aykn0spQnbZly2tUqBmpaU42EAyglusYJv8TErfPfAJCpnOL+AcJbSfOi/TGvIYvZd2iClmVFsn4/oTfoQr17zfZwxfKVCdxW4XoceV84CkfShp9jCo5BA9nFSEUDydykjQFEfB4lnmnXxQC8ELdD2rj3qU1fLAziQbzgPPHnUxLg==;vD3rD41pNflsEDvjluMFoQ=="

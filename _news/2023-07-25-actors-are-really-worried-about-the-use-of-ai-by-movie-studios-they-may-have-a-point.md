@@ -33,20 +33,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Actors are really worried about the use of AI by movie studios – they may have a point"
-    excerpt: "AI might not yet be able to create leading performances from an actor’s likeness but the jobs of those in the background are far less safe."
-    publishedDateTime: 2023-07-24T16:06:00Z
-    webUrl: "https://theconversation.com/actors-are-really-worried-about-the-use-of-ai-by-movie-studios-they-may-have-a-point-210034"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 31
-    images:
-      - url: "https://images.theconversation.com/files/539025/original/file-20230724-27-ipn5gj.jpg?ixlib=rb-1.1.0&rect=17%2C643%2C3817%2C1908&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "eT6k1SA4/HkPV7ELrM/bkoYFZdPMEcJ6ygjd91IPC1iqf1YNPRdqIzG44hYaUq08XVEd9LjxLopOVW2KjMpe8rsl5+iLPyy776y3AI8BfWwAjR2cwOvSmpNlcCVK0ELT0cOjRWmIbMdawGRPB6fVrRXpQCKy/fdVXEkHaeGiLQe815IkiXtXRtwJgvV94p63yJXtKb6W/CHpsop79bWw6J6Vd27W+B1DttQeLHeOuYE8TXUbNZL5BEtJ0CWIQsoYOSB/LiVPRTozt/C/iD2d3AF50rUBJNEl/jsSGht++9zjP/Tt0Ca2D2LwP+IOhOp23sefUj3DUPoiL4l7MQef6g2UAdAkWxWRUl6TQtq/IuQ+jpAOoGVMbcMxnX1l1oGc3AtaNb3+boMhW9gyhRRTEmBUyMXlDe8GWcOAQQHca9xYSIzH2ScWF2YFFZQuUn5fl4nxt116zB/dY6V6m1cWh6BmQH7+BbsK3mtnWkVd9OOyu6V7/xPDa0GrWv6jnDr9WdcxysgtpjwXB76cpmzQng==;jC5sWtzal762x0MsxTMCDg=="
 ---

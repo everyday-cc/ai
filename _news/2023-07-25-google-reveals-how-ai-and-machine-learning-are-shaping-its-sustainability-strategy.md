@@ -37,15 +37,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
-    excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
-    publishedDateTime: 2023-07-24T15:23:00Z
-    webUrl: "https://www.cmswire.com/the-wire/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 15
 
 secured: "5AbHJQ0OvBj7VZUJLCoEpXs52ELoX2F5Ve9s6F5oyb0vwmwsM5cd+ypKUaZNehVUDHMDDyWuNpH60BbEtvHdy66dQoMoRhBTl452hvY1HWfaL//WdArmq/q47h3GnVtXPVxbzvsPpY7p2Kza1DuIOl1VN2Dw74NOEu14QqYxbPKbPvK5RDnehCKO/dB+l+clorxkjtMVqnujDGTAALsEKcDKhtmqj4m8yZ6XlLv32n6gPbLvAI7Memdzh9oPqmuoTnpPJP0Rz4/hRKTQXeBuD9xwrgDk6CbDwrcqkKFe7NUxKUnvv/R+b331zDbQLIZP0hSlRcYh4w1uMV7B5udmp24irbGhdtUz7VoEmx8RU5Ifpb2cfhx14Qw3zsQd2MS3gmerLMUor8zHMCauJa8OFntQ0pxZPCj8444x8C0d1Wr0vrC+v7BxxmWo/KDz0ytuduZu3a6AI8MR9+rLI6RO9zurlMrHNwp/9DzDQmVaTqDZ0Qj36FmnXuOkITEAqZ2bgqHNEcHm0XP7IxjsoicxZQ==;cvdx+Q5mlCmjBssBCGm7Bw=="
 ---

@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Making Anime Characters With Generative AI"
+    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
+    publishedDateTime: 2023-07-25T02:22:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI is empowering the digital workforce"
     excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
     publishedDateTime: 2023-07-25T14:46:00Z
@@ -218,20 +232,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 35
-  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
-    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 29
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
-        width: 942
-        height: 600
-        isCached: true
 
 secured: "r9sr9TfW5WBeu85vHa41hgJw+dty6XlRWffl67oW8/kyZEL9WLyBkRJbVtouYNTeJVKoZfhtplCHXaSLsODP7M+D/rZlj97ivRJDzkZ7l0qn5U1+JGpPnrJIRQEK8x6qPsBY4dJUXzpgMnp0414ih8FmnpCOr0zut0Ct328mKTeqh0T9MjxymOcjEkDLlVZbpiBAfDCNyV77X6NYxq1bRrr3NYCDCMlN6b8zblkIX1idXuU6sUZVxsVtJ34jATqVG6yecXehasFqXGDE7y4d8VwxSsREQzYn3sIipIojHNY+mEsq60yH8s0GI+sqd+AP7d7uoDyWzigc7fd7UFEdnGYcdK70Fc+ysWxk7cqRyJ9jwjm6bDxoPht/SP4dS4V4PR1dXFccg1XCuKoSyTQn5X3GxfJSn3sGJYWtsiDnAw5OXnkceyo8wZD1aMtBGSJEH6wloJa+f+IpisPJHdGvoS5Tv3Vbkgzz+NqlpUu6kfO7u9bMEnyonCSSxKNV1DH6QHW0kFURPvJuY3YJXYQ5JQ==;3xGSl4G5B6kyjdRhEJ242A=="
 ---

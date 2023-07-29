@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Making Anime Characters With Generative AI"
+    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
+    publishedDateTime: 2023-07-25T02:22:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI could be a critical tool for the visually impaired"
     excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
     publishedDateTime: 2023-07-27T16:42:00Z
@@ -214,20 +228,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 35
-  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
-    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 29
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
-        width: 942
-        height: 600
-        isCached: true
 
 secured: "QcRnjMz4QqBXCAh+J0XkniGAq0pHl5cx+gSsBX/6MZNCy9gDkyktvIk3rXddsGUEpjiIoqG/ak6/vZxnq/CKUCmtS6k5ZJH93PSFFs3RkTRjN7YwdNk4PJCOGgP1+oajNGD63qjvJE749FeJVc6WMSfhmWc4mmeusnfQhUXvPkzZ5kaaL6/zONq5k0Ze0FIXCw/XAbCWKfYwreBTh2QX9LPjGRXIdqgsnYtPMtZ7IwQBExhuvTfpB8ttLXDjwITIcCj1Nlz2JdbFNyGUfKj9QXSyGJm961iitBUtz+wNF4Im4QZjFRJlfo0E0ImOSpC/YMz47MsKSgxnTbzqbb0h/4Jy2+tO6OymLMvTgS+a/xbP7//qT0GsGYXU6z3kDGsDfAmd/nPW3wh4RtG/Zqm3wPNGQ7k+ossYiNkumDon/1ukUX/ifaHqepCHyJ6HjmgXMIYge6BE07h38ltETEF5ocWqrnXBYK/WgIahj8SU8KT+JUBnyF5xfrs3wAFL9TNljov9kPI+8AQ0t/pHGp3tVw==;BuKxeEiNAAdluP3v3FBdag=="
 ---

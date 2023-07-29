@@ -62,6 +62,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
+    excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
+    publishedDateTime: 2023-07-29T07:47:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102228308,imgsize-12376,width-1200,height=765,overlay-ethealth/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Transforming Tradition: Addressing AI Implementation Struggles in Manufacturing Industries"
     excerpt: "By focusing on culture changes and selecting the right AI vendor, traditional manufacturers can successfully implement AI and stay competitive in the market."
     publishedDateTime: 2023-07-27T00:00:00Z

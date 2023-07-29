@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google DeepMind enables robots to perform novel tasks"
-excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation"
-publishedDateTime: 2023-07-29T05:16:00Z
-originalUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
-webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
-ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
-cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
+publishedDateTime: 2023-07-29T08:12:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
-    width: 2000
-    height: 1225
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 750
         isCached: true
 
-secured: "mVIdHr0AcBVAPXCoWVaPSF8MQ8tdzs8BYrhHTIIyrURn+8mP66F0iI81XDno6Ci4ZPe34gN75aYmNivw8zK5XgbQxHME9ZDiHKFhosdv3AEJbbO01YEtmVoOxKHjDN8u0HClqUhlKFlkrIhDNo4Bu8IypOpC0kBudNWjQodGWRBSpSmQqApvFPmzEOD5DsA6B0Juk8Ut194x5+o0oHhIpg+8mX58puWGeGf6+cjtB7QH7O4g4igH5w166aaWnCjCdMwPEAHcDTwmYUiVH5F0fmA4fhvjbANAFAtPvuJsx9NRmQb+PY/cTQ00lCe19bedyRxnnIEmUoZiQUIvwZyswoOSteWRbcgfg2pFAWGs+jLX+pX5rtJS1650vr07nq1L644VV6LZWeZ5+8mw26GItheJppjx66uaIL/9EdxIAYlfJBX9sG5VR8fBKA1ppkPibFXBcEB2laox/Dga9dTkQMeYVysOXzGqTB9yioyUYm90D8fe44fmNll/Hpg61gzhYNr0nkUbLXalAlhcHyQv5g==;GoCazai3/+g1DermasKrnQ=="
+secured: "04HKXp/ewIfTRMhykXa2d4Ayp5NtHzTWznjvKZwXj1jsn4k5IgnveJltiLQi0noDWqLmWG+RcgRPx6Fj6Ym2xYQKd84H5fzyb9ig8SWL5K5ks55lg/wClkD7bZ3cocEKD+NdMZvmLu0dU6a3pwP5HUVnttubXESastAhmXXLKWme9Wz4e8THSjT5ioCyX8h5HNNxlwNAcoqYTqL4WCf09weujN0V/sbTycB4Pi+WLKpPOtcj/e+XWLFTKsSOwU/eCsmaBx2UM6iiEOXLSBk2U1W+POEBRyjjNqWa61W04HM3HTx+c8q2T0zM7r6uXOCKX3ZyiLQi0otXRR9wK2fRh7aQY0ImzVW5mIJ9sulD4q8=;VNJq4473HIQ5VWFm1pWWSA=="
 ---
 

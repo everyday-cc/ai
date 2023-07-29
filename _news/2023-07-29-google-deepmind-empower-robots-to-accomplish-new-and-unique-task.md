@@ -58,20 +58,20 @@ related:
         height: 798
         isCached: true
   - title: "Google DeepMind enables robots to perform novel tasks"
-    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation"
-    publishedDateTime: 2023-07-29T05:16:00Z
-    webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
-    ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
+    publishedDateTime: 2023-07-29T08:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
-        width: 2000
-        height: 1225
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "uREnOemxvPmrB2DguKt6Wst+V7cWSAWHsMQyvL9ZXP7pabRjxZnqJHPjza2UCqf9RJllpPUDAoThgBMpg7jtnCZbHtJeuljIzTOslp/RYzYlE9zPpaMfD1T8gy6N+i3m9UgfCR1OsY32ztsniFgnnDdPSFVT/n3mkpPX7hRBzDEJ6HK07ukmf6OQWHTVVjuZ+Pjf0YseZ5nnjREytUP7Im3j8aeSlEP10lEewhNcK8ohPhh6OqEJ4v1Uqxx1opuyNtuu6HtBCTQVu7ovU+JtnMFxN6jIKHHSDMkLATebdAWoo/7jbMSXJo2ttXQr1xpy4N53TMJietLY/rtZSn7ZrmiOn86G12ndc8Ap1Z3Hy9MuJRXRFMlHhfJchKLJqE3kC6/Ka/11AsrwcsomuJcu9DMnX9lfTvS8fGlRUp1Tdf+/CCRwJ15p8MYn1Z1oz4UkiwtR0gPQkMD6BqXTF24oIKy2Zq0uDw3w2GBEi00hL+KspszmRQ/Qwyb96tRLKQAz5VWaK2FIZvL0u1kvKkt2ew==;M5izCVNoCy0HnSB66hHGUA=="

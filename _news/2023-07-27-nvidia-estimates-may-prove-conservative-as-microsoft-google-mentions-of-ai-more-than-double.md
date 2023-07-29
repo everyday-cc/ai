@@ -399,20 +399,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Viatel Technology Group launches secure AI tool for Microsoft Teams"
-    excerpt: "Viatel Technology Group has revealed that they have introduced their latest innovation, a secure Artificial Intelligence (AI) tool called vAI for Microsoft"
-    publishedDateTime: 2023-07-24T15:46:00Z
-    webUrl: "https://www.onmsft.com/news/viatel-technology-group-launches-secure-ai-tool-for-microsoft-teams/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/vAI-for-Teams.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft earnings preview: Focus on cloud rebound and AI"
     excerpt: "Microsoft is set to report fourth quarter results on Tuesday with investors focused on cloud growth, AI and any updates on the pending acquisition of Activision Blizzard."
     publishedDateTime: 2023-07-25T13:40:00Z
@@ -652,15 +638,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
-  - title: "Big Tech Earnings Preview: Microsoft, Google Lead AI Hype For 'Magnificent Seven'"
-    excerpt: "The so-called 'Magnificent Seven' big tech stocks have powered much of the Nasdaq's 2023 rally, largely on the back of AI hype. Now it's time to get real."
-    publishedDateTime: 2023-07-24T15:27:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/big-tech-earnings-look-microsoft-leads-magnificent-seven-ai-hype"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 31
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
     publishedDateTime: 2023-07-25T22:42:00Z

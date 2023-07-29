@@ -34,9 +34,9 @@ related:
         height: 628
         isCached: true
   - title: "Ryanair Accused Of 'Invasive' Facial Recognition Use"
-    excerpt: "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo \"invasive facial recognition process\"."
-    publishedDateTime: 2023-07-27T07:39:00Z
-    webUrl: "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a?refsec=topics_afp-news"
+    excerpt: "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\"."
+    publishedDateTime: 2023-07-27T11:38:00Z
+    webUrl: "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
     ampWebUrl: "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
     type: article

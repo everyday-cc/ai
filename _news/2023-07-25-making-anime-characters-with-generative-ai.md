@@ -28,50 +28,210 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore looks for generative AI use cases with sandbox options"
-    excerpt: "Two sandboxes, including one for government applications, will run on Google Cloud's generative artificial intelligence toolsets and offered free for three months."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
+  - title: "The Generative AI Battle Has a Fundamental Flaw"
+    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
+    publishedDateTime: 2023-07-25T11:08:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Wired
+      domain: wired.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/895aeaf4aa2aa3b3e3c2f8296b0e3d1868404385/2023/07/24/55c31eb6-f32d-4ad9-96b6-3e85306d46d7/cloudgettyimages-1251913187.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
+  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
+    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
+    publishedDateTime: 2023-07-27T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 691
+        isCached: true
+  - title: "The Future Of Art: Generative AI, Web3 And The Immersive Internet"
+    excerpt: "The generative AI, the metaverse and Web3 technology are set to revolutionize the art world, offering new opportunities for artists and collectors."
+    publishedDateTime: 2023-07-28T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c360def8a6665c5f03e3c1/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "ASEAN’s Fintech Sector Attracts US$5.7Billion; Singapore Leads"
-    excerpt: "\"In the surge of a $5.7 billion investment wave, Singapore cements its role as the crucial gateway in the ASEAN Fintech landscape."
-    publishedDateTime: 2023-07-27T08:04:00Z
-    webUrl: "https://fintechnews.sg/76777/green-fintech/aseans-fintech-sector-attracts-us5-7billion-singapore-leads/"
+  - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
+    excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
+    publishedDateTime: 2023-07-27T00:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/07/Screenshot-2023-07-23-233407.png?x37864"
-        width: 768
-        height: 376
-        isCached: true
-  - title: "Singapore’s health tech agency IHiS relaunches as Synapxe, taps artificial intelligence for better care"
-    excerpt: "Health Minister Ong Ye Kung said Synapxe is a “critical entity” that ensures medical information flows seamlessly throughout the healthcare ecosystem."
-    publishedDateTime: 2023-07-28T10:24:00Z
-    webUrl: "https://www.channelnewsasia.com/singapore/singapore-health-tech-agency-ihis-relaunches-synapxe-taps-artificial-intelligence-ai-better-care-3661441"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 23
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--AYScmkr3--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/07/28/min_ong1.jpg?itok=EYFbF8UG"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800"
         width: 1200
-        height: 676
+        height: 800
         isCached: true
+  - title: "Generative AI is empowering the digital workforce"
+    excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
+    publishedDateTime: 2023-07-25T14:46:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI could be a critical tool for the visually impaired"
+    excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
+    publishedDateTime: 2023-07-27T16:42:00Z
+    webUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/01/wire_mesh_fence_blurred_blurry_bokeh_world_beyond_by_vjapratama_cc0_via_pexels_1200x800-100784627-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Is generative AI mightier than the law?"
+    excerpt: "The seemingly unstoppable juggernaut launched by OpenAI late last year might soon run into headwinds from the FTC, the EU — and in court."
+    publishedDateTime: 2023-07-27T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/compliance_regulations_rules_law_standards_policies_by_cnythzl_gettyimages-939942712_abstract_technology_by_monsitj_gettyimages_629285904_2400x1600-100797811-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "What generative AI really means for the economy, jobs and education"
+    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
+    publishedDateTime: 2023-07-25T15:30:00Z
+    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
+    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
+    publishedDateTime: 2023-07-25T16:09:00Z
+    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
+    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
+    excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
+    publishedDateTime: 2023-07-27T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "AXA deploys secure generative AI to employees"
+    excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
+    publishedDateTime: 2023-07-28T15:20:00Z
+    webUrl: "https://www.reinsurancene.ws/axa-deploys-secure-generative-ai-to-employees/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 39
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
+        width: 1000
+        height: 575
+        isCached: true
+  - title: "Wayfair takes the generative AI route to interior decoration"
+    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
+    publishedDateTime: 2023-07-26T02:31:00Z
+    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
+    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
+    publishedDateTime: 2023-07-24T19:38:00Z
+    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 35
 
 secured: "dx5LwuIoEyqRy22iDqMKC89gi0iuxq2Kpb5PAodnqHxY0T7cNv1yk3MVifHaWoFnfQ4WU7Ksa6KI/vFQcwULmx3cVIpcJj36FssW0Il42FZ0lRM+rdzF1KmGads8dtLB6mby44yO1O0rCyFtm8ov6sOAHOuR6X7lMI/Ul8dIs0DgR125Rep3iNB5/O8yZ3AMz9WwUuD28bnQ0Ou3yPe4Hw1x4uPI/0vV8cECWw9cSDyjGE2e/zSomg3CvzInTNVYx4mLNbM4cT9Ej1M1yEXDId+vDKpYmSjqetBc9ohWAuQzuOBMEdUT28ugRfGAZ+A3edhQGr0C3gVBb24/siQCHdioTaqrcbDOmnovQvnOOSuqdcle1O3P7I3eBBJ8WSRUVb5Nh3JeOstRBNFfF7Hn6P9hMNCHyuTNDdWUuXkBfch2PeYnhQ9SX1pjphusHzKMqIKF0KrTlJEg5rGMpHrC5cBbFTFyWGvY2cCEf2xAN2hL7cq4UNjG1fEOmUvaA7TdRf29xqpftH5XPE7ktIjOtA==;vkzoUo795p7Gqs0ulxVJZQ=="
 ---

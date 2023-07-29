@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-driv
 webUrl: "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.barrons.com/im-825152/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Self-driving cars, AI and near-oblivion at a CVS drive-thru"
+    excerpt: "Mr. Oblivious Bicyclist didn’t so much as glance over his shoulder before taking the curve at speed, suddenly veering rightward past the corner CVS and slotting himself between the Volvo"
+    publishedDateTime: 2023-07-29T08:59:00Z
+    webUrl: "https://www.djournal.com/lifestyle/living/self-driving-cars-ai-and-near-oblivion-at-a-cvs-drive-thru/article_7b3d7f2e-2d63-11ee-b83a-f77fc9c99ccf.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/9c/a9c3c20e-c067-53ff-b79b-aa4d53cdaca9/63517bff59a39.image.jpg?crop=1141%2C599%2C0%2C325&resize=1141%2C599&order=crop%2Cresize"
+        width: 1141
+        height: 599
         isCached: true
   - title: "How Carol Juel is leading Synchrony through the hazards of generative AI"
     excerpt: "The bank's chief technology officer is testing several ideas for using advanced AI to improve processes and customer experience."

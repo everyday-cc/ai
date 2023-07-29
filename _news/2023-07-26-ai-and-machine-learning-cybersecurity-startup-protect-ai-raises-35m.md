@@ -57,19 +57,21 @@ related:
         width: 2500
         height: 1698
         isCached: true
-  - title: "AI Is About to Shake Up the Cybersecurity Industry"
-    excerpt: "This piece was contributed by Dan Barber, Cybersecurity Instructor within CSB. Artificial Intelligence is the hottest topic in technology and business right now. While companies try to leverage the potential for accelerated capability and Universities like ours are rethinking how we assign and measure meaningful work,"
-    publishedDateTime: 2023-07-24T15:44:00Z
-    webUrl: "https://www.wilmingtonbiz.com/insights/robert__burrus/ai_is_about_to_shake_up_the_cybersecurity_industry/3718"
+  - title: "What Role Does AI Play In Enhancing Aviation Cybersecurity?"
+    excerpt: "Cybersecurity is critical to the safety of aviation. Attacks to critical aviation infrastructure pose real threats. So, how does the FAA address these cyber challenges?"
+    publishedDateTime: 2023-07-29T09:30:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/amp/"
     type: article
     provider:
-      name: WilmingtonBiz
-      domain: wilmingtonbiz.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "http://wilmingtonbiz.s3.amazonaws.com/burrus_rob-headshot-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c3bdca3e9ca5472f03e488/0x0.jpg?format=jpg&crop=273,273,x0,y79,safe&width=1200"
+        width: 273
+        height: 273
         isCached: true
   - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
     excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."
