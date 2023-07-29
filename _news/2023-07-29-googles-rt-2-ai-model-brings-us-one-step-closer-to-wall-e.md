@@ -8,8 +8,8 @@ webUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-
 ampWebUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/"
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rt2_hero_1-800x450.jpg"
@@ -45,6 +46,6 @@ related:
         height: 478
         isCached: true
 
-secured: "NbBOpa9feJe1Y9GSWRTtx2L2ZUG3tXDbQib4GNzsFkIq6tixUjT1V4xt8zxYlAFY36LVEJxRpoYyCCUoJHwFcggIWJUbn5OItgrIPbJAEjCr9wJ1NS8hKRUD/nrBaakNcReS9WPEw7cUzzu48V1RaivPZlpuZWs/Zfie9dAOweYY5oz+cvK5wM82e7dkl3u8yOhK9QNe4pQpCfWQQgihZ1cDHYXEAauoqSUmaEehJar/xljC+DhfqZrBHX3eE0IE6eT3D/kpZKBlRFcXkxFqjd2tws4sn3Aets6oBFfBmqcMT/NN6uD2QDpDDSiWHRsqJ3YyXj7gZEvJrmi+mb73NlNvrRwTv65MVvw//u3FPJo=;krBFx33w8XGeQAzeGuJBUA=="
+secured: "X2fESuqBxP61czv0TRbnAwSm8+nTetDF7xhwQr6E8DHpT3wPWIa2h467tfjMtPzAoDBKm1KU0BpFdAiHX+N0weFVAi0EzmdOt1s1yohR5mY+d+2GLRAO7UcGkWq7ukDgJZ3Vb93mShLZJAw2r1G0An1bXWfH+2ylcCJeNb5tilAdHyE1uFUev8RMKh3iylNeTLrZWj270k/rJpM6alqIeuUx1ou16HsWyVK2oofMt4cF/oKRvgbgnSpfwnsjQ+ErwB6RfyoPGO8wB+EyX8Rmcx3ekL2eNO/VD2onWJExrzSo9QTI4LH521GD08ERuQoN9V422YZIBwe1G+LM4PcIE5DvYqLdJuPxh601iN7HCo3prmAxvhP5Q8mcFPfvDeGAWWbPX58CFUJHNIN1FHtgK/qMn4qfmgMGuv6ebzUw/uuaLEr73YV6EYed70sror5g1YGWtUWxNBpN6qZ7IlA4s7GBJp3HyrAoofR03WGpiskd4h+QORnvwLMHAp5avos8wa09lEbeijQrPaR85oBkQQ==;ESkI4prCg6HwEFfvg12+kg=="
 ---
 

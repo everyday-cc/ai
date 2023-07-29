@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce"
-    excerpt: "Croissant, a fintech with a mission to empower intentional commerce, launched today with $24 million in seed funding from suite of investors.."
-    publishedDateTime: 2023-07-28T14:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
+  - title: "AngelList expands into private equity with acquisition of fintech startup Nova"
+    excerpt: "With its acquisition of fintech startup Nova, AngelList is making a serious push into the private equity space."
+    publishedDateTime: 2023-07-28T15:49:00Z
+    webUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/"
+    ampWebUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/09/Choice-Options-Decision-Croissant-Food-Breakfast.jpg"
-        width: 1280
-        height: 960
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-187186651.jpg?resize=1200,1200"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Fintech startup Croissant launches with $24 million in seed funding"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
@@ -71,15 +71,6 @@ related:
         width: 1336
         height: 876
         isCached: true
-  - title: "US fintech Croissant exits stealth with $24m raise to shake up the e-commerce experience"
-    excerpt: "Integrating directly into merchants’ shopping experiences, Croissant offers customers guaranteed buybacks to amplify their purchasing power."
-    publishedDateTime: 2023-07-28T12:09:00Z
-    webUrl: "https://www.altfi.com/article/us-fintech-croissant-exits-stealth-with-usd24m-raise-to-shake-up-the-e-commerce-experience"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 10
   - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
     publishedDateTime: 2023-07-27T13:23:00Z

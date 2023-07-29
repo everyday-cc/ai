@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 type: article
 quality: 99
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
-    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
-    publishedDateTime: 2023-07-24T05:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
         isCached: true
   - title: "Proposals aim to regulate artificial intelligence in the workplace"
     excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."

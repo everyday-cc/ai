@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-26-how-ai-is-helping-companies-meet-sustainability-goals.md",
+      "title": "How AI is helping companies meet sustainability goals",
+      "excerpt": "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "originalUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-hr-and-talent-in-the-era-of-ai.md",
+      "title": "HR and Talent in the Era of AI",
+      "excerpt": "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
+      "originalUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-ai-leaders-create-industry-watchdog-as-government-scrutiny-grows.md",
+      "title": "AI Leaders Create Industry Watchdog as Government Scrutiny Grows",
+      "excerpt": "A group of tech companies including Google and OpenAI are creating an industry body to ensure that AI models are safe.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6297983/ai-leaders-create-industry-watchdog-as-government-scrutiny-grows/",
+      "originalUrl": "https://time.com/6297983/ai-leaders-create-industry-watchdog-as-government-scrutiny-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/07/GettyImages-1546726882.jpg?quality&#x3D;85",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-better-ai-stock-c3ai-vs-opera-limited.md",
       "title": "Better AI Stock: C3.ai vs. Opera Limited",
       "excerpt": "C3.ai claims it's an \"enterprise AI software\" company, but it was previously known as C3 Energy and C3 IoT ( Internet of Things ). It only renamed itself again as C3.ai in 2019 as the market became more interested in AI technologies.",
@@ -311,7 +448,7 @@
       "originalUrl": "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -972,7 +1109,7 @@
       "originalUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1097,159 +1234,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy.md",
-      "title": "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’",
-      "excerpt": "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/",
-      "originalUrl": "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-183374100.jpg?resize=1200,805",
-          "width": 1200,
-          "height": 805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/",
-      "publishedDateTime": "2023-07-25T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india.md",
-      "title": "I read the news today, oh bot! AI-generated anchors are making headlines in India",
-      "excerpt": "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
-      "originalUrl": "https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/271ff7632abffc820373fb010c3f7388a8ab26bc/2023/07/25/81a5dbb3-5ffc-4dad-84e9-559ee4ef24e8/lisa.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
-      "publishedDateTime": "2023-07-25T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-nyc-is-now-using-ai-at-some-subway-stations-to-track-when-and-how-fare-evaders-are-getting-through.md",
-      "title": "NYC is now using AI at some subway stations to track when and how fare evaders are getting through",
-      "excerpt": "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
-      "originalUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
-      "publishedDateTime": "2023-07-25T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

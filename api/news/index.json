@@ -2,6 +2,150 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-29-walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers.md",
+      "title": "Walmart using AI to streamline organization – what will it mean for workers?",
+      "excerpt": "Walmart is using artificial intelligence to help streamline their product organization. That raises questions about how workers' jobs could change. NBC News’ Jacob Ward has more details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690586636299_nn_jwa_walmart_embraces_new_tech_230728_1920x1080-4596y2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189519429834",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189519429834",
+      "publishedDateTime": "2023-07-28T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-gen-ai-movie-trailer-for-sci-fi-epic-genesis.md",
+      "title": "Gen-AI Movie Trailer For Sci Fi Epic “Genesis”",
+      "excerpt": "Genesis” trailer images we done in Midjourney and limited animation and camera moves added in Runway. The music is from Stringer_Bell via Pixabay. I messaged Neubert on Twitter and a few hours later we met on Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c440111ae988ddbd16a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/amp/",
+      "publishedDateTime": "2023-07-28T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-ai-productivity-gains-are-not-limited-to-big-tech.md",
+      "title": "AI Productivity Gains Are Not Limited To Big Tech",
+      "excerpt": "While Microsoft and Google are competing to roll out bigger and better AI engines, the real beneficiaries of AI technology might be in other sectors of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c4406c3e9ca5472f03e661/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/",
+      "publishedDateTime": "2023-07-28T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e.md",
       "title": "Google’s RT-2 AI model brings us one step closer to WALL-E",
       "excerpt": "For example, Google says that RT-2 can allow a robot to recognize and throw away trash without having been specifically trained to do so. It uses its understanding of what trash is and how it is usually disposed to guide its actions. RT-2 even sees discarded food packaging or banana peels as trash, despite the potential ambiguity.",
@@ -10,7 +154,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -49,7 +193,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -61,7 +206,7 @@
       "originalUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -208,7 +353,7 @@
       "originalUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -545,6 +690,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-28-angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova.md",
+      "title": "AngelList expands into private equity with acquisition of fintech startup Nova",
+      "excerpt": "With its acquisition of fintech startup Nova, AngelList is making a serious push into the private equity space.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
+      "originalUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-187186651.jpg?resize=1200,1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/",
+      "publishedDateTime": "2023-07-28T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-skin-cancer-diagnosis-exploring-reinforcement-learning-for-improved-performance-of-ai.md",
       "title": "Skin cancer diagnosis: Exploring reinforcement learning for improved performance of AI",
       "excerpt": "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice. An international research team led by Harald Kittler of MedUni Vienna has now explored a learning method in which greater accuracy in AI results can be achieved by incorporating human decision-making criteria.",
@@ -584,49 +781,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce.md",
-      "title": "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce",
-      "excerpt": "Croissant, a fintech with a mission to empower intentional commerce, launched today with $24 million in seed funding from suite of investors..",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/09/Choice-Options-Decision-Croissant-Food-Breakfast.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/",
-      "publishedDateTime": "2023-07-28T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1009,7 +1163,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-researchers-jailbreak-bard-chatgpt-safety-rules-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1049,156 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-taiwan-semiconductors-sales-are-down-even-with-the-ai-boom.md",
-      "title": "Taiwan Semiconductor's Sales Are Down -- Even With the AI Boom",
-      "excerpt": "Investors have bid up computer chip stocks such as TSMC this year on the back of the artificial intelligence (AI) boom, which requires an immense amount of computing power to train and run. The iShares Semiconductor ETF is up 47.5% in 2023, outpacing the S&P 500 's (still impressive) return of 19%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741327/latex-glove-computer-chip.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-machine-learning-technique-can-efficiently-learn-to-control-a-robot.md",
-      "title": "Machine Learning Technique Can Efficiently Learn To Control a Robot",
-      "excerpt": "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/376917/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917-640x360.jpg?cb=20230728",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-ai-sleeper-stock.md",
-      "title": "Qualcomm and Meta Team Up on AI -- 1 of These Is an AI Sleeper Stock",
-      "excerpt": "But Qualcomm and social media titan Meta Platforms just teamed up to bring AI-powered services to a device near you. Here's what you need to know about the AI sleeper stock Qualcomm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740917/smartphone-city-connectivity.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Without the Indigenous voice to parliament, a treaty is vulnerable"
+    excerpt: "The Uluru Statement from the Heart called for a constitutionally protected voice to parliament, treaty and truth. The reforms are listed in a sequence. The sequence is deliberate, and understanding the order is central to the message of the Uluru statement."
+    publishedDateTime: 2023-07-28T23:31:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "A vote for an Indigenous voice to parliament makes economic sense"
     excerpt: "The voice is about recognition, listening and making sure the billions of dollars we invest in programs are getting value for money and improving lives."
     publishedDateTime: 2023-07-27T08:30:00Z

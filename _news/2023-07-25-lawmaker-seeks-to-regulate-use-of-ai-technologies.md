@@ -9,7 +9,7 @@ ampWebUrl: "https://newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use
 cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use-of-ai-technologies/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 620
     height: 394
     isCached: true
-
-related:
-  - title: "1. Exposure of workers to AI"
-    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
-    publishedDateTime: 2023-07-26T17:56:00Z
-    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 17
 
 secured: "MOWFAyR0IMXgaXm2IWiI2kPcKQ1R0AdQ6NtRv8TMkuUo4G0UbpCcwzug8MwNZ8RnRdMHoBfE+etcHL+oN4yo/88Lv31SP9wPUErMjo4uSyxC6myjGSzM9mDSNrOqTi4SOa4l6QIAw649FfNex4xZLj8RnfXhrF4TQElz7D/2Exvj3OdQQuYiRKAM8tE0TMCP++HgEysAwIAb8ZAs++tFw+eHxWCnKZOCn8TytHEV6rmd4LB/ZKZJiUEyfCGFBcImYwwBjzguY3TMxihWHEhqImflkuXMS6IiS16JT2iKQE36uBoKwq8dPEeEVFCJUQ6ixhtWYnPwSU8z4Di3DdbgO0WHTus8dDE91GkmHCgbJM/hJypMqJAzKp9DhqEiIvBvY1KpzC8jx6jlHdMzvefi1NsFQcx8PvE9loM1/15rBnger1VzPO5y4eX9oapRryqWeFDyPXGGDpUkWf81GYiwZ574HV+cmC5O8hUyCzVNvl/f18V4aiywG7zsfL88NYYciM6PUbTGjhEsEwUvMvp5cg==;Ob1FIT5FKLuCfburP0N5Vg=="
 ---

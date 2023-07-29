@@ -2,6 +2,156 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-28-taiwan-semiconductors-sales-are-down-even-with-the-ai-boom.md",
+      "title": "Taiwan Semiconductor's Sales Are Down -- Even With the AI Boom",
+      "excerpt": "Investors have bid up computer chip stocks such as TSMC this year on the back of the artificial intelligence (AI) boom, which requires an immense amount of computing power to train and run. The iShares Semiconductor ETF is up 47.5% in 2023, outpacing the S&P 500 's (still impressive) return of 19%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/741327/latex-glove-computer-chip.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-machine-learning-technique-can-efficiently-learn-to-control-a-robot.md",
+      "title": "Machine Learning Technique Can Efficiently Learn To Control a Robot",
+      "excerpt": "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/376917/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917-640x360.jpg?cb=20230728",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-ai-sleeper-stock.md",
+      "title": "Qualcomm and Meta Team Up on AI -- 1 of These Is an AI Sleeper Stock",
+      "excerpt": "But Qualcomm and social media titan Meta Platforms just teamed up to bring AI-powered services to a device near you. Here's what you need to know about the AI sleeper stock Qualcomm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740917/smartphone-city-connectivity.jpg",
+          "width": 4896,
+          "height": 3264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-1-artificial-intelligence-ai-growth-stock-to-buy-hand-over-fist-and-1-to-avoid-like-the-plague.md",
       "title": "1 Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist and 1 to Avoid Like the Plague",
       "excerpt": "Conservative estimates from Morgan Stanley and Goldman Sachs suggest an opportunity worth $6 trillion and $7 trillion, respectively, by 2030. Cathie Wood's Ark Investment Management is much more bullish, forecasting that AI-related hardware and software could represent a $14 trillion revenue opportunity by the decade's end.",
@@ -499,7 +649,7 @@
       "originalUrl": "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -654,7 +804,7 @@
       "originalUrl": "https://phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1083,154 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo.md",
-      "title": "Laptops will need to support growing AI and security priorities, says Lenovo",
-      "excerpt": "Machine learning and cybersecurity are among CIOs' top priorities today, so work devices should be built to support these requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
-      "originalUrl": "https://www.zdnet.com/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c4cc733699695e91521b8dca563ed9f16dcd9e46/2023/07/27/89da4a7c-8167-4487-a8d9-ae0670cec091/gettyimages-1199270450.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
-      "publishedDateTime": "2023-07-27T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off.md",
-      "title": "Robot vacuum deal: Score this reviewer-loved Shark AI robot vacuum for 40% off",
-      "excerpt": "Amazon is currently offering an impressive deal on a top-rated Shark robot vacuum. Right now you can get this Shark AI robot vacuum for 40% off. But hurry -- this robot vacuum deal won't last.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/14/d229c37b-5441-4ada-9e20-437bdf0ce2bd/thumbnail/1200x630/3b4bc9d8b4342f925e9f92d06aef8499/shark-ai-robovac-header.png?v=86db2ab42e1f4996c0f037a20ce5a325",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "publishedDateTime": "2023-07-27T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-heres-why-im-glad-nvidia-might-kill-its-most-powerful-gpu.md",
-      "title": "Here’s why I’m glad Nvidia might kill its most powerful GPU",
-      "excerpt": "There has been a lot of speculation about a possible Nvidia RTX 4090 Ti graphics card, but it might not be happening. This is not a bad thing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/",
-      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/12-pin.00_00_27_21.Still007.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp",
-      "publishedDateTime": "2023-07-27T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

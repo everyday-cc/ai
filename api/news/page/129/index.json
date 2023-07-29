@@ -2,6 +2,92 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2023-05-08-ai-and-the-hollywood-writers-strike.md",
+      "title": "AI and the Hollywood Writers’ Strike",
+      "excerpt": "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
+      "originalUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2023/05/1SAGShotCrop.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
+      "publishedDateTime": "2023-05-08T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-ai-dude-the-most-sophisticated-artificial-intelligence-technology.md",
+      "title": "AI DUDE: The Most Sophisticated Artificial Intelligence Technology",
+      "excerpt": "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks.md",
       "title": "Warren Buffett Vs Big Tech: Should you invest in Artificial Intelligence (AI) stocks?",
       "excerpt": "AI is expected to impact society and global business and so AI stocks could have a place in most investors’ portfolios.",
@@ -1100,101 +1186,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-china-is-developing-ai-without-us-chips-heres-how.md",
-      "title": "China is developing AI without US chips: Here's how",
-      "excerpt": "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "originalUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "publishedDateTime": "2023-05-08T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers.md",
-      "title": "MakeMyTrip Adds AI Voice Chat to Lure More India Travelers",
-      "excerpt": "India’s largest online travel-booking service is rolling out a voice chat service powered by artificial intelligence, becoming the country’s first major company to harness recent advances in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-08/makemytrip-adds-ai-voice-chat-to-lure-more-india-travelers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVQ2b33ZQBzI/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.kpax.com/news/montana-news/butte-library-using-artific
 webUrl: "https://www.kpax.com/news/montana-news/butte-library-using-artificial-intelligence-to-educate-create"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Financial industry urged to capitalize on AI to create synergy in corporate world"
-    excerpt: "Financial firms can capitalize on artificial intelligence (AI) to partner with shipping, warehouse and other logistics businesses and create a synergy in a corporate world that is being rapidly transformed by AI,"
-    publishedDateTime: 2023-07-24T06:43:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/biz/2023/07/602_355574.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574"
+  - title: "Amazon launches program for startups using AI, climate computing"
+    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 54
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202307/44203c7ce50c40ab85de2540697b65c2.jpg"
-        width: 980
-        height: 671
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "q5EN0cnvlnaLBUGq+RKBuXsng93mcDuRNK0D35KGQ9z1IcFlPn1CfNhBGUSMC0OaJn9D3g/cjchIoajymbf8CmdYbD8FbhuOh6OsdtbCmc2ZhVEVODV02/h8tDucIQGM6zmXjp8cVwwV8JYW8Y3ZpB2mMgEIXjfYmNn4HFPTa4REQ2xwVE77m3nt1CyqXUcpISP/E85HbPfcrupPWKrFd6QkaCWJbjmSoU3AHZHaLnWy+b3UBgr3ae4jzkwWcuKLd4ie8SGCSc7cIjo3QXjk+jVjwBdIH15jFhLrPEhk/iPyPX7zOZ05Hj4WUSe2YaZDghlRrjmkQDzOBUqMCfpFSNPvlksxapQWHj2zsrtrkDI=;vN0nLP2w0lEov5tAAI6arQ=="
 ---

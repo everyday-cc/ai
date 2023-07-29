@@ -416,22 +416,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Birlasoft enters into strategic collaboration with Microsoft to establish Generative AI Centre of Excellence"
-    excerpt: "The Generative AI Centre of Excellence will bring together the combined strengths of Birlasoft's industry expertise and Microsoft Azure OpenAI Service."
-    publishedDateTime: 2023-07-24T06:56:00Z
-    webUrl: "https://www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/"
-    ampWebUrl: "https://www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 55
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-24T081849.021.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Viatel Technology Group launches secure AI tool for Microsoft Teams"
     excerpt: "Viatel Technology Group has revealed that they have introduced their latest innovation, a secure Artificial Intelligence (AI) tool called vAI for Microsoft"
     publishedDateTime: 2023-07-24T15:46:00Z
@@ -745,6 +729,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "KviIk1vM16QzUJe9HKr7yub/h3sJ8408UKGUtwOoE96vuAXT7PS/KTCFDigqSHtWvZOQT50lz1s4C3DnZyes37NhytWjF9x53gMKtkUZpmhH2iy9RwJ3+Tpo6EFpm9Vih4IzuGeb25UTVLx5/7cV2aRuuyFCMAa3hm4RPa/Ik7XronQJfyRjkxlpFrQLwBEuP1DZqAGPDEI5O4JjDZtTEGdeIQCD5KVHwuCri2xtpYEGx3+QrWuNTLe0Eyj81grp8JOXNBmfjVdjA75mGK36hYnmT19iXP/rZNS4gfkwPdH/6Cc1tjuuxWZ/9tKlH4P/XWcmnYtLQW9GUlGY7TBUBtSNc5DsarhYoX64bD9PuXc=;0K0uTkdI5dS+i/HguJpCgw=="
+secured: "gKucEX0D5/yrYK5i/u7uPnzaeNjVEFAhjpzSw469FPoBmGOgL48C03j6NI67JLHtgwGlpWyoh6r63hRWFrES3xuUbqavHcdJ4c+RuZzLUVfE9sUY94sj7IylxTOi3nhaWU+kqDH6imUOyEKmv+I+0qlJvact457uDqjIiIZdNlJ/xQFihuLYmFlcPp4ep26B07lqoPQOi/rsp9i0ZCCJFAiVkLHQOYDJY5JfVwHbNQhIW6o2oX7+EcxHQvIzhy0ZmtSRKUxs35ynpWxVBNgnJII6MdkSrhRkxqJ0f8mikjxnXBBh90kbRaNNLirmneVuO+3Za4iSW5mWj1qL170GhyKar3UHfr1R64+thD5nOGK3F3NcRurizvqG58cXDEGNN9IlRil7MMx6L/lxHaSEH0yhAsuz/7pcHESv+5tzKpt4sWBsA/WxYveEn5Im4kCnBIamERMW3YGfozoFU1UHd9apkHah0xLmxIVbSgRDzpBHXgFluOVFcifGSYFDCX4n0plNfflTKoOPkPVwYWsWSQ==;6GWI6icK/2zNcMRTdvYKQw=="
 ---
 

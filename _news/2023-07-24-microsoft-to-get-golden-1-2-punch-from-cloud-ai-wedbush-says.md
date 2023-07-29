@@ -420,22 +420,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Birlasoft enters into strategic collaboration with Microsoft to establish Generative AI Centre of Excellence"
-    excerpt: "The Generative AI Centre of Excellence will bring together the combined strengths of Birlasoft's industry expertise and Microsoft Azure OpenAI Service."
-    publishedDateTime: 2023-07-24T06:56:00Z
-    webUrl: "https://www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/"
-    ampWebUrl: "https://www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 55
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-24T081849.021.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Viatel Technology Group launches secure AI tool for Microsoft Teams"
     excerpt: "Viatel Technology Group has revealed that they have introduced their latest innovation, a secure Artificial Intelligence (AI) tool called vAI for Microsoft"
     publishedDateTime: 2023-07-24T15:46:00Z

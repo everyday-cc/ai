@@ -51,6 +51,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Driver pleads guilty in Tempe crash, 1st fatal involving self-driving car"
+    excerpt: "The backup Uber driver for a self-driving vehicle that killed a pedestrian in Tempe in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully"
+    publishedDateTime: 2023-07-28T21:59:00Z
+    webUrl: "https://www.yourvalley.net/stories/backup-driver-enters-guilty-plea-in-tempe-crash-the-1st-fatal-collision-involving-self-driving-car,414329"
+    type: article
+    provider:
+      name: Sun City West Independent
+      domain: yourvalley.net
+    quality: 23
+    images:
+      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20220629-050853-preview.jpg"
+        width: 512
+        height: 341
+        isCached: true
 
 secured: "OWoMXe5sI8oVAmYT5EDf7Av7Jw9UciFB19YwdjB4pjbfN6PfmrmecxVjliAHYaPxeP5SQ2M1ebnbT02BppD5KoelYvROi70T4KZsY8fi4kjVczbmOHLhk6sPfh4sJaYaHv4udIB/M+bBR3LKdxS+uWQ0/goFbQLVNSxw9zwfW5iZFvmNoTTmL8QYzCqc4Am8oYkeAjCx+J1QWOc5+C/qENZW/wdn/Zp4GolHrzwB5VadyBCDE4DR1QKxQxnPzgm0W7ka+Dss1Sy/DsQsU81iyvBnco+M+SnaooxeQwaTiVftbly9MRJ9K9PkfG1ASHPwQvxZGO0p/Wh3Tdusi6B5Zi73ugn8+n74T4EUeKHzG/XGDm718PrKUKKqIMWQ1YPd1SwzSz2e4QMqp7bTn7FA+RBh+IDAcr9VmtuN2aTxSrAoFRvd+kf5BKe4mESwgD4mG3/dgAE+JEtoXVkbjOBrOE2hzteqRw+X79OkegMx03tjePXs08mxRsqKSEHfyWhNFCByVy5/72qmntp2S0wZQw==;kZZpYwhIO/J/NSI6OoCyYw=="
 ---

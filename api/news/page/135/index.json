@@ -2,6 +2,83 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2023-05-04-harris-to-meet-with-ceos-about-artificial-intelligence-risks.md",
+      "title": "Harris to meet with CEOs about artificial intelligence risks",
+      "excerpt": "Vice President Kamala Harris will meet with the CEOs of four major companies developing artificial intelligence. The Biden administration is rolling out initiatives meant to ensure the rapidly evolvin",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
+      "originalUrl": "https://omaha.com/news/science/article_2be5fceb-7e7e-5b20-93a6-2fc9680f8df6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/da/dda7c97f-af2f-5ee4-a06d-19e464a12917/6453895152383.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-artificial-intelligence-market-faces-review-from-uk-watchdog.md",
+      "title": "Artificial intelligence market faces review from UK watchdog",
+      "excerpt": "Britains competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT. The Competition Markets Authority said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2023/05/04/artificial-intelligence-market-faces-review-from-uk-watchdog/",
+      "originalUrl": "https://www.clickondetroit.com/business/2023/05/04/artificial-intelligence-market-faces-review-from-uk-watchdog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-ai-powered-characters-changing-the-game.md",
       "title": "AI-Powered Characters Changing The Game",
       "excerpt": "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible.",
@@ -1093,110 +1170,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ceo-of-googles-deepmind-says-we-could-be-just-a-few-years-from-ai-that-has-human-level-intelligence.md",
-      "title": "CEO of Google’s DeepMind says we could be ‘just a few years’ from A.I. that has human-level intelligence",
-      "excerpt": "DeepMind CEO Demis Hassabis at the 2023 WSJ's Future of Everything Festival. While artificial intelligence like OpenAI’s ChatGPT promises to revolutionize every aspect of the economy, the true holy grail for A.I. researchers—artificial general ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
-      "originalUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1487212398-e1683147294372.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-03T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-police-accused-over-use-of-facial-recognition-at-king-charless-coronation.md",
-      "title": "Police accused over use of facial recognition at King Charles’s coronation",
-      "excerpt": "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
-      "publishedDateTime": "2023-05-03T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

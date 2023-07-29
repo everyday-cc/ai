@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-researchers-jailbreak-bard-chatgp
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-researchers-jailbreak-bard-chatgpt-safety-rules-2023-7?amp"
 type: article
 quality: 72
-heat: 74
+heat: 76
 published: true
 
 provider:

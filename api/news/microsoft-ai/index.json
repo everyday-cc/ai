@@ -394,7 +394,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 658,
+      "heat": 648,
       "tags": null,
       "images": [
         {
@@ -533,58 +533,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-big-tech-looks-to-turn-the-corner-on-cloud-as-ai-focus-stays-strong.md",
-      "title": "Big Tech looks to turn the corner on cloud as AI focus stays strong",
-      "excerpt": "U.S. tech giants could signal an end to the nearly year-long slowdown in their cloud businesses as signs of economic resilience encourage clients to boost technology spending, while a pickup in digital ads will also aid profits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
-      "originalUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ewLC4o7nLyx4CUrytY_ReHjSlGw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FM7RJCQEZNLQJIDZKUKZSWKYCE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1437,6 +1385,58 @@
         "name": "RepublicWorld",
         "domain": "republicworld.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-most-outsourced-coders-in-india-will-be-gone-in-2-years-due-to-ai-stability-ai-boss-predicts.md",
+      "title": "Most outsourced coders in India will be gone in 2 years due to A.I., Stability AI boss predicts",
+      "excerpt": "Most outsourced programmers in India will see their jobs wiped out in the next year or two, Stability AI CEO Emad Mostaque said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107271734-1689340892876-gettyimages-1246453963-raa-openaida230122_npUgT.jpeg?v=1689657468",
+          "width": 594,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
+      "publishedDateTime": "2023-07-17T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-29-googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e.md",
+      "title": "Google’s RT-2 AI model brings us one step closer to WALL-E",
+      "excerpt": "For example, Google says that RT-2 can allow a robot to recognize and throw away trash without having been specifically trained to do so. It uses its understanding of what trash is and how it is usually disposed to guide its actions. RT-2 even sees discarded food packaging or banana peels as trash, despite the potential ambiguity.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rt2_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/",
+      "publishedDateTime": "2023-07-28T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks.md",
       "title": "Google DeepMind's new RT-2 system enables robots to perform novel tasks",
       "excerpt": "Google DeepMind unveiled RT-2, the first vision-language-action (VLA) model for robot control, which effectively takes the robotics game several levels up. The system was trained on text data and images from the internet, much like the large language models behind AI chatbots like ChatGPT and Bing are trained.",
@@ -1391,58 +1443,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-making-new-layers-and-models-via-subclassing.md",
-      "title": "Making new layers and models via subclassing",
-      "excerpt": "One of the central abstractions in Keras is the Layer class. A layer encapsulates both a state (the layer's \"weights\") and a transformation from inputs to outputs (a \"call\", the layer's forward pass). Here's a densely-connected layer. It has a state: the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing",
-      "originalUrl": "https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

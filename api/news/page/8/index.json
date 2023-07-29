@@ -2,6 +2,151 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-07-24-unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models.md",
+      "title": "Unleashing The Power Of Unstructured Data: The Rise Of Large AI Models",
+      "excerpt": "The advent of large language models in text, search and image processing has undeniably revolutionized the landscape of unstructured data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ba9062817e55774abd3591/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/amp/",
+      "publishedDateTime": "2023-07-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-personal-finance-app-totallymoney-partners-with-bud-financial-to-launch-ai.md",
+      "title": "Personal Finance App TotallyMoney Partners with Bud Financial to Launch AI...",
+      "excerpt": "As spiralling interest rates and inflation threaten to push ever wider swathes of UK consumers deeper into financial discomfort and distress, leading fintech experts and tech-savvy lenders empower millions of consumers to unlock holistic financial data to gain fairer access to the right financial products.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered",
+      "originalUrl": "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_2_16.png",
+          "width": 900,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-top-news-publishers-are-reportedly-planning-to-sue-ai-firms.md",
+      "title": "Top News Publishers Are Reportedly Planning To Sue AI Firms",
+      "excerpt": "The New York Times, News Corp, Axel Springer, Dotdash Meredith owner IAC are reportedly banding together to sue AI giants for using the publishers’ content to train their AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64be5c6b2b786bbad2de7b89/0x0.jpg?format=jpg&crop=3543,1993,x0,y275,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/",
+      "publishedDateTime": "2023-07-24T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says.md",
       "title": "Nvidia is ‘dominating’ and could unlock $300 billion in AI revenue by 2027, analyst says",
       "excerpt": "A Mizuho analyst is feeling even more bullish on Nvidia's stock prospects as he thinks about the AI opportunities ahead of the chip giant.",
@@ -454,58 +599,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-big-tech-looks-to-turn-the-corner-on-cloud-as-ai-focus-stays-strong.md",
-      "title": "Big Tech looks to turn the corner on cloud as AI focus stays strong",
-      "excerpt": "U.S. tech giants could signal an end to the nearly year-long slowdown in their cloud businesses as signs of economic resilience encourage clients to boost technology spending, while a pickup in digital ads will also aid profits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
-      "originalUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ewLC4o7nLyx4CUrytY_ReHjSlGw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FM7RJCQEZNLQJIDZKUKZSWKYCE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1140,109 +1233,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free.md",
-      "title": "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free",
-      "excerpt": "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-22T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-ai-safety-isnt-safe.md",
-      "title": "“AI Safety” Isn’t Safe",
-      "excerpt": "By focusing on grandiose and hypothetical threats, AI executives can continue to hand out user data, ignore the dangers of AI-generated mis-and-disinformation, and engage in other heedless behaviors—while sternly committing to “AI safety” alongside the President of the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bc4324b123d15212d3e1a6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/amp/",
-      "publishedDateTime": "2023-07-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

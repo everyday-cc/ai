@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Driver pleads guilty in Tempe crash, 1st fatal involving self-driving car"
+    excerpt: "The backup Uber driver for a self-driving vehicle that killed a pedestrian in Tempe in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully"
+    publishedDateTime: 2023-07-28T21:59:00Z
+    webUrl: "https://www.yourvalley.net/stories/backup-driver-enters-guilty-plea-in-tempe-crash-the-1st-fatal-collision-involving-self-driving-car,414329"
+    type: article
+    provider:
+      name: Sun City West Independent
+      domain: yourvalley.net
+    quality: 23
+    images:
+      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20220629-050853-preview.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "What to do with an old mine? Turn it into a self-driving test track"
     excerpt: "BMW has launched a new test site in Sokolov, Czechia, aimed at developing self-driving and self-parking. The German car maker says the 300-million euro Future Mobility Development Center (FMDC) will play a key role in the company’s development of automated driving."
     publishedDateTime: 2023-07-28T12:59:00Z

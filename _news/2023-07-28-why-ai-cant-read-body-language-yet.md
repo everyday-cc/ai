@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

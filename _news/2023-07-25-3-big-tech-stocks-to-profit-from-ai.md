@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Big Tech looks to turn the corner on cloud as AI focus stays strong"
-    excerpt: "U.S. tech giants could signal an end to the nearly year-long slowdown in their cloud businesses as signs of economic resilience encourage clients to boost technology spending, while a pickup in digital ads will also aid profits."
-    publishedDateTime: 2023-07-24T09:03:00Z
-    webUrl: "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/"
+  - title: "AI Productivity Gains Are Not Limited To Big Tech"
+    excerpt: "While Microsoft and Google are competing to roll out bigger and better AI engines, the real beneficiaries of AI technology might be in other sectors of the market."
+    publishedDateTime: 2023-07-28T22:34:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.reuters.com/resizer/ewLC4o7nLyx4CUrytY_ReHjSlGw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FM7RJCQEZNLQJIDZKUKZSWKYCE.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c4406c3e9ca5472f03e661/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 789
         isCached: true
+  - title: "Big tech prepares its next AI pitch"
+    excerpt: "As big tech earnings approach, investors will be on the lookout for company commentary on when AI prospects will turn to real profits."
+    publishedDateTime: 2023-07-24T19:30:00Z
+    webUrl: "https://www.aol.com/finance/big-tech-prepares-next-ai-193043993.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "DVbntFRzztb125cC4LO31LVnoccrDBuXOidViJaEuV0s6ugBS7leJHEHZQ06el3MOSATVfZW9Tz/usWvkhwFvoqaDoSCmMJbo815tH9KHMVzOoF9H2D2AJz8SPiu6gzPTct6Q+LLMWfcEqzfLS1EIh2MS28Oj9W534EPEjIozC60XuwFfMSCFm+iSbicYieoU2K3iYS2V6wrn+kNV6NPJwl1Zmf+eyvjSeD7/9f7VJMS9UmI/etyLvnkS251hR9WbYTGKPbLPkeRSqe/M6TwVplTQztKbX3dd3bl3K9fBC+LQQmUuNHZ69BhMItEMlaBL758Rq/C/rWmqB6sMOEFmOih93KnY3d2ngyv9kFY1FEsQ+vs1qnVU+Sih7XrK1szNaMox5cdijjtinlbxPPC9LGqv5vsfesDuO1qgqDt2wS7LxuUIwl4evTavPLGOigrwLY6HzVafgHhrSfBI4WKgQScAQZn7Pz5Z/n6gSL/U58WGI0P0tn6/5wWYyK1UL2SYI+3EpjzgUQH+SbXN4ltag==;uc5KKbKH3j2uJqi3euGRCA=="
 ---

@@ -2,6 +2,159 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-26-openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy.md",
+      "title": "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’",
+      "excerpt": "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/",
+      "originalUrl": "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-183374100.jpg?resize=1200,805",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/",
+      "publishedDateTime": "2023-07-25T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india.md",
+      "title": "I read the news today, oh bot! AI-generated anchors are making headlines in India",
+      "excerpt": "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
+      "originalUrl": "https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/271ff7632abffc820373fb010c3f7388a8ab26bc/2023/07/25/81a5dbb3-5ffc-4dad-84e9-559ee4ef24e8/lisa.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/",
+      "publishedDateTime": "2023-07-25T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-nyc-is-now-using-ai-at-some-subway-stations-to-track-when-and-how-fare-evaders-are-getting-through.md",
+      "title": "NYC is now using AI at some subway stations to track when and how fare evaders are getting through",
+      "excerpt": "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
+      "originalUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
+      "publishedDateTime": "2023-07-25T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-a-translator-for-your-kids-how-using-ai-as-a-parenting-co-pilot-will-help-parents-communicate-better.md",
       "title": "A translator for your kids: How using AI as a 'parenting co-pilot' will help parents communicate better",
       "excerpt": "With ChatGPT and other artificial intelligence tools, mom and dad can now access massive amounts of parenting knowledge at their fingertips.",
@@ -62,7 +215,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 658,
+      "heat": 648,
       "tags": null,
       "images": [
         {
@@ -814,7 +967,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1115,161 +1268,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-artificial-intelligence-is-rewriting-the-rules-of-us200-billion-video-games-industry.md",
-      "title": "Artificial intelligence is rewriting the rules of US$200 billion video games industry",
-      "excerpt": "From San Francisco to Tokyo and Hong Kong, the companies that power the digital entertainment sphere are responding to decades of escalating costs and stagnant prices by adopting and developing new AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/25/728a8e3b-ab0b-4a50-ad2c-b82c189f4353_04f6242c.jpg?itok=6jwOZYNo&v=1690256330",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-is-artificial-intelligence-anti-black.md",
-      "title": "Is Artificial Intelligence Anti-Black?",
-      "excerpt": "The rise of artificial intelligence like ChatGPT is ushering in a new era of possibilities. This article examines the anti-blackness baked into our AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
-      "originalUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bf1828c39d451c82b88edd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
-      "publishedDateTime": "2023-07-24T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ai-companies-are-trying-to-have-it-both-ways.md",
-      "title": "AI Companies Are Trying to Have It Both Ways",
-      "excerpt": "Last week, seven technology companies appeared at the White House and agreed to voluntary guardrails around the use of AI. In promising to take these ... as Twitter and Facebook were freshly public and start-ups abounded, did change things (though the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/",
-      "originalUrl": "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/L-Ee5j36-Th9i-bxuAffSAYJMWE=/0x296:5843x3339/1200x625/media/img/mt/2023/07/GettyImages_1561046611-1/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

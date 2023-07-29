@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-07-13-column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
+      "title": "Column: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
+      "excerpt": "At its heart, says Australian technologist David Gerard, ChatGPT is \"a stupendously scaled-up autocomplete,\" like a word processing program predicting the end of a word or sentence you've started typing. The program \"just spews out word combinations based on vast quantities of training text.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/column-artificial-intelligence-chatbots-spreading-120036268.html",
+      "originalUrl": "https://www.aol.com/news/column-artificial-intelligence-chatbots-spreading-120036268.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/be781e7cf9cf74eaa349657c75b68baa",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-metas-newest-dataset-will-train-speech-recognition-engines-on-clusters-of-speakers.md",
+      "title": "Meta's newest dataset will train speech recognition engines on 'clusters' of speakers",
+      "excerpt": "A newly developed dataset from Meta AI, however, promises to improve the performance of such automatic speech recognition (ASR) tools by clustering speech at the “utterance level.” Meta has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "originalUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9aRjn7EnqUFxy2EgxRP1vg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/a3e522a0-201c-11ee-9bf9-cb8798daadaa.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "publishedDateTime": "2023-07-13T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-amazon-prime-day-2023-40-extended-deals-you-can-still-shop.md",
       "title": "Amazon Prime Day 2023: 40 Extended Deals You Can Still Shop",
       "excerpt": "Is it still Prime Day? Not officially, but we found plenty of top Amazon Prime Day deals that are ... [+] still sticking around. Below, we’ve compiled the best extended Amazon Prime Day deals ...",
@@ -1055,109 +1150,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards.md",
-      "title": "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards",
-      "excerpt": "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
-      "originalUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0091.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-generative-ai-will-shape-the-future-of-it-heres-why.md",
-      "title": "Generative AI Will Shape The Future Of IT. Here’s Why.",
-      "excerpt": "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/",
-      "publishedDateTime": "2023-07-12T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-28-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce.md",
-      "title": "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce",
-      "excerpt": "Croissant, a fintech with a mission to empower intentional commerce, launched today with $24 million in seed funding from suite of investors..",
+      "path": "_news/2023-07-28-angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova.md",
+      "title": "AngelList expands into private equity with acquisition of fintech startup Nova",
+      "excerpt": "With its acquisition of fintech startup Nova, AngelList is making a serious push into the private equity space.",
       "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/",
+      "webUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
+      "originalUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/09/Choice-Options-Decision-Croissant-Food-Breakfast.jpg",
-          "width": 1280,
-          "height": 960,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-187186651.jpg?resize=1200,1200",
+          "width": 1200,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/",
-      "publishedDateTime": "2023-07-28T07:27:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/",
+      "publishedDateTime": "2023-07-28T08:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

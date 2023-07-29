@@ -35,7 +35,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rt2_hero_1-800x450.jpg"
         width: 800

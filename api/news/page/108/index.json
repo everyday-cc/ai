@@ -2,6 +2,101 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-05-18-ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning.md",
+      "title": "IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning",
+      "excerpt": "Forrester Research just released the latest Forrester Wave™ report, and IBM is proud to be recognized as a Leader. \nThe post IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T11:25:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia.md",
+      "title": "Reino Unido planea reunión con OpenAI, DeepMind sobre riesgos IA",
+      "excerpt": "El Gobierno del Reino Unido invitó a una reunión a los directores de algunas de las firmas de inteligencia artificial más grandes del mundo, dijeron personas familiarizadas con el asunto. Coincide con la elaboración en curso de una política del primer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii3LxhBwSQSk/v1/1200x639.jpg",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ...",
@@ -1076,94 +1171,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications.md",
-      "title": "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications",
-      "excerpt": "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "originalUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "publishedDateTime": "2023-05-18T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-nextech3dai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech.md",
-      "title": "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech",
-      "excerpt": "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ...",
-      "sourceUrl": null,
-      "webUrl": "https://wacotrib.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_e8a52ee4-b420-5577-9a06-6c4b3c0a068b.html",
-      "originalUrl": "https://wacotrib.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_e8a52ee4-b420-5577-9a06-6c4b3c0a068b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/custom/image/0ed30134-f79f-11e6-94c4-93314ab365a9.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wacotrib",
-        "domain": "wacotrib.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

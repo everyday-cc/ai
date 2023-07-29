@@ -55,6 +55,15 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Intel CEO Pat Gelsinger Talks PCs and AI"
+    excerpt: "Curating today’s top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment."
+    publishedDateTime: 2023-07-28T21:59:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2023-07-28/intel-ceo-pat-gelsinger-talks-pcs-and-ai-podcast"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Intel CEO Gelsinger: ‘We’re Going To Build AI Into Every Product We Build’"
     excerpt: "Gelsinger has placed his bets on Meteor Lake, a next-generation processor planned for the fall, as a way for Intel to own the coming AI PC moment. He wants Intel to have a repeat of how the vendor’s Centrino wireless computer network adapters helped the spread of Wi-Fi in the 2000s."
     publishedDateTime: 2023-07-28T14:11:00Z

@@ -35,59 +35,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "DIFC Innovation Hub Launches 9th Edition Of Fintech Accelerator Programme"
-    excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today launch"
-    publishedDateTime: 2023-07-26T07:27:00Z
-    webUrl: "https://www.albawaba.com/business/pr/difc-innovation-hub-launches-9th-edition-fintech-accelerator-programme-1528101"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/difc-innovation-hub-launches-9th-edition-fintech-accelerator-programme-1528101"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/difc-innovation-hub-launches-9th-edition-fintech-accelerator-programme-1528101"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 43
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/DIFC%20%282%29.JPG?itok=UVlnDhN3"
-        width: 1336
-        height: 876
-        isCached: true
-  - title: "Fintech startup Croissant launches with $24 million in seed funding"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-27T15:35:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97592/fintech-startup-croissant-launches-with-24-million-in-seed-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Difc Innovation Hub Launches 9Th Edition Of Fintech Accelerator Programme"
-    excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today"
-    publishedDateTime: 2023-07-26T23:13:00Z
-    webUrl: "https://menafn.com/1106705522/Difc-Innovation-Hub-Launches-9Th-Edition-Of-Fintech-Accelerator-Programme"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/26/M_986b7image_story.jpg"
-        width: 1336
-        height: 876
-        isCached: true
-  - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-27T13:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855387.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "25/DBnJZ/mOH6l/pApugf0CETZsGHZXKXFzWsrDvZBRnxvgxznKrLTfT7bIziXXeqjnM72XngihWZcx36Ui02ggfD+ISCRflV6c66eWwrv4rXxeMmHNyzo9I6BSiWbp2kxlVF6hbAYinwE/1oiF+wcKTz8tMvh2LGwfdv8b1G+1SqwngUrHnb4DiB1wrOwpi9uEEd7IoCaMM2BNJOXkB/Su/EPTiFaldmPpcXXBMhgl4vWewGP4+9TDUoNSNzJHO2uMav64vwKdVgzVtEX2QhDX0fSXvVk3oE1/o9zBBeYKy/MlWD1njbBOuth6Hxr9Vm39Srl6DyHfEK7f3jRrrvgH06WaoCprmsT6aByO5YTM=;vTJW2hg2sF7VZn0v1FT4aA=="
 ---

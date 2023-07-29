@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-pl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp"
 type: article
 quality: 77
-heat: 114
+heat: 112
 published: true
 
 provider:

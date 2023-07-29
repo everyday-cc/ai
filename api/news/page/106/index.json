@@ -2,6 +2,108 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-05-20-google-at-io-2023-weve-been-doing-ai-since-before-it-was-cool.md",
+      "title": "Google at I/O 2023: We’ve been doing AI since before it was cool",
+      "excerpt": "That Google I/O show sure was something, wasn't it? It was a rip-roaring two hours of nonstop AI talk without a break. Bard, Palm, Duet, Unicorn, Gecko, Gemini, Tailwind, Oter—there were so many cryptic AI code names thrown around it was hard to keep track of what Google was talking about.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
+      "originalUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/chrome_dcahmkPPXG-800x450.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
+      "publishedDateTime": "2023-05-20T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-china-is-using-ai-to-raise-the-dead-and-give-people-one-last-chance-to-say-goodbye.md",
+      "title": "China is using AI to raise the dead, and give people one last chance to say goodbye",
+      "excerpt": "They wanted to speak to their dead grandparents one last time, so they used artificial intelligence to rebuild loved ones they'd lost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6453d02bb4a8cd00187ac433?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
+      "publishedDateTime": "2023-05-20T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-we-put-googles-new-ai-writing-assistant-to-the-test.md",
       "title": "We Put Google’s New AI Writing Assistant to the Test",
       "excerpt": "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps.",
@@ -1123,101 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-how-ai-is-unlocking-new-ways-marketers-get-work-done.md",
-      "title": "How AI Is Unlocking New Ways Marketers Get Work Done",
-      "excerpt": "I believe there are three areas where generative AI is going to unlock new ways to get work done at a scale we’ve never seen before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645e46f53f40ac8745bd4910/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/",
-      "publishedDateTime": "2023-05-19T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-tech-digest-daily-roundup-tesla-issues-optimus-robot-update.md",
-      "title": "Tech Digest daily roundup: Tesla issues Optimus robot update",
-      "excerpt": "BBC The government must act to prepare for artificial intelligence (AI) to hit the workplace “like a freight train”, the boss of one of Britain’s leading energy companies has told Sky News. Greg Jackson, founder of Octopus, says the adoption of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "originalUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/05/Tesla-optimus-.webp?resize=788%2C443&#038;ssl=1",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
