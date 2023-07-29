@@ -193,6 +193,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-26-big-techs-ai-commitment-falls-short-for-healthcare.md",
+      "title": "Big Tech's AI Commitment Falls Short For Healthcare",
+      "excerpt": "Big tech have actively pledged to prioritize safety in their artificial intelligence products. The healthcare industry requires more than these voluntary commitments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c12b4ce75b62629516a802/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/",
+      "publishedDateTime": "2023-07-26T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-how-does-artificial-intelligence-create-new-jobs.md",
       "title": "How Does Artificial Intelligence Create New Jobs?",
       "excerpt": "While AI may reduce the demand for some jobs, it can also create new employment opportunities in previously unexplored areas.",
@@ -306,7 +358,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -358,7 +410,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -441,6 +493,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report.md",
+      "title": "50% of healthcare professionals endorse AI in clinical practice: Report",
+      "excerpt": "About  50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
+      "originalUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/07/2a253c1258143da0dbcb615b6a8e21da.jpg",
+          "width": 900,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
+      "publishedDateTime": "2023-07-24T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1360,92 +1455,6 @@
         "AI",
         "AI Hardware",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-health-care-down-on-inflation-bias-health-care-roundup.md",
-      "title": "Health Care Down on Inflation Bias -- Health Care Roundup",
-      "excerpt": "Health-care companies ticked down as traders rotated into sectors with more to gain from a moderation in inflation. Health-care providers and drug makers",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
-      "publishedDateTime": "2023-07-12T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-tempus-announces-the-gemini-non-small-cell-lung-cancer-study.md",
-      "title": "Tempus Announces the GEMINI Non-Small Cell Lung Cancer Study",
-      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, announces its GEMINI Non-small Cell Lung Cancer (NSCLC) study (NCT05236114). The Tempus-sponsored study, being run in collaboration with AstraZeneca,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

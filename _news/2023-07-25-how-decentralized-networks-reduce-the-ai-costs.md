@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentral
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Big Tech's AI costs draw attention"
-    excerpt: "Microsoft and OpenAI's partnership helped to set off an AI race, but the resulting investor euphoria could be giving way to more discerning questions."
-    publishedDateTime: 2023-07-24T22:02:00Z
-    webUrl: "https://www.axios.com/2023/07/24/microsoft-openai-earnings"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "FXqxY/5icX7yzj0/zpfMpgFM2ln/r2L1UtnO17zAYRe+E1zIBKXSOswryE5T6g2ntTO8TjqZ5Yef/3uziM0/6U9/BAIwbzPkhnLimb5oZ1HG4lfALbfMwF6cU6sKBvoa+F635E3gUs1PjP3Gb/PcHXdwvZaCpvc2t8eCh76qu3/OyxgCiRPbfenlZeu6aOBMMQEoR9x2oScIOX7HCxxS6B4GwydBeubbQkw/eVBlI8+W2Zt7daJ+g+mJQupVJQdMFU2RlGs3FMo0JewPtrpNs6nFckyFBdLWi2ghXNFOj8WA9ArGpz7RLIrEji0hoKGkucWpkj8+W2G2EVOLuqpu37xcRW86ZCCPcm/3DiaHhSw=;qdkJ5DYMZcKZ30p1U6wCSw=="
 ---

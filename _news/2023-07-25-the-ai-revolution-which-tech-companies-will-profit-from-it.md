@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI assistance revolutionising online education: Personalised learning and beyond"
-    excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
-    publishedDateTime: 2023-07-24T10:11:00Z
-    webUrl: "https://www.indiatoday.in/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 71
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/thisisengineering-raeng-bg0geue-cy8-unsplash-sixteen_nine.jpg?VersionId=EVKtVWSwKzXj.m6ShD2bAyHx4ZbZeB.9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry"
     excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
     publishedDateTime: 2023-07-24T21:24:00Z

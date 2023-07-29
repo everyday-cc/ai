@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-30-killer-robots-or-not-ais-threat-to-jobs-is-real-which-is-why-it-must-be-handled-wisely.md",
+      "title": "Killer robots or not, AI’s threat to jobs is real – which is why it must be handled wisely",
+      "excerpt": "In the Terminator series of films, the military AI Skynet becomes self-aware and decides to wipe out humanity ... Meanwhile, proponents point out that while AI can be deployed in autonomous driving, facial recognition, as a mobile phone assistant or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/e39e9827-0a8e-4fa8-b8df-f872ee2dc323_0ecd43bf.jpg?itok=1IXbtR8s&v=1688021011",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
+      "publishedDateTime": "2023-06-30T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
       "title": "The True Threat of Artificial Intelligence",
       "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
@@ -1317,59 +1369,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery.md",
-      "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
-      "excerpt": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
-      "originalUrl": "https://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

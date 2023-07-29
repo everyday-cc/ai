@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NVIDIA stock could hit $769 on ~$300 billion AI opportunity by 2027 - Mizuho"
-    excerpt: "“Assuming $30-100B AI revenues (or ~$65B at the midpoint), we estimate implied share price to reflect AI estimates for C23-25E would be $490-$769/share, and a midpoint at ~$625 PT,” the analysts concluded. The $769/share price implies Nvidia’s market cap at ~$1.9 trillion. Mizuho’s current price target on NVDA stock is $530 per share."
-    publishedDateTime: 2023-07-24T09:31:00Z
-    webUrl: "https://za.investing.com/news/nvidia-stock-could-hit-769-on-300-billion-ai-opportunity-by-2027--mizuho-432SI-2818152"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 36
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "cyrA48wWSwAcntvoUZwuyU6mFdflT4QrABW/n4irbQLpxE2+E2IGN0xRBGOodx4JPABqU0mnliBQ3fuGAm7jKwUVtxrY8oizwU06FgdMcjBnHrzMJGynHc4frr+FsiReWTrSv59rw5qoMcqe9zewCN9TKgvAL5K9+7jkACfojXsBRHd1SuUN00BWgM5NtlLdDuCOIOtB6gLnarL+r2yibStwfj82PKKfaHGZ/urr2QoFVkgn5M0/JKbv26DSD8BrVp/FxhcrZ1yz1/59xKIDHgufY4lDicR10xZtNXxCvIzDOpTo5zbf6JZRvCUpEsQhJuKSUn7h082iRgftKRFO0Y8uDxMS5B5PR/R6p1zX06g=;R3XaWkkx64kqe7CR4qjPiQ=="
 ---

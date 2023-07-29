@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/NVIDIA.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI … – NVIDIA Blog"
-    excerpt: "GTC—NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
-    publishedDateTime: 2023-07-24T10:47:00Z
-    webUrl: "https://www.inferse.com/635812/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 37
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-25525.png"
-        width: 1280
-        height: 680
         isCached: true
   - title: "More than 70% of companies are experimenting with generative AI, but few are willing to commit more spending"
     excerpt: "More than half (54.6%) of orgs are are experimenting with generative AI, but few (18.2%) expect to spend more, a VentureBeat survey finds."

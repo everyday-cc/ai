@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI … – NVIDIA Blog"
-    excerpt: "GTC—NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
-    publishedDateTime: 2023-07-24T10:47:00Z
-    webUrl: "https://www.inferse.com/635812/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 37
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-25525.png"
-        width: 1280
-        height: 680
-        isCached: true
 
 secured: "+XXfcaHeRIouZxUaxcnyGOm7jfe/6t8daPUoocGSLmypnxDxzB0XmOudCxLQG3t4W0JPHzjtYrJLtCQyb3+FO5HuR1ruS1O2ngFqSWEpOPFMu6bvcwQj7+devmA3ACXBbHqaIskwu2UqAFw97U2qBXo19lVOIzl6XamKKgNl6mA0R0nL1YAvpPCHa0je9u8i5iIZGlbYoyNedujP6xZ/CrASH+WmsWNlKWH2fe23CnHhh4yWnoV0K6pgpTyZeoT5x4lDBm5nKdOZdnjWE+psgoPK/Jn1+JA6KWCXhVjg6iJK21KdTrs5bpNlf9yq0W5oMXe8pC7B23RGrp1KzqUFvt38rOK10K77y+l356dcXXunIjetDYh62+bX2PMyhPRLxSqq2OD6Bv8WQ9lL9ocrNXLzrpe0iwgtCZmRWZ9ZMNBtT9nvmxCZZc7TMLpuVjWXV7sDHuaarVDcoCFfL1njKeycD7qa2qcUfm55v++vNt7Ek30JEU0EgBWI7QIQUL/5UslBGhiNzwxxzpaOtyfx2A==;aSvqsjTjZ1IfXZGoL0JDPw=="
 ---

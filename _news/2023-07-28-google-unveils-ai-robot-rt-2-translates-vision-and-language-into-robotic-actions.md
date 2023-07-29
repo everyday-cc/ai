@@ -71,20 +71,6 @@ related:
         width: 3294
         height: 2018
         isCached: true
-  - title: "Applying Artificial Intelligence to Robotics"
-    excerpt: "In this article, AZoRobotics explores the use of artificial intelligence in robotics, covering the challenges, applications and future prospects."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=620"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 71
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/SocialSharingImage_620_16901909350143578.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Google unveils RT-2, an AI language model for telling robots what to do"
     excerpt: "Google LLC today unveiled a new artificial intelligence model that will allow humans to speak to robots and tell them what to do by transforming words into action."
     publishedDateTime: 2023-07-28T16:21:00Z

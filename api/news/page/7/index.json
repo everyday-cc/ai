@@ -2,6 +2,215 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
+      "title": "Is This AI and Robotics Chip Stock a Buy Now?",
+      "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg",
+          "width": 3372,
+          "height": 1809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-ai-appears-more-human-on-social-media-than-actual-humans-study.md",
+      "title": "AI appears more human on social media than actual humans: study",
+      "excerpt": "An artificial intelligence study published in Science Advances found that AI-generated text on social media can appear more human than human-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
+      "originalUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bff1022-cc69-4a58-ab0c-7d0afacf8a0c/c38f9884-dfb7-4d64-9f42-d747aef5d144/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp",
+      "publishedDateTime": "2023-07-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-ai-on-the-front-lines-senate-pushes-army-to-develop-neural-sensors-to-track-soldiers-fatigue-stress.md",
+      "title": "AI on the front lines: Senate pushes Army to develop neural sensors to track soldiers’ fatigue, stress",
+      "excerpt": "Senators on the Armed Services Committee want the Pentagon to move quickly toward adopting AI-driven neural sensors for American warfighters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress",
+      "originalUrl": "https://www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-frontlines-senate-army-neural-sensors-track-soldiers-fatigue-stress.amp",
+      "publishedDateTime": "2023-07-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-our-schools-war-on-ai-is-a-national-security-threat.md",
+      "title": "Our schools’ war on AI is a national security threat",
+      "excerpt": "America’s artificial intelligence superiority is at risk, and the key contributing factors are the broken U.S. education system and fear of job loss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat",
+      "originalUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/373f793d-841a-4c28-8ed0-cc33d7e54de6/25e4f207-a021-4f29-ade6-ef88e54f89c4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp",
+      "publishedDateTime": "2023-07-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-tsmc-to-invest-29-billion-in-advanced-chip-packaging-plant-in-taiwan.md",
       "title": "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan",
       "excerpt": "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan.",
@@ -62,7 +271,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -478,7 +687,7 @@
       "originalUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -883,7 +1092,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 391,
+      "heat": 381,
       "tags": null,
       "images": [
         {
@@ -1062,211 +1271,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-mark-zuckerberg-just-changed-artificial-intelligence-forever.md",
-      "title": "Mark Zuckerberg Just Changed Artificial Intelligence Forever",
-      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/24/mark-zuckerberg-just-changed-artificial-intelligen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740797/ai-image.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ayozat-integrate-ai-into-their-deep-tech-product-tlc.md",
-      "title": "AYOZAT Integrate AI Into Their Deep Tech Product, TLC",
-      "excerpt": "With AI now built into the AYOZAT TLC core, the Company will be one of the first to integrate AI in TV channel building and curating. AYOZAT will",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ayozat-integrate-ai-into-their-deep-tech-product-tlc-1032469779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/9210/174576_ayozat1.jpg",
-          "width": 560,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-the-importance-of-ai-in-creating-situational-awareness.md",
-      "title": "The Importance Of AI In Creating Situational Awareness",
-      "excerpt": "As the way organizations operate continues to change rapidly, understanding the role of AI in sustaining situational awareness can help align several business aspects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/",
-      "publishedDateTime": "2023-07-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-artificial-intelligence-is-changing-the-world-and-your-business.md",
-      "title": "Artificial Intelligence Is Changing The World And Your Business",
-      "excerpt": "Regardless of the industry, whether your company is based around services, manufacturing, consumer or business-to-business, AI will play a role in company operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ba8e17f5fa3c5cc0d98952/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/",
-      "publishedDateTime": "2023-07-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

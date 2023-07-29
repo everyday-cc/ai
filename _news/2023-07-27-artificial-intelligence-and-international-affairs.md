@@ -41,6 +41,29 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Healthcare workers signal greater acceptance of AI"
+    excerpt: "There are variations according to different medical sectors. For example, practices such as oncology are using AI to assist their clinical works."
+    publishedDateTime: 2023-07-26T19:59:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/healthcare-workers-signal-greater-acceptance-of-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/415f40312d915e65447240989330ef93f68bf691.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "The Turing Test and Its Importance for AI Research"
+    excerpt: "Many people have argued that the Turing Test does not provide an appropriate goal for research into AI. For example, the questions in the test are limited and often based on very specific fields of knowledge."
+    publishedDateTime: 2023-07-26T00:08:00Z
+    webUrl: "https://www.wewantscience.com/the-turing-test-and-its-importance-for-ai-research/"
+    type: article
+    provider:
+      name: wewantscience
+      domain: wewantscience.com
+    quality: 19
 
 secured: "m1w4/HOcAiiEPohGS+wK7KbUixAe+jTTDT5h9FhuencJLWBWmDoIgeTZtSyM0ArP9CRq/NKQ/xu/hGrw3bm2LXzprWOU3gfLtjYAHlIeoUoZ47t0kYxZE+PU071TRj70J2EoSn6XFXl61GPmSs1aD1CtHNJcLCKav7xTcT7p4y/MyjmlbimEeN5CwcF+DnwDSRS6KNhgCKBJAGJEEFtS9lZYvsrMiX6PRqo5rrW64KfhNLWnOitn9b796Auk8EJY9zW7OglKJr+r+OazUnEAxHh5lvANImz6gwBBHehlDIXk25jbq5Qy3gTVxn4aogexQDWADSDEBjWCat23NCG61q+6LZGASOUjYaX5MNU1PBM=;RkAGMw8KKIfkBS/vDkTb5Q=="
 ---

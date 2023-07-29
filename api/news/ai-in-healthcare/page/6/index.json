@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-25-will-definitely-replace-me-americans-fear-artificial-intelligence-will-steal-their-jobs.md",
+      "title": "‘Will definitely replace me’: Americans fear artificial intelligence will steal their jobs",
+      "excerpt": "People in Texas sounded off on AI job displacement, with half of people who spoke to Fox News convinced that the tech will rob them of work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs",
+      "originalUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-insilico-medicine-receives-ind-approval-for-novel-ai-designed-usp1-inhibitor-for-cancer.md",
+      "title": "Insilico Medicine receives IND approval for novel AI-designed USP1 inhibitor for cancer",
+      "excerpt": "Insilico Medicine, a generative artificial intelligence-driven clinical stage drug discovery company, today announced that the U.S. Food and Drug Administration (FDA) recently approved the initial investigational new drug (IND) application for ISM3091 for the treatment of patients with solid tumors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/990417",
+      "originalUrl": "https://www.eurekalert.org/news-releases/990417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2a412290-7ed2-4760-b074-699493cca957/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help.md",
       "title": "How will artificial intelligence affect health care systems – will it hurt or help?",
       "excerpt": "As artificial intelligence, or AI, enters into the health care field, some experts say there is hope and harm possible for its future.",
@@ -1337,111 +1432,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
-      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
-      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "publishedDateTime": "2023-05-15T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare.md",
-      "title": "The Race Intensfies: Google Announces Bold Progress In AI, Advancing Med-PaLM 2 For Healthcare",
-      "excerpt": "AI has been all the buzz in both Silicon Valley and around the world for the last few months, especially after the release of Chat-GPT and advanced generative AI systems. This has triggered somewhat of a frantic rat-race amongst tech giants: everyone wants a piece of the AI pie, and the race to the top is intense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6461b63580f36a6d14cef342/0x0.jpg?format=jpg&crop=6058,3406,x0,y61,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/",
-      "publishedDateTime": "2023-05-14T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

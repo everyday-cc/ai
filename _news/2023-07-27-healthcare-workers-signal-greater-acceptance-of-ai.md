@@ -25,149 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "The Potential And Pitfalls Of AI In Healthcare: A Measured Approach"
-    excerpt: "It is critical that healthcare professionals and hospital executives maintain a measured approach toward AI in healthcare."
-    publishedDateTime: 2023-07-24T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
+  - title: "The Importance Of AI In Creating Situational Awareness"
+    excerpt: "As the way organizations operate continues to change rapidly, understanding the role of AI in sustaining situational awareness can help align several business aspects."
+    publishedDateTime: 2023-07-24T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64999aa003d4598ee35d4178/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 799
+        height: 801
         isCached: true
-  - title: "Big Tech's AI Commitment Falls Short For Healthcare"
-    excerpt: "Big tech have actively pledged to prioritize safety in their artificial intelligence products. The healthcare industry requires more than these voluntary commitments."
-    publishedDateTime: 2023-07-26T15:20:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/"
+  - title: "Artificial Intelligence and International Affairs"
+    excerpt: "Artificial intelligence (AI) is a topic of global concern, with debates surrounding its potential dangers and benefits, highlighting the need for international regulation. The integration of AI into society raises profound questions of ethics,"
+    publishedDateTime: 2023-07-27T11:06:00Z
+    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/artificial-intelligence-and-international-affairs/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c12b4ce75b62629516a802/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "50% of healthcare professionals endorse AI in clinical practice: Report"
-    excerpt: "About  50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed"
-    publishedDateTime: 2023-07-24T11:13:00Z
-    webUrl: "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report"
-    ampWebUrl: "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/2a253c1258143da0dbcb615b6a8e21da.jpg"
-        width: 900
-        height: 494
-        isCached: true
-  - title: "AI in clinical practice gains approval from 50% of healthcare professionals: Study"
-    excerpt: "The report, based on a survey of 426 healthcare industry professionals between March -June, offers insights into the current utilisation and prospects of AI in eight major pharmaceutical markets -- the US,"
-    publishedDateTime: 2023-07-24T11:38:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/ai-in-clinical-practice-gains-approval-from-50-of-healthcare-professionals-study-2023-07-24-882764"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/ai-in-clinical-practice-gains-approval-from-50-of-healthcare-professionals-study-2023-07-24-882764"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/ai-in-clinical-practice-gains-approval-from-50-of-healthcare-professionals-study-2023-07-24-882764"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 68
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/artificial-intelligence-freepik-1690198214.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Viewpoint: A High Reliability Approach to AI in Healthcare"
-    excerpt: "Explore how airlines use High Reliability Organizations (HROs) principles to ensure the safe and reliable use of AI in healthcare. Drawing on examples from the"
-    publishedDateTime: 2023-07-25T13:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/viewpoint-a-high-reliability-approach-to-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Australian Institute of International Affairs
+      domain: internationalaffairs.org.au
     quality: 54
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2023/07/Picture1.jpg"
+        width: 1312
+        height: 677
         isCached: true
-  - title: "The AI apocalypse might begin with a cost-cutting healthcare algorithm"
-    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us."
-    publishedDateTime: 2023-07-27T15:45:00Z
-    webUrl: "https://www.codastory.com/newsletters/cigna-ai-healthcare-algorithm/"
+  - title: "The Turing Test and Its Importance for AI Research"
+    excerpt: "Many people have argued that the Turing Test does not provide an appropriate goal for research into AI. For example, the questions in the test are limited and often based on very specific fields of knowledge."
+    publishedDateTime: 2023-07-26T00:08:00Z
+    webUrl: "https://www.wewantscience.com/the-turing-test-and-its-importance-for-ai-research/"
     type: article
     provider:
-      name: Coda Story
-      domain: codastory.com
-    quality: 54
-    images:
-      - url: "https://www.codastory.com/wp-content/uploads/2023/02/ATfacebook.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare leaders urge caution on AI"
-    excerpt: "Healthcare leaders are urging caution when using emerging AI technologies such as generative AI and large language models, as they could lead to inaccurate info"
-    publishedDateTime: 2023-07-28T19:44:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-urge-caution-on-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AI in Healthcare to Address Stroke Disparities and Ensure Equitable Access"
-    excerpt: "Artificial Intelligence (AI) has the potential to revolutionize healthcare, particularly in addressing stroke disparities and providing personalized care. However, concerns about bias and limited access must be acknowledged."
-    publishedDateTime: 2023-07-25T12:46:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-in-healthcare-to-address-stroke/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 52
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-25_12-34-05.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Hands-on experience can help healthcare workers appreciate AI more: Report"
-    excerpt: "As artificial intelligence (AI) increasingly finds its way into healthcare, physicians can recognise the true value of its advantages in clinical practice more prominently after successful implementation and regular usage in their day-to-day work,"
-    publishedDateTime: 2023-07-27T11:56:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104133"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 52
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_270723_fn.jpg"
-        width: 441
-        height: 244
-        isCached: true
-  - title: "Nearly half of healthcare professionals endorse AI in clinical practice: Report"
-    excerpt: "About 50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed its use in clinical practice and administrative tasks, according to a report Monday."
-    publishedDateTime: 2023-07-24T13:06:00Z
-    webUrl: "https://www.orissapost.com/nearly-half-of-healthcare-professionals-endorse-ai-in-clinical-practice-report/"
-    type: article
-    provider:
-      name: orissapost
-      domain: orissapost.com
-    quality: 30
+      name: wewantscience
+      domain: wewantscience.com
+    quality: 19
 
 secured: "6JobXo7L8DMYE9IOf/uMHhoemyb2U4v8Pszp/K7rxEMCO/xeoYcCqDOpa1evsflAmRRVAno6M/EkfTU0vVHDwqgRm1cvzWgM4XBCm6tRodhgDE/6xKNHN4mEB4PdDEy+j/MWtmv1v85gZKaFv5k/a9L2OjeqOkHvU0USD+wWH4PoGtzGF+PcguGQlLlYLYRz20Kbx0igA407gCJtlVs95w2M5FsC1ZyFLMFL7arrHhKycPKSvU60FCOwzM2rk7xe5HjSez9yAgc9kbctKf5Rg04ZQlEH4WigBR1Cgk+hvq5gXKeazCTRGrD3B3mptnrQKyd06h3O0V0RPsa2H6X65jrF8CNwRJ1rsZ04PcIGzFyFsPlJMOnxIo49ROp2J4SU7vBfyzx0DDv9LP+Ra+0IVKAAt24a+/ZWVzP4BXguh41JTzA/Iu7RDUvIFWW5BcRvMrpyFpDT0KhyLBlLmZzjYChk0Dgi+vxABQnNj1Ibg7v6p33BKDy4bRe+wN3Gbdi7G+OoIiauHeUedU5UA4u9uQ==;F9ZlhvoWt9rgMCSuhDwPkw=="
 ---

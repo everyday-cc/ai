@@ -19,36 +19,68 @@ topics:
   - AI
 
 related:
-  - title: "How Decentralized Networks Reduce The AI Costs"
-    excerpt: "This untapped potential provides a remarkable opportunity for AIGC. As an illustration, an AI startup based in New York could dispatch its training tasks to servers located in the Middle East. By doing so, the aggregated costs, encompassing server expenses ..."
-    publishedDateTime: 2023-07-25T11:03:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/"
+  - title: "Big Tech's AI Commitment Falls Short For Healthcare"
+    excerpt: "Big tech have actively pledged to prioritize safety in their artificial intelligence products. The healthcare industry requires more than these voluntary commitments."
+    publishedDateTime: 2023-07-26T15:20:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bfa27ae60700645ff13678/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c12b4ce75b62629516a802/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Startup to Use Generative AI to Create ‘Personalized News Network’"
-    excerpt: "Channel 1, a new startup founded by Tosh.0 producer Scott Zabielski and tech entrepreneur Adam Mosam, plans to launch a service by the end of this year that uses Generative AI to create “personalized” news networks customized to individual viewers’ tastes."
-    publishedDateTime: 2023-07-27T14:42:00Z
-    webUrl: "https://www.tvtechnology.com/news/startup-to-use-generative-ai-to-create-personalized-news-network"
+  - title: "Healthcare leaders urge caution on AI"
+    excerpt: "Healthcare leaders are urging caution when using emerging AI technologies such as generative AI and large language models, as they could lead to inaccurate info"
+    publishedDateTime: 2023-07-28T19:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-urge-caution-on-ai.html"
     type: article
     provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 37
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2FixELCYkdNtCjqYDYmuiK-1200-80.jpg"
-        width: 1200
-        height: 676
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
+  - title: "3 Big Tech stocks to profit from AI"
+    excerpt: "But, like Microsoft, Alphabet is at the centre of AI. It has also spent a lot of money building a cloud offering and is now number three in the sector after Amazon and Microsoft. This is helping to tilt the overall group revenue mix from away from advertising as it also caters to the need for processing power."
+    publishedDateTime: 2023-07-25T09:26:00Z
+    webUrl: "https://moneyweek.com/investments/share-tips/3-big-tech-stocks-to-profit-from-ai"
+    type: article
+    provider:
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ouyHtjzvyD9tLYQsVga4Un-1200-80.jpg"
+        width: 1200
+        height: 806
+        isCached: true
+  - title: "Big tech prepares its next AI pitch"
+    excerpt: "As big tech earnings approach, investors will be on the lookout for company commentary on when AI prospects will turn to real profits."
+    publishedDateTime: 2023-07-24T19:30:00Z
+    webUrl: "https://www.aol.com/finance/big-tech-prepares-next-ai-193043993.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
+  - title: "AI builds momentum for smarter health care"
+    excerpt: "Life sciences anticipates huge opportunities as AI helps boost targeted drug discovery, personalized health care, and more efficient production"
+    publishedDateTime: 2023-07-27T18:30:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/27/1076687/ai-builds-momentum-for-smarter-health-care/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "32I2if3X9CiH7QHvYgRU435+riB/QEMYnYG3XcHdZ5PkZpmqbRxUkJ4H8nCxbYTs7SL2oLgglzhno3FLyAHYxarpE1czbSSzkT1K5guRr957aEwp2hPmVc4cZ9fwu4ETTkQOVWUSgpXKAh0cuhRLUOGD9g57nHiiV4LUTEz/AOn9XoQJ+qQug1oJ5N9E8UMVPMyQIVva8TVJFW/CcIM7OIdRAAfJsc7MCMh5u3g1e8rp7iFNv9SER+ulSeZko7KOV594LEho7e0sDc0Thce7T+athXR9tBI1HKVPSzDPP4ecGQyuTF/gMevNEDnVi9KsXqRrMbkbmjqEf0Zgi0swpF5o2u+cQsB/QoH6mvOzYJbw+6xFcHD4Jo0JSUOJZ6Ag0qujGwY6bxsIZo5/WpWCKgyhWPL7KsACMeSUS60/Prl5ih1nAd/18knJD9cvQvM162lDmtv/3HiPpXb0/5azgQg8bInD+pO4EylOY7p2JkRK/axJFTGvlGJqW/EMFxI2yji6CdeqEYO0LaXkh6j2iQ==;kW6BuxsQu0YkXmwafhMwPA=="
 ---

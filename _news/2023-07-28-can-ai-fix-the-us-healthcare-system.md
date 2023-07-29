@@ -39,6 +39,34 @@ related:
         width: 1200
         height: 1799
         isCached: true
+  - title: "AI in Healthcare to Address Stroke Disparities and Ensure Equitable Access"
+    excerpt: "Artificial Intelligence (AI) has the potential to revolutionize healthcare, particularly in addressing stroke disparities and providing personalized care. However, concerns about bias and limited access must be acknowledged."
+    publishedDateTime: 2023-07-25T12:46:00Z
+    webUrl: "https://www.cryptopolitan.com/ai-in-healthcare-to-address-stroke/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 52
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-25_12-34-05.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Hands-on experience can help healthcare workers appreciate AI more: Report"
+    excerpt: "As artificial intelligence (AI) increasingly finds its way into healthcare, physicians can recognise the true value of its advantages in clinical practice more prominently after successful implementation and regular usage in their day-to-day work,"
+    publishedDateTime: 2023-07-27T11:56:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104133"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 52
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_270723_fn.jpg"
+        width: 441
+        height: 244
+        isCached: true
 
 secured: "q56MXTKoG7QNaAGtZ4gqv7YytVLlvMZHHYDnIOt5PNMUFOjUo5dDH1j/0UDRLpeOrCJ+9I4/fxa7bmkwB0OpHw0F+qhVf7RDKgloJkLILYLUcaQDt7J4Kj8OmcmHJZnA7flNFNVvBC2zM0nenf40kRQx21Bh7sadOLLjPoeSj8TlqVk6lNusx8jKLwytdo/kBv8PiNtGq1AZMzuL/kyRudZr1LxpVEJdx4dcnVPjoDP7zkeUyriC+fO9OfOAr+AWVOdHuKx14Y88VplbR6b0YF2GijOpuey/DK9gM1iCNS9hmyt0VZ8I08/kONaOLngujPE2gpMTHLD3gSoTWRi4M2a2WwvPbzyJ0bJQUTzFNIXqNFd8BblysUCfo5j7A3K1khiwhN3AsWxVxUQhNJ+WIO+/YzfEexTXJh5Eoplvy7675IJny8dNGZ14DFVB0jf3DCYFH5i7RK9rdDKYxY0R3u9SJ72pXI2+xLzgQmHSZ4HRQBqn4/Y4a8iZRupP/cDulJfBXKeulWcXBm/foF1+NQ==;pljZnNlxP9Ux7nh4fM7jtw=="
 ---

@@ -149,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -328,49 +328,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-personal-finance-app-totallymoney-partners-with-bud-financial-to-launch-ai.md",
-      "title": "Personal Finance App TotallyMoney Partners with Bud Financial to Launch AI...",
-      "excerpt": "As spiralling interest rates and inflation threaten to push ever wider swathes of UK consumers deeper into financial discomfort and distress, leading fintech experts and tech-savvy lenders empower millions of consumers to unlock holistic financial data to gain fairer access to the right financial products.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered",
-      "originalUrl": "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_2_16.png",
-          "width": 900,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1373,6 +1330,49 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/33095666",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33095666",
       "publishedDateTime": "2023-07-03T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-global-fintech-market-research-2023-a-bundled-research-offering-of-5-reports.md",
+      "title": "Global Fintech Market Research 2023: A Bundled Research Offering of 5 Reports",
+      "excerpt": "Fintech is one of the fastest-growing technology areas because it leverages AI to implement automation. The use of digital payment solutions is accelerating. The need for the development of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33093658/global-fintech-market-research-2023-a-bundled-research-offering-of-5-reports",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33093658/global-fintech-market-research-2023-a-bundled-research-offering-of-5-reports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33093658",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33093658",
+      "publishedDateTime": "2023-07-03T03:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

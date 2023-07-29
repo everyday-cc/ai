@@ -34,6 +34,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Google's Genesis AI Tool Could Write the News. It Should Be Stopped"
+    excerpt: "As Google CEO Sundar Pichai opened the tech giant's annual I/O developer conference in May, the phrase \"Making AI helpful for everyone\" was emblazoned on the crisp white screen behind him. Pichai noted this idea was the most profound way to advance the company's mission of organizing the world's information."
+    publishedDateTime: 2023-07-27T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/googles-genesis-ai-tool-could-write-the-news-it-should-be-stopped/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "If artificial intelligence takes your job, AI should pay you, argues actor"
     excerpt: "\"'Generative AI' cannot generate anything at all without first being trained on massive troves of data it then recombines. Who produces that training data? People do. And those people deserve residuals,"
     publishedDateTime: 2023-07-26T11:54:00Z

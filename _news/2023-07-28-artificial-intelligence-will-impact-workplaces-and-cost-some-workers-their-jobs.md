@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketplace.org/2023/07/27/artificial-intelligence-impac
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Marketplace
@@ -27,110 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "How AI will impact the developer experience"
-    excerpt: "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers."
-    publishedDateTime: 2023-07-24T09:08:00Z
-    webUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html"
-    ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
+  - title: "AI will take more jobs from women than men by 2030, report says"
+    excerpt: "Women hold more low-paying jobs than men and are over-represented in industries most likely to shrink, according to research by the McKinsey Global Institute."
+    publishedDateTime: 2023-07-26T14:09:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/07/26/ai-women-workforce-automation/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
     images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVBAJSYIOPQCK4CLFJQ3EVBI5Q.JPG&w=1440"
+        width: 1440
+        height: 961
         isCached: true
-  - title: "How AI Is Impacting DevOps"
-    excerpt: "There are some unique aspects of DevOps that make it uniquely adaptable to AI augmentation. Because code is ultimately language, and large language models (LLMs) are the heart of GPT functionality, LLMs and GPTs are especially well suited toward capabilities like code generation."
-    publishedDateTime: 2023-07-28T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
+  - title: "Workers don’t feel AI is a threat to their jobs yet, Pew survey finds"
+    excerpt: "Many workers who are most exposed to AI don’t feel that the technology presents a risk to their jobs, according to fresh data from the Pew Research Center, a finding that contrasts with experts’ warnings that massive workplace upheaval is coming."
+    publishedDateTime: 2023-07-26T17:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/07/26/ai-worker-attitudes-pew-research-survey/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "‘Every engineer will need to have some artificial intelligence expertise’"
-    excerpt: "Like cloud, every engineer will be expected to have some AI expertise – AI programming or usage of AI models/libraries, data analysis, AI system governance and such. Organisations are now even talking about the role of a chief AI ethics officer. What initiatives and solutions has Publicis Sapient implemented using GenAI?"
-    publishedDateTime: 2023-07-26T23:00:00Z
-    webUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/"
-    ampWebUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 58
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/artificial-intqqq.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
-    excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
-    publishedDateTime: 2023-07-24T19:56:00Z
-    webUrl: "https://www.crn.com/news/software/intel-seeks-to-win-over-ai-developers-with-open-source-reference-kits"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0283-18921cb6c571-03fcb9b1f615-1000/1630383708197.jpeg"
-        width: 251
-        height: 251
-        isCached: true
-  - title: "LaLiga transforms fan experience with AI"
-    excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
-    publishedDateTime: 2023-07-24T23:48:00Z
-    webUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Why AI Will Never Replace Reporters at the NYT"
-    excerpt: "Cary Grant, Ralph Bellamy, and Rosalind Russel in His Girl Friday, Hoard Hawks, director, Columbia Pictures, 1940. Screenshot. Time: Spring 2024"
-    publishedDateTime: 2023-07-28T05:31:00Z
-    webUrl: "https://www.counterpunch.org/2023/07/28/why-ai-will-never-replace-reporters-at-the-nyt/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 39
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
-        width: 1429
-        height: 1053
-        isCached: true
-  - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
-    excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."
-    publishedDateTime: 2023-07-26T18:43:00Z
-    webUrl: "https://www.news5cleveland.com/news/local-news/no-a-bot-didnt-write-this-story-how-artificial-intelligence-will-expand-further-into-everyday-life"
-    type: article
-    provider:
-      name: Cleveland
-      domain: news5cleveland.com
-    quality: 22
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6540a6c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F06%2F20%2Ff2af123e4957866a6cc5ac5bf909%2Fchat-gpt-still.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "p4OAlj4NXYLDFVIA5Z393dzGRBBzug4x9tc3u9WkrXFYyE9opnBi3drhz6MWlNxbEpZjS00efey/cTHtDeT/P1vOG4JnNoC7CDGKz+Uqd8NCzERvl6G7U/5XADFCUrI4lcLUAj1RdVRHqKhKL8df4W6piz15H+cHk0nOh+ZkF89Gfy4l3P1QdpUBhjIBqh7Q40cRgDSAeyFzZpsgopVjGfn+sb5rWrF/np4wkdnKGfcJq93p6DENNyRRpw9M3lV8dkXPXDFlV+8vllU4mo2HLG1AXW5K2tggIKfWi5K5JblywsJdq4rtLoLZ+RfU11iadQIiKm3mDr9lBLPudJwyQH9o0az4bOwliaSo1pMI8IMO6s5i5sQsSoJ1d3DmzXMsakLZNSEFtnaUABsrS+yLH9avJnRiXGF10QRAu5w1HugoayCgFfCfLuKnmYBL0anG+PBkiL+x0QOttHXacl5gRvfjGwsHy9beEhpt5h01qr9bF75GT5oUNNLO5xmViFZQ7zbgPCrGtXRbDgnQpJpDUQ==;+ZQ8WHUG9sSsL9TD3TE+zg=="
 ---

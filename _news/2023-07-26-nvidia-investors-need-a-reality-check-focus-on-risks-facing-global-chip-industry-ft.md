@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk claims Tesla will spend \"well over\" $1bn on Dojo supercomputer, alongside Nvidia GPUs, for \"100 exaflops\" of AI"
-    excerpt: "Tesla CEO Elon Musk claimed that the company will spend more than $1 billion over the next year on its Dojo supercomputer. The supercomputer uses the custom Dojo D1 chip architecture designed by the automotive company for training self-driving vehicle systems."
-    publishedDateTime: 2023-07-24T09:05:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/elon-musk-claims-tesla-will-spend-well-over-1bn-on-dojo-supercomputer-alongside-nvidia-gpus-for-100-exaflops-of-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 46
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/tesla_supercomp.fb856515.fill-1200x630.png"
-        width: 750
-        height: 395
-        isCached: true
   - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
     excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
     publishedDateTime: 2023-07-25T01:30:00Z

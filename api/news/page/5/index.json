@@ -2,6 +2,147 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-26-how-does-artificial-intelligence-create-new-jobs.md",
+      "title": "How Does Artificial Intelligence Create New Jobs?",
+      "excerpt": "While AI may reduce the demand for some jobs, it can also create new employment opportunities in previously unexplored areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfeb8f0100529935b8ced8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/amp/",
+      "publishedDateTime": "2023-07-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-what-is-zero-based-budgeting.md",
+      "title": "What is zero-based budgeting?",
+      "excerpt": "Zero-Based Budgeting (ZBB) is a strategic budgeting approach that mandates a fresh evaluation of all expenses during each budgeting cycle.\nThe post What is zero-based budgeting? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:25:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
+      "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
+      "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "originalUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-10-ways-the-oil-and-gas-industry-can-leverage-digital-twin-technology.md",
       "title": "10 ways the oil and gas industry can leverage digital twin technology",
       "excerpt": "In the era of digital transformation, digital twins are emerging as a potent solution to energy production challenges. \nThe post 10 ways the oil and gas industry can leverage digital twin technology appeared first on IBM Blog.\n",
@@ -95,7 +236,7 @@
       "originalUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 289,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -233,6 +374,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-26-metas-open-source-llama-upsets-the-ai-horse-race.md",
+      "title": "Meta’s Open Source Llama Upsets the AI Horse Race",
+      "excerpt": "Meta is giving its answer to OpenAI’s GPT-4 away for free. The move could intensify the generative AI boom by making it easier for entrepreneurs to build powerful new AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race/",
+      "originalUrl": "https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64befd4420abe9537824f941/191:100/w_1280,c_limit/072423-business-meta-llama-2.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-the-human-ai-symbiosis-embracing-collaboration-for-a-smarter-future.md",
       "title": "The Human-AI Symbiosis: Embracing Collaboration For A Smarter Future",
       "excerpt": "It's important that we consider the possible future that harnesses unique strengths of both humans and AI to drive innovation, productivity and societal progress.",
@@ -292,7 +484,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -344,7 +536,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -798,7 +990,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1037,203 +1229,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system.md",
-      "title": "Make The Doctor’s Office Fair! AI Can Help Create A More Equitable Healthcare System",
-      "excerpt": "Bringing a level of scrutiny to AI processes in healthcare, Marzyeh Ghassemi has some solutions for harmful bias in systems that, as a society, we want to root out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c033dd228eb00488105e80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
-      "publishedDateTime": "2023-07-25T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer.md",
-      "title": "Stop Crashes! Using AI To Predict Car Crashes, And Make Roads Safer",
-      "excerpt": "“Imagine you put the world's safest driver and the world's best vehicle on our roads,” he said. “There's an inherent level of extrinsic risk caused by other vehicles, caused by the nature of the road geometry, and topology.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c02de5f585744f48b8ced8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/amp/",
-      "publishedDateTime": "2023-07-25T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-indian-tech-giant-wipro-to-invest-1b-in-ai.md",
-      "title": "Indian tech giant Wipro to invest $1B in AI",
-      "excerpt": "'Where's the evidence?': Democrat reacts to McCarthy's impeachment threat against Biden",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
-      "originalUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230725160137-exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
-      "publishedDateTime": "2023-07-25T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-your-household-robot-should-be-a-general-ai-like-you.md",
-      "title": "Your Household Robot Should Be A General AI- Like You!",
-      "excerpt": "This is a problem that a lot of engineers are thinking about, as noted in Leslie Kaelbling’s presentation on the difference between a robot factory and what happens",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-robot-should-be-a-general-ailike-you/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-robot-should-be-a-general-ailike-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

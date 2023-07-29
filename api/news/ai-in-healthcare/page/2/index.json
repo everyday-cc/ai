@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-13-health-care-down-on-inflation-bias-health-care-roundup.md",
+      "title": "Health Care Down on Inflation Bias -- Health Care Roundup",
+      "excerpt": "Health-care companies ticked down as traders rotated into sectors with more to gain from a moderation in inflation. Health-care providers and drug makers",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "publishedDateTime": "2023-07-12T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-tempus-announces-the-gemini-non-small-cell-lung-cancer-study.md",
+      "title": "Tempus Announces the GEMINI Non-Small Cell Lung Cancer Study",
+      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, announces its GEMINI Non-small Cell Lung Cancer (NSCLC) study (NCT05236114). The Tempus-sponsored study, being run in collaboration with AstraZeneca,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-what-types-of-ai-are-being-used-in-healthcare.md",
       "title": "What Types of AI Are Being Used in Healthcare?",
       "excerpt": "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold.",
@@ -1278,93 +1364,6 @@
       "provider": {
         "name": "Kentucky Today",
         "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-wisconsin-healthcare-system-using-artificial-intelligence.md",
-      "title": "Wisconsin healthcare system using artificial intelligence",
-      "excerpt": "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "originalUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "cdnAmpWebUrl": "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "publishedDateTime": "2023-06-28T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WISN 12 NEWS",
-        "domain": "wisn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-new-wef-research-identifies-revolutionary-healthcare-ai-applications.md",
-      "title": "New WEF research identifies revolutionary healthcare AI applications",
-      "excerpt": "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
-      "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
-      "publishedDateTime": "2023-06-28T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null

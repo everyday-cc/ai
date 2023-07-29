@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI assistance revolutionising online education: Personalised learning and beyond"
-    excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
-    publishedDateTime: 2023-07-24T10:11:00Z
-    webUrl: "https://www.indiatoday.in/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 71
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/thisisengineering-raeng-bg0geue-cy8-unsplash-sixteen_nine.jpg?VersionId=EVKtVWSwKzXj.m6ShD2bAyHx4ZbZeB.9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The AI revolution: Which tech companies will profit from it?"
     excerpt: "Since the announcement of ChatGPT late last year, artificial intelligence (AI) has become the buzzword on everyone’s lips. In this Q&A article, members of global investment manager Schroder’s public and private equities team – including global sector specialists Jonathan McMullan,"
     publishedDateTime: 2023-07-25T09:21:00Z

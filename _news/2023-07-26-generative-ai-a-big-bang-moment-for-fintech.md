@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 239
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lessons From The History Of FinTech"
-    excerpt: "You could argue that the journey of the fintech industry first started in the 19th century when Western Union launched the Electronic Transfer Fund (ETF) system. However, it was the 2008 financial crisis that accelerated the movement, and a wave of new banking regulation paved the way for innovative solutions to enter the industry."
-    publishedDateTime: 2023-07-24T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/lessons-from-the-history-of-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/lessons-from-the-history-of-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/lessons-from-the-history-of-fintech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ba8bb0817e55774abd357d/0x0.jpg?format=jpg&crop=2011,1132,x0,y208,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Italy’s largest investment bank pledges to back UK fintech startups"
-    excerpt: "London-based startup accelerator Founders Factory has gained a new partner in the form of Mediobanca. The Milan-based investment bank is looking to increase its presence in the UK, and has pledged €12mn to the joint venture."
-    publishedDateTime: 2023-07-24T10:53:00Z
-    webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FLondonfintech-e1690195741719.jpg&signature=ab996187a9f4eac7a6b859adaaf82c43"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "4 insights to kick-start your day, featuring Twitter’s fintech makeover"
     excerpt: "Twitter’s fintech pivot; Coffee Day insolvency; Byju’s loan deal; and tech co’s on AI laws. Bye-bye, blue birdie! This just happened. Twitter changes its logo to X. Hidden in plain sight. The new logo is a throwback to one of the early ventures that Elon Musk first made a name with — X."
     publishedDateTime: 2023-07-25T00:53:00Z

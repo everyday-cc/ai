@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-tra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

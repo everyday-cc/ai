@@ -25,111 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "How AI will impact the developer experience"
-    excerpt: "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers."
-    publishedDateTime: 2023-07-24T09:08:00Z
-    webUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html"
-    ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI Is Impacting DevOps"
-    excerpt: "There are some unique aspects of DevOps that make it uniquely adaptable to AI augmentation. Because code is ultimately language, and large language models (LLMs) are the heart of GPT functionality, LLMs and GPTs are especially well suited toward capabilities like code generation."
-    publishedDateTime: 2023-07-28T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
+  - title: "Top News Publishers Are Reportedly Planning To Sue AI Firms"
+    excerpt: "The New York Times, News Corp, Axel Springer, Dotdash Meredith owner IAC are reportedly banding together to sue AI giants for using the publishers’ content to train their AI models."
+    publishedDateTime: 2023-07-24T11:13:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "‘Every engineer will need to have some artificial intelligence expertise’"
-    excerpt: "Like cloud, every engineer will be expected to have some AI expertise – AI programming or usage of AI models/libraries, data analysis, AI system governance and such. Organisations are now even talking about the role of a chief AI ethics officer. What initiatives and solutions has Publicis Sapient implemented using GenAI?"
-    publishedDateTime: 2023-07-26T23:00:00Z
-    webUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/"
-    ampWebUrl: "https://www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/every-engineer-will-need-to-have-some-artificial-intelligence-expertise/3188530/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 58
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/artificial-intqqq.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64be5c6b2b786bbad2de7b89/0x0.jpg?format=jpg&crop=3543,1993,x0,y275,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence will impact workplaces and cost some workers their jobs"
-    excerpt: "A new report from the McKinsey Global Institute says some will lose their jobs and low-wage workers are the most likely to be hit."
-    publishedDateTime: 2023-07-27T22:40:00Z
-    webUrl: "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/"
-    ampWebUrl: "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/"
+  - title: "Tension rises among publishers that fear AI might replace media"
+    excerpt: "The IAC as well as other reputable media publishing bodies fear that AI might replace the media, hence the need to fight back."
+    publishedDateTime: 2023-07-25T22:03:00Z
+    webUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 55
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-486107054-e1690492073918.jpg"
-        width: 3000
-        height: 1687
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
+        width: 1345
+        height: 900
         isCached: true
-  - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
-    excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
-    publishedDateTime: 2023-07-24T19:56:00Z
-    webUrl: "https://www.crn.com/news/software/intel-seeks-to-win-over-ai-developers-with-open-source-reference-kits"
+  - title: "As Publishers Seek AI Payments, AP Gets a First-Mover Safeguard"
+    excerpt: "The Associated Press’s pact with OpenAI gives it the right to reset terms if another publisher gets a better deal."
+    publishedDateTime: 2023-07-28T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/as-publishers-seek-ai-payments-ap-gets-a-first-mover-safeguard-f5a6f186"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0283-18921cb6c571-03fcb9b1f615-1000/1630383708197.jpeg"
-        width: 251
-        height: 251
-        isCached: true
-  - title: "LaLiga transforms fan experience with AI"
-    excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
-    publishedDateTime: 2023-07-24T23:48:00Z
-    webUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "What top tech leaders are saying about artificial intelligence"
+    excerpt: "With artificial intelligence (AI) rising up corporate and societal agendas, we gauge the views of the key tech leaders in the space"
+    publishedDateTime: 2023-07-26T15:43:00Z
+    webUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-about-artificial-intelligence-123505879/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
+      name: Information Age
+      domain: information-age.com
+    quality: 37
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
-    excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."
-    publishedDateTime: 2023-07-26T18:43:00Z
-    webUrl: "https://www.news5cleveland.com/news/local-news/no-a-bot-didnt-write-this-story-how-artificial-intelligence-will-expand-further-into-everyday-life"
-    type: article
-    provider:
-      name: Cleveland
-      domain: news5cleveland.com
-    quality: 22
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6540a6c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F06%2F20%2Ff2af123e4957866a6cc5ac5bf909%2Fchat-gpt-still.jpg"
-        width: 1200
-        height: 630
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/07/what-top-tech-leaders-say-about-artificial-intelligence-1-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "o5qrindlqITfm5Z9KVEyaf83sneGqazlo47J01pi3Odxn+bSyDiOKPYs+QwRCW+bq5mliMNwyfBqgiD/SB0UkTosUT8fN2XQmOoRgZXz//Lardg/PyxT08mqUpYuJcHC69rf6xvVTxQjFGR+V6OwYRHteIdzm2LO4bCDOgMSQPtYGb2GH7vUmxR9w5FnmjrHeOyJdSPx8DDtefzkrUN0KooItPMRM8aPsuz+jsJLBIlTYTeeJ687kEaHF3Cpb6OhXFH5nqmHLPntqECuMD+lGLds1wDbTCCURUDKJjwy7ZMi5hPhjwW06okA/8GLD9XZc3iUZkBykaHXXdn1TYU8uzsMougmbBWBdyrpxU600Yo=;uh+vr3X5ENcBrx5RFvewKQ=="

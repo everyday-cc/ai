@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 391
+heat: 381
 published: true
 
 provider:
@@ -219,20 +219,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Amara.ai an HR technology startup with an Interactive AI chatbot"
-    excerpt: "Amara.ai an HR technology startup with an Interactive AI chatbot - Amara is an AI-powered chatbot that has transformed the employee experience since its inception in"
-    publishedDateTime: 2023-07-24T09:58:00Z
-    webUrl: "https://www.siliconindia.com/news/general/amaraai-an-hr-technology-startup-with-an-interactive-ai-chatbot-nid-224263-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/DKX8hMk1.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Artificial Intelligence and ChatGPT: Friend, Foe, or Both"
     excerpt: "Although ESI is still important, generative artificial intelligence (AI), especially ChatGPT, has taken the world by storm."

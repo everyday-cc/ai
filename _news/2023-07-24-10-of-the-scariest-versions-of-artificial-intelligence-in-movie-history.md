@@ -68,20 +68,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
-    excerpt: "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!"
-    publishedDateTime: 2023-07-24T10:01:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg"
-        width: 6000
-        height: 4002
-        isCached: true
   - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
     excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
     publishedDateTime: 2023-07-28T09:00:00Z

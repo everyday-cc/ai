@@ -2,6 +2,211 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-07-14-a-top-ai-expert-says-the-technology-is-still-in-its-very-early-phase-were-only-at-the-iphone-2g-3g-point.md",
+      "title": "A top AI expert says the technology is still in its very early phase: 'We're only at the iPhone 2G, 3G point.'",
+      "excerpt": "Stability AI's CEO, Emad Mostaque, said during a roundtable discussion that he believed the real force of AI would be felt next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
+      "originalUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b13a4a9751e300192a14db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
+      "publishedDateTime": "2023-07-14T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-dont-pause-act-how-to-unlock-ais-vast-potential-by-driving-more-trustworthy-and-responsible-ai.md",
+      "title": "Don't Pause, Act: How to Unlock AI's Vast Potential by Driving More Trustworthy and Responsible AI",
+      "excerpt": "While the pace of recent advancements has been breathtaking, some of the biggest AI advances just over the horizon could be even more profound.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
+      "originalUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2257353/keyboard.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
+      "publishedDateTime": "2023-07-14T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-seven-ways-ai-can-make-your-revenue-team-more-efficient.md",
+      "title": "Seven Ways AI Can Make Your Revenue Team More Efficient",
+      "excerpt": "Dead, lost or stalled opportunities are a drag, but all hope is not lost. You don’t want to spend a lot of time and effort on them, but with AI you can try to reengage them without a heavy human lift. With historical account data for context and generative AI, an AI email assistant can create relevant content that keeps you top of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b065ab9cfdbd0792ee1987/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/amp/",
+      "publishedDateTime": "2023-07-14T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-theres-only-one-way-to-alleviate-anxiety-about-aitalk-about-it.md",
+      "title": "There’s Only One Way To Alleviate Anxiety About AI—Talk About It",
+      "excerpt": "Embracing AI as a powerful tool, communicators unlock a world of endless possibilities, effortlessly crafting compelling narratives and delivering impactful messages that leave a lasting imprint on the minds of their audiences. (This isn't my favorite opening sentence. But more on that later.)",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
+      "publishedDateTime": "2023-07-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-why-ai-detectors-think-the-us-constitution-was-written-by-ai.md",
       "title": "Why AI detectors think the US Constitution was written by AI",
       "excerpt": "If you feed America's most important legal document—the US Constitution—into a tool designed to detect text written by AI models like ChatGPT, it will",
@@ -978,202 +1183,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-ai-helping-airlines-forecast-weather-to-reduce-flight-delays.md",
-      "title": "AI helping airlines forecast weather to reduce flight delays",
-      "excerpt": "The nation’s airlines are navigating a summer of weather extremes including record heat, rain, tornadoes, lightning and historic flooding. NBC News’ Tom Costello has more details on how artificial intelligence is now helping to micro-forecast the weather to help cut flight delays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-helping-airlines-forecast-weather-to-reduce-flight-delays-188361797722",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-helping-airlines-forecast-weather-to-reduce-flight-delays-188361797722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689290656255_nn_tco_air_turbulence_can_ai_manage_flight_schedules_230713_1920x1080-n3jjnw.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188361797722",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188361797722",
-      "publishedDateTime": "2023-07-13T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-ftc-opens-investigation-into-chatgpt-maker-over-technologys-potential-harms.md",
-      "title": "F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms",
-      "excerpt": "The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/13/multimedia/13ftc-chatgpt-jgqt/13ftc-chatgpt-jgqt-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite.md",
-      "title": "Navigating The AI Combinatorial Explosion: A Guide For The C-Suite",
-      "excerpt": "Creators of the new technology say that businesses will soon be inundated with new products and services now under development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b07c52c6f7abae94534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/amp/",
-      "publishedDateTime": "2023-07-13T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-google-labs-rolls-out-its-ai-first-notebook-heres-what-it-can-do-and-how-you-can-try-it.md",
-      "title": "Google Labs rolls out its 'AI-first notebook'. Here's what it can do and how you can try it",
-      "excerpt": "Google has embraced AI and hit the ground running. This is evident with Google's rapid launch of its own chatbot, Google Bard. Now, the tech giant is expanding its AI offerings with the launch of its 'AI-first notebook '.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
-      "originalUrl": "https://www.zdnet.com/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3453698a33fdef7f7590ae2346ad5bef5543e40b/2023/07/13/b80f3aab-4f68-4a63-8515-308a5e7d8590/screenshot-2023-07-13-at-2-40-15-pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
-      "publishedDateTime": "2023-07-13T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

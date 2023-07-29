@@ -7,8 +7,8 @@ originalUrl: "https://financialit.net/news/personal-finance/personal-finance-app
 webUrl: "https://financialit.net/news/personal-finance/personal-finance-app-totallymoney-partners-bud-financial-launch-ai-powered"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Financial IT
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TotallyMoney selects Bud Financial to launch AI-powered payments tracker"
-    excerpt: "As spiralling interest rates and inflation threaten to push ever wider swathes of UK consumers deeper into financial discomfort and distress, leading fintech experts and tech-savvy lenders empower millions of consumers to unlock holistic financial data to gain fairer access to the right financial products."
-    publishedDateTime: 2023-07-24T10:52:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97517/totallymoney-selects-bud-financial-to-launch-ai-powered-payments-tracker"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Leaders in Lending | Ep. 119: Partnering with a fintech to diversify in challenging times"
     excerpt: "Providing fair access to credit in consumer lending is at the forefront of all financial institutions today — and tech is here to make that possible."
     publishedDateTime: 2023-07-27T03:00:00Z

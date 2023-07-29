@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,29 @@ related:
         width: 1312
         height: 677
         isCached: true
+  - title: "Healthcare workers signal greater acceptance of AI"
+    excerpt: "There are variations according to different medical sectors. For example, practices such as oncology are using AI to assist their clinical works."
+    publishedDateTime: 2023-07-26T19:59:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/healthcare-workers-signal-greater-acceptance-of-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/415f40312d915e65447240989330ef93f68bf691.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "The Turing Test and Its Importance for AI Research"
+    excerpt: "Many people have argued that the Turing Test does not provide an appropriate goal for research into AI. For example, the questions in the test are limited and often based on very specific fields of knowledge."
+    publishedDateTime: 2023-07-26T00:08:00Z
+    webUrl: "https://www.wewantscience.com/the-turing-test-and-its-importance-for-ai-research/"
+    type: article
+    provider:
+      name: wewantscience
+      domain: wewantscience.com
+    quality: 19
 
 secured: "ej+rp2BodaUjla890rgKrpp+frlZHJgTVMHWB1BT0NdR6N148np6ey3hiYsAU/YKVLV0bOCkf4ohEdq4Jhlut0Adgtc9M4qaduL8r4PLY5GXIIkIyfdkGGVwOqLmHtCbYT8yNpLt6hfZGn9uVkYppXiGXAHHSYXpyjjxjaR/b4cpoWEMw4ZinyMLE1x4FA/NBVetIcT4M207LdpcHvz44pwTTpdDF0rYp5IU4O1IjYAmbwkLRz4UjP10ZxdbxHJgpS4OZwnCF7CziAU7Llg5bGMdB7hs3ebIMFQHtgQtpQsBWfehTekgvcAcnU5bhWfBLEBH0YA+rUYk7vtwY6otGqiRvcaSS6T8jB7YHHZdZ/A=;cSG5ZOwdaKjPBaZKV/Qw0w=="
 ---

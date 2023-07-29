@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Big Tech's AI costs draw attention"
-    excerpt: "Microsoft and OpenAI's partnership helped to set off an AI race, but the resulting investor euphoria could be giving way to more discerning questions."
-    publishedDateTime: 2023-07-24T22:02:00Z
-    webUrl: "https://www.axios.com/2023/07/24/microsoft-openai-earnings"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "qP4ZC+cO+khOVY/9weDqHWVkjQOT1QEuvP2TvrcCPbm7lIfkzsjAVKjQWH7G9/H2EAPWJINyMDcKtxVBzkJLHVEoJs9EujYn29kgdatxVu3btzWm+q+VDNzaZbQOqcTLvywPifzfLFk4vz1YVYxuSng6GUANcFW3d+ugDKZhwGUsMrH9vfREGM4PrxEmBnz+glnI3DLMantE+JJQ0ZCoJsS0UXOB+pBjztrEXFVA4E6rxCWNRzkieD8v3LFYDo6g78lyqP6m71D+5a5VqkaJX+CHcKhrNmnjQmoop1khf+tFqD12lh47/9N1zFFlDKFIAs/khUZgJFaHFOO/p9hUJRhJWrsu7ERdsVWc8n8YdJu85fOdihySVR2Q6CojAssJHRsqeUY5nYvdv0Lr+y+GxVtDbbiimNvg6pdNzvXHfBa/R8D1dpA6ktPKXO1aRmsbLCOaGJ7oqcV1uTwL5TY0KR5s1jTjMI3+xcvmHpTPsisY6f5vS66aif80gnTKco0KplpbCx87wqwI7qpcBUHxrA==;NfYD9UPt/XSfqao51w+NHQ=="
 ---

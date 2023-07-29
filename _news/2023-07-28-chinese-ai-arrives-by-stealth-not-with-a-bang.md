@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Chinese Government Establishes Generative AI Rules – Will Other Countries Follow?"
-    excerpt: "China is setting some legal boundaries in how generative AI technology should and could be used. What about the other global players?"
-    publishedDateTime: 2023-07-24T09:36:00Z
-    webUrl: "https://www.techopedia.com/the-chinese-government-establishes-generative-ai-rules-will-other-countries-follow"
+  - title: "The AI apocalypse might begin with a cost-cutting healthcare algorithm"
+    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us."
+    publishedDateTime: 2023-07-27T15:45:00Z
+    webUrl: "https://www.codastory.com/newsletters/cigna-ai-healthcare-algorithm/"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 32
+      name: Coda Story
+      domain: codastory.com
+    quality: 54
     images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/06/machine_learning_03.png"
+      - url: "https://www.codastory.com/wp-content/uploads/2023/02/ATfacebook.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "xu3QsndLArwFMn1/wSTP/Fg72wJRM++pInE69ngx9Z3dnp787P7w7QC+aAKQ9fRKRWk+eathYsJoxRqCyqpwrp+wAfL0J/Y3yao4bB5z1nbAc76U1MQ/SjUtLqaBye+iuOw/eY3RO1uYsvgqyCb+6uOKRR4Y5kAPpGhbhuolSSn4qGa5LpVKLUp8FytAGzJP61l0mVb7vjJJ6t8WDQwuec9ILVYAHRzB9juOVZf4BZf1xlRtk2dnvIzHVl5kwF5VQjcFOawmCff7aJPc/hPs6newk6behcVvxmB+AodPMbpv1ryBzo22PiGXcDkO7ATfvV2IfXCz9HQO6whW/Q+6ZUGXUW2qJkWg882Ynph4bW2gk+sj/z+iSFULlqODz8S7QiVSSse3POFFJOOL7PERI5UeEEYUuzunVFLVNya87TtLNJlIe05DVKGl/Vga/A1hDBiTa1mrDhZiUQL1ygZwzI+3ppmT8qL0lKosBXikxkv2fWyLhOmNX8PgFLMxgR8xbvx8bhezPsqVm1Q8pHRs3Q==;4DlVc0c0yI/2RmL3Ldf5bQ=="

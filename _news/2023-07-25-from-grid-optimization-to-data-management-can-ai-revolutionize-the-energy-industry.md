@@ -27,88 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI is coming for the visual effects industry: What the technology means for the future of animation"
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+  - title: "AI, machine learning ‘ll revolutionise industries – NCC"
+    excerpt: "The Nigerian Communications Commission (NCC) on Tuesday said that Artificial Intelligence (AI) and Machine Learning (ML) had the potential to revolutionise industries."
+    publishedDateTime: 2023-07-25T13:27:00Z
+    webUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/04/image-257.png"
         width: 1200
-        height: 600
+        height: 750
         isCached: true
-  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
-    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI Is Rewriting the Rules of $200 Billion Games Industry"
-    excerpt: "“AI is the game changer I've been waiting for,” 48-year-old Hanazawa said. By freeing developers from the burden of mass-producing graphics, it promises to revitalize the entire industry. “Publishers will be able to take more risks, creators can become creative again, and users as a result can choose from a much wider variety of games.”"
-    publishedDateTime: 2023-07-26T15:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/26/1600x900/ARGENTINA-DISAPPEARED-HUMAN-RIGHTS-AI-PORTRAITS-4_1690345459702_1690345485959.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Evolution of Parking Technology: How Artificial Intelligence is Shaping the Future of Parking?"
-    excerpt: "The evolution of parking technology, fuelled by artificial intelligence (AI), offers promising answers to the urgent issue of insufficient parking places."
-    publishedDateTime: 2023-07-24T09:30:00Z
-    webUrl: "https://zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html"
-    ampWebUrl: "https://zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html/amp"
-    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/auto/the-evolution-of-parking-technology-how-artificial-intelligence-is-shaping-the-future-of-parking-2639844.html/amp"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 43
-    images:
-      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/07/24/1247860-parking.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Sight Machine Factory CoPilot Democratizes Industrial Data With Generative AI"
-    excerpt: "Sight Machine Inc. today announced the release of Factory CoPilot, democratizing industrial data through the power of generative artificial intelligence. By integrating Sight Machine’s Manufacturing Data Platform with Microsoft Azure OpenAI Service,"
-    publishedDateTime: 2023-07-27T12:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855100.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-  - title: "Artificial Intelligence in the Life Sciences Industry: Barriers and Motivators to the Adoption of AI into Workflows"
-    excerpt: "Barriers and motivators to the adoption of AI into workflows. Who scientists think are leading in life science AI among key organizations and brands developing AI or actively employing AI in their workflows. The analyst designed an online quantitative survey to address the objectives."
-    publishedDateTime: 2023-07-24T11:04:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/24/9852585.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "gH0voAdkBlmha6NpBCGmTuB9ek6ifvG0+SbU2GX0N5FYwa3SDCJ6i4qcud3ZxDOwA5HZ0t35OOBvIacKGxjitaHlydnEB2avhrqK67xgy7cous3FcA1oVOh3apTh2gH0FAH7xvvXSkOjz9GIo2E4EeQAh8sOFwgI5mp/OS+dCMhGISgNV+uzOMrgowck5SebNTzvjdcY2J72OhrfD1x1YrvmtMRDaJ6JeUG0njgbEU1CONxr6BV+631TtT72bhV9RvGFRzDcUCCzE2nRscrL9OKZOyXuznrGCv4WNG7paN5nCbo4oNUpqV5l/fBmB7GOnjN/b+vqWsD+gAqyttLiWKHaW+dfMDtrsyikALsPCXo=;XsWuZcx3s+b+nU2TQ1zZ/Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-is-dominating-and-could
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says-915935c0"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/c8/dc8b0143-bc99-531f-b239-97980bd7e244/64be6d07c4dac.image.jpg?crop=620%2C326%2C0%2C11&resize=620%2C326&order=crop%2Cresize"
         width: 620
         height: 326
-        isCached: true
-  - title: "NVIDIA stock could hit $769 on ~$300 billion AI opportunity by 2027 - Mizuho"
-    excerpt: "“Assuming $30-100B AI revenues (or ~$65B at the midpoint), we estimate implied share price to reflect AI estimates for C23-25E would be $490-$769/share, and a midpoint at ~$625 PT,” the analysts concluded. The $769/share price implies Nvidia’s market cap at ~$1.9 trillion. Mizuho’s current price target on NVDA stock is $530 per share."
-    publishedDateTime: 2023-07-24T09:31:00Z
-    webUrl: "https://za.investing.com/news/nvidia-stock-could-hit-769-on-300-billion-ai-opportunity-by-2027--mizuho-432SI-2818152"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 36
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_L.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "REbCt/BaGInfW/UHvRSezNDcvYkN6ufxDv6PqHM+vL+yUTKQ4ePJqP4ayk8D1z/+sqVH2TUkGAFn/QHa06/3rpOlHcU4Tvh4gNrGqME7aLm6YeTIAM43sV+ujVgh1fZKreGKJVBOHG72iNBhl+5CTwm7c81lpv4QZ86TqjqxW/PdGLLLg01q0/93unmM7Roka6xNSz5B3Tz1NMmP5AL0AOzfUd77V4pd9U6sr1RD9poyHTIiyoMqPRAq1wNf03vILKvghJPvhTVwlfTIq0U6zrOoYDZTaGv4eLo7GTiG2XU1zunYTZRNDyvIQd3cCk0rKga8ytelX7VH/8ulYgV4fMd0IrHyN0vNJvP21Z2agGHh+Ix5wGGhRs9qrVriafxgPOmfJpRdQnX4Z9hC2DEuhmaLtuqOY11x8adVeq5MfwOfoQBLG3SusTlA15mZ+ySVkU/q2vHk13RUUMJySkUs6nkKLrHPPlXdN+2ksdrnDmYeCCk/bAHBIHBSWzFVR5sype/zttxYsJ6o52cyKLukrg==;XGpPk1KSRVwo5aATYUTs/A=="

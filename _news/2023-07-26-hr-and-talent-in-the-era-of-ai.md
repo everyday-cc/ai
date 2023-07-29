@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 type: article
 quality: 99
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
-    excerpt: "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!"
-    publishedDateTime: 2023-07-24T10:01:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg"
-        width: 6000
-        height: 4002
         isCached: true
   - title: "10 of the scariest versions of artificial intelligence in movie history"
     excerpt: "Tom Cruise (as Ethan Hunt) has battled all sorts of villains across 27 years and seven movies, but his most recent nemesis, a piece of rogue artificial intelligence known simply as the Entity, has come the closest to bringing him to his knees."
