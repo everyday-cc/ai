@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Growth driven by AI will be the metric to watch this earnings cycle"
-    excerpt: "With Alphabet and Microsoft reporting their results today, there's going to be a lot of scrutiny on their investments in AI tech."
-    publishedDateTime: 2023-07-25T17:00:00Z
-    webUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-482028705-1.jpg?resize=1200,818"
-        width: 1200
-        height: 818
-        isCached: true
   - title: "Meta to Charge Cloud Computing Companies Fees for AI Model Llama 2 Despite Initial Open-Source Plans"
     excerpt: "Meta, formerly known as Facebook, has announced its decision to charge significant cloud computing companies, such as Microsoft and Alphabet, to use its artificial intelligence (AI) model, Llama 2. This is a surprise move,"
     publishedDateTime: 2023-07-28T12:12:00Z

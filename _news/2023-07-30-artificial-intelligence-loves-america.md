@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-30T06:03:00Z
 originalUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
 webUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"

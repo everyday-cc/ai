@@ -40,6 +40,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Driving innovation in BFSI sector: How new technologies are revolutionizing financial services"
+    excerpt: "From the genesis of online banking to the advent of mobile payments, the industry has continuously embraced innovation to enhance customer experiences and streamline operations. And since then, the pace of technological transformation has only accelerated."
+    publishedDateTime: 2023-07-30T08:13:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/"
+    ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 32
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/BFSI-e1685093367785.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "h+Yx9ZxB2qF9YJfTQp8Assy2Mlb8jSv/dmUvYZ+AWTOLVdIkHKuV8M+2z6eiwot7y5qZlwUQDcuppDUEt6sNoHE1oq1FpQHipleI8EMiJguXhbs38/ZSOTZI6YccJU4lDQk+/fYecxWRt6XEEqjpMvSv0beu1+phszvi8j8WTsW1iSr7tk2vNBS0w60uaIit7OVAezCcfegMqdhBhZBR5TOAnyhEfXdrarIqz6r5Jo3bu9imTc97XlCKl/gGdygvcIQGIabVnNDEj8+do9PMjJp21D6jcW/Xt17uW1UqtOjxwIx/PHA/8flW5cBLxsywFQc5azXMx3tllZfPbxder4tD4jCTjr47xTgSsoElxTU=;u/cN1yx4hlGoaS0JaoDt5w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/perfect-software-w
 webUrl: "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622"
 type: article
 quality: 97
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 392
     isCached: true
-
-related:
-  - title: "Money20/20: The intersection of generative AI and blockchain"
-    excerpt: "We get the thoughts of Worldpay from FIS Head of Crypto/Web3, Nabil Manji, on the intersection on the intersection of generative AI and blockchain"
-    publishedDateTime: 2023-07-25T16:04:00Z
-    webUrl: "https://fintechmagazine.com/videos/money20-20-the-intersection-of-generative-ai-and-blockchain"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/2a1a1356d32b8fa679b125d49b960669:f0f824bf09be7fe8c4388ebea5a98b9c/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
 
 secured: "lBNvtTjSznIRwxDb5zs++SCvk88FI8ZbiTS0S1B51va7MP8MnpdPnM2ZWndb9FiiBp6GL2WUbitkmq4IEFhdzzhD2VQw2Ek1ErL0TCPhWjktB1jWSYkjJ6r6ferAsNSK/b+UwpezFoSYe+SM+wYpe+CNI8+60sEdI5cwAtcnhNGKyeXr2tQMAYhF28/N/mOPIrc0niSGcePi2q/a/oc9ae6Xpajdu9/23t5un2DQccQKNLBTKaHru86KvdqTGO8euH6JxpkxT72FrYB8S0JM+n/kRJqjm1xZiCEcLy21cOUZYUiO7Dy7TBofv0NHx3wgvHi0WR2XisF5vUpmOJwagZlFgUn/tb6mxhKKdWz2SEnERDu0lrIFkb8ozYLtrGMVFbbZo5ZNN9/mIDu/meDJg4UVhpsx3CZ844lrEbUN8Sf1ZS6OhO/WgPzAVF0ZC2NqkJ8UIvD7gyvv4QVUHVUxsll+MHnmHrw1xgs4UN+e24vjKS8QoD/M9XJzohrMU/tJJgWZv1dcD4QsqQHb1bsIFQ==;2K4poRNu9ItRXAAsviX01w=="
 ---

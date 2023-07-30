@@ -238,20 +238,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ChatGPT for Everyone: How OpenAI’s AI Chatbot is Empowering Users Worldwide"
-    excerpt: "Welcome to the future of conversation! Imagine having a virtual assistant at your fingertips, ready to chat with you about anything and everything. Thanks to OpenAI’s groundbreaking AI technology, ChatGPT is making this dream a reality."
-    publishedDateTime: 2023-07-25T16:02:00Z
-    webUrl: "https://techbullion.com/chatgpt-for-everyone-how-openais-ai-chatbot-is-empowering-users-worldwide/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/OpenAI_-_new_green-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "ChatGPT is a black box: how AI research can break it open"
     excerpt: "Despite their wide use, large language models are still mysterious. Revealing their true nature is urgent and important."
     publishedDateTime: 2023-07-25T21:11:00Z
@@ -307,20 +293,6 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Brilliance and Weirdness of ChatGPT – The New York Times"
-    excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
-    publishedDateTime: 2023-07-25T15:16:00Z
-    webUrl: "https://www.inferse.com/636092/the-brilliance-and-weirdness-of-chatgpt-the-new-york-times/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 24
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-116.png"
-        width: 1050
-        height: 549
         isCached: true
   - title: "The Essential Guide to Prompt Engineering in ChatGPT"
     excerpt: "Dive into 'Prompt Engineering' with our in-depth guide, focusing on its impact on the rapidly growing ChatGPT user base. Explore what prompt engineering is, how to become a prompt engineer, top techniques and grasp the potential of this trending AI career path."

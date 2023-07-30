@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
-    excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
-    publishedDateTime: 2023-07-25T15:56:00Z
-    webUrl: "https://www.pcmag.com/news/openai-quietly-shuts-down-ai-text-detection-tool-over-inaccuracies"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04G9X5qN41Ob8jrBRpXgvKS-1.fit_lim.size_1200x630.v1690299616.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
     excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."
     publishedDateTime: 2023-07-25T17:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agen
 webUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The biggest scientific challenges that AI is already helping to crack"
-    excerpt: "AI isn't just for chatbots – many companies are using it to tackle everything from protein folding and drug development to commercially viable nuclear fusion"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24165513/SEI_164804484.jpg"
-        width: 1350
-        height: 899
-        isCached: true
   - title: "South Florida resi agents lean into AI"
     excerpt: "From writing listings to reviewing documents and generating marketing campaigns, the technology is proving to be a game changer in real estate."
     publishedDateTime: 2023-07-26T14:30:00Z

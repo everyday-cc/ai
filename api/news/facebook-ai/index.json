@@ -63,7 +63,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -146,50 +146,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says.md",
-      "title": "‘Leading the new AI platform shift:’ Microsoft to keep focus on smart tech, CEO says",
-      "excerpt": "Organizations are asking not only how – but how fast – they can apply this next generation of AI to address the biggest opportunities and challenges they face – safely and responsibly,” Microsoft's CEO says.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/",
-      "originalUrl": "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/01/microsoft-ceo-e1688032366509.jpg",
-          "width": 2496,
-          "height": 1401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1",
-      "publishedDateTime": "2023-07-26T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Facebook AI"
       ]
@@ -1480,6 +1436,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly.md",
+      "title": "AMD-powered LUMI supercomputer lets TurkuNLP create new AI models quickly",
+      "excerpt": "Powered by Advanced Micro Devices chips, the LUMI supercomputer – recently ranked as the fastest supercomputer in Europe as well as one of the most energy efficient – has enabled the TurkuNLP Group to create new models quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
+      "originalUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/lumi-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

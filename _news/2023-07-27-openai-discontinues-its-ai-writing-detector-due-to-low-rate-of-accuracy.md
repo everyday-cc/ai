@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
-    excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
-    publishedDateTime: 2023-07-25T15:56:00Z
-    webUrl: "https://www.pcmag.com/news/openai-quietly-shuts-down-ai-text-detection-tool-over-inaccuracies"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04G9X5qN41Ob8jrBRpXgvKS-1.fit_lim.size_1200x630.v1690299616.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "OpenAI can’t tell if something was written by AI after all"
     excerpt: "OpenAI shuttered a tool that was supposed to tell human writing from AI due to a low accuracy rate. In an (updated) blog, OpenAI said it decided to end its AI classifier as of July 20th. “We are working to incorporate feedback and are currently researching more effective provenance techniques for text,"
     publishedDateTime: 2023-07-25T21:30:00Z

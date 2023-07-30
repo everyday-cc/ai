@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutio
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driving innovation in BFSI sector: How new technologies are revolutionizing financial services"
+    excerpt: "From the genesis of online banking to the advent of mobile payments, the industry has continuously embraced innovation to enhance customer experiences and streamline operations. And since then, the pace of technological transformation has only accelerated."
+    publishedDateTime: 2023-07-30T08:13:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/"
+    ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 32
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/BFSI-e1685093367785.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Recording Academy revamps rules, places restrictions on artificial intelligence in music"
     excerpt: "B, NNPA Newswire @StacyBrownMedia The Grammy Awards have issued changes to address how artificial intelligence (AI) affects music. Among the revisions is a rule stating that only […]"
     publishedDateTime: 2023-07-27T11:21:00Z

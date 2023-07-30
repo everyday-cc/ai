@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.wired.com/photos/64beab4e7b25a434b1f3bfc1/191:100/w_1280,c_limit/WI090123_FF_RobotWars_01.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "Growth driven by AI will be the metric to watch this earnings cycle"
-    excerpt: "With Alphabet and Microsoft reporting their results today, there's going to be a lot of scrutiny on their investments in AI tech."
-    publishedDateTime: 2023-07-25T17:00:00Z
-    webUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-482028705-1.jpg?resize=1200,818"
-        width: 1200
-        height: 818
         isCached: true
   - title: "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service"
     excerpt: "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article."

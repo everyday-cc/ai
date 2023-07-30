@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/web3-and-ai-sta
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/web3-and-ai-startup-zyber-365-turns-indias-109th-unicorn/456418"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup ZYBER 365 secures USD 100 million in funding led by SRAM & MRAM"
-    excerpt: "AI Start-up ZYBER 365 has secured USD 100 million around Rs 818.7 crore in Series A funding led by UK-based SRAM MRAM Group, valuing the company at USD 1.2 billion, a statement said on Tuesday."
-    publishedDateTime: 2023-07-25T15:48:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2536739-ai-startup-zyber-365-secures-usd-100-million-in-funding-led-by-sram-mram"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2536739-ai-startup-zyber-365-secures-usd-100-million-in-funding-led-by-sram-mram?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2536739-ai-startup-zyber-365-secures-usd-100-million-in-funding-led-by-sram-mram?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 55
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=1280"
-        width: 1280
-        height: 723
-        isCached: true
   - title: "AI startup ZYBER 365 secures $100 million in funding led by SRAM & MRAM"
     excerpt: "The latest funding has earned the Web3, AI startup a unicorn status, making ZYBER 365 the 109th unicorn in India's vibrant start-up ecosystem"
     publishedDateTime: 2023-07-26T06:27:00Z

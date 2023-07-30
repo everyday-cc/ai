@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facia
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Comelec wants voter identification via facial and voice recognition, iris scanner"
-    excerpt: "The Commission on Elections is seeking to improve its voter identification system by using new technologies such as facial and voice recognition and iris scanner."
-    publishedDateTime: 2023-07-26T08:47:00Z
-    webUrl: "https://www.gmanetwork.com/news/topstories/nation/876999/comelec-wants-voter-identification-via-facial-and-voice-recognition-iris-scanner/story/"
-    ampWebUrl: "https://www.gmanetwork.com/news/topstories/nation/876999/comelec-wants-voter-identification-via-facial-and-voice-recognition-iris-scanner/story/?amp"
-    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/topstories/nation/876999/comelec-wants-voter-identification-via-facial-and-voice-recognition-iris-scanner/story/?amp"
+  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
+    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
+    publishedDateTime: 2023-07-29T15:11:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
     type: article
     provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 41
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
     images:
-      - url: "https://images.gmanews.tv/webpics/2023/07/george_garcia_kapihan_072623_2023_07_26_16_34_48.jpg"
-        width: 845
-        height: 454
+      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
+        width: 620
+        height: 372
         isCached: true
   - title: "Pocatello Animal Services adopts innovative facial recognition technology to help reunite lost pets with owners"
     excerpt: "POCATELLO, Idaho (KIFI) - Pocatello Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Orleans police use of facial recognition technology nets zero arrests in nine months"
+    excerpt: "Facial recognition technology that has been touted as an important tool to reduce violent crime in the city was used by the New Orleans Police Department only 13 times from Oct. 1, 2022, to July 1, 2023, resulting in zero arrests, according to a new report from City Council consultant AH Datalytics."
+    publishedDateTime: 2023-07-28T15:24:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/07/28/new-orleans-police-use-of-facial-recognition-technology-nets-zero-arrests-in-nine-months/"
+    type: article
+    provider:
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 10
 
 secured: "WOZq4rMrmRXRy29QSvTjaJVi+tEQ+Dci7g0xI2K6kILCu3lA3huNcOe3m5ZX1dMIhdQkWzff76Blu+0LrhRPehVaEI5/l+ZBHcGCWePsH0A85tc851KQO5b+mdhHPQRurApA9uPYaCSj0AAKlCXMym9G0Xiwf4DC0U6ye3qPj2IMC0kY81/uLlp/zjECWhfzKEyRG9vwk8+fD9qGOtWrqRc0jRLsz0rzpC8R1jD8/rfCbYl2BsgXbZR/KKudB6EGQ+m3LTBeLndAdHmM21d5nemlmEoXNfsmB0r6Ry2PvJRXrJODBfXcKew+78ctHM4YKCn4yJs8Usu5FGsSU7QM5zerGq2Q2MrjZK9jeBcAlkGVD7isSQOYCfHulDL0T4xgAJtvanHo9SoBD1ySKC6PWOFnMV04w221gR4KUKGePIyGjY/i2lZOqc/FH4GxXmXQOOGfFHpybVCQ07DGzX5O03W5fpg4+iGpZbEM/nasfIddSH3cjhkwJuAo3rXdoDPQ4EAfJ61JtvzzRyJvcUONSA==;iMcGWn7HQ7e6NSJDr3izNA=="
 ---

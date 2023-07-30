@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "The ESRB Wants to Start Using Facial Scanning Technology to Check People's Ages"
+    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
+    publishedDateTime: 2023-07-25T19:43:00Z
+    webUrl: "https://cacm.acm.org/news/274951-the-esrb-wants-to-start-using-facial-scanning-technology-to-check-peoples-ages/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 0
+
 secured: "DljDcFh6r/8l0MaKEYwrvHUsT/mIEi/3xxO9fmG+lGjoeak8ZchUh2sa7/D3eiSziq0hTdxAEEerDVuziARohFxiNJMcoEcqM4whpHAS0+OsphBwD8sI5SMoNmYbWTs/FSlwj6CTNSabecb8JbmYGokXHALj3mKf84fobE+EnHmTUCR7Ni7OQkBI6INjxpryZvtFEeVZ9lCDEH4wgPVfLG9KbdU3bNgKgHm/TxMS7KdbWXwjKQWEz2xOsCejJulhbOCkgxXal3NfbwpBt84/Rfvv/THHbl2TxwuLwGwy1j1JieyRMrsWzbyUK27UfF8RRpIgkiEdxmntfhzrTXgoHqnn6tve4UpgpegQKR7j0we0xAVGoZTqi0OTCAd0X8UdrEG0LjbgG9Vmd6pigzsP604hJm5BqPIfe09W+LlM6I13Q8xk6lFJnx1KaokjRRUEpEtpQqqUwULThML9v07ipAgGQH1k90rrCmbQgJrOZgNqIjU9vwUXmdf3aDHqbxmFhRyUAN0eSdb+sZMmSzbK5g==;gZ9fMdXDEUOW0ft81FnvXQ=="
 ---
 

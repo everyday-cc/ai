@@ -76,7 +76,7 @@ related:
     provider:
       name: Richmond
       domain: richmond.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
         width: 600

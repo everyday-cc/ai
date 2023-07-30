@@ -39,6 +39,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Authors are resisting AI with petitions and lawsuits. But they have an advantage: we read to form relationships with writers"
+    excerpt: "Authors and publishers are worried about the threat of AI – and they’re fighting back. But there are still important ways human authors can’t be replaced with machines."
+    publishedDateTime: 2023-07-25T20:05:00Z
+    webUrl: "https://theconversation.com/authors-are-resisting-ai-with-petitions-and-lawsuits-but-they-have-an-advantage-we-read-to-form-relationships-with-writers-208046"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 12
+    images:
+      - url: "https://images.theconversation.com/files/538957/original/file-20230724-25-3iecpb.jpg?ixlib=rb-1.1.0&rect=14%2C22%2C4898%2C2449&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "jof7Hip6js57F06XBsTsW92IUZkvj4djnFIrcGboC9aK0Umr1QZPRzK+TAEipaEuuAY0xOc21e4kcPlbDfKYpXY55X31FrNrFBWanPnDFJzFu58tW/eOUqfo25kXlPkHpaz59ODvEuM8lww2W50kCSh74EbaH9/tK8iF5HXxY+Sr5MA87G9dbEpJhBQ+n39CFDbPkXti8xaId5ytic7NRpLTVt9UeiX4gDrIUj7XgUHl5QYv8xs/B8bHWed8foculv1ccBpFLf0b4DsfqpfhdmH56ahlWAwVgAtRh02Fj7VNVc8CAB3fB2xovD6jXzjo3gua38ulr7CXiU7JBpFXKfqhJTcz6gRucmx8EmanHK0=;DYhO+h+F+2t2GAeifRa8vQ=="
 ---

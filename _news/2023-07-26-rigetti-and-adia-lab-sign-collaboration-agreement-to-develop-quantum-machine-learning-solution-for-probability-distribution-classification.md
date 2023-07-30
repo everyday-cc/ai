@@ -34,20 +34,6 @@ related:
         width: 750
         height: 375
         isCached: true
-  - title: "What generative AI really means for the economy, jobs and education"
-    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Wayfair takes the generative AI route to interior decoration"
     excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
     publishedDateTime: 2023-07-26T02:31:00Z
@@ -71,6 +57,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 33
+  - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
+    excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
+    publishedDateTime: 2023-07-27T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clps-incorporation-launches-aigc-intelligent-automation-solution-optimizing-delivery-costs-through-llm-and-generative-ai-1032484411"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "PhZCM8JtCU/BKdsAIt0R7DfCGCXvHkxUhVbiYKe/5/rtzdo22ZPcPlBbuJTo9X6QWfzU/9DLoIW7XXSrLnnRCRerLt8ajpF9ETtjfkJdR5uytxqYGlQBk2CuzavfKvEZqwgWg0z6IUfEvamFr+PwjGsWJpm8beGR3msA1EfOnadvevenqERA7QGjm31cqgSsol+UkdIA5JQqMkBubbjxlmDJOi7I5oITeqedmoAGJYpPZfLdzf+Nmza4+zQ+yQmii3kqatqRqBO3TujAzRgG3wK2R8ts8UjxKjWeCmZBdenUqX0qyoUCSpKk4RxnA+BFGrkOJ7ZgjC4j9lLKWR3WpTxiit1xrTM/n6dBExasXH0=;Eb/ptW1W+xO7ibDQOBjDNQ=="
 ---

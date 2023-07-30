@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secre
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: The Guardian
@@ -32,87 +32,45 @@ images:
     isCached: true
 
 related:
-  - title: "ESRB Proposes Using Facial Recognition To Verify Your Age"
-    excerpt: "The Entertainment Software Rating Board (ESRB) has asked the FTC for approval to use facial recognition technology to help determine how old a user is. Using something called Privacy-Protective Facial Estimation, a person's age would be estimated based on a photo to verify they are old enough to purchase a game."
-    publishedDateTime: 2023-07-25T16:50:00Z
-    webUrl: "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
+  - title: "Should police use facial-recognition technology? Ann Arbor to vote on issue"
+    excerpt: "Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months."
+    publishedDateTime: 2023-07-26T00:58:00Z
+    webUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
+    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 59
+      name: MLive
+      domain: mlive.com
+    quality: 42
     images:
-      - url: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg"
-        width: 480
-        height: 270
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4HBWD7NCY5AI3JU3J3R3MTAIBU.jpeg"
+        width: 3000
+        height: 2250
         isCached: true
-  - title: "US cities could start banning facial recognition again"
-    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
-    publishedDateTime: 2023-07-27T21:55:00Z
-    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
+  - title: "Pocatello Animal Services adopts innovative facial recognition technology to help reunite lost pets with owners"
+    excerpt: "POCATELLO, Idaho (KIFI) - Pocatello Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
+    publishedDateTime: 2023-07-28T19:37:00Z
+    webUrl: "https://localnews8.com/news/pocatello/2023/07/28/pocatello-animal-services-adopts-innovative-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: Local News 8
+      domain: localnews8.com
+    quality: 19
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "ESRB seeks FTC approval for facial age estimation AI for digital game purchases"
-    excerpt: "The Entertainment Software Ratings Board (ESRB) has proposed the use of facial recognition technology as a means of age verification. The ESRB wants FTC"
-    publishedDateTime: 2023-07-25T16:43:00Z
-    webUrl: "https://www.onmsft.com/news/esrb-seeks-ftc-approval-for-facial-age-estimation-ai-for-digital-game-purchases/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 35
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/facial-age-recognition-ai-esrb-Custom.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "ESRB plans “facial age estimation” checker for age verification"
-    excerpt: "The video game rating board for the US, the ESRB, has had its new plans unearthed after the FTC put them up for public opinion. Dubbed Privacy-Protective Facial Age Estimation, the tech would allow parents to upload a photo of themselves to give permission to their child to play certain games."
-    publishedDateTime: 2023-07-25T17:39:00Z
-    webUrl: "https://www.dexerto.com/tech/esrb-plans-facial-recognition-age-checker-for-age-verification-2224056/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 24
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/07/25/esrb.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "ESRB proposes facial age estimation technology for parental consent"
-    excerpt: "UPDATE 26/07 11:40am: In a statement shared with Eurogamer, the ESRB has clarified its proposed \"Privacy-Protective Facial Age Estimation\" technology is to be used to verify the age of people giving consent for a child."
-    publishedDateTime: 2023-07-26T10:39:00Z
-    webUrl: "https://www.eurogamer.net/esrb-proposes-facial-recognition-age-verification-for-parental-consent"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 24
-    images:
-      - url: "https://assetsio.reedpopcdn.com/AdobeStock_331209580.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      - url: "https://localnews8.b-cdn.net/2023/07/Pocatello-Animal-Services-Adopts-Innovative-Facial-Recognition-Technology-to-Help-Reunite-Lost-Pets-with-Owners.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "The ESRB Wants to Start Using Facial Scanning Technology to Check People's Ages"
-    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
-    publishedDateTime: 2023-07-25T19:43:00Z
-    webUrl: "https://cacm.acm.org/news/274951-the-esrb-wants-to-start-using-facial-scanning-technology-to-check-peoples-ages/fulltext"
+  - title: "New Orleans police use of facial recognition technology nets zero arrests in nine months"
+    excerpt: "Facial recognition technology that has been touted as an important tool to reduce violent crime in the city was used by the New Orleans Police Department only 13 times from Oct. 1, 2022, to July 1, 2023, resulting in zero arrests, according to a new report from City Council consultant AH Datalytics."
+    publishedDateTime: 2023-07-28T15:24:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/07/28/new-orleans-police-use-of-facial-recognition-technology-nets-zero-arrests-in-nine-months/"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 0
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 10
 
 secured: "MWzj86lVhEv23VsfYGzUTrbZqZkQPanUmAwB0cRRcDn5nP3WsRHq5nwqfxGHsEB9XrfyDzpqnlpNfdH5l7VzAzjMnSx1u0pnWP/XGgJn2ZHozUlKC03SRpsd/krecZ0KtRimTxISuXKxMVxLHwmELmO+akmPqvf8SQ5Sj7U7AbOrUYf6WG++ORmromOFcGhN8paqErtz7hmIeYqUxli7pqm8eU9aXcn6pMgQyDRwSw0EWsyASi+Bk6guOTXHHPVg8IO6VpR+SE+LSvTuVVJChoTYP9OHWEw0qbEw3ockqGHHxFl3xEgZnYuM/hSOQtBMipQZAaiOOZmOlpEhpGdonANzYkSsbYAkUYTAdyOValygln0D6CrSvOB2PsUIPDAoRtTcBb9Y7zTBLeUcE7JM20szIfdWiI6I4lL2gHNRzj6t5MdS3/WNGotK1tsndwC/31YoBQoZi2ELiqRdI4wpjRoO0Q863LVh0RQju4xfSrK0SZ4BrbCE0UpBq00CsU6bg672j4FKofksxCpKtttTSg==;cHYui88Q9ZWLboYaSFEHKw=="
 ---
