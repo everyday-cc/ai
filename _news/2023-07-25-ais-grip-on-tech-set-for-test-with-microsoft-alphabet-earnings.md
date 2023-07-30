@@ -189,22 +189,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "It’s Microsoft Earnings Day. All Eyes Are on AI and Cloud."
-    excerpt: "Microsoft MSFT +0.39% will report June quarter earnings after the close of trading on Tuesday, with investors zeroed in on the outlook for the company’s Azure cloud computing arm and its rapidly expanding work on artificial intelligence. Already a subscriber? Sign In"
-    publishedDateTime: 2023-07-25T05:59:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-earnings-stock-price-231e11a9"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-stock-price-231e11a9"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-stock-price-231e11a9"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-822568/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
     excerpt: "Company’s $56.2bn revenue beat Wall Street expectations but slowing growth for cloud service Azure proved to be a dampener"
     publishedDateTime: 2023-07-25T21:41:00Z

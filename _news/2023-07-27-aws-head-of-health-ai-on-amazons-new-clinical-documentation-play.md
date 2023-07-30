@@ -218,22 +218,6 @@ related:
         width: 854
         height: 430
         isCached: true
-  - title: "How Artificial Intelligence Changes Healthcare Industry"
-    excerpt: "Artificial intelligence has changed the world of the healthcare industry. AI can help with diagnoses, treatment, and even predictions about future health trends. Besides, there are many things those artificial intelligence has improved and changed entirely."
-    publishedDateTime: 2023-07-25T06:01:00Z
-    webUrl: "https://www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry"
-    ampWebUrl: "https://www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2535811-how-artificial-intelligence-changes-healthcare-industry?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_07_2023_11_29_57_691016.jpg?width=1280"
-        width: 1280
-        height: 1132
-        isCached: true
   - title: "Cyclops Emerges From Stealth With Security Search Platform Powered by Generative AI"
     excerpt: "Cyclops emerges from stealth mode with $6.4 million in seed funding and a generative AI-powered cybersecurity search platform."
     publishedDateTime: 2023-07-26T14:35:00Z

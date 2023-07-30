@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonexaminer.com/news/senators-call-for-ai-regul
 webUrl: "https://www.washingtonexaminer.com/news/senators-call-for-ai-regulation-as-concerns-for-national-security-grow"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Washington Examiner
@@ -25,38 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Our schools’ war on AI is a national security threat"
-    excerpt: "America’s artificial intelligence superiority is at risk, and the key contributing factors are the broken U.S. education system and fear of job loss."
-    publishedDateTime: 2023-07-25T05:59:00Z
-    webUrl: "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat"
-    ampWebUrl: "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp"
+  - title: "Artificial Intelligence and International Affairs"
+    excerpt: "Artificial intelligence (AI) is a topic of global concern, with debates surrounding its potential dangers and benefits, highlighting the need for international regulation. The integration of AI into society raises profound questions of ethics,"
+    publishedDateTime: 2023-07-27T11:06:00Z
+    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/artificial-intelligence-and-international-affairs/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
+      name: Australian Institute of International Affairs
+      domain: internationalaffairs.org.au
+    quality: 54
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/373f793d-841a-4c28-8ed0-cc33d7e54de6/25e4f207-a021-4f29-ade6-ef88e54f89c4/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2023/07/Picture1.jpg"
+        width: 1312
+        height: 677
         isCached: true
-  - title: "Could artificial intelligence keep students safe in school?"
-    excerpt: "More school districts are relying on AI for help securing their facilities. One company claims its sensors can identify weapons on people who pass by."
-    publishedDateTime: 2023-07-27T00:01:00Z
-    webUrl: "https://www.wfaa.com/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+  - title: "AI leaders call for rules, countermeasures against rogue systems"
+    excerpt: "From manufacturing to computer modeling, AI systems need to be kept “out of the hands of bad actors,” Anthropic CEO Dario Amodei said in opening remarks to the Senate Judiciary subcommittee on privacy, technology and the law."
+    publishedDateTime: 2023-07-26T01:13:00Z
+    webUrl: "https://insidedefense.com/insider/ai-leaders-call-rules-countermeasures-against-rogue-systems"
     type: article
     provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 57
-    images:
-      - url: "https://media.wfaa.com/assets/WFAA/images/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
+      name: InsideDefense
+      domain: insidedefense.com
+    quality: 19
 
 secured: "1Ft027Mw1phWTKXutptxGdZC71jtc1SKauxah+nvWLQBva4jGeyHCaoVObsDKaaTdfVoLcXcYefpDUk7XGd5ntNJYkCX8NR59T9TIkm4tHppAPYJqzjwX7HQvQwA2KF0fKmTaNdv0xkK4WaC3A03Ti0VJNeXWYDyTjVxPPIbyLidEQn7I0b60GMFKO+dGdq5g6TnG1+tv1mX3Mh7eKiOby/Ku0qoZvt4fjEzJ3XnxcALqAoMUY+GjQDduR43OSJBhP29/ziAUSpbRY9RhAbYmz7MyJWBosIiCeI5L0ys/Tp+5WGdTHAkKbnnuQDNp86WiY3dW8T/MkNtRJAa3GMoYyFsJxwxYMci51Kb4ykgNfY=;9ueZMPodb+nghju+AtUo5g=="
 ---

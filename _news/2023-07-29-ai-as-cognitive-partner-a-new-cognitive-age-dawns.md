@@ -3,10 +3,12 @@ category: news
 title: "AI as Cognitive Partner: A New Cognitive Age Dawns"
 excerpt: "The cognitive age is also forcing us to reevaluate the boundaries of creativity. The age-old dichotomy of human versus machine is being replaced by a cooperative partnership. In this new reality, AI is not usurping human creativity; it is amplifying it, pushing the horizons of what we previously thought possible."
 publishedDateTime: 2023-07-29T16:32:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202307/ai-as-cognitive-partner-a-new-cognitive-age-dawns?amp"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -147,6 +149,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "awyo2os9ALfFSoOkfLx3ojwCz5Znm2t1sIHpfQaidy8KLYHC4WHUANz/4ihM18aFFTosjvoci8JNbn21Vp1vFnIK6Q1Z3TdF4TC+hhEjCLYWsXKwcevEim3cj92HArVV/dgIfiTokxE/llyQLIgvHzsJMGpFRxsdAx2/vWrfjLiUjLk2YddOTe91XiSnETohTDY7bw267l5Z7l5je+dKJ0zPIg788qhwPgT1IQn5GZ23jCbaQFglJTyvK3D+zD+8+HWc/dtKrCFGPv5Jtm6lWxYjQo+c4OKk+JfpckuaD/btoMxdIaE+VaVyiy5XFNktQYXJxWJDSzoIh+7Lmn86eoQlf2TgWAKSBcKm9wsZt1PgigeEiRPgHtk7YvHJhjY2lkJ+LiFZuMZUZ0jk42TRD4AxCaX/TJSibSrEfZPOGtFGHeCnqQXqGCk23bMmONFffXIBmDMu2hBPxb08YLe+CWnTGEJO7GRVzPQKbUVZ8qYsWQRaaHhFjaZ7o3r1vkj9GArzjfbBrbAC9IIdnh2xfQ==;29XHGfXTLDQkmcVaoXPTSw=="
+secured: "QxrsPU0aSajqHnj52AwhHqKK0DdSKXtY9vl6mqOyvOfIeSXttx4P4O03XWnoH59O3+02WCVnx5QLpf6CoFywWiw3wX+aCWgkOGyjRfglqCs+YBW5DnnTdPvkGhK6HBGCMbgj9BU5eTDliUvK3VlFgrD1pLLBVXA7YBXR4qA4Q2fgYriSSCIxS24Xmq7ZcoUNgmyRCdRQSakIt3/u5WFf7Sp4v4P9W5pZ8RNsIjONsxnRvrNX6Ntx6CWH57eDEtkON1S5m0ymkJqQO8X+jKxg4UDveuDqqKOBcsF8vFncZRbtTX+QnhqKkD78XLDtpRWepcNxX8UypSIGWcpBShVEjQcuQWwjKx1VOnLBqjdrg/woYOCTYxYau6f9BoFtNDHhO5LG3vW2K8CwyJjSDaeWey/g9ShahSNzE+5EiRgfe3lyOVzMqXfUpOK033LAMYVTJVyx0XWO3WyJnoBOk6Y01IajjL3gu7Xv7k0Ep/DURyVtZeMNdCBpQnLCxafgs4FZrtsSnJADtoS4SOztK0yI6g==;4G9K3hkDAxcPXzDH3fShDQ=="
 ---
 

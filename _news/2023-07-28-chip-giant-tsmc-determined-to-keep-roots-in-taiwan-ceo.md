@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan"
-    excerpt: "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan."
-    publishedDateTime: 2023-07-25T05:13:00Z
-    webUrl: "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229"
-        width: 3543
-        height: 2362
-        isCached: true
   - title: "Taiwan’s TSMC to invest $2.9 billion in new plant as demand for AI chips soars"
     excerpt: "TSMC, the world’s largest chipmaker, says it plans to invest nearly 90 billion New Taiwan dollars ($2.9 billion) to build an advanced chip plant in Taiwan, as it expands production to meet booming demand for artificial intelligence (AI) products."
     publishedDateTime: 2023-07-25T08:35:00Z
@@ -125,6 +109,15 @@ related:
     provider:
       name: globalconstructionreview
       domain: globalconstructionreview.com
+    quality: 34
+  - title: "Taiwan chipmaker UMC sees 'uncertain' demand, gearing up for AI"
+    excerpt: "Taiwanese chipmaker United Microelectronics Corp (UMC) said on Wednesday that it sees \"uncertain\" demand in the third quarter but stuck to its 2023 capital spending plans as its gears up to meet customer demand for artificial intelligence (AI)."
+    publishedDateTime: 2023-07-26T13:35:00Z
+    webUrl: "https://www.aol.com/news/taiwan-chipmaker-umc-sees-uncertain-103503770.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 34
 
 secured: "GbMqor/dy0c2rZAyuSfazn11EanMWIZsua/G4Vp5+Yyg/kaIF2pwrmsasHC4YoEG47Vph3i2mSDs0IlMOuafo7Q9W0jY71Z/QKLm+T3RjXiNM/1qs1cmzL+/z5KHyLXdTcF8a+Q1fCiA0LK1KdwO5XFaSWlbMqNJBflX0foRmNj3UpcPvt03q0Ei/HfFD2+H092vLTECsZ3vGcQZGiTiEDQPH5WuwphBxdi/ujX+sUR/Qm5aHSLv28NbEU4uDH9j28y6ikXiJz7X/C9E2i0xUm3VN9bDxZwiAc6JdB2BDOV8XGV+zc9kNYiG7mGpUvObaKZfzrmoLbdKX48wx+GNsSBFS4tIuOqe1b/KuPlHAnU=;PkvWHIexBHAvp5844stpVg=="

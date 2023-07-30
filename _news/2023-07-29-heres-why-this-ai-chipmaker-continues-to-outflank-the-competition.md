@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-contin
 webUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html"
 type: article
 quality: 64
-heat: 84
+heat: 76
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Taiwan chipmaker UMC sees 'uncertain' demand, gearing up for AI"
-    excerpt: "Taiwanese chipmaker United Microelectronics Corp (UMC) said on Wednesday that it sees \"uncertain\" demand in the third quarter but stuck to its 2023 capital spending plans as its gears up to meet customer demand for artificial intelligence (AI)."
-    publishedDateTime: 2023-07-26T13:35:00Z
-    webUrl: "https://www.aol.com/news/taiwan-chipmaker-umc-sees-uncertain-103503770.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
 
 secured: "ArrQ0zYeDTLm6rb+MK3I2K1tfPJ72kpuvarvBifSVq3tERwZAieu6F+Oiqns2uToA8X5GmO3nIM87Q6F0BtiFx4vNOOBYDr0CEWVdy3jfs44Qh4+5+AbYRamZVPlKRlsq1GMYeL/naTNvt1YvcywDPg3Z9jpOvDVop0oh02BfuUM2ZPagZOhDwM6qilGYS6Kv5nvOqF7dCYl/QUvmTbuvENs5HzL1cdT23Bf3xd+JbBX+Y52OZ27BClb/MzbIiRRdpBm7qm8VnfaWVsFUC2aMUcIHB5Z1foRO4BeT/ul5h4yht2f2LxxITTEuZ6fq80DwMKrL7I6B9v+rpF2vL5U4JPqH3LcDgO655fTNDpsUEg+ZefgEh5NcFNZ1nMi7ZgeWICgfCL+f9QV+xtGcG+7+XfuNTTXXiL8jP6QZb+Ov0FFYNdJYzBrpb1E/4Fbhjiv7c35SU2hPnYC1zkujBQ6Is6ckKlKWqqOZErAI8KxCHtp9wbgFBAQWjbFKR7wVH0ql3qZTf6hWiTgG3TShvE+7g==;TowLmPS/vtFxG8HjoYpMhA=="
 ---

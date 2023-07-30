@@ -114,7 +114,7 @@
       "originalUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -716,7 +716,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1037,7 +1037,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 411,
+      "heat": 401,
       "tags": null,
       "images": [
         {
@@ -1186,21 +1186,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-26-us-lawmakers-struggle-to-find-deal-on-self-driving-cars.md",
-      "title": "US lawmakers struggle to find deal on self-driving cars",
-      "excerpt": "Congress still faces serious hurdles to winning approval for long-stalled legislation to speed the adoption of self-driving cars.",
+      "path": "_news/2023-07-26-senators-call-for-ai-regulation-as-concerns-for-national-security-grow.md",
+      "title": "Senators call for AI regulation as concerns for national security grow",
+      "excerpt": "The Senate Committee on the Judiciary’s Subcommittee on Privacy, Technology, and the Law held a hearing Tuesday on the principles for artificial intelligence regulation.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/",
-      "originalUrl": "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/",
+      "webUrl": "https://www.washingtonexaminer.com/news/senators-call-for-ai-regulation-as-concerns-for-national-security-grow",
+      "originalUrl": "https://www.washingtonexaminer.com/news/senators-call-for-ai-regulation-as-concerns-for-national-security-grow",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/MrMppNk3ohKSJBN0NahPuzv99Ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMXA5TMYMNORXKF5MBF6OVMY2A.jpg",
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/43f25bf/2147483647/strip/true/crop/1243x653+0+96/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F0a%2F68%2Fcaa4b50c4b15a9bc012636f70026%2Fistock-685820632.jpg",
           "width": 1200,
-          "height": 628,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1210,21 +1210,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T09:02:00-07:00",
+      "publishedDateTime": "2023-07-26T09:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1233,8 +1224,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     }
   ],

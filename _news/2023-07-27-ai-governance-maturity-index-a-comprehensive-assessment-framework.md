@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-matur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/26/ai-governance-maturity-index-a-comprehensive-assessment-framework/amp/"
 type: article
 quality: 89
-heat: 93
+heat: 89
 published: true
 
 provider:

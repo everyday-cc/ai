@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
 type: article
 quality: 61
-heat: 71
+heat: 73
 published: true
 
 provider:

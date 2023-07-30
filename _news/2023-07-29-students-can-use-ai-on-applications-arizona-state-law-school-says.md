@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-ap
 webUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could artificial intelligence keep students safe in school?"
+    excerpt: "More school districts are relying on AI for help securing their facilities. One company claims its sensors can identify weapons on people who pass by."
+    publishedDateTime: 2023-07-27T00:01:00Z
+    webUrl: "https://www.wfaa.com/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/could-artificial-intelligence-ai-keep-students-safe-in-school/287-166be657-6825-4aec-9d56-7eba788cbf2e"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 57
+    images:
+      - url: "https://media.wfaa.com/assets/WFAA/images/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9/9033bd6e-4e2f-40a1-8e61-8ee47f25f6d9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Arizona State University Law School allows generative AI on applications"
     excerpt: "Arizona State University said Thursday that applicants to degree programs at its college of law will be allowed to use generative artificial intelligence in application preparation."
     publishedDateTime: 2023-07-29T13:04:00Z

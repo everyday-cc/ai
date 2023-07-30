@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
 type: article
 quality: 65
-heat: 75
+heat: 77
 published: true
 
 provider:

@@ -26,36 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Our schools’ war on AI is a national security threat"
-    excerpt: "America’s artificial intelligence superiority is at risk, and the key contributing factors are the broken U.S. education system and fear of job loss."
-    publishedDateTime: 2023-07-25T05:59:00Z
-    webUrl: "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat"
-    ampWebUrl: "https://www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/our-schools-war-ai-national-security-threat.amp"
+  - title: "Students can use AI on applications, Arizona State law school says"
+    excerpt: "A week after The University of Michigan Law School banned the use of popular artificial intelligence tools like ChatGPT on student applications, at least one school is going in the other direction."
+    publishedDateTime: 2023-07-28T19:14:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/373f793d-841a-4c28-8ed0-cc33d7e54de6/25e4f207-a021-4f29-ade6-ef88e54f89c4/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.reuters.com/resizer/b2Anx_GTiPSvepG6KWEo6YSj1bs=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMVVTUJ5J5JXRFRVUHV5ZWIYMI.jpg"
+        width: 728
+        height: 381
         isCached: true
-  - title: "Senators call for AI regulation as concerns for national security grow"
-    excerpt: "The Senate Committee on the Judiciary’s Subcommittee on Privacy, Technology, and the Law held a hearing Tuesday on the principles for artificial intelligence regulation."
-    publishedDateTime: 2023-07-26T16:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/senators-call-for-ai-regulation-as-concerns-for-national-security-grow"
+  - title: "Arizona State University Law School allows generative AI on applications"
+    excerpt: "Arizona State University said Thursday that applicants to degree programs at its college of law will be allowed to use generative artificial intelligence in application preparation."
+    publishedDateTime: 2023-07-29T13:04:00Z
+    webUrl: "https://www.foxbusiness.com/technology/arizona-state-university-law-school-allows-generative-ai-applications"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 54
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/43f25bf/2147483647/strip/true/crop/1243x653+0+96/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F0a%2F68%2Fcaa4b50c4b15a9bc012636f70026%2Fistock-685820632.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 16
 
 secured: "BvwaLSEu6Qy1/yICFv+f/Q6dxBgMaATr/ItQAOHbtq+fsnlXZYhrtcC1Q+5h0tWEtsTtaUsmwSkpFNU2G8OsCv7r/UwDqdn9hc7SIHfqFLa0UWL4vr6yhIi/Neig5UGnQ42GFr0uZr5kbJsAhnTcC1sEj9P9IjeCaYcsempUbMBilERyWjxhKWSBwLCxqiL3SCSCFzAAdojO6NUCt2t16PWbQ0ntz+jy1kljN6XJikcuq3P8SbJgXu/hbRB0UDF7oKPWhUu7p/pE8bUkch5F6uufBVVLmjoSJMoY8xIoZCk+QDjjP/Zi/HM6uUKyRdcsy+VzXLtmrcLlnaRNmY2raSXczH5KpMtapT2BpC/Yll0=;z6br6kRLz+kwn62Z+IP4ag=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrad
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "MSFT Earnings Today; Will AI Pump Up this Stock?"
-    excerpt: "Tech giant Microsoft (NASDAQ:MSFT) is scheduled to announce its fiscal fourth-quarter results on Tuesday, July 25, after market close."
-    publishedDateTime: 2023-07-25T06:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-earnings-today-will-ai-pump-up-this-stock-1032468886"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/MSFT-Technical.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 813
-        height: 412
-        isCached: true
   - title: "Meta Platforms Stock Gets an Upgrade Before Earnings. It’s All About AI."
     excerpt: "Generative AI capabilities can create long-term monetization opportunities for the company, New Street Research says."
     publishedDateTime: 2023-07-25T14:13:00Z

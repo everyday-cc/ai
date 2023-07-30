@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-09-ai-comes-with-ethics-questions.md",
-      "title": "AI comes with ethics questions",
-      "excerpt": "We’re light years away from Star Trek’s Commander Data, but AI experts tell us technology is closer to some kind of sentience than most realize. Now’s the time to prepare for it, and that includes thinking about ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://cdapress.com/news/2023/may/09/sholeh-ai-comes-ethics-questions/",
-      "originalUrl": "https://cdapress.com/news/2023/may/09/sholeh-ai-comes-ethics-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hagadone.media.clients.ellingtoncms.com/ARTICLE_200339998_AR_0_LCGPLJQVULYE_r1200x630.png?b7d505e466ff31ef2a911eceee85296b69915698",
-          "width": 732,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coeur d'Alene Press",
-        "domain": "cdapress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-ai-bots-like-chatgpt-are-being-censored-but-i-think-that-could-be-a-good-thing.md",
       "title": "AI bots like ChatGPT are being censored - but I think that could be a good thing",
       "excerpt": "I was immensely disappointed to see that Microsoft laid off its entire AI ethics team earlier this year. As a pioneer in the AI space, committing to AI in a number of ways, Microsoft should be ...",
@@ -1477,6 +1434,49 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time.md",
+      "title": "Chatbots and the new AI: What will Silicon Valley unleash upon the world this time?",
+      "excerpt": "All will be impacted by Silicon Valley’s latest creation: “generative” artificial intelligence. With new chatbots and AI software that generates text, images and sound, technology companies have smashed open Pandora’s Box,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/04/2023dmt6.png?w=1024&h=569",
+          "width": 1022,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/04/25/chatbots-and-the-new-ai-what-will-silicon-valley-unleash-upon-the-world-this-time/amp/",
+      "publishedDateTime": "2023-04-25T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

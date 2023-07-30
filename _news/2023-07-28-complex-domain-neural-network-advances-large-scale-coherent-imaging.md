@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-07-complex-domain-neural-network-advances
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.amp"
 type: article
 quality: 74
-heat: 80
+heat: 74
 published: true
 
 provider:

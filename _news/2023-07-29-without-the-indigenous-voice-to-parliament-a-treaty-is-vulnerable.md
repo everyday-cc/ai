@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/inquirer/without-the-indigenous-voi
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de?amp"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous voice to parliament late-year poll ‘to harmonise voice’"
-    excerpt: "Conservative Yes campaigner Greg Craven says it would be sensible for Anthony Albanese to push the referendum as far as he can to mid-November or early December in the hope voice ­advocates can claw back support and the millions of dollars in ­donations can have the greatest impact."
-    publishedDateTime: 2023-07-25T05:59:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "A vote for an Indigenous voice to parliament makes economic sense"
     excerpt: "The voice is about recognition, listening and making sure the billions of dollars we invest in programs are getting value for money and improving lives."
     publishedDateTime: 2023-07-27T08:30:00Z

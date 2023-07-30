@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous voice to parliament late-year poll ‘to harmonise voice’"
-    excerpt: "Conservative Yes campaigner Greg Craven says it would be sensible for Anthony Albanese to push the referendum as far as he can to mid-November or early December in the hope voice ­advocates can claw back support and the millions of dollars in ­donations can have the greatest impact."
-    publishedDateTime: 2023-07-25T05:59:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "Without the Indigenous voice to parliament, a treaty is vulnerable"
     excerpt: "The Uluru Statement from the Heart called for a constitutionally protected voice to parliament, treaty and truth. The reforms are listed in a sequence. The sequence is deliberate, and understanding the order is central to the message of the Uluru statement."
     publishedDateTime: 2023-07-28T23:31:00Z

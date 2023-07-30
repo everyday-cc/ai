@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html"
 type: article
 quality: 100
-heat: -1
-published: false
+heat: 170
+published: true
 
 provider:
   name: CNN
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan"
-    excerpt: "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan."
-    publishedDateTime: 2023-07-25T05:13:00Z
-    webUrl: "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229"
-        width: 3543
-        height: 2362
-        isCached: true
   - title: "Chip Giant TSMC Determined To 'Keep Roots In Taiwan': CEO"
     excerpt: "Semiconductor giant TSMC said it was determined to \"keep its roots in Taiwan\" as it launched a massive facility in the island's north on Friday geared towards developing the world's most cutting-edge microchips."
     publishedDateTime: 2023-07-28T11:44:00Z
@@ -129,6 +113,15 @@ related:
     provider:
       name: globalconstructionreview
       domain: globalconstructionreview.com
+    quality: 34
+  - title: "Taiwan chipmaker UMC sees 'uncertain' demand, gearing up for AI"
+    excerpt: "Taiwanese chipmaker United Microelectronics Corp (UMC) said on Wednesday that it sees \"uncertain\" demand in the third quarter but stuck to its 2023 capital spending plans as its gears up to meet customer demand for artificial intelligence (AI)."
+    publishedDateTime: 2023-07-26T13:35:00Z
+    webUrl: "https://www.aol.com/news/taiwan-chipmaker-umc-sees-uncertain-103503770.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 34
 
 secured: "g0Dw6yx6HWiGVGRNeTLjFKm9nY3dS0CcctMd8uqYWX7iEZO1khk/tJ6k00RFZHzIZxapupbfAc89TLKdaeC+Zgglk/Uwz4UgcLJLiKuer9wxVzFJnrBrxJ9VjeWsNbLHAM/w/FSJl3gJ0xkug0RxhsxJOMytr8Uv2+mAPDc1YJx3ub+UQvrPyJ8f2nTyqT7nvsV2loB+w7wedqiRzKL0MU+4vMkzN8v5oufaOVTucntBT5XoEahkhwHKmFQ3NUjzOKd/ammZ0ME0hmEssWzYtWwc1DrLt0MuZxqmhxKaB+IeI/sZGWVhCE41SrGmK8wGD5hwL+g4INQCkk25KzJU+dYk9tMeDx+XZI669gqzP53qomD9VYAdAxNObPxifXGuxTGLTzyejgHzLT8bquFf4MVXyADqYPB/z4QMwm7oR3Jk2DrWENUSw7b6Sda0zIbe7BpIYMWgcbswvz8Qd+N8nplAGUgRG3UHUuwb98CuBdFVyFtYhko4QmBv9DUzZWPhequn4yVj+vFCN8uz+aj41Q==;tEMd2h3YvOrYsdtIFtfDWA=="
