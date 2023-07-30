@@ -87,20 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI’s Grip on Tech Set for Test With Microsoft, Alphabet Earnings"
-    excerpt: "Bets that artificial intelligence will revolutionize Corporate America and deliver riches to the biggest companies behind it will get a test Tuesday, as Microsoft Corp. and Alphabet Inc. report their first earnings since AI fever broke out."
-    publishedDateTime: 2023-07-25T09:40:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-25/ai-s-grip-on-tech-set-for-test-with-microsoft-alphabet-earnings"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2L_HiFv2QE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI lesson for Microsoft and Google: Spend money to make money"
     excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
     publishedDateTime: 2023-07-26T07:57:00Z
@@ -547,20 +533,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-26%20at%2011.06.34.png"
         width: 1280
         height: 894
-        isCached: true
-  - title: "Genpact Collaborates with Microsoft to Equip Workforce with AI Tools, Fueling Enterprise Innovation"
-    excerpt: "Azure’s cloud infrastructure coupled with the flexibility of the Azure OpenAI Service will help accelerate these solution developments. “Generative AI’s potential to drive innovation is unprecedented, and by democratizing access to this technology ..."
-    publishedDateTime: 2023-07-25T10:50:00Z
-    webUrl: "https://www.siliconindia.com/news/general/genpact-collaborates-with-microsoft-to-equip-workforce-with-ai-tools-fueling-enterprise-innovation-nid-224299-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 40
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/S7v1gyUc.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Microsoft reports slowing cloud growth as it awaits AI revenue"
     excerpt: "The Redmond-based software giant has been introducing generative AI products and services to help boost flagging cloud sales."

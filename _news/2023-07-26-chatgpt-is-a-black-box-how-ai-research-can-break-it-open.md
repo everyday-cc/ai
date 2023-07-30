@@ -205,22 +205,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "It’s time to break the ChatGPT habit"
-    excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
-    publishedDateTime: 2023-07-25T10:19:00Z
-    webUrl: "https://www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.html"
-    ampWebUrl: "https://www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 46
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/05/llm-models-100941413-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "We Tested an AI Chatbot Drive-Though. Here's How It Did on Three Challenges."
     excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
     publishedDateTime: 2023-07-26T12:04:00Z
@@ -324,6 +308,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24160409/SEI_164399926.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Experts discover workarounds to evade chatbot AI safety rules"
+    excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
+    publishedDateTime: 2023-07-30T03:56:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/experts-discover-workarounds-chatbot-ai-safety"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 37
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
     excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."

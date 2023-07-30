@@ -7,7 +7,7 @@ originalUrl: "https://www.tvtechnology.com/news/startup-to-use-generative-ai-to-
 webUrl: "https://www.tvtechnology.com/news/startup-to-use-generative-ai-to-create-personalized-news-network"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Decentralized Networks Reduce The AI Costs"
-    excerpt: "This untapped potential provides a remarkable opportunity for AIGC. As an illustration, an AI startup based in New York could dispatch its training tasks to servers located in the Middle East. By doing so, the aggregated costs, encompassing server expenses ..."
-    publishedDateTime: 2023-07-25T11:03:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/"
+  - title: "AI Startup Hatches Plan for a Personalized CNN-Like Network"
+    excerpt: "A startup company says 'we’re about to witness the next big shift' as it unveils a brave, new type of news channel."
+    publishedDateTime: 2023-07-26T19:24:00Z
+    webUrl: "https://www.thestreet.com/technology/ai-startup-hatches-plan-for-a-personalized-cnn-like-network"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bfa27ae60700645ff13678/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "qP4ZC+cO+khOVY/9weDqHWVkjQOT1QEuvP2TvrcCPbm7lIfkzsjAVKjQWH7G9/H2EAPWJINyMDcKtxVBzkJLHVEoJs9EujYn29kgdatxVu3btzWm+q+VDNzaZbQOqcTLvywPifzfLFk4vz1YVYxuSng6GUANcFW3d+ugDKZhwGUsMrH9vfREGM4PrxEmBnz+glnI3DLMantE+JJQ0ZCoJsS0UXOB+pBjztrEXFVA4E6rxCWNRzkieD8v3LFYDo6g78lyqP6m71D+5a5VqkaJX+CHcKhrNmnjQmoop1khf+tFqD12lh47/9N1zFFlDKFIAs/khUZgJFaHFOO/p9hUJRhJWrsu7ERdsVWc8n8YdJu85fOdihySVR2Q6CojAssJHRsqeUY5nYvdv0Lr+y+GxVtDbbiimNvg6pdNzvXHfBa/R8D1dpA6ktPKXO1aRmsbLCOaGJ7oqcV1uTwL5TY0KR5s1jTjMI3+xcvmHpTPsisY6f5vS66aif80gnTKco0KplpbCx87wqwI7qpcBUHxrA==;NfYD9UPt/XSfqao51w+NHQ=="
 ---

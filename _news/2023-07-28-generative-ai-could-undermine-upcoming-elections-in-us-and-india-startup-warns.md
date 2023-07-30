@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "India now has AI news anchors. I tuned in and within the first 5 minutes, it's clear that news presenters are in serious trouble."
-    excerpt: "Add India to the growing list of countries with AI-generated news presenters, who could easily pass for humans if don't look closely."
-    publishedDateTime: 2023-07-25T09:25:00Z
-    webUrl: "https://www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/64bf91ffbea344001960c4f8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI-generated anchors are making headlines in India"
     excerpt: "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor."
     publishedDateTime: 2023-07-25T18:27:00Z

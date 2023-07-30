@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Is This AI and Robotics Chip Stock a Buy Now?"
-    excerpt: "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now."
-    publishedDateTime: 2023-07-25T11:03:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/"
+  - title: "2 AI Stocks Up Over 100% This Year That I Would Still Buy"
+    excerpt: "Bullish on AI? These two top performers are off to a running start in 2023 and they still have room to keep growing."
+    publishedDateTime: 2023-07-27T15:23:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/2-ai-stocks-up-100-this-year-that-im-still-buying/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 116
+    quality: 69
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg"
-        width: 3372
-        height: 1809
-        isCached: true
-  - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
-    excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
-    publishedDateTime: 2023-07-27T10:03:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 62
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg"
-        width: 2122
-        height: 1412
+      - url: "https://g.foolcdn.com/editorial/images/741402/ai-robot-whispers-secrets-to-smiling-human.jpg"
+        width: 2121
+        height: 1414
         isCached: true
 
 secured: "dzDKtH+0f/GsQcA3Y3jvR7tWFXvAsqAPLFc2p5Ud908tq33E+ijHTXQgrimldJH3EXk+Jg1AwVqF7pqPca3y+RElVaBH2Ngv7+Fqygj2pDCRulCl6Ixu5GXaWP4c9Gtb5IL3yCacVA9Cwk9jyRBQfXtSVvtQRuSocmuL9Lfv6z1AA7sLPu4kClAuQmsyBD1RbpvRZ/Wsi44wanoli4EgR4/kzuskWsjNX2NF9xe7BRxlIJuBI9m0Op5qHJJQDF2z2OFSGNsWfSe8MvyxwaDGvhGVfWWTl9VBYU5YmbM4VkafFqi9zwU26a1PjQuEFnIDiSSPYU5a1MqIGwueUCbzliz2LT5pphijYrh0URYI7OScV5ES/FlR80UJMPhFxu3NGNJhQuM4yPcoY7PZEHkTTN65bSMp7juvKFuyRPNShXvo74yclQbok4Rnx4h+obmAq3rfQj3TyNcrmyHs/JksLsa0170xyWwXDZfGDHQQ9wkbxeVglF+nhe0Zhc0j+dg6F+nIxjjGMs+NjHUybG4EKg==;kJdf+jmKhrBwYMAXVpUCFQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-
 webUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 63
+  - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
+    excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
+    publishedDateTime: 2023-07-27T10:03:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 62
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg"
+        width: 2122
+        height: 1412
+        isCached: true
   - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
     publishedDateTime: 2023-07-27T09:30:00Z

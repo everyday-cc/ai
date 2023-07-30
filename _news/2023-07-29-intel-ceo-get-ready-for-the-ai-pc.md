@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai
 webUrl: "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc"
 type: article
 quality: 71
-heat: 103
+heat: 101
 published: true
 
 provider:

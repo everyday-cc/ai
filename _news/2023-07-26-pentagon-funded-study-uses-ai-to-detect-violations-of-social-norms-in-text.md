@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa
 webUrl: "https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa-study-1850673979"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Gizmodo
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "DARPA-Funded Study Uses AI to Detect Violations of Social Norms In Texts"
-    excerpt: "GPT3, a powerful language prediction model, allowed the researchers to form a foundational set of social norm categories upon which violations could be assessed. Because the system would be trained on texts,"
-    publishedDateTime: 2023-07-25T11:00:00Z
-    webUrl: "https://www.extremetech.com/defense/darpa-funded-study-uses-ai-to-detect-violations-of-social-norms-in-texts"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 18
 
 secured: "B1FAPxsOk8LVUAL5oLnQmzh7r9SqHEdt1PDWnBVhOLQ97p/WhiTxNQnBj5276Uou66tKAUmOJZm1Uuu3FN3g0EM+PKt124Kz+i2zPbzPOVH2fWKTIoBmClqwygaA2cCif88mUJh1zfqSqffYdWDIQNnL8dDtIyNiQ3haEW1rYoR4mazq5YHUL4s5KMM41oqBbw133aSIVwYmaHxTBSTXiPIoc1GtU/FTexEDhT5iNKwCUknr/zhf9mDbqW/bFxgLlWGLqc7Yf/ioifnVwMXw/XSPEN7I6g2ViR2BPmej8kgBkTiPjjo1fa7OHxLXbH8DZNRYt2dWXPUmNC/1euaGJPBzl0QxVW99VfmDZBWJwOqzaQoqZbbkzdiei9o0+clb7NosNaMcQx4amHphODYr7RkAE0CcSjpxCfRC7z4IomWKSZ4YF9N628i0830wjxQ3iDQnFDmj2L/92tDgqGJHvS09X8VHOr6cSfJQ5CvniWsMPXGnkw2WWaRL4m8N21IJdrhe1PVHTOEIVvGdmU7n6g==;ZEDWb6ivR1RMTvwAlisNhg=="
 ---

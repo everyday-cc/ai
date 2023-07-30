@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-skin-cancer-diagnosis-explori
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.amp"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing machine learning for early cancer detection in primary care"
-    excerpt: "Machine learning (ML) presents a promising opportunity to revolutionize early cancer detection in primary care, addressing the challenges associated with diagnostic errors and improving patient outcomes."
-    publishedDateTime: 2023-07-25T10:48:00Z
-    webUrl: "https://www.drugtargetreview.com/news/110966/harnessing-machine-learning-for-early-cancer-detection-in-primary-care/"
-    type: article
-    provider:
-      name: drugtargetreview.com
-      domain: drugtargetreview.com
-    quality: 39
-    images:
-      - url: "https://www.drugtargetreview.com/wp-content/uploads/ML.jpg"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Reinforcement learning improves performance of AI-based skin cancer diagnosis"
     excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice."
     publishedDateTime: 2023-07-28T17:17:00Z

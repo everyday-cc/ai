@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna95244"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95244"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:
@@ -52,6 +52,6 @@ related:
         height: 1688
         isCached: true
 
-secured: "Y5G2allWKTfnu9IeeBY0GrElNyz5K4i2yQ6og/fSzFj4CBOAY8c1i6XeD+/6WGG85dwEJHU7Q6CaeCYqEzKQWJqXeb9aMlu1kl2emkKGHODjAokS3E3Fu8Y2hT3bWIR+T5w8WJGb7+tJ5jkgnefKVznDgCrxdVzh+XHl9T4hZJdabPLq+EqjyGnJZEQMV6g1pWhmEuMHTB2DgL/0eObgL2z7f5qzkEhFAa4XLEle1Gz+cLEB/5Blne0sp61cBmVLY+c/RBfrj1+3ySN43ZFPNjZKVWoblq0A/Em6zVdqWlTmQ93Kq9UcVCYNPmWGAl1beh3d85JBPNiS9nWLVmKBzGzfvEkqWc81WCmwYkjM6bc=;IZCnQkIXnHsRZXeDmuDXrA=="
+secured: "EjfodDLPUxnwZb2tWBv1YO0uUmxg1lwdi07TOhK5JPL9/dOEQVvorcwSp68a6qKwuOVVKF1FSIZ/FgNAgz8Sb7ppJH+YUF0JysCmH66WKRMZETtZzHIsoFypsassrzfgAu76YeQ/fr4bv0bnyTsyBM/QIv2Q5ArY5GFGJ1bRZ5PWGyDaRS7QS74A+U/M0QCqv9ZKRVAH2ZQNHdQXvADq7Zl9ue3yZrxoT+VI6LFYwM1VwxLFrIXSO9gWwAMahwOiT09EwsIhW3Ya6fVC1DNPl5Exm+UXrKoIdzILTOHNObmK9qXjHflQHo6jVjZtUNhPziU1rVjyaIkK3HZyOi0r5FltC5LyXFRE85p1IBgELfq89/Cl7qo9+4Jv/UwiYR2EAoWzoU5GGTiOjGlqVbo0ipvdW1bfRkDxrtEfler0VFjPO0OM8F6WJZFg4bt0urolKCGsFOVWjw7Py5qVC98eweQnUKfLO5sZ3rOUYXiWfglTDACaSq6TwXGYCbpyZY1smwcNqgbHGs7AFQOBpUw7Xg==;RSNeTiweyNCE6CE28c5PnQ=="
 ---
 

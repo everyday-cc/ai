@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
 type: article
 quality: 89
-heat: 121
+heat: 119
 published: true
 
 provider:

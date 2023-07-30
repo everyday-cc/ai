@@ -115,34 +115,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ESRB Wants to Use Facial Recognition to Age Check Access to Video Games"
-    excerpt: "The ESRB proposes a way to leverage facial recognition technology to verify a person's age before they can play their video games."
-    publishedDateTime: 2023-07-25T09:47:00Z
-    webUrl: "https://gamerant.com/esrb-facial-recognition-age-check/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 39
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/esrb_logo_-2006-present.jpg"
-        width: 1800
-        height: 900
-        isCached: true
-  - title: "How to ensure fundamental rights when using face recognition?"
-    excerpt: "The EU is debating whether to allow Member States to use face recognition software that would make it possible to keep tabs on people in real time. Estonia will only back the plan if fundamental rights are ensured."
-    publishedDateTime: 2023-07-25T09:18:00Z
-    webUrl: "https://news.err.ee/1609043342/how-to-ensure-fundamental-rights-when-using-face-recognition"
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 39
-    images:
-      - url: "https://s.err.ee/photo/crop/2023/07/24/2009387hc904t24.jpg"
-        width: 672
-        height: 420
-        isCached: true
   - title: "US cities weigh value of facial recognition for police"
     excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
     publishedDateTime: 2023-07-28T15:14:00Z

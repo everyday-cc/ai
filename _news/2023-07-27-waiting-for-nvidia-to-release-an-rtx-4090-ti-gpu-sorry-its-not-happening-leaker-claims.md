@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "No More GPU’s for Gamers? OpenAI’s ChatGPT to Use 10 Million NVIDIA GPUs to Create Super-Powered AI"
-    excerpt: "The race for AI supremacy is on. OpenAI is currently leading the pack with ... If such an agreement is real, it is very likely that there will be a GPU stock shortage similar to the one in the pandemic period. It is also unclear whether OpenAI can afford ..."
-    publishedDateTime: 2023-07-25T10:13:00Z
-    webUrl: "https://www.gizmochina.com/2023/07/25/openai-nvidia-gpu-new-ai/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 70
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/07/openai-nvidia-gpu-new-ai.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "A+TXx02fYoVGWhEmLzrpRI187JNDGDlvH9nuYo2M2wE/40bRa6kGPQQ4b7H/5WRjppyriIT5YykMtx7sTCqKB0Gd0B0Ga8ExDZ83koRcPq7e6E7ENoNsCZl7fX4KG/py/BNbxGYuiBSUC1GPM4tMyeiyUalQaze2kxUy5W4niD9ITEIzXk4ZuzXOTUPw25EOT+T3AJh0u76wWUhLi5l6u2e6hcs1tUc/KyTpotLeqJHKvcClv1NShmz3xE48Jzy5BeJYqXPH6lfefOpXKa0SjvKRBGP7fagntk2I49XcmOCwc16KB3s2byQwnFswdZqoKISPacz6JWPLGYwkoKCOc6u02tLuWW+9wR9LLUACfOe+Ie1LneJNgDRmfeC5Hcn1leAhP9lZnfM2RLMUFK/1MEkmQ2qziIFEMfybNjKS+W6zw0FQe6PV7+QXP+QK/EsmANr8agUX9k9i082a4xMtMkJR+wgQeF2hrbre4pu1JNEkL4YOLPeP5w27SXgwrCCpwf/zfkfts6/46MZmO/+zEQ==;+Y3jL/Zf4xLd/8ar2yLLZg=="
 ---

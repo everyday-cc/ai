@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "3 Millionaire-Maker AI Stocks to Buy Before the Window Closes"
+    excerpt: "The post 3 Millionaire-Maker AI Stocks to Buy Before the Window Closes appeared first on InvestorPlace."
+    publishedDateTime: 2023-07-28T12:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-millionaire-maker-ai-stocks-to-buy-before-the-window-closes"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "nfgrC+/tFRLH7fDWSOYKnB6nTP5dqXbB+zj/cdU2+9u2aTOWNM41UcqQapgyLhI2VUONNi0j7Pi3+M7NSB8UAlcqzZs7bg+ut3Cn589V8DaZeZ1hbo5ubMVmpU/vYz3FOS0gM1n4inDKFvIMie7UpG5I53cLJagQdBQCKJJTB1Lpbbj3OdkvG72LwixmBOgKCmUJdBryOJ/9zlux/TWZC04Ndaitys58pwrDqi+Yx2V1cm1eLIOgUWpNiaRGz1A7Ygg6YI96dq5AsJsQa3CX6tBmz9Sg/gfsMfAgmRV2aZJEs1OF5EJQ3Z5oS7qkaG5oHKT+38QRZvgzwHBj9HplKBBrkFf7XDVAvAdCrs9ZckpNdiJm6ANlg1ieCteZGbD5MsLXpkZuxSeotHpWa+LK1LHQoyVu/balypMdfBAZJzo7daqcsC9mvyZU+WuRXXH/Q856g1uElCtP3mNQrx05OhLFD/narTCLsm+4zYN2uGDBg1zdOTKeAErBhOwF0Bk+HdHEHKJP41M6YDgyj2Rkig==;0WTKZiF1VDmo3N/Xq4HghQ=="
 ---

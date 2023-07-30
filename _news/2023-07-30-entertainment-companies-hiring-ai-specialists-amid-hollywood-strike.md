@@ -2,26 +2,26 @@
 category: news
 title: "Entertainment companies hiring AI specialists amid Hollywood strike"
 excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
-publishedDateTime: 2023-07-30T00:52:00Z
-originalUrl: "https://www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
-webUrl: "https://www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
-ampWebUrl: "https://www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
-cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+publishedDateTime: 2023-07-30T02:44:00Z
+originalUrl: "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
+webUrl: "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
+ampWebUrl: "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+cdnAmpWebUrl: "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KDFW
-  domain: fox4news.com
+  name: KTTV
+  domain: foxla.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -243,6 +243,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "pXMNengWsR9LqGV85dloXc2BgJfY5k5wabbytToCgFXh0rfZ4if//OsLJwKnFOqKCVCpCfrbnf4OmkkcmWYv4quFs5p86gdvLOv4KMV3m3RljifZ6qEGa2ENIifWeHncgmxdEofyK08/jB6s0nKFvn66LSvane/54wprnrlS55gUBqLSepjpW+tMVXYZoqLidOSv1I7IiEhIWi73uvMa4CeVebhVqjuZ5jdCzvm0QXCDMdbhLrkWs2ukx3QhPVH3VFllOkRF0HJAzXzDRY6+nJqm2l8zELhTA5W8MDLtk3b+Iepvr3ypPYo3moFC112pxeQcudAcry40C6g4Gp1SYKKJUcUjOT3NS1mhFKcHp30=;PJ3cfzyjh0mNV/sRcvQ+Nw=="
+secured: "Ypl9o02ChOtmNBwSQTiLfRO6GwO4eim10K7VlqcijukrdyBDEsCJmr/r6tWFVDG5x/sXct4AcZyosmLemJrErt28ToLr6T3QVqXBmQGkbP3VAD3rfx6KtGNtmigyTOYHzaqbNKqsevb6+HZ8owaXjFSrzDs1veuxvY69ymYUHFL5W319CYQoFRnzeHMtyjUt36K9pwdkrD1PUwBfdnbvMsg2myu9ar84ToXyBh8eVJIgELvsZXwAHg7y5RUaKAeMCIMTZD/KNYPnT2R48+llJNfB3bL6bAtnzgIeTf1ZBIxTh4dGxYIYzhp+N98BURj6rFojvZNYvgjCttMBsoyI+OFdaBXnaDTMURFbCNJ6Igk=;TA66fWiQxrlQdnn0hxMQEQ=="
 ---
 

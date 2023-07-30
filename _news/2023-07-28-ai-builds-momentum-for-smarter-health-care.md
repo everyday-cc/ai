@@ -62,20 +62,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "3 Big Tech stocks to profit from AI"
-    excerpt: "But, like Microsoft, Alphabet is at the centre of AI. It has also spent a lot of money building a cloud offering and is now number three in the sector after Amazon and Microsoft. This is helping to tilt the overall group revenue mix from away from advertising as it also caters to the need for processing power."
-    publishedDateTime: 2023-07-25T09:26:00Z
-    webUrl: "https://moneyweek.com/investments/share-tips/3-big-tech-stocks-to-profit-from-ai"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ouyHtjzvyD9tLYQsVga4Un-1200-80.jpg"
-        width: 1200
-        height: 806
-        isCached: true
 
 secured: "3baQGlaSA5mfHDpJpcPKzv3SjjEPBpkDcUvUePAQ1FOuYadCYUKdkotH5iaqDmj5rRmoiViHqb2VEEwo9hBBhg6VVb0i9RovXF+i5ihCcUAI3KoP3OwQojLf/YChhW3Cle9J8t0hEKBmaA5iF2nzYYIzbZrMH32bMNHL3MGU7vIhKU+91iAhlWC+4jFr51fMZv+d1qMaTQla3kgoCbG0/byeeRa35p42io6CmgidILI7X79z8ksuDz2WoW2il+z+unDErxXDzPnsHE+bKNSLjBIvADQR2xY8Ne+Ctq7JHUWVAvEGNacvHkRFOuPGJgKQqyiIET/qzlsh/7LaWZZ4iY8RJuowUyCPoyqeeEx1s+jW9BMXroQUuLbB26YAzv6xJjCd8lTs6mvPPwtAsAzPdcO0TE6HHDu2xwgmg3mF120RJNUXgRMxHalYfovijsZRuPcdTodA1o1ctGdZBWCCGbMQOrkDB3zMX/GSQBtm8kNUUNxKN0ZqNCMARw3mPjkBdtKjQrPjYv3mhfUbJSr45A==;WknZzB1s9N2jrpDR/JkZhw=="
 ---

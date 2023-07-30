@@ -52,22 +52,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "India now has AI news anchors. I tuned in and within the first 5 minutes, it's clear that news presenters are in serious trouble."
-    excerpt: "Add India to the growing list of countries with AI-generated news presenters, who could easily pass for humans if don't look closely."
-    publishedDateTime: 2023-07-25T09:25:00Z
-    webUrl: "https://www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/64bf91ffbea344001960c4f8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
     excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
     publishedDateTime: 2023-07-27T13:38:00Z

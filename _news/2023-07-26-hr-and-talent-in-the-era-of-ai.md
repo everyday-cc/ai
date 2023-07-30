@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
 type: article
 quality: 99
-heat: 259
+heat: 239
 published: true
 
 provider:
@@ -170,15 +170,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "Business and ethics in the age of AI"
-    excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"
-    publishedDateTime: 2023-07-25T09:27:00Z
-    webUrl: "https://it-online.co.za/2023/07/25/business-and-ethics-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Embedding Artificial Intelligence In Enterprise"
     excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
     publishedDateTime: 2023-07-28T10:02:00Z
@@ -188,15 +179,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 21
-  - title: "Follow the AI money"
-    excerpt: "OpenAI is giving away basic access to ChatGPT but selling $20-a-month enhanced subscriptions. Google and Microsoft are both making their AI-enhanced chat-based search products free, so expect advertisements — and the data mining that makes them more valuable — to kick in at some point."
-    publishedDateTime: 2023-07-25T09:29:00Z
-    webUrl: "https://www.axios.com/2023/07/25/follow-the-ai-money-business-models"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
   - title: "AI and the role of the company board"
     excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
     publishedDateTime: 2023-07-25T18:00:00Z
