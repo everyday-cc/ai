@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI leaders call for rules, countermeasures against rogue systems"
-    excerpt: "From manufacturing to computer modeling, AI systems need to be kept “out of the hands of bad actors,” Anthropic CEO Dario Amodei said in opening remarks to the Senate Judiciary subcommittee on privacy, technology and the law."
-    publishedDateTime: 2023-07-26T01:13:00Z
-    webUrl: "https://insidedefense.com/insider/ai-leaders-call-rules-countermeasures-against-rogue-systems"
-    type: article
-    provider:
-      name: InsideDefense
-      domain: insidedefense.com
-    quality: 19
 
 secured: "m1w4/HOcAiiEPohGS+wK7KbUixAe+jTTDT5h9FhuencJLWBWmDoIgeTZtSyM0ArP9CRq/NKQ/xu/hGrw3bm2LXzprWOU3gfLtjYAHlIeoUoZ47t0kYxZE+PU071TRj70J2EoSn6XFXl61GPmSs1aD1CtHNJcLCKav7xTcT7p4y/MyjmlbimEeN5CwcF+DnwDSRS6KNhgCKBJAGJEEFtS9lZYvsrMiX6PRqo5rrW64KfhNLWnOitn9b796Auk8EJY9zW7OglKJr+r+OazUnEAxHh5lvANImz6gwBBHehlDIXk25jbq5Qy3gTVxn4aogexQDWADSDEBjWCat23NCG61q+6LZGASOUjYaX5MNU1PBM=;RkAGMw8KKIfkBS/vDkTb5Q=="
 ---

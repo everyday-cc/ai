@@ -2,49 +2,6 @@
   "page": 171,
   "value": [
     {
-      "path": "_news/2023-04-13-column-does-ai-mean-the-four-day-workweek-and-its-happy-companion-the-three-day-weekend-is-almost-here.md",
-      "title": "Column: Does AI mean the four-day workweek — and its happy companion, the three-day weekend — is almost here?",
-      "excerpt": "Who says the world is going to hell and the future is bleak? Artificial intelligence, advanced robotics and job automation hold out the hope of less work, more leisure and long weekends every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/opinion/story/2023-04-13/artificial-intelligence-ai-four-day-week-automation-robots",
-      "originalUrl": "https://www.latimes.com/opinion/story/2023-04-13/artificial-intelligence-ai-four-day-week-automation-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/dd66ea5/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Fa1%2F477d5a30ae522aab1164bed4acec%2Fimg-3075003-fi-ports-aut-2-1-b064rpps.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-13-best-rtx-4070-ti-gpu-in-2023-top-nvidia-graphics-cards.md",
       "title": "Best RTX 4070 Ti GPU in 2023 – top Nvidia graphics cards",
       "excerpt": "To start with, this GPU has three DisplayPort outputs ... With full ray tracing and DLSS AI acceleration compatibility, you’ll still be able to turn on some of the most groundbreaking graphical ...",
@@ -1083,6 +1040,48 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-addressing-the-network-data-monetization-complexities.md",
+      "title": "Addressing the network data monetization complexities",
+      "excerpt": "In our previous blog, we identified the three layers to network data monetization. These were the data layer, the analytics layer and the automation layer. To address the network data value tree successfully, we must address the complexities of these three layers, which are essential for automated operations",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
+      "originalUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

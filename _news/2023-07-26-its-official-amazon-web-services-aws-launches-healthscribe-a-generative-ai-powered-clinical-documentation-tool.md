@@ -93,20 +93,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
-    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
-    publishedDateTime: 2023-07-26T04:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
-        width: 1260
-        height: 628
-        isCached: true
   - title: "Amazon Web Services Launches New AI Healthcare Products, Chatbot Tools"
     excerpt: "Amazon Web Services (AWS) introduces AI solutions for healthcare, chatbot tools for customer service, and enhanced business intelligence tools to compete with Microsoft and Google in the generative AI space."
     publishedDateTime: 2023-07-26T17:41:00Z

@@ -2,48 +2,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_news/2023-06-29-what-is-asset-reliability.md",
-      "title": "What is asset reliability?",
-      "excerpt": "Asset reliability is the ability of an asset to perform under certain conditions over a specified period without breaking down.\nThe post What is asset reliability? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T06:26:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram.md",
       "title": "Meta releases clues on how AI is used on Facebook and Instagram",
       "excerpt": "As demand for greater transparency in artificial intelligence mounts ... such as Instagram Stories and Facebook’s news feed. These describe how Meta selects what content to recommend to users.",
@@ -1130,6 +1088,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-want-to-get-richer-2-top-ai-stocks-to-buy-right-now.md",
+      "title": "Want to Get Richer? 2 Top AI Stocks to Buy Right Now",
+      "excerpt": "Detailed price information for Taiwan Semiconductor ADR (TSM-N) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/18108725/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/18108725/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/74b53cace63df68cbf49b82b8879be6a/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fcc3e46acc22e216571ef4fb25a13b20a.png%26amp%3Bw%3D700",
+          "width": 720,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

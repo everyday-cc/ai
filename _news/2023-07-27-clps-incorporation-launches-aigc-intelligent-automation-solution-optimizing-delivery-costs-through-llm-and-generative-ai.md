@@ -23,52 +23,36 @@ topics:
   - AI
 
 related:
-  - title: "Egnyte adds generative AI smarts to streamline content collaboration"
-    excerpt: "Content platform Egnyte today enhanced its platform with new generative AI smarts, including text summarization, transcription and more."
-    publishedDateTime: 2023-07-26T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/"
+  - title: "Translated Debuts Trust Attention for Unprecedented Quality in MT, Paving the Way for Accuracy in Generative AI"
+    excerpt: "Press Release Translated, a leading provider of AI-powered language solutions, announced the launch of ModernMT Version 7, a significant upgrade to its adaptive machine translation (MT) system. The latest version introduces Trust Attention,"
+    publishedDateTime: 2023-07-27T15:26:00Z
+    webUrl: "https://venturebeat.com/business/translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 64
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1690384951113.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 375
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20230727250636/en/1852136/4/trust_attention.jpg?strip=all&#038;ssl=1"
+        width: 480
+        height: 388
         isCached: true
-  - title: "Wayfair takes the generative AI route to interior decoration"
-    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
-    publishedDateTime: 2023-07-26T02:31:00Z
-    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+  - title: "Latest Prompt Engineering Technique Inventively Transforms Imperfect Prompts Into Superb Interactions For Using Generative AI"
+    excerpt: "Many aim to enter prompts into generative AI that are so-called perfect prompts. A new technique in prompt engineering says don't worry, be happy with imperfect prompts."
+    publishedDateTime: 2023-07-26T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/amp/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 62
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3789,2525,x684,y2,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google Collab to Support Generative AI in Ambulatory Healthcare Settings"
-    excerpt: "Google Cloud and CareCloud are working together to expand small- and medium-sized healthcare providers’ generative artificial intelligence capabilities."
-    publishedDateTime: 2023-07-27T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-collab-to-support-generative-ai-in-ambulatory-healthcare-settings"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 33
-  - title: "Rigetti and ADIA Lab Sign Collaboration Agreement to Develop Quantum Machine Learning Solution for Probability Distribution Classification"
-    excerpt: "Together, Rigetti and ADIA Lab will collaborate to design, build, execute, and optimize a quantum computing solution intended to address the probability distribution classification problem, one of the greatest challenges of quantitative finance, with many direct applications to practical use cases in the investment industry."
-    publishedDateTime: 2023-07-26T15:26:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854389.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "UATtKFu1csjLcYczYbTx4rg7j0U7YV5m3pA4+IlwVu7cgkEpAd3NEJ7bs7LGWna2bn3aAlKTdUv2j2bPvTHFaYAF2jhWDl1yJM32lBv7ceCqM+BSMyDrORfsHBKwEv3TMFM6/tMbrZQsJk64o5u2skzWs7yTntVgXoQPgItBvVzSgf9OJs7gJkC7pwMYsuWyc4DUDUnbWkiKI7ZmMSwPz3qGOZ+scDJ6fnqeK0OBHe2NxeIsxW0k7S7ogmH6EiopDY+aKXq84BL4yafHybS2l+7b6N2D9OhEnGBId2MeCz9U5Zg3YKGpduY5wcvCsN7JOwG3zrzOQFcbUOsI5CtTXBo+JxuR80pP/WaihHZPoX8=;myDgAAGfiJQcXE7SB+rBXg=="
 ---

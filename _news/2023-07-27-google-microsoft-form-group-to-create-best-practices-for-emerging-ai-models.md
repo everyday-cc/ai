@@ -290,17 +290,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "Microsoft, Google are betting billions: AI’s tech arms race heats up"
-    excerpt: "Two of the world’s biggest tech companies have shown just how much financial muscle they are committing in the race to become the king of AI. And the numbers are off the scale."
-    publishedDateTime: 2023-07-26T03:35:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/microsoft-google-are-betting-billions-ais-tech-arms-race-heats-up/news-story/6545723c9d595619905527e84953ee05"
-    ampWebUrl: "https://www.theaustralian.com.au/business/technology/microsoft-google-are-betting-billions-ais-tech-arms-race-heats-up/news-story/6545723c9d595619905527e84953ee05?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/microsoft-google-are-betting-billions-ais-tech-arms-race-heats-up/news-story/6545723c9d595619905527e84953ee05?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 56
   - title: "Microsoft Cozies Up to Meta on AI, Maps"
     excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
     publishedDateTime: 2023-07-26T22:57:00Z
@@ -314,48 +303,6 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft foresees gradual AI adoption instead of rapid uptake"
-    excerpt: "Thanks to an AI wave that helped Microsoft increase its customer numbers, the software giant expected its intelligent cloud service, especially Azure, to drive its growth."
-    publishedDateTime: 2023-07-26T02:48:00Z
-    webUrl: "https://www.digitimes.com/news/a20230726VL200/microsoft-ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230726vl200_files/1_2b.jpg"
-        width: 1280
-        height: 865
-        isCached: true
-  - title: "Microsoft Q4 Earnings Call: Over One Billion Bing AI Chat Sessions"
-    excerpt: "Microsoft's latest earnings call revealed insight into ad spending, new AI products, and impressive usage metrics for Bing AI Chat."
-    publishedDateTime: 2023-07-26T01:12:00Z
-    webUrl: "https://www.searchenginejournal.com/microsoft-earnings-call-q4-one-billion-bing-ai-chat-sessions/492571/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/microsoft-earnings-call-64c06a9a2521e-sej.jpg"
-        width: 3000
-        height: 1680
-        isCached: true
-  - title: "Microsoft stock drops as Azure growth slows, earnings top estimates"
-    excerpt: "Microsoft reported fourth quarter results on Tuesday with investors focused on cloud growth, AI, and any updates on the pending acquisition of Activision Blizzard."
-    publishedDateTime: 2023-07-26T02:21:00Z
-    webUrl: "https://www.aol.com/microsoft-earnings-preview-focus-cloud-134041612.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/KNqCJSLlFKyGennVsxgHKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTQ-/https://media.zenfs.com/en/aol_yahoo_finance_433/0ce8a14eb683e51d2a52c1bcabfffae1"
-        width: 1200
-        height: 754
         isCached: true
   - title: "Dentsu goes with Microsoft to unleash AI"
     excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."

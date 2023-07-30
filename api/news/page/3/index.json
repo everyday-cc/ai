@@ -309,7 +309,7 @@
       "originalUrl": "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealth-not-with-bang-2023-07-28/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -652,7 +652,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -692,7 +692,8 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Microsoft AI"
       ]
     },
     {

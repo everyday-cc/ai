@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-04-microsoft-confirms-speech-recognition-issues-in-windows-11-22h20-0.md",
+      "title": "Microsoft confirms speech recognition issues in Windows 11 22H20 0",
+      "excerpt": "According to the company, Windows 11 version 22H2 users might experience problems with speech recognition, expressive input, and handwriting after installing KB5022913 (and subsequent releases).",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2022/06/1654151911_windows_vulnerability_story.jpg",
+          "width": 760,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-innovationrx-the-fda-oks-the-first-rsv-vaccine-microsofts-ai-play-for-doctors.md",
       "title": "InnovationRx: The FDA OKs The First RSV Vaccine; Microsoft’s AI Play For Doctors",
       "excerpt": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here.",
@@ -1464,49 +1517,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-another-microsoft-365-outage-affects-search-functionality-in-services.md",
-      "title": "Another Microsoft 365 outage affects search functionality in services",
-      "excerpt": "Microsoft is trying to come up with short- and long-term fixes after users were unable to use the search functionality in multiple Microsoft 365 services, the company said in a Tweet on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
-      "originalUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/09/12/shutterstock_2108335628-100938319-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.amp.html",
-      "publishedDateTime": "2023-04-25T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -28,11 +28,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c2c7b9821236b6e642dbf0/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
+    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
+    publishedDateTime: 2023-07-27T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 691
         isCached: true
   - title: "From data chaos to data products: How enterprises can unlock the power of generative AI"
     excerpt: "Bruno Aziza, an Alphabet executive who led a roundtable discussion at VB Transform last week focused on providing a playbook for how enterprises can prepare their data and analytics infrastructure to leverage large language models (LLMs)."

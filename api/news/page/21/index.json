@@ -2,57 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2023-07-15-turn-ai-art-into-amazing-poster-prints.md",
-      "title": "Turn AI Art Into Amazing Poster Prints",
-      "excerpt": "Want to print your AI art creations? Here's how to enlarge AI-generated images so you can print them at any size you like and retain perfect image quality",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b260acd82031801c534a0d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/",
-      "publishedDateTime": "2023-07-15T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-15-wimbledon-2023-how-artificial-intelligence-is-changing-tennis.md",
       "title": "Wimbledon 2023: How artificial intelligence is changing tennis",
       "excerpt": "BBC Sport's Liam Loftus takes a look at how artificial intelligence is changing the future of tennis. Follow Wimbledon coverage across, BBC iPlayer, BBC Sounds & the BBC Sport website & app.",
@@ -1155,6 +1104,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/amp/",
       "publishedDateTime": "2023-07-14T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-theres-only-one-way-to-alleviate-anxiety-about-aitalk-about-it.md",
+      "title": "There’s Only One Way To Alleviate Anxiety About AI—Talk About It",
+      "excerpt": "Embracing AI as a powerful tool, communicators unlock a world of endless possibilities, effortlessly crafting compelling narratives and delivering impactful messages that leave a lasting imprint on the minds of their audiences. (This isn't my favorite opening sentence. But more on that later.)",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
+      "publishedDateTime": "2023-07-14T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

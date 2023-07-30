@@ -45,6 +45,15 @@ related:
         width: 480
         height: 388
         isCached: true
+  - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
+    excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
+    publishedDateTime: 2023-07-27T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clps-incorporation-launches-aigc-intelligent-automation-solution-optimizing-delivery-costs-through-llm-and-generative-ai-1032484411"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "r/HMXg9t2rjgL6d53MzMf8vvhcj7fOJbbhvb5Ax1teb/w2globENFCZwCs7/nfpGScFLWFjPG+oiV/+h2pO4BnkVHe8fQfVj3Lnyh9lcYtJtqY9RQ+ICbvs7jf8ubbelY2FPRAkmU4M3ZY0oQObGuXIaBwGMO22Jcw902TYGSVjIdU1M3Scnsh1ENNw/ARVnnZ4GU5WVuhhr5eL7PpFCmlJXClH1l2c2HyruSt7j0Wz7fx83yg8pxtQLYjwDzUU0C5TYdsI+4a3jQmHxS/keDusOUhbR5X1VUEs7WWSpWcBSo4rfHRdZhCOo22ZlfUGQqiFsEZUreoGM/1e7iPY76yKJUKS4uE5T/cBbEHuGw3xxBra5FeQZi3j21SWtO9E31PjC/zXCUi1Hk1wRnT+8bBpS0ecRLdvBAjp5Sb+pSCbLbwSHaHlbWRbQSN2eQbnkWjFJexRT5I3D4lLa6dzfOyLD2LJbjBYWjFJi2aE2WmhAJPdbhEJXdlBAcOv1n3Xm3MGo9mF5dbKf4aGTHD6Z/g==;UGvJ4lXcOzaSn2lS1Au8mQ=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 407
     isCached: true
 
+related:
+  - title: "Artificial Intelligence & Avatars Arrive in the Israeli Newsroom"
+    excerpt: "In addition to featuring Michaeli as the main news anchor, ACT News’ digital newsroom includes reports by a digital clone of prolific Israeli political journalist Amit Segal."
+    publishedDateTime: 2023-07-30T18:07:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/artificial-intelligence-avatars-arrive-in-the-israeli-newsroom/2023/07/30/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 17
+
 secured: "Ulmf+KC1J3QrBe3xeaewafn6g/AQ2QQHGAX5aAzIpGtXx5Y/nDDpbLR57+2p2AP1v5GaicrC8Dvtv2tqAGwTlGVyb6pMMbYpM1Bl32yc/hsa0ixZBKbgfVT/gAJfT23WWJYS2VsLVdRj8tnytT6V2f0fIn4DciHW6C+oIUDVar620D83ezHmLrOW8vlw63yMWN1Rf+40043g0a4U2yq+ODjRn0hmx0URljE9jIhNpmhGu6FYlz+w89U/y2PABVdMKHagQg+HWjclfstzXCnImSHxjR5p0l+YT96MXQjrd6Hqx8pNFQMq0OdUNojfdQcMSfhxlxWjvR4k6Iq43IcXZ7X9ILxh7uI0qubZyeQRJ+WiGEUPzLcHXJkr7lssckESGLUWxdiQXXYq85kHQvZKKj6jonpuIvZ2ch8jeCi4aBeCvlDUu+Hj/MTuFGYOI4o2Zw2by1Gn/ITRwMuJHGXXnX03Kaebo99P/AgZL6UcrsoO/skIHIWBPHS1hWZQiQb8lWnnB01eOjlAlFcu82/ADA==;Obo9raENlMExlFPSiJiDOw=="
 ---
 

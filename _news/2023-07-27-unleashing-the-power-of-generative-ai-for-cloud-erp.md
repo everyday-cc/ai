@@ -30,54 +30,54 @@ images:
     isCached: true
 
 related:
-  - title: "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities"
-    excerpt: "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings."
-    publishedDateTime: 2023-07-26T02:38:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
+  - title: "The Power Of The Prompt: Unleashing AI's Full Potential For Work Productivity"
+    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at why prompts are critical for optimizing AI for workplace productivity."
+    publishedDateTime: 2023-07-27T19:46:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 88
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2c7b9821236b6e642dbf0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 801
+        height: 800
         isCached: true
-  - title: "Egnyte is bringing generative AI capabilities to its storage platform"
-    excerpt: "Egnyte became the latest enterprise software company to offer generative AI capabilities on its platform today."
-    publishedDateTime: 2023-07-26T15:59:00Z
-    webUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/"
-    ampWebUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
+  - title: "From data chaos to data products: How enterprises can unlock the power of generative AI"
+    excerpt: "Bruno Aziza, an Alphabet executive who led a roundtable discussion at VB Transform last week focused on providing a playbook for how enterprises can prepare their data and analytics infrastructure to leverage large language models (LLMs)."
+    publishedDateTime: 2023-07-26T13:14:00Z
+    webUrl: "https://venturebeat.com/ai/from-data-chaos-to-data-products-how-enterprises-can-unlock-the-power-of-generative-ai/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1193843538.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI capabilities come to Amazon QuickSight"
-    excerpt: "Quicksight’s new generative AI will also be able to create calculations, Amazon says. Clicking “Ask Q” and describing a calculation will yield a corresponding expression syntax, saving time the time it’d take to look up the syntax, ostensibly."
-    publishedDateTime: 2023-07-26T17:00:00Z
-    webUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/"
-    ampWebUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
+  - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
+    excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
+    publishedDateTime: 2023-07-26T07:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854129.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/11/mvimg_20171129_165124.jpg?resize=1200,733"
-        width: 1200
-        height: 733
+      - url: "https://mma.prnewswire.com/media/2161813/WPS_AI_Showcase.jpg"
+        width: 400
+        height: 225
         isCached: true
+  - title: "Could artificial intelligence be the future of news production?"
+    excerpt: "TVBEurope talks to Sky News' Tom Clarke about how the broadcaster used AI to create a news package, from writing the text to presenting it on screen"
+    publishedDateTime: 2023-07-27T15:50:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/could-artificial-intelligence-be-the-future-of-news-production"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 17
 
 secured: "4IWrOphYpvTl8qIwOSl6ruLxQUByQwxe7cxfYviiOffH8T17BsBkkOjtGZpLkK5Oa8SJKRgeHLUZH2qLroVSSS0Z+y1y17P0cTqcwnpPMMpQncSKg/N2Id+JnLyZlZHcXVHT63ozSFLxUoLVU4uwWcf60XK6oZ2FSMkrKrhONLmZRcjiw2CqxmM6onLrPW/JrMaGLjkS+D4LUmxK2/4Qg0BkJWHA8OVJJtu+T8Wdyr01FRPVOM91YvKMi/NmisEuAk3g+yECpcmdYgJ0/oMv5tl5IE9wkRBD9vVuOijeSsbDyxzwIdfTXOrTzp4cvGDUT3Ye68W2QjoVLCdtn03PhpUbr25v3y7STzeSZfSq7q8=;VMV5SCNdhb/66t5D7K25pw=="
 ---

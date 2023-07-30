@@ -2,49 +2,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2023-06-24-kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.md",
-      "title": "Kent County enlists AI-powered robots to better sort recyclables",
-      "excerpt": "Kent County Department of Public Works officials announced Thursday, June 22, that earlier this month they installed three, AI-powered robots at the facility that can quickly scan incoming recyclables and separate out what county workers tell them to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
-      "originalUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W2BTBMROGNEXHD6B3Z6NOG4IKY.jpg",
-          "width": 3000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
-      "publishedDateTime": "2023-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-skift-travel-news-blog.md",
       "title": "Skift Travel News Blog",
       "excerpt": "AWS announced the Generative AI Innovation Center on Thursday with four partners, which also include sales tech company Highspot and communications platform Twilio. AWS said it is starting the ...",
@@ -1143,6 +1100,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-cios-your-generative-ai-playbook-is-here-guardrails-required.md",
+      "title": "CIOs: Your Generative AI Playbook Is Here. Guardrails Required.",
+      "excerpt": "Are you prepared to help your business navigate the future of generative AI? These tips provide the proper guardrails to help you succeed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
+      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6494e9a3adecc689518daaa0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
+      "publishedDateTime": "2023-06-22T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

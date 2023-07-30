@@ -82,20 +82,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
-    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
-    publishedDateTime: 2023-07-26T04:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
-        width: 1260
-        height: 628
-        isCached: true
   - title: "It’s Official: Amazon Web Services (AWS) Launches HealthScribe, A Generative AI Powered Clinical Documentation Tool"
     excerpt: "Amazon Web Services (AWS) announced the launch of HealthScribe, deepening its commitment to augmenting healthcare delivery and innovating cutting-edge industry solutions. HealthScribe is a new service that will enable healthcare software developers and providers to create clinical applications that use speech recognition,"
     publishedDateTime: 2023-07-26T16:37:00Z

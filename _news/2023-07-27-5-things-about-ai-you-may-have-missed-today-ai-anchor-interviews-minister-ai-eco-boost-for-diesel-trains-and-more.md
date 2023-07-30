@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "5 things about AI you may have missed today: Sonata Software’s new AI, Turnitin's AI detection tool and more"
-    excerpt: "Sonata Software, an Indian IT firm, has launched its own generative AI offering called Harmoni.AI, as per a report by Live Mint. The company claims that the AI platform adopts a ‘responsible by design' approach and prioritizes ethics, trust, privacy, security, and compliance."
-    publishedDateTime: 2023-07-26T04:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/5-things-about-ai-you-may-have-missed-today-sonata-software-s-new-ai-turnitins-new-ai-detection-tool-and-more-71690303746318.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 40
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/25/1600x900/CHINA-SECURITY--5_1686201744902_1690303824155.JPG"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "n3EQEHukUeW6VjPUHDhi1ceM3UxaGF3HJQC8gP8aEzuekVEAxlHFHSWWj2rN0babehU0nz3qfLj00Mcj14kUgEIwfgDE+1PLPrwbClM5sQMiBFUnzmQSCh2FBy9AoHf1jKYUu2/Ta5OUnPrDLoydnUIKOBqrC2ScNLTlYXcf4Bob3h/iGwYDOIoa0+QigVFXPNhuJYuW7nXj51Ai8sr/s+j9/6bpheFRrpRjqpG36Vddj1HoNu28MklXyWiJIHqtIBvjrZ2yuP2M56VniGQiTonFJh70BzMefGazD0+jr82MfaaC2iVI/C1ktaIhYT5iBBu3dKa9+tqRhYPq8vXJLD2OwDn2uO5wasgPLn+Rht3M5tebBO1ujiJA4KXYYtXm3FlI43kcviAt2Y5ytyCVZxZZpt6qcfIsVYe2dOI6HEpj16RJQcvFfsPHou78jYOWeP7ILHrRt/1GdNPGMe7XIbBIRDDO70MuW/aEp4bkRe+bkjKjf0StCCvEQoSuG/fp4gCyDnMmAllcxlcicVD7Ew==;4/HbE30IduTHx+HY85GdRA=="
 ---

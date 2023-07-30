@@ -2,57 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2023-07-04-ais-unexpected-role-helping-retain-not-replace-top-developers.md",
-      "title": "AI’s Unexpected Role: Helping Retain, Not Replace, Top Developers",
-      "excerpt": "Despite dire predictions that AI will take over software development, companies are buying new, AI-powered tools to help retain highly sought after senior developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a3526a952a8cfccfaef4a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/07/03/ais-unexpected-role-helping-retain-not-replace-top-developers/amp/",
-      "publishedDateTime": "2023-07-03T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-04-un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace.md",
       "title": "UN council to hold first meeting on potential threats of artificial intelligence to global peace",
       "excerpt": "(AP Photo/Yuki Iwamura) (Yuki Iwamura) TANZANIA – The U.N. Security Council will hold a first-ever meeting on the potential threats of artificial intelligence to international peace and security ...",
@@ -1144,6 +1093,48 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-the-download-lab-grown-meats-climate-impact-and-congress-ai-plans.md",
+      "title": "The Download: lab-grown meat’s climate impact, and Congress’ AI plans",
+      "excerpt": "Here’s what we know about lab-grown meat and climate change Soon, the menu in your favorite burger joint could include not only options made with meat, mushrooms, and black beans but also patties packed with lab-grown animal cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/idagLePClVlRAuCmyVUgaM9OuiDg9FDXu78kMXBosQPxpUeaBXwu4FxlBhuQJirxnxElVxXeBX0LIUurVGyAO6LlM5PG3s_oj6z51VNEA_WrffVI--xEcdgtAEQZSHqdxXZQ8ljLHB1t98wyQwTmYCI",
+          "width": 1455,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/03/1075847/the-download-lab-grown-meats-climate-impact-and-congress-ai-plans/amp/",
+      "publishedDateTime": "2023-07-03T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

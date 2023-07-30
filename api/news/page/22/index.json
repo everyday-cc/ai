@@ -2,57 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2023-07-14-theres-only-one-way-to-alleviate-anxiety-about-aitalk-about-it.md",
-      "title": "There’s Only One Way To Alleviate Anxiety About AI—Talk About It",
-      "excerpt": "Embracing AI as a powerful tool, communicators unlock a world of endless possibilities, effortlessly crafting compelling narratives and delivering impactful messages that leave a lasting imprint on the minds of their audiences. (This isn't my favorite opening sentence. But more on that later.)",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
-      "publishedDateTime": "2023-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-why-ai-detectors-think-the-us-constitution-was-written-by-ai.md",
       "title": "Why AI detectors think the US Constitution was written by AI",
       "excerpt": "If you feed America's most important legal document—the US Constitution—into a tool designed to detect text written by AI models like ChatGPT, it will",
@@ -1167,6 +1116,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-google-labs-rolls-out-its-ai-first-notebook-heres-what-it-can-do-and-how-you-can-try-it.md",
+      "title": "Google Labs rolls out its 'AI-first notebook'. Here's what it can do and how you can try it",
+      "excerpt": "Google has embraced AI and hit the ground running. This is evident with Google's rapid launch of its own chatbot, Google Bard. Now, the tech giant is expanding its AI offerings with the launch of its 'AI-first notebook '.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "originalUrl": "https://www.zdnet.com/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3453698a33fdef7f7590ae2346ad5bef5543e40b/2023/07/13/b80f3aab-4f68-4a63-8515-308a5e7d8590/screenshot-2023-07-13-at-2-40-15-pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "publishedDateTime": "2023-07-13T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

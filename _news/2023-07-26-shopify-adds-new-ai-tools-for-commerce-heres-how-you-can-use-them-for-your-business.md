@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/shopify-adds-new-ai-tools-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/shopify-adds-new-ai-tools-for-commerce-heres-how-you-can-use-them/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Redecorating your home? Wayfair’s new AI tool can help you"
-    excerpt: "The home products company on Wednesday launched Decorify, an application that uses generative AI to create room stylings."
-    publishedDateTime: 2023-07-26T04:23:00Z
-    webUrl: "https://www.newsnationnow.com/business/tech/wayfair-ai-room-redesigner-decorify/"
-    ampWebUrl: "https://www.newsnationnow.com/business/tech/wayfair-ai-room-redesigner-decorify/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/wayfair-ai-room-redesigner-decorify/amp/"
-    type: article
-    provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
-    images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/Wayfair-1.jpg?w=1280"
-        width: 730
-        height: 800
-        isCached: true
 
 secured: "Dqhl+sYDimXQQo8WoEj4O8y9J68ymSgeFRYuQBdWg+EdaY5dpzGPSnHKCgeLUJGAQ3tfDg37lXBXuY/RYMZSXxhA8Pzasqxrytgi/nir1d1BwkK/MWn7r7Cvglfp3Sg430ru57hvSAoBFChcZXhwcQcaS7zSXO+hkAXtPh1SzMwXH1bwlyhofCSr8tQQIvhEMTQyad68Ka4E3aWHk0/HylaxIRhii5PRsi1NLjQUsJ9+W7fQ5TviP2eKOdxcaExMsnbApg2BToxMilEtot3A+yo1tymHef6ihPdtHK8DoyxhyAqT03eXVD1O3goUa8hW4c1G7BezJPIseGRPDdfya9uDSRky6SJj9BofbYDPh9w=;Er/LB4DbiTB9LTkAKFG28w=="
 ---

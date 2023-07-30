@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-str
 webUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,47 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Wayfair takes the generative AI route to interior decoration"
-    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
-    publishedDateTime: 2023-07-26T02:31:00Z
-    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+  - title: "Egnyte is bringing generative AI capabilities to its storage platform"
+    excerpt: "Egnyte became the latest enterprise software company to offer generative AI capabilities on its platform today."
+    publishedDateTime: 2023-07-26T15:59:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1193843538.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google Collab to Support Generative AI in Ambulatory Healthcare Settings"
-    excerpt: "Google Cloud and CareCloud are working together to expand small- and medium-sized healthcare providers’ generative artificial intelligence capabilities."
-    publishedDateTime: 2023-07-27T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-collab-to-support-generative-ai-in-ambulatory-healthcare-settings"
+  - title: "Generative AI capabilities come to Amazon QuickSight"
+    excerpt: "Quicksight’s new generative AI will also be able to create calculations, Amazon says. Clicking “Ask Q” and describing a calculation will yield a corresponding expression syntax, saving time the time it’d take to look up the syntax, ostensibly."
+    publishedDateTime: 2023-07-26T17:00:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 33
-  - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
-    excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
-    publishedDateTime: 2023-07-27T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clps-incorporation-launches-aigc-intelligent-automation-solution-optimizing-delivery-costs-through-llm-and-generative-ai-1032484411"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/11/mvimg_20171129_165124.jpg?resize=1200,733"
+        width: 1200
+        height: 733
+        isCached: true
+  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
+    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
+    publishedDateTime: 2023-07-28T19:46:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
-  - title: "Rigetti and ADIA Lab Sign Collaboration Agreement to Develop Quantum Machine Learning Solution for Probability Distribution Classification"
-    excerpt: "Together, Rigetti and ADIA Lab will collaborate to design, build, execute, and optimize a quantum computing solution intended to address the probability distribution classification problem, one of the greatest challenges of quantitative finance, with many direct applications to practical use cases in the investment industry."
-    publishedDateTime: 2023-07-26T15:26:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854389.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
 
 secured: "BfezakSpOmQOOvZ59nvubI3oIC3zy7xdByPAzREnLHvktd/QY4dcd285u9QtvVtDq+pI8xx2QgIzPQmVPqwsIfgdz31tfEZsDfszAEhu8qiW5WK4cMOp24zM3AQxVB1DK11n6VDkU9r1jjAxarL7EtH5yH+wI5c5nwt/hqyNI5Vpwan+OavnpiAEOY0IG32xbX8QpAqt0Ru5xyTWALfIzcYEqgfx2NQ8brfz98YuPpdQUoBKP0u7bhuXFle5Eu52d/vLj9MZ6NZzHC5PJU94WGJuXeZsuPc5Y96q8SYkyc5ulgEQ1HZkoS7vu1ZH2ZJv7L7lDXVQpZNczkTRQ5EYlQ5+pp5hnuXWlQ2/THX6xhUHv4tEaehIyVHMXYcmlv3dH0dG0hFq44jDIZ054nsiIz/17/jz3B49cPIDkMcWeo8WKFXguUk0OgJNAqrX+yCKhQjT00T3q6y4k74Zj8IQ6kLV9WFzL5LRiFzl1D1xS5wWd+JI2nEwE3CFwHEWetH70rAvIctiT+80hyY3iDXZGA==;TP9uZ068SXtdgjto4qc+Ig=="
 ---

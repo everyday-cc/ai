@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-28T15:04:00Z
 originalUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
 webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
@@ -115,20 +116,6 @@ related:
         width: 500
         height: 309
         isCached: true
-  - title: "Lytus Technologies enters Indian FinTech space with a new payment gateway"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-26T04:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/lytus-technologies-enters-indian-fintech-space-with-a-new-payment-gateway/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 23
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/MicrosoftTeams-image-187.png"
-        width: 600
-        height: 500
-        isCached: true
   - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
     publishedDateTime: 2023-07-28T09:58:00Z
@@ -179,6 +166,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "Fintech Innovations To Watch Out For In 2023"
+    excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
+    publishedDateTime: 2023-07-30T18:54:00Z
+    webUrl: "https://menafn.com/1106738881/Fintech-Innovations-To-Watch-Out-For-In-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
     publishedDateTime: 2023-07-29T08:26:00Z
@@ -198,6 +194,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "q4FIvQsT8Z1/BnCmkzkwT9HJ020mZk9Rr1ar7/H2ksLhUh4A//lqjRGupsljW/ylcHc6YESmP0i4f74ui1KLajtAqqdznWtyCwO4Aq3kaQiuiM9AgVQlY4Jv4bPbW8YUYN/5yrBtxQjiY9hhJagp3QRg6Ip8jwzpQlcG5vxP5ET6IW+VVq+wYBzYCHQeS8BXlMTliPAr8m5iSOPemnZZ9O0nctza5eHgwvFwD/09qbL7GqT0xgPf9KkF301ccTZtQvdBgUsBr8FNmLA/+grPrAq9xTIBfLJUgfd7lk3DSHrWetGKaVHEWc54KAMxVV7Z3zsNxQ/hW2NJaZxothFmMkT32wYDYfWZwdmztTSGGu0=;m8HIRhVVKwKtuIfFlR885Q=="
+secured: "rm1532N1kNc5mNqKMFizvwKZd0Pjiw/Z2Ovs5N7pr3iw4r8XXbKdr8vYTLziqEZhioG7EYC3yElkxaaudAK8rrRYwTG8s6Rdo/c3ITwHbg1mBGTNH9fb7BEG7aCE6mEouRug/97bRjuxr44SCHNmhKXVU282RY/ngPvdcIbBsPhJIVPyGhm6VecB2803k2xx5Og2gtUJt3D8XRyfI9GUGY2AYNlWxFTd4tZApWLOM1z3gI9uelPwor7kghQttwf7g9atryPB/oxF8wpYCSmtdY2NfHtHb9WGneWIgp+kulaIjOMThYkS2ni4VPize97TGsXchgarPJ9GRyOB5R10wiOkF3/FNsQurazZAw9cRwGjGhrnzulaRB14SGUqZK6dJEGYW7LGcI4f0xdc5e/35FMZTxJI5+EvSw7d7jOE3wU5xEkPzoYVBW8HmEhYkiVvbxolBsDAcG5CUpf9j/cYmIpRavIYGGimiSsjoIW+VLWWfNKvI9eKXunsHxHu4TM/8ZLVwiZhG65o+TAd3D9KyQ==;6miUk9sw+CXZd9LtrkIRgA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://newsheater.com/2023/07/28/molina-healthcare-inc-moh-stock-
 webUrl: "https://newsheater.com/2023/07/28/molina-healthcare-inc-moh-stock-a-closer-look-at-the-market-potential/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Analyzing the Price-to-Earnings Ratio of HCA Healthcare Inc. (HCA)"
-    excerpt: "The price-to-earnings ratio for HCA Healthcare Inc. (NYSE: HCA) is above average at 14.31x. The 36-month beta value for HCA is also noteworthy at 1.63. There are mixed opinions on the stock, with 17 analysts rating it as a “buy,"
-    publishedDateTime: 2023-07-26T03:48:00Z
-    webUrl: "https://newsheater.com/2023/07/26/analyzing-the-price-to-earnings-ratio-of-hca-healthcare-inc-hca/"
+  - title: "Healthcare Services Group Inc. (HCSG) Stock: Tracking the Weekly Performance"
+    excerpt: "The stock of Healthcare Services Group Inc. (HCSG) has seen a -11.98% decrease in the past week, with a -7.33% drop in the past month, and a -5.26% decrease in the past quarter. The volatility ratio for the week is 2."
+    publishedDateTime: 2023-07-26T16:37:00Z
+    webUrl: "https://newsheater.com/2023/07/26/healthcare-services-group-inc-hcsg-stock-tracking-the-weekly-performance/"
     type: article
     provider:
       name: newsheater
       domain: newsheater.com
-    quality: 39
+    quality: 36
     images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-125.png"
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-111.png"
         width: 640
         height: 425
         isCached: true

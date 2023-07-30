@@ -2,49 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2023-06-27-artificial-intelligence-an-existential-risk-to-humanity.md",
-      "title": "Artificial Intelligence: An Existential Risk To Humanity",
-      "excerpt": "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "originalUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "publishedDateTime": "2023-06-27T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-06-27-safe-intubation-thanks-to-artificial-intelligence-and-robotics.md",
       "title": "Safe intubation thanks to artificial intelligence and robotics",
       "excerpt": "“Our device, intuBot, combines artificial intelligence and robotics. With a camera and state-of-the-art image recognition, we safely insert the endoscope into the trachea at the touch of a button,” explains CEO and co-founder Philippe Ganz. What’s ...",
@@ -1160,6 +1117,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-micropsi-industries-ai-powered-robot-controller-is-now-hardware-agnostic.md",
+      "title": "Micropsi Industries' AI-Powered Robot Controller Is Now Hardware Agnostic",
+      "excerpt": "Micropsi Industries' artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

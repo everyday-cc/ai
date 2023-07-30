@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chinese e-commerce giant Alibaba’s cloud services unit extends support in China for Meta’s latest open-source AI model"
+    excerpt: "The company’s support for Meta’s free-to-use large language model reflects the Chinese tech industry’s strong interest in closing the gap with the West by building innovative ChatGPT-like services."
+    publishedDateTime: 2023-07-26T15:01:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3229026/chinese-e-commerce-giant-alibabas-cloud-services-unit-extends-support-china-metas-latest-open-source"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 45
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/26/310013bf-0f9e-442c-a1a7-341a5a8edf63_cd06ce7f.jpg?itok=ANzzie7r&v=1690373079"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8+nipjBJTtzLVqjbzu3gzJ3YL1wwD/X1kEbUz2D1XwsFIyB6Q9smGgt/S3oykSAkyapKCJz/dQTnlTL+jaSPyfp3PI+nsC/msaDDqYjB0ZBRes6H7iN8nLYWUOQ8D7ZyFXlgbeR5UANXWEDooPXXbCAPKlOcYxxqaZTIxipQkjYYwbuJJGwO721oqsd3uHPHRVQ7j7i3jvaK9CFm3JhzzVY43Y81EbIDkknSnkG/qSQEoOXaED5ORIUuX8q3IdVdjGLqVGjyALS8em2IhvANZD9lLBn73VT0kgiDA8wPkzYPB52dTZH71U7gVuE2gVZALa238Xu09BMtYm9zzNjDojRPN/SPN8I+uUgzosL14g0=;xncmNzpoYcUUllTVd+2zRQ=="
 ---

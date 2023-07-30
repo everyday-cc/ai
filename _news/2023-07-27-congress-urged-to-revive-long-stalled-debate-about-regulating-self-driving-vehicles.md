@@ -49,6 +49,20 @@ related:
         width: 780
         height: 438
         isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
+    publishedDateTime: 2023-07-26T16:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/07/26/autonomous-vehicles-self-driving-cars-avs/c9c898b6-2bf8-11ee-a948-a5b8a9b62d84_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 18
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SPIXDURL7EI65KKIUW4KTNRNQQ_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 1070
+        isCached: true
 
 secured: "k6X2aux5W/8K/Ndjs3eyjOF5jrYGcNIoPMhRpYLyLlrYlxFD1d6GBHrzu9ksmCwK780dV+t77xRPzj+4jMGdevcXsFJbshm6Yq9p4KR4ClbwnlLndALCz5YVziL4N0pc4hR5YTnYtU4nfKKoWcbrolz1Caf4dPS4LEur60DjWowszWpD6i0/ZByZPIjO89kdnmDRaG8wLnUEDDkCLciSHrkhXChV5LRKtNGGOTMleDe+n1oKLkIZkbErkYxiDjHXi7FfK1GiUmDMOCNaVZYkdq3egwWVtOXIO6UM/mNAlLEnd3yU4TnYRC+dJHH3Nr8yxBtjgJ4oxJacuLf67tk+youUDYlTyDyw8lcphs10hwhyamma/7wxg5WRv6bN4gHtxBALCHMgwu+CwQbwBhVEit+hs9HOV5Yj4LHlralbordVCfYAqSjlJd1/QfTfIq6/CxtyPXSR0A9v1Y7g+TaPbby5efUPEpEEeU+kCs4EYJ1lBtfqE2uyeb52x93N7yL8Bpde/pAH3SKI5jtxwzGx/Q==;B2mMbb6DB1rD1rnUt2EdKg=="
 ---

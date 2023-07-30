@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.slashgear.com/img/gallery/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-hands-on-forced-evolution/intro-1690337360.jpg"
         width: 780
         height: 438
+        isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
+    publishedDateTime: 2023-07-26T16:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/07/26/autonomous-vehicles-self-driving-cars-avs/c9c898b6-2bf8-11ee-a948-a5b8a9b62d84_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 18
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SPIXDURL7EI65KKIUW4KTNRNQQ_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 1070
         isCached: true
   - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
     excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks."

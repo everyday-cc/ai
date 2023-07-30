@@ -59,6 +59,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 41
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
     publishedDateTime: 2023-07-26T08:57:00Z
@@ -72,20 +86,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Generative AI: Proposed Shared Responsibility Model"
-    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
-    publishedDateTime: 2023-07-28T15:04:00Z
-    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
-    type: article
-    provider:
-      name: Cloud Security Alliance
-      domain: cloudsecurityalliance.org
-    quality: 39
-    images:
-      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
-        width: 800
-        height: 600
         isCached: true
   - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
     excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
@@ -114,20 +114,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
         width: 500
         height: 309
-        isCached: true
-  - title: "Lytus Technologies enters Indian FinTech space with a new payment gateway"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-26T04:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/lytus-technologies-enters-indian-fintech-space-with-a-new-payment-gateway/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 23
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/MicrosoftTeams-image-187.png"
-        width: 600
-        height: 500
         isCached: true
   - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
@@ -178,6 +164,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 4
+  - title: "Fintech Innovations To Watch Out For In 2023"
+    excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
+    publishedDateTime: 2023-07-30T18:54:00Z
+    webUrl: "https://menafn.com/1106738881/Fintech-Innovations-To-Watch-Out-For-In-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 4
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."

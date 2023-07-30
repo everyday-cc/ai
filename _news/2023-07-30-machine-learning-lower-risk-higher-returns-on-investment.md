@@ -8,8 +8,8 @@ webUrl: "https://banyanhill.com/machine-learning-lower-risk-higher-returns-on-in
 ampWebUrl: "https://banyanhill.com/machine-learning-lower-risk-higher-returns-on-investment/amp/"
 cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/machine-learning-lower-risk-higher-returns-on-investment/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://banyanhill.com/wp-content/uploads/2023/07/shutterstock_1090029848.jpg"
@@ -26,6 +27,6 @@ images:
     height: 520
     isCached: true
 
-secured: "kXJoYXjJgXoN7OAl4QBGhsGsNSaTrych/xR1JQwtdVGJnrpvsQ3SJu7AmRw/SAsLEuPd5wwSJw0y5qgK0+x0jTZ3eRe3slYRwJPzK3bsDyRkvAPMjog1f8IzZ/r8Xjjv3/aWi9RaPGeCKUmlZU54WOPPm26VnkS2mSkkeRjk01ECzB4Z6hTjk3tycuw/gs9f8xrHhJaZVOXNqihXdJZki7srIlQsH8RACVEeBFJsI9UkDTNgE9ej5IOQjqWy/zZ4cfldbSR+4La0SpV+gXXZejLobDmPx0m2wUDRzMgMLPUPvA92j8mejL6BY87c4W/FLr714wnrxDH36YYAv+Gfpy1SeShsHcGeMzvtvT2t+RE=;k9+C2QWVvjSfIoUeTbr4og=="
+secured: "Y8BWl37DrqVnavqm9GUlJC3bddXxxcKZaXDkN/hD+bB7Y7ZWwTec0PH3NbXjWelNxafZypRtMWIdqcCegN1VLppWS6wPhB6nNY8T1R/dMXH17K9rushzqDcVUYyaC7PjkWNEMWf4MaZCsIT9LJX0GDaTiL5CeY4PPWdyZxBIiJTrCPFOiTt7r7vYGFaEuP6QPbDO28FLvYlc8zJLP0sjjriD05f3RsTvjZ++L1R52RdkX43eUOMjLnWdDjOEJ0/kPFvXW8y5XW9bTBsGeD0EisB6Yp53P79TvTUaCtSpbmMgoHuv+PbQN0CQs4hzAwRNZVTaVkaYYTrjkYVVJ45Gpw3g6GIxjEHHcQDel0xc93tKL3WBDsaKvlfHVJZBBsWfLL9s3Xk3e/Tg37tGv9icxMS4QjTL9hQ65UB2R8kBvwf7kzg0Hnnqzmlm8ABALPS737wimi2XVJ6t3yqLQkC5XRw2+AyqVLDiTb7bQ/wxzfHzWZuBaCytCyVuZ1ySBG2C8lJlWEax6gQTyUDW9EoJcg==;xmHvSu1dOqBwp46ncQu6og=="
 ---
 

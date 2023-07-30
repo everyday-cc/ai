@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba's cloud unit brings Meta's AI model Llama to its clients"
-    excerpt: "Alibaba's cloud computing division said it has become the first Chinese enterprise to support Meta's open-source artificial intelligence (AI) model Llama, allowing its Chinese business users to develop programs off the model."
-    publishedDateTime: 2023-07-26T04:20:00Z
-    webUrl: "https://www.reuters.com/technology/alibabas-cloud-unit-brings-metas-ai-model-llama-its-clients-2023-07-26/"
+  - title: "Chinese AI arrives by stealth, not with a bang"
+    excerpt: "China faces a long slog to artificial intelligence supremacy. It wants to be a leader in the field by 2030 and this month unveiled new rules governing the technology that are less onerous than expected."
+    publishedDateTime: 2023-07-28T00:53:00Z
+    webUrl: "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealth-not-with-bang-2023-07-28/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 67
     images:
-      - url: "https://www.reuters.com/resizer/Cx4blK3pIteOYzCHFxZa2H1mtfw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MMPZ3S2MB5MIDIVMCM3H2ZMHAQ.jpg"
+      - url: "https://www.reuters.com/resizer/TIlHrp8ZxpiVZu4i3ofFRCt0iag=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2PCISJFJH5KDLD6PQ6S7OLXD3Q.jpg"
         width: 1200
         height: 628
         isCached: true
-  - title: "Alibaba's cloud unit clients to get access to Meta's AI model Llama - report"
-    excerpt: "Alibaba (BABA) cloud unit said it has become the first Chinese enterprise to support Meta's (META) open source AI model Llama 2. Read more here"
-    publishedDateTime: 2023-07-26T09:38:00Z
-    webUrl: "https://seekingalpha.com/news/3991007-alibabas-cloud-unit-clients-to-get-access-to-metas-ai-model-llama"
+  - title: "The AI apocalypse might begin with a cost-cutting healthcare algorithm"
+    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us."
+    publishedDateTime: 2023-07-27T15:45:00Z
+    webUrl: "https://www.codastory.com/newsletters/cigna-ai-healthcare-algorithm/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 36
+      name: Coda Story
+      domain: codastory.com
+    quality: 54
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368767105/image_1368767105.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
+      - url: "https://www.codastory.com/wp-content/uploads/2023/02/ATfacebook.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "c1XzyHf/FpVZ1IO/UaeOjQMDmCGddiIH/6h+PMrldQFhhWkeLo4+Y3et8Pbs85ji51fjdW7/D6G3mFGKYGCQCbngx43BqYEd2+2LehpM0lgjYdwwQNV3KJ7hIKcbTYzXIBKrnWCsuZ0KHjU9PVsbV6FlgqkftsiSo8FtSbiTEU8h/AuSiK7Hm4kjTIIGR65XmUSgcXMJC+aJbKO6hziEJsx9Pnm0xBsQ+4ZKhqLkcqYxclsGnxsSxcPM9jXw0yv11PBtwIiekUfRynJvpI/fmKNkkgIaqZGq1RFp3SHY87VEh6mpYCkG0C/0fsvzsGqHIBLblqBQNu95aLUUP7U2dDf98+IjTut56RNkydPcCmqug3og6aSDnrHp19S7G25Jq94injakNGPWDYduP2Nuvxe2thYWexW9xprABoWuKHsXHgnP1nVw5IMY9jJZhyXf3cBNmBpiOIttRwgEriGvg/thVko62n7mhjDc9niI+dZtBU5vGNQr2hQxSh7dSNwiLlnr4+uzB9SzAK5pqHNLaQ==;dNQN/qaVcuVr/W5WwTZQOw=="

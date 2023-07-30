@@ -2,58 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2023-06-30-runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge.md",
-      "title": "Runway draws fresh $141 million as next-level generative AI video begins to emerge",
-      "excerpt": "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/",
-      "originalUrl": "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-30-worldwide-voice-recognition-software-market-to-2030-increasing-demand-for-voice-biometric-system-for-user-authentication.md",
       "title": "Worldwide Voice Recognition Software Market to 2030: Increasing Demand for Voice Biometric System for User Authentication",
       "excerpt": "DUBLIN, June 29, 2023 /PRNewswire/ -- The \"Global Voice Recognition Software Market by Type (Speech Recognition, Voice Recognition), Technology (Artificial Intelligence (AI) Based, Non-Artificial ...",
@@ -1179,6 +1127,48 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-what-is-asset-reliability.md",
+      "title": "What is asset reliability?",
+      "excerpt": "Asset reliability is the ability of an asset to perform under certain conditions over a specified period without breaking down.\nThe post What is asset reliability? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-asset-reliability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T06:26:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

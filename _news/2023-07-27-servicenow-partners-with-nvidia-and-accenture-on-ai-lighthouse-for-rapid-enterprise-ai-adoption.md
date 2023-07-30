@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-acc
 webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
-    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
-    publishedDateTime: 2023-07-28T19:46:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 31
   - title: "Nvidia, ServiceNow, Accenture partner on generative AI effort for enterprise businesses"
     excerpt: "ServiceNow CEO Bill McDermott described Wednesday's announcement as \"a transformational moment for business to revolutionize how work gets done.\""
     publishedDateTime: 2023-07-26T22:23:00Z

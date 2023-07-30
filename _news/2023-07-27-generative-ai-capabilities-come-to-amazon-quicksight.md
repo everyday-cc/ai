@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities"
-    excerpt: "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings."
-    publishedDateTime: 2023-07-26T02:38:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Egnyte is bringing generative AI capabilities to its storage platform"
     excerpt: "Egnyte became the latest enterprise software company to offer generative AI capabilities on its platform today."
     publishedDateTime: 2023-07-26T15:59:00Z
@@ -62,22 +46,29 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
-    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
-    publishedDateTime: 2023-07-27T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+  - title: "Egnyte adds generative AI smarts to streamline content collaboration"
+    excerpt: "Content platform Egnyte today enhanced its platform with new generative AI smarts, including text summarization, transcription and more."
+    publishedDateTime: 2023-07-26T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 691
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1690384951113.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 375
         isCached: true
+  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
+    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
+    publishedDateTime: 2023-07-28T19:46:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
 
 secured: "vKQW7XB+ampD6+aubkL3qUTWvC9fvN1JjCjuoNTB521La1RcTCDUlOkYocnTmYQpzTZiKS9xfcw2N4LhA82AfCy2EosNy1Vryu0Bkfkk4EI3cEM1hgqm+IwkbbNaDS57l/NMX4AaKJ4dr5S3EWf41bS8jevW3BaZe1TzkBvjcANfHyPQOYVmIbkAVLxKgKfOm6V0djTYQHGUx8n4dePrUpUoxc/fC8BLEqhj3gVu4WHgQegXR0wA+YVd6tbIrHuiXc/28N/txxg8+7sOMeaJvPkAwo57ADlPCqUJyZSiUmqlzoq1uFnSbOszWpP6teu5kPb3Zq3Jr7+MD7KgwzCd/HFciMqJ8qE7XE1AjpkhuGJiiEQNJpdxwmeVNL9xadzCCJGeQL15t3SaCqSux8NVvBOVa9vutEO3766c1uUWtul6SoFU7fuW0JClCZK/FZiXvAnrepKKMz5s44GPmhrI0bovINHpHWIxMXUVfIsPnXwwvuc2Pxz3UCBGiMN2BnDkee/NFX8pr4GBIbhfqex8Vg==;LxwHr0J0Dulx/Lb9syQ/cg=="
 ---

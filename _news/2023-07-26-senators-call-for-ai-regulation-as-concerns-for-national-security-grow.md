@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonexaminer.com/news/senators-call-for-ai-regul
 webUrl: "https://www.washingtonexaminer.com/news/senators-call-for-ai-regulation-as-concerns-for-national-security-grow"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Washington Examiner
@@ -39,15 +39,6 @@ related:
         width: 1312
         height: 677
         isCached: true
-  - title: "AI leaders call for rules, countermeasures against rogue systems"
-    excerpt: "From manufacturing to computer modeling, AI systems need to be kept “out of the hands of bad actors,” Anthropic CEO Dario Amodei said in opening remarks to the Senate Judiciary subcommittee on privacy, technology and the law."
-    publishedDateTime: 2023-07-26T01:13:00Z
-    webUrl: "https://insidedefense.com/insider/ai-leaders-call-rules-countermeasures-against-rogue-systems"
-    type: article
-    provider:
-      name: InsideDefense
-      domain: insidedefense.com
-    quality: 19
 
 secured: "1Ft027Mw1phWTKXutptxGdZC71jtc1SKauxah+nvWLQBva4jGeyHCaoVObsDKaaTdfVoLcXcYefpDUk7XGd5ntNJYkCX8NR59T9TIkm4tHppAPYJqzjwX7HQvQwA2KF0fKmTaNdv0xkK4WaC3A03Ti0VJNeXWYDyTjVxPPIbyLidEQn7I0b60GMFKO+dGdq5g6TnG1+tv1mX3Mh7eKiOby/Ku0qoZvt4fjEzJ3XnxcALqAoMUY+GjQDduR43OSJBhP29/ziAUSpbRY9RhAbYmz7MyJWBosIiCeI5L0ys/Tp+5WGdTHAkKbnnuQDNp86WiY3dW8T/MkNtRJAa3GMoYyFsJxwxYMci51Kb4ykgNfY=;9ueZMPodb+nghju+AtUo5g=="
 ---

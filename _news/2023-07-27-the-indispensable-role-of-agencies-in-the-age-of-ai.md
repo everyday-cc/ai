@@ -39,22 +39,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Proposals aim to regulate artificial intelligence in the workplace"
-    excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
-    publishedDateTime: 2023-07-26T04:43:00Z
-    webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
-    ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
-    type: article
-    provider:
-      name: WOKV
-      domain: wokv.com
-    quality: 74
-    images:
-      - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading"
     excerpt: "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes"
     publishedDateTime: 2023-07-29T05:15:00Z

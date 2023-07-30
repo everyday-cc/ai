@@ -2,40 +2,6 @@
   "page": 107,
   "value": [
     {
-      "path": "_news/2023-05-22-compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt.md",
-      "title": "COMPASS DATACENTERS' \"HORIZONS\" VIDEO SERIES EXPLORES NATURAL LANGUAGE PROCESSING AND CHATGPT",
-      "excerpt": "Lev Lesokhin, Technology Product Strategist, discusses the rise of natural language processing (NLP) and ChatGPT. Lesokhin discusses NLP's future and the impact of ChatGPT on our job market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_ba3d1b35-2177-5624-85c0-1fa11ef7c3dd.html",
-      "originalUrl": "https://www.news-journal.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_ba3d1b35-2177-5624-85c0-1fa11ef7c3dd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-22-how-to-talk-about-ai-like-an-insider.md",
       "title": "How to talk about A.I. like an insider",
       "excerpt": "AI ethics describes the desire to prevent AI from causing immediate harm, and often focuses on questions like how AI systems collect and process data and the possibility of bias in areas like ...",
@@ -1114,6 +1080,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-therapy-dog-visits-timmins-police-service-to-spread-some-cheer.md",
+      "title": "Therapy dog visits Timmins Police Service to spread some cheer",
+      "excerpt": "Many believe a sweet, cuddly dog has the power to turn just about anyone's day around and Friday members of the Timmins Police Service got to experience this first hand when Takoda came to visit.",
+      "sourceUrl": null,
+      "webUrl": "https://northernontario.ctvnews.ca/therapy-dog-visits-timmins-police-service-to-spread-some-cheer-1.6407341",
+      "originalUrl": "https://northernontario.ctvnews.ca/therapy-dog-visits-timmins-police-service-to-spread-some-cheer-1.6407341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/5/20/1_6406773.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2023/5/20/1_6407341.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2023/5/20/1_6407341.amp.html",
+      "publishedDateTime": "2023-05-20T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

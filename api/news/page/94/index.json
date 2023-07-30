@@ -2,58 +2,6 @@
   "page": 94,
   "value": [
     {
-      "path": "_news/2023-05-31-health-care-down-sharply-on-cyclical-bias-health-care-roundup.md",
-      "title": "Health Care Down Sharply on Cyclical Bias -- Health Care Roundup",
-      "excerpt": "Health-care companies fell sharply as traders rotated into cyclical sectors, spurred by enthusiasm about the debt-ceiling deal and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "publishedDateTime": "2023-05-30T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-31-myheritage-debuts-reimagine-an-ai-app-for-scanning-fixing-and-even-animating-old-photos.md",
       "title": "MyHeritage debuts Reimagine, an AI app for scanning, fixing and even animating old photos",
       "excerpt": "Genealogy company MyHeritage is using AI to make it easier for families to preserve their memories with the launch of its latest app, Reimagine.",
@@ -1171,6 +1119,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-patrick-mahomes-i-think-were-deep-at-receiver.md",
+      "title": "Patrick Mahomes: I think we’re deep at receiver",
+      "excerpt": "The Chiefs lost two of their key receivers from 2022 to the AFC East, as JuJu Smith-Schuster signed with the Patriots and Mecole Hardman signed with the Jets in free agency. But the group that ...",
+      "sourceUrl": null,
+      "webUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/",
+      "originalUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/05/GettyImages-1257802297-e1685454590347.jpg",
+          "width": 870,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/amp/",
+      "cdnAmpWebUrl": "https://profootballtalk-nbcsports-com.cdn.ampproject.org/c/s/profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/amp/",
+      "publishedDateTime": "2023-05-30T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Sports",
+        "domain": "nbcsports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

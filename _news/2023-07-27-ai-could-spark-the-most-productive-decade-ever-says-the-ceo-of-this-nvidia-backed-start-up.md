@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
-    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
-    publishedDateTime: 2023-07-26T01:23:00Z
-    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Startup Cerebras takes on Nvidia with AI supercomputer"
     excerpt: "STARTUP chipmaker Cerebras Systems announced that it’s built the first of nine artificial intelligence supercomputers in a partnership with Abu Dhabi, part of an effort to provide alternatives to systems using Nvidia technology."
     publishedDateTime: 2023-07-26T15:29:00Z
