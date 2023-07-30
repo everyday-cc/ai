@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 779
         isCached: true
+  - title: "Wealthtech TIFIN, JPMorgan Introduce TIFIN.AI to Support Thematic AI-powered Fintech Solutions"
+    excerpt: "TIFIN.AI ushers in a new phase of fintech innovation “in wealth management across advice and products through the use of AI capabilities across use cases that include client portfolio insights for advisors, alternative investing, wealth management in the workplace, and insurance among others.”"
+    publishedDateTime: 2023-07-30T15:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/04/Sunset-Beach-Ocean-Waves-Fintech.jpeg"
+        width: 1082
+        height: 1280
+        isCached: true
   - title: "Climate change and financial innovation: The rise of climate fintech"
     excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
     publishedDateTime: 2023-07-27T14:23:00Z
@@ -57,20 +73,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Generative AI: Proposed Shared Responsibility Model"
-    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
-    publishedDateTime: 2023-07-28T15:04:00Z
-    webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
-    type: article
-    provider:
-      name: Cloud Security Alliance
-      domain: cloudsecurityalliance.org
-    quality: 43
-    images:
-      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
     excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
     publishedDateTime: 2023-07-26T08:57:00Z
@@ -84,6 +86,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 39
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
         isCached: true
   - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
     excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."

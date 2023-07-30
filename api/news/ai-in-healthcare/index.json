@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-29-ai-models-might-make-american-healthcare-better-but-its-an-uphill-climb.md",
-      "title": "AI Models Might Make American Healthcare Better – But It’s An Uphill Climb",
-      "excerpt": "In a nutshell, one thing you find out is that the best outcomes are ‘volume-based’ – in other words, if you find a provider that does a certain thing all day, that provider is probably going to be more proficient than someone else who is a jack of all trades or a generalist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/28/ai-models-might-make-american-healthcare-better--but-its-an-uphill-climb/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/28/ai-models-might-make-american-healthcare-better--but-its-an-uphill-climb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-28-skin-cancer-diagnosis-exploring-reinforcement-learning-for-improved-performance-of-ai.md",
       "title": "Skin cancer diagnosis: Exploring reinforcement learning for improved performance of AI",
       "excerpt": "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice. An international research team led by Harald Kittler of MedUni Vienna has now explored a learning method in which greater accuracy in AI results can be achieved by incorporating human decision-making criteria.",
@@ -1460,6 +1417,50 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-how-will-artificial-intelligence-affect-investing.md",
+      "title": "How Will Artificial Intelligence Affect Investing?",
+      "excerpt": "Predicting how artificial intelligence will affect the investment industry falls between those two extremes. The internet was so difficult to foresee because it broke radical new ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
+      "originalUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png",
+          "width": 2500,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

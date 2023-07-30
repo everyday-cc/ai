@@ -49,20 +49,6 @@ related:
         width: 2100
         height: 1400
         isCached: true
-  - title: "Korean Red Ginseng can alleviate addictive effects of alcohol, find Sahmyook University researchers"
-    excerpt: "Alcohol use disorder (AUD) is a medical condition where an individual loses the ability to control alcohol cravings, despite the negative consequences associated with its excessive consumption. Recently,"
-    publishedDateTime: 2023-07-26T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/996767"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 10
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f4368ed3-0298-49ea-9eb6-a5f0994b4880/Rendition/low-res/Content/Public"
-        width: 700
-        height: 413
-        isCached: true
   - title: "Korean Red Ginseng Can Alleviate Addictive Effects of Alcohol, Find Sahmyook University Researchers"
     excerpt: "AUD is characterized by the abuse, dependency, and addiction of alcohol, leading to compromised social responses and interactions of the individual. Moreover, it impairs spatial working memory (memory that allows us to orient ourselves to our surroundings) and causes neuroinflammation?"
     publishedDateTime: 2023-07-27T13:03:00Z

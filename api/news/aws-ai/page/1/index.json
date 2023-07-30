@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-29-the-best-shows-on-amazon-prime-right-now-august-2023.md",
+      "title": "The best shows on Amazon Prime right now (August 2023)",
+      "excerpt": "Amazon Prime Video has a wide selection of shows from which to choose, with new shows being added all the time. Some of Amazon Prime Video’s original series have become very popular, too, like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/good-omens-season-2.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning.md",
       "title": "IBM and AWS partnering to transform industrial welding with AI and machine learning",
       "excerpt": "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n",
@@ -1397,40 +1449,6 @@
       "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
       "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-prime-day-deals-laptops-computers-2023-amazon-2023-07-12/",
       "publishedDateTime": "2023-07-12T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-best-amazon-prime-day-2023-deals-under-25.md",
-      "title": "Best Amazon Prime Day 2023 deals under $25",
-      "excerpt": "Ahead, the best Amazon Prime Day 2023 deals under $25. Find savings on protein powder, face wash, toys and more. Find prices reduced on favorite brands, from Olaplex to Orgain. Be sure to shop now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-amazon-prime-day-2023-deals-under-25/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-amazon-prime-day-2023-deals-under-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T04:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",

@@ -2,6 +2,109 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-06-09-human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift.md",
+      "title": "Human Connection In The Digital Age: Leadership Lessons From Hybrid Work, Generative AI, And Taylor Swift",
+      "excerpt": "As hybrid work and generative AI advance, effective leaders recognize and tap the need for human connection to make their workplaces more desirable and productive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/",
+      "originalUrl": "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6481d37a8043380174214435/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/amp/",
+      "publishedDateTime": "2023-06-08T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart.md",
+      "title": "Exploring Generative AI in conversational experiences: An Introduction with Amazon Lex, Langchain, and SageMaker Jumpstart",
+      "excerpt": "Customers expect quick and efficient service from businesses in today’s fast-paced world. But providing excellent customer service can be significantly challenging when the volume of inquiries outpaces the human resources employed to address them. However, businesses can meet this challenge while providing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/LLM12016-arch_diagram-new.png",
+          "width": 1139,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T10:51:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-dont-bank-on-ai-predicting-the-stock-market-anytime-soon.md",
       "title": "Don't bank on AI predicting the stock market anytime soon",
       "excerpt": "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why.",
@@ -1095,109 +1198,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023.md",
-      "title": "Generative AI Is ‘Emerging Opportunity’ For Gaming Investors In 2023",
-      "excerpt": "Venture capitalists and other gaming investors should consider generative AI as a huge emerging opportunity, according to PitchBook.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6480ea0b59cee9714cd235e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/",
-      "publishedDateTime": "2023-06-08T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech.md",
-      "title": "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech",
-      "excerpt": "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200",
-          "width": 797,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/",
-      "publishedDateTime": "2023-06-08T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

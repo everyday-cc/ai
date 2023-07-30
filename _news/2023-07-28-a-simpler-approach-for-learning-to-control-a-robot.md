@@ -56,15 +56,6 @@ related:
         width: 1280
         height: 820
         isCached: true
-  - title: "A simpler method for learning to control a robot"
-    excerpt: "A new machine-learning technique can efficiently learn to control a robot, leading to better performance with fewer data."
-    publishedDateTime: 2023-07-26T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/07/230726171330.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Drones stay on course in difficult conditions thanks to machine learning control"
     excerpt: "A new machine-learning based approach can control drones and autonomous vehicles more effectively and efficiently in difficult conditions, according to its developers at the Massachusetts Institute of Technology (MIT) and Stanford University."
     publishedDateTime: 2023-07-26T15:24:00Z

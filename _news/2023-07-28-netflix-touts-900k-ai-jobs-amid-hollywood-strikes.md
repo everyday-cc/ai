@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
     quality: 59
     images:
       - url: "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
+    excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
+    publishedDateTime: 2023-07-30T17:00:00Z
+    webUrl: "https://www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
+    ampWebUrl: "https://www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

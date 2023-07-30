@@ -2,41 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-06-19-news-tagged-with-cognitive-behavioral-therapy.md",
-      "title": "News tagged with cognitive behavioral therapy",
-      "excerpt": "A recent study published in Research on Child and Adolescent Psychopathology demonstrates that measures of brain function related to emotional processing in adolescents with depression could ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/cognitive+behavioral+therapy/",
-      "originalUrl": "https://medicalxpress.com/tags/cognitive+behavioral+therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-06-19-artificial-intelligence-for-healthcare-applications-market-2023-2030-open-the-force-of-information-with-exploration-report.md",
       "title": "Artificial Intelligence for Healthcare Applications Market [2023-2030] | Open the Force of Information with Exploration Report",
       "excerpt": "In addition, the examination report gives definite information about the main considerations affecting the development of the Artificial Intelligence for Healthcare Applications market at the ...",
@@ -1338,6 +1303,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-ai-can-help-doctors-with-breast-cancer-risk-predictions-a-new-study-found.md",
+      "title": "AI can help doctors with breast cancer risk predictions, a new study found",
+      "excerpt": "Artificial intelligence is being used in increasingly more areas and could now help predict breast cancer risks, a new study shows. The study, which used five AI algorithms, found that when put to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2023/06/07/artificial-intelligence-breast-cancer-risk-prediction/70297531007/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2023/06/07/artificial-intelligence-breast-cancer-risk-prediction/70297531007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-07-26T23:57:00Z
-    webUrl: "https://www.inferse.com/642389/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
   - title: "ServiceNow Expands Generative AI Capabilities With Case Summarization and Text-to-Code to Drive Speed, Productivity, and Value"
     excerpt: "Case summarization and text-to-code join ServiceNow's growing Now Assist family of generative AI features being infused into the ServiceNow platform across all workflow offerings. ServiceNow has already seen significant productivity improvements for customers using early access versions of its previously announced generative AI capabilities,"
     publishedDateTime: 2023-07-26T21:52:00Z

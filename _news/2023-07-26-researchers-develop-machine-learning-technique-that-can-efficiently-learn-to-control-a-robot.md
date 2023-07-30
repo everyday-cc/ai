@@ -52,15 +52,6 @@ related:
         width: 1280
         height: 820
         isCached: true
-  - title: "A simpler method for learning to control a robot"
-    excerpt: "A new machine-learning technique can efficiently learn to control a robot, leading to better performance with fewer data."
-    publishedDateTime: 2023-07-26T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/07/230726171330.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "A Simpler Approach For Learning To Control A Robot"
     excerpt: "Researchers have developed a machine-learning method that learns robot control more efficiently, achieving superior performance with less data."
     publishedDateTime: 2023-07-28T08:00:00Z

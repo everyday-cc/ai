@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-29-google-microsoft-meta-amazon-pledge-ai-safety-and-security-at-white-house.md",
+      "title": "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House",
+      "excerpt": "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/",
+      "originalUrl": "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 478,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-the-future-of-cloud-computing-ai-powered-and-driven-by-innovation.md",
       "title": "The Future Of Cloud Computing: AI-Powered And Driven By Innovation",
       "excerpt": "Tech giants Microsoft and Google report strong Q2 earnings, driven by AI innovations in their cloud businesses. AWS also invests heavily in AI.",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -155,6 +208,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-introducing-microsoft-fabric-the-future-of-data-analytics.md",
+      "title": "Introducing Microsoft Fabric: The future of data analytics",
+      "excerpt": "Microsoft Fabric is a unified SaaS platform bridging the data and intelligence gap, says Zia Marais, engagement lead at Decision Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL",
+      "originalUrl": "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/07/Decision-Inc-27July2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL",
+      "publishedDateTime": "2023-07-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -295,49 +391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-mediakind-unveils-new-home-for-microsoft-azure-media-services-users.md",
-      "title": "MediaKind unveils new home for Microsoft Azure Media Services users",
-      "excerpt": "Building on what it says are the more than one billion video streams served in 2022 and 2023, MediaKind has unveiled MK/IO, a complete streaming solution built on Microsoft Azure that is said to be ab",
-      "sourceUrl": null,
-      "webUrl": "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.html",
-      "originalUrl": "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2023/July_2023/Media_Azure_26July2023.png",
-          "width": 897,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.amp.html",
-      "publishedDateTime": "2023-07-26T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1412,58 +1465,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-microsoft-goes-beyond-openai-makes-metas-new-ai-model-available-to-azure-customers.md",
-      "title": "Microsoft goes beyond OpenAI, makes Meta's new A.I. model available to Azure customers",
-      "excerpt": "Meta's new artificial intelligence language model, dubbed Llama 2, will be available on Microsoft's Azure cloud-computing service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 471,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107268471-1688758329171-gettyimages-1259816455-MICROSOFT_COURT.jpeg?v=1689698925",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html",
-      "publishedDateTime": "2023-07-18T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

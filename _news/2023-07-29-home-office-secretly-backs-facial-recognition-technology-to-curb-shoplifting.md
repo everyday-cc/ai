@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secre
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Should police use facial-recognition technology? Ann Arbor to vote on issue"
-    excerpt: "Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months."
-    publishedDateTime: 2023-07-26T00:58:00Z
-    webUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
-    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 42
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4HBWD7NCY5AI3JU3J3R3MTAIBU.jpeg"
-        width: 3000
-        height: 2250
-        isCached: true
   - title: "Pocatello Animal Services adopts innovative facial recognition technology to help reunite lost pets with owners"
     excerpt: "POCATELLO, Idaho (KIFI) - Pocatello Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
     publishedDateTime: 2023-07-28T19:37:00Z

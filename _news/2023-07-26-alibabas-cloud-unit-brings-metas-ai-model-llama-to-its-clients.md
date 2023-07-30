@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/alibabas-cloud-unit-brings-meta
 webUrl: "https://www.reuters.com/technology/alibabas-cloud-unit-brings-metas-ai-model-llama-its-clients-2023-07-26/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Go Abroad with Alibaba (NYSE:BABA) for a Discounted AI Stock"
-    excerpt: "While artificial intelligence (AI) continues to be one of the dominant market themes of 2023, the subsequent robust interest makes individual"
-    publishedDateTime: 2023-07-26T00:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/go-abroad-with-alibaba-nyse-baba-for-a-discounted-ai-stock-1032476395"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/image-665.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 786
-        height: 443
-        isCached: true
   - title: "Chinese e-commerce giant Alibaba’s cloud services unit extends support in China for Meta’s latest open-source AI model"
     excerpt: "The company’s support for Meta’s free-to-use large language model reflects the Chinese tech industry’s strong interest in closing the gap with the West by building innovative ChatGPT-like services."
     publishedDateTime: 2023-07-26T15:01:00Z

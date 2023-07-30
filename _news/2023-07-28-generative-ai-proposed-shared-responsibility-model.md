@@ -3,10 +3,10 @@ category: news
 title: "Generative AI: Proposed Shared Responsibility Model"
 excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
 publishedDateTime: 2023-07-28T15:04:00Z
-originalUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
-webUrl: "https://cloudsecurityalliance.org/articles/generative-ai-proposed-shared-responsibility-model/"
+originalUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
+webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
 type: article
-quality: 43
+quality: 39
 heat: -1
 published: false
 
@@ -15,10 +15,8 @@ provider:
   domain: cloudsecurityalliance.org
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
-  - Natural Language Processing
+  - AI
 
 images:
   - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
@@ -42,6 +40,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c004db540f53f5ded8f5fe/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 779
+        isCached: true
+  - title: "Wealthtech TIFIN, JPMorgan Introduce TIFIN.AI to Support Thematic AI-powered Fintech Solutions"
+    excerpt: "TIFIN.AI ushers in a new phase of fintech innovation “in wealth management across advice and products through the use of AI capabilities across use cases that include client portfolio insights for advisors, alternative investing, wealth management in the workplace, and insurance among others.”"
+    publishedDateTime: 2023-07-30T15:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/04/Sunset-Beach-Ocean-Waves-Fintech.jpeg"
+        width: 1082
+        height: 1280
         isCached: true
   - title: "Climate change and financial innovation: The rise of climate fintech"
     excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
@@ -184,6 +198,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "mk9ly3F3weGY8MdQbGm6+R4/xxKvmKOT2MzdvP3HawojPpJJ6W2yBnpHD8PMZ+XKsU/6X+G1PUCdnII7fWHI8yIR6WCVVGqSQbH4w/SpMBk1G+Fj7Pc70HVis+9Alx4pP3JIKuAtF9wXn2WPG1sw9ctHZLosCWAQT1xo4MV5/yAYNvVl4nuLoUb57kd142y+rPSKlS19nph4bBk9NhCV697wWoVTzJqTnWx8/le98ZuqWmI7ppMuGz9ylQGwbqwy1Uds2AARkNTl7KFBl2Q1hQc8+5BJFB8QjyKhhsHdloA09be6LFz6M1b47jwsPAFqe4E7QaK/Y7paSaaMOwIhoHL8x+djguuCxcgvSIlh1cz9EBkN2WqIWUGYurcxARQZG8/N/3NQf2FT2eP47unbSFrKPYM6wc4CeWSVcjEdR4j8soAviyLN7ibwpKoE1lc86lQg9DT6EE/Fb0/xStKvY4hLPQvYWgm+jl+4OeVhbip2ZzBUit2cV/odCxVmUTOFtt8NfSFAjXWa+EXDJAXMGQ==;dlVuSGTlYWvRqmoit5SrIg=="
+secured: "q4FIvQsT8Z1/BnCmkzkwT9HJ020mZk9Rr1ar7/H2ksLhUh4A//lqjRGupsljW/ylcHc6YESmP0i4f74ui1KLajtAqqdznWtyCwO4Aq3kaQiuiM9AgVQlY4Jv4bPbW8YUYN/5yrBtxQjiY9hhJagp3QRg6Ip8jwzpQlcG5vxP5ET6IW+VVq+wYBzYCHQeS8BXlMTliPAr8m5iSOPemnZZ9O0nctza5eHgwvFwD/09qbL7GqT0xgPf9KkF301ccTZtQvdBgUsBr8FNmLA/+grPrAq9xTIBfLJUgfd7lk3DSHrWetGKaVHEWc54KAMxVV7Z3zsNxQ/hW2NJaZxothFmMkT32wYDYfWZwdmztTSGGu0=;m8HIRhVVKwKtuIfFlR885Q=="
 ---
 

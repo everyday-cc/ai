@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Here's why 61% of Americans think AI could spell the end of humanity"
-    excerpt: "Benzinga took a look at the state of artificial intelligence by analyzing public concern about the future of AI and its global impacts."
-    publishedDateTime: 2023-07-26T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/26/heres-why-61-of-americans-think-ai-could-spell-the-end-of-humanity/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/07/artificial-intelligence_0.png"
-        width: 1080
-        height: 700
-        isCached: true
 
 secured: "/unkBdESO5Y6sXMUx51ztNwbGcEG7e/zYGI/bNavdPB86FrBWV81KXvf4xg+KrwrRadZC6Nk6EO0+RvtI3rX1MNfrBuemdxMciv7omea+gI6rsUwU8hdqMQ0uFSYhLTsRFHRusti4McyD7C60ptSoqozhUSfFZQfQqbJqgONSxSfLPbsMMXGkC1Mc0rcFv037FZdhdK5dMpaJ+R5PXmHNR8WFyFB3Q+9kreJnr+71EUOOTcb4IwGKQbkdxftMWJUzctiGV3WXdjEzWPC1ZqNwVPFum74rBBYIzmhuXAZbUfEJZWkwWCpag++cPowFpiztU5U8qr4DlLS3gCjAd26NXth8S7G21Sp0XzoD0tFTvk=;ZMhLSOxhLp1K/6S0RlvKcg=="
 ---

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "America Already Has an AI Underclass"
+    excerpt: "Search engines, ChatGPT, and other AI tools wouldn’t function without an army of contractors. Now those workers say they’re underpaid and mistreated."
+    publishedDateTime: 2023-07-28T20:19:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "AI Models Might Make American Healthcare Better – But It’s An Uphill Climb"
     excerpt: "In a nutshell, one thing you find out is that the best outcomes are ‘volume-based’ – in other words, if you find a provider that does a certain thing all day, that provider is probably going to be more proficient than someone else who is a jack of all trades or a generalist."
     publishedDateTime: 2023-07-28T19:44:00Z
@@ -58,6 +72,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "Here's why 61% of Americans think AI could spell the end of humanity"
+    excerpt: "Benzinga took a look at the state of artificial intelligence by analyzing public concern about the future of AI and its global impacts."
+    publishedDateTime: 2023-07-26T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/26/heres-why-61-of-americans-think-ai-could-spell-the-end-of-humanity/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/07/artificial-intelligence_0.png"
+        width: 1080
+        height: 700
+        isCached: true
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-27T08:00:00Z
+    webUrl: "https://thebrunswicknews.com/jay-ambrose-artificial-intelligence-loves-america/article_d3bd6dc6-9a65-5704-b5a0-2623664ca993.html"
+    type: article
+    provider:
+      name: Brunswick News
+      domain: thebrunswicknews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/6/3e/63e90684-7b0e-5280-bd1c-2984cdac50d3/64c236b4dfcc0.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Artificial intelligence loves America"
     excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
     publishedDateTime: 2023-07-28T10:05:00Z
@@ -97,20 +139,15 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
-    excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
-    publishedDateTime: 2023-07-26T15:51:00Z
-    webUrl: "https://www.pastemagazine.com/drink/whiskey/american-single-malt-definition-official-barrels-char-ttb-virginia-distillery-co"
+  - title: "Commentary: Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-28T12:00:00Z
+    webUrl: "https://www.union-bulletin.com/commentary-artificial-intelligence-loves-america/article_d48a318a-2cb9-11ee-a292-cf639ea6ace5.html"
     type: article
     provider:
-      name: Paste
-      domain: pastemagazine.com
-    quality: 24
-    images:
-      - url: "https://image-pastemagazine-com-public-bucket.storage.googleapis.com/wp-content/uploads/2023/07/25133636/american-single-malt-lineup-main.jpg"
-        width: 676
-        height: 380
-        isCached: true
+      name: Walla Walla Union Bulletin
+      domain: union-bulletin.com
+    quality: 21
   - title: "AI Startup Aims to Help North American Rail Cut Diesel Use"
     excerpt: "Transportation is responsible for one quarter of the world’s greenhouse gas emissions. While companies have touted electric vehicles and sustainable aviation fuel as ways to cut emissions from air and road travel,"
     publishedDateTime: 2023-07-27T10:59:00Z

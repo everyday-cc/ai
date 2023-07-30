@@ -106,6 +106,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
+    excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
+    publishedDateTime: 2023-07-30T17:00:00Z
+    webUrl: "https://www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
+    ampWebUrl: "https://www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Netflix invests more than half a million dollars in machine learning role amid SAG, WGA strikes"
     excerpt: "As writers and actors continue to strike in demand for fair pay, streaming giants are investing their money into artificial intelligence, and Los Gatos-based company Netflix is leading the way."
     publishedDateTime: 2023-07-26T23:43:00Z
