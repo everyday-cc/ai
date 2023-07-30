@@ -90,6 +90,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
+    excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
+    publishedDateTime: 2023-07-30T00:52:00Z
+    webUrl: "https://www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
+    ampWebUrl: "https://www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
     excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"
     publishedDateTime: 2023-07-25T18:42:00Z

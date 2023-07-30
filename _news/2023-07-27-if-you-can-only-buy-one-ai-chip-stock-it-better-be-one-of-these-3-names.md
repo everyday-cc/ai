@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "3 Autonomous Driving Stocks You Better Be Buying on Each and Every Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2023 has brought to us an equities market rebound and novel improvements upon"
-    publishedDateTime: 2023-07-25T08:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-autonomous-driving-stocks-you-better-be-buying-on-each-and-every-dip-1032473429"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "If You Can Only Buy One Semiconductor Stock, It Better Be One of These 3 Names"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor industry is an integral part of several other industries in"
     publishedDateTime: 2023-07-25T15:43:00Z

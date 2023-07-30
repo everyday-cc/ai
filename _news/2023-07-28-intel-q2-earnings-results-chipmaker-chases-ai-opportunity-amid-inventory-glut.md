@@ -34,6 +34,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 64
+  - title: "Taiwan chipmaker UMC sees 'uncertain' demand, gearing up for AI"
+    excerpt: "Taiwanese chipmaker United Microelectronics Corp (UMC) said on Wednesday that it sees \"uncertain\" demand in the third quarter but stuck to its 2023 capital spending plans as its gears up to meet customer demand for artificial intelligence (AI)."
+    publishedDateTime: 2023-07-26T13:35:00Z
+    webUrl: "https://www.aol.com/news/taiwan-chipmaker-umc-sees-uncertain-103503770.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
 
 secured: "EBxDGyaZoM6Lde/yffozHnLbbQf8NlW0iN0XOW5hqy4H5Jxy7x7XzYhZthQvE+lpu92rvhw5BC+JCR0rA8h+c0wIT7q3mjU0A9hIxo+HzJ5y/KfYULlfak1UNrXPbYRyKJKvSQ9Sh4kQ85VprB6PHGiQJuo2zKFAtvrHO9tG9uykF4CqDZI2DG3XGOVyyHqoFA+jS8/3n01OGBtLV9UTTcPwFxLgHIs5K1admHXO5qjzAPzllbDuww/D4q3QneDjYTejWkFvt1iW3gr6XOlPnO8gr43giqbQCIdV2rg1xGPkjzUGuz3krDBS3a+fpjmIIzHgOKDZ1ForhmCooP6k4YSuulnOTk1iEdA7+B+b8vg=;5+VNxw2YBf4R+f20k1RMpQ=="
 ---

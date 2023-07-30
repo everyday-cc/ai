@@ -387,20 +387,6 @@ related:
         width: 1200
         height: 754
         isCached: true
-  - title: "Microsoft Inspire 2023 – A New Era of AI-Powered Innovation Unveiled"
-    excerpt: "Read this blog post to find out aboutthe latest announcements and updates from the Microsoft Inspire Conference 2023."
-    publishedDateTime: 2023-07-25T08:00:00Z
-    webUrl: "https://www.sharepointeurope.com/microsoft-inspire-2023-a-new-era-of-ai-powered-innovation-unveiled/"
-    type: article
-    provider:
-      name: SharePoint
-      domain: sharepointeurope.com
-    quality: 54
-    images:
-      - url: "https://www.sharepointeurope.com/wp-content/uploads/2023/07/Inspire2023_Phase1_OpeGraph_Design-v-1200x630-1.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
     publishedDateTime: 2023-07-25T20:42:00Z

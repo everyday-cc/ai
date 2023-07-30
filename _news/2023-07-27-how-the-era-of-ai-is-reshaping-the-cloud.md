@@ -31,15 +31,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
-    excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
-    publishedDateTime: 2023-07-25T08:42:00Z
-    webUrl: "https://www.computerweekly.com/news/366545652/Google-reveals-how-AI-and-machine-learning-are-shaping-its-sustainability-strategy"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 28
 
 secured: "/rd/VN6WuJUkM2gg/CfgBJiyCvQpefkERnR+asxoSYPaNOsEzbxmd3DyGevNfrPQWoxsVQnjcpRDK1foc3yIZSfapjssQ2KBay9mfPMbjAXLf6n8YOHT0wnRGZwo3HMm5fn5QG2nuhWYKqX0i1sFMoE7l4xVtOn27NykzlGoLJbrPB/i5gXKkWSNlsImNxTHA96psJQdMclGUQrCxSpLjneXAzK2suxCbYhxZCVw5HHD6UpYrQnSoerRGygkTs6/CNWbKO6Q0PgFXByimiLFUa+PxlaVIpFaiyUvRhd4JjgXq/oYAI8IKgjms0OmjCwIfQGQ7Mk2pNeGtkmscRpdFsucFjUuxPD03frYpzhWBxmBSiT7mioj0QWvbRAG8u3LWnPP0uSRwHxfEQeaumcGeDigyZUlqrS/HcpRwdpAeWr3xeXpssMZb9Op5FggvWciA9I1nfEXrrIietl2+4rNkLGQoo/HYl0kdsMrxFBGdxGLKWHq2NJTmabbWnGddNLw2ubl8JFFVYYHkkhCLRN7oA==;9aP3gnogDrv9YbiHpBoDfQ=="
 ---

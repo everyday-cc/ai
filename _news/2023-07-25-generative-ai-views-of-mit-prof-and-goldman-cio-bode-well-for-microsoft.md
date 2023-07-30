@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 558
+heat: 548
 published: true
 
 provider:
@@ -383,20 +383,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/KNqCJSLlFKyGennVsxgHKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTQ-/https://media.zenfs.com/en/aol_yahoo_finance_433/0ce8a14eb683e51d2a52c1bcabfffae1"
         width: 1200
         height: 754
-        isCached: true
-  - title: "Microsoft Inspire 2023 – A New Era of AI-Powered Innovation Unveiled"
-    excerpt: "Read this blog post to find out aboutthe latest announcements and updates from the Microsoft Inspire Conference 2023."
-    publishedDateTime: 2023-07-25T08:00:00Z
-    webUrl: "https://www.sharepointeurope.com/microsoft-inspire-2023-a-new-era-of-ai-powered-innovation-unveiled/"
-    type: article
-    provider:
-      name: SharePoint
-      domain: sharepointeurope.com
-    quality: 54
-    images:
-      - url: "https://www.sharepointeurope.com/wp-content/uploads/2023/07/Inspire2023_Phase1_OpeGraph_Design-v-1200x630-1.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."

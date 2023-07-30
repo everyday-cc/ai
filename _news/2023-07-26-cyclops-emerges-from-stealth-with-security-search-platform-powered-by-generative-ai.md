@@ -205,22 +205,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
-  - title: "AWS teams with FOX Sports for AI-powered highlights"
-    excerpt: "Driven by fans’ expectations that digitisation and the continued advancement of broadcast delivery technology should lead to a dynamic viewing experience, FOX Sports has revealed how it has deployed A"
-    publishedDateTime: 2023-07-25T07:38:00Z
-    webUrl: "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html"
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 74
-    images:
-      - url: "https://www.rapidtvnews.com/images/2023/July_2023/AWS_fox_25July2023.png"
-        width: 854
-        height: 430
-        isCached: true
   - title: "Amazon Web Services (AWS) Launches HealthScribe, A Generative AI Powered Clinical Documentation Tool"
     excerpt: "Amazon Web Services (AWS) announced the launch of HealthScribe, deepening its commitment to augmenting healthcare delivery and innovating cutting-edge industry solutions. HealthScribe is a new service that will enable healthcare software developers and providers to create clinical applications that use speech recognition,"
     publishedDateTime: 2023-07-26T16:37:00Z

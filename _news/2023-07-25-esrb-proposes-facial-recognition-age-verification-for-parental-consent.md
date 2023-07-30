@@ -101,22 +101,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Battle For Recognition: Why It’s So Difficult To Get Transgender IDs"
-    excerpt: "A leading cause for delays in processing comes from the digital divide that exists where applicants from rural areas either don’t have access to the internet or technical know-how."
-    publishedDateTime: 2023-07-25T07:16:00Z
-    webUrl: "https://www.boomlive.in/decode/why-it-is-so-difficult-to-get-transgender-ids-in-india-22600"
-    ampWebUrl: "https://www.boomlive.in/amp/decode/why-it-is-so-difficult-to-get-transgender-ids-in-india-22600"
-    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/decode/why-it-is-so-difficult-to-get-transgender-ids-in-india-22600"
-    type: article
-    provider:
-      name: BOOM
-      domain: boomlive.in
-    quality: 44
-    images:
-      - url: "https://www.boomlive.in/h-upload/2023/07/25/1011809-pride-01.jpg"
-        width: 1152
-        height: 648
-        isCached: true
   - title: "ESRB Wants to Use Facial Recognition to Age Check Access to Video Games"
     excerpt: "The ESRB proposes a way to leverage facial recognition technology to verify a person's age before they can play their video games."
     publishedDateTime: 2023-07-25T09:47:00Z

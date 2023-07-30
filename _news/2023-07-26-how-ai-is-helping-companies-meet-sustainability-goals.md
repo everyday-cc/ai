@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustaina
 webUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
-    excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
-    publishedDateTime: 2023-07-25T08:42:00Z
-    webUrl: "https://www.computerweekly.com/news/366545652/Google-reveals-how-AI-and-machine-learning-are-shaping-its-sustainability-strategy"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 28
 
 secured: "vfVtgEXfhpP9TXPDcp13puntqUOD+AaOBftLQNEfvcAY8XANeKJcHtwkarGGqdZ2sLZM7p71be/kMJmJjVKJ6LsB6yUmpzLJh2n4syPZCHnG55NCaDrnQ/D0gTU7JIgC2Ku7Pjl2UhyL384G0vQeVzEo3lFB5+Rdn9BGNiIFWhl9c0M91bOXtUK3n/ql+62pl/4XaNSDBtb4gTKpyLQDnA9e7Ao1jGNZBcxX/IfL/wH7xFHTX7DQUp9cLT7X3o8HpxCcYZgzDCxI//FH7hH4hdt3Frz+ocQx5FB08UqaFrANV8AQBuvWyz0APxIgDhdXVEPM09XvAcj3yUS0pMoqxiDPYVOak2I8JMO67G/KzkI=;1Z02SbRHZrDrmsRljiwfNw=="
 ---

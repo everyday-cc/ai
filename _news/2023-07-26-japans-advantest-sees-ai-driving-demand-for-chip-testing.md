@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/japans-advantest-sees-ai-drivin
 webUrl: "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "TSMC to invest $2.9bn in advanced packaging plant for AI chips"
+    excerpt: "TAIPEI -- Taiwan Semiconductor Manufacturing Co. will invest 90 billion New Taiwan dollars ($2.87 billion) to build a plant in western Taiwan that handles advanced packaging of high-performance semiconductors necessary for generative artificial intelligence."
+    publishedDateTime: 2023-07-25T15:31:00Z
+    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-to-invest-2.9bn-in-advanced-packaging-plant-for-AI-chips"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F8%252F4%252F6%252F1%252F46281648-6-eng-GB%252FCropped-1690298249N%2520TSMC.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "The Turing Test and Its Importance for AI Research"
     excerpt: "Many people have argued that the Turing Test does not provide an appropriate goal for research into AI. For example, the questions in the test are limited and often based on very specific fields of knowledge."
     publishedDateTime: 2023-07-26T00:08:00Z

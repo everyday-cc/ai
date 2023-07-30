@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Dilemmas Of Using Artificial Intelligence To Raise The Dead"
-    excerpt: "An advertising campaign showing the late Elis Regina and her daughter Maria Rita playing a duet has sparked antagonistic reactions on social media.In the Volkswagen piece, the singer who died in the eighties was brought back to life using Artificial Intelligence (AI) ."
-    publishedDateTime: 2023-07-25T07:38:00Z
-    webUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Intelligence-To-Raise-The-Dead"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/25/CRN_659e8image_story.jpg"
-        width: 640
-        height: 395
-        isCached: true
 
 secured: "1+PRIiDnRqVyDrV4Rwmo8zkDX6QnSBfj4o46562LBbpbuidMRtS92GtMWBAXw7v7c0JY74WPkLSBYy8ee3hg/Uaoo/m7cYqFBsdIsIaZtcxNZTJ2Mw5m5OCTiwcJdbGV7qUAlmaKd8+NS++rNEyppXTC3DzDvEVl61ldRSrLURf6N86txUGIRhCE4D24a7umPHe9L5qugbKHaiXqSbqSLSDmPJ7yo74sAc9rK4AMkSmxH6eBYcp4YeHwBOP6P+XVJv2qlSHEnWV5eaYAvStIwcqzkwdDjWhh+Mop/ZliZVy1AqQnN1+2gqBlrl4lE8QaV4yz0HHj/uTyTXhpYmSyhtzTGqENehm74FLxtK799JE1nqyoZat1g8stO+TMOEIuMNzB925SbCUJ3/duO13ldV0VG0ZEXW7mysmfUt3F3yWTqYnw8N0DYQupttaiZOpB8fp+mQtZrickETXt7i9fELTjjWRUhD/ODxQv/PsehOwZ5BXIba8Ftk1rfkgvtzBSvqXx261Do1ZueFi0uJSeWw==;VeG3CriEoqLcri1ZIBOH+Q=="
 ---

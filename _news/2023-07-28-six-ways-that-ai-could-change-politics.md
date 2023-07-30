@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/28/1076756/six-ways-that-ai
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/28/1076756/six-ways-that-ai-could-change-politics/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,22 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is powering politics – but it could also reboot democracy"
-    excerpt: "Generative AI can involve citizens directly in decision-making, but not while developers’ incentives are only financial, says Polly Curtis, chief executive of Demos"
-    publishedDateTime: 2023-07-28T08:15:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/28/artificial-intelligence-powering-politics-reboot-democracy"
+  - title: "That sports broadcaster you hear could be AI"
+    excerpt: "AI commentary was introduced in at least three major sports tournaments, including the Masters golf and Wimbledon tennis tournaments, for the first time this year."
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.nbcnews.com/tech/innovation/us-open-ai-sports-commentary-masters-wimbledon-rcna95244"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna95244"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95244"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 52
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://i.guim.co.uk/img/media/41ec994b36029f462af0a6a769c900a81dab0434/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=f01cb002de1358cd6c4ed8ada14c7222"
-        width: 620
-        height: 372
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230724-ai-sports-announcing-social-cs-accdf0.jpg"
+        width: 2500
+        height: 1400
         isCached: true
+  - title: "Your Household Robot Should Be A General AI- Like You!"
+    excerpt: "This is a problem that a lot of engineers are thinking about, as noted in Leslie Kaelbling’s presentation on the difference between a robot factory and what happens"
+    publishedDateTime: 2023-07-25T19:50:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-robot-should-be-a-general-ailike-you/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "EFAysV5CF340unzr5zkrcr5uzqihmNsDc5IXf+FXj5n96KlVYBMg8ZU7Wb/psT8t1hdRoSFLLCCMGgfcC23mxpm9SqgwcsmM+o+GHDIJJd9dtoY5DKP7kSZzX6cnMJS6U51lAvQilTjHjtcA28r2/fAAkTaB88OlHkA6mFCOgJvnwO7SvYccbnTUujRGYJJn5zM3Zi3kkEz+MJwQU67wt6cEQZP/06Afi9aIWf88TGqkfd2nUpI9Sx7d9sGuWOMd4S+iasHydOar6dePx9eIZk/EgCcqyK9qXuoOFa4534ZQd8ktAa/TJ01h5mPm5NZNM9sE0qSv+aHIx3Z75ggEMM1Kuvn1bY+MuiRxh1CG2cxYoAT2MnJSL9wttJMDDLQfFLFHeEnBNxAguJ6JvfI39kWVZ6X+Tvg7M0NLzy+EO/X932ClLPMkibowmB8+JYtD5KhWwJEd6vGj/rl3gba2XzgIkWg5XHn92GmFWaTQoBSondKh0uXYoJGGxMJPEI6jjAIf6anWCYNLa48PvGE9Ug==;TNj656yDibCnDev3AEd5Hw=="
 ---

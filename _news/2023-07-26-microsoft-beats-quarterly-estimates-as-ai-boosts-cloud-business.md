@@ -392,20 +392,6 @@ related:
         width: 1200
         height: 754
         isCached: true
-  - title: "Microsoft Inspire 2023 – A New Era of AI-Powered Innovation Unveiled"
-    excerpt: "Read this blog post to find out aboutthe latest announcements and updates from the Microsoft Inspire Conference 2023."
-    publishedDateTime: 2023-07-25T08:00:00Z
-    webUrl: "https://www.sharepointeurope.com/microsoft-inspire-2023-a-new-era-of-ai-powered-innovation-unveiled/"
-    type: article
-    provider:
-      name: SharePoint
-      domain: sharepointeurope.com
-    quality: 54
-    images:
-      - url: "https://www.sharepointeurope.com/wp-content/uploads/2023/07/Inspire2023_Phase1_OpeGraph_Design-v-1200x630-1.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft foresees gradual AI adoption instead of rapid uptake"
     excerpt: "Thanks to an AI wave that helped Microsoft increase its customer numbers, the software giant expected its intelligent cloud service, especially Azure, to drive its growth."
     publishedDateTime: 2023-07-26T02:48:00Z

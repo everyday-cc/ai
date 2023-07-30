@@ -113,20 +113,6 @@ related:
         width: 500
         height: 309
         isCached: true
-  - title: "Fintech firm supports charity Ablaze with mentoring day"
-    excerpt: "The students visited the Novia Financial office, getting an introduction into financial services as well as discussing artificial intelligence (AI) and technology"
-    publishedDateTime: 2023-07-25T08:59:00Z
-    webUrl: "https://www.thebusinessdesk.com/south-west/news/5998-fintech-firm-supports-charity-ablaze-with-mentoring-day"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 24
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jul_23/Ablaze-Novia-Financial.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
     publishedDateTime: 2023-07-28T09:58:00Z

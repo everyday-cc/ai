@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
         width: 500
         height: 309
-        isCached: true
-  - title: "Fintech firm supports charity Ablaze with mentoring day"
-    excerpt: "The students visited the Novia Financial office, getting an introduction into financial services as well as discussing artificial intelligence (AI) and technology"
-    publishedDateTime: 2023-07-25T08:59:00Z
-    webUrl: "https://www.thebusinessdesk.com/south-west/news/5998-fintech-firm-supports-charity-ablaze-with-mentoring-day"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 24
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jul_23/Ablaze-Novia-Financial.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Lytus Technologies enters Indian FinTech space with a new payment gateway"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."

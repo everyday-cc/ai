@@ -18,38 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Your Household Robot Should Be A General AI- Like You!"
-    excerpt: "This is a problem that a lot of engineers are thinking about, as noted in Leslie Kaelbling’s presentation on the difference between a robot factory and what happens"
-    publishedDateTime: 2023-07-25T19:50:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-robot-should-be-a-general-ailike-you/"
+  - title: "AI Startups Are Where You Should Look For New Jobs"
+    excerpt: "The hiring landscape is ripe with opportunities, especially when it comes to startups that are focussed on AI and machine learning technology. Read"
+    publishedDateTime: 2023-07-25T18:06:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-startups-are-where-you-should-look-for-new-jobs/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Google's Genesis AI Tool Could Write the News. It Should Be Stopped"
-    excerpt: "As Google CEO Sundar Pichai opened the tech giant's annual I/O developer conference in May, the phrase \"Making AI helpful for everyone\" was emblazoned on the crisp white screen behind him. Pichai noted this idea was the most profound way to advance the company's mission of organizing the world's information."
-    publishedDateTime: 2023-07-27T18:31:00Z
-    webUrl: "https://www.cnet.com/tech/googles-genesis-ai-tool-could-write-the-news-it-should-be-stopped/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 47
-  - title: "Why You Should Create a Plan to Implement Artificial Intelligence Now"
-    excerpt: "Questions to get you started on upskilling and strategic planning that can keep your business ahead of the AI curve."
-    publishedDateTime: 2023-07-26T10:06:00Z
-    webUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 41
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "Z7v/PHVlS1KHpzEPrJ/Xedit5FsrmMhCiI3QH8Omj1d5BVwK3Cng9vzglacqBJvo6vTTW2iX9RQO9Yvthwi5i4XCppjojW+JT8eWxs61FrGWZ2m31/ElmyWEaO4Hz448l5hqSJrVFCXu/IjVmzpir0r2aWelw30Y0iJQ5g5g5JaJac3WMbHrX5hwN5jBUJbux3WjuggAn2HTC56Xs+iGuMjOvtg+ShpqXwbhZyVYpfxSiVUwDE/TcoX5gtTUx6sVWsT/FmRoWH7YTlXSrNu2pY9/Yup4TtNtqU63Oos/PaaHNJOAxaDRb2P595utc0G4PNB9RkcTo5weSw0tBN9HHjYJup5M5+QfhTbI3eNPDIC4h6pE6I5raYlWhJ68I/ECxWfFWSPmDoVGDCXyIRrTM9qvZjsa6nMTALvstaYUo+ljIY+tr4f4CW6bVuoKXADGcYEgnSm/3ZhbGfeURTWhX6NLXwEwKt1v3YnZ+oY9LDhkp5+qbhXyd6857eTSWrXfi1MNRF52nH28HAz5rBJ2gg==;S5fsYZtSjlDwqWl+RGrdGA=="
 ---

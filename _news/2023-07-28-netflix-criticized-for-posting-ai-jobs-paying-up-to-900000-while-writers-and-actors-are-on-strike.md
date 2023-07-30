@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
+    excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
+    publishedDateTime: 2023-07-30T00:52:00Z
+    webUrl: "https://www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
+    ampWebUrl: "https://www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Amid screenwriters' and actors' strike, Hollywood wants Artificial Intelligence experts"
     excerpt: "For a few weeks now, the actors and screenwriters' strike in Hollywood has put the industry in check. There have been weeks of protests and claims of a guild that feels attacked, a"
     publishedDateTime: 2023-07-29T16:46:00Z
