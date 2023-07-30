@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-a
 webUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-about-artificial-intelligence-123505879/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,31 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "NYC is now using AI at some subway stations to track when and how fare evaders are getting through"
-    excerpt: "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement."
-    publishedDateTime: 2023-07-25T17:12:00Z
-    webUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
+  - title: "Startup funding dropped massively in 2023, but AI and climate tech are still winners"
+    excerpt: "A new report has revealed that AI and climate tech startup funding is going well, despite overall investment dropoff."
+    publishedDateTime: 2023-07-27T01:18:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/startup-funding-dropped-massively-in-2023-but-ai-and-climate-tech-are-still-winners/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 30
     images:
-      - url: "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/02/Loam-Co-founders-Tegan-Nock-CPO-and-Guy-Hudson-CEO-_-Rachael-Lenehan-Photography-2.jpg?w=733&h=355&crop=1"
+        width: 733
+        height: 355
         isCached: true
-  - title: "MTA using artificial intelligence to combat fare beaters"
-    excerpt: "The MTA is using artificial intelligence to combat fare beaters  \"with the use of computer technology\" across seven subway stations to extrapolate the number of fare beaters across the subway system."
-    publishedDateTime: 2023-07-29T12:00:00Z
-    webUrl: "https://www.newsday.com/long-island/transportation/mta-lirr-ai-artificial-intelligence-surveillance-u73fcpjl"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 17
 
 secured: "sdGMqKj6hQgjxIPQg2HMnhptrgv61Ad5LJ6bDV8gP2q4c2dBx+Sbw+PUmo2lxuhpPZiElH3yJvfYHfQEBJT6g5Ajo1sAmDhNlOASqpOm5n9QlTfO9+c+cLJ0V5bD62jOMZh+hWSrS/o8rjZOqWGrO2Zzk1E70c9apvwIY/D2dmZGf4zVbMX5tWb7Yo6H9o+txKX0Xi6BdX5pXQ3BZaxvZLUFr7Okoeb7vapYcdoqfoLPTxR6tVOdvdew3a8xGD9Oj4BGlYZT4bBl7I8mYYyRriYLdzOjCrNKSOBj1Wal8r/ValznBCfw9sUg4gLZDiLj9p9Ol7x1J/bjeZ9bmMyuvjr4OBllSJFHRQwIW5IvpGc=;4cm9vzUTsg/vIoN1iMEL7A=="
 ---

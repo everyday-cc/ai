@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 960
     isCached: true
+
+related:
+  - title: "How India Is Using AI To Build The Internet For Local Languages"
+    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
+    publishedDateTime: 2023-07-30T05:45:00Z
+    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KclBr29uFaZYUTDHAUNLaOnXz8wYPPe/5FK6WoxcSYRYpH8G1DqqhtVjoZNxHFXUmUXQzQMkHsX/ISIIe+L0MBXiOv2VUJMLIOkjv4CQ67R1WhqdKjyaqdKkp+XXLgC2WSuG/oULha8V+32MvaEWk30l+udImAz3R/1ivhaiStsX7JaJLe32YJPOYtGqGQbuPaylhtI0sVM+gno8uzg0QpiBMV//LA940AaTMN1bIt2T2HQg/xR+I82HjdSipA5F3tYDWqI+NC/wohCooSV/ZBkO945ouaQ1PDqYbUvCwiAnkFA9/virmcpwRlnx3ONSBqeZM942hVlCGpyP6BZbGZpknhNaTvRwKaX4JVxt6DEvPcBd40U0iLG046EIkVPmYNVc2faDqc2xGVRFzgo9/VVZ1DysRye0efit+ustA3J0fb2iG/JPyf9Ie2mi1aMnb2kIIPoaAFXynw5fAMJ5GGEa8JOELw3wwXbEIjvEk8x6vqg0FWBbJvKK+xbo74fE2spHpUyi+nwfWD3ZK298NA==;6KZCeC+55dcZRsPJ2mh9zQ=="
 ---

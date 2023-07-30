@@ -128,20 +128,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 47
-  - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
-    excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
-    publishedDateTime: 2023-07-25T18:51:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-insights/2023/07/bake-risk-management-and-ethics-into-the-planning-and-implementation-of-your-agencys-ai-projects/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/GettyImages-1449569562-scaled-e1690314487418.jpg"
-        width: 2073
-        height: 1081
-        isCached: true
   - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
     excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
     publishedDateTime: 2023-07-27T03:36:00Z
@@ -156,15 +142,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Job seekers are still intrigued by the tech industry, even after layoffs and the threat of AI"
-    excerpt: "An Indeed analysis suggests people are exploring software development jobs despite concerns over AI, layoffs, and fewer postings."
-    publishedDateTime: 2023-07-25T19:02:00Z
-    webUrl: "https://www.businessinsider.com/jobs-ai-artificial-intelligence-tech-hiring-indeed-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Embedding Artificial Intelligence In Enterprise"
     excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
     publishedDateTime: 2023-07-28T10:02:00Z
@@ -174,15 +151,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 21
-  - title: "AI and the role of the company board"
-    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
-    publishedDateTime: 2023-07-25T18:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
 
 secured: "AsCGh3t/tBIeM/3SUG3bE5p12K60oCCLIEXpRhRDxv4pWXWcSd9QMd/hxZ9KscRMlBwgZ/0uPnXi+YMfzw7l0jMMH8408iCusiBH6V3MHjOSjlYefjnfrZrhbVdyVwove7EujzYLhIZWVS8zvhcVOQNdIgdR7sN1jqYjCu+nOSkxt5rIRWXDYIkeC6LZnwldLxvVZytcZfwk194sHX2unpSzg0tb6cqMPsxQH3sU7ydhaV6qfBlxAHdQNPDBv3Ehr+tT2MVKKg+vGm+eQhplUpJ3ul3XaEOCPC+HlZvwHizcX7TjLA/5yXwPt+kQ+3r3jNy7Yz7yIsEpvqzJPny8BRP7rn59H8aznmg3iDOouyA=;f78VwT4pApM/U3p+hmwQBg=="
 ---

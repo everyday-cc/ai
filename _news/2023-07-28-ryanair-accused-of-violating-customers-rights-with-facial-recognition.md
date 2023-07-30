@@ -130,15 +130,6 @@ related:
       name: The Irish Times
       domain: irishtimes.com
     quality: 34
-  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
-    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
-    publishedDateTime: 2023-07-25T17:17:00Z
-    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 8
 
 secured: "d/mn4NmO4eKKAtlgzvv6mjZbYaVd5v8Uil/5PEv8B+NYmoB4joWXqzB72xcW+MZ7QUN702TI0CrLvhUPj/N7VLcavml7GvhTXWP+gz4muQ5wYh0TAEohziXV8ZOkiCsztIPaIfkhWG4/W/LuiS5qdaAKFiUKoOQzW7C8vRyv4cxsaQVtmKTBa6SUO8OZQ119A5MlzqDgxf9xlw5Qb69R+QbI57TMtbpGVFqfGM3ICJeQdLkuIGukm9LYFLDkWv+tqXHwLl6E05RCbL6Ovr0wZEILEhtUE8tTHNFfQLKAaVzoR8Bg63IcPEMCnrOCbPyjmTS2mw5mBL/FBnrcUznJ5KuqvoQSqX7t9uNLvgIA4/ruehnEGmF/jdOFsQI8ZB+c44dIYHoOfjp+iw9zD1pDTd7uCTn/VjxOS+r5J00z3v0ZHS4RekYO6iLNHVQElDhpbnphK38XihGjgJndJPrMcYqDC2ZPaBzdbT/DG1NfC/Wv+Hf9PsDNJBnvsETT8JBJfVnuiJroJplQ8oZ5a182UQ==;8LARq1///U0YozPC7/RwaQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.msnbc.com/morning-joe/watch/if-artificial-intelligence
 webUrl: "https://www.msnbc.com/morning-joe/watch/if-artificial-intelligence-takes-your-job-ai-should-pay-you-argues-actor-joseph-gordon-levitt-189294661872"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI Startups Are Where You Should Look For New Jobs"
-    excerpt: "The hiring landscape is ripe with opportunities, especially when it comes to startups that are focussed on AI and machine learning technology. Read"
-    publishedDateTime: 2023-07-25T18:06:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-startups-are-where-you-should-look-for-new-jobs/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
 
 secured: "Z7v/PHVlS1KHpzEPrJ/Xedit5FsrmMhCiI3QH8Omj1d5BVwK3Cng9vzglacqBJvo6vTTW2iX9RQO9Yvthwi5i4XCppjojW+JT8eWxs61FrGWZ2m31/ElmyWEaO4Hz448l5hqSJrVFCXu/IjVmzpir0r2aWelw30Y0iJQ5g5g5JaJac3WMbHrX5hwN5jBUJbux3WjuggAn2HTC56Xs+iGuMjOvtg+ShpqXwbhZyVYpfxSiVUwDE/TcoX5gtTUx6sVWsT/FmRoWH7YTlXSrNu2pY9/Yup4TtNtqU63Oos/PaaHNJOAxaDRb2P595utc0G4PNB9RkcTo5weSw0tBN9HHjYJup5M5+QfhTbI3eNPDIC4h6pE6I5raYlWhJ68I/ECxWfFWSPmDoVGDCXyIRrTM9qvZjsa6nMTALvstaYUo+ljIY+tr4f4CW6bVuoKXADGcYEgnSm/3ZhbGfeURTWhX6NLXwEwKt1v3YnZ+oY9LDhkp5+qbhXyd6857eTSWrXfi1MNRF52nH28HAz5rBJ2gg==;S5fsYZtSjlDwqWl+RGrdGA=="
 ---

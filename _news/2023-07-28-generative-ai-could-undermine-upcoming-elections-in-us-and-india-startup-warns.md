@@ -28,54 +28,64 @@ images:
     isCached: true
 
 related:
-  - title: "I read the news today, oh bot! AI-generated anchors are making headlines in India"
-    excerpt: "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor."
-    publishedDateTime: 2023-07-25T17:34:00Z
-    webUrl: "https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
+  - title: "Web3 And AI Startup ZYBER 365 Turns India's 109th Unicorn"
+    excerpt: "Opinions expressed by Entrepreneur contributors are their own. Web3, AI startup ZYBER 365 raised $100 million in Series A funding at a $1.2 billion valuation from UK-based SRAM & MRAM Group. The funding worth $1.2 billion valuation has earned Web3 ..."
+    publishedDateTime: 2023-07-26T06:06:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/web3-and-ai-startup-zyber-365-turns-indias-109th-unicorn/456418"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/271ff7632abffc820373fb010c3f7388a8ab26bc/2023/07/25/81a5dbb3-5ffc-4dad-84e9-559ee4ef24e8/lisa.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690351209-Untitleddesign-2023-07-26T112702809.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "AI-generated anchors are making headlines in India"
-    excerpt: "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor."
-    publishedDateTime: 2023-07-25T18:27:00Z
-    webUrl: "https://www.zdnet.com/article/ai-generated-anchors-are-making-headlines-in-india/"
+  - title: "AI startup ZYBER 365 secures $100 million in funding led by SRAM & MRAM"
+    excerpt: "The latest funding has earned the Web3, AI startup a unicorn status, making ZYBER 365 the 109th unicorn in India's vibrant start-up ecosystem"
+    publishedDateTime: 2023-07-26T06:27:00Z
+    webUrl: "https://www.indiaretailing.com/2023/07/26/ai-startup-zyber-365-secures-100-million-in-funding-led-by-sram-mram/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "How India Is Using AI To Build The Internet For Local Languages"
-    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
-    publishedDateTime: 2023-07-30T05:45:00Z
-    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 39
+      name: indiaretailing
+      domain: indiaretailing.com
+    quality: 37
     images:
-      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
+      - url: "https://www.indiaretailing.com/wp-content/uploads/2017/03/artificial-intelligence-2.jpg"
+        width: 681
+        height: 400
         isCached: true
-  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
-    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
-    publishedDateTime: 2023-07-27T13:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
+  - title: "AI startup ZYBER 365 claims unicorn status, secures $100 M in Series A funding"
+    excerpt: "The funding round was led by UK-based SRAM & MRAM Group. ZYBER 365 becomes the 109th unicorn in India's startup ecosystem and the first unicorn this year."
+    publishedDateTime: 2023-07-26T05:10:00Z
+    webUrl: "https://yourstory.com/2023/07/ai-startup-zyber365-secures-100-million-funding"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 14
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/funding-1678865272988.png?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "qBlhbR7DBb+Vz04W13GielkODKMTZ3Zds4dyeuBB18vA3ByTN6tWwfq3Qcp1CZbvGJFXoOjYjLx+cD5xF9DCsQZHOrKxEcQW5j/ISHSN4cYzErLmGgAdUQxfjgKI/DziSrh7nfgcqYjyc92j5uU1tWmuUQIQK5BaEYbJpYJ97cvluZtl0vA7jMy4qoS19vppaXOx3sy0R5USK2t9kmpDejhs+dneVvF46Olpxs6n6oJ2zz5xn+IiK100XsWc+Vpik4j31JO3gHJhR+xQCgoRw0HQJ2EGljA+x/ZVzxVAsHBzoKt1VjgaM1UOP7CS64Ie+Wduqz4DEXH9lKRXdydEYmB4zyMBvb3d6GwdAzWEq4MXD4Yv3i34Ov81RhT1IOwV7f1WF8u6v8Ya8oJtMpImO2GIoPQzwHSPjigR/EASuYnZAjWGFKtjba+pQ24ejMc18boyIsU+Let9236iX9eH26h3nqYu8Ohpwe9B3vGhDcOdjajCvKkQVumByMLYCiUoqhgHUjtw48ekAI31BDkVzA==;/24ySamedzWXie8SZbl8Cg=="
 ---

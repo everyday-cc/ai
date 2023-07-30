@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
+    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
+    publishedDateTime: 2023-07-28T16:18:00Z
+    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI startup ZYBER 365 claims unicorn status, secures $100 M in Series A funding"
     excerpt: "The funding round was led by UK-based SRAM & MRAM Group. ZYBER 365 becomes the 109th unicorn in India's startup ecosystem and the first unicorn this year."
     publishedDateTime: 2023-07-26T05:10:00Z
@@ -51,6 +65,22 @@ related:
       - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/funding-1678865272988.png?fm=png&auto=format"
         width: 800
         height: 400
+        isCached: true
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "1WwI0EzZps4FQ39MiQw0ISd+oVhngQw1+8JgDzH+86qiRg5FQwNgG4DUgP7LaM7wQWo/Vv/NQ9S8BTkLi99cknEuB422JFyh3NyHL1kWb5Pz9fDJTYIZDb0TbYwPGV40eOz857dVF9ofBdCmACOYhbKtJdwFK0iqKG94M052uysD3cBdgFl0WqFpr4sPF+xDhriUrm/LsUHMBatrHNbuIF4fKj86tGxoHxBFbZIZa6bwA7rTdApjKUkshINJhqHKb0YnMjwPrAYHNa3jBuboloEWQ5krWGvHgMkY5GqpsTrGtV87y9qaRs7a+rTZ+ek0K+hdtxMGE2bP5kVdnwBY6iRI8L/TKWGHO2dnqhPFiN1h/lp6GH/bEuLCPg0ueF3JNGq5Gq/mazbN/1EEn2zqGEfaIwas6q1O+hOH1fuKZdSeoPHrfort2UywEaLBDTt5dCLW22ZnbJtb2NuDxkSrmzi1VE+VBtrEy2pVScuFrC7x4z+oy7d42gyTYlFlfrw/ap8C/MJUe/6aRGu9qfJvtg==;L+Lfd5G3RLvURDK2My46gg=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/openai-discon
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Ars Technica
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’"
-    excerpt: "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\""
-    publishedDateTime: 2023-07-25T17:38:00Z
-    webUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/"
-    ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-183374100.jpg?resize=1200,805"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "OpenAI pulls its own AI detection tool because it was performing so poorly"
     excerpt: "When OpenAI rolled out its AI detection tool earlier this year, its creators called it 'imperfect.' That was apparently generous."
     publishedDateTime: 2023-07-26T15:03:00Z
@@ -76,15 +60,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
-    excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."
-    publishedDateTime: 2023-07-25T17:50:00Z
-    webUrl: "https://www.cnn.com/2023/07/25/tech/openai-ai-detection-tool/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "+auZ5YBIruYSLVpJIk0o7jBZctIFE6tzZoK9+p4vVmnPloa2rNft5lsh8a5Cvw7YDjUe36u28Jj5dCaVhld9DvmQIRE3ld3p0FYZOC6LAqe6OmlNWpNbjDYvwgLleefgix7Pchoqi/92/gehbqu2id5lDaPzCc7MuRYlsKgmFgcm7TGR7kaIo5yohiwvEFCsYqN/eihd+Jo+QvUacA/vWy5YMKwSC8q5iNaVDB7GCBay13pIFpCoo/HBDGxJuJ6OIGPJ0mnpOXNigbcXKBDkeS3s7fBKXZfCEqQq85+h/vzVzsxrjeXIKUn2fQ79SjAGIZ0Ks+2lMfc5W07ijS6nJg0Ooy3AVTrnQQ4fByZ4GTZgXU6wXQvHfONBSVPwlcIMtnIWCBHaw7r+1J37GqDchAvsTsDYOjycDX8RahyqIO7bBrc2i3j6EJaKF64Z6WylTIdrsi+tlELKcVWMe8NQdLapt/iPGsXVT6PtlGAtg2DjebNEU0CyJrnXfKURSUYGgln+xN3dJFacSJZ6Xgrr4g==;0GWLERqPJv9CwXEHbeO6hw=="
 ---

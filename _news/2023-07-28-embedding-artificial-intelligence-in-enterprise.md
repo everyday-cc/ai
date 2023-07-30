@@ -130,20 +130,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 47
-  - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
-    excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
-    publishedDateTime: 2023-07-25T18:51:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-insights/2023/07/bake-risk-management-and-ethics-into-the-planning-and-implementation-of-your-agencys-ai-projects/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/GettyImages-1449569562-scaled-e1690314487418.jpg"
-        width: 2073
-        height: 1081
-        isCached: true
   - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
     excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
     publishedDateTime: 2023-07-27T03:36:00Z
@@ -158,24 +144,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Job seekers are still intrigued by the tech industry, even after layoffs and the threat of AI"
-    excerpt: "An Indeed analysis suggests people are exploring software development jobs despite concerns over AI, layoffs, and fewer postings."
-    publishedDateTime: 2023-07-25T19:02:00Z
-    webUrl: "https://www.businessinsider.com/jobs-ai-artificial-intelligence-tech-hiring-indeed-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "AI and the role of the company board"
-    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
-    publishedDateTime: 2023-07-25T18:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
   - title: "The Role of Artificial Intelligence in Improving Business Efficiency"
     excerpt: "The incorporation of artificial intelligence (AI) has emerged as a game-changer in a business environment that is revolutionizing the way organizations work and reach peak efficiency. It is impossible to overestimate the contribution of AI in increasing company efficiency,"
     publishedDateTime: 2023-07-26T12:18:00Z

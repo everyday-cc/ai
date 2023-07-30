@@ -118,15 +118,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
-    excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"
-    publishedDateTime: 2023-07-25T18:42:00Z
-    webUrl: "https://time.com/6297575/ai-film-hollwyood/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
   - title: "Netflix invests more than half a million dollars in machine learning role amid SAG, WGA strikes"
     excerpt: "As writers and actors continue to strike in demand for fair pay, streaming giants are investing their money into artificial intelligence, and Los Gatos-based company Netflix is leading the way."
     publishedDateTime: 2023-07-26T23:43:00Z
@@ -152,20 +143,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "As Actors Strike for AI Protections, Netflix Lists $900,000 AI Job"
-    excerpt: "Hollywood executives said writers’ and actors’ strike demands like raising wages and protecting actors’ likenesses from AI was “unrealistic.”"
-    publishedDateTime: 2023-07-25T17:32:00Z
-    webUrl: "https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 39
-    images:
-      - url: "https://theintercept.com/wp-content/uploads/2023/07/Hollywood-sign-Artificial-Intelligence-zwei.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Hollywood writers fear losing work to AI"
     excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
     publishedDateTime: 2023-07-27T09:01:00Z

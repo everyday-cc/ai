@@ -130,15 +130,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
-  - title: "The new universe of Artificial Intelligence"
-    excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
-    publishedDateTime: 2023-07-25T18:16:00Z
-    webUrl: "https://www.gulftoday.ae/opinion/2023/07/25/the-new-universe-of-artificial-intelligence"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 19
   - title: "Top tech companies form group seeking to control AI"
     excerpt: "Anthropic, Google, Microsoft and OpenAI team up to establish best practices but critics argue they want to avoid regulation"
     publishedDateTime: 2023-07-26T10:00:00Z

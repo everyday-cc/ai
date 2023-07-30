@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/"
 type: article
 quality: 121
-heat: 391
+heat: 381
 published: true
 
 provider:
@@ -338,15 +338,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Fox Expands AI-Powered Highlights System with AWS"
-    excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
-    publishedDateTime: 2023-07-25T18:38:00Z
-    webUrl: "https://www.tvtechnology.com/news/fox-expands-ai-powered-highlights-system-with-aws"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 34
   - title: "AWS launches major GenAI push, debuts new offerings at NYC Summit"
     excerpt: "Generative artificial intelligence (GenAI) will transform every application, industry and business and is finally taking shape due to an assortment of technological advances, Swami Sivasubramanian, vice president of database,"
     publishedDateTime: 2023-07-28T00:28:00Z

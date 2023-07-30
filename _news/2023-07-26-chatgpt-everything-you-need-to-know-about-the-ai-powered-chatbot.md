@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 321
+heat: 311
 published: true
 
 provider:
@@ -214,20 +214,6 @@ related:
       - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/07/mojahid-mottakin-lmhMI34pPMA-unsplash.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "ChatGPT broke the Turing test — the race is on for new ways to assess AI"
-    excerpt: "In a test consisting of a series of brightly coloured blocks arranged on a screen, most people can spot the connecting patterns. But GPT-4, the most advanced version of the AI system behind the chatbot ChatGPT and the search engine Bing,"
-    publishedDateTime: 2023-07-25T17:19:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-02361-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 38
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02361-7/d41586-023-02361-7_25825038.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "ChatGPT is a black box: how AI research can break it open"
     excerpt: "Despite their wide use, large language models are still mysterious. Revealing their true nature is urgent and important."

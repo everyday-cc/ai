@@ -35,6 +35,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla initiates email drive for Full Self-Driving transfer to customers"
+    excerpt: "San Francisco: Elon Musk -run Tesla has started a new email campaign to urge Tesla owners who have the Full Self-Driving (FSD) package to upgrade to a new car and transfer the FSD package."
+    publishedDateTime: 2023-07-30T10:25:00Z
+    webUrl: "https://telanganatoday.com/tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 54
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/07/Tesla-recalls-nearly-16K-Model-S-and-Model-X-vehicles-due-to-seat-belt-issue.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Elon Musk says Tesla’s new Full Self-Driving update is ‘mind-blowing,’ but that doesn’t mean much anymore"
     excerpt: "Elon Musk says Tesla’s upcoming new Full Self-Driving v12 update is “mind-blowing,” but that doesn’t mean much coming from"
     publishedDateTime: 2023-07-27T14:21:00Z

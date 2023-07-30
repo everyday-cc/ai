@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsday.com/amp/long-island/transportation/mta-lirr-ai-a
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/transportation/mta-lirr-ai-artificial-intelligence-surveillance-lqz1iyc1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "MTA using artificial intelligence to combat fare beaters"
+    excerpt: "The MTA is using artificial intelligence to combat fare beaters  \"with the use of computer technology\" across seven subway stations to extrapolate the number of fare beaters across the subway system."
+    publishedDateTime: 2023-07-29T12:00:00Z
+    webUrl: "https://www.newsday.com/long-island/transportation/mta-lirr-ai-artificial-intelligence-surveillance-u73fcpjl"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 17
 
 secured: "F5k9sjUghqZEFyMsX1ybatutjwgEEGH1RDEXGMvcb5YF000ZOjqubqfRJmKMvLkNbsbMql/cPiLllyCRidX1pYcR0Jw36DS7FW3joN7czBny/443p1McvTOWxtue4PfM7reK7T3m2VJYvjRr73vBC/ut+PW1R17C+Or9npXgTRe5ohZiKvKHoARKAZpZWS691s6AmG6U9q9jDuz5UUJAJqpvNhAp4SmMXOW2JFlEgA+z0tCgmoVcqvQ29qCkYPARYlGDJBHIWY34D29Gvub2UqpJ8H9ImW33ll/C3wjZtRQUDLNK8edbPsl6kU4/lPzMguxeeis22XUBkBPomn8kB6kDkl6+JJwCI2+uon7yaUMiZZqVqUT5MWNP2jVRiseqsFEv7oYfQMpHBfxXG+CDsGeHUYVMg8axSjdjHpAZQ5kPTKOFcXhuECwEssPrPyQJTvKO0ItBGUrbzbTQWJ2FJ9eutqBIm3owY8DCAUBHYWDVkEiLRsRYzHZVR/gdsXDnDYv3ZsP4to4Oig5/2pMtjA==;jn7F7fw+8DBgwTre0Gjsmw=="
 ---

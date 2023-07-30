@@ -333,15 +333,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
-  - title: "Fox Expands AI-Powered Highlights System with AWS"
-    excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
-    publishedDateTime: 2023-07-25T18:38:00Z
-    webUrl: "https://www.tvtechnology.com/news/fox-expands-ai-powered-highlights-system-with-aws"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 34
   - title: "AWS launches major GenAI push, debuts new offerings at NYC Summit"
     excerpt: "Generative artificial intelligence (GenAI) will transform every application, industry and business and is finally taking shape due to an assortment of technological advances, Swami Sivasubramanian, vice president of database,"
     publishedDateTime: 2023-07-28T00:28:00Z

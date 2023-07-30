@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-c
 webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
 type: article
 quality: 84
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -135,15 +135,6 @@ related:
       name: Metro
       domain: metro.co.uk
     quality: 34
-  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
-    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
-    publishedDateTime: 2023-07-25T17:17:00Z
-    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 8
 
 secured: "Z0oZ6Ed0Q9IxNfdP1w/sCTroLAqQh6SfSfkOuWWJ1o3pWs9LKoby48KbINqCM1gSz9g++AVJkCSelpq2JnpsORNK+B1cJvjCle6h/P/P9oUmdGKcWq+yGTe+yoy+WuCchUMckPYa/GjbLplB9JGOYKx85EvVQiJ7o694Lk6WXxsKnpO+iTm+In1ah41et6yD5DG/lVTMm3Pbo5mDYUDI/2P58QwsvdahQ2ZscOaBWOI3kemTtF9s5P55PZjHSbNYW4zFJibfFl3GHN9pqRipN/AwwwbQcwCC0ZWe5DsITRhIuJfZzG+75eLLHwfpjfQZ8JHL5pcvMVMs7pYYy9yCqJ2Mv7f1qrKVjAAZdS2EHTnLQ2Em+zpkBAYP+dlBAiDloRFRVhiCSSz4lo+2BNi54JIpkBkLepuaBSsiCWCRGvM5jvnHU0rLDf7OIJyW8vyLzbmsn4ASXshc8UHu8Ywz9ogkTb8Zo+XIYUs4CqvaDntA/llSKT15WdaIeAIYgHBDc69rDhI1g6mBoM9q3DliOQ==;0zC44mJsYiGjnxPXqQG9rQ=="
 ---

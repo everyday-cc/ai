@@ -131,15 +131,6 @@ related:
       name: Metro
       domain: metro.co.uk
     quality: 34
-  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
-    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
-    publishedDateTime: 2023-07-25T17:17:00Z
-    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 8
 
 secured: "o2kO4Z0aSFDlmPG2PgAOwIDPNdCAeyZmsi+zSl6wDOVM63r3iYRpU1Jdd6cN51M7J7MUFj4ugpnFyCzZtUTq68AYmBfmrwYNE2qAoFjNwidwQwhy+jecSD/ewhPrrE7VhnMb+SBgsx+S/HAbW7AvDSgeb+n2yOfTkeeEtE8jJ0CiMIlVcwt8Vlq6z1Ei/5iexJJsR2Ap+rKnjGKuDSEl99NxRQB+L1BVKypURlytP/CV5aBZ0hok6GlpV4qfULqeAgRJ31CPjkIhCF2UTnaPtX2DW/OWzHSycp5WQhY5ldKAeUtc2DTRYKznOIze5rLPJQeGi00bFjuUrAozHRiOxQFRvJhizfRu1PKJQdG4qWTu8uAVcyZc3jPqAmTD9i6pSkQaZFwxpMvtKjzmHu9v9oVIn5WbpwIEdI+uEONOJl04r130i2J2rF4OnJVI/R3Yx3afwee9Vp4ZUN22A2eadrbBjBjZgbvsvFoS7r8jZh0YEeTm+pGj9QSiGILdLpQZM82NA4EHWTOklChiTp+ZlA==;8gOJJyYna4Y4gEmjzr+f3g=="
 ---

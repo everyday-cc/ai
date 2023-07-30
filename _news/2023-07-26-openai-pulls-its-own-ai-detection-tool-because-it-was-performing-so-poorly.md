@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’"
-    excerpt: "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\""
-    publishedDateTime: 2023-07-25T17:38:00Z
-    webUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/"
-    ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-183374100.jpg?resize=1200,805"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "OpenAI discontinues its AI writing detector due to “low rate of accuracy”"
     excerpt: "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy. We are working to incorporate feedback and are currently researching more effective provenance techniques for text, and have made a commitment to develop and deploy mechanisms that enable users to understand if audio or visual content is AI-generated."
     publishedDateTime: 2023-07-26T19:51:00Z
@@ -76,15 +60,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
-    excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."
-    publishedDateTime: 2023-07-25T17:50:00Z
-    webUrl: "https://www.cnn.com/2023/07/25/tech/openai-ai-detection-tool/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "XdUoypNlzJYOW4jQkDSF5lhFw6uQG2rSTtq0A/pPTtVXw6vvm39ACczGcXf+xk5d0yCwKZCcqERW+55ToyLyU45bhK/1nqW9wS3TwP3ucYdmf0f8SnDZLEQxCZ8FiTXs+T94L/jf2HpyKKrbRhpqQhPres5xXmQ1/8N7VntPo64WGNSuH4iHBUcHVkDY/kjo19XbTSl63C6qpVB41j47XqscA0mQfi9VxLPm6j9BoY45a2GNhTtqT43k+p/0YMoFBYb7ZKeoNfuketa0W3U8FTv421ZJxUTSOe8YsybWgj9ILVerv88PzZQc5eBAi3eyeaqO6zv4CUEZM9bh7krEoPzzSo+7ttOWPDrauPo+4dqcCYtLfrWA422VVZkf86n/ndMTrB0xzsPEvIE/SdvJR3udlkgB4zGnD9/BWwwxp2JH3x0h2D+hFg6DGGjHlPXPRWTIu9UjcS/m5nH70xch2zdnK/x81HIyJ0F8MMILraKRiBEecy3uqm7qxd5SdL+X2cyEqDDnCQLjZ+ldJsYWxg==;vjlcsLSov6uIMLFOCUkgCA=="
 ---

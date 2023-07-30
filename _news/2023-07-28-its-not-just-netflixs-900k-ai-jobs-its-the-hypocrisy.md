@@ -118,15 +118,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
-    excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"
-    publishedDateTime: 2023-07-25T18:42:00Z
-    webUrl: "https://time.com/6297575/ai-film-hollwyood/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
   - title: "Netflix lists $900,000 AI job as actors and writers continue to strike"
     excerpt: "Will this pair of Hollywood strikes ever end? It looks like the big corporations are digging in for a long battle, illustrated by Netflix’s recent job posting for a machine learning platform product manager."
     publishedDateTime: 2023-07-25T19:06:00Z
@@ -151,20 +142,6 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/07/75a94362f5de4b67800b25f2615f4c66-1.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "As Actors Strike for AI Protections, Netflix Lists $900,000 AI Job"
-    excerpt: "Hollywood executives said writers’ and actors’ strike demands like raising wages and protecting actors’ likenesses from AI was “unrealistic.”"
-    publishedDateTime: 2023-07-25T17:32:00Z
-    webUrl: "https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 39
-    images:
-      - url: "https://theintercept.com/wp-content/uploads/2023/07/Hollywood-sign-Artificial-Intelligence-zwei.jpg"
-        width: 2000
-        height: 1000
         isCached: true
   - title: "Hollywood writers fear losing work to AI"
     excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."

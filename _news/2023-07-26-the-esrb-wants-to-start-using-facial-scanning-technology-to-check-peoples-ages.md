@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Changing the Dynamics of Image Processing Technology"
-    excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
-    publishedDateTime: 2023-07-27T05:44:00Z
-    webUrl: "https://www.pcquest.com/ai-changing-the-dynamics-of-image-processing-technology/"
+  - title: "ESRB proposes facial age estimation technology for parental consent"
+    excerpt: "UPDATE 26/07 11:40am: In a statement shared with Eurogamer, the ESRB has clarified its proposed \"Privacy-Protective Facial Age Estimation\" technology is to be used to verify the age of people giving consent for a child."
+    publishedDateTime: 2023-07-26T10:39:00Z
+    webUrl: "https://www.eurogamer.net/esrb-proposes-facial-recognition-age-verification-for-parental-consent"
     type: article
     provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 19
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 24
+    images:
+      - url: "https://assetsio.reedpopcdn.com/AdobeStock_331209580.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wgw3a76FqZzYQ/tKOplUl0zUx1tq3ZfJJVLZIYKwt9DVfajnzS88wvcvQthXVqlpwa9Ib0zqlUqvZlirZBl6HY8rIazW7NsXUDfE+vBAiwDAkGG+iaVlqXm6gyWTKYdfsk+I86sXJOIj2aS6jHH3g2ll9no4Hz1okH3ozJOHdaKnWztLmJ4zh+eNGQmaOKt487yQD+zBt4SjmS8FX9kncY6jaZSF1pM3oMRez9Yh5/VpWQAZ2SEZcM07aV0VdYVwqzUUx2//FpiftFke0TkZK1d6xrqlxSM6yETNJTYqXmLuZn5jv8dHXVc7y70ejsiFcOtqVygcqMalJngTY4sJcoOvJ7U0vZddlivz6CKok6A=;hcdEDCPR4L38iixUTiUq7A=="
 ---
