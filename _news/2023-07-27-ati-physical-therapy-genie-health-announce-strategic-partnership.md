@@ -28,15 +28,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "Deep Longevity and House of Gaia announce strategic partnership to advance longevity research and wellness solutions"
-    excerpt: "Deep Longevity is at the forefront of AI-based longevity science, using deep learning techniques to analyse multiple data types and develop accurate aging clocks. These clocks provide valuable insights into an individual's biological age, offering a ..."
-    publishedDateTime: 2023-07-25T14:22:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/996615"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "naRSHXRjm/ml28tYDDhIlZXuyiP6RUQOo81/3RoDfn/jTvp7FiK4q31+GUEoRSPQYyiqZ+2sqzTVD+TI52ku+r5nUOzBdM5r/xSjR4bLiAYjPs6pCAI53CHG6UK8MykC0woON089JOU9VERDpfLtfQRUyiNxJj/4LztBM0K9EZLfAsP5jexyxiY2PhvuEDZWMRqadLxHtWZW1uBOm+ezsWTS+brNlHAn0pUvok2FjfcmZEmVgylPiVPsjLaW2uKSJXwZ7+13RJprvr9tcCG6ClVZ7A0Ct+IE02if2qcr+G3EE8SCxZxYQaqNhpTFwj7d/3iCpa39ZMmAeww23YK+zPwdMRnV39er0Wef2a/8uEY=;J8VUc5egiHQNbPu+OLDqkw=="
 ---

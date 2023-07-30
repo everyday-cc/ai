@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sa
 webUrl: "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taiwan Semi Invests Outside U.S. to Meet AI Chip Demand as Arizona Plant Delayed"
-    excerpt: "TSMC, the world’s largest contract chip maker, is planning a new facility in Taiwan, while a report also suggests it is close to an investment in Germany."
-    publishedDateTime: 2023-07-25T13:54:00Z
-    webUrl: "https://www.barrons.com/articles/tsmc-taiwan-semiconductor-manufacturing-stock-ai-chips-plant-112e3b3d"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tsmc-taiwan-semiconductor-manufacturing-stock-ai-chips-plant-112e3b3d"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tsmc-taiwan-semiconductor-manufacturing-stock-ai-chips-plant-112e3b3d"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 69
-    images:
-      - url: "https://images.barrons.com/im-461129/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Taiwan chip giant to spend $2.9bn on plant for AI"
     excerpt: "Chip maker Taiwan Semiconductor Manufacturing Company (TSMC) will invest $2.9bn in a packaging facility in northern Taiwan, Reuters reports. “Packaging” in this context means placing a number of chips in a single device."
     publishedDateTime: 2023-07-26T12:31:00Z

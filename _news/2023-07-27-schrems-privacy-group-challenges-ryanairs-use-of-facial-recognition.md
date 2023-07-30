@@ -107,6 +107,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "US cities weigh value of facial recognition for police"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-28T15:14:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Ryanair accused of violating customers’ rights with facial recognition"
     excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
     publishedDateTime: 2023-07-28T12:37:00Z
@@ -116,6 +130,15 @@ related:
       name: Metro
       domain: metro.co.uk
     quality: 34
+  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
+    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
+    publishedDateTime: 2023-07-25T17:17:00Z
+    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 8
 
 secured: "bU1MNbuvwkGVzhowlSigDkufGzFcxbzKObXWtxdKYkik04owQTeCAdEYSPKPnUQoq+vOc/sSc6I6Vp69UiriGX/wGFTlPuwZAGl3ExRTRm2TWY0/Uai9cvvadLbeiXvkBrl++I7QEOtVtkxF+zcK+U4+N2FK9nBYsHEklBJ7NxIbEYB0jPq6XvBElwv/xioXHbnTJsFX0uQ5vbHlZUV90OBVIBna6BqYGVDrh0H1m4IvY1Ny9+5b+RamVnNWc7leKsjL6bIHqqYBbRzrJg79zWaRe8IneEQJikJ+wLg08PBpSdo4kEgs0phqHyGUM0nu6CiXbZSVynGGTBl57EFo2+MqbzHmG+TPsYBgsJ836cjcvM3iGOBSYyPT3IstPzBqXl9Morx46uvTzMnCWPKPa6knJ6T4d7x5FaY8+Qsh8fHWbfDvKb4KGZ2WK6FFNdlKF+KMzZk9qUhVythdVL9OJvRzEnnD5CrCMZkoOTvlGM35MppaKnKPuK/zOKkNUt/Y0m+uM3q0OR6MVh5nOoL2Vw==;n+RHwGsx6+KyojHMh97u3Q=="
 ---

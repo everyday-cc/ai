@@ -52,15 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
-  - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
-    excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
-    publishedDateTime: 2023-07-25T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/25/9853521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "8lkH0VdEZVrZ18nIbgwXE/lAFRGtq28mI0l/b3uKrZQLcxFG0m2PqT27cEEHAz0KNJGf7K3pVG0U76x7ytB95x7mAooyT0tqVXAKjH7cWA9qX8pcfFSQdTqp44v6VUrcXqqpnz44Mz+DF7S+LvTuftXjaF4zciGFGIg6o8R1G9/tlpE+t3kbE/7IEqLRpO5u5vZA6CShb45fbfPlrS5SF3Jrrd8HUjb0+llLiU0yKLG7VzkpUcdMZCBNsL3WhPP+54QtjpzG+wRbCdtuYq/H37VN7rleztDT0IoQmCDgmH85oXKCKddLbbHADRhIgsWlTYXmxK1uktx03C8woHOHcVTwpZ4TPzLuQIHi0/cr8ew=;eSNX1LuNpNS5Go7MoVtHcg=="
 ---

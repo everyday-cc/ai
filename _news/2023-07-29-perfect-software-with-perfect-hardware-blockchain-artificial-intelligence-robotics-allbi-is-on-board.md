@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/perfect-software-w
 webUrl: "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "cSigma Finance Launches AI and Blockchain Powered Debt Capital Platform"
-    excerpt: "PRNewswire/ -- cSigma Finance, a New York based FinTech company, launched a debt capital platform that uses artificial intelligence and blockchain technology to connect credit"
-    publishedDateTime: 2023-07-25T14:10:00Z
-    webUrl: "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/csigma-finance-launches-ai-and-blockchain-powered-debt-capital-platform/article_78f73e7e-b1aa-5f8b-a3cd-3b2c8745823e.html"
-    type: article
-    provider:
-      name: wvnews
-      domain: wvnews.com
-    quality: 34
 
 secured: "lBNvtTjSznIRwxDb5zs++SCvk88FI8ZbiTS0S1B51va7MP8MnpdPnM2ZWndb9FiiBp6GL2WUbitkmq4IEFhdzzhD2VQw2Ek1ErL0TCPhWjktB1jWSYkjJ6r6ferAsNSK/b+UwpezFoSYe+SM+wYpe+CNI8+60sEdI5cwAtcnhNGKyeXr2tQMAYhF28/N/mOPIrc0niSGcePi2q/a/oc9ae6Xpajdu9/23t5un2DQccQKNLBTKaHru86KvdqTGO8euH6JxpkxT72FrYB8S0JM+n/kRJqjm1xZiCEcLy21cOUZYUiO7Dy7TBofv0NHx3wgvHi0WR2XisF5vUpmOJwagZlFgUn/tb6mxhKKdWz2SEnERDu0lrIFkb8ozYLtrGMVFbbZo5ZNN9/mIDu/meDJg4UVhpsx3CZ844lrEbUN8Sf1ZS6OhO/WgPzAVF0ZC2NqkJ8UIvD7gyvv4QVUHVUxsll+MHnmHrw1xgs4UN+e24vjKS8QoD/M9XJzohrMU/tJJgWZv1dcD4QsqQHb1bsIFQ==;2K4poRNu9ItRXAAsviX01w=="
 ---

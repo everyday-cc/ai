@@ -2,6 +2,152 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-06-16-binary-classification-using-a-scikit-neural-network.md",
+      "title": "Binary Classification Using a scikit Neural Network",
+      "excerpt": "Machine learning with neural networks is sometimes said to be part art and part science. Dr. James McCaffrey of Microsoft Research teaches both with a full-code, step-by-step tutorial. A binary classification problem is one where the goal is to predict the ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WeirdSpaceImageSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-a-machine-learning-engineers-guide-to-the-ai-act.md",
+      "title": "A Machine Learning Engineer’s Guide To The AI Act",
+      "excerpt": "EU Parliament passed the EU AI Act. The EU Parliament, Commission and Council will now engage in a final process to negotiate the final version of the law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/",
+      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b4afc51f15116deb12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/",
+      "publishedDateTime": "2023-06-15T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems.md",
+      "title": "EU votes to ban AI in biometric surveillance, require disclosure from AI systems",
+      "excerpt": "The new changes to the European Commission's proposed law—which have not yet been finalized—intend to shield EU citizens from potential threats linked to machine learning technology. The changes come amid the proliferation of generative AI systems that imitate human conversational abilities,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/eu_flag_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/",
+      "publishedDateTime": "2023-06-15T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-how-can-ai-and-machine-learning-improve-the-use-of-financial-data.md",
       "title": "How can AI and machine learning improve the use of financial data",
       "excerpt": "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,",
@@ -1049,145 +1195,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
-      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
-      "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2",
-          "width": 873,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
-      "publishedDateTime": "2023-06-15T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law.md",
-      "title": "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law",
-      "excerpt": "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648a7b3bea640d0f0675c365/0x0.jpg?format=jpg&crop=1589,1192,x266,y22,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-06-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-looking-for-a-career-with-big-money-and-perks-how-much-jobs-in-artificial-intelligence-pay.md",
-      "title": "Looking for a career with big money and perks? How much jobs in artificial intelligence pay",
-      "excerpt": "There’s no question that artificial intelligence is changing our lives. A bot that sounds almost human can author your emails, teach you a new language, book your trip,s or even be your friend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/columnist/komando/2023/06/15/ai-jobs-pay-big-money-perks/70308009007/",
-      "originalUrl": "https://www.usatoday.com/story/tech/columnist/komando/2023/06/15/ai-jobs-pay-big-money-perks/70308009007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x1,y382&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

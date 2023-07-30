@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-vie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
 type: article
 quality: 108
-heat: 528
+heat: 518
 published: true
 
 provider:
@@ -346,20 +346,6 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft earnings preview: Focus on cloud rebound and AI"
-    excerpt: "Microsoft is set to report fourth quarter results on Tuesday with investors focused on cloud growth, AI and any updates on the pending acquisition of Activision Blizzard."
-    publishedDateTime: 2023-07-25T13:40:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-preview-focus-cloud-134041612.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/KNqCJSLlFKyGennVsxgHKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTQ-/https://media.zenfs.com/en/aol_yahoo_finance_433/0ce8a14eb683e51d2a52c1bcabfffae1"
-        width: 1200
-        height: 754
         isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."

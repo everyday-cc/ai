@@ -51,15 +51,6 @@ related:
         width: 894
         height: 447
         isCached: true
-  - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
-    excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
-    publishedDateTime: 2023-07-25T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/25/9853521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "UATtKFu1csjLcYczYbTx4rg7j0U7YV5m3pA4+IlwVu7cgkEpAd3NEJ7bs7LGWna2bn3aAlKTdUv2j2bPvTHFaYAF2jhWDl1yJM32lBv7ceCqM+BSMyDrORfsHBKwEv3TMFM6/tMbrZQsJk64o5u2skzWs7yTntVgXoQPgItBvVzSgf9OJs7gJkC7pwMYsuWyc4DUDUnbWkiKI7ZmMSwPz3qGOZ+scDJ6fnqeK0OBHe2NxeIsxW0k7S7ogmH6EiopDY+aKXq84BL4yafHybS2l+7b6N2D9OhEnGBId2MeCz9U5Zg3YKGpduY5wcvCsN7JOwG3zrzOQFcbUOsI5CtTXBo+JxuR80pP/WaihHZPoX8=;myDgAAGfiJQcXE7SB+rBXg=="
 ---

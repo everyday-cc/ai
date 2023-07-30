@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "MTA using artificial intelligence to combat fare beaters"
+    excerpt: "The MTA is using artificial intelligence to combat fare beaters  \"with the use of computer technology\" across seven subway stations to extrapolate the number of fare beaters across the subway system."
+    publishedDateTime: 2023-07-29T12:00:00Z
+    webUrl: "https://www.newsday.com/long-island/transportation/mta-lirr-ai-artificial-intelligence-surveillance-u73fcpjl"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 17
 
 secured: "sdGMqKj6hQgjxIPQg2HMnhptrgv61Ad5LJ6bDV8gP2q4c2dBx+Sbw+PUmo2lxuhpPZiElH3yJvfYHfQEBJT6g5Ajo1sAmDhNlOASqpOm5n9QlTfO9+c+cLJ0V5bD62jOMZh+hWSrS/o8rjZOqWGrO2Zzk1E70c9apvwIY/D2dmZGf4zVbMX5tWb7Yo6H9o+txKX0Xi6BdX5pXQ3BZaxvZLUFr7Okoeb7vapYcdoqfoLPTxR6tVOdvdew3a8xGD9Oj4BGlYZT4bBl7I8mYYyRriYLdzOjCrNKSOBj1Wal8r/ValznBCfw9sUg4gLZDiLj9p9Ol7x1J/bjeZ9bmMyuvjr4OBllSJFHRQwIW5IvpGc=;4cm9vzUTsg/vIoN1iMEL7A=="
 ---

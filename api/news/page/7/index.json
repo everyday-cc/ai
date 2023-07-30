@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-26-nyc-is-now-using-ai-at-some-subway-stations-to-track-when-and-how-fare-evaders-are-getting-through.md",
+      "title": "NYC is now using AI at some subway stations to track when and how fare evaders are getting through",
+      "excerpt": "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
+      "originalUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp",
+      "publishedDateTime": "2023-07-25T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-a-translator-for-your-kids-how-using-ai-as-a-parenting-co-pilot-will-help-parents-communicate-better.md",
       "title": "A translator for your kids: How using AI as a 'parenting co-pilot' will help parents communicate better",
       "excerpt": "With ChatGPT and other artificial intelligence tools, mom and dad can now access massive amounts of parenting knowledge at their fingertips.",
@@ -54,6 +105,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-25-esrb-proposes-using-facial-recognition-to-verify-your-age.md",
+      "title": "ESRB Proposes Using Facial Recognition To Verify Your Age",
+      "excerpt": "The Entertainment Software Rating Board (ESRB) has asked the FTC for approval to use facial recognition technology to help determine how old a user is. Using something called Privacy-Protective Facial Estimation, a person's age would be estimated based on a photo to verify they are old enough to purchase a game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
+      "originalUrl": "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/",
+      "publishedDateTime": "2023-07-25T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft.md",
       "title": "Generative AI Views Of MIT Prof And Goldman CIO Bode Well For Microsoft",
       "excerpt": "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue",
@@ -62,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 528,
+      "heat": 518,
       "tags": null,
       "images": [
         {
@@ -116,7 +210,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1168,110 +1262,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-tsmc-to-invest-29-billion-in-advanced-chip-packaging-plant-in-taiwan.md",
-      "title": "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan",
-      "excerpt": "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html",
-      "publishedDateTime": "2023-07-24T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-artificial-intelligence-is-rewriting-the-rules-of-us200-billion-video-games-industry.md",
-      "title": "Artificial intelligence is rewriting the rules of US$200 billion video games industry",
-      "excerpt": "From San Francisco to Tokyo and Hong Kong, the companies that power the digital entertainment sphere are responding to decades of escalating costs and stagnant prices by adopting and developing new AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/25/728a8e3b-ab0b-4a50-ad2c-b82c189f4353_04f6242c.jpg?itok=6jwOZYNo&v=1690256330",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-28-skin-cancer-diagnosis-exploring-reinforcement-learning-for-improved-performance-of-ai.md",
+      "title": "Skin cancer diagnosis: Exploring reinforcement learning for improved performance of AI",
+      "excerpt": "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice. An international research team led by Harald Kittler of MedUni Vienna has now explored a learning method in which greater accuracy in AI results can be achieved by incorporating human decision-making criteria.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/skin-cancer-diagnosis.jpg",
+          "width": 1817,
+          "height": 2025,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-skin-cancer-diagnosis-exploring-ai.amp",
+      "publishedDateTime": "2023-07-28T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
+      "title": "Researchers successfully train a machine learning model in outer space for the first time",
+      "excerpt": "For the first time, researchers have trained a machine learning model in outer space, on board a satellite. This achievement could enable real-time monitoring and decision making for a range of applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/researchers-successful-2.jpg",
+          "width": 1280,
+          "height": 1508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-successfully-machine-outer-space.amp",
+      "publishedDateTime": "2023-07-28T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023.md",
       "title": "Announcing the AI Stage agenda at TechCrunch Disrupt 2023",
       "excerpt": "AI is everywhere it seems, and you’ll find plenty of hot topics on the agenda for the new AI Stage at TechCrunch Disrupt 2023. Check it out!",
@@ -482,7 +568,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -726,7 +812,7 @@
       "originalUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -932,7 +1018,7 @@
       "originalUrl": "https://www.koreaherald.com/view.php?ud=20230728000502&np=1&mp=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1117,109 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-why-ai-cant-read-body-language-yet.md",
-      "title": "Why AI Can’t Read Body Language . . . Yet",
-      "excerpt": "A computer can detect the slightest microexpression, but when it comes to decoding the nuances of body language, technology has a long way to go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/",
-      "originalUrl": "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2f7b3c4a08b76f316a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/",
-      "publishedDateTime": "2023-07-27T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command.md",
-      "title": "Stable Diffusion XL puts AI-generated visual worlds at your GPU’s command",
-      "excerpt": "On Wednesday, Stability AI released Stable Diffusion XL 1.0 (SDXL), its next-generation open weights AI image synthesis model. It can generate novel images from text descriptions and produces more detail and higher-resolution imagery than previous versions of Stable Diffusion.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/",
-      "publishedDateTime": "2023-07-27T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Face recognition technology for pensioners soon"
+    excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."
+    publishedDateTime: 2023-07-28T00:29:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/face-recognition-technology-for-pensioners-soon-529577"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 19
   - title: "Google supercharges Maps voice commands with Assistant speech recognition"
     excerpt: "Google Maps has replaced the old and outdated Speech Services voice input option with an integrated Google Assistant card"
     publishedDateTime: 2023-07-27T20:01:00Z

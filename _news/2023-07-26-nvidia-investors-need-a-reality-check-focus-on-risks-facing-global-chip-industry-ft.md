@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33383070"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33383070"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI"
-    excerpt: "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article."
-    publishedDateTime: 2023-07-25T14:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 77
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg"
-        width: 2314
-        height: 1296
-        isCached: true
-  - title: "Elon Musk says Tesla’s new Full Self-Driving update is ‘mind-blowing,’ but that doesn’t mean much anymore"
-    excerpt: "Elon Musk says Tesla’s upcoming new Full Self-Driving v12 update is “mind-blowing,” but that doesn’t mean much coming from"
-    publishedDateTime: 2023-07-27T14:21:00Z
-    webUrl: "https://electrek.co/2023/07/27/elon-musk-tesla-full-self-driving-update-mind-blowing/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 52
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Gf0OIhfzB/J79kwiaGRuQ0HwfmxUcGAwerUXYnohsN+PIB9LniZqTN9Rsp1obSXh511DRiDDS9PxvXw096VCdKQnuXN2xu6N2c5aVvwbkZICTQEtJ4x/G1OHBW4rhXsLWH8OiIEmu7RK/DQ0OD+wCHIfUMVWJ8tJmGtYUVDpBWctNdT+8bn+V5aaQspuT/olpxgVmoys7ROBBy2iu3PxhyrjOrWUmuICxpvYphwpvu7ef1nE6FSJehCEArNrjkFDYe0PCjR09DqdnrYz10g2aZDZhhNdMZ5AWLWV0uFAHZouGLU+20cz9toaA5fUoZzHnqRP0+AUuEqW1mCNIkbNn+gzetqAB4U+faTZz9GkLsM=;AUIW9326kfB4Syku3GIUOg=="
 ---

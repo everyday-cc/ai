@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/"
 type: article
 quality: 121
-heat: 401
+heat: 391
 published: true
 
 provider:
@@ -356,15 +356,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 34
-  - title: "DocuSign Launches New AI-Powered ID Verification Solution"
-    excerpt: "This enhancement to DocuSign's ID Verification solution is another step in the company's use of AI to strengthen its suite of agreement products. DocuSign recently announced the launch of Agreement Summarization, enabled by an integration with Azure's ..."
-    publishedDateTime: 2023-07-25T14:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/25/9853396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
     publishedDateTime: 2023-07-26T18:23:00Z

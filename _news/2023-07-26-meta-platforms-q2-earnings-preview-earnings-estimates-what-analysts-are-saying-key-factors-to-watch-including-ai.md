@@ -28,24 +28,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "Alphabet Q2 Earnings Preview: Earnings Estimates, Artificial Intelligence Growth And Other Key Factors To Watch"
-    excerpt: "Technology giant Alphabet Inc (NASDAQ: GOOG)(NASDAQ: GOOGL) is set to report second quarter financial results after market close Tuesday."
-    publishedDateTime: 2023-07-25T14:58:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/previews/23/07/33370960/alphabet-q2-earnings-preview-earnings-estimates-artificial-intelligence-growth-and-other-k"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33370960"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33370960"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/25/alphabet_shutter.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "bVW/YaOxpt7VEkYRJLbYVazJfiIqnI2kQ/dVv//uaDSH6ohQGEt1Z32rIlC4oT0JOjxOSkjqdXv0tmBnJY8i9Tsq5G5AkCJZAtl6X2XFv3VHLQWVg+nhVFI0qSrGZsUHVW1Smg+34EWhs/Av70uvjIuhF7F9CPQe7BnZP61rsiETlFHKrcryDAZXvan7Ec1ZP6djsrflOpaNOfAKP53MORtZDKcloIRwBGh6KuJHAVvDapBcPWN1tC8rkO3SysAejKbYjXag9Zt1RAQY+p52LZQ0x2RpZGXhttzbcFLgjWVET+XUWHldRLe2xV39hAe1RyT0OgIGlHePZscW4wDgsNz0ksVWAu0nxrAD0V9JOnGqTKDGq5FyreuBtI3VQFS7TnQ463cdCgHUeFRbNvnyv2/BOKpvNh/dTGXsotEvrsh4EyjMIEGXPmN+iaa5tvcX6+UYn7MXV5HItcq/uYI1xqcgXk4C8xDpZgfIGWfc1doSeVZFQZZpn+7/JEuLKiJYHvgAWxpbSXNXHXKQ6Kqf8Q==;hXC+zqOFHrS+45vhuE/UBQ=="
 ---
 

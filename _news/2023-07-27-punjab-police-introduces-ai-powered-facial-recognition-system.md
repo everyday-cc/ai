@@ -25,165 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "The ESRB Wants To Use ‘Facial Age Recognition’ AI Tech For Game Sales"
-    excerpt: "Apparently we have come a long way from when I used to have to ID kids buying M-rated games when I worked as a cashier at Best Buy. The ESRB is now pitching the FTC on new technology called “Privacy-P"
-    publishedDateTime: 2023-07-25T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
+  - title: "Facial recognition system implemented at Incheon Airport"
+    excerpt: "Incheon Airport said it has begun utilizing preregistered facial information to streamline the departure process for passengers from Friday. Dubbed the \"facial recognition smart pass service,\" the newly launched service will allow passengers to quickly pass through the identification process at departure and boarding gates without having to show their passports and boarding passes to security personnel."
+    publishedDateTime: 2023-07-28T05:09:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230728000502&np=1&mp=1"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230728000502"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230728000502"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bfd82b558f8d11e6143289/0x0.jpg?format=jpg&width=1200"
-        width: 870
-        height: 504
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F07%2F28%2F20230728000521_0.jpg"
+        width: 630
+        height: 451
         isCached: true
-  - title: "ESRB Proposes Using Facial Recognition To Verify Your Age"
-    excerpt: "The Entertainment Software Rating Board (ESRB) has asked the FTC for approval to use facial recognition technology to help determine how old a user is. Using something called Privacy-Protective Facial Estimation, a person's age would be estimated based on a photo to verify they are old enough to purchase a game."
-    publishedDateTime: 2023-07-25T16:50:00Z
-    webUrl: "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
+  - title: "South Korea’s Incheon Airport implements facial recognition system for both Koreans and foreigners"
+    excerpt: "In order to use the new service, a passenger must either download the ICN Smartpass application on their phones from Apple’s App Store or the Google Play store, or use the self check-in kiosk machines at the airport to register their facial information into the smart pass service."
+    publishedDateTime: 2023-07-28T09:58:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/south-korea-s-incheon-airport-implements-facial-recognition-system-for-both-koreans-and-foreigners"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 59
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 40
     images:
-      - url: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg"
-        width: 480
-        height: 270
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/28/yuincheonairport2807.jpg"
+        width: 860
+        height: 573
         isCached: true
-  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
-    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
-    publishedDateTime: 2023-07-29T15:11:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+  - title: "S. Korea’s Incheon Airport implements facial recognition system for travellers"
+    excerpt: "Incheon Airport said it has begun using pre-registered facial information to streamline the departure process for passengers from Friday (July 28)."
+    publishedDateTime: 2023-07-28T12:19:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/28/s-koreas-incheon-airport-implements-facial-recognition-system-for-travellers"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
-    images:
-      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "US cities could start banning facial recognition again"
-    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
-    publishedDateTime: 2023-07-27T21:55:00Z
-    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
+      name: The Star
+      domain: thestar.com.my
+    quality: 30
+  - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
+    excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."
+    publishedDateTime: 2023-07-27T13:37:00Z
+    webUrl: "https://www.freepressjournal.in/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
+    ampWebUrl: "https://www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "New ESRB Move Requests Facial Recognition To Age Check Gamers"
-    excerpt: "A new move from the ESRB might be deemed too invasive for gamers privacy. Age checking for video games may require photos of players."
-    publishedDateTime: 2023-07-25T14:58:00Z
-    webUrl: "https://gameranx.com/updates/id/471636/article/new-esrb-move-requests-facial-recognition-to-age-check-gamers/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 39
-    images:
-      - url: "http://gameranx.com/wp-content/uploads/2023/07/FEATURED_Rating-Cat-Breakdown-1024x576-1.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "US cities weigh value of facial recognition for police"
-    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
-    publishedDateTime: 2023-07-28T15:14:00Z
-    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "ESRB seeks FTC approval for facial age estimation AI for digital game purchases"
-    excerpt: "The Entertainment Software Ratings Board (ESRB) has proposed the use of facial recognition technology as a means of age verification. The ESRB wants FTC"
-    publishedDateTime: 2023-07-25T16:43:00Z
-    webUrl: "https://www.onmsft.com/news/esrb-seeks-ftc-approval-for-facial-age-estimation-ai-for-digital-game-purchases/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 35
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/facial-age-recognition-ai-esrb-Custom.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "ESRB plans “facial age estimation” checker for age verification"
-    excerpt: "The video game rating board for the US, the ESRB, has had its new plans unearthed after the FTC put them up for public opinion. Dubbed Privacy-Protective Facial Age Estimation, the tech would allow parents to upload a photo of themselves to give permission to their child to play certain games."
-    publishedDateTime: 2023-07-25T17:39:00Z
-    webUrl: "https://www.dexerto.com/tech/esrb-plans-facial-recognition-age-checker-for-age-verification-2224056/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 24
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/07/25/esrb.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "ESRB proposes facial age estimation technology for parental consent"
-    excerpt: "UPDATE 26/07 11:40am: In a statement shared with Eurogamer, the ESRB has clarified its proposed \"Privacy-Protective Facial Age Estimation\" technology is to be used to verify the age of people giving consent for a child."
-    publishedDateTime: 2023-07-26T10:39:00Z
-    webUrl: "https://www.eurogamer.net/esrb-proposes-facial-recognition-age-verification-for-parental-consent"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 24
-    images:
-      - url: "https://assetsio.reedpopcdn.com/AdobeStock_331209580.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face recognition technology for pensioners soon"
-    excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."
-    publishedDateTime: 2023-07-28T00:29:00Z
-    webUrl: "https://www.tribuneindia.com/news/himachal/face-recognition-technology-for-pensioners-soon-529577"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 19
-  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
-    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
-    publishedDateTime: 2023-07-25T17:17:00Z
-    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 8
-  - title: "The ESRB Wants to Start Using Facial Scanning Technology to Check People's Ages"
-    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
-    publishedDateTime: 2023-07-25T19:43:00Z
-    webUrl: "https://cacm.acm.org/news/274951-the-esrb-wants-to-start-using-facial-scanning-technology-to-check-peoples-ages/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 0
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 27
 
 secured: "+7STJcTyaS8jB4DyFG8m+CuCJ7R2raYv+UWSGSvFmDWwpntn/4YCDHhZqH9y8WYrTCFcR00iLvSXeEQLDxtNXPD2z/l8Ep61hxWZRjafkaHwo8wURfFn0h+nSCguGaZjNd1BeLrJyAJed2YyK76FXuu4lKLXauetiLpGmOJ4GmMmkjxVFC8W8BIwfbMSRnnEh95VxjnAOUwOT/m79/yo6kPePF24P1TFmQx5nxGYuxguwQhfVjt6GrHgHycG5Pe7WDAOm5SaBrY59QcxJyFznM2ZzO9gpBZg7AK0ymf620Vk/GQwG3jnRXYo31RbmQQLnFJpouKHuRXYcwHcxKr1A5v+HBXpJgne8ZqE6OAyOnaYsE0fQqxusuCxyq/A/+WnmKnF6EY/18e263OAGfPodCXqGYFSskS8JdiPoqXKLpSesHdhC9raSobrD28hBKtLBxtek3zCrkjpdK8V9zEbjMP2bNh5sSUrz5pSpfccBrEwGb3vB1an5qKyv9WOz82CMlp+trYBVfmBmPSKfjU9jQ==;mgOC8Srm1Nkf5ul0jDid0w=="
 ---

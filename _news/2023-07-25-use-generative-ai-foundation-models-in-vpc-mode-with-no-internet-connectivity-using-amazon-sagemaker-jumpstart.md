@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
-  - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
-    excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
-    publishedDateTime: 2023-07-25T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/25/9853521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "tPVj10vmcYPas1Tzdf3R2OM+pFak8pg6yonfz5p5ai3CrDGNwVQAsyAA0qy18nebuVw4SyPvlJaW6XOAo3sEue6tI18q6foQIiPQxpy5R5zp27/Ui0R7mzXb1yDWyCPl3lPzGsIFsrcWGps13hlftPQ9hk1YoPWvlE4sGKLdemlL5ov7M++eA7Ly1BHTjZPjCkIolcre4rdXPUe0ApqjpUG6ltOJh85/a7peLw1KBME0Kd1+yTujanIn/hG7AuXaF+LsEcLBzGpfs0RwWVLJshIL2gUpSbYQYSX5TG3tseII7Qkg1b3dIFJ1btWVfkfjBm+eyzNZCAIwVzU6Chjyh4ysVEuBmGxMg6yD9eYue6Y=;HPqObkTlzdKJFDikCGppLw=="
 ---

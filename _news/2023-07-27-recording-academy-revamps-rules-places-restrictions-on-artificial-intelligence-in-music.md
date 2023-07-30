@@ -40,34 +40,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "AI and Open Banking – the dynamic duo in Financial Services"
-    excerpt: "Open Banking and Artificial Intelligence (AI) have emerged as game-changers in the financial services industry, reshaping the way financial institutions operate and interact with their customers. The convergence of Open Banking's secure access to financial data and the advanced capabilities of AI has unlocked a world of practical possibilities and tangible benefits."
-    publishedDateTime: 2023-07-25T13:38:00Z
-    webUrl: "https://chyp.com/2023/07/25/ai-and-open-banking-the-dynamic-duo-in-financial-services/"
-    type: article
-    provider:
-      name: Consult Hyperion
-      domain: chyp.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/chyp.com/wp-content/uploads/2020/07/ch-logo-white.png?fit=1608590&#038;ssl=1"
-        width: 1608
-        height: 590
-        isCached: true
-  - title: "AI, machine learning ‘ll revolutionise industries – NCC"
-    excerpt: "The Nigerian Communications Commission (NCC) on Tuesday said that Artificial Intelligence (AI) and Machine Learning (ML) had the potential to revolutionise industries."
-    publishedDateTime: 2023-07-25T13:27:00Z
-    webUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 54
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/04/image-257.png"
-        width: 1200
-        height: 750
-        isCached: true
 
 secured: "h+Yx9ZxB2qF9YJfTQp8Assy2Mlb8jSv/dmUvYZ+AWTOLVdIkHKuV8M+2z6eiwot7y5qZlwUQDcuppDUEt6sNoHE1oq1FpQHipleI8EMiJguXhbs38/ZSOTZI6YccJU4lDQk+/fYecxWRt6XEEqjpMvSv0beu1+phszvi8j8WTsW1iSr7tk2vNBS0w60uaIit7OVAezCcfegMqdhBhZBR5TOAnyhEfXdrarIqz6r5Jo3bu9imTc97XlCKl/gGdygvcIQGIabVnNDEj8+do9PMjJp21D6jcW/Xt17uW1UqtOjxwIx/PHA/8flW5cBLxsywFQc5azXMx3tllZfPbxder4tD4jCTjr47xTgSsoElxTU=;u/cN1yx4hlGoaS0JaoDt5w=="
 ---

@@ -49,6 +49,15 @@ related:
         width: 1196
         height: 628
         isCached: true
+  - title: "Face recognition technology for pensioners soon"
+    excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."
+    publishedDateTime: 2023-07-28T00:29:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/face-recognition-technology-for-pensioners-soon-529577"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 19
 
 secured: "FaebKFtg4u5MRBLsAI2BujRDmIBbzJnwLAE4f4jDv6zO0nldcVR0DR7Kc5bkTwrDegKHw84lhKRvkLI/J7SQq5i3Mbafv/67GJYrgGEN+Ac/07osTIYF59sQTMYET1ohxppkqsGGXxnjHz7Uw0ZyhL7C+zBBuNKNQNgj5vo3lZjqja5pff0QlzHKgMN4wQEU+DV8XNA+trbyZPNjpslMeOxORZvSUV06QlH33PppVx71p+ZBQRlBcYVtoMgEbwL5dfk0nUT/Pj5Zkq0wF0NFNeQWW0UqZ3ic/H4RuBGT/uchDnUJqhPEVZFjRNUGTQm667yBVINNtJnakGa5PXfznMgpK1EvssFetf3P0EleGOWu4UQRHKbup5nrsXVNJR7ySQINEeN5Id+cwXOM27H4TUpKiBWc0RWrzUNxAT13HOjwvyLubPA0RE1TxqeVbSmyzuooiUjhlS77C8sVxm1BAaNhK9uKSL/Vw0DPiUgKDW1YIDwpK07RLc75UKYolaDDxO46895FysarrB12r1CQ+A==;/o63ltFD7u6XEPjXHWiyXA=="
 ---

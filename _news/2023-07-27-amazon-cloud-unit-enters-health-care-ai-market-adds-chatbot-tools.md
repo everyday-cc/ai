@@ -143,22 +143,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
-    excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
-    publishedDateTime: 2023-07-25T13:29:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/185_612_2818_1691/master/2818.jpg?width=620&quality=85&auto=format&fit=max&s=a33cea800d6a29d561f7681cf3193703"
-        width: 620
-        height: 372
-        isCached: true
   - title: "OpenAI’s ChatGPT is too good for its own AI to detect"
     excerpt: "When OpenAI launched Classifier in January, it was supposed to have been smart enough to detect when a user (say, a student) used ChatGPT or another AI program to author a work. OpenAI pitched Classifier as a way for a teacher to identify if an essay, for example, had been authored by AI instead of as an original work."
     publishedDateTime: 2023-07-26T13:28:00Z
@@ -211,20 +195,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 44
-  - title: "Artificial Intelligence and ChatGPT: Friend, Foe, or Both"
-    excerpt: "Although ESI is still important, generative artificial intelligence (AI), especially ChatGPT, has taken the world by storm."
-    publishedDateTime: 2023-07-25T13:45:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2023/07/25/artificial-intelligence-and-chatgpt-friend-foe-or-both/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/07/Artificial-Intelligence_2-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "A Christian Chatbot? How AI Could Transform Bible Study"
     excerpt: "Nils Gulbranson hopes his “Christian ChatGPT,” Biblemate.io, will help believers and non-believers to find answers to life’s"
     publishedDateTime: 2023-07-27T20:00:00Z
@@ -322,20 +292,6 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
-    excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."
-    publishedDateTime: 2023-07-25T14:00:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/beyond-chatgpt-organizations-must-protect-themselves-against-the-power-of-ai"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 36
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89661adcacbe9c43/62911639bcee916ef642a845/AI_marcos_alvarado_Alamy.jpg"
-        width: 1200
-        height: 774
         isCached: true
   - title: "The Brilliance and Weirdness of ChatGPT – The New York Times"
     excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"

@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-30T05:08:00Z
 originalUrl: "https://analyticsindiamag.com/7-models-based-on-llama-2/"
 webUrl: "https://analyticsindiamag.com/7-models-based-on-llama-2/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Llama-2-is-Communist-.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "SqK9qUsKxEfEhHmAr9iD3fW1GdeYrOILVJRv34zHuA2CMMLakpRR9dKJn9+Nv3Nb5dDt+wnjgUyZ91W3hlLUf9rNqO1DUIyVpmb6opy17hIZzAt6X8lZoWjP4U4E93M27XoeNHUvrODHNdnu2nQGQiPJ0JBqpwRGbrpsUK3X2Y4/KXCt9FO5zdRsBqkeM3PDPzuKkSz3LRi4JLHPFl/ueJar70HMY7YvKegzVQj6dfpykQYhsZpz1oCkCLCXBGzcF8fgpH9dFnhbmINc0KSckr9puLGmLwaWPpDVlTRpyC9SwvqEUYgoW5oP8eUAQq45W2Zu9aZI2LzLFMXZNCNKkdniDzo+dcsvaxIyHBXurao=;NpwpRjVEjJwDSNmXxlkryg=="
+secured: "YbatzvKJuOYhMwvJcHJHm4149SLwSVOBoFeOkkCtvYI2eI8sGV++ZVK7pwgdWygPiEj93y6unHGacPBE+vSmatN6Y5iYrhuKDrvTVMxKXdK4KqB2jsYgX5PW5F5qW6xRzz6Kjyd4p0/hw5yVxXjEUAQRtoW32TkU5vyxceMtO0VzqOU68XGqdigRslWj2wjtyWm4m8id9jNimQPnHANxdlWhsd+nhP71qjyd/Ojot9m9ddbzrisWWcrnJiGJMXbn5m6FcvoL1+MZYLr75u8wB0rPt/TOE4i/MlZJ77MkY/WeYz99l4tqSe+0Tbh1L0pyn+k/wukS8Gz1myfDrkuWBe6dQ9LWsxTkqA8CDN2Q3vv6O2evV654vSYEH4U/i8pQZRvsXbfJ1/Ujb4DrEJFGyvtKS2Qgnb9gYWtTLYPylPBs4BJYN5cwzatnbTg4jQfmVmUOkQ1d2FoSutrMG3oDCi9MwvwOtUE9qSDBHSzmd+wfenEx3h47F375DkBYKEjcwB+dJfJTHyfkCGhXlUOqag==;qElScN/G1nY9K0uu9PeeFQ=="
 ---
 

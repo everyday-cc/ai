@@ -47,15 +47,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 44
-  - title: "Saudi Cabinet nods to setting up AI research, ethics center"
-    excerpt: "The Cabinet, in a meeting chaired by Crown Prince Mohammed bin Salman today, approved the establishment of the International Centre for Artificial Intelligence Research and Ethics, to be based in Riyadh, with legal personality and financial and administrative independence, Saudi Press Agency reported."
-    publishedDateTime: 2023-07-25T13:54:00Z
-    webUrl: "https://www.argaam.com/en/article/articledetail/id/1659040"
-    type: article
-    provider:
-      name: اخبار 24
-      domain: argaam.com
-    quality: 34
   - title: "Researchers train artificial intelligence to help detect breast cancer"
     excerpt: "With the support of AI detection, there will be improvements in the accuracy of medical diagnostics as well as earlier breast cancer detection."
     publishedDateTime: 2023-07-26T12:40:00Z

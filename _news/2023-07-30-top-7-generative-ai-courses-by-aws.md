@@ -351,15 +351,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 34
-  - title: "DocuSign Launches New AI-Powered ID Verification Solution"
-    excerpt: "This enhancement to DocuSign's ID Verification solution is another step in the company's use of AI to strengthen its suite of agreement products. DocuSign recently announced the launch of Agreement Summarization, enabled by an integration with Azure's ..."
-    publishedDateTime: 2023-07-25T14:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/25/9853396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
     publishedDateTime: 2023-07-26T18:23:00Z
@@ -379,6 +370,6 @@ related:
       domain: tmcnet.com
     quality: 11
 
-secured: "IirUZW2YswkejidQIkVf9zGynkaGvm6c0iaIbZ0WrCg4XN1loBJ1hdypLx9cf/LGCtSXFW05CmDVGheNiWW4tr7DoNfrXOjT8wGE+GLAouNVqu0efCDFVSjZJV4RwxqmNJwiPCTgICmyK3h7Ki2453cnrxq5EOnAUGC9c2a9TaswIH7F6iKfSCa0/pe+h4cauPUBD0d78FvSRcUsIfRSqTvJSZw0qdGrK9wRdRmKDFe5oWVNDQalAWJijJLffGNiitU90PLdAQo3+cl/U0oxaW2i2dV3WGir6ed5hWO//G5e3GrW9aXjD9774bItDSLzyF0XLC+wdAvCBCkhMvscl04I+LYKh7v8RoNcAhAbps4=;z5jr1C5KvdYVwh6M2Vh07Q=="
+secured: "SvqmVTCoKMbu6hogfzm53cEb6ZEfdGu+qXoPFZ9DO+cGaqNHQSFuVEGWqQXQZBgwQDUM5brp025SSGn53NH5YSGEa88QiJeb0A6o0fWMwd0gFvQ4wExDbGbsZrun1cQPz5+lvAkyjfvJ+XwQgzCJAhmX7NeiaGG92xntDEgaRrPsasXF71MF2Y47HdQ38Q43wVXAGJeKDdV/pdgZfE36gPop2TMGJHS7eDy4SY/aQQdgd1GcWPZNW4EW+UUw1S9iwBfyBxRPlXs3CuZEqfEX3mVFWZYLg/U/suRnJ8mZizVOM3NDZXhjgkOdXgGj5yGI7kRWksAUkEmwXp0sTke8TmnWq8PNc1TzHN8DzSCT1AXRBMIeoGQmsxy+8oj8KEMnJLdZZ76vht+om9Vw3Olyq+BRFWcreeAYJT3Szer7KkHXJniDzUvKxJIgDnHhQ0yU1tMZddzPd70NClppnN0jWBp0UJZ92SkVizHCeR48avX1hJKvhHGHOUA5kimwzmGIy02NisLgdcf1CRsx+fZ00w==;rA7yCD7H/yHtMXQ1HW8zUg=="
 ---
 

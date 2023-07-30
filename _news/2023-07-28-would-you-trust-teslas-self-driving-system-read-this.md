@@ -35,19 +35,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
-    excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
-    publishedDateTime: 2023-07-25T14:22:00Z
-    webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
+  - title: "Elon Musk says Tesla’s new Full Self-Driving update is ‘mind-blowing,’ but that doesn’t mean much anymore"
+    excerpt: "Elon Musk says Tesla’s upcoming new Full Self-Driving v12 update is “mind-blowing,” but that doesn’t mean much coming from"
+    publishedDateTime: 2023-07-27T14:21:00Z
+    webUrl: "https://electrek.co/2023/07/27/elon-musk-tesla-full-self-driving-update-mind-blowing/"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 51
+      name: Electrek
+      domain: electrek.co
+    quality: 52
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
   - title: "Self-driving car advocates urge Congress to revive long-stalled debate"
     excerpt: "Advocates for the self-driving vehicle industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."

@@ -158,6 +158,20 @@ related:
       name: unite
       domain: unite.ai
     quality: 34
+  - title: "Indian Television Sees Spurt Of AI-Driven Robotic News Anchors In Multiple Language Channels"
+    excerpt: "In April, the Malayalam TV channel, MediaOne presented its own TV news anchor, Ivan, a rare male in the lineup of AI-driven speaking humanoid robots in India. He often takes over the task of presenting the daily 10pm “Sharp Ten” headlines. Here is Ivan introducing his service to viewers and anchoring a short segment."
+    publishedDateTime: 2023-07-30T07:19:00Z
+    webUrl: "https://swarajyamag.com/technology/indian-television-sees-spurt-of-ai-driven-robotic-news-anchors-in-multiple-language-channels"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 28
+    images:
+      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4f5f90a-38ef-492c-8e2b-fc253b304ebe/Photo_1_ALTERNATE__Lisa_is_India_s_newest_Ai_news_anchor_who_debuted_on_Odisha_TV_last_week.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "X5VieFynnCcL0T9I2uiWh0bYpgS/Ac27sXytU8x7xHiBPLmPFyR+9C2yODGuB4n7aOABjcYVi4OsXTdpepjvxfD65WuJdb8duf7LdIinQKbCkpNtmkXrG5Xxj3FvppoKIUgMS1tc0czWonDW49kSMrI9rIwSjRxWZPk32FLJ01Kn4tufYBkAEOkw1B53j6W1G5nbzlqdSetM9XkED7qfa6Oj2Ge+div902JgS6jdugtiL2dqXp6eNIW3VZAYde7rXsgZdo6QgGsF6UqZI7cV4TTHbeMdpTgVvi43GZQ4st85fg7FcHv9ypOwusBq3d7ACDuX7U8H48l0Mnjm4okTJMKiqdRB3SlE+ogI3tNWlPKbVGduB3rUffHL7nMyfAhbPCiwccGTkA2ForD3NI9aV9K66/Kq87jgaF7EQOhloM1VxzMX/zjh1K5oLcarkAVZPAj0TPJ3z6liFEFxPhrTzpGEjyANJp35HqzYyKhNFgUpN/TN5HzzdyeIi9aHEFB+R5KacS3ZFXIx49S/aFBtow==;CS5tZRmWgtJvAqCPcVBZPg=="
 ---

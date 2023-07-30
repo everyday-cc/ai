@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence loves America"
+    excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-30T06:03:00Z
+    webUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "An AI start-up is helping North American diesel trains clean up their act"
     excerpt: "Transportation is responsible for one-quarter of the world's greenhouse gas emissions. A Canadian start-up wants to lessen that impact."
     publishedDateTime: 2023-07-27T15:52:00Z

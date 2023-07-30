@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustaina
 webUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "How AI-based hiring processes are helping recruiters"
+    excerpt: "Predictive analytics can also help recruiters make data-driven decisions, optimise recruitment strategies, and identify potential attrition risks. Machine learning algorithms continually learn and improve from recruitment data, enhancing the precision of candidate recommendations."
+    publishedDateTime: 2023-07-30T06:35:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design147.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How The Era Of AI Is Reshaping The Cloud"
     excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
     publishedDateTime: 2023-07-27T13:30:00Z

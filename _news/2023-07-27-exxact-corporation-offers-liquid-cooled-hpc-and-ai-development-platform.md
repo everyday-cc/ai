@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 694
         isCached: true
-  - title: "Firms More Eager To Use AI For Business Development, Not So Much Legal Services"
-    excerpt: "Many law firms have been faster to embrace artificial intelligence for marketing and business development than for the practice of law, wary of AI's implications for client confidentiality, lawyer ethics and legal service pricing."
-    publishedDateTime: 2023-07-25T14:11:00Z
-    webUrl: "https://www.law.com/pro-mid-market/2023/07/25/firms-more-eager-to-use-ai-for-business-development-not-so-much-legal-services/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://www.law.com/assets/css/stylesheets/images/social-share-law-716x372.png"
-        width: 716
-        height: 372
-        isCached: true
 
 secured: "OedTEP1NrKJMTqrRv9qyY/t8DWmRuhIr1wlg6H9vSzEMwtuRWaFv1WeX96ke7fL5GfhX1ciq38VGuYrC4RJIJbyBy1c/j0PB7ocnUTon06463BrBPP6sfQdTJJogLtxI/Xy1ddZFLbVt1qV268hrhaDQB2gdx+s87UCvjsheIV1MU9an2VMgXGczhSpHdgD+ZXb8wpEpwEJxbO6LxrFE852OhLAOznAqvQnzPVzxCD8mGYd8xqBkWn24pasLtB93GdfQ2Br88vzh7mZ/R+Oro3T1PQ3bEfXRCFodfefF/1GGy2ugBiH6q96Oj8ASoVngwTGt50baEFLtWR3XE7RMhzX6jlLuvJqNuo4Fab0EoCA=;KpoqVKNxQIpg55tc8gIe3Q=="
 ---

@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence loves America"
+    excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-30T06:03:00Z
+    webUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
     excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
     publishedDateTime: 2023-07-26T15:51:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-code-assistants-could
 webUrl: "https://venturebeat.com/ai/how-generative-ai-code-assistants-could-revolutionize-developer-experience/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Merkle Unveils Revolutionary Generative AI Technology"
+    excerpt: "Generative AI LKMs can be trained on vast amounts of performance data, synthesizing the relationships among all the variables to enable marketers to draw insights from data. And by informing every customer interaction with AI-driven insights and decisioning,"
+    publishedDateTime: 2023-07-27T15:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855340.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "uObrlkfik9Zt9VcPBbXDeO2mqqT7EWstgsUQQRjCQ6zpsYdnu9V6qZsq29QEkcuSAeKF/I2Sb2JElGYiVkoiLQMJBZ44Y8ed0w7NOKVHYVQgAYzAZkS0jpq1SbNWwLaT+al9XPoxifAHYGlgaJn6IEUAxgSKoccyA2U2RR1wIWNnKi4Hny+d3FIkjCgfZQJ+RLmWjbY1zqkfPap3IGCecjbMqlX+LCwZTQaCh9MUoCvyfyDJ4NLpsW+QULOlZE94HRWdAJBrYRW8kbJsWH4fB81G2x/38+JMpOYOK6Kx6jm9m5hYAdwVX0ekCcqPz97g8060OoXVKBf7BnyGL6KQu2N+RtypY2sb7Qpt5+FCV9FHI58T983abACffdZnfKrgsBKoo13NK4OA0GX32Z9DkQUNGIOkh4gnrKT5x70GeWH9P/YHbS+j0Ux/ZGocmTZ9QoWIw8gJCVX7tgCyaZEOLgef4VN4ZtCtZhL5LO5Medslrse3Wjvvyf5cqhO688h1II8VFnAKqQAAoFMYGkROwQ==;9Btd0l/JvQvnSRV2j0ngRQ=="
 ---

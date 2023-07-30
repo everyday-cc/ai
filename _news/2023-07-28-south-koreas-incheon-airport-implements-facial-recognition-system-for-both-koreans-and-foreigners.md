@@ -41,6 +41,20 @@ related:
         width: 630
         height: 451
         isCached: true
+  - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
+    excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."
+    publishedDateTime: 2023-07-26T17:27:00Z
+    webUrl: "https://www.techjuice.pk/punjab-police-introduces-ai-powered-facial-recognition-system/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 54
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/07/AI-Facial-Recognition-System-635x430-1.jpg"
+        width: 635
+        height: 430
+        isCached: true
   - title: "S. Korea’s Incheon Airport implements facial recognition system for travellers"
     excerpt: "Incheon Airport said it has begun using pre-registered facial information to streamline the departure process for passengers from Friday (July 28)."
     publishedDateTime: 2023-07-28T12:19:00Z

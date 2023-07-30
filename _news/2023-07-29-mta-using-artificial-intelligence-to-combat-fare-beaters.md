@@ -18,21 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Bing AI chat expands to Chrome and Safari for select users"
-    excerpt: "\"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" said Caitlin Roulston, Microsoft director of communications. \"We are excited to expand access to even more users once our standard testing procedures are complete.\""
-    publishedDateTime: 2023-07-25T14:18:00Z
-    webUrl: "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
+  - title: "NYC is now using AI at some subway stations to track when and how fare evaders are getting through"
+    excerpt: "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement."
+    publishedDateTime: 2023-07-25T17:12:00Z
+    webUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://www.zdnet.com/a/img/resize/90f674cd85981dcb50a5f3f8d5e29f2a07295b41/2023/07/25/0852fcad-54ee-4823-9f85-b7df7c18bb05/binggettyimages-1246902268.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "What top tech leaders are saying about artificial intelligence"
+    excerpt: "With artificial intelligence (AI) rising up corporate and societal agendas, we gauge the views of the key tech leaders in the space"
+    publishedDateTime: 2023-07-26T15:43:00Z
+    webUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-about-artificial-intelligence-123505879/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/07/what-top-tech-leaders-say-about-artificial-intelligence-1-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "enLY8vmh81/Rqzhg75eKA3/DUnLYT5V2luoWcA5ul7oVwctWaQkkBdRJLJR/lvSbHoyjedbpmqHXHvk/ZSS37iqDMfm/IdVFdWQZH2+O/2IYCHsOqOaqSjh136k9wTNsdKagTUutPhWICbWOyPAQCANizthABxxb9nPDZc6CxZ2kVEPQ089XmaVbD7oUh/WeTeM2/jNwPBsIzTyXDhQfWSkor8joiIPPD5e/Bb2FYuubkDpX2Q2aIeZ3oDXzum9fEGoaHC5x1Fi67CNdCI75dmn6/B/P3UMDmFZqJ7F+xPhBdA8kSeK8ReG4eJqOOFAoh6HOCwfW6rIdkA1zzx5d0oUsMeyWYa+TWV0bBUfqv6x6W3rfoL8VnlnD5JU+EKb6140tord4sX0IrAlLKbLVnNszAHZRUDD0hRXUJavCiPJ6V77L6jbZRNyv0f4+FQ7HOjP4Nmm6/+E/2/pKd9ypyUtAr0UH3pVB5SVPGZTNdIsuy6g9w2VYhUSANZYbV4U+cGFf++JOB2akJEofr2IAYQ==;4Wj8uG5lmaJA20o7MSANkA=="

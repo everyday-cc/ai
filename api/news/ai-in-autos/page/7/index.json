@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-07-dont-fear-the-self-driving-car.md",
+      "title": "Don’t Fear the Self-Driving Car",
+      "excerpt": "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
+      "originalUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "The Mark Cuban Foundation's Artificial Intelligence Bootcamp Initiative Teaches AI Concepts to Underserved High School Students through a 4-Saturday Bootcamp in the Fall CHICAGO, June 06, 2023 (GLOBE",
@@ -1233,58 +1267,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-artificial-intelligence-may-be-coming-for-your-job.md",
-      "title": "Artificial Intelligence May Be Coming For Your Job",
-      "excerpt": "You will need to adapt to the rapid changes brought on by AI by continually educating and upskilling yourself or asking your employer to enroll you in courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2d720e47eac3ef5f411d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
-      "publishedDateTime": "2023-05-24T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

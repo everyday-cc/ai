@@ -1264,21 +1264,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
-      "title": "U.S. to decide on GM request to deploy self-driving cars",
-      "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
+      "path": "_news/2023-07-13-australias-most-advanced-driverless-car-zoe2-takes-on-outback-roads-in-mount-isa.md",
+      "title": "Australia's 'most advanced' driverless car ZOE.2 takes on outback roads in Mount Isa",
+      "excerpt": "Outback residents say driverless cars could ease public ... and a GPS to interpret surroundings while artificial intelligence and various decision-making algorithms work in real time to determine ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
+      "webUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
+      "originalUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/107254059-1686311076798-gettyimages-1497020055-dsc02825_rsqpkpku.jpeg?v=1689198866",
-          "width": 1024,
-          "height": 683,
+          "url": "https://live-production.wcms.abc-cdn.net.au/543c365a2671ec3983e1238bdc0691a5?impolicy=wcms_crop_resize&cropH=1333&cropW=2000&xPos=0&yPos=0&width=862&height=575",
+          "width": 862,
+          "height": 575,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1286,23 +1286,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "publishedDateTime": "2023-07-12T12:59:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/102594812",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102594812",
+      "publishedDateTime": "2023-07-12T14:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
