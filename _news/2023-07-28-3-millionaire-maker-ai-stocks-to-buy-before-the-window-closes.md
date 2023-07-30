@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-28T12:39:00Z
 originalUrl: "https://www.nasdaq.com/articles/3-millionaire-maker-ai-stocks-to-buy-before-the-window-closes"
 webUrl: "https://www.nasdaq.com/articles/3-millionaire-maker-ai-stocks-to-buy-before-the-window-closes"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - IBM AI
 
 related:
   - title: "Executives Need To Be Careful Before Diving Into The World Of AI"

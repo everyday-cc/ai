@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models
 webUrl: "https://siliconangle.com/2023/07/26/aws-expands-bedrock-new-models-complex-ai-task-automation/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 5
-  - title: "Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
-    excerpt: "NDAQ:BTCY) Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
-    publishedDateTime: 2023-07-25T12:20:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/07/25/biotricity-expands-its-proprietary-ai-model-and-deepens-relationship-with-amazon"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "TnMQ8qhrNfeBr9ehW7FoFc2AepkF63x8st5/3OPXu0a1wokfjxPty3StgbfDEHHEmY3r6fS/LGQteXOcvusp+baWaCHXsve2r88p7qkLOap9Af2siYrH1K3rYpKvjVqrWHI2ruJ//yzau7GqzEhtGAD2ycM2iW4vlZDwivPeg/cbrF+cpD9rdMSZeSI+cYljPGYZ3RdBIKNXaDJIU+aKud6D7OS18nS2Go62AOOvry/I6bWwj8XAAzp86jtHV4gLPEzqcVQZj9uPHkPHzu/Rv1A1ORN8uWHDs9CkjWyhXDewiyd5jd4kZk9DAe1QE2VQ1maZdB/qKU2g9UjvCE6LD+sWOYMjBO22ZnwXpMfQ9dteVvdo67YimxYjMuAOvDC+JLzpXOV9ulifheQF2feylo2UV0/nCynP6DJGeW7Zr0l7TX1C+suQDlF+KRU6uphuKLgN0cQjW4o9TLcz6/tQqEF6kLf5iYkflJFJuEf6//IQbAVV8CoYw+IZRkq/CvBMRQzZfm1wKPOMYcgioNrb6Q==;Y1U7qr8epgoHuPIaP+9dwg=="
 ---

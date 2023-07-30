@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
-    excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.newsweek.com/moving-fast-breaking-thingshow-some-health-care-startups-are-putting-patients-risk-opinion-1814984"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 19
 
 secured: "MugsilEKNBfvzi2r4V4+LYhYq31ewNUgtxKV87g5/qE5KtWWoOJnGY4RpoNSd1UKOzdns6Qf8JvBqRahXJrEJ7bseJaZXQncVCzeUzhXkHPcebrXZuZm+X2SdthqQMfAtKt4la+TIwPdtDuc4bbKjrIG8pd3/PwdCi58AAFknNDyF0zOEm3qi5ar72Uoj9ZJi5Uegmc3TbdxgrAj07L1HuTjpfBAx+iaY0nXgH6l3fiXsPwnke9geAwTnGC6UBnbEyQVhfpGMhnnjVnIymuJNO5X/eQiCI2gWN/5AIsiNSnmgLRCuy6eoQ3Dn5Gqu9poP+H4nlnUJc605hWuAPe6/WNNs4buVdlMWIyhvzFyXg+Wd8aBCnzeQyTxA1Qgfv4fDnu/zxUDepQI4EvaCcsa/EW7qh0hg3ctIekjBLGHWplIVBCzzjOFrM5KFGJxKPpzU0sTU6LMhZvMXHfnVNZA9HeKSc/JhMow3GkbSZIEGzYWQeKhXD22wSd5QvWz6mH1CxZbpnJIoILh5yROAmLcRg==;GOl9hx9gJvvY+z5ui2KX5Q=="
 ---

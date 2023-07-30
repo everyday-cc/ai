@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "AI in Healthcare to Address Stroke Disparities and Ensure Equitable Access"
-    excerpt: "Artificial Intelligence (AI) has the potential to revolutionize healthcare, particularly in addressing stroke disparities and providing personalized care. However, concerns about bias and limited access must be acknowledged."
-    publishedDateTime: 2023-07-25T12:46:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-in-healthcare-to-address-stroke/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 52
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-25_12-34-05.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Hands-on experience can help healthcare workers appreciate AI more: Report"
     excerpt: "As artificial intelligence (AI) increasingly finds its way into healthcare, physicians can recognise the true value of its advantages in clinical practice more prominently after successful implementation and regular usage in their day-to-day work,"
     publishedDateTime: 2023-07-27T11:56:00Z

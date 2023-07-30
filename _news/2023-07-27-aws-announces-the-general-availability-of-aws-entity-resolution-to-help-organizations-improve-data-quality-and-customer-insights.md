@@ -61,15 +61,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
-    excerpt: "NDAQ:BTCY) Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
-    publishedDateTime: 2023-07-25T12:20:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/07/25/biotricity-expands-its-proprietary-ai-model-and-deepens-relationship-with-amazon"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "mWjZ2/kaRI3WavToL6uy53lmU4d9inARNXLeo5rfo4MAC+akEZCOYEZiZ87KghqRch/JsgtRrY0mpaZtIA8bsVUBtdojYXOtz7GbzgxkW7KW+8JGehSiBCzwqqbQRPccx5SQkSFwsfDLoSPSHzAi23aPxvtaEDSZbDVVlCW+OnnEl4dS1IcxlK5L6hpNNLNXpIlf2xj0RbDOy8v8yeMDJy4+LS41Euw0Pee4GdLkCyQlDD3sQAm2oQSeskicAp655cjRqnoKV6D9hHq20Y6hsdgG4NetMfIaQx66cn9RRbBEAlH2b0mkA7t71uC/kQvbeX9+PVVcTYTSVfVyRdMjT4xa/TgbVzdRb5GixUTFdKc=;1RitwgCkiu9+Y+OgmvscsA=="
 ---

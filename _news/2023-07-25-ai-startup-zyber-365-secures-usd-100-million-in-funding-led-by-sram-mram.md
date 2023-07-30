@@ -40,22 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Web3 and AI startup ZYBER 365 turns unicorn with $100 million funding"
-    excerpt: "SRAM & MRAM Group is a UK-based public health emergency management solutions company. (Image: pexels) Web3 and AI startup ZYBER 365 on Tuesday announced achieving unicorn status with the $100 million Series A funding from UK-based SRAM & MRAM Group at a $1 ..."
-    publishedDateTime: 2023-07-25T11:44:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/web3-and-ai-startupzyber-365turns-unicorn-with-100-million-funding/3186608/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/web3-and-ai-startupzyber-365turns-unicorn-with-100-million-funding/3186608/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/web3-and-ai-startupzyber-365turns-unicorn-with-100-million-funding/3186608/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/pexels-markus-winkler-4604607.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI startup ZYBER 365 secures $100 million in funding led by SRAM & MRAM"
     excerpt: "The latest funding has earned the Web3, AI startup a unicorn status, making ZYBER 365 the 109th unicorn in India's vibrant start-up ecosystem"
     publishedDateTime: 2023-07-26T06:27:00Z

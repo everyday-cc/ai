@@ -327,15 +327,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "Genpact teams up with Microsoft to empower its workforce with generative AI tools"
-    excerpt: "Genpact aims to empower business teams with generative AI use cases, enhancing employee productivity, operational efficiency and agility."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/genpact-teams-up-with-microsoft-to-empower-its-workforce-with-generative-ai-tools/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
   - title: "Microsoft Cozies Up to Meta on AI, Maps"
     excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
     publishedDateTime: 2023-07-26T22:57:00Z
@@ -552,6 +543,15 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
+  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
+    excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
+    publishedDateTime: 2023-07-30T04:59:00Z
+    webUrl: "https://www.inferse.com/653721/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
     publishedDateTime: 2023-07-25T22:42:00Z

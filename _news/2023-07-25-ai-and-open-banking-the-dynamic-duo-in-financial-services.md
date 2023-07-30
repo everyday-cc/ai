@@ -41,15 +41,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Digital Revolution In Retail: How Computer Vision Is Leading The Way"
-    excerpt: "Harnessing the vast potential of CV in retail also carries ethical responsibilities, especially concerning customer data."
-    publishedDateTime: 2023-07-25T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/25/digital-revolution-in-retail-how-computer-vision-is-leading-the-way/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "AI, machine learning ‘ll revolutionise industries – NCC"
     excerpt: "The Nigerian Communications Commission (NCC) on Tuesday said that Artificial Intelligence (AI) and Machine Learning (ML) had the potential to revolutionise industries."
     publishedDateTime: 2023-07-25T13:27:00Z

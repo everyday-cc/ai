@@ -34,15 +34,34 @@ related:
         width: 750
         height: 375
         isCached: true
-  - title: "Micron Announces “Second Generation” HBM3 Memory For Generative AI Workloads"
-    excerpt: "Micron has now entered the HBM3 race with what the company calls a “second-generation” HBM3 design, based on a faster, denser, more advanced semiconductor process node."
-    publishedDateTime: 2023-07-26T13:06:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/07/26/micron-announces-second-generation-hbm3-memory-for-generative-ai-workloads/"
+  - title: "What generative AI really means for the economy, jobs and education"
+    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
+    publishedDateTime: 2023-07-25T15:30:00Z
+    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Wayfair takes the generative AI route to interior decoration"
+    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
+    publishedDateTime: 2023-07-26T02:31:00Z
+    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Collab to Support Generative AI in Ambulatory Healthcare Settings"
     excerpt: "Google Cloud and CareCloud are working together to expand small- and medium-sized healthcare providers’ generative artificial intelligence capabilities."
     publishedDateTime: 2023-07-27T13:30:00Z

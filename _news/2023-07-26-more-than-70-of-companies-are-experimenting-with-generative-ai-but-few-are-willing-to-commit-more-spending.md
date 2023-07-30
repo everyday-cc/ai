@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 733
         isCached: true
+  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
+    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
+    publishedDateTime: 2023-07-27T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 691
+        isCached: true
   - title: "Nvidia announces availability of DGX Cloud on Oracle Cloud Infrastructure for generative AI training"
     excerpt: "Nvidia said that DGX Cloud is designed to meet the massive supercomputing demands for training generative AI and large language models."
     publishedDateTime: 2023-07-25T16:07:00Z
@@ -83,6 +99,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/NVIDIA.jpg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
+    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
+    publishedDateTime: 2023-07-25T16:09:00Z
+    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
+    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "+XXfcaHeRIouZxUaxcnyGOm7jfe/6t8daPUoocGSLmypnxDxzB0XmOudCxLQG3t4W0JPHzjtYrJLtCQyb3+FO5HuR1ruS1O2ngFqSWEpOPFMu6bvcwQj7+devmA3ACXBbHqaIskwu2UqAFw97U2qBXo19lVOIzl6XamKKgNl6mA0R0nL1YAvpPCHa0je9u8i5iIZGlbYoyNedujP6xZ/CrASH+WmsWNlKWH2fe23CnHhh4yWnoV0K6pgpTyZeoT5x4lDBm5nKdOZdnjWE+psgoPK/Jn1+JA6KWCXhVjg6iJK21KdTrs5bpNlf9yq0W5oMXe8pC7B23RGrp1KzqUFvt38rOK10K77y+l356dcXXunIjetDYh62+bX2PMyhPRLxSqq2OD6Bv8WQ9lL9ocrNXLzrpe0iwgtCZmRWZ9ZMNBtT9nvmxCZZc7TMLpuVjWXV7sDHuaarVDcoCFfL1njKeycD7qa2qcUfm55v++vNt7Ek30JEU0EgBWI7QIQUL/5UslBGhiNzwxxzpaOtyfx2A==;aSvqsjTjZ1IfXZGoL0JDPw=="

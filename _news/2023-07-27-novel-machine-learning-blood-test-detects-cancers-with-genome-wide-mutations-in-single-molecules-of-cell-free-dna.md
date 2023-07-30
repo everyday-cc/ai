@@ -19,17 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Novel machine-learning blood test detects cancers with genome-wide mutations in single molecules of cell-free DNA"
-    excerpt: "Novel blood testing technology being developed by researchers at the Johns Hopkins Kimmel Cancer Center that combines genome-wide sequencing of single molecules of DNA shed from tumors and machine learning may allow earlier detection of lung and other cancers."
-    publishedDateTime: 2023-07-27T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-machine-learning-blood-cancers-genome-wide-mutations.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-machine-learning-blood-cancers-genome-wide-mutations.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-learning-blood-cancers-genome-wide-mutations.amp"
+  - title: "Tiny surgical robots could transform detection and treatment of cancers"
+    excerpt: "A tiny robot which can travel deep into the lungs to detect and treat the first signs of cancer has been developed by researchers at the University of Leeds."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996661"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 3
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c71a7a42-10ed-4896-8b06-520ba8adb2d8/Rendition/thumbnail/Content/Public"
+        width: 952
+        height: 507
+        isCached: true
 
 secured: "sjd0DNIkVAyyCwmJ+cx9wzjd+G/O3iQYk3v5k/wqg2ReGNcLAmI7kg3v/HlNKukdfY16p+HlJM/z42tbwOoMuYGdevwbKImJ4XIoPfPBGB5XOD8PdJr73Rrw42QMN+1UbUeWUbg3xLVhah+YvBcRXTV1H+KobTlKD3fTrV4hdZltZKRPZlCheNVzGAsPnh75jn4KSTYFjOehNX0kQcOPiWriMEOiLw0JM6lVUjycPbqBms+v+lZnP94jhfcTqJDZBeQrFiS0ycp+gmlM2tvaxLLOZZ4TDl+nQtJTfz7lcZZhIbOqds0SCAPwGt3fW6Jc6LH4Ntpb6UP5XpwMRRG9OCS30kAyc+IxjkyLIcE+tjr3C77PDlAQTYiGzeftunEJtGEPR+AiTddr0ClydfGgwqR1HVnRN4pgReHPSM0bvTAmJp4fic/19aMjd2K196yb2+8OitekCO6wik8UKmMrGwWuDalJQSWlzxH1nbhwBeESqXir+0pPW3gbObBD2fshgFwkcsD+j5DFGhY6g7ZMZw==;gzo+usYDqruXfrMLQXnDXg=="
 ---

@@ -67,6 +67,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
+    publishedDateTime: 2023-07-30T05:01:00Z
+    webUrl: "https://richmond.com/opinion/columnists/jay-ambrose-artificial-intelligence-loves-america/article_0b3abbb6-2cc2-11ee-8a22-4bdad8e34086.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/b3/0b3abbb6-2cc2-11ee-8a22-4bdad8e34086/64c2e5f841f26.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
     excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
     publishedDateTime: 2023-07-26T15:51:00Z

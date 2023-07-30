@@ -20,21 +20,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Introducing Microsoft Fabric: The future of data analytics"
-    excerpt: "Microsoft Fabric is a unified SaaS platform bridging the data and intelligence gap, says Zia Marais, engagement lead at Decision Inc."
-    publishedDateTime: 2023-07-27T09:06:00Z
-    webUrl: "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
+  - title: "AI Boosts Microsoft To Its Best Quarter Ever Even As Xbox Hardware Sales Tumble"
+    excerpt: "The industry is in the early stages of an artificial intelligence (AI) gold rush, and partially for that reason, Microsoft just reported its strongest quarter ever in its 48-year history."
+    publishedDateTime: 2023-07-26T14:20:00Z
+    webUrl: "https://hothardware.com/news/ai-lifts-microsoft-best-quarter-ever-xbox-sales-tumble"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
+      name: HotHardware
+      domain: hothardware.com
+    quality: 67
     images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/07/Decision-Inc-27July2023.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.hothardware.com/contentimages/newsitem/62149/content/Microsoft_Building_Hero.jpg"
+        width: 708
+        height: 400
         isCached: true
 
 secured: "Uvl6vk/qHNyCGcOQ6fCu6SzI1464hTq/Guy2/6uoMj9fvTm5BuEiRrNBAmEDsjnfAYLOgUPXVGlKab3BB4PfAeQ7J2yVdjB9Saz5gXNoa+VJOomcupiJqVf6jsiEp9OUtXind7n+tYLBJBqn32IJf4A5Gz6BGkMLOtMSnrwuLyh96gQi0uv2z7ME1bdfIIqC1V/N0KjYOSEa9AG8ShavAbrMXufnbJsCJUjHI8bSR2SzA+mbEiIwx09Sn63PYJTj2seugMSqakoXvm2zFL/QBiNiSWsOOdwsJ2U+fDisfU6Rc0L4Q+EgD90GyMHmGMZ4oqZ9mKPuIkrvhXI8nTACo0smIMgqNP7VcC0XR23cW3A=;WLTDbijERF6X4JHwONUkOA=="

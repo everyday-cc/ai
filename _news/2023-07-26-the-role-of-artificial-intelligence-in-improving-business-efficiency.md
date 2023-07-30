@@ -119,15 +119,6 @@ related:
         width: 1140
         height: 760
         isCached: true
-  - title: "Threads Is the Latest Move in the AI Arms Race"
-    excerpt: "Mark Zuckerberg's choice to launch Meta's Threads app stands in stark contrast to Elon Musk’s recent moves to charge for data from X."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "Love and relationships in the era of Artificial Intelligence"
     excerpt: "When it comes to relationships and in particular sexual relationships, that gets very weird, very quickly.” Author Nina Schick and three other pioneers in the field of Artificial Intelligence discuss how AI could radically change the way we interact with machines."
     publishedDateTime: 2023-07-27T18:14:00Z

@@ -62,15 +62,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 5
-  - title: "Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
-    excerpt: "NDAQ:BTCY) Biotricity Expands Its Proprietary AI Model and Deepens Relationship with Amazon AWS and Google's Tensor Flow for Remote Cardiac Care Applications"
-    publishedDateTime: 2023-07-25T12:20:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/07/25/biotricity-expands-its-proprietary-ai-model-and-deepens-relationship-with-amazon"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "/sTB+rygh88XYzrZlhSezF6oeILSK3HwVJcH0Eg3f0tsy5i5VKJlfp+tE9HYIuM0gpmPqDcIQZRIoCrf+GmK5n+og1/Fd5LxyMG6mmUZ9wZrFBMct4O31QHVpnVB/phIj0OZx6fOtzmCD4CPMjiS/o2kWx0/WFb073ry4xP63rU+rO2keLrMo8IUl+mBQDfhFN6oCAkBd1IJOd/x5yySdcZVuIyrNq5iVOaodtn+X3Ic0SUbZFOl7laTaGuALKC6xNQZAHhjz5WgzN6NoZuL6RXtkTHtTB05tH2pm2aOkef8dzZVXM1Q7joqrQNTX2P5tqIbGlQxy2Bxkm4l0BG+Gx2CqvP0reYbeygzx4uNxkY=;obi/hbBGS7WzrC9nWoHpMg=="
 ---

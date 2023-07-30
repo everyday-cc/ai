@@ -95,20 +95,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "ESRB proposes facial recognition age verification for parental consent"
-    excerpt: "The Entertainment Software Rating Board has proposed a new verification mechanism which it says will ensure parental consent is properly obtained under the Children's ..."
-    publishedDateTime: 2023-07-25T11:10:00Z
-    webUrl: "https://www.eurogamer.net/esrb-proposes-facial-recognition-age-verification-for-parental-consent"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 39
-    images:
-      - url: "https://assetsio.reedpopcdn.com/AdobeStock_331209580.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New ESRB Move Requests Facial Recognition To Age Check Gamers"
     excerpt: "A new move from the ESRB might be deemed too invasive for gamers privacy. Age checking for video games may require photos of players."
     publishedDateTime: 2023-07-25T14:58:00Z
@@ -179,15 +165,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "South Wales Police state their case for using facial recognition"
-    excerpt: "On 28 June, the parliamentary session’s final Senedd cross-party group (CPG) on digital rights and democracy, of which Open Rights Group (ORG) acts as secretariat, took place online with over 20 attendees tuning in to hear a follow-up to a previous group session on facial recognition technology."
-    publishedDateTime: 2023-07-25T12:33:00Z
-    webUrl: "https://www.openrightsgroup.org/blog/south-wales-police-state-their-case-for-using-facial-recognition/"
-    type: article
-    provider:
-      name: Open Rights Group
-      domain: openrightsgroup.org
-    quality: 19
   - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
     excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
     publishedDateTime: 2023-07-25T17:17:00Z

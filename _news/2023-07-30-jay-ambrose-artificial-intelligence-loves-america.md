@@ -1,48 +1,111 @@
 ---
 category: news
 title: "Jay Ambrose: Artificial intelligence loves America"
-excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
-publishedDateTime: 2023-07-29T18:27:00Z
-originalUrl: "https://www.timesleader.com/opinion/op-ed/1615617/jay-ambrose-artificial-intelligence-loves-america"
-webUrl: "https://www.timesleader.com/opinion/op-ed/1615617/jay-ambrose-artificial-intelligence-loves-america"
+excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
+publishedDateTime: 2023-07-30T05:01:00Z
+originalUrl: "https://richmond.com/opinion/columnists/jay-ambrose-artificial-intelligence-loves-america/article_0b3abbb6-2cc2-11ee-8a22-4bdad8e34086.html"
+webUrl: "https://richmond.com/opinion/columnists/jay-ambrose-artificial-intelligence-loves-america/article_0b3abbb6-2cc2-11ee-8a22-4bdad8e34086.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Times Leader
-  domain: timesleader.com
+  name: Richmond
+  domain: richmond.com
 
 topics:
   - AI in Robotics
   - AI
 
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/b3/0b3abbb6-2cc2-11ee-8a22-4bdad8e34086/64c2e5f841f26.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Jay Ambrose: Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-27T08:00:00Z
-    webUrl: "https://thebrunswicknews.com/jay-ambrose-artificial-intelligence-loves-america/article_d3bd6dc6-9a65-5704-b5a0-2623664ca993.html"
+  - title: "AI Models Might Make American Healthcare Better – But It’s An Uphill Climb"
+    excerpt: "In a nutshell, one thing you find out is that the best outcomes are ‘volume-based’ – in other words, if you find a provider that does a certain thing all day, that provider is probably going to be more proficient than someone else who is a jack of all trades or a generalist."
+    publishedDateTime: 2023-07-28T19:44:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/28/ai-models-might-make-american-healthcare-better--but-its-an-uphill-climb/"
     type: article
     provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+  - title: "New Poll Shows Americans are Confused by Some Applications of Artificial Intelligence"
+    excerpt: "New Poll Release by Statara Solutions shows where voters need education, are persuadable on technologyWASHINGTON, July 26, 2023 /PRNewswire/ --"
+    publishedDateTime: 2023-07-26T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-poll-shows-americans-are-confused-by-some-applications-of-artificial-intelligence-1032479109"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+  - title: "Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
+    publishedDateTime: 2023-07-28T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 39
+  - title: "Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-07-29T05:29:00Z
+    webUrl: "https://www.meadvilletribune.com/opinion/artificial-intelligence-loves-america/article_406a1124-2d53-11ee-86a7-3b63d22f9063.html"
+    type: article
+    provider:
+      name: The Meadville Tribune
+      domain: meadvilletribune.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/6/3e/63e90684-7b0e-5280-bd1c-2984cdac50d3/64c236b4dfcc0.image.jpg?resize=400%2C267"
-        width: 400
-        height: 267
+      - url: "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Commentary: Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://www.union-bulletin.com/commentary-artificial-intelligence-loves-america/article_d48a318a-2cb9-11ee-a292-cf639ea6ace5.html"
+  - title: "An AI start-up is helping North American diesel trains clean up their act"
+    excerpt: "Transportation is responsible for one-quarter of the world's greenhouse gas emissions. A Canadian start-up wants to lessen that impact."
+    publishedDateTime: 2023-07-27T15:52:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/07/27/an-ai-start-up-is-helping-north-american-diesel-trains-clean-up-their-act/70477441007/"
     type: article
     provider:
-      name: Walla Walla Union Bulletin
-      domain: union-bulletin.com
-    quality: 19
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 36
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/07/27/PDTN/70477424007-trainsbgba-28-b-57-e-2-c-9011-ee-8-b-037-d-5-f-55188800.jpg?auto=webp&crop=3997,2258,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "A Whiskey Style Comes of Age: American Single Malt Is All Grown Up"
+    excerpt: "American single malt whiskey has been growing slowly for decades, but the category is now officially recognized and defined in the U.S."
+    publishedDateTime: 2023-07-26T15:51:00Z
+    webUrl: "https://www.pastemagazine.com/drink/whiskey/american-single-malt-definition-official-barrels-char-ttb-virginia-distillery-co"
+    type: article
+    provider:
+      name: Paste
+      domain: pastemagazine.com
+    quality: 24
+    images:
+      - url: "https://image-pastemagazine-com-public-bucket.storage.googleapis.com/wp-content/uploads/2023/07/25133636/american-single-malt-lineup-main.jpg"
+        width: 676
+        height: 380
+        isCached: true
+  - title: "AI Startup Aims to Help North American Rail Cut Diesel Use"
+    excerpt: "Transportation is responsible for one quarter of the world’s greenhouse gas emissions. While companies have touted electric vehicles and sustainable aviation fuel as ways to cut emissions from air and road travel,"
+    publishedDateTime: 2023-07-27T10:59:00Z
+    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ai-startup-aims-to-help-north-american-rail-cut-diesel-use"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 17
 
-secured: "kWJ6U2Dp+v1ecHlV+tZVRYOe3HVK8b0e2emEX7tAtXY4SqOpbzzS+YNK+564FQ7i0srMQp1xbzellnjFER8Pu5u7HHGyCtgUJReCb/saoBa+Sbsh095j55bwHnWgOVrI+fuuJ9wEr2melWh7YqHBQDjtyWDL68qCTmL6yePaus2CgPjIH8sjHpL8LZ+LZUmbqn0jhgNr5CU6353q0YWwyI4/R76FhzYpXBojpaxCiVS6GZ6RZnpy3/m/Q49pZE/SzYUutlE6c1r1xLQ6XIPnzh+ZTAlUSHh184oF3xVuc5tYlbddkyJ9EoJl0sro2YA/xPjEIsYr6nBj1NKB8XUItzX2XREuLM6xVmA3M1nzqt+Ut1oiCqeIcw0Kbax6IigBCqa8KHVPBPjgQLN/YUXGl7KVMj81kaEQQouzBys6w4+pbtoR+Vl+hfJPVc6fVDUmllC/FZ1qmo11flxKO43tKmwpZgva5kwfmBWGsA0LvPaS5sXh4e2qY54gCPyWj4dkqNlcytymOLBAvGsa9cGI8g==;q59Gu7u9DzytmCBMSDxehg=="
+secured: "zP7CjZk0XpVCGugaFo+rKyETgrhEvpOPhjMclKpEjAzqg2VNbCC3oDmL16Z+HGMwFAARHz4QAX6Nh7ywPgWKNnG7Hp+PVRdFX8En4OwpFM4nPfZChIYRenGxE7mp4bR+hbmPJwydJYvOfpDxFoy2LezExo6AfQEdpJHr9cw8YAdZkRolDkr0nofstVLWlkh+WN3nt6UIbvMdH40Zs0OZKzAjhzfOhkDBJWiLvRI9iMzKCoimN6R/S7SYBBWdEb4yBNEfa2mzNf5tQppicJ6XtkOFq1HUQYZPBzbT50DkT+feaMkDMNZTdDhFEovB6TGUAWxS7uDvyX5QBRDFhZTqHYlrUyYkK8AvbB0eeS9v9GY=;xSU6BeFMPlLUg2yeLdhHXw=="
 ---
 

@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "AI in Healthcare to Address Stroke Disparities and Ensure Equitable Access"
-    excerpt: "Artificial Intelligence (AI) has the potential to revolutionize healthcare, particularly in addressing stroke disparities and providing personalized care. However, concerns about bias and limited access must be acknowledged."
-    publishedDateTime: 2023-07-25T12:46:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-in-healthcare-to-address-stroke/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 52
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-25_12-34-05.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "TKjoDDe6cywW0boJpzLxMdUw+HKLNPJivyb73Nw3hbJ/rVjM8L7bC4mYOof4/BpfFZxU929nNgRPVd5+KTHblgn0lz3W2lhOziexPkVJQM9wlpaGJ3nnszTYULu9KI/PooVYSqNa818TXvONFEXMCCbQimB2vmiUgxG8HPvJXFvGAl5DnqU0/JJBq1SbHfbmhhFdu8IXXN4bxKlLQEaN5I0U/C+Ma2j7k1N1FPJSaFJIS4d0RWZoDwaOHdYe6ECdxSagRrpP0OwsG+x0ijky4xnB5qFIpEXx+XawIbnMI8/mkcEnyUjpEtVGOFtS6y7Qw4SdU46dWzYfsH2yRnCP8a9ee69F3S9x6QinW+KYJrM=;OPumROb4DfOdU/CV4gXUDQ=="
 ---

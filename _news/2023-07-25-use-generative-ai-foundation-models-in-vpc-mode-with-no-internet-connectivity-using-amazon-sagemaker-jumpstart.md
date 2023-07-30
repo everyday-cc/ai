@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 894
         height: 447
         isCached: true
-  - title: "Meta’s LLaMA 2 AI models available through Amazon SageMaker JumpStart"
-    excerpt: "AWS is now offering Meta's recently disclosed LLaMA 2 AI models through Amazon SageMaker JumpStart. This should make it easier for users to develop and"
-    publishedDateTime: 2023-07-25T12:56:00Z
-    webUrl: "https://www.techzine.eu/news/applications/109274/metas-llama-2-ai-models-available-through-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 34
   - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
     excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
     publishedDateTime: 2023-07-27T13:00:00Z

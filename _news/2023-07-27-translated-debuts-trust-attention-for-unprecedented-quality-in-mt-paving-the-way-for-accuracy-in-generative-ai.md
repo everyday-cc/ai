@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/translated-debuts-trust-attention
 webUrl: "https://venturebeat.com/business/translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3789,2525,x684,y2,safe&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
-    excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
-    publishedDateTime: 2023-07-29T16:51:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/path-to-predictive-analytics-generative-ai-paving-way-immersive-data-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_graph_with_colorful_lines_behind_it._Colorful_futuris_2f638b4b-7c38-4b18-ab88-137857cb6578.png?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "5NhjlUeLxVovwytPIid9KjECwZY99BllSrgOv6z8crtunOvQF3+ZsgrvSfQ+0K7yvRxKBbjqBj2L2thkt9KkrqVoQvb5Tt0f1KVlsLDUcHDGJ/OBElSJ8xgQSteUNY/lvCesayiFNcBwACp4pWUcjXa3E5ryJRLk09Mzy2VVII4OQZyeXaD74bPz3i3t+VwhvcRh26zC2dTAGv98pq1eldI8RqwIKwbdl0ORtEV0ukWLDp7cRSg8W6XAJjHPKocgWsEDEL0InjGouw7RrL0aWzzIWfIaF4hgnixOWCifs2vIupKDq9RnTv+VxrR+uTDh8fS2NRFORXlfYBN6OKbH5LdxLKKHxbWBAg8YmsL2cpiHmiaHYAkUJ2lkHCCsRXBprNZY+1tYxbs8CpzSNUzRLJ3l40evlH1B9l4UCYKbMJ7V5xHGVeY4pVJ3itIeKlN8FSOujC0rAnUCybxxNdSoUUP10hXu5Ka1jn0tAH8he1C03v7MFeDZtpHpPF5bXuuq7hGAOOTvRw54mqqDlrxy+g==;BYu6yuYxScJkZ6m0Hd7BJg=="

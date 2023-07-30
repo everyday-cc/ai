@@ -123,15 +123,6 @@ related:
         width: 1140
         height: 760
         isCached: true
-  - title: "Threads Is the Latest Move in the AI Arms Race"
-    excerpt: "Mark Zuckerberg's choice to launch Meta's Threads app stands in stark contrast to Elon Musk’s recent moves to charge for data from X."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
     excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
     publishedDateTime: 2023-07-25T18:51:00Z
