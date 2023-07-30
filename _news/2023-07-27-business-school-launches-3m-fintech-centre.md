@@ -152,7 +152,7 @@ related:
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 12
+    quality: 14
   - title: "PKKFF Tenet Fintech Group Inc."
     excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
     publishedDateTime: 2023-07-27T00:00:00Z

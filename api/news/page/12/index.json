@@ -2,6 +2,501 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-21-amds-best-bet-on-ai-might-not-be-what-you-think.md",
+      "title": "AMD's Best Bet on AI Might Not Be What You Think",
+      "excerpt": "But FPGAs are a big bet on AI, too, and still get little love from the investor community. The addition of Xilinx remade AMD's embedded segment into a high-growth powerhouse that raked in over $1.5 billion in sales last quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740371/semiconductors-design-chips-ai.jpg",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-roboticsan-extension-of-the-ongoing-digital-transformation.md",
+      "title": "Robotics—An Extension Of The Ongoing Digital Transformation",
+      "excerpt": "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "publishedDateTime": "2023-07-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-how-advancements-in-genai-can-make-self-driving-operations-a-reality.md",
+      "title": "How Advancements In GenAI Can Make Self-Driving Operations A Reality",
+      "excerpt": "This piece will outline how AIOps can better ensure websites, applications, databases and infrastructure—including the underlying networks—function better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9625753df287d02bd34f2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
+      "publishedDateTime": "2023-07-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance.md",
+      "title": "Nauticus Robotics Inc. (KITT) Stock: Tracking the Weekly Performance",
+      "excerpt": "The stock of Nauticus Robotics Inc. (KITT) has gone down by -4.83% for the week, with a -6.19% drop in the past month and a -18.60% drop in the past quarter. The volatility ratio for the week is 6.14%,",
+      "sourceUrl": null,
+      "webUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
+      "originalUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsheater.com/wp-content/uploads/2020/01/Image-24.png",
+          "width": 640,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsheater",
+        "domain": "newsheater.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-microsoft-introduces-the-public-preview-of-vector-search-feature-in-azure-cognitive-search.md",
+      "title": "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search",
+      "excerpt": "Subscribe for free. At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=828c7b90-44e4-4ae8-b677-efba991a6bda",
+      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=828c7b90-44e4-4ae8-b677-efba991a6bda",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/07/microsoft-launches-vector-search/en/headerimage/generatedHeaderImage-1689764249103.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-looking-back-reinventing-marketing-mix-modeling-with-machine-learning.md",
+      "title": "Looking Back: Reinventing Marketing Mix Modeling With Machine Learning",
+      "excerpt": "In today’s marketing world, we’re seeing the renaissance of a practical solution that was a notable innovation in its time. That solution is marketing mix modeling or MMM. MMM is a powerful tool for understanding marketing effectiveness and planning marketing strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a0f925aeecbf093c4c77/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/",
+      "publishedDateTime": "2023-07-21T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-2-ai-stocks-you-can-buy-right-now-for-under-100.md",
+      "title": "2 AI Stocks You Can Buy Right Now for Under $100",
+      "excerpt": "However, you don't need boatloads of cash to get exposure to this latest Wall Street trend. If you've got just $100 (which you don't need for contingencies and paying bills), you could buy a few shares of one of these AI stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-tsmc-says-skilled-worker-shortage-delays-start-of-arizona-chip-production.md",
+      "title": "TSMC says skilled worker shortage delays start of Arizona chip production",
+      "excerpt": "Shares of Taiwan Semiconductor Manufacturing Co slumped more than 3% Friday after the world’s largest contract chipmaker flagged a 10% drop in 2023 sales and said production due to start next year at its first plant in Arizona would be delayed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/21/tech/tsmc-arizona-production-delay/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/21/tech/tsmc-arizona-production-delay/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230721044455-tsmc-arizona-factory-delay-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/21/tech/tsmc-arizona-production-delay/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/tech/tsmc-arizona-production-delay/index.html",
+      "publishedDateTime": "2023-07-21T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-tesla-plans-to-license-its-full-self-driving-system-to-other-automakers.md",
+      "title": "Tesla plans to license its Full Self-Driving system to other automakers",
+      "excerpt": "Tesla set new internal records for EV production and deliveries in Q2 as Cybertruck production (sorta?) comes online..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
+      "originalUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/vXCVbfJvezW.j8ozjbdb7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2018-10/4e8819d0-d7cd-11e8-bfea-1933ac05be15.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
+      "publishedDateTime": "2023-07-21T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-industrial-robotics-startup-ati-motors-raises-1085-million-funding-from-true-ventures-others.md",
+      "title": "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others",
+      "excerpt": "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-41440,msid-102011308/ati-motors-ceo-saurabh-chandra-r-and-cto-naveen-arulselvan-l.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms",
+      "publishedDateTime": "2023-07-21T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-ai-alone-cant-save-the-chip-industry-from-a-downturn.md",
       "title": "AI Alone Can’t Save the Chip Industry From a Downturn",
       "excerpt": "PCs, smartphones and memory still account for most of chip production and remain in a slump.",
@@ -702,488 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.md",
-      "title": "AI LLM on flagship devices might be possible with new Qualcomm chip",
-      "excerpt": "Future Qualcomm processors might provide AI LLM on flagship devices for end users, and this will have some benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Qualcomm-Logo-2018-AM-AH-3-new1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html/amp",
-      "publishedDateTime": "2023-07-20T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-how-to-spot-an-ai-cheater.md",
-      "title": "How to spot an AI cheater",
-      "excerpt": "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models",
-      "originalUrl": "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-us-chip-curbs-are-scaring-venture-capital-firms-from-chinese-ai-start-ups-but-not-us-says-bluerun-ventures-china.md",
-      "title": "US chip curbs are scaring venture capital firms from Chinese AI start-ups, but not us, says BlueRun Ventures China",
-      "excerpt": "AI development in China could be difficult in the near term, but that problem can be solved in the long run, says BRV China managing partner Jui Tan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/8f1e3339-b200-4c6b-b21a-a339874b9e78_5cd8012b.jpg?itok=Vbg9QfnX&v=1689851292",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
-      "publishedDateTime": "2023-07-20T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-james-cameron-on-dangers-of-artificial-intelligence-i-warned-you-guys-in-1984.md",
-      "title": "James Cameron On Dangers Of Artificial Intelligence: ‘I Warned You Guys In 1984!'",
-      "excerpt": "The “Terminator” director said he’s more concerned AI will cause a nuclear disaster than write “a good story.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text",
-      "originalUrl": "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64b95c1f2200006c006b127e.jpeg?ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp",
-      "publishedDateTime": "2023-07-20T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-norad-commander-extended-interview-potential-threats-ai-and-russia-part-1.md",
-      "title": "NORAD commander extended interview: potential threats, AI and Russia (Part 1)",
-      "excerpt": "Lester Holt interviews General Glen D. VanHerck, the commander of NORAD who oversees security of North American aerospace, about monitoring potential threats, artificial intelligence and interactions with Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/norad-commander-extended-interview-potential-threats-ai-and-russia-part-1-188920389752",
-      "originalUrl": "https://www.nbcnews.com/video/norad-commander-extended-interview-potential-threats-ai-and-russia-part-1-188920389752",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/WA_NY_HOLT_NORAD_FILM_FINAL_071923._frame_286-su5zmg.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188920389752",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188920389752",
-      "publishedDateTime": "2023-07-20T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-awss-ishit-vachhrajani-on-how-leaders-can-navigate-generative-ai.md",
-      "title": "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI",
-      "excerpt": "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/07/AWS-eSPEAKS-thumbnail-copy-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-artificial-intelligence-on-the-battlefield-lawmakers-weigh-the-risks-and-benefits-of-military-ai.md",
-      "title": "Artificial Intelligence on the Battlefield: Lawmakers weigh the risks and benefits of military AI",
-      "excerpt": "“The country that is able to most rapidly and effectively integrate new technology into warfighting wins,” Alexandr Wang, CEO of Scale AI, said. “If we don’t win on AI, we risk ceding global influence, technological leadership and democracy to strategic adversaries like China.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
-      "originalUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/jTXM2HgirZ1osy9b2haXNugKkyc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ZIBS2YHKN5D6LH6IIG3OIY6NHE.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
-      "publishedDateTime": "2023-07-20T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFTV",
-        "domain": "wftv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market.md",
-      "title": "AI, Big Tech And Blue Chips: These 3 Charts Signal Shift In The Market",
-      "excerpt": "One of the most popular ETFs investing in AI-driven equities, the Global X Artificial Intelligence & Technology ETF AIQ -2.75% + Free Alerts , fell 2.7% in a single day, marking its second-worst performance since the start of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/23/07/33312274/ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market",
-      "originalUrl": "https://www.benzinga.com/markets/equities/23/07/33312274/ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/editorial.benzinga.com/wp-content/uploads/2023/07/20161847/DJI_2023-07-20_21-40-00_e63bc-1-1024x875.png",
-          "width": 1024,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33312274",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33312274",
-      "publishedDateTime": "2023-07-20T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat.md",
-      "title": "UN security council delegates urge AI controls to defuse potential global threat",
-      "excerpt": "The United Nations supports calls for a separate UN entity to facilitate collective efforts to govern artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "originalUrl": "https://www.zdnet.com/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cf3cdc6d1b378c3ca5e98e61eece6580fe50846a/2023/07/20/0a08f888-c62e-4d03-8dbb-516a6290b6b0/gettyimages-1543007160.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/",
-      "publishedDateTime": "2023-07-20T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-google-is-reportedly-testing-an-ai-tool-that-can-write-this-article.md",
-      "title": "Google Is Reportedly Testing an AI Tool That Can Write This Article",
-      "excerpt": "Google has already shown its new Genesis tool to several of the nation's top news outlets and is positioning it as an assistant for journalists, The New York Times reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article",
-      "originalUrl": "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03Vkml6DGAYaSTMqJh3hSxM-1.fit_lim.size_1200x630.v1689879397.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

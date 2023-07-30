@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/leveraging-high-performance-computing-to-
 webUrl: "https://www.ibm.com/blog/leveraging-high-performance-computing-to-help-solve-complex-challenges-across-industries/"
 type: article
 quality: 73
-heat: 75
+heat: 73
 published: true
 
 provider:

@@ -46,20 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI can’t tell if something was written by AI after all"
-    excerpt: "OpenAI shuttered a tool that was supposed to tell human writing from AI due to a low accuracy rate. In an (updated) blog, OpenAI said it decided to end its AI classifier as of July 20th. “We are working to incorporate feedback and are currently researching more effective provenance techniques for text,"
-    publishedDateTime: 2023-07-25T21:30:00Z
-    webUrl: "https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy"
+  - title: "OpenAI’s ChatGPT is too good for its own AI to detect"
+    excerpt: "When OpenAI launched Classifier in January, it was supposed to have been smart enough to detect when a user (say, a student) used ChatGPT or another AI program to author a work. OpenAI pitched Classifier as a way for a teacher to identify if an essay, for example, had been authored by AI instead of as an original work."
+    publishedDateTime: 2023-07-26T13:28:00Z
+    webUrl: "https://www.pcworld.com/article/2008021/openais-ai-is-too-good-for-its-own-ai-to-detect.html"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: PC World
+      domain: pcworld.com
+    quality: 49
 
 secured: "+auZ5YBIruYSLVpJIk0o7jBZctIFE6tzZoK9+p4vVmnPloa2rNft5lsh8a5Cvw7YDjUe36u28Jj5dCaVhld9DvmQIRE3ld3p0FYZOC6LAqe6OmlNWpNbjDYvwgLleefgix7Pchoqi/92/gehbqu2id5lDaPzCc7MuRYlsKgmFgcm7TGR7kaIo5yohiwvEFCsYqN/eihd+Jo+QvUacA/vWy5YMKwSC8q5iNaVDB7GCBay13pIFpCoo/HBDGxJuJ6OIGPJ0mnpOXNigbcXKBDkeS3s7fBKXZfCEqQq85+h/vzVzsxrjeXIKUn2fQ79SjAGIZ0Ks+2lMfc5W07ijS6nJg0Ooy3AVTrnQQ4fByZ4GTZgXU6wXQvHfONBSVPwlcIMtnIWCBHaw7r+1J37GqDchAvsTsDYOjycDX8RahyqIO7bBrc2i3j6EJaKF64Z6WylTIdrsi+tlELKcVWMe8NQdLapt/iPGsXVT6PtlGAtg2DjebNEU0CyJrnXfKURSUYGgln+xN3dJFacSJZ6Xgrr4g==;0GWLERqPJv9CwXEHbeO6hw=="
 ---

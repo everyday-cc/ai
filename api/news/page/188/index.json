@@ -2,21 +2,21 @@
   "page": 188,
   "value": [
     {
-      "path": "_news/2022-05-12-axel-gern-to-head-torc-robotics-technology-and-development-center-in-europe.md",
-      "title": "Axel Gern to head Torc Robotics Technology and Development Center in Europe",
-      "excerpt": "Torc Robotics has tapped Axel Gern, a long-time leader in truck automation, to head its recently opened Torc Europe GmbH engineering facility in Stuttgart, Germany. Gern has been named senior vice president of engineering and managing director for Torc Europe at the technology and software development center.",
+      "path": "_news/2023-03-26-theres-no-such-thing-as-artificial-intelligence.md",
+      "title": "There's No Such Thing as Artificial Intelligence",
+      "excerpt": "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,144 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T07:34:00-07:00",
+      "publishedDateTime": "2023-03-26T00:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
-      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
-      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "publishedDateTime": "2022-05-12T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ai-fintech-tifin-raises-109-million-series-d.md",
-      "title": "AI Fintech TIFIN Raises $109 Million Series D",
-      "excerpt": "TIFIN has raised $109 million in Series D funding at a valuation of $842 million. TIFIN shared that Franklin Resources (NYSE: BEN) and Motive Partners, have",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence.jpeg",
-          "width": 1146,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/amp/",
-      "publishedDateTime": "2022-05-12T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round.md",
-      "title": "Data-driven fintech TIFIN valued at $842M in new $109M Series D round",
-      "excerpt": "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
-      "publishedDateTime": "2022-05-12T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -179,26 +49,25 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-12-how-ai-can-improve-services-revenue-and-customer-success.md",
-      "title": "How AI can improve services revenue and customer success",
-      "excerpt": "Having real-time data that can be modeled using AI and machine learning can help to solve customer success challenges today.",
+      "path": "_news/2023-03-26-generative-ai-in-the-enterprise-use-cases-early-learnings.md",
+      "title": "Generative AI In The Enterprise - Use Cases & Early Learnings",
+      "excerpt": "GPT becomes an attractive alternative for companies looking to switch their manual call centers into a more responsive, always-on, and more efficient capability.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
-      "originalUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
+      "webUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
+      "originalUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 725,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -206,9 +75,166 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
-      "publishedDateTime": "2022-05-12T05:20:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "publishedDateTime": "2023-03-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028.md",
+      "title": "Artificial Intelligence AI in Agriculture Market: Latest Growth Research by Top Players 2023-2028",
+      "excerpt": "Artificial Intelligence (AI) in Agriculture Market size is being driven by the growing adoption of the robots in agriculture. Increasing consumption and rising requirement of better yield of crops are estimated to be one of the major factors that is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028-2023-03-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028-2023-03-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-artificial-intelligence-godfather-on-ai-possibly-wiping-out-humanity-its-not-inconceivable.md",
+      "title": "Artificial intelligence 'godfather' on AI possibly wiping out humanity: ‘It's not inconceivable’",
+      "excerpt": "Geoffrey Hinton, a computer scientist who has been called \"the godfather of artificial intelligence\", says it is \"not inconceivable\" that AI may develop to the point where it poses a threat to humanity. The computer scientist sat down with CBS News this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bd0e383-31e0-4b20-b860-95eb669914f9/84efbaae-2846-497f-8bd1-c4c88a7b524b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable.amp",
+      "publishedDateTime": "2023-03-25T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights.md",
+      "title": "Data through a prism: AI-powered analysis key to gleaning data insights",
+      "excerpt": "How AI-powered business intelligence enables CFOs to use data to glean insights rather than impose their own metrics onto them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
+      "originalUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/AI.GettyImages-627546265.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
+      "publishedDateTime": "2023-03-25T15:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -231,26 +257,25 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-12-biotech-ceo-were-only-growing-stronger-with-ai-robotics.md",
-      "title": "Biotech CEO: We're Only Growing Stronger With AI, Robotics",
-      "excerpt": "We're dependent on data, we're dependent on better artificial intelligence that enables us to use models ... Again, we use AI, we use robotics, we use data science, and we use it all at the edge of where the technology is today as a way to enable our ...",
+      "path": "_news/2023-03-25-top-5-stories-of-the-week-generative-ai-market-heating-up-even-more.md",
+      "title": "Top 5 stories of the week: Generative AI market heating up (even more)",
+      "excerpt": "This she found in a March 2021 AI research paper, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” Although it led to firings, researchers decided it was time to look back at the explosive paper — which in hindsight ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
-      "originalUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/679121/robotics-lab.jpg",
-          "width": 2121,
-          "height": 1414,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/toa-heftiba-9n_tf0_YANE-unsplash-e1679695283281.jpg?fit=800%2C546&strip=all",
+          "width": 800,
+          "height": 546,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -258,16 +283,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T03:01:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "publishedDateTime": "2023-03-25T04:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -283,145 +308,24 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources.md",
-      "title": "China Scrutiny Stymies JD.Com Fintech Unit's $2 Billion Hong Kong IPO - Sources",
-      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
+      "path": "_news/2023-03-25-who-will-take-care-of-italys-older-people-robots-maybe.md",
+      "title": "Who Will Take Care of Italy’s Older People? Robots, Maybe.",
+      "excerpt": "would be if a “social robot can assist in care.” Leaps in artificial intelligence would only make robots more responsive, she said, keeping older people self-sufficient longer, and providing more relief to caregivers. “We all have to look for all the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources-3504473",
-      "originalUrl": "https://www.ibtimes.com/china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources-3504473",
+      "webUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-apeejay-education-aws-launch-nep-accelerator-programme.md",
-      "title": "Apeejay Education, AWS launch NEP Accelerator programme",
-      "excerpt": "This is the first program in India to support the technology transformation of education institutions as per the NEP 2020, according to Apeejay Education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
-      "originalUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/img/2022/05/12/1600x900/congress-santiago-american-business-technology-services-america_b095090a-3ae3-11eb-95ec-0fdf1bc83475_1652346526516.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
-      "publishedDateTime": "2022-05-12T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022.md",
-      "title": "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022",
-      "excerpt": "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
-      "originalUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
-      "publishedDateTime": "2022-05-12T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
-      "title": "The Man Who Controls Computers With His Mind",
-      "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png",
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/10italy-aging-robots-01-pzvt/10italy-aging-robots-01-pzvt-facebookJumbo.jpg",
           "width": 1050,
           "height": 550,
           "title": null,
@@ -431,12 +335,12 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
-      "publishedDateTime": "2022-05-12T01:59:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "publishedDateTime": "2023-03-25T02:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
+        "name": "The New York Times",
         "domain": "nytimes.com",
         "images": [
           {
@@ -461,70 +365,19 @@
       ]
     },
     {
-      "path": "_news/2022-05-12-californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge.md",
-      "title": "California’s AI-Powered Wildfire Prevention Efforts Contend With Data Challenge",
-      "excerpt": "The state’s utilities are racing to build AI models capable of identifying equipment problems that could cause wildfires.",
+      "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
+      "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
+      "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "originalUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-542314/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "publishedDateTime": "2022-05-12T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-at-jpmorgan-chase-upskilling-goes-hand-in-hand-with-innovation.md",
-      "title": "At JPMorgan Chase, Upskilling Goes Hand-in-Hand With Innovation",
-      "excerpt": "It sounds like a scene from your typical automotive race, but it’s not. It’s actually the championship round of the 2021 Amazon Web Services DeepRacer, the global competition in which technologists flex their machine learning savvy to guide autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
-      "originalUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2022-05/JPMC_Spotlight_Thumbnail_1024x576.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -536,57 +389,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:27:00-07:00",
+      "publishedDateTime": "2023-03-25T00:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Built In Chicago",
-        "domain": "builtinchicago.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
-      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
-      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
-      "originalUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -602,26 +412,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-12-this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster.md",
-      "title": "This startup hopes photonics to will get us to AI systems faster",
-      "excerpt": "Meanwhile, the speed of AI computation doubles every 3 or 4 months ... Salience Labs is an Oxford-based startup that thinks it has the answer, by combining an ultra-high-speed multi-chip processor ...",
+      "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
+      "title": "Object Recognition Imaging Systems Market Growth by 2031",
+      "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/f74lQ-V7xXg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -629,12 +439,98 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "publishedDateTime": "2022-05-12T01:09:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-tech-summit-on-artificial-intelligence-robotics.md",
+      "title": "Tech Summit on Artificial Intelligence & Robotics",
+      "excerpt": "Tech Summit on Artificial Intelligence & Robotics will be held in Tokyo, Japan. AI & Robotics 2023 offers an opportunity to interact with the researchers in the field of AI & Robotics, making Congress a perfect platform to share experience, foster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "originalUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "publishedDateTime": "2023-03-24T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year.md",
+      "title": "The top 10 AI mobile apps have already pulled in over $14 million this year",
+      "excerpt": "What's clear is that integrating \"AI\" features and references to things like ChatGPT or OpenAI has been helping drive demand.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "publishedDateTime": "2023-03-24T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
         "domain": "techcrunch.com",
         "images": [
           {
@@ -658,21 +554,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
-      "title": "Microsoft session highlights from SAP Sapphire 2022",
-      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
+      "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
+      "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
+      "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "webUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
+      "originalUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
-          "width": 1024,
-          "height": 768,
+          "url": "https://d.newsweek.com/en/full/2213891/cat-royale-utopia-environment.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -680,16 +576,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:00:33-07:00",
+      "ampWebUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "publishedDateTime": "2023-03-24T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -697,445 +593,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-aws-deepracer-program-teaches-developers-about-emerging-tech.md",
-      "title": "AWS DeepRacer program teaches developers about emerging tech",
-      "excerpt": "Different solutions are available for developers to learn more about AI and machine learning, including projects like the AWS DeepRacer simulator. “Developers can start with the cloud-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "originalUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Mike-Miller-AWS-Summit-SF-2022-1.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030.md",
-      "title": "Artificial Neural Network Market | New Business Opportunities and Investment Research Report 2030",
-      "excerpt": "Furthermore, increasing use of artificial neural network in IoT and data analytics is expected to provide lucrative opportunities to the growth of the artificial neural network market. Major ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
-      "title": "Google offers a more modest vision of the future",
-      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
-      "publishedDateTime": "2022-05-11T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bdnews24",
-        "domain": "bdnews24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-synergies-raises-12m-to-give-factory-managers-an-ai-analytics-assistant.md",
-      "title": "Synergies raises $12M to give factory managers an AI analytics assistant",
-      "excerpt": "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
-      "originalUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
-      "publishedDateTime": "2022-05-11T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ibm-customers-interested-in-the-cloud-can-now-run-its-software-on-aws.md",
-      "title": "IBM customers interested in the cloud can now run its software on AWS",
-      "excerpt": "Customers using AWS will be able to access IBM software for automation, data and artificial intelligence, security and sustainability that’s built on Red Hat OpenShift Service on AWS. Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/bulletins/ibm-aws-cloud-software",
-      "originalUrl": "https://www.protocol.com/bulletins/ibm-aws-cloud-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-ibms-software-portfolio-will-now-be-available-on-aws-raising-questions-about-the-future-of-ibm-cloud-less-than-br-greater-than-less-than-p-greater-than.jpg?id=28137119&width=400&coordinates=0%2C208%2C0%2C209&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/ibm-aws-cloud-software-2657302123",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-aws-cloud-software-2657302123",
-      "publishedDateTime": "2022-05-11T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
-      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
-      "excerpt": "When it comes to generalized AI, \"we have no idea how this is going to happen,\" IBM CEO Arvind Krishna says. That isn't stopping IBM from building AI tools that are now close to necessary for businesses to stay competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-evisort-embeds-ai-into-contract-management-software-raises-100m.md",
-      "title": "Evisort embeds AI into contract management software, raises $100M",
-      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! For lawyers and the organizations that employ them, time is quite literally money. The business of contract management software is all about helping to optimize that process,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
-      "originalUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
-      "publishedDateTime": "2022-05-11T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai.md",
-      "title": "The Startup Scouting Platform Championing Corporate Innovation with AI",
-      "excerpt": "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai",
-      "originalUrl": "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita.md",
-      "title": "AI, philosophy and religion: what machine learning can tell us about the Bhagavad Gita",
-      "excerpt": "Using machine learning, we analysed meaning and feeling in different translations of an ancient Hindu holy text.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "originalUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/462366/original/file-20220511-22-g63bhm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=210&fit=crop",
-          "width": 320,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "publishedDateTime": "2022-05-11T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-new-robotics-gaming-school-coming-to-piedmont.md",
-      "title": "New robotics & gaming school coming to Piedmont",
-      "excerpt": "“We know that there will be a huge increase in the number of positions available throughout our state and nation in robotics in gaming in artificial intelligence,” Dr. Contreras said. District ...",
-      "sourceUrl": null,
-      "webUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
-      "originalUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/05/Capture20.png?w=1280",
-          "width": 640,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
-      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
-      "publishedDateTime": "2022-05-11T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGHP",
-        "domain": "myfox8.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1149,5 +606,5 @@
       ]
     }
   ],
-  "nextPage": 189
+  "nextPage": null
 }

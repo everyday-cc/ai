@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
+      "title": "Artificial intelligence, the airplane of the brain?",
+      "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
+      "originalUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/0q5qXMcy-sM7hl5Nwu7g0W0QvlU=/1200x0/filters:focal(1262x338:1272x348)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VLDX7LS4JRGWFHYN6XXC5HPQNM.jpg",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
+      "publishedDateTime": "2023-07-30T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-warning-programming-and-learning-can-be-complementary.md",
       "title": "Warning! Programming And Learning Can Be Complementary!",
       "excerpt": "Starting with ‘why we like programming,’ Solar-Lezama pointed out the value of generalization, modularity and encapsulation.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -62,7 +105,7 @@
       "originalUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -559,6 +602,40 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-future-ai-algorithms-have-potential-to-learn-like-humans-say-researchers.md",
+      "title": "Future AI algorithms have potential to learn like humans, say researchers",
+      "excerpt": "Memories can be as tricky to hold onto for machines as they can be for humans. To help understand why artificial agents develop holes in their own cognitive processes, electrical engineers at The Ohio State University have analyzed how much a process called “continual learning” impacts their overall performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/996196",
+      "originalUrl": "https://www.eurekalert.org/news-releases/996196",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1250,93 +1327,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-the-financial-services-industry-is-employing-machine-learning.md",
-      "title": "How the Financial Services Industry Is Employing Machine Learning",
-      "excerpt": "TradeTalks broadcasts live from MarketSite in Times Square, the historic Philadelphia Trading Floor and Global Industry Conferences and Events. Featuring conversations with top industry thought ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
-      "originalUrl": "https://www.nasdaq.com/videos/how-the-financial-services-industry-is-employing-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
-      "title": "Artificial Intelligence Powers A New Era In Construction",
-      "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
-      "originalUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeea4ea7246c2a9be9bcff/0x0.jpg?format=jpg&width=1200",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
-      "publishedDateTime": "2023-07-12T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

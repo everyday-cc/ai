@@ -86,48 +86,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google and Microsoft Paying Big to Play in AI"
-    excerpt: "The tech giants at the forefront of the AI race show recovering growth in their core businesses."
-    publishedDateTime: 2023-07-25T22:49:00Z
-    webUrl: "https://www.wsj.com/articles/google-and-microsoft-paying-big-to-play-in-ai-48cae808"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-823368/social"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Microsoft charges ahead with spending to serve AI demand"
-    excerpt: "Microsoft on Tuesday laid out an aggressive spending plan to meet demand for its new artificial intelligence services after surpassing Wall Street estimates for fiscal fourth-quarter revenue and profit."
-    publishedDateTime: 2023-07-25T22:43:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2023-07-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/jQHWXRMLG5Y_jyA1ZB6WFkLiKgw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TP3J7GYZQFJPRMG5M7QAFSB3M4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft Touts AI as Cloud Demand Cools"
-    excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
-    publishedDateTime: 2023-07-25T21:42:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-msft-q4-earnings-report-2023-3d6ebe64?mod=news_archive"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-818044/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft to supply AI tech to Japan government -Nikkei"
     excerpt: "Microsoft Corp will provide artificial intelligence technology to the Japanese government after enhancing the processing power of its data centres located within the country, the Nikkei newspaper reported on Thursday."
     publishedDateTime: 2023-07-26T22:27:00Z
@@ -185,22 +143,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/22.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
-    excerpt: "Company’s $56.2bn revenue beat Wall Street expectations but slowing growth for cloud service Azure proved to be a dampener"
-    publishedDateTime: 2023-07-25T21:41:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/25/microsoft-q2-2023-earnings-report-share-drop"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/25/microsoft-q2-2023-earnings-report-share-drop"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/25/microsoft-q2-2023-earnings-report-share-drop"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/6e4f41537e3e1a14b26a759024914f0d87905a73/0_318_5454_3274/master/5454.jpg?width=620&quality=85&auto=format&fit=max&s=9db530a297607be53626c3c00ed90637"
-        width: 620
-        height: 372
         isCached: true
   - title: "Exclusive: Amazon has drawn thousands to try its AI service competing with Microsoft, Google"
     excerpt: "Amazon.com’s cloud division has drawn thousands of customers to try out its service vying with Microsoft and Google in a key area of artificial intelligence, an executive told Reuters."
@@ -363,20 +305,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
-    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
-    publishedDateTime: 2023-07-25T20:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/25/microsoft-beats-quarterly-estimates/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O0X3-BASEIMAGE.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Microsoft foresees gradual AI adoption instead of rapid uptake"
     excerpt: "Thanks to an AI wave that helped Microsoft increase its customer numbers, the software giant expected its intelligent cloud service, especially Azure, to drive its growth."
     publishedDateTime: 2023-07-26T02:48:00Z
@@ -460,20 +388,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17e8a96e83ea-ebca3c6e05ec-1000/amy-hood-microsoft.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Microsoft beats quarterly estimates as AI boosts cloud business and spending"
-    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month \"Copilot\" for its Microsoft 365 service that can summarize a day's worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
-    publishedDateTime: 2023-07-25T20:03:00Z
-    webUrl: "https://gazette.com/news/us-world/microsoft-beats-quarterly-estimates-as-ai-boosts-cloud-business-and-spending/article_3fbee5bc-0317-59eb-8db3-01b62b975517.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/d/82/d829650c-ab9d-5666-a3cc-a48c3b8a0aa0/64c02b4890fd4.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
         isCached: true
   - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
     excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
@@ -637,15 +551,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
-  - title: "Microsoft Earnings Top Street Forecasts On Solid Azure Cloud Growth"
-    excerpt: "We remain focused on leading the new AI platform shift, helping customers use the Microsoft Cloud to get the most value out of their digital spend, and driving operating leverage,\" said CEO CEO Satya Nadella."
-    publishedDateTime: 2023-07-25T20:10:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-earnings-top-street-forecasts-on-solid-azure-cloud-growth"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 34
   - title: "Microsoft reports slowing cloud growth as it awaits AI revenue"
     excerpt: "The Redmond-based software giant has been introducing generative AI products and services to help boost flagging cloud sales."
     publishedDateTime: 2023-07-26T14:12:00Z
@@ -673,15 +578,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
-  - title: "Microsoft reports $20.1B quarterly profit as it promises to lead ‘the new AI platform shift’"
-    excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent Meta in selling the latest artificial intelligence technology."
-    publishedDateTime: 2023-07-25T21:39:00Z
-    webUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
     publishedDateTime: 2023-07-30T04:59:00Z

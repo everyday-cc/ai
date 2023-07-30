@@ -2,6 +2,572 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-07-10-digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace.md",
+      "title": "DigitalOcean Adds AI Capabilities With Acquisition Of Paperspace",
+      "excerpt": "The buzz around generative AI is forcing cloud providers to move fast in adding GPU-based infrastructure and machine learning platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac198d45697841e291cf25/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/10/digitalocean-adds-ai-capabilities-with-acquisition-of-paperspace/amp/",
+      "publishedDateTime": "2023-07-10T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm.md",
+      "title": "Tandem Repeat Is Revolutionizing Sustainable Fashion With AI-Designed Squid Proteins To Reduce Plastic Harm",
+      "excerpt": "Squitex technology is poised to transform the fashion industry with a sustainable, non-polluting replacement for petroleum and animal-based fibers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac19ea0bcf58cde5d24a23/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/10/tandem-repeat-is-revolutionizing-sustainable-fashion-with-ai-designed-squid-proteins-to-reduce-plastic-harm/amp/",
+      "publishedDateTime": "2023-07-10T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-want-to-build-your-own-ai-chatbot-say-hello-to-open-source-huggingchat.md",
+      "title": "Want to build your own AI chatbot? Say hello to open-source HuggingChat",
+      "excerpt": "ChatGPT may be dominating AI coverage but If you're super-geeky, you can build your own chatbot using HuggingChat and a few other tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "originalUrl": "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9ac0b2cb14a08086d5a4539b253e5361f0ab29cc/2023/07/10/8797e942-96a6-4e66-820a-52a31475028f/gettyimages-1246536583.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+      "publishedDateTime": "2023-07-10T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-researchers-use-machine-learning-to-identify-high-risk-surgery-patients.md",
+      "title": "Researchers use machine learning to identify high-risk surgery patients",
+      "excerpt": "Researchers and physicians at the University of Pittsburgh and UPMC used machine learning to create and deploy an accurate and flexible model for predicting patients at high-risk for complications after surgery,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-machin-1.jpg",
+          "width": 1454,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-machine-high-risk-surgery-patients.amp",
+      "publishedDateTime": "2023-07-10T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-a-creepy-collective-of-nine-ai-based-robots-showcased-at-un-news-conference.md",
+      "title": "A creepy collective of nine AI-based robots showcased at UN news conference",
+      "excerpt": "As one of the world's leading institutions for ICT technology, the ITU is naturally highly interested in artificial intelligence and the increasingly prevalent new generation of",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html",
+      "originalUrl": "https://www.techspot.com/news/99335-creepy-collective-nine-ai-based-robots-showcased-un.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-10-image-10.jpg",
+          "width": 2000,
+          "height": 1308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-industrial-robotics-europe.md",
+      "title": "AI Industrial Robotics - Europe",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$2.50bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.34%, resulting in a market volume of US$6 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-senators-to-receive-first-ever-classified-briefing-on-artificial-intelligence.md",
+      "title": "Senators to receive first ever classified briefing on artificial intelligence",
+      "excerpt": "Senators will receive their first ever classified briefing on artificial intelligence at 3 p.m. Tuesday from Director of National Intelligence Avril Haines and other administration officials.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/4089170-senators-to-receive-first-ever-classified-briefing-on-artificial-intelligence/",
+      "originalUrl": "https://thehill.com/homenews/senate/4089170-senators-to-receive-first-ever-classified-briefing-on-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/09/hainesavril_090722gn_w.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/4089170-senators-to-receive-first-ever-classified-briefing-on-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/4089170-senators-to-receive-first-ever-classified-briefing-on-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-10T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry.md",
+      "title": "GPU-as-a-Service Accelerates Artificial Intelligence AI for the Telco Industry",
+      "excerpt": "ActivePort & Radian Arc make a strategic business alliance to enable high-performance AI. ActivePort & Radian Arc are excited to reveal their extended partnership.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/07/GPU-as-a-Service-Accelerates-Artificial-Intelligence-AI-for-the-Telco.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/",
+      "publishedDateTime": "2023-07-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-powered-efficiency-unleashing-the-true-potential-of-saas-startups.md",
+      "title": "AI-Powered Efficiency: Unleashing The True Potential Of SaaS Startups",
+      "excerpt": "Let's dive into the efficiency gains that SaaS startups can achieve through integrating AI and a comprehensive framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/ai-powered-efficiency-unleashing-the-true-potential-of-saas-startups/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/ai-powered-efficiency-unleashing-the-true-potential-of-saas-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a81b762b05f9c3e94c321a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/ai-powered-efficiency-unleashing-the-true-potential-of-saas-startups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/ai-powered-efficiency-unleashing-the-true-potential-of-saas-startups/amp/",
+      "publishedDateTime": "2023-07-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launched-forbes-ai-newsletter-july-8th.md",
+      "title": "Jobs Report Comes In Higher Than Expected And Meta’s Answer To Twitter Has Launched - Forbes AI Newsletter July 8th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac0b4d7a7ba74ebc534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/amp/",
+      "publishedDateTime": "2023-07-10T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
+      "title": "AI nursing ethics: viability of robots and artificial intelligence in nursing practice",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/994988",
+      "originalUrl": "https://www.eurekalert.org/news-releases/994988",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/34c751bd-86ee-4716-8726-7d87eb64b855/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-what-is-vibration-analysis-and-how-can-it-help-optimize-predictive-maintenance.md",
+      "title": "What is vibration analysis and how can it help optimize predictive maintenance?",
+      "excerpt": "Vibration analysis is a powerful diagnostic tool for identifying, monitoring and preventing mechanical failures in rotating and reciprocating machinery.\nThe post What is vibration analysis and how can it help optimize predictive maintenance? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/vibration-analysis/",
+      "originalUrl": "https://www.ibm.com/blog/vibration-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:06:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-how-to-improve-employee-experience-and-your-bottom-line.md",
       "title": "How to improve employee experience (and your bottom line)",
       "excerpt": "In a nutshell, employee experience refers to the totality of interactions employees have with their organization. \nThe post How to improve employee experience (and your bottom line) appeared first on IBM Blog.\n",
@@ -602,540 +1168,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-struck-capitals-founder-discusses-his-foray-into-ai-investing.md",
-      "title": "Struck Capital’s Founder Discusses His Foray Into AI Investing",
-      "excerpt": "Venture capitalist Adam Struck spoke with WSJ Pro about his approach to deals in the buzzy artificial intelligence sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a",
-      "originalUrl": "https://www.wsj.com/articles/struck-capitals-founder-discusses-his-foray-into-ai-investing-86190f0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-813830/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-35-into-ai-food-ordering-app-lily.md",
-      "title": "Nextgen Food Robotics Integrates Large Language Model (LLM) through GPT-3.5 into AI Food Ordering App, Lily",
-      "excerpt": "Nextgen Food Robotics Corp (NEO: NGRB) (OTC:NGRBF) (FSE: A3D48V) (the \"Company\" or \"NextGen\"), a company exploring the implementation of artificial intelligence (\"AI\")",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33159832",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159832",
-      "publishedDateTime": "2023-07-10T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-to-create-a-website-with-ai.md",
-      "title": "How To Create A Website With AI",
-      "excerpt": "Hostinger’s AI website builder only needs three pieces of information to generate a website for you: the name of your company, the type of website you want and a short description of what your company does. Based on this information, the AI creates a website including suitable texts, images and other relevant content, such as online shop products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
-      "originalUrl": "https://www.forbes.com/advisor/au/business/software/how-to-create-a-website-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2023/07/CreateAASiteWIthAI-1-scaled.jpg",
-          "width": 2560,
-          "height": 1677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023.md",
-      "title": "How Artificial Intelligence, Data And Analytics Are Transforming Formula One In 2023",
-      "excerpt": "Artificial intelligence (AI) is driving a wave of disruption, transforming car design, race performance and fan experience alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aba876bdd5adff4391cf1d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/10/how-artificial-intelligence-data-and-analytics-are-transforming-formula-one-in-2023/amp/",
-      "publishedDateTime": "2023-07-09T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales.md",
-      "title": "Save up to 43 per cent on an ECOVACS DEEBOT robot vacuum in the Prime Day sales",
-      "excerpt": "It’s Amazon’s Prime Day and there has never been a better time to purchase an ECOVACS DEEBOT robot vacuum/mop or the WINBOT W1 Pro window cleaner. If you’ve been on the fence about purchasing a robot vacuum or perhaps couldn’t fit one into your budget,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "originalUrl": "https://www.techguide.com.au/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techguide.com.au/wp-content/uploads/2023/07/3-AIVI-3.0-e1688971217992-450x300.jpeg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/appliances/save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales/",
-      "publishedDateTime": "2023-07-09T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Guide",
-        "domain": "techguide.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.md",
-      "title": "Does Generative AI herald the end of an era or the start of a new chapter in marketing?",
-      "excerpt": "Despite concerns about job losses and potential changes in the marketing industry, generative AI is a great asset for the marketing team, rather than a threat. Generative AI presents unparalleled opportunities to accelerate creativity,",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-101624579,imgsize-800807,width-1200,height=765,overlay-etbrandequity/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/does-generative-ai-herald-the-end-of-an-era-or-the-start-of-a-new-chapter-in-marketing/101624579",
-      "publishedDateTime": "2023-07-09T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-san-francisco-residents-fight-cruise-and-waymo-robotaxi-with-traffic-cones.md",
-      "title": "San Francisco Residents Fight Cruise and Waymo Robotaxi With Traffic Cones",
-      "excerpt": "Cruise & Waymo promise they’ll reduce traffic & collisions ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/07/san-francisco-residents-fight-cruise-and-waymo-robotaxi-with-traffic-cones.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/07/san-francisco-residents-fight-cruise-and-waymo-robotaxi-with-traffic-cones.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-09-at-3.59.44-PM.jpg",
-          "width": 1864,
-          "height": 912,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-robots-say-they-have-no-plans-to-steal-peoples-jobs.md",
-      "title": "AI robots say they have no plans to steal people’s jobs",
-      "excerpt": "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an",
-      "sourceUrl": null,
-      "webUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "originalUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LADbible",
-        "domain": "ladbible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-industrial-robotics-australia.md",
-      "title": "AI Industrial Robotics - Australia",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$138.30m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.79%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-3-machine-learning-stocks-that-will-skyrocket-before-2025.md",
-      "title": "3 Machine Learning Stocks That Will Skyrocket Before 2025",
-      "excerpt": "Investing in machine learning is often thought to be synonymous with investing in artificial intelligence (AI). In fact, many of the most popular AI stocks are also good machine learning stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-that-will-skyrocket-before-2025",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-that-will-skyrocket-before-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-kmc-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters.md",
-      "title": "KMC to collect and store 'facial recognition' details of employees posted in headquarters",
-      "excerpt": "All employees have to stop in front of camera for few seconds while entering office and attendance will be marked",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "originalUrl": "https://www.telegraphindia.com/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Jun/1687569435_kmc.gif",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "publishedDateTime": "2023-07-09T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-deepmind-collaborates-on-shaping-personality-traits-in-llms.md",
-      "title": "DeepMind Collaborates on Shaping Personality Traits in LLMs",
-      "excerpt": "The recent advancement of Large language models (LLMs) has ushered in a significant leap forward in the development of conversational agent, demonstrating synthetic human personalities characteristic by distinct thought patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/",
-      "originalUrl": "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/07/image-10.png?resize=790%2C503&ssl=1",
-          "width": 790,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/amp/",
-      "publishedDateTime": "2023-07-09T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

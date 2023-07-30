@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 3000
     height: 1688
     isCached: true
-
-related:
-  - title: "Can Ai Solve Our Problems?"
-    excerpt: "There's the horrific possibility of mutually assured destruction, which we have lived with for almost 80 years, and there's more than 60 years of lit"
-    publishedDateTime: 2023-07-25T19:28:00Z
-    webUrl: "https://menafn.com/1106684990/Can-Ai-Solve-Our-Problems"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "i2PkPUNBve3Cyt7XhMdZp+IPQBwl3iY3btIxN9tPjhGmG5FMHGUWTbzP/iFAL9qNbDyARERv3EwM5xEpvrz1SRBspgrwEhT7Pu//qPxV8IntGWJPTZ1oL8wfLcSJkyE29DICwlCwMs9KEv5gKjH7NOGigKozdEjAjsXaxqkB+k/JE1klpUJzj04IpmYHJuXYQha5LtJKmhqKtiWr9tGtxQmnswBU7Lcjq75+KN6Q4akfuf61g2ziQeftVqZuwuplpGqGWW1IeFWiLMp3th677mmnVTC7DkImLQ+TIW+NNx7BHXZorasreP/YuqB6dvftySmotsuUls4XEdX/a1r8icExStStnUGvNHL9bvFdoiaJpYccvm9ALtpLhAJB0INCaskgEL2R80pQS56Pn6VD/6mXU28E6CIrm2inNsxB3ulQWtvMnQDblExWxVR/pfvhZOn5WEmXtTvoAtgwd5kqmXvITztAZe3v3Y36vAhkefEudFBdAUMrnm+SvK2Abu/ctU4nuQ7TlhvqWVLse/oDuA==;dej1+A+3tw0qWIAezwj3Qw=="
 ---

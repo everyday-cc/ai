@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-06-musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition.md",
+      "title": "Musk praises Chinese artificial intelligence as Tesla faces tough competition",
+      "excerpt": "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
+      "originalUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbtnews",
+        "domain": "cbtnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/pietro-jeng-n6B49lTx7NM-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
+      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
+      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "publishedDateTime": "2023-07-06T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-later-this-year.md",
+      "title": "Elon Musk predicts Tesla self-driving cars ‘later this year’",
+      "excerpt": "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-musk-predicts-tesla-self-driving-cars-later-this-year.md",
       "title": "Musk predicts Tesla self-driving cars 'later this year'",
       "excerpt": "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai.",
@@ -1158,187 +1349,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-how-artificial-intelligence-will-help-or-hinder-your-workforce.md",
-      "title": "How artificial intelligence will help, or hinder, your workforce",
-      "excerpt": "He already has asked staff to come up with low-risk ways AI tools and technology can be used at the firm. That doesn’t, however, mean throwing caution to the wind. “We are in the infancy of this, and with all new emerging technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-mining-companies-bet-on-ai-to-make-dangerous-jobs-safer.md",
-      "title": "Mining companies bet on AI to make dangerous jobs safer",
-      "excerpt": "The global mining industry has come a long way since the days when coal-blackened miners would carry a bird underground with them in hopes its distress would alert them to the presence of toxic gases.",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer",
-      "originalUrl": "https://financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/no0626nutrien.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer/wcm/8ccc0f7d-21ac-49d2-8851-9315e1414c65/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer/wcm/8ccc0f7d-21ac-49d2-8851-9315e1414c65/amp/",
-      "publishedDateTime": "2023-06-26T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-uk-artificial-intelligence-ai-statistics-and-trends-in-2023.md",
-      "title": "UK Artificial Intelligence (AI) Statistics And Trends In 2023",
-      "excerpt": "The rapidly growing field of artificial intelligence (AI) has the potential to revolutionise many aspects of our lives. With AI already powering everyt",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/06/pexels-cottonbro-studio-6153354-scaled-e1687161473695.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-if-aliens-contact-earth-it-may-not-be-humans-who-get-the-call-expert.md",
-      "title": "If aliens contact Earth, it may not be humans who get the call: expert",
-      "excerpt": "A Harvard professor of astronomy is predicting extraterrestrials will make contact with artificial intelligence before humans, due to aliens potentially feeling a \"kinship\" with human technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
-      "originalUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d89c5ff-a5c0-4573-8ae1-3c96fca895f5/48e89d32-5b3c-4b92-a139-0d2c6338b1de/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
-      "publishedDateTime": "2023-06-25T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

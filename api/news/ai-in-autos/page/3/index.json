@@ -2,6 +2,169 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
+      "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
+      "title": "Column: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
+      "excerpt": "In the late 1990s it was dot-com companies, more recently crypto, blockchain, NFTs, driverless cars ... That brings us to artificial intelligence chatbots. In from three to eight years we will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-07-13/column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster",
+      "originalUrl": "https://www.latimes.com/business/story/2023-07-13/column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ab5f0a3/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2Ff9%2F9c8ad23e4785adec762058f585bb%2F1290944-et-ct-wga-strike-jlc-006.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-robotaxi-ventures-making-slow-but-sure-progress.md",
+      "title": "Robotaxi ventures making slow but sure progress",
+      "excerpt": "Waymo and Cruise, the two companies offering ... Baidu, the Chinese Internet and artificial intelligence company, obtained a license in June to offer its Apollo Go commercial driverless service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
+      "originalUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/INTELLEGENCE_REPORT-MAIN_i.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-australias-most-advanced-driverless-car-zoe2-takes-on-outback-roads-in-mount-isa.md",
+      "title": "Australia's 'most advanced' driverless car ZOE.2 takes on outback roads in Mount Isa",
+      "excerpt": "Outback residents say driverless cars could ease public ... and a GPS to interpret surroundings while artificial intelligence and various decision-making algorithms work in real time to determine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
+      "originalUrl": "https://www.abc.net.au/news/2023-07-13/driverless-car-zoe2-most-advanced-trial-in-outback-australia/102594812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/543c365a2671ec3983e1238bdc0691a5?impolicy=wcms_crop_resize&cropH=1333&cropW=2000&xPos=0&yPos=0&width=862&height=575",
+          "width": 862,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/102594812",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102594812",
+      "publishedDateTime": "2023-07-12T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
       "title": "U.S. to decide on GM request to deploy self-driving cars",
       "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
@@ -1152,197 +1315,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition.md",
-      "title": "Musk praises Chinese artificial intelligence as Tesla faces tough competition",
-      "excerpt": "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
-      "originalUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cbtnews",
-        "domain": "cbtnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/pietro-jeng-n6B49lTx7NM-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
-      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
-      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
-      "publishedDateTime": "2023-07-06T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Elon Musk predicts Tesla self-driving cars ‘later this year’",
-      "excerpt": "Electric car giant Tesla is set to realise fully autonomous vehicles “later this year”, CEO Elon Musk said on July 6, in the billionaire’s latest forecast for the long-anticipated milestone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-later-this-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/07/06/2162645.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
         "publishers": null,
         "authors": null
       },

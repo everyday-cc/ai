@@ -54,6 +54,52 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
+    excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
+    publishedDateTime: 2023-07-27T09:10:00Z
+    webUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/"
+    ampWebUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 59
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
+    excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
+    publishedDateTime: 2023-07-26T16:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/articleshow/102146946.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1354874,msid-102146987/indiaai-meta-pact.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
+    excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
+    publishedDateTime: 2023-07-27T05:25:00Z
+    webUrl: "https://yourstory.com/2023/07/india-ai-meta-india-ink-pact-advancements-ai"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AI startup ZYBER 365 secures $100 million in funding led by SRAM & MRAM"
     excerpt: "The latest funding has earned the Web3, AI startup a unicorn status, making ZYBER 365 the 109th unicorn in India's vibrant start-up ecosystem"
     publishedDateTime: 2023-07-26T06:27:00Z
@@ -82,7 +128,21 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
+    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
+    publishedDateTime: 2023-07-26T17:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
-secured: "xvo1GuI2JA3Hi3WnxNLRIoHNkZCPSRgw4/EpHPgzSHNmrw0vLvalwYagxo4NtVkLMZhYq1KD5Iiu6H4WWUEl4bO40Cfvn8RgRege4UpV90VZYSUkHNMyXCKbqJh2AFgHojO8qfjTWNi3L/fToa6vAa3twK1fWaLxfQ+1kBaMYW63UvJAlBKyJgbnHx6SU9ygyEWtZw09oz24uF0b7o6aGwjrXeV1NAWs6nks3v0VdlPmhJk4+C1NfTiZYNgqSt3lvn/pGLq4OUytFeRzwHzCU4oPEviNF37AweiCX00jW1sLb9DlbSOxRaPQb43Du31rns8VQEvitv3wcNHXJyyjd141wvQRuI5OqZ5NyfSDyq8=;Uz5mgmY9cdXezJnAXsKe1Q=="
+secured: "23Z6gJbIIHW8e6fbzdXcPiMmTTvoTIZ9Fa+p/Kbtg9ZT14TbBwwowHudqXgxkeVp0wqzxW5HvZV/59eUpz+Geeclrmk+/8D0dT49FiQIUcrvnbKS3f+crXDno/LQZtePBM0ua1OdvvMnR1ims/71HMfFSOcbl4vaGqzmAGqdK6MkoOGLC4nyDje7O1p6GEv4b89lwb+KvXTTMsUXEgR4YUfHUK4A11WOdwbcjvKbxingmyuh5K1zLTO27VG0qmxBAZugJvGB9wQ/Jwfz5PNwfuqOBOSqS5Z9DyrjteW10HSZG1eYJq+kN0X/aO9sPOveRv4lcClNbAWnpRgw6n7sCJfGXgu3Dov2nXjPkSVRvkAyZPSXBnuc0a0Av74x9Z0ZvT6GOfYbPE+mS9174zyeaTbX3sA+gppMZ1ec0k3m94KZw8jtUfUIFWJzXq8Cfh4s3aaXxQu6QPQR+qREQ0jtrsMsiDZyrjHAYncCHW1YGsnJg1EvmFOWMZYdbh3+2Q5sFq0W1D7UndhWbtcU7qMnZg==;YAUmrLv1b7H1bSWcs/rsSA=="
 ---
 

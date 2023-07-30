@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-contin
 webUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html"
 type: article
 quality: 64
-heat: 86
+heat: 84
 published: true
 
 provider:

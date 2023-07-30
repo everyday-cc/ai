@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-30T06:03:00Z
 originalUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
 webUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
@@ -34,6 +35,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
+  - title: "Jay Ambrose: Artificial intelligence loves America"
+    excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
+    publishedDateTime: 2023-07-30T05:01:00Z
+    webUrl: "https://richmond.com/opinion/columnists/jay-ambrose-artificial-intelligence-loves-america/article_0b3abbb6-2cc2-11ee-8a22-4bdad8e34086.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/b3/0b3abbb6-2cc2-11ee-8a22-4bdad8e34086/64c2e5f841f26.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Poll Shows Americans are Confused by Some Applications of Artificial Intelligence"
     excerpt: "New Poll Release by Statara Solutions shows where voters need education, are persuadable on technologyWASHINGTON, July 26, 2023 /PRNewswire/ --"
     publishedDateTime: 2023-07-26T13:00:00Z
@@ -67,20 +82,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600"
         width: 600
         height: 600
-        isCached: true
-  - title: "Jay Ambrose: Artificial intelligence loves America"
-    excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
-    publishedDateTime: 2023-07-30T05:01:00Z
-    webUrl: "https://richmond.com/opinion/columnists/jay-ambrose-artificial-intelligence-loves-america/article_0b3abbb6-2cc2-11ee-8a22-4bdad8e34086.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/b3/0b3abbb6-2cc2-11ee-8a22-4bdad8e34086/64c2e5f841f26.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "An AI start-up is helping North American diesel trains clean up their act"
     excerpt: "Transportation is responsible for one-quarter of the world's greenhouse gas emissions. A Canadian start-up wants to lessen that impact."

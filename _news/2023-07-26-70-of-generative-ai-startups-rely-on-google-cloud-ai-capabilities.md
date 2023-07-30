@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 691
         isCached: true
-  - title: "More than 70% of companies are experimenting with generative AI, but few are willing to commit more spending"
-    excerpt: "More than half (54.6%) of orgs are are experimenting with generative AI, but few (18.2%) expect to spend more, a VentureBeat survey finds."
-    publishedDateTime: 2023-07-25T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/more-than-70-of-companies-are-experimenting-with-generative-ai-but-few-are-willing-to-commit-more-spending/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 28
 
 secured: "u96TsysaiFWutQxSCGXn8IhWoYQeQ2OrSQx83YD0YAA1AX+8LvQrzRrfzM8Hcv+C6g0oHexGXUYO3VMANQ+RDMrJG+o0mkuE0NvrHg6lu+uRapIDPOkHqGVjMEsJXb5dBEJ+nbiTXc5XRfRfFja74HfUGxw2imLezHw6bLc3v5EheNZh0TYklT8RPF/Y0v4xRMd1CupzxiFec4ZelYs0+PmeaVkAedsnCadby3WQpd/zEYkkr3uDlV8a34iPD7BzqlZfBxHu2O5IMwbWIFOXs5rTwzeHHaZi8DTWmSMEKh76KGlIavb1AaYCq7Usrv8CPF58Gc1XgKzZ6R/e4hOpkigSqKYjHmDpPGWHYJbyCZRbXvKSRV7dmSc+aySKn9Gk7ToBfWZBu/ldpZuld32uVuEfA6B7T7G3qNoaLnb4CgdByNCx48fZ6pt3c1yVdbN60QwSE//ra4XFkWWmLGPOUxMZ0vMaNJql+O7cAO2mAwsxERPhIxEW6Ohau5O0ZYlJbKRna2Ov9qZ5oOHPcvglnA==;rBBlyKsN3ojiHmTlijYhTw=="
 ---

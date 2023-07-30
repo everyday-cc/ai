@@ -25,65 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Indian tech giant Wipro to invest $1B in AI"
-    excerpt: "'Where's the evidence?': Democrat reacts to McCarthy's impeachment threat against Biden"
-    publishedDateTime: 2023-07-25T20:05:00Z
-    webUrl: "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
+  - title: "Web3 And AI Startup ZYBER 365 Turns India's 109th Unicorn"
+    excerpt: "Opinions expressed by Entrepreneur contributors are their own. Web3, AI startup ZYBER 365 raised $100 million in Series A funding at a $1.2 billion valuation from UK-based SRAM & MRAM Group. The funding worth $1.2 billion valuation has earned Web3 ..."
+    publishedDateTime: 2023-07-26T06:06:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/web3-and-ai-startup-zyber-365-turns-indias-109th-unicorn/456418"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230725160137-exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "How to Invest in Mistral AI in 2023"
-    excerpt: "Mistral AI was founded in May 2023, and the company raised $113 million just four weeks later with an estimated valuation of $260 million, a sign of how much confidence venture capital investors have in the founders and how much potential they see in AI."
-    publishedDateTime: 2023-07-26T14:48:00Z
-    webUrl: "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
-        width: 600
-        height: 424
-        isCached: true
-  - title: "Venture Firm Debuts $150 Million Fund for Indian AI Startups"
-    excerpt: "Indian venture capital firm Together Fund announced a $150 million early-stage fund to back AI companies, aiming to capitalize on use of the technology in the software-as-a-service market."
-    publishedDateTime: 2023-07-26T23:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivo01YXH040Y/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690351209-Untitleddesign-2023-07-26T112702809.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Meta inks MoU with Indian govt to partner on AI, emerging technologies"
-    excerpt: "Tech major and Facebook's parent Meta has signed an initial pact with ... a Centre of Excellence to nurture the AI startup ecosystem. \"Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the ..."
-    publishedDateTime: 2023-07-26T15:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
+  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
+    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
+    publishedDateTime: 2023-07-28T16:18:00Z
+    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-22-Mar-2023-03-47-PM-7009.jpg"
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
   - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
     excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
@@ -117,45 +85,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Indian AI-first startups can now apply for 8th batch of Google for Startups Accelerator"
-    excerpt: "Google is inviting Seed to Series A funded AI-first startups from India to apply for the eighth cohort of the Google for Startups Accelerator: India - a three-month, equity-free program that focuses on bringing the best of Google's programs,"
-    publishedDateTime: 2023-07-28T07:19:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 51
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_10_2018_17_36_16_1911619.jpg?width=1280"
-        width: 1280
-        height: 1373
-        isCached: true
-  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
-    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
-    publishedDateTime: 2023-07-27T10:44:00Z
-    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 41
-  - title: "Complete Guide to Investing in Artificial Intelligence"
-    excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
-    publishedDateTime: 2023-07-27T18:41:00Z
-    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 41
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/8c31f59e-606e-4c42-acbe-e86d919cabae.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
     excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
     publishedDateTime: 2023-07-27T05:25:00Z
@@ -170,24 +99,50 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
-    excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-28T13:32:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/angel-one-launches-ai-powered-super-app-in-india-to-foster-smart-investments-article-102208147"
+  - title: "AI startup ZYBER 365 secures $100 million in funding led by SRAM & MRAM"
+    excerpt: "The latest funding has earned the Web3, AI startup a unicorn status, making ZYBER 365 the 109th unicorn in India's vibrant start-up ecosystem"
+    publishedDateTime: 2023-07-26T06:27:00Z
+    webUrl: "https://www.indiaretailing.com/2023/07/26/ai-startup-zyber-365-secures-100-million-in-funding-led-by-sram-mram/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 16
-  - title: "Indian Startup Looks to Change the Lives of Marginalized People Through AI"
-    excerpt: "A startup in India is revolutionizing artificial intelligence (AI) to make it transformative for the poorest and most marginalized people in the communities."
-    publishedDateTime: 2023-07-27T16:00:00Z
-    webUrl: "https://www.techtimes.com/articles/294357/20230727/indian-startup-karya-changing-lives-many-marginalized-people-through-ai.htm"
+      name: indiaretailing
+      domain: indiaretailing.com
+    quality: 37
+    images:
+      - url: "https://www.indiaretailing.com/wp-content/uploads/2017/03/artificial-intelligence-2.jpg"
+        width: 681
+        height: 400
+        isCached: true
+  - title: "AI startup ZYBER 365 claims unicorn status, secures $100 M in Series A funding"
+    excerpt: "The funding round was led by UK-based SRAM & MRAM Group. ZYBER 365 becomes the 109th unicorn in India's startup ecosystem and the first unicorn this year."
+    publishedDateTime: 2023-07-26T05:10:00Z
+    webUrl: "https://yourstory.com/2023/07/ai-startup-zyber365-secures-100-million-funding"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 15
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/funding-1678865272988.png?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "aW7gUklyoBHv/hMnRSyzleFKI/cpu9PtNY7XogRB0gAlTBQ5//2bxdjaFWd4OXjxk8Hr3s9bgsIUn6dIdbvRRWL4RNVeyMQ9nrcQYAgbJedVQqSYsH6W+slqoZfe6Ai+nxhUzzjP3i1T6z52FoVcyHP4rT8+8pF7XAFX1fmTbqdzSYivuvAf9XuW/ZMldkUx22lrF26rp8Mt8h+Ea/L7ZhCvsThn093qvm1iaXzJ0Kgo3+NvWSJIDJXulrD9ZFvYDCl/BnOQ6gzaB1Y/YaaGFHGIwuhdQoNECBqngc5FzdN8+7IKDuVRg95a8w8uoyivogsV6nUqJgie5f/MNvxHULvPn7xWnK22QNfgLX4xnO4=;bqHUxfhsLXycydAx5hjqkg=="
 ---

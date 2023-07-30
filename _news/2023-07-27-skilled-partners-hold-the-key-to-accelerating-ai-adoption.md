@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelera
 webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
 type: article
 quality: 119
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F0dbffd32-5a1c-435c-858a-d90013402f5d%2Fhavas1.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 769
-        isCached: true
-  - title: "Eversana, Amazon Web Service Partner to Accelerate Artificial Intelligence Across Life Sciences Industry"
-    excerpt: "Eversana revealed plans to fast-track the use of artificial intelligence (AI) in the life sciences sector. Through this association, the organizations plan on implementing the technology to help pharmaceutical and life science manufacturers drive efficiencies and business value while improving patient outcomes."
-    publishedDateTime: 2023-07-25T19:31:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/eversana-amazon-web-service-partner-to-accelerate-artificial-intelligence-across-life-sciences-industry"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 22
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/d4a320583231890faaea803c71c7b5f2a27c0ce4-1280x720.png?fit=crop&auto=format"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "wgHOjLK1bsRB6hBkM3w0DDZ+Xx117d8ss8rVEwQnQodx2HB4YYqBnMBU86HvCZ+Cmgth/ZMcs9b7R7Xrce6Ohs9J0dUcWZXr7ikXpdu7GwXW0V53PP4lTAQpavnZvOVgxeaRZ39qeTyFWcZ44Dxepx1v1mMBMoDPSN6IKLXy6xMx6CTyr4QnVg68GMbn5/qREKwPnDirW+zvelcgcn3GVJyTBxFb+Jimp/JQwC49PHsdcW22meq3C7N3DLxFFr5F1blZA0J/VNHd2y7efUzZ5kwBjdUUmSHgW3dxF4o4IDxyGBJ2VkzM7ud5MmbwKfrZfS72A++QgfI6OyhMm6mOd1ESL0KPt2SgMOdV9Z6tzqQ=;uYgSIMm2ytPDtS5vb3iqCg=="

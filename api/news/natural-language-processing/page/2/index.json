@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-17-australians-divided-over-voice-to-parliament-for-indigenous-people.md",
+      "title": "Australians divided over ‘Voice to Parliament’ for Indigenous people",
+      "excerpt": "A landmark referendum backed by the government would give Indigenous people constitutional recognition and greater say on legislation and policy affecting them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
+      "originalUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-aboriginal-file-mb-1450-32d8ba.jpg",
+          "width": 4695,
+          "height": 3017,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna94016",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016",
+      "publishedDateTime": "2023-07-16T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-7-blue-chip-stocks-that-ai-is-loving-in-july.md",
+      "title": "7 Blue-Chip Stocks That AI Is Loving in July",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws.md",
       "title": "Another player heats up generative AI race as China introduces interim laws",
       "excerpt": "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services.",
@@ -1330,102 +1417,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-era-of-ai.md",
-      "title": "Entrepreneur Kathryn Hastings on the Allure of Handwritten Notes in the Era of AI",
-      "excerpt": "Moreover, specific AI language translation tools have eliminated language barriers, enabling real-time communication between individuals who speak different languages. However, in the middle of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
-      "originalUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifeandstylemag.com/wp-content/uploads/2023/07/KathrynHastings.jpg?crop=0px%2C15px%2C1200px%2C629px&resize=1200%2C630&quality=86&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-lifeandstylemag-com.cdn.ampproject.org/c/s/www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
-      "publishedDateTime": "2023-07-05T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Life & Style Weekly",
-        "domain": "lifeandstylemag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
-      "title": "Highlight text as it’s being spoken using Amazon Polly",
-      "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/ML-14148-polly-highlight-text-v3.drawio-933x630.png",
-          "width": 933,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T13:12:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -152,7 +152,7 @@ related:
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 12
+    quality: 14
   - title: "Business school launches £3m FinTech centre"
     excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
     publishedDateTime: 2023-07-27T12:13:00Z

@@ -2,6 +2,617 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
+      "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
+      "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/01/2023-01-25-image-18.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage.md",
+      "title": "GitHub’s Thomas Dohmke talks open source, AI and more on the Disrupt SaaS Stage",
+      "excerpt": "Thomas Dohmke, the CEO of GitHub, will join TechCrunch for a fireside chat on this year's SaaS Stage at TechCrunch Disrupt 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/",
+      "originalUrl": "https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/thomas.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/amp/",
+      "publishedDateTime": "2023-05-11T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-how-gmails-new-ai-feature-will-write-your-emails-for-you.md",
+      "title": "How Gmail's New AI Feature Will Write Your Emails for You",
+      "excerpt": "Gmail is adding a new feature aimed at taking the pain out of crafting boring emails. At Wednesday's Google I/O event, CEO Sundar Pichai announced Help Me Write. Powered by the company's proprietary AI, the new Google service will draft automated messages for you in Gmail, text messages and other Google apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/8a26daad55df302a2217acdc25f6f0b12005ee2d/hub/2023/05/10/a8b74029-bbff-457e-a48e-7344fd0569c6/help-me-write.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
+      "publishedDateTime": "2023-05-11T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management.md",
+      "title": "‘AI-powered’ VC firm Vela emerges from stealth with $25M under management",
+      "excerpt": "Vela, an early-stage-focused VC firm that its founder describes as 'product-led,' has emerged from stealth with $25 million under management.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/",
+      "originalUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?resize=1200,902",
+          "width": 1200,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/amp/",
+      "publishedDateTime": "2023-05-11T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy.md",
+      "title": "EvokAI Creative Labs To Acquire AI-Powered Company Rehaboo Oy",
+      "excerpt": "Following the closing of the Rehaboo Acquisition, Rehaboo will be a wholly owned subsidiary of EvokAI. Completion of the Rehaboo Acquisition is subject to a number of standard conditions, including receipt of all regulatory approvals and the acceptance of the TSX Venture Exchange (\" TSXV \").",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-generative-ai-landscape-current-and-future-trends.md",
+      "title": "Generative AI Landscape: Current and Future Trends",
+      "excerpt": "The generative AI landscape is expanding rapidly, and offers great benefits even as it presents enormous challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-how-ubers-robotics-partner-is-reinventing-the-310b-food-delivery-industry.md",
+      "title": "How Uber's Robotics Partner Is Reinventing the $310B Food Delivery Industry",
+      "excerpt": "Serve's technology is the future of sidewalk delivery, a $310B market opportunity. Here's why they are leading the charge and why you don't want to miss this investment opportunity. Why brands like Uber and Pizza Hut are turning to Serve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ubers-robotics-partner-is-reinventing-the-310b-food/451928",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ubers-robotics-partner-is-reinventing-the-310b-food/451928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1683752225-unnamed-6.png",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally.md",
+      "title": "Google Insiders Are $9 Billion Richer After AI-Fueled Stock Rally",
+      "excerpt": "Google cofounders Larry Page and Sergey Brin surged back into the ranks of the 10 richest people in the world Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645d405718760da33bcb5cb6/0x0.jpg?format=jpg&crop=2096,1178,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/amp/",
+      "publishedDateTime": "2023-05-11T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-snapchat-star-earns-70000-with-sexy-chatgpt-ai-heres-how-she-did-it.md",
+      "title": "Snapchat Star Earns $70,000 With Sexy ChatGPT AI: Here’s How She Did It",
+      "excerpt": "Meet CarynAI - the answer to loneliness by an enterprising social media influencer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645d5d77a5a034c6f9e63673/0x0.jpg?format=jpg&width=1200",
+          "width": 1066,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/05/11/carynai-virtual-date-earned-70000-with-sexy-chatgpt-ai-heres-how/amp/",
+      "publishedDateTime": "2023-05-11T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec.md",
+      "title": "“Meaningful harm” from AI necessary before regulation, says Microsoft exec",
+      "excerpt": "As lawmakers worldwide attempt to understand how to regulate rapidly advancing AI technologies, Microsoft chief economist Michael Schwarz told attendees of the World Economic Forum Growth Summit today that \"we shouldn't regulate AI until we see some meaningful harm that is actually happening,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1289079656-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/meaningful-harm-from-ai-necessary-before-regulation-says-microsoft-exec/amp/",
+      "publishedDateTime": "2023-05-11T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-cobalt-speech-announces-end-to-end-speech-recognition-and-transcription-service.md",
+      "title": "COBALT SPEECH ANNOUNCES END-TO-END SPEECH RECOGNITION AND TRANSCRIPTION SERVICE",
+      "excerpt": "Cobalt Speech is pleased to announce the launch of an industry leading end-to-end speech recognition and transcription system: Cobalt Transcribe E2E. The newer generation end to end models are ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106229032/COBALT-SPEECH-ANNOUNCES-END-TO-END-SPEECH-RECOGNITION-AND-TRANSCRIPTION-SERVICE",
+      "originalUrl": "https://menafn.com/1106229032/COBALT-SPEECH-ANNOUNCES-END-TO-END-SPEECH-RECOGNITION-AND-TRANSCRIPTION-SERVICE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430050",
+          "width": 403,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-why-chatgpt-developer-openai-is-the-no-1-company-on-the-2023-cnbc-disruptor-50-list.md",
+      "title": "Why ChatGPT developer OpenAI is the No. 1 company on the 2023 CNBC Disruptor 50 list",
+      "excerpt": "ChatGPT developer OpenAI comes in at No. 1 on the 2023 CNBC Disruptor 50 list, with artificial intelligence the dominant theme in the annual ranking. \"I do think we are deep into a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1683731024",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/09/why-chatgpt-maker-openai-is-the-no-1-2023-cnbc-disruptor-50-company.html",
+      "publishedDateTime": "2023-05-11T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-i-made-a-sexy-ai-robot-of-myself-you-can-date-me-for-1-a-minute.md",
       "title": "I made a sexy AI robot of myself — you can date me for $1 a minute",
       "excerpt": "He says they also might start training the AI to “slow down a little bit” given that the average use time is two hours — although he didn’t specify how. “I would just hope there’s robust conversations across a lot of different disciplines with ...",
@@ -630,594 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws.md",
-      "title": "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS",
-      "excerpt": "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/",
-      "originalUrl": "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-announces-palm-2-ai-language-model-already-powering-25-google-services.md",
-      "title": "Google announces PaLM 2 AI language model, already powering 25 Google services",
-      "excerpt": "Google has announced PaLM 2: its latest AI language model and competitor to ... including reasoning, coding, and translation. “It is significantly improved compared to PaLM 1 [which was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/5/10/23718046/google-ai-palm-2-language-model-bard-io",
-      "originalUrl": "https://www.theverge.com/2023/5/10/23718046/google-ai-palm-2-language-model-bard-io",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/AMZnDyr6At404trJe9yA9alOWIo=/0x0:1858x1038/1200x628/filters:focal(929x519:930x520)/cdn.vox-cdn.com/uploads/chorus_asset/file/24646788/Screenshot_2023_05_10_at_10.01.08.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-microsoft-is-the-stock-to-buy-as-it-leads-the-ai-arms-race-while-alphabet-continues-to-play-catchup-with-bard-according-to-wedbush.md",
-      "title": "Microsoft is the stock to buy as it leads the AI arms race while Alphabet continues to play catchup with Bard, according to Wedbush",
-      "excerpt": "\"We continue to strongly believe that Microsoft's game changing early investment in ChatGPT got the key head start on the AI front,\" Wedbush said.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645cf5bf65275b0018b7fce3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-buy-leads-ai-arms-race-chatgpt-alphabet-bard-2023-5?amp",
-      "publishedDateTime": "2023-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways.md",
-      "title": "Revolve And Maison Meta Bring AI Fashion Week To Physical Runways",
-      "excerpt": "AI Fashion Week by Maison Meta and Revolve hopes to bridge the gap between AI-generated designs and IRL fashion, and launch the careers of new designers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
-      "originalUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645cf94b82db4d2d30cb5cb8/0x0.jpg?format=jpg&crop=1586,891,x0,y18,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
-      "publishedDateTime": "2023-05-11T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-machine-learning-security-principles-ebook-worth-3799-free-download.md",
-      "title": "Machine Learning Security Principles eBook (worth $37.99) - free download",
-      "excerpt": "The first part of this book will explore these processes in more depth, which will help you in understanding the role security plays in machine learning. As you progress to the second part, you’ll learn more about the environments where ML is commonly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
-      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-security-principles-ebook-worth-3799---free-download/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-security-principles-ebook-worth-3799---free-download/",
-      "publishedDateTime": "2023-05-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by-aws.md",
-      "title": "Nextira Selected by Ansys Technology Partner Program to Support Customers Implementing Ansys Gateway Powered by AWS",
-      "excerpt": "seamless transition to Ansys Gateway powered by AWS.” Nextira’s core services include Predictive Enterprise, focused on integrating artificial intelligence (AI), machine learning (ML) and data analytics to design, build, launch and optimize HPC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by/article_afe43156-20ec-5e56-8fe4-069dd906a21e.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/nextira-selected-by-ansys-technology-partner-program-to-support-customers-implementing-ansys-gateway-powered-by/article_afe43156-20ec-5e56-8fe4-069dd906a21e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-mass-event-will-let-hackers-test-limits-of-ai-technology.md",
-      "title": "Mass Event Will Let Hackers Test Limits of AI Technology",
-      "excerpt": "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
-      "originalUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
-      "publishedDateTime": "2023-05-11T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecurityWeek",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-ibm-it-automation-reflections-from-ibm-think.md",
-      "title": "IBM IT Automation: Reflections from IBM Think",
-      "excerpt": "Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.\nThe post IBM IT Automation: Reflections from IBM Think appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-it-automation-reflections-from-ibm-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/istock_cs1_20210815_144154050.lr_-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory.md",
-      "title": "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory",
-      "excerpt": "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
-      "originalUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645c6fe7bc41d9b5e65a4511/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
-      "publishedDateTime": "2023-05-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-rise-of-the-ai-whisperers.md",
-      "title": "Rise Of The AI Whisperers",
-      "excerpt": "I see the emerging profession of AI whisperer as holding the key to unlocking the full potential of AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645ba88738407b978d2796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/11/rise-of-the-ai-whisperers/amp/",
-      "publishedDateTime": "2023-05-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-self-driving-cars-are-being-put-on-a-data-diet.md",
-      "title": "Self-Driving Cars Are Being Put on a Data Diet",
-      "excerpt": "Growing fleets, fancier sensors, and tighter budgets are forcing autonomous vehicle developers to get pickier about what stays on their servers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
-      "originalUrl": "https://www.wired.com/story/self-driving-cars-are-being-put-on-a-data-diet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645c372a88479249e0cc28b6/191:100/w_1280,c_limit/Driverless-Cars-Data-Diet-Business-1247366812.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-the-surprising-synergy-between-acupuncture-and-ai.md",
-      "title": "The Surprising Synergy Between Acupuncture and AI",
-      "excerpt": "Now that I work in machine learning, I’m often struck by the parallels between this cutting-edge technology and traditional Chinese medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/",
-      "originalUrl": "https://www.wired.com/story/machine-learning-chinese-medicine-acupuncture-study-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645c1ec952bb92d7ad7c3041/191:100/w_1280,c_limit/ideas_acupuncture_medicine_ai_machine.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

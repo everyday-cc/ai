@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-ap
 webUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

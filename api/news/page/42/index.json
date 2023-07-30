@@ -2,6 +2,576 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-07-01-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
+      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
+      "excerpt": "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-ai-in-chip-design-where-does-cadence-stand.md",
+      "title": "AI in chip design: Where does Cadence stand?",
+      "excerpt": "In a preliminary interview with DIGITIMES Asia, the Cadence VP also shares his views on AI deployment in chip design and its implications for the company. According to Moore, Cadence already anticipated the growing role of AI in chip design approximately ten years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2145220/image_800964_36161467.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-rd-speech-recognition-technology-that-can-handle-new-topics-of-conversation.md",
+      "title": "R&D Speech recognition technology that can handle new topics of conversation",
+      "excerpt": "After working at the Hiroshima Station, he moved to the Science & Technology Research Laboratories (STRL) in 2019, where he is involved in speech recognition research. His hobbies include running ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/3.html",
+      "originalUrl": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/img/3_0.jpg",
+          "width": 720,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy.md",
+      "title": "The EU Wants to Protect You From AI. Some Companies Aren't Happy",
+      "excerpt": "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
+      "originalUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/1bcd1a2f3d58e57809d2440b723a2d20e89d3d68/hub/2023/06/30/18b4a82a-874c-4f85-a2e8-c560a9890c6b/gettyimages-1468369907.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-microsoft-is-developing-cutting-edge-ai-chips-to-close-the-gap-with-aws-internal-documents-show.md",
+      "title": "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show",
+      "excerpt": "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
+      "originalUrl": "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/649f0139fd8a3e00191220d5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-voiceai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users.md",
+      "title": "Voice.ai raises $6M as its real-time voice changer approaches 500K users",
+      "excerpt": "With more than 480,000 users and a library of more than 50,000 voice filters, Voice.ai has picked up $6M to take its voice changing tech into new places.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/",
+      "originalUrl": "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/hearts-sounds.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/amp/",
+      "publishedDateTime": "2023-06-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-artificial-intelligence-market-worth-13452-billion-by-2030-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-huge-power-and-potential-danger-of-ai-generated-code.md",
+      "title": "The huge power and potential danger of AI-generated code",
+      "excerpt": "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
+      "originalUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png",
+          "width": 640,
+          "height": 311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
+      "publishedDateTime": "2023-06-30T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas.md",
+      "title": "Democratize computer vision defect detection for manufacturing quality using no-code machine learning with Amazon SageMaker Canvas",
+      "excerpt": "Cost of poor quality is top of mind for manufacturers. Quality defects increase scrap and rework costs, decrease throughput, and can impact customers and company reputation. Quality inspection on the production line is crucial for maintaining quality standards. In many cases, human visual inspection",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/ML-14560-image017-1249x630.png",
+          "width": 1249,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T09:41:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov.md",
+      "title": "The First AI-Developed Drug Reaches Phase 2 Clinical Trials. With Alex Zhavoronkov",
+      "excerpt": "A number of companies are now using AI to develop drugs faster, cheaper, and with fewer failures along the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649f042eeb2a600448e45c80/0x0.jpg?format=jpg&width=1200",
+          "width": 987,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/06/30/the-first-ai-developed-drug-reaches-phase-2-clinical-trials-with-alex-zhavoronkov/amp/",
+      "publishedDateTime": "2023-06-30T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
+      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
+      "excerpt": "SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award. Soul Machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33079784",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784",
+      "publishedDateTime": "2023-06-30T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-industrial-revolution-y2k-the-internet-generative-ai-still-the-same-old-story.md",
+      "title": "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story.",
+      "excerpt": "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649eea1ecc0ec4522e0b9757/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/",
+      "publishedDateTime": "2023-06-30T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-in-recruitment.md",
       "title": "AI in recruitment",
       "excerpt": "Let’s rethink recruiting. If you were to design the recruitment process for a new company, what would you automate to identify and get the best talent?\nThe post AI in recruitment appeared first on IBM Blog.\n",
@@ -603,538 +1173,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-ai-powered-rally-to-start-the-year-could-broaden-out-in-the-third-quarter.md",
-      "title": "The AI-powered rally to start the year could broaden out in the third quarter",
-      "excerpt": "Investors are wrapping up a surprisingly strong start to the year as they enter a seasonally weak period for markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-could-broaden-out-in-the-third-quarter.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-could-broaden-out-in-the-third-quarter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107238566-1683674471648-gettyimages-1487312741-dscf9295_2siyfzc1.jpeg?v=1688137703&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-industrial-robotics-poland.md",
-      "title": "AI Industrial Robotics - Poland",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$48.92m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.06%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/poland",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/poland",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-service-robotics-poland.md",
-      "title": "AI Service Robotics - Poland",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$22.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.77%, resulting in a market volume of US$54 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/poland",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-natural-language-processing-poland.md",
-      "title": "Natural Language Processing - Poland",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$103.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.75%, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/poland",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/poland",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report.md",
-      "title": "Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report",
-      "excerpt": "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report \"The Computer Vision Tools Landscape, Q2 2023 - Forrester's Overview Of 38 Vendors\".",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials.md",
-      "title": "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials",
-      "excerpt": "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-30/artificial-intelligence-startup-looks-to-develop-climate-friendly-materials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-natural-language-processing-denmark.md",
-      "title": "Natural Language Processing - Denmark",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$221.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.75%, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/denmark",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/denmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-building-resilient-healthcare-supply-chains.md",
-      "title": "Building resilient healthcare supply chains",
-      "excerpt": "Find out how the healthcare industry can address shortages, delays, rising costs, tight regulations and more with resilient supply chains.\nThe post Building resilient healthcare supply chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "originalUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.md",
-      "title": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search",
-      "excerpt": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/VE9e54lJ.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-best-movies-on-amazon-prime-video-july-2023.md",
-      "title": "The best movies on Amazon Prime Video (July 2023)",
-      "excerpt": "As with other streamers, movies are always coming and going on Amazon Prime Video. And while Prime Video’s original films are picking up more momentum, Amazon is still largely dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/american-sniper-1.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-06-30T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth Set to Surge Significantly during 2022 to 2028",
-      "excerpt": "What important contenders are dominating the Global Artificial Intelligence In Healthcare Market industry and how competitive will the market be by 2023? Global Artificial Intelligence In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-image-generators-powerful-tech-marketers-should-be-using.md",
-      "title": "AI Image Generators: Powerful Tech Marketers Should Be Using",
-      "excerpt": "There is far more that marketers can accomplish with these tools beyond seeing what a pink cat with a crown driving a car might look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649db7170b37026be90b96cb/0x0.jpg?format=jpg&width=1200",
-          "width": 1057,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/30/ai-image-generators-powerful-tech-marketers-should-be-using/amp/",
-      "publishedDateTime": "2023-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

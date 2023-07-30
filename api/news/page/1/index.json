@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
+      "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
+      "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
+      "publishedDateTime": "2023-07-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
+      "title": "Artificial intelligence, the airplane of the brain?",
+      "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
+      "originalUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/0q5qXMcy-sM7hl5Nwu7g0W0QvlU=/1200x0/filters:focal(1262x338:1272x348)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VLDX7LS4JRGWFHYN6XXC5HPQNM.jpg",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
+      "publishedDateTime": "2023-07-30T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-outcry-against-ai-companies-grows-over-who-controls-internets-content.md",
       "title": "Outcry Against AI Companies Grows Over Who Controls Internet’s Content",
       "excerpt": "Authors, artists and internet publishers demand compensation for the alleged use of their work to train generative-AI systems sweeping the globe.",
@@ -61,7 +157,7 @@
       "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -155,7 +251,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -362,7 +458,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/innovation/us-open-ai-sports-commentary-masters-wimbledon-rcna95244",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -850,7 +946,7 @@
       "originalUrl": "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -901,7 +997,7 @@
       "originalUrl": "https://www.cnn.com/interactive/2023/07/style/ai-artist-ideal-world-cnnphotos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1057,7 +1153,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1140,108 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-should-we-fear-artificial-intelligence-connor-leahy-touches-on-human-skepticism-of-ai.md",
-      "title": "Should we fear artificial intelligence? Connor Leahy touches on human skepticism of AI",
-      "excerpt": "Connor Leahy advises whether humans should be fearful of artificial intelligence or not and where AI is expected to be in the future",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6332012077112",
-      "originalUrl": "https://www.foxnews.com/video/6332012077112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/67966eca-b940-449d-954a-d45c32b77f10/f2388e83-5696-4028-a187-6917e4ba26e7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-4-careers-where-workers-will-have-to-change-jobs-by-2030-due-to-ai-and-shifts-in-how-we-shop-according-to-a-mckinsey-study.md",
-      "title": "4 careers where workers will have to change jobs by 2030 due to AI and shifts in how we shop, according to a McKinsey study",
-      "excerpt": "AI and changes in how we shop could force nearly 12 million US workers to change jobs in less than a decade, a McKinsey study found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7",
-      "originalUrl": "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c3d73acf07780019665507?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp",
-      "publishedDateTime": "2023-07-28T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

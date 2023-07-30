@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ai-bioweapons-capabilities-bad-acto
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat.amp"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI leaders warn Congress AI could be used to create bioweapons"
-    excerpt: "Two AI researchers and the CEO of AI startup Anthropic testified about the long-term risks of AI and said Congress needs to institute rules to control it."
-    publishedDateTime: 2023-07-25T20:42:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/25/ai-bengio-anthropic-senate-hearing/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2JSRAIZDGRU6KKKNPBWET6HNV4_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "LZisaABVeTRJ6pXQhYu74Id58k3yGDznMhlOd9lwo2wmjZ4AIIpc5zDK3lv4Bks8AtweGO+OG3SYWxsqP47wWgDh2N+58F0WU1GZyuqfOcJAqnatItuUoDavlcgtb//MLJ092Z/QOsBpZs90DCeDVA72KjpTiqDZq6yLM+M6kQbKhg4tzDAmYF/V+X7VG8bDBEGYxZ3xcfyczTtlZHZ/eWHjAA2ituYV+CfVYRRme/f6fjrtvxwlQhVQ5KGq9fSKJWO+QfCv2tlZeTIp3scziPD9FC80godK6TE7wi40It9WZdeEw/kZzC92sUjILrGVOEpCUJaiiRgnKIwdojL8gZmBPHNPHGJvalos0UfXdMU=;dU5L0eWxYFhwWGqWduwHqg=="
 ---

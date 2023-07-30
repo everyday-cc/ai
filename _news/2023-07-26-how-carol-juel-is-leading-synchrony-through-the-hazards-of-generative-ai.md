@@ -69,6 +69,15 @@ related:
         width: 1141
         height: 599
         isCached: true
+  - title: "Indian Startup Looks to Change the Lives of Marginalized People Through AI"
+    excerpt: "A startup in India is revolutionizing artificial intelligence (AI) to make it transformative for the poorest and most marginalized people in the communities."
+    publishedDateTime: 2023-07-27T16:00:00Z
+    webUrl: "https://www.techtimes.com/articles/294357/20230727/indian-startup-karya-changing-lives-many-marginalized-people-through-ai.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 15
 
 secured: "r2GTf69h3P75dKVnsDB1qc0X0Qbk3B8a6OBnJK2ITx8d2QHMdNNNT7h30GT1dYt9kqaQAOTPZAcHOphzM6FFrxs5b/7x4h/3iInOaLwKyFgVqbMoLKihnpDqhwQkyD1XhgAEGqUk3CvFBjaucBn7t7pSaIrqYt9iZJ1J//aFlm91ZKPNmuAn/oX3VelpHm4hkkgrjcX+TQxuWnVJt4+0KiMWLn1E/quzvmUwtx7xCoI0DhtgN3+CYHo9yNTAraEV9j1BdU8hSE/09zEmn3wQ4pkJxncHOvGF/QE9VRhm7PhHks0d/tcbL0fbtpj6iEqVJXTqVTWrpr+dPYrOQFe8tGS2qF9NwBFS9AUILFhKIsvb1P8kLHOKBSU2JK0EPP+8shAzkYLpHboI2zq0dXBi/YDWVxnEinZg7XCnu0RsXKkIizku4j0pIiHEnGK8O24dt6EbdJBM7nk5FaPrNxggQJSG/YFqNRNbu1n/u/UZD+2zelXCv1XeJ3JEVk1M4M+gRqQLl9sHs7CYNVftHzKS4w==;GV1ZLTp2hQCWY8HEuB4JzA=="
 ---

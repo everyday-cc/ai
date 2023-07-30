@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Netflix lists $900,000 AI job as actors and writers continue to strike"
-    excerpt: "Will this pair of Hollywood strikes ever end? It looks like the big corporations are digging in for a long battle, illustrated by Netflix’s recent job posting for a machine learning platform product manager."
-    publishedDateTime: 2023-07-25T19:06:00Z
-    webUrl: "https://www.engadget.com/netflix-lists-900000-ai-job-as-actors-and-writers-continue-to-strike-190037630.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy"
     excerpt: "It's no surprise one of the world's biggest tech companies is paying top dollar for AI experts - but we can still call them out."
     publishedDateTime: 2023-07-27T18:16:00Z

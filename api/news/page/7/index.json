@@ -2,6 +2,463 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-26-70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities.md",
+      "title": "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities",
+      "excerpt": "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
+      "publishedDateTime": "2023-07-25T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-microsoft-earnings-top-estimates-but-stock-falls-as-execs-detail-ais-costs.md",
+      "title": "Microsoft earnings top estimates, but stock falls as execs detail AI’s costs",
+      "excerpt": "Microsoft topped profit and revenue expectations for its latest quarter, though shares were moving lower after the company discussed the year ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 551,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-709442/horizontal",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f",
+      "publishedDateTime": "2023-07-25T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-google-rebounds-from-unprecedented-drop-in-ad-revenue-with-a-resurgence-that-pushes-stock-higher.md",
+      "title": "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher",
+      "excerpt": "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "publishedDateTime": "2023-07-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-25T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-ge-healthcare-ceo-on-advances-in-alzheimers-treatment-a-breakthrough-moment-for-patients.md",
+      "title": "GE HealthCare CEO on advances in Alzheimer's treatment: 'A breakthrough moment for patients'",
+      "excerpt": "GE HealthCare CEO Peter Arduini discussed his company's role in Alzheimer's treatment with CNBC's Jim Cramer on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107253594-1686246162711-gettyimages-1418953592-vcg111398371069.jpeg?v=1690327099",
+          "width": 5310,
+          "height": 3540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "publishedDateTime": "2023-07-25T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system.md",
+      "title": "Make The Doctor’s Office Fair! AI Can Help Create A More Equitable Healthcare System",
+      "excerpt": "Bringing a level of scrutiny to AI processes in healthcare, Marzyeh Ghassemi has some solutions for harmful bias in systems that, as a society, we want to root out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c033dd228eb00488105e80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "publishedDateTime": "2023-07-25T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer.md",
+      "title": "Stop Crashes! Using AI To Predict Car Crashes, And Make Roads Safer",
+      "excerpt": "“Imagine you put the world's safest driver and the world's best vehicle on our roads,” he said. “There's an inherent level of extrinsic risk caused by other vehicles, caused by the nature of the road geometry, and topology.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c02de5f585744f48b8ced8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/amp/",
+      "publishedDateTime": "2023-07-25T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads.md",
+      "title": "Spotify CEO teases potential upcoming AI-powered capabilities surrounding personalization and ads",
+      "excerpt": "Spotify CEO Daniel Ek teased a few ways the streaming service could introduce additional AI-powered functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/",
+      "originalUrl": "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1013933224.jpg?resize=1200,709",
+          "width": 1200,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/",
+      "publishedDateTime": "2023-07-25T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-indian-tech-giant-wipro-to-invest-1b-in-ai.md",
+      "title": "Indian tech giant Wipro to invest $1B in AI",
+      "excerpt": "'Where's the evidence?': Democrat reacts to McCarthy's impeachment threat against Biden",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "originalUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230725160137-exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "publishedDateTime": "2023-07-25T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs.md",
       "title": "Debunking observability myths – Part 1: Why you can’t skip monitoring and rely only on logs",
       "excerpt": "In this blog post, we will shed light on a myth surrounding observability: \"You can skip monitoring and rely on logs.”\nThe post Debunking observability myths &#8211; Part 1: Why you can’t skip monitoring and rely only on logs appeared first on IBM Blog.\n",
@@ -811,445 +1268,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-optimizing-energy-production-with-the-latest-smart-grid-technologies.md",
-      "title": "Optimizing energy production with the latest smart grid technologies",
-      "excerpt": "Smart grid technology promises to modernize the traditional electrical system with an infusion of digital intelligence.\nThe post Optimizing energy production with the latest smart grid technologies appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
-      "originalUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T06:08:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ai-researchers-train-artificial-intelligence-to-help-detect-breast-cancer.md",
-      "title": "AI: Researchers train artificial intelligence to help detect breast cancer",
-      "excerpt": "Researchers have developed an artificial intelligence (AI) system that may help doctors detect cancer. The researchers from Cardiff University say it could help improve the accuracy of medical diagnostics and could lead to earlier breast cancer detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-66298998.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-66298998.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/495C/production/_130508781_gettyimages-917730078.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-wales-66298998.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-66298998.amp",
-      "publishedDateTime": "2023-07-25T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus.md",
-      "title": "Microsoft earnings: What to expect as Azure, AI come into focus",
-      "excerpt": "For one, the company’s Azure cloud-computing business has been in a slowdown, while the Windows business is in decline amid a tough market for personal computers. These days, however, Wall Street is intently focused on the company’s AI opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
-      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm.md",
-      "title": "IBM named a leader in ESG reporting and data management software by independent research firm",
-      "excerpt": "Independent research firm Verdantix recently identified IBM as a leader in their report, &#8220;Green Quadrant: ESG Reporting and Data Management Software&#8221; (July 17, 2023), which evaluated and provided a detailed assessment of solution providers and their product offerings. The rigorous analysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-the-generative-ai-battle-has-a-fundamental-flaw.md",
-      "title": "The Generative AI Battle Has a Fundamental Flaw",
-      "excerpt": "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp",
-      "publishedDateTime": "2023-07-25T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-goodbye-to-graphics-how-gpus-came-to-dominate-compute-and-ai.md",
-      "title": "Goodbye to Graphics: How GPUs Came to Dominate Compute and AI",
-      "excerpt": "TechSpot is celebrating its 25th anniversary. TechSpot means tech analysis and advice you can trust. When you buy through our links, we may earn a commission. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
-      "originalUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/articles-info/2702/images/2023-07-24-image.jpg",
-          "width": 3213,
-          "height": 1806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-how-decentralized-networks-reduce-the-ai-costs.md",
-      "title": "How Decentralized Networks Reduce The AI Costs",
-      "excerpt": "This untapped potential provides a remarkable opportunity for AIGC. As an illustration, an AI startup based in New York could dispatch its training tasks to servers located in the Middle East. By doing so, the aggregated costs, encompassing server expenses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfa27ae60700645ff13678/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
-      "title": "Is This AI and Robotics Chip Stock a Buy Now?",
-      "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg",
-          "width": 3372,
-          "height": 1809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-taiwans-tsmc-to-invest-29-billion-in-new-plant-as-demand-for-ai-chips-soars.md",
-      "title": "Taiwan’s TSMC to invest $2.9 billion in new plant as demand for AI chips soars",
-      "excerpt": "TSMC, the world’s largest chipmaker, says it plans to invest nearly 90 billion New Taiwan dollars ($2.9 billion) to build an advanced chip plant in Taiwan, as it expands production to meet booming demand for artificial intelligence (AI) products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230725082028-taiwan-tsmc-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "publishedDateTime": "2023-07-25T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

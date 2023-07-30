@@ -42,15 +42,6 @@ related:
         width: 2500
         height: 1400
         isCached: true
-  - title: "Your Household Robot Should Be A General AI- Like You!"
-    excerpt: "This is a problem that a lot of engineers are thinking about, as noted in Leslie Kaelbling’s presentation on the difference between a robot factory and what happens"
-    publishedDateTime: 2023-07-25T19:50:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-robot-should-be-a-general-ailike-you/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "EFAysV5CF340unzr5zkrcr5uzqihmNsDc5IXf+FXj5n96KlVYBMg8ZU7Wb/psT8t1hdRoSFLLCCMGgfcC23mxpm9SqgwcsmM+o+GHDIJJd9dtoY5DKP7kSZzX6cnMJS6U51lAvQilTjHjtcA28r2/fAAkTaB88OlHkA6mFCOgJvnwO7SvYccbnTUujRGYJJn5zM3Zi3kkEz+MJwQU67wt6cEQZP/06Afi9aIWf88TGqkfd2nUpI9Sx7d9sGuWOMd4S+iasHydOar6dePx9eIZk/EgCcqyK9qXuoOFa4534ZQd8ktAa/TJ01h5mPm5NZNM9sE0qSv+aHIx3Z75ggEMM1Kuvn1bY+MuiRxh1CG2cxYoAT2MnJSL9wttJMDDLQfFLFHeEnBNxAguJ6JvfI39kWVZ6X+Tvg7M0NLzy+EO/X932ClLPMkibowmB8+JYtD5KhWwJEd6vGj/rl3gba2XzgIkWg5XHn92GmFWaTQoBSondKh0uXYoJGGxMJPEI6jjAIf6anWCYNLa48PvGE9Ug==;TNj656yDibCnDev3AEd5Hw=="
 ---

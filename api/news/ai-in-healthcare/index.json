@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-28-can-ai-fix-the-us-healthcare-system.md",
+      "title": "Can AI Fix The U.S. Healthcare System?",
+      "excerpt": "John Guttag is a computer scientist and professor at CSAIL and EECS MIT, recognized for his significant contributions to the fields of programming languages and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-health-care-down-as-thermo-fisher-slides-health-care-roundup.md",
       "title": "Health Care Down as Thermo Fisher Slides -- Health Care Roundup",
       "excerpt": "Health-care companies ticked down amid concerns about growth in the sector. Thermo Fisher Scientific slid after the maker of scientific instruments cut",
@@ -190,6 +233,58 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools.md",
+      "title": "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools",
+      "excerpt": "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHYEvk8TxBUA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1365,94 +1460,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-will-artificial-intelligence-affect-investing.md",
-      "title": "How Will Artificial Intelligence Affect Investing?",
-      "excerpt": "Predicting how artificial intelligence will affect the investment industry falls between those two extremes. The internet was so difficult to foresee because it broke radical new ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
-      "originalUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png",
-          "width": 2500,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
-      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
-      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
-          "width": 640,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "publishedDateTime": "2023-07-14T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna95244"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95244"
 type: article
 quality: 87
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Your Household Robot Should Be A General AI- Like You!"
-    excerpt: "This is a problem that a lot of engineers are thinking about, as noted in Leslie Kaelbling’s presentation on the difference between a robot factory and what happens"
-    publishedDateTime: 2023-07-25T19:50:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/your-household-robot-should-be-a-general-ailike-you/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Six ways that AI could change politics"
     excerpt: "A new era of AI-powered domestic politics may be coming. Watch for these milestones to know when it’s arrived."
     publishedDateTime: 2023-07-28T08:30:00Z

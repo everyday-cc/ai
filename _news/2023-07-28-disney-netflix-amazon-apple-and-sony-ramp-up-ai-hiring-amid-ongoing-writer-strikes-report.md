@@ -115,15 +115,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Netflix lists $900,000 AI job as actors and writers continue to strike"
-    excerpt: "Will this pair of Hollywood strikes ever end? It looks like the big corporations are digging in for a long battle, illustrated by Netflix’s recent job posting for a machine learning platform product manager."
-    publishedDateTime: 2023-07-25T19:06:00Z
-    webUrl: "https://www.engadget.com/netflix-lists-900000-ai-job-as-actors-and-writers-continue-to-strike-190037630.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "Netflix invests more than half a million dollars in machine learning role amid SAG, WGA strikes"
     excerpt: "As writers and actors continue to strike in demand for fair pay, streaming giants are investing their money into artificial intelligence, and Los Gatos-based company Netflix is leading the way."
     publishedDateTime: 2023-07-26T23:43:00Z

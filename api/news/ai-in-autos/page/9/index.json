@@ -2,6 +2,187 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-17-ex-apple-employee-accused-of-stealing-trade-secrets-is-exec-at-baidu-self-driving-car-joint-venture.md",
+      "title": "Ex-Apple employee accused of stealing trade secrets is exec at Baidu self-driving car joint venture",
+      "excerpt": "an electric vehicle joint venture between Baidu and Chinese car maker Geely. On Tuesday, the DOJ accused Wang of stealing trade secrets from Apple's self-driving car division. Wang is the third ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107194711-1676427099559-gettyimages-1453437554-vcg111416077998.jpeg?v=1684262125",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
+      "publishedDateTime": "2023-05-16T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup.md",
+      "title": "Tech Up as Sector Seen Less Vulnerable to Default Fallout -- Tech Roundup",
+      "excerpt": "Chinese search engine Baidu posted a sharp increase in first-quarter revenue. A former Apple engineer was charged with trying to steal the company's self-driving-car technology. Write to Rob Curran at rob.curran@dowjones.com Back to Top",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "originalUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
+      "publishedDateTime": "2023-05-16T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers-fire-coach-doc-rivers-top-headlines-for-may-16-.md",
+      "title": "ChatGPT chief says AI should be regulated; China ready to 'smash' Taiwan self-rule; 76ers fire coach Doc Rivers | Top headlines for May 16 & 17, 2023",
+      "excerpt": "On the version of Hot off the Wire posted May 16 at 4 p.m. CT: OpenAI CEO Sam Altman, the head of the artificial intelligence company that makes ChatGPT, told",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "originalUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/56/45629a65-9fdf-5b61-8df4-4ccc518beddb/6463fc24d6906.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-baidu-inc-bidu-q1-2023-earnings-call-transcript.md",
+      "title": "Baidu, Inc. (BIDU) Q1 2023 Earnings Call Transcript",
+      "excerpt": "our SVP in-charge of Baidu Intelligent Driving. After our prepared remarks, we will hold a Q&A session. Please note that the discussion today will contain forward-looking statements made under the ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency.md",
       "title": "ChatGPT chief says artificial intelligence should be regulated by a U.S. or global agency",
       "excerpt": "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems.",
@@ -1212,188 +1393,6 @@
         "name": "Dallas Morning News",
         "domain": "dallasnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-tesla-gears-up-to-offer-free-ai-powered-self-driving-trial-time-to-buy-the-stock.md",
-      "title": "Tesla Gears Up to Offer Free AI-Powered Self-Driving Trial: Time to Buy the Stock?",
-      "excerpt": "stating that his electric vehicle company would be offering a free trial of its full-self-driving (FSD) service powered by artificial intelligence (AI) for all of its automobiles in North America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-gears-up-to-offer-free-ai-powered-self-driving-trial:-time-to-buy-the-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-gears-up-to-offer-free-ai-powered-self-driving-trial:-time-to-buy-the-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology.md",
-      "title": "Global Artificial Intelligence Robotics Market [2023-2030] | Understanding the Impact of Trend and Technology",
-      "excerpt": "Global “Artificial Intelligence Robotics Market” (2023-2030) research report provides key analysis on the market status",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert.md",
-      "title": "Will Artificial Intelligence Take Away Jobs? Not Many for Now, Says Expert",
-      "excerpt": "The growing abilities of artificial intelligence have left many observers wondering how AI will impact people’s jobs and livelihoods. One expert in the field predicts it won’t have much effect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "originalUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/01000000-0aff-0242-405c-08db5119be00_w1080_h608_s.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "publishedDateTime": "2023-05-09T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-baidus-smart-speaker-unit-to-launch-a-phone-next-week.md",
-      "title": "Baidu’s smart speaker unit to launch a phone next week",
-      "excerpt": "The company has said it plans to embed its AI tools into all major business lines, including in search, autonomous driving and smart gadgets. The introduction of a handset under the Baidu umbrella ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/08/b561cca7-b7a1-4868-9336-ece8b15bca44_79f1061e.jpg?itok=3T2253UF&v=1683534684",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

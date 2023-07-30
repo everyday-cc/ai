@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-06-entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-era-of-ai.md",
+      "title": "Entrepreneur Kathryn Hastings on the Allure of Handwritten Notes in the Era of AI",
+      "excerpt": "Moreover, specific AI language translation tools have eliminated language barriers, enabling real-time communication between individuals who speak different languages. However, in the middle of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
+      "originalUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lifeandstylemag.com/wp-content/uploads/2023/07/KathrynHastings.jpg?crop=0px%2C15px%2C1200px%2C629px&resize=1200%2C630&quality=86&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-lifeandstylemag-com.cdn.ampproject.org/c/s/www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
+      "publishedDateTime": "2023-07-05T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Life & Style Weekly",
+        "domain": "lifeandstylemag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
+      "title": "Highlight text as it’s being spoken using Amazon Polly",
+      "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/ML-14148-polly-highlight-text-v3.drawio-933x630.png",
+          "width": 933,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T13:12:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-roland-corporation-fine-tunes-translation-with-language-weaver.md",
       "title": "Roland Corporation Fine Tunes Translation With Language Weaver",
       "excerpt": "CHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, the AI-driven machine translation technology powering enterprise and government, has partnered with Roland Corporation, the Japan ...",
@@ -1225,83 +1321,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-28T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-speech-recognition-south-africa.md",
-      "title": "Speech Recognition - South Africa",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$63.24m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 20.54%, resulting in a market volume of US$233 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-africa",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-speech-recognition-north-america.md",
-      "title": "Speech Recognition - North America",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$2.77bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.96%, resulting in a market volume of US$6 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/north-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/north-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T15:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",

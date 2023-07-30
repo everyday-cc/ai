@@ -71,15 +71,6 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "Would You Trust Tesla's Self-Driving System? Read This!"
-    excerpt: "Tesla's self-driving system has been criticized repeatedly over the years. One group calling for a ban on Tesla's Full Self-Driving software is The Dawn Project, a nonprofit group founded by Dan O'Dowd. It's campaigning to get Congress to ban it."
-    publishedDateTime: 2023-07-28T00:26:00Z
-    webUrl: "https://www.timesunion.com/news/article/would-you-trust-tesla-s-self-driving-system-18265021.php?IPID=Times-Union-cars-headlines"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 19
 
 secured: "ltuwYK1Zf7T12Ji6zuh9Yb1x+xUPlqzvMESI0zyWPmYxnPgEBXe1flJ4WdXfVzHUhFqc/V9Hem0GfUW8xzFpT5dWHbnU9oxe/QZed1TEO0jIOyYqGX/x0AeMrJkm/1z0tmP2iKmvwAYtP/vaaBj2E0uybeUqm7yiQfzilBv3DUiJiCFhU6955Irq2sGBhvQ9QVHz71iSU5IoSg0lYXwkbfbTsW8kKR0jDNih9BvkOVDXeACCRK5hK40jeIEeGTOK0f8aAiCZ/IKPVTDC3Y3huIfVgWtmlZW6nJ02yE4ggffH82LWl0/vVS3ZrfE4EtvRc6kJR13GaOBObNWQ1FQWtXszeQuB3KFkOSpcppoVpwE=;hwL1xSz1dwzjzLlBboTOUg=="
 ---

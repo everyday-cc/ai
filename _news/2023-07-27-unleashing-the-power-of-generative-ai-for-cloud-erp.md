@@ -78,15 +78,6 @@ related:
         width: 1200
         height: 733
         isCached: true
-  - title: "More than 70% of companies are experimenting with generative AI, but few are willing to commit more spending"
-    excerpt: "More than half (54.6%) of orgs are are experimenting with generative AI, but few (18.2%) expect to spend more, a VentureBeat survey finds."
-    publishedDateTime: 2023-07-25T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/more-than-70-of-companies-are-experimenting-with-generative-ai-but-few-are-willing-to-commit-more-spending/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 28
 
 secured: "4IWrOphYpvTl8qIwOSl6ruLxQUByQwxe7cxfYviiOffH8T17BsBkkOjtGZpLkK5Oa8SJKRgeHLUZH2qLroVSSS0Z+y1y17P0cTqcwnpPMMpQncSKg/N2Id+JnLyZlZHcXVHT63ozSFLxUoLVU4uwWcf60XK6oZ2FSMkrKrhONLmZRcjiw2CqxmM6onLrPW/JrMaGLjkS+D4LUmxK2/4Qg0BkJWHA8OVJJtu+T8Wdyr01FRPVOM91YvKMi/NmisEuAk3g+yECpcmdYgJ0/oMv5tl5IE9wkRBD9vVuOijeSsbDyxzwIdfTXOrTzp4cvGDUT3Ye68W2QjoVLCdtn03PhpUbr25v3y7STzeSZfSq7q8=;VMV5SCNdhb/66t5D7K25pw=="
 ---

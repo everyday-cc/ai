@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "J.D. Power, Palantir to partner on artificial intelligence tools for dealers, OEMs"
-    excerpt: "J.D. Power has announced a new partnership with data analytics firm Palantir Technologies to create new artificial intelligence solutions."
-    publishedDateTime: 2023-07-25T20:05:00Z
-    webUrl: "https://www.cbtnews.com/j-d-power-palantir-to-partner-on-artificial-intelligence-tools-for-dealers-oems/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 31
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_613568102.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-
 secured: "EHCiBUmvKz4fsZ/oM/jeT/9MxRls9cWwGJfjQyz/v7t9skJ5qbpPlZWcez4otYk/elQCA8ZAfI8/QHYR6+tnLl8dbZQwviEs95FCa8LetyAVTnPNE7J00BkkmMqxV31QQOVd16edyl3oXroL1cn3RUPTL6f5pGOg49grmH/EtvJSmjH/fcNb6x6fUvjV2pOqxCO93AZKFOD5nQQqdGBdaYxPh9gPoVeK9o+B6w0QfY+BL4KBM7XmEot5iqL077W0CD0Pk337R2+8350LzSk+Dw0tpI3cNU26YWpMuHxo3iMvsB46lJtK6dMNnBTOMLtoBp8gwA0l91RwXuLt6f0lt/e1MVIyYAA3MAZs4Ywiw3o=;Hf9TLJcPdoJgTGzrUG8yVw=="
 ---
 

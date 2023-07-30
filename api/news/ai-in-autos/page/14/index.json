@@ -2,6 +2,188 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-12-top-7-autonomous-vehicle-stocks-to-buy-now.md",
+      "title": "Top 7 Autonomous Vehicle Stocks to Buy Now",
+      "excerpt": "Autonomous vehicle, or AV, technology is generally considered a can't-miss, long-term investment. Several companies have already launched fully AV services for the public in a handful of cities in",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2023/04/top-7-autonomous-vehicle-stocks-to-buy-now-6/",
+      "originalUrl": "https://wtop.com/news/2023/04/top-7-autonomous-vehicle-stocks-to-buy-now-6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-why-regulating-ai-is-a-mistake.md",
+      "title": "Why Regulating AI Is A Mistake",
+      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-the-morality-of-artificial-intelligence.md",
+      "title": "The Morality of Artificial Intelligence",
+      "excerpt": "Next to such early attempts on formulating an ethical law for robots and computers, there are, more recently the following ethics codes for artificial intelligence: + Ohio State University’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
+      "originalUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.counterpunch.org/wp-content/uploads/2023/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048-680x544.jpg",
+          "width": 680,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CounterPunch",
+        "domain": "counterpunch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-the-president-of-the-worlds-first-artificial-intelligence-university-speaks-to-cnn-about-the-benefits-and-dangers-of-artificial-intelligence.md",
+      "title": "The president of the world’s first artificial intelligence university speaks to CNN about the benefits and dangers of artificial intelligence",
+      "excerpt": "'My stomach is hurting from laughing': Hear panelist's reaction to DeSantis' threat to Disney",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
+      "originalUrl": "https://www.cnn.com/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230411022836-exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world-00002001-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/04/11/exp-ai-interview-abu-dhabi-fst041010aseg1-cnni-world.cnn",
+      "publishedDateTime": "2023-04-11T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-can-intelligence-be-separated-from-the-body.md",
       "title": "Can Intelligence Be Separated From the Body?",
       "excerpt": "a robot technician at Embodied, with a Moxie unit.Credit...Alex Welsh for The New York Times A brave new world. A new crop of chatbots powered by artificial intelligence has ignited a scramble to ...",
@@ -1128,142 +1310,6 @@
       "provider": {
         "name": "Lifehacker",
         "domain": "lifehacker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go.md",
-      "title": "Scott Reeder | Artificial intelligence daunting but has a ways to go",
-      "excerpt": "Truck drivers may soon face a similar threat as artificial intelligence is perfected and self-driving vehicles become commonplace. I was reading a Wall Street Journal article that said the future of truck stops is imperiled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
-      "originalUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News-Gazette",
-        "domain": "news-gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-could-have-a-7-trillion-impact-in-10-years-here-are-4-top-stocks-to-buy-now.md",
-      "title": "AI Could Have a $7 Trillion Impact in 10 Years: Here Are 4 Top Stocks to Buy Now",
-      "excerpt": "It estimates that AI could drive a 7% increase in annual global gross domestic product (GDP) over the next 10 years. This translates to an economic impact of close to $7 trillion. As you might expect,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-from-science-fiction-to-reality-autonomous-vehicles-powered-by-ai-and-government-investment.md",
-      "title": "From Science Fiction To Reality: Autonomous Vehicles Powered By AI And Government Investment",
-      "excerpt": "The growth is attributed to advancements in artificial intelligence and machine learning ... as well as developments in the field of autonomous vehicles by major players like Waymo, General Motors, and Ford. General Motors' recent announcement of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105946611/From-Science-Fiction-To-Reality-Autonomous-Vehicles-Powered-By-AI-And-Government-Investment",
-      "originalUrl": "https://menafn.com/1105946611/From-Science-Fiction-To-Reality-Autonomous-Vehicles-Powered-By-AI-And-Government-Investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-san-francisco-set-to-become-1st-us-city-with-two-robotaxis.md",
-      "title": "San Francisco set to become 1st US city with two robotaxis?",
-      "excerpt": "The effort to unleash dueling driverless services throughout San Francisco is shaping up to be the first step in an ambitious expansion centered in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/car-bike/san-francisco-set-to-become-1st-us-city-with-two-robotaxis-101680670522451.html",
-      "originalUrl": "https://www.hindustantimes.com/car-bike/san-francisco-set-to-become-1st-us-city-with-two-robotaxis-101680670522451.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

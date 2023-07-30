@@ -2,6 +2,74 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-06-why-smart-language-models-are-the-key-to-accurate-ai.md",
+      "title": "Why smart language models are the key to accurate AI",
+      "excerpt": "Smart language models, an alternative way of using Natural Language Processing, are the key to accurate AI and help drive value in engineering",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/smart-language-models-key-accurate/156830/",
+      "originalUrl": "https://www.openaccessgovernment.org/smart-language-models-key-accurate/156830/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-european-ai-start-ups-race-to-improve-chatbots-language-skills.md",
+      "title": "European AI start-ups race to improve chatbots’ language skills",
+      "excerpt": "Companies aim to improve response quality after criticism of reliance on small group of mostly US participants",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
+      "originalUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
       "title": "AXL EdTech Launches AI Language and Marketing Innovations",
       "excerpt": "making it a hyper-realistic AI translator. Merlin can adapt to any language and translate it to the language selected by the user, and will soon be able to automatically translate all lessons ...",

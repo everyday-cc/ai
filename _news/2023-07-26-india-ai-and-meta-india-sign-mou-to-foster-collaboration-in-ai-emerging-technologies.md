@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: devdiscourse
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
+    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
+    publishedDateTime: 2023-07-27T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
 
 secured: "KclBr29uFaZYUTDHAUNLaOnXz8wYPPe/5FK6WoxcSYRYpH8G1DqqhtVjoZNxHFXUmUXQzQMkHsX/ISIIe+L0MBXiOv2VUJMLIOkjv4CQ67R1WhqdKjyaqdKkp+XXLgC2WSuG/oULha8V+32MvaEWk30l+udImAz3R/1ivhaiStsX7JaJLe32YJPOYtGqGQbuPaylhtI0sVM+gno8uzg0QpiBMV//LA940AaTMN1bIt2T2HQg/xR+I82HjdSipA5F3tYDWqI+NC/wohCooSV/ZBkO945ouaQ1PDqYbUvCwiAnkFA9/virmcpwRlnx3ONSBqeZM942hVlCGpyP6BZbGZpknhNaTvRwKaX4JVxt6DEvPcBd40U0iLG046EIkVPmYNVc2faDqc2xGVRFzgo9/VVZ1DysRye0efit+ustA3J0fb2iG/JPyf9Ie2mi1aMnb2kIIPoaAFXynw5fAMJ5GGEa8JOELw3wwXbEIjvEk8x6vqg0FWBbJvKK+xbo74fE2spHpUyi+nwfWD3ZK298NA==;6KZCeC+55dcZRsPJ2mh9zQ=="
 ---

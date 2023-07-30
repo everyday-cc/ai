@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-28T12:00:00Z
 originalUrl: "https://www.union-bulletin.com/commentary-artificial-intelligence-loves-america/article_d48a318a-2cb9-11ee-a292-cf639ea6ace5.html"
 webUrl: "https://www.union-bulletin.com/commentary-artificial-intelligence-loves-america/article_d48a318a-2cb9-11ee-a292-cf639ea6ace5.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Jay Ambrose: Artificial intelligence loves America"

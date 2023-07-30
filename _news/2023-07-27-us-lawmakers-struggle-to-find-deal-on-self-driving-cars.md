@@ -62,20 +62,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "Congress Wades Into Self-Driving Debate With New House Bills"
-    excerpt: "Congress is wading into the debate over whether automakers should be allowed to more self-driving cars while manufacturers seek federal permission to expand testing of the technology."
-    publishedDateTime: 2023-07-25T20:12:00Z
-    webUrl: "https://www.ttnews.com/articles/congress-self-driving-cars"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Capitol-Night-1200.jpg"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Lobbyists And Lawmakers Want You To See The Race To Self-Driving As A Race Against China"
     excerpt: "Also, Stellantis' CEO doesn't think he's needed at UAW contract talks and VW expects to sell fewer cars this year than it planned, all in today's Morning Shift."
     publishedDateTime: 2023-07-27T15:08:00Z

@@ -119,20 +119,6 @@ related:
         width: 1200
         height: 769
         isCached: true
-  - title: "Eversana, Amazon Web Service Partner to Accelerate Artificial Intelligence Across Life Sciences Industry"
-    excerpt: "Eversana revealed plans to fast-track the use of artificial intelligence (AI) in the life sciences sector. Through this association, the organizations plan on implementing the technology to help pharmaceutical and life science manufacturers drive efficiencies and business value while improving patient outcomes."
-    publishedDateTime: 2023-07-25T19:31:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/eversana-amazon-web-service-partner-to-accelerate-artificial-intelligence-across-life-sciences-industry"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 22
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/d4a320583231890faaea803c71c7b5f2a27c0ce4-1280x720.png?fit=crop&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "M9stVR2D/XfiLXhqXBmzAG3yDwlpptfoWvCsiBqkpmhDs3/lPM4lIsqAf2z0x2ImmGuwMmXywqxqM+E3/s9mjK8beNcDe9kDofo75b5B+FVUgTtwygN+B3ZCKKIgQDpb7Dc/yN1I2xBpGCV766WIciIjY//QQOsauceJI4sNDu2tAFoGfQQGPVJqujtklhgqnwduecxTDlbQdtrdGVJeLNR5cP88sAzi7emYo2RAfp80aXPLBvu0f20l5UDA/3ZtgVfVWdkKmr+xg6dwiv7sDU4mlsCVJg48uX4Dz8EHPKWbZfl0CDXd2Z5nc8Z5u3nYJVhJ2CZ5jtKbF9fVWG6eWxAXKib5UQ8BiN4MFxPysNw=;ayf51egsRMGeUUuHmE0EaA=="
 ---

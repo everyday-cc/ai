@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-drivi
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "Would You Trust Tesla's Self-Driving System? Read This!"
-    excerpt: "Tesla's self-driving system has been criticized repeatedly over the years. One group calling for a ban on Tesla's Full Self-Driving software is The Dawn Project, a nonprofit group founded by Dan O'Dowd. It's campaigning to get Congress to ban it."
-    publishedDateTime: 2023-07-28T00:26:00Z
-    webUrl: "https://www.timesunion.com/news/article/would-you-trust-tesla-s-self-driving-system-18265021.php?IPID=Times-Union-cars-headlines"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 19
 
 secured: "5pJPF9xL+65v4421uT9azd7woAjCW1gF/fmtnzzNwAZbAm10TrCfrFxMPFx6bFjMXfwQihEnr18cmUnp7qWTxIymLaGN7rO9Ko1fdw5L9ZSMyctaDUCoDeRnPTbTzHTgejDcOIMtk13ayPzxUS0rY1sujMI7oeRj1hcDcuYRzQk+uHB2whWhy+SvB8dYAAkmM/qNjSNLDKWaTs1Id9wSiFnQre2tewi3nqKDbbd/UOM1xW5T5weo1xoqNxqmK5jRPYHkFDY9vE3s/ZNAXxOQKhM0aB/kafQGA4BH5ic2iEJsTqEp2iSF9oJrkzyRqDWz+u4LHggTvT7IYVqL0Anj2zQYDVB7fGPMeA2Zo2UdVm8jRshQfFQCFp51vzkit6bF7767oz2lh1lW+aFTaC29pgKWcf2PMjpDj2NE3bdEcCSO9DrnT/ju7/fwVE22lCYYcdNZVmm0u4MGn/5/xzf4/4PcA0xfcqeMWve/uJ/sxP508xeLDp9JKmZgB9iWTDW2lCOtuFXL3HfoBvpmJ7B82w==;M+gIFt3DnnSZm5aHmnGkcQ=="
 ---

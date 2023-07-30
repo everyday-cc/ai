@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-28-should-we-fear-artificial-intelligence-connor-leahy-touches-on-human-skepticism-of-ai.md",
+      "title": "Should we fear artificial intelligence? Connor Leahy touches on human skepticism of AI",
+      "excerpt": "Connor Leahy advises whether humans should be fearful of artificial intelligence or not and where AI is expected to be in the future",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6332012077112",
+      "originalUrl": "https://www.foxnews.com/video/6332012077112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/67966eca-b940-449d-954a-d45c32b77f10/f2388e83-5696-4028-a187-6917e4ba26e7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-4-careers-where-workers-will-have-to-change-jobs-by-2030-due-to-ai-and-shifts-in-how-we-shop-according-to-a-mckinsey-study.md",
+      "title": "4 careers where workers will have to change jobs by 2030 due to AI and shifts in how we shop, according to a McKinsey study",
+      "excerpt": "AI and changes in how we shop could force nearly 12 million US workers to change jobs in less than a decade, a McKinsey study found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7",
+      "originalUrl": "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c3d73acf07780019665507?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp",
+      "publishedDateTime": "2023-07-28T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-5-things-about-ai-you-may-have-missed-today-ai-promise-by-intel-us-chip-exports-and-more.md",
       "title": "5 things about AI you may have missed today: AI promise by Intel, US’ chip exports, and more",
       "excerpt": "AI Roundup: These are the latest developments in the world of artificial intelligence that happened today. Intel has announced plans to incorporate AI into their products, while US lawmakers urged the government to tighten the restrictions around AI chip exports.",
@@ -148,7 +250,7 @@
       "originalUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -191,7 +293,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -231,6 +333,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-can-ai-fix-the-us-healthcare-system.md",
+      "title": "Can AI Fix The U.S. Healthcare System?",
+      "excerpt": "John Guttag is a computer scientist and professor at CSAIL and EECS MIT, recognized for his significant contributions to the fields of programming languages and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -467,7 +612,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -612,7 +757,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-researchers-jailbreak-bard-chatgpt-safety-rules-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1051,152 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-house-takes-step-toward-ai-regulation-government-study-on-ai-accountability-due-in-18-months.md",
-      "title": "House takes step toward AI regulation; government study on ‘AI accountability’ due in 18 months",
-      "excerpt": "A House committee this week took a small step toward AI regulation, although broad calls for a sweeping AI bill have largely been ignored in the House and Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability",
-      "originalUrl": "https://www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability.amp",
-      "publishedDateTime": "2023-07-27T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-facial-recognition-system-implemented-at-incheon-airport.md",
-      "title": "Facial recognition system implemented at Incheon Airport",
-      "excerpt": "Incheon Airport said it has begun utilizing preregistered facial information to streamline the departure process for passengers from Friday. Dubbed the \"facial recognition smart pass service,\" the newly launched service will allow passengers to quickly pass through the identification process at departure and boarding gates without having to show their passports and boarding passes to security personnel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20230728000502&np=1&mp=1",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230728000502&np=1&mp=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F07%2F28%2F20230728000521_0.jpg",
-          "width": 630,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230728000502",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230728000502",
-      "publishedDateTime": "2023-07-27T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-offering-free-ai-training-for-everyone-in-the-uk.md",
-      "title": "Offering free AI training for everyone in the UK",
-      "excerpt": "Jonny Cottom knows the juggle involved with running a start-up single handedly. Since launching BreakBottle, an eco-friendly water bottle brand, last year, he has been s…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/",
-      "originalUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-07-28_7.31.52_AM.width-1300.png",
-          "width": 901,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/",
-      "publishedDateTime": "2023-07-27T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

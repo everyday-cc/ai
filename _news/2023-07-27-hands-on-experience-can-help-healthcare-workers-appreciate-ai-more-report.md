@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Make The Doctor’s Office Fair! AI Can Help Create A More Equitable Healthcare System"
-    excerpt: "Bringing a level of scrutiny to AI processes in healthcare, Marzyeh Ghassemi has some solutions for harmful bias in systems that, as a society, we want to root out."
-    publishedDateTime: 2023-07-25T20:53:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/"
+  - title: "Healthcare workers signal greater acceptance of AI"
+    excerpt: "There are variations according to different medical sectors. For example, practices such as oncology are using AI to assist their clinical works."
+    publishedDateTime: 2023-07-26T19:59:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/healthcare-workers-signal-greater-acceptance-of-ai/article"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c033dd228eb00488105e80/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1799
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/415f40312d915e65447240989330ef93f68bf691.jpg"
+        width: 768
+        height: 512
         isCached: true
-  - title: "Can AI Fix The U.S. Healthcare System?"
-    excerpt: "John Guttag is a computer scientist and professor at CSAIL and EECS MIT, recognized for his significant contributions to the fields of programming languages and artificial intelligence."
-    publishedDateTime: 2023-07-28T13:32:00Z
-    webUrl: "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "TKjoDDe6cywW0boJpzLxMdUw+HKLNPJivyb73Nw3hbJ/rVjM8L7bC4mYOof4/BpfFZxU929nNgRPVd5+KTHblgn0lz3W2lhOziexPkVJQM9wlpaGJ3nnszTYULu9KI/PooVYSqNa818TXvONFEXMCCbQimB2vmiUgxG8HPvJXFvGAl5DnqU0/JJBq1SbHfbmhhFdu8IXXN4bxKlLQEaN5I0U/C+Ma2j7k1N1FPJSaFJIS4d0RWZoDwaOHdYe6ECdxSagRrpP0OwsG+x0ijky4xnB5qFIpEXx+XawIbnMI8/mkcEnyUjpEtVGOFtS6y7Qw4SdU46dWzYfsH2yRnCP8a9ee69F3S9x6QinW+KYJrM=;OPumROb4DfOdU/CV4gXUDQ=="
 ---

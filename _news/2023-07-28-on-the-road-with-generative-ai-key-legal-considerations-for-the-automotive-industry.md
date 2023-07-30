@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-27T21:09:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
 webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 related:
   - title: "Generative AI: A Big Bang Moment For FinTech"

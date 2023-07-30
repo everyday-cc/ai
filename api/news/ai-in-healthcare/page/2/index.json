@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-17-how-will-artificial-intelligence-affect-investing.md",
+      "title": "How Will Artificial Intelligence Affect Investing?",
+      "excerpt": "Predicting how artificial intelligence will affect the investment industry falls between those two extremes. The internet was so difficult to foresee because it broke radical new ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
+      "originalUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png",
+          "width": 2500,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
+      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
+      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
+          "width": 640,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
+      "publishedDateTime": "2023-07-14T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
       "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
       "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
@@ -1271,112 +1359,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
-      "title": "The True Threat of Artificial Intelligence",
-      "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-talk-therapy-ai-may-detect-earliest-symptoms-of-dementia-by-analyzing-speech-patterns.md",
-      "title": "Talk therapy? AI may detect 'earliest symptoms' of dementia by analyzing speech patterns",
-      "excerpt": "A new artificial intelligence-powered tool aims to detect signs of dementia, Alzheimer’s and other memory disorders by analyzing a person’s speech and language patterns. The system is called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns",
-      "originalUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f7d19d2-84e2-4ce5-8b14-e3ff4384bcdb/f80f178f-5747-4866-a98f-6f95981ca5f8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/talk-therapy-ai-may-detect-earliest-symptoms-dementia-analyzing-speech-patterns.amp",
-      "publishedDateTime": "2023-06-29T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

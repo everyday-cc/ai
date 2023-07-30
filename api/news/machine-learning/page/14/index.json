@@ -2,6 +2,111 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-03-27-ten-questions-with-openai-on-reinforcement-learning-with-human-feedback.md",
+      "title": "Ten Questions With OpenAI On Reinforcement Learning With Human Feedback",
+      "excerpt": "So navigating that is going to be challenging and involves machine learning interventions but also a broader social technical perspective. Are there interesting questions that come up or new challenges or new directions for this kind of research as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641dcf2b94696554a1580d4a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/",
+      "publishedDateTime": "2023-03-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues.md",
+      "title": "Machine Learning & Big Data Analytics Education Market to Experience a Significant Increase in Revenues",
+      "excerpt": "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (96 Pages) | Information Technology |",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues-2023-03-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues-2023-03-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-deep-learning-ip-listing.md",
       "title": "Deep learning IP Listing",
       "excerpt": "c.WAVE120 is a deep learning-based super-resolution HW IP that upscales low-resolution data into high resolution in real-time. The neural network on c.WAVE120 is designed and trained to upscale ... DMP's AI Processor IP, ZIA ™ DV 500, is the ultra low ...",
