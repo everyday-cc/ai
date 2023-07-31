@@ -111,7 +111,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
         width: 400

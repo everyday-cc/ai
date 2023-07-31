@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a
 webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/03/Google.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
+    excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."
+    publishedDateTime: 2023-07-31T16:21:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-latest-rt-2-algorithm-makes-robots-perform-novel-tasks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "DtEu2UzQJjlZW9YzOftgOBeOyO/KVyKiT5wQofYtlC/TWO+IHQia9mR5HoKw/d1+NHyubTMAZNl6BMscyM3FyCSCTA4h62jRozpKfbZcRvnZ5IJahuUSgk+tMnP4KOG0Kzwsf9aP8yCdSsfu55xY5zhU1Y+YkbNjpH3umMqgNyo7MVxvuc8weBRs8CWWNbvPsPNSDV5+D4z7UhnhwqYI6IfmEur7LOARl8FoFPHTN3t4i9jPkt8u0Lj/OZvRwicgDu3RxwOIVCw8YAaJ5LKzoBSO2O0wNeO7Mz+eG1GPMR3LOnmwjFYFE1P8fwM5H0S6F22UQwxA/WzIOd0c8naDyM9UFRRX8bbpvcR5FQRKrFAeosGZTuNOTUt4gfepYDhBr21/rp3d5r90p2AGvoYIsSiJ1weX70opaJxFx+QvY21nOQJIWCKhAQ5ZAOlo4iiwkna3EmCmPQqC3SCbIQT+RC9KSEIUp70usyqBQNIW35/9QNohHEQGx5G0qTlNXdZKCeevEptXNxEm96nG7WLnig==;asOOpAjE4anIAeO/A6vjZg=="

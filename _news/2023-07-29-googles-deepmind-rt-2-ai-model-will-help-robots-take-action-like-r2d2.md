@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
-excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
-publishedDateTime: 2023-07-29T16:26:00Z
-originalUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
-webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
+excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
+publishedDateTime: 2023-07-29T16:30:00Z
+originalUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
+webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: HotHardware
-  domain: hothardware.com
+  name: Inferse
+  domain: inferse.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://images.hothardware.com/contentimages/newsitem/62179/content/hero-robot-hand-touching-human-hand.jpg"
+  - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
     width: 708
-    height: 399
+    height: 398
     isCached: true
 
 related:
@@ -55,6 +55,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "This Google AI Model can translate commands into real-life action"
+    excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
+    publishedDateTime: 2023-07-31T14:55:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 76
+    images:
+      - url: "https://static.tnn.in/thumb/msid-102284914,updatedat-1690815394245,width-1280,height-720,resizemode-75/102284914.jpg"
+        width: 1278
+        height: 720
+        isCached: true
   - title: "RT-2: New model translates vision and language into action"
     excerpt: "Introducing Robotic Transformer 2 (RT-2), a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control, while retaining web-scale capabilities. This work builds upon Robotic Transformer 1 (RT-1),"
     publishedDateTime: 2023-07-28T00:00:00Z
@@ -85,21 +101,19 @@ related:
         width: 370
         height: 250
         isCached: true
-  - title: "This Google AI Model can translate commands into real-life action"
-    excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-31T14:55:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
+    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
+    publishedDateTime: 2023-07-30T17:41:00Z
+    webUrl: "https://www.inferse.com/655063/googles-deepmind-rt-2-ai-model-will-help-robots-serve-humans-like-r2d2/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 74
+      name: Inferse
+      domain: inferse.com
+    quality: 71
     images:
-      - url: "https://static.tnn.in/thumb/msid-102284914,updatedat-1690815394245,width-1280,height-720,resizemode-75/102284914.jpg"
-        width: 1278
-        height: 720
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9306.png"
+        width: 708
+        height: 399
         isCached: true
   - title: "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions"
     excerpt: "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions."
@@ -189,6 +203,6 @@ related:
         height: 800
         isCached: true
 
-secured: "KZkmK76YChryuBo//HdS3MyTC73loU8BI3ZVzniyAkaxNITbnLbWjEU0sUuIBDTm83lgbUD92etIIau/BhOoIb52l6XJ0N0NB8OKwp9v0yJIpXT++h5TtSQ288HnybfErdUCAkukI1/bU9LcnpG9hxCTb9zpmkp4Ye/GNtkK4/mhWqVmESYxRwZLilMnCjlHgWhin3wGH7DvgwggHA4NamKrmcnVn7H/a8usP0w8p2i5JrhSl6ZcDOq1vDWKpqn3gVddHXdR4+JW4kHI6Eqz3Sug1EUCt67fOKfDupd/BlVvqHdzRQ8CovIy1G57imWFzzmwVFxrlSydsgmqcZf448mSSPykZW4RZA1z4Y3epX+mYNykuS7+s5eiwE6G+UIHcVUdmYxXQiCguhFgQmvFWmvgYznALwb/Uv1VF7V/+uTofAyRR4iBuU4xHxkmVTqLOWXRaoe9FY+yGbUYK7QpgtokwSypaZ7tPgWm8c6oXzSRS7nGf5T1048wUyvjexVZqclUIQKKjczcOCt36Bt+EQ==;RUVxhDTFq5YemNe1hco/xA=="
+secured: "OHWxsv+XwT2udOPMzFPs3bZezgQS6FbmKDi1/TexJbhbsJRAMZWCjVd2iJHrMDWoGU+zqN1Cqheb+JQogXHX5oucd0Ueat+kIrvn4SFTnAF9LfsJsbrc6/urexWqIBAuxZMEXpXKOk4MCF49QKAfuxursSy/PzeML+Qm2kLAnFx8ADJgihRZYx5+T6gBzOVEqvNTa15xihZ66DfFnVybIRHmNwqQrqWHBhyJodHnullKvaYFCZXb/3f7SCUPY/LwOwZ8KZJWX6qF8QgRxzLoxzs3eFetnmyzwPXl6cqh0AIv59oJg39zvn2/n8xO7MXvj7P7+tbUZboK1WZVjtznt15bLeagjvXqsQ7gFQN7e7A=;s9+Qpxp46RHG2yk4bI2ksg=="
 ---
 

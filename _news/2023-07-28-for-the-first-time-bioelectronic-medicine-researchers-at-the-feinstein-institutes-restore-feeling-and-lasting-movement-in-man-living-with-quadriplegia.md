@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "New machine-learning satellite model can change how we gather data in space"
+    excerpt: "University of Oxford's team trains a machine learning model on a satellite, enabling real-time monitoring and decision-making for remote-sensing satellites."
+    publishedDateTime: 2023-07-31T16:47:00Z
+    webUrl: "https://www.ibtimes.co.uk/new-machine-learning-satellite-model-can-change-how-we-gather-data-space-1718096"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 22
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1712244/iss-photographed-expedition-66-crew.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "9jo4VHmFs4+ReDCf18onNOG6Gzrm3WYWHqdH509ELp66cPxdjbDmwCE76utHvrWFOP2x5sBrKFhMU6Wg6vDgFyzlBoVl8Rnv+v+ienu6qEpm9TIHxbx02OEEgux8UEOR+oz+BFFdEibnvJupfkTTYwml1LL3oGwEgl/rx33wJ8u7trk1XUBnE4t8upSM+mCjvMqmhBpp8gWyKeQis+edOhYun8/1TYgDU0Zrg+U3cu2xsUPIWQX7GLIIY6c71mUygugLiSh3sDRarCYNdoAQui0nA5p0I5OBoDMRlxCUL7e8PAc6M4MDTkD4JeO3vrQ1+ZQl2urvJviJO1csXn38/iStwrnQ/uGkcS9+u+JKkYo=;RPcILiNfQzxtqkrH3NZjrQ=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 1508
         isCached: true
+  - title: "New machine-learning satellite model can change how we gather data in space"
+    excerpt: "University of Oxford's team trains a machine learning model on a satellite, enabling real-time monitoring and decision-making for remote-sensing satellites."
+    publishedDateTime: 2023-07-31T16:47:00Z
+    webUrl: "https://www.ibtimes.co.uk/new-machine-learning-satellite-model-can-change-how-we-gather-data-space-1718096"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 22
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1712244/iss-photographed-expedition-66-crew.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "For the First Time Bioelectronic Medicine Researchers at The Feinstein Institutes Restore Feeling and Lasting Movement in Man Living With Quadriplegia"
     excerpt: "Using brain implants, artificial intelligence and novel stimulation electrodes, a double neural bypass technology restores a man's sense of touch and movement after a 2020 diving accident In a first-o"
     publishedDateTime: 2023-07-28T16:00:00Z

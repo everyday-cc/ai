@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/petercohan/2023/07/27/servicenow-stoc
 webUrl: "https://www.forbes.com/sites/petercohan/2023/07/27/servicenow-stock-drops-after-it-beats-raises-and-adds-ai-services/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "ServiceNow partners with Nvidia and Accenture on ‘AI Lighthouse’ for rapid enterprise AI adoption"
-    excerpt: "The program aims to help customers build and deploy custom generative AI large language models (LLMs) and generative AI applications."
-    publishedDateTime: 2023-07-26T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_futuristic_lighthouse_beams_glowing_digital_computer__eca72640-231d-4a86-960c-3ac35e4c93ae.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
     excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
     publishedDateTime: 2023-07-28T19:46:00Z

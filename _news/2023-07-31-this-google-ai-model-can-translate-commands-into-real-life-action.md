@@ -8,7 +8,7 @@ webUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-ca
 ampWebUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static.tnn.in/thumb/msid-102284914,updatedat-1690815394245,width-1280,height-720,resizemode-75/102284914.jpg"
@@ -87,6 +88,20 @@ related:
         width: 370
         height: 250
         isCached: true
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
+    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
+    publishedDateTime: 2023-07-30T17:41:00Z
+    webUrl: "https://www.inferse.com/655063/googles-deepmind-rt-2-ai-model-will-help-robots-serve-humans-like-r2d2/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 71
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9306.png"
+        width: 708
+        height: 399
+        isCached: true
   - title: "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions"
     excerpt: "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions."
     publishedDateTime: 2023-07-28T16:23:00Z
@@ -143,18 +158,18 @@ related:
       domain: seattletimes.com
     quality: 54
   - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
-    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
-    publishedDateTime: 2023-07-29T16:26:00Z
-    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
+    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
+    publishedDateTime: 2023-07-29T16:30:00Z
+    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
+      name: Inferse
+      domain: inferse.com
     quality: 54
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62179/content/hero-robot-hand-touching-human-hand.jpg"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
         width: 708
-        height: 399
+        height: 398
         isCached: true
   - title: "Google's building A.I. into robots to teach them to throw out the trash"
     excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
@@ -189,6 +204,6 @@ related:
         height: 800
         isCached: true
 
-secured: "itb1zp5M3k7gaOEVRIMzdlip9Wk15oBNhS7XWpDyaPGgKrzMJMgavEzxiSPkt4xy9kSaGYXCU1K6RMO7nEJgT7l+3ItUZ+EaWswiCy/wW5O/B3RsHTRSwZpDSzXXRWAiV9CPrq6aeQPvpGj43AfvkMeLVts/uIul3OBZMZR1STa28kmnzBjT7RCIzksK3eoGK4qbCYm/CaaKtCxij82qqDweuOgojSopTUBJuXcfJ3eT7FEuMS74wiA7mWZwmuChcgphCdeo7Si6PTeMJB8LneS3E9nC76BZZ5nuEdfwaH1wl+4KYkblI0vLJQ7UOZibxz49M/PFUzbhilHATgopG5DuV4CXGXJ9JO+qFWGGAF0=;8Z0gIMvfwlblDo9WTTSg7w=="
+secured: "RgQNKgzZfvmTLhu+fUGuipS2tvv5NLrhNGTSvyuLEVah+UpavfiUJBvfgm7VrfU43o7pknW9MHrqXen9opgIpebid+jzx9MwpjLN3E6BUKEDzgXxd7Uv2ywR1Tt1FH9PT22V4bgyuqzdsFEfUk+U7RkI1bp2S4aABEUJjBtZyXH3QshZn5O04ODrHhlnUKFN6u2HVxZZIzwmI1Ik9/3lDWMYXrgYdNGWoQzpfAWrfpYHLSoNH03axXKzqbYxBQIvb4kHwHmMUkUiQBP6lqCD88V0wESdM+KyWJVn2AZq2rB8l3zeIfs12ldTdTMtBzu1u0gE5nPBS6iv2QhteKmnLI102sqRhxK8+KwTrrusGrvQQBF3msTbRjt8KROawjPyZnbvzc1Ec4J5qMWz5TIKv76OFg2AiimTsO2ISR5XtUwmuMxs+8ad8LT/t2h5yhEgm7jr6/PdSoLB41IPyzWVTgzEocE23DxRHb325+sb9POCSRt6Bj7iL78fEeEmNW/JAiSrm/XXnVDlz0C3DP1f7g==;IlGxaLQq6+zZTPDaixRujg=="
 ---
 

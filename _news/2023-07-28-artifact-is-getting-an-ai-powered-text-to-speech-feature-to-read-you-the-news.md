@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta posts strong revenue growth as it touts bet on AI tools"
-    excerpt: "Facebook parent Meta returned to double-digit revenue growth for the first time since the end of 2021 and forecast better than expected growth in the current quarter, sending its shares up as much as 8 per cent in a sign that the digital advertising slump is easing."
-    publishedDateTime: 2023-07-27T00:16:00Z
-    webUrl: "https://www.ft.com/content/e4c3d7ca-c40d-4819-aa37-f719b147867e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "hidJ0RE85Phdv2N1DHxU/KX3pScGtbdwkhtM6kKKhLp88WeBagoW3WzrfKMc8VyRE6EpRWN2w9H/FLfzwD/Tr1QivqbbpT7yLlUSZX9YvPGoE3ycnJbFJLLlSt464MoAGfSpSeABEIDqKghG1REeZboDQeE7u54ww7ND1UCbgXf64QpYr4GIqmqqDyfVATD2v/3Ii76AyODgtzN9Vh8LrdSLUahdlPUX9o+CU88o32dv6RU2C0MTWIhpPp5rGKN38ULthygoYGkXtq/KxjxWFEbIJhBaZgt17G9oCPFssu0HwLUTgPGNaJEkdpkBtnsCiRwNHNwYVRomVWZZ5nagkUwezr6p7V5UgcG8xENhrZiTwjsxHiAMS3rGWonPtzQ7p8Uggz/lGSJ0s7V35YV7dO62Q6ozdJPaJnr18BAt7a0bkA5UfbkSiWCZVKoBsWQZ0JYWYXC4lqIELFtlZuY8t0JnSsvAu1Pnkrb9I+FPodOzSaCKt9B+DLnbPrNIEiDlmI7vSthWJk5QGkr9UpmxdA==;1wxzzGt0aKua5z5XBj4Umg=="
 ---

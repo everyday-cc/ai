@@ -63,6 +63,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
+    excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
+    publishedDateTime: 2023-07-31T17:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210842-global-fintech-funding-declines-to-52-4b-with-some-positive-ecosystem-developments-report-reveals/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 9
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Real-Estate-Crowdfunding-Webinar-2023-290x300.jpg"
+        width: 290
+        height: 300
+        isCached: true
   - title: "Business school launches £3m FinTech centre"
     excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
     publishedDateTime: 2023-07-27T12:13:00Z

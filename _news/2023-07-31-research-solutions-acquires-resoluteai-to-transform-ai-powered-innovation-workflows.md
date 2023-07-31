@@ -2,9 +2,9 @@
 category: news
 title: "Research Solutions Acquires ResoluteAI to Transform AI-Powered Innovation Workflows"
 excerpt: "Research Solutions, Inc. (NASDAQ: RSSS), a trusted partner providing cloud-based workflow solutions to accelerate research for R&D-driven organizations, today announced its acquisition of ResoluteAI,"
-publishedDateTime: 2023-07-31T14:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/07/31/9856374.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/07/31/9856374.htm"
+publishedDateTime: 2023-07-31T12:42:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/31/9856374.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856374.htm"
 type: article
 quality: 33
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 1162
         isCached: true
 
-secured: "Kx/KOpZsa8ZL/306dQV9RUxInahPCX3Rv/5e2GvBe4q7vnyQeEJSxPBncy0+y3SBMrC7R805EFw5DUv3DEZg2qKBbY9Wx9riYix0rlcAg8hQyHHlV770I+qZUr9INbWDqWSj8RbllScU+rjEpuzgONBcGvnV4igd7iEd+m4iBD8Q+HrWZdRDzr/SA3kkAfLzfubiOBCUzMxE/SXE3e80XDvveiXIA8tgazZqrhqePr/Lnos5uHGFNzL1umYBayR5INBNZW81LsOpfpzXcrINL2UQpIU/wMwb7filh5/e0MwUhGxO0oAcMRpT8lxE0VtaDZBdB6EYeDKWKMdwMefRy6sL0UJ0mlNNcOX5U9kzUTg=;q8WgMQxLeF1VpyOXdSfpdw=="
+secured: "FGV0Q++7EbVqXGUh2DKunuXWmHKdJlcAajHapgHuaqMT3SOONppVYBvfw4VxEtQSLe4a+tk+cynee8toVQ5LYSI7BYET9DNVvv7+jZRXNcMlc7V36domqcU+CAPm81YxK3KxC5LDvZoZAI3m2qRlgYZvjjdiHQ5uY9o8nI+XhcupNkidmdWW4puoeWOKnUlV5e2PmoVqnwGUG5x6TJMk5sjZVeRTgFADjTlHqofJ9ayPKE11ozzUvp4hiYMKJtEND7ct4EQd0KiIDdz1OiKpnVP1ZYyamfRkfzq0McjtU2A/KIqQv72tYcrD5Gqrd+s2iXb2rZ6u6ChSfu36TgDOY2G68Zrp4u7GInL0bXu2/R0=;bEOc0EmjiU4gprgc75akmw=="
 ---
 

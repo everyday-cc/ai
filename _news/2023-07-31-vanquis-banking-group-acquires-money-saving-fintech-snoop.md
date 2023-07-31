@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
+    excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
+    publishedDateTime: 2023-07-31T15:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg"
+        width: 1280
+        height: 1080
+        isCached: true
   - title: "DIFC Innovation Hub Launches The Ninth Edition Of Its Fintech Accelerator Program"
     excerpt: "As an initiative that aims to support innovative and revolutionary fintech-focused startups and scaleups, this particular edition of the program will concentrate on areas such as open banking, artificial intelligence (AI), and automation in an effort to ..."
     publishedDateTime: 2023-07-30T02:38:00Z
@@ -71,6 +87,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "FinTech Startup Finda Raises $37M in Series C"
+    excerpt: "South Korean FinTech Finda, which operates as a prominent loan comparison platform in the nation, has successfully closed a $37m Series C funding round. Finda has secured $37m in this funding round, with significant investment coming from JB Financial Group and 500 Global,"
+    publishedDateTime: 2023-07-31T16:11:00Z
+    webUrl: "https://financialit.net/news/fundraising-news/fintech-startup-finda-raises-37m-series-c"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/finda_0.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Fintech startup Croissant launches with $24 million in seed funding"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
     publishedDateTime: 2023-07-27T15:35:00Z
@@ -99,29 +129,6 @@ related:
         width: 620
         height: 350
         isCached: true
-  - title: "Difc Innovation Hub Launches 9Th Edition Of Fintech Accelerator Programme"
-    excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today"
-    publishedDateTime: 2023-07-26T23:13:00Z
-    webUrl: "https://menafn.com/1106705522/Difc-Innovation-Hub-Launches-9Th-Edition-Of-Fintech-Accelerator-Programme"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/26/M_986b7image_story.jpg"
-        width: 1336
-        height: 876
-        isCached: true
-  - title: "PKKFF Tenet Fintech Group Inc."
-    excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
-    publishedDateTime: 2023-07-27T00:00:00Z
-    webUrl: "https://seekingalpha.com/symbol/PKKFF"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
   - title: "Fintech Innovations To Watch Out For In 2023"
     excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
     publishedDateTime: 2023-07-30T18:54:00Z

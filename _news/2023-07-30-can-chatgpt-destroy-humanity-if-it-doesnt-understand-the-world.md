@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/"
 type: article
 quality: 76
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
+  - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
+    excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
+    publishedDateTime: 2023-07-31T15:28:00Z
+    webUrl: "https://www.inferse.com/657346/how-to-use-chatbots-like-chatgpt-in-your-daily-life-and-work-the-new-york-times/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 33
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-10420.png"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "HV3JX51xV91ebUz9xx8XOmmkbTVx91rr5cBRjFFizWb5xki/JBBBfRISl/NHBHHAn8PhrfN/x3hyvSMBcdnGPDOGam9v2G3RxUsGY9c2UhxkRLkBqH+wQ8m0fZpyEFHbXgF564ci/oiQPCECfTRvNDkuJbk0GhSPBrqeyqbrRixucZyI+qgpJO3LumcO5KKAtvyhXH4JFnKW9OM5iRtt7X/HPqoPExOHuIvlZO0l0Rv3qRLJ2uyk3T5JSYtvfxET41BZAY4bP9JuTPR/JqRgcJ2PA0ATRWkzhXhiplV1DINyy+tke30aAkOPUgysVIEKyGkx94RfZnoGnudY9dU1EL86HoZx4pQq/7RsxNqQu2Wzw76OvywHrOFfDnVYl1eNZ8brwxKdNTtWhCipsGEj5kMckwx950OzQFbM39Hx+86N7k0yQriu99z0mEJfxSfTYiuSpO7wsW2fG7mvdhcD4YnsZ6V8dZFdlWbJGD04NJfxyv6Jg/mo46dFQCnghyGhPQFu3gNfNsNQErfIPgEeBA==;QCo1Dr13Udrtf3hwn+DZ5w=="
 ---

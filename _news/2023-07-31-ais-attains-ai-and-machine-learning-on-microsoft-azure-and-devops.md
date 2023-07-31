@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Xiaoice uses Microsoft Azure to upgrade AI-powered chatbot"
-    excerpt: "Xiaoice is using Microsoft Azure to upgrade its artificial intelligence-powered chatbot and X-CoTA technology for enterprise customers in Asia. The AI digital workforce solution can understand humanlike AI conversations,"
-    publishedDateTime: 2023-07-27T00:00:00Z
-    webUrl: "https://www.technologyrecord.com/article/xiaoice-uses-microsoft-azure-to-upgrade-ai-powered-chatbot"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 69
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4507/Xiaoice_web2-1.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
     excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
     publishedDateTime: 2023-07-27T15:04:00Z
@@ -178,6 +164,20 @@ related:
       - url: "https://res.infoq.com/news/2023/07/azure-deployment-stacks-preview/en/headerimage/generatedHeaderImage-1690105019398.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Leidos and Microsoft partner for public sector AI transformation"
+    excerpt: "Leidos and Microsoft have formed a strategic collaboration to expedite the implementation of artificial intelligence (AI) solutions for the public sector. The"
+    publishedDateTime: 2023-07-31T16:06:00Z
+    webUrl: "https://www.onmsft.com/news/leidos-and-microsoft-partner-for-public-sector-ai-transformation/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Ledios-Partnership-Hero-image.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
@@ -250,6 +250,6 @@ related:
         height: 435
         isCached: true
 
-secured: "9KJlHiE1CFj55c+1tPLPAZzg7xLdoB4x1Oj+IHZNeOADz+O7vb2xKjc7QhpfiYagsjGIe0MPrBNE3+oQRFPklOgf49sYTdw6NGST3E9uiftIJ0EMjtukj2U8nIUAyrcPG9YyZoNru1PAeA/WlKdp5xROKjk2fq0ETTYBnA7D/ldz1jhy7aFGD12y2fIHH9I0NKjIGzpg3HBsqAs+PN79qhug4pXdsOlPCm7tyHbzlH5IwhWq+XJBUbxkVdvxq7Vl8kIFd1sQPa58girHx/CQoh7m2MgyUzmnqRmfYczdaAJG5j1U6AgQ2BksQzGlXJfVhuwyMF/wzzjksMrZofAf029eCVNbsCKZg5VKtnymK0k=;qXbYmkjN5nKzSvTGh88DUg=="
+secured: "NO1dnRhi1AzExct1p6oVniDDTNC7G4GMMknN/az/NDbOguTK/zYq1O481bk84lvw5sclbOpmcC7erGVS3HwNAoxoAKDXhZZYa8O5cbzbK/0AWiSIyQGYb8AWFoI4XJQ4wwkrorlkKaS+Z14SAGtepXTHOjGuahycmku1Jqr5HIh6MqFprQ0Gnnd73UoHDi0OGS8GOQrnzXp0C+IkT7OwJ7DplrVNkMY3MGqgXDXOnEtlKu1HZx6/jQUGfT1AbW4GLgFpAqxgkKOblGZ8g8dZmfeaqRjQ4H374QmA3Md4iPj8LDoC/zXg53oZ+WTPqkN6fgzovlSBpNamc/8UZTFLoSzYhr7Ck2/6XZYS07zgsVfzD0ziSrnNh2iiKCyy9XjJWDZV0HuiDQ+wcwpydweNqNLDFa8EfdAcXoC+Ndb7LyFup0gKS6n31OPfKGlh0e8Ajatvlv7xscmOIbIvvJEiQ0MUGAJGZrtaMy3/1Ri2umsfUZ8nJEDNgBVLNmjh7Di8CbNnuV4NBFa/0qHT2hvvKQ==;oum9a94Q0OzxA/UMFUqYeQ=="
 ---
 

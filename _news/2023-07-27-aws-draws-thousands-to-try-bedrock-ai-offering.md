@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Transforming Tradition: Addressing AI Implementation Struggles in Manufacturing Industries"
-    excerpt: "By focusing on culture changes and selecting the right AI vendor, traditional manufacturers can successfully implement AI and stay competitive in the market."
-    publishedDateTime: 2023-07-27T00:00:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2023/addressing-ai-implementation-manufacturing"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 29
-    images:
-      - url: "https://www.automation.com/getmedia/e0f73077-2c43-4316-a4a5-4dadca2650de/AI-feature-July-27-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
     excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
     publishedDateTime: 2023-07-29T05:58:00Z

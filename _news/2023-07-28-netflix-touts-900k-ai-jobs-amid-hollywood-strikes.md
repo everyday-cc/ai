@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
 type: article
 quality: 87
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -125,22 +125,6 @@ related:
       - url: "https://phantom-marca.unidadeditorial.es/324538eb1885d5209aebeadf1b589dcd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/29/16906447999149.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Netflix invests more than half a million dollars in machine learning role amid SAG, WGA strikes"
-    excerpt: "As writers and actors continue to strike in demand for fair pay, streaming giants are investing their money into artificial intelligence, and Los Gatos-based company Netflix is leading the way."
-    publishedDateTime: 2023-07-26T23:43:00Z
-    webUrl: "https://www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/"
-    ampWebUrl: "https://www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/netflix-invests-more-than-half-a-million-dollars-in-machine-learning-role-amid-sag-wga-strikes/amp/"
-    type: article
-    provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 47
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/07/75a94362f5de4b67800b25f2615f4c66-1.jpg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy"
     excerpt: "It's no surprise one of the world's biggest tech companies is paying top dollar for AI experts - but we can still call them out."

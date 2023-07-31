@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-31T15:03:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
 webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
@@ -115,6 +116,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "iXPBQVe6PjFggvxsmVt5wKXvXtnqPwtu8NuJrafJQbmY+q4c1kFkzKLFKNN2iNH7itO45MD40m3A6JNnRJNgz/1KB8rkwk9X1ZtI3QH9a9LzTgYsjhUiTWmhBBhZopZ3g3SW9XDId7iwa7/c/7r9EVn6UVyqjx5Su2lTRub9/eB20BBuWG43kl3szoQ0JgdRxTAXpXkFZ/8A5703cHaf5AEbjnnrk1AfogdE9D/nobakjecbuWMBmMRSpSCAb9oN+W9DkfHjXuVguAJ3VwoYs5sFsMKYmV+EBKo0mNnarpBwTLsgZvNe++7ijrPriWUT3EBCvptqOogKBnGqFbgUB0ygECDnfIf3kU5vSq6wM+g=;Iqgq0CIvfDfC8df+8KAYig=="
+secured: "/78vOlFT0BTdIq9dYtxbgaZMeF25mefVTKnk+8/1IQ7ZsjIz/VUWPOcHSEW3yL+nzUtQushqHgCnjB7EjYAbKyTpgcBNaom0YNpCXsLHRa2EexqH9GDEUzNGIZaEO7vw3dooZUiNZkmdkaVS2Iv/+Y6Vj4pROrumlij5upc27owWJ1oJLH63yTWUPHVmnTOXFBy7u3dbn6nD7TVoZY6SfZYT/9SaiY6VSLPo9m6GZoK/3S/Y/bs3zq4zw3LX7bh3efzzsrxzlPHPJVL5T3gpXLS59b9WPXunTodGlJ4EPz8Aft78gwoSqYVum9iNOrRX7koSKmOt1sC1wwtK86MtipT3uDxHFDitr0AHcdCTYCo6c+tBEECMW7A9+UsrV8GbkOFuTrIIpj+NDIuz5oZds43eu4AReOVSMEel8vPVwCfEbGyNkua40l4dN32KXFTLui+P0y9eIQLsIKQuTVMSxPzCRmWxIUZFWmtDe+Xl99GkHwCbH3SO5gOZI0BV4xe/CTuCOEpGNr5pZNu1Hi1+WQ==;fPsF9FYJXk8FrDmxzU9LjA=="
 ---
 

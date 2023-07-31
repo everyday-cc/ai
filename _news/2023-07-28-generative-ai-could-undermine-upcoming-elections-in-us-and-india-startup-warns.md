@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midj
 webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
 type: article
 quality: 63
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -28,6 +28,31 @@ images:
     isCached: true
 
 related:
+  - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
+    excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
+    publishedDateTime: 2023-07-27T09:10:00Z
+    webUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/"
+    ampWebUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 59
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
+    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
+    publishedDateTime: 2023-07-27T10:44:00Z
+    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 41
   - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
     excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
     publishedDateTime: 2023-07-27T05:25:00Z

@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "ServiceNow partners with Nvidia and Accenture on ‘AI Lighthouse’ for rapid enterprise AI adoption"
-    excerpt: "The program aims to help customers build and deploy custom generative AI large language models (LLMs) and generative AI applications."
-    publishedDateTime: 2023-07-26T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_futuristic_lighthouse_beams_glowing_digital_computer__eca72640-231d-4a86-960c-3ac35e4c93ae.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "ServiceNow Stock Drops After It Beats, Raises And Adds AI Services"
     excerpt: "After reporting growth and profitability above expectations and raising guidance for the year on July 26, its stock lost 5% of its value."
     publishedDateTime: 2023-07-27T12:40:00Z

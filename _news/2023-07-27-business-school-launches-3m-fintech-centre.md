@@ -72,6 +72,20 @@ related:
       name: altfi
       domain: altfi.com
     quality: 10
+  - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
+    excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
+    publishedDateTime: 2023-07-31T17:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210842-global-fintech-funding-declines-to-52-4b-with-some-positive-ecosystem-developments-report-reveals/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 9
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Real-Estate-Crowdfunding-Webinar-2023-290x300.jpg"
+        width: 290
+        height: 300
+        isCached: true
 
 secured: "Y46sPdNFamewd4Cux7WpUvwfN6oKPrI5Xn8BtL9ahUyf4zO/0z5h8Q9f9bVSdeg+W4lB7hb6guNWoXzxDxnJG8m3YCeIBjdUnP/sSVyUqWq88ScILpX6J9Z5COffzpkRkuZCBa4PIRZxWSXpl2WWbaoyJj1X4wbOraOPYaE4BTvlu/dkuEINNA0eHFmdxFgp/kFs+CukrLRtHzT/bFCiPnO2laqEoNHV2fgQr4Dr7ARgE6fZoUcNEiHdIB8MUM5aBS7T+EWm1ez2KjhQIcFvRoBbZmJ6D8ycget/O+Pz1oOcyPNYyQQHaTnDyX+x8KpzADhanknN4pCfYVajOeXq0W/+mq905c60lqZTnUUEOThuuMFYqhNmTFQpV6Pdz0OD+Z/Q73r9+8g+w1F/WXl2KVDulO4ubibL9aLyvfV2KISljkSawO9FzzM0FgFssBbBhP5htfTvYYk13hXyrpuhPJT8f39E7y8TATEjc8gKr8anONNj1N7V660QEaBORG5ITLOTPPTzgDVyncJKw9oIqQ==;d8Ek60SSjyXMBNgg93k4Pg=="
 ---
