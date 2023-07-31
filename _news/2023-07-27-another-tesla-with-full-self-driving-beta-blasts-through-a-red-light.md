@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-drivi
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fans Think Ford Is The ‘Major OEM’ That Will License Tesla’s Full Self-Driving Technology"
+    excerpt: "Full Self-Driving has its detractors and supporters but there’s little doubt that it has flashes in the pan of brilliance. To that end, it would make sense for any brand that fe"
+    publishedDateTime: 2023-07-29T21:34:00Z
+    webUrl: "https://www.carscoops.com/2023/07/fans-think-ford-is-the-major-oem-that-will-license-teslas-full-self-driving-technology/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 10
 
 secured: "5pJPF9xL+65v4421uT9azd7woAjCW1gF/fmtnzzNwAZbAm10TrCfrFxMPFx6bFjMXfwQihEnr18cmUnp7qWTxIymLaGN7rO9Ko1fdw5L9ZSMyctaDUCoDeRnPTbTzHTgejDcOIMtk13ayPzxUS0rY1sujMI7oeRj1hcDcuYRzQk+uHB2whWhy+SvB8dYAAkmM/qNjSNLDKWaTs1Id9wSiFnQre2tewi3nqKDbbd/UOM1xW5T5weo1xoqNxqmK5jRPYHkFDY9vE3s/ZNAXxOQKhM0aB/kafQGA4BH5ic2iEJsTqEp2iSF9oJrkzyRqDWz+u4LHggTvT7IYVqL0Anj2zQYDVB7fGPMeA2Zo2UdVm8jRshQfFQCFp51vzkit6bF7767oz2lh1lW+aFTaC29pgKWcf2PMjpDj2NE3bdEcCSO9DrnT/ju7/fwVE22lCYYcdNZVmm0u4MGn/5/xzf4/4PcA0xfcqeMWve/uJ/sxP508xeLDp9JKmZgB9iWTDW2lCOtuFXL3HfoBvpmJ7B82w==;M+gIFt3DnnSZm5aHmnGkcQ=="
 ---

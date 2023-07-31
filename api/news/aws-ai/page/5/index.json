@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-05-these-deep-sea-animals-are-new-to-scienceand-already-at-risk.md",
+      "title": "These deep-sea animals are new to science—and already at risk",
+      "excerpt": "About 90 percent of species found in the Clarion Clipperton Zone have never been identified, yet they may be at risk from mining for minerals such as cobalt and nickel. Spanning 1.7 million square ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
+      "originalUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Geographic news",
+        "domain": "nationalgeographic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-are-your-deep-fryers-connected.md",
       "title": "Are Your Deep Fryers Connected?",
       "excerpt": "When Wendell Hays was 17 years old, he got a job as a fry cook at a local restaurant. The amount of formal training Hays says he received amounted to: “There’s the deep fryer, now go cook.” “The deep fryer controller had 30 buttons, but it felt ...",
@@ -1198,49 +1232,6 @@
       "provider": {
         "name": "GameSpot",
         "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator.md",
-      "title": "AWS Selects 25 Startups For Its First ‘Fintech In Africa’ Accelerator",
-      "excerpt": "African fintech startups have been selected for the first Amazon Web Services (AWS) FinTech Africa Accelerator cohort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techawkng.com/2023/05/27/aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator/",
-      "originalUrl": "https://www.techawkng.com/2023/05/27/aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techawkng.com/wp-content/uploads/2023/03/Gogo.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techawkng",
-        "domain": "techawkng.com",
         "images": null,
         "publishers": null,
         "authors": null

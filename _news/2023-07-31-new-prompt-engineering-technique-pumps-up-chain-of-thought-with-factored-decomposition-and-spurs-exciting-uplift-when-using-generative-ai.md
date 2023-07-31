@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/31/new-prompt-engine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/31/new-prompt-engineering-technique-pumps-up-chain-of-thought-with-factored-decomposition-and-spurs-exciting-uplift-when-using-generative-ai/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Forbes
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Senior Housing Operators Are Using Game-Changing Telehealth and AI Technology"
+    excerpt: "Telemedicine and artificial intelligence (AI) are helping to take the senior living industry to its next evolution by improving operations and care, while"
+    publishedDateTime: 2023-07-31T21:16:00Z
+    webUrl: "https://seniorhousingnews.com/2023/07/31/how-senior-housing-operators-are-using-game-changing-telehealth-and-ai-technology/"
+    type: article
+    provider:
+      name: Senior Housing News
+      domain: seniorhousingnews.com
+    quality: 34
+    images:
+      - url: "https://seniorhousingnews.com/wp-content/uploads/sites/3/2015/03/iStock_000034679460Small-e1425332851251.jpg"
+        width: 618
+        height: 411
+        isCached: true
   - title: "AI Changing the Dynamics of Image Processing Technology"
     excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
     publishedDateTime: 2023-07-27T05:44:00Z

@@ -18,6 +18,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Artificial intelligence could mean more litigation for restaurant employers"
+    excerpt: "Relying on a computer brain to sift through resumes for the ideal candidate could raise challenges about the criteria that"
+    publishedDateTime: 2023-07-31T18:49:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/workforce/artificial-intelligence-could-mean-more-litigation-restaurant-employers"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 15
+
 secured: "VyxJtlOKEeVS6h++XNgNGIU2qT8GYRUaaPv/mlCh4HtY7XVFAiQLt7ma2jVaJrzdrP8b4+gBhS7YR90ETr3KKKXryJd4NGcJaGlqAtQpIuyyvs7Pc/goKbR2esP6jnuMHr/DO8lJwDYAE37vHvWVzDXqNEJiCbJKzD88bYtvgiXvtOolT6qB8rPMyCpfUzkbGM70/rpFzLEOQKc0ydybJs1FmuST0hZmDC+wGB0gpGWHii9hMuczo2RNoNOgk4Vr19b6jA5FxgthnCRIzoJE+h2ko1q7Q+nSXwntSoEzNOR+EXXuQJOlXY5vVA/tQocT4q50WcJGPMM3GNonOKGDRl35r9qifyhUsqK365IG9Qs=;lzgFodUoA4GrYAjH5lMIhg=="
 ---
 

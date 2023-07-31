@@ -107,6 +107,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fans Think Ford Is The ‘Major OEM’ That Will License Tesla’s Full Self-Driving Technology"
+    excerpt: "Full Self-Driving has its detractors and supporters but there’s little doubt that it has flashes in the pan of brilliance. To that end, it would make sense for any brand that fe"
+    publishedDateTime: 2023-07-29T21:34:00Z
+    webUrl: "https://www.carscoops.com/2023/07/fans-think-ford-is-the-major-oem-that-will-license-teslas-full-self-driving-technology/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 10
 
 secured: "WXGIkqFSALyKeVZiTgrcistrxa9UQiayDYpoZFIFX0q/yCnhxp4N7TcI/J4iwMYha7O/okm26flhsWcQXpa4FrGFID0UFjFIl8G2JZRfVTh/9lE1xGdBkcyP84f5ea4sqoZZUYvvVxykt6hMVGIuZkY/mhcYopThRmjph3rpd92/HcDQnt6R6hwK3I7djMFxlp3o3f6S/O27YNgi6k8RqRS1WvbZ6q3hg+KJ+QOwG8fBFjY0TLgIXkUZzbe47MU5+BwB5EDHaodUwM6ZsnATJgQqTbscT6YJLNEL6sd9rtfJeQ2cApbiz+kQ4u8dSMUBqfRz2avSgOLKXNNU5YYzRLahv5AHp8F05N/rN1qKbZ9w1NMJhIVb6h0TRFs+ZKg2d8FSavDjAHf+vKwjgG7Ee/VeF010IsYKdBhdTBiiycQp+TT4mdc3dkAwjunXvZgmyo+b8jaBzj4puFAd52ZQFs3mNa+6DEGKTbaxDTxV7INlCeStsSZ4clITL1hT6GWHM+9R+tjI+9SmDtOXib4YgQ==;gVMw6/bkov/rigShghFj7g=="
 ---

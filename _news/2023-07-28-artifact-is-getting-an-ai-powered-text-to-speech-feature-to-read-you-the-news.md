@@ -22,22 +22,24 @@ topics:
   - AI
 
 related:
-  - title: "AI tools pose threat to research ethics"
-    excerpt: "Among the various impediments to the integrity and sanctity of academic research perhaps the most perilous as well as unprecedented challenge is the emergence of Artificial Intelligence (AI) tools like ChatGPT."
-    publishedDateTime: 2023-07-27T01:15:00Z
-    webUrl: "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html"
-    ampWebUrl: "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp"
+  - title: "Artifact's App Forces an AI Snoop Dogg to Read the News to You"
+    excerpt: "Artifact users on iOS should get text-to-speech features for free, with Gwyneth Paltrow and more than 30 other voices available."
+    publishedDateTime: 2023-07-27T19:50:00Z
+    webUrl: "https://gizmodo.com/artifacts-app-forces-an-ai-snoop-dogg-to-read-the-news-1850683846"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 74
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2022/11/AI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
+  - title: "News app Artifact adds AI text-to-speech voices, including Snoop Dogg and Gwyneth Paltrow"
+    excerpt: "Personalized news app Artifact, developed by Instagram’s founders, is adding another new AI-powered feature today. The company is launching an AI-powered text-to-speech feature in partnership with Speechify that will allow Artifact users to listen to news articles read aloud."
+    publishedDateTime: 2023-07-27T18:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/news-app-artifact-adds-ai-text-to-speech-voices-including-snoop-dogg-and-gwyneth-paltrow/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 38
 
 secured: "hidJ0RE85Phdv2N1DHxU/KX3pScGtbdwkhtM6kKKhLp88WeBagoW3WzrfKMc8VyRE6EpRWN2w9H/FLfzwD/Tr1QivqbbpT7yLlUSZX9YvPGoE3ycnJbFJLLlSt464MoAGfSpSeABEIDqKghG1REeZboDQeE7u54ww7ND1UCbgXf64QpYr4GIqmqqDyfVATD2v/3Ii76AyODgtzN9Vh8LrdSLUahdlPUX9o+CU88o32dv6RU2C0MTWIhpPp5rGKN38ULthygoYGkXtq/KxjxWFEbIJhBaZgt17G9oCPFssu0HwLUTgPGNaJEkdpkBtnsCiRwNHNwYVRomVWZZ5nagkUwezr6p7V5UgcG8xENhrZiTwjsxHiAMS3rGWonPtzQ7p8Uggz/lGSJ0s7V35YV7dO62Q6ozdJPaJnr18BAt7a0bkA5UfbkSiWCZVKoBsWQZ0JYWYXC4lqIELFtlZuY8t0JnSsvAu1Pnkrb9I+FPodOzSaCKt9B+DLnbPrNIEiDlmI7vSthWJk5QGkr9UpmxdA==;1wxzzGt0aKua5z5XBj4Umg=="
 ---

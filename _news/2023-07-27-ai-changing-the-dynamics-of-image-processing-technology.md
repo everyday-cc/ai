@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 933
         isCached: true
+  - title: "How Senior Housing Operators Are Using Game-Changing Telehealth and AI Technology"
+    excerpt: "Telemedicine and artificial intelligence (AI) are helping to take the senior living industry to its next evolution by improving operations and care, while"
+    publishedDateTime: 2023-07-31T21:16:00Z
+    webUrl: "https://seniorhousingnews.com/2023/07/31/how-senior-housing-operators-are-using-game-changing-telehealth-and-ai-technology/"
+    type: article
+    provider:
+      name: Senior Housing News
+      domain: seniorhousingnews.com
+    quality: 34
+    images:
+      - url: "https://seniorhousingnews.com/wp-content/uploads/sites/3/2015/03/iStock_000034679460Small-e1425332851251.jpg"
+        width: 618
+        height: 411
+        isCached: true
 
 secured: "DljDcFh6r/8l0MaKEYwrvHUsT/mIEi/3xxO9fmG+lGjoeak8ZchUh2sa7/D3eiSziq0hTdxAEEerDVuziARohFxiNJMcoEcqM4whpHAS0+OsphBwD8sI5SMoNmYbWTs/FSlwj6CTNSabecb8JbmYGokXHALj3mKf84fobE+EnHmTUCR7Ni7OQkBI6INjxpryZvtFEeVZ9lCDEH4wgPVfLG9KbdU3bNgKgHm/TxMS7KdbWXwjKQWEz2xOsCejJulhbOCkgxXal3NfbwpBt84/Rfvv/THHbl2TxwuLwGwy1j1JieyRMrsWzbyUK27UfF8RRpIgkiEdxmntfhzrTXgoHqnn6tve4UpgpegQKR7j0we0xAVGoZTqi0OTCAd0X8UdrEG0LjbgG9Vmd6pigzsP604hJm5BqPIfe09W+LlM6I13Q8xk6lFJnx1KaokjRRUEpEtpQqqUwULThML9v07ipAgGQH1k90rrCmbQgJrOZgNqIjU9vwUXmdf3aDHqbxmFhRyUAN0eSdb+sZMmSzbK5g==;gZ9fMdXDEUOW0ft81FnvXQ=="
 ---

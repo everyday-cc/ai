@@ -28,20 +28,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 49
-  - title: "Waymo changes course from its self-driving truck ambitions to focus on ride-hailing"
-    excerpt: "Alphabet Inc.’s Waymo LLC announced today that it’s putting the brakes on autonomous truck operations and will now focus its efforts on the self-driving ride-hailing part of the business."
-    publishedDateTime: 2023-07-27T03:05:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/waymo-changes-course-self-driving-truck-ambitions-focus-ride-hailing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Screenshot-2023-07-27-095021.png"
-        width: 1095
-        height: 610
-        isCached: true
   - title: "Waymo shelves self-driving commercial trucking operations in favor of taxi cab business"
     excerpt: "The CEOs of Waymo, Tekedra Mawakana and Dmitri Dolgov, said that their company will now be primarily focused on ride-hailing services, and will be investing their efforts and resources accordingly."
     publishedDateTime: 2023-07-27T08:26:00Z

@@ -31,6 +31,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Artifact is getting an AI-powered text-to-speech feature to read you the news"
+    excerpt: "Artifact — the new-ish news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. The company is offering the new feature as part of a partnership with Speechify."
+    publishedDateTime: 2023-07-27T18:01:00Z
+    webUrl: "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 44
 
 secured: "N3oiTOZ5y/3vQhgkDo7vx7a0vQI+1OaNsOzWiK+jZAZqUV/X8W8feKEUT2B+7Pb2og6sr/Z0eWT1dNktdYmcL1DqZhLv460shhL/jKzZO14AAa8H1M9pesPf0USxtFsxqF+CfRJ7SdQ0MmFdwrzL3r1U6dn2MudT2wJZ8wyqbuO1Zu2R34+l5JEt1jmtTvqBHl1LhWjAYaOFJ9nkQDKquQZwbgSDGfuMe4JeH2eI0GsuEt+V4YifXl18BIV2tGhw1O/eWvwwIr1mY2V6sYdxT/j1qnck5g1eQgKzVfnhlmztG7xjfANozFBqbXsR0zaxQNvqtsFFkOgGSZaRBuzy6S9XzRn8PYGyGJhrntQ/afHq7Wf/GhRNcqSj7HU7RgBH6FcGdN0vQkZ7tnSZ0OSz/oYkyUmYrBU0+Fv4ty/z5YTzlbq6lBAQfgvBXIZAcBsqp9nuZRIjGahxpkPo7FW3Alkqz2GJ/k8heVeU2wOLI0bKFhbDostqFtonO5vfgu2G7UNq4TP90dgsP+Bl6VbQQQ==;J70LQv7U7GDNXpMLN9jktw=="
 ---

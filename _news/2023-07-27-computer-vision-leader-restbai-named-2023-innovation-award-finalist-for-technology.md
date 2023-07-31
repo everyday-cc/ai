@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Research Solutions Acquires ResoluteAI to Transform AI-Powered Innovation Workflows"
+    excerpt: "Research Solutions, Inc. (NASDAQ: RSSS), a trusted partner providing cloud-based workflow solutions to accelerate research for R&D-driven organizations, today announced its acquisition of ResoluteAI,"
+    publishedDateTime: 2023-07-31T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/31/9856374.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+
 secured: "yNnJDLSBQNfF3ly4uGswIhuLn+21QOCMe8knmrac/Y7GJV/pdoh/2ujGX5zw3JY+5otCmxpXVP4diR81QuVGxRCY6KeEuADRiFn3AjJThj4hBRWV/KAgiSOBl3KZrm8SsiHi0NpR1OFSb8V1m5pMODfXadLQKwA/CVjJNR46nxQBdZvfLIfsbVC9pXi9jOLos98xxfDS11mTptmHmvDYRdunJC5S5fmuhevu2RYu+Cqcy1Rr+Btt8a6jzvd9XCk/HF1h74e13cuYPbIuiQbAWadB5BQVrLmW7h0btI9YfKZbTx0QYIzN4hNSeyvvXeZPwX//nU3cPjtEclC9tTc/U9GOp9Fukp9W5mGCST9BXps=;lOmpv/XmRHtWI8pi548uzw=="
 ---
 

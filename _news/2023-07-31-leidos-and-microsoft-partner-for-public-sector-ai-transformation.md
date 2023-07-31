@@ -220,6 +220,20 @@ related:
         width: 1920
         height: 1024
         isCached: true
+  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
+    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
+    publishedDateTime: 2023-07-31T21:25:00Z
+    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-on-public-sector-generative-ai/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 53
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
     excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
     publishedDateTime: 2023-07-28T09:25:00Z
@@ -234,6 +248,15 @@ related:
         width: 650
         height: 397
         isCached: true
+  - title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
+    excerpt: "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ..."
+    publishedDateTime: 2023-07-28T14:13:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 41
   - title: "Microsoft, Blue Shield partner to develop integrated data hub"
     excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
     publishedDateTime: 2023-07-27T15:26:00Z
@@ -249,6 +272,6 @@ related:
         height: 435
         isCached: true
 
-secured: "4oKbmQO8u1L02Kvgqa8Ja8Y+qSM52pV0KpGvHKfbigXGDLd6b7rGSgCzlx5ej4tSb4ORp/2PBVHZk9SKAq1OuJOcYbmmHmwQHJrhISmRzkiboWBC1b/abG9X/Or6utEZaBvj+M6v/kkjaZ3K3flYj45wjwC1r1U7bJHPWzf6Q0mLbsEApj2Wz8PuxkAGdrCb7A0l9oBGGepQVpq+373wFhZqDwZ6IcX3G4i0jpvwMpygBCrA7HpLaaeA9K7EXeo7ZMPkvjrlg5sVUtkruYkTncLxhPYLp80PXbY6c6mxfy9DwepZOD9yV6O/NePRWLw0BWV5JTRtxGFUp9MspAUq5aqFusFgekpyW7N35ENkznM=;LNY2YqUM6QqGSoivRP2dlQ=="
+secured: "1g8F3v0osn7d+PZpQUMc7p2Zg+nEcQko+ay+/3DHMRWci/PmjQaA1tFY9OBA2WqPjt5on8L4Wa0AFUHK7+QEdsArnTA1HR6Xz28q9N2DM9uDJTakxJR47He8TtLAD0XF7oCT36sDeqAkwNONBsrxqeCgC+nLWlhzWzwgCLrzg0ON+ekId29XWuVo2JaNv+zKfIG1uHZy9m+l5gajkHl1HLnBT5NwspW5+d3IV06NO1uJ58Q3XJoh+1O8Y5gLMuY/ojMU8YDN1HZsmPZ+dIvVycstyPfw29G6cqBCMVx7ao7Km3UDDfiopHC7pzZ/+wlY0YYQpTXzhkjilqZlfIYMNfcg06I9cQNOHebQEb/U0lOgWB+4yo2zjpsGfTsXPZOMUBP+6OsQcJ3zlmO7kEWmEg2BLZ9+Ad6gXPAiRZiq2MjnQfI7rfXJKReW/Us0vhxPjIohU1HKScWn46p55K8tNEwF4QGcwdQ8HFVYclCuyHdYSApgMvqh8cEan0ZouAKc7q6M3yCd4RByeb7R0iHePQ==;VzURHY4VlSIh7Rm89rhnkQ=="
 ---
 

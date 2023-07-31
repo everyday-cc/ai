@@ -1,32 +1,20 @@
 ---
 category: news
 title: "Microsoft earnings: What to expect as Azure, AI come into focus"
-excerpt: "As Microsoft gears up to report earnings in the present, it's becoming ever harder for Wall Street not to get swept up by the future."
-publishedDateTime: 2023-07-25T12:22:00Z
-originalUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
-webUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
-ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
+excerpt: "no more than a modest [deceleration] in Azure growth with encouraging commentary for FY24, and quantification of AI tailwinds in FY24 and beyond,\" Raymond James analyst Andrew Marok wrote recently."
+publishedDateTime: 2023-07-25T12:55:00Z
+originalUrl: "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus"
+webUrl: "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://images.mktw.net/im-823051/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "GrWCgyA2xgRXgoMD5CqjSBlCxmpGW2uHmal7SaKH52j/OgvgIB9q7NsHuAe86fNkMPEyRobbK4sHCPJwctct5BtOBw2MTfhBO135oUFTgcx4A8fvtmvSgw2qrYMK1FcLbN/zgNVaJcmS2tydjG9eohZexjEh7jUyLcndRDruYjBxVJyKW2HkpBwRdMtVynuP4d2f+6GZ5wjbO+VqN5XW0VigldB1isQnIEWpQLYFZU1EPkm0t3EMmSf7rblz9Aa6skS08N9xG0MUUXONOL3l80cLc/Anc10el0Pn3qObNUBbUnDd5mPDEXfwiNkv9uPLyStR12frxoHiLYZ7938Yq7/FawQeeyJCBEdLRczH1N6ghnCWKsge+3WYqqUg8/e4ECTjse7J2TuZbZR+Vfk9irGuX8Aukd0ABbR4xQLuiXmJzxJMwk4DM8TuIiTAshPY9garLRPC8Y3FRk4ve6t7+49OPVcFRYHp2eyhumZ0wd5oXhvMmmLNiCqSNRHjvG7DXy9m54UjFEzBW3UBAszWCw==;TarIou+Co/3P9ZM3QuS6xw=="
+secured: "Hef+WxxyzO1AtnK2EKd4gOezED+TUxI1ajWXwTA7K/6EoSVNUDTcdH+UtYnE8CEZOfCiUV1th0q1mS8nwHPIO+/m/DjN/dTViQch9oiMvXJg6jJ7i5aChI6KWPc5P35UUPewqaAoDUHTZz8TqnoCeiMxhldc77tj+WHxkZQLsJpUZkFXcpY5WwEGWWAcw0+nz6rUUmxiIEAgVVg6moKfzlDNhjIx+Xqx8ebKymZwUtIMiVGxRiD+jjriWZ0D55PEKRKABZI0+BjRqrU/ILy/8ZDbnynIRYgW2zoDpP/TeiFgeAeEURXGOEDMiAryuzgaIJ7mKTW3reMiHdLMKaiLe35RZMFu3FPF/an9crvaTSw=;sl22xA52R4CfR61jKMGSXw=="
 ---
 

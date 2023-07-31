@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Artifact is getting an AI-powered text-to-speech feature to read you the news"
+    excerpt: "Artifact — the new-ish news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. The company is offering the new feature as part of a partnership with Speechify."
+    publishedDateTime: 2023-07-27T18:01:00Z
+    webUrl: "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 44
   - title: "News app Artifact adds AI text-to-speech voices, including Snoop Dogg and Gwyneth Paltrow"
     excerpt: "Personalized news app Artifact, developed by Instagram’s founders, is adding another new AI-powered feature today. The company is launching an AI-powered text-to-speech feature in partnership with Speechify that will allow Artifact users to listen to news articles read aloud."
     publishedDateTime: 2023-07-27T18:01:00Z

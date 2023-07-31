@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Sumitomo Corporation Selects AWS to Drive Its Digital Transformation"
-excerpt: "Sumitomo Corporation will use RISE with SAP on AWS, a fully managed offering that combines SAP's solution and implementation experience with AWS's experience in helping customers transform their SAP landscapes."
-publishedDateTime: 2023-07-31T15:10:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/31/9856457.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/31/9856457.htm"
+excerpt: "One of the world's largest trading and business investment companies uses AWS to modernize its SAP platform, help customers achieve sustainability goals, and drive business insights across its 900 sub"
+publishedDateTime: 2023-07-31T13:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/b33469065/sumitomo-corporation-selects-aws-to-drive-its-digital-transformation"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/b33469065/sumitomo-corporation-selects-aws-to-drive-its-digital-transformation"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "yIP8njeKI8nuE4VQAj2zJetfAz2gFo71I87bJcX2Xy49tlO56OJVhpSkXRBqymht1iEwVJYx8WypHLkQ7ydtIjAXvDSgXIni9on4VrRYcJ5BUrpWZdO91yzTMfHzM14i7OBTvXcQzq4eBSlvixiDN+hvwTwWPy/59DG8HhJF536GvQMT7g8j/5lg5WLgQxxHWAyoVbbZI25/KDdLgehSDIEizMzVsrOVhyzVNg3mpI3xvU2p/tyAVM2SNRuWdxeF5UTQd3SN1FKyPq9hpjC8bZ5CRLsu97UkKLzszv+kJIgniwSYOYGilfnQnrKC9DeV+olnRYKTr5Qs7ktTxkuFt65K2m0k3nAMX7ov0reQdxQ=;vvQGQlrQ1dmJJ005LKwAlg=="
+secured: "sCBjeZ2ykGkuSiYcewrhJMMFUzKSEd8yat2kjzHnFsp7qXEkYBmIbWvwJolBNVsAY1UShWoH1+D97wy6Ezk4YYNFm5k5E428HhdxOcNBAaFkq9h014F+sCTuNxmIj7nS+fM0FHKkFK1baujD96L6uIFKTkH3wZor8pDUUg/UPXZIEToTVfnuz3x2NLgqetcbdM93AWCXmnCZZPnznhCiHAc1sA8d3wX11GvNc0BsydFfy9jz1+k3xqCzxytZF+ICmfBdHj14vpLuvhIhZTVymjTET/MOYmx35dbWLETx8sFO/5ilvmyPoPnVItSHtYXG68P/XCPmnTeOOydtiBM2uniRWoXYypN7F42ICNOf7lc=;SEcZ24EHO8Xw+iiyCGi8yg=="
 ---
 

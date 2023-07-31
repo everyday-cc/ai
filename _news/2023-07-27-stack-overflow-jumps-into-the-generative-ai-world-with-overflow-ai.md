@@ -100,6 +100,20 @@ related:
         width: 1114
         height: 570
         isCached: true
+  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
+        width: 750
+        height: 501
+        isCached: true
   - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
     excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
     publishedDateTime: 2023-07-29T16:51:00Z
@@ -174,6 +188,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:14:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Generative AI: Proposed Shared Responsibility Model"
     excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
     publishedDateTime: 2023-07-28T15:04:00Z

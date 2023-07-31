@@ -2,6 +2,204 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-07-08-how-new-ai-tools-can-transform-customer-engagement-and-retention.md",
+      "title": "How new AI tools can transform customer engagement and retention",
+      "excerpt": "New technologies present new opportunities, but hard work is needed to gain the benefits of AI and ML as cookies and third-party data go away.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/ai-tools-help-businesses-reimagine-reach-out-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_new_artificial_intelligence_tools_helping_businesses_re_5dfab3ec-f116-4eca-9cb0-5909738ad7d0.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-driverless-robotaxi-services-launched-in-shanghais-pudong-district.md",
+      "title": "Driverless robotaxi services launched in Shanghai's Pudong district",
+      "excerpt": "Driverless robotaxi services were launched in designated areas of Shanghai's Pudong New Area as the district's first batches of licenses for the commercialization of autonomous driving were issued on Saturday at the sixth World Artificial Intelligence Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202307/09/64aa5035a310bf8a1d23b203.jpeg",
+          "width": 634,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-these-are-the-3-biggest-fears-about-ai-and-heres-how-worried-you-should-be-about-them.md",
+      "title": "These are the 3 biggest fears about AI — and here's how worried you should be about them",
+      "excerpt": "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "originalUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a81e878ed31300199e1096?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-biggest-fears-risk-threat-chatgpt-openai-google-2023-6?amp",
+      "publishedDateTime": "2023-07-08T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-humanoid-robots-hold-un-press-conference-say-they-could-be-more-efficient-and-effective-world-leaders.md",
+      "title": "AI humanoid robots hold UN press conference, say they could be more efficient and effective world leaders",
+      "excerpt": "A panel of robots told reporters in Switzerland Friday that they could be more efficient leaders than human beings, among other statements. The nine artificial intelligence-enabled humanoid social ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders",
+      "originalUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab421626-796a-4036-a71a-454279579e88/97ad3371-db6b-4b78-ba18-e473a9df7d37/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders.amp",
+      "publishedDateTime": "2023-07-08T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-ai-industrial-robotics-denmark.md",
       "title": "AI Industrial Robotics - Denmark",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ...",
@@ -953,204 +1151,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models.md",
-      "title": "IBM Watsonx Empowers Businesses To Build, Tune And Deploy Reliable Generative AI Models",
-      "excerpt": "Watsonx is IBM's next-generation AI platform for building and tuning foundation models, generative AI and machine learning systems. The platform contains a studio, data store and governance toolkit. Additionally,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a8262b79a8b89cb191cf1d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/07/ibm-watsonx-empowers-businesses-to-build-tune-and-deploy-reliable-generative-ai-models/amp/",
-      "publishedDateTime": "2023-07-07T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-speedybrand-uses-generative-ai-to-create-seo-optimized-content.md",
-      "title": "SpeedyBrand uses generative AI to create SEO-optimized content",
-      "excerpt": "SpeedyBrand, a Y Combinator–backed startup developing generative AI tools for marketing use cases, has raised $2.5 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/",
-      "originalUrl": "https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-594830889.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/amp/",
-      "publishedDateTime": "2023-07-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-speeding-up-shipping.md",
-      "title": "Amazon CEO Andy Jassy on making AI chips, Prime Video spend, speeding up shipping",
-      "excerpt": "Amazon CEO Andy Jassy spoke with CNBC for a wide-ranging interview about AI, Prime Video, and more. Here were some of the key takeaways (comments edited for brevity and clarity):… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0716-GW-Summit-2021105-1.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-robots-at-an-ai-forum-say-they-wont-steal-jobs-rebel-against-humans.md",
-      "title": "Robots at an AI forum say they won't steal jobs, rebel against humans",
-      "excerpt": "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
-      "originalUrl": "https://www.telegraphindia.com/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Jul/1688740466_reuters.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
-      "publishedDateTime": "2023-07-07T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
         "images": null,
         "publishers": null,
         "authors": null

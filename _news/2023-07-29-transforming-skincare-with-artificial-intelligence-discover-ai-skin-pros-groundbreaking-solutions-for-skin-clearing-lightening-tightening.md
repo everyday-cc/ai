@@ -36,20 +36,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 127
-  - title: "AWS draws thousands to try Bedrock AI offering"
-    excerpt: "Amazon Bedrock is the company's answer to services announced by Google and Microsoft, cloud rivals that have developed or marketed AI garnering significant public attention. Microsoft has invested in OpenAI, the startup that created ChatGPT and the AI model known as GPT-4."
-    publishedDateTime: 2023-07-27T01:07:00Z
-    webUrl: "https://www.crn.com.au/news/aws-draws-thousands-to-try-bedrock-ai-offering-598512"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/2023-07-26T165348Z_2_LYNXMPEJ6P0WL_RTROPTP_4_AMAZON-COM-AI.JPG"
-        width: 1000
-        height: 691
-        isCached: true
   - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
     excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
     publishedDateTime: 2023-07-28T14:59:00Z

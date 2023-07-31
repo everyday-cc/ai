@@ -2,6 +2,142 @@
   "page": 183,
   "value": [
     {
+      "path": "_news/2023-04-03-ai-and-robotics-etfs-are-hotter-for-traders-than-crypto-in-2023.md",
+      "title": "AI and Robotics ETFs Are Hotter for Traders Than Crypto in 2023",
+      "excerpt": "The $1.7 billion Global X Robotics & Artificial Intelligence ETF (ticker: BOTZ) led the inflows with about $121 million so far this year. The fund is up 24% year to date. Related: ETFs with the Be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthmanagement.com/etfs/ai-and-robotics-etfs-are-hotter-traders-crypto-2023",
+      "originalUrl": "https://www.wealthmanagement.com/etfs/ai-and-robotics-etfs-are-hotter-traders-crypto-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-auroras-self-driving-truck-tech-is-one-step-closer-to-hitting-the-road.md",
+      "title": "Aurora’s self-driving truck tech is one step closer to hitting the road",
+      "excerpt": "Chris Urmson, CEO of autonomous trucking company Aurora, says that the company’s self-driving tech is feature complete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90870517/auroras-self-driving-truck-tech-is-one-step-closer-to-hitting-the-road",
+      "originalUrl": "https://www.fastcompany.com/90870517/auroras-self-driving-truck-tech-is-one-step-closer-to-hitting-the-road",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-metasurfaces-designed-by-a-bidirectional-deep-neural-network-for-generating-quantitative-field-distributions.md",
+      "title": "Metasurfaces designed by a bidirectional deep neural network for generating quantitative field distributions",
+      "excerpt": "a, Sketch of a metasurface design based on the tandem neural network and iterative algorithm. b, Tandem neural network for predicting the structural parameters of metasurface devices. c, The ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-03-metasurfaces-bidirectional-deep-neural-network.html",
+      "originalUrl": "https://phys.org/news/2023-03-metasurfaces-bidirectional-deep-neural-network.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-ibm-and-masters-use-generative-ai-to-create-spoken-word-commentary.md",
+      "title": "IBM and Masters use generative AI to create spoken word commentary",
+      "excerpt": "IBM and Masters have worked together for more than 25 years Generative AI promises many use cases for the sports industry The Masters golf tournament will use generative artificial intelligence (AI) technology to create automated audio commentary for more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
+      "originalUrl": "https://www.sportspromedia.com/news/us-masters-gold-ibm-generative-ai-tech-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportsPro",
+        "domain": "sportspromedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-ibm-uses-ai-to-generate-commentary-for-golfs-masters.md",
       "title": "IBM uses AI to generate commentary for golf’s Masters",
       "excerpt": "worked with the Masters digital team to leverage multiple foundation models — including IBM Watson Text-to-Speech – to train the AI in the language of golf at the Masters, automating the process of adding spoken commentary to video clips, said IBM.",
@@ -859,194 +995,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin.md",
-      "title": "Waymo brings its fleet of new self-driving SUVs to Austin",
-      "excerpt": "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
-      "originalUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/cUida6ySiXDpooXP.oUt0g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/9fc6ae30-cfe2-11ed-bec7-e751884bbf3d.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-intimidating-and-dangerous-how-much-do-members-of-congress-know-about-ai.md",
-      "title": "‘Intimidating’ and ‘dangerous’: How much do members of Congress know about AI?",
-      "excerpt": "Calls to regulate artificial intelligence are growing on Capitol Hill following a dire warning from tech giants. But many lawmakers also admit they don't know much more about the technology than the average American.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6323724862112",
-      "originalUrl": "https://www.foxnews.com/video/6323724862112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5987de2-5285-4377-9f8a-b419cc8f00df/4c8bbe0f-b509-4f34-9d66-b8ffc481e867/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs.md",
-      "title": "Breakthrough! Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs",
-      "excerpt": "A team of researchers has harnessed Google’s AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orissapost.com/breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs/",
-      "originalUrl": "https://www.orissapost.com/breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "orissapost",
-        "domain": "orissapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-ai-advocates-say-theres-a-place-for-apps-like-chat-gpt-google-bard-in-classrooms.md",
-      "title": "AI advocates say there’s a place for apps like Chat GPT, Google Bard in classrooms",
-      "excerpt": "Advocates for artificial intelligence say there have been no widespread reports of cheating or harmful content in classrooms that have implemented AI learning for kids.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6323718971112",
-      "originalUrl": "https://www.foxnews.com/video/6323718971112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23c944fa-10c9-4c29-9a94-7aa08ed6c99a/a92416f3-8ea9-45c6-8fd8-9ad16d08a3fa/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

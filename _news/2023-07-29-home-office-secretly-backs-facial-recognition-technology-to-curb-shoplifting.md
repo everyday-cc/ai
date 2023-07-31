@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
+    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
+    publishedDateTime: 2023-07-31T10:06:00Z
+    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/"
+    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
     excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
     publishedDateTime: 2023-07-27T21:15:00Z
@@ -134,6 +150,15 @@ related:
         width: 940
         height: 400
         isCached: true
+  - title: "Facewatch caught in more controversy after closed-door meeting with UK Home Office"
+    excerpt: "Facewatch, which has been facing backlash for deploying facial recognition in retail stores across the UK, may be facing another public relations problem."
+    publishedDateTime: 2023-07-31T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202307/facewatch-caught-in-more-controversy-after-closed-door-meeting-with-uk-home-office"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "MWzj86lVhEv23VsfYGzUTrbZqZkQPanUmAwB0cRRcDn5nP3WsRHq5nwqfxGHsEB9XrfyDzpqnlpNfdH5l7VzAzjMnSx1u0pnWP/XGgJn2ZHozUlKC03SRpsd/krecZ0KtRimTxISuXKxMVxLHwmELmO+akmPqvf8SQ5Sj7U7AbOrUYf6WG++ORmromOFcGhN8paqErtz7hmIeYqUxli7pqm8eU9aXcn6pMgQyDRwSw0EWsyASi+Bk6guOTXHHPVg8IO6VpR+SE+LSvTuVVJChoTYP9OHWEw0qbEw3ockqGHHxFl3xEgZnYuM/hSOQtBMipQZAaiOOZmOlpEhpGdonANzYkSsbYAkUYTAdyOValygln0D6CrSvOB2PsUIPDAoRtTcBb9Y7zTBLeUcE7JM20szIfdWiI6I4lL2gHNRzj6t5MdS3/WNGotK1tsndwC/31YoBQoZi2ELiqRdI4wpjRoO0Q863LVh0RQju4xfSrK0SZ4BrbCE0UpBq00CsU6bg672j4FKofksxCpKtttTSg==;cHYui88Q9ZWLboYaSFEHKw=="
 ---

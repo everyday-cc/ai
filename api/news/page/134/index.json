@@ -2,6 +2,195 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2023-05-08-best-speech-to-text-apps-of-2023.md",
+      "title": "Best speech-to-text apps of 2023",
+      "excerpt": "However, speech-to-text is moving more and more into the mainstream as office work can now routinely be completed more simply and easily by using voce-recognition software, rather than having to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-we-know-that-ai-is-sexist-and-racist-is-it-also-ageist-resisting-the-allure-of-techno-solutionism-in-aged-care-provision.md",
+      "title": "We know that AI is sexist and racist — is it also ageist? Resisting the allure of techno-solutionism in aged-care provision",
+      "excerpt": "AI should be implemented in aged care as part ... The ABC’s Religion and Ethics portal is home to religious reporting & analysis, ethical discussion & philosophical discovery, and inspiring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
+      "originalUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/6eef0016680bc7720af095e9fd8b5bbf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+          "width": 862,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity-in-exciting-and-frightening-ways.md",
+      "title": "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways",
+      "excerpt": "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "publishedDateTime": "2023-05-07T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-the-geopolitics-of-ai-chips-will-define-the-future-of-ai.md",
+      "title": "The Geopolitics Of AI Chips Will Define The Future Of AI",
+      "excerpt": "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
+      "publishedDateTime": "2023-05-07T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-5g-mobile-subscriptions-to-rise-to-55-billion-in-2027.md",
       "title": "5G mobile subscriptions to rise to 5.5 billion in 2027",
       "excerpt": "G mobile subscriptions is expected to rise from 1.7 billion at the end of 2022 to 5.5 billion in 2027 occupying a total share of 48%, according to data and analytics company GlobalData. GlobalData’s 5G - Thematic Report reveals 5G penetration will rise from 53% at the end of 2022 to 162% in the",
@@ -975,204 +1164,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems.md",
-      "title": "Good bot, bad bot: Using AI and ML to solve data quality problems",
-      "excerpt": "Bots (both good and bad) will soon constitute an even larger share of internet traffic. How to fight them with AI and ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
-      "originalUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_good_chatbot_and_a_bad_chatbot._Colorful_futuristic_te_ed17e50e-3d48-4de3-b5d3-f1f04adb84f4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
-      "publishedDateTime": "2023-05-06T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-the-best-way-to-avoid-a-down-round-is-to-found-an-ai-startup.md",
-      "title": "The best way to avoid a down round is to found an AI startup",
-      "excerpt": "In fact, new data from Carta, which provides cap table management and other services, indicates that AI-focused startups are outperforming their larger peer group at both the seed and Series A stage.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/06/ai-startups-q1-investments/",
-      "originalUrl": "https://techcrunch.com/2023/05/06/ai-startups-q1-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-america-forgot-about-ibm-watson-is-chatgpt-next.md",
-      "title": "America Forgot About IBM Watson. Is ChatGPT Next?",
-      "excerpt": "In early 2011, Ken Jennings looked like humanity’s last hope. Watson, an artificial intelligence created by the tech giant IBM, had picked off lesser Jeopardy players before the show’s all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/rM09fLf4J3qOZe6sbPJlqlPYlfI=/0x102:4792x2598/1200x625/media/img/mt/2023/05/IBM_Watson_/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-worlds-top-ai-researchers-debate-the-technologys-next-steps.md",
-      "title": "World’s Top AI Researchers Debate the Technology’s Next Steps",
-      "excerpt": "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
-      "originalUrl": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-777121/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

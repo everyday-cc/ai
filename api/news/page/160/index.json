@@ -2,6 +2,186 @@
   "page": 160,
   "value": [
     {
+      "path": "_news/2023-04-23-5-emerging-trends-in-deep-learning-and-artificial-intelligence.md",
+      "title": "5 emerging trends in deep learning and artificial intelligence",
+      "excerpt": "Deep learning and artificial intelligence (AI) are rapidly evolving fields with new technologies emerging constantly. Five of the most promising emerging trends in this area include federated ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/2685aac9-95d3-4cc0-911c-64fc6de81bba.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
+      "publishedDateTime": "2023-04-22T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-unveiling-the-power-of-large-language-models-llms.md",
+      "title": "Unveiling the Power of Large Language Models (LLMs)",
+      "excerpt": "Over the past few years, artificial intelligence has made significant strides in the field of natural language processing. Among these advancements, Large Language Models (LLMs) have emerged as a dominant force,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/large-language-models/",
+      "originalUrl": "https://www.unite.ai/large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2021/09/brain-4521220_1280-942x600.jpg",
+          "width": 942,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-22T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-have-robots-take-care-of-your-cat-when-you-travel.md",
+      "title": "Have Robots Take Care Of Your Cat When You Travel",
+      "excerpt": "If you like to travel, a cat is the perfect pet. They don't need constant walking. They don't need an overabundance of interaction (if they want any), and they don't destroy your house if left alone for a few days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2023/04/22/have-robots-take-care-of-your-cat-when-you-travel/",
+      "originalUrl": "https://www.forbes.com/sites/anthonykarcz/2023/04/22/have-robots-take-care-of-your-cat-when-you-travel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-22T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-ai-can-write-your-emails-reports-and-essays-but-can-it-express-your-emotions-should-it.md",
+      "title": "AI can write your emails, reports, and essays. But can it express your emotions? Should it?",
+      "excerpt": "If AI-written vows, eulogies, speeches, love letters, apologies, poems, or songs become ubiquitous, are they still meaningful?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "originalUrl": "https://www.zdnet.com/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/27a39b2f3e2bb9c2bf30da74b13c1104cb3511d5/2023/03/21/585c7714-5218-4ca3-8350-3e63a5e869bf/gettyimages-1256204421-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
+      "publishedDateTime": "2023-04-22T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-groundlight-raises-10m-for-natural-language-powered-computer-vision.md",
       "title": "Groundlight raises $10M for natural language powered computer vision",
       "excerpt": "Groundlight's $10 million funding round included participation from Madrone, Greycroft Partners and Founders Co-op.",
@@ -1004,189 +1184,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
-      "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
-      "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6325508060112",
-      "originalUrl": "https://www.foxnews.com/video/6325508060112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-up-fintech-talks-up-tigergpt-as-new-investor-tool.md",
-      "title": "UP Fintech Talks Up TigerGPT As New Investor Tool",
-      "excerpt": "AI chatbots are likely to have their limitations, at least in the short term, such as the inability to provide highly personalized investment advice. But UP Fintech's new chatbot will only be able ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4595592-up-fintech-tigr-talks-up-tigergpt-as-new-investor-tool",
-      "originalUrl": "https://seekingalpha.com/article/4595592-up-fintech-tigr-talks-up-tigergpt-as-new-investor-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-call-me-deepbrain-google-smushes-deepmind-and-brain-ai-teams-together.md",
-      "title": "Call Me 'DeepBrain': Google Smushes DeepMind and Brain AI Teams Together",
-      "excerpt": "Talk about a meeting of the minds. In another bid to add some NOx to its sputtering AI development, Google announced late Thursday that it plans to combine its two major AI teams, once kept ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-merges-deepmind-and-brain-ai-teams-1850361645",
-      "originalUrl": "https://gizmodo.com/google-merges-deepmind-and-brain-ai-teams-1850361645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f77701d51f83ddbec03a5cd3e1b81cd9.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-microsoft-azure-may-have-lead-in-generative-ai-but-aws-not-far-behind-baird.md",
-      "title": "Microsoft Azure may have lead in generative AI, but AWS not far behind: Baird",
-      "excerpt": "\"While Azure may have the initial upper hand ... Last week, Amazon (AMZN) unveiled a new suite of tools for generative AI, known as Bedrock, which are designed to give customers the ability ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3958778-microsoft-azure-lead-in-generative-ai-aws-not-far-behind-baird",
-      "originalUrl": "https://seekingalpha.com/news/3958778-microsoft-azure-lead-in-generative-ai-aws-not-far-behind-baird",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471179856/image_471179856.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

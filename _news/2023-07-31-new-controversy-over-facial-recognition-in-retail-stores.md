@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controvers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
+    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
+    publishedDateTime: 2023-07-31T10:06:00Z
+    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/"
+    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
     excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
     publishedDateTime: 2023-07-29T15:11:00Z
@@ -133,6 +149,15 @@ related:
         width: 940
         height: 400
         isCached: true
+  - title: "Facewatch caught in more controversy after closed-door meeting with UK Home Office"
+    excerpt: "Facewatch, which has been facing backlash for deploying facial recognition in retail stores across the UK, may be facing another public relations problem."
+    publishedDateTime: 2023-07-31T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202307/facewatch-caught-in-more-controversy-after-closed-door-meeting-with-uk-home-office"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "66B5C+SjBw/vDM7QWi9Ywg8BHTYvlIh+PaLUPaYq3jlCTgXAtRPyNLX5pmT10nGbswAiRGSO72utsbWz+u2sCROFyMmB96jefaE+/yOgMlHq9Zsq4ONO6yP6ItJESavAkWxfdKkcIQ9Z4CRLTkGMV/f0QYiHmXVbtflSHqXITdGLs2MT0FSXkiqxP4rjYxTpPzLnu5BVCh9uAIgfmRG+or8ovbroa1ytV2yGxh9zNFjKers4HtrvmRI3cpo+NQavnEm7Xc1X8auyss3YuSP6+kjUr/ev02YomuQ9/jChiEXqSlgM7qeDv3vKsoFpFVFAldEpCcALefhL9hR8hHRhoT/89LMZJ2vIbJYPm339Bwomphe9fGAujlUP54EAhXXSNg+FE2R5NeZ0+OJ5N/hYnuJ5SpAfHcrWDZXGH1JafMfUyymG20zXJtxNzUc6RvbEF6ZijTAUQN3GKmZyOQgZ2J8oE2V0DJDGIeCUsbkcsVotMyh4qeEsiu6L7qgBIaj2LT9cCnBu2FX5viwmCejX9Q==;MnJWA3C6+iuxU0X40guFdw=="
 ---

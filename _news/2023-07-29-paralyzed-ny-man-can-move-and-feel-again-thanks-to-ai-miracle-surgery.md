@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/07/28/paralyzed-ny-man-can-move-and-feel-aga
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/28/paralyzed-ny-man-can-move-and-feel-again-thanks-to-ai/amp/"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "A.I. brain implant helps paralyzed man move, feel again"
+    excerpt: "There was a time that I didn’t know if I was even going to live, or if I wanted to, frankly. And now, I can feel the touch of someone holding my hand. It’s overwhelming,\" said Keith Thomas, the patient who received the revolutionary treatment."
+    publishedDateTime: 2023-07-31T21:00:00Z
+    webUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again"
+    ampWebUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/07/932/470/AI-chip-image.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "vq7DYQl5969lPuN8PMZ+dXspDfxoXo44cE5sAkDpzMo7SWVXVdFSjlhjujYdPNV8OO1or8cGt52umwzwQ0Pi/BDkmsLKbkfhe1DGDAscj3Ac/tr4qNYiXtW+HpxoZhPUFWaza4ugzc3QGvKJHTm+tPH0m1oxFOe+uIqrfuCeXof9cstTAlXOGzX+oYFuy0A3r21uR/TB9fCX0Qw2oR39XSmocBt2m15EViKhosFEckeYTwFgMOdP+H/+vjJwcVOxkcMO03X+vSVwPbz6vLsXPT3IYxMqJZqKv7U4pC/bcwESKS+WTqVXI8zrFuVTzwyulKkTRHQ+FRQpcHi7PFE7jE4zfVE2YtrsFy3CfRA5XMkMR59FPR+mD8CX7gL8Sv2rVh5dt7RcQpksvisNjU479Ct6pHY8x00kTx6QweBzXnGiJDeO8dTZhiWwDLlj8G6zbZEI3qlmgvwL4TJlA/pLieT5TpPrTWlVDtLdJB47I69T9xSNijgaqOyUFdK/ySWmRytChn0PRoAeqUzzfeVQSA==;JvtMyzVxdzRGSfNC3Qc9oA=="
 ---

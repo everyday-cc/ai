@@ -119,6 +119,20 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Artificial Intelligence and the Broadband Business: A Black Box"
+    excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
+    publishedDateTime: 2023-07-31T18:28:00Z
+    webUrl: "https://www.bbcmag.com/broadband-applications/bandwidth-hawk-artificial-intelligence-and-the-broadband-business-a-black-box"
+    type: article
+    provider:
+      name: bbcmag
+      domain: bbcmag.com
+    quality: 41
+    images:
+      - url: "http://www.bbcmag.com/pub/photo/optical-fiber-abstract-tall.jpg"
+        width: 3000
+        height: 2250
+        isCached: true
   - title: "Artificial Intelligence As A Service (AIaaS): Empowering Businesses With Smarter Solutions - By The Business Research Company"
     excerpt: "1. Increasing Spending on Artificial Intelligence:"
     publishedDateTime: 2023-07-27T15:56:00Z

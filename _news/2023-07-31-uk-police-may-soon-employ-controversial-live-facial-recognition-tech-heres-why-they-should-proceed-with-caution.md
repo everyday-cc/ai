@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
+    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
+    publishedDateTime: 2023-07-31T10:06:00Z
+    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/"
+    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
     excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
     publishedDateTime: 2023-07-29T15:11:00Z
@@ -129,6 +145,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Facewatch caught in more controversy after closed-door meeting with UK Home Office"
+    excerpt: "Facewatch, which has been facing backlash for deploying facial recognition in retail stores across the UK, may be facing another public relations problem."
+    publishedDateTime: 2023-07-31T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202307/facewatch-caught-in-more-controversy-after-closed-door-meeting-with-uk-home-office"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "5EOcKMvUeFOzE5VRYQBoOnp9mxxgcAhbbl2CpRJvdYc5IgL/wW5LGhU7kkL1EPVGHjaTyKAUB5nS1tIYcijz2gpSRvAMA6+QjJhi9+Xi0DSzMZ8tcMzhR1XLUItKx4BN88ELV67kzg/qOFStykdrIe/f+ZquflMcb1ujBMIPzAITUnMbUOLeJjORTO7aBFcFRliOEepjx+UyXQ1KGNJ1Nl3vNltTO8u4BdNbq8LiS0bsWwCBzs7hE6AiqCGxYrcjTY83dapC8p4J56Eu4hfNcOt1mRbxeCUPLd5hcDapi9HwElJRRi1NfJR5Y4B4oD/AKRfc5AgrEa4+E8/yG5VGiI0L74gcdA//AZ1wCa3P5NIiqsADtwRHnZscswS7tQCc4LfekHYxhadssena+XKr7XinVIcQfuE/13l3wS+1Xyb1MaXsOC8FVRdX9acO66HHMeJFf/qDBFBEB84rsFgGZjUqfpoZ5xkbicS6o7ERo74oVSRbLR8OxJFbaW/A4aqkNA12+jXJH2J6NRN8I4FJ6w==;fqGHzJoTWDSeLopNEPIVkQ=="
 ---

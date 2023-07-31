@@ -92,6 +92,20 @@ related:
         width: 1114
         height: 570
         isCached: true
+  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
+        width: 750
+        height: 501
+        isCached: true
   - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
     excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
     publishedDateTime: 2023-07-29T16:51:00Z
@@ -170,6 +184,15 @@ related:
     excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
     publishedDateTime: 2023-07-27T12:00:00Z
     webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:14:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
     type: article
     provider:
       name: VentureBeat
@@ -259,6 +282,6 @@ related:
       domain: tmcnet.com
     quality: 12
 
-secured: "yIfWoOtsbSx0/41tCnzJ7KvHnNNFdhM8CWglfv9kgd+ZyGO+4aj7XbC4cYJIUmeXLHmo7lIQNr+fzvMlKtm4mog5gX/2EFKO7xxAg80w/j88UnwU+DzzdQ+r3RHSzApgYwVsuddMeZ2Ur2jN1eEJjfCGZB+zHAQvHFXSRAX1HRtsYnypfEIQ9MGdXE6wSCIICMjY67cUM/XN8W67hy8KPlwhWuMI5XLfHkqaJqZmgVGKr571khZ1/WQIcH18xZu4xOFScUcc/h41omag3uH8SI4o0bjj5aKjiHy6+5rrkJXaL0MUx8w/gQVAAgkkYuFOohQm/hxW6glvJeBD46BndvpCE+tCujIbD97vZgl9JMc=;bpxa3Ln/kl8bjm8oi26p/w=="
+secured: "65UourC6uD87bWNkfQV83NiqKcp5CzKNW7sfMZaoNXWYrXKqVwOrMZ8jsxAM6WAX2v++aDDPUc/91kR9+ZIgUXQuJGkX8IlgiywiThKCFbnnM8daUCzVLc0/vMqJ7ubr3TLkG8XsZkvRRvmgWpz97gKyIWUfNhhy6BKaQpXAEGGztGNeDhFrMF52hpjLr66s5lg58hI44G+cm7CSS+9nh6UgqDogICFZ/LMZfa3/ecRmfDFRJdWuLETtZ5JTE1CHN6qeIKToSxNtfDgI222f6k9uLaettNE81C8kdHwmKncWBws0knWVyb6qILwGm1UavLOH3RuA+cUBHH4LNbfNkhOKpe4Hd+Zsbw5ZS7PsZjLiGi/lZE/WQJAuAS9Vtrm90MZp43p6jNymhFg1KO29M5NIHIPaaq0bdlbsaCD3DMg/b6tQitSLHW757JX4qaRojzU96FrcrRNKsRAJOXIdnecBFziZKrU93AUCOZ1EMOgIsXNCgM5Ciq3nKZwoDl1eoNwV38Ov7s4665FIQes59Q==;zM5udbWKYMmi38AO6AkLCw=="
 ---
 

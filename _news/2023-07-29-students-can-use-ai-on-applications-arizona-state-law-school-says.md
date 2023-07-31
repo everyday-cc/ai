@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-ap
 webUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI-assisted law school applications get green light at Arizona State"
+    excerpt: "On Friday, Arizona State University's Sandra Day O'Connor College of Law announced that prospective students will be allowed to use AI tools, such as OpenAI's ChatGPT, to assist in preparing their applications, according to a report by Reuters."
+    publishedDateTime: 2023-07-31T19:12:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/ai-assisted-law-school-applications-get-green-light-at-arizona-state/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Arizona State University Law School allows generative AI on applications"
     excerpt: "Arizona State University said Thursday that applicants to degree programs at its college of law will be allowed to use generative artificial intelligence in application preparation."
     publishedDateTime: 2023-07-29T13:04:00Z

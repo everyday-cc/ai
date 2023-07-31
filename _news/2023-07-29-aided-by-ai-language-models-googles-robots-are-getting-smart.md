@@ -51,6 +51,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
+    excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
+    publishedDateTime: 2023-07-31T21:13:00Z
+    webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "This Google AI Model can translate commands into real-life action"
     excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
     publishedDateTime: 2023-07-31T14:55:00Z
@@ -169,6 +183,20 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Ai-Da the humanoid robot: ‘I am very good at switching off’"
+    excerpt: "Ai-Da is the world’s first humanoid robot artist, and was named after the 19th-century mathematician Ada Lovelace. She was created in 2019 by the gallerist Aidan Meller and researcher Lucy Seal in collaboration with the Cornwall-based company Engineered Arts and PhD students from Oxford and other UK universities."
+    publishedDateTime: 2023-07-29T23:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-da-the-humanoid-robot-i-am-very-good-at-switching-off-wh0r3k3w0"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F48a0147a-c66a-4398-9aca-71dc29b8db60.jpg?crop=2871%2C1616%2C0%2C741&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google's building A.I. into robots to teach them to throw out the trash"
     excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
     publishedDateTime: 2023-07-28T11:19:00Z
@@ -186,6 +214,15 @@ related:
     provider:
       name: unite
       domain: unite.ai
+    quality: 34
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
+    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
+    publishedDateTime: 2023-07-29T16:26:00Z
+    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
     quality: 34
   - title: "Indian Television Sees Spurt Of AI-Driven Robotic News Anchors In Multiple Language Channels"
     excerpt: "In April, the Malayalam TV channel, MediaOne presented its own TV news anchor, Ivan, a rare male in the lineup of AI-driven speaking humanoid robots in India. He often takes over the task of presenting the daily 10pm “Sharp Ten” headlines. Here is Ivan introducing his service to viewers and anchoring a short segment."

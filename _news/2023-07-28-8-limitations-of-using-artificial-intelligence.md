@@ -102,13 +102,13 @@ related:
     quality: 47
   - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
     excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-    publishedDateTime: 2023-07-31T15:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
+    publishedDateTime: 2023-07-31T13:47:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 41
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
         width: 400
