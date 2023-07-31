@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-po
 webUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-potential-in-fighting-infectious-disease"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,114 @@ images:
     width: 690
     height: 400
     isCached: true
+
+related:
+  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
+    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
+    publishedDateTime: 2023-07-28T16:18:00Z
+    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "India AI and Meta India sign MoU to foster collaboration in AI & Emerging Technologies"
+    excerpt: "The MoU was signed by Shri Abhishek Singh, CEO of India AI, and Shri Shivnath Thukral, Director & Head of Public Policy, Meta in India."
+    publishedDateTime: 2023-07-26T16:48:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 51
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2022_14_47_00_3672998.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
+    excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
+    publishedDateTime: 2023-07-27T05:25:00Z
+    webUrl: "https://yourstory.com/2023/07/india-ai-meta-india-ink-pact-advancements-ai"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "How India Is Using AI To Build The Internet For Local Languages"
+    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
+    publishedDateTime: 2023-07-30T05:45:00Z
+    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
+    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
+    publishedDateTime: 2023-07-26T17:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
+    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
+    publishedDateTime: 2023-07-27T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
+  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
+    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
+    publishedDateTime: 2023-07-28T00:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "yQBmzCY3XzJcoEHeVhtX/inrFGoLmpFoVYx0dfPFKtA4SXbI4SIC28Ah1jVDW9p38nrrsLYMhs9CfQAbWyCgA0bD4NKLxh8amHO09xBwTGrsGX+kDr9ywqMHUWzpCgO74Yux+tO7ucFbsjwjtsCkJC5pPhN3Rhv2BSOgb5WYnxYQZuWa9aJ47MBo/3z9aCDzSEiyvzhPUnmxjmEGth+q37MVGsI7HgUfbg2Es4dLRLtqDejqPOpd2wRBZJ9HWmilULqB4qNHSMXcISIXv5U6gGG23dfkhni3jE4g5HclcjlT326fF75hcddEj5Lyzug9cKwwTyXYHWS4/CbSkVp/nKncA4zd+e+hCfiI2WRO4SnInV9MC7kLmmOMZBA5tgoIS0Ds+VjxcsjbpBq0AdGWe18eyfmE85wZ4zIi/yntay+yCTzUAWSkDdLIkjzaSztxHg95cdZKDTE8Ef9dL5lwW2Lz7CbvrGGjY3nIlijDXH93FLtL/3iVGwQNJv9YUnWLo4BB3vAK8Y8SG2rIPhAVTw==;wZU4LWwNLt5sFvSt2SBdsg=="
 ---

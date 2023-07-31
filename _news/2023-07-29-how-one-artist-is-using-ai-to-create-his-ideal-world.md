@@ -7,7 +7,7 @@ originalUrl: "https://www.cnn.com/interactive/2023/07/style/ai-artist-ideal-worl
 webUrl: "https://www.cnn.com/interactive/2023/07/style/ai-artist-ideal-world-cnnphotos/"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

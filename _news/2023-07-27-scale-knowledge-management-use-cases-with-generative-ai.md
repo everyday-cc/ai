@@ -108,20 +108,6 @@ related:
         width: 1920
         height: 1081
         isCached: true
-  - title: "Prisma AI appoints Pitchfork Partners as strategic communication partner"
-    excerpt: "Pitchfork Partners will work on Prisma AI’s overall communication approach, from planning and formulation of key messaging to implementing effective campaign strategies, building and elevating brand awareness, and reaching out to relevant stakeholders to apprise them of the company’s offerings."
-    publishedDateTime: 2023-07-26T05:20:00Z
-    webUrl: "https://www.afaqs.com/corporate-communications-and-pr/prisma-ai-appoints-pitchfork-partners-as-strategic-communication-partner"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 38
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F0dbffd32-5a1c-435c-858a-d90013402f5d%2Fhavas1.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 769
-        isCached: true
 
 secured: "vAQn4ay68uuHeW568dU6hLzQZkU4PST0YI/RLlIE3w9un1+ddrrT++6vgi9sZYTqCdlYJYfVJHV+qZxcOf2NqD7UMpyNoWMMpWDfXOkfyokpPIDLg1Jqse5U+8otrhzIjnlLR+Bz933pmVYvUuaKw+08jSYTvKmrBFH0gh1uEykujyVi63k7v5VR35t2pMc67oUv1mLej5UhRCZFHLbZT2visP81VpaokA0Cs1NNOvozsUMydygjB5s1vQQeAGEhBdXp7EMtnHfgUuFGGvjYS5taM5cZCrEkkKXqbaWyPADVLt3CPJhPjjlxDY4YjkFtbyz/iQ9z5ZTVsKfd0H3YeBa82v+qEZge9hO0V1a+vTY=;9eA4hqw5O9FkQS1lISt1gA=="
 ---

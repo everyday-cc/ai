@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Web3 And AI Startup ZYBER 365 Turns India's 109th Unicorn"
-    excerpt: "Opinions expressed by Entrepreneur contributors are their own. Web3, AI startup ZYBER 365 raised $100 million in Series A funding at a $1.2 billion valuation from UK-based SRAM & MRAM Group. The funding worth $1.2 billion valuation has earned Web3 ..."
-    publishedDateTime: 2023-07-26T06:06:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/web3-and-ai-startup-zyber-365-turns-indias-109th-unicorn/456418"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690351209-Untitleddesign-2023-07-26T112702809.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
     excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
     publishedDateTime: 2023-07-28T16:18:00Z
@@ -54,37 +40,35 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
-    excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
-    publishedDateTime: 2023-07-27T09:10:00Z
-    webUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/"
-    ampWebUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+  - title: "AI and Machine Learning Hold Potential in Fighting Infectious Disease"
+    excerpt: "New research showed that drug discovery, infection biology, and diagnostics are functions of AI and machine learning in treating infectious diseases."
+    publishedDateTime: 2023-07-26T17:31:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-potential-in-fighting-infectious-disease"
     type: article
     provider:
-      name: about.fb
-      domain: fb.com
-    quality: 59
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
     images:
-      - url: "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
         isCached: true
-  - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
-    excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
-    publishedDateTime: 2023-07-26T16:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/articleshow/102146946.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
+  - title: "India AI and Meta India sign MoU to foster collaboration in AI & Emerging Technologies"
+    excerpt: "The MoU was signed by Shri Abhishek Singh, CEO of India AI, and Shri Shivnath Thukral, Director & Head of Public Policy, Meta in India."
+    publishedDateTime: 2023-07-26T16:48:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 55
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 51
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1354874,msid-102146987/indiaai-meta-pact.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2022_14_47_00_3672998.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
   - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
     excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
@@ -100,33 +84,19 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "AI startup ZYBER 365 secures $100 million in funding led by SRAM & MRAM"
-    excerpt: "The latest funding has earned the Web3, AI startup a unicorn status, making ZYBER 365 the 109th unicorn in India's vibrant start-up ecosystem"
-    publishedDateTime: 2023-07-26T06:27:00Z
-    webUrl: "https://www.indiaretailing.com/2023/07/26/ai-startup-zyber-365-secures-100-million-in-funding-led-by-sram-mram/"
+  - title: "How India Is Using AI To Build The Internet For Local Languages"
+    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
+    publishedDateTime: 2023-07-30T05:45:00Z
+    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
     type: article
     provider:
-      name: indiaretailing
-      domain: indiaretailing.com
-    quality: 37
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
     images:
-      - url: "https://www.indiaretailing.com/wp-content/uploads/2017/03/artificial-intelligence-2.jpg"
-        width: 681
-        height: 400
-        isCached: true
-  - title: "AI startup ZYBER 365 claims unicorn status, secures $100 M in Series A funding"
-    excerpt: "The funding round was led by UK-based SRAM & MRAM Group. ZYBER 365 becomes the 109th unicorn in India's startup ecosystem and the first unicorn this year."
-    publishedDateTime: 2023-07-26T05:10:00Z
-    webUrl: "https://yourstory.com/2023/07/ai-startup-zyber365-secures-100-million-funding"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 33
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/funding-1678865272988.png?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
         isCached: true
   - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
     excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
@@ -142,6 +112,24 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
+    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
+    publishedDateTime: 2023-07-27T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
+  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
+    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
+    publishedDateTime: 2023-07-28T00:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "23Z6gJbIIHW8e6fbzdXcPiMmTTvoTIZ9Fa+p/Kbtg9ZT14TbBwwowHudqXgxkeVp0wqzxW5HvZV/59eUpz+Geeclrmk+/8D0dT49FiQIUcrvnbKS3f+crXDno/LQZtePBM0ua1OdvvMnR1ims/71HMfFSOcbl4vaGqzmAGqdK6MkoOGLC4nyDje7O1p6GEv4b89lwb+KvXTTMsUXEgR4YUfHUK4A11WOdwbcjvKbxingmyuh5K1zLTO27VG0qmxBAZugJvGB9wQ/Jwfz5PNwfuqOBOSqS5Z9DyrjteW10HSZG1eYJq+kN0X/aO9sPOveRv4lcClNbAWnpRgw6n7sCJfGXgu3Dov2nXjPkSVRvkAyZPSXBnuc0a0Av74x9Z0ZvT6GOfYbPE+mS9174zyeaTbX3sA+gppMZ1ec0k3m94KZw8jtUfUIFWJzXq8Cfh4s3aaXxQu6QPQR+qREQ0jtrsMsiDZyrjHAYncCHW1YGsnJg1EvmFOWMZYdbh3+2Q5sFq0W1D7UndhWbtcU7qMnZg==;YAUmrLv1b7H1bSWcs/rsSA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3703610/ai-tools-could-leave-c
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 507
     isCached: true
+
+related:
+  - title: "AI tools could leave companies liable for anti-bias missteps"
+    excerpt: "Companies deploying AI technology are responsible for any biases that run afoul of anti-discrimination laws, so it's critical to establish a management framework now to head off legal problems later."
+    publishedDateTime: 2023-07-30T23:33:00Z
+    webUrl: "https://www.arnnet.com.au/article/708196/ai-tools-could-leave-companies-liable-anti-bias-missteps/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_ai_brain.jpg"
+        width: 502
+        height: 315
+        isCached: true
 
 secured: "nOv6yEXwD2mDs4fMr39mXKpKdJ7gB2ebhX4OqbD1uAP7TseQod/lxZXYx+XnjfS/uOaFTz2l0vahRjEhqBBDVNjR4MbbHkg6T6wcgGAOD5NHO3r+5pzPSYN9VoaEbbtBkFryTSEwXmOxCxxL3OWJP3ngHEGHAQFQdqzQxqGh7kicM7dBvcJx+Hrkr14v6RcD14cSByiTcRrg1SvTuN2w+VHqfbwOEIWaQUZ51BbEQ/9x1Pf3yX/hyPylF2MKr4dy7H3NbS1nam54ykDQDQ4I6cQwZQlWdcYFxibemu4Du2AWiDygJ7Dx7OUxaKmQ/FnZTnCv8EuQevEh0SsiJxYLapvtdMA9OUXeNF9fvV3f3r5dy4RclEd2DbG0jg3Jfz+UxOVU2I1Tj1hyK+m0i1q09QjxJm3tkIB7TW2/d9+kL4QDVeC3odhzRzSpqCTwSlBPnCUyB6HkR22w9gAStKt1xWotAInjDYxDY1OdM8ASdTQ03jr3kh1pDDL6cyGWG8XVYPLNK+JYvo8ihU5PjdwS+w==;LNfWMgSoi2ErNPBwtrwwPQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-fr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-5-online-tools-to-find-out/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/2ce43a07b1fb47b304a7bf8ff0fbda407563c2e7/0_218_6048_3628/master/6048.jpg?width=620&quality=85&auto=format&fit=max&s=9a2195325f6e969e5c4cf59dc90809bb"
         width: 620
         height: 372
-        isCached: true
-  - title: "Save 42% on the best AI and ChatGPT training bundle"
-    excerpt: "TL;DR: The Complete ChatGPT, Artificial Intelligence, and OpenAI Training Bundle is on sale for £23.35, saving you 42% on list price.If it seems like everyone is talking about the new AI craze called ChatGPT,"
-    publishedDateTime: 2023-07-26T07:00:00Z
-    webUrl: "https://www.aol.com/news/save-42-best-ai-chatgpt-040000140.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/qBh8rqGvZpRfZ0dh9CT8Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_mashable_370/f5ffabcddfa43ed5f8f01a02687451f8"
-        width: 1200
-        height: 675
         isCached: true
   - title: "How does ChatGPT work and do AI-powered chatbots “think” like us?"
     excerpt: "The large language models behind the new chatbots are trained to predict which words are most likely to appear together – but “emergent abilities” suggest they might be doing more than that"

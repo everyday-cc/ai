@@ -52,6 +52,15 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 34
+  - title: "SK Hynix and Samsung’s early bet on AI memory chips pays off"
+    excerpt: "Korean semiconductor groups benefit from strong demand in niche technology vital for building generative AI systems"
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.ft.com/content/8f65a241-414b-4661-8923-78f6b9941b65"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "Uhior+5ilvs+DHnSvYAnQl6jNMzjFEQkk1KzHG8kHLmBzZ93vsShy/+R2JQT0IA7t3uPOZJF6STAUn22Uii790GJ0xMPShJsTkBHqUnPSRKMCSj04/wjijhZiIXs5aOb1GwJb16q8yrA2agUS77bP+qp0M/qiVGj1F4opRR4OqOyYiG8aATmt/uRGR/m6WRLzLE4pA2bkFX40qDSs7LjCoezSsCYpDs9l9FilURWdTRNQnlNhMUvm8OBRtQdhHSecMINUqPhhXEue++VkIoQ31XvOPczm2oQNDF4sgUUOMbJ7wCs62o1Nd4OyrnkC8Aa6bXCGVTs4j9V3Wnj1sqQDkqx3oL7UXnnOYWqc+vminE=;w2eKN2hYv4Ne0ybs5Z0slQ=="
 ---

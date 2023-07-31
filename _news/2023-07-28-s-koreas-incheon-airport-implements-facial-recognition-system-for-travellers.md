@@ -35,6 +35,22 @@ related:
         width: 630
         height: 451
         isCached: true
+  - title: "Incheon airport introduces Smartpass facial recognition system"
+    excerpt: "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,"
+    publishedDateTime: 2023-07-30T23:25:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202307/76a5bef4fee443218a7a270c29c87bb8.jpg"
+        width: 980
+        height: 556
+        isCached: true
   - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
     excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."
     publishedDateTime: 2023-07-26T17:27:00Z

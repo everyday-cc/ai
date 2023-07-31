@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
+    quality: 34
+  - title: "SK Hynix and Samsung’s early bet on AI memory chips pays off"
+    excerpt: "Korean semiconductor groups benefit from strong demand in niche technology vital for building generative AI systems"
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.ft.com/content/8f65a241-414b-4661-8923-78f6b9941b65"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
 
 secured: "8ADk11BeD9H589M8tNv2KRwMGYQtrN9koRS7p2lIBwcuEi30Uu5HddEoL3vDq3Jh/LbG3rmirrbm+evIxSZ/UOEf+CV6gluC9Dw/t6shWdBSmIqyEBstevLIi6aes7sYDXvWk0TC53/1nglc8iM7G4rpjdMglAvJuJiRqgSUgY5FXs8Ue6h6iWrQ7PWc1ye266f5WbOjjQfFSpfpDvU5AJAcqMNyWm9eBMcaP3f5JOmTqwO3ePfKkFwtd+xeASq61VYHuyCk+GKc1Xv67N6uDEtF38898F4eZqP9tO8go5wvdTR5fw/mabWGFud10SOOchEEhLwRRxiyQ9wLBPmkeUMp5s3f2JHaAKvMVWV+2FKeb4NBwTsOTXwSdB1KiGOhaGCfT4FWEFtLSbf2Zu37PaY9uy8YEHa005hJw+qaIUMjVZaqktHzEctJj60QyAYdRQeVOWwvjnNo4+iyY6stNM6CabyDx+pB+gGoAFhDK+ahME5/oFsWR1HG8iZKBwt1eY5wm925tHkK4nCxUO/t0w==;Fb+9LFy3XWQog5DOTtnlzg=="

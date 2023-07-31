@@ -53,6 +53,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
+  - title: "There Is No Need To Fear Artificial Intelligence"
+    excerpt: "We hear and read about the potential impact of artificial intelligence (AI) and the upcoming technological revolution in reshaping our lives and indeed, the entire world. It is predicted that this transformation will drastically alter our personal and professional routines,"
+    publishedDateTime: 2023-07-30T22:34:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/there-is-no-need-to-fear-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 37
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/07/creative-artificial-intelligence-concept-with-human-brain-sketch-man-hand-writing-diary-background-double-exposure.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "1+PRIiDnRqVyDrV4Rwmo8zkDX6QnSBfj4o46562LBbpbuidMRtS92GtMWBAXw7v7c0JY74WPkLSBYy8ee3hg/Uaoo/m7cYqFBsdIsIaZtcxNZTJ2Mw5m5OCTiwcJdbGV7qUAlmaKd8+NS++rNEyppXTC3DzDvEVl61ldRSrLURf6N86txUGIRhCE4D24a7umPHe9L5qugbKHaiXqSbqSLSDmPJ7yo74sAc9rK4AMkSmxH6eBYcp4YeHwBOP6P+XVJv2qlSHEnWV5eaYAvStIwcqzkwdDjWhh+Mop/ZliZVy1AqQnN1+2gqBlrl4lE8QaV4yz0HHj/uTyTXhpYmSyhtzTGqENehm74FLxtK799JE1nqyoZat1g8stO+TMOEIuMNzB925SbCUJ3/duO13ldV0VG0ZEXW7mysmfUt3F3yWTqYnw8N0DYQupttaiZOpB8fp+mQtZrickETXt7i9fELTjjWRUhD/ODxQv/PsehOwZ5BXIba8Ftk1rfkgvtzBSvqXx261Do1ZueFi0uJSeWw==;VeG3CriEoqLcri1ZIBOH+Q=="
 ---

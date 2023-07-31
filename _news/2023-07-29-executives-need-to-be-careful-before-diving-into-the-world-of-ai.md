@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
+  - title: "There Is No Need To Fear Artificial Intelligence"
+    excerpt: "We hear and read about the potential impact of artificial intelligence (AI) and the upcoming technological revolution in reshaping our lives and indeed, the entire world. It is predicted that this transformation will drastically alter our personal and professional routines,"
+    publishedDateTime: 2023-07-30T22:34:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/there-is-no-need-to-fear-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 37
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/07/creative-artificial-intelligence-concept-with-human-brain-sketch-man-hand-writing-diary-background-double-exposure.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "nfgrC+/tFRLH7fDWSOYKnB6nTP5dqXbB+zj/cdU2+9u2aTOWNM41UcqQapgyLhI2VUONNi0j7Pi3+M7NSB8UAlcqzZs7bg+ut3Cn589V8DaZeZ1hbo5ubMVmpU/vYz3FOS0gM1n4inDKFvIMie7UpG5I53cLJagQdBQCKJJTB1Lpbbj3OdkvG72LwixmBOgKCmUJdBryOJ/9zlux/TWZC04Ndaitys58pwrDqi+Yx2V1cm1eLIOgUWpNiaRGz1A7Ygg6YI96dq5AsJsQa3CX6tBmz9Sg/gfsMfAgmRV2aZJEs1OF5EJQ3Z5oS7qkaG5oHKT+38QRZvgzwHBj9HplKBBrkFf7XDVAvAdCrs9ZckpNdiJm6ANlg1ieCteZGbD5MsLXpkZuxSeotHpWa+LK1LHQoyVu/balypMdfBAZJzo7daqcsC9mvyZU+WuRXXH/Q856g1uElCtP3mNQrx05OhLFD/narTCLsm+4zYN2uGDBg1zdOTKeAErBhOwF0Bk+HdHEHKJP41M6YDgyj2Rkig==;0WTKZiF1VDmo3N/Xq4HghQ=="
 ---

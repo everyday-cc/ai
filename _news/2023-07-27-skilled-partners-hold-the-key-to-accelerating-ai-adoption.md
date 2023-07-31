@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelera
 webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
         width: 1920
         height: 1081
-        isCached: true
-  - title: "Prisma AI appoints Pitchfork Partners as strategic communication partner"
-    excerpt: "Pitchfork Partners will work on Prisma AI’s overall communication approach, from planning and formulation of key messaging to implementing effective campaign strategies, building and elevating brand awareness, and reaching out to relevant stakeholders to apprise them of the company’s offerings."
-    publishedDateTime: 2023-07-26T05:20:00Z
-    webUrl: "https://www.afaqs.com/corporate-communications-and-pr/prisma-ai-appoints-pitchfork-partners-as-strategic-communication-partner"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 38
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2F0dbffd32-5a1c-435c-858a-d90013402f5d%2Fhavas1.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 769
         isCached: true
 
 secured: "wgHOjLK1bsRB6hBkM3w0DDZ+Xx117d8ss8rVEwQnQodx2HB4YYqBnMBU86HvCZ+Cmgth/ZMcs9b7R7Xrce6Ohs9J0dUcWZXr7ikXpdu7GwXW0V53PP4lTAQpavnZvOVgxeaRZ39qeTyFWcZ44Dxepx1v1mMBMoDPSN6IKLXy6xMx6CTyr4QnVg68GMbn5/qREKwPnDirW+zvelcgcn3GVJyTBxFb+Jimp/JQwC49PHsdcW22meq3C7N3DLxFFr5F1blZA0J/VNHd2y7efUzZ5kwBjdUUmSHgW3dxF4o4IDxyGBJ2VkzM7ud5MmbwKfrZfS72A++QgfI6OyhMm6mOd1ESL0KPt2SgMOdV9Z6tzqQ=;uYgSIMm2ytPDtS5vb3iqCg=="

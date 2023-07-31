@@ -369,20 +369,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Microsoft Ramps Up Spending to Meet AI Demand as Quarterly Revenue Rises to $56.2 Billion"
-    excerpt: "Microsoft has started integrating AI functionality across its products such as Azure, Microsoft 365, GitHub and several developer tools."
-    publishedDateTime: 2023-07-26T05:16:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/microsoft-spending-plan-artificial-intelligence-ai-demand-quarterly-revenue-usd-56-2-billion-4240537"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 45
-    images:
-      - url: "https://i.gadgets360cdn.com/large/microsoft_hq_image_reuters_1655369562165.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Exclusive-Amazon has drawn thousands to try its AI service competing with Microsoft, Google"
     excerpt: "Amazon.com’s cloud division has drawn thousands of customers to try out its service vying with Microsoft and Google in a key area of artificial intelligence, an executive told Reuters. The company also announced new AI tools on Wednesday,"
     publishedDateTime: 2023-07-26T18:50:00Z

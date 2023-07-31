@@ -50,6 +50,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "There Is No Need To Fear Artificial Intelligence"
+    excerpt: "We hear and read about the potential impact of artificial intelligence (AI) and the upcoming technological revolution in reshaping our lives and indeed, the entire world. It is predicted that this transformation will drastically alter our personal and professional routines,"
+    publishedDateTime: 2023-07-30T22:34:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/there-is-no-need-to-fear-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 37
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/07/creative-artificial-intelligence-concept-with-human-brain-sketch-man-hand-writing-diary-background-double-exposure.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "MS6ajIABTNxlgPXn4gS+J+SZKdmyxIG0iai+x9eXIR9CnoicmaUisHMAw8mxtG4Zi1nuE+wdYG/kIqE86yGQF9ZsXx9Q9RMGGM6AQ5JDawxmrJBabhiwVs8iXoUCYqzrKmIU7U3CjVhO5nd43Zp0RyXUkojq4neFUShM0PRmP2GTNPEpNUePX9Vl2d/LNIU7OgEvLa/ur01FAyCsX+1Bhagje8NZqPboHHvAxxB8hm5ZniTVkoOYzmU731DRLW5bOIKQcpN/OgNER+54fvwEHIE9cVJLJRixbsELHtQH1YQ/vqJy71kvaY6kr/E+FMHEOvyfPTDJFAWH/WP1ciRx0efr/YbOSHmBFFMUkalwr96dH90XjM2pYKIXJPxR++JHFGu1LaYvi1arrswHvjwqhCd9gJK0+MEqg8H/ZT4WXPlsxOU+2L1SEzowJRq1QT45O66xPO5Eh+TDxa7qJQ4vnT1zhzvaNV7wYOMcJTboWYVhsjngui2VqCVvOL4k431nu48vD+c8GwlWtC+zwVtcPQ==;Fresq+FWyGvTKxT1QPdYDQ=="
 ---

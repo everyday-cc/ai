@@ -41,6 +41,22 @@ related:
         width: 630
         height: 451
         isCached: true
+  - title: "Incheon airport introduces Smartpass facial recognition system"
+    excerpt: "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,"
+    publishedDateTime: 2023-07-30T23:25:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202307/76a5bef4fee443218a7a270c29c87bb8.jpg"
+        width: 980
+        height: 556
+        isCached: true
   - title: "South Korea’s Incheon Airport implements facial recognition system for both Koreans and foreigners"
     excerpt: "In order to use the new service, a passenger must either download the ICN Smartpass application on their phones from Apple’s App Store or the Google Play store, or use the self check-in kiosk machines at the airport to register their facial information into the smart pass service."
     publishedDateTime: 2023-07-28T09:58:00Z

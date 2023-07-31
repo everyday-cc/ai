@@ -379,20 +379,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Microsoft Ramps Up Spending to Meet AI Demand as Quarterly Revenue Rises to $56.2 Billion"
-    excerpt: "Microsoft has started integrating AI functionality across its products such as Azure, Microsoft 365, GitHub and several developer tools."
-    publishedDateTime: 2023-07-26T05:16:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/microsoft-spending-plan-artificial-intelligence-ai-demand-quarterly-revenue-usd-56-2-billion-4240537"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 45
-    images:
-      - url: "https://i.gadgets360cdn.com/large/microsoft_hq_image_reuters_1655369562165.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft cloud revenue growth slows as Google Cloud turns in another profitable quarter, but both look to AI to have positive impact"
     excerpt: "A tale of two cloud platforms. Google Cloud sales continued to soar in its Q2, up 28% year-on-year to more than $8 billion. But over at Microsoft, Q4 Azure revenue growth slipped to 27% from 31% in the preceding quarter with a continued slowdown forecast."
     publishedDateTime: 2023-07-26T10:08:00Z
