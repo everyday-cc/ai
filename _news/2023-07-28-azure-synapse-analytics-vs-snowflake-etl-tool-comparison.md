@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/"
 webUrl: "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/"
 type: article
 quality: 69
-heat: 81
+heat: 79
 published: true
 
 provider:

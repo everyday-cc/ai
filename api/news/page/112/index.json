@@ -2,6 +2,92 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-05-18-a-third-former-apple-employee-has-been-charged-with-stealing-self-driving-car-tech.md",
+      "title": "A third former Apple employee has been charged with stealing self-driving car tech",
+      "excerpt": "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "originalUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/MA9mbp9EV5VsAq9RVuHZog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/1a90b300-f413-11ed-bbdd-b46ed16b28aa.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "publishedDateTime": "2023-05-17T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-elon-musk-says-teslas-self-driving-tech-is-better-than-humans.md",
+      "title": "Elon Musk says Tesla’s self-driving tech is better than humans",
+      "excerpt": "He predicted Tesla’s self driving tech will reach a point where it ”exceeds human-level safety this year”. And he said the manufacturer was ahead of the curve on artificial intelligence for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
+      "originalUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Toowoomba Chronicle",
+        "domain": "thechronicle.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-elon-musk-is-right-we-need-to-regulate-ai-now.md",
       "title": "Elon Musk Is Right: We Need to Regulate AI Now",
       "excerpt": "We need to do something about artificial intelligence before it's too late. You probably heard some variation of that statement dozens of times in the years before ChatGPT. You've",
@@ -1116,99 +1202,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-how-job-seekers-are-using-ai-to-supercharge-their-job-hunt.md",
-      "title": "How job-seekers are using AI to supercharge their job hunt",
-      "excerpt": "The startup raised $2.3 million last year ... \"I think in a few years, everyone will have their own personal recruiter — their own AI recruiter,\" he said. To be sure, there are potential downsides to robo-applying. There's the possibility that too ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "originalUrl": "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/14/03736f5c-c142-4ec7-bc92-ec942ec01152/thumbnail/1200x630/a6a67b308a63607fdfd13f8320a224f9/job-gettyimages-475352876.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "publishedDateTime": "2023-05-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-before-ai-takes-over-make-plans-to-give-everyone-money.md",
-      "title": "Before AI Takes Over, Make Plans to Give Everyone Money",
-      "excerpt": "Here in the United States, an AI jobs revolution need not be anything for average wage-earning families to fear. If AI does not enslave the human race or destroy humanity outright, this generative technology can and should be a very,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/VCHLO5tj8BoZvOSAmITi2py2Mqw=/0x102:4792x2598/1200x625/media/img/mt/2023/05/AI_UBI_2/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

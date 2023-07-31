@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/07/27/banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230728pd208_files/1_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
-    excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
-    publishedDateTime: 2023-07-26T08:45:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/109301/nvidia-lets-customers-rent-ai-supercomputer-with-dgx-cloud/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
-        width: 1500
-        height: 800
         isCached: true
   - title: "Biden considering executive order to limit sales of artificial intelligence and semiconductors to China"
     excerpt: "President Joe Biden is reportedly planning to sign an executive order limiting United States investments in key technologies in China, a further escalation in the antagonism between the two countries over semiconductor chips and other advanced tech."

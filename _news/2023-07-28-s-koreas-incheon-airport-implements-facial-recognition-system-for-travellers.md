@@ -65,6 +65,22 @@ related:
         width: 635
         height: 430
         isCached: true
+  - title: "Wanted pervert snared at the King’s Coronation after being spotted by facial recognition cameras"
+    excerpt: "POLICE are being urged to use Big Brother-style facial recognition cameras after one snared a wanted pervert at the King’s Coronation. Policing minister Chris Philp has held meetings with Home"
+    publishedDateTime: 2023-07-30T22:55:00Z
+    webUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/"
+    ampWebUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 46
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/07/NEW_AFP_1JK7RZjpg-JS513962209-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "South Korea’s Incheon Airport implements facial recognition system for both Koreans and foreigners"
     excerpt: "In order to use the new service, a passenger must either download the ICN Smartpass application on their phones from Apple’s App Store or the Google Play store, or use the self check-in kiosk machines at the airport to register their facial information into the smart pass service."
     publishedDateTime: 2023-07-28T09:58:00Z

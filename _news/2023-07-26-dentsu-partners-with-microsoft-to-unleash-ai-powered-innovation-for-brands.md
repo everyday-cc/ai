@@ -71,20 +71,6 @@ related:
         width: 2500
         height: 1698
         isCached: true
-  - title: "AI lesson for Microsoft and Google: Spend money to make money"
-    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
-    publishedDateTime: 2023-07-26T07:57:00Z
-    webUrl: "https://www.reuters.com/technology/ai-lesson-microsoft-google-spend-money-make-money-2023-07-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/8IDR8ZMg8eS-_Uv-YxiYSpbmiCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HTKPWF5N4FIRPN6GM4MRALZHGM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft to supply AI tech to Japan government -Nikkei"
     excerpt: "Microsoft Corp will provide artificial intelligence technology to the Japanese government after enhancing the processing power of its data centres located within the country, the Nikkei newspaper reported on Thursday."
     publishedDateTime: 2023-07-26T22:27:00Z
@@ -127,22 +113,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MediaKind unveils new home for Microsoft Azure Media Services users"
-    excerpt: "Building on what it says are the more than one billion video streams served in 2022 and 2023, MediaKind has unveiled MK/IO, a complete streaming solution built on Microsoft Azure that is said to be ab"
-    publishedDateTime: 2023-07-26T07:52:00Z
-    webUrl: "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.amp.html"
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 74
-    images:
-      - url: "https://www.rapidtvnews.com/images/2023/July_2023/Media_Azure_26July2023.png"
-        width: 897
-        height: 417
-        isCached: true
   - title: "Microsoft shares down as Azure cloud-services business slows down"
     excerpt: "Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4% in late trading."
     publishedDateTime: 2023-07-26T11:37:00Z
@@ -172,6 +142,20 @@ related:
       - url: "https://www.reuters.com/resizer/jdur2omKdgRbOGkx_JYIUWmwMTw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U66DBMLTJROWBBBNWVHUFORUIQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AWS, Google and Microsoft are in an AI arms race. Banks are watching."
+    excerpt: "Cloud giants are making major investments in generative AI and large language models. Their financial services clients are mostly in test-and-learn mode."
+    publishedDateTime: 2023-07-31T01:01:00Z
+    webUrl: "https://www.americanbanker.com/news/aws-google-and-microsoft-are-in-an-ai-arms-race-banks-are-watching"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 73
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/8b4861b/2147483647/strip/true/crop/1400x735+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F73%2F93%2Fb4f2333c4c9683b20a87af71fae0%2Fcloud-vendors.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "‘Leading the new AI platform shift:’ Microsoft to keep focus on smart tech, CEO says"
     excerpt: "Organizations are asking not only how – but how fast – they can apply this next generation of AI to address the biggest opportunities and challenges they face – safely and responsibly,” Microsoft's CEO says."
@@ -322,6 +306,20 @@ related:
       - url: "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_300,g_faces:center,f_auto/http%3A%2F%2Fyaffa-cdn.s3.amazonaws.com%2Fadnews%2Flive%2Fimages%2FdmImage%2FStandardImage%2Fhighway-eric-weber-via-unsplash2.jpg"
         width: 300
         height: 203
+        isCached: true
+  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
+    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
+    publishedDateTime: 2023-07-31T01:43:00Z
+    webUrl: "https://www.brecorder.com/news/40255285"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 54
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/64c6c8b5de187.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
     excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."

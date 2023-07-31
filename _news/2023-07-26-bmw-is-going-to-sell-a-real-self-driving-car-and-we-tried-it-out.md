@@ -46,6 +46,38 @@ related:
         height: 532
         isCached: true
   - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+    publishedDateTime: 2023-07-27T10:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+    publishedDateTime: 2023-07-28T04:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
     excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
     publishedDateTime: 2023-07-26T16:15:00Z
     webUrl: "https://www.washingtonpost.com/business/2023/07/26/autonomous-vehicles-self-driving-cars-avs/c9c898b6-2bf8-11ee-a948-a5b8a9b62d84_story.html"
@@ -59,15 +91,6 @@ related:
         width: 1440
         height: 1070
         isCached: true
-  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks."
-    publishedDateTime: 2023-07-26T23:22:00Z
-    webUrl: "https://apnews.com/article/autonomous-vehicles-self-driving-cars-avs-f1cef9b9595a4bd87287670eaa1694d6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "OKCHupQeF7s3nD2uUchAo0NTEFNCcLafHMwqdmYhpiJEPlJTqlREILSElciEa/wJNBA9NhM02w6q/kQY2iJnr9DU0ORUdicaFQqPzf7yDJ0Bi3a5F4uN6jn7XOvZk8u1aERICNtrpXyGz/tuUpP2w6GrmPMqp6BejYxBccjaD7N9eILqGyQLBdoWwjBCv96D/vZZ6Icgost7Xvwf9FxqiUPIxYkroGxg51Ipk/zZmB5kMrhfFvIGrViZpYgFHp3IgMdOd6s8wB38oX0JKVi7/XHKJyzHl+QAPkrDenthXuYGPYAPmHgRMUx9pYysZGRe+SlAqudo+Arj2mV8d21Fc47rVwm5Re0Tq16Bzg+GR+n6nxQVocCcRA6JyQG1xdxCCWVjBkh06JOgFt/SsczNWIlutZq/BuSjkA2+o2TuGaI8mOEWMzgMNw6oyWi557lY/jOm+z78WebVofWW45Ernx+u9q5yjz+2vFAg3X1ZUcxg2cbHFr6ywmXvgmJxYzSnnFmjryUWvc3DQggsiuwu9A==;76jkZDO5T10c+YVv81CEtA=="
 ---

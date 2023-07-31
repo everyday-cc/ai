@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/people-are-more-pessimistic
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Two thirds of bosses think people should ask permission before using AI at work"
-    excerpt: "A new survey commissioned by Tech.co claims that 68 percent of business leaders think it’s unethical for employees to use AI at work without the permission of a manager. The firms believes that the rise of generative AI tools has emphasised the need for complex ethical AI frameworks to govern its application in the workplace."
-    publishedDateTime: 2023-07-26T08:47:00Z
-    webUrl: "https://workplaceinsight.net/two-thirds-of-bosses-think-people-should-ask-permission-before-using-ai-at-work/"
-    type: article
-    provider:
-      name: Workplace Insight
-      domain: workplaceinsight.net
-    quality: 35
-    images:
-      - url: "https://workplaceinsight.net/wp-content/uploads/2023/05/DALL·E-2023-05-10-10.36.46-steampunk-painting-of-a-person-watching-many-screens-at-once-min.png"
-        width: 1006
-        height: 1006
-        isCached: true
 
 secured: "VxHWLKjfWvQF+1W8HS8neZSOs4C3bKXS7Ce4R/U0sJgg7oDucqkcJrYJSBEg3pLvPGg9u4bO4JpPPyyMZxONT/7CI/XIrFaE03/gXYfJLqHAXxK8g/x8VkFlBBiAzXiyIpiuBtuSoV3Pame+QblNnh2BxY9UWZCBMkPOlWRrBZNeIIPvhA6UX1BlI1KGrnnNtqq9+Ezuj5cLaLlz9ZLyrhSpi35e13IQximaBtXxIREeBlnaY/99otme+nCxEGPx68cf40rTkzM3RFmH1khOSFY/Tv/ar8/3NE3LpDpPuUga18C4vT14qRt6UzfRoBqNgP3pFbsOBXbDqq32xmgYGmK+ctTtWEBMPP/9rkpI9Cfrcfrit4VMSBKFxvH044iheYL7gL5x6I/NJT/zHG9m0mTxVumNZfS6IKt1Pz29p0Xlw/tiNLcBHFVHlYc9ex79Mh+sS3BiTP8bMgsywBg5nknImEDRNeeaD4jplV5M6V3ReWFmmvr+J8aZPzSMfq7XacaXHkaT6JzSdD7kIDo2PA==;iuO91kyiVai7Fj7hLHqiUg=="
 ---

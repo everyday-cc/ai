@@ -84,20 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
-  - title: "Here's why 61% of Americans think AI could spell the end of humanity"
-    excerpt: "Benzinga took a look at the state of artificial intelligence by analyzing public concern about the future of AI and its global impacts."
-    publishedDateTime: 2023-07-26T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/26/heres-why-61-of-americans-think-ai-could-spell-the-end-of-humanity/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/07/artificial-intelligence_0.png"
-        width: 1080
-        height: 700
-        isCached: true
   - title: "Jay Ambrose: Artificial intelligence loves America"
     excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-27T08:00:00Z

@@ -81,20 +81,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
-    excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
-    publishedDateTime: 2023-07-26T08:57:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97556/dubais-trigger-software-and-sigma-form-fintech-collaboration-pact"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
     excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
     publishedDateTime: 2023-07-26T19:55:00Z
@@ -137,15 +123,20 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "From customer profile to improving accuracy, fintech takes to AI"
-    excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
-    publishedDateTime: 2023-07-26T07:12:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
+  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
+    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
+    publishedDateTime: 2023-07-31T01:25:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/269905"
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 19
+      name: RYT9
+      domain: ryt9.com
+    quality: 18
+    images:
+      - url: "https://www.ryt9.com/img/files/20230731/iq0a3101bae9d83ba1d3cba0e22d952a83.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T21:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healt
 webUrl: "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/"
 type: article
 quality: 64
-heat: 74
+heat: 75
 published: true
 
 provider:

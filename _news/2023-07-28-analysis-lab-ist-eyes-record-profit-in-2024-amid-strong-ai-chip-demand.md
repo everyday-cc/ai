@@ -39,20 +39,6 @@ related:
         width: 600
         height: 424
         isCached: true
-  - title: "TSMC to invest $2.88 billion in new AI chip plant"
-    excerpt: "TSMC has said the new chip factory is scheduled to be completed by the end of 2026, with mass production expected to begin in 2027."
-    publishedDateTime: 2023-07-26T07:16:00Z
-    webUrl: "https://technode.com/2023/07/26/tsmc-to-invest-2-88-billion-in-new-ai-chip-plant/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Complete Guide to Investing in Artificial Intelligence"
     excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
     publishedDateTime: 2023-07-27T18:41:00Z

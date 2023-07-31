@@ -9,7 +9,7 @@ ampWebUrl: "https://english.elpais.com/opinion/2023-07-30/artificial-intelligenc
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp"
 type: article
 quality: 74
-heat: 95
+heat: 96
 published: true
 
 provider:

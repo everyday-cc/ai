@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI industry leaders create forum to regulate big machine learnings models"
-    excerpt: "OpenAI, Microsoft , Alphabet's Google and Anthropic are launching a forum to regulate the development of large machine learnings models, the industry leaders of artificial intelligence said on Wednesday."
-    publishedDateTime: 2023-07-26T09:02:00Z
-    webUrl: "https://www.reuters.com/technology/ai-industry-leaders-create-forum-regulate-big-machine-learnings-models-2023-07-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/0uqO37qe0cMEohC9UMS-ch3Hvgo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QWC3DMJ4LFKSFATZAJXOQ7C2HY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Top tech companies create joint AI safety forum"
     excerpt: "Tech companies leading in the artificial intelligence (AI) industry are creating a joint forum aimed at ensuring safe and responsible development of AI models, the companies announced"
     publishedDateTime: 2023-07-26T14:56:00Z

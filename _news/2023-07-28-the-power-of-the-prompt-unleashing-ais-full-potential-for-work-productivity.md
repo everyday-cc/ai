@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
-  - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
-    excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
-    publishedDateTime: 2023-07-26T07:45:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854129.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/2161813/WPS_AI_Showcase.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Could artificial intelligence be the future of news production?"
     excerpt: "TVBEurope talks to Sky News' Tom Clarke about how the broadcaster used AI to create a news package, from writing the text to presenting it on screen"
     publishedDateTime: 2023-07-27T15:50:00Z

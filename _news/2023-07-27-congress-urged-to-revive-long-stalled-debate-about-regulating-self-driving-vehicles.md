@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks."
-publishedDateTime: 2023-07-26T23:22:00Z
-originalUrl: "https://apnews.com/article/autonomous-vehicles-self-driving-cars-avs-f1cef9b9595a4bd87287670eaa1694d6"
-webUrl: "https://apnews.com/article/autonomous-vehicles-self-driving-cars-avs-f1cef9b9595a4bd87287670eaa1694d6"
+excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+publishedDateTime: 2023-07-27T10:02:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+webUrl: "https://abcnews.go.com/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
 type: article
-quality: 0
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "BMW’s valet parking test trades red vests for remote driving rigs"
@@ -50,6 +58,22 @@ related:
         height: 438
         isCached: true
   - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+    publishedDateTime: 2023-07-28T04:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
     excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
     publishedDateTime: 2023-07-26T16:15:00Z
     webUrl: "https://www.washingtonpost.com/business/2023/07/26/autonomous-vehicles-self-driving-cars-avs/c9c898b6-2bf8-11ee-a948-a5b8a9b62d84_story.html"
@@ -64,6 +88,6 @@ related:
         height: 1070
         isCached: true
 
-secured: "k6X2aux5W/8K/Ndjs3eyjOF5jrYGcNIoPMhRpYLyLlrYlxFD1d6GBHrzu9ksmCwK780dV+t77xRPzj+4jMGdevcXsFJbshm6Yq9p4KR4ClbwnlLndALCz5YVziL4N0pc4hR5YTnYtU4nfKKoWcbrolz1Caf4dPS4LEur60DjWowszWpD6i0/ZByZPIjO89kdnmDRaG8wLnUEDDkCLciSHrkhXChV5LRKtNGGOTMleDe+n1oKLkIZkbErkYxiDjHXi7FfK1GiUmDMOCNaVZYkdq3egwWVtOXIO6UM/mNAlLEnd3yU4TnYRC+dJHH3Nr8yxBtjgJ4oxJacuLf67tk+youUDYlTyDyw8lcphs10hwhyamma/7wxg5WRv6bN4gHtxBALCHMgwu+CwQbwBhVEit+hs9HOV5Yj4LHlralbordVCfYAqSjlJd1/QfTfIq6/CxtyPXSR0A9v1Y7g+TaPbby5efUPEpEEeU+kCs4EYJ1lBtfqE2uyeb52x93N7yL8Bpde/pAH3SKI5jtxwzGx/Q==;B2mMbb6DB1rD1rnUt2EdKg=="
+secured: "aezMUwnHWX8Z5rG77OLDvXTb0GxeucpdF8QD5efnsZPmqLSictfl03cHnC8cm/0UF/NWr4zwGDA4HGYIQy/0qbWkqjzEZTV2AUiXJj18lqBr6qkfCxgs0Xkj2rtCyhdyu9ht6Jt46M8LbloMcAR7eKGUrtX7k36E80jEn2ajG/2OJf11AypwEpjnbdQmOzOuUXqgOc1CNpvBlkVEMbiviHnKCZdyxRXnyn7G6vXEzHjqAbR9FmGBO58c+/kQWVGjXO7LpIDGotkj1XK349mkvUPWH/cE5W0TTl/oB3f8WT05sGfYOq7EZmbU69KDnDZtPJVi+PPV1KJqiYYfwzRwHiux1rAMXofeUPQfHDxl3gg=;/z6bswThpAqoMAzHSkUUVg=="
 ---
 

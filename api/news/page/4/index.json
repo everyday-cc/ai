@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-07-27-a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do.md",
-      "title": "A year ago, DeepMind’s AlphaFold AI changed the shape of science — but there is more work to do",
-      "excerpt": "DeepMind's AlphaFold shook up science by predicting the shape of 200 million proteins. But there are more problems to solve.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/",
-      "originalUrl": "https://venturebeat.com/ai/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-26T140248.380.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-27-people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows.md",
       "title": "People are more pessimistic about AI now than before the boom, a study shows",
       "excerpt": "Steven's Institute of Technology released its annual TechPulse report, which measures the public's attitudes toward different technologies. The findings in the 2023 report show that AI's increased popularity may have actually harmed the public's perception of AI.",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -675,19 +623,19 @@
       ]
     },
     {
-      "path": "_news/2023-07-27-introducing-microsoft-fabric-the-future-of-data-analytics.md",
-      "title": "Introducing Microsoft Fabric: The future of data analytics",
-      "excerpt": "Microsoft Fabric is a unified SaaS platform bridging the data and intelligence gap, says Zia Marais, engagement lead at Decision Inc.",
+      "path": "_news/2023-07-27-this-health-ai-startup-aims-to-keep-doctors-up-to-date-on-the-latest-science.md",
+      "title": "This Health AI Startup Aims To Keep Doctors Up To Date On The Latest Science",
+      "excerpt": "OpenEvidence, which is valued at $425 million, is taking on one of AI’s big engineering challenges: large language models whose training is stuck in the past.",
       "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL",
-      "originalUrl": "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL",
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2023/07/27/this-health-ai-startup-aims-to-keep-doctors-up-to-date-on-the-latest-science/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2023/07/27/this-health-ai-startup-aims-to-keep-doctors-up-to-date-on-the-latest-science/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.itweb.co.za/static/pictures/2023/07/Decision-Inc-27July2023.jpg",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c18186e1d44f5c5b03e3c3/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -697,14 +645,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL",
-      "publishedDateTime": "2023-07-27T02:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -713,7 +670,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1198,6 +1154,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-venture-firm-debuts-150-million-fund-for-indian-ai-startups.md",
+      "title": "Venture Firm Debuts $150 Million Fund for Indian AI Startups",
+      "excerpt": "Indian venture capital firm Together Fund announced a $150 million early-stage fund to back AI companies, aiming to capitalize on use of the technology in the software-as-a-service market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivo01YXH040Y/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-ube
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp"
 type: article
 quality: 68
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot."
+    excerpt: "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday."
+    publishedDateTime: 2023-07-31T00:45:00Z
+    webUrl: "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Driver of self-driving Uber car takes plea deal for fatal crash in Tempe"
     excerpt: "Rafaela Vasquez was sentenced Friday to three years of probation after pleading guilty to endangerment for a deadly 2018 crash involving an autonomous Uber car."
     publishedDateTime: 2023-07-28T19:39:00Z

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Researchers successfully train a machine learning model in outer space for the first time"
-excerpt: "For the first time, researchers have trained a machine learning model in outer space, on board a satellite. This achievement could enable real-time monitoring and decision making for a range of applications,"
-publishedDateTime: 2023-07-28T14:11:00Z
-originalUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html"
-webUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html"
-ampWebUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
+excerpt: "Scientists have trained a machine learning model in outer space, on board a satellite. This achievement could revolutionize the capabilities of remote-sensing satellites by enabling real-time monitoring and decision making for a range of applications."
+publishedDateTime: 2023-07-27T23:59:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/07/230728170641.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/07/230728170641.htm"
 type: article
-quality: 65
-heat: 75
-published: true
+quality: 55
+heat: 65
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-successful-2.jpg"
-    width: 1280
-    height: 1508
-    isCached: true
 
 related:
   - title: "For the First Time Bioelectronic Medicine Researchers at The Feinstein Institutes Restore Feeling and Lasting Movement in Man Living With Quadriplegia"
@@ -44,6 +40,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "ubdey6NfmXiE1HfM3FFnLJAXm8m/j9h80aE//gpLnmn4ToTJVij5MUptQB20WF4LK2KFDubHwSMzxsAyGLBuaZ8NN7PJCcg4kFEAK7cCD8rQ8Cv4NmAVg/H9v19nEgySKtlyFxnBgjpNC70m/gI4xQzyB7BpCyzI+1J37S4RlKek0xEaXcEcwwsiPn7ISO4+vSIQaTPsmqPWimn2fvrm/ISP3cljLwt0N+ViU1BTYbUWuZS2ocUyOlgmrLR6h68X2Imj+RbohS+aCGC6AiFctRRoNOGJUh0nhR25E2EX1K5audxLLgXqGd4oEb5VPyzkgiZijTxo9iLQnw54/t2Esr0AWsTxgivxOuRpit5vFZ9FpKZmSKnVyOG43ApTputPiDSovfwjVZk2TO+OELdZUf9W/OypF87+JOLiRgqk0srRvWs5AKhZ7bmLHKwV42MZ2Uub3AjMOusIGQ0kud+OaT4TSxWudiqPY2uskbdDp7vOgL3x7DXJY+ZHi/cRG73aVniN1BRkXUysLBx5TsNjNw==;4XBurUcvE036Ti+qoxm++Q=="
+secured: "YWozS5Eco78ZumHcldaFqtwjEavl+8rK8zKU/PhqB+5vkZhWC8RJ4ql686drRCScFjxrv0tTV/uixCPzNI4d9fHa1AJRVzDThtyupdNR49EUus3vlGeoR9asLqldPEqvtIM9nI0/WZMrEYQ8uEQIy49wSj8erUmsgKpSu8dgbRfLxfYpFn+edqa19Pbl0gJrC2Ewe0VNz+XGsZWhTblQ7oHuTgA6NP3hnC+v285OdGTLyPQ7Ugn3Kpytp+Eo/BlunwaEvGkdOoFe+dGnzrLJyGHn83P8eE7jvXEuyQR78vdBW/tZZgDaO8o1agwCrYMjdxf6TEoiFFAKlMwWQWiwtNPuwrg5MlmGgYeHaLQbhhc=;E3ISMF9yPFV+nPB8jaCsrg=="
 ---
 
