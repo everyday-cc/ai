@@ -55,31 +55,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Drones stay on course in difficult conditions thanks to machine learning control"
-    excerpt: "A new machine-learning based approach can control drones and autonomous vehicles more effectively and efficiently in difficult conditions, according to its developers at the Massachusetts Institute of Technology (MIT) and Stanford University."
-    publishedDateTime: 2023-07-26T15:24:00Z
-    webUrl: "https://www.imeche.org/news/news-article/drones-stay-on-course-in-difficult-conditions-thanks-to-machine-learning-control"
-    type: article
-    provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 34
-    images:
-      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Researchers develop machine-learning technique that can efficiently learn to control a robot"
-    excerpt: "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly."
-    publishedDateTime: 2023-07-26T16:07:00Z
-    webUrl: "https://techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 30
 
 secured: "sbALGpEupi6eTESOj0eWHC08iG0SqVvi4BQMz4+gBUaoolmL958oKgJKdz2uQJUgg7bvIWlW83dfLvTHM3SPAM/+Fy2SIDT+faSRpgNmacpOGVQm5HZGuvAyS9dEXFpj51jU1Dl4pTDCHA2IrNfCMjJ1+RYelS9cUznMEW6OO/jM6gvvhaXyeNaUY9NW0qUN9uATDcs2GaxnQ9vCbajy//BZsFg3WRsY4DfnGSB6zQ/M1AiY/1LlGyPPgoarqLw+gejqlXHPMhLDieaDeGbLjZNv4KiTtKg/RwHhsAU8E+6I4tiweheYVEf7DpqgVF/9diYouXLDN7M/dEtsotXHIpyXV668rTQjuawgW23Rvwk=;5T1Ua3icPBHStUYIoOWgog=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Emea fintech takes biggest hit in funding downturn"
+    excerpt: "The European fintech industry bore the brunt of a global drop in fintech funding during the first half of 2023, declining by more than half over the peceding period."
+    publishedDateTime: 2023-07-31T08:44:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
     publishedDateTime: 2023-07-28T09:58:00Z

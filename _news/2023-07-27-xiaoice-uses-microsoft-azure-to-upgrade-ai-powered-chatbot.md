@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Microsoft partner with OpenAI to form AI safety watchdog group"
-    excerpt: "Called the Frontier Model Forum, the partnership comes after a White House meeting last week with the same companies, plus Amazon and Meta, to discuss the secure and transparent development of future AI."
-    publishedDateTime: 2023-07-26T16:16:00Z
-    webUrl: "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/"
+  - title: "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence"
+    excerpt: "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,"
+    publishedDateTime: 2023-07-26T18:25:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
+      name: Forbes
+      domain: forbes.com
+    quality: 113
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0430dc198ab4ed046b02d5baab33192ccb668571/2023/07/26/a18398ef-86e6-4115-8cdd-48c6fc6907e2/ai-gettyimages-1373071138.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -54,6 +54,38 @@ related:
       - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nvidia estimates ‘may prove conservative’ as Microsoft, Google mentions of AI more than double"
+    excerpt: "Microsoft and Alphabet mentioned \"AI\" so many times on earnings, one Nvidia analyst is thinking his bullish estimates may be too conservative."
+    publishedDateTime: 2023-07-26T17:30:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
+    images:
+      - url: "https://images.mktw.net/im-824287/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Amazon Web Services Launches New AI Healthcare Products, Chatbot Tools"
+    excerpt: "Amazon Web Services (AWS) introduces AI solutions for healthcare, chatbot tools for customer service, and enhanced business intelligence tools to compete with Microsoft and Google in the generative AI space."
+    publishedDateTime: 2023-07-26T17:41:00Z
+    webUrl: "https://www.techtimes.com/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 91
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/422535/amazon.jpg"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Google, Microsoft, OpenAI Join Forces to Create AI Safety Forum"
     excerpt: "ChatGPT maker Open AI , startup Anthropic and tech giants Google and Microsoft have forged an alliance to create a framework for safety standards and the responsible development of what they're calling \"frontier AI\" models ."
@@ -110,34 +142,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
         width: 1400
         height: 719
-        isCached: true
-  - title: "Microsoft and Alphabet’s results indicate the AI game is more of a long-term strategy"
-    excerpt: "Alphabet and Microsoft's results clearly indicate that the costs are high if you want to stay on the leaderboard in the modern AI arena."
-    publishedDateTime: 2023-07-26T16:40:00Z
-    webUrl: "https://techcrunch.com/2023/07/26/microsoft-alphabet-ai-results-analysis/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-513101776.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Exclusive: Amazon has drawn thousands to try its AI service competing with Microsoft, Google"
-    excerpt: "Amazon.com’s cloud division has drawn thousands of customers to try out its service vying with Microsoft and Google in a key area of artificial intelligence, an executive told Reuters."
-    publishedDateTime: 2023-07-26T15:39:00Z
-    webUrl: "https://www.reuters.com/technology/amazon-has-drawn-thousands-try-its-ai-service-competing-with-microsoft-google-2023-07-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 73
-    images:
-      - url: "https://www.reuters.com/resizer/jdur2omKdgRbOGkx_JYIUWmwMTw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U66DBMLTJROWBBBNWVHUFORUIQ.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "AWS, Google and Microsoft are in an AI arms race. Banks are watching."
     excerpt: "Cloud giants are making major investments in generative AI and large language models. Their financial services clients are mostly in test-and-learn mode."
@@ -204,22 +208,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
-  - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
-    excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
-    publishedDateTime: 2023-07-28T09:00:00Z
-    webUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/64c30ccecf0778001965f5a8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Cozies Up to Meta on AI, Maps"
     excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
     publishedDateTime: 2023-07-26T22:57:00Z
@@ -233,6 +221,34 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "AWS’ head of health AI on Amazon’s new clinical documentation play"
+    excerpt: "AWS’ Tehsin Syed shared what differentiates HealthScribe from other AI-based medical scribes and how Amazon is approaching tricky questions of accuracy and responsibility around generative AI in healthcare."
+    publishedDateTime: 2023-07-27T16:16:00Z
+    webUrl: "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/53gowIaP8QxjnVDdtQ9rskIbm7xfdCn4x-I8DWwbeOs/crop:1763:996/g:nowe:34:422/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2F3cy1ueWMtc3VtbWl0LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "The disruptors entering the healthcare AI race"
+    excerpt: "Explore how Amazon Web Services, Google and Microsoft are using generative AI to tackle healthcare's biggest burdens like clinician documentation."
+    publishedDateTime: 2023-07-26T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/the-disruptors-entering-the-healthcare-ai-race.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Dentsu goes with Microsoft to unleash AI"
     excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
@@ -262,20 +278,38 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity"
-    excerpt: "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology"
-    publishedDateTime: 2023-07-31T06:40:00Z
-    webUrl: "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/"
+  - title: "AWS introduces generative AI service for creating clinical documentation"
+    excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."
+    publishedDateTime: 2023-07-26T21:58:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/aws-introduces-generative-ai-service-creating-clinical-documentation/"
     type: article
     provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
     images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842"
-        width: 1024
-        height: 567
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws.png"
+        width: 931
+        height: 521
         isCached: true
+  - title: "AWS bets big on healthcare AI"
+    excerpt: "Amazon Web Services launches AWS HealthScribe, a new AI-powered service that automatically creates clinical documentation. Save clinicians time with speech reco"
+    publishedDateTime: 2023-07-26T17:30:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/aws-bets-big-on-healthcare-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
+  - title: "AWS launches AI-powered healthcare-focused services"
+    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
+    publishedDateTime: 2023-07-27T12:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 51
   - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
     excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
     publishedDateTime: 2023-07-28T09:25:00Z
@@ -289,34 +323,6 @@ related:
       - url: "https://d1-invdn-com.investing.com/content/c74d600952f59cc9004ec48c4e5994d2.jpeg"
         width: 650
         height: 397
-        isCached: true
-  - title: "Google, OpenAI, Microsoft and Anthropic join forces to promote safe AI development"
-    excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Microsoft Vice Chair and President Brad Smith. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"
-    publishedDateTime: 2023-07-26T16:25:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/google-openai-microsoft-anthropic-join-forces-promote-safe-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'"
-    excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent"
-    publishedDateTime: 2023-07-27T01:31:00Z
-    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=421102"
-    type: article
-    provider:
-      name: RiverBender.com
-      domain: riverbender.com
-    quality: 45
-    images:
-      - url: "https://s3.amazonaws.com/rbweb-ap-photos/d06df0f9eae04dd183aabbaaef444388.jpg"
-        width: 640
-        height: 395
         isCached: true
   - title: "Exclusive-Amazon has drawn thousands to try its AI service competing with Microsoft, Google"
     excerpt: "Amazon.com’s cloud division has drawn thousands of customers to try out its service vying with Microsoft and Google in a key area of artificial intelligence, an executive told Reuters. The company also announced new AI tools on Wednesday,"
@@ -332,20 +338,17 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
-    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
-    publishedDateTime: 2023-07-27T15:26:00Z
-    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
+  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
+    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
+    publishedDateTime: 2023-07-26T23:05:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Hexaware collaborates with Microsoft to propel innovation with generative AI - Tenjin for Knowledge Services"
     excerpt: "ISELIN, N.J. and LONDON and MUMBAI, India, July 27, 2023 /PRNewswire/ -- Hexaware, a global frontrunner in IT services and digital solutions, is excited to announce its collaboration with Microsoft to propel technological advancement for businesses ready to embrace the future, harnessing the power of generative artificial intelligence (AI)."
     publishedDateTime: 2023-07-27T10:33:00Z
@@ -360,15 +363,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Microsoft sees AI making ‘gradual’ growth contributions"
-    excerpt: "After a year where AI headlines have sent stocks soaring, Microsoft management reminded investors that AI's contributions to revenue won't happen over night."
-    publishedDateTime: 2023-07-26T15:43:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-sees-ai-making-gradual-124300655.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
   - title: "Google, Microsoft form group to create best practices for emerging AI models"
     excerpt: "Another industry group has emerged promising to promote best practices for artificial intelligence applications at a time when governments around the world are looking at regulating AI. Google, Microsoft,"
     publishedDateTime: 2023-07-26T19:00:00Z
@@ -378,24 +372,24 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 33
-  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
-    excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
-    publishedDateTime: 2023-07-30T04:59:00Z
-    webUrl: "https://www.inferse.com/653721/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
+  - title: "Microsoft Announces New Generative AI Search Using ChatGPT; Bada BING, Bada Boom—The AI Race Is On – Forbes"
+    excerpt: "Microsoft Chairman and CEO Satya Nadella at Microsoft headquarters in Redmond, Washington When you’re looking for an answer to a question, want to find a local repair shop or need a recipe for braised short ribs,"
+    publishedDateTime: 2023-07-28T12:33:00Z
+    webUrl: "https://www.inferse.com/648276/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on-forbes/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 17
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-07-26T23:57:00Z
-    webUrl: "https://www.inferse.com/642389/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    quality: 18
+  - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
+    publishedDateTime: 2023-07-26T18:23:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854711.htm"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "FBcMjcxvT/QaWOT2QD/TKgQSyMNKi97tpLU9HDoHpkmnpJCj03MhhR6gTwPY5K8jhieEFjqU5E72VslM73b2cplY09Tkvw8Ti4D24qQWO19edPNODv8JzXLhExjszdbaVSxSIZFKZU00koEGIj67HfAcvYs8HyRtbuHcbmu4mxPI5ybFn4orUcl9YNVGZaIkGb9zKp0nV6+jZjkL3hf6AcEI7SyLQm6EdaGkhP8bHpdGkQWbEuG5zi29XN7ZFcltUm8IJFyXwDnSxvtGO0CrtnkVn2/bNtmpNU6G5e6WzyDA1A/5NAcPudg7QmyZucRLNQXpW0bhnm01Jw5P/PsiBbWmustXwr9Qo39tn0muC644PLed9cF2ACrGg49khgls0fyNFRr64EuiJY6tXJTjm+uqhdlkTjIFq6mMeHwDPB5QM3lyncS+lqHMsNqUSAn4BshmqDwn9q28sJD63iWwWcM64GzU2Csu48tH1Fq9x6YYS0utFNsOG8inUHkpROuDicY67Z6Ihns5kDrg99jsdA==;DmWCY/nXhuB0X/jZ71IosQ=="
 ---

@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Some Reasons Not to Fear Artificial Intelligence"
-    excerpt: "However, a long history of adopting new technology has shown that such fears may be misplaced. Paranoia about artificial intelligence includes the view that it will attack our personhood by outdoing human creativity and ingenuity. Such fears may be overblown."
-    publishedDateTime: 2023-07-26T15:51:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
   - title: "Meta posts strong revenue growth as it touts bet on AI tools"
     excerpt: "Facebook parent Meta returned to double-digit revenue growth for the first time since the end of 2021 and forecast better than expected growth in the current quarter, sending its shares up as much as 8 per cent in a sign that the digital advertising slump is easing."
     publishedDateTime: 2023-07-27T00:16:00Z

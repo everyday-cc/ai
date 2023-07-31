@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

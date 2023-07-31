@@ -30,31 +30,195 @@ images:
     isCached: true
 
 related:
-  - title: "The Power Of The Prompt: Unleashing AI's Full Potential For Work Productivity"
-    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at why prompts are critical for optimizing AI for workplace productivity."
-    publishedDateTime: 2023-07-27T19:46:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
+  - title: "3 emerging practices for responsible generative AI"
+    excerpt: "For our midyear update, we’d like to share three of our best practices based on this guidance and what we’ve done in our pre-launch design, reviews and development of ge…"
+    publishedDateTime: 2023-07-27T17:00:00Z
+    webUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/"
+    ampWebUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2c7b9821236b6e642dbf0/0x0.jpg?format=jpg&width=1200"
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Evergreen_hero_social.width-1300.jpg"
+        width: 800
+        height: 418
+        isCached: true
+  - title: "Amazon grows generative AI efforts with Bedrock expansion for AWS"
+    excerpt: "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service."
+    publishedDateTime: 2023-07-27T17:37:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all"
+        width: 1114
+        height: 570
+        isCached: true
+  - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
+    excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
+    publishedDateTime: 2023-07-27T00:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "Could artificial intelligence be the future of news production?"
-    excerpt: "TVBEurope talks to Sky News' Tom Clarke about how the broadcaster used AI to create a news package, from writing the text to presenting it on screen"
-    publishedDateTime: 2023-07-27T15:50:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/could-artificial-intelligence-be-the-future-of-news-production"
+  - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
+    excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
+    publishedDateTime: 2023-07-29T16:51:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/path-to-predictive-analytics-generative-ai-paving-way-immersive-data-insights/"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 17
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_graph_with_colorful_lines_behind_it._Colorful_futuris_2f638b4b-7c38-4b18-ab88-137857cb6578.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI could be a critical tool for the visually impaired"
+    excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
+    publishedDateTime: 2023-07-27T16:42:00Z
+    webUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/01/wire_mesh_fence_blurred_blurry_bokeh_world_beyond_by_vjapratama_cc0_via_pexels_1200x800-100784627-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "AWS Releases Generative AI Service for Clinical Documentation"
+    excerpt: "The new AWS service will support generative AI clinical documentation capabilities for general medicine and orthopedics specialties."
+    publishedDateTime: 2023-07-27T17:00:00Z
+    webUrl: "https://ehrintelligence.com/news/aws-releases-generative-ai-service-for-clinical-documentation"
+    type: article
+    provider:
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 54
+    images:
+      - url: "https://ehrintelligence.com/images/site/article_headers/_normal/2016-06-03-amazon.png"
+        width: 691
+        height: 404
+        isCached: true
+  - title: "Top 7 Generative AI Courses by AWS"
+    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
+    publishedDateTime: 2023-07-30T04:43:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
+    excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
+    publishedDateTime: 2023-07-27T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 41
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AXA deploys secure generative AI to employees"
+    excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
+    publishedDateTime: 2023-07-28T15:20:00Z
+    webUrl: "https://www.reinsurancene.ws/axa-deploys-secure-generative-ai-to-employees/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 39
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
+        width: 1000
+        height: 575
+        isCached: true
+  - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T05:08:00Z
+    webUrl: "https://www.natlawreview.com/article/road-generative-ai-key-legal-considerations-automotive-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 32
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
+        width: 500
+        height: 309
+        isCached: true
+  - title: "Merkle Unveils Revolutionary Generative AI Technology"
+    excerpt: "Generative AI LKMs can be trained on vast amounts of performance data, synthesizing the relationships among all the variables to enable marketers to draw insights from data. And by informing every customer interaction with AI-driven insights and decisioning,"
+    publishedDateTime: 2023-07-27T15:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855340.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T21:09:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 14
 
 secured: "4IWrOphYpvTl8qIwOSl6ruLxQUByQwxe7cxfYviiOffH8T17BsBkkOjtGZpLkK5Oa8SJKRgeHLUZH2qLroVSSS0Z+y1y17P0cTqcwnpPMMpQncSKg/N2Id+JnLyZlZHcXVHT63ozSFLxUoLVU4uwWcf60XK6oZ2FSMkrKrhONLmZRcjiw2CqxmM6onLrPW/JrMaGLjkS+D4LUmxK2/4Qg0BkJWHA8OVJJtu+T8Wdyr01FRPVOM91YvKMi/NmisEuAk3g+yECpcmdYgJ0/oMv5tl5IE9wkRBD9vVuOijeSsbDyxzwIdfTXOrTzp4cvGDUT3Ye68W2QjoVLCdtn03PhpUbr25v3y7STzeSZfSq7q8=;VMV5SCNdhb/66t5D7K25pw=="
 ---

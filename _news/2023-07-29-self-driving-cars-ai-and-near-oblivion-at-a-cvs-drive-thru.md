@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
+    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
+    publishedDateTime: 2023-07-28T11:27:00Z
+    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+    images:
+      - url: "http://images.wsj.net/im-823806?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Memory and Disk Drive Stocks Rally. Surprise! The Driver Is Generative AI."
     excerpt: "Shares of Seagate Technology, Western Digital and Micron Technology shares are all trading sharply higher as spending on AI-related hardware accelerates."
     publishedDateTime: 2023-07-27T23:30:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://images.barrons.com/im-825152/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "How Carol Juel is leading Synchrony through the hazards of generative AI"
-    excerpt: "The bank's chief technology officer is testing several ideas for using advanced AI to improve processes and customer experience."
-    publishedDateTime: 2023-07-26T15:32:00Z
-    webUrl: "https://www.americanbanker.com/news/how-carol-juel-is-leading-synchrony-through-the-hazards-of-generative-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 38
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/13c6115/2147483647/strip/true/crop/800x420+0+147/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F7e%2F6a%2F1b6989c94eb7a1f60ee0f15c872e%2Fimg-0752.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Indian Startup Looks to Change the Lives of Marginalized People Through AI"
     excerpt: "A startup in India is revolutionizing artificial intelligence (AI) to make it transformative for the poorest and most marginalized people in the communities."

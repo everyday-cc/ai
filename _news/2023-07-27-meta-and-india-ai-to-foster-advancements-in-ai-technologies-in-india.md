@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta inks MoU with Indian govt to partner on AI, emerging technologies"
-    excerpt: "Tech major and Facebook's parent Meta has signed an initial pact with ... a Centre of Excellence to nurture the AI startup ecosystem. \"Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the ..."
-    publishedDateTime: 2023-07-26T15:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-22-Mar-2023-03-47-PM-7009.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
-    excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
-    publishedDateTime: 2023-07-26T16:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/articleshow/102146946.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1354874,msid-102146987/indiaai-meta-pact.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Indian AI-first startups can now apply for 8th batch of Google for Startups Accelerator"
     excerpt: "Google is inviting Seed to Series A funded AI-first startups from India to apply for the eighth cohort of the Google for Startups Accelerator: India - a three-month, equity-free program that focuses on bringing the best of Google's programs,"
     publishedDateTime: 2023-07-28T07:19:00Z

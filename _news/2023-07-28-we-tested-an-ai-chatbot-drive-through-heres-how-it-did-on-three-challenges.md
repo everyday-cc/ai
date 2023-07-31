@@ -28,104 +28,59 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools"
-    excerpt: "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google"
-    publishedDateTime: 2023-07-26T16:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools"
+  - title: "AI vs. the Drive-Through Customer"
+    excerpt: "One of the best places to see how artificial intelligence is affecting our lives and jobs may be at a fast-food drive-through. WSJ senior personal tech columnis"
+    publishedDateTime: 2023-07-27T16:42:00Z
+    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHYEvk8TxBUA/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "http://images.wsj.net/im-824859?width=1280&height=720"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "AI prompt engineering: learn how not to ask a chatbot a silly question"
-    excerpt: "Understanding how to interact with ChatGPT and its rivals so that their output matches your expectations will soon be a key office skill. Here’s what you need to know"
-    publishedDateTime: 2023-07-29T13:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
+  - title: "Memory and Disk Drive Stocks Rally. Surprise! The Driver Is Generative AI."
+    excerpt: "Shares of Seagate Technology, Western Digital and Micron Technology shares are all trading sharply higher as spending on AI-related hardware accelerates."
+    publishedDateTime: 2023-07-27T23:30:00Z
+    webUrl: "https://www.barrons.com/articles/memory-disk-drive-stocks-artificial-intelligence-10a374f0"
+    ampWebUrl: "https://www.barrons.com/amp/articles/memory-disk-drive-stocks-artificial-intelligence-10a374f0"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/memory-disk-drive-stocks-artificial-intelligence-10a374f0"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Barron's
+      domain: barrons.com
     quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/11f941dc122e177b0a3e99ab36acbc9f00802cce/0_0_1600_960/master/1600.jpg?width=620&quality=85&auto=format&fit=max&s=d89db484c3c4a4b4e3e6afe292b41364"
-        width: 620
-        height: 372
+      - url: "https://images.barrons.com/im-825152/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AI Chatbots Are The New Job Interviewers"
-    excerpt: "Chatbots are increasingly being used by companies to interview and screen job applicants, often for blue collar jobs. But like other algorithmic hiring tools before them, experts and job applicants worry these tools could be biased."
-    publishedDateTime: 2023-07-26T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/07/26/ai-chatbots-are-the-new-job-interviewers/"
+  - title: "Self-driving cars, AI and near-oblivion at a CVS drive-thru"
+    excerpt: "Mr. Oblivious Bicyclist didn’t so much as glance over his shoulder before taking the curve at speed, suddenly veering rightward past the corner CVS and slotting himself between the Volvo"
+    publishedDateTime: 2023-07-29T08:59:00Z
+    webUrl: "https://www.djournal.com/lifestyle/living/self-driving-cars-ai-and-near-oblivion-at-a-cvs-drive-thru/article_7b3d7f2e-2d63-11ee-b83a-f77fc9c99ccf.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "DoorDash Is Working on an AI Chatbot to Speed Up Food Ordering"
-    excerpt: "DoorDash Inc., the US food-delivery service that competes with Uber Technologies Inc. and GrubHub, is looking to speed up ordering and help customers find food options with an artificial intelligence-based chatbot."
-    publishedDateTime: 2023-07-27T19:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-27/doordash-is-working-on-an-ai-chatbot-to-speed-up-food-ordering"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
-    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
-    publishedDateTime: 2023-07-26T23:05:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "A Christian Chatbot? How AI Could Transform Bible Study"
-    excerpt: "Nils Gulbranson hopes his “Christian ChatGPT,” Biblemate.io, will help believers and non-believers to find answers to life’s"
-    publishedDateTime: 2023-07-27T20:00:00Z
-    webUrl: "https://www.movieguide.org/news-articles/a-christian-chatbot-how-ai-could-transform-bible-study.html"
-    type: article
-    provider:
-      name: Movieguide
-      domain: movieguide.org
+      name: Daily Journal
+      domain: djournal.com
     quality: 39
     images:
-      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/07/mojahid-mottakin-lmhMI34pPMA-unsplash.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/9c/a9c3c20e-c067-53ff-b79b-aa4d53cdaca9/63517bff59a39.image.jpg?crop=1141%2C599%2C0%2C325&resize=1141%2C599&order=crop%2Cresize"
+        width: 1141
+        height: 599
         isCached: true
-  - title: "Experts discover workarounds to evade chatbot AI safety rules"
-    excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
-    publishedDateTime: 2023-07-30T03:56:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/experts-discover-workarounds-chatbot-ai-safety"
+  - title: "Indian Startup Looks to Change the Lives of Marginalized People Through AI"
+    excerpt: "A startup in India is revolutionizing artificial intelligence (AI) to make it transformative for the poorest and most marginalized people in the communities."
+    publishedDateTime: 2023-07-27T16:00:00Z
+    webUrl: "https://www.techtimes.com/articles/294357/20230727/indian-startup-karya-changing-lives-many-marginalized-people-through-ai.htm"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 37
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "We’re using AI chatbots wrong. Here’s how to direct them."
-    excerpt: "After testing dozens of AI products, Brian Chen concluded that most of us are using the tech in a suboptimal way, largely because companies gave us poor directions."
-    publishedDateTime: 2023-07-30T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: techtimes
+      domain: techtimes.com
+    quality: 15
 
 secured: "q8sX4dhUUkEIsB0c58ovmtgTM1Hw4tB5Xbh/WHiwmfC/e11YzeTXdAdpQbTWFl7cCkxWZ86hpXG7iu+2USSaICEnzTWOQC1JOpDyZVKFh7rquwDzoK9pdezLlEn53TkzFHbqCUfFLQ7Jv0fkq+BTq4gV2npwHNzLmccN9TprpB5+y1Em7XsBgF5lvmjqg+YYTDWsx9veZL5VU1OoDVSK3NKlcdUq3V1wxdNnQ7TcZxDHtFxmNrJwODt/8eV3JphF6F4zupHtUin4jnutE6JiHpGyWYnK29IvE1zWZQS+4MZ2y45325yI5bqLCWidFDbStcnpmDhfuzehrkJjqk4uppMft+NIjUWRzwbwPuu1ffFcZnGScYeC0G46cdKOoIXvsJG/ANRZvWcq9v9tQCZ+JL+WQXvOZAKLzHhlGYQ5AtyNklvuqVO5Ik0CvvnpaOs4Hg793GfQAViCALtL6ypuNqI7kDuGyiob63KbApm+H7ew+WiXpf68UpMdwzsB/cVZj5g8ayA0JH91PtNHKhu/KA==;7O9gHT/h33qC7ouQb72YkQ=="
 ---

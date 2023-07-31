@@ -95,6 +95,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Home Office lobbied for facial recognition in shops to tackle shoplifting, report"
+    excerpt: "Recently published documents have revealed the UK government has been actively pressurising the Information Commissioner's Office (ICO) to endorse the rollout of facial recognition technology in high street shops and supermarkets to tackle 'retail crime'."
+    publishedDateTime: 2023-07-31T07:26:00Z
+    webUrl: "https://www.computing.co.uk/news/4121156/home-office-lobbied-facial-recognition-shops-tackle-shoplifting-report"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 34
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/302014b/e4858223-4780-4d82-9ee1-a70f0bca491b/24/live-facial-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
     excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."
     publishedDateTime: 2023-07-27T13:37:00Z

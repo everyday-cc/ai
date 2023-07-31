@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta inks MoU with Indian govt to partner on AI, emerging technologies"
-    excerpt: "Tech major and Facebook's parent Meta has signed an initial pact with ... a Centre of Excellence to nurture the AI startup ecosystem. \"Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the ..."
-    publishedDateTime: 2023-07-26T15:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-22-Mar-2023-03-47-PM-7009.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
     excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
     publishedDateTime: 2023-07-27T09:10:00Z
@@ -72,22 +56,6 @@ related:
       - url: "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "INDIAai and Meta India sign pact to collaborate on AI and emerging technologies"
-    excerpt: "The pact will leverage Meta's AI research models like Llama, Massively Multilingual Speech, and No Language Left Behind."
-    publishedDateTime: 2023-07-26T16:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/articleshow/102146946.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indiaai-and-meta-india-sign-pact-to-collaborate-on-ai-and-emerging-technologies/amp_articleshow/102146946.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1354874,msid-102146987/indiaai-meta-pact.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
     excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"

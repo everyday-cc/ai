@@ -24,6 +24,17 @@ images:
     height: 246
     isCached: true
 
+related:
+  - title: "Congress Urged to Revive Debate about Regulating Self-Driving Vehicles"
+    excerpt: "Advocates for the industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-27T15:30:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22868477/congress-urged-to-revive-debate-about-regulating-selfdriving-vehicles"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 4
+
 secured: "pO5a8PK9UBKRlxY7uO8lmYo90Kt4fAy75o8dKGFW3enpqWYW1PWhaL0lNgPH6wCRZEXntI+iYtTlfk+sztbh5AZ2RW3Jt3GuMWsWCGa7axXSAQOuFOCPDGLDu1K4bhLVTSROYtpiADTzkB9Gb2Mz3Tt4pW98G/knDEHEKCE1FtsEPCX04uAgPivIe6APeo2yZVq9fZ/liUWcx+aloKBEdsFi/HXd0nb51YC9gq7w3HoB4pZoHvMz7bAVZpv3zKDw6rtRC3H+ydsT8gkzIkHrxcM+ib8Y2z7bkW33UxfK4qULZf3EjsCDpAapbiVmtcBD56YGAhZSFSbHexdPz0ByARcHZ25esI03zsi7DGwdkiFyyCWWtKdgNndFfs1T0/S2xbjLkkzf2SNMdGx3uSNFmYaVyiIDtIU1iCJsOkQFyWev1GZppyIah7saLr+fV65iF6TVDKhZZPXEq4HBcS9Vb9wlUxXxx812yTvkr7/bgl46elXgB3+RL7/kEVnlF+zBjkUqOqfndDCVIy4uKKYmsg==;RtwB8PhajGTENBSqAreruA=="
 ---
 

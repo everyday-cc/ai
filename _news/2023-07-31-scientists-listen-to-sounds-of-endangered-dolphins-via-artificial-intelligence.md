@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Scientists listen to sounds of endangered dolphins via artificial intelligence"
-excerpt: "Scientists launched a study on Friday to monitor the movements of two endangered dolphin species via artificial intelligence (AI)."
-publishedDateTime: 2023-07-31T03:00:00Z
-originalUrl: "https://www.azernews.az/region/212927.html"
-webUrl: "https://www.azernews.az/region/212927.html"
+title: "Scientists Listen To Sounds Of Endangered Dolphins Via Artificial Intelligence"
+excerpt: "Scientists launched a study on Friday to monitor the movements of two endangered dolphin species via artificial intelligence (AI). The"
+publishedDateTime: 2023-07-31T08:22:00Z
+originalUrl: "https://menafn.com/1106745849/Scientists-Listen-To-Sounds-Of-Endangered-Dolphins-Via-Artificial-Intelligence"
+webUrl: "https://menafn.com/1106745849/Scientists-Listen-To-Sounds-Of-Endangered-Dolphins-Via-Artificial-Intelligence"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Azer News
-  domain: azernews.az
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.azernews.az/media/2023/07/30/4af47292-dnb0ufbijd8zfihh7i8es.jpg"
+  - url: "https://menafn.com/updates/pr/2023-07/31/A_74837image_story.jpg"
     width: 640
     height: 359
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 486
         isCached: true
 
-secured: "BpR/j1DyWrHKnMVLuJAn9U7oqYXUAb1wIHgV8oX8xA0EL0Ik0VPRrOk1JY7eBWSr68uHTPyFUqBo1M1T0uNG9IP94UnGKGyYDT+1sOKK/qDfSCEuSxFbQhLfnzHVQPFktMXx/u6l3ozJk6VXH3/PH/OxpxFKmlbLazQqZaB5p6UElVgyHfZRlGG/SJtg4QnNgdF4DW7xOpSZ7k/sC501PlVtNC9okpB5zfUf4lVIMLteqJXhs/n3z4wV2E+N4COu8JAftI41spSywWYK/0ozqj84egxPRPjpxZM2uj+KY4VJ3IZJIxYRmrVLOu4UVg2uqfHJheIGGV3+YQ6tkk2sfd0Sdk29tOQXDd4rNhr4IYnc0Q54UdxBMl8Un5ggMEnw06Ydk+/ao/4fp+EF6E+ALa6N7c3GAyHatQQf6JPBpXtyZGJuAKMH8iPZaVuwI8yIN5GIsZG0tV9wYuDZeUKgCG2/OXpaPcrMTggIVhcCLhfW0gLIt/SANRMlzrOvid2la/kklSavm2zhyHFH1w7a7g==;1KSodLsJeSM4awzfnPZpmw=="
+secured: "DpujnLCk6rBdUAK9Q7HQiOMRjJAnh2Rf8u3EuNguyV8BLd8hBOYclgyt15VxBN/uJLiCUWLNfHUBt+br+brk2AmG9VzAR9GmL4+/AFOTbI16Ruo19t5fTFzs3lht53Khnf3S3IQdJhub6kDdZ5GKfos1rOnLu2HXaNaPketLY08NyH172cqtj8Et1ESFkXu2H75+ld0GYBPT+Fj0tN1Txy99GT4AoPQ2tVeFPQMByo2KusXLD0ERPtKqPfI5qS2+SXwIIc1OQmCEpJmgZMmJctHKUDNEm59lpNUCjbvApYVsUmcYfmSyhafKPL7yYfV2GhMjWcyhgVl3ZzOMxsvC0tdFNcLIIFCTFQAwrdSgBuM=;bvsS3dFyfMOjjuKT5IQiew=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
 type: article
 quality: 70
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
+  - title: "How Fintech and Virtual Staging are Revolutionizing the Real Estate Industry"
+    excerpt: "Fintech has disrupted various sectors, and real estate is no exception. In the context of the property market, Fintech has introduced innovative solutions that streamline financial transactions and enhance the overall experience for all stakeholders."
+    publishedDateTime: 2023-07-31T08:13:00Z
+    webUrl: "https://www.finextra.com/blogposting/24653/how-fintech-and-virtual-staging-are-revolutionizing-the-real-estate-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 1
   - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
     publishedDateTime: 2023-07-27T14:46:00Z

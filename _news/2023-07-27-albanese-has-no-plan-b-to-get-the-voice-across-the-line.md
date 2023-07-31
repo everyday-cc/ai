@@ -24,6 +24,24 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Albanese's 'Voice, Treaty, Truth' t-shirt at Midnight Oil concert sparks fierce debate about Voice during Question Time"
+    excerpt: "The saga surrounding Prime Minister Anthony Albanese's t-shirt choice at a Midnight Oil concert last year sent both sides of politics into a laughing frenzy during Question Time on Monday."
+    publishedDateTime: 2023-07-31T08:13:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/albaneses-voice-treaty-truth-tshirt-at-midnight-oil-concert-sparks-fierce-debate-about-voice-during-question-time/news-story/75d2a8be52b35f762f1a826bea5ea33f"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/albaneses-voice-treaty-truth-tshirt-at-midnight-oil-concert-sparks-fierce-debate-about-voice-during-question-time/news-story/75d2a8be52b35f762f1a826bea5ea33f?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/albaneses-voice-treaty-truth-tshirt-at-midnight-oil-concert-sparks-fierce-debate-about-voice-during-question-time/news-story/75d2a8be52b35f762f1a826bea5ea33f?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 20
+    images:
+      - url: "https://content.api.news/v3/images/bin/8eb364418c4257c4b1c8d59d6ae3d0f8"
+        width: 650
+        height: 366
+        isCached: true
+
 secured: "KqM7/MKtqhwK/mK4J+Y7ufG5G0u+pgnQTw4cEjMwyDUIV1lPOIsnn/2kS6xrAvDoPtqtpzo/JtB1Kxp5qQZ4Vtr/gshnBI70aqDOzycpT6UQns5KAujimf0TrsnO9ABzygbpts19uTBHAn+zoOAl8issss+sZ0inIu90jf6gu5zsjKtJyDGoLq8E660UXqskRguRcpcJVxasF0qD+IA3pjzolZkOkHJ4ysrMcYo+1bysGuaa3hEYQWwJk8skhHgcP+mQ2TRlBuzohDr0iZ40H42IQQvONz5BB2FAskIKoj+1QarIgKF9S4+TThNs6EDKkqlmxw+CyPex3j3bDZIV6GAku6/89E24bpaMwZNI/ZzE30zfLQP0u9AAgeFnJnv2AVal3gu7loEK/iSmBjuw5CSdF8mVGVZtOEj4/LhvodVhhSKjFdY7xMzIP/uSi8rYlJnj7ifqhyaiid26dt+mhfyFPwrgaChad/AquYAzxaSMCv8e42gWHrTVmMDgAVFUNWzuzqzu5YFZLWAuIaE1hA==;WuR/ZGLpOSfOGtn441O0Sw=="
 ---
 

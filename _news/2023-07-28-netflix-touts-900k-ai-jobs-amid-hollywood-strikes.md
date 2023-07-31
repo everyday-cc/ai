@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -192,6 +192,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/07/26162553/SEI_165496948.jpg"
         width: 1350
         height: 901
+        isCached: true
+  - title: "Hollywood is searching for AI specialists, offering handsome salaries, despite the strikes"
+    excerpt: "As per The Hollywood Reporter, the advert for the job at Netflix states: \"Our business is driven by Machine Learning/Artificial Intelligence, which fuels innovation in content creation and acquisition, personalization, payment processing, and other revenue-centric initiatives\"."
+    publishedDateTime: 2023-07-31T08:22:00Z
+    webUrl: "https://www.gamereactor.eu/hollywood-is-searching-for-ai-specialists-offering-handsome-salaries-despite-the-strikes-1290393/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 29
+    images:
+      - url: "https://www.gamereactor.eu/media/39/_4073943b.png"
+        width: 866
+        height: 488
         isCached: true
   - title: "Netflix posts $1.3 million artificial intelligence job as actors strike"
     excerpt: "Netflix has sparked outrage by announcing it is hiring a $1.3 million-per-year AI job, as actors and writers strike for better pay and protections against technology."

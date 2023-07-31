@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "AI-Generated Data Can Poison Future AI Models"
-    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
-    publishedDateTime: 2023-07-28T11:16:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "4Ixk0IAgtca0x3yU0VZeEIGgijJFUU4xnB6jMDaYyipIyGvBlHJ+A9qD1nyGUKpJ3kaWjHpjNu/s73jpRISndbWFxT9HAm7I15Pj/Ffc78f0K2oEJbueRKAIMpXqGq5mhNYIMrPjGfGPDHnIUZxlrbZ5n5NP8W0qP2LWXxfCV6SywL9KlGqDAM9eJpQIBU1a9mO23jYOBTGWIOmz8gA8/kPc/W+eRt588FSAgGb0bYdKFKdrSJt8Wv0doKag0CbZFANx+o6JbF1ECm6xxQ2NqSDxytclRd0/eiNEx53iCUY704zbLr2JCU/WakFieuGAqD5ZmoImxJbHWRBFn8knB7XMLZBsMH4bTXmvg344j5+4ioF1FrXpVwYB2lNoOHxZHo8UMGUgEb0mMYAe4bQ3ipXxCGcweknhv/Q6Mn6116rFNuydOSYos8aAoFe3pUV3nn/11TRGtCcjC6A8fLNloFt6W3tWhaqdEhS4GOreer8EGRwPZeJMkTQxmus1t2cW1Thr3KGAkkYAReRz7xmgtA==;PNxx2h+5HKFCCztThtrN9Q=="
 ---

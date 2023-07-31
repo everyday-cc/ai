@@ -25,140 +25,188 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
-    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
-    publishedDateTime: 2023-07-28T16:18:00Z
-    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
+  - title: "3 emerging practices for responsible generative AI"
+    excerpt: "For our midyear update, we’d like to share three of our best practices based on this guidance and what we’ve done in our pre-launch design, reviews and development of ge…"
+    publishedDateTime: 2023-07-27T17:00:00Z
+    webUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/"
+    ampWebUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
-        width: 1280
-        height: 640
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Evergreen_hero_social.width-1300.jpg"
+        width: 800
+        height: 418
         isCached: true
-  - title: "AI and Machine Learning Hold Potential in Fighting Infectious Disease"
-    excerpt: "New research showed that drug discovery, infection biology, and diagnostics are functions of AI and machine learning in treating infectious diseases."
-    publishedDateTime: 2023-07-26T17:31:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-potential-in-fighting-infectious-disease"
+  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
+    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
+    publishedDateTime: 2023-07-27T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-        width: 690
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 691
         isCached: true
-  - title: "India AI and Meta India sign MoU to foster collaboration in AI & Emerging Technologies"
-    excerpt: "The MoU was signed by Shri Abhishek Singh, CEO of India AI, and Shri Shivnath Thukral, Director & Head of Public Policy, Meta in India."
-    publishedDateTime: 2023-07-26T16:48:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
+  - title: "Amazon grows generative AI efforts with Bedrock expansion for AWS"
+    excerpt: "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service."
+    publishedDateTime: 2023-07-27T17:37:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 51
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2022_14_47_00_3672998.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all"
+        width: 1114
+        height: 570
         isCached: true
-  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
-    excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
-    publishedDateTime: 2023-07-27T05:25:00Z
-    webUrl: "https://yourstory.com/2023/07/india-ai-meta-india-ink-pact-advancements-ai"
+  - title: "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M"
+    excerpt: "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,"
+    publishedDateTime: 2023-07-27T00:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "How India Is Using AI To Build The Internet For Local Languages"
-    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
-    publishedDateTime: 2023-07-30T05:45:00Z
-    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "3 AI-powered companies redefining FinTech in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-31T06:14:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
+  - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
+    excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
+    publishedDateTime: 2023-07-29T16:51:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/path-to-predictive-analytics-generative-ai-paving-way-immersive-data-insights/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_graph_with_colorful_lines_behind_it._Colorful_futuris_2f638b4b-7c38-4b18-ab88-137857cb6578.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI could be a critical tool for the visually impaired"
+    excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
+    publishedDateTime: 2023-07-27T16:42:00Z
+    webUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/01/wire_mesh_fence_blurred_blurry_bokeh_world_beyond_by_vjapratama_cc0_via_pexels_1200x800-100784627-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "AWS Releases Generative AI Service for Clinical Documentation"
+    excerpt: "The new AWS service will support generative AI clinical documentation capabilities for general medicine and orthopedics specialties."
+    publishedDateTime: 2023-07-27T17:00:00Z
+    webUrl: "https://ehrintelligence.com/news/aws-releases-generative-ai-service-for-clinical-documentation"
+    type: article
+    provider:
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 54
+    images:
+      - url: "https://ehrintelligence.com/images/site/article_headers/_normal/2016-06-03-amazon.png"
+        width: 691
+        height: 404
+        isCached: true
+  - title: "Top 7 Generative AI Courses by AWS"
+    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
+    publishedDateTime: 2023-07-30T04:43:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
+    excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
+    publishedDateTime: 2023-07-27T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Generative AI: Proposed Shared Responsibility Model"
+    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
+    publishedDateTime: 2023-07-28T15:04:00Z
+    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
+    type: article
+    provider:
+      name: Cloud Security Alliance
+      domain: cloudsecurityalliance.org
+    quality: 41
+    images:
+      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AXA deploys secure generative AI to employees"
+    excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
+    publishedDateTime: 2023-07-28T15:20:00Z
+    webUrl: "https://www.reinsurancene.ws/axa-deploys-secure-generative-ai-to-employees/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
     quality: 39
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
-        width: 300
-        height: 300
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
+        width: 1000
+        height: 575
         isCached: true
-  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
-    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
-    publishedDateTime: 2023-07-26T17:52:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
+  - title: "Merkle Unveils Revolutionary Generative AI Technology"
+    excerpt: "Generative AI LKMs can be trained on vast amounts of performance data, synthesizing the relationships among all the variables to enable marketers to draw insights from data. And by informing every customer interaction with AI-driven insights and decisioning,"
+    publishedDateTime: 2023-07-27T15:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855340.htm"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 31
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
-    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
-    publishedDateTime: 2023-07-30T10:46:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
-    excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-28T13:32:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/angel-one-launches-ai-powered-super-app-in-india-to-foster-smart-investments-article-102208147"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 16
-  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
-    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
-    publishedDateTime: 2023-07-27T13:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 14
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T21:09:00Z
@@ -168,15 +216,6 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 14
-  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
-    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
-    publishedDateTime: 2023-07-28T00:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "dcGH8A+3LHqXarR5ZVcU54XZOE+5PBa+ioYbFG5HTfLZULTP3Loja+/JBQ4fjNQLVx1Dx4SeT+oqs1XuGMyHjuIDmxZ4ICqrafdbZrZfFkVE30tpsAp3spBhyiFj3ZpH6hkQTXURiZBrKHDDK429qOb0jegTBrKHgJiwgQdgdx4ly/rkr68PZl59iZbLFOR7TsPP/0OuDVsbYTrZxWm75EVvt5Q/1qaepcYBAyDAdyEczGJAqDo4BtqImQ7qNIaglZvg1qn4gjm7o5ws6zOiIRW0Q0ndX94Tq6T0V5lmYqNmj+YNlXnMq7U3MV+nS9V3xoZISmrnrslvop4ttM2EkNYFp3wr99dN0uaPtHSWZhQ=;V51oqfRFX3li7jdMs8brvw=="
 ---

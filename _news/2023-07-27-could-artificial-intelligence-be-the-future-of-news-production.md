@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
-    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
-    publishedDateTime: 2023-07-27T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 691
-        isCached: true
 
 secured: "/h69Kowjxe/m+6P464nuoFzVjOKUUJTo+122ypoohVFPeIv50VUPGXkTVEwgT5O/5aeZveCf/kih4oGDLnWdnNVNcvjPUUlZyE9cR3ZtCXHM/ZwORW863fLX4R/cxk81p2uIBw1W6J7kEBISO1zccMZK2k3lfs3eEbtQaEkVg1zMpDtnWeMsTASy7CC7tFA/+aiWJw3EnSXREOVEs8eAGTPeeEDUoW/4PLlkTdW2xgMi29D53TmZIIymPVS7rAu4TTKaT3z96r6aP8GT7eKolCBhRvTAas6avWFctaWhX6oDWahQt/3WaRGTI8QaL8N7nrYEO9n1yvU5oHYq+1fbUi77Gdey3Z+KmyWW7xV7E03sYJUHu0I6n3tstcrYXhfp4ax7HpdWl2t02yAg2aMsLUjqt8cRMwoZQm+dRVLtu0XJIsPzxriDiJn/hcaQFU24HJ7Gzo56ckPsXCg5eI1QN5m+WmMdcXq67R0cirjzg2L/uvI/h2JeUYArWTagBVBh0KQHWh0ZRQFsAfvGZusaGA==;OoGjxPIh6AZs5hVDANqoEA=="
 ---

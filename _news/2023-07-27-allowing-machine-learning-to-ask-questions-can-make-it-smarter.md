@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-machine-smarter.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-machine-smarter.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 719
     isCached: true
+
+related:
+  - title: "Allowing Machine Learning to Ask Questions Can Make It Smarter"
+    excerpt: "By using only the most valuable data, ‘active’ machine learning algorithms can help identify the next class of molecular therapeutics."
+    publishedDateTime: 2023-07-31T09:11:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/allowing-machine-learning-to-ask-questions-can-make-it-smarter-376979"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/376979/allowing-machine-learning-to-ask-questions-can-make-it-smarter-376979-640x360.jpg?cb=20230731"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "ysR5tSr8ji/aennPKAkUAAEUAG9JnkWfqY22xVaGo9PHaSMFZSeWqfBsXaNqPQgHwtLeK7+y8YzNOs/ksNPihdE4BDPU/2kUiAruHJLp8ndCmFisxKMEsTWLOPXV2TDq2zGo2dQ1jqAPihG6Zl//dST+KKH4MUv9zqITCR7MT8aApEqIKAsaxK/V4XEgq904mWRO/fLyhir70H1So/0tvhPVLzvOcHn9b8UhthjwBggYIP88sNgb6lpaLRhz8bD1reVW80wrhXh9oHxrKwGy+MDjjpjpqgkmwv/0zypG/LuoIbS7ta4zdl02+AWqNzW8j8sUE4RKyJ1ut0zO8T5Yqo1xsBwQuSqUvH3AojeMwKsmr6E59Xc/Uj8YRzGUiZWlhoCiJxXqCAk/Lw5GFiEHeYY8x9FrJ+q11zfKWAROnPxE9b8gkSCqI2Tz72hVOXt37APHyPp+7dIeap8D6Rfx1QbAypzTJhoeQyIHAo0RdudJWCPnENOtjnrciSfpk3ONoscblghJeHnzHpK7kAYx9g==;spZ3HvKMZAau5P3qVErXwA=="
 ---

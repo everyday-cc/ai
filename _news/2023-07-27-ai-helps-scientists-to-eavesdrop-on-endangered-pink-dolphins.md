@@ -38,17 +38,17 @@ related:
         width: 864
         height: 486
         isCached: true
-  - title: "Scientists listen to sounds of endangered dolphins via artificial intelligence"
-    excerpt: "Scientists launched a study on Friday to monitor the movements of two endangered dolphin species via artificial intelligence (AI)."
-    publishedDateTime: 2023-07-31T03:00:00Z
-    webUrl: "https://www.azernews.az/region/212927.html"
+  - title: "Scientists Listen To Sounds Of Endangered Dolphins Via Artificial Intelligence"
+    excerpt: "Scientists launched a study on Friday to monitor the movements of two endangered dolphin species via artificial intelligence (AI). The"
+    publishedDateTime: 2023-07-31T08:22:00Z
+    webUrl: "https://menafn.com/1106745849/Scientists-Listen-To-Sounds-Of-Endangered-Dolphins-Via-Artificial-Intelligence"
     type: article
     provider:
-      name: Azer News
-      domain: azernews.az
+      name: Mena FN
+      domain: menafn.com
     quality: 35
     images:
-      - url: "https://www.azernews.az/media/2023/07/30/4af47292-dnb0ufbijd8zfihh7i8es.jpg"
+      - url: "https://menafn.com/updates/pr/2023-07/31/A_74837image_story.jpg"
         width: 640
         height: 359
         isCached: true

@@ -43,15 +43,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 44
-  - title: "Some Reasons Not to Fear Artificial Intelligence"
-    excerpt: "However, a long history of adopting new technology has shown that such fears may be misplaced. Paranoia about artificial intelligence includes the view that it will attack our personhood by outdoing human creativity and ingenuity. Such fears may be overblown."
-    publishedDateTime: 2023-07-26T15:51:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202307/some-reasons-not-to-fear-artificial-intelligence"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
 
 secured: "z84WCNlyHzv0MaUpx+e+Qc8ckAJbQXevQt0VaAcTjHMC6YhtPyXggHKdgTomxlVC9uIrSEN2I7kZntjiCybo2b2qcWWZSkqjmse/fF2xX50qqXQzbPVNRKTAVC2WbpEhV/Je3QGQhCzgeWfVOpu3iY9k/qqOlGK2B78bjXyV7NFpnWfKK6xD8PfX+/yNQp/zaRlsDeXK+6xEbhQcf04mqRwpW8YXJr5mt8FQxNt/0/9ZWIRc74Xd/riwYYhCUnTMkUhdGQ6XRLqEVbt1w/TTEX14jY1Y6u2822y1esJNI+tcqPKJnmi9mvNFGM/fZGnlKVdU02ruQT0Fi1vHEr/A2bytiJQhyORDsx88wCMuQy64CjBma2LdOZBnP1HTxlcxcUkfSyvOJpeEO886nun7gWhG4wRrI9w2s+s2Yk3nm8eWnwFvX0DWe4tQ7N9q+QzStEfebkjBFiFJroBiT7sG0nr3s45rIzMlH4L7kRI/ursQ6v5nu0SQ+9i5js69Lcy1wfGL8mqnTRw2iBUrEAdXNg==;2812jRetG8wnhEqfgsXAKw=="
 ---

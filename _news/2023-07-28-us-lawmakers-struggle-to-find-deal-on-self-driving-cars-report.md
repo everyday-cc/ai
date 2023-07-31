@@ -27,60 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "BMW Is Going To Sell A Real Self-Driving Car, And We Tried It Out"
-    excerpt: "BMW's new Level 3 system is actually headed to production. Reset your expectations for what it's capable of, though."
-    publishedDateTime: 2023-07-26T15:07:00Z
-    webUrl: "https://www.slashgear.com/1349270/bmw-real-self-driving-car-test-level-3-highway-autonomy/"
+  - title: "Self-Driving Cars Are Here. What Could Go Wrong."
+    excerpt: "Hundreds of autonomous vehicles from Amazon, GM, and Alphabet are operating across the country. But safety concerns are real, as are fears about the U.S. falling behind China in driverless technology."
+    publishedDateTime: 2023-07-27T21:04:00Z
+    webUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+    ampWebUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 54
+      name: Barron's
+      domain: barrons.com
+    quality: 44
     images:
-      - url: "https://www.slashgear.com/img/gallery/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-hands-on-forced-evolution/intro-1690337360.jpg"
-        width: 780
-        height: 438
-        isCached: true
-  - title: "US lawmakers struggle to find deal on self-driving cars"
-    excerpt: "Congress still faces serious hurdles to winning approval for long-stalled legislation to speed the adoption of self-driving cars."
-    publishedDateTime: 2023-07-26T16:02:00Z
-    webUrl: "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/MrMppNk3ohKSJBN0NahPuzv99Ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMXA5TMYMNORXKF5MBF6OVMY2A.jpg"
+      - url: "https://images.barrons.com/im-824945?size=1.5005861664712778&height=630&width=1200"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "US lawmakers struggle to find deal on self-driving cars"
-    excerpt: "Handout photo courtesy of the Nevada Department of Motor Vehicles shows a Google self-driven car in Las Vegas, Nevada, May 1, 2012. REUTERS/Nevada Department of Motor Vehicles/Handout/File"
-    publishedDateTime: 2023-07-27T07:39:00Z
-    webUrl: "https://www.reuters.com/news/picture/us-lawmakers-struggle-to-find-deal-on-se-idUSKBN2Z61TB"
+  - title: "Congress urged to help get more self-driving vehicles on US roads"
+    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal government doesn't take steps in support of fully autonomous vehicles."
+    publishedDateTime: 2023-07-26T18:59:00Z
+    webUrl: "https://www.freep.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
-  - title: "Cruise is bringing its self-driving cars to Nashville"
-    excerpt: "Cruise is expanding its robotaxi operations in Nashville, the seventh city in the U.S. to get the GM subsidiary's self-driving cars."
-    publishedDateTime: 2023-07-27T18:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/27/cruise-is-bringing-its-self-driving-cars-to-nashville/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-  - title: "Congress Urged to Revive Debate about Regulating Self-Driving Vehicles"
-    excerpt: "Advocates for the industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
-    publishedDateTime: 2023-07-27T15:30:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22868477/congress-urged-to-revive-debate-about-regulating-selfdriving-vehicles"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
+      name: Detroit Free Press
+      domain: freep.com
     quality: 4
 
 secured: "gRUiaE3wR42gmqG0aL15zlEVOdR4mwZA/tzQhmIE5I/3wKWmvR0B7wt4kK2VkdZ3y3AAs782xRsNRjR5YITQYsASJ3vuv5DF6bYZKslbtSWHDB+uMRZNFmnzBibhiO+tZkpNPTPc2y2vHpTUdRaLwK6LvSM8HGTVwXZN5mTqnM+Ol/e19GnSUJgvw7Mf1rTcG43yvNUjPDsjFiQi9BTdIfvJeLvqA8exRZ4vbk+8udF82EmZlEQFms6Pt0u0qEdqVn4Hzn818CXiBAv3Y8K7SuBgHyojFtVLbFAO4aaLT2SNlQNsGb6NVzp5SaTuIXHkvEfw045QlIyx8E/QawoTn77Ua+Q21EEsOD6M22A2cTY=;Vx3BxtyvykMJVRS4Ge+L6g=="

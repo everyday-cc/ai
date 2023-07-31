@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-28T17:48:00Z
 originalUrl: "https://www.techrepublic.com/article/hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking/"
 webUrl: "https://www.techrepublic.com/article/hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: TechRepublic
@@ -22,6 +22,12 @@ topics:
   - AI
   - AI Ethics
 
-secured: "ZHBFW/+T/tYjHZnvJlMm1RmW/x9/HVK03rSHZMgwOwq3qvWz4hUa0w+trAqtCwBYWs9+DGz/jlrWieFdr+CojSrb7/ZKIqzNIjEOuVSYiYF2pEiBfpBwm4wcRau/OtKrIbHBvBZKsGo855ZCZOc10rPfogIFJ7q+yhLf4mg25DihwjkWjLTmcUMDf2eV4IUP42oJx+VOE8mXVNEHPHVcoWg5Drf22Ng1XEozRPClOp6YFe6HC/TYBIALnOFz7CrhFVAQ+PbUwuEhnAwJmImZ4hFZTo6T0sFHkPxXgIHOLfq0pLnQc2NQc4oWZhFLMEFoCFsS4Bn1GdkJvZamlGNQHoSzqNpvtVzCbPjjtAr+NqY=;WjH/1wDvALgcs8InOVjT0Q=="
+images:
+  - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-data-migration-vs-data-integration.jpeg"
+    width: 1200
+    height: 799
+    isCached: true
+
+secured: "KPtJeTSxAugQyoGdc6f0tU25Lp7AX2SKJ3pjEy6vKju6ckIB3VN8OAhV9mtj/GA2N7T/71Bs7QsIXR7EtoTwsdrN4mP9eBco6MX9Yb50kYdLcIbzRUSe2uL2S0byJtQaDLPgP6h/eK1AK+Ru3Pk5lR8uzE8qLbCGr6GuMfdDTCjGBrzW+kJil4lM1wat4l8Wzc4KEFLKhismf7b6SKOKnVh7a7C9CbmaEsp31hfl5NIVKv9zN21cHT7oz39Z2anf8V1kfaZO62N2jHAsjMqBHZQiEPPS6prA1MGF5GJTFUDC96kTAUXCWJ6j1mccvjvoLeppL8NOyzNLWX1gAHPVoo5xrUsSyG6oMGOLrNfhiXg=;dwAIp/VgdtS7VpxhJNFxNw=="
 ---
 

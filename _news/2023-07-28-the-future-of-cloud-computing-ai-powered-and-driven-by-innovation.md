@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

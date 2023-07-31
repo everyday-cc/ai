@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/machine-learni
 webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917"
 type: article
 quality: 56
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -56,31 +56,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Drones stay on course in difficult conditions thanks to machine learning control"
-    excerpt: "A new machine-learning based approach can control drones and autonomous vehicles more effectively and efficiently in difficult conditions, according to its developers at the Massachusetts Institute of Technology (MIT) and Stanford University."
-    publishedDateTime: 2023-07-26T15:24:00Z
-    webUrl: "https://www.imeche.org/news/news-article/drones-stay-on-course-in-difficult-conditions-thanks-to-machine-learning-control"
-    type: article
-    provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 34
-    images:
-      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Researchers develop machine-learning technique that can efficiently learn to control a robot"
-    excerpt: "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly."
-    publishedDateTime: 2023-07-26T16:07:00Z
-    webUrl: "https://techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-machine-learning-technique-efficiently-robot.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 30
 
 secured: "7Y65qlRzsJB0+kwP/gKs5HFenCUhUQWf3jmUeLr2KtmZvkh37vvXDrahTx6s7y6R5IZhpeOilVQYzjJ21C83iPnYevoSNqrfJ0P0ezc/Vf2eeK4Dqt3kEb+gydd374dKhhMyldmwpXJ7BhFmwbK45Qq/IcEgpVSJOZBYv4XqXZ9jyJYlHQPoi6PM5WiQh4npGgjSKl9Y4NmRmScGlFeOBLQpsfA9PtYJJ1y5h18C9Mh2mwsYaBgZK/CVztpxB3IQiz1AyOFWkNo9YadZghLwhQPQveW9YrPM6gXHCTnyj2OHobGQyHfNZVXhnTgPsqwPpvfFKZmNqIvunPwI4ALcVe5hyEFS0XjXizN5G5/Y9oFLFsnQPIrSwseTjRO9ZY/A+ufnNO1rhrPObgT3IycEQ9koyCr5yYaYLfU+LO97V9ipukMk2x8eHMdT/3bbofU550htHV3ZIuCskCaaK8gx3hSwZoSMXLlAy70oimxOE0L0mBKafMunpU4PUQd4Ruz6O1bxiP5ZEGFL9UxwvJmNgQ==;uVdCF6jxsvdyrIONR6WpXA=="
 ---

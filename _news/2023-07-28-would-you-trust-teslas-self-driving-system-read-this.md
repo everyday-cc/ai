@@ -28,6 +28,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Healthcare leaders urge caution on AI"
+    excerpt: "Healthcare leaders are urging caution when using emerging AI technologies such as generative AI and large language models, as they could lead to inaccurate info"
+    publishedDateTime: 2023-07-28T19:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-urge-caution-on-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tl5EDVBShnjNLEe/XeQ+ltvD5M4hMZaQ9745GaHCXyr+qB83NkwGoK6o/VOEu0yECrkvo2RZoEX3WJQlOh6jRKygf39BEuqKruSmmwvrLKD37zwxV2wYUM/srP1RsIGDrzX8HclNOsQD6OmyQ+BmKyCZ6bnRrsGUAubc4y6L8rlLGALZ0MwZt5qUAeUAQxRbn+LO83Qs7g/gRV8LXH6uE0RI6Qit8/uGNvR0kd2unRHBJGq+ldUpIOMaLjv6A/kJcHCSIYxa071WJzkBmZ1+W2BFXiIIhg1Qg6jISlOwTsExs+a+w7UM5cKi+O30SCMnYzMToLHbvurtuxuJsO2Q6HqxNWb6UJFHukuR0z0JgDLRtRuvTYZ8lyiT8nXOUKeK5h5xg/gswYvQwUtqvP4A4Gu60fxjABFmrcqzvQfatF0hPoSLT9Gh9LZns04P8VZ9LFybfRqQSsD4YkorWxqlKgdo4uR7Ta18vux7V381Vry3TViBtLL25U7OyAt/WLME6mXCIzDXl0rWrw+8CRauKw==;UkMFQqlcH73JZHNXdsQnew=="
 ---

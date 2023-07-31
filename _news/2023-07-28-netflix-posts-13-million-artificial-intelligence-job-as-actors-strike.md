@@ -198,6 +198,20 @@ related:
         width: 1350
         height: 901
         isCached: true
+  - title: "Hollywood is searching for AI specialists, offering handsome salaries, despite the strikes"
+    excerpt: "As per The Hollywood Reporter, the advert for the job at Netflix states: \"Our business is driven by Machine Learning/Artificial Intelligence, which fuels innovation in content creation and acquisition, personalization, payment processing, and other revenue-centric initiatives\"."
+    publishedDateTime: 2023-07-31T08:22:00Z
+    webUrl: "https://www.gamereactor.eu/hollywood-is-searching-for-ai-specialists-offering-handsome-salaries-despite-the-strikes-1290393/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 29
+    images:
+      - url: "https://www.gamereactor.eu/media/39/_4073943b.png"
+        width: 866
+        height: 488
+        isCached: true
   - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
     excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
     publishedDateTime: 2023-07-26T18:16:00Z

@@ -32,6 +32,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
+    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
+    publishedDateTime: 2023-07-28T11:27:00Z
+    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+    images:
+      - url: "http://images.wsj.net/im-823806?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Memory and Disk Drive Stocks Rally. Surprise! The Driver Is Generative AI."
     excerpt: "Shares of Seagate Technology, Western Digital and Micron Technology shares are all trading sharply higher as spending on AI-related hardware accelerates."
     publishedDateTime: 2023-07-27T23:30:00Z
@@ -61,20 +75,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/9c/a9c3c20e-c067-53ff-b79b-aa4d53cdaca9/63517bff59a39.image.jpg?crop=1141%2C599%2C0%2C325&resize=1141%2C599&order=crop%2Cresize"
         width: 1141
         height: 599
-        isCached: true
-  - title: "How Carol Juel is leading Synchrony through the hazards of generative AI"
-    excerpt: "The bank's chief technology officer is testing several ideas for using advanced AI to improve processes and customer experience."
-    publishedDateTime: 2023-07-26T15:32:00Z
-    webUrl: "https://www.americanbanker.com/news/how-carol-juel-is-leading-synchrony-through-the-hazards-of-generative-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 38
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/13c6115/2147483647/strip/true/crop/800x420+0+147/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F7e%2F6a%2F1b6989c94eb7a1f60ee0f15c872e%2Fimg-0752.jpeg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "AYZp0fTTUoiQfndDhfLtDtdwEA+bJc3dvnB8xVBnN+3CmROR4Ql7CEcUdEwJZQMQ66IqNvUvV12EcOQxz3cgD7uxbFb2ze4KxAG149ObqErdwvICEb9HU6BHkEYxFtrDlpppOb5z6mt2zs0Bje7cR47FNhbFX9E4aNL5NNAAFHoj02dyRwotf26YWHMufDpf8pATmy4lEmvKyoxAHVxLlb/1L7ZfupxSK0A75Ez0xyvWANhzBVL//1R+jCUVeqwXpvN0KZiKwubGogPFNsQlsQV97Og7NJUrS1YpG39mqEvZC1FZWGxskhVLcsL51DKYY5SJ8z3L/6sIw6iHZ++0ks701gK4ibqvvxgHo3Qr62pVYbS2+j6w7lGCsI9c54QfQqWQBH6y8tYHfSBaMSD8+OcE4ASTWX34A5s6Ql6qDSMc9mUNtdstsSWnQW+w/y4lzI9IyAsn1KvaBtzUf4WOZEuh+hoKmcJ4IWFUEVWisLyocGcW1391BATYQxCnmzzXeXds4RZFmd4ndyVdu6j2Dw==;FxZsfYXgADkxfjevOfBoWg=="

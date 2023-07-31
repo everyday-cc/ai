@@ -22,52 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "Egnyte is bringing generative AI capabilities to its storage platform"
-    excerpt: "Egnyte became the latest enterprise software company to offer generative AI capabilities on its platform today."
-    publishedDateTime: 2023-07-26T15:59:00Z
-    webUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/"
-    ampWebUrl: "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1193843538.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI capabilities come to Amazon QuickSight"
-    excerpt: "Quicksight’s new generative AI will also be able to create calculations, Amazon says. Clicking “Ask Q” and describing a calculation will yield a corresponding expression syntax, saving time the time it’d take to look up the syntax, ostensibly."
-    publishedDateTime: 2023-07-26T17:00:00Z
-    webUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/"
-    ampWebUrl: "https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/11/mvimg_20171129_165124.jpg?resize=1200,733"
-        width: 1200
-        height: 733
-        isCached: true
-  - title: "Egnyte adds generative AI smarts to streamline content collaboration"
-    excerpt: "Content platform Egnyte today enhanced its platform with new generative AI smarts, including text summarization, transcription and more."
-    publishedDateTime: 2023-07-26T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/egnyte-adds-generative-ai-smarts-to-streamline-content-collaboration/"
+  - title: "ServiceNow partners with Nvidia and Accenture on ‘AI Lighthouse’ for rapid enterprise AI adoption"
+    excerpt: "The program aims to help customers build and deploy custom generative AI large language models (LLMs) and generative AI applications."
+    publishedDateTime: 2023-07-26T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1690384951113.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 375
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_futuristic_lighthouse_beams_glowing_digital_computer__eca72640-231d-4a86-960c-3ac35e4c93ae.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
+  - title: "ServiceNow Stock Drops After It Beats, Raises And Adds AI Services"
+    excerpt: "After reporting growth and profitability above expectations and raising guidance for the year on July 26, its stock lost 5% of its value."
+    publishedDateTime: 2023-07-27T12:40:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/07/27/servicenow-stock-drops-after-it-beats-raises-and-adds-ai-services/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Nvidia, ServiceNow, Accenture partner on generative AI effort for enterprise businesses"
+    excerpt: "ServiceNow CEO Bill McDermott described Wednesday's announcement as \"a transformational moment for business to revolutionize how work gets done.\""
+    publishedDateTime: 2023-07-26T22:23:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/26/nvidia-servicenow-accenture-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 9
 
 secured: "95zHBDsHncaA+TcRshxyckusB7X2+7CYPZkD3Wb0st+dIDIYX2psS76IEVEPzMOzJ67FbSD/ia1/FMhQ7flgZz+r5agkV8FA+028v1BxL028L1mIDsJHqEHa2ebFSdYjli5SOtiEeNVB8e/gXGs829829W04yDu2bVPzqa0fXWB23EG+4HiOOkYL1AszP/wPRQyILHFynWKY6Z8nyCFFKRuS3Es+eNVD33rjbHFlY/5GqvdwrKp0t07ZfR/0iccq+v3N3hbAPY0enkf2kUbwYjMAeqBO7MNRyasjTmel7fzUrI/6hhrzPoolU9hZnkHSa84LoMfH1qjNkmLMHlMCAS1Nfh6zWV/ZmgufMu6aBaZy2UzsK1pPkdPCftmgAw75W+yGFIGQ7Xr2FXeW6l4D+ogQd8d1ESh3CnwT7eFk/Fxof7Ac2cqixMjx0D3BB9gU6qLeW2DShuqIVwjzyIXDj/qOmwoaQNOs5lae2fwkamEPV0i3GdyCvaf/tJu3Gsp+wvkhoseChKUGJZJ/J+UsGA==;GnVbuMI7uQwWOcxizzd2jg=="
 ---

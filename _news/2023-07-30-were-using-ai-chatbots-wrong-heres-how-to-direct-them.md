@@ -20,34 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools"
-    excerpt: "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google"
-    publishedDateTime: 2023-07-26T16:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHYEvk8TxBUA/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
-    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
-    publishedDateTime: 2023-07-28T11:27:00Z
-    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-    images:
-      - url: "http://images.wsj.net/im-823806?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI prompt engineering: learn how not to ask a chatbot a silly question"
     excerpt: "Understanding how to interact with ChatGPT and its rivals so that their output matches your expectations will soon be a key office skill. Here’s what you need to know"
     publishedDateTime: 2023-07-29T13:00:00Z
@@ -64,15 +36,20 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI Chatbots Are The New Job Interviewers"
-    excerpt: "Chatbots are increasingly being used by companies to interview and screen job applicants, often for blue collar jobs. But like other algorithmic hiring tools before them, experts and job applicants worry these tools could be biased."
-    publishedDateTime: 2023-07-26T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/07/26/ai-chatbots-are-the-new-job-interviewers/"
+  - title: "Earning A Master’s In Computer Engineering: What To Know"
+    excerpt: "If you work in the computer technology or engineering field and already have a bachelor’s degree, a master’s in computer engineering can help you qualify for higher-level positions or even a doctoral program,"
+    publishedDateTime: 2023-07-28T13:39:00Z
+    webUrl: "https://www.forbes.com/advisor/education/masters-in-computer-engineering/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 54
+    images:
+      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/07/person-working-with-computers.jpeg.jpg"
+        width: 958
+        height: 539
+        isCached: true
   - title: "DoorDash Is Working on an AI Chatbot to Speed Up Food Ordering"
     excerpt: "DoorDash Inc., the US food-delivery service that competes with Uber Technologies Inc. and GrubHub, is looking to speed up ordering and help customers find food options with an artificial intelligence-based chatbot."
     publishedDateTime: 2023-07-27T19:06:00Z
@@ -82,31 +59,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
-    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
-    publishedDateTime: 2023-07-26T23:05:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "A Christian Chatbot? How AI Could Transform Bible Study"
-    excerpt: "Nils Gulbranson hopes his “Christian ChatGPT,” Biblemate.io, will help believers and non-believers to find answers to life’s"
-    publishedDateTime: 2023-07-27T20:00:00Z
-    webUrl: "https://www.movieguide.org/news-articles/a-christian-chatbot-how-ai-could-transform-bible-study.html"
-    type: article
-    provider:
-      name: Movieguide
-      domain: movieguide.org
-    quality: 39
-    images:
-      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/07/mojahid-mottakin-lmhMI34pPMA-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Experts discover workarounds to evade chatbot AI safety rules"
     excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
     publishedDateTime: 2023-07-30T03:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Generated Data Can Poison Future AI Models"
-    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
-    publishedDateTime: 2023-07-28T11:16:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Protecting the Future of the Electric Grid with Artificial Intelligence"
     excerpt: "As the DOE urges grantees to incorporate advanced technology into grid operation, more and more power utilities will look to solutions that employ artificial intelligence"
     publishedDateTime: 2023-07-28T19:46:00Z

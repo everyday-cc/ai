@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Services Group Inc. (HCSG) Stock: Tracking the Weekly Performance"
-    excerpt: "The stock of Healthcare Services Group Inc. (HCSG) has seen a -11.98% decrease in the past week, with a -7.33% drop in the past month, and a -5.26% decrease in the past quarter. The volatility ratio for the week is 2."
-    publishedDateTime: 2023-07-26T16:37:00Z
-    webUrl: "https://newsheater.com/2023/07/26/healthcare-services-group-inc-hcsg-stock-tracking-the-weekly-performance/"
-    type: article
-    provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 36
-    images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-111.png"
-        width: 640
-        height: 425
-        isCached: true
   - title: "International Business Machines Corporation (IBM) Stock: A Look at the Analyst Recommendations"
     excerpt: "International Business Machines Corporation (NYSE: IBM) has a higher price-to-earnings ratio of 69.94x compared to its average ratio. compared to its average ratio and a 36-month beta value of 0.85. Analysts have mixed views on the stock,"
     publishedDateTime: 2023-07-31T07:19:00Z

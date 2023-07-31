@@ -39,20 +39,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Healthcare Services Group Inc. (HCSG) Stock: Tracking the Weekly Performance"
-    excerpt: "The stock of Healthcare Services Group Inc. (HCSG) has seen a -11.98% decrease in the past week, with a -7.33% drop in the past month, and a -5.26% decrease in the past quarter. The volatility ratio for the week is 2."
-    publishedDateTime: 2023-07-26T16:37:00Z
-    webUrl: "https://newsheater.com/2023/07/26/healthcare-services-group-inc-hcsg-stock-tracking-the-weekly-performance/"
-    type: article
-    provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 36
-    images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-111.png"
-        width: 640
-        height: 425
-        isCached: true
 
 secured: "BoHBH+D5CGrywWh6mLYgR4dXYE2sP3bxAG3BUEdSbKr1EaliIaUxQdllyHJ6V82+j2z2i5+7YRGH046H7LOmfq1nn+sy9yDDYqpuw8UYg+w5mesA2BEocQdRl5mJxnmtFRpNpwSQsZdq1RNNMDd54M3ugmFwa0eBIWGQsFoRwba5jYkQW4ADcSbshYlBQAhCVs4vi5hTzr2kE7+jR71pwWAf0dJWoZa8TUHxHyO33qjxYrbHglamc2vWIvq6I03Xp1OC3ir11gNC4S26cXdYE2PvuPRfpRLN/Hzd7t38ikKV9D8tAkg3nwFH69dbmJOWm7pX6XkEb3UAsnpkcEK36wLw8USNyCH2Iog2a/qkLdM=;Oyb5r2/1tLydbyL4RTOA1A=="
 ---

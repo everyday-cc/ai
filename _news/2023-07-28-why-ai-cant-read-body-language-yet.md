@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
+    excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
+    publishedDateTime: 2023-07-28T09:00:00Z
+    webUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/64c30ccecf0778001965f5a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Demonstrating Why AI Can’t Do High-Quality Translation"
     excerpt: "With all the excitement and anxiety about AI soon matching or exceeding human intelligence, it turns out that AI hasn’t actually made much progress since the 1950s."
     publishedDateTime: 2023-07-28T12:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Facebook AI
 
 related:
-  - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
-    publishedDateTime: 2023-07-27T09:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-better-be-buying-on-each-and-every-dip-1032483582"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "If You Can Only Buy One AI Stock, It Better Be One of These 3 Names"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If an investor were limited to purchasing a single AI stock investment, any of"
     publishedDateTime: 2023-07-27T10:12:00Z
