@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-23-ai-startups-outpace-others-in-securing-funding-from-vcs.md",
-      "title": "AI startups outpace others in securing funding from VCs",
-      "excerpt": "Sponsored Jobs Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More While fintech has enjoyed the largest stake of funding in recent years it seems to be losing its luster — in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
-      "originalUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
-      "publishedDateTime": "2023-05-23T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-18-fintech-ramp-launches-money-saving-ai-tools-for-businessesannounces-microsoft-ceo-more-as-investors.md",
       "title": "Fintech Ramp Launches Money Saving AI Tools For Businesses—Announces Microsoft CEO, More As Investors",
       "excerpt": "The four-year-old corporate credit card startup is using OpenAI's GPT-4 and billions of dollars of transaction data to tell businesses whether quoted software prices are a good deal—or not.",
@@ -1374,6 +1322,58 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-trovata-launches-first-generative-ai-finance-treasury-tool.md",
+      "title": "Trovata Launches First Generative AI Finance & Treasury Tool",
+      "excerpt": "Trovata Launches First Generative AI Finance & Treasury Tool May 03, 2023 (PRNewswire via COMTEX) -- PR Newswire SAN DIEGO, May 3, 2023 Trovata",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

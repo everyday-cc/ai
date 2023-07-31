@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Major AI companies form group to research, keep control of AI"
-    excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Brad Smith, vice-chair and president of Microsoft. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"
-    publishedDateTime: 2023-07-26T13:16:00Z
-    webUrl: "https://arstechnica.com/ai/2023/07/major-ai-companies-form-group-to-research-keep-control-of-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "Some Reasons Not to Fear Artificial Intelligence"
     excerpt: "However, a long history of adopting new technology has shown that such fears may be misplaced. Paranoia about artificial intelligence includes the view that it will attack our personhood by outdoing human creativity and ingenuity. Such fears may be overblown."
     publishedDateTime: 2023-07-26T15:51:00Z

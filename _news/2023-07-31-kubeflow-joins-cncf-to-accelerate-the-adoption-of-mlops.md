@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cnc
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64c74b2ceb8e510cf216a81a/0x0.png?format=png&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 500
     isCached: true
 
-secured: "OHzN2GNgEi+vupbGs+emSATgZ/8ZngqgubeMa+OM6zIHsno7utrMI9UqVSDPt4KIYhFzEjomQM1h93VfYeXFdYlWxMBOQAC6S4ht19Sz9zFfb++Wg76Leimt+J51f5h+rzUB3iMQufft37Xbr36cLBeyQVguSPFHQBcEgAT1npedYXQyUWam4Lr1Beb3Icm9A4qoa0OzB6WE7M6QaenxxV2mD8iAqdkeO/z1c0oi+Pi8gqJg38sTt8DJjpvvdJdkT2GBZH6Bxhx4g5iN3DJOSq+gAch5wn2YR5yCWLw2s9aUDT4jZEwUZQ74lkoS5gMJppQ3rLjyZguEsyRus+j1s1ouKhX6vf6E0HL6atyEY+k=;ZEktAxo/IUc+rNhioGqwPw=="
+secured: "nMxUxKHe13PB/MLICKDMzIYmWXsoeiJCZJg+GCjhGjijTXCocYknIJFEDH7E5IfMdno5Z7mWOFXiB4ri8Ki+7CQmoG4MfCXQo4Sh8YNx28giwOjF0SnbO6KSgl9YD5J1cNmoGXRusO/cTWLsoo58dKcn6MxYTdQ8zslo7xHx/tY/pXsP1ZMV8gBUn0qZ1j4HhlcKb+4PWA0R8pZnjK1CGHzM2wiH1ujSZnUtui8FDjOM7JNTooeFVGABCWTTyLh9vsw85OKHQZHw9O0i9yhTgaOOJHJt4l1znNlxH62lpfiju5J/A3HoBGYQbidOltMT5WQlQGfMzgnOGb43hUk9SzBA6bJAEeuOvhngz9STxqiqjahQn8SBYYXPsGkwAtuYgpL0wSegN3onU7qpGL7II55iH5u3KT2zT9QvOkfYWlagO7DYhXUVZO8Irv57OqKqHS05AKP3Hxcy5Qkb1MPWnyqZXf8xE9kF/x97Z+Ji/sLxsfhMIXTFRNyKH7x+52ZU/mGKEa3GCnfaULRg9RXSug==;HCVsTTEJHIYnFkzS5fUbSw=="
 ---
 

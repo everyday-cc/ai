@@ -49,15 +49,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Imagene's Ai-Based Molecular Profiling Revolutionizes Lung Cancer Diagnostics: Two Patients Receive Immediate Targeted Therapy, Avert Brain Radiation"
-    excerpt: "A groundbreaking case report publication on the impact of rapid molecular testing on lung cancer patients   TEL"
-    publishedDateTime: 2023-07-26T13:11:00Z
-    webUrl: "https://menafn.com/1106698858/Imagenes-Ai-Based-Molecular-Profiling-Revolutionizes-Lung-Cancer-Diagnostics-Two-Patients-Receive-Immediate-Targeted-Therapy-Avert-Brain-Radiation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "lpkPtD4Jl+T9lK2XL4tex2S2iWGKLzsbzXdgbC/Hx6zEku8tsxmDhAImeCAVMu1JPGXDn/ro8pjAWyT7C84Aez1QsXSvuTHB8sU/ifk3q+5WV3fyp6t0BXpiZUxNl10SkrTGYJ/pgCsVnQhkcCTuAumIqRRa6Qwh7QBXvqr+2lou2sURYX5/7mbri5CD3+OC/nCdoso/3q6g7AVRvM5y1+Kh0MkZq2O7HKpVsxyDHzNkNCU3CHude3p/en8EteXoAl5/vHz9giHAJfwobasxMpo+Yg8jedOqVgve3gPXSpLenP3fJEDEZrr/4zbWZh0GtdKntAfF3aG45Z8y77QWu7s9mO9HTnxMXpJR5wI/bEw=;jnVomlKDeWg4g+U12RjUbQ=="
 ---

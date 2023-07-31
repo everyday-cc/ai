@@ -50,15 +50,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 1
-  - title: "Imagene's Ai-Based Molecular Profiling Revolutionizes Lung Cancer Diagnostics: Two Patients Receive Immediate Targeted Therapy, Avert Brain Radiation"
-    excerpt: "A groundbreaking case report publication on the impact of rapid molecular testing on lung cancer patients   TEL"
-    publishedDateTime: 2023-07-26T13:11:00Z
-    webUrl: "https://menafn.com/1106698858/Imagenes-Ai-Based-Molecular-Profiling-Revolutionizes-Lung-Cancer-Diagnostics-Two-Patients-Receive-Immediate-Targeted-Therapy-Avert-Brain-Radiation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "D/gb5mySEPK1OkFRpD+v2lyQVSsJrXCbVujCT+Acs5XdIcwWt81p9wh46A1WJmWhcChHGtDj6o9CQ0WhmhEd4d332NsndZMl41C7EHCd9yiy5gb3E1Bu3trzdtKnX8Hmoq7mVVrL7VF7AzpsmgPs3tHvinPtgI9JhO4vNz25kUSYVKqAb9ndPX9LfVIBZnAl9KqpUDdb94HqrLykX50GiyzAc4loTE7z0OC8jNzOMgeeGaCh0sq/d77yWDs6eiw5sJkxPftBUcvf2Cb/fE2GfleAaPZ9hkoWs2LtoI9pJCN3tUOIglzqvBpIv6pwr0/wb0elAh0brCyJmZGvS27+7wB+58juuo9iVLFBHPw0qp4=;UPA+MTKIe+vCUE4FOuaxfA=="
 ---

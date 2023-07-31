@@ -19,63 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "US lawmakers struggle to find deal on self-driving cars"
-    excerpt: "Congress still faces serious hurdles to winning approval for long-stalled legislation to speed the adoption of self-driving cars."
-    publishedDateTime: 2023-07-26T16:02:00Z
-    webUrl: "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/"
+  - title: "Self-Driving Cars Are Here. What Could Go Wrong."
+    excerpt: "Hundreds of autonomous vehicles from Amazon, GM, and Alphabet are operating across the country. But safety concerns are real, as are fears about the U.S. falling behind China in driverless technology."
+    publishedDateTime: 2023-07-27T21:04:00Z
+    webUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+    ampWebUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/MrMppNk3ohKSJBN0NahPuzv99Ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMXA5TMYMNORXKF5MBF6OVMY2A.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "US lawmakers struggle to find deal on self-driving cars: Report"
-    excerpt: "Approval for self-driving car legislation in Congress is uncertain due to concerns about China's aggressive efforts in this technology. Opposition from safety groups and labor unions also raises apprehensions about the proposed legislation."
-    publishedDateTime: 2023-07-27T21:51:00Z
-    webUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report-11690452142431.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/us-lawmakers-struggle-to-find-deal-on-self-driving-cars-report/amp-11690452142431.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: Barron's
+      domain: barrons.com
     quality: 44
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/27/600x338/self_driving_cars_1690452752441_1690452762276.png"
-        width: 600
-        height: 338
+      - url: "https://images.barrons.com/im-824945?size=1.5005861664712778&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "US lawmakers struggle to find deal on self-driving cars"
-    excerpt: "Handout photo courtesy of the Nevada Department of Motor Vehicles shows a Google self-driven car in Las Vegas, Nevada, May 1, 2012. REUTERS/Nevada Department of Motor Vehicles/Handout/File"
-    publishedDateTime: 2023-07-27T07:39:00Z
-    webUrl: "https://www.reuters.com/news/picture/us-lawmakers-struggle-to-find-deal-on-se-idUSKBN2Z61TB"
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
+    publishedDateTime: 2023-07-26T16:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/07/26/autonomous-vehicles-self-driving-cars-avs/c9c898b6-2bf8-11ee-a948-a5b8a9b62d84_story.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
-  - title: "Cruise is bringing its self-driving cars to Nashville"
-    excerpt: "Cruise is expanding its robotaxi operations in Nashville, the seventh city in the U.S. to get the GM subsidiary's self-driving cars."
-    publishedDateTime: 2023-07-27T18:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/27/cruise-is-bringing-its-self-driving-cars-to-nashville/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-  - title: "Lobbyists And Lawmakers Want You To See The Race To Self-Driving As A Race Against China"
-    excerpt: "Also, Stellantis' CEO doesn't think he's needed at UAW contract talks and VW expects to sell fewer cars this year than it planned, all in today's Morning Shift."
-    publishedDateTime: 2023-07-27T15:08:00Z
-    webUrl: "https://jalopnik.com/lobbyists-and-lawmakers-want-you-to-see-the-race-to-sel-1850681770"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 10
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 18
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SPIXDURL7EI65KKIUW4KTNRNQQ_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 1070
+        isCached: true
 
 secured: "F8sxCAneU2BUp48lTh77f0MMpCuyujYok7BSqHgZCGRvPW9KD6H8GtMuLghd2RX1CPj1uqgHhJxhzElm1+SkU9+lAXCdMdwBcxefBww9l9SQB1ds+R5OqKxPz6PnSq7qldmAGuxJr7S9hGoFIlHAlYJdQfu84MwQq1lYA3s9jv+mTS3PROZ7Nyai/42/deXwicfIhQISCqFu6Wn3eu59BkVIccX6Us3A7bMDfOP9pbPOCpTMff4YBWuxih3awjzlQpLxArzTEjjosFlC6auqcIpT3LXDLq09kfAwdojdwxflUjNbwXpWrsvEf2Q61CO4FG3HusAD8PpQuv385cMVEvtv6Z1RJHua/lJ4xTzeOuyBpP35p4lcd8d7qK8L+MfgEtlBr7BfEOYzA8s4wgNrAgwaZ7nL8S7AN+3+EkTB1HFn45nEp5qaOOm4b09qFjtWodHD//3RO/0ln+vVBmXPLtxlZ7hrWtjX/M53gc6w5y/rD7HY+6KqGAWuVJ4JeE1I9I0El5zEprXrWOUVQtaF/g==;o7eb9vUbsprC4jJElqIPnQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Micron Announces “Second Generation” HBM3 Memory For Generative AI Workloads"
-    excerpt: "Micron has now entered the HBM3 race with what the company calls a “second-generation” HBM3 design, based on a faster, denser, more advanced semiconductor process node."
-    publishedDateTime: 2023-07-26T13:06:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/07/26/micron-announces-second-generation-hbm3-memory-for-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
   - title: "AXA deploys secure generative AI to employees"
     excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
     publishedDateTime: 2023-07-28T15:20:00Z

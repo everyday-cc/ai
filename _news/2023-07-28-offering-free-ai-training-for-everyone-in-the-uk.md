@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/go
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
-    excerpt: "The advent of AI-enabled drones holds huge promise for Ukraine’s military but may also be exploited by nefarious non-state actors."
-    publishedDateTime: 2023-07-26T14:03:00Z
-    webUrl: "https://www.detroitnews.com/story/news/world/2023/07/26/the-war-in-ukraine-is-spurring-a-revolution-in-drone-warfare-using-ai/70469007007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
     excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
     publishedDateTime: 2023-07-26T19:43:00Z

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-27-autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-223m.md",
+      "title": "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M",
+      "excerpt": "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/",
+      "originalUrl": "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/",
+      "publishedDateTime": "2023-07-26T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-venture-firm-debuts-150-million-fund-for-indian-ai-startups.md",
       "title": "Venture Firm Debuts $150 Million Fund for Indian AI Startups",
       "excerpt": "Indian venture capital firm Together Fund announced a $150 million early-stage fund to back AI companies, aiming to capitalize on use of the technology in the software-as-a-service market.",
@@ -258,7 +309,7 @@
       "originalUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -890,6 +941,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-27-if-you-can-only-buy-one-ai-chip-stock-it-better-be-one-of-these-3-names.md",
+      "title": "If You Can Only Buy One AI Chip Stock, It Better Be One of These 3 Names",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is driving markets higher. For the past seven",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting.md",
       "title": "Northern Arc’s ML tool NuScore to aid Pahal Financial Services’ underwriting",
       "excerpt": "Northern Arc Capital's Nu Score, a machine-learning based analytical tool, will be used for underwriting and risk assessment by Pahal Financial Services, a Gujarat-based NBFC. Pahal aims disbursement of Rs 2,",
@@ -942,7 +1037,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -1099,7 +1194,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 453,
+      "heat": 383,
       "tags": null,
       "images": [
         {
@@ -1140,110 +1235,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-us-lawmakers-struggle-to-find-deal-on-self-driving-cars.md",
-      "title": "US lawmakers struggle to find deal on self-driving cars",
-      "excerpt": "Congress still faces serious hurdles to winning approval for long-stalled legislation to speed the adoption of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/",
-      "originalUrl": "https://www.reuters.com/world/us/us-lawmakers-struggle-find-deal-self-driving-cars-2023-07-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MrMppNk3ohKSJBN0NahPuzv99Ow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMXA5TMYMNORXKF5MBF6OVMY2A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform.md",
-      "title": "Egnyte is bringing generative AI capabilities to its storage platform",
-      "excerpt": "Egnyte became the latest enterprise software company to offer generative AI capabilities on its platform today.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/",
-      "originalUrl": "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1193843538.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/amp/",
-      "publishedDateTime": "2023-07-26T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

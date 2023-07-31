@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "BMW Is Going To Sell A Real Self-Driving Car, And We Tried It Out"
+    excerpt: "BMW's new Level 3 system is actually headed to production. Reset your expectations for what it's capable of, though."
+    publishedDateTime: 2023-07-26T15:07:00Z
+    webUrl: "https://www.slashgear.com/1349270/bmw-real-self-driving-car-test-level-3-highway-autonomy/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 54
+    images:
+      - url: "https://www.slashgear.com/img/gallery/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-hands-on-forced-evolution/intro-1690337360.jpg"
+        width: 780
+        height: 438
+        isCached: true
   - title: "US lawmakers struggle to find deal on self-driving cars"
     excerpt: "Congress still faces serious hurdles to winning approval for long-stalled legislation to speed the adoption of self-driving cars."
     publishedDateTime: 2023-07-26T16:02:00Z
@@ -62,23 +76,14 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "Lobbyists And Lawmakers Want You To See The Race To Self-Driving As A Race Against China"
-    excerpt: "Also, Stellantis' CEO doesn't think he's needed at UAW contract talks and VW expects to sell fewer cars this year than it planned, all in today's Morning Shift."
-    publishedDateTime: 2023-07-27T15:08:00Z
-    webUrl: "https://jalopnik.com/lobbyists-and-lawmakers-want-you-to-see-the-race-to-sel-1850681770"
+  - title: "Congress Urged to Revive Debate about Regulating Self-Driving Vehicles"
+    excerpt: "Advocates for the industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-27T15:30:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22868477/congress-urged-to-revive-debate-about-regulating-selfdriving-vehicles"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 10
-  - title: "Congress urged to help get more self-driving vehicles on US roads"
-    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal government doesn't take steps in support of fully autonomous vehicles."
-    publishedDateTime: 2023-07-26T18:59:00Z
-    webUrl: "https://www.freep.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 4
 
 secured: "KseGNReUSuc7rufzaxk/K0IjJQpWZ2GZqIrsw76m6zPj4HnhpmIPwwTrLh3KS/Hlk7xTdtOO1AJbvCiKYaETA3ItyJx0fAUGAOdbOfVWJFVFv2JbMMMTWWRnOLZerXmhl3A027S9fYE1+Y1D1LjghiilDGcTXHM09s5Ykv356yaRlt3+/t4pF9VJnQ2qyiH1y9QXz5uSN/ZvXVgv/SKxPjvu8WTl81DFMQ/bg2PGj+XFFCcEu/rK9Av4pxgJKCGCaQfyKBltTL+k7CGtjQ0BDqY2qv9rgc+nSJHXXxVYWiZDGsXKdBIoCLBKSLtR+Hmwie3mo0s7lWPkbnPXLlH0UAkDlnj8w702C7nuy4lF4RLAMwmUHy4wHpmGfd+/9pZ1gk0ehAZ6hCFjChS9kfUFG5J+e6R7Xdvz7VdHKdnyzo0lUjxuK7/hCdcPqD5FL5bBvFwEW2bZ+y1JApSkAnutxWjUUDSpOSjCxejbzBF1e32T0F2SDHf+C5jtQ/ohygGNQCpwNSScgRsVPdw/cbnF6Q==;rNy9eY4Vs9LrkrkeY8XoHA=="

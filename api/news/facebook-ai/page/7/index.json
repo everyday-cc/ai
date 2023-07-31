@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-28-what-do-ai-art-generators-think-a-ceo-looks-like-most-of-the-time-a-white-guy.md",
+      "title": "What do AI art generators think a CEO looks like? Most of the time a white guy",
+      "excerpt": "A team of researchers from AI firm Hugging Face — one of whom is a former AI ethics researcher at Google — and a professor from Germany's Leipzig University published a study to identify how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "originalUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6421d4d0b50c290018641ec3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "publishedDateTime": "2023-03-28T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts.md",
+      "title": "2023, A Research Report on the AI Infrastructure Market With Statistics and Forecasts",
+      "excerpt": "the AI Infrastructure Market Report includes data on research and development, New product launches, product feedback from global and regional markets by key players. This structured analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031.md",
       "title": "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031",
       "excerpt": "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major",

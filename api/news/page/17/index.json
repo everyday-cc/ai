@@ -2,6 +2,126 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-07-19-facebook-parent-meta-makes-public-its-chatgpt-rival-llama.md",
+      "title": "Facebook parent Meta makes public its ChatGPT rival Llama",
+      "excerpt": "Facebook parent company Meta Platforms ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/ypcl3y/article67096798.ece/alternates/FREE_1200/Meta_Artificial_Intelligence_78805.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece/amp/",
+      "publishedDateTime": "2023-07-18T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-robot-control-system-internship-with-lab42.md",
+      "title": "Robot Control System Internship with Lab42",
+      "excerpt": "The gThe goal of the project is to develop a robot control system that can be successfully used on robots with flexible arrangements of sensors and actuators to solve various tasks. The robot control system will be developed according to principles that ...",
+      "sourceUrl": null,
+      "webUrl": "https://ethz.ch/de/die-eth-zuerich/globales/netzwerk/eth-studios/eth-studio-davos/bioinformatics-internship-with-siaf1.html",
+      "originalUrl": "https://ethz.ch/de/die-eth-zuerich/globales/netzwerk/eth-studios/eth-studio-davos/bioinformatics-internship-with-siaf1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ethz.ch/etc/designs/ethz/img/header/eth_default_og.jpg",
+          "width": 1564,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETH Zurich",
+        "domain": "ethz.ch",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
+      "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
+      "excerpt": "SAN FRANCISCO, July 19 (Reuters) - Tesla TSLA.O Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
+      "originalUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-the-ai-behind-chatgpt-really-does-seem-to-be-getting-dumber-but-no-one-can-quite-figure-out-why.md",
       "title": "The AI behind ChatGPT really does seem to be getting dumber — but no one can quite figure out why",
       "excerpt": "There's been a growing feeling for a while now that the AI model behind ChatGPT is ... No one can quite figure out why GPT-4 is changing What the research doesn't seem to identify is why this ...",
@@ -864,6 +984,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
+      "title": "How AI is helping to translate the Bible into rare languages",
+      "excerpt": "But one team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages. Ulf Hermjakob and Joel Mathew are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "originalUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360",
+          "width": 540,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "publishedDateTime": "2023-07-18T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Catholic News Agency",
+        "domain": "catholicnewsagency.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-microsoft-announces-azure-ai-trio-at-inspire-2023.md",
       "title": "Microsoft announces Azure AI trio at Inspire 2023",
       "excerpt": "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale.",
@@ -1007,194 +1170,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-2-top-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top AI Stocks Ready for a Bull Run",
-      "excerpt": "Semiconductor companies will play a central role in adopting AI as advanced chips are needed to train large language models and also for running inferences on the trained models. For instance, OpenAI's popular chatbot, ChatGPT, was reportedly trained using more than 30,000 graphics processing units from Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740040/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-web3-meets-ai-a-dynamic-duo-transforming-user-experiences.md",
-      "title": "Web3 Meets AI: A Dynamic Duo Transforming User Experiences",
-      "excerpt": "By integrating AI technologies into their platforms, innovative companies aim to provide enhanced user experiences, streamline processes, and deliver cutting-edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59f0b88ffbe0aac248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "publishedDateTime": "2023-07-18T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ai-and-advanced-applications-are-straining-current-technology-infrastructures.md",
-      "title": "AI and advanced applications are straining current technology infrastructures",
-      "excerpt": "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "originalUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/28e0c7652f5d2bd561c5c6d4f0ce4ad069b88299/2023/07/18/be068a2f-3083-43e1-bc85-8ee67d15ecf4/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "publishedDateTime": "2023-07-18T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
-      "title": "How AI is Helping to Translate the Bible Into Rare Languages",
-      "excerpt": "But one team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages. Ulf Hermjakob and Joel Mathew are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "originalUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
-      "cdnAmpWebUrl": "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
-      "publishedDateTime": "2023-07-18T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Catholic Register",
-        "domain": "ncregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -27,35 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "BMW’s valet parking test trades red vests for remote driving rigs"
-    excerpt: "Part of the autonomous driving dream is the ability to jump out of your vehicle in front of the store, mall, concert hall, or museum and let the car find its own parking while you enjoy life. No more creeping along in garages thinking you found the perfect spot, only to have your delight dashed by the motorcycle you couldn't quite see."
-    publishedDateTime: 2023-07-26T14:59:00Z
-    webUrl: "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/"
+  - title: "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light"
+    excerpt: "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California."
+    publishedDateTime: 2023-07-27T15:58:00Z
+    webUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/"
+    ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 74
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Automated-Valet-Parking-002-800x532.jpg"
-        width: 800
-        height: 532
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "BMW Is Going To Sell A Real Self-Driving Car, And We Tried It Out"
-    excerpt: "BMW's new Level 3 system is actually headed to production. Reset your expectations for what it's capable of, though."
-    publishedDateTime: 2023-07-26T15:07:00Z
-    webUrl: "https://www.slashgear.com/1349270/bmw-real-self-driving-car-test-level-3-highway-autonomy/"
+  - title: "Tesla initiates email drive for Full Self-Driving transfer to customers"
+    excerpt: "San Francisco: Elon Musk -run Tesla has started a new email campaign to urge Tesla owners who have the Full Self-Driving (FSD) package to upgrade to a new car and transfer the FSD package."
+    publishedDateTime: 2023-07-30T10:25:00Z
+    webUrl: "https://telanganatoday.com/tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 54
     images:
-      - url: "https://www.slashgear.com/img/gallery/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-hands-on-forced-evolution/intro-1690337360.jpg"
-        width: 780
-        height: 438
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/07/Tesla-recalls-nearly-16K-Model-S-and-Model-X-vehicles-due-to-seat-belt-issue.jpg"
+        width: 1280
+        height: 750
+        isCached: true
+  - title: "Elon Musk says Tesla’s new Full Self-Driving update is ‘mind-blowing,’ but that doesn’t mean much anymore"
+    excerpt: "Elon Musk says Tesla’s upcoming new Full Self-Driving v12 update is “mind-blowing,” but that doesn’t mean much coming from"
+    publishedDateTime: 2023-07-27T14:21:00Z
+    webUrl: "https://electrek.co/2023/07/27/elon-musk-tesla-full-self-driving-update-mind-blowing/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Self-driving car advocates urge Congress to revive long-stalled debate"
+    excerpt: "Advocates for the self-driving vehicle industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
+    publishedDateTime: 2023-07-27T12:22:00Z
+    webUrl: "https://www.autoblog.com/2023/07/27/self-driving-car-congress-legislation/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-07/41d99420-2c78-11ee-b6ff-5ebc1e025625"
+        width: 1062
+        height: 597
         isCached: true
   - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
     excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
@@ -72,20 +102,6 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks"
-    publishedDateTime: 2023-07-26T16:15:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/07/26/autonomous-vehicles-self-driving-cars-avs/c9c898b6-2bf8-11ee-a948-a5b8a9b62d84_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 18
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SPIXDURL7EI65KKIUW4KTNRNQQ_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 1070
         isCached: true
 
 secured: "LI9xAtiDYaw1q8EIUyg7MvhlHLuuudoS1PzTEgDJpb5qzPCUcbJOu7MzRGlCnxa2XbX2NzWrvWNKLq1f7bqruDxP2Td3oS+TwtaisgHvxU2nm6ucc6eFRB2rihpxa5MEuMZBS3NXMld0dm57pWKZCfq/FJ51rSSXCAkJfrZMx3Ox9mmqb25Ck8jhebXXXXOX6WjRmEpeEVuYTzwJ/JmGOr5nP47NciBpvMvlLGaZsFOW0/bbT7WCJwCOr0ZAxiJsskI40D5kJysB3GH9WNEfe1I2WxNpUdE+plnnKB/XkttQtjac41v1IP2iUkPSlc8wAOsVtU96gOvsUX26McsGm4fnkz1gXiceqEjcL+T5ZPg=;tlqOsNdiketZME3/1whGZQ=="

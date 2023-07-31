@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 110
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service"
-    excerpt: "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article."
-    publishedDateTime: 2023-07-26T13:33:00Z
-    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Meta to Charge Cloud Computing Companies Fees for AI Model Llama 2 Despite Initial Open-Source Plans"
     excerpt: "Meta, formerly known as Facebook, has announced its decision to charge significant cloud computing companies, such as Microsoft and Alphabet, to use its artificial intelligence (AI) model, Llama 2. This is a surprise move,"
     publishedDateTime: 2023-07-28T12:12:00Z

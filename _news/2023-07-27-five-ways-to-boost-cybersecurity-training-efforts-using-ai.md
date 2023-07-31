@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c3bdca3e9ca5472f03e488/0x0.jpg?format=jpg&crop=273,273,x0,y79,safe&width=1200"
         width: 273
         height: 273
-        isCached: true
-  - title: "AI and machine learning cybersecurity startup Protect AI raises $35M"
-    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI Inc. today announced it has raised $35 million in new funding to scale up sales and marketing, go-to-market activities, research and development and customer success initiatives."
-    publishedDateTime: 2023-07-26T14:24:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/ai-machine-learning-cybersecurity-startup-protect-ai-raises-35m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
-        width: 2500
-        height: 1313
         isCached: true
   - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
     excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."

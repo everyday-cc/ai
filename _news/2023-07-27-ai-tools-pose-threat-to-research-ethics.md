@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-researc
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Major AI companies form group to research, keep control of AI"
-    excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Brad Smith, vice-chair and president of Microsoft. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"
-    publishedDateTime: 2023-07-26T13:16:00Z
-    webUrl: "https://arstechnica.com/ai/2023/07/major-ai-companies-form-group-to-research-keep-control-of-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "Artifact is getting an AI-powered text-to-speech feature to read you the news"
     excerpt: "Artifact — the new-ish news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. The company is offering the new feature as part of a partnership with Speechify."
     publishedDateTime: 2023-07-27T18:01:00Z

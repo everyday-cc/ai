@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI and machine learning cybersecurity startup Protect AI raises $35M"
-    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI Inc. today announced it has raised $35 million in new funding to scale up sales and marketing, go-to-market activities, research and development and customer success initiatives."
-    publishedDateTime: 2023-07-26T14:24:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/ai-machine-learning-cybersecurity-startup-protect-ai-raises-35m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
-        width: 2500
-        height: 1313
-        isCached: true
   - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
     excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."
     publishedDateTime: 2023-07-26T19:52:00Z

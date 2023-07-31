@@ -2,6 +2,161 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2023-05-09-the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office.md",
+      "title": "The AI Revolution Transforming Hybrid And Remote Work And The Return To Office",
+      "excerpt": "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing - while not eliminating - the benefits of office visits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
+      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645a5c605e5c27c4782796df/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/09/the-ai-revolution-transforming-hybrid-and-remote-work-and-the-return-to-office/amp/",
+      "publishedDateTime": "2023-05-09T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-how-to-use-craiyon-ai-formerly-known-as-dall-e-mini.md",
+      "title": "How to use Craiyon AI (formerly known as DALL-E mini)",
+      "excerpt": "The free web version of Craiyon will generate art, drawings, and photos from your text descriptions. There's also a Craiyon Android app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/34852bdb59340a3dd04bbaebf348bd73e92b6f83/2023/05/08/f6b999d1-6e29-426a-b7cf-c5aaecbd0f50/figure-top-2-how-to-use-craiyon-ai-to-create-amazing-images-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-craiyon-ai-formerly-known-as-dall-e-mini/",
+      "publishedDateTime": "2023-05-09T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-baidus-smart-speaker-unit-to-launch-a-phone-next-week.md",
+      "title": "Baidu’s smart speaker unit to launch a phone next week",
+      "excerpt": "The company has said it plans to embed its AI tools into all major business lines, including in search, autonomous driving and smart gadgets. The introduction of a handset under the Baidu umbrella ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3219778/baidus-smart-speaker-unit-launch-phone-next-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/08/b561cca7-b7a1-4868-9336-ece8b15bca44_79f1061e.jpg?itok=3T2253UF&v=1683534684",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-white-house-addresses-ais-risks-and-rewards-as-security-experts-voice-concerns-about-malicious-use.md",
       "title": "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use",
       "excerpt": "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology.",
@@ -1082,161 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-how-ibm-and-william-are-empowering-creatives-with-fyi.md",
-      "title": "How IBM and will.i.am are empowering creatives with FYI",
-      "excerpt": "What do will.i.am and IBM have in common? As it turns out, when it comes to empowering the next generation of creators, quite a lot.\nThe post How IBM and will.i.am are empowering creatives with FYI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ibm-and-will-i-am-are-empowering-creatives-with-fyi/",
-      "originalUrl": "https://www.ibm.com/blog/how-ibm-and-will-i-am-are-empowering-creatives-with-fyi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/230503_IBM_Think_2023_LI_personal_cover_1584x396_02-e1683590858412.jpg",
-          "width": 1001,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-introducing-watsonx-the-future-of-ai-for-business.md",
-      "title": "Introducing watsonx: The future of AI for business",
-      "excerpt": "It's time to put the power of AI in the hands of all “AI builders”, from data scientists to developers to business users who don't write code. Meet watsonx.\nThe post Introducing watsonx: The future of AI for business appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-business/",
-      "originalUrl": "https://www.ibm.com/blog/introducing-watsonx-the-future-of-ai-for-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/ibm-watsonx-family-a04.l.jpg",
-          "width": 1312,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-14-popular-ai-algorithms-and-their-uses.md",
-      "title": "14 popular AI algorithms and their uses",
-      "excerpt": "Large language models have captured the news cycle, but there are many other kinds of machine learning and deep learning with many different use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html",
-      "originalUrl": "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/network_endpoint_connections_neural_synapses_by_koto_feja_gettyimages-910881616_2400x1600-100788349-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3695208/14-popular-ai-algorithms-and-their-uses.amp.html",
-      "publishedDateTime": "2023-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -1,0 +1,59 @@
+---
+category: news
+title: "International Business Machines Corporation (IBM) Stock: A Look at the Analyst Recommendations"
+excerpt: "International Business Machines Corporation (NYSE: IBM) has a higher price-to-earnings ratio of 69.94x compared to its average ratio. compared to its average ratio and a 36-month beta value of 0.85. Analysts have mixed views on the stock,"
+publishedDateTime: 2023-07-31T07:19:00Z
+originalUrl: "https://newsheater.com/2023/07/31/international-business-machines-corporation-ibm-stock-a-look-at-the-analyst-recommendations/"
+webUrl: "https://newsheater.com/2023/07/31/international-business-machines-corporation-ibm-stock-a-look-at-the-analyst-recommendations/"
+type: article
+quality: 12
+heat: -1
+published: false
+
+provider:
+  name: newsheater
+  domain: newsheater.com
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-54.png"
+    width: 640
+    height: 430
+    isCached: true
+
+related:
+  - title: "Molina Healthcare Inc. (MOH) Stock: A Closer Look at the Market Potential"
+    excerpt: "The price-to-earnings ratio for Molina Healthcare Inc. (NYSE: MOH) is above average at 20.93x, while the 36-month beta value is 0.69.Analysts have differing opinions on the stock, with 8 analysts rating it as a “buy,"
+    publishedDateTime: 2023-07-28T11:03:00Z
+    webUrl: "https://newsheater.com/2023/07/28/molina-healthcare-inc-moh-stock-a-closer-look-at-the-market-potential/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 38
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-44.png"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Healthcare Services Group Inc. (HCSG) Stock: Tracking the Weekly Performance"
+    excerpt: "The stock of Healthcare Services Group Inc. (HCSG) has seen a -11.98% decrease in the past week, with a -7.33% drop in the past month, and a -5.26% decrease in the past quarter. The volatility ratio for the week is 2."
+    publishedDateTime: 2023-07-26T16:37:00Z
+    webUrl: "https://newsheater.com/2023/07/26/healthcare-services-group-inc-hcsg-stock-tracking-the-weekly-performance/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 36
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-111.png"
+        width: 640
+        height: 425
+        isCached: true
+
+secured: "BoHBH+D5CGrywWh6mLYgR4dXYE2sP3bxAG3BUEdSbKr1EaliIaUxQdllyHJ6V82+j2z2i5+7YRGH046H7LOmfq1nn+sy9yDDYqpuw8UYg+w5mesA2BEocQdRl5mJxnmtFRpNpwSQsZdq1RNNMDd54M3ugmFwa0eBIWGQsFoRwba5jYkQW4ADcSbshYlBQAhCVs4vi5hTzr2kE7+jR71pwWAf0dJWoZa8TUHxHyO33qjxYrbHglamc2vWIvq6I03Xp1OC3ir11gNC4S26cXdYE2PvuPRfpRLN/Hzd7t38ikKV9D8tAkg3nwFH69dbmJOWm7pX6XkEb3UAsnpkcEK36wLw8USNyCH2Iog2a/qkLdM=;Oyb5r2/1tLydbyL4RTOA1A=="
+---
+

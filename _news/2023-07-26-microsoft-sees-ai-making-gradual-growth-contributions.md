@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google, Microsoft, OpenAI and Anthropic announce industry group to promote safe AI development"
-    excerpt: "Some of the world’s top artificial intelligence companies are launching a new industry body to work together — and with policymakers and researchers — on ways to regulate the development of bleeding-edge AI."
-    publishedDateTime: 2023-07-26T14:47:00Z
-    webUrl: "https://www.cnn.com/2023/07/26/tech/ai-industry-group/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/26/tech/ai-industry-group/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 92
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230224125906-laptop-night-work-stock-restricted.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Google, Microsoft, OpenAI Join Forces to Create AI Safety Forum"
     excerpt: "ChatGPT maker Open AI , startup Anthropic and tech giants Google and Microsoft have forged an alliance to create a framework for safety standards and the responsible development of what they're calling \"frontier AI\" models ."
     publishedDateTime: 2023-07-26T17:45:00Z
@@ -76,22 +60,6 @@ related:
     quality: 86
     images:
       - url: "https://www.cnet.com/a/img/resize/0f75266d8693db9e798b8305c35556dca21fefa5/hub/2023/07/26/df575deb-f8b6-4020-9a56-597958e9c85b/gettyimages-1247212585-google-open-ai-microsoft.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI pulls its own AI detection tool because it was performing so poorly"
-    excerpt: "When OpenAI rolled out its AI detection tool earlier this year, its creators called it 'imperfect.' That was apparently generous."
-    publishedDateTime: 2023-07-26T15:03:00Z
-    webUrl: "https://www.zdnet.com/article/openai-pulls-its-own-ai-detection-tool-because-it-was-performing-so-poorly/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-pulls-its-own-ai-detection-tool-because-it-was-performing-so-poorly/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-pulls-its-own-ai-detection-tool-because-it-was-performing-so-poorly/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/dc74b9180c64444b8d705bce94ce1e11fef63476/2023/07/26/56fbda7c-fe67-4ed1-aed6-6d8315e13292/gettyimages-1529221597.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -207,20 +175,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "AI Boosts Microsoft To Its Best Quarter Ever Even As Xbox Hardware Sales Tumble"
-    excerpt: "The industry is in the early stages of an artificial intelligence (AI) gold rush, and partially for that reason, Microsoft just reported its strongest quarter ever in its 48-year history."
-    publishedDateTime: 2023-07-26T14:20:00Z
-    webUrl: "https://hothardware.com/news/ai-lifts-microsoft-best-quarter-ever-xbox-sales-tumble"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 67
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62149/content/Microsoft_Building_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
     excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
     publishedDateTime: 2023-07-27T15:04:00Z
@@ -249,15 +203,6 @@ related:
         width: 505
         height: 336
         isCached: true
-  - title: "Microsoft's AI Bets Have Failed to Hurt Google (So Far)"
-    excerpt: "Google has retained market share versus Bing this year, even on desktop computers. Alphabet will likely benefit from AI due to its cloud computing division. Alphabet shares still look cheap after running higher this year."
-    publishedDateTime: 2023-07-26T13:21:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/26/microsofts-ai-bets-have-failed-to-hurt-google-so-f/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
   - title: "Microsoft Touts AI as Cloud Demand Cools"
     excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
     publishedDateTime: 2023-07-27T10:53:00Z
@@ -325,19 +270,19 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Dentsu Partners with Microsoft to Unleash AI-powered Innovation for Brands"
-    excerpt: "Little Black Book, Dentsu’s deployment of Microsoft’s Azure OpenAI provides launchpad for two new client-ready solutions across CXM within a private, enterprise-grade, secure development environment"
-    publishedDateTime: 2023-07-26T13:11:00Z
-    webUrl: "https://www.lbbonline.com/news/dentsu-partners-with-microsoft-to-unleash-ai-powered-innovation-for-brands"
+  - title: "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity"
+    excerpt: "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology"
+    publishedDateTime: 2023-07-31T06:40:00Z
+    webUrl: "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/"
     type: article
     provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 52
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 54
     images:
-      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/dentsu_z6KgUEG_elKe9jk.png"
-        width: 925
-        height: 521
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842"
+        width: 1024
+        height: 567
         isCached: true
   - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
     excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
@@ -367,15 +312,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "OpenAI’s ChatGPT is too good for its own AI to detect"
-    excerpt: "When OpenAI launched Classifier in January, it was supposed to have been smart enough to detect when a user (say, a student) used ChatGPT or another AI program to author a work. OpenAI pitched Classifier as a way for a teacher to identify if an essay, for example, had been authored by AI instead of as an original work."
-    publishedDateTime: 2023-07-26T13:28:00Z
-    webUrl: "https://www.pcworld.com/article/2008021/openais-ai-is-too-good-for-its-own-ai-to-detect.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
   - title: "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'"
     excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent"
     publishedDateTime: 2023-07-27T01:31:00Z
@@ -404,15 +340,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Google, Microsoft and artificial intelligence startups OpenAI, Anthropic create new group"
-    excerpt: "Google LLC, Microsoft Corp., OpenAI LLC and Anthropic PBC — have created what they're calling the Frontier Model Forum."
-    publishedDateTime: 2023-07-26T14:37:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/07/26/google-microsoft-openai-anthropic-ai-safeguards.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 40
   - title: "Microsoft, Blue Shield partner to develop integrated data hub"
     excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
     publishedDateTime: 2023-07-27T15:26:00Z
@@ -441,15 +368,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Microsoft reports slowing cloud growth as it awaits AI revenue"
-    excerpt: "The Redmond-based software giant has been introducing generative AI products and services to help boost flagging cloud sales."
-    publishedDateTime: 2023-07-26T14:12:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/26/microsoft-cloud-growth-ai-projections-earnings.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
   - title: "Google, Microsoft form group to create best practices for emerging AI models"
     excerpt: "Another industry group has emerged promising to promote best practices for artificial intelligence applications at a time when governments around the world are looking at regulating AI. Google, Microsoft,"
     publishedDateTime: 2023-07-26T19:00:00Z

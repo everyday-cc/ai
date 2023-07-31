@@ -27,6 +27,20 @@ images:
 
 related:
   - title: "Mlytics & TenMax Partner to Offer AI-driven Video Engagement Solution for Video Stream Companies, Driving Monetization and Conversion"
+    excerpt: "Locarno, Managing Partner of Mlytics, stated, \"We are delighted to partner with TenMax to introduce an AI-driven video engagement solution that will transform the way video stream companies monetize their content and engage with their viewers."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855747.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/2163790/Mlytics___TenMax_Partner_Offer_AI_driven_Video_Engagement_Solution_Video.jpg"
+        width: 300
+        height: 400
+        isCached: true
+  - title: "Mlytics & TenMax Partner to Offer AI-driven Video Engagement Solution for Video Stream Companies, Driving Monetization and Conversion"
     excerpt: "Mlytics and TenMax leading technology providers in the video streaming industry have announced a strategic partnership to revolutionize monetization and conversion strategies for video stream companie"
     publishedDateTime: 2023-07-28T02:06:00Z
     webUrl: "https://www.bignewsnetwork.com/news/273913253/mlytics--tenmax-partner-to-offer-ai-driven-video-engagement-solution-for-video-stream-companies-driving-monetization-and-conversion"

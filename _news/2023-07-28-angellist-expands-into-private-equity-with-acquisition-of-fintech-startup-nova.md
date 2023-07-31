@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
 type: article
 quality: 70
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Vanquis buys fintech firm Snoop"
+    excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
+    publishedDateTime: 2023-07-31T06:51:00Z
+    webUrl: "https://www.sharecast.com/news/news-and-announcements/vanquis-buys-fintech-firm-snoop--14182144.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 24
+    images:
+      - url: "https://img3.s3wfg.com/web/img/images_uploaded/8/f/dl-money-cash-great-british-pounds-sterling-gbp-finance-spending-consumer-footfall-retail-bills-gas-energy-pb.jpg"
+        width: 620
+        height: 350
         isCached: true
   - title: "Difc Innovation Hub Launches 9Th Edition Of Fintech Accelerator Programme"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today"

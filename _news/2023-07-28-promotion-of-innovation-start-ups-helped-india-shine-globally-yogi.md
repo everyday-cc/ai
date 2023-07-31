@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "3 AI-powered companies redefining FinTech in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T06:14:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T05:08:00Z
@@ -135,6 +149,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
+    excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
+    publishedDateTime: 2023-07-28T13:32:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/angel-one-launches-ai-powered-super-app-in-india-to-foster-smart-investments-article-102208147"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 16
   - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
     excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
     publishedDateTime: 2023-07-27T13:38:00Z

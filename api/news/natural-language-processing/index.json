@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-30-how-ai-based-hiring-processes-are-helping-recruiters.md",
+      "title": "How AI-based hiring processes are helping recruiters",
+      "excerpt": "Predictive analytics can also help recruiters make data-driven decisions, optimise recruitment strategies, and identify potential attrition risks. Machine learning algorithms continually learn and improve from recruitment data, enhancing the precision of candidate recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design147.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/",
+      "publishedDateTime": "2023-07-29T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting.md",
       "title": "Home Office secretly backs facial recognition technology to curb shoplifting",
       "excerpt": "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces",
@@ -169,7 +212,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -378,7 +421,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1083,25 +1126,34 @@
     },
     {
       "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
-      "title": "How AI is Helping to Translate the Bible Into Rare Languages",
+      "title": "How AI is helping to translate the Bible into rare languages",
       "excerpt": "But one team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages. Ulf Hermjakob and Joel Mathew are ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "originalUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "webUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "originalUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360",
+          "width": 540,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
-      "cdnAmpWebUrl": "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/how-ai-is-helping-to-translate-the-bible-into-rare-languages?amp",
-      "publishedDateTime": "2023-07-18T08:09:00-07:00",
+      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "publishedDateTime": "2023-07-18T09:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "National Catholic Register",
-        "domain": "ncregister.com",
+        "name": "Catholic News Agency",
+        "domain": "catholicnewsagency.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1355,49 +1407,6 @@
       "sourceUrl": null,
       "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/new-zealand",
       "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/new-zealand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-speech-recognition-new-zealand.md",
-      "title": "Speech Recognition - New Zealand",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$40.59m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.47%, resulting in a market volume of US$118 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/new-zealand",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/new-zealand",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

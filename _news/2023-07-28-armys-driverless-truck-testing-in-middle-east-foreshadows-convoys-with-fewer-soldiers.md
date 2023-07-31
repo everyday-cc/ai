@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless cars could get AI-powered heat vision for nighttime driving"
-    excerpt: "Self-driving vehicles that struggle with recognising objects at night could get a boost from a heat-assisted detection and ranging system"
-    publishedDateTime: 2023-07-26T14:59:00Z
-    webUrl: "https://www.newscientist.com/article/2384435-driverless-cars-could-get-ai-powered-heat-vision-for-nighttime-driving/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/26144231/SEI_165404078.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Driverless 4-wheeler in Bengaluru marks its presence on the internet; users impressed"
     excerpt: "Minus Zero, a Bengaluru-based start-up while announcing the launch, called it 'just the beginning' and indicated towards more exciting changes that lie ahead for India in the next five years"
     publishedDateTime: 2023-07-28T06:37:00Z
@@ -55,45 +41,20 @@ related:
         width: 640
         height: 363
         isCached: true
-  - title: "Self-Driving Cars Are Here. What Could Go Wrong."
-    excerpt: "Hundreds of autonomous vehicles from Amazon, GM, and Alphabet are operating across the country. But safety concerns are real, as are fears about the U.S. falling behind China in driverless technology."
-    publishedDateTime: 2023-07-27T21:04:00Z
-    webUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
-    ampWebUrl: "https://www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/visual-stories/autonomous-cars-amazon-google-gm-f5f25d44"
+  - title: "Futuristic self-driving vehicle turns heads in Bengaluru. Here’s what it is"
+    excerpt: "A Twitter user named Anirudh Ravishankar shared a video of the strange-looking, self-driving vehicle as it roamed the streets of Bengaluru. People on the street were seen turning around to catch a second look at the futuristic vehicle as it made its way down the road. “On the streets of Bengaluru,” Ravishankar wrote while sharing the clip."
+    publishedDateTime: 2023-07-27T07:25:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/zpod-from-minus-zero-self-driving-autonomous-car-in-bengaluru-video-11041441.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 22
     images:
-      - url: "https://images.barrons.com/im-824945?size=1.5005861664712778&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-27-Jul-2023-12-49-PM-7690-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
-  - title: "Congress Urged to Regulate Self-Driving Vehicles"
-    excerpt: "Advocates for the self-driving vehicle industry on July 26 warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
-    publishedDateTime: 2023-07-26T22:05:00Z
-    webUrl: "https://www.ttnews.com/articles/house-self-driving-vehicles"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/John-Bozella-650.jpg"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Artificial Intelligence police van detects drivers using mobile phones"
-    excerpt: "A police spy camera van using Artificial Intelligence (AI) has detected hundreds of people using mobile phones at the wheel or not wearing seat belts. Hampshire and Isle of Wight Constabulary and Thames Valley Police carried out the operation from 17 to 21 July, targeting commercial vehicles. It took place on the A34 and the A303."
-    publishedDateTime: 2023-07-27T08:11:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-hampshire-66320176?at_format=link&at_campaign=Social_Flow&at_campaign_type=owned&at_link_origin=BBC_South&at_link_type=web_link&at_medium=social&at_link_id=589C91F4-2C59-11EE-A1CF-B8B9ECABB293&at_bbc_team=editorial&at_ptr_name=facebook_page"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "nYH+sleHxGdX1uL5UlWMBvB5niStIuNJCUoCHDRSKUz985lMY8+JvvEVxyV0yra6PCeRtrpHcYveQHlmw2mT3l3BzSaxGi53CpGwQjOQkCDjKLzMTUyKObp1ZsXoQ2Q8CDNh+nwd3t8RmUiLfK0JPG7J31S3eaTiOFqwc1QROQhs5fAbr7csRQvQWT3TNSTpRNIlUKsvxhNqhd4AMeyP/jzKh9tEDoI9Bry0oocl+upqqd/1IBUEHjFBwrsWtgJdZJyWsK0hdMRZSPC4IPVw849B9qXKan4tJb6LJ3VlBPSQNXKAIj6RSdrQaV4+eEO5dOvT8piJqkZ5+58p9jZ9oqr3NuL8A1Z+/39OvrQx2I/qksbyB2FxDyqgbR11XbgJiwmMlI3kQ0u219UZXfyP0WObLDOgE2NibNhrhkGyHPx4mC8x4SL182V36lE4jbvxnzwAdeqFqutvrWshp8Op+i47Do+Ru0uKTz1+J81AUt8x0rZzZiwDE/QFzyJNlzO82/QbO+xpfzQ+3mWjOBRz+A==;SAVcsmqsiV0L95569/7EXA=="
 ---

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-27-robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off.md",
+      "title": "Robot vacuum deal: Score this reviewer-loved Shark AI robot vacuum for 40% off",
+      "excerpt": "Amazon is currently offering an impressive deal on a top-rated Shark robot vacuum. Right now you can get this Shark AI robot vacuum for 40% off. But hurry -- this robot vacuum deal won't last.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/14/d229c37b-5441-4ada-9e20-437bdf0ce2bd/thumbnail/1200x630/3b4bc9d8b4342f925e9f92d06aef8499/shark-ai-robovac-header.png?v=86db2ab42e1f4996c0f037a20ce5a325",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "publishedDateTime": "2023-07-27T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-heres-why-im-glad-nvidia-might-kill-its-most-powerful-gpu.md",
       "title": "Here’s why I’m glad Nvidia might kill its most powerful GPU",
       "excerpt": "There has been a lot of speculation about a possible Nvidia RTX 4090 Ti graphics card, but it might not be happening. This is not a bad thing.",
@@ -218,7 +262,7 @@
       "originalUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -459,7 +503,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -589,49 +633,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-27-navigating-the-new-frontier-creating-a-human-centric-ai-team-in-finance.md",
-      "title": "Navigating The New Frontier: Creating A Human-Centric AI Team In Finance",
-      "excerpt": "Remember, although AI might be the tool, it's the human expertise, intuition and innovation that will ultimately steer its success in finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/navigating-the-new-frontier-creating-a-human-centric-ai-team-in-finance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/navigating-the-new-frontier-creating-a-human-centric-ai-team-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-07-27-studios-quietly-go-on-hiring-spree-for-ai-specialist-jobs-amid-picket-line-anxiety.md",
       "title": "Studios Quietly Go On Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety",
       "excerpt": "Netflix is hiring a $900,000 per year AI product manager, Disney is looking for generative AI specialists, and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs.",
@@ -722,6 +723,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-this-ai-beauty-and-wellness-stock-just-hit-the-markets-should-you-buy-oddity-stock.md",
+      "title": "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?",
+      "excerpt": "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1139,7 +1192,7 @@
       "originalUrl": "https://www.thestatesman.com/opinion/ai-tools-pose-threat-to-research-ethics-1503204846.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1170,57 +1223,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-223m.md",
-      "title": "AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M",
-      "excerpt": "Business is regularly won and lost on the strength of a proposal. Now, a startup out of London called AutogenAI has built a tool based on generative AI that it claims can help businesses write stronger pitches to improve that strike rate,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/",
-      "originalUrl": "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-844016022.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/amp/",
-      "publishedDateTime": "2023-07-26T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

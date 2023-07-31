@@ -210,15 +210,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 19
-  - title: "Bad Timing: Netflix Lists $900,000 AI Job Amidst Writers Strike"
-    excerpt: "According to a posting on Netflix's job page, the FAANG company is a Machine Learning Platform Project Manager out of its Los Gatos, CA headquarters. The role has an option for remote work."
-    publishedDateTime: 2023-07-26T13:43:00Z
-    webUrl: "https://www.thestreet.com/entertainment/bad-timing-netflix-lists-900000-ai-job-amidst-writers-strike"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
   - title: "Disney, Netflix, Amazon, Apple, and Sony Ramp Up AI Hiring Amid Ongoing Writer Strikes: Report"
     excerpt: "Major entertainment companies are on a hiring spree with plum pay packages for positions in the artificial intelligence (AI) fie"
     publishedDateTime: 2023-07-28T11:45:00Z

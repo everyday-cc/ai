@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI will take more jobs from women than men by 2030, report says"
-    excerpt: "Women hold more low-paying jobs than men and are over-represented in industries most likely to shrink, according to research by the McKinsey Global Institute."
-    publishedDateTime: 2023-07-26T14:09:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/07/26/ai-women-workforce-automation/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVBAJSYIOPQCK4CLFJQ3EVBI5Q.JPG&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
   - title: "Workers don’t feel AI is a threat to their jobs yet, Pew survey finds"
     excerpt: "Many workers who are most exposed to AI don’t feel that the technology presents a risk to their jobs, according to fresh data from the Pew Research Center, a finding that contrasts with experts’ warnings that massive workplace upheaval is coming."
     publishedDateTime: 2023-07-26T17:48:00Z
@@ -50,6 +36,15 @@ related:
       name: The Washington Post
       domain: washingtonpost.com
     quality: 19
+  - title: "Which U.S. Workers Are More Exposed to AI on Their Jobs?"
+    excerpt: "In 2022, 19% of American workers were in jobs that are the most exposed to artificial intelligence, in which the most important activities may be either replaced or assisted by AI. Women, Asian, college-educated and higher-paid workers have more exposure to AI,"
+    publishedDateTime: 2023-07-26T17:56:00Z
+    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/which-u-s-workers-are-more-exposed-to-ai-on-their-jobs/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 17
 
 secured: "p4OAlj4NXYLDFVIA5Z393dzGRBBzug4x9tc3u9WkrXFYyE9opnBi3drhz6MWlNxbEpZjS00efey/cTHtDeT/P1vOG4JnNoC7CDGKz+Uqd8NCzERvl6G7U/5XADFCUrI4lcLUAj1RdVRHqKhKL8df4W6piz15H+cHk0nOh+ZkF89Gfy4l3P1QdpUBhjIBqh7Q40cRgDSAeyFzZpsgopVjGfn+sb5rWrF/np4wkdnKGfcJq93p6DENNyRRpw9M3lV8dkXPXDFlV+8vllU4mo2HLG1AXW5K2tggIKfWi5K5JblywsJdq4rtLoLZ+RfU11iadQIiKm3mDr9lBLPudJwyQH9o0az4bOwliaSo1pMI8IMO6s5i5sQsSoJ1d3DmzXMsakLZNSEFtnaUABsrS+yLH9avJnRiXGF10QRAu5w1HugoayCgFfCfLuKnmYBL0anG+PBkiL+x0QOttHXacl5gRvfjGwsHy9beEhpt5h01qr9bF75GT5oUNNLO5xmViFZQ7zbgPCrGtXRbDgnQpJpDUQ==;+ZQ8WHUG9sSsL9TD3TE+zg=="
 ---

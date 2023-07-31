@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agen
 webUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "South Florida resi agents lean into AI"
-    excerpt: "From writing listings to reviewing documents and generating marketing campaigns, the technology is proving to be a game changer in real estate."
-    publishedDateTime: 2023-07-26T14:30:00Z
-    webUrl: "https://therealdeal.com/miami/2023/07/26/south-florida-resi-agents-lean-into-ai/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 19
 
 secured: "+lquwYAvccc4xeZdqN8p2jF1D4z6qbOIjdVFBCnmxfKHMyE6O1vNiljqnsHW1VGAUWCKaFf827qJnxIjk0ZiC0jUi22SDdS+KChVNUpZDet5LLuVDyNHhbhOw1hoIPub9knm4R3I1HCFpy/n3lhtLJEq58qnQCdDeQFeUE5yf7roj+kYFNa4O3gNa9COFvL5+qHfsyjaAuI6LoKcxHIl42rdYjTbIED9VyAHvQuhO4fKHuETB+k5tsHt1eNlib9LLgxESsR6ZN7vGA1xxyq4LWoOqgZ+3Zh+kt1k1mDilPV49O8UrvE0rRx+/ivWsvlVqR1E3GEsORPz6Mo8dSChvYEUXLYV3niisVmRZfr8x6VI4YdHf7rcKa/YoZ02h7lDW+fEdfGtGFvBpubUHfUc1QlLxcdFNnMyCmIbM3ffXO5VS87VfnHkHnhdPyz36sb40vgyS9T8bjYO3IIImVg0uUicjsM7xld5nkshAR8qHx7YTAhz2dvR7peE9Tw5i2IeesgsxjtaaVXApR/LfgQWTA==;ytzWw8E5uAA2fSScxThNLA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

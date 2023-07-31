@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -94,49 +94,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-navigating-the-new-frontier-creating-a-human-centric-ai-team-in-finance.md",
-      "title": "Navigating The New Frontier: Creating A Human-Centric AI Team In Finance",
-      "excerpt": "Remember, although AI might be the tool, it's the human expertise, intuition and innovation that will ultimately steer its success in finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/navigating-the-new-frontier-creating-a-human-centric-ai-team-in-finance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/navigating-the-new-frontier-creating-a-human-centric-ai-team-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -1359,6 +1316,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-mooch-launches-quickstart-an-innovative-leap-in-ai-driven-personal-finance.md",
+      "title": "Mooch launches QuickStart an Innovative Leap in AI-Driven Personal Finance",
+      "excerpt": "In a bold move to simplify financial planning, Mooch's QuickStart is set to revolutionize the onboarding process in fintech apps. Powered by AI and backed by social insights from half a million followers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ab33095666/mooch-launches-quickstart-an-innovative-leap-in-ai-driven-personal-finance",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ab33095666/mooch-launches-quickstart-an-innovative-leap-in-ai-driven-personal-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33095666",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33095666",
+      "publishedDateTime": "2023-07-03T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

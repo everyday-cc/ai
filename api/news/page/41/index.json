@@ -2,6 +2,153 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
+      "title": "Build accelerated AI apps for NPUs with Olive",
+      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "publishedDateTime": "2023-07-03T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ais-impact-on-cost-savings-productivity-and-jobs.md",
+      "title": "AI’s impact on cost savings, productivity, and jobs",
+      "excerpt": "While short-sighted companies may look to AI to cut jobs and costs, smart companies will use AI to increase productivity and agility. Just as they did with open source and cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
+      "originalUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-526811863-100648031-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
+      "publishedDateTime": "2023-07-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ai-unlocks-prostate-cancer-treatment-benefits.md",
+      "title": "AI Unlocks Prostate Cancer Treatment Benefits",
+      "excerpt": "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "originalUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "publishedDateTime": "2023-07-02T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again.md",
       "title": "He Spent $140 Billion on AI With Little to Show. Now He Is Trying Again.",
       "excerpt": "Billionaire Masayoshi Son said he would make SoftBank “the investment company for the AI revolution” but he missed out on the most recent frenzy.",
@@ -995,144 +1142,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-ai-offers-an-epic-make-or-break-moment-for-investors.md",
-      "title": "AI Offers an Epic Make-or-Break Moment for Investors",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/01/global-data-creation.png",
-          "width": 847,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai.md",
-      "title": "Bernstein Says IBM is Best-Positioned to Take Advantage of AI",
-      "excerpt": "According to Bernstein analysts, IBM (NYSE:IBM) is the leading US IT hardware company in terms of leveraging AI technology. They believe that generative AI has a “neutral to potentially positive” impact on IT hardware companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cweb.com/bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai/",
-      "originalUrl": "https://www.cweb.com/bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cweb.com/wp-content/uploads/2023/07/fmp-1688144241283.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cweb",
-        "domain": "cweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-the-pope-just-released-a-guide-to-artificial-intelligence.md",
-      "title": "The Pope Just Released a Guide to Artificial Intelligence",
-      "excerpt": "The Pope has released a guidebook on AI ethics. Yes, you heard that right. The supreme pontiff has partnered with Santa Clara University's Markkula Center for Applied Ethics to form the Institute ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "originalUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2023/06/pope-guide-artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

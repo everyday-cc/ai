@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA DGX Cloud AI Supercomputing Brings AI Training as-a-Service"
-    excerpt: "What does NVIDIA DGX Cloud do? What makes the NVIDIA DGX Cloud for AI platform work? Learn more in our article."
-    publishedDateTime: 2023-07-26T13:33:00Z
-    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-cloud-ai-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/NVIDIA-DGX-Cloud-for-AI-2023.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
     excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
     publishedDateTime: 2023-07-27T07:50:00Z

@@ -200,6 +200,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-28-driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed.md",
+      "title": "Driverless 4-wheeler in Bengaluru marks its presence on the internet; users impressed",
+      "excerpt": "Minus Zero, a Bengaluru-based start-up while announcing the launch, called it 'just the beginning' and indicated towards more exciting changes that lie ahead for India in the next five years",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html",
+      "originalUrl": "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/07/AI-vehicle.jpg",
+          "width": 640,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html/amp",
+      "publishedDateTime": "2023-07-27T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-ai-tech-aims-to-detect-breast-cancer-by-mimicking-radiologists-eye-movements-a-critical-friend.md",
       "title": "AI tech aims to detect breast cancer by mimicking radiologists’ eye movements: 'A critical friend'",
       "excerpt": "U.K. researchers are training artificial intelligence models to “read\" mammogram images by mimicking the gaze of human radiologists, but an AI expert says there are limitations.",
@@ -353,7 +396,7 @@
       "originalUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -405,7 +448,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-66332876",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -456,7 +499,7 @@
       "originalUrl": "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealth-not-with-bang-2023-07-28/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -799,7 +842,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1196,50 +1239,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off.md",
-      "title": "Robot vacuum deal: Score this reviewer-loved Shark AI robot vacuum for 40% off",
-      "excerpt": "Amazon is currently offering an impressive deal on a top-rated Shark robot vacuum. Right now you can get this Shark AI robot vacuum for 40% off. But hurry -- this robot vacuum deal won't last.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/14/d229c37b-5441-4ada-9e20-437bdf0ce2bd/thumbnail/1200x630/3b4bc9d8b4342f925e9f92d06aef8499/shark-ai-robovac-header.png?v=86db2ab42e1f4996c0f037a20ce5a325",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
-      "publishedDateTime": "2023-07-27T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

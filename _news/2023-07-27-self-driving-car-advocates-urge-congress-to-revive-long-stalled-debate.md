@@ -71,6 +71,38 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+    publishedDateTime: 2023-07-27T10:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+    publishedDateTime: 2023-07-28T04:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "uZuwgdjMC1sdt7W0xuMTnHUPvr3rI5OSu5L42oXLNqNlNNeWFpzFjt6eROTVoBxZbE2hsq4GHtcX8yM5Ta7ol3lsZRv6VZ2zBzifNZfw1I/yVcoSbophodwaQ6V9TXnm5yiCQ7OG+AsjMIB5tk+84Kh8gRP5BQFT+uelFGza6UDi1Jd/7cOJ30wkzohuX7x63UBa/oBzKWFHoKzTYe7o/wKSRmRXkgOOhQz1olimySaRDJvoNvqvnpoFq0WV7KAtPL9QNQX690pBUSAuDVZTroIYHzjmo9PehxJEtukEMr6yNTRLnK7m3thHa/oKzMGYloY6JifLuwVirswFN0QIQT6tcXTA4MsnVXyjmi2GJPqeT0bd0Jg+NDkkuYC5NaSe5oF+XO+Cse3/rkQE1m4pqKRi4kqAN6DB00kT4v1QvRf9v8xnND+atFuTrrEHtEl6L/P/v6WCQ0KM02arLboX7rH7HcJcNC57wLNLYBdb7oOjlqeaqQh23dKbn+JRoDzv/4wur3japhMl+lEdAKmRCg==;FpHOLpyRMWA6pBfWV7ehSg=="
 ---

@@ -19,76 +19,163 @@ topics:
   - AI
 
 related:
-  - title: "How to Invest in Mistral AI in 2023"
-    excerpt: "Mistral AI was founded in May 2023, and the company raised $113 million just four weeks later with an estimated valuation of $260 million, a sign of how much confidence venture capital investors have in the founders and how much potential they see in AI."
-    publishedDateTime: 2023-07-26T14:48:00Z
-    webUrl: "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/"
+  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
+    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
+    publishedDateTime: 2023-07-28T16:18:00Z
+    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
-        width: 600
-        height: 424
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading"
-    excerpt: "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes"
-    publishedDateTime: 2023-07-29T05:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451"
+  - title: "AI and Machine Learning Hold Potential in Fighting Infectious Disease"
+    excerpt: "New research showed that drug discovery, infection biology, and diagnostics are functions of AI and machine learning in treating infectious diseases."
+    publishedDateTime: 2023-07-26T17:31:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-potential-in-fighting-infectious-disease"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg"
-        width: 800
-        height: 576
-        isCached: true
-  - title: "Analysis lab iST eyes record profit in 2024 amid strong AI chip demand"
-    excerpt: "Analysis and verification lab Integrated Service Technology (IST) is optimistic about its business in 2023 and 2024, and could possibly record profits next year, thanks to strong demand for AI chips."
-    publishedDateTime: 2023-07-28T01:18:00Z
-    webUrl: "https://www.digitimes.com/news/a20230727PD211/ai-chips-ai-server-analysis-and-verification-lab-analysis-ic-verification-integrated-service-technology-ist.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: Analytics
+      domain: healthitanalytics.com
     quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20230727pd211_files/1_2b.jpg"
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "India AI and Meta India sign MoU to foster collaboration in AI & Emerging Technologies"
+    excerpt: "The MoU was signed by Shri Abhishek Singh, CEO of India AI, and Shri Shivnath Thukral, Director & Head of Public Policy, Meta in India."
+    publishedDateTime: 2023-07-26T16:48:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2538107-india-ai-and-meta-india-sign-mou-to-foster-collaboration-in-ai-emerging-technologies?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 51
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2022_14_47_00_3672998.jpg?width=1280"
         width: 1280
-        height: 853
+        height: 960
         isCached: true
-  - title: "Complete Guide to Investing in Artificial Intelligence"
-    excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
-    publishedDateTime: 2023-07-27T18:41:00Z
-    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide/"
+  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
+    excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
+    publishedDateTime: 2023-07-27T05:25:00Z
+    webUrl: "https://yourstory.com/2023/07/india-ai-meta-india-ink-pact-advancements-ai"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 41
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/8c31f59e-606e-4c42-acbe-e86d919cabae.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "How artificial intelligence M&A performed in the pharmaceutical industry in Q2 2023"
-    excerpt: "In the global pharmaceutical industry, there were 6 M&A deals announced in Q2 2023, worth a total value of $191.2m, according to GlobalData's Deals Database."
-    publishedDateTime: 2023-07-27T17:10:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/uncategorized/ma-activity-artificial-intelligence-pharmaceutical-industry/"
+  - title: "How India Is Using AI To Build The Internet For Local Languages"
+    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
+    publishedDateTime: 2023-07-30T05:45:00Z
+    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 33
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
     images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2017/09/MicrosoftTeams-image-37.png"
-        width: 388
-        height: 544
+      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "3 AI-powered companies redefining FinTech in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T06:14:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T05:08:00Z
+    webUrl: "https://www.natlawreview.com/article/road-generative-ai-key-legal-considerations-automotive-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 32
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
+        width: 500
+        height: 309
+        isCached: true
+  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
+    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
+    publishedDateTime: 2023-07-26T17:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Today in AI: Spotify CEO teases AI features, India AI and Meta ink deal and more"
+    excerpt: "Spotify CEO Daniel Elk teased new AI features that could be coming to the service in the future, during the company's second-quarter earnings call. The streaming service has already implemented an Artificial Intelligence (AI)-powered feature known as DJ, that curates music based on your preferences."
+    publishedDateTime: 2023-07-27T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-spotify-ceo-teases-ai-features-india-ai-and-meta-ink-deal-and-more-11044041.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
+  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T21:09:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 14
+  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
+    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
+    publishedDateTime: 2023-07-28T00:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "yVXiaSGp6x5tPBqDD2iYUjtUDZKflysI6djknO0ujA15QCOaoLboI0sMswTNbcnQZ5i3NxZEr0hlJwJ6iFJ25VtkCt0mwoOXahfaUZwi007ywv6frdq3W59zvBQ+5rbktafC78bRsY7ZM5OVhGzCh/qC6oJvdRQvNr6QrjTBVvfVsX9D7eWvTOp1wk94O6jgQOY0wadpATdknQdcyL17SYURrRDH7r5HC3W3u7Hn2jD0rao7KsAcsbOio4GvKHFjt0f2LpE7PTIJ0bMtOaWDo+F+QEboziKbGvXHguka6mU2o0Ie/QM86EnvkX8zDbB86iMMj4hjr7/dT8yaerpoTAOyhtjnU+yTXYngdVZTXsa/WYGPOudFfaTJqLDcMvEdfIIjZ/nRcVgvxmdD8UpxMRLWx7PsL5ZXpWd+N3FsICgmk9bEX09gsSyTssToUIITeGNZk6EtlYt35tn/OJbZmTHvls9hFf4CjgRqzxLLxBMMpFHaogm06F6ILMr6+b2Ce3pHHRu2P4n5pLGMSAmtOg==;vZZVeejj7S7qji4gST8BSQ=="
 ---

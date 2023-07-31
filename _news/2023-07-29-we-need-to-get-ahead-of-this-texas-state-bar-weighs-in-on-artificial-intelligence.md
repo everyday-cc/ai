@@ -3,10 +3,10 @@ category: news
 title: "'We Need to Get Ahead of This': Texas State Bar Weighs In on Artificial Intelligence"
 excerpt: "People are talking about how we can use artificial intelligence in our practice: What are the ethical implications? said State Bar of Texas president Cindy V. Tisdale."
 publishedDateTime: 2023-07-28T21:30:00Z
-originalUrl: "https://www.law.com/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
-webUrl: "https://www.law.com/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
+originalUrl: "https://www.law.com/texaslawyer/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
+webUrl: "https://www.law.com/texaslawyer/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
 type: article
-quality: 32
+quality: 30
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: law.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -42,6 +41,6 @@ related:
         height: 720
         isCached: true
 
-secured: "U7sWuM8NXoOvBgYLPUg0obnCbWKhFNZlV8eyohEAmN3JTWP7bGdRM/G2c7qrcx6HcolDL8K94rQe1fTuK69k2N6YguP+sD9FvDx7iLvuPhBLRrrMe3C/HP917xTpK6G2lWlHyfgh6C+7tlnOqEfWwh5el87Y/VhMx57KgJ5ZMSskSTUJwWz0ZVuR2bLOPF27GYirt57iHog0FlUCu/ncSajQ7d43ThN0+OkeOQKSm1FE/gLqDFlV6rjWXupR61ng2HDAXmFMzvJ2dCdDHrtlp6SAKd7IeCTBdx+gxqABLxWQuWB8t0NuTu7QEc6o+z6hdGPkVSff2mKTLJbLuk/ozvMfWOCWaPhYr73M9656l0k=;jfY36+CL3Z8ewxXwKgktLQ=="
+secured: "gG47LEgdnuLYKcdau5GnWWcp7iHEVWT3STOZdH/T7JzOnOrlcAUBFwR6pCKdSn/uOclk9C3FgP2ejd7xYHPgg+A4twwG/63QmIXquO27l/J8u4f63ME8OvYJJJ4bdrqrjUrLYEnuoiWiGnh8FL3ydw9/27y6fHg7pUK7k4fmVX5fD44TEMuF20Emmfldgxh3tPAV99RccFPTtRHl0ve5n9qbbPuDBfw8zhnbLX3qXZ8xDbnUYprs4hokQiv+zbwaTpJkS63s9/Oj/Dv0ruMg+HjoNUR7jlNxkwprW9EB/zG8yhjt5WHo/SP8U7Ee/UlrCoPeh8On0yDUc4ks3/Oo/OYmtiSIzkk8zmaTkJjTk2w=;C2s8/2mFOjG+n7yJGnMDOQ=="
 ---
 

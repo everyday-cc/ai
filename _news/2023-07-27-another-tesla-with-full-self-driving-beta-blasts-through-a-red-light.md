@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-drivi
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,38 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-07/41d99420-2c78-11ee-b6ff-5ebc1e025625"
         width: 1062
         height: 597
+        isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+    publishedDateTime: 2023-07-27T10:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683770"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
+    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
+    publishedDateTime: 2023-07-28T04:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 38
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "5pJPF9xL+65v4421uT9azd7woAjCW1gF/fmtnzzNwAZbAm10TrCfrFxMPFx6bFjMXfwQihEnr18cmUnp7qWTxIymLaGN7rO9Ko1fdw5L9ZSMyctaDUCoDeRnPTbTzHTgejDcOIMtk13ayPzxUS0rY1sujMI7oeRj1hcDcuYRzQk+uHB2whWhy+SvB8dYAAkmM/qNjSNLDKWaTs1Id9wSiFnQre2tewi3nqKDbbd/UOM1xW5T5weo1xoqNxqmK5jRPYHkFDY9vE3s/ZNAXxOQKhM0aB/kafQGA4BH5ic2iEJsTqEp2iSF9oJrkzyRqDWz+u4LHggTvT7IYVqL0Anj2zQYDVB7fGPMeA2Zo2UdVm8jRshQfFQCFp51vzkit6bF7767oz2lh1lW+aFTaC29pgKWcf2PMjpDj2NE3bdEcCSO9DrnT/ju7/fwVE22lCYYcdNZVmm0u4MGn/5/xzf4/4PcA0xfcqeMWve/uJ/sxP508xeLDp9JKmZgB9iWTDW2lCOtuFXL3HfoBvpmJ7B82w==;M+gIFt3DnnSZm5aHmnGkcQ=="

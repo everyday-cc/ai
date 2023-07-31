@@ -65,6 +65,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Vanquis buys fintech firm Snoop"
+    excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
+    publishedDateTime: 2023-07-31T06:51:00Z
+    webUrl: "https://www.sharecast.com/news/news-and-announcements/vanquis-buys-fintech-firm-snoop--14182144.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 24
+    images:
+      - url: "https://img3.s3wfg.com/web/img/images_uploaded/8/f/dl-money-cash-great-british-pounds-sterling-gbp-finance-spending-consumer-footfall-retail-bills-gas-energy-pb.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Difc Innovation Hub Launches 9Th Edition Of Fintech Accelerator Programme"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today"
     publishedDateTime: 2023-07-26T23:13:00Z

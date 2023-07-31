@@ -674,6 +674,40 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-tonix-pharmaceuticals-holding-corp.md",
+      "title": "TONIX PHARMACEUTICALS HOLDING CORP",
+      "excerpt": "The findings reported today show that tianeptine and estianeptine improve memory and cognition as measured in the rat Novel Object Recognition (NOR) test. The finding that estianeptine is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock.md",
       "title": "How face recognition rules in the US got stuck in political gridlock",
       "excerpt": "A national effort to ban police use of face recognition is facing a sobering reality: compromise",
@@ -1326,49 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-cedar-rapids-airport-testing-facial-recognition-technology.md",
-      "title": "Cedar Rapids airport testing facial recognition technology",
-      "excerpt": "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
-      "originalUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=767D8083-B298-4C59-86CF-FA5BEF92D3A4&type=preview&q=75&width=1200&height=800",
-          "width": 800,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
-      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
-      "publishedDateTime": "2023-07-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "thegazette.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

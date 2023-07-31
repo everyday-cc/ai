@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Micron Announces “Second Generation” HBM3 Memory For Generative AI Workloads"
-    excerpt: "Micron has now entered the HBM3 race with what the company calls a “second-generation” HBM3 design, based on a faster, denser, more advanced semiconductor process node."
-    publishedDateTime: 2023-07-26T13:06:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/07/26/micron-announces-second-generation-hbm3-memory-for-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
 
 secured: "nHB3pk8KbZlDRXUCcU5egI8YnHI7bNHtszvuv3wf4reOPmom/+5dCmOeS+KUL88zjY3xGQXkLmlC2FTgHx8iMkd5KT3KHsLiL9EBLJ0IgugEApI7sAWeDHmF4yBm4TVLhZCEkFsHRVDPjWtOLEyCGHRyzUU7T17Yu/R0rbWoPg+yfRULJOAiFDJrIc9GQennKXmpXNZA49Q2ZyC88VhHt5hVhgQOzZ3ppGXa3gO0acjkSDZF37WBwNYLIdct6sR4p2yK8ekkwbxPeH03x+jd/1SnJQrQPv3l5s9hDibvdUKeXol2kDb9MwgxLvYBG49ICdeHeHGcad2Lfn0PlS84K1FXYGZKUq+cjcADOkZh+yI=;WGqU7bNPzJ1LKQh3EObOEA=="
 ---

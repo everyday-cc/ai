@@ -50,15 +50,6 @@ related:
         width: 1200
         height: 691
         isCached: true
-  - title: "From data chaos to data products: How enterprises can unlock the power of generative AI"
-    excerpt: "Bruno Aziza, an Alphabet executive who led a roundtable discussion at VB Transform last week focused on providing a playbook for how enterprises can prepare their data and analytics infrastructure to leverage large language models (LLMs)."
-    publishedDateTime: 2023-07-26T13:14:00Z
-    webUrl: "https://venturebeat.com/ai/from-data-chaos-to-data-products-how-enterprises-can-unlock-the-power-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
 
 secured: "/h69Kowjxe/m+6P464nuoFzVjOKUUJTo+122ypoohVFPeIv50VUPGXkTVEwgT5O/5aeZveCf/kih4oGDLnWdnNVNcvjPUUlZyE9cR3ZtCXHM/ZwORW863fLX4R/cxk81p2uIBw1W6J7kEBISO1zccMZK2k3lfs3eEbtQaEkVg1zMpDtnWeMsTASy7CC7tFA/+aiWJw3EnSXREOVEs8eAGTPeeEDUoW/4PLlkTdW2xgMi29D53TmZIIymPVS7rAu4TTKaT3z96r6aP8GT7eKolCBhRvTAas6avWFctaWhX6oDWahQt/3WaRGTI8QaL8N7nrYEO9n1yvU5oHYq+1fbUi77Gdey3Z+KmyWW7xV7E03sYJUHu0I6n3tstcrYXhfp4ax7HpdWl2t02yAg2aMsLUjqt8cRMwoZQm+dRVLtu0XJIsPzxriDiJn/hcaQFU24HJ7Gzo56ckPsXCg5eI1QN5m+WmMdcXq67R0cirjzg2L/uvI/h2JeUYArWTagBVBh0KQHWh0ZRQFsAfvGZusaGA==;OoGjxPIh6AZs5hVDANqoEA=="
 ---

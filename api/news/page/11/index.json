@@ -2,6 +2,161 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-24-hype-fright-and-ethics-in-implementing-ai.md",
+      "title": "Hype, Fright And Ethics In Implementing AI",
+      "excerpt": "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bd914505a8958614d98958/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/",
+      "publishedDateTime": "2023-07-23T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-microsoft-teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload.md",
+      "title": "Microsoft & Teladoc Expand Partnership, Enabling AI To Reduce Clinician Workload",
+      "excerpt": "This represents a growing trend by healthcare organizations, which are increasingly leveraging AI to augment workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bd4f852559900c20d3e1a4/0x0.jpg?format=jpg&crop=3000,1688,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/",
+      "publishedDateTime": "2023-07-23T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-the-newspapermans-trick-for-ai.md",
+      "title": "The Newspaperman’s Trick for AI",
+      "excerpt": "An undisclosed source provided the following.’",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
+      "originalUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-822237/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-23T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-23-at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work.md",
       "title": "At Startup That Says Its AI Writes Medical Records, Humans Do a Lot of the Work",
       "excerpt": "DeepScribe relies on a team of people to review tech-generated reports, listen to medical conversations and revise the records.",
@@ -1056,142 +1211,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-brian-cox-warns-of-a-scary-future-where-theres-an-ai-brian-cox.md",
-      "title": "Brian Cox Warns Of A 'Scary' Future Where There's An AI Brian Cox",
-      "excerpt": "The \"Succession\" star gave a fiery Logan Roy-esque speech at a London rally in support of the SAG-AFTRA and WGA strikes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
-      "originalUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64bababa2600003700a36acc.jpeg?cache=9oJT8EzIIC&ops=1200_630",
-          "width": 1198,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
-      "publishedDateTime": "2023-07-21T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-microsofts-semantic-kernel-ai-sdk-adds-java-integrates-with-azure-cognitive-search.md",
-      "title": "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search",
-      "excerpt": "Microsoft has been busy updating its Semantic Kernel ... Weaviate, Chroma, along with Azure Cognitive Search and Services. Additionally, we are developing a document chunking service and enhancing the VS Code extension for Semantic Kernel.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/Articles/2023/07/21/semantic-kernel-updates.aspx?p=1",
-      "originalUrl": "https://visualstudiomagazine.com/Articles/2023/07/21/semantic-kernel-updates.aspx?p=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robot_coffee.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-reddit-tricks-an-ai-into-writing-an-article-about-a-fake-world-of-warcraft-character.md",
-      "title": "Reddit tricks an AI into writing an article about a fake World of Warcraft character",
-      "excerpt": "On July 20, Reddit user kaefer_kriegerin made a text post expressing their excitement over the impending arrival of a new WoW player named Glorbo. Glorbo is not real, and the author made their aim for creating him clear, writing at the top of the post, \"I just really want some major bot operated news websites to publish an article about this.\"",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorbo",
-      "originalUrl": "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorbo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04H46Q9gFPmsEv7MZ9sMjUH/hero-image.fill.size_1200x675.v1689959419.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

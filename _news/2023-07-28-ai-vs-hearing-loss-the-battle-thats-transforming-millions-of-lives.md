@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-lo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Revolution: Transforming the Traditional Banking Landscape"
-    excerpt: "Let us first delve into the ways fintech is streamlining operations. Once  characterized by endless rows of filing cabinets and reams of paperwork,  banks are now embracing AI, a powerful force multiplier."
-    publishedDateTime: 2023-07-26T13:10:00Z
-    webUrl: "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/"
-    ampWebUrl: "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/"
-    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 59
-    images:
-      - url: "https://media.phillyvoice.com/media/images/pexels-anna-tarazevich-1475127.2e16d0ba.fill-1200x630-c0_JXsFj88.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Transforming the World: How Artificial Intelligence Has Revolutionized Our Lives"
     excerpt: "In the past few decades, the ever-evolving realm of artificial intelligence (AI) has not only emerged as a powerful force but has also become a transformative"
     publishedDateTime: 2023-07-28T16:31:00Z

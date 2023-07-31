@@ -163,22 +163,6 @@ related:
         width: 1114
         height: 570
         isCached: true
-  - title: "Cyclops Emerges From Stealth With Security Search Platform Powered by Generative AI"
-    excerpt: "Cyclops emerges from stealth mode with $6.4 million in seed funding and a generative AI-powered cybersecurity search platform."
-    publishedDateTime: 2023-07-26T14:35:00Z
-    webUrl: "https://www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/"
-    ampWebUrl: "https://www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyclops-emerges-from-stealth-with-security-search-platform-powered-by-generative-ai/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 70
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon hones in on generative AI at AWS Summit and unveils new AI projects"
     excerpt: "At AWS, Amazon announced that the choices will now include Claude 2, Anthropic's latest LLM, SDZL 1, Stability AI's latest text-to-image model, and a brand new foundational model -- Cohere."
     publishedDateTime: 2023-07-26T19:11:00Z

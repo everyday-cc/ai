@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Fintech Revolution: Transforming the Traditional Banking Landscape"
-    excerpt: "Let us first delve into the ways fintech is streamlining operations. Once  characterized by endless rows of filing cabinets and reams of paperwork,  banks are now embracing AI, a powerful force multiplier."
-    publishedDateTime: 2023-07-26T13:10:00Z
-    webUrl: "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/"
-    ampWebUrl: "https://www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/"
-    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/fintech-revolution-transforming-traditional-banking-landscape-077799/amp/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 59
-    images:
-      - url: "https://media.phillyvoice.com/media/images/pexels-anna-tarazevich-1475127.2e16d0ba.fill-1200x630-c0_JXsFj88.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4ZqzRXHoO6nZtgRI3paPNe1rcb/nnMzV+ZivINRe7Gy/fbK/b1/fZ4iyoxE7UEpaC1XYJhByAXYmjRLwYqBfITWou6Xc8qNchAgk7eRUZJmyB7l6OxmofSowlenzyN9nWae+lhvJ0JL0SqkJDgu7ZIFuQ3r3jIFA6seBajbAHPOG6yWF6RtzwXgxm124myhf9nr3FLyJ1AEqZePgUP69zmrTyQRZHSHjOqlEPSOc1/Hf1BmxeEuc8XstMqPBACeMMe0VNci7Zy8BSZlduf+5T+nlfWZpIoUaneX12LwmgyVV1v8yfsen8UkvVD1jU5K9f+F51uVQmqvjABWCnali8nDKyFj5EFrwgg2W9zKKQTs=;xvPr//chVpYDFIZaQHT+pw=="
 ---
