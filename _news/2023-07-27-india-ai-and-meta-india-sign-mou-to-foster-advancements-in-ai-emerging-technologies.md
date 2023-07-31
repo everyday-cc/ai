@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T05:08:00Z
+    webUrl: "https://www.natlawreview.com/article/road-generative-ai-key-legal-considerations-automotive-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 32
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
+        width: 500
+        height: 309
+        isCached: true
   - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
     excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
     publishedDateTime: 2023-07-30T10:46:00Z
@@ -121,6 +135,15 @@ related:
     provider:
       name: moneycontrol.com
       domain: moneycontrol.com
+    quality: 14
+  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T21:09:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
     quality: 14
   - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
     excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"

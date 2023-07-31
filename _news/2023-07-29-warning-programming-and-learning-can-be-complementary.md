@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programmi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 1799
     isCached: true
+
+related:
+  - title: "How is machine learning different from deep learning?"
+    excerpt: "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are"
+    publishedDateTime: 2023-07-31T02:00:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1"
+    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1"
+    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1"
+    type: article
+    provider:
+      name: jagranjosh.com
+      domain: jagranjosh.com
+    quality: 74
+    images:
+      - url: "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9PgO3J9iEtJ52t/eIZhSNL09/BAl8UdBR1LRlWVfoBNP+xzQoG1+khJ+Zu2qjDMXznKdtBmyPH3uKLFBdSOczEv40yDGVJAw3USLOFarXEQvUfW/b5cLvmb517/ot5IuKK+rNY3M4k112+HIX3fFdhTpYFEDL7RC9EBF0ZQ6xAPmoa/tR/b3Bnc9Czzv3lvDixG6Z7EW8razOiMWXX+U58gpsa5CFHTJFvZCcDg16KvbqAQtLjBl0kZrJNRTpcSzuPOP7aJo8hQMqNczMFBIGkzsGUtKhLauyGINDuqNhzJjdAH8y79jQ+49Swb/RELpI9BU1H2oEEnSIxQihYC61DdpCOEoJGVixZDcIec5K9Y+PynlqwlUNVToxEiFn2Ovr/x6Q2fNPt0yYN7xhENwIlMDduGIwS8teMGg2aKM0bhYnzz7WJ0L6vVk/9qMCdMCHrLoLNhnPlfR/tmMaGaYRPS2UTLTiA/pEWPiv4drLMPauRNME7i9eFa+qoKQOdLAPsBkOEUbqO0hC7ZD1REzZw==;u9faO+ieXe/RRi9Tmt5tKQ=="
 ---

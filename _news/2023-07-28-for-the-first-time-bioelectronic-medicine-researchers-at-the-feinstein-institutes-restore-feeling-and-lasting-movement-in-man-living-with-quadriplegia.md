@@ -28,14 +28,21 @@ images:
 
 related:
   - title: "Researchers successfully train a machine learning model in outer space for the first time"
-    excerpt: "Scientists have trained a machine learning model in outer space, on board a satellite. This achievement could revolutionize the capabilities of remote-sensing satellites by enabling real-time monitoring and decision making for a range of applications."
-    publishedDateTime: 2023-07-27T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/07/230728170641.htm"
+    excerpt: "For the first time, researchers have trained a machine learning model in outer space, on board a satellite. This achievement could enable real-time monitoring and decision making for a range of applications,"
+    publishedDateTime: 2023-07-28T14:11:00Z
+    webUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 55
+      name: techxplore
+      domain: techxplore.com
+    quality: 65
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-successful-2.jpg"
+        width: 1280
+        height: 1508
+        isCached: true
 
 secured: "9jo4VHmFs4+ReDCf18onNOG6Gzrm3WYWHqdH509ELp66cPxdjbDmwCE76utHvrWFOP2x5sBrKFhMU6Wg6vDgFyzlBoVl8Rnv+v+ienu6qEpm9TIHxbx02OEEgux8UEOR+oz+BFFdEibnvJupfkTTYwml1LL3oGwEgl/rx33wJ8u7trk1XUBnE4t8upSM+mCjvMqmhBpp8gWyKeQis+edOhYun8/1TYgDU0Zrg+U3cu2xsUPIWQX7GLIIY6c71mUygugLiSh3sDRarCYNdoAQui0nA5p0I5OBoDMRlxCUL7e8PAc6M4MDTkD4JeO3vrQ1+ZQl2urvJviJO1csXn38/iStwrnQ/uGkcS9+u+JKkYo=;RPcILiNfQzxtqkrH3NZjrQ=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$20m grant set up to develop AI in self-driving vehicles, materials research for military use"
-    excerpt: "Self-driving military vehicles and machinery can be dangerous if robot eyes fail to recognise objects clearly in bad weather – or worse, if the systems are hacked. Read more at straitstimes.com."
-    publishedDateTime: 2023-07-26T10:28:00Z
-    webUrl: "https://www.straitstimes.com/tech/20m-grant-set-up-to-develop-ai-in-self-driving-vehicles-materials-research-for-military-use"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 28
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/CKW2973.JPG"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Congress Urged to Regulate Self-Driving Vehicles"
     excerpt: "Advocates for the self-driving vehicle industry on July 26 warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
     publishedDateTime: 2023-07-26T22:05:00Z

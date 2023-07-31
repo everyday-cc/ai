@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "White House Cybersecurity Plan Misses the Boat on AI and IoT | Opinion"
+    excerpt: "The Biden administration's long-delayed National Cybersecurity Strategy Implementation Plan is here, and it's shockingly inadequate. Artificial intelligence (AI) doesn't appear once in the 57-page document."
+    publishedDateTime: 2023-07-26T11:29:00Z
+    webUrl: "https://www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333"
+    ampWebUrl: "https://www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 87
+    images:
+      - url: "https://d.newsweek.com/en/full/2261920/president-joe-biden-speaks.jpg"
+        width: 2500
+        height: 1698
+        isCached: true
   - title: "What Role Does AI Play In Enhancing Aviation Cybersecurity?"
     excerpt: "Cybersecurity is critical to the safety of aviation. Attacks to critical aviation infrastructure pose real threats. So, how does the FAA address these cyber challenges?"
     publishedDateTime: 2023-07-29T09:30:00Z

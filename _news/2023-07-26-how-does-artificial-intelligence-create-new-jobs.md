@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-do
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI startup to create AI newscasts"
+    excerpt: "A new startup called Channel 1 wants to use generative AI to create automated newscasts with digital anchors that can be customized to fit viewers' political slant, Tim writes. Why it matters: The rapid acceleration of AI is blazing a path to disrupt the media industry."
+    publishedDateTime: 2023-07-26T13:00:00Z
+    webUrl: "https://www.axios.com/pro/media-deals/2023/07/26/generative-ai-startup-to-create-ai-newscasts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
   - title: "Which U.S. Workers Are More Exposed to AI on Their Jobs?"
     excerpt: "In 2022, 19% of American workers were in jobs that are the most exposed to artificial intelligence, in which the most important activities may be either replaced or assisted by AI. Women, Asian, college-educated and higher-paid workers have more exposure to AI,"
     publishedDateTime: 2023-07-26T17:56:00Z

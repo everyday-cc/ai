@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T05:08:00Z
+    webUrl: "https://www.natlawreview.com/article/road-generative-ai-key-legal-considerations-automotive-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 32
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
+        width: 500
+        height: 309
+        isCached: true
   - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
     excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
     publishedDateTime: 2023-07-26T17:52:00Z
@@ -129,6 +143,15 @@ related:
     provider:
       name: moneycontrol.com
       domain: moneycontrol.com
+    quality: 14
+  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
+    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
+    publishedDateTime: 2023-07-27T21:09:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
     quality: 14
 
 secured: "e5U87dkC01fcUIMU4QbmCS/X1K7r6by6j9tdjFISBaS7HWgnZCWHdp6qSyIflCmctQRYC4wQ44PeR95dhz/UqnAzT7eP2wpJhbcLTwK3eNUeweM8fGYTZpZTTUYpPREE5bbw2PRBKMN11iCsOo8LooR9k9jIU52AisxSGqob3sV2In5bwF5Hley/0cb0JI+pj/Nmq2iXjF4ZRht/Vw5+cpqw4cwftX+onDGzODjTPNfwbBvIiHqhHUErAWL7LK/4OEhQy6sk0bVZ8cGICCPyQC1y+gclVfdwDGHfg7OmiWscDLSPP1Dp+KpIr2lceg0XHAWt1VfBhdb5l1yqdjgZN4SjrfoV/VY2y9TF28+idAga+D7rxspKQRXm48fKVu46X1IEuxZgsV2toOri1gImhtq0ngCR9VvFvaZdssafG5rAMeFMpWWgo+rgqcWGxFbO0lgeXJ5mtG2PrxFcE9w+8+Gn+EHiJK1jgf99N4i+7DK259R5SjdDWXa/yMI/zKT1NviJjkEWzvI9TZ+lAfj05Q==;2Zx9bP1cjTkNOU/EIGTamg=="

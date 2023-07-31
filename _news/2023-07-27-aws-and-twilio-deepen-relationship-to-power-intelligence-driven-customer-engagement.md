@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS and Twilio Deepen Relationship to Power Intelligence Driven Customer Engagement"
-excerpt: "Collaboration Injects Predictive AI Capabilities into Twilio’s CustomerAI RoadmapSAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Today at AWS Summit New York,"
-publishedDateTime: 2023-07-26T17:41:00Z
-originalUrl: "https://www.01net.it/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement/"
-webUrl: "https://www.01net.it/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement/"
+excerpt: "Today at AWS Summit New York ... of their longstanding strategic work together that will place powerful artificial intelligence (AI) capabilities at the fingertips of Twilio customers."
+publishedDateTime: 2023-07-26T17:59:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20230726433846/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement"
+webUrl: "https://www.morningstar.com/news/business-wire/20230726433846/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AWS AI
@@ -43,6 +43,6 @@ related:
         height: 400
         isCached: true
 
-secured: "rOaQMKecjVuiQmrqpdLtxA3mmnt4FF2cA6glHE4V/BpHURhrRQVEnekVn4lRNKI/K20TfqT/UMUL2jxl1mWlX1RMyyZxtfQBwyGHrN7xB+jGu1v88xrhwmAsYseEsb8L9VRbIAnk5rYKrlDORFdMGxyEbOlbWKrHYrqJ7fcL7jkZnzoasqPs8NE1xRQEpDSXn/EeGcW8qyKlrgoHnMG+PAm1dI6ZOnNTBzg5iIhig8QSINyXmgRGkT3u0bd9DEEV7Hlj8tRQHkvWaRHw0dhtqU/mnSlpP2ukjT8wICoIl+q1LjqdPclqPoXlZ/XnHW21aG2MHzleUm6CqA6LK5qOpiitSRs+fjqkgGLnTs7ifTQ=;6zyKyvowmta8AEtVu4xUyQ=="
+secured: "FOsZrO77UveZSYqhRNFnEVR9KDKXcBRa7XHIL20eNuTE1bZKHbfwrNmd88GgVAe1hyI6yS5IVANuhwfl+gNH4VKF7tufuAP3d9tBwf6gXbiX5Js0KiXpnoPpPXPL76gO7P+UxJzpybLVzTn55xj4+j9xFB4FzIvwQZeUWdW+dYvqKHyoIfirVwNjGxXyDGUKwAUOLBBXgzk0ydKeH+Qih892d4yHUzGhuWN6GVnLfMH8dTZ0Z+oRch0epMwD41SBLPHN6eEyi1jHUMwyFw+nS7GEIS/VUv/ZYsEOlWSses65txh65H5Hj/OFfDzV+lY2v5LvvsHjPM0KfCYB950X59DYc0Aq/Z/lKjIyRXFBGEM=;e0Mxa6xVYdT6G/yYYextLw=="
 ---
 

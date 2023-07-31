@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/28/why-artificial-intellige
 webUrl: "https://www.fool.com/investing/2023/07/28/why-artificial-intelligence-ai-stock-c3ai-was-edgi/"
 type: article
 quality: 63
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -21,59 +21,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "Better AI Stock: C3.ai vs. Opera Limited"
-    excerpt: "C3.ai claims it's an \"enterprise AI software\" company, but it was previously known as C3 Energy and C3 IoT ( Internet of Things ). It only renamed itself again as C3.ai in 2019 as the market became more interested in AI technologies."
-    publishedDateTime: 2023-07-26T11:06:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740857/androids-business-suits.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Better Artificial Intelligence Stock: Apple vs. Amazon"
-    excerpt: "Additionally, Apple's stock has risen 301% over the last five years, while Amazon's has increased by 43%. The significant difference further solidifies Apple as the more reliable option and the better artificial intelligence stock."
-    publishedDateTime: 2023-07-26T13:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740740/analyst-home-investor-stocks-trends.jpg"
-        width: 4000
-        height: 2667
-        isCached: true
-  - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
-    excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
-    publishedDateTime: 2023-07-27T10:03:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 62
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg"
-        width: 2122
-        height: 1412
-        isCached: true
-  - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
-    publishedDateTime: 2023-07-27T09:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-better-be-buying-on-each-and-every-dip-1032483582"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "JNns8xz0z2qYn/WzUBI3OkNfdMgTb3AbDGjj/QjO1OzK7u1yj8R3Scycr5Y9GmDcDCRLmes5W+XB55CN+Sg+j9m6OoOXelAsUBcXorgbkUOM2xv0VVsRzzvtY64UOPALs4KZCqXKGY/hmSqoit1RiQ0SIgLxoBz0tL/L5SRfjgIbPTl6KIerHpTLmi7Ed0tFwIr4cNOaJF1+rffGaT4r+k+3T1PryNJBJHcxqybQ88es8zjOt7WjA6z+n0zMvPDKA3Xf8GCMyLwizDC8nC5y9RhpE5Af8XdY3+vwwlFi14yojP5m08DTQJRN5+eyMrpzXLZLZIJ2ulukWO19cVH4XWnko7nCrMHs/dtMZZxqA2U7dbp463sW0lvFl0EXKdPPL4HF3We84BAEaKQDjlbdtJCnKVboNRZLnPLmW5yFOJzsY43vwZ2bbpIh/ooxH1Q5tqNmUCKW2Oss34yop3feuinZ1mkqX0ywmeK8dbJVYkiG157RwUaldF7E4MRCbTRK3R+xhpDbpUCIaNmPajvdrA==;TIz5I49tjnykUox9UdiLmA=="
 ---

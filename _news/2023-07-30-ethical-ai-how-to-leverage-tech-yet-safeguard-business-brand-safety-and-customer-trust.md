@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-30T03:42:00Z
 originalUrl: "https://www.businesstimes.com.sg/startups-tech/technology/ibm-artificial-intelligence-ethics-security-watsonx-governance"
 webUrl: "https://www.businesstimes.com.sg/startups-tech/technology/ibm-artificial-intelligence-ethics-security-watsonx-governance"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - IBM AI
 
 secured: "4aXhHaEmjGZVssiGyVu7Y+qpBICuKDcpK3XDpIm1VXNdJ/KqLzoiODOA8ER4TfvDBHcTQr8wRI0zIRxKesv/uZSOD1IkvJtPwE6hrpdhS6Zx5TRKTSVAIPnlUz9U8fSRHt7R3R2sBZAgns+6OEB+0l9Ugtx1sX3iMdSpQ3+9lD3l4NtQKjDgHnHI22WFBSeOiaEgWkpUvjRRcJ/W/zyRlOUcLqtfrvzhy1Xs1ABMYUjUBgp+sEv6rixLZ9yoMQx/7cwSZa3oPfkxBsVVScq4E9fcvkaY+OyuaiyEl8he1g37EX3p2hokIerPAfS7FiWIgwed/PhygHID9KpSvyyh3Z5UIbfLnLb3WYmDphAeEME=;gGkKz1NsCkkLP7DIB2rTvw=="
 ---

@@ -85,20 +85,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "$20m grant set up to develop AI in self-driving vehicles, materials research for military use"
-    excerpt: "Self-driving military vehicles and machinery can be dangerous if robot eyes fail to recognise objects clearly in bad weather – or worse, if the systems are hacked. Read more at straitstimes.com."
-    publishedDateTime: 2023-07-26T10:28:00Z
-    webUrl: "https://www.straitstimes.com/tech/20m-grant-set-up-to-develop-ai-in-self-driving-vehicles-materials-research-for-military-use"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 28
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/CKW2973.JPG"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Artificial Intelligence police van detects drivers using mobile phones"
     excerpt: "A police spy camera van using Artificial Intelligence (AI) has detected hundreds of people using mobile phones at the wheel or not wearing seat belts. Hampshire and Isle of Wight Constabulary and Thames Valley Police carried out the operation from 17 to 21 July, targeting commercial vehicles. It took place on the A34 and the A303."
     publishedDateTime: 2023-07-27T08:11:00Z

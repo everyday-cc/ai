@@ -689,29 +689,38 @@
       ]
     },
     {
-      "path": "_news/2023-07-27-if-you-can-only-buy-one-ai-chip-stock-it-better-be-one-of-these-3-names.md",
-      "title": "If You Can Only Buy One AI Chip Stock, It Better Be One of These 3 Names",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is driving markets higher. For the past seven",
+      "path": "_news/2023-07-27-nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double.md",
+      "title": "Nvidia estimates ‘may prove conservative’ as Microsoft, Google mentions of AI more than double",
+      "excerpt": "Microsoft and Alphabet mentioned \"AI\" so many times on earnings, one Nvidia analyst is thinking his bullish estimates may be too conservative.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
+      "webUrl": "https://www.marketwatch.com/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 94,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-824287/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T10:22:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856",
+      "publishedDateTime": "2023-07-26T10:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -729,7 +738,7 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Facebook AI"
+        "Microsoft AI"
       ]
     },
     {

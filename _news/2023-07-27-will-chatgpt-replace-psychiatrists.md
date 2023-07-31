@@ -26,22 +26,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "ChatGPT Creator Sam Altman Says AI Will Take People’s Jobs"
-    excerpt: "In The Atlantic interview, Altman calls fake news on the idea experts are sharing that AI chatbots will be a sort of assistant to discerning professionals who choose to embrace AI and gain efficiencies on their co-workers who do not."
-    publishedDateTime: 2023-07-26T11:04:00Z
-    webUrl: "https://tech.co/news/chatgpt-will-take-jobs"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/26065813/robots-taking-jobs-1.jpg"
-        width: 1920
-        height: 960
-        isCached: true
-
 secured: "/lLSCAET947SK+RUWpMjf+PpvsXBXVxmOwHRRg7m5VCinOUusx3RMKB1U3sZ9NALNT6IgohD1t0KOe2l4kVeWfkajvvZ3e/sqlV9rNBHCedjEG/heihmY53t3Mk6pB1LJyXRQEjIe+1s81v9fCOOB6rLFff+EbRNmQV8FI1FPGp5/1sriSDF16KEX/V0FUOs1ACfFBYxn+5lIic5TgRh+rrDJVH86AzAawOnKGkieYSQcUBemWG8jUXLmHo2NkJpRmf2Zwja1cV2OUybldoFcpSjhAAQzR/BCHn4eOClpSBnnuXsOPCQwdrRkbXADjxAB2aLjQWje4w7ai8M8d9q3Vzx444f3Uq4gMnmuQbOuFUd6VL0Ain188T+N78HLwFtjlIzvk4KF1hTzmqmFWhFagf3qSOa8HGj3yIvj51NLbj3Wj/c8SY3TCRFjRyJQ8UDyO+WrlN4fUosvKc2YtpoxZy0rOjLGirBVcI7W3Qa0i3HJx03RaK4GBpraY1oWWdLvyJy8nK0XuN0ZV8PqCzClw==;uA22tusOt4ZQ4f6UI3gB0w=="
 ---
 

@@ -20,13 +20,13 @@ topics:
 
 related:
   - title: "AWS and Twilio Deepen Relationship to Power Intelligence Driven Customer Engagement"
-    excerpt: "Collaboration Injects Predictive AI Capabilities into Twilio’s CustomerAI RoadmapSAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Today at AWS Summit New York,"
-    publishedDateTime: 2023-07-26T17:41:00Z
-    webUrl: "https://www.01net.it/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement/"
+    excerpt: "Today at AWS Summit New York ... of their longstanding strategic work together that will place powerful artificial intelligence (AI) capabilities at the fingertips of Twilio customers."
+    publishedDateTime: 2023-07-26T17:59:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20230726433846/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Morningstar
+      domain: morningstar.com
     quality: 13
   - title: "Mlytics & TenMax Partner to Offer AI-driven Video Engagement Solution for Video Stream Companies, Driving Monetization and Conversion"
     excerpt: "Locarno, Managing Partner of Mlytics, stated, \"We are delighted to partner with TenMax to introduce an AI-driven video engagement solution that will transform the way video stream companies monetize their content and engage with their viewers."

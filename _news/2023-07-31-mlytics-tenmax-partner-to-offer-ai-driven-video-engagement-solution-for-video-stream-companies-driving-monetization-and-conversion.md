@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-31T01:12:00Z
 originalUrl: "https://www.digitimes.com/biz/news.asp?feed=1854"
 webUrl: "https://www.digitimes.com/biz/news.asp?feed=1854"
 type: article
-quality: 8
-heat: -1
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://img.digitimes.com/ad/en_202307181_dtmember_bigbutton.gif"

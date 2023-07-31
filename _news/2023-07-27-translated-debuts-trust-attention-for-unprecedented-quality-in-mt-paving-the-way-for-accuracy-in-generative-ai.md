@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/translated-debuts-trust-attention
 webUrl: "https://venturebeat.com/business/translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Prompt Engineering Technique Inventively Transforms Imperfect Prompts Into Superb Interactions For Using Generative AI"
-    excerpt: "Many aim to enter prompts into generative AI that are so-called perfect prompts. A new technique in prompt engineering says don't worry, be happy with imperfect prompts."
-    publishedDateTime: 2023-07-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3789,2525,x684,y2,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
     excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
     publishedDateTime: 2023-07-27T13:00:00Z

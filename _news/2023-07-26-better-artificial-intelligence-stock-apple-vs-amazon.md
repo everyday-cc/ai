@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/07/26/better-artificial-intell
 webUrl: "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: The Motley Fool
@@ -29,29 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Better AI Stock: C3.ai vs. Opera Limited"
-    excerpt: "C3.ai claims it's an \"enterprise AI software\" company, but it was previously known as C3 Energy and C3 IoT ( Internet of Things ). It only renamed itself again as C3.ai in 2019 as the market became more interested in AI technologies."
-    publishedDateTime: 2023-07-26T11:06:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740857/androids-business-suits.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Why Artificial Intelligence (AI) Stock C3.ai Was Edging Higher This Week"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-07-28T12:44:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/28/why-artificial-intelligence-ai-stock-c3ai-was-edgi/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 63
   - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
     excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
     publishedDateTime: 2023-07-27T10:03:00Z
@@ -66,6 +43,20 @@ related:
         width: 2122
         height: 1412
         isCached: true
+  - title: "UIPath Stock: A Top Pick for the Oncoming Bull Market"
+    excerpt: "This leading robotic process automation software provider is a good investment for those looking to capitalize on the growth of a rapidly growing market."
+    publishedDateTime: 2023-07-26T11:19:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/uipath-stock-top-pick-for-the-oncoming-bull-market/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740675/automation-ai-pushing-digital-button.jpg"
+        width: 2057
+        height: 1458
+        isCached: true
   - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
     publishedDateTime: 2023-07-27T09:30:00Z
@@ -75,6 +66,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "If You Can Only Buy One AI Stock, It Better Be One of These 3 Names"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If an investor were limited to purchasing a single AI stock investment, any of"
+    publishedDateTime: 2023-07-27T10:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-ai-stock-it-better-be-one-of-these-3-names-1032483775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Alphabet CEO Sundar Pichai Says AI Start-Ups Are Choosing Google Cloud -- Time to Buy the Stock?"
+    excerpt: "Google Cloud put up another near-30% growth rate last quarter, and CEO Sundar Pichai said lots of AI customers helped. Even better than Google Cloud's strong growth is its rapid rise to profitability."
+    publishedDateTime: 2023-07-27T13:12:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/sundar-pichai-says-ai-startups-prefer-google-cloud/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 34
 
 secured: "w5XXI4vO5E7QfHh4mOcsLTR4v5LVasAhmkgVxLQAd43GcKjZAUfDzPyIchedlc1iee2h35gBHAHRHTxmuFwHQsbuF0SClLH/Q6vM/xeFgY5/dNVxs6SZ2vQhvWmrJWUwTqzH1nAZcVbBQGRCC0392iObXxv15KP5ARLA8zBh3dijXrOLKe2tgTWKryIzJbWCtmOdUpSbK25WuJ7vsE3HH9sfZTI0jmn/BjRMOds27CZ8PoAxAY7Yp0DxSYETjIcEYak71VpQ/TpXX5SDWoG1CqJtGYMMtkuA+sDUWYtZnPQiYrciF9UuMLlTi3pkmSqcEklLTaY2ISllsUr3CJGaMneP5mEsMg5p6lwc3jscefU=;UFsCnLWOxHigOc/0PiIBZQ=="
 ---

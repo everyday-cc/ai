@@ -7,7 +7,7 @@ originalUrl: "https://gulfbusiness.com/difc-hub-9th-fintech-accelerator-programm
 webUrl: "https://gulfbusiness.com/difc-hub-9th-fintech-accelerator-programme-2023/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 930
     height: 620
     isCached: true
-
-related:
-  - title: "ImageSource, Inc. Top 10 Fintech Solution Provider of 2023"
-    excerpt: "Terry Sutherland, founder, and CEO of ImageSource, says, \"We are honored to be included in Money Outlook's list of preeminent Fintech solution providers. As The Money Outlook's insights indicate, we take pride in empowering companies to reshape business processes and innovate services."
-    publishedDateTime: 2023-07-27T16:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/imagesource-inc-top-10-fintech-solution-provider-of-2023-1032485458"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "J/qiSooRQc7/0SVTm6biHv5zRyo5rGkaTUOk6Bg0BnisoKcJ2wag9q4NTYIdS5YvRltKcxdi3fBIGG8IpjDjPWEtph7YChRNU8OV3f/HsL3L9nkS4Kg4OJoVlheH4Fy40NJom6eYop+U746D2b+lRSZusfC/US/09t6uwFgiQGogGfjUtn69tKM/1Cw7Hc3aavaVrsEAxu0xtkO6mQp3V2jqhW6qBb4UuC0Z5gkV70mLEtXK8Bkbc/gHk09w0OCcI2Yn/2msLFV5/YHeEhqhsM/cT7H/WwKY3Zfy9X31riFCMXd9NZaiLX6z9b/XpvjffXlRXagr3uL3YPtJyt41F/jqMoPfGDke3HbDymIlKUSuCWyezVPVIhn2IdBuTHYfPLSlA/8yx0IkdqoS12WHIn87gb3V8lGqWqA7QVDe7U56Dc+COpwBFYtITMsWAGTQFlyV/AwSnXa1eUhhY+63yRshclxJL4ho1d04VMR9dGNE4+dnEcEESBtPTHjcduDlqRjPL7XNVrGx3GET4cERmg==;TFY8iEibiiujcl7FtOVIMg=="
 ---

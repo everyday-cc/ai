@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/27/2-ai-stocks-up-100-this-
 webUrl: "https://www.fool.com/investing/2023/07/27/2-ai-stocks-up-100-this-year-that-im-still-buying/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 Top Artificial Intelligence Stocks to Buy Right Now"
-    excerpt: "Nvidia ( NVDA 2.39%) and Microsoft ( MSFT 1.70%) are no-brainers. These top AI stocks delivered stellar returns to investors in recent years, and are already outperforming the market again in 2023 thanks to the growing demand for AI hardware and software. Here's why these two stocks are still great buys."
-    publishedDateTime: 2023-07-26T09:05:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/26/2-top-artificial-intelligence-stocks-buy-now/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740808/artificial-intelligence-ai-on-circuit-board.jpg"
-        width: 2359
-        height: 1270
-        isCached: true
   - title: "7 AI Penny Stocks that Could Hit $5 Soon"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The era of artificial intelligence is upon us. By 2030, AI is expected to"
     publishedDateTime: 2023-07-30T18:45:00Z

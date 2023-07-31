@@ -35,6 +35,29 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
+    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
+    publishedDateTime: 2023-07-28T09:58:00Z
+    webUrl: "https://financialit.net/news/fundraising-news/croissant-fintech-platform-launches-24m-change-future-commerce"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 20
+    images:
+      - url: "https://financialit.net/sites/default/files/croissant.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Business school launches £3m FinTech centre"
+    excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
+    publishedDateTime: 2023-07-27T12:13:00Z
+    webUrl: "https://www.thebusinessdesk.com/westmidlands/news/2076390-business-school-launches-3m-fintech-centre"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 4
 
 secured: "25/DBnJZ/mOH6l/pApugf0CETZsGHZXKXFzWsrDvZBRnxvgxznKrLTfT7bIziXXeqjnM72XngihWZcx36Ui02ggfD+ISCRflV6c66eWwrv4rXxeMmHNyzo9I6BSiWbp2kxlVF6hbAYinwE/1oiF+wcKTz8tMvh2LGwfdv8b1G+1SqwngUrHnb4DiB1wrOwpi9uEEd7IoCaMM2BNJOXkB/Su/EPTiFaldmPpcXXBMhgl4vWewGP4+9TDUoNSNzJHO2uMav64vwKdVgzVtEX2QhDX0fSXvVk3oE1/o9zBBeYKy/MlWD1njbBOuth6Hxr9Vm39Srl6DyHfEK7f3jRrrvgH06WaoCprmsT6aByO5YTM=;vTJW2hg2sF7VZn0v1FT4aA=="
 ---

@@ -37,22 +37,6 @@ related:
         width: 480
         height: 388
         isCached: true
-  - title: "Latest Prompt Engineering Technique Inventively Transforms Imperfect Prompts Into Superb Interactions For Using Generative AI"
-    excerpt: "Many aim to enter prompts into generative AI that are so-called perfect prompts. A new technique in prompt engineering says don't worry, be happy with imperfect prompts."
-    publishedDateTime: 2023-07-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/26/latest-prompt-engineering-technique-inventively-transforms-imperfect-prompts-into-superb-interactions-for-using-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3789,2525,x684,y2,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "UATtKFu1csjLcYczYbTx4rg7j0U7YV5m3pA4+IlwVu7cgkEpAd3NEJ7bs7LGWna2bn3aAlKTdUv2j2bPvTHFaYAF2jhWDl1yJM32lBv7ceCqM+BSMyDrORfsHBKwEv3TMFM6/tMbrZQsJk64o5u2skzWs7yTntVgXoQPgItBvVzSgf9OJs7gJkC7pwMYsuWyc4DUDUnbWkiKI7ZmMSwPz3qGOZ+scDJ6fnqeK0OBHe2NxeIsxW0k7S7ogmH6EiopDY+aKXq84BL4yafHybS2l+7b6N2D9OhEnGBId2MeCz9U5Zg3YKGpduY5wcvCsN7JOwG3zrzOQFcbUOsI5CtTXBo+JxuR80pP/WaihHZPoX8=;myDgAAGfiJQcXE7SB+rBXg=="
 ---

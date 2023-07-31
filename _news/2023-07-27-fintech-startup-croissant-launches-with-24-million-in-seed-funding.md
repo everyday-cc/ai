@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Climate change and financial innovation: The rise of climate fintech"
+    excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
+    publishedDateTime: 2023-07-27T14:23:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Difc Innovation Hub Launches 9Th Edition Of Fintech Accelerator Programme"
     excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa, and South Asia (MEASA) region, today"
     publishedDateTime: 2023-07-26T23:13:00Z
@@ -55,6 +71,24 @@ related:
         width: 1336
         height: 876
         isCached: true
+  - title: "PKKFF Tenet Fintech Group Inc."
+    excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://seekingalpha.com/symbol/PKKFF"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "Fintech Innovations To Watch Out For In 2023"
+    excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
+    publishedDateTime: 2023-07-30T18:54:00Z
+    webUrl: "https://menafn.com/1106738881/Fintech-Innovations-To-Watch-Out-For-In-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
   - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
     excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
     publishedDateTime: 2023-07-27T14:46:00Z

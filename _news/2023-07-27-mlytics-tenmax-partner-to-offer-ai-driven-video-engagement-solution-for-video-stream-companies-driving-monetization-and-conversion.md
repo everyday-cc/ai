@@ -35,13 +35,13 @@ related:
       domain: tmcnet.com
     quality: 13
   - title: "AWS and Twilio Deepen Relationship to Power Intelligence Driven Customer Engagement"
-    excerpt: "Collaboration Injects Predictive AI Capabilities into Twilio’s CustomerAI RoadmapSAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Today at AWS Summit New York,"
-    publishedDateTime: 2023-07-26T17:41:00Z
-    webUrl: "https://www.01net.it/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement/"
+    excerpt: "Today at AWS Summit New York ... of their longstanding strategic work together that will place powerful artificial intelligence (AI) capabilities at the fingertips of Twilio customers."
+    publishedDateTime: 2023-07-26T17:59:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20230726433846/aws-and-twilio-deepen-relationship-to-power-intelligence-driven-customer-engagement"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Morningstar
+      domain: morningstar.com
     quality: 13
 
 secured: "4volN64A3JSNjO28Fqj3YwXI0Gb3TKV4FL6W5A/v6SEJ4wdAuF2Y5zSR8zFdHi/e9P3YxS61etKtuhxsvHqVKOmUhEInTwfawYwYJEbI0+3+fq67QqlQef3Iyp00RG5WpbPyjtbxmLhcKbQ+EporUomty/WR2I3lrXOfljy8Z9BpcZWfN8aLGzbCuNua5Oo8xnGPdmJUQuh/Ee4Um13lDNZAMYks9+1/XvyO3FEdTJz6A0ZE+qX3Rlgz7Mfszs3ko1ec24vGas5LDpMcctP9FBQPvzqIcAdX+vJCOojng8UE98S8i000JXy9dCr3unXiEzx2CEIoRBOjWlNV/uzpxJSgRJrgB4uogF8auAac1DBS5wp5MoDG7ETUo0v9YAflb48O2Bw7vKWAqbZKbgNXvhCiQ0z4rwrPv4I41pEDx4Qq2qnOCa0n90rH+r9+b51mFDscnp5hSEFRbeFiFr/HJctq46UStWSAsdDQbeevpqQg/KhOeNQAvYTxus9hpAqpeP7D4XJC6kSYjjlbKO2KLA==;c3Wlujy27cbRthlVChN6bQ=="

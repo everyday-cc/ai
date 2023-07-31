@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpm
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,162 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: A Big Bang Moment For FinTech"
-    excerpt: "FinTechs should know to approach generative AI with the right priorities and modern tech infrastructure in place."
-    publishedDateTime: 2023-07-26T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
+  - title: "UK investment minister: GCC trade deal would develop AI, fintech sectors"
+    excerpt: "A free trade agreement (FTA) between the United Kingdom and the Gulf Corporation Council (GCC) should help promote innovation and develop new industries like fintech and artificial intelligence (AI), Britain’s Investment Minister Dominic Johnson has told Al-Monitor."
+    publishedDateTime: 2023-07-28T14:33:00Z
+    webUrl: "https://www.al-monitor.com/originals/2023/07/uk-investment-minister-gcc-trade-deal-would-develop-ai-fintech-sectors"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 38
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c004db540f53f5ded8f5fe/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-07/dominic.jpeg?h=1d34674f&itok=40DrD_EK"
         width: 1200
-        height: 779
+        height: 628
         isCached: true
-  - title: "Climate change and financial innovation: The rise of climate fintech"
-    excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
-    publishedDateTime: 2023-07-27T14:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "Generative AI: Proposed Shared Responsibility Model"
-    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
-    publishedDateTime: 2023-07-28T15:04:00Z
-    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
-    type: article
-    provider:
-      name: Cloud Security Alliance
-      domain: cloudsecurityalliance.org
-    quality: 41
-    images:
-      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
-    excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
-    publishedDateTime: 2023-07-26T19:55:00Z
-    webUrl: "https://www.businessinsider.com/point72-ventures-exec-investment-areas-generative-ai-gaming-payments-2023-7"
+  - title: "ImageSource, Inc. Top 10 Fintech Solution Provider of 2023"
+    excerpt: "Terry Sutherland, founder, and CEO of ImageSource, says, \"We are honored to be included in Money Outlook's list of preeminent Fintech solution providers. As The Money Outlook's insights indicate, we take pride in empowering companies to reshape business processes and innovate services."
+    publishedDateTime: 2023-07-27T16:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imagesource-inc-top-10-fintech-solution-provider-of-2023-1032485458"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 38
+    quality: 34
+  - title: "J.P. Morgan and TIFIN partner to push wealthtech's AI evolution: Wealthtech Weekly"
+    excerpt: "Plus, portfolio construction upgrades from iCapital, an AI advisor platform from Savvy and two new leaders at eMoney."
+    publishedDateTime: 2023-07-27T21:18:00Z
+    webUrl: "https://www.financial-planning.com/list/j-p-morgan-and-tifin-announce-the-launch-of-tifin-ai-wealthtech-weekly"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 33
     images:
-      - url: "https://i.insider.com/5e20993762fa811b4215d2e4?width=700"
-        width: 700
-        height: 525
+      - url: "https://arizent.brightspotcdn.com/dims4/default/595f561/2147483647/strip/true/crop/3600x1890+0+445/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff8%2Fa0%2Fc70f26e9446680775ebc06e81ce2%2Fjpmorgan-flag-bloomberg.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
-    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
-    publishedDateTime: 2023-07-27T05:08:00Z
-    webUrl: "https://www.natlawreview.com/article/road-generative-ai-key-legal-considerations-automotive-industry"
+  - title: "JP Morgan backs new Tifin AI-powered wealth management charge"
+    excerpt: "JP Morgan is investing in a new AI-focused venture from Tifin, an umbrella group operating a host of wealth management fintech businesses."
+    publishedDateTime: 2023-07-27T13:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42702/jp-morgan-backs-new-tifin-ai-powered-wealth-management-charge"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 32
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
-        width: 500
-        height: 309
-        isCached: true
-  - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-28T09:58:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/croissant-fintech-platform-launches-24m-change-future-commerce"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 20
-    images:
-      - url: "https://financialit.net/sites/default/files/croissant.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
-    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-31T01:25:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/269905"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 18
-    images:
-      - url: "https://www.ryt9.com/img/files/20230731/iq0a3101bae9d83ba1d3cba0e22d952a83.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
-    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
-    publishedDateTime: 2023-07-27T21:09:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
-  - title: "Business school launches £3m FinTech centre"
-    excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
-    publishedDateTime: 2023-07-27T12:13:00Z
-    webUrl: "https://www.thebusinessdesk.com/westmidlands/news/2076390-business-school-launches-3m-fintech-centre"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 4
-  - title: "PKKFF Tenet Fintech Group Inc."
-    excerpt: "Tenet Fintech Group Inc. operates as the parent company of financial technology (Fintech) and artificial intelligence (AI) subsidiaries. The company, through its subsidiaries, provides various ..."
-    publishedDateTime: 2023-07-27T00:00:00Z
-    webUrl: "https://seekingalpha.com/symbol/PKKFF"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
-  - title: "Fintech Innovations To Watch Out For In 2023"
-    excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
-    publishedDateTime: 2023-07-30T18:54:00Z
-    webUrl: "https://menafn.com/1106738881/Fintech-Innovations-To-Watch-Out-For-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
-    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-29T08:26:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
-    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-29T20:11:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1337300&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "qmjm3sillOwCfHJF0RqE42xgMp5YrKWEoQtOjGjKs5LX4ogV+Yg3kTQ5rclS0RVzobMH3Wa0DkukET2LcQxGXiGb0543xDquAxmmPBiip+OfbzZqNXZ8/pv1GXB2zFk6kOpanb3kWd57PbxgpiDbb2UFruEKW3Oty3Pxttd9gbaurfL2gcPnM37cfh4LEqk3iTolzPW6rpCAw1onOulkmfcZ609KxpA/tZPutg0CcCJx487kxhfPKvs9lRf2VDNBXWmc+wk1CHTp5Q2L6ZgjWanqxBjaq8CGQNQ+VB+H7WD2evx6IS9iA9fSWbJI4C3XkPIdW4MbTBvviUfkl1taAiJ/wEC5bb2rChmBzQpMiLc=;6AfhHXOK68EbBK9NXP75cQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273913253/mlytics--tenmax-part
 webUrl: "https://www.bignewsnetwork.com/news/273913253/mlytics--tenmax-partner-to-offer-ai-driven-video-engagement-solution-for-video-stream-companies-driving-monetization-and-conversion"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 8
+    quality: 10
     images:
       - url: "https://img.digitimes.com/ad/en_202307181_dtmember_bigbutton.gif"
         width: 336
