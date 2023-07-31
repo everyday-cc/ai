@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-31-how-ai-music-startup-audioshake-is-expanding-content-localization.md",
+      "title": "How AI Music Startup AudioShake Is Expanding Content Localization",
+      "excerpt": "AI music startup AudioShake is making quality dubbing and content localization viable for content creators at all levels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
+      "originalUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c48d91821236b6e642dc54/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
+      "publishedDateTime": "2023-07-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-new-controversy-over-facial-recognition-in-retail-stores.md",
+      "title": "New Controversy Over Facial Recognition In Retail Stores",
+      "excerpt": "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
+      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
+      "publishedDateTime": "2023-07-31T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups.md",
+      "title": "AWS and Accel announce ML Elevate 2023 to Support Indian GenAI Startups",
+      "excerpt": "Amazon Web Services (AWS) and venture capital firm Accel has announced ML Elevate 2023, a six-week accelerator programme aimed at empowering Indian startups that are building generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/",
+      "originalUrl": "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ML-Elevate-2023.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-i-drove-the-70000-genesis-gv60-see-inside-the-futuristic-tesla-rival-that-has-facial-recognition-and-a-crystal-ball.md",
       "title": "I drove the $70,000 Genesis GV60: See inside the futuristic Tesla rival that has facial recognition and a crystal ball",
       "excerpt": "The Genesis GV60 is a quirky, premium SUV packed with futuristic tech. It's also super quick and charges fast.",
@@ -155,49 +303,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity.md",
-      "title": "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity",
-      "excerpt": "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/",
-      "originalUrl": "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842",
-          "width": 1024,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechnews",
-        "domain": "fintechnews.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -516,7 +621,7 @@
       "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -705,21 +810,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-29-home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting.md",
-      "title": "Home Office secretly backs facial recognition technology to curb shoplifting",
-      "excerpt": "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces",
+      "path": "_news/2023-07-29-google-microsoft-meta-amazon-pledge-ai-safety-and-security-at-white-house.md",
+      "title": "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House",
+      "excerpt": "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting",
+      "webUrl": "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/",
+      "originalUrl": "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 278,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1",
-          "width": 620,
-          "height": 372,
+          "url": "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -727,16 +832,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting",
-      "publishedDateTime": "2023-07-29T08:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -752,9 +857,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
-        "Computer Vision"
+        "AI in Security",
+        "Microsoft AI"
       ]
     },
     {
@@ -766,7 +871,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -963,7 +1068,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1148,110 +1253,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-backup-driver-in-self-driving-uber-that-killed-woman-pleads-guilty-to-endangerment.md",
-      "title": "Backup Driver In Self-Driving Uber That Killed Woman Pleads Guilty To Endangerment",
-      "excerpt": "PHOENIX (AP) — The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
-      "originalUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64c4321d2700003500df18f5.jpeg?cache=9Ru4pUuEwC&ops=1200_630",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
-      "publishedDateTime": "2023-07-28T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-top-5-announcements-from-the-aws-summit.md",
-      "title": "Top 5 Announcements from the AWS Summit",
-      "excerpt": "The headlines about AI generally focus on the dangers. The AWS Summit underscored the company’s ongoing commitment to responsible AI, which it has extended to generative AI. AWS noted that it will work across six areas: accuracy, fairness, intellectual property and copyright considerations, appropriate usage, toxicity and privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/top-five-announcements-aws-summit/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/top-five-announcements-aws-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt-vs-github-copilot.png",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

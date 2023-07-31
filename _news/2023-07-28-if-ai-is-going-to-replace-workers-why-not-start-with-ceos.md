@@ -40,15 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "1. Exposure of workers to AI"
-    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
-    publishedDateTime: 2023-07-26T17:56:00Z
-    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 17
 
 secured: "lY55rWnaLTkrHJ+Sd7V65b5av4VylwZSfFv58pirGDZ71DJjDrAus/I6UMVWE7Siy0CpO+VptchiCYbn1LJKuPA301kl2TXArqMx5bi+XIDCwmt/ybbdXeajuTUDK/kEFBTuMkq0o8P12bCNnNcdTXg5Tcvigr93AsjEpsz5zWHRVl45x7+LQ+/f9ez/0KIY/q9JP1GWVS7PibVr2NoUetVdrPiM2emQbcy7oZytV6XRhfYHR7lPa6yUYiiwnbuXfFsUxjYM7Tvm6UiHRdqgK7AzVXxfy/4bcEJp3D75eIkQ1JzTPC1zyWLxdjwq5qesdpCRgnMHtvjx4qZNs6L289IWcOHApNNMbfep5xsDKgQFxcBw+ij+KWwblu/7kgFw2rdS9bStqDRt8yoMRkIcAeiRs99MWmxuXckqmhalwcPy6lSOZTsZl4yTr02zVZwU9PciCop+YGL59lnh1I8PTF+NGxXG2UfSmExMlylKZ4MgtWmIP8AWJDAyf8lyDmw/qbTej6fsxjm6k0D1Jyi5yA==;6me1ekn3fIB1KlfeMSP+Ag=="
 ---

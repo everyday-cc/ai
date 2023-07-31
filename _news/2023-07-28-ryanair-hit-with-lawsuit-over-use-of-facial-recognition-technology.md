@@ -25,79 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy group challenges Ryanair's use of facial recognition"
-    excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair , alleging that it is violating customers' rights to data protection by using facial recognition to verify their identity when booking through online travel agents."
-    publishedDateTime: 2023-07-27T05:54:00Z
-    webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
+  - title: "New Controversy Over Facial Recognition In Retail Stores"
+    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
+    publishedDateTime: 2023-07-31T10:06:00Z
+    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/"
+    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.reuters.com/resizer/dIDyVgha2Ldzns3rcSc6hqCdXt0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FBR3K75CPFPAZMM63XCHD3ESFE.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
         width: 1200
-        height: 628
+        height: 799
         isCached: true
-  - title: "Ryanair Accused Of 'Invasive' Facial Recognition Use"
-    excerpt: "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\"."
-    publishedDateTime: 2023-07-27T11:38:00Z
-    webUrl: "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    ampWebUrl: "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
+  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
+    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
+    publishedDateTime: 2023-07-29T15:11:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
     images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
+      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Digital rights group NOYB challenges Ryanair's use of facial recognition"
-    excerpt: "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking."
-    publishedDateTime: 2023-07-27T13:37:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms"
+  - title: "US cities could start banning facial recognition again"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-27T21:55:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 73
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Ryanair challenged by Noyb over ‘invasive’ facial recognition"
-    excerpt: "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies."
-    publishedDateTime: 2023-07-28T08:08:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 54
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/07/AdobeStock_288121812_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "Ireland's Ryanair's use of facial recognition challenged"
-    excerpt: "NOYB has filed a complaint against Ryanair for violating customers data protection rights by using facial recognition to verify their identities when booking through online travel agents"
-    publishedDateTime: 2023-07-29T10:42:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273914693/ireland-ryanair-use-of-facial-recognition-challenged"
+  - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
+    excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
+    publishedDateTime: 2023-07-29T16:26:00Z
+    webUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1690607773194.jpg"
-        width: 630
-        height: 420
+      - url: "https://i.guim.co.uk/img/media/3db4e2352f0c005d9cb730443a4f3d40a71f612d/0_653_1512_907/master/1512.jpg?width=620&quality=85&auto=format&fit=max&s=14ecf08b5772b0758f675dc478f5e63b"
+        width: 620
+        height: 372
         isCached: true
   - title: "US cities weigh value of facial recognition for police"
     excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
@@ -113,24 +101,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
-    excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."
-    publishedDateTime: 2023-07-27T08:37:00Z
-    webUrl: "https://www.irishtimes.com/business/2023/07/27/schrems-privacy-group-challenges-ryanairs-use-of-facial-recognition/"
+  - title: "Home Office lobbied for facial recognition in shops to tackle shoplifting, report"
+    excerpt: "Recently published documents have revealed the UK government has been actively pressurising the Information Commissioner's Office (ICO) to endorse the rollout of facial recognition technology in high street shops and supermarkets to tackle 'retail crime'."
+    publishedDateTime: 2023-07-31T07:26:00Z
+    webUrl: "https://www.computing.co.uk/news/4121156/home-office-lobbied-facial-recognition-shops-tackle-shoplifting-report"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
+      name: Computing
+      domain: computing.co.uk
     quality: 34
-  - title: "Ryanair accused of violating customers’ rights with facial recognition"
-    excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
-    publishedDateTime: 2023-07-28T12:37:00Z
-    webUrl: "https://metro.co.uk/2023/07/28/ryanair-sued-for-violating-customer-privacy-with-facial-recognition-19209515/?ico=tag-post-strip_item_3_news"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 34
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/302014b/e4858223-4780-4d82-9ee1-a70f0bca491b/24/live-facial-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "2k8tnqp5dTcwrNeBLQDpUQPgSrdfYo8F6Yj1iNLBzM8poHX4rpSN0698VKiZbw09Z8XErPnsVX/ht6aDYBmEwvkMJ7OOTTupVR5bjQln5fDmWoMsR6U/XZWaYU3SpoZyPxklLCEwSZP+Ka50NUBwj5kzAYWSgkPkfwBJz8skSaTEpYQjTbVUI1kCWhjc1G9dycpKc3XF/UUoGb3y+6b102lOpeSxJPvr4HctpQ29OmIY243wJxoYwRmFAG8TWHcQbIEdQKHgsfQs/hENJi2LXJvWo8E/JZzwMa8wGqmLDY8a0sfHHmAIczhkdKXqJQrAqhtDteSa45LIpPJW6pjxTqcq/85uSqHVpOdCPN9ZUIwApNxNHepPThfpXD413Qtc7UXSnsqdEBbrxIgNotQ7RSiilRFDfadbfv6kMPo35hJxg+wVFctdCTzEtRy2XROG+h5ysFtnml3KeIvwS5xrFjaxRnAzYuwiZPwbL4uA7w19CTZAib0D86xKyTQyXK8GKg0ejhDSTPldciqNAZh0bg==;Tsre3sS/DZfux9PDXavHCw=="
 ---

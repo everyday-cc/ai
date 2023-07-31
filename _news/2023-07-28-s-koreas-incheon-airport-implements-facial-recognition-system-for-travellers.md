@@ -51,20 +51,6 @@ related:
         width: 980
         height: 556
         isCached: true
-  - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
-    excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."
-    publishedDateTime: 2023-07-26T17:27:00Z
-    webUrl: "https://www.techjuice.pk/punjab-police-introduces-ai-powered-facial-recognition-system/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 54
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/07/AI-Facial-Recognition-System-635x430-1.jpg"
-        width: 635
-        height: 430
-        isCached: true
   - title: "Wanted pervert snared at the King’s Coronation after being spotted by facial recognition cameras"
     excerpt: "POLICE are being urged to use Big Brother-style facial recognition cameras after one snared a wanted pervert at the King’s Coronation. Policing minister Chris Philp has held meetings with Home"
     publishedDateTime: 2023-07-30T22:55:00Z
@@ -94,20 +80,6 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/28/yuincheonairport2807.jpg"
         width: 860
         height: 573
-        isCached: true
-  - title: "Home Office lobbied for facial recognition in shops to tackle shoplifting, report"
-    excerpt: "Recently published documents have revealed the UK government has been actively pressurising the Information Commissioner's Office (ICO) to endorse the rollout of facial recognition technology in high street shops and supermarkets to tackle 'retail crime'."
-    publishedDateTime: 2023-07-31T07:26:00Z
-    webUrl: "https://www.computing.co.uk/news/4121156/home-office-lobbied-facial-recognition-shops-tackle-shoplifting-report"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 34
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/302014b/e4858223-4780-4d82-9ee1-a70f0bca491b/24/live-facial-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
   - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
     excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."

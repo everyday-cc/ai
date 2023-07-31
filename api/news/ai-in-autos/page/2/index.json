@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-20-artificial-intelligence-uk-and-frances-battle-for-european-leadership.md",
-      "title": "Artificial Intelligence: UK and France’s Battle for European Leadership",
-      "excerpt": "Explore how the competition between the UK and France to emerge as the European leader in AI symbolises more than national pride; it's a testament to their shared belief in the potential of AI to shape the future.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
-      "originalUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-20-forbes-daily-artificial-intelligence-and-what-you-need-to-know.md",
       "title": "Forbes Daily: Artificial Intelligence And What You Need To Know",
       "excerpt": "Good morning, Seemingly overnight, artificial intelligence began to dominate public consciousness thanks to the launch of ChatGPT in November. In just two months, the bot had 100 million users ...",
@@ -1295,6 +1261,58 @@
         "name": "WCVB Channel 5 Boston",
         "domain": "wcvb.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-ftc-opens-investigation-into-chatgpt-maker-over-technologys-potential-harms.md",
+      "title": "F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms",
+      "excerpt": "The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/07/13/multimedia/13ftc-chatgpt-jgqt/13ftc-chatgpt-jgqt-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

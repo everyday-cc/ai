@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-31-vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity.md",
-      "title": "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity",
-      "excerpt": "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/",
-      "originalUrl": "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842",
-          "width": 1024,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechnews",
-        "domain": "fintechnews.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-31-kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops.md",
       "title": "Kubeflow Joins CNCF To Accelerate The Adoption Of MLOps",
       "excerpt": "CNCF’s acceptance of Kubeflow as an incubation project marks an important milestone in the evolution of the open source MLOps platform.",
@@ -149,6 +106,59 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-google-microsoft-meta-amazon-pledge-ai-safety-and-security-at-white-house.md",
+      "title": "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House",
+      "excerpt": "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/",
+      "originalUrl": "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 278,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
       ]
     },
     {
@@ -265,7 +275,7 @@
       "originalUrl": "https://www.geekwire.com/2023/meta-and-microsoft-vets-land-2-2m-for-startup-building-shared-brain-developer-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -306,49 +316,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-introducing-microsoft-fabric-the-future-of-data-analytics.md",
-      "title": "Introducing Microsoft Fabric: The future of data analytics",
-      "excerpt": "Microsoft Fabric is a unified SaaS platform bridging the data and intelligence gap, says Zia Marais, engagement lead at Decision Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL",
-      "originalUrl": "https://www.itweb.co.za/content/o1Jr5qxPm4dqKdWL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/07/Decision-Inc-27July2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL",
-      "publishedDateTime": "2023-07-27T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1449,6 +1416,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha.md",
+      "title": "SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha",
+      "excerpt": "In case one needed more evidence that there’s a massive appetite for generative AI, SAP, the Germany-based consulting giant, yesterday invested in three major generative AI players: Anthropic, Cohere and Aleph Alpha. The terms of the direct investments ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/",
+      "originalUrl": "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-474787219.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/",
+      "publishedDateTime": "2023-07-19T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

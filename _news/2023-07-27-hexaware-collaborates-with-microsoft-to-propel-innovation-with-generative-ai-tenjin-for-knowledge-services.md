@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence"
-    excerpt: "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,"
-    publishedDateTime: 2023-07-26T18:25:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 113
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c1637e81d2f6620816a7fe/0x0.jpg?format=jpg&crop=4886,2747,x0,y49,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House"
     excerpt: "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:"
     publishedDateTime: 2023-07-29T15:00:00Z
@@ -52,52 +36,6 @@ related:
     quality: 98
     images:
       - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia estimates ‘may prove conservative’ as Microsoft, Google mentions of AI more than double"
-    excerpt: "Microsoft and Alphabet mentioned \"AI\" so many times on earnings, one Nvidia analyst is thinking his bullish estimates may be too conservative."
-    publishedDateTime: 2023-07-26T17:30:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-estimates-may-prove-conservative-as-microsoft-google-mentions-of-ai-more-than-double-aca64856"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
-    images:
-      - url: "https://images.mktw.net/im-824287/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Amazon Web Services Launches New AI Healthcare Products, Chatbot Tools"
-    excerpt: "Amazon Web Services (AWS) introduces AI solutions for healthcare, chatbot tools for customer service, and enhanced business intelligence tools to compete with Microsoft and Google in the generative AI space."
-    publishedDateTime: 2023-07-26T17:41:00Z
-    webUrl: "https://www.techtimes.com/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 91
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/422535/amazon.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Google, Microsoft, OpenAI Join Forces to Create AI Safety Forum"
-    excerpt: "ChatGPT maker Open AI , startup Anthropic and tech giants Google and Microsoft have forged an alliance to create a framework for safety standards and the responsible development of what they're calling \"frontier AI\" models ."
-    publishedDateTime: 2023-07-26T17:45:00Z
-    webUrl: "https://www.cnet.com/tech/google-microsoft-openai-join-forces-to-create-ai-safety-forum/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/0f75266d8693db9e798b8305c35556dca21fefa5/hub/2023/07/26/df575deb-f8b6-4020-9a56-597958e9c85b/gettyimages-1247212585-google-open-ai-microsoft.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -236,34 +174,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "AWS’ head of health AI on Amazon’s new clinical documentation play"
-    excerpt: "AWS’ Tehsin Syed shared what differentiates HealthScribe from other AI-based medical scribes and how Amazon is approaching tricky questions of accuracy and responsibility around generative AI in healthcare."
-    publishedDateTime: 2023-07-27T16:16:00Z
-    webUrl: "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/53gowIaP8QxjnVDdtQ9rskIbm7xfdCn4x-I8DWwbeOs/crop:1763:996/g:nowe:34:422/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2F3cy1ueWMtc3VtbWl0LmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "The disruptors entering the healthcare AI race"
-    excerpt: "Explore how Amazon Web Services, Google and Microsoft are using generative AI to tackle healthcare's biggest burdens like clinician documentation."
-    publishedDateTime: 2023-07-26T20:50:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/the-disruptors-entering-the-healthcare-ai-race.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Dentsu goes with Microsoft to unleash AI"
     excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
     publishedDateTime: 2023-07-27T21:33:00Z
@@ -277,6 +187,20 @@ related:
       - url: "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_300,g_faces:center,f_auto/http%3A%2F%2Fyaffa-cdn.s3.amazonaws.com%2Fadnews%2Flive%2Fimages%2FdmImage%2FStandardImage%2Fhighway-eric-weber-via-unsplash2.jpg"
         width: 300
         height: 203
+        isCached: true
+  - title: "Microsoft Introduces Azure Deployment Stacks in Public Preview"
+    excerpt: "While using ChatGPT through a web interface is one thing, creating your own autonomous AI tool that interfaces with ChatGPT via ... Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection ..."
+    publishedDateTime: 2023-07-29T17:47:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/azure-deployment-stacks-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2023/07/azure-deployment-stacks-preview/en/headerimage/generatedHeaderImage-1690105019398.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
@@ -292,38 +216,20 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "AWS introduces generative AI service for creating clinical documentation"
-    excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."
-    publishedDateTime: 2023-07-26T21:58:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/aws-introduces-generative-ai-service-creating-clinical-documentation/"
+  - title: "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity"
+    excerpt: "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology"
+    publishedDateTime: 2023-07-31T06:40:00Z
+    webUrl: "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws.png"
-        width: 931
-        height: 521
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842"
+        width: 1024
+        height: 567
         isCached: true
-  - title: "AWS bets big on healthcare AI"
-    excerpt: "Amazon Web Services launches AWS HealthScribe, a new AI-powered service that automatically creates clinical documentation. Save clinicians time with speech reco"
-    publishedDateTime: 2023-07-26T17:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/aws-bets-big-on-healthcare-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
-  - title: "AWS launches AI-powered healthcare-focused services"
-    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
-    publishedDateTime: 2023-07-27T12:05:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 51
   - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
     excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
     publishedDateTime: 2023-07-28T09:25:00Z
@@ -338,58 +244,29 @@ related:
         width: 650
         height: 397
         isCached: true
-  - title: "Exclusive-Amazon has drawn thousands to try its AI service competing with Microsoft, Google"
-    excerpt: "Amazon.com’s cloud division has drawn thousands of customers to try out its service vying with Microsoft and Google in a key area of artificial intelligence, an executive told Reuters. The company also announced new AI tools on Wednesday,"
-    publishedDateTime: 2023-07-26T18:50:00Z
-    webUrl: "https://www.aol.com/news/exclusive-amazon-drawn-thousands-try-155026475.html"
+  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
+    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
+    publishedDateTime: 2023-07-27T15:26:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 44
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/b9065e66fd7417aeb7fda1d9eaf1bc50"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
-    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
-    publishedDateTime: 2023-07-26T23:05:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Healthcare Dive
+      domain: healthcaredive.com
     quality: 39
-  - title: "Google, Microsoft form group to create best practices for emerging AI models"
-    excerpt: "Another industry group has emerged promising to promote best practices for artificial intelligence applications at a time when governments around the world are looking at regulating AI. Google, Microsoft,"
-    publishedDateTime: 2023-07-26T19:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/google-microsoft-form-group-to-create-best-practices-for-emerging-ai-models/543626"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 33
-  - title: "Microsoft Announces New Generative AI Search Using ChatGPT; Bada BING, Bada Boom—The AI Race Is On – Forbes"
-    excerpt: "Microsoft Chairman and CEO Satya Nadella at Microsoft headquarters in Redmond, Washington When you’re looking for an answer to a question, want to find a local repair shop or need a recipe for braised short ribs,"
-    publishedDateTime: 2023-07-28T12:33:00Z
-    webUrl: "https://www.inferse.com/648276/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on-forbes/"
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
+    publishedDateTime: 2023-07-26T23:57:00Z
+    webUrl: "https://www.inferse.com/642389/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 18
-  - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
-    publishedDateTime: 2023-07-26T18:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854711.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+    quality: 14
 
 secured: "FENCXErBxq3XQjt+HvWGjPMgVvoTgeBtwUEMC5/uRBsm846uBLObiYlLStOx2UUD+oVTsSTW2ptGYje4C9DLIQXkN6lVSN46aqbQ9ecGxiVow5OycjpLgD8ib4zTQEr4q5Nw2U+SdXRvupKPg2RJORiR+50zyiuIfbSJlZ4urneqO3h2LM5HsvS6q/6x4elSOD8Ys1Qlbye837+lfy4/IRGVfhP+HVGA6Ilom2awCOYZ+pV+1w7sI0F3ZDE/pyfqMwSE9+EABrYGZIpm0JUoGjRcE59Vziu7EdU5FkkPtKElUNrEuIXWsYfUFzlcg4VcrgzW1fpRXV1BaGc8nUaKzZ4CV6RnyWMC5BFkFI/daiQ=;xfIC8NzJxuvCaZ/s7fMqXw=="
 ---

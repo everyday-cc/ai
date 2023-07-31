@@ -9,7 +9,7 @@ ampWebUrl: "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp"
 type: article
 quality: 72
-heat: 84
+heat: 85
 published: true
 
 provider:

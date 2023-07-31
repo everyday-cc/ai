@@ -63,6 +63,17 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
+    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
+    publishedDateTime: 2023-07-26T23:05:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "We’re using AI chatbots wrong. Here’s how to direct them."
     excerpt: "After testing dozens of AI products, Brian Chen concluded that most of us are using the tech in a suboptimal way, largely because companies gave us poor directions."
     publishedDateTime: 2023-07-30T14:00:00Z

@@ -35,6 +35,20 @@ related:
         width: 901
         height: 451
         isCached: true
+  - title: "Substrate Artificial Intelligence preparing for London listing"
+    excerpt: "Substrate Artificial Intelligence (OTCQB:SUIAF) Chairman Lorenzo Seratosa & CEO Ivan Garcia introduce the Spanish artificial intelligence (AI) company to Thomas Warner from Proactive ahead of its planned London listing."
+    publishedDateTime: 2023-07-31T09:34:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1022152/substrate-artificial-intelligence-preparing-for-london-listing-1022152.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 37
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA3XC8yMDIxLTA0LTAxLTE1LTAwLTMwLTBlYmI2YjdiMzIyM2E4ZTNiMjIwNWY1NDRjMjkzYzk4XzY0Yzc4ZTljMGIyZmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5xRwqPU32vTbkZaYGKN/uZE/SCZMg6qZ7KACQXHDTCerUX6I028VZvfz+FK/t4D/5L2o4fxCgVCmQmmo9xJ3W/qwZGvS0GEkzE41St1mgEpjgetikvF+9kcDhOMzwp9XUesN+3YDyZHJBvFr2N7+TewLe047wFgm37Vp0d7npG2rzAY6IFsgEi7b+XSEFm2hsIFiIv5QOjSFK2eCE35o3d5pTBcPCDsPEitGpLN0OChfXd2h652j/ELlvwI3AW8eiwUUUsBtVbaumhLGy7fgR56eav54hl8AKNk8LYeXTq6YrJry4dCIJrYRWj1f7iJXh+78pQNk3huxCtn2IjTLm3z4lu/Y/ga4h7Q3L5aROHWpPX4wHS1k9VGxg2nIm0IlAZv5T40aI07euRm2NSM8w19iGoeFns2Vs7Uw8VhCIkXAa6JxnmAfeBADkEqD7+1wr2fQm0UmxcAqaZxctGOV3ULQ4hMiO/4nMy8uPJozIPMb0YtLtgPCt6KBbyOXZLAvJqcnLJLWYaQV902VTvG5Xw==;Q4yMCXzI9xdNuh3XDYAmUA=="
 ---

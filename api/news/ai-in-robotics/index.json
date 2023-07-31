@@ -64,7 +64,7 @@
       "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -469,6 +469,49 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-this-bluetooth-controlled-robotic-arm-kit-helps-ease-you-into-the-world-of-robotics-and-is-now-over-90-off.md",
+      "title": "This Bluetooth-controlled robotic arm kit helps ease you into the world of robotics and is now over $90 off",
+      "excerpt": "Dive into emerging robotic technologies with a variety of hands-on tools. By Stack Commerce | Published Jul 26, 2023 9:00 AM EDT We may earn revenue from the products available on this page and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/",
+      "originalUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/07/24/image-2.jpeg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/?amp",
+      "publishedDateTime": "2023-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1381,50 +1424,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-un-security-council-holds-1st-meeting-on-ai-very-serious-consequences.md",
-      "title": "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’",
-      "excerpt": "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
-      "originalUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2023/07/Untitled-design-56.png?w=276",
-          "width": 275,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9840681/un-security-council-ai/amp/",
-      "publishedDateTime": "2023-07-18T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

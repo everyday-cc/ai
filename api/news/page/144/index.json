@@ -2,6 +2,213 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2023-05-02-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-05-01T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-the-godfather-of-ai-quit-google-and-says-he-now-regrets-his-role-creating-technology-that-poses-a-threat-to-humanity.md",
+      "title": "The 'Godfather of AI' quit Google — and says he now regrets his role creating technology that poses a threat to humanity",
+      "excerpt": "Employees who spoke with Bloomberg said they thought Google wasn't prioritizing AI ethics, and trying to develop the tech quickly to catch up to OpenAI's ChatGPT. Two employees tried to stop the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
+      "originalUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/644fe1b9da6d7b0019bdca65?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoffrey-hinton-godfather-of-ai-quits-google-sounds-alarm-chatbots-2023-5?amp",
+      "publishedDateTime": "2023-05-01T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-buy-this-not-that-battle-of-the-real-ai-stars.md",
+      "title": "Buy This, Not That: Battle of the ‘Real’ AI Stars",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Just a few years ago, AI and hyperintelligent machines were the sole province",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-this-not-that-ai-stars-1032279362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/05/picture4.png",
+          "width": 450,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-grammarlys-new-ai-tool-is-available-in-beta-now.md",
+      "title": "Grammarly's New AI Tool Is Available in Beta Now",
+      "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e794683b92464d6ede33eb923ac1b8f19fc866b7/hub/2022/08/11/6499c375-fdb3-4574-a385-392a997b7a02/open-graph-image-newfunnel.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-available-in-beta-now/",
+      "publishedDateTime": "2023-05-01T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-best-early-amazon-prime-day-2023-furniture-deals.md",
       "title": "Best early Amazon Prime Day 2023 furniture deals",
       "excerpt": "If you've been thinking about redecorating, you're in luck -- there are tons of deals on top-rated, great-looking furniture right now on Amazon. And that's even ahead of Amazon Prime Day 2023 ...",
@@ -997,214 +1204,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-up-to-60-of-stroke-survivors-may-develop-cognitive-decline-within-a-year.md",
-      "title": "Up to 60% of stroke survivors may develop cognitive decline within a year",
-      "excerpt": "Up to 60% of all stroke survivors develop memory and thinking problems within a year, and one-third go on to develop dementia within five years, according to a new American Stroke Association ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230428154745-head-in-hands-stock-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
-      "publishedDateTime": "2023-05-01T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple.md",
-      "title": "Baidu Announces Breakthrough In Speech Recognition, Claiming To Top Google And Apple",
-      "excerpt": "But he couldn't help revealing better speech recognition as a key area of interest in the age of the smartphone. Today, Baidu, often called China's Google, unveiled the first results of what the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "originalUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/roberthof/files/2014/12/andrewngbaidu.jpg?format=jpg&width=1200",
-          "width": 664,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "publishedDateTime": "2023-05-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu.md",
-      "title": "NVIDIA Doubles Down On Self-Driving Cars With Xavier AI Chip And A Hat Tip To Next Gen Volta GPU",
-      "excerpt": "Xavier gets it done on a single chip, and again at massive power savings ... and eventually systems built on Xavier, are AI-driven supercomputers of sorts on wheels. The platform is connected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/davealtavilla/files/2016/09/NVIDIA_Xavier_SOC.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2016/09/28/nvidia-doubles-down-on-self-driving-cars-with-xavier-ai-chip-and-a-hat-tip-to-next-gen-volta-gpu/amp/",
-      "publishedDateTime": "2023-05-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-three-trends-of-transformation-how-ai-value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare.md",
-      "title": "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare",
-      "excerpt": "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

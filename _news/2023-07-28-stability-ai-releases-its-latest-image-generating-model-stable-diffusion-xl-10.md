@@ -57,15 +57,6 @@ related:
         height: 450
         isCached: true
   - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
-    excerpt: "The latest text-to-image model from Stability AI is also released as open access to developers alongside its APINEW YORK, July 26, 2023"
-    publishedDateTime: 2023-07-26T18:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock-1032480848"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
     excerpt: "Stability AI, a leading open generative AI company, announced the release of Stable Diffusion XL (SDXL) 1.0, the latest and"
     publishedDateTime: 2023-07-27T17:04:00Z
     webUrl: "https://www.datanami.com/this-just-in/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock/"
@@ -79,15 +70,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Stability AI Unveils Stable Diffusion XL 1.0"
-    excerpt: "AI startup Stability AI has taken a significant leap forward in the realm of generative AI models. The company recently announced the release of its latest text-to-image model, Stable Diffusion XL 1.0."
-    publishedDateTime: 2023-07-26T18:07:00Z
-    webUrl: "https://www.unite.ai/stability-ai-unveils-stable-diffusion-xl-1-0/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
 
 secured: "lyiEXCj8I/i6oBGHhnIg5z/6rBycaPnCWSpxgZt4ADtaXTGfL9bPON05Yui7fUz9HXoRpJjsaaBAbmfSgFsL4ZqpnszB2J+9jcXZBtps2qiYxCJd7VlFK6CiU1MG8vbvtedZ2Sl7W0yzayVD5Z4zpqlPtYkfsLcqrRT7VH/iZ+L7KGPWkXfZNvA3SiWseoXULpMlat6bgM5jHZSiZ/Q+p8Zk009fI5+w9pmbl4F1gBLGSAR0EbMIlSW8gAmBuShXiTNt2XwDPrXtSI9s+h1JGLvEA50OHEC8X4ZcFmWwEQr6HHzQTuDZotTyjHBE5ef+zABdAlktzzYOFiR8XbfiVEHsPByYhrIB2Z2NhZuW79E=;0TPIwjverBO+wlk0lM2QmQ=="
 ---

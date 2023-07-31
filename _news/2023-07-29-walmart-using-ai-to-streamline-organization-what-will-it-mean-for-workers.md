@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo189519429834"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189519429834"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "1. Exposure of workers to AI"
-    excerpt: "Although artificial intelligence may appear to be everywhere all at once, workers overall are more likely to be in jobs that are the least exposed to AI"
-    publishedDateTime: 2023-07-26T17:56:00Z
-    webUrl: "https://www.pewresearch.org/social-trends/2023/07/26/exposure-of-workers-to-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 17
 
 secured: "3o+v/kPEPZGWJrXbk5BM1Xac4hkGBFRNhH3czZmPlf8w0RQpiTxG3PSluXfDb8SUn3ntvfGMr6KQelZIti5VhOIvxznsGVCgb3b7DgCkqmodJkcAMmIZh2kJuyplpKwrMXJPukysSCuiZhTGV2Tte3jtZxJ7Nh1jeu/aMQaKZMsL7rwj0SVNJuGISscFtWe+M3LPw3G1MxErQ80ZZLF64yGq3WYgMGQAi8UNes5v+UocSfypXNmMVbXIRlDXieiamvLpuZvhWnImvw3B1bPKV2bRr2s4AXQsyeMwrI8HpVP7ceFrGuU2tBvIi5hr4uO+MbqIAhvq1KkbKIsgTMkJ/uNPme7IP/p9dNrXFiOX1h1amQT6H3gGmx5gp079+4NGDqKYiuZSJc5xjbpkA9K9f2/KPJ8FRp0HAKtl9YjkgNEw0onqSbmiI0S61N4AaDmISnHoKuhj9JtVQOiPMgNfA/cBjwdZvfUAVdadKRn8Wlq+NG8K77VmFZvVscuJAKa4qO4Kl6xSgEDWgzOvP1tQdw==;wasm4P272V6L5v0Kb/HX/A=="
 ---

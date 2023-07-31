@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS launches AI-powered healthcare-focused services"
+    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
+    publishedDateTime: 2023-07-27T12:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 51
   - title: "ReflexAI announces venture funding to bring AI-powered training and quality assurance tools to high-stakes call centers"
     excerpt: "ReflexAI, the provider of AI-powered training and quality assurance tools for high-stakes call centers, today announced its first round of venture funding. Led by Footwork, the $3.3M oversubscribed round included Emerson Collective,"
     publishedDateTime: 2023-07-27T17:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/ai-prompt-enginee
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -53,6 +53,17 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Amazon cloud unit enters health care AI market, adds chatbot tools"
+    excerpt: "Amazon's cloud unit, determined to take on Microsoft and Google in the burgeoning market for generative AI, has unveiled a range of new products."
+    publishedDateTime: 2023-07-26T23:05:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Experts discover workarounds to evade chatbot AI safety rules"
     excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
     publishedDateTime: 2023-07-30T03:56:00Z

@@ -221,15 +221,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 19
-  - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
-    excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
-    publishedDateTime: 2023-07-26T18:16:00Z
-    webUrl: "https://www.theguardian.com/culture/2023/jul/26/netflix-ai-job-hollywood-strikes"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "gjhHF4mQ/4QhAZyf9fGsAQu/gh4SbIh2r23To97pI9m7gDqNbwf+0xjOy6cP6+GgC1E3u5x1AsFzA2i/123oJuwrSTymnVQQDmb0fzl74DD5WpqduHDUMsrIDF67Xc3IY2TcDdThAFB6HoF9EJUKhl3CMsnarC1IauOxAlu+lqW4YH522TKHksgb+mkGWR1nz75Zdz4jasrHJS0mwIN4+XiOA5X4vCsS6HVoge88KFZf8OHKn57RIdj3Gm8UvRXbIUf9cgrzIfT6RdzyVbnzs/Dgwb2kxO9qdmwnd3AHzzLuzgQMqhSjzEddHx02jhnGTVMzupC+DkGdVfNtY++3KgGR6ZyYapb+9b5L55y+xy4=;oJayHMMxLkPgXUcWbFMc9w=="
 ---

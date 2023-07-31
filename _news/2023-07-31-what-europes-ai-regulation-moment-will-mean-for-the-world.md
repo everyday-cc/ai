@@ -1,31 +1,31 @@
 ---
 category: news
 title: "What Europe's AI regulation moment will mean for the world"
-excerpt: "This means it can better address the foundational Large Language Models that emerged in early 2023, such as ChatGPT, Bard and others.In 2024, as the EUs AI Act and the Councils AI Convention are finalised,"
-publishedDateTime: 2023-07-31T06:44:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2542194-what-europes-ai-regulation-moment-will-mean-for-the-world"
-webUrl: "https://www.devdiscourse.com/article/technology/2542194-what-europes-ai-regulation-moment-will-mean-for-the-world"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2542194-what-europes-ai-regulation-moment-will-mean-for-the-world?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2542194-what-europes-ai-regulation-moment-will-mean-for-the-world?amp"
+excerpt: "A desire has emerged from powerful quarters to protect citizens from the potential harms of AI - issues that are known (discrimination, privacy violations, copyright theft) and those which are not. Yet."
+publishedDateTime: 2023-07-31T10:25:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/what-europes-ai-regulation-moment-will-mean-for-the-world/102276521"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/what-europes-ai-regulation-moment-will-mean-for-the-world/102276521"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/what-europes-ai-regulation-moment-will-mean-for-the-world/102276521"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/what-europes-ai-regulation-moment-will-mean-for-the-world/102276521"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_04_2023_15_49_01_4512196.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://etimg.etb2bimg.com/thumb/msid-102276521,imgsize-79346,width-1200,height=765,overlay-ettelecom/internet/what-europes-ai-regulation-moment-will-mean-for-the-world.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
-secured: "SuWm5cdpCk6aQqGD1jZV0jFGTt0zhLkRxyTZZ384u0rNYWGlC7Hd5qV9aP1g7/Ut56VlCAC+ZWvy9ds03Jamj/AdGMDUcitRNzsns4+JycIozmrWmDPQ7i1DncYdU6oS69lAODGjzvdon0p117K0BfP9NE33obftCSbPb00AgDalvnce1YaE+zZi3FqXVILK77S6a1IsI/AFWoKrBvFdnKAgiBjaYgZ9XYpllDSr9h8gpX0G6hbTt1Zw79xA8QmHUclCeAA8gm3vUlmn/9wkc324KpYt6uzbJ663ui0tm27A7fD+Ii8nVKvQ4quo1ZWkWMcAwTspaiJHFa12X/WXNe1x9m3t5MBzF8JM3mnEohQ=;+hAaf/abRrUq9gLWoDoksg=="
+secured: "Bu7mFLZXZDX1A/Qq1QXkpdC9RdvY9IkvFiNgQYSihrlce0+SKo8ZwmvZFCcYEOAeQjBCfvzibM+HO0oyY2IjOWed18G7LjUW5WYWBHhDOCl5w6jIZxZ8ylsbMNBEThmK5R2EYGCxBnedwZp0aQQBdANzfdYI4wesgM5Rfwp+GO0o0EVaJzRugWlyK5zUuCFo+ukFnKlhZkcijN/DRrwrlRkqpIbK3ecvex/kTlJS6kB0z/SZJpocnA82Av5hUlDx27xNvNjgtj2NKmyIrcfKdxdClYXhbaJ/rin1r3hSQMT0RqXpUuri2XYeCSVmbjjWEinUJEEC49fr5BbLhNf4ic9DVfWE+lSH5FaFMI7I7zg=;jghDN0YK/cmM5UsaGmrjGQ=="
 ---
 

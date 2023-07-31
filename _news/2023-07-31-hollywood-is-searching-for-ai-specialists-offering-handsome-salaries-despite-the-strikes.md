@@ -213,15 +213,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 19
-  - title: "Netflix lists AI job worth $900,000 amid twin Hollywood strikes"
-    excerpt: "Company lists highly paid machine-learning project manager role while actors and executives at odds over future of AI in Hollywood"
-    publishedDateTime: 2023-07-26T18:16:00Z
-    webUrl: "https://www.theguardian.com/culture/2023/jul/26/netflix-ai-job-hollywood-strikes"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Disney, Netflix, Amazon, Apple, and Sony Ramp Up AI Hiring Amid Ongoing Writer Strikes: Report"
     excerpt: "Major entertainment companies are on a hiring spree with plum pay packages for positions in the artificial intelligence (AI) fie"
     publishedDateTime: 2023-07-28T11:45:00Z
@@ -232,6 +223,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "3JuabHce9s1Fu/myOuBMegDgWywcvkylCYSq6V4ENQDUJxZai8ceCWYZui3PifxHPGZ1Aqm9oajd7vL125Z8YY2xwALYVQdrRyRazj+0NJmnX3JMQxy2agA3n5bhllzvl54CUhjBY0QlHvFAvYiuBT3IPErMVKSveNXlRCpGZWmpBiREGYXnfmeYKAN6ZJlUJZK4iYHLZDibyLASmHH2Ib5ZZw9ivS9Q0R9xeefYRV69CpM1g43MFUX1y7g3VSZbr7hNhh65Qzn7RO1h5nTjcqKgUKhZg0go8MlK9wdsikgkHR/FBueDv5G7UT+CTTc8188xbJDahKatZP6M99k/uRcpLJmtf5Hs99E2rob8WGQ=;8hmYfTEYWUCiszr6K1yd7g=="
+secured: "RfMq5vWJCfh68uQAR+fPME5WL0pUdUBM1PbJcZHtgYDjyXZcsKedwLir7+2jMsxS/R9WVSM8qrP5BlfF2IJpiZOB8cCmNcMKhj++ZnHy93rDJGE9vFi1vRq1cHCPD65uzRoSKe0dsis/AkdJ568U+KNBst/ksVQKXNojpWXCQr+DsSYDf+Wz8kqBlKvHbdRPjHrOmr1q2H1CmTwSqqGn2/nlD/8Pk50FVfsAuAoi3IBVy4Sclpnovrfk8W8jThxwiT7bYOaYSpFjzc30Fq8Uk5nOMn8CRIDFtuO4wloILNASjRHaFJkPsJV9DoAKCfBY1i0Qn9lX88BNC2xienNFLQFr/zMi+5AzTeOqf0Fp/o30XBM243i3xFslC4hSsNaIOy+OWIxKO8kJwFUav51vXAy7hDMIv/4PXUOlB5tYJu1i+t99VPezQsziW2R7CBOaKC3QvoTxtT5rKJtoxAIKZlktETWRartwJSsKbsAPtma5l1quXBxcm6/XKMtyyj9u0WAWAAHaQWBlSG33CQztTg==;k8/YSmONi60+iafVYmxQ+Q=="
 ---
 

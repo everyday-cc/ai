@@ -2,21 +2,21 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-09-09-use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce.md",
-      "title": "Use ADFS OIDC as the IdP for an Amazon SageMaker Ground Truth private workforce",
-      "excerpt": "To train a machine learning (ML) model, you need a large, high-quality, labeled dataset. Amazon SageMaker Ground Truth helps you build high-quality training datasets for your ML models. With Ground Truth, you can use workers from either Amazon Mechanical Turk, a vendor company of your choosing, or an",
+      "path": "_news/2023-03-28-amazon-microsoft-and-googles-ai-armies-are-huge-yet-struggling-to-innovate.md",
+      "title": "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate",
+      "excerpt": "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
+      "webUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 133,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/adfs-oidc-sagemaker-ground-truth.jpg",
-          "width": 1533,
-          "height": 767,
+          "url": "https://www.livemint.com/lm-img/img/2023/03/27/600x338/ai_1655840015732_1679897559934_1679897559934.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:34:39-07:00",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html",
+      "publishedDateTime": "2023-03-27T10:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,169 +40,9 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
-      "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
-      "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg",
-          "width": 1534,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:21:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-ai-native-tech-startups-can-weather-an-economic-nuclear-winter.md",
-      "title": "AI-native tech startups can weather an economic nuclear winter",
-      "excerpt": "By being careful and strategic, AI-Native companies will be poised to emerge strong and healthy — and even grow — from a downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
-      "originalUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
-      "publishedDateTime": "2022-09-08T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker.md",
-      "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/tenworflow-image-classification-sagemaker.jpg",
-          "width": 1534,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T10:49:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
+        "Microsoft AI"
       ]
     }
   ],

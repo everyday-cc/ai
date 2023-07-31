@@ -79,20 +79,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
-    excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
-    publishedDateTime: 2023-07-27T21:15:00Z
-    webUrl: "https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Ireland's Ryanair's use of facial recognition challenged"
     excerpt: "NOYB has filed a complaint against Ryanair for violating customers data protection rights by using facial recognition to verify their identities when booking through online travel agents"
     publishedDateTime: 2023-07-29T10:42:00Z
@@ -106,20 +92,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1690607773194.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "US cities weigh value of facial recognition for police"
-    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
-    publishedDateTime: 2023-07-28T15:14:00Z
-    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
     excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."

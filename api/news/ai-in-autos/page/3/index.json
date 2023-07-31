@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-14-ftc-opens-investigation-into-chatgpt-maker-over-technologys-potential-harms.md",
-      "title": "F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms",
-      "excerpt": "The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/13/multimedia/13ftc-chatgpt-jgqt/13ftc-chatgpt-jgqt-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-artificial-intelligence-learning-check-how-ai-can-help-you-crack-govt-exams-2023.md",
       "title": "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023",
       "excerpt": "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ...",
@@ -1314,6 +1262,60 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
+      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
+      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-812729?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     }
   ],

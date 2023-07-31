@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secre
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -32,29 +32,94 @@ images:
     isCached: true
 
 related:
-  - title: "Pocatello Animal Services adopts innovative facial recognition technology to help reunite lost pets with owners"
-    excerpt: "POCATELLO, Idaho (KIFI) - Pocatello Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
-    publishedDateTime: 2023-07-28T19:37:00Z
-    webUrl: "https://localnews8.com/news/pocatello/2023/07/28/pocatello-animal-services-adopts-innovative-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/"
+  - title: "New Controversy Over Facial Recognition In Retail Stores"
+    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
+    publishedDateTime: 2023-07-31T10:06:00Z
+    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/"
+    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://localnews8.b-cdn.net/2023/07/Pocatello-Animal-Services-Adopts-Innovative-Facial-Recognition-Technology-to-Help-Reunite-Lost-Pets-with-Owners.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
         width: 1200
-        height: 675
+        height: 799
         isCached: true
-  - title: "New Orleans police use of facial recognition technology nets zero arrests in nine months"
-    excerpt: "Facial recognition technology that has been touted as an important tool to reduce violent crime in the city was used by the New Orleans Police Department only 13 times from Oct. 1, 2022, to July 1, 2023, resulting in zero arrests, according to a new report from City Council consultant AH Datalytics."
-    publishedDateTime: 2023-07-28T15:24:00Z
-    webUrl: "https://neworleanscitybusiness.com/blog/2023/07/28/new-orleans-police-use-of-facial-recognition-technology-nets-zero-arrests-in-nine-months/"
+  - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
+    excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
+    publishedDateTime: 2023-07-27T21:15:00Z
+    webUrl: "https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology"
     type: article
     provider:
-      name: New Orleans City Business
-      domain: neworleanscitybusiness.com
-    quality: 10
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "US cities could start banning facial recognition again"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-27T21:55:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
+    excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
+    publishedDateTime: 2023-07-29T16:26:00Z
+    webUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/3db4e2352f0c005d9cb730443a4f3d40a71f612d/0_653_1512_907/master/1512.jpg?width=620&quality=85&auto=format&fit=max&s=14ecf08b5772b0758f675dc478f5e63b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "US cities weigh value of facial recognition for police"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-28T15:14:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Home Office lobbied for facial recognition in shops to tackle shoplifting, report"
+    excerpt: "Recently published documents have revealed the UK government has been actively pressurising the Information Commissioner's Office (ICO) to endorse the rollout of facial recognition technology in high street shops and supermarkets to tackle 'retail crime'."
+    publishedDateTime: 2023-07-31T07:26:00Z
+    webUrl: "https://www.computing.co.uk/news/4121156/home-office-lobbied-facial-recognition-shops-tackle-shoplifting-report"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 34
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/302014b/e4858223-4780-4d82-9ee1-a70f0bca491b/24/live-facial-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "MWzj86lVhEv23VsfYGzUTrbZqZkQPanUmAwB0cRRcDn5nP3WsRHq5nwqfxGHsEB9XrfyDzpqnlpNfdH5l7VzAzjMnSx1u0pnWP/XGgJn2ZHozUlKC03SRpsd/krecZ0KtRimTxISuXKxMVxLHwmELmO+akmPqvf8SQ5Sj7U7AbOrUYf6WG++ORmromOFcGhN8paqErtz7hmIeYqUxli7pqm8eU9aXcn6pMgQyDRwSw0EWsyASi+Bk6guOTXHHPVg8IO6VpR+SE+LSvTuVVJChoTYP9OHWEw0qbEw3ockqGHHxFl3xEgZnYuM/hSOQtBMipQZAaiOOZmOlpEhpGdonANzYkSsbYAkUYTAdyOValygln0D6CrSvOB2PsUIPDAoRtTcBb9Y7zTBLeUcE7JM20szIfdWiI6I4lL2gHNRzj6t5MdS3/WNGotK1tsndwC/31YoBQoZi2ELiqRdI4wpjRoO0Q863LVh0RQju4xfSrK0SZ4BrbCE0UpBq00CsU6bg672j4FKofksxCpKtttTSg==;cHYui88Q9ZWLboYaSFEHKw=="
 ---

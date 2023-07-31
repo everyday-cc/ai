@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Congress urged to help get more self-driving vehicles on US roads"
-    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal government doesn't take steps in support of fully autonomous vehicles."
-    publishedDateTime: 2023-07-26T18:59:00Z
-    webUrl: "https://www.freep.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 4
 
 secured: "gRUiaE3wR42gmqG0aL15zlEVOdR4mwZA/tzQhmIE5I/3wKWmvR0B7wt4kK2VkdZ3y3AAs782xRsNRjR5YITQYsASJ3vuv5DF6bYZKslbtSWHDB+uMRZNFmnzBibhiO+tZkpNPTPc2y2vHpTUdRaLwK6LvSM8HGTVwXZN5mTqnM+Ol/e19GnSUJgvw7Mf1rTcG43yvNUjPDsjFiQi9BTdIfvJeLvqA8exRZ4vbk+8udF82EmZlEQFms6Pt0u0qEdqVn4Hzn818CXiBAv3Y8K7SuBgHyojFtVLbFAO4aaLT2SNlQNsGb6NVzp5SaTuIXHkvEfw045QlIyx8E/QawoTn77Ua+Q21EEsOD6M22A2cTY=;Vx3BxtyvykMJVRS4Ge+L6g=="
 ---

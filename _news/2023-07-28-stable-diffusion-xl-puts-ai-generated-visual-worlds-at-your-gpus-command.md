@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffus
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
 type: article
 quality: 103
-heat: 153
+heat: 133
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         height: 450
         isCached: true
   - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
-    excerpt: "The latest text-to-image model from Stability AI is also released as open access to developers alongside its APINEW YORK, July 26, 2023"
-    publishedDateTime: 2023-07-26T18:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock-1032480848"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
     excerpt: "Stability AI, a leading open generative AI company, announced the release of Stable Diffusion XL (SDXL) 1.0, the latest and"
     publishedDateTime: 2023-07-27T17:04:00Z
     webUrl: "https://www.datanami.com/this-just-in/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock/"
@@ -84,15 +75,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Stability AI Unveils Stable Diffusion XL 1.0"
-    excerpt: "AI startup Stability AI has taken a significant leap forward in the realm of generative AI models. The company recently announced the release of its latest text-to-image model, Stable Diffusion XL 1.0."
-    publishedDateTime: 2023-07-26T18:07:00Z
-    webUrl: "https://www.unite.ai/stability-ai-unveils-stable-diffusion-xl-1-0/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
 
 secured: "3pfZdUC0dFiMGMdytRVAmzWk7LKTDWGKjZ28NY0vC/rcpr8N1Khrq00bHSKdjuXGbnPI+jcH6P5nNSDbEualJ2nqHo1bT7UrYNjc78SzGXK4TAV0rz5XOY4U+hYCD6jEUYqhJmqFaPlHP/jCw88Yyb6yxMs/aaCkAUXW0ZG1npzM5sDSyuhxOH+hNz1LVIaa3PP4GqTyExB992TsN9o9r1OLJFqZugRdfIRH3dsH3AuUGsIwdZU2fWI+m5gxKPA03cEwW/DtyPEkHMXZprmVoCV5dxY+dx8UbCvSXj1OxtgMYLsGDIlGWFljWc/fYf0aAvPfnkWvLKjp9BN35evy+2GkiMMQSEtE7mUSPMXahTPquSpoF2d4mx5HRo2iFx4/FNdoR4S9qSb4GGnMu0u4T/pKZ1rYgq/P+FWBxv5KQYIcbT5APqVr1gjiau96NWzoGbEpo6ba2dUt/e46bpyP2ADDWF9Q9KKJjC5ZfX0nQiggdZ517orrvB4sH+/LFxOxb+zH4BCTHg2B6CrjMXG1Pw==;xMV9+0zOq6pHoS4WYv3eOQ=="
 ---

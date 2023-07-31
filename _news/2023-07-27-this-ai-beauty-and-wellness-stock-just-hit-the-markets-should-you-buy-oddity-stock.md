@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-welln
 webUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "If You Can Only Buy One AI Stock, It Better Be One of These 3 Names"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If an investor were limited to purchasing a single AI stock investment, any of"
+    publishedDateTime: 2023-07-27T10:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-ai-stock-it-better-be-one-of-these-3-names-1032483775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Alphabet CEO Sundar Pichai Says AI Start-Ups Are Choosing Google Cloud -- Time to Buy the Stock?"
     excerpt: "Google Cloud put up another near-30% growth rate last quarter, and CEO Sundar Pichai said lots of AI customers helped. Even better than Google Cloud's strong growth is its rapid rise to profitability."
     publishedDateTime: 2023-07-27T13:12:00Z

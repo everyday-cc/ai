@@ -25,102 +25,96 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition system implemented at Incheon Airport"
-    excerpt: "Incheon Airport said it has begun utilizing preregistered facial information to streamline the departure process for passengers from Friday. Dubbed the \"facial recognition smart pass service,\" the newly launched service will allow passengers to quickly pass through the identification process at departure and boarding gates without having to show their passports and boarding passes to security personnel."
-    publishedDateTime: 2023-07-28T05:09:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230728000502&np=1&mp=1"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230728000502"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230728000502"
+  - title: "New Controversy Over Facial Recognition In Retail Stores"
+    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
+    publishedDateTime: 2023-07-31T10:06:00Z
+    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/"
+    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
     type: article
     provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F07%2F28%2F20230728000521_0.jpg"
-        width: 630
-        height: 451
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "Incheon airport introduces Smartpass facial recognition system"
-    excerpt: "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,"
-    publishedDateTime: 2023-07-30T23:25:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
+  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
+    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
+    publishedDateTime: 2023-07-29T15:11:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202307/76a5bef4fee443218a7a270c29c87bb8.jpg"
-        width: 980
-        height: 556
+      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
-    excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."
-    publishedDateTime: 2023-07-26T17:27:00Z
-    webUrl: "https://www.techjuice.pk/punjab-police-introduces-ai-powered-facial-recognition-system/"
+  - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
+    excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
+    publishedDateTime: 2023-07-27T21:15:00Z
+    webUrl: "https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology"
     type: article
     provider:
-      name: techjuice.pk
-      domain: techjuice.pk
+      name: Dark Reading
+      domain: darkreading.com
     quality: 54
     images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/07/AI-Facial-Recognition-System-635x430-1.jpg"
-        width: 635
-        height: 430
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Wanted pervert snared at the King’s Coronation after being spotted by facial recognition cameras"
-    excerpt: "POLICE are being urged to use Big Brother-style facial recognition cameras after one snared a wanted pervert at the King’s Coronation. Policing minister Chris Philp has held meetings with Home"
-    publishedDateTime: 2023-07-30T22:55:00Z
-    webUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/"
-    ampWebUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
+  - title: "US cities could start banning facial recognition again"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-27T21:55:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 46
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/07/NEW_AFP_1JK7RZjpg-JS513962209-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "South Korea’s Incheon Airport implements facial recognition system for both Koreans and foreigners"
-    excerpt: "In order to use the new service, a passenger must either download the ICN Smartpass application on their phones from Apple’s App Store or the Google Play store, or use the self check-in kiosk machines at the airport to register their facial information into the smart pass service."
-    publishedDateTime: 2023-07-28T09:58:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/south-korea-s-incheon-airport-implements-facial-recognition-system-for-both-koreans-and-foreigners"
+  - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
+    excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
+    publishedDateTime: 2023-07-29T16:26:00Z
+    webUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 40
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/28/yuincheonairport2807.jpg"
-        width: 860
-        height: 573
+      - url: "https://i.guim.co.uk/img/media/3db4e2352f0c005d9cb730443a4f3d40a71f612d/0_653_1512_907/master/1512.jpg?width=620&quality=85&auto=format&fit=max&s=14ecf08b5772b0758f675dc478f5e63b"
+        width: 620
+        height: 372
         isCached: true
-  - title: "S. Korea’s Incheon Airport implements facial recognition system for travellers"
-    excerpt: "Incheon Airport said it has begun using pre-registered facial information to streamline the departure process for passengers from Friday (July 28)."
-    publishedDateTime: 2023-07-28T12:19:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/28/s-koreas-incheon-airport-implements-facial-recognition-system-for-travellers"
+  - title: "US cities weigh value of facial recognition for police"
+    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
+    publishedDateTime: 2023-07-28T15:14:00Z
+    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 30
-  - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
-    excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."
-    publishedDateTime: 2023-07-27T13:37:00Z
-    webUrl: "https://www.freepressjournal.in/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    ampWebUrl: "https://www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 27
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "cIU30/zvhHXUg8/XHiwezmO+8KLnSwHYbRJlvxxw28bNoNMCP9LADig/BTTO21lm2WUioNTgcfF1/qdHBNJ3GCVqWeb//COGfC+a9e6Kn68N62rI3/dODAC0xbJegtKG9sIG2rD5aciS83LhRbUlCCln3uGh+VYLosqBdqb/PqL9KHe9Gfl0wubIi7h7w1XfTApEuCeHzYcar5Z0W887Ztw6uvof28irfECDkpVh4rYwMerKVm05eiFrTIv62nF9VvJneDDwb7UZBu3rZwOp+6EgdpY52WaSsGf17mWBSn1anO02cTKuEO2/4foZbMHzTf2hrkANAvvjRPIb2HowiUPP9n5RfB0l8i+TZEWKh8s=;9EkHLb6y5LoYiJWa7887Vw=="
 ---

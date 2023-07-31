@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-06-caytu-robotics-deploys-delivery-robots-at-byu.md",
+      "title": "CAYTU Robotics deploys delivery robots at BYU",
+      "excerpt": "CAYTU Robotics, a startup based in Dakar, Senegal, has partnered with BYU to roll out its robotic delivery service on the campus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
+      "originalUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/CAYTU-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks.md",
+      "title": "Artificial intelligence and robotics: Great expectations and daunting existential risks",
+      "excerpt": "The starting point is to understand the basic definitions of key concepts such as Robotics, AI, Machine Learning, Deep Learning, Single-Task AI, Artificial General Intelligence (AGI), Strong AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "originalUrl": "https://www.newsday.co.zw/thestandard/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestandard.co.zw/images/newsday/uploads/2023/05/hZodp8Um0oaPzRpA9UAYDI6JrJKwBk2WaQ4D4xOw.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "cdnAmpWebUrl": "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/thestandard/amp/opinion-analysis/article/200011132/artificial-intelligence-and-robotics-great-expectations-and-daunting-existential-risks",
+      "publishedDateTime": "2023-05-05T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Day",
+        "domain": "newsday.co.zw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics.md",
       "title": "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics",
       "excerpt": "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic.",
@@ -1273,93 +1359,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-first-babies-born-after-being-conceived-by-playstation-controlled-robot.md",
-      "title": "First babies born after being conceived by PlayStation-controlled robot",
-      "excerpt": "San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully fertilised human ...",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot",
-      "originalUrl": "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
-      "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
-      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

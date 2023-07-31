@@ -161,6 +161,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AWS introduces generative AI service for creating clinical documentation"
+    excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."
+    publishedDateTime: 2023-07-26T21:58:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/aws-introduces-generative-ai-service-creating-clinical-documentation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws.png"
+        width: 931
+        height: 521
+        isCached: true
   - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
     excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
     publishedDateTime: 2023-07-27T12:00:00Z

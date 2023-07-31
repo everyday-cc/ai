@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Korean Red Ginseng may cure alcohol addiction"
-    excerpt: "The experts have established that Korean Red Ginseng (KRG), a traditional herbal medicine, can help alleviate the addictive effects of alcohol."
-    publishedDateTime: 2023-07-26T18:26:00Z
-    webUrl: "https://www.earth.com/news/korean-red-ginseng-may-alleviate-alcohol-addiction-study-reveals/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 24
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/07/26124624/beer_cocktails_1medium.jpg"
-        width: 2100
-        height: 1400
-        isCached: true
-  - title: "Korean Red Ginseng may alleviate alcohol addiction, study reveals"
-    excerpt: "The experts have established that Korean Red Ginseng (KRG), a traditional herbal medicine, can help alleviate the addictive effects of alcohol."
-    publishedDateTime: 2023-07-26T18:26:00Z
-    webUrl: "https://www.earth.com/news/korean-red-ginseng-may-alleviate-alcohol-addiction-study-reveals/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 4
   - title: "Korean Red Ginseng Can Alleviate Addictive Effects of Alcohol, Find Sahmyook University Researchers"
     excerpt: "AUD is characterized by the abuse, dependency, and addiction of alcohol, leading to compromised social responses and interactions of the individual. Moreover, it impairs spatial working memory (memory that allows us to orient ourselves to our surroundings) and causes neuroinflammation?"
     publishedDateTime: 2023-07-27T13:03:00Z

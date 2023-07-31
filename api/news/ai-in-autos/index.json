@@ -255,49 +255,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-28-artificial-intelligence-will-impact-workplaces-and-cost-some-workers-their-jobs.md",
-      "title": "Artificial intelligence will impact workplaces and cost some workers their jobs",
-      "excerpt": "A new report from the McKinsey Global Institute says some will lose their jobs and low-wage workers are the most likely to be hit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/",
-      "originalUrl": "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-486107054-e1690492073918.jpg",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/07/27/artificial-intelligence-impact-on-workers/amp/",
-      "publishedDateTime": "2023-07-27T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
       "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
       "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
@@ -1452,6 +1409,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-artificial-intelligence-uk-and-frances-battle-for-european-leadership.md",
+      "title": "Artificial Intelligence: UK and France’s Battle for European Leadership",
+      "excerpt": "Explore how the competition between the UK and France to emerge as the European leader in AI symbolises more than national pride; it's a testament to their shared belief in the potential of AI to shape the future.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
+      "originalUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,159 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-24-will-artificial-intelligence-replace-human-insurance-brokers.md",
+      "title": "Will Artificial Intelligence Replace Human Insurance Brokers?",
+      "excerpt": "I firmly believe that AI is not here to replace human insurance brokers; rather, it is here to enhance their abilities and transform the way we work together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/",
+      "originalUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64be4ff608d1f9a072d98952/0x0.jpg?format=jpg&width=1200",
+          "width": 1070,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/amp/",
+      "publishedDateTime": "2023-07-24T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-5g-ai-and-iot-the-dream-team-for-modern-manufacturing.md",
+      "title": "5G, AI And IoT: The Dream Team For Modern Manufacturing",
+      "excerpt": "The Internet of Things has dramatically improved output for manufacturers over the last decade. IoT enables systems to support connected assets, critical for smart manufacturing and connected logistics; it's no surprise then that Statista predicts there will be 22 billion connected IoT devices by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2d0991429c251da8aa488/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
+      "publishedDateTime": "2023-07-24T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-generative-ai-is-coming-for-the-visual-effects-industry-what-the-technology-means-for-the-future-of-animation.md",
+      "title": "Generative AI is coming for the visual effects industry: What the technology means for the future of animation",
+      "excerpt": "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7",
+      "originalUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp",
+      "publishedDateTime": "2023-07-24T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-how-ai-will-impact-the-developer-experience.md",
       "title": "How AI will impact the developer experience",
       "excerpt": "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers.",
@@ -1073,160 +1226,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped.md",
-      "title": "Is Financial Inclusion A Friction Point As Synergies Between AI And Crypto Are Hyped?",
-      "excerpt": "The intersection of Web3 and artificial intelligence has emerged as a hot topic. However, as Congress and the White House focus on risks, what about equity and inclusion?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bb4cfc812bf57af59a6bb7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
-      "publishedDateTime": "2023-07-22T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-ai-is-supposed-to-make-our-jobs-easier-these-workers-disagree.md",
-      "title": "AI is supposed to make our jobs easier. These workers disagree",
-      "excerpt": "A new crop of artificial intelligence tools carries the promise of streamlining tasks, improving efficiency and boosting productivity in the workplace. But that hasn’t been Neil Clarke’s experience so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230718163526-office-worker-laptop-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/22/tech/ai-jobs-efficiency-productivity/index.html",
-      "publishedDateTime": "2023-07-22T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-2-ai-stocks-that-could-help-make-you-a-fortune.md",
-      "title": "2 AI Stocks That Could Help Make You a Fortune",
-      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-22T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

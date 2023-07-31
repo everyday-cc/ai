@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "A jargon-free explanation of how AI large language models work"
+    excerpt: "One reason for this is the unusual way these systems were developed. Conventional software is created by human programmers, who give computers explicit, step-by-step instructions. By contrast, ChatGPT is built on a neural network that was trained using billions of words of ordinary language."
+    publishedDateTime: 2023-07-31T11:00:00Z
+    webUrl: "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/"
+    ampWebUrl: "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/LLM-cat-vector-space-1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
     excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
     publishedDateTime: 2023-07-28T09:00:00Z

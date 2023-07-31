@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "AWS Expands Amazon Bedrock with Additional Foundation Models, New Model Provider, and Advanced Capabilities"
+    excerpt: "Amazon Web Services, Inc. (AWS) at AWS Summit New York announced the expansion of its fully managed foundation model (FM)"
+    publishedDateTime: 2023-07-27T17:31:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-expands-amazon-bedrock-with-additional-foundation-models-new-model-provider-and-advanced-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 21
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+
 secured: "QSjhdCNBv8E0aqPitr0mDEB0lIW+GdP03g4lO8ZI6XcCBQ6vCrDOk+i2s2g/yT/snEHTDHeXlFrbJUBcgy5C4KVCfGo+FV1frHYIfD6Zkzfj7kQUCxi4HzTYoaZ/qB2YjtGT3VAQKGwY9uRWKUR5P0q2bMd8t3nDzmZ0VIFjqc9M5tISN97C5glk0zZrEKMEjjtWRqNJpHy2rST0AQSowfDz+g6PaCOHtiXFk7k5lg0aVKPn2rTYp9Dx0BF5aUN/n1+3lISDgzJ6u9xyomwyweZtu+S9UQXUYRKdeV2Br6GQ1YX36N3emF12gHEwYAu71LWdZTUPhsZALuQSCl+eLeXsKxtHQiah7m+lIv+HCXE=;kjWRNooMkQYcPXAr9W6v5A=="
 ---
 

@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-19-un-security-council-holds-1st-meeting-on-ai-very-serious-consequences.md",
+      "title": "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’",
+      "excerpt": "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
+      "originalUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2023/07/Untitled-design-56.png?w=276",
+          "width": 275,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9840681/un-security-council-ai/amp/",
+      "publishedDateTime": "2023-07-18T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog-companion-in-stem-and-robotics-learning.md",
+      "title": "The New Breed of Robotics is Here: Meet Bittle X, the Voice-controlled Robot Dog Companion in STEM and Robotics Learning",
+      "excerpt": "Petoi, the maker of futuristic robotic pets, has expanded its Bittle robot dog lineup with the introduction of Bittle X, a palm-sized, open-source programmable robot dog, designed for STEM and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_9114997b-cd91-5a7a-b215-d92f8b5a5524.html",
+      "originalUrl": "https://www.victoriaadvocate.com/the-new-breed-of-robotics-is-here-meet-bittle-x-the-voice-controlled-robot-dog/article_9114997b-cd91-5a7a-b215-d92f8b5a5524.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/6/db/6db2b106-719d-5daf-bdcf-3cd47be85938/64b6cfad0b0c6.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-figure-humanoid-robotics-receives-investment-from-intel.md",
       "title": "Figure humanoid robotics receives investment from Intel",
       "excerpt": "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics",
@@ -1271,101 +1358,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-robots-could-run-the-world-better-than-humans-robots-tell-un-summit.md",
-      "title": "AI robots could run the world better than humans, robots tell UN summit",
-      "excerpt": "But the social robots said they felt humans should proceed with caution when embracing the rapidly developing potential of artificial intelligence. And they admitted that they cannot – yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
-      "originalUrl": "https://www.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/08/49797bd1-2046-4240-90b6-5ea0f3e0b6c8_10de0f05.jpg?itok=R2R0MPcb&v=1688757382",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3226988/ai-robots-could-run-world-better-humans-panel-robots-tells-un-summit",
-      "publishedDateTime": "2023-07-10T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea.md",
-      "title": "AI: why installing ‘robot judges’ in courtrooms is a really bad idea",
-      "excerpt": "This year, it emerged that a New York lawyer had used ChatGPT to write submissions to a court, only to discover that it cited cases that do not exist. This indicates that these types of tools are not capable of replacing lawyers yet, and in fact, may never be.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
-      "originalUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/536086/original/file-20230706-29-7etinn.jpg?ixlib=rb-1.1.0&rect=9%2C85%2C2994%2C1494&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

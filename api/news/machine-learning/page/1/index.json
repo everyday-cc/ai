@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-31-aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups.md",
+      "title": "AWS and Accel announce ML Elevate 2023 to Support Indian GenAI Startups",
+      "excerpt": "Amazon Web Services (AWS) and venture capital firm Accel has announced ML Elevate 2023, a six-week accelerator programme aimed at empowering Indian startups that are building generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/",
+      "originalUrl": "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ML-Elevate-2023.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops.md",
       "title": "Kubeflow Joins CNCF To Accelerate The Adoption Of MLOps",
       "excerpt": "CNCF’s acceptance of Kubeflow as an incubation project marks an important milestone in the evolution of the open source MLOps platform.",
@@ -313,6 +357,49 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-machine-learning-megatrends-3-ai-stocks-set-to-dominate.md",
+      "title": "Machine Learning Megatrends: 3 AI Stocks Set to Dominate",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the strength and momentum we’ve seen in AI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/machine-learning-megatrends-3-ai-stocks-set-to-dominate-1032481671",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/machine-learning-megatrends-3-ai-stocks-set-to-dominate-1032481671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1270,92 +1357,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
-      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
-      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
-          "width": 864,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "publishedDateTime": "2023-07-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-spiking-neural-network-based-on-theory-of-mind-helps-multi-agent-cooperation-and-competition.md",
-      "title": "Spiking neural network based on theory of mind helps multi-agent cooperation and competition",
-      "excerpt": "Theory of mind (ToM) refers to the ability to infer mental states of others, such as beliefs, intentions, and desires. It's a kind of high-level social cognitive ability.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-spiking-neural-network-based-theory.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-spiking-neural-network-based-theory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/spiking-neural-network.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-spiking-neural-network-based-theory.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-spiking-neural-network-based-theory.amp",
-      "publishedDateTime": "2023-07-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

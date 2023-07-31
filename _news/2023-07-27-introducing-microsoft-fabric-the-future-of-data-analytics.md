@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/o1Jr5qxPm4dqKdWL"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Introduces Azure Deployment Stacks in Public Preview"
-    excerpt: "While using ChatGPT through a web interface is one thing, creating your own autonomous AI tool that interfaces with ChatGPT via ... Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection ..."
-    publishedDateTime: 2023-07-29T17:47:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/azure-deployment-stacks-preview/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2023/07/azure-deployment-stacks-preview/en/headerimage/generatedHeaderImage-1690105019398.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
     publishedDateTime: 2023-07-30T04:59:00Z

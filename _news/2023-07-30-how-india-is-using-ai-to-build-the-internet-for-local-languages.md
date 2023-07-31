@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI and Machine Learning Hold Potential in Fighting Infectious Disease"
-    excerpt: "New research showed that drug discovery, infection biology, and diagnostics are functions of AI and machine learning in treating infectious diseases."
-    publishedDateTime: 2023-07-26T17:31:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-and-machine-learning-hold-potential-in-fighting-infectious-disease"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
     excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
     publishedDateTime: 2023-07-27T05:25:00Z
@@ -80,20 +66,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "'India AI' and Meta, India sign MoU to foster advancements in AI, Emerging Technologies"
-    excerpt: "Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the partnership will focus on building datasets in Indian Languages to enable translation and large language models, with priority given to low ..."
-    publishedDateTime: 2023-07-26T17:52:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273911629/india-ai-and-meta-india-sign-mou-to-foster-advancements-in-ai-emerging-technologies"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 31
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1690393920.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
     excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."

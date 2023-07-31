@@ -24,17 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "The Voice is a national disaster"
-    excerpt: "Emerging from a long mainstream media honeymoon, Anthony Albanese no doubt finds it difficult to believe his Voice referendum is as doomed as this column said it was when he first announced it."
-    publishedDateTime: 2023-07-26T18:00:00Z
-    webUrl: "https://www.spectator.com.au/2023/07/the-voice-is-a-national-disaster/"
-    type: article
-    provider:
-      name: spectator.com.au
-      domain: spectator.com.au
-    quality: 4
-
 secured: "JXacnzHTNWmvEU55U9Z0tjQTobPZn1UhBZ82hb8IR0KbpPJhBVu7DAAp+rg+IR/gwIb6AlaKfpGKemehQw7eY8CRURK8Z1FIwptxp4wAWg2DaLErOwwONKahASsbWReeFWw0UeLPmefOpsNvy3lookRGazaW33rj7Hj/JDkUoqcF4iDPM+HfhmCtAxz4aX1z7KUXgYKEqS8cuvYtfoKTbxARMRnQB6SH7lS08KRWX1GIttr4sBknwkNG1J5HvRFIlcLzR8i9anhd9ZMCVw42POnYiUgw44PF92my04Eg08lB/O/nL2xKEkvJyW4ggPncOxj5E8btbYILHYKpABvXufCxFsiEIkMEwr/sId+MpQgGwNRPciVNQWx2BNARRO/SHzhVnULTnwCQLK0ZOajIwTQy0JkwJ1vCcNRoKXynlZJRuGhRxiMjB64J46IgZ9IeH20GiIQReVBMv0WQbilp+L7mbXNNBbRLe/foRLVCKw1cnicU1/FFddrpWFgjQ0/WMSUq//yuqk/ersZTL9gDRQ==;tcP2mapg797lfMqcwiyksA=="
 ---
 

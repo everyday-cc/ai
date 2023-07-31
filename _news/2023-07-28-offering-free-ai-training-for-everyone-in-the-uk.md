@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/go
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Substrate Artificial Intelligence preparing for London listing"
+    excerpt: "Substrate Artificial Intelligence (OTCQB:SUIAF) Chairman Lorenzo Seratosa & CEO Ivan Garcia introduce the Spanish artificial intelligence (AI) company to Thomas Warner from Proactive ahead of its planned London listing."
+    publishedDateTime: 2023-07-31T09:34:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1022152/substrate-artificial-intelligence-preparing-for-london-listing-1022152.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 37
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA3XC8yMDIxLTA0LTAxLTE1LTAwLTMwLTBlYmI2YjdiMzIyM2E4ZTNiMjIwNWY1NDRjMjkzYzk4XzY0Yzc4ZTljMGIyZmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
     excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
     publishedDateTime: 2023-07-26T19:43:00Z

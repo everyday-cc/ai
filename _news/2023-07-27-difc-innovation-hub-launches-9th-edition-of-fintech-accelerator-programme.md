@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "DIFC Innovation Hub Launches The Ninth Edition Of Its Fintech Accelerator Program"
+    excerpt: "As an initiative that aims to support innovative and revolutionary fintech-focused startups and scaleups, this particular edition of the program will concentrate on areas such as open banking, artificial intelligence (AI), and automation in an effort to ..."
+    publishedDateTime: 2023-07-30T02:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-ae/finance/difc-innovation-hub-launches-the-ninth-edition-of-its/456502"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690454254-DIFC.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Climate change and financial innovation: The rise of climate fintech"
     excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
     publishedDateTime: 2023-07-27T14:23:00Z
@@ -55,6 +69,20 @@ related:
     images:
       - url: "https://static.toiimg.com/photo/75433510.cms"
         width: 330
+        height: 300
+        isCached: true
+  - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T10:53:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/vanquis-banking-group-acquires-money-saving-fintech-snoop/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
+        width: 300
         height: 300
         isCached: true
   - title: "Fintech startup Croissant launches with $24 million in seed funding"

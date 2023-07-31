@@ -7,7 +7,7 @@ originalUrl: "https://www.movieguide.org/news-articles/a-christian-chatbot-how-a
 webUrl: "https://www.movieguide.org/news-articles/a-christian-chatbot-how-ai-could-transform-bible-study.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "AI Chatbots Are The New Job Interviewers"
-    excerpt: "Chatbots are increasingly being used by companies to interview and screen job applicants, often for blue collar jobs. But like other algorithmic hiring tools before them, experts and job applicants worry these tools could be biased."
-    publishedDateTime: 2023-07-26T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/07/26/ai-chatbots-are-the-new-job-interviewers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "jV/TjmQOkNPsaSo1RpvLhbyNt4OEvg/TgELH1Y/xAMKiDYlwxofVuHNRkqyvLH8KcRq2lUzhhRQ0BLouHVQQhV6bFPzu1NLM7f/RuElHZbyxZOpccV5PhSgH/O2LKE2qXO4WObVAW9pOQMylQMHUaipnrRxYoLwS0YQGd3wMv3kGtqiwYJo2SvjxZE6lI51N6DelAS8COLdfYWMKCsET89nO+Hdb0sWkW2Njmb7P4rhowS06HRu1lGiUW4D6HSwTcuG0QPifrc6Rvp98meItJnmXhJ6dYjgS61OyIZ+KNFCOt7a8ZxxDopvfjcf2X/tEPSF9MoSDsoKaO5wlNzc0KQVRBuTBsuibiMmls9e6S/Q=;1UUM0bcEdBaNGSJcV6M51g=="
 ---

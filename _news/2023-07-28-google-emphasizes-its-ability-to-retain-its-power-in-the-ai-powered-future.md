@@ -59,6 +59,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "AWS launches AI-powered healthcare-focused services"
+    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
+    publishedDateTime: 2023-07-27T12:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 51
   - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
     excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
     publishedDateTime: 2023-07-28T13:32:00Z

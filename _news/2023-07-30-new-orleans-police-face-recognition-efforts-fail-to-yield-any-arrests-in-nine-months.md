@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "NOPD use of facial recognition leads to zero arrests in nine months"
-    excerpt: "The technology provided potential identities in just five cases, two of which were deemed “bad matches,” the report said."
-    publishedDateTime: 2023-07-26T17:31:00Z
-    webUrl: "https://www.fox8live.com/2023/07/26/nopd-use-facial-recognition-leads-zero-arrests-nine-months/"
+  - title: "New Orleans police use of facial recognition technology nets zero arrests in nine months"
+    excerpt: "Facial recognition technology that has been touted as an important tool to reduce violent crime in the city was used by the New Orleans Police Department only 13 times from Oct. 1, 2022, to July 1, 2023, resulting in zero arrests, according to a new report from City Council consultant AH Datalytics."
+    publishedDateTime: 2023-07-28T15:24:00Z
+    webUrl: "https://neworleanscitybusiness.com/blog/2023/07/28/new-orleans-police-use-of-facial-recognition-technology-nets-zero-arrests-in-nine-months/"
     type: article
     provider:
-      name: WVUE FOX 8 News
-      domain: fox8live.com
-    quality: 19
+      name: New Orleans City Business
+      domain: neworleanscitybusiness.com
+    quality: 10
 
 secured: "hyWapTboikVEJxQB5XwSvrUGPKvmQNyNGMANR40nAa1Jb1W9DRwkaG7e7736w7g+j+xD2qGeDDhhNLd/89hIe4o9gsGD9XjOv0rPucVu685awDrypKAC91WUsAlt0806Wd8juISIsJ7dXk2mUMVV5KNlD1Vgz+0Ae5pjYyYTtNbHc9Mdc8O6F8m+xlag9ccGL9VCfjPT7KQnGWcSjgk/zvUPG2/gd4kQena+tvPVyL3HfJOxs/YrKSBythyym88IsSVgcRhNaz7Buwcv4tTcadfqgENo77sxea1prRDXMTRZIkEybEbsZgPZS4ZyBRoeshtz+XWdi9hXXlSj2lCBayuxFLfcxuX6z3oscGmKNRv1CFlIsibDagJ3N/A3QRQnITqoklmIJkcESj+oIcXqm+ebdtp5LhRPJ3TkgYnea8oZA6VdGONyp5GcaLHbVJ5ZjLiy2eX22/EdJlTHPBHBBuqK9Hq9mffXtPUr8zMnsrUZAmCONiVJiaDQ6rFvQo9H8ubHf/eywZJbFO/mS7o7Nw==;6bzxheq51c6ypd3g37ec0Q=="
 ---

@@ -57,15 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
-    excerpt: "The latest text-to-image model from Stability AI is also released as open access to developers alongside its APINEW YORK, July 26, 2023"
-    publishedDateTime: 2023-07-26T18:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock-1032480848"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0"
     excerpt: "AI startup Stability AI continues to refine its generative AI models in the face of increasing competition — and"
     publishedDateTime: 2023-07-28T05:57:00Z
@@ -80,15 +71,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Stability AI Unveils Stable Diffusion XL 1.0"
-    excerpt: "AI startup Stability AI has taken a significant leap forward in the realm of generative AI models. The company recently announced the release of its latest text-to-image model, Stable Diffusion XL 1.0."
-    publishedDateTime: 2023-07-26T18:07:00Z
-    webUrl: "https://www.unite.ai/stability-ai-unveils-stable-diffusion-xl-1-0/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
 
 secured: "jegpEfi0VWRMH4ilZmzI8YHCFIcsIX8zs6E4Ife96HIOJ1A+Sp2CVjbaGMihFthkb+JDGKLEYtjazNhBj335kBEYc9dNxuRDDZm5lTsseZNbAZSWHKQYWLcbBr6nPokhoUx2x1j7uKLD8pcIOo9AfRIK7nfvSOxAx+vuzm109GzmCO5ffJo39ejBgZ96KKmA/MEgHRiftlZ6pKMNlSZJKdR7L5F/9FURrM6eVoawQ6v84/W9XMcDp3+MF5VDDgS+9EYeyNdXVI+f1IMETW31V7m9PVc14bT1rCBk6cvowmcFSq3klRsufOL8ZRFOkJeSZSF3m5TaFzcrt60BSGfaCrG9CLKtzdacy67IVL4YI7eNtCHWg7EaEqDMGcWvVXZjZfEppucrKAovl7zNcQDDuk1vhvLeio0p9Ewm6etcWYC49eGrgIkje77pR8mx0lMVv32pqrg0icklxsoOUl2Z/cJGFq3Obyq7h2SGib87/qzAIe+eb0b5kuZw0Bdg+hYKgTmZAaHQbLX2OAjcpM7nyg==;kfZMgVCJ1AQ0GF/cj4cgrg=="
 ---
