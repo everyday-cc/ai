@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind's RT-2 makes robot control a matter of AI chat"
+    excerpt: "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words."
+    publishedDateTime: 2023-07-31T05:08:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google DeepMind's new RT-2 system enables robots to perform novel tasks"
     excerpt: "Google DeepMind unveiled RT-2, the first vision-language-action (VLA) model for robot control, which effectively takes the robotics game several levels up. The system was trained on text data and images from the internet, much like the large language models behind AI chatbots like ChatGPT and Bing are trained."
     publishedDateTime: 2023-07-28T21:10:00Z
@@ -58,6 +72,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "A year ago, DeepMind’s AlphaFold AI changed the shape of science — but there is more work to do"
+    excerpt: "DeepMind's AlphaFold shook up science by predicting the shape of 200 million proteins. But there are more problems to solve."
+    publishedDateTime: 2023-07-27T16:23:00Z
+    webUrl: "https://venturebeat.com/ai/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-26T140248.380.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Google DeepMind empower robots to accomplish new and unique task"
     excerpt: "“RT-2 is not only a simple and effective modification over existing VLM models, but also shows the promise of building a general-purpose physical robot that can reason, problem solve, and interpret information for performing a diverse range of tasks in the real-world,” said Google DeepMind."

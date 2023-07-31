@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/katiejennings/2023/07/27/this-health-
 webUrl: "https://www.forbes.com/sites/katiejennings/2023/07/27/this-health-ai-startup-aims-to-keep-doctors-up-to-date-on-the-latest-science/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Forbes
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "This Startup Wants to Create An AI-Generated CNN"
-    excerpt: "Channel 1 News, from former 'Tosh.0' veteran Scott Zabielski and entrepreneur Adam Mosam, plans to use generative AI to create personalized newscasts."
-    publishedDateTime: 2023-07-26T13:00:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/digital/ai-tv-news-channel-1-news-1235544580/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 17
 
 secured: "B1wlmwCGr2C8Nq+VsvSzkY4wYHxnF+zAE8m5O07+IAt9hIazjSJdtXlVnFNEceA+I7e31HMx1xaq5jTA/7IfkMwX3rcKkp8dGuhMjGfgX75PqDPr+sUVa1/CiBv60cSmN91B2oqv6qlWbcrjudfRMvKrZvUgPXb7iDni3pE3gZIjBb/FWV3JhMjHBJDtj4C4dYtu0F6gnapnmUsnLgGZtP057RQEFWk0WoPGipgxshXOnR7WketxL5BZPzEtMLUBViY40OIKVLxpbOF+csbpNjlYCZucKUBwX2D6BcfbeFTBKfsrTTrbmdH85XOjdRhUV41RUY4C9sprCrWCEcPB0RTb260gMPH9d9E33jS+uw2pd/gp0QWM88+AkFKphyFulk4LqO0j6UWPXCm90aF5rwgJm/ccmwm5KAoq1P/b6z0Sb1gr3nCH4XxPkbPWnfSPVVh+I6Q9ZiqX2HoCkEHrq8o05eE+4zxMvEOTBe7CchKwLBqSjPW1ajxzf55VktQKO/PxkAaOdMTrLV4O07ybdA==;NqDGSgYDcB5p/779KXSrZw=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 338
     isCached: true
 
-related:
-  - title: "ReflexAI announces venture funding to bring AI-powered training and quality assurance tools to high-stakes call centers"
-    excerpt: "ReflexAI, the provider of AI-powered training and quality assurance tools for high-stakes call centers, today announced its first round of venture funding. Led by Footwork, the $3.3M oversubscribed round included Emerson Collective,"
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855558.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "jLLlPhJB/mawtIhbYdTVfCfIa7wLxtOsylX+KpjSOQDZUuwEs8Nwb8tL+Uhebod+d78WsiLK5vnn0focK0Kn1SV1zaKseDLjwIaZxrJVM7DErPg8rVOMoFBBxexIaK+1Y9ZOSLcqBi6mV+DRqK0EFDUOZ38owXKN2rwoYEZU+Kl+vAinTdiqlfekyrZUplyvQ1adHJOTAQqEOBMPvAR8bpulSeZ8RqQ6WdGwqHfs/AH+KbGrjmOogqZeq3YUv1joHPfGO2qf1UP+0FpE0oEfeCXiz3LaI0aAS7DMlIqBhwXJ/ok1vsrTqGVV7PAjqDHU45oLK2Al+JLYIOFPZKrpFnoFv0GINRhZJsYOJAXtPaM=;TdidC9Y9mfiGL99DHKgHag=="
 ---
 

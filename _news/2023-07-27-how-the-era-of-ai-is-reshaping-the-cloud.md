@@ -22,31 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "How AI is helping companies meet sustainability goals"
-    excerpt: "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/"
+  - title: "How AI is fundamentally altering the business landscape"
+    excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
+    publishedDateTime: 2023-07-30T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How AI-based hiring processes are helping recruiters"
-    excerpt: "Predictive analytics can also help recruiters make data-driven decisions, optimise recruitment strategies, and identify potential attrition risks. Machine learning algorithms continually learn and improve from recruitment data, enhancing the precision of candidate recommendations."
-    publishedDateTime: 2023-07-30T06:35:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design147.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
+  - title: "How Silicon Valley is helping the Pentagon in the AI arms race"
+    excerpt: "The US military is opening up to defence and weapons start-ups as evolving technology begins to transform modern warfare"
+    publishedDateTime: 2023-07-31T04:00:00Z
+    webUrl: "https://www.ft.com/content/2ed278cc-6c3f-4569-b73c-64ad378f3ea8"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "/rd/VN6WuJUkM2gg/CfgBJiyCvQpefkERnR+asxoSYPaNOsEzbxmd3DyGevNfrPQWoxsVQnjcpRDK1foc3yIZSfapjssQ2KBay9mfPMbjAXLf6n8YOHT0wnRGZwo3HMm5fn5QG2nuhWYKqX0i1sFMoE7l4xVtOn27NykzlGoLJbrPB/i5gXKkWSNlsImNxTHA96psJQdMclGUQrCxSpLjneXAzK2suxCbYhxZCVw5HHD6UpYrQnSoerRGygkTs6/CNWbKO6Q0PgFXByimiLFUa+PxlaVIpFaiyUvRhd4JjgXq/oYAI8IKgjms0OmjCwIfQGQ7Mk2pNeGtkmscRpdFsucFjUuxPD03frYpzhWBxmBSiT7mioj0QWvbRAG8u3LWnPP0uSRwHxfEQeaumcGeDigyZUlqrS/HcpRwdpAeWr3xeXpssMZb9Op5FggvWciA9I1nfEXrrIietl2+4rNkLGQoo/HYl0kdsMrxFBGdxGLKWHq2NJTmabbWnGddNLw2ubl8JFFVYYHkkhCLRN7oA==;9aP3gnogDrv9YbiHpBoDfQ=="
 ---

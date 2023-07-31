@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-bu
 webUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,26 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How The Era Of AI Is Reshaping The Cloud"
+    excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
+    publishedDateTime: 2023-07-27T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/how-the-era-of-ai-is-reshaping-the-cloud/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How Silicon Valley is helping the Pentagon in the AI arms race"
+    excerpt: "The US military is opening up to defence and weapons start-ups as evolving technology begins to transform modern warfare"
+    publishedDateTime: 2023-07-31T04:00:00Z
+    webUrl: "https://www.ft.com/content/2ed278cc-6c3f-4569-b73c-64ad378f3ea8"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "doT0R2GBon/RP6GTe8ssBEVkzMWTXnZpXP7j0FoLAFgZWZpTaCs0ELa9o+7Rhed7NPgb5TxMIP1mgpS2sA4bzxT70CsOgC3KNJdfAlgkvbLKt1xtLwhT60zle2+AFAvfy2Fx1FGfZTmw7NOVrJWTDpXyvNO7TR8MATIa/Z7Varh5TAQIfAHDkS7bj8C/5uSTq7Z988aqvTRT3b+lf9KmHsJ7jXeOb7olUpJjAKEb7vuMVrt5mbeNqHz6F1RFSUsqwVQb+6dvaFCPX4H0q7IADZ82hcTBu09Vxee34FiORcD6W8yRfP0Y0G/f0DkJnORLC6tEDScVmODWaMg2CfWGQj5RCrxo5rfGbFfLq1lQhhfWMXgkkCWUUEX6TXrADa+ohmbrqPLHXuCdArKSVlwAIKSn0qypuMGx9pYuzPbC86TyeqGLCpUMosUMHH6/5IUk4I6OdYlsnYBmf5rfKgOgDWdlOGzJPgskX6aamE/SDuUaIQ383o3/JZiAPAERQ7f3EBbDaqPlUrWOG9z+/NdbMg==;Ss8wz4Z1QfsgMDRW5oC9mA=="
 ---

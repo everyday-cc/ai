@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI startup to create AI newscasts"
-    excerpt: "A new startup called Channel 1 wants to use generative AI to create automated newscasts with digital anchors that can be customized to fit viewers' political slant, Tim writes. Why it matters: The rapid acceleration of AI is blazing a path to disrupt the media industry."
-    publishedDateTime: 2023-07-26T13:00:00Z
-    webUrl: "https://www.axios.com/pro/media-deals/2023/07/26/generative-ai-startup-to-create-ai-newscasts"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "m8p6xu0L9bHiZ1WDyvZ4ZsU/EB3Cv+1TYxS2Bw8uO8x5MR8JQ5de6dOlra1Xj1z605MwSdHZ725A/gH364TvJcmlx5r2qMKBlyOTqheYiqmR2vR/mVNRtzQwLcTyaN3xQo/6rvAJjhBDutVmMWjOfQD3kb0khI2aVmxtsaaZ1Ar/8Xwh6GShRedqmBUNtq9+9HumwYEl4YTFYVmOVddgwn8cl277vgWRQxPyxPCmwS0qjvH5eqNAilbe1M9o8C8nxHNi2jbvNSKwYzfFjqifKQV3VwfomtHfmpeS79e1yGNvEsgcmtMGa78IbVCA9O2yevbvMhUZRV4CX9kepdp1yuZgnDHPSWL65jwV4MTb3+L/htptJabzTW/fa1imhNmZodouuntKI52Uewq0j4I8qOGb7nky5qhdT5HHRNK/GpbD+gGvfzofBNI1/DP3eKTPoKTlrcb4Rrna6biqVIEdK0RPIpSTIGXem4+Iyd7leW79srefiG1UObU0ve8OKt1Min22wl26CReMOQ163ROBzw==;/eo45ErSoUNDgL7w/bxLLg=="
 ---

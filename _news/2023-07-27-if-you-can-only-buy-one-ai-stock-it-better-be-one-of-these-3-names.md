@@ -50,20 +50,6 @@ related:
         width: 2122
         height: 1412
         isCached: true
-  - title: "UIPath Stock: A Top Pick for the Oncoming Bull Market"
-    excerpt: "This leading robotic process automation software provider is a good investment for those looking to capitalize on the growth of a rapidly growing market."
-    publishedDateTime: 2023-07-26T11:19:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/26/uipath-stock-top-pick-for-the-oncoming-bull-market/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740675/automation-ai-pushing-digital-button.jpg"
-        width: 2057
-        height: 1458
-        isCached: true
   - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
     publishedDateTime: 2023-07-27T09:30:00Z

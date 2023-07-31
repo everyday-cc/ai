@@ -24,37 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is revolutionising banking services in rural areas"
-    excerpt: "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across"
-    publishedDateTime: 2023-07-26T11:42:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
+  - title: "AI Is Rewriting the Rules of $200 Billion Games Industry"
+    excerpt: "“AI is the game changer I've been waiting for,” 48-year-old Hanazawa said. By freeing developers from the burden of mass-producing graphics, it promises to revitalize the entire industry. “Publishers will be able to take more risks, creators can become creative again, and users as a result can choose from a much wider variety of games.”"
+    publishedDateTime: 2023-07-26T15:56:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/26/1600x900/ARGENTINA-DISAPPEARED-HUMAN-RIGHTS-AI-PORTRAITS-4_1690345459702_1690345485959.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Driving innovation in BFSI sector: How new technologies are revolutionizing financial services"
-    excerpt: "From the genesis of online banking to the advent of mobile payments, the industry has continuously embraced innovation to enhance customer experiences and streamline operations. And since then, the pace of technological transformation has only accelerated."
-    publishedDateTime: 2023-07-30T08:13:00Z
-    webUrl: "https://www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/"
-    ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/driving-innovation-in-bfsi-sector-how-new-technologies-are-revolutionizing-financial-services/3192704/lite/"
+  - title: "Authors are resisting AI, but they have an advantage: Readers form relationships with writers"
+    excerpt: "Some are suggesting AI will render the author disposable: publishers will be able to package and market any piece of AI-generated text. But the truth is the reverse. Author-centric promotional spaces, such as social media, writers' festivals, radio and television programs and other events, are integral to getting books into readers' hands."
+    publishedDateTime: 2023-07-26T16:41:00Z
+    webUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 32
+      name: techxplore
+      domain: techxplore.com
+    quality: 48
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/BFSI-e1685093367785.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/authors-are-resisting.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "h+Yx9ZxB2qF9YJfTQp8Assy2Mlb8jSv/dmUvYZ+AWTOLVdIkHKuV8M+2z6eiwot7y5qZlwUQDcuppDUEt6sNoHE1oq1FpQHipleI8EMiJguXhbs38/ZSOTZI6YccJU4lDQk+/fYecxWRt6XEEqjpMvSv0beu1+phszvi8j8WTsW1iSr7tk2vNBS0w60uaIit7OVAezCcfegMqdhBhZBR5TOAnyhEfXdrarIqz6r5Jo3bu9imTc97XlCKl/gGdygvcIQGIabVnNDEj8+do9PMjJp21D6jcW/Xt17uW1UqtOjxwIx/PHA/8flW5cBLxsywFQc5azXMx3tllZfPbxder4tD4jCTjr47xTgSsoElxTU=;u/cN1yx4hlGoaS0JaoDt5w=="

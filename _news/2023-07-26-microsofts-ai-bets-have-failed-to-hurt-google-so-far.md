@@ -183,22 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google, Microsoft, OpenAI and startup form body to regulate AI development"
-    excerpt: "Tech companies say Frontier Model Forum will focus on ‘safe and responsible’ creation of new models"
-    publishedDateTime: 2023-07-26T11:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 72
-    images:
-      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Microsoft leans on Azure, AI as cloud business grows"
     excerpt: "The tech company’s public cloud platform accounted for more than half of its annual cloud revenue in FY2023, CEO Satya Nadella said."
     publishedDateTime: 2023-07-26T22:08:00Z
@@ -269,15 +253,6 @@ related:
         width: 505
         height: 336
         isCached: true
-  - title: "Anthropic, Google, Microsoft and OpenAI form an AI safety group"
-    excerpt: "The Forum plans to establish an advisory committee, charter and funding. It has laid out for core pillars it intends to focus on furthering AI safety research, determining best practices, working closely with policymakers, academics, civil society and companies, and encouraging efforts to build AI that \"can help meet society's greatest challenges.\""
-    publishedDateTime: 2023-07-26T12:34:00Z
-    webUrl: "https://www.engadget.com/anthropic-google-microsoft-and-openai-form-an-ai-safety-group-122032326.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 64
   - title: "Microsoft Touts AI as Cloud Demand Cools"
     excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
     publishedDateTime: 2023-07-27T10:53:00Z
@@ -287,15 +262,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
-  - title: "Microsoft and Google can’t stop talking about AI, and this chart proves it"
-    excerpt: "As Microsoft and Alphabet get more serious about artificial intelligence, they're spending a lot more time discussing it with the investment community."
-    publishedDateTime: 2023-07-26T12:52:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-and-google-cant-stop-talking-about-ai-and-this-chart-proves-it-9c334c2e"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
   - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
     excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
     publishedDateTime: 2023-07-28T09:00:00Z
@@ -395,20 +361,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Google, OpenAI, Microsoft form ‘Frontier Model Forum’ to regulate AI development"
-    excerpt: "The Forum outlined its initial set of goals that it intends to accomplish which includes advancing research on AI safety and identifying best practices for development and deployment of frontier models,"
-    publishedDateTime: 2023-07-26T11:36:00Z
-    webUrl: "https://cointelegraph.com/news/google-openai-microsoft-form-frontier-model-forum-to-regulate-ai-development"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 49
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMzczOGE2YTUtYWE4OC00OGNhLThkOGUtMzNhM2UyZjA4MjZjLmpwZw==.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "OpenAI’s ChatGPT is too good for its own AI to detect"
     excerpt: "When OpenAI launched Classifier in January, it was supposed to have been smart enough to detect when a user (say, a student) used ChatGPT or another AI program to author a work. OpenAI pitched Classifier as a way for a teacher to identify if an essay, for example, had been authored by AI instead of as an original work."

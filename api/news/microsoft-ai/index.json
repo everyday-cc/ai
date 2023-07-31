@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-30-how-ai-is-fundamentally-altering-the-business-landscape.md",
+      "title": "How AI is fundamentally altering the business landscape",
+      "excerpt": "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-the-future-of-cloud-computing-ai-powered-and-driven-by-innovation.md",
       "title": "The Future Of Cloud Computing: AI-Powered And Driven By Innovation",
       "excerpt": "Tech giants Microsoft and Google report strong Q2 earnings, driven by AI innovations in their cloud businesses. AWS also invests heavily in AI.",
@@ -104,58 +156,6 @@
         "AI",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-azure-synapse-analytics-vs-snowflake-etl-tool-comparison.md",
-      "title": "Azure Synapse Analytics vs Snowflake: ETL Tool Comparison",
-      "excerpt": "Azure Synapse Analytics and Snowflake are ... and serve data for immediate BI and machine learning needs.” The service is one of the most popular tools available for information warehousing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/04/istock-1153656985.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -324,7 +324,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 493,
+      "heat": 453,
       "tags": null,
       "images": [
         {

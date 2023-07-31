@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Recording Academy revamps rules, places restrictions on artificial intelligence in music"
+    excerpt: "B, NNPA Newswire @StacyBrownMedia The Grammy Awards have issued changes to address how artificial intelligence (AI) affects music. Among the revisions is a rule stating that only […]"
+    publishedDateTime: 2023-07-27T11:21:00Z
+    webUrl: "https://afro.com/recording-academy-revamps-rules-places-restrictions-on-artificial-intelligence-in-music/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 28
+    images:
+      - url: "https://afro.com/wp-content/uploads/2023/07/alexey-ruban-73o_FzZ5x-w-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "wYvIGNxbMMphZaxNPLUtwE9quqwL9X/WWYObnNXYi0wUJyPNfUmUY69eQq/VZKUh9YYUtxMYOUi+eAVkkva+Hx3THBXrbjZ0EfczFj1hn9S8aPomsHOtNBCTnIkuIhc5d3V06IbfUnf6p3T76cgw5sLtpDyPGzW6nt+5WK+D+LPELI8Vo+Nps7jtigSFBu2IVSOTR9gLz+G+mFCaLeUSSO2SAxCoi5g5FqBEKGZ6gr0TZ4CRNFd9wdP0YifP4w5n15eU8LwW49M/HwZ675YP94X0VAJJ+g4M1uZSQDT5MF3/eyn4A0K93uY1YY4i6LP/sq3IOrUb+G2juPKsB+jkSOtLHrGRTQnQQOmifNzNeNi3RTje80w4M7GlnWIkmi/Vk6tXAz9bq4/zf1Qv0eYSqXs7dY+B5/2j7GtZpN8agG/dr8HAMgiwN1c6+7UmIDkXpvVMKiIN+lminGxlAo5yqTbQYXR1+nZ1K55h49Ni5n6izji0NwYALFcK19pW6eNcdhinbfKMbIlEijx23wX0Xw==;olc3z+0/9FZOgmW8GxQhqA=="
 ---

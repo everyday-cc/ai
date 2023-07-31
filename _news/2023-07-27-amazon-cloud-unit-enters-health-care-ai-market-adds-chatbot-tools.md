@@ -83,15 +83,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "We Tested an AI Chatbot Drive-Though. Here's How It Did on Three Challenges."
-    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
-    publishedDateTime: 2023-07-26T12:04:00Z
-    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-though-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 44
   - title: "A Christian Chatbot? How AI Could Transform Bible Study"
     excerpt: "Nils Gulbranson hopes his “Christian ChatGPT,” Biblemate.io, will help believers and non-believers to find answers to life’s"
     publishedDateTime: 2023-07-27T20:00:00Z

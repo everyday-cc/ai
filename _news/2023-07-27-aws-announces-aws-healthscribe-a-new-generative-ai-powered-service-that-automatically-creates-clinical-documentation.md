@@ -160,15 +160,6 @@ related:
         width: 1114
         height: 570
         isCached: true
-  - title: "New technical deep dive course: Generative AI Foundations on AWS"
-    excerpt: "Generative AI Foundations on AWS is a new technical deep dive course that gives you the conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond. Developed by AWS generative AI worldwide foundations lead"
-    publishedDateTime: 2023-07-26T12:20:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-technical-deep-dive-course-generative-ai-foundations-on-aws/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "Cyclops Emerges From Stealth With Security Search Platform Powered by Generative AI"
     excerpt: "Cyclops emerges from stealth mode with $6.4 million in seed funding and a generative AI-powered cybersecurity search platform."
     publishedDateTime: 2023-07-26T14:35:00Z

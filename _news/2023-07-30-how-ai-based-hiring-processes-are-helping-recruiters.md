@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hi
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,24 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is helping companies meet sustainability goals"
-    excerpt: "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/"
+  - title: "ReflexAI announces venture funding to bring AI-powered training and quality assurance tools to high-stakes call centers"
+    excerpt: "ReflexAI, the provider of AI-powered training and quality assurance tools for high-stakes call centers, today announced its first round of venture funding. Led by Footwork, the $3.3M oversubscribed round included Emerson Collective,"
+    publishedDateTime: 2023-07-27T17:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855558.htm"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How The Era Of AI Is Reshaping The Cloud"
-    excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
-    publishedDateTime: 2023-07-27T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/how-the-era-of-ai-is-reshaping-the-cloud/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "cpb2rfz/3E8JY5aRWh6S5fG3gU+tr8doUeOvjJPBGFEJrXjLeE+gLpUrtIAHQ1UGZC/caeDYL1J+IYm6Jk/z9E/JDted+nUYJxGUCJfvj9OtQGWnoGGFdDVM71G0bXLlWvbTvxQayGSYN2vlMzMh5hQAacRTMasOTBTmG7t0lCvD0xRKVFp+difbVkH48FublYA5Sie/8tulBQf3noKs5zw5CkDX6nHkPXoAXiCadsWs3KZwcVPjcfqSg6tK0VZ+SAN3Pm9HcXxwdW2efKU5yFa0wR2+IYIB6b9cKvtPDcc7cGGeSWAKxM3pWY+KjsHpRX7cuYuEPFVfDSHJi36Im1CF6+Ov+K8i9kPmwbGEiBY=;3PlehInMxB+Q45Ow/t7sGg=="
 ---

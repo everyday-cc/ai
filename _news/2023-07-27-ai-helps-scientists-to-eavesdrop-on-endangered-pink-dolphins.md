@@ -38,6 +38,20 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "Scientists listen to sounds of endangered dolphins via artificial intelligence"
+    excerpt: "Scientists launched a study on Friday to monitor the movements of two endangered dolphin species via artificial intelligence (AI)."
+    publishedDateTime: 2023-07-31T03:00:00Z
+    webUrl: "https://www.azernews.az/region/212927.html"
+    type: article
+    provider:
+      name: Azer News
+      domain: azernews.az
+    quality: 35
+    images:
+      - url: "https://www.azernews.az/media/2023/07/30/4af47292-dnb0ufbijd8zfihh7i8es.jpg"
+        width: 640
+        height: 359
+        isCached: true
 
 secured: "92d/asg1anE9FgPwe+5sYMh8iSOeYdTFhu/Ynm6CdFhLx7hUtvuYpYfqv725jvlRhrzpjDJ+BoRqdi6+FtkeaPtI2UYry98Ug5BWp2elvq4e5jchyPTeVZni3wkm/qaeb/m59CjeITjw40lzr0dyJHuU7ed91oTJ8bHAuhx7tq9dvYGBbuv1P24FqlkacbMIBiwMKkv4BUTczHv4niZelBhGDj4vOfzPp7hiobEh1FY/3w30Ak5xviCewzOrV2nBQNz4uWRbrW5HZHMJ7HvBxRmuHi6xkfK4Eg0F8k9LO9Q+EqzVsCfWUDl9CSHtWE2U+Swtr4T95kIvQuX3mGXDtBhXn9Dngq9mkR6247oIsByyBRMSH33yjqS2JN0h8GuxIBBrvsMPZK7cleufetqXrxh2Vp42W3EqmJ4xCzd8VaoE5TekOvDcSht/qfDZowtb6CoPUiJYVys/mWTE6ppQpeJLDuieMNM3192BUplq14D/+uxXPGHPArmiIfzSCMzVeDaQscNqv9eB4Odn0V9ecQ==;k2AGKbbTzta//Or7m63WYA=="
 ---

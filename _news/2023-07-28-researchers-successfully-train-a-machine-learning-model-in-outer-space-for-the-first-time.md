@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Researchers Train Machine Learning Model in Outer Space on Satellite"
+    excerpt: "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space."
+    publishedDateTime: 2023-07-31T03:38:00Z
+    webUrl: "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 53
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "For the First Time Bioelectronic Medicine Researchers at The Feinstein Institutes Restore Feeling and Lasting Movement in Man Living With Quadriplegia"
     excerpt: "Using brain implants, artificial intelligence and novel stimulation electrodes, a double neural bypass technology restores a man's sense of touch and movement after a 2020 diving accident In a first-o"
     publishedDateTime: 2023-07-28T16:00:00Z
@@ -44,6 +58,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "lhfvWuY8YChcEsqsy+Q5JmUYvOvOSa2tesrtZ7WOZDFMn/e/S0OfZrLeQ9vS7jFHgLdsivR+sF/rAMDmC5oOz1ywxgE1RRKGAEKVTXNGKg93XZPQXcljamh6v3fsWobOhhgJxbLJAWAlyqPb8QP7ccqXnAuAvjPHp/sT1KXKt/9k23kBxQfD++OeapBKa1cNCJcRDcwNsPvH/7F46tNSCazh2HAUCGe19gIYWFZty02wQCBceEmT2JZr7ArmIxxIWXVGahMy3lwJo3zvxFDBydoZ8Zw5zPIfm7mM1cjoh3Z7a3+V4fi0HDhxMVRWaz/REPtIY7r4lMXeld8ajRSpc8KZWXZJqf8h2i0uq+9l3cA=;dZN4P5vT2Q+UEt/mMnOjQw=="
+secured: "9Z5bT1iVw7/KmrV1Q4r4JT4VKlhWqcUUSPPyNiT3NNjhCTec4WmXzhXgvpCqt+3ZTdIhUjYz21UZsLnuKgBPWte3+mYeXhwbATuXr9+pKowSZqQHthWMqKLkXMMYK6DbbjAMHedvgxxkT99R4G41LoCMkTEVbnyJg1JiylRSz0fxuEdNG2wWdqvnS94CJglTw87qsrIwMA7RqQCcpzeBC/xrs0xWmUry5e/4Yw8qXxU5KhXwyitT/OpJmM4zaBRlQbEW758Hrw+pIo9oAKDKJRxcYQixybUCJ/zJ5X4FcAec1EWpde5jHrnj1IW8wlOrxxwCoJLdCu+F/K0BqBfcaEgi2MkgWWQv0wiWeVw58NMoLj5GCYQ6v2HuuM0ZLuW8rlim9j0Ha5w/oyRiShVt0/zMqTJFAeGeCgFpfSuGX8oXTf++ekPE1m/ZgwyOsfOfNnM2kbVnihO/Zez9i99vshySI3krFlsbQ0SpRWXjdhIGes9ib3RdxjCnJi9coMRxXogCFMgy7bpJirO4l/0vzw==;1p6dFYMCLwRUkbYNFtnj+w=="
 ---
 

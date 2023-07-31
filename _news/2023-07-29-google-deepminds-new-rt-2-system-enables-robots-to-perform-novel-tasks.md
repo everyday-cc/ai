@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind's RT-2 makes robot control a matter of AI chat"
+    excerpt: "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words."
+    publishedDateTime: 2023-07-31T05:08:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s DeepMind team highlights new system for teaching robots novel tasks"
     excerpt: "Things that appear simple to humans have potentially infinite variables that we take for granted. Robots don’t have such luxuries."
     publishedDateTime: 2023-07-28T17:18:00Z
@@ -46,6 +60,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "A year ago, DeepMind’s AlphaFold AI changed the shape of science — but there is more work to do"
+    excerpt: "DeepMind's AlphaFold shook up science by predicting the shape of 200 million proteins. But there are more problems to solve."
+    publishedDateTime: 2023-07-27T16:23:00Z
+    webUrl: "https://venturebeat.com/ai/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-26T140248.380.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Google DeepMind enables robots to perform novel tasks"
     excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."

@@ -28,102 +28,71 @@ images:
     isCached: true
 
 related:
-  - title: "HR and Talent in the Era of AI"
-    excerpt: "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified"
-    publishedDateTime: 2023-07-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
+  - title: "How to Invest in Mistral AI in 2023"
+    excerpt: "Mistral AI was founded in May 2023, and the company raised $113 million just four weeks later with an estimated valuation of $260 million, a sign of how much confidence venture capital investors have in the founders and how much potential they see in AI."
+    publishedDateTime: 2023-07-26T14:48:00Z
+    webUrl: "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "The Indispensable Role Of Agencies In The Age Of AI"
-    excerpt: "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality."
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
+        width: 600
+        height: 424
         isCached: true
-  - title: "The emergence of an AI revolution in the IT industry"
-    excerpt: "Incidentally, AI as a concept was also first introduced in the 1950s by Alan Turing. Early AI applications were limited due to computational power constraints. The exponential growth of computing power and access to big data laid the foundation for AI development."
-    publishedDateTime: 2023-07-28T02:30:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+  - title: "Analysis lab iST eyes record profit in 2024 amid strong AI chip demand"
+    excerpt: "Analysis and verification lab Integrated Service Technology (IST) is optimistic about its business in 2023 and 2024, and could possibly record profits next year, thanks to strong demand for AI chips."
+    publishedDateTime: 2023-07-28T01:18:00Z
+    webUrl: "https://www.digitimes.com/news/a20230727PD211/ai-chips-ai-server-analysis-and-verification-lab-analysis-ic-verification-integrated-service-technology-ist.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-27T172014.074.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can AI deliver therapy? U of T PhD candidate examines the pros and cons"
-    excerpt: "Katz is in the early stages of her doctoral research that examines the pros and cons of AI-facilitated psychotherapy, specifically AI-delivered therapy that doesn’t involve a clinician at any point."
-    publishedDateTime: 2023-07-28T20:38:00Z
-    webUrl: "https://www.utoronto.ca/news/phd-candidate-rachel-katz-examines-pros-and-cons-ai-therapy"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 56
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/2023-07/GettyImages-1291606290-crop.jpg"
-        width: 1140
-        height: 760
-        isCached: true
-  - title: "Love and relationships in the era of Artificial Intelligence"
-    excerpt: "When it comes to relationships and in particular sexual relationships, that gets very weird, very quickly.” Author Nina Schick and three other pioneers in the field of Artificial Intelligence discuss how AI could radically change the way we interact with machines."
-    publishedDateTime: 2023-07-27T18:14:00Z
-    webUrl: "https://www.cnn.com/videos/world/2023/07/27/exp-ai-love-relationships-intw-072701pseg2-cnni-world.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
-  - title: "A.I. Among Us: Assessing The Benefits And Risks Of Artificial Intelligence"
-    excerpt: "The use of artificial intelligence is exploding and so is concern about its potential dangers. As experts weigh in on how to ethically use A.I., leaders are discussing how to regulate it. Dave Davis explores the benefits and risks of the emerging technology in an Oklahoma's Own Original."
-    publishedDateTime: 2023-07-27T03:36:00Z
-    webUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us:-assessing-the-benefits-and-risks-of-artificial-intelligence"
-    type: article
-    provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 37
-    images:
-      - url: "https://cdn.field59.com/KOTV/736ae6b2bd3e44289b2e9aba8963aec637072c16.jpg"
+      - url: "https://img.digitimes.com/newsshow/20230727pd211_files/1_2b.jpg"
         width: 1280
-        height: 720
+        height: 853
         isCached: true
-  - title: "Embedding Artificial Intelligence In Enterprise"
-    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
-    publishedDateTime: 2023-07-28T10:02:00Z
-    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
+  - title: "Complete Guide to Investing in Artificial Intelligence"
+    excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
+    publishedDateTime: 2023-07-27T18:41:00Z
+    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
-  - title: "The Role of Artificial Intelligence in Improving Business Efficiency"
-    excerpt: "The incorporation of artificial intelligence (AI) has emerged as a game-changer in a business environment that is revolutionizing the way organizations work and reach peak efficiency. It is impossible to overestimate the contribution of AI in increasing company efficiency,"
-    publishedDateTime: 2023-07-26T12:18:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-improving-business-efficiency/"
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 41
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/8c31f59e-606e-4c42-acbe-e86d919cabae.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "How artificial intelligence M&A performed in the pharmaceutical industry in Q2 2023"
+    excerpt: "In the global pharmaceutical industry, there were 6 M&A deals announced in Q2 2023, worth a total value of $191.2m, according to GlobalData's Deals Database."
+    publishedDateTime: 2023-07-27T17:10:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/uncategorized/ma-activity-artificial-intelligence-pharmaceutical-industry/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 33
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2017/09/MicrosoftTeams-image-37.png"
+        width: 388
+        height: 544
+        isCached: true
+  - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
+    excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
+    publishedDateTime: 2023-07-28T13:32:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/angel-one-launches-ai-powered-super-app-in-india-to-foster-smart-investments-article-102208147"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 16
 
 secured: "1Z+jdsxNHInFZn2g59BLLLaSbxwCXFA4k77EPyMOmVTW+Ufu+FdUnjEIvRpNrJAAUPTYMbmKDXAIpa8stWh8wKJoh6WS2ENHww5drcaNEYwR/Ok7oUJ5ZdbYKhlPRPykbT/1T1rfV8sHa65Qvi47FO50UcODfN87t/zZpUZkFH/moiMLZ/eE/c01m0Oh9z4FtjmCRKFrnBoS3ZZyhXWrvKB4i77j3GNgLgud66hlqN5oDUy4Mq9ZBF5mOiW7ptx71zjmPNlDge9zk4XWEWZjfSmLA53i1rMq4/DEShBaOz8WWAvAtMKwnuw/qvKhKQRiFjaqlv/lQZTyecYNBDOMbzdC06bg8I7Ah4p5dOTsf7PPqBO1rP3DmPPg4uMzwlRQJTOmGKjndQF5MGuSLOJsi/E/PMApTcmfqjFZ9HVlPBIUurFj3vjkuLqe9IvAeY0jkRY82cZDxK4aWPvrueb0+x2fwdBey4+uDuLS3/BBqtbJHM/7gnFTyMD2Kl2begZBl8sOvRICTr63haKGbcjcvA==;qpclFuDzQa6tLIVpEtvQaQ=="
 ---

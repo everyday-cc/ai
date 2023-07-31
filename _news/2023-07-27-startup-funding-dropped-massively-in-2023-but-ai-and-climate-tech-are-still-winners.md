@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/startupsmart/news/startup-funding-
 webUrl: "https://www.smartcompany.com.au/startupsmart/news/startup-funding-dropped-massively-in-2023-but-ai-and-climate-tech-are-still-winners/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 733
     height: 355
     isCached: true
-
-related:
-  - title: "What top tech leaders are saying about artificial intelligence"
-    excerpt: "With artificial intelligence (AI) rising up corporate and societal agendas, we gauge the views of the key tech leaders in the space"
-    publishedDateTime: 2023-07-26T15:43:00Z
-    webUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-about-artificial-intelligence-123505879/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/07/what-top-tech-leaders-say-about-artificial-intelligence-1-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "yxorGCf/OL/tlhgYN2+RcDHQCQ9YjWAdA0YM7Dq61qaa4WfZzeJ/FbzBpb/E21L8uLPHaXVqRcnGxT6D/OkQHCEMu8o45cLwtekKyGW7bnxSTxaE3MwkLeEC6njf5w3IfA3CfWhpbYJnfplrJQw0vflWNX6ye/EI+t8C3zqQT4JlmLKPSnlA+rNJZpZs7nlgc3Wr+W80h25N4ZOu0HCo0tUGWYmnqngtQ57trNfCCkX74QKQebCrbX9oVIdcdLP5hQPAFZJtef71kPLU68+ikQD6YDu0uAmZpvIXNusKxzhX8V6vtiNN+rfglKRPb6LfaAQYpgb1oTAXsxJZFoQnLvCHikMZ0h9niLuSon1S8i0ZN3j1CzM/9PdjUSkIbwgIxPVtfuOlav6ZSxQuNQ1qJQQhgRQrpFRdWpH8wPOb/oLTMYAXhI81BNt6h2sF9yOuosT3/7TqJSvp1ZrF7V0JCMGue6OItaEcOVyEvgNUHuUDEfvA8WKG1VBt04edoZ9Mbu/EnLfXk7gjuEQYMLINCQ==;UsLP7ZXrm7M6qx2d+xZc/w=="
 ---

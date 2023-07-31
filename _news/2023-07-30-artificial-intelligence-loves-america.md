@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Poll Shows Americans are Confused by Some Applications of Artificial Intelligence"
-    excerpt: "New Poll Release by Statara Solutions shows where voters need education, are persuadable on technologyWASHINGTON, July 26, 2023 /PRNewswire/ --"
-    publishedDateTime: 2023-07-26T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-poll-shows-americans-are-confused-by-some-applications-of-artificial-intelligence-1032479109"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Jay Ambrose: Artificial intelligence loves America"
     excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-27T08:00:00Z

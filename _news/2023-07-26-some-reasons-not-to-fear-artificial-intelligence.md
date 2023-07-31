@@ -52,15 +52,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 44
-  - title: "Researchers train artificial intelligence to help detect breast cancer"
-    excerpt: "With the support of AI detection, there will be improvements in the accuracy of medical diagnostics as well as earlier breast cancer detection."
-    publishedDateTime: 2023-07-26T12:40:00Z
-    webUrl: "https://www.ibtimes.co.uk/researchers-train-artificial-intelligence-help-detect-breast-cancer-1717989"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 34
   - title: "Meta posts strong revenue growth as it touts bet on AI tools"
     excerpt: "Facebook parent Meta returned to double-digit revenue growth for the first time since the end of 2021 and forecast better than expected growth in the current quarter, sending its shares up as much as 8 per cent in a sign that the digital advertising slump is easing."
     publishedDateTime: 2023-07-27T00:16:00Z

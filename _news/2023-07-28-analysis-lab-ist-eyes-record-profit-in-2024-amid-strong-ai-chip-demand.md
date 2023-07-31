@@ -39,6 +39,20 @@ related:
         width: 600
         height: 424
         isCached: true
+  - title: "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading"
+    excerpt: "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes"
+    publishedDateTime: 2023-07-29T05:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg"
+        width: 800
+        height: 576
+        isCached: true
   - title: "Complete Guide to Investing in Artificial Intelligence"
     excerpt: "The cannabis industry has continued to grow as more states begin to legalize. Find out with Money Morning how you can succeed in investing in cannabis."
     publishedDateTime: 2023-07-27T18:41:00Z

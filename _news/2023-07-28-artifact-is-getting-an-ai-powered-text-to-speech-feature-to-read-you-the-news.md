@@ -47,15 +47,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Researchers train artificial intelligence to help detect breast cancer"
-    excerpt: "With the support of AI detection, there will be improvements in the accuracy of medical diagnostics as well as earlier breast cancer detection."
-    publishedDateTime: 2023-07-26T12:40:00Z
-    webUrl: "https://www.ibtimes.co.uk/researchers-train-artificial-intelligence-help-detect-breast-cancer-1717989"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 34
   - title: "Some Reasons Not to Fear Artificial Intelligence"
     excerpt: "However, a long history of adopting new technology has shown that such fears may be misplaced. Paranoia about artificial intelligence includes the view that it will attack our personhood by outdoing human creativity and ingenuity. Such fears may be overblown."
     publishedDateTime: 2023-07-26T15:51:00Z

@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 1508
         isCached: true
+  - title: "How Researchers Train Machine Learning Model in Outer Space on Satellite"
+    excerpt: "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space."
+    publishedDateTime: 2023-07-31T03:38:00Z
+    webUrl: "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 53
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "9jo4VHmFs4+ReDCf18onNOG6Gzrm3WYWHqdH509ELp66cPxdjbDmwCE76utHvrWFOP2x5sBrKFhMU6Wg6vDgFyzlBoVl8Rnv+v+ienu6qEpm9TIHxbx02OEEgux8UEOR+oz+BFFdEibnvJupfkTTYwml1LL3oGwEgl/rx33wJ8u7trk1XUBnE4t8upSM+mCjvMqmhBpp8gWyKeQis+edOhYun8/1TYgDU0Zrg+U3cu2xsUPIWQX7GLIIY6c71mUygugLiSh3sDRarCYNdoAQui0nA5p0I5OBoDMRlxCUL7e8PAc6M4MDTkD4JeO3vrQ1+ZQl2urvJviJO1csXn38/iStwrnQ/uGkcS9+u+JKkYo=;RPcILiNfQzxtqkrH3NZjrQ=="
 ---

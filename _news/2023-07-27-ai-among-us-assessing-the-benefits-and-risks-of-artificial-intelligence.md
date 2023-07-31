@@ -25,102 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "HR and Talent in the Era of AI"
-    excerpt: "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified"
-    publishedDateTime: 2023-07-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
+  - title: "We Will Inevitably Lose Skills to AI, But Do The Benefits Outweigh The Risks?"
+    excerpt: "The concern arises from the idea that as AI becomes proficient in tasks such as language translation, content generation and even coding, these skills might gradually become obsolete for humans. Imagine the revered art of translation. It's a task that ..."
+    publishedDateTime: 2023-07-26T21:04:00Z
+    webUrl: "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "The Indispensable Role Of Agencies In The Age Of AI"
-    excerpt: "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality."
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 66
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690304062-artificial-intelligence-risks-benefits-0723-g1394953811.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading"
-    excerpt: "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes"
-    publishedDateTime: 2023-07-29T05:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg"
-        width: 800
-        height: 576
-        isCached: true
-  - title: "The emergence of an AI revolution in the IT industry"
-    excerpt: "Incidentally, AI as a concept was also first introduced in the 1950s by Alan Turing. Early AI applications were limited due to computational power constraints. The exponential growth of computing power and access to big data laid the foundation for AI development."
-    publishedDateTime: 2023-07-28T02:30:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-27T172014.074.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can AI deliver therapy? U of T PhD candidate examines the pros and cons"
-    excerpt: "Katz is in the early stages of her doctoral research that examines the pros and cons of AI-facilitated psychotherapy, specifically AI-delivered therapy that doesn’t involve a clinician at any point."
-    publishedDateTime: 2023-07-28T20:38:00Z
-    webUrl: "https://www.utoronto.ca/news/phd-candidate-rachel-katz-examines-pros-and-cons-ai-therapy"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 56
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/2023-07/GettyImages-1291606290-crop.jpg"
-        width: 1140
-        height: 760
-        isCached: true
-  - title: "Love and relationships in the era of Artificial Intelligence"
-    excerpt: "When it comes to relationships and in particular sexual relationships, that gets very weird, very quickly.” Author Nina Schick and three other pioneers in the field of Artificial Intelligence discuss how AI could radically change the way we interact with machines."
-    publishedDateTime: 2023-07-27T18:14:00Z
-    webUrl: "https://www.cnn.com/videos/world/2023/07/27/exp-ai-love-relationships-intw-072701pseg2-cnni-world.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
-  - title: "Embedding Artificial Intelligence In Enterprise"
-    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
-    publishedDateTime: 2023-07-28T10:02:00Z
-    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
-  - title: "The Role of Artificial Intelligence in Improving Business Efficiency"
-    excerpt: "The incorporation of artificial intelligence (AI) has emerged as a game-changer in a business environment that is revolutionizing the way organizations work and reach peak efficiency. It is impossible to overestimate the contribution of AI in increasing company efficiency,"
-    publishedDateTime: 2023-07-26T12:18:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-improving-business-efficiency/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
 
 secured: "3E0VFVZenkU7GxRiLfX0p1bpPzqELnsd+FEr8xoWkBgOjYHR4W7uhYDmEHi1wYuAE9+BWMmqCXZsqjsGsVMUiSwxVQwK0W0hvcPAE6aJTQXP1cWELbj7p7XsUhxhk498iuxKR2wySlk9I/1oAAcwN57W5GI89VL/tITqCuJyWpHh+/dVmdxiRERN0huGmc0amZ/ywEfaVlin+d1HbsYq6tgSz0zxyPEtW/YHCmoEKV2UxBag2vgrLn/XnWVjZEgyCJ7bmJnTiw8uXH8CVGwNnZi9kpf8tV04lR34/G+uB6BuNu3RkcnriXURebHOO4UTqzsJDfo6/ZFeuT9Et7uve9wf2BgI40JdCLtH6IBsnLfHQw6OF+CkUUzw5fqJhxsDFitJLn/chLO7DGbUyRvIogF2YgOPNfJC3WU0a8IEPpcCR9U+2ZxmJ6cKJjBW4z3ovNnqF8CkZzW5eFW4Mo520OsFXJn++3GRTlbeupOGFXCSmLQ/KSgsc5NmJO0Yk3m6fwtbcVzvKbQxY7IvUmvjvg==;vpIKcqHdWeL8ylW4m3JucA=="
 ---

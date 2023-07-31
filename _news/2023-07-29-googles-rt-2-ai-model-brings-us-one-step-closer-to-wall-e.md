@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Student Brings Artificial Intelligence to Basketball Officiating"
-    excerpt: "Every sports fan can recall a moment that had them screaming from their seat or their couch as their favorite team landed on the wrong end of an official’s crucial call. Now, artificial intelligence could offer assistance."
-    publishedDateTime: 2023-07-26T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/student-brings-artificial-intelligence-basketball-officiating"
-    type: article
-    provider:
-      name: cc.gatech.edu
-      domain: gatech.edu
-    quality: 39
-    images:
-      - url: "https://www.cc.gatech.edu/sites/default/files/styles/thumbnail_262_x_148_/public/images/main/2021/female-grad-student-presenting-at-conference-2019-850x478.jpg?itok=Qkww2D80"
-        width: 850
-        height: 478
-        isCached: true
 
 secured: "X2fESuqBxP61czv0TRbnAwSm8+nTetDF7xhwQr6E8DHpT3wPWIa2h467tfjMtPzAoDBKm1KU0BpFdAiHX+N0weFVAi0EzmdOt1s1yohR5mY+d+2GLRAO7UcGkWq7ukDgJZ3Vb93mShLZJAw2r1G0An1bXWfH+2ylcCJeNb5tilAdHyE1uFUev8RMKh3iylNeTLrZWj270k/rJpM6alqIeuUx1ou16HsWyVK2oofMt4cF/oKRvgbgnSpfwnsjQ+ErwB6RfyoPGO8wB+EyX8Rmcx3ekL2eNO/VD2onWJExrzSo9QTI4LH521GD08ERuQoN9V422YZIBwe1G+LM4PcIE5DvYqLdJuPxh601iN7HCo3prmAxvhP5Q8mcFPfvDeGAWWbPX58CFUJHNIN1FHtgK/qMn4qfmgMGuv6ebzUw/uuaLEr73YV6EYed70sror5g1YGWtUWxNBpN6qZ7IlA4s7GBJp3HyrAoofR03WGpiskd4h+QORnvwLMHAp5avos8wa09lEbeijQrPaR85oBkQQ==;ESkI4prCg6HwEFfvg12+kg=="
 ---
