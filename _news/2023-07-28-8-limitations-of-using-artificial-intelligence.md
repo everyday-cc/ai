@@ -82,6 +82,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 Keys To A Winning AI Strategy"
+    excerpt: "David Yunger is CEO of AI strategy and innovation firm Vaital. The world has forever changed. Seemingly overnight, for the first time in human history, computers can outperform humans—at the highest measures of human intellectual achievement. • In the 90th percentile of America’s best and brightest attorneys on the Bar Exam."
+    publishedDateTime: 2023-07-31T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/10-keys-to-a-winning-ai-strategy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
     excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
     publishedDateTime: 2023-07-28T12:59:00Z
@@ -91,19 +100,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Educating the Next Generation in AI"
-    excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
-    publishedDateTime: 2023-07-26T21:00:00Z
-    webUrl: "https://campustechnology.com/articles/2023/07/26/educating-the-next-generation-in-ai.aspx"
+  - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
+    excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
+    publishedDateTime: 2023-07-31T15:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 39
     images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
-        width: 1920
-        height: 1081
+      - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
+        width: 400
+        height: 261
         isCached: true
 
 secured: "M9stVR2D/XfiLXhqXBmzAG3yDwlpptfoWvCsiBqkpmhDs3/lPM4lIsqAf2z0x2ImmGuwMmXywqxqM+E3/s9mjK8beNcDe9kDofo75b5B+FVUgTtwygN+B3ZCKKIgQDpb7Dc/yN1I2xBpGCV766WIciIjY//QQOsauceJI4sNDu2tAFoGfQQGPVJqujtklhgqnwduecxTDlbQdtrdGVJeLNR5cP88sAzi7emYo2RAfp80aXPLBvu0f20l5UDA/3ZtgVfVWdkKmr+xg6dwiv7sDU4mlsCVJg48uX4Dz8EHPKWbZfl0CDXd2Z5nc8Z5u3nYJVhJ2CZ5jtKbF9fVWG6eWxAXKib5UQ8BiN4MFxPysNw=;ayf51egsRMGeUUuHmE0EaA=="

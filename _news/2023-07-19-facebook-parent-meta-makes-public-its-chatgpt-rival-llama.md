@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-excerpt: "MENLO PARK -- Facebook parent company Meta ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed ..."
-publishedDateTime: 2023-07-18T18:02:00Z
-originalUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
-webUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
-ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+title: "Facebook parent Meta makes public its ChatGPT rival Llama"
+excerpt: "Facebook parent company Meta Platforms ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it's been overshadowed as ..."
+publishedDateTime: 2023-07-19T04:49:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facebook-parent-meta-makes-public-chatgpt-rival-llama/article67096795.ece/amp/"
 type: article
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/b97a2bb7-2255-49be-81c7-cd00198ba40f/thumbnail/1200x630/8fa8182596b299afef316114648f9f32/9b36e8d006fafd1e651176d6010dec18.jpg?v=86db2ab42e1f4996c0f037a20ce5a325"
+  - url: "https://th-i.thgim.com/public/incoming/ypcl3y/article67096798.ece/alternates/FREE_1200/Meta_Artificial_Intelligence_78805.jpg"
     width: 1200
-    height: 630
+    height: 799
     isCached: true
 
-secured: "kQluJ9ixx+KAqF3fZbhzQC6PKAJdWl7GdOXJXORUhZOL125hF+Mq+ZCD5kvNgKzlb8BdCpDH7UkULhrq7bVqYrNKr32Z2Nx/pZVrYvMxAFGnEm6z/gveVPecyQAHm2OXscbez+nDEUwYGKMzfzqbYq8OvxqwT+FI80ZTsMjPH3w9zMlwLQdfmaD5TlltWwJ8QROMNL3TWk3K75/ebZ743LLyzvrVLmspaxcyJ+Qft2DEpbmSjQ5bCrABvWHYHuW5T79QXfeo0N+QFIBqKYU39QjHoOblsGCk4l1ZBo7NvrVKJ4S1sQOBLj4RERf7ablXSAZZ57YAEduTegxaVusThTAkbZNHY5z65OzsDCEGcp0=;iVv+Mp2ZTG0aHvSWUFLpMA=="
+secured: "27FslaIsgwibpXEyfhmV9V9Db4ujDVxqhD2lRpIdcA+gQwR2ddSnBZA73Gkv/TweHPNw6vs2SpvEZTfT7feMeTNx2MmBPojOKGbDeQ3gPpPYLOhhQKHS3VWfirAR7tDp9QOzptCIzh4zImwOF08h79XlvX/z86ftDJXHVQhNvsHnIiIh89JvZZsi+MM1rDHhe1cELhDSaA1Os5EyfI5Q5xC1nrP4qq8rA/jFQdHVJBL/XvJqpQB4bMXzVlDrQJ+HNfT8MuBYJrOjwsK7ohr7r+BzcHqdP2sS0TOcxpCUtueM53z6k7zexJFC8tIkd+/X2QxbTvzwbutpcycu8mxkrOnVpgDIgQuV6JAM4czD62o=;i8iPOInGByb5ywltPyBx0g=="
 ---
 

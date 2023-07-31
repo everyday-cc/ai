@@ -30,153 +30,227 @@ images:
     isCached: true
 
 related:
-  - title: "Betting On AI Is Big Business"
-    excerpt: "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?"
-    publishedDateTime: 2023-07-31T08:51:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
+  - title: "AIS Attains AI and Machine Learning on Microsoft Azure and DevOps"
+    excerpt: "AIS announces its attainment of AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations."
+    publishedDateTime: 2023-07-31T14:08:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 562
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/AIS-Attains-AI-and-Machine-Learning-on-Microsoft-Azure-and-DevOps.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "How AI is fundamentally altering the business landscape"
-    excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
-    publishedDateTime: 2023-07-30T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/"
+  - title: "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House"
+    excerpt: "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:"
+    publishedDateTime: 2023-07-29T15:00:00Z
+    webUrl: "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 98
+    images:
+      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Box extends AI efforts with Microsoft 365 Copilot integration"
+    excerpt: "The integration expands Box's efforts to use generative AI to help enterprises better understand the value of their content"
+    publishedDateTime: 2023-07-27T22:00:00Z
+    webUrl: "https://venturebeat.com/ai/box-extends-ai-efforts-with-microsoft-365-copilot-integration/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/box-social.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OpenAI, Microsoft, Google, Anthropic Launch Frontier Model Forum to Promote Safe AI"
+    excerpt: "The forum's goal is to establish \"guardrails\" to mitigate the risk of AI. Learn about the group's four core objectives, as well as the criteria for membership."
+    publishedDateTime: 2023-07-28T21:28:00Z
+    webUrl: "https://www.techrepublic.com/article/openai-frontier-model-forum-news/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 80
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
+        width: 1400
+        height: 719
+        isCached: true
+  - title: "AWS, Google and Microsoft are in an AI arms race. Banks are watching."
+    excerpt: "Cloud giants are making major investments in generative AI and large language models. Their financial services clients are mostly in test-and-learn mode."
+    publishedDateTime: 2023-07-31T01:01:00Z
+    webUrl: "https://www.americanbanker.com/news/aws-google-and-microsoft-are-in-an-ai-arms-race-banks-are-watching"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 73
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/8b4861b/2147483647/strip/true/crop/1400x735+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F73%2F93%2Fb4f2333c4c9683b20a87af71fae0%2Fcloud-vendors.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Xiaoice uses Microsoft Azure to upgrade AI-powered chatbot"
+    excerpt: "Xiaoice is using Microsoft Azure to upgrade its artificial intelligence-powered chatbot and X-CoTA technology for enterprise customers in Asia. The AI digital workforce solution can understand humanlike AI conversations,"
+    publishedDateTime: 2023-07-27T00:00:00Z
+    webUrl: "https://www.technologyrecord.com/article/xiaoice-uses-microsoft-azure-to-upgrade-ai-powered-chatbot"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
     quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all"
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4507/Xiaoice_web2-1.jpg"
+        width: 975
+        height: 548
+        isCached: true
+  - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
+    excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
+    publishedDateTime: 2023-07-27T15:04:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/despite-slowing-growth-the-battle-for-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/741311/a-person-studying-stock-charts-and-graphs-on-multiple-computer-monitors.jpg"
+        width: 2119
+        height: 1415
+        isCached: true
+  - title: "Microsoft Azure OpenAI service approved for use on sensitive government systems"
+    excerpt: "The service has received FedRAMP High approval, meaning it can be used in cloud environments that hold sensitive, unclassified data."
+    publishedDateTime: 2023-07-28T16:56:00Z
+    webUrl: "https://fedscoop.com/azure-openai-approved-for-use-on-sensitive-gov-systems/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 65
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/09/White-House-exterior.jpg?w=505"
+        width: 505
+        height: 336
+        isCached: true
+  - title: "Microsoft Touts AI as Cloud Demand Cools"
+    excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
+    publishedDateTime: 2023-07-27T10:53:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-msft-q4-earnings-report-2023-3d6ebe64?siteid=yhoof2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+  - title: "Dentsu goes with Microsoft to unleash AI"
+    excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
+    publishedDateTime: 2023-07-27T21:33:00Z
+    webUrl: "https://www.adnews.com.au/news/dentsu-goes-with-microsoft-to-unleash-ai"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_300,g_faces:center,f_auto/http%3A%2F%2Fyaffa-cdn.s3.amazonaws.com%2Fadnews%2Flive%2Fimages%2FdmImage%2FStandardImage%2Fhighway-eric-weber-via-unsplash2.jpg"
+        width: 300
+        height: 203
+        isCached: true
+  - title: "Microsoft Introduces Azure Deployment Stacks in Public Preview"
+    excerpt: "While using ChatGPT through a web interface is one thing, creating your own autonomous AI tool that interfaces with ChatGPT via ... Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection ..."
+    publishedDateTime: 2023-07-29T17:47:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/azure-deployment-stacks-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2023/07/azure-deployment-stacks-preview/en/headerimage/generatedHeaderImage-1690105019398.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "How AI is helping satellites avoid hitting each other in space"
-    excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
-    publishedDateTime: 2023-07-31T08:53:00Z
-    webUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space"
-    ampWebUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
+  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
+    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
+    publishedDateTime: 2023-07-31T01:43:00Z
+    webUrl: "https://www.brecorder.com/news/40255285"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 54
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
+      - url: "https://i.brecorder.com/large/2023/07/64c6c8b5de187.jpg"
         width: 640
-        height: 360
+        height: 480
         isCached: true
-  - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
-    publishedDateTime: 2023-07-27T09:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-better-be-buying-on-each-and-every-dip-1032483582"
+  - title: "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity"
+    excerpt: "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology"
+    publishedDateTime: 2023-07-31T06:40:00Z
+    webUrl: "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "How The Era Of AI Is Reshaping The Cloud"
-    excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
-    publishedDateTime: 2023-07-27T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/how-the-era-of-ai-is-reshaping-the-cloud/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Risks of opening up AI"
-    excerpt: "Meta has annouced that its Llama 2 large language model will maxde freely available under a community licence with certain restrictions"
-    publishedDateTime: 2023-07-28T10:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366545672/Risks-of-opening-up-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 54
     images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-250723-cover-500px.jpg"
-        width: 500
-        height: 354
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842"
+        width: 1024
+        height: 567
         isCached: true
-  - title: "How businesses can leverage AI-generated text"
-    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
-    publishedDateTime: 2023-07-26T23:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
+  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
+    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
+    publishedDateTime: 2023-07-31T15:10:00Z
+    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-to-push-on-public-sector-generative-ai/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 53
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
+  - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
+    excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
+    publishedDateTime: 2023-07-28T09:25:00Z
+    webUrl: "https://za.investing.com/news/5-big-earnings-hits-meta-delights-microsoft-warns-in-huge-week-for-tech-ai-2824014"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 51
+    images:
+      - url: "https://d1-invdn-com.investing.com/content/c74d600952f59cc9004ec48c4e5994d2.jpeg"
+        width: 650
+        height: 397
+        isCached: true
+  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
+    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
+    publishedDateTime: 2023-07-27T15:26:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
     quality: 39
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
-        width: 897
-        height: 500
+      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
+        width: 770
+        height: 435
         isCached: true
-  - title: "Most businesses with AI lead new use cases with it"
-    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
-    publishedDateTime: 2023-07-31T09:45:00Z
-    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
-        width: 1075
-        height: 550
-        isCached: true
-  - title: "Artificial Intelligence As A Service (AIaaS): Empowering Businesses With Smarter Solutions - By The Business Research Company"
-    excerpt: "1. Increasing Spending on Artificial Intelligence:"
-    publishedDateTime: 2023-07-27T15:56:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855525.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
-    excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
-    publishedDateTime: 2023-07-28T18:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-porn-generator-unstable-making-500k-images-day-ceo-says-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-  - title: "Embedding Artificial Intelligence In Enterprise"
-    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
-    publishedDateTime: 2023-07-28T10:02:00Z
-    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
-  - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
-    excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
-    publishedDateTime: 2023-07-28T18:33:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/ais-impact-on-business-billion-dollar-investments-and-market-consolidation"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "8U5/n4Aql7QJr4wuZu2VeUNevS6uMG1nkJYpQHbr0iaaefs7ChulbibB7jlJ8dqJt92h4vusunuMP+r8KIAIATPOyao/K96AXB/qGt/lccZ5INR3O+lYFjA1CvMcHctdI6QenrfNF6y7KO0WqPzwQSnrEzLJe7M+ix2aXhQP7JL2JjDOJ/If8Zsz8pMb5fuTGi2oAqK5WAj2TFjvyIboiJontHGnJVimr45WUVzVkPPnHwjBVePDPjCGnWBzfHJhaHAMm7KYzuZwiLQcv443Be8YI0HMgwMNP9+EVRrhha9jGecf0fif8SP10GcMmc15Xb85qNC/rfxFuLa6MeTs4jkf2Ja7h5fsISD2G9YaHEUXdWOWFU7P5UzCDriZVlC26rgGi3svTUSP4H7vW8gEpbJNfqR98kBCEom7qp4OjviGT1xkqK4YVASgNhOFEWhyN+zqn8XVsRK7dYK1SklSN3W/fQJI6+8423Fwre2uqY9zUkQjgUwD/cYoZqsfr+uL9SRtedqQYpVIAOdYrPrNzw==;gPbyj07EfeAC+7uE3L8Zuw=="
 ---

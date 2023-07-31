@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
+    excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
+    publishedDateTime: 2023-07-31T11:51:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2542411-how-is-ai-powered-video-conferencing-revolutionizing-the-virtual-communication"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 15
 
 secured: "92GwL7g6LNObh49EOOeZ2JCsK0H4w2APz606r9zzs++hnDXX4tMssBlkZa5uOJReuDvxGv2rjF53+D5wBrn3YJwAKFCLdc+ZVby6CZ102FWGYcKpmfCNYnXM/v38xJGQH0B7MWsjrSwtbOMmx0vChX1S8jJ4wsHKl7BRHwYh+SAJv3UZIcmp53/jM3MNhx7Em+x4Mg6zjLsKrjE7cPZDXgxQASunB2w1qwzKQFnW2xFo9GoiQCE+bhIuLC4bgYYyneiXqp5DZuBPFTTEfPytJ4ihDIaiygSx/P+fZnagu687MKnV/iK3tUEk57elZKdynTLb4epytnnRFyIocgVTJXieDTj4Pr9Jh+uRsGvQoAM=;c6MlgJD5Y50hEnR6PZzPeA=="
 ---

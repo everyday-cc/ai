@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controvers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -119,7 +119,21 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
+    excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
+    publishedDateTime: 2023-07-31T15:00:00Z
+    webUrl: "https://www.sciencefocus.com/news/police-live-facial-recognition-caution/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 18
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/Facial-recognition-cameras-analysing-a-group-of-people-d8d12c2.jpg?quality=90&crop=5px,147px,1190px,512px&resize=940,400"
+        width: 940
+        height: 400
+        isCached: true
 
-secured: "nD5YaDdOkHIg3EOPaT6D9Z4BuktYMiEcpkyp2LMiWuMEBr/CGRhPw9oQuMZAVh5m3jP0E9YRJEWCgr8YF73j8gLYVBjAssj4X+cdi9f8t+o1HPz2q91/zBHHOS3OcenQFWdvdWPjVrc9qHL4CMIuDMBSswBdl59n33iKyKq/kNffD6rQYkV7B/xxf33zEA7MWovHP/4VDcnL++nRSXN9YTAlJC2Tq3DhOBUJ4THwZHASwdY+4FeJ/GZQWMNk2Jjk3qCtKwmK7nlGGBNSFAHQxPOB5Ssh7vU5G5rvzmVzGQSUM/sUNI6f4X8405XM/WA0VtZ0n6GF23tuxq5CCOd3t2xAYvKSDfpbsJAEhr0BqDA=;fiEOz6FiE5s+b0GiBYrs4g=="
+secured: "66B5C+SjBw/vDM7QWi9Ywg8BHTYvlIh+PaLUPaYq3jlCTgXAtRPyNLX5pmT10nGbswAiRGSO72utsbWz+u2sCROFyMmB96jefaE+/yOgMlHq9Zsq4ONO6yP6ItJESavAkWxfdKkcIQ9Z4CRLTkGMV/f0QYiHmXVbtflSHqXITdGLs2MT0FSXkiqxP4rjYxTpPzLnu5BVCh9uAIgfmRG+or8ovbroa1ytV2yGxh9zNFjKers4HtrvmRI3cpo+NQavnEm7Xc1X8auyss3YuSP6+kjUr/ev02YomuQ9/jChiEXqSlgM7qeDv3vKsoFpFVFAldEpCcALefhL9hR8hHRhoT/89LMZJ2vIbJYPm339Bwomphe9fGAujlUP54EAhXXSNg+FE2R5NeZ0+OJ5N/hYnuJ5SpAfHcrWDZXGH1JafMfUyymG20zXJtxNzUc6RvbEF6ZijTAUQN3GKmZyOQgZ2J8oE2V0DJDGIeCUsbkcsVotMyh4qeEsiu6L7qgBIaj2LT9cCnBu2FX5viwmCejX9Q==;MnJWA3C6+iuxU0X40guFdw=="
 ---
 

@@ -34,20 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 127
-  - title: "Several Brains Behind the Future of Automation, AI, and Robotics Explore Manufacturing That Will Transform the Industry"
-    excerpt: "Jared Glover, CEO of CapSen Robotics, and Michal Diga, P3 Product Director at Stratasys, discuss the future of automation, AI, and robotics."
-    publishedDateTime: 2023-07-26T22:12:00Z
-    webUrl: "https://marketscale.com/industries/engineering-and-construction/several-brains-behind-the-future-of-automation-ai-and-robotics-explore-manufacturing-that-will-transform-the-industry/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 45
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/07/CR_Video-Thumbnail-Image-1.png"
-        width: 1866
-        height: 1038
-        isCached: true
   - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
     excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
     publishedDateTime: 2023-07-28T14:59:00Z

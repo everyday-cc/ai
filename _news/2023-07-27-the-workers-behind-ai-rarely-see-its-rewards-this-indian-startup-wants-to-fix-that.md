@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Indian AI-first startups can now apply for 8th batch of Google for Startups Accelerator"
+    excerpt: "Google is inviting Seed to Series A funded AI-first startups from India to apply for the eighth cohort of the Google for Startups Accelerator: India - a three-month, equity-free program that focuses on bringing the best of Google's programs,"
+    publishedDateTime: 2023-07-28T07:19:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 51
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_10_2018_17_36_16_1911619.jpg?width=1280"
+        width: 1280
+        height: 1373
+        isCached: true
 
 secured: "zyaxeOVOG2Uh81WWaz4PCTDtG2uMh4jzAxBttO5XOHSnGrQmazoNTrgl4aYigSnO4y0ntxhUuZPJFbTvNSjC1fzT7nEIo9BegbPgorv80ztfA1km47F7adWew9jPibplbAPUh5nXLv/Dld4VmZ4Y9tCchJT7a6o0Pzbx5QBShE4BNEdr2SUuWLzsdX0KBQ+MM9EEQXrarDRf6EMd28jrLDq1rhLfpWFRn8VY10PM3pi9r6rqGsk17E7nqJdLR1L+ZI90Bs4nGNBxtl1xFurVVqqqbXnDMSlQ31Vl/KWiVQbk/1YHkoxNzNtm5xfiiZbyX25RjDVIUmBAp2z1OQwgzJvNFks83ZYnkHuFFZ21GS3iRDWVvD7G9cH2qm/kviV6oPOrvbPlWL/tjXGNRSoeM/K5HDNG/ulaz+chttvy4CUAQPEx0N8bPq6lNH3o3A+DDWqfx0BQbGVClOS0fgoPS7Q0hkwuQRUGTFsVH5Fc1PZmORNjFodQ+/pu4hV95V8ZTlsRxMWgi4WqJ+fL+lIErw==;1bEHkal3QAYE85hP3Vl7qQ=="
 ---

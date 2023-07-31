@@ -147,20 +147,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AWS introduces generative AI service for creating clinical documentation"
-    excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."
-    publishedDateTime: 2023-07-26T21:58:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/aws-introduces-generative-ai-service-creating-clinical-documentation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws.png"
-        width: 931
-        height: 521
-        isCached: true
   - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
     excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
     publishedDateTime: 2023-07-27T12:00:00Z
@@ -198,6 +184,20 @@ related:
         width: 1000
         height: 575
         isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
     excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
     publishedDateTime: 2023-07-27T05:08:00Z
@@ -230,6 +230,15 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 14
+  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
+    excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."
+    publishedDateTime: 2023-07-31T15:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856445.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "4kdvrqbRSSXrHeeKdHc1dzE6prRhuLAq5c7gxmnoK/PuX6/n6TNhc1GHmXALJ+uHvF34W0LHO8fGlUC6V8FRaWCdNIEfJYXKzw69CaO6ScYgNUGx51Aq5l6sPXySahev+iWLMr4HSjdpBYg6n/TihG/hgIY3i4QD2z/2NVKSEtIYpXTx498rwxAABuOOh/Eko/NJI10GwB0LjakkwdZX5ZANpKnBzwG6lo+wYX5kQ/yQQynLK161Vj05lvctBZFuK11ySyDSPXG+zbgNTgiKzKUUuWZQwk8OZI0uLhVKfby5r+QFM62fByi9oMS6TwfonFTzl9HXcajGX8tCzXRfmCSQva/aimK8oLrS4XFrVg787JqXvNUSp0jzAttqtRaablKp6WMl5NPhzjPGyXMhGFbaEst09x+Rkv1XJrZ26yrnPLjwQj4m3RyksG2yWkE0ZQ0PUryX8NQZ117KjyZDvVNKQ+W1HXE4qh9DGk3rb5JKiOkwyHQ0Ooq5ir7X5Qg5qq/4dMNY7QvrZPq/pRBA4Q==;5eEfcQp3hyCNhUetIFpenQ=="
 ---

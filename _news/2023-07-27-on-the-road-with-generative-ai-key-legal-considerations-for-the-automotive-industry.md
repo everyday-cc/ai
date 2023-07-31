@@ -161,20 +161,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AWS introduces generative AI service for creating clinical documentation"
-    excerpt: "Amazon Web Services Inc. is rolling out a new generative artificial intelligence service, AWS HealthScribe, that can help medical professionals create clinical notes faster. The service made its debut today at AWS Summit New York. It’s currently available in preview."
-    publishedDateTime: 2023-07-26T21:58:00Z
-    webUrl: "https://siliconangle.com/2023/07/26/aws-introduces-generative-ai-service-creating-clinical-documentation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws.png"
-        width: 931
-        height: 521
-        isCached: true
   - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
     excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
     publishedDateTime: 2023-07-27T12:00:00Z
@@ -212,6 +198,20 @@ related:
         width: 1000
         height: 575
         isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Merkle Unveils Revolutionary Generative AI Technology"
     excerpt: "Generative AI LKMs can be trained on vast amounts of performance data, synthesizing the relationships among all the variables to enable marketers to draw insights from data. And by informing every customer interaction with AI-driven insights and decisioning,"
     publishedDateTime: 2023-07-27T15:15:00Z
@@ -230,6 +230,15 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 14
+  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
+    excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."
+    publishedDateTime: 2023-07-31T15:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856445.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "dcGH8A+3LHqXarR5ZVcU54XZOE+5PBa+ioYbFG5HTfLZULTP3Loja+/JBQ4fjNQLVx1Dx4SeT+oqs1XuGMyHjuIDmxZ4ICqrafdbZrZfFkVE30tpsAp3spBhyiFj3ZpH6hkQTXURiZBrKHDDK429qOb0jegTBrKHgJiwgQdgdx4ly/rkr68PZl59iZbLFOR7TsPP/0OuDVsbYTrZxWm75EVvt5Q/1qaepcYBAyDAdyEczGJAqDo4BtqImQ7qNIaglZvg1qn4gjm7o5ws6zOiIRW0Q0ndX94Tq6T0V5lmYqNmj+YNlXnMq7U3MV+nS9V3xoZISmrnrslvop4ttM2EkNYFp3wr99dN0uaPtHSWZhQ=;V51oqfRFX3li7jdMs8brvw=="
 ---

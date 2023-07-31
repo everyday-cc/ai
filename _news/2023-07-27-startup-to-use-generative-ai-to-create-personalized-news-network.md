@@ -23,17 +23,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "AI Startup Hatches Plan for a Personalized CNN-Like Network"
-    excerpt: "A startup company says 'we’re about to witness the next big shift' as it unveils a brave, new type of news channel."
-    publishedDateTime: 2023-07-26T19:24:00Z
-    webUrl: "https://www.thestreet.com/technology/ai-startup-hatches-plan-for-a-personalized-cnn-like-network"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
-
 secured: "qP4ZC+cO+khOVY/9weDqHWVkjQOT1QEuvP2TvrcCPbm7lIfkzsjAVKjQWH7G9/H2EAPWJINyMDcKtxVBzkJLHVEoJs9EujYn29kgdatxVu3btzWm+q+VDNzaZbQOqcTLvywPifzfLFk4vz1YVYxuSng6GUANcFW3d+ugDKZhwGUsMrH9vfREGM4PrxEmBnz+glnI3DLMantE+JJQ0ZCoJsS0UXOB+pBjztrEXFVA4E6rxCWNRzkieD8v3LFYDo6g78lyqP6m71D+5a5VqkaJX+CHcKhrNmnjQmoop1khf+tFqD12lh47/9N1zFFlDKFIAs/khUZgJFaHFOO/p9hUJRhJWrsu7ERdsVWc8n8YdJu85fOdihySVR2Q6CojAssJHRsqeUY5nYvdv0Lr+y+GxVtDbbiimNvg6pdNzvXHfBa/R8D1dpA6ktPKXO1aRmsbLCOaGJ7oqcV1uTwL5TY0KR5s1jTjMI3+xcvmHpTPsisY6f5vS66aif80gnTKco0KplpbCx87wqwI7qpcBUHxrA==;NfYD9UPt/XSfqao51w+NHQ=="
 ---
 

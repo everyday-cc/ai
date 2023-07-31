@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-20
 webUrl: "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -26,23 +26,62 @@ images:
     isCached: true
 
 related:
-  - title: "Indian AI-first startups can now apply for 8th batch of Google for Startups Accelerator"
-    excerpt: "Google is inviting Seed to Series A funded AI-first startups from India to apply for the eighth cohort of the Google for Startups Accelerator: India - a three-month, equity-free program that focuses on bringing the best of Google's programs,"
-    publishedDateTime: 2023-07-28T07:19:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
+  - title: "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country"
+    excerpt: "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups."
+    publishedDateTime: 2023-07-31T13:59:00Z
+    webUrl: "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/"
+    ampWebUrl: "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 51
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 83
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_10_2018_17_36_16_1911619.jpg?width=1280"
-        width: 1280
-        height: 1373
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg"
+        width: 1500
+        height: 844
         isCached: true
+  - title: "AWS, Accel announce programme to support generative AI startups"
+    excerpt: "ML Elevate will provide generative AI startups access to AI models and tools, business and technical mentorship, curated resources, the AWS Activate programme, and up to $200,000 in AWS Credits."
+    publishedDateTime: 2023-07-31T14:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/articleshow/102284478.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15856,msid-102284662/aws-accel.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
+    excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
+    publishedDateTime: 2023-07-28T19:23:00Z
+    webUrl: "https://siliconangle.com/2023/07/28/final-thoughts-aws-summit-nyc-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/AWS-Summit-NY-2023_003.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Blackbaud Invests in Generative AI Startup for Social Impact"
+    excerpt: "CHARLESTON, S.C., July 31, 2023 /PRNewswire/ -- Blackbaud (NASDAQ: BLKB), the leading provider of software for powering social impact, today announced a strategic investment in Momentum, a leading AI-focused Blackbaud partner, graduate of Blackbaud's Social Good Startup tech accelerator program, and winner of Blackbaud's 2022 startup showcase."
+    publishedDateTime: 2023-07-31T15:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
-secured: "b73+iRmexbjL25vpyBhETC8en21ZP/TSmq1w8Kw1fOlvYWHRw9Km6gJNmKsqgD1ygvkCUKIoVfIudtEOvG9idCkL7heydM+ya66yBHs1aSIbEn7ACP2CAPEUZerUHW4V66iRle8AfUmpiD7xrBry/0+AJEopSYqHHojHufLh4qEKqVyFTBTbrOWQbiNZXYeLKHTxLcJcUR40qG+ZhMMjL5J6aLg6fMZ7StWgYtZNSgstjyFfK/4MrLmtkhAMyvhmQwTbQXOFdFFYySwlv0cyWNIySYF6ca5Oc/F/52f8412d1bSYcD5/ZwuYn19vN3ZSNq6Q3Yh64ixCrxX+QBrLvaSScjGRhuXG+GmSWCvPjmQ=;rItZbJPV/vDidxM87qq6aA=="
+secured: "dxwml09qiuP5ceG/qp7nGFBzTyYXOV9royB7EFne87mMUdMxBxBo6OAUpqpcI1uC8Qdz0vhQVXirlGSnvBm18UrhdxRK6L79GvFMMzh99YF7+y4tcsXYce/TavtRaWAIgnNgK9T2zzCWltmx/kgcQG3dcwyXbWFLGi6Y8m5KeD06TVu3EHba7pdAFRjexHjCrArdywDWBuLlCMxhHyaZtNmqX07zyHlR+Oo/ujYT4qrGKWfX3kkFGlE/C2zflofnoUsrp++nQXXpYiMAXvC09qTiSmdHJgjjz2kPzBfUN9DQv2lQ184jkXUr7NwEOaPre7V2yPH0VYYW6DnoFTwMFarSQ0sPywkulsOGtABIX81Z70ZhHaAcTuvORwEPZHj1muvA4OcTTA/ciLLPodiM3VB0mBwZ2pgzuUVWk1DampmNkvXQBwdeha9FYMFqPOWHDRyzWX9LPAeYwtgXnVOIHtBlwl0UmJXUwEVtS+diDJ4uf4zX+PeQL1gVyOEWFJuLQYdfW0q44XZ3xQHUM2vMAA==;lNejmEgLn9cb/+O9clRlbQ=="
 ---
 

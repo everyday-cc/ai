@@ -27,42 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Intel CEO: Get Ready for the 'AI PC'"
-    excerpt: "As Intel faces more competition than ever, the chip maker is betting that AI-capable PCs will help drive the company’s growth. Intel CEO Pat Gelsinger mentioned the “AI PC” push in an earnings call on Thursday as the company projects the PC market ..."
-    publishedDateTime: 2023-07-28T17:57:00Z
-    webUrl: "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc"
+  - title: "Why AI’s Creative Intelligence Will Change Advertising In 2024"
+    excerpt: "AI is perfectly placed to change many aspects of the digital advertising industry, and this is especially the case in the realm of ad creativity."
+    publishedDateTime: 2023-07-31T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/i/intel-ceo-/intel-ceo-get-ready-for-the-ai-pc_2nqv.1200.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/608881c0e49450ab722af606/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Intel CEO Pat Gelsinger Talks PCs and AI"
-    excerpt: "Curating today’s top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment."
-    publishedDateTime: 2023-07-28T21:59:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2023-07-28/intel-ceo-pat-gelsinger-talks-pcs-and-ai-podcast"
+  - title: "The Best Generative AI Development Companies in 2023–2024"
+    excerpt: "The rise of generative AI in today’s dynamic digital world has captured the attention of top business leaders worldwide. This cutting-edge technology can create real photos, movies, texts, and audio,"
+    publishedDateTime: 2023-07-31T05:44:00Z
+    webUrl: "https://techbullion.com/the-best-generative-ai-development-companies-in-2023-2024/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Intel CEO Gelsinger: ‘We’re Going To Build AI Into Every Product We Build’"
-    excerpt: "Gelsinger has placed his bets on Meteor Lake, a next-generation processor planned for the fall, as a way for Intel to own the coming AI PC moment. He wants Intel to have a repeat of how the vendor’s Centrino wireless computer network adapters helped the spread of Wi-Fi in the 2000s."
-    publishedDateTime: 2023-07-28T14:11:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-ceo-gelsinger-we-re-going-to-build-ai-into-every-product-we-build-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
+      name: Impacts
+      domain: techbullion.com
     quality: 37
     images:
-      - url: "https://www.crn.com/resources/027d-172a628013fd-c9ee24cea71d-1000/pat-gelsinger-intel-vision3.jpeg"
-        width: 610
-        height: 458
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/generative-ai-development-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "I8DU+yiEFGCvbAA/Bu0hi5dmQoQggTTMj0yWrwfHTn9Iu9QpLNkqLkFFxT2EhEq38FLjFDJxJgg+CmOdPZn3yLtf2u8Adf1Ngoo49rQaRFEKiDtFyvXuXce4nUx3NfP0SHlW75ClJyV3LnGm4T5jdCAp1re1GtZnAGvPfqgdWOlYIvprgi/pzelaJI0OM6IxCibwmXPeY2m6osF+FDc4pewAim3mxOTq8SqgsqkpjCBE2IoZKtPpInx1vSdgZsBrYwYdkihOGogWXA9Fvw2c3JDwwYfXoz4TOhg8l9V23d0M5GKJIbCu49NOX+tyIc6knMWZCFItFOorcZwfOetkFplV9klz8eY2lN2NW8Pi1Ls=;HwgOESEpTvQ+xekxpmd4qw=="

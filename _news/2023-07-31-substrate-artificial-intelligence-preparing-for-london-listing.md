@@ -40,15 +40,6 @@ related:
         width: 901
         height: 451
         isCached: true
-  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
-    excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
-    publishedDateTime: 2023-07-26T19:43:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jul/26/the-war-in-ukraine-is-spurring-a-revolution-in-dro/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 19
 
 secured: "ixtE84PGUnm6K6gq+p2k09r7JOo+pE29R0dXO99A1FiS1TQsUv3VYGPdQaSW8q4OCwEEnBHOAQkjvp2JGG430R3XvKB645lThIdjcps5DO3rVK2L2zWJidMHJ+mYd4eNlHc/K2Oh+vB4kzBwE9wBg01h6AzXMuPqJyXiHTyjq/2BjSxr77m/eYPph/r+ZaXihs4FExrI07G2C5dV4kZVC6H4pwIgmLXRjy3ZIR9Cf2k4+foN8zh1QZAITTl/Klani3qU44vHdes4AKr7yO47Bqd+k+sNGlPpv/7+/XAPiGEg5YMjwishvolO8LNWk46C5S2J+JIIRbkzdfB+D0IGok6+P83ZO8ZyO6qj0vDWQLc=;uPexHswbjCQsvmns5Amx1A=="
 ---

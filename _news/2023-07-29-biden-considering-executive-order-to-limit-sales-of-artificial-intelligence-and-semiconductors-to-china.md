@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This Chip Stock Expects a Stunning 50% CAGR in AI Revenue Over the Next Five Years, and It's Not Nvidia"
-    excerpt: "This Chip Stock Expects a Stunning 50% CAGR in AI Revenue Over the Next Five Years, and It's Not Nvidia Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-07-26T22:31:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/26/this-chip-stock-expects-a-stunning-50-cagr-in-ai-r/"
+  - title: "Blocking China’s Access to AI Chips Matters to U.S. National Security"
+    excerpt: "Targeted semiconductor export controls are an appropriate step to address the threat of China’s military AI advancements."
+    publishedDateTime: 2023-07-31T15:42:00Z
+    webUrl: "https://www.csis.org/analysis/blocking-chinas-access-ai-chips-matters-us-national-security"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
+      name: csis.org
+      domain: csis.org
+    quality: 71
     images:
-      - url: "https://g.foolcdn.com/editorial/images/741382/copy-of-jose-najarro-2023-07-25t181225501.png"
-        width: 1280
-        height: 720
+      - url: "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-07/AdobeStock_483004683_Crop1.jpg?VersionId=MtlVeWKwIL1PV1HeZWiNr8krCa1xEbCR"
+        width: 4160
+        height: 2340
         isCached: true
   - title: "NVIDIA prioritizes AI GPU supply for long-term partners"
     excerpt: "NVIDIA has given its long-term partners, including Quanta Computer, Wistron, and Supermicro, priority to receive its AI GPUs which are in great demand, according to industry sources. TSMC, the manufacturer of NVIDIA's chips,"

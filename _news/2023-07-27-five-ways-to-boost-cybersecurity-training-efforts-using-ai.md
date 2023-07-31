@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 273
         height: 273
         isCached: true
-  - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
-    excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."
-    publishedDateTime: 2023-07-26T19:52:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/07/26/protect-ai-series-a-fundraise-cybersecurity.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "GoGBjXueyfc3XtHqX5V9TZ4NWA66Yh/IKc2G00RtlBLc532S/ErZn9eDCvHwf94KiVqcpgvIHHE6E0W2W5PyiCdrdCV7URPdOujtMrs4JX8na5DdiK3zUtde+aG2ia8lBlpCohID9vf6PyOf6mSKplbIuBvQBkpjU9qB+rgJ9U+cGWjLP4Bpeq96wIky8Wh0ACNr6QALBZo6hatgS8ybZqsFQABU3DNxh2cmWF883CAmOql/VwrQ2rKD4RBgL1Nj5a4pTOniIIfMxb/XvZu4bS4kSzuwbBRRm3i8m/PtvNBx5dRB+6OQi1HBVC225kBMxIjNgc6D4jseHRUnKBFFHUnI0L5pMVCTfzNWfafWL6FbA9IFoLLoEnsU98uhGAceXcjDPCyPP18uMCWhOJhB02yvIFloa3rHqtH8fW43dcfyFBNw+dVTp3jzYOSWu85xWYTIDbfbQAzJyt7hhvrnpCY3B2pLJxz8yZ2CRGIR92TXv4Iuip73FQV3k1PGYzR8Es5bNXAZY7JpxSgpkcJywA==;J4PYBnUngX4askp8oDo5UA=="
 ---

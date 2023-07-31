@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel CEO says they will incorporate AI in all platforms"
-    excerpt: "In this ongoing AI revolution, it's no secret that every company is trying everything at their disposal to integrate AI into"
-    publishedDateTime: 2023-07-28T16:56:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/06/AI-image-81982181.jpg"
-        width: 1440
-        height: 900
-        isCached: true
   - title: "Intel CEO Gelsinger: ‘We’re Going To Build AI Into Every Product We Build’"
     excerpt: "Gelsinger has placed his bets on Meteor Lake, a next-generation processor planned for the fall, as a way for Intel to own the coming AI PC moment. He wants Intel to have a repeat of how the vendor’s Centrino wireless computer network adapters helped the spread of Wi-Fi in the 2000s."
     publishedDateTime: 2023-07-28T14:11:00Z

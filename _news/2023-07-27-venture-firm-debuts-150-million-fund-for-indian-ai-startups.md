@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-la
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Indian AI-first startups can now apply for 8th batch of Google for Startups Accelerator"
+    excerpt: "Google is inviting Seed to Series A funded AI-first startups from India to apply for the eighth cohort of the Google for Startups Accelerator: India - a three-month, equity-free program that focuses on bringing the best of Google's programs,"
+    publishedDateTime: 2023-07-28T07:19:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 51
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_10_2018_17_36_16_1911619.jpg?width=1280"
+        width: 1280
+        height: 1373
         isCached: true
   - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
     excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"

@@ -7,8 +7,8 @@ originalUrl: "https://www.kbc.co.ke/12-african-countries-sign-ai-ethics-code-at-
 webUrl: "https://www.kbc.co.ke/12-african-countries-sign-ai-ethics-code-at-russia-africa-summit/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Kenya Broadcasting Corporation
@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "15 companies from Nigeria, others accede to AI ethics code"
-    excerpt: "Ethics Code has received further global boost as 15 companies from 12 countries including Nigeria joined the international technology watchdog at the ongoing Russia-Africa Economic and Humanitarian Forum in St Petersburg,"
-    publishedDateTime: 2023-07-28T12:55:00Z
-    webUrl: "https://www.vanguardngr.com/2023/07/15-companies-from-nigeria-others-accede-to-ai-ethics-code/"
+  - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
+    excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa."
+    publishedDateTime: 2023-07-31T15:44:00Z
+    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4"
+    ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
     type: article
     provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 54
+      name: Zawya
+      domain: zawya.com
+    quality: 66
     images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/07/Capture.jpg"
-        width: 285
-        height: 297
+      - url: "https://www.africa-newsroom.com/files/large/4c4926520fbb131"
+        width: 929
+        height: 419
         isCached: true
-  - title: "Future of Fintech in Africa 2023: AI developing rapidly, but South Africa leads the charge"
-    excerpt: "AI Media Group South Africa determined in a 2022 report that 2,400 companies were listed as AI-focused, and 40% were founded in the last five years. This marks the rapid development of AI within the continent."
-    publishedDateTime: 2023-07-27T10:53:00Z
-    webUrl: "https://www.finextra.com/the-long-read/749/future-of-fintech-in-africa-2023-ai-developing-rapidly-but-south-africa-leads-the-charge"
+  - title: "Mlytics & TenMax Partner to Offer AI-driven Video Engagement Solution for Video Stream Companies, Driving Monetization and Conversion"
+    excerpt: "Mlytics and TenMax leading technology providers in the video streaming industry have announced a strategic partnership to revolutionize monetization and conversion strategies for video stream companie"
+    publishedDateTime: 2023-07-28T02:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273913253/mlytics--tenmax-partner-to-offer-ai-driven-video-engagement-solution-for-video-stream-companies-driving-monetization-and-conversion"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 29
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 8
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/749.jpg"
-        width: 800
-        height: 450
+      - url: "https://mma.prnasia.com/media2/2163790/Mlytics___TenMax_Partner_Offer_AI_driven_Video_Engagement_Solution_Video.jpg?p=medium600"
+        width: 600
+        height: 800
         isCached: true
 
 secured: "bRb724vsvsbG6/E+N9vworaNgDvU/W9kOCpG5/4cK1V7+/gBc9ew9v83Wfihl8giMFq3HYWKnnsnNOdUbzJj6dPxG8wl/IhUpptIWrBpRdg5Qd9odQRITSD+0qBeTwj9MPKH/FU0gZraUNVNtezLGb5/jVBoxkO8CITjEBU3OjKea3c26TySzrvJl4jC2V4A1fFbYiEFZAxBAX+qkpSi9IMeumfU7BPlK91niEaXALSQdIjMgZ7rsMAVlex/78avnlsTvJLWO2h5QotzvA0JbDgCZdInepk9Y+2GOlwxC7jhVCxOd/J0dSE0mNMNxwd0VNb1s7Z3WJtmvmN4eRXfIu8Ba+OnJItdTPQiBtwFtWd36nPMKfgMwPQNi3B46yAdHOTzLSb9uvGbxMpguF6BqVO+TBSk87ySanezCMJVelj83n+daJXHnXda3p+4ujMj9zeeQ4ZM6/6m1JmX1oNuFJUFUf+cvJdUmcTb6Xtd2drDVm1Q2VYMRrQYun1VtfnsrWGbZl2ciSX+S/gCmpzRkg==;PofzlrkaAXJwkiZqXYnhQg=="

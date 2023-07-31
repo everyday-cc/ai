@@ -87,6 +87,22 @@ related:
         width: 370
         height: 250
         isCached: true
+  - title: "This Google AI Model can translate commands into real-life action"
+    excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
+    publishedDateTime: 2023-07-31T14:55:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 74
+    images:
+      - url: "https://static.tnn.in/thumb/msid-102284914,updatedat-1690815394245,width-1280,height-720,resizemode-75/102284914.jpg"
+        width: 1278
+        height: 720
+        isCached: true
   - title: "Google's New AI Model Controls Robots"
     excerpt: "Forget AI that can draw pictures, Google’s latest AI model can control a robot. On Friday, Google introduced Robotics Transformer 2, or RT2 a vision-language-action (VLA) model that can take text and images and output them into robotic actions."
     publishedDateTime: 2023-07-29T17:37:00Z

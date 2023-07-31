@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AIS Attains AI and Machine Learning on Microsoft Azure and DevOps"
+    excerpt: "AIS announces its attainment of AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations."
+    publishedDateTime: 2023-07-31T14:08:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 106
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/AIS-Attains-AI-and-Machine-Learning-on-Microsoft-Azure-and-DevOps.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House"
     excerpt: "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:"
     publishedDateTime: 2023-07-29T15:00:00Z
@@ -41,19 +57,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft to supply AI tech to Japan government -Nikkei"
-    excerpt: "Microsoft Corp will provide artificial intelligence technology to the Japanese government after enhancing the processing power of its data centres located within the country, the Nikkei newspaper reported on Thursday."
-    publishedDateTime: 2023-07-26T22:27:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-supply-ai-tech-japan-government-nikkei-2023-07-26/"
+  - title: "How AI Is Impacting DevOps"
+    excerpt: "There are some unique aspects of DevOps that make it uniquely adaptable to AI augmentation. Because code is ultimately language, and large language models (LLMs) are the heart of GPT functionality, LLMs and GPTs are especially well suited toward capabilities like code generation."
+    publishedDateTime: 2023-07-28T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.reuters.com/resizer/f21U5LqpEcGxuv-wMjJHq0GdpIw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XJKGLP3IJBOCDPPD7XALAXBS6Q.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
   - title: "Box extends AI efforts with Microsoft 365 Copilot integration"
     excerpt: "The integration expands Box's efforts to use generative AI to help enterprises better understand the value of their content"
@@ -82,20 +100,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
         width: 1400
         height: 719
-        isCached: true
-  - title: "Microsoft leans on Azure, AI as cloud business grows"
-    excerpt: "The tech company’s public cloud platform accounted for more than half of its annual cloud revenue in FY2023, CEO Satya Nadella said."
-    publishedDateTime: 2023-07-26T22:08:00Z
-    webUrl: "https://www.ciodive.com/news/Microsoft-cloud-Azure-generative-AI-revenue-growth-GitHub/689113/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 69
-    images:
-      - url: "https://www.ciodive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
-        width: 770
-        height: 435
         isCached: true
   - title: "Xiaoice uses Microsoft Azure to upgrade AI-powered chatbot"
     excerpt: "Xiaoice is using Microsoft Azure to upgrade its artificial intelligence-powered chatbot and X-CoTA technology for enterprise customers in Asia. The AI digital workforce solution can understand humanlike AI conversations,"
@@ -148,20 +152,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
-  - title: "Microsoft Cozies Up to Meta on AI, Maps"
-    excerpt: "Perennial No. 2 cloud giant Microsoft has lately been cozying up to Meta (of Facebook fame) in important tech areas like generative AI."
-    publishedDateTime: 2023-07-26T22:57:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/07/26/microsoft-meta-ai.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 56
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robots_shaking_hands.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Dentsu goes with Microsoft to unleash AI"
     excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
     publishedDateTime: 2023-07-27T21:33:00Z
@@ -218,6 +208,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
+    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
+    publishedDateTime: 2023-07-31T15:10:00Z
+    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-to-push-on-public-sector-generative-ai/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 53
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
     excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
     publishedDateTime: 2023-07-28T09:25:00Z
@@ -246,29 +250,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Hexaware collaborates with Microsoft to propel innovation with generative AI - Tenjin for Knowledge Services"
-    excerpt: "ISELIN, N.J. and LONDON and MUMBAI, India, July 27, 2023 /PRNewswire/ -- Hexaware, a global frontrunner in IT services and digital solutions, is excited to announce its collaboration with Microsoft to propel technological advancement for businesses ready to embrace the future, harnessing the power of generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-27T10:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-collaborates-with-microsoft-propel-innovation-with-generative-/2023/07/27/9855011.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
-        width: 400
-        height: 240
-        isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-07-26T23:57:00Z
-    webUrl: "https://www.inferse.com/642389/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "Ro/WOYj5/NPnvYybN8HyAucL2zzL7427pd70TTOKvko2NVWgRWmhnXKqxO/EztVQjqzjhy1L7/AlfV9R4Wm3jS5wRCFlkqYZhswsiUaBth7c/JAvk4i0izZKQsmDVyKkYKosNjsn1qTAeDnNx119jYuqayHQkoxoBpFDq44+I6bG1roXiEzw+yL4TH+6LYGKyXxAoYF4lBEdq5q2BskxE1iRi5aQhvdhD97f10Sz/Cp6EOMaXAs7LlDjDtZoCPnqZ1n+IV8QswNaaCemffmX9oUtl/8hyHuHZeOGmWb3ZLB2RbjPrVX2J7d4bz/AIhSnTnHffNk4dqxWEjPybVxEoJ0ybaZcoWijTvLcK5CiV14B2lRuV+5Gqax4h3fYE/rL90p9UOk2MDHQkgDVKWjDys7Oge7ovvjtuZxFQxfVYNMFcyaQocwNpsr8jkQnZg/9pAC102uZZ9bzDzjtFDnsw+d93EEMM6D6grjUeNojGH/kwSkqMw/+druf5XPP8NKwZDdAKj6Ue/DW4cCvl+E1+g==;YpkCCR20wuasS6aVSoHSdw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104133"
 webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104133"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 441
     height: 244
     isCached: true
-
-related:
-  - title: "Healthcare workers signal greater acceptance of AI"
-    excerpt: "There are variations according to different medical sectors. For example, practices such as oncology are using AI to assist their clinical works."
-    publishedDateTime: 2023-07-26T19:59:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/healthcare-workers-signal-greater-acceptance-of-ai/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/415f40312d915e65447240989330ef93f68bf691.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "TKjoDDe6cywW0boJpzLxMdUw+HKLNPJivyb73Nw3hbJ/rVjM8L7bC4mYOof4/BpfFZxU929nNgRPVd5+KTHblgn0lz3W2lhOziexPkVJQM9wlpaGJ3nnszTYULu9KI/PooVYSqNa818TXvONFEXMCCbQimB2vmiUgxG8HPvJXFvGAl5DnqU0/JJBq1SbHfbmhhFdu8IXXN4bxKlLQEaN5I0U/C+Ma2j7k1N1FPJSaFJIS4d0RWZoDwaOHdYe6ECdxSagRrpP0OwsG+x0ijky4xnB5qFIpEXx+XawIbnMI8/mkcEnyUjpEtVGOFtS6y7Qw4SdU46dWzYfsH2yRnCP8a9ee69F3S9x6QinW+KYJrM=;OPumROb4DfOdU/CV4gXUDQ=="
 ---

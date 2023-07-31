@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel CEO says they will incorporate AI in all platforms"
-    excerpt: "In this ongoing AI revolution, it's no secret that every company is trying everything at their disposal to integrate AI into"
-    publishedDateTime: 2023-07-28T16:56:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/intel-ceo-incorporate-ai-all-platforms.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/06/AI-image-81982181.jpg"
-        width: 1440
-        height: 900
-        isCached: true
   - title: "Intel CEO Pat Gelsinger Talks PCs and AI"
     excerpt: "Curating today’s top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment."
     publishedDateTime: 2023-07-28T21:59:00Z

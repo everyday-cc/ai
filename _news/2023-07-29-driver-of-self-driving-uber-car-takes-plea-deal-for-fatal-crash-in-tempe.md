@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Alphabet's Waymo unit slows self-driving trucking"
+    excerpt: "Waymo, the self-driving unit owned by Alphabet Inc., is slowing the development of autonomous trucking that's being done by its Via subsidiary."
+    publishedDateTime: 2023-07-28T21:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/alphabets-waymo-unit-slows-self-driving-trucking"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/WAYMO_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Backup driver pleads guilty to endangerment after self-driving car kills woman in Tempe"
     excerpt: "PHOENIX (AP) — The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car."
     publishedDateTime: 2023-07-28T19:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/26/signifyds-develo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/26/signifyds-developed-an-ai-powered-response-solution-to-combat-retail-fraud/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 1162
     isCached: true
+
+related:
+  - title: "Research Solutions Acquires ResoluteAI to Transform AI-Powered Innovation Workflows"
+    excerpt: "Research Solutions, Inc. (NASDAQ: RSSS), a trusted partner providing cloud-based workflow solutions to accelerate research for R&D-driven organizations, today announced its acquisition of ResoluteAI,"
+    publishedDateTime: 2023-07-31T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/31/9856374.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2165232/Research_Solutions_Acquires_Resolute.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "+Dj3G5VnX+SZ+dDz20mj6RRu8XF1lN2QwOFiQNlDcUWMWDgkEFGlENMLEkX4UhMXxserBiD75iigaWcuj/N74dxGxWr7fWhnk7fRPbyjO48O8IVbz9sgRtbA4dt+1LDYHennLAhT7Ag01xg0Et35j319dM1hYFNrF1a6hXk87aqTpoDzEit0HW5+IvKwV1ixBILeXdYsWzLDxSv9TkNP4zo5YLC4kvTTcQdjOF+YnvkpIWaupYVCCxBEjxmRuEmid134o2pRtTiiXcJFhl1NZDeSoB39U7FjueVR080lG+BayOnFTDCIFTMimCyvdv7XCM8Q7j+G4NK7xOBTu4ck/BL7RkkMrnVNJdmF+WyrR6hUIwV6Dg408b9a/JjNQMFyBURZbQE8R129M2izneH890aEvspvNUMqO6tO6Ob7Jg4ncMHcLLnDbxW3jMBxQ437TlZr5aRtIs1pXN6MlNpp+YoJyI6n/01jNbxaGtxsq+HC4aAzeDg8ORrr56Spi8iZW6X7F5lmGeHXqGrP5RtUPw==;VBSIYw27hmPooJtp2OaHVw=="
 ---

@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Mlytics & TenMax Partner to Offer AI-driven Video Engagement Solution for Video Stream Companies, Driving Monetization and Conversion"
-    excerpt: "Locarno, Managing Partner of Mlytics, stated, \"We are delighted to partner with TenMax to introduce an AI-driven video engagement solution that will transform the way video stream companies monetize their content and engage with their viewers."
-    publishedDateTime: 2023-07-31T01:12:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=1854"
+  - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
+    excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa."
+    publishedDateTime: 2023-07-31T15:44:00Z
+    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4"
+    ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 10
+      name: Zawya
+      domain: zawya.com
+    quality: 66
     images:
-      - url: "https://img.digitimes.com/ad/en_202307181_dtmember_bigbutton.gif"
-        width: 336
-        height: 280
+      - url: "https://www.africa-newsroom.com/files/large/4c4926520fbb131"
+        width: 929
+        height: 419
         isCached: true
-  - title: "Mlytics & TenMax Partner to Offer AI-driven Video Engagement Solution for Video Stream Companies, Driving Monetization and Conversion"
-    excerpt: "Locarno, Managing Partner of Mlytics, stated, \"We are delighted to partner with TenMax to introduce an AI-driven video engagement solution that will transform the way video stream companies monetize their content and engage with their viewers."
-    publishedDateTime: 2023-07-27T00:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855747.htm"
+  - title: "12 African countries sign AI Ethics Code at Russia-Africa summit"
+    excerpt: "Kenya is among 12 African countries that have signed the code of ethics of artificial intelligence (AI Ethics Code), during the second Russia-Africa Economic and Humanitarian Forum at St Petersburg. Other foreign companies that have joined the community of AI experts are from Nigeria,"
+    publishedDateTime: 2023-07-28T11:29:00Z
+    webUrl: "https://www.kbc.co.ke/12-african-countries-sign-ai-ethics-code-at-russia-africa-summit/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/2163790/Mlytics___TenMax_Partner_Offer_AI_driven_Video_Engagement_Solution_Video.jpg"
-        width: 300
-        height: 400
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/07/technology.jpg"
+        width: 1000
+        height: 666
         isCached: true
 
 secured: "To2JVEdMzRp2woOPhrhRiu78KVQR+vC/xLOQSm57ADbN3vMa7B61gGUhOlDFvXxFky8ZvtW1DEPtJSkUVqSQopfiGWZrGIVMPpOWIrfy4+1g8WAKerQwhfLt+yRDJzSK2V/Hp/3+XMzMzZhsRi2jMcnRZt+WjKEaLZKiRXy8hSAjvj0txUI1yiLEUdczf+/jGH1xUFs4HJQ4NKPJM1Co++saLwQiAsFbfR/l7lej7C+yYoNqEWinO0p+PBUeQCTjakhvzjQD3JM7uraLs7lHokO33TTfDl5RYJ6nqXy3UUWpPC6AubnRtVTvjtYbeVR1mNVrxSxsigOPGVqF4+WQRMns/gPrMzf8URo1yLRVm5crwJkZUtGrflihGZxIhbpxiWZ7N9hrgRAMvXgMudwvHu7NhYLgVZVfDyV5i4LktqzwgAB8QIXwMSn3LBrRHO7NT+zcjTnDQFk1T0pAEIffyOIkpBxme/c4uJE26AQpSphB8q23MV6hKkXTmB0tg3p/qYTn20UVYSoAF8+zq5JrrA==;849YSCFr7PgYdsZ7VQMgcQ=="

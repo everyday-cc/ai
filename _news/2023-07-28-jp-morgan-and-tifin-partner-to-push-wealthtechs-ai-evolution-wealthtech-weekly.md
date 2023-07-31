@@ -64,6 +64,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Future of Fintech in Africa 2023: AI developing rapidly, but South Africa leads the charge"
+    excerpt: "AI Media Group South Africa determined in a 2022 report that 2,400 companies were listed as AI-focused, and 40% were founded in the last five years. This marks the rapid development of AI within the continent."
+    publishedDateTime: 2023-07-27T10:53:00Z
+    webUrl: "https://www.finextra.com/the-long-read/749/future-of-fintech-in-africa-2023-ai-developing-rapidly-but-south-africa-leads-the-charge"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 29
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/749.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "JP Morgan backs new Tifin AI-powered wealth management charge"
     excerpt: "JP Morgan is investing in a new AI-focused venture from Tifin, an umbrella group operating a host of wealth management fintech businesses."
     publishedDateTime: 2023-07-27T13:12:00Z

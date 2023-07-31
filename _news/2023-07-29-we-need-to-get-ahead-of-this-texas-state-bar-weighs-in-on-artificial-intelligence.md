@@ -3,10 +3,10 @@ category: news
 title: "'We Need to Get Ahead of This': Texas State Bar Weighs In on Artificial Intelligence"
 excerpt: "People are talking about how we can use artificial intelligence in our practice: What are the ethical implications? said State Bar of Texas president Cindy V. Tisdale."
 publishedDateTime: 2023-07-28T21:30:00Z
-originalUrl: "https://www.law.com/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
-webUrl: "https://www.law.com/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
+originalUrl: "https://www.law.com/texaslawyer/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
+webUrl: "https://www.law.com/texaslawyer/2023/07/28/we-need-to-get-ahead-of-this-texas-state-bar-weighs-in-on-artificial-intelligence/"
 type: article
-quality: 32
+quality: 10
 heat: -1
 published: false
 
@@ -15,14 +15,7 @@ provider:
   domain: law.com
 
 topics:
-  - AI Ethics
   - AI
-
-images:
-  - url: "https://images.law.com/contrib/content/uploads/sites/401/2023/07/CindyTisdale_attorney.jpg"
-    width: 768
-    height: 632
-    isCached: true
 
 related:
   - title: "This Week in Texas explores how artificial intelligence has impacted several corners of the world"
@@ -42,6 +35,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ZG4GJ4b7IZNHPnxlbiXsuS1vWPKxgJA2ebeiX05WGVUqCfZoMtOHACm3UGPhEvK+8geJnlo+XK52hhtQjIb+3R+2/nrOU9omoPdFk9TzAaJxWM3PRWYG73bsFDNbNH8TgxkNrTo75GbjTwC/1FYRfekdBnTUjoqcVWRdBDHJb9pMw4aqKzedStLa+yeFQ9DbB6phCI8jOsXkL6O5zpx5fLI5e/s/WNv159h24shPuULjgznFq+p2ljSMjpr0FoldSxAI3BnJ5PwO56RdD14lonYBLE/QOWUQMFe58xSCPnsP25gE8TkQSNcPyxfNqOzx90ziJf06ZbWwBDe28zl50l4Lmj3jUEB78aeVrO9slkA=;HtTsICT9ltfDDXKnZZXr6g=="
+secured: "EKa3FHbk7uyvz+EuekfJy0aFcUxm6i8KGzOePJUsdd0p7YFZ/eOND3IhGigppfyUNIOCJ3d/N2DgWEKyJm3Id/cn7PhGFrKV0tP83WdFBUOAAadSSG2sinZBFSp1PgT6B2SWUtkfRq54Sh1a/AQLgBzESzXEwhdwqbE/0XDBPLOAQCSV92YofNYcSOlACVvjqMKCTTBI/tfULot5O8psH8A4GPuPr1S4RlklUTgKm7rZpmF0M6ttlzoEZJD3de/oWY1BpHV2oXs1OBOdI1ZztgspOmr1pQXQHAcs0r8rK3Ff4GG7j9S/QeBYTlKXkkzxq2A5WsdRPSTDNjMc2+ZwsRyddX6n+PCp60zm387lz1S1/Eak2T2poRgsgCBCti//wAZiNvUGu3Lf8wLvpq2hxbyjv01CyW2qbrNYPXPUPXgecWHHbP7/RYJYF4QGeLJotybdL7AQ/lA4Oz4FY/D4FdbZB5+A6YDPytSx4Rd7xZ0W41NGwDqulDzsLi9INrqodo9K4Smt24DlJYM+TJ0Jjw==;X6FzPCWDHqTZS7MZ6jIgRw=="
 ---
 

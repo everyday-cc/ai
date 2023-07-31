@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-acc
 webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 31
-  - title: "Nvidia, ServiceNow, Accenture partner on generative AI effort for enterprise businesses"
-    excerpt: "ServiceNow CEO Bill McDermott described Wednesday's announcement as \"a transformational moment for business to revolutionize how work gets done.\""
-    publishedDateTime: 2023-07-26T22:23:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/26/nvidia-servicenow-accenture-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 9
 
 secured: "3zD43txmi/mZS4hDC1m6sI7kYf5fqxAw3tlyw/DvWR24z3y5GuzlWduwT1VUa5oN9WIxIClrkvevRuzES01ovl8zNdEowvoegmXbV7+38dLtWyUY4x0q7P/i6epyeMWzeskU0T+Q29/RQW0QeZMueFAaUG4DTqCEiKuFLetIg+TtYuWicKBmHXCGIwvpICBu+/ZsFN7Y8vLdBjDtQzFBOSjRF5cg3hFqQGPGmaZKO4tIqQRpLFQ0s7t3u+brNfU5tp1Ks98LEIJ7giY+pd75H79HZYlIkAzmZjSTkQ74VOKDR+LlEsQLTUklL+yMFW9lJgs5L7tBqr/0p3XNlEoK9w3MtXoyRiq92cAUVNWldhNBgZyfeoyA6Fdxf92dTkZ/9V4eCfLcBSRXIPgeIHi1V7Ibou9fwlJDAfnGOeZt46CuHfpXBvGCxngeufwX8t++huVieu0Y09t+XwC52y6ZE7zt6n7g65vd9WVSI6ZI1Idu7gweoB5a60ff6fQdJvFDRZt8jaRmewSiM35yWqPRBQ==;t68Wen3Ay1biiqNcxPG/gQ=="
 ---

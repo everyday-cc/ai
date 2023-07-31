@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Intelligence Community Releases Data Strategy Emphasizing Better Interoperability and Agility Needed for Critical Missions"
+    excerpt: "With “opportunities and vulnerabilities” posed by digital transformation that “cross every facet of the IC,” the Intelligence Community released a new data strategy that aims to respond to current and future threats with “significant agility and refinement of data-driven activities.”"
+    publishedDateTime: 2023-07-31T15:19:00Z
+    webUrl: "https://www.hstoday.us/featured/intelligence-community-releases-data-strategy-emphasizing-better-interoperability-and-agility-needed-for-critical-missions/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 0
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/07/Screen-Shot-2021-07-19-at-12.40.06-PM.png"
+        width: 1784
+        height: 1152
+        isCached: true
+
 secured: "A+PkyL5wp1c28iUzd5xKBDN90ZrsAs9Hni9NZGDDYrUF6gZgtFA03+NpWzbf/SkEn3pk/jQiZAQoFn8SeEn+3mzmPpLe7YEBXKAD16MylbKXdPxIe5QEmaSLORmAS/GJq8LMBziPTLNpAeJNnmT5tycVCO5GwQOBBWhLvfAozAPhYPoYyCvZjIPapH6bNRYFFSAP3skdVaM/Lgwhm8i5i4tiBnTpYNvAw6KCxF9XXWHbjzczRRfPIWaMPq0WT8F7GHdRJZfvYmbapNvOK0aQIAlwIM1xmXUqiKJ5/kUIwfuJpGzsxeGVVQOJX702BtVzuob21eQVB+mtm6JaHj4gTRYfl/RozO6ZzlXzkvtApcMfpDkbGHTSvSL6jzGYXtncCBq+4ELHqNLu9TFyorrNpkRetgK1R80PxQtQez3ENC7t22jScYjrEfP9sEXUL6bNg1hftTcYtaKFc7qiK4GZJ9qImRKxJ9ly4IgC1vRAzK/rISfkDns9aYJbSzx7M+aUI9Fm+gXp6qEgpPcPzj0biA==;7tz/kXc3udR+eEQKsM9SqQ=="
 ---
 

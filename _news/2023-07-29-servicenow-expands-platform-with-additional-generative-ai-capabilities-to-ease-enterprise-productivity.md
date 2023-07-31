@@ -45,15 +45,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Nvidia, ServiceNow, Accenture partner on generative AI effort for enterprise businesses"
-    excerpt: "ServiceNow CEO Bill McDermott described Wednesday's announcement as \"a transformational moment for business to revolutionize how work gets done.\""
-    publishedDateTime: 2023-07-26T22:23:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/26/nvidia-servicenow-accenture-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 9
 
 secured: "95zHBDsHncaA+TcRshxyckusB7X2+7CYPZkD3Wb0st+dIDIYX2psS76IEVEPzMOzJ67FbSD/ia1/FMhQ7flgZz+r5agkV8FA+028v1BxL028L1mIDsJHqEHa2ebFSdYjli5SOtiEeNVB8e/gXGs829829W04yDu2bVPzqa0fXWB23EG+4HiOOkYL1AszP/wPRQyILHFynWKY6Z8nyCFFKRuS3Es+eNVD33rjbHFlY/5GqvdwrKp0t07ZfR/0iccq+v3N3hbAPY0enkf2kUbwYjMAeqBO7MNRyasjTmel7fzUrI/6hhrzPoolU9hZnkHSa84LoMfH1qjNkmLMHlMCAS1Nfh6zWV/ZmgufMu6aBaZy2UzsK1pPkdPCftmgAw75W+yGFIGQ7Xr2FXeW6l4D+ogQd8d1ESh3CnwT7eFk/Fxof7Ac2cqixMjx0D3BB9gU6qLeW2DShuqIVwjzyIXDj/qOmwoaQNOs5lae2fwkamEPV0i3GdyCvaf/tJu3Gsp+wvkhoseChKUGJZJ/J+UsGA==;GnVbuMI7uQwWOcxizzd2jg=="
 ---

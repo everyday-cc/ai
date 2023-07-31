@@ -8,8 +8,8 @@ webUrl: "https://www.popsci.com/technology/deepmind-google-robot-model/"
 ampWebUrl: "https://www.popsci.com/technology/deepmind-google-robot-model/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/deepmind-google-robot-model/?amp"
 type: article
-quality: 44
-heat: 44
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
+  - Google AI
 
 images:
   - url: "https://www.popsci.com/uploads/2023/07/28/64c28b81ad5efcad99aca86f_rt2_header-min-p-1600.png?auto=webp"
@@ -26,6 +28,6 @@ images:
     height: 1125
     isCached: true
 
-secured: "sGwUWEnKy2sBloc+/9/P1zHByBVNbaXDR8ZyOHi4G3qkzXeiGgEFE5IyUaKwXyIjBXlqL4C8VhC1qWyz6CaLV9SYN0r+b7SRTPl3oMq5gKEYqcSs+6l3W9FywYf9e+MlLou7WBnMufpPvuvRka5tZAyPEZq3sW+2mIqjWEXSWar9XI4yI2rWfMo+0YmC6HqM4yP1mNPzOsxpE3i23wCvG/pdfdIVeyril0a+L4qvTKZ7nW5QumfiTFaDR1WztAvy0TvbeF49PCLkxr+sXW/0jJe1lhBQHo5PnRyNylYbfGmUtZdeLHYgSdI8xW3SJGO2ZSwd0IXWibI135f2Kiy6mETMOBPwS5FyqWW+rR21Axk=;r/tGUouowskgC3KfpQuMOQ=="
+secured: "BL6tgfI7QVHsA3R4qwPW/BryZP8Dezf17VCu3ymzCSEMiOMQTDcX0Uq/+Lksa8OacT4Pd9Gsphg8w4R9jqwgkYZyf30Zt0WX/2miOChT6OPqkHKJIiVQT0LoREOTA5MJLc0+iRC3De5Fs6qeFEc+pa5QA4SCEJVB37gVAWZm/Sa/L19jIUJTMDU4mvAP9zsFsu/jaNg7EDtJthUUNJCa2C54HCFZlx+Ph+8C2wBdyKR3TznwFBM9S5BRAVGLOr9iEGDBjX9iH/+uDVxlobCncyyFduDPUbDdIHpBAb6zLo/qMcMnYdhfg8S77kWHXzNyT81bk1oqD7uZMfgEQoIl5G9bJHh5ZjuaW3izNeZQc/VtRYxkWbD8/rrLRNKiDWFHm/9kmHRVz9TVwlxq+G57M0xZYvUZwF8C0BNjPUK3izFJPjZko6xBiVxkyKtLQ1pVVJHDJICJqj9SO1tPvwJiM8986OaHDpPajJY7cogUuvM0VpTtN0ZZfIaqnFk3mXVxQj7QCmf833J9YI+5JQbSdA==;sbQB1LCwJj7J26PVD2Ot+A=="
 ---
 

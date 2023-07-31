@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/go
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/google-ai-skills-training-course-uk/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
-    excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
-    publishedDateTime: 2023-07-26T19:43:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jul/26/the-war-in-ukraine-is-spurring-a-revolution-in-dro/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 19
 
 secured: "o2xbxq/teyqOVJCTm3YXSFZE98eqOzvZrJQwzaFai9OKUwkldxpzhjfztP+dgwT3UGrxXT4dxMWEx6Q7gXikHGUlj1Y6IxeQVv8XSws2S4t/eeH6V/UUTnY6HDf8P8fDLvhypqftZuY4d1uHT1/s77LRY4hkVgmZvS6QbdO78EunK9/d/08AuxwArhRwxt7qK/XgSpss+Y2Dpvp3sFuP6N0C9qq+Urbl6aupIqiPtZpLGV7TvFH7FziSrLNbWTGrkLzVOsi491WZ9ay7kVtX6LPsW+B5tOpP4HlW6u8sviDlXOCtiv1oLApBVdrC6VwZu2ZdTnwvN4UMzW8oLQauWccmp8Nblt/mD111TNDCIDU=;DijQMaFTBjYqGdL2Dm41KQ=="
 ---

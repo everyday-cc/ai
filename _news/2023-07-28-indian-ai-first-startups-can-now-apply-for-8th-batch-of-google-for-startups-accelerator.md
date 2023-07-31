@@ -27,20 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Accel announce ML Elevate 2023 to Support Indian GenAI Startups"
-    excerpt: "Amazon Web Services (AWS) and venture capital firm Accel has announced ML Elevate 2023, a six-week accelerator programme aimed at empowering Indian startups that are building generative AI applications."
-    publishedDateTime: 2023-07-31T09:28:00Z
-    webUrl: "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/"
+  - title: "Venture Firm Debuts $150 Million Fund for Indian AI Startups"
+    excerpt: "Indian venture capital firm Together Fund announced a $150 million early-stage fund to back AI companies, aiming to capitalize on use of the technology in the software-as-a-service market."
+    publishedDateTime: 2023-07-26T23:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-26/venture-firm-launches-150-million-fund-for-indian-ai-startups"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ML-Elevate-2023.png"
-        width: 1280
-        height: 720
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivo01YXH040Y/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
+    excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
+    publishedDateTime: 2023-07-27T09:10:00Z
+    webUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/"
+    ampWebUrl: "https://about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/07/meta-and-india-ai-to-foster-advancements-in-ai-technologies-in-india/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 59
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
+    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
+    publishedDateTime: 2023-07-27T10:44:00Z
+    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 41
 
 secured: "AXzv0FJpg1secwlSmcUwG/mxpoa4OXNAKd3sP7M54HbmyHYZ/3OY2fXmXY3Psltcqo1XdOiQwrkZdXEM0Ba/tL2PnaP2FvUPJD5SCcKkroRI0zcFnE0KVQkBE2/o/eQJ3Tf4uKuI1AXfxwGnklfQUrta8RLcSb+QD4AedFcC1wMgJLwOv2pJ3HAYpfYvEpBLvdxY+ruK+s0J1t7o97aPd41tLedXodHUlb1DIDYUJwp1oqDGdfQAfzoA+pvI33iahAWFTXdpHE3BRxM6KUgE++2GaUVLr/OHorwOy/hny9nc7j5S2gBNdU2W9oGnl7G+p+yrwGB+BfQJy/NOI19BAiwdhiE6jRwc9QmOQTAfcZw=;OSMyR6Wu1GTHdDJmyBSP/w=="
 ---

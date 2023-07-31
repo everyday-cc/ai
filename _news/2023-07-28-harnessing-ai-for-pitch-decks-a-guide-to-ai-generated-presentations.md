@@ -93,19 +93,28 @@ related:
         width: 282
         height: 500
         isCached: true
-  - title: "Educating the Next Generation in AI"
-    excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
-    publishedDateTime: 2023-07-26T21:00:00Z
-    webUrl: "https://campustechnology.com/articles/2023/07/26/educating-the-next-generation-in-ai.aspx"
+  - title: "10 Keys To A Winning AI Strategy"
+    excerpt: "David Yunger is CEO of AI strategy and innovation firm Vaital. The world has forever changed. Seemingly overnight, for the first time in human history, computers can outperform humans—at the highest measures of human intellectual achievement. • In the 90th percentile of America’s best and brightest attorneys on the Bar Exam."
+    publishedDateTime: 2023-07-31T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/10-keys-to-a-winning-ai-strategy/"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
+    excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
+    publishedDateTime: 2023-07-31T15:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 39
     images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
-        width: 1920
-        height: 1081
+      - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
+        width: 400
+        height: 261
         isCached: true
 
 secured: "igrutnhIJPoOOoqCCbLGfxnRrwqmB5V7VJAntSaVI6piFGRhx0pS0LbXfZRIxear/Zv7G8z2Ehkpt7b7WHcVfQgdq41Ve+t1QestORo0XwNYZnA22JGsj8c+kDYJCX/Gc4dZqKnYfdJRh6TuA2zQF7ixa0ooHeA63Ugu9ndH4a+P8jVUUlvcviD+UR/UsVMnSWSLve1kpA1KLkSGpQRo+YquBFDg01hJcyidMVTLBBteT0q2cC4J/oGXlvddFLfEQ34f2LQ6u99GRyALgFEYHzCnPJD6e+9qsLKhHYdJ2P0OQLOOafplcvqufa7xHVKzVsgNu+3PU5oAch3GwoZNGPMjclq/x6SnnPPsutrMd/sGZ93cQfFJUDN7kb/ImiaWHN5UKDOEOIiY0/+IIdSYc9i6lZaVdEA9K1TulqapBZ7tEtobOHaXGc1kCRDLS2ts+pL62eAUDjUAi7wlygog0NZ7Mpe3yfKVuQSMUrxe4S+oTi7ZN8FBfwQPSTCVeKCOfaUBymed7H1SKkxQjDeI2w==;VweWEpRNEVUi14VpwGPTzA=="

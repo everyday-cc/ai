@@ -23,6 +23,17 @@ images:
     height: 1707
     isCached: true
 
+related:
+  - title: "AI is rewriting the rules of $200 billion games industry"
+    excerpt: "The changes, while inevitable and painful, can empower smaller studios, boost creativity and ultimately benefit gamers around the world."
+    publishedDateTime: 2023-07-31T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-is-rewriting-the-rules-of-200-billion-games-industry/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+
 secured: "h+Yx9ZxB2qF9YJfTQp8Assy2Mlb8jSv/dmUvYZ+AWTOLVdIkHKuV8M+2z6eiwot7y5qZlwUQDcuppDUEt6sNoHE1oq1FpQHipleI8EMiJguXhbs38/ZSOTZI6YccJU4lDQk+/fYecxWRt6XEEqjpMvSv0beu1+phszvi8j8WTsW1iSr7tk2vNBS0w60uaIit7OVAezCcfegMqdhBhZBR5TOAnyhEfXdrarIqz6r5Jo3bu9imTc97XlCKl/gGdygvcIQGIabVnNDEj8+do9PMjJp21D6jcW/Xt17uW1UqtOjxwIx/PHA/8flW5cBLxsywFQc5azXMx3tllZfPbxder4tD4jCTjr47xTgSsoElxTU=;u/cN1yx4hlGoaS0JaoDt5w=="
 ---
 

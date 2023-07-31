@@ -119,6 +119,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
+    excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
+    publishedDateTime: 2023-07-31T15:00:00Z
+    webUrl: "https://www.sciencefocus.com/news/police-live-facial-recognition-caution/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 18
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/Facial-recognition-cameras-analysing-a-group-of-people-d8d12c2.jpg?quality=90&crop=5px,147px,1190px,512px&resize=940,400"
+        width: 940
+        height: 400
+        isCached: true
 
 secured: "pxvY4e8poNI9NYUegOycrRCqoA17PmraAnJMWkGroNwj6irF/1QQhQFyce3bFj6Ub4f13/QbRVOhMYEEL8xZ3zhr3n2aQwuQnnoiXdij4sQVUuEX+CYvf6YMkJCW0zd7e8P+WJSu+WkJ2qCPRUKt0EoGNN0RvcjIp6uw20kp8NWJhKVzb6VqECZvvwXvaSId/bLJEatd2ZixxziX7awXpQrsO/CF963a7AC64P6DpuYmxZqrxI6dDCuUwZcx9MoUIx7Edgan8te+eY+vCqQy9rosaFtTzFUHeQAa0pptusG9Dg7bytaHlN0sgvyC1Z3HnwlXqjKto9pJUzxJkM2AMyV9cCZZg52LxOF9Wy2Zo1e/KGlaJvK//RpGAtvxq4bWkxKoD3jYBkKjL8js2mPUdLUnWlPElxf128Sj0SjmT605A0OW9Vthn7EaaDhL4UnF2k5CusrfJ1VIfJJ7V0LBFcz/x9Dc86L0zfD0wEz3Nk16NgtoQmJY8bwI7R3Fe0zag4zMdA4egARRmgqsCGa74w==;iuhuW2if7w5FLUwYSrIgDw=="
 ---

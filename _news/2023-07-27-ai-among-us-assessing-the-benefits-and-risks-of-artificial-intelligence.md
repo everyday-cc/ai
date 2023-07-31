@@ -7,7 +7,7 @@ originalUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us
 webUrl: "https://www.newson6.com/story/64c1e64b37971d071321cd81/ai-among-us:-assessing-the-benefits-and-risks-of-artificial-intelligence"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "We Will Inevitably Lose Skills to AI, But Do The Benefits Outweigh The Risks?"
-    excerpt: "The concern arises from the idea that as AI becomes proficient in tasks such as language translation, content generation and even coding, these skills might gradually become obsolete for humans. Imagine the revered art of translation. It's a task that ..."
-    publishedDateTime: 2023-07-26T21:04:00Z
-    webUrl: "https://www.entrepreneur.com/growing-a-business/we-will-inevitably-lose-skills-to-ai-but-do-the-benefits/456338"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 66
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690304062-artificial-intelligence-risks-benefits-0723-g1394953811.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "3E0VFVZenkU7GxRiLfX0p1bpPzqELnsd+FEr8xoWkBgOjYHR4W7uhYDmEHi1wYuAE9+BWMmqCXZsqjsGsVMUiSwxVQwK0W0hvcPAE6aJTQXP1cWELbj7p7XsUhxhk498iuxKR2wySlk9I/1oAAcwN57W5GI89VL/tITqCuJyWpHh+/dVmdxiRERN0huGmc0amZ/ywEfaVlin+d1HbsYq6tgSz0zxyPEtW/YHCmoEKV2UxBag2vgrLn/XnWVjZEgyCJ7bmJnTiw8uXH8CVGwNnZi9kpf8tV04lR34/G+uB6BuNu3RkcnriXURebHOO4UTqzsJDfo6/ZFeuT9Et7uve9wf2BgI40JdCLtH6IBsnLfHQw6OF+CkUUzw5fqJhxsDFitJLn/chLO7DGbUyRvIogF2YgOPNfJC3WU0a8IEPpcCR9U+2ZxmJ6cKJjBW4z3ovNnqF8CkZzW5eFW4Mo520OsFXJn++3GRTlbeupOGFXCSmLQ/KSgsc5NmJO0Yk3m6fwtbcVzvKbQxY7IvUmvjvg==;vpIKcqHdWeL8ylW4m3JucA=="
 ---

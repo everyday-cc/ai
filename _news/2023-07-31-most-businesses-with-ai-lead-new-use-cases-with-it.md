@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "How AI Is Impacting DevOps"
-    excerpt: "There are some unique aspects of DevOps that make it uniquely adaptable to AI augmentation. Because code is ultimately language, and large language models (LLMs) are the heart of GPT functionality, LLMs and GPTs are especially well suited toward capabilities like code generation."
-    publishedDateTime: 2023-07-28T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/how-ai-is-impacting-devops/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI is fundamentally altering the business landscape"
     excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
     publishedDateTime: 2023-07-30T15:19:00Z
@@ -118,20 +102,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-250723-cover-500px.jpg"
         width: 500
         height: 354
-        isCached: true
-  - title: "How businesses can leverage AI-generated text"
-    excerpt: "AI-generated text can be used to produce high-quality content, power chatbots and virtual assistants as well as help with coding."
-    publishedDateTime: 2023-07-26T23:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/heres-how-businesses-can-leverage-ai-generated-text/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/07/shutterstock_2299884901-897x500.jpg"
-        width: 897
-        height: 500
         isCached: true
   - title: "Artificial Intelligence As A Service (AIaaS): Empowering Businesses With Smarter Solutions - By The Business Research Company"
     excerpt: "1. Increasing Spending on Artificial Intelligence:"

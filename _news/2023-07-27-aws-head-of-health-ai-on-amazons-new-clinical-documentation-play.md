@@ -7,8 +7,8 @@ originalUrl: "https://www.healthcaredive.com/news/amazon-aws-health-generative-a
 webUrl: "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Healthcare Dive
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS HealthScribe Uses Generative AI And Real-Time Doctor-Patient Conversations To Update Medical Charts"
+    excerpt: "AWS HealthScribe can potentially reduce the number of human hours associated with charting patients’ visits. Besides saving the healthcare industry a staggering amount of time in charting, its automated features promise to streamline patient care and improve clinical workflows for medical practitioners."
+    publishedDateTime: 2023-07-28T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/28/aws-healthscribe-uses-generative-ai-and-real-time-doctor-patient-conversations-to-update-medical-charts/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
 
 secured: "1tG4v7YiShyZJlpKtRZWgINsnCyP9NZYuXbu6oAAhKZ7IGd2EOGYDLC+USDF4OaNL1qFJt7r3nXQdeB7w+U4S0wubc+fF+5srRg8OTRBZ3SHC790NJAd8ByRiww8Dox8OoxenHcgCqN/T70xttY+G7acvPh5fW0IkMHRLUU+K4a7LltmQkJSDOJniWBjf4zrOcpsgoadibr5/3TlZOPUhAUHgHMnXdj/gmfXdBtgCdaXR1SH+B9zGz5Xt+yuWoFZiI6iluhnVV3RmgXFa77WPB7DUOHcHQSYyMO1i9O6GgQTAIMyqd91/1x1tBgfihIBt/8IinF3khVRSV6oxZwCdSKAuNrxxmKe59e6IWOAom4=;B6JuPDCJEOYplltso3NDcA=="
 ---
