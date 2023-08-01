@@ -59,15 +59,22 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "AWS launches AI-powered healthcare-focused services"
-    excerpt: "Amazon Web Services (AWS) has introduced a wide range of healthcare-related applications and services that include generative artificial intelligence (AI) resources designed to assist clinicians in transcribing and evaluating their conversations with patients."
-    publishedDateTime: 2023-07-27T12:05:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1104135"
+  - title: "Angel One launches AI-powered #SuperIsHere campaign"
+    excerpt: "The film aims to encourage and empower billions across the nation to leverage the power of data and technology in their wealth-creation journey with the Angel One Super App"
+    publishedDateTime: 2023-08-01T05:17:00Z
+    webUrl: "https://www.exchange4media.com/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 51
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 59
+    images:
+      - url: "https://www.exchange4media.com/news-photo/v_NFldkRX2k.png"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
     excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
     publishedDateTime: 2023-07-28T13:32:00Z

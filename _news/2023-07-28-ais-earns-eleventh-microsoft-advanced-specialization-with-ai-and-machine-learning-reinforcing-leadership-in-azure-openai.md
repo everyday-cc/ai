@@ -248,6 +248,20 @@ related:
         width: 650
         height: 397
         isCached: true
+  - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
+    excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"
+    publishedDateTime: 2023-07-30T05:52:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/azure-boost-remote-storage/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 45
+    images:
+      - url: "https://res.infoq.com/news/2023/07/azure-boost-remote-storage/en/headerimage/generatedHeaderImage-1690147793884.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta Has A.I. Google Has A.I. Microsoft Has A.I. Amazon Has a Plan."
     excerpt: "Bloomberg, for instance, built BloombergGPT, a bot for financial information, on a Bedrock precursor called SageMaker. To do it, the company took four decades of unstructured financial data and analytics, loaded them into AWS, added some other training ..."
     publishedDateTime: 2023-07-31T13:00:00Z

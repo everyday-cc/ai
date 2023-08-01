@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "CLPS Incorporation Launches AIGC Intelligent Automation Solution, Optimizing Delivery Costs through LLM and Generative AI"
-    excerpt: "CLPS utilizes intelligent and automated methods to oversee the entire project lifecycle in delivering the AIGC solution. Semantic understanding and logical inference are facilitated using large language model (LLM),"
-    publishedDateTime: 2023-07-27T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clps-incorporation-launches-aigc-intelligent-automation-solution-optimizing-delivery-costs-through-llm-and-generative-ai-1032484411"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
 
 secured: "Urn2VT/ZUQT6vKBsx7aVinGfcretXbezKD87tAvF9bGAyJ4RPbZyYq0EvWv2A1b2Yh56et10iL4U1Dlvv2Zz5nqLXK6OxwSbAX1GwtsdMIQkspGIpM+pu4tBsircU3z+4S8HF9s+gdmllDNdNSYG/cX6FWGbePhJfYhVLPmk+eNj7Mkvai97gfjj0MEUQzGbvxiybrwQy0rzWuZRexNUxQ0Uu4ifxBX5JoTcQhpWSJp0cBw1+hxERY0wrEQx55W3Yfhc3G/32Ui54zD4Y2RohQnmK0oh6ubggtlukYPo+UQ2cW8oqKnQbyyKeifep+poVd4vWYxlq8j8oyLDtw0pDKvwjVTqL2RNA6JDeq6t8eG2vT1HAG+DXmBPs7sO32ZlNUieb+ePR5R8tb2aRhHwCwkiCtb+MX7tJ7KeBtn1P0lMrGZTXBPMhIx4k2IWBf7LZ5oPSmypzZdkaIeBhd4hZeKW8QJMrPCTKpRJ+tRC2MY+f4R0xKd3JvZnPTycTLOu+FaaVTfDH8IheHCVprf6Vg==;fM7vrfv7KIlV6xD+u9gYrQ=="
 ---

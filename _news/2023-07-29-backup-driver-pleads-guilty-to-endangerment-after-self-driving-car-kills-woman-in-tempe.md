@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uber driver in 1st-ever deadly self-driving crash sentenced to 3 years’ probation"
+    excerpt: "An Uber driver in the US who was involved in the first-ever fatal autonomous crash in 2018 has pleaded guilty to one count of"
+    publishedDateTime: 2023-08-01T04:42:00Z
+    webUrl: "https://glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation"
+    ampWebUrl: "https://glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/08/WhatsApp_Image_2023-06-28_at_11.07.13.jpeg"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "Self-driving car crash case ends"
     excerpt: "The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car."
     publishedDateTime: 2023-07-29T09:46:00Z

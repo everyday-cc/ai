@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ryanair Accused Of 'Invasive' Facial Recognition Use"
-    excerpt: "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\"."
-    publishedDateTime: 2023-07-27T11:38:00Z
-    webUrl: "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    ampWebUrl: "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "Digital rights group NOYB challenges Ryanair's use of facial recognition"
     excerpt: "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking."
     publishedDateTime: 2023-07-27T13:37:00Z

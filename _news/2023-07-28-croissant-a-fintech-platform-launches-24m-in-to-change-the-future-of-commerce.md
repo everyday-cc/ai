@@ -78,15 +78,6 @@ related:
         width: 290
         height: 300
         isCached: true
-  - title: "Business school launches £3m FinTech centre"
-    excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
-    publishedDateTime: 2023-07-27T12:13:00Z
-    webUrl: "https://www.thebusinessdesk.com/westmidlands/news/2076390-business-school-launches-3m-fintech-centre"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 4
 
 secured: "soFDKVReFJ2QZj/6PiVGKKh/LHZrk03L2thHoEkIhZgkg4EyESfh1lpOtgSrgT2NvsmKoX852qHCIkL/xtS5ohVA9Zk/mU01W5KBwsGSPCJxY/MLFo43e+bLGcFtmCUyv1uEtISURgeSnOxI0xi2Q5JDalJpOe/NnQyYTlSdKgHix0AQ3lHirB/a8ymu+z3TZFzHiljl09dcJZ7/4BmBp0GNUxfGslNLzjcp2QlmKGOU8CvvD2qIqTNuRKM5dlNVypYgZQxSG/Lnt/0ldjOJ/3B5m9R3rq+O4J77JVMkrPNDQfXQ0YE8xg2GbSXIKkhXiIBUnB16irKoBBhbEZvIcil8UiVyMyGNWo9yn9hB6I8=;u1DdXCxa9gmAHsJf+nTCcQ=="
 ---

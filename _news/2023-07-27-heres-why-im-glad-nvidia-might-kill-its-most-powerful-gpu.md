@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-ha
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Waiting for NVIDIA to release an RTX 4090 Ti GPU? Sorry, it's not happening, leaker claims"
-    excerpt: "Kopite7kimi has been quiet for a time on the subject of NVIDIA, but we're now told that any plans for an RTX 4090 Ti graphics card have been scrapped."
-    publishedDateTime: 2023-07-27T12:24:00Z
-    webUrl: "https://www.tweaktown.com/news/92568/waiting-for-nvidia-to-release-an-rtx-4090-ti-gpu-sorry-its-not-happening-leaker-claims/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 24
 
 secured: "wQ5dfZJgBTnx9a08IQqYJsoP6cOZHSNAmtA6mhdjC4tR3SA2zgng0rOjm2xjL6vdnvCtIgFOHTVnVT8Cnmu203R7pM2Hn+GFMzxHI+osVUVnxVWflAfMSycYIVFugQw8rhnVRYPpEfYLFpn8LM56/QM1HUttNVP5AnoN/enXXd6/XtUYqbKiRK9cAn3aySBUAsmcnxHuruMl8z3Ca2AhD8sU/9TZop9kTstZBMPSwrjMnu4ZEI9+ULYuh053aHnZEYEaCaw4/bY5zs97I0gnnzzTwsxHVUkMprDukspAwPTZgmVg1ynBjEIJC7L6lEnn6F8iNpUIOAsDUevSYVcOH8EJ2MD94JcqDVk69nTyQaRHDrPgrRh5LXq+I02x9RUqoJ2Do0LCdP9gMUgJTh/d1uZozP2xMQzSENOndurxIaowFp0/ygD2kxbn3sVk0zE23WWc7fWwFADznDMWSqQeGPKgVqdOox4cweTPsuf7m/rykvBY3raaZVkh9quK5b+kMGZEwGO0XCX+f2ANEgdT1w==;4MOkvB8saW2umCPy3qN0eA=="
 ---

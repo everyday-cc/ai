@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Studios Quietly Go On Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety"
-    excerpt: "Netflix is hiring a $900,000 per year AI product manager, Disney is looking for generative AI specialists, and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs."
-    publishedDateTime: 2023-07-27T12:55:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/"
-    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-jobs-studios-hire-1235545491/amp/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 53
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/2023_07-Nicholas-AI_Hiring.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Studios Quietly Go on Hiring Spree for AI Specialist Jobs Amid Picket Line Anxiety"
     excerpt: "and Sony seeks an AI ethics expert, while the tech becomes a staple of SAG-AFTRA and Writers Guild picket signs. By Alex Weprin Media & Business Writer While the writer and actor strikes are ..."
     publishedDateTime: 2023-07-28T04:35:00Z

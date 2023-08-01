@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/ai-interpret-decode-animal-co
 webUrl: "https://www.openaccessgovernment.org/ai-interpret-decode-animal-communication/164414/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and International Affairs"
-    excerpt: "Artificial intelligence (AI) is a topic of global concern, with debates surrounding its potential dangers and benefits, highlighting the need for international regulation. The integration of AI into society raises profound questions of ethics,"
-    publishedDateTime: 2023-07-27T11:06:00Z
-    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/artificial-intelligence-and-international-affairs/"
+  - title: "New AI app sparks baby fever, but will it lead to more child commodification?"
+    excerpt: "Remini’s AI imagery has created excitement about parenthood in younger users, but one expert cautions that its approach could be a dangerous path."
+    publishedDateTime: 2023-07-31T17:00:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/254946/new-ai-app-sparks-baby-fever-but-will-it-lead-to-more-child-commodification"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254946/new-ai-app-sparks-baby-fever-but-will-it-lead-to-more-child-commodification"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254946/new-ai-app-sparks-baby-fever-but-will-it-lead-to-more-child-commodification"
     type: article
     provider:
-      name: Australian Institute of International Affairs
-      domain: internationalaffairs.org.au
-    quality: 54
-    images:
-      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2023/07/Picture1.jpg"
-        width: 1312
-        height: 677
-        isCached: true
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 36
 
 secured: "p4GdJ9n7OhCabuaph+rvDIaF2x05etGMmgIDerAjE+Irh51z7lOeWR5iuZRUlidCKV0eIHfESDDBVRVshzfqhkvDDFnRB89e8x4hSPxJHKevyxNzqYsuIKEJV5eMonzl5qPdDX/DZWABdr+EoyZ3Mex91izXs46YFZnU7BXNFuoN/7Je7w+kQKdGOK3/xDmuU797C5j9o3ysbGIIylqHYixk+OkgUXSy8KmGE3AnJlX0F/a2gNJpAmKEjlTvpG7Edl1oEckjGO82OmDdsofqOhDq519b8CuPQeqaITFrfSr94jzy1cC2iL9+ktK7HIIdsVINirLTON9RTxZZ7MH/Arq3DezAE2Ykl2EdzA96phU=;yWx2pvaTtu73sEY8IiQ20g=="
 ---

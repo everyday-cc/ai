@@ -9,7 +9,7 @@ ampWebUrl: "https://news.abplive.com/technology/samsung-q2-quarterly-earnings-se
 cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/samsung-q2-quarterly-earnings-sees-usd-7-billion-dollar-loss-in-chip-business-plan-to-extend-production-costs-1618744/amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Samsung to continue trimming memory chip production amid AI demand"
-    excerpt: "Samsung expects generative AI to drive a “rapid increase in demand” for high-performance memory able to process large amounts of data, said Jaejune Kim, executive vice president of Samsung’s memory business. But he warned, “Demand for general servers and storage was relatively limited.”"
-    publishedDateTime: 2023-07-27T11:53:00Z
-    webUrl: "https://www.hindustantimes.com/technology/samsung-to-continue-trimming-memory-chip-production-amid-ai-demand-101690458564144.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 34
 
 secured: "Uhior+5ilvs+DHnSvYAnQl6jNMzjFEQkk1KzHG8kHLmBzZ93vsShy/+R2JQT0IA7t3uPOZJF6STAUn22Uii790GJ0xMPShJsTkBHqUnPSRKMCSj04/wjijhZiIXs5aOb1GwJb16q8yrA2agUS77bP+qp0M/qiVGj1F4opRR4OqOyYiG8aATmt/uRGR/m6WRLzLE4pA2bkFX40qDSs7LjCoezSsCYpDs9l9FilURWdTRNQnlNhMUvm8OBRtQdhHSecMINUqPhhXEue++VkIoQ31XvOPczm2oQNDF4sgUUOMbJ7wCs62o1Nd4OyrnkC8Aa6bXCGVTs4j9V3Wnj1sqQDkqx3oL7UXnnOYWqc+vminE=;w2eKN2hYv4Ne0ybs5Z0slQ=="
 ---

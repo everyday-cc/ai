@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/digital-rights-group-noy
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: Indiatimes
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ryanair Accused Of 'Invasive' Facial Recognition Use"
-    excerpt: "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\"."
-    publishedDateTime: 2023-07-27T11:38:00Z
-    webUrl: "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    ampWebUrl: "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "Ryanair challenged by Noyb over ‘invasive’ facial recognition"
     excerpt: "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies."
     publishedDateTime: 2023-07-28T08:08:00Z

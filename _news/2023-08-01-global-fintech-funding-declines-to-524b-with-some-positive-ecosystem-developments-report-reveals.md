@@ -78,15 +78,6 @@ related:
       name: altfi
       domain: altfi.com
     quality: 10
-  - title: "Business school launches £3m FinTech centre"
-    excerpt: "Warwick Business School has launched the Gillmore Centre for Financial Technology, backed by £3m funding, to spearhead cutting-edge research and innovation for the UK’s financial and technology sectors."
-    publishedDateTime: 2023-07-27T12:13:00Z
-    webUrl: "https://www.thebusinessdesk.com/westmidlands/news/2076390-business-school-launches-3m-fintech-centre"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 4
 
 secured: "IsbI5+Ev7eSUyK91Lts65wH8Yt/WzC82FReAznrkQjqoV6Ie3ESwusInOBb9onjnVD3yBHPjG9qae58r4YADzSyMQ+xw846nt5SBA5Ls4RDIN8QPPvPhpuWVoyVowVRTu+exhFD66pXnhbjuA7N2BbKre6jHc4NMNuywczJPKGE6VuKLxnLyG6/jcssg9uQCtLbnTFvjfaTlFYo4hg73ZjAEMorbXCPps1J35AOMDZW5qtKg4yOE+VliDT4Qh8Piu7rtO2XB4+WDbAsQx8uMrQGyrhW/KyObNT5K3ont9cfLQ5GUw+g9A+bVCWa+YkXvYxkYaqiUuXqy7a876Upzx8uHiEc4A0H/tbCIswb0iZyInYgVVStdyUi5CDKeR7qzUkRyokF31BR6oiFD9AIZmRY9hRuhOPk3g/BfELIaWOpUzv6X5yMA87rQClcn5ETG1Eg137ysaNMZvrVdVJs/NyI8bZu3B1q6BoBNz2cERct/FwK22N2DaEYoPWtDYRwMRn2/bN7apjKAijoFIOSK4Q==;3IiNckmXwGJ0CKrZbhFc8w=="
 ---

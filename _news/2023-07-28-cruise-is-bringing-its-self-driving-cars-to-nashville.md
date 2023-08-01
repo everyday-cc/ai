@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Nashville's Polaris AI hospital staffing platform acquired by Aya Healthcare"
-    excerpt: "The Nashville crew who built an AI platform to predict health care staffing needs has sold that business to a national giant."
-    publishedDateTime: 2023-07-27T11:27:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/07/27/polaris-ai-acquired-aya-health-care.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
   - title: "GM’s self-driving taxi company plans Nashville launch"
     excerpt: "Self-driving taxi company Cruise is bringing its cars to Nashville. CEO Kyle Vogt said last week that the GM subsidiary had tapped Nashville as one of its first expansion markets beyond San Francisco. The company has also expanded to Austin, Dallas, Houston, Phoenix and Miami."
     publishedDateTime: 2023-07-31T12:45:00Z

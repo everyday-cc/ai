@@ -243,6 +243,20 @@ related:
         width: 650
         height: 397
         isCached: true
+  - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
+    excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"
+    publishedDateTime: 2023-07-30T05:52:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/azure-boost-remote-storage/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 45
+    images:
+      - url: "https://res.infoq.com/news/2023/07/azure-boost-remote-storage/en/headerimage/generatedHeaderImage-1690147793884.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
     excerpt: "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ..."
     publishedDateTime: 2023-07-28T14:13:00Z

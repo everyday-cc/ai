@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tes
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 286
+heat: 296
 published: true
 
 provider:
@@ -239,6 +239,20 @@ related:
       - url: "https://d1-invdn-com.investing.com/content/c74d600952f59cc9004ec48c4e5994d2.jpeg"
         width: 650
         height: 397
+        isCached: true
+  - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
+    excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"
+    publishedDateTime: 2023-07-30T05:52:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/azure-boost-remote-storage/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 45
+    images:
+      - url: "https://res.infoq.com/news/2023/07/azure-boost-remote-storage/en/headerimage/generatedHeaderImage-1690147793884.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
     excerpt: "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ..."

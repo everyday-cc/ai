@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hi
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
 type: article
 quality: 59
-heat: 61
+heat: 59
 published: false
 
 provider:

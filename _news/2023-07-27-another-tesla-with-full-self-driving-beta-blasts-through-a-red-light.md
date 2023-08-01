@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-drivi
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Self-driving car advocates urge Congress to revive long-stalled debate"
-    excerpt: "Advocates for the self-driving vehicle industry warned that years of regulatory inaction is putting American manufacturers at a competitive disadvantage."
-    publishedDateTime: 2023-07-27T12:22:00Z
-    webUrl: "https://www.autoblog.com/2023/07/27/self-driving-car-congress-legislation/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/07/27/self-driving-car-congress-legislation/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-07/41d99420-2c78-11ee-b6ff-5ebc1e025625"
-        width: 1062
-        height: 597
         isCached: true
   - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
     excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."

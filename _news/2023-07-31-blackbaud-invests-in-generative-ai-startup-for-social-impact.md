@@ -2,9 +2,9 @@
 category: news
 title: "Blackbaud Invests in Generative AI Startup for Social Impact"
 excerpt: "CHARLESTON, S.C., July 31, 2023 /PRNewswire/ -- Blackbaud (NASDAQ: BLKB), the leading provider of software for powering social impact, today announced a strategic investment in Momentum, a leading AI-focused Blackbaud partner, graduate of Blackbaud's Social Good Startup tech accelerator program, and winner of Blackbaud's 2022 startup showcase."
-publishedDateTime: 2023-07-31T15:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
+publishedDateTime: 2023-07-31T14:21:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/31/9856518.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856518.htm"
 type: article
 quality: 17
 heat: -1
@@ -64,6 +64,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023"
+    excerpt: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023 - Amazon Web Services (AWS) and Accel, a prominent venture capital firm, have joined forces to launch"
+    publishedDateTime: 2023-08-01T03:47:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/amazon-web-services-and-accel-collaborate-to-propel-generative-ai-startups-with-ml-elevate-2023-nid-224435-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 59
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/P9712mxY.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
     excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
     publishedDateTime: 2023-07-28T19:23:00Z
@@ -78,7 +92,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Accelerate Your AI Startup: Apply Now for Google for Startups Accelerator India – 8th Batch"
+    excerpt: "Google is inviting India-based AI startups that have received funding from Seed to Series A to apply for the 8th cohort of Google for Startups Accelerator."
+    publishedDateTime: 2023-08-01T05:25:00Z
+    webUrl: "https://www.ciol.com/accelerate-your-ai-startup-apply-now-for-google-for-startups-accelerator-india-8th-batch/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 7
 
-secured: "ioz8KM3ETblt6tt8I0JdDf4jjic7cYpFsgeFDWAqhNB1yZt9aLUcnDs+EwEEPnMsKgvFpc74YDWC6jMDaidbeDOHGlhtTw61/SMnRY2UfhMJwzm2IyUNZ++uO+1n6y5DPIaWjVg9pDs3s5zG6QW05kZYIYBjg1fxzgO/joNCrWd19ZlU/5zb7TY2eD2+vaeLdlQGvX3bZLbNuDDyZCEP4XE3QF6oYAFnHXT9ogOlTIJqp9hR4FkgdnlllrMUKgpz3PK+jtReFFgFEkBq4Yj74BEjkjLxp/B8oGNpQ6nlZ7YEnNrVdpZRwAkx21cTje/kAue7RYLX4JawlAqdxjixtSKCkS4EQ5RWB2wSXCLPDc8=;Ai1u84ThmN4nSAgGZI4X/g=="
+secured: "tlDrbTKX5pcKLeFSb8EFa56ATNLDqyCVrN9J8kg3W9PZOaIA5XKQrHft+sljVF9dpEZVbKlSOgntidhCzTeO8JiuSyvuT2+/CLqPodT3PIVbj5mBhblb8jJxNQiC3TjJM5f9WXtkjndIwCd6YS2ZGUaJrUDchSUBPwafg6fpaNAZrtpcEkUk8xF1nJW25ixFVtutU3OlZAGJ29uvEsO08JZOaEqVbofmMDn9uxXJVHN0axbb2FRjcUqnGmRZqvOFqx2kSTgychQNw0EZ0KRCdrey/VfqPgVLSqt+7MByMkLuDDbzWAfdydiST1XvBtDb6udg97u8tYIwbb8+v+c1ic7F69QXQ67k6dUEp0fN8Bw=;uS9A6QCX5SiOfCCVxVMQ/Q=="
 ---
 

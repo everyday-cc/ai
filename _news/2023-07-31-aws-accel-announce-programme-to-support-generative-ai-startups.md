@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023"
+    excerpt: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023 - Amazon Web Services (AWS) and Accel, a prominent venture capital firm, have joined forces to launch"
+    publishedDateTime: 2023-08-01T03:47:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/amazon-web-services-and-accel-collaborate-to-propel-generative-ai-startups-with-ml-elevate-2023-nid-224435-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 59
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/P9712mxY.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
     excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
     publishedDateTime: 2023-07-28T19:23:00Z
@@ -73,13 +87,22 @@ related:
         isCached: true
   - title: "Blackbaud Invests in Generative AI Startup for Social Impact"
     excerpt: "CHARLESTON, S.C., July 31, 2023 /PRNewswire/ -- Blackbaud (NASDAQ: BLKB), the leading provider of software for powering social impact, today announced a strategic investment in Momentum, a leading AI-focused Blackbaud partner, graduate of Blackbaud's Social Good Startup tech accelerator program, and winner of Blackbaud's 2022 startup showcase."
-    publishedDateTime: 2023-07-31T15:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
+    publishedDateTime: 2023-07-31T14:21:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856518.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Accelerate Your AI Startup: Apply Now for Google for Startups Accelerator India – 8th Batch"
+    excerpt: "Google is inviting India-based AI startups that have received funding from Seed to Series A to apply for the 8th cohort of Google for Startups Accelerator."
+    publishedDateTime: 2023-08-01T05:25:00Z
+    webUrl: "https://www.ciol.com/accelerate-your-ai-startup-apply-now-for-google-for-startups-accelerator-india-8th-batch/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 7
 
 secured: "K02MN8Iwa2KIgo2+Leb5fyDdplORrSGWfYAsx4k0tXRjJQJtmnQoyhtiReAml+zpAM8ZpNRUaIokZroKpFhYXFWixTTaw6xpgIugNL8f/n3sOUnvAgMJsIuBYUYiqcHlhq5vOwm8q2acuILhTpCTdoHbt7TYm/ej2sX76PV8L6yZlunfY7Iu1XXPMqyZvKKwF9px4350486ulPHqLEnq7F1EQ17yxYuX+qi23bGCzqyyJoEdGmeMHZZLhDg5Yf6j28LTStr9WVsG/gydAZ9z5yq+TlkKE2AJQqJKxMDMGytjAn3MvVUtWxrkn8mApVyJdGZff7bNNy2mWlrRvhKeE8PsZ8N0mUEi3dxGYc+O2QopAeiWTC7dYEtT7DDGmPscSiEogAFvV5ftdMBXvkjJU/f2PgvyTK5SlCUdwpb5Hd0WNnlPX6TL24PAlSKTd0TxFw87dBKdAXcJxa3iFJD7P8tWVA16yg+CeRBw7If19s3GuaBUAE/6jDYcXhk59MQrdqnTAgUFuz6PtkeqlaSGAw==;JgX4p4O7I5eI2zNIL02S7A=="
 ---

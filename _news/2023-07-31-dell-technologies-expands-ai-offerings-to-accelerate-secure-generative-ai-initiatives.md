@@ -201,15 +201,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Stack Overflow jumps into the generative AI world with Overflow AI"
-    excerpt: "Stack Overflow disrupts its community approach to asking technical questions with a new set of generative AI-powered initiatives."
-    publishedDateTime: 2023-07-27T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
     excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
     publishedDateTime: 2023-07-31T19:14:00Z
