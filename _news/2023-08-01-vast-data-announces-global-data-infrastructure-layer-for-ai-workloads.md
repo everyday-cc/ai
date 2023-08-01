@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/08/01/vast-data-announces-global-dat
 webUrl: "https://siliconangle.com/2023/08/01/vast-data-announces-global-data-infrastructure-layer-ai-workloads/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 1143
     isCached: true
 
-secured: "+87g1uV0mKwA+nmSIcMk72UoYfXDF6VyVfCyF/IFfzOuvTz3p4bfcFWM0TzpKapKk1M/bg15FQB5mYwrK9P/gjQYpUj/7/Pj65GtjNORMDfLJyDTJP/IXyUPuIyXbvM9dzq2ojmlWNJ/j0MEBitzWb4b54mHC9/Ob4evsDsZ/KTDM/SQO7ho4jEpqU117pbf4M6vml4X3OyDvxYGMq07B46zFSyFK7Y+zGSqMu/vAeuVaRDuMy1FLHpC82dwQ9rBCXQB0HGH8xsd4QUpMeFmoBnyQGkm/iV3wt8ZFcYOk5yZIGsAFch1KIZaMvqVg7OLkoQcDHsGN3wxGtPgv36Is1ZNng6zndX1UeF7EjtYpcA=;48IVUAc9Ztni5QhxAEmiVA=="
+related:
+  - title: "VAST Data launches unified data platform for the age of AI"
+    excerpt: "VAST Data launches novel unfied data platform to help organizations better manage data and accelerate AI initiatives of the future."
+    publishedDateTime: 2023-08-01T20:04:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/VAST-Data-Platform-e1690911973261.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "Tla0Nxu/U9tauRAXnpcJLll9nKZbpXdbYxbLf21Om43U0+sjQnZmtaaxsolJGXJV6/O14ZIaF565cIn6mTPns89WCOMsvPxjK1j//xG9VZD/iEQa3lNUZmZxDSoW7hkIC7RoMnLSWat7FXbfDQSdgQ0MqKHPwN2c6pym7Zve+m987zrTRG/sgqJWgHm2ZlA+bLrYtlQq+ZQRtJhfPh3I20mTKLDcicSzunwIyex6mF3mOIN2Vmjssm8vQNg91QXqHQHutEHd8ABRqwgNtlYEROCNPnXSM5HLjc1n3VFH8UWhypNVHL2M3l9bqfCwo+ByWj/EOJsqna7hcU5auFAw+541hU5tE4pU9mtiXRO5cF3BjCcbsfZAYMmvXEfp7R300uwVEwDXzAYB403BLrtpiFFARxZaVNW/uEacSwbqb5KKrDVEVRbKUpd8Ub6a8q2lKFDV4nE24e6n7HRfmmB2/BqVBDImMdNNsi8X89MTBeqVs4Sb/ZOMlDgPXJGp8KwrOfayJZuM2ByCUSoXrguHhg==;pEtV67JeQSx0VNvBUAMEYg=="
 ---
 

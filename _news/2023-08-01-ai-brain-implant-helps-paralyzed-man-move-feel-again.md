@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-
 cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/newspress-collage-3jn1vcue4-1690576546013.jpg?quality=75&strip=all&1690562238&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "First-of-its-kind AI brain implant surgery helped a man regain feeling in his hand"
+    excerpt: "Just four months after the groundbreaking surgery, the patient was able to feel the touch of his sister's hand."
+    publishedDateTime: 2023-08-01T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/01/09-keithimplants.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
     excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."

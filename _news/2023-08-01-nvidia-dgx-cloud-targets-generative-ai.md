@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3703669/nvidia-dgx-cloud-target
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "NVIDIA prioritizes AI GPU supply for long-term partners"
-    excerpt: "NVIDIA has given its long-term partners, including Quanta Computer, Wistron, and Supermicro, priority to receive its AI GPUs which are in great demand, according to industry sources. TSMC, the manufacturer of NVIDIA's chips,"
-    publishedDateTime: 2023-07-28T03:50:00Z
-    webUrl: "https://www.digitimes.com/news/a20230728PD208/ai-server-ic-manufacturing-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230728pd208_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "iZGo1uTro4/tiAxUKKdnn+QYoKtMSEoJK9eiGef2YNM92OxW6rgFzXu62SFPgfyYcQ0vaFPTqeCnfTLXTmuWOLIu/5ddF9zB/CNbq8BxaWUNxd+47fE7XGu+8qLB2gk43neeVmy+RtosNVD8pPtNw5I3LWbU+G+gHBCPUoyyOZP+j9Tu1cRxJ/cmEAHeLlFwXqZU+ePNWz2s3wLTfAXE6n7UP2sFaOFGagRv7k1IIgedNQXnkHMZlB3tfo3TBpsL9Cd0OekGxrFaQQzL1MV/U9oNCSWdYvpth1hYRp+MMP4JOlzU0I9Ft29hec2RLnF/U2xBEfM6C26OgyPIjohX+VjfzvCBCwUV497xx/FNjjA1HtcTeubSY0ggoktPZ05RxGoT9CoKLn8OqBX3iE0ClFC/IcCuPORsIjYn4CyfhGlrGHtnY1+NmEXLi8Ab4xZP36kuTazjgA+AagdA2h7X+uSIxmhEt2lndOrNhZOuTPa8BY3pUx+TFZpXVxG2LVhMuxRvaZ5hZFEcEkiMjLhqPw==;a4r2My5qRuhmYTeDgwbleA=="
 ---

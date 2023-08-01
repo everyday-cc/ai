@@ -86,6 +86,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Vendor claims 3-year ROI on retail facial recognition deployment"
+    excerpt: "A new case study from RecFaces shows that such systems can identify thieves and reduce theft-related losses by 50 percent."
+    publishedDateTime: 2023-08-01T20:35:00Z
+    webUrl: "https://www.biometricupdate.com/202308/vendor-claims-3-year-roi-on-retail-facial-recognition-deployment"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
     excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
     publishedDateTime: 2023-07-29T16:26:00Z

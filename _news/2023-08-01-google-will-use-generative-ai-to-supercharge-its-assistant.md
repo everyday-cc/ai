@@ -38,6 +38,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Google is looking to 'supercharge' Assistant with AI"
+    excerpt: "The ongoing race to expand generative AI technology is reaching digital assistants — one of many people's first introductions to an AI companion. Such is the case with Google, which is working on a revamp for its Assistant that will include generative AI-powered technology, according in an internal email obtained by Axios ."
+    publishedDateTime: 2023-08-01T12:10:00Z
+    webUrl: "https://www.engadget.com/google-is-looking-to-supercharge-assistant-with-ai-113516175.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
 
 secured: "1vqZIuIYCL7UvpkO1WaWwABaxgi0zMyRiX54FmuhzZJ8ZoU1y449pmXkDYDQxlKUL1TlbPWzHQ2lephiM0w6p4OuSfdZ1NFfi3klPizjrx8wrPcSIgbtd7v0DCMt5bdPy3ql9o2WqoWzI5ZksnFkP8Pu7AAnbrjk1+HGUo/qULwZjhh06PseKOfWtl+gNYWHSjrCJdkKm98nQ15Hhz7oaGNzso1NyvKn23piG/tgLCJYu1OwM0FH1z1vmeHF8kfcEAC+YjGL8uUyZTcfMSKrn+HBAX96XNFIBM8L8qy4OaGiyCdFattTNrgJJNTcXyfEO/PIK3ZVDsmuXp0H639ucNoPSerTAUT1fw3bDZLNJJ/OD+PW7cK6Z2EpwMf+RTZQGV/L3FLaUYAlvJvw96QTrUn8O7Bdm2nMac9CmvOc6vVih4+0G32bnmJJKDP6plSy7AWSuigigCn8JpvNPjGGaBXE0m7xIN5GwofjG7mk5B49hkkKdzQWJ2ITpL7OGeQDdP75Q0B84wNxdlQXTgA9gQ==;4McoekxmsKIP+tBuRCXB1Q=="
 ---

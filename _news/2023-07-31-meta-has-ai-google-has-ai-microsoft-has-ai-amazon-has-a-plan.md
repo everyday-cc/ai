@@ -200,6 +200,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Duke Health, Microsoft to Collaborate on AI Innovation"
+    excerpt: "The two organizations, members of the Coalition for Health AI, have forged a five-year partnership built around the new Duke Health AI Innovation Lab and Center of Excellence."
+    publishedDateTime: 2023-08-01T20:34:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/duke-health-microsoft-collaborate-ai-innovation"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_2289658777.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
   - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
     excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
     publishedDateTime: 2023-07-31T15:10:00Z

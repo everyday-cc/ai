@@ -43,6 +43,15 @@ related:
       name: VietnamPlus
       domain: vietnamplus.vn
     quality: 19
+  - title: "Meta reportedly working on AI-powered chatbots with distinct personalities, possible roll-out in September"
+    excerpt: "These upcoming chatbots are said to exhibit distinct personalities, mimicking them to provide human-like conversations to users. Launched as soon as next month, these AI-powered chatbots could find their way into Meta’s Instagram or Facebook,"
+    publishedDateTime: 2023-08-01T17:53:00Z
+    webUrl: "https://thetechportal.com/2023/08/01/meta-reportedly-working-on-ai-powered-chatbots-with-distinct-personalities-possible-roll-out-in-september/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 1
 
 secured: "xyfx4GFGfRkRxREx87/6PRmDZcLtR28HkS7wagouhsyLRCg20016yvG16EnNGQyDQYyhyXTL4Td45tmTlWeMlQjKp2g4xu1lycctmQo/wLhd9XFujcRnT+hYDV4VpI38zWre7iANGrsANZjilXLKz4aPJQPuXrPeubizBxL1TyhrqO17Y7OFMgEGFKcg+WrAhFZOCVJH+IC7Pt/IS8CLohCa+t7mWiVmGvLHL2uuRRF1dLnRmsELmblMyKK9aNgw7TaNXjd3cKNQ0gCB6nNoVIPno4TUgLFFUKg53iIjOldLo6D+aJH/7/v3B3WrT5wo5m0YpoAl8Y+UCJJ3f8crbBRq4AxobEDdM3j8NhEqShC5QNO9NPfpYkTVTZ4Z+XbMG4ORFNMGexgFcmmluKjgB+3Daj1iyAZI0N9uqvxnB7meBGyTrrAjnipqYBR1KMooCE3x1lEC3iy4DKYTWOcXPWcRhJgtpUL3Ods0Launc/tCxZ4PfBhKwHySGy8/TZoV46SYpxBb/IaiEhT08WBkXQ==;k7qPECVit8waJGrrm9AvSQ=="
 ---

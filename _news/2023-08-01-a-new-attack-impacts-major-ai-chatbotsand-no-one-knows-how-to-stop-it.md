@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-adversarial-attacks/"
 webUrl: "https://www.wired.com/story/ai-adversarial-attacks/"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -44,6 +44,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
+    publishedDateTime: 2023-08-01T16:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 58
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Meta readies AI chatbots for artificial companionship—and user retention"
+    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
+    publishedDateTime: 2023-08-01T19:10:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 48
   - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
     excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
     publishedDateTime: 2023-08-01T11:32:00Z
@@ -83,20 +108,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
-    publishedDateTime: 2023-08-01T15:55:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 28
-    images:
-      - url: "https://www.baltimoresun.com/resizer/BtfcsvUS69ehIVbbDiT8NKv8w_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEHE5CRKO5GB4BZQPXUBL2Y4RE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-01T17:36:00Z

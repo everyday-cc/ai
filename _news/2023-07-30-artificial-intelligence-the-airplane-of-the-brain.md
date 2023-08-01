@@ -9,7 +9,7 @@ ampWebUrl: "https://english.elpais.com/opinion/2023-07-30/artificial-intelligenc
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp"
 type: article
 quality: 74
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Backgammon’s AI super-brain is for sale"
-    excerpt: "The creator of the swashbuckling software known as ‘XG’ has left an indelible mark on the game. Now he has had enough"
-    publishedDateTime: 2023-07-28T04:00:00Z
-    webUrl: "https://www.ft.com/content/4c01969d-4d79-4feb-8e4f-bfa9833ddfea"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Doctors use AI & brain implants to help US man move and feel again"
     excerpt: "Keith Thomas, 45, was left paralysed from the chest down, making him unable to move and feel, after a diving accident in 2020."
     publishedDateTime: 2023-07-30T13:48:00Z

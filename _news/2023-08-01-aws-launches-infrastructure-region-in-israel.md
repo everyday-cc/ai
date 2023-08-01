@@ -1,23 +1,29 @@
 ---
 category: news
 title: "AWS Launches Infrastructure Region in Israel"
-excerpt: "\"The launch of the AWS Region in Israel provides customers with the ability to build the most advanced cloud technology-based applications and achieve the highest levels of security, availability, and resilience,"
-publishedDateTime: 2023-08-01T10:55:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-israel-/2023/08/01/9856852.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-infrastructure-region-israel-/2023/08/01/9856852.htm"
+excerpt: "Amazon Web Services (AWS), today announced the launch of the AWS Israel (Tel Aviv) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government, education, and nonprofit organizations,"
+publishedDateTime: 2023-08-01T09:24:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-launches-infrastructure-region-in-israel/article_d10ea2d0-8312-5383-92a9-0217574f7559.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-launches-infrastructure-region-in-israel/article_d10ea2d0-8312-5383-92a9-0217574f7559.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "cZHUb+McVp7GwGA1IA7zhtq9dWTBJ02e4Kz+rQfUmkCk/9dg+3eMYjr9pKAyfs6Yk5YG60YI02R7+Xh5nt6QMGaAKxdNzBr4TMa042eUQTRhp+RmdQlE5P1/BfOEhWIAIod8zn4qgyaGbmAw4MKP6iGvn4WawDEOdeKQCEQQm/G3ziIk/TvibgIiQZBqzW+pLAc2/QuL9M2gtXtg6yjDoTaxyjtKVYbOpKOPkHvJcgTATG7+txjT/xaLiC7vKFDF6TrhjCWzE7MtJr2MrvpjODxAKbNS9U9eidEkm8AoIv9EFoJgr9cfpu4NHjMuF9rmUmdf4DoXHAG0mo3m3LYg9sY/4KXhy+wREP4L0c0OD4E=;1/TvVC3At2Ro4qQk2Ho95g=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "3J5FPH7AaTBA6JlzWwTCsBEItw2M/v0srPS/SxorQ77PrFn05Lyvfp5+9IsYodT+Tg4wvCuHan9GtvH8AfdOeda4othFMyjgWF4i7tzA6udUbM5z4ylMjp6VT6Z+CVqSaARgl+YbRqPA7ceoIMa15l95a+TuBDwo1YGLGmKgnt/oKHr/0cjQzMY5jDmanLrBJ5gs+0s8O3YwCIfsxBZAsfeODg7B0ih/F5k2OrggGCObFXp+EhJ0faIVFk/rD03IxyvPPC4dfou4IsQDvatBMSRDh9WKRL37249XnFSL0gmtTD+11WWLMiY2ar8YHXdUqqoQwFlEKhxhugjH213nreyDmOnGTENyhE5nuYzsrdU=;AbWpmk3vbniPtgqhLBud3g=="
 ---
 

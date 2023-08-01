@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Netflix touts $900k AI jobs amid Hollywood strikes"
-    excerpt: "\"So $900k/yr per soldier in their godless AI army when that amount of earnings could qualify thirty-five actors and their families for Sag-Aftra health insurance is just ghoulish,\" actor Rob Delaney, told The Intercept."
-    publishedDateTime: 2023-07-28T02:34:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-66332876"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-66332876.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11C97/production/_130555827_gettyimages-1242278437.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Netflix criticized for posting AI jobs paying up to $900,000 while writers and actors are on strike"
-    excerpt: "Amazon, Disney and Sony are also posting several AI-related positions paying six-figure salaries, even as the Writers Guild of America strike continues"
-    publishedDateTime: 2023-07-28T15:41:00Z
-    webUrl: "https://www.marketwatch.com/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://images.mktw.net/im-811932/horizontal"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
     excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
     publishedDateTime: 2023-07-30T02:44:00Z
@@ -104,6 +72,20 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Studios Seek AI Specialists as Tech’s Role Debated Amid Strikes"
+    excerpt: "Major studios are seeking AI specialists as striking writers and actors express concern over the technology's rising role in"
+    publishedDateTime: 2023-07-28T23:00:00Z
+    webUrl: "https://www.movieguide.org/news-articles/studios-seek-ai-specialists-as-techs-role-debated-amid-strikes.html"
+    type: article
+    provider:
+      name: Movieguide
+      domain: movieguide.org
+    quality: 39
+    images:
+      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2022/11/0vgg7cqtwco.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "AI news recap: While Hollywood strikes, is ChatGPT getting worse?"
     excerpt: "There is anger over a Netflix AI job paying up to $900,000, coming as actors are still striking over the use of AI in film and TV.  In other AI news, problems with training data can cause glitches or"
     publishedDateTime: 2023-07-28T09:05:00Z
@@ -132,15 +114,6 @@ related:
         width: 866
         height: 488
         isCached: true
-  - title: "Disney, Netflix, Amazon, Apple, and Sony Ramp Up AI Hiring Amid Ongoing Writer Strikes: Report"
-    excerpt: "Major entertainment companies are on a hiring spree with plum pay packages for positions in the artificial intelligence (AI) fie"
-    publishedDateTime: 2023-07-28T11:45:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33437141/disney-netflix-amazon-apple-and-sony-ramp-up-ai-hiring-amid-ongoing-writer-strikes-report"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "K47a6/j/fAxz/V02A0YdTXxMJ8k0ZzKhQ22xDIku7wbTdAv5FkvB42ezUPG/iV/pzfuPbcPPNnUeyRMpyjZd1l0rBs4M3Afs2kxT1FAn632GhPZbs0bO3njGFjxG7r1xEfeEYJWcyGAP+PWzHyz1D4Jw/pTr/jEksffGK2sKjlCpjWTXPQgNl2An8GU7HqhSpo3prGYuywoeL/MJFeM5cGILTud94A2RTNDmPnoTtFWfHnWbHTUAIixZyuSGgixbK0BZrSyDpFL+Tkg+EJO72cjnk486vofuun6tb8AFO1hfNy7R3QO9NbP641mry3H2omled/AGfj4RLyirdd1tKFX1tdcLoCAc6M5acnykGHA=;zQ2GHmfZWVDTNGpbZGpozg=="
 ---

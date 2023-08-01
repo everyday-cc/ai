@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 562
         isCached: true
+  - title: "The Google Assistant is getting a big reboot around generative AI"
+    excerpt: "Axios has more details about Google's plan to reboot the Google Assistant into something based around generative AI. As was previously reported, the Google Assistant team is getting reorganized around Google's new LLM (large language model) ChatGPT-clone,"
+    publishedDateTime: 2023-08-01T19:44:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "8 limitations of using Artificial Intelligence"
     excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
     publishedDateTime: 2023-07-28T10:31:00Z
@@ -106,6 +122,15 @@ related:
         width: 1075
         height: 550
         isCached: true
+  - title: "Everyday AI: How artificial intelligence is shaping sports"
+    excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
+    publishedDateTime: 2023-08-01T17:47:00Z
+    webUrl: "https://techxplore.com/news/2023-08-everyday-ai-artificial-intelligence-sports.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 32
   - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
     excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
     publishedDateTime: 2023-07-28T18:06:00Z

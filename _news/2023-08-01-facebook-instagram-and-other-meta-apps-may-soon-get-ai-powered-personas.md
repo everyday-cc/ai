@@ -51,6 +51,34 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "Meta Bets Big on AI to Revive Facebook and Instagram"
+    excerpt: "With new chatbots and image editing tools, the social giant is gunning to rise again like a phoenix—with AI as the wind beneath its wings."
+    publishedDateTime: 2023-08-01T18:56:00Z
+    webUrl: "https://decrypt.co/150882/meta-ai-instagram-facebook-chatbot-personalities"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 41
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_10988146041-gID_7.jpg"
+        width: 1000
+        height: 512
+        isCached: true
+  - title: "Venture Capital Firm Releases Instructions for Creating AI Girlfriend"
+    excerpt: "Another day, another step closer to the normalization of romantic AI chatbot partners — if Andreessen Horowitz has things its way, that is."
+    publishedDateTime: 2023-08-01T20:41:00Z
+    webUrl: "https://futurism.com/the-byte/venture-capital-ai-girlfriend"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2023/07/venture-capital-ai-girlfriend.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI images on Instagram; Meta chatbot plans create privacy and misinformation fears"
     excerpt: "“Once users interact with a chatbot, it really exposes much more of their data to the company, so that the company can do anything they want with that data,” said Ravit Dotan, an AI ethics adviser and co-founder of the Collaborative AI Responsibility lab at the University of Pittsburgh."
     publishedDateTime: 2023-08-01T13:11:00Z

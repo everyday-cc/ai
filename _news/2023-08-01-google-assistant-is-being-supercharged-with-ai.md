@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-
 webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
 type: article
 quality: 67
-heat: 79
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google is looking to 'supercharge' Assistant with AI"
+    excerpt: "The ongoing race to expand generative AI technology is reaching digital assistants — one of many people's first introductions to an AI companion. Such is the case with Google, which is working on a revamp for its Assistant that will include generative AI-powered technology, according in an internal email obtained by Axios ."
+    publishedDateTime: 2023-08-01T12:10:00Z
+    webUrl: "https://www.engadget.com/google-is-looking-to-supercharge-assistant-with-ai-113516175.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
   - title: "Google will use generative AI to ‘supercharge’ its Assistant"
     excerpt: "In an internal memo to the Assistant team, Google announced that it is starting to work on integrating AI chat into the Assistant."
     publishedDateTime: 2023-08-01T00:13:00Z

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 698
         isCached: true
-  - title: "Backgammon’s AI super-brain is for sale"
-    excerpt: "The creator of the swashbuckling software known as ‘XG’ has left an indelible mark on the game. Now he has had enough"
-    publishedDateTime: 2023-07-28T04:00:00Z
-    webUrl: "https://www.ft.com/content/4c01969d-4d79-4feb-8e4f-bfa9833ddfea"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "YM9h/E7Qq3vMzx17z8+q8O4nNzRv1F6igTSWwMuV5wgjRchbZ0p/fvT3UBMl9HyPvyWtnKvaGcVZfpN3AsblzeshBuyqpcjn7GbCI6iWi8aPazkHzZu9JQN340RLFucDUAdR0SJsMu5V6hFHPrY02wJWcFqDTRNwN8re+WrnZ2wDMpxXGV1Ro3EKtL/NfZ6ZYYYWqJhuYMjXWYHIEPm73Yb2DIOOR/CH1WL9oL7caNB5vGuWgGA2D6odRbj8Pqv4tnLT3dJKN49xFep1EVz5rcjRknS7jeKTZgDjQD2ugJLydPuS3E1SrGy6Bop9zkAO5KbxhLzeLpBD16zIN/LyZldnoPNEG/eFS2uHrtiAkSmaWaoEYJqdlNgo+LYxGGBy4vKwrWQQqf2JPFLWOWEO0M+3sKQOZRs6oGQV9PqMWDAlqhqIP7q4GjEWGXplsNbs7yLmRRVtikqafvqBmS4mBsEwWuo9oSwapCKmiHQbISHayhFbB33l1ECDxXp4RM5lFpPEwolfui6p+q7vzj3XWA==;ZcJB5Qzm6F6+d4E+8SIcyA=="
 ---

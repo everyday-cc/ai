@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "John Chambers’ Networking Startup Nile Nails Down $175M"
+    excerpt: "Networking startup Nile, co-founded by John Chambers and Pankaj Patel, has announced a $175 million Series C less than a year after emerging from stealth."
+    publishedDateTime: 2023-08-01T18:30:00Z
+    webUrl: "https://news.crunchbase.com/enterprise/networking-nile-chambers-patel/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 17
+
 secured: "pqSW5PIp/qgbaSG4iZk/ANFXIkGseVi7D6Ys5toa+r2rKPYzUpwUTaZiXbKKh+Zx0FeIZvn0USMKTup8ACk04gt4MMOsPbK40mH+AdbjIjqY6sLfiPkxZ5gkXAjjV6uMNmXZ80v9VSa1mTtssvF2MfJAKdLfg8VMZdLf/HIdlTTvFZ5zW0sWv2haNJEB6HFRSqIOVlkjg2ZdNzOv8vv2xptwovYYKXTamQzk5HWeCOZ85B9rHq8CpZgrRmfE0ly2/Aq6D484RmZHdXeHKWfVFrjTAuHqlE/1GjNACo26n1UHKq0gLnHwU5+G+cA0PNMssLWiN5LhPb33FK1c11DoFlHVwI0rmAKqS/oeJfzqdljR7ntocFmO8xdP1/PrHtFLepyzk4EPhoXaSOpT+WViG1CwRp7Eigjj+tYG1Bylbo9ubhqGUPRFIDYGB2A/XuUKerGVNMMskEL/+k/J3j9x0bRVwsFuvDzt2Sqmg3DM5S22V8/X0R31YNSs4VhvJ6oo6XdqRF99GeLZIZqwZqjGBA==;urxcTTDE0JEzOCbl8aR25w=="
 ---
 

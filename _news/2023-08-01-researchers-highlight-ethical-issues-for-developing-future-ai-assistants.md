@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta Bets Big on AI to Revive Facebook and Instagram"
+    excerpt: "With new chatbots and image editing tools, the social giant is gunning to rise again like a phoenix—with AI as the wind beneath its wings."
+    publishedDateTime: 2023-08-01T18:56:00Z
+    webUrl: "https://decrypt.co/150882/meta-ai-instagram-facebook-chatbot-personalities"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 41
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_10988146041-gID_7.jpg"
+        width: 1000
+        height: 512
+        isCached: true
+  - title: "Venture Capital Firm Releases Instructions for Creating AI Girlfriend"
+    excerpt: "Another day, another step closer to the normalization of romantic AI chatbot partners — if Andreessen Horowitz has things its way, that is."
+    publishedDateTime: 2023-08-01T20:41:00Z
+    webUrl: "https://futurism.com/the-byte/venture-capital-ai-girlfriend"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2023/07/venture-capital-ai-girlfriend.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
     excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
     publishedDateTime: 2023-08-01T12:40:00Z
@@ -62,6 +90,6 @@ related:
       domain: 9to5mac.com
     quality: 13
 
-secured: "anqlAK24om73NTJ9TPIMt8xjLeU30qiAM63gRk7MDls6I0KPt9WpklcPM7nh4r+U3owNE1q4GQYK0C8vF2pSSmpX055njQSs5TC9TVaFd8Am7jgQiFbI3T4nEZQqasoSYIU9ZNte8iQ+uNT0mC/MJqQ/lXGo4KyrzP4b3RW6brsLwGw3EWMabGij1tQ/RIEHRtJZPFWdRKhqjFPeHysavrXBos5T7J21xSU4jM4Iamrnp+NhJ1RW0CGLqChXGv5Vy2wNeoHU9Uw8EBqFCwQI0a2oSHAPZ7Pmipucw3Tw9RatiQ1CtkefQ9jRcRFn7KG4laffaQnjSbCqvPVO2vQncD0kFEAFr4BdXtkM9Mljvy0=;+haY3ahQXxvHdYEKtznkrw=="
+secured: "OHhe732/yviK6fGS3HLviqDfzxm1MJtEsOr+rQSR+Lie2+BQ7QhazJWdCfGmDLopt4RzAx0f2823BkPSshqdhil7oCV2KiBZBBpeaQZYFG1eduffulLhm+Z9zZPuEMmC6YuNnrbYuOEH6BHxwg8jfyD++DHm10YRGLxHOokByojqeSnohZ4hB0yeRvrSIEsdhUVeJ0MM38jxcSI2tTkGQk2qKA7IF5hIw+jklV+YS2DmSyp4/GPhVAThEJLncUvYWb4DD/GpxZ1Q5oXB2PCxTe1bjld6ImWG8HUeucXlGIrPFWgZzUvAVY8u7tJZI29RlZ+CP+xFwjcjOakr5OoJfIV6TAgVFdoS/ZVlDoaLJvBEU3pzbyR1P/G3hRDD3lWmR7BlUcuhU4poRFt702m7P6W30g7TG/pYRdDbMeMbqIw21kIH5Dn7IeYoXvSEYqQlKlR6CAyXtsgcIkp2j0Iz61QX4yXriHjrUJOsPBnnyzB4YG8rdxGxHZA1GkuE0gtUQwyQz83hKC1s5jtMKy5OfQ==;8BG8lTypQoKq4fsXwqvTJg=="
 ---
 

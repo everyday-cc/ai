@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2539770-indian-ai-fi
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2539770-indian-ai-first-startups-can-now-apply-for-8th-batch-of-google-for-startups-accelerator?amp"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 1373
     isCached: true
-
-related:
-  - title: "Is Indian agriculture ready for robotics and AI?"
-    excerpt: "Does India need a national level institute for agricultural robotics and artificial intelligence? The Parliamentary Standing Committee on Agriculture, an all-party Parliamentary mechanism tasked ..."
-    publishedDateTime: 2023-07-28T04:29:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/is-indian-agriculture-ready-for-robotics-and-ai-11046881.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 89
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/12/Tractor-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
 
 secured: "AXzv0FJpg1secwlSmcUwG/mxpoa4OXNAKd3sP7M54HbmyHYZ/3OY2fXmXY3Psltcqo1XdOiQwrkZdXEM0Ba/tL2PnaP2FvUPJD5SCcKkroRI0zcFnE0KVQkBE2/o/eQJ3Tf4uKuI1AXfxwGnklfQUrta8RLcSb+QD4AedFcC1wMgJLwOv2pJ3HAYpfYvEpBLvdxY+ruK+s0J1t7o97aPd41tLedXodHUlb1DIDYUJwp1oqDGdfQAfzoA+pvI33iahAWFTXdpHE3BRxM6KUgE++2GaUVLr/OHorwOy/hny9nc7j5S2gBNdU2W9oGnl7G+p+yrwGB+BfQJy/NOI19BAiwdhiE6jRwc9QmOQTAfcZw=;OSMyR6Wu1GTHdDJmyBSP/w=="
 ---

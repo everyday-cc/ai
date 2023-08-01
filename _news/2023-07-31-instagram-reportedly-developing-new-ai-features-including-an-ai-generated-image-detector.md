@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-reportedly-develo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
 type: article
 quality: 78
-heat: 108
+heat: 128
 published: true
 
 provider:
@@ -45,6 +45,34 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-highlight.jpg"
         width: 1280
         height: 852
+        isCached: true
+  - title: "Meta Bets Big on AI to Revive Facebook and Instagram"
+    excerpt: "With new chatbots and image editing tools, the social giant is gunning to rise again like a phoenix—with AI as the wind beneath its wings."
+    publishedDateTime: 2023-08-01T18:56:00Z
+    webUrl: "https://decrypt.co/150882/meta-ai-instagram-facebook-chatbot-personalities"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 41
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_10988146041-gID_7.jpg"
+        width: 1000
+        height: 512
+        isCached: true
+  - title: "Venture Capital Firm Releases Instructions for Creating AI Girlfriend"
+    excerpt: "Another day, another step closer to the normalization of romantic AI chatbot partners — if Andreessen Horowitz has things its way, that is."
+    publishedDateTime: 2023-08-01T20:41:00Z
+    webUrl: "https://futurism.com/the-byte/venture-capital-ai-girlfriend"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2023/07/venture-capital-ai-girlfriend.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
     excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."

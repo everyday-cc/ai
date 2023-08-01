@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/6a/a6a22945-8b32-5424-be21-94d0e82a39bd/64b6cfc3e4a16.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "heA/8J/aBNAsb2Ev84t9Hu0rHnbl3LRlYytTiRoatQEveK26QnMbKLMB6UpuIL3ELCWngX1AGnM65h9ZgNgU9Qzz+QTaD/H7/4CS6R+9aou3wfQ0hQvvy1NzHqZX/uZCaGXRhuT4Hogi6Gq0P/F0skOUGqLatWGg5yU3E2N2tPwc+UiPWgKPX81lBTsOjjeUB+JZxi7RsI/kGvgHsIKjsf4u/aNFKwtRPLpIC8HQwFrRFYDqWbEjb2yYCg/sJt61xvNNMHjDp8jfDGjy+ZagY/8OW6vdlAgxBlefQZdvHaon3XLyDggH3qsMmpW5yh543NpRgvirOJhldofSAb4Bf9ZThOTaxI3zwy6yb0JzbDw=;ZvHWNzo1zzu9jS0Shn/uzA=="
+secured: "QoGGGZfWhGpSVlZx2+W0ZM/EUYtCqTsQ8dnuVH1a/sNpErt37h4fpSOOtCa/3medw2kY7P/+ZMRoX/RRYL2MQIX7HaZWLdAakmnS0stSTwxjJl1jJm1VRzZDwBKAzMw2B20qxxH32aCcY4oco4XcYNGAqtjaoEuweX969wKlLo6+CufueQ3+zQdwqUUzDIHF6ZQqDYpFbB5pNGW9a9y3bqDhvasrfGqLdX2gyI/gItRsxSsCiUmxe+b48cRHbcW2S94G87CRDBgtqz1B3e8S+zCEz+HC5ab4Q32WsE6epXaIAozYNktGOvLmagPduGcM0j8EJdXG0ZGu6T2shQihfMOi2Qkjridw5RjDzztXvMw=;9vnlC3T0bsaBmcDQV536nw=="
 ---
 

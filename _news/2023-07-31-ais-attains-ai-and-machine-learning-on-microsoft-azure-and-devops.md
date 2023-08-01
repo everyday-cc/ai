@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 286
+heat: 296
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
       - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842"
         width: 1024
         height: 567
+        isCached: true
+  - title: "Duke Health, Microsoft to Collaborate on AI Innovation"
+    excerpt: "The two organizations, members of the Coalition for Health AI, have forged a five-year partnership built around the new Duke Health AI Innovation Lab and Center of Excellence."
+    publishedDateTime: 2023-08-01T20:34:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/duke-health-microsoft-collaborate-ai-innovation"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_2289658777.jpg"
+        width: 2732
+        height: 1200
         isCached: true
   - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
     excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."

@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Skill development ministry partners with AWS India to upskill students in AI, data and cloud"
+    excerpt: "The Directorate General of Training under Ministry for Skill Development and Entrepreneurship (MSDE) is collaborating with Amazon Web Services India to upskill students in emerging technologies. The free online programmes in cloud computing,"
+    publishedDateTime: 2023-08-01T19:18:00Z
+    webUrl: "https://www.dailyexcelsior.com/skill-development-ministry-partners-with-aws-india-to-upskill-students-in-ai-data-and-cloud/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 23
 
 secured: "isZI+e0YA4hE7E03JtnDZ1yq5KqAmPxJqeOYqlKmkUfbBx4KMJ9WYVVXspyOCBtMKvTE0MyTuPfB4tYQNuu6Cl+3WveHx79vC3KPG9tn1BP2RwNj1PlM2V3Rjp6+FVj8R6KqN9FYd087jif37mjnvHJJlctk4al/lKzrNL12qR3ctmVnCUpbYleW9Yxf2vSpU556lfgu+LxPuzocRgWoupI9riBj2fn7QHfYjDrun5N/zR6OefcmxL3e4mt/4X3krUBWWfgxbXsikYQTj0bBViNN57cuOHL1MZQ19ArxlGsygdzrQQLQDb9Oiw7+bqIgUog2dorMc8bYFkNnxOxVvZyAmODM273Fn29CK5umB0QWqCsSs7osJjzact+672NyXm5AdVyqWgOgXyJCs99Ud9chR4HRaJVUXQJiWT2UtKrvAfSo0vNiNXnTVuvch/X0v9DbA2IVfiBI3ecdQ6HTCS4GT7zjFJ5/tkPA1ikRHQ1fN7nRS/M98PdFnQgL2+UqDq9PecQOaz+rEB6qJlLQgw==;E8OgjSGupt3INYTC7b7KZA=="
 ---

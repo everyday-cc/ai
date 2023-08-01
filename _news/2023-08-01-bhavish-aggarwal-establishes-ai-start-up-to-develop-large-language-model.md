@@ -7,7 +7,7 @@ originalUrl: "https://www.newsbytesapp.com/news/business/ola-s-bhavish-aggarwal-
 webUrl: "https://www.newsbytesapp.com/news/business/ola-s-bhavish-aggarwal-has-ai-semiconductor-plans/story"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1920
     height: 1079
     isCached: true
+
+related:
+  - title: "Ola’s Aggarwal sets eyes on AI, semiconductor design"
+    excerpt: "Bhavish Aggarwal of Ola and Ola Electric is venturing into fresh terrain as he navigates his businesses toward initial public offerings."
+    publishedDateTime: 2023-08-01T18:47:00Z
+    webUrl: "https://techcrunch.com/2023/08/01/bhavish-aggarwal-ola-ai-semiconductor/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "tw0HAR3wiUoY4OpnqW62eb2BGwamLlKueRg1R9WmC4yX8wxSJfp1VTgTtErOEbek7I8z5WYrh2x1qkb6nX8reuvz2UgdlIiVRorGZC8OZVek8DmIoTUhXyzK0MGiaHDxaR6mMkKqkQEBA/cLrE7qPBQbVERCqOLY/C0s32MRQ6Ndumn1QrtGS2Lo44vvRhD8h+qgGfvRP4bYL8NWORwh7ktNd1TCCXrXjXYi1TRu9QxI61HYjteVUGKLS5nvhWKdbf9+suLIS1uIHbvSP3/a/iXQ6HUcSpCimHrAwxPPThdIi1wEWarEUvkOvz6SPWoVAWKlLgQrtzm/l6NdYbFE7qX8MDvKdmd4+kcRPvw7quA=;THCJRJkHnzTmpg6rUSetUQ=="
 ---

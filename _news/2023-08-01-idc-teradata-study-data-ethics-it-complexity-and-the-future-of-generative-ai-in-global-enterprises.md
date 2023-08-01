@@ -151,6 +151,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
+  - title: "The future of AI in businesses"
+    excerpt: "Artificial Intelligence has been the topic of conversations since it first hit the public market. Now there’s been concern over AI’s ethics in school and"
+    publishedDateTime: 2023-08-01T17:18:00Z
+    webUrl: "https://www.wwlp.com/massappeal/the-future-of-ai-in-businesses/"
+    type: article
+    provider:
+      name: WWLP-22News
+      domain: wwlp.com
+    quality: 19
   - title: "TribalScale Partners With Senso AI to Unleash Generative AI Technology for Enhanced Software Customization"
     excerpt: "The strategic partnership will equip businesses with a formidable competitive edge by integrating Generative AI into their customized software solutions, paving the way for groundbreaking innovations and cutting-edge user experiences."
     publishedDateTime: 2023-08-01T14:23:00Z

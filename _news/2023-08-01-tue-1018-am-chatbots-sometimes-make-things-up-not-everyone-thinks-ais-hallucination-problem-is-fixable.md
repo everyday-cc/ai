@@ -57,17 +57,17 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain"
-    publishedDateTime: 2023-08-01T16:32:00Z
-    webUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/"
-    ampWebUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/amp/"
+    publishedDateTime: 2023-08-01T14:34:00Z
+    webUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    ampWebUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/amp/"
     type: article
     provider:
       name: The Denver Post
       domain: denverpost.com
-    quality: 56
+    quality: 48
     images:
       - url: "https://www.denverpost.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679.jpg?w=1024&h=682"
         width: 1024
@@ -87,7 +87,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
+    publishedDateTime: 2023-08-01T21:49:00Z
+    webUrl: "https://lasvegassun.com/news/2023/aug/01/chatbots-sometimes-make-things-up-is-ais-hallucina/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 16
 
-secured: "gf/dgq3fJGwOUMKxGY1Zy47MPDUoiZhiXABkuAtsyjmyUcM2+r3FmX2nKFjCo7zRm1ckGHECly6M+6B3G4+W0kz7WcIhs4UZC8yHRbWjYZkEpDSZJjmohIjy+VqODc06J86Jb7l1tDMjhzNqOB2C9BkHqSO3YVPFfzvyDsmJO6FGldbE0WE3vLMwM5uMx+2oK/0lQC+mJKflfuNcnNwzP6WyXV7CgeZgRVqqBsjqHwvHolVd4YL4I7sf1sFx/HpIZYgULyG+xd9650V8G8k+nI4zXRHpI7vSgPlkNATfxwYn+0+P0r/5G57hW3V/Fp7J5RmCLM1i4IqrXNQ/Vjj4ZF9OSGim7bNPenyHdTee59k=;jtWnrmiJr6uXrqmZ04+KuQ=="
+secured: "XLGUAP4GegX7QZRg5NE7vwBMaYg0tVJxKj1r3VIdjwuEUNVM8YVs6ddwEUsfr6aGnah3VzWobVbc6QrO1saKd+twndhj1OgLs61O9trXl610Wjc9v7FD7tvx9XJM5EUt3USuUlKcpQhHELvkUKlC3PxL8Ad0vrbGu/LSeUYEnR7dNELxMVEXp11Z82gGQiQXyC4B8WRsGj5Rzfp34cmfrqNbsyMU6LrdUtgg2UWTzFkaZdZKCJ9oed5Ntctim78xj9iCP/rcoWXlqErc0uv9A4sRv12mW6GrBeYjZiPQ56JxJA1zib/gO966a5OD1Peo2u/6kRrqvDO0BlynFPsSEOLU65R41DmJQ4LMW/lNYxt8SNM7sGJw2AB9YnAsF6YzyLQ4XzlcPuKR+hn9WExdY/XIS59YsgjONRFt+66qggyTkijWpOqVCuqsWzzdm5mXW/qyzrzjqMFermytPrO7Fb9rESMzwZ7pfHg9ta1NpXKbOro1c3rvzkw+UQtHApZryHJOW4hXWiAhpCl/ca1LwQ==;4erhuR3CFxsXqzwl7n0RMQ=="
 ---
 
