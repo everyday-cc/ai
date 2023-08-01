@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-b
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
 type: article
 quality: 109
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unleashing The Power Of Generative AI For Cloud ERP"
-    excerpt: "We are now entering the next innovation cycle driven by Generative AI, a powerful technology with potential far beyond the already impressive capabilities we see today."
-    publishedDateTime: 2023-07-27T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/07/27/unleashing-the-power-of-generative-ai-for-cloud-erp/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c278cf29aec797d46b2a65/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 691
-        isCached: true
   - title: "Can Generative AI Save Journalism – Actions For B2B Marketers"
     excerpt: "GenAI has an almost insatiable appetite for ingesting source data in striving for breadth of topics that it can address as well as the natural language of prompts and"
     publishedDateTime: 2023-07-31T15:16:00Z

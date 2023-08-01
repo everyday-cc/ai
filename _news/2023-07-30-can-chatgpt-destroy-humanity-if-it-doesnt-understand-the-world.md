@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Poke Holes in Safety Controls of ChatGPT and Other Chatbots"
-    excerpt: "A new report indicates that the guardrails for widely used chatbots can be thwarted, leading to an increasingly unpredictable environment for the technology."
-    publishedDateTime: 2023-07-27T14:46:00Z
-    webUrl: "https://www.nytimes.com/2023/07/27/business/ai-chatgpt-safety-research.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 34
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
     publishedDateTime: 2023-07-31T15:28:00Z

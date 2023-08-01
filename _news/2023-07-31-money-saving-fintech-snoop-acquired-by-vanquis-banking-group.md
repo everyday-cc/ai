@@ -57,22 +57,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Climate change and financial innovation: The rise of climate fintech"
-    excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
-    publishedDateTime: 2023-07-27T14:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "FinTech Startup Finda Raises $37M in Series C"
     excerpt: "South Korean FinTech Finda, which operates as a prominent loan comparison platform in the nation, has successfully closed a $37m Series C funding round. Finda has secured $37m in this funding round, with significant investment coming from JB Financial Group and 500 Global,"
     publishedDateTime: 2023-07-31T16:11:00Z
@@ -147,15 +131,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 1
-  - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-27T14:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "FSi7JBPq0uewDTbp9FUz1A/w8MCPUdeZAEAEOt7MDXaqpb6aZ42Ac9Bkm4oIrl2wluwvj94JYCqwgOOZe4fYciiPySHciEtxX7wJ3N04e11LZPpIzAjfgzE3o2/6as/65Gq3c93yI1aPfbPTSzCteVMB4VakMStgw/IFBMrmYbu4//EYM3pLHczgFEI4iD2sXQvlnLm0GFnYR7OZ5exZsR1zCn3Ob+Ng8sBu4XCw9BhRuYCNE+VVoAndRQ+9tc9/YVCmqcw+eaqNpBs74RlpwiqBBr/Z/jtiPE9DtRbYJnE1d+YcHKFgIufkvzDpjxwYJvsxT0gl2zvC4UcHP03URyJ66H80gGTHdnnyowrNP244aXyjXErZr/gg0IPh6PKVjHV49ygFfA768V1aqXcWTaV6Vv6pHtwyT2mVoAE7ZFjW0Vd1j/oc15z0ssaA4tu4T3dwqRlGzinvxMP5johjzibUwo7mGJibW8ASufqFTabkcofMioV6rnkEMkNElFPuPS7TyxxguQRdy9V5czudsw==;LLsSpT8q1gJq9cSjVN9JLg=="
 ---

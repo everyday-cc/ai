@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-fr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-5-online-tools-to-find-out/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/05q1XWgdyFHuBkikh5uAi3Z/hero-image.fill.size_1200x675.v1690489389.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The best ChatGPT alternatives (according to ChatGPT) – Digital Trends"
+    excerpt: "ChatGPT has quickly become the darling of generative AI, but it’s hardly the only player in the game. In addition to all the other AI tools out there that do things like image generation, there’s also a number of direct competitors with ChatGPT — or so I assumed."
+    publishedDateTime: 2023-08-01T05:45:00Z
+    webUrl: "https://www.inferse.com/659040/the-best-chatgpt-alternatives-according-to-chatgpt-digital-trends/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-11248.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4UcCt21PscRyuVgVbr5q6jQvRsOeOGD9F2K4w5HlcVRnEoH3HBZjct6k8b/KAq+2M3Q+KGMpAkh0vZv1hHGsCoVM1xwGRuqtRYZJ46phTHr2RxE0wRi6xVme/2gIuPplxHV99gc7FP/uC5DUsBmslC+UsPXS9dyiZIDJVwsWbK5zTW6+nKH1hwdf2pPbuWHrawHCzEJtDTpE72Y9xFr/453s7lgOQ4dNHZEZOEXK7zKaBnyrGKM3cA5bXjOi6uzQ4QfgGHwoRrdqZBMhzL9qZuWErRjNAKz1megxhejUAwybGfDoNOquiCjAjI0k4QGzAc0Mk4Mu3prEYcx5zNo8D0mwnb2I2btGhh7Qz6/pv49re8xhuaNPADq7XKKuOCORC8HKHk4FtA+tUXQypayiz2Y5ohSvyX7tNXxXEXmtlH72AhnlHF9DDZqKC/RXkBmWErqo9ygzfsBT1cFGZ8cDUWQFSmFTVmGrtwmADLC88jIWotYHqI4ffGik1MXILtxU9SGbzyThDkVchUZk5fRyvA==;gJS9t0vwGklt+5HnqOhTLQ=="

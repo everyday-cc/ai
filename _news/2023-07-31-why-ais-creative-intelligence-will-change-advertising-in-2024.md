@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-cr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

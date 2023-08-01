@@ -1,0 +1,64 @@
+---
+category: news
+title: "Generative AI is quickly infiltrating organizations, McKinsey reports"
+excerpt: "So far, North America-based respondents lead the globe in terms of gen AI adoption for work, with 28% of them using the tech in their jobs and outside of work, compared to 24% of European respondents and 22% of Asia-Pacific respondents (Greater China was just 19%)."
+publishedDateTime: 2023-08-01T04:00:00Z
+originalUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/"
+webUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/"
+type: article
+quality: 67
+heat: 87
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_woman_stares_in_awe_at_a_computer_screen_emitting_3D_ch_0ac4b32e-4db7-4f09-b48d-cafb845ae23b-1.png?w=1200&strip=all"
+    width: 1200
+    height: 672
+    isCached: true
+
+related:
+  - title: "4 careers where workers will have to change jobs by 2030 due to AI and shifts in how we shop, according to a McKinsey study"
+    excerpt: "AI and changes in how we shop could force nearly 12 million US workers to change jobs in less than a decade, a McKinsey study found."
+    publishedDateTime: 2023-07-28T16:36:00Z
+    webUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/64c3d73acf07780019665507?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "KPMG Will Invest $2 Billion in AI, Following Accenture, PwC, and McKinsey"
+    excerpt: "The investment will be conducted through an expanded partnership with Microsoft, which KPMG expects will bring in over $12 billion in revenue over five years, as the firm helps companies integrate AI into their operations. This amount would represent about 7% of the company’s global revenue, which totaled about $34.64 billion in the year."
+    publishedDateTime: 2023-07-27T17:28:00Z
+    webUrl: "https://iblnews.org/kpmg-will-invest-2-billion-in-ai-following-accenture-pwc-and-mckinsey/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 38
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/07/kpmg.jpg"
+        width: 860
+        height: 494
+        isCached: true
+
+secured: "FY/KPxvOjhqRIDYmTMc2PAEbUnAh5wuPfb129jJS+V2iWAjv1QIpYgLfgfRCZKdw8ZnUFqDRnFFJIVPFFlfi5ABoiJprFe9lozbu+zaozSXq4lJ2oCRLtmOa3GkiobKPKmDOKCDSyO3z3lWqhiLZ4Oy6B/5eWvIdB838nmRt456g00+xA3oS87wMrMGkLn/HTFDwonryl/1IfJKuZaOtk+z8UxJAPNW5XQBlM7xSGUaCZiYCDtKOseEYAc3iZMP7RISDgfgYALcTqMgAdnNUwcluKXHhSCJUxECF0/2ha+A7V0fvKvMV+tx2EmmILWFceCmGub7md42F3hLx8Oko7Q4CLPV98hrieiO8/v43Y3I=;m2NYxM6MwhAbkBHG7D0FVg=="
+---
+

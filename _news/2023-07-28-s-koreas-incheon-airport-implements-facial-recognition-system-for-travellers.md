@@ -81,17 +81,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
-    excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."
-    publishedDateTime: 2023-07-27T13:37:00Z
-    webUrl: "https://www.freepressjournal.in/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    ampWebUrl: "https://www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 27
 
 secured: "us0vlzu1k62CJgIVwobeGiGKcb+Pr0do0+EZNezeBaTi39R7ULIa5MfTvyqXhs3JdpukWGLXeQSIIpL/fUd4dj2XBpsnz6Lonx3VMw8kCeKoRZ72fbblSU2A6K4S4Dc9gGWEXeG1+FMBDRaBcl7WZlfZWLlQXi8b7R2A8YEi9qLUsPJMVvTgY5wNRTPZRP0MPOHZRRbyy4SpG64aDvz+IrTbdrRPVrTFf39TLqioWcVv21gwyQyUfYMfBMmK5r4eBkzas/+9dTIsEsNMk3lACMv9WE1Al7aSyKHYxyB5tR95x4VQ9DEvA++rQnFYobRUiBcIDqwcphs9zklwsE5n+3E7v/nX39qSF7+inJhi+ymwfcISRdR+nBUl24huTO2WYEHGKZCzkTa2IV7Lm774W63dJO1wnu9zU9PIzdLY+xQZRbjqBTx5/52XZq+wHPkJ3w7cXy/IqqSILShCA6HuHzwb77Acx4Q8Zq84EuB1THt1tIuuRdpPElSGOr6l8yrvcHOFh0F4XzYFEaY+knN0zg==;GSfR0oQNfUToQpLUID1nvQ=="
 ---

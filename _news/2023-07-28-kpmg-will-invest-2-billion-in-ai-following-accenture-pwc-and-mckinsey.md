@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI is quickly infiltrating organizations, McKinsey reports"
+    excerpt: "So far, North America-based respondents lead the globe in terms of gen AI adoption for work, with 28% of them using the tech in their jobs and outside of work, compared to 24% of European respondents and 22% of Asia-Pacific respondents (Greater China was just 19%)."
+    publishedDateTime: 2023-08-01T04:00:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_woman_stares_in_awe_at_a_computer_screen_emitting_3D_ch_0ac4b32e-4db7-4f09-b48d-cafb845ae23b-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "4 careers where workers will have to change jobs by 2030 due to AI and shifts in how we shop, according to a McKinsey study"
     excerpt: "AI and changes in how we shop could force nearly 12 million US workers to change jobs in less than a decade, a McKinsey study found."
     publishedDateTime: 2023-07-28T16:36:00Z

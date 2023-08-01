@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-15-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
+      "title": "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth",
+      "excerpt": "The \"Neural Network Software Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32866210/global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32866210/global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32866210",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32866210",
+      "publishedDateTime": "2023-06-14T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-with-chatgpt-defense-investors-are-learning-to-speak-ai.md",
       "title": "With ChatGPT, Defense Investors Are Learning To Speak AI",
       "excerpt": "With AI exploding into the public consciousness, companies that once struggled to explain their machine-learning, national security tools can operate with the confidence that their value proposition is now more intuitively understood by the both the ...",
@@ -1305,49 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-improving-fluid-simulations-with-embedded-neural-networks.md",
-      "title": "Improving fluid simulations with embedded neural networks",
-      "excerpt": "While neural networks can help to improve the accuracy of fluid flow simulations, new research shows how their accuracy is limited unless the right approach is taken. By embedding fluid properties ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
-      "originalUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/improving-fluid-simula.jpg",
-          "width": 2031,
-          "height": 1074,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
-      "publishedDateTime": "2023-06-02T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

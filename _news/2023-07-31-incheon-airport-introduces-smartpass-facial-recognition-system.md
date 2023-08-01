@@ -82,17 +82,6 @@ related:
       name: The Star
       domain: thestar.com.my
     quality: 30
-  - title: "Facial Recognition Success: WR's Operation Yatri Suraksha Apprehends 460 Accused in Theft Cases"
-    excerpt: "Operation Yatri Suraksha, spearheaded by the RPF, has been instrumental in securing the belongings of passengers. The initiative involved meticulous crime intelligence and the strategic deployment of 3897 CCTV cameras, including 488 cameras integrated with FRS."
-    publishedDateTime: 2023-07-27T13:37:00Z
-    webUrl: "https://www.freepressjournal.in/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    ampWebUrl: "https://www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/facial-recognition-success-wrs-operation-yatri-suraksha-apprehends-460-accused-in-theft-cases"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 27
 
 secured: "zshE7G8ZJYjTGMEY0rD7n6IOkFFdWhsqaLV5vV3KIFl8RTAiW8Zk5tyOQJOy9quZTYVnhnDCHwv1jCY1O+AoPdBf0Rr8C9HcQ4Up+F5Eljpwe7xjJk4LW3p6AqCwvdWeFBDJYjJjqCONmA9nPKpHn/r6nbk2KYMNICaNlv3YmV12bdey/D1ipDHmAhCSy4UhMmk7m41A6LwLn60mm5sWaFgTWRo7/oNqON+aIsoDCKclAsIFZ5s9Z0wbXvVyHjwFDEqmpL2Is4VSIBj0UQaGF3nX8zIoG+KpgB9okkMJ/LU4Bu2XDJV9ha2XQGm++gZhQ625JpjTwsZAQKrGfoXWF+2+lpe2G7WfIhBCt8OY1iSiS0twHFhoDg4bnn8ZTqKsSPfWXye8Y4US5Ho+0o7AYj33c2uBQPMsVpoWmegbYSAjKEkkmmAJ7PaAtgt/h+SeDd9LzhHa3vjdjdMyaQm1grziwNexF301qckG3DE5GIjulgxRc02u1Iv2C4prDcr4oeEkquWppinHFTJpUbIESg==;Zkq8d4T5u/7wDJHIMr0yVA=="
 ---

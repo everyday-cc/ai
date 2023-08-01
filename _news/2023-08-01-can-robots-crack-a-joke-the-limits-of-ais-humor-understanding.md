@@ -7,7 +7,7 @@ originalUrl: "https://neurosciencenews.com/ai-humor-23736/"
 webUrl: "https://neurosciencenews.com/ai-humor-23736/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1344
     height: 896
     isCached: true
-
-related:
-  - title: "Kagan: Understanding the many different faces of AI"
-    excerpt: "There are countless different slices of the AI pie, and depending on who you talk with, each of these are breathtaking and industry changing."
-    publishedDateTime: 2023-07-27T14:03:00Z
-    webUrl: "https://www.rcrwireless.com/20230727/ai-ml/kagan-understanding-the-many-different-faces-of-ai"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 39
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2016/08/11888402_l-e1679417731662.jpg"
-        width: 696
-        height: 704
-        isCached: true
 
 secured: "2w7TB9NoUKPPm0SQwalNWJQy7u/djL3vkz56kweGqDx6ImiL2BGxa3o4H243SahfGdMRQsrEr7X4rJ1S7ptUBWxKJh9jM35JAU4Ov5H5vleOyoVJRfAjMkYz7nOL6teZVg6OzqSngzV54dIV+O9JA1ReDGtSWT5536GtXqzEl800v5LfwdirUZEA5dYId9tr1oyKMF8whMaOAIIXZN7Wjl5Lfx3ztRd/s4Gj4EMnqctlv+MnHeAJ7cHy9iRHpVghaMgQbcIu8NFApEuwD753F18BVBa9xzDqXxnk54rLnJsk1J9yX+d0KpZ7oPaIZWLCMppHT9rMUFU1Y+wvFRFNc9/czhTVsVuNwDgmK2Zjjze+vUTSDMthF3HaaAvx8sqInRrMtBHwnyjNVPkpr9YPacKzyAnIRbDV4+7eF1pBql+c0A+QSp3UOPZNxtF64c5CyXOeS7Ibtou7BTPc5SzFTeUy+M6e0X5dobHgSkrR2mG+b4lS/4QiCsHxcRZ8ZhIbn0rwUWKfPUr0DnI24brrdA==;sWu26+pqigbc7atZQX7B8g=="
 ---

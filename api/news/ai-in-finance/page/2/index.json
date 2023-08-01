@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-05-fintech-in-the-age-of-ai-4-trends-to-watch-out-for.md",
+      "title": "Fintech in the age of AI: 4 trends to watch out for",
+      "excerpt": "The fintech sector has seen rapid growth in India over the past few years and artificial intelligence is likely to have a major role in the space going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "originalUrl": "https://www.indiatoday.in/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202307/fintech-trends-in-ai-051707-16x9.jpg?VersionId=STUAezWZDWYC2ivXyqLJYze3a3Tk7jpM",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
+      "publishedDateTime": "2023-07-05T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-meet-34-rising-stars-making-waves-in-europes-venture-capital-industry-in-2023.md",
       "title": "Meet 34 rising stars making waves in Europe's venture capital industry in 2023",
       "excerpt": "There remain some bright spots in Europe in areas such as fintech, AI, and climate tech. But the current generation of investors must show more discernment in picking companies than in previous years.",
@@ -1294,49 +1337,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-zenarate-ai-simulation-training-wins-banking-tech-awards-usas-fintech-of-the-future-as-it-transforms-how-contact-center-agents-learn-and-perform.md",
-      "title": "Zenarate AI Simulation Training Wins Banking Tech Awards USA's 'FinTech of the Future' as it Transforms How Contact Center Agents Learn and Perform",
-      "excerpt": "Zenarate takes top honors in Artificial Intelligence & Machine Learning Category for developing confident top-performing agents through its personal unbiased AI Coach Zenarate AI Coach is the \"flight simulator\" for customer and prospect engagement where agents in training are immersed in life-like conversation,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/14/9832733.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/14/9832733.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1690386/Zenarate__Logo.jpg",
-          "width": 400,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

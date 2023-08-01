@@ -78,6 +78,20 @@ related:
       name: altfi
       domain: altfi.com
     quality: 10
+  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
+    excerpt: "H1'2023 Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1'23, while Singapore H1'23 funding fell to"
+    publishedDateTime: 2023-08-01T07:30:00Z
+    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/08/01/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds-/236980"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 0
+    images:
+      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IsbI5+Ev7eSUyK91Lts65wH8Yt/WzC82FReAznrkQjqoV6Ie3ESwusInOBb9onjnVD3yBHPjG9qae58r4YADzSyMQ+xw846nt5SBA5Ls4RDIN8QPPvPhpuWVoyVowVRTu+exhFD66pXnhbjuA7N2BbKre6jHc4NMNuywczJPKGE6VuKLxnLyG6/jcssg9uQCtLbnTFvjfaTlFYo4hg73ZjAEMorbXCPps1J35AOMDZW5qtKg4yOE+VliDT4Qh8Piu7rtO2XB4+WDbAsQx8uMrQGyrhW/KyObNT5K3ont9cfLQ5GUw+g9A+bVCWa+YkXvYxkYaqiUuXqy7a876Upzx8uHiEc4A0H/tbCIswb0iZyInYgVVStdyUi5CDKeR7qzUkRyokF31BR6oiFD9AIZmRY9hRuhOPk3g/BfELIaWOpUzv6X5yMA87rQClcn5ETG1Eg137ysaNMZvrVdVJs/NyI8bZu3B1q6BoBNz2cERct/FwK22N2DaEYoPWtDYRwMRn2/bN7apjKAijoFIOSK4Q==;3IiNckmXwGJ0CKrZbhFc8w=="
 ---

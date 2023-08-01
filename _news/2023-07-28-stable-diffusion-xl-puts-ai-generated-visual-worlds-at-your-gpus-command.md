@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffus
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Stability AI launches SDXL 1.0 text-to-image generation models"
+    excerpt: "Stability AI has announced the launch of its next-generation SDXL 1.0 text-to-image generation model. Making it available for anyone"
+    publishedDateTime: 2023-08-01T05:55:00Z
+    webUrl: "https://www.geeky-gadgets.com/stability-ai-sdxl/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Stability-AI-SDXL.jpg"
+        width: 700
+        height: 446
         isCached: true
   - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
     excerpt: "Stability AI, a leading open generative AI company, announced the release of Stable Diffusion XL (SDXL) 1.0, the latest and"

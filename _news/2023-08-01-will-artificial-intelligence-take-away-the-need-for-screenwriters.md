@@ -2,17 +2,17 @@
 category: news
 title: "Will artificial intelligence take away the need for screenwriters?"
 excerpt: "A screenwriter and AI expert share why AI has become a hot topic in the union discussions, and how the career could shift in the next decade"
-publishedDateTime: 2023-07-31T19:59:00Z
-originalUrl: "https://www.wxyz.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
-webUrl: "https://www.wxyz.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
+publishedDateTime: 2023-07-31T20:15:00Z
+originalUrl: "https://www.10news.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
+webUrl: "https://www.10news.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: WXYZ
-  domain: wxyz.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "F2jYXDxA+LrYwkL1FIj6mbIyD3s5uWwZcKUCEs/9rv86TVnSjzCpb7KhSDpmrUy+t+g4GoOobN9y8MIvsadN8R+fFXOMx55fRsEvUU63nWwblJ/fOrOiGRcbmPrizWrKGKt8AFREL+/OVsy/wD3f2dVE++wS23X6HRBN2VhqRGpwVnlDuNrDoDKcUkSXylwi0FFLM78TKwGpxEsakPKOcB2KkgkwNqcmrNE3+DKjX6ghGfNBXNh0lJ6mRZ+vpaVJSmdice3UZsuzTwsI6gDOGmE/75zpjOayt2fyclCIcpCUUeg4Xas5DVcZKZlaXYP2/0XyIS8gr981CniXAAHdQy9rxmWybhHNHJOxMd7PZyI=;SKPJ7zyaMp6WABZTHMHUlQ=="
+secured: "ghxMo9CgGH7IBWuBOj0Ja4ULLvQiY+w7N9b8x/yc9gaDZPsueOFarquzJurru2FtrmylqMJofrssQYCtIXgo0ceyD58b3MGDn8LjB4cO3ZVDy9+Jb5FdoDUp5JgwVYCZwoFdeobWgr1Wu5Vq4IsvT2rCrlKfXT9zIswaZaI32E3sUaqoQS4R4NOD7jWgm4qnWe1lbhL2T5FYUprNOKokoPABzyi+wraGc0/7v+hm7ZA9CVFajIbp7dA2HJl1zx89N0jh21omtwTlSRzmrtXwgtOK8p3QOM8KjZz/MYjhGybiC0+9gHRP/GTYBaLBBhPgeH/q/aqNF8PpLMeh3g2Kgc+7xoXyRSlz3v/DJgyo1Qw=;p/IumQ1QGOmwgTYzlYvwWA=="
 ---
 

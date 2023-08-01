@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 296
+heat: 306
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/8b4861b/2147483647/strip/true/crop/1400x735+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F73%2F93%2Fb4f2333c4c9683b20a87af71fae0%2Fcloud-vendors.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
+    excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
+    publishedDateTime: 2023-08-01T07:43:00Z
+    webUrl: "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 73
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png"
+        width: 1000
+        height: 715
         isCached: true
   - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
     excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."

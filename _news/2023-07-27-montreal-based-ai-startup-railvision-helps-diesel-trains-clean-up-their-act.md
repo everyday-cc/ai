@@ -9,7 +9,7 @@ ampWebUrl: "https://financialpost.com/transportation/rail/montreal-ai-startup-ra
 cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/transportation/rail/montreal-ai-startup-railvision-diesel-trains-clean/wcm/17e3d882-3806-43db-9708-aff584015d46/amp/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 750
     isCached: true
-
-related:
-  - title: "AI Startup Helps Diesel Trains Clean Up Their Emissions"
-    excerpt: "RailVision Analytics has developed artificial intelligence-enabled software to help locomotive engineers make  adjustments in train driving that could lead to savings in diesel fuel."
-    publishedDateTime: 2023-07-27T14:54:00Z
-    webUrl: "https://www.ttnews.com/articles/ai-diesel-trains-emissions"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 37
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Locomotives-bb-1200.jpg"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "DBnnRt4CO3QoAJNiRgN31IYB+5a5AK8oLy5NxTPXDG3DL4k/wNJMA1GWpo5aKivraPf+NVJfXM+Te2xQuYdAoOahIMTEU6chts1wcLl7vwpPBTR/81zTwcbqUzvBIGSg3p+UEi3HMfiyUne6xTK74qcpe3eKLEJoslYvBhqS+aR9Cd7OT7L+rEXJ1EPNU1TsQSQLKVEU+xNdR8+aphbDKECClZWTRXztf0GPtprfMipK7u4X3OF82dcOoCdFJzAuFefBT7W3M9ft+O9PaBzXBa+MOeDOv9E30dmGA27P9EJecykjAFzi8Td2DZrMk43npACz2MKUBxNBV5ELxuYXrKrhAhQLUFdY2C9PObr8ZJ4=;bR0bZydwDBcSO72/JY09VA=="
 ---

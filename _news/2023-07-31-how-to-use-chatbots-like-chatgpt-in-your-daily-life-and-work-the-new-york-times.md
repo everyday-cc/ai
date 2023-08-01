@@ -41,15 +41,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Researchers Poke Holes in Safety Controls of ChatGPT and Other Chatbots"
-    excerpt: "A new report indicates that the guardrails for widely used chatbots can be thwarted, leading to an increasingly unpredictable environment for the technology."
-    publishedDateTime: 2023-07-27T14:46:00Z
-    webUrl: "https://www.nytimes.com/2023/07/27/business/ai-chatgpt-safety-research.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 34
 
 secured: "KWx5wFrsvSq3T62pVmQL1e/6R8CFhmum93lHNDH24Owix6ijcq2Ts96BcUoi3SjC5S8GZGoKr2hkEfr2oGgB9ZH2PV/Zz3YVPjlqE4W2tDUDVusyoOO5E9rRmo+10HlupsVoD2dNcb77FBNR9kKVyqlGCT8L7B/wW9e4mjAT0VZnkyYo8wn6DLayM/tFLvan75cbsta+mVf9FZfO6XsNIXUmg708vOazkN8dGjwikeshmlumQYMpaeJbHhw/sCp0bNwxAl9G42mKs4gqcTRTBHFcTX+xxDgRaZt/B4yho/zGyC2kp9MoFq6SRXyHBCbCe7FDJruiUPnrG8ZRqGdJmnEf9/pSqnZSlMdQlKHjSjQ=;RqPHf3d5FYglfeqmwcyiVQ=="
 ---

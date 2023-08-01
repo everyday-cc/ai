@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The best ChatGPT alternatives (according to ChatGPT) – Digital Trends"
+    excerpt: "ChatGPT has quickly become the darling of generative AI, but it’s hardly the only player in the game. In addition to all the other AI tools out there that do things like image generation, there’s also a number of direct competitors with ChatGPT — or so I assumed."
+    publishedDateTime: 2023-08-01T05:45:00Z
+    webUrl: "https://www.inferse.com/659040/the-best-chatgpt-alternatives-according-to-chatgpt-digital-trends/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-11248.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RiVrfCyDh+kZXePcxu9ClXQqnBAPkisVgithm0/v6l2UR0gmbX0dooTnF3GYQjtqkSBo48KDIbdH+MbRG/XMXzvQ/kJSztpz8r1LFOuNIyyFWfef+FyiHfQTwy+jYVHz8aVL8Bd4fdpB9Pye61GwcpdHfw+wzAH6sqnK/RsXnpq5OSqhFdkz3LzQLjaOULkSlo6rvpny9tZOcje8BbtlXzLLCaZXbhHSFIAjvZNQwwsmr6TmF0KiekwEBYFfqGvGUSV/K2dUQAQAUrNvrN8rwN4xe0u1oTIEjqEiWgSntmSvsBkK8KdLL4HEXh6BS49tgasCFGXnChoFMCz9goj6uXa1fpg73KaUfOw2U4bDLy3xgxojWJgb4uolg0ULx2D9wCjKU0aUre7rQ//e424bcA1eLZHpD86+clUb+OkZxikQ3YaFw8JQHR+X56ZCOeIvueX53zRW2gZCxw+WLNfNFjNpJSgqtRPMUQD+Ku8oQxdq7c+FDeuZsyQulGrAbD2EoVFEUblI+K6RDXNQmGOUkw==;H2YUnp4Lw6Jm7UoyB+J5HQ=="
 ---

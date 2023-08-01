@@ -88,15 +88,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "How The Era Of AI Is Reshaping The Cloud"
-    excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
-    publishedDateTime: 2023-07-27T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/how-the-era-of-ai-is-reshaping-the-cloud/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial Intelligence and the Broadband Business: A Black Box"
     excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
     publishedDateTime: 2023-07-31T18:28:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-rec
 webUrl: "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: SiliconRepublic
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital rights group NOYB challenges Ryanair's use of facial recognition"
-    excerpt: "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking."
-    publishedDateTime: 2023-07-27T13:37:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 73
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Ireland's Ryanair's use of facial recognition challenged"
     excerpt: "NOYB has filed a complaint against Ryanair for violating customers data protection rights by using facial recognition to verify their identities when booking through online travel agents"
     publishedDateTime: 2023-07-29T10:42:00Z

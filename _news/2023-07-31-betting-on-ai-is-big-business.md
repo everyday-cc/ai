@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "How The Era Of AI Is Reshaping The Cloud"
-    excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
-    publishedDateTime: 2023-07-27T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/27/how-the-era-of-ai-is-reshaping-the-cloud/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Risks of opening up AI"
     excerpt: "Meta has annouced that its Llama 2 large language model will maxde freely available under a community licence with certain restrictions"
     publishedDateTime: 2023-07-28T10:15:00Z

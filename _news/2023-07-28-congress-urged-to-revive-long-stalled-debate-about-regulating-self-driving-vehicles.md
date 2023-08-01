@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Elon Musk says Tesla’s new Full Self-Driving update is ‘mind-blowing,’ but that doesn’t mean much anymore"
-    excerpt: "Elon Musk says Tesla’s upcoming new Full Self-Driving v12 update is “mind-blowing,” but that doesn’t mean much coming from"
-    publishedDateTime: 2023-07-27T14:21:00Z
-    webUrl: "https://electrek.co/2023/07/27/elon-musk-tesla-full-self-driving-update-mind-blowing/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 52
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Fans Think Ford Is The ‘Major OEM’ That Will License Tesla’s Full Self-Driving Technology"
     excerpt: "Full Self-Driving has its detractors and supporters but there’s little doubt that it has flashes in the pan of brilliance. To that end, it would make sense for any brand that fe"
     publishedDateTime: 2023-07-29T21:34:00Z

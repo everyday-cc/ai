@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI is quickly infiltrating organizations, McKinsey reports"
+    excerpt: "So far, North America-based respondents lead the globe in terms of gen AI adoption for work, with 28% of them using the tech in their jobs and outside of work, compared to 24% of European respondents and 22% of Asia-Pacific respondents (Greater China was just 19%)."
+    publishedDateTime: 2023-08-01T04:00:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_woman_stares_in_awe_at_a_computer_screen_emitting_3D_ch_0ac4b32e-4db7-4f09-b48d-cafb845ae23b-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "KPMG Will Invest $2 Billion in AI, Following Accenture, PwC, and McKinsey"
     excerpt: "The investment will be conducted through an expanded partnership with Microsoft, which KPMG expects will bring in over $12 billion in revenue over five years, as the firm helps companies integrate AI into their operations. This amount would represent about 7% of the company’s global revenue, which totaled about $34.64 billion in the year."
     publishedDateTime: 2023-07-27T17:28:00Z

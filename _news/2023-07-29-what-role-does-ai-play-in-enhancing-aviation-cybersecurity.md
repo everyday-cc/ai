@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-doe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 273
     height: 273
     isCached: true
-
-related:
-  - title: "Five Ways To Boost Cybersecurity Training Efforts Using AI"
-    excerpt: "A personalized, interactive and collaborative approach to training can increase security knowledge and instill a feeling of accountability and responsibility."
-    publishedDateTime: 2023-07-27T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60d34861b0dc90f4f81bfd48/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "5jgkHSWFNA+Q+UsSyWmXe15yOsoOfICSjNL4pJYjlsx5hY5kvljgVO78XCrtXoEFCFbEywf5wuwifGQIc8Kx6U+q+BAROv3NbRJoXwHL4I88WzzAdItF9Tr0aDxqcvFl2TqeTkc2OrCitkQ86fJZXw/8/OSbxlUSRff6TDBjYjF/d9Fk8Y8JXkIVuSv55neK6Joj3x/mSczp3/oBSoYj0jPcdNJrLuk+2FBwS78rteYV7Xm35itetllgGibWslmz1oQnx2Hm3kStzl6f9NGnF/pwWGdJzNA742Mtg65b9herLMyd7nAHMyzvcBXClD67s11nswws+q/n6X2x1o9sOu6vUEQkViWwZIssF9JxjWvr2NEC/2RXyUbQo1uaWaAgbdhaX03ArvMmp2poeNNB1ym8UfVsvB2EbnybmKRpz3Dga8Fn//RphF1XMgxaAiQAOOfCnZlxFp40n4i9FzJQXG4DdgCA+iZaOLXXO+oQqP5nYyHY28CoIXhnXJSwwA/mYrGg288Uon5O2iog8QbdFQ==;1MfBtODI5YIIM/xVnpuKUA=="
 ---

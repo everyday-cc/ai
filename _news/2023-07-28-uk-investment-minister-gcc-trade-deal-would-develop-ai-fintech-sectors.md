@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "JP Morgan backs new Tifin AI-powered wealth management charge"
-    excerpt: "JP Morgan is investing in a new AI-focused venture from Tifin, an umbrella group operating a host of wealth management fintech businesses."
-    publishedDateTime: 2023-07-27T13:12:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42702/jp-morgan-backs-new-tifin-ai-powered-wealth-management-charge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "bkNzTNojR1H9nWKQYxnqgLr+I/V1+Lkim5gPbIFCrfsJX5HomOE8XAfQCdjFldVHF6mUICbHWNw25aXAVW5i9NQJAWpTsprX2Rh1DlN0ClkK9ojq+hML3UdEpnIx5V8AszEu7cvbtxsgQ8CrpsvCdMJRgayaa9dRuu2jydCTS4jyTNPOhb9lpE0D4gdy+SjhmJI/N2TKNAuy0pNHPBP11YdcVN73offlHuX6enYD7AzeTDxDx+qbPV/T3Xc2FT1rvOFWhTt9Y7CPiRDIQLIB8gJKAW6qyMWlf6arh9DJKOltdELHp4Now635lWX1bfU09UfIbOjMW3uy51lsNtc2m3p7puhDIKVhkJ1j3OZdFpOzcCZDFstscouKkIO4DtbUdyPjDVOGrvpZDXKRrPV3G8tR+u6k1OetERyEP9BDLvSFZpRNQGj4SkXihn9hLvqop3SPjqmnTJH5IEiCWt2Bf87qHsFjOet/oOc99K0h2hS/KWJBhYNmrfbXbvXw3C674YcVl9SRZBDdiK0BZj8Gkg==;8n8cIhYRHDDhN5VE9nlk0g=="
 ---

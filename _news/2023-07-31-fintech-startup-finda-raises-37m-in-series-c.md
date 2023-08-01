@@ -71,22 +71,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Climate change and financial innovation: The rise of climate fintech"
-    excerpt: "The crisis of climate change is a pressing issue that demands our attention, particularly in Asia and the Pacific. The intersection of digital technologies and financial product innovations has the potential to revolutionise the"
-    publishedDateTime: 2023-07-27T14:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/climate-change-and-financial-innovation-the-rise-of-climate-fintech/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-31T10:53:00Z
@@ -147,15 +131,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 1
-  - title: "Fintech Platform Croissant Launches with $24 Million in Initial Funding and a Mission to Change the Future of Commerce"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-27T14:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/27/9855387.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Dr68Qb8e98UC2f1uuGGKb6S5p9laUeS0DUskBNWjw/cu3b53H/eWgyLnEv054aakteQHd8McnAxYj4h0Sy5aPRVl3pi1NOVydc/pIheY429/TzP/ysg1QyLQx0BLDCTTUWQjJPYWZfaowxZOEnqA62CMW1Hr6I6nfRrvnawnTF5sUc9Nl3az36WsA6R7daVypoGeXYH13FHvc2w8wQHIJTMUTypC+7BOsZWCZ4AuL3hazCwcu6eismDJnDoZG8l1BhiVJW5AH0KloHgSOJ0lULAoQn6MAftCRpxdLTeRMOhI8vS2RJh83oYsaxEbPEgeuDvbalgbgq21tVxLGsQPVdp3qINosp0HXipMTMAR0jw=;UpSkeooxyd0OV1PvckQV3A=="
 ---
