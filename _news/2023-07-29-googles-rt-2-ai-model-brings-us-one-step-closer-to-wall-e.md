@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Google’s RT-2 AI model brings us one step closer to WALL-E"
-excerpt: "For example, Google says that RT-2 can allow a robot to recognize and throw away trash without having been specifically trained to do so. It uses its understanding of what trash is and how it is usually disposed to guide its actions. RT-2 even sees discarded food packaging or banana peels as trash, despite the potential ambiguity."
-publishedDateTime: 2023-07-28T21:32:00Z
-originalUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
-webUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
-ampWebUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/"
+excerpt: "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a “first-of-its-kind” vision-language-action (VLA) model that uses data scraped from the Internet to"
+publishedDateTime: 2023-07-29T15:11:00Z
+originalUrl: "https://www.inferse.com/652061/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
+webUrl: "https://www.inferse.com/652061/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Ars Technica
-  domain: arstechnica.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Inferse
+  domain: inferse.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rt2_hero_1-800x450.jpg"
+  - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7839.png"
     width: 800
     height: 450
     isCached: true
@@ -57,6 +51,6 @@ related:
       domain: businessinsider.com
     quality: 64
 
-secured: "X2fESuqBxP61czv0TRbnAwSm8+nTetDF7xhwQr6E8DHpT3wPWIa2h467tfjMtPzAoDBKm1KU0BpFdAiHX+N0weFVAi0EzmdOt1s1yohR5mY+d+2GLRAO7UcGkWq7ukDgJZ3Vb93mShLZJAw2r1G0An1bXWfH+2ylcCJeNb5tilAdHyE1uFUev8RMKh3iylNeTLrZWj270k/rJpM6alqIeuUx1ou16HsWyVK2oofMt4cF/oKRvgbgnSpfwnsjQ+ErwB6RfyoPGO8wB+EyX8Rmcx3ekL2eNO/VD2onWJExrzSo9QTI4LH521GD08ERuQoN9V422YZIBwe1G+LM4PcIE5DvYqLdJuPxh601iN7HCo3prmAxvhP5Q8mcFPfvDeGAWWbPX58CFUJHNIN1FHtgK/qMn4qfmgMGuv6ebzUw/uuaLEr73YV6EYed70sror5g1YGWtUWxNBpN6qZ7IlA4s7GBJp3HyrAoofR03WGpiskd4h+QORnvwLMHAp5avos8wa09lEbeijQrPaR85oBkQQ==;ESkI4prCg6HwEFfvg12+kg=="
+secured: "h5PliU5Ql4G+5zN5itpzckCwvTAoovTQdeJ/2KVByb6kAuyb22nCD+0lgxNdENurGIXbnfQ0qfa2P6grJWLr6C5dmf6Pba37Aa9F6K9D9OF2rSks0RGPA6xUdJaWatspTUQQwHBR9Qichwc8i0JNXsx1CluLx5S/mXuN28t4iF76Uv+AGMmI+yUr71PO9PXubW/gnJvyG+NLDyaGfIFdwoW5VZCfdazHd4H9IEImBDOOQfQb79ghtJ/SvQSLQzF1e47gPvXhKIUVhslB8uqPqU5KkHWjMr5xnO3epMKFwYpYf+x/BiLIcejWmcGvdsyrMdFrMf9EIOem4+8ARIGb1lkAtEMuRODE/ZUqYzgMSGA=;SQdP6cUIOWTgNG0hgJJB7g=="
 ---
 

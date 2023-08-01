@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence M&A performed in the power industry in Q2 2023"
+    excerpt: "In the global power industry, there were 2 M&A deals announced in Q2 2023, worth a total value of $12.5m, according to GlobalData's Deals Database."
+    publishedDateTime: 2023-08-01T02:06:00Z
+    webUrl: "https://www.power-technology.com/uncategorized/ma-activity-artificial-intelligence-power-industry/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 37
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2017/09/Report_desktop-1.png"
+        width: 388
+        height: 544
+        isCached: true
   - title: "How artificial intelligence M&A performed in the pharmaceutical industry in Q2 2023"
     excerpt: "In the global pharmaceutical industry, there were 6 M&A deals announced in Q2 2023, worth a total value of $191.2m, according to GlobalData's Deals Database."
     publishedDateTime: 2023-07-27T17:10:00Z

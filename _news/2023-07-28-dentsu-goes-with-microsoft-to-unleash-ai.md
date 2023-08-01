@@ -141,15 +141,6 @@ related:
         width: 505
         height: 336
         isCached: true
-  - title: "Microsoft Touts AI as Cloud Demand Cools"
-    excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
-    publishedDateTime: 2023-07-27T10:53:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-msft-q4-earnings-report-2023-3d6ebe64?siteid=yhoof2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Microsoft Introduces Azure Deployment Stacks in Public Preview"
     excerpt: "While using ChatGPT through a web interface is one thing, creating your own autonomous AI tool that interfaces with ChatGPT via ... Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection ..."
     publishedDateTime: 2023-07-29T17:47:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-29T16:30:00Z
 originalUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
 webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"

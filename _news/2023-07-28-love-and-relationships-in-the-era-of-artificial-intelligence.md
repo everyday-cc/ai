@@ -7,7 +7,7 @@ originalUrl: "https://www.cnn.com/videos/world/2023/07/27/exp-ai-love-relationsh
 webUrl: "https://www.cnn.com/videos/world/2023/07/27/exp-ai-love-relationships-intw-072701pseg2-cnni-world.cnn"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,37 +22,28 @@ topics:
   - AI
 
 related:
-  - title: "The Indispensable Role Of Agencies In The Age Of AI"
-    excerpt: "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality."
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
+  - title: "AI ushering in a ‘profound change in our relationship to machines,’ says tech pioneer"
+    excerpt: "A transformation of the way we live, work and the “very experience of what it means to be human.” Four leading AI experts discuss the threats and opportunities that lie ahead."
+    publishedDateTime: 2023-07-27T19:22:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2023/07/27/new-era-of-ai-amanpour.cnn"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The emergence of an AI revolution in the IT industry"
-    excerpt: "Incidentally, AI as a concept was also first introduced in the 1950s by Alan Turing. Early AI applications were limited due to computational power constraints. The exponential growth of computing power and access to big data laid the foundation for AI development."
-    publishedDateTime: 2023-07-28T02:30:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+      name: CNN
+      domain: cnn.com
+    quality: 40
+  - title: "CFPB Explores AI’s Impact on Consumers’ Relationships With Financial Institutions"
+    excerpt: "A key pillar of the relationship between consumers and their financial institutions is effective customer service. We consumers expect that the financial institutions we trust to hold our money will provide us with prompt and responsive assistance when we ask for it."
+    publishedDateTime: 2023-07-27T17:30:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/27/cfpb-explores-ais-impact-on-consumers-relationships-with-financial-institutions/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Law
+      domain: law.com
+    quality: 34
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-27T172014.074.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2021/12/Mark-Mailman1-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "lPeD+G18GgYm/8OL11VO86YH6IIhhgb2hKxfuHSIQ21zJQ8pxSzaFBiNoIJNSzA9zJqP2B9rKVxNuXA1GTNpeWS5UIKTbQ4aCQeHLWV2AcOLjByJyTe0r3rmgY86YLCcEMA/q/QpIoOB1k+1SikdRTQQJu+Uxov2ekbmCOx/ZSKa/gIxQa1PZoooyeN9AoD0MRcJ6Ki+sgJuzVRUzBy0wzCRUIVuzJTXhtEnnFGc2MEMmU/UuV7gapeSjPpnKP09yAxqhTeUIbYj1200h93Ev1BpbUUDHsdfSDFZs1/Pn4Z8pSquiuGgwy99WAgecEQfsBZZFWMAP2o4BeQUy8fYzEDYDBJDrsWTfCpWKbv6zMbaBo1r+CQSF9QWsc/AqrXHDhszmWQGLbGkwBRTfGawymH9CEJjl1ot2utDzOd4yzBsppx04YfK1JRzeObd86PMuc+3O5GHMnHqvFFcSBu9BssqGnv+DIOwOVy+XqFp84+9wES45pEBr1nqDlJFPWs0EAxpNZoAQY3I0FJdMWzf2Q==;r+AQ2M9xDNhQvAlpq0IcDw=="

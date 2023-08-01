@@ -73,22 +73,6 @@ related:
         width: 1280
         height: 876
         isCached: true
-  - title: "Accelerated adoption of AI could automate 30% of Americans’ work hours: McKinsey"
-    excerpt: "A McKinsey Global Institute report found that rapid advancements in generative artificial intelligence technologies could see about 30% of Americans' hours worked automated by 2030."
-    publishedDateTime: 2023-07-27T10:00:00Z
-    webUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey"
-    ampWebUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 52
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence loves America"
     excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-30T06:03:00Z
@@ -156,15 +140,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "AI Startup Aims to Help North American Rail Cut Diesel Use"
-    excerpt: "Transportation is responsible for one quarter of the world’s greenhouse gas emissions. While companies have touted electric vehicles and sustainable aviation fuel as ways to cut emissions from air and road travel,"
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ai-startup-aims-to-help-north-american-rail-cut-diesel-use"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 17
 
 secured: "ypfXQoF055iBz/gi5sYC0Bnh0Lzos9PA40EOWqwWnTGIfp3HerzN+qIcPPVtH4seajnNOqtjj+STiLOqiNcl/lLHa46rZmoYDDJF71Z46STKswkRzDTCwQZr6NwsK8vHyV5/+jkvwqe/cBoSt+ZFWXeN+BN6LRkH0D9YP1syJqGqzeSnmoDviseoc7aCy3Gg8p9h8xWrCFREu3Cbg3kVshmaztPtX2LoRvFwS7BDw+NZF80u+5xzIGf8dqnsaIFtwMjAPtYcxmO+rYRpE5UeAM+crZYn7kB73Ld23qs2ZDr7XyiaF7pVtXJin74mw+a5aXKv4V8bDhovXUh3tvanMk1axI+1DM2NZ5sF11MSVREPEANCJFrtqUwjly+iaRtGY09NLzpvyOqsDbnhDPVw09R65vHPsqSao7eAnwhQZgiLk9BeVDRa7oKZTldncNWWmW38LqI2HkhgVCZFsQxPGLxr80wrRO9pkVGPKcplXhX9IhcBoPo/DkuftGW071vDqWoPrjTlHUYmNU/kMzxY0A==;x6b2kbHkMbGVEGjHBmT9cA=="
 ---

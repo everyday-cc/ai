@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-31T17:35:00Z
 originalUrl: "https://www.marketingdive.com/news/amazon-helps-marketers-tackle-data-fragmentation-with-machine-learning/689450/"
 webUrl: "https://www.marketingdive.com/news/amazon-helps-marketers-tackle-data-fragmentation-with-machine-learning/689450/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://www.marketingdive.com/imgproxy/RhCSzvNYDGaoOG_8J7CM5Qve5Cm2I3WcatWTZHxTONA/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JJRnMuanBn.jpg"

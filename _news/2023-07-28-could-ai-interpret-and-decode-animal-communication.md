@@ -39,22 +39,6 @@ related:
         width: 1312
         height: 677
         isCached: true
-  - title: "HULFT Inc. Announces the Deployment of HULFT Square by International Trade Leader TradeWaltz"
-    excerpt: "HULFT, Inc., the global data integration software leader, today announced that HULFT Square is serving as the data integration solution for TradeWaltz that connects the global trading platform with do"
-    publishedDateTime: 2023-07-27T09:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/b33412487/hulft-inc-announces-the-deployment-of-hulft-square-by-international-trade-leader-tradewaltz"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33412487"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33412487"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "p4GdJ9n7OhCabuaph+rvDIaF2x05etGMmgIDerAjE+Irh51z7lOeWR5iuZRUlidCKV0eIHfESDDBVRVshzfqhkvDDFnRB89e8x4hSPxJHKevyxNzqYsuIKEJV5eMonzl5qPdDX/DZWABdr+EoyZ3Mex91izXs46YFZnU7BXNFuoN/7Je7w+kQKdGOK3/xDmuU797C5j9o3ysbGIIylqHYixk+OkgUXSy8KmGE3AnJlX0F/a2gNJpAmKEjlTvpG7Edl1oEckjGO82OmDdsofqOhDq519b8CuPQeqaITFrfSr94jzy1cC2iL9+ktK7HIIdsVINirLTON9RTxZZ7MH/Arq3DezAE2Ykl2EdzA96phU=;yWx2pvaTtu73sEY8IiQ20g=="
 ---

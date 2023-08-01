@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/27/sundar-pichai-says-ai-st
 webUrl: "https://www.fool.com/investing/2023/07/27/sundar-pichai-says-ai-startups-prefer-google-cloud/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,31 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?"
-    excerpt: "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio."
-    publishedDateTime: 2023-07-27T10:03:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 62
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg"
-        width: 2122
-        height: 1412
-        isCached: true
-  - title: "If You Can Only Buy One AI Stock, It Better Be One of These 3 Names"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If an investor were limited to purchasing a single AI stock investment, any of"
-    publishedDateTime: 2023-07-27T10:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-ai-stock-it-better-be-one-of-these-3-names-1032483775"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "tYgyyB3/F5A403mLjGZwxMeXADdmgPW9TG9Q+l1wNcAe8xmM2XrT7F+XCI2uHzmzVuyKk0XtaU8ib51VhflVJ7MezEyhlo20ldXExGG3TJ7D6KDktTfUz/Zr+gvPi/GG+KzWpgoSp6B33B1Cx7THBMtu7zDMUNSXce/R20TFOGe88FLjydq4zxtxgEr09Wp7lb0hc0YKS/G7n5pRNAVK7VYMja9sTCsF5Khpx1ezNe1ymCr5GC0InM6yLvue1PeVBWoDxAbP98qHnwGifwJT/znU03XVVoyHrx0wXCIbHoooqnTYinO6OZm3hpiHREKX9aAv1QpGvgNLL58qTYuGIbucVY799cA/M9fhm3SdIxnFFxnpw1Ft0M4Zi2FqXZY60cw4PdQge364wdqyNuwAFFLaNJMnRNNXKOPEMw/dZ7tTu0gmD5OxbHNF2kI8j60QEWQUWwipgerYYuOvEUsLOzxlB05tyFH3lh0SPk7psiKR3ImDmLYXvt+DNDVIYrp6ws4nSLnX4QH9mBMxRpElzA==;Pj/c96brS36MHYR4R9ewhA=="
 ---

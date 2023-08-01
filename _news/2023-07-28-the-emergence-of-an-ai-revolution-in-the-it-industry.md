@@ -27,31 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "The Indispensable Role Of Agencies In The Age Of AI"
-    excerpt: "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality."
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/"
+  - title: "1 AI Revolution Stock You Won't Want to Overlook"
+    excerpt: "Artificial Intelligence (AI) can potentially revolutionize many industries in the coming years. It could become a huge productivity and profit booster. Those catalysts could drive significant returns for investors in stocks capitalizing on AI."
+    publishedDateTime: 2023-07-27T11:08:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/1-ai-revolution-stock-you-wont-want-to-overlook/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200"
-        width: 1200
+      - url: "https://g.foolcdn.com/editorial/images/740962/artificial-intelligence-ai.jpg"
+        width: 2102
+        height: 1426
+        isCached: true
+  - title: "Read This Before You Pick Your Favorite Artificial Intelligence Stocks"
+    excerpt: "Investors have piled into some of the biggest tech stocks in the market, wagering that they will benefit from the artificial intelligence boom. That has sent shares, and valuations, of tech behemoths sharply higher this year."
+    publishedDateTime: 2023-07-31T16:36:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-31-2023/card/read-this-before-you-pick-your-favorite-artificial-intelligence-stocks-YDcS2C0rg20vcZlkrMLT"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-826694?width=600"
+        width: 600
         height: 800
         isCached: true
-  - title: "Love and relationships in the era of Artificial Intelligence"
-    excerpt: "When it comes to relationships and in particular sexual relationships, that gets very weird, very quickly.” Author Nina Schick and three other pioneers in the field of Artificial Intelligence discuss how AI could radically change the way we interact with machines."
-    publishedDateTime: 2023-07-27T18:14:00Z
-    webUrl: "https://www.cnn.com/videos/world/2023/07/27/exp-ai-love-relationships-intw-072701pseg2-cnni-world.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "0PjyKZneWTmVOsy1Z985Q8cmQSYM9h2uSTWe+C/Qweq2bQRCU4WzbJK16nDQu89ojnlhjkPu9Ir/HoAiRrEsSUPnWvUydxkmHshOB6Qd5j3t6MRgbT1QFYON1f3XLEQR3GzTzq5WIU7pHj9IlYr2nHf7nvdO4b3KgSNSnaKokXEvGuw9ANt1B8gxXKYvvrz1ad76o/13kv49zfNnoCFeudKC5lWSXHm3WOiZCly0ZmtJheVnmlGQTb6h/nCbMaFEJXlpkaoQ3+UKPtlbcGwnUcErUovl/RDu+1tMv0MtPHJlxLBBhN5/wRrZZO6Qn+D94MEJAlN6UYgRFB6FCGeHC7CW/WgMNnlhpdCzmQVoOfY=;GbyFIqxAVQNgY/NDnHZZVg=="
 ---

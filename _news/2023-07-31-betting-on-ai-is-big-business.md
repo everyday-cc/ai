@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
 type: article
 quality: 91
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "3 AI Stocks You Better Be Buying on Each and Every Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Many companies are turning to artificial intelligence (AI) to improve their"
-    publishedDateTime: 2023-07-27T09:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-better-be-buying-on-each-and-every-dip-1032483582"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "How The Era Of AI Is Reshaping The Cloud"
     excerpt: "Cloud providers that can make it easy to move legacy data and AI applications (code and data), which is critical to enabling AI, are expected to win in the long run."
     publishedDateTime: 2023-07-27T13:30:00Z

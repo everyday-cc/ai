@@ -67,22 +67,6 @@ related:
         width: 1280
         height: 876
         isCached: true
-  - title: "Accelerated adoption of AI could automate 30% of Americans’ work hours: McKinsey"
-    excerpt: "A McKinsey Global Institute report found that rapid advancements in generative artificial intelligence technologies could see about 30% of Americans' hours worked automated by 2030."
-    publishedDateTime: 2023-07-27T10:00:00Z
-    webUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey"
-    ampWebUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 52
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence loves America"
     excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-30T06:03:00Z
@@ -159,15 +143,6 @@ related:
       name: Walla Walla Union Bulletin
       domain: union-bulletin.com
     quality: 21
-  - title: "AI Startup Aims to Help North American Rail Cut Diesel Use"
-    excerpt: "Transportation is responsible for one quarter of the world’s greenhouse gas emissions. While companies have touted electric vehicles and sustainable aviation fuel as ways to cut emissions from air and road travel,"
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ai-startup-aims-to-help-north-american-rail-cut-diesel-use"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 17
 
 secured: "5OH50lEkDeLdiRLmM6cwYjIRWRqaV8l4VZapvbo8RSGu9vB8241SWIS2sJzpNeZaYt8t48xPi6AWEDamRXbsUf8nrYLD8wXxYdEKV/3L1rLiTdPmcgdDUsvJXopx6crjl73MToKR5IFRMTFnjWsWWhI/p2PoY7kneBsstPZp1AhiPgTDfwvPdOVQZMVJ1aklq75r5qbQcS4MnfE0A3cQUeaFsdEL1pyOC51MC5BaT+ZgVplVbBg0zWl84zew3mQpFaPUB40D7yq6OxEaHJ3LAw8AQMF/LWHOAhl4JJ+hE85wLYrKAdnkT8ekCi/D06nJtjBc7XNC1nCg9S+sHmgPLgoZlOY0ftS+9bNA8gG7ftWEwe+eNA7rXWcH4eoL9Ry7Nd8sbyOme/akDVFK8uk65K/2fzpRidTnD4nzNlLSazusZb1mJaX5/HXt2/2CNln1RWlj/oXvWobkrqccw58DAwoSArPE+JA8j5Ew6CmBaSmep5KHIk9qMQIFSvaYzqGgTI6yp3nwiCMGpM63AOuxSQ==;S4f8MQ8FXwulfJX8laPbsg=="
 ---

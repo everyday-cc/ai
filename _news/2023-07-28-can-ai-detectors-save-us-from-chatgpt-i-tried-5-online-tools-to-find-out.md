@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-fr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-5-online-tools-to-find-out/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/05q1XWgdyFHuBkikh5uAi3Z/hero-image.fill.size_1200x675.v1690489389.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How does ChatGPT work and do AI-powered chatbots “think” like us?"
-    excerpt: "The large language models behind the new chatbots are trained to predict which words are most likely to appear together – but “emergent abilities” suggest they might be doing more than that"
-    publishedDateTime: 2023-07-27T09:22:00Z
-    webUrl: "https://www.newscientist.com/article/2384030-how-does-chatgpt-work-and-do-ai-powered-chatbots-think-like-us/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24160409/SEI_164399926.jpg"
-        width: 1350
-        height: 900
         isCached: true
 
 secured: "4UcCt21PscRyuVgVbr5q6jQvRsOeOGD9F2K4w5HlcVRnEoH3HBZjct6k8b/KAq+2M3Q+KGMpAkh0vZv1hHGsCoVM1xwGRuqtRYZJ46phTHr2RxE0wRi6xVme/2gIuPplxHV99gc7FP/uC5DUsBmslC+UsPXS9dyiZIDJVwsWbK5zTW6+nKH1hwdf2pPbuWHrawHCzEJtDTpE72Y9xFr/453s7lgOQ4dNHZEZOEXK7zKaBnyrGKM3cA5bXjOi6uzQ4QfgGHwoRrdqZBMhzL9qZuWErRjNAKz1megxhejUAwybGfDoNOquiCjAjI0k4QGzAc0Mk4Mu3prEYcx5zNo8D0mwnb2I2btGhh7Qz6/pv49re8xhuaNPADq7XKKuOCORC8HKHk4FtA+tUXQypayiz2Y5ohSvyX7tNXxXEXmtlH72AhnlHF9DDZqKC/RXkBmWErqo9ygzfsBT1cFGZ8cDUWQFSmFTVmGrtwmADLC88jIWotYHqI4ffGik1MXILtxU9SGbzyThDkVchUZk5fRyvA==;gJS9t0vwGklt+5HnqOhTLQ=="

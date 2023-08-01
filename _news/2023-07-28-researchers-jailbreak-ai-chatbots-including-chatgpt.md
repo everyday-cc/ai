@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How does ChatGPT work and do AI-powered chatbots “think” like us?"
-    excerpt: "The large language models behind the new chatbots are trained to predict which words are most likely to appear together – but “emergent abilities” suggest they might be doing more than that"
-    publishedDateTime: 2023-07-27T09:22:00Z
-    webUrl: "https://www.newscientist.com/article/2384030-how-does-chatgpt-work-and-do-ai-powered-chatbots-think-like-us/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24160409/SEI_164399926.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "RiVrfCyDh+kZXePcxu9ClXQqnBAPkisVgithm0/v6l2UR0gmbX0dooTnF3GYQjtqkSBo48KDIbdH+MbRG/XMXzvQ/kJSztpz8r1LFOuNIyyFWfef+FyiHfQTwy+jYVHz8aVL8Bd4fdpB9Pye61GwcpdHfw+wzAH6sqnK/RsXnpq5OSqhFdkz3LzQLjaOULkSlo6rvpny9tZOcje8BbtlXzLLCaZXbhHSFIAjvZNQwwsmr6TmF0KiekwEBYFfqGvGUSV/K2dUQAQAUrNvrN8rwN4xe0u1oTIEjqEiWgSntmSvsBkK8KdLL4HEXh6BS49tgasCFGXnChoFMCz9goj6uXa1fpg73KaUfOw2U4bDLy3xgxojWJgb4uolg0ULx2D9wCjKU0aUre7rQ//e424bcA1eLZHpD86+clUb+OkZxikQ3YaFw8JQHR+X56ZCOeIvueX53zRW2gZCxw+WLNfNFjNpJSgqtRPMUQD+Ku8oQxdq7c+FDeuZsyQulGrAbD2EoVFEUblI+K6RDXNQmGOUkw==;H2YUnp4Lw6Jm7UoyB+J5HQ=="
 ---

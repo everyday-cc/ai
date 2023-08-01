@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/27/1-ai-revolution-stock-yo
 webUrl: "https://www.fool.com/investing/2023/07/27/1-ai-revolution-stock-you-wont-want-to-overlook/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://images.wsj.net/im-826694?width=600"
         width: 600
         height: 800
+        isCached: true
+  - title: "The emergence of an AI revolution in the IT industry"
+    excerpt: "Incidentally, AI as a concept was also first introduced in the 1950s by Alan Turing. Early AI applications were limited due to computational power constraints. The exponential growth of computing power and access to big data laid the foundation for AI development."
+    publishedDateTime: 2023-07-28T02:30:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-the-emergence-of-an-ai-revolution-in-the-it-industry-3189929/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-27T172014.074.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "a/CAo2tQmmOrY6j4dcm9DnUw12SEk4nQNt9OVDb0CimP/aELYcio8WX146QcwcBHLPHd59Lz3t/G+nbmigMNvkUFNsrE79vIXunRCtFfgwzhJ1DJFCQYupi3LHgVFzlJ4C/m8Usrrc0NDoxC2ETatyTSU7XbDO01QLP4iR53+xVcYdhMSaR1thGSz+qGv/F6yDHPrzpnXWMFRdpj5r7L4IHbLR4HElJSLInxqfdGZNBtdalrDB3VF3Ljul1PeGDapd4xG16LNaW5wvWZAuo6AiX2k9mVpRketOl+EI+mSnCvs3wS3Zp9GB+ZTVCoOqSECrML2CC4fXHlOVDvXKSH0vCbltBTiXRtQdqImjP9NiPj1cUdV9qwgg49zoirkfDTM/MkCmsiEmypHqEDiN3Vxu451wb3bdldKaO2/iZM6w/lFEWeMI04Cr3iZUf0KsH4oiE4L5CTpAohlRUY15KWECgflRAGybS3zsNQMgeEHC2qI4TdTGHKMYW+hKCYYSmUavq5cxbzUO1FRQjHr0pRIw==;NL6cAUoUHHgaFDMXsPNhoQ=="

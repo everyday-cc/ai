@@ -127,15 +127,6 @@ related:
         width: 2119
         height: 1415
         isCached: true
-  - title: "Microsoft Touts AI as Cloud Demand Cools"
-    excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
-    publishedDateTime: 2023-07-27T10:53:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-msft-q4-earnings-report-2023-3d6ebe64?siteid=yhoof2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Dentsu goes with Microsoft to unleash AI"
     excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
     publishedDateTime: 2023-07-27T21:33:00Z

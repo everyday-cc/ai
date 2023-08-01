@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-act
 ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
 type: article
-quality: 80
-heat: 120
+quality: 82
+heat: 112
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64c7f3022455739b3f69db67/0x0.jpg?format=jpg&width=1200"
@@ -43,20 +44,6 @@ related:
       - url: "https://i0.wp.com/mms.businesswire.com/media/20230727250636/en/1852136/4/trust_attention.jpg?strip=all&#038;ssl=1"
         width: 480
         height: 388
-        isCached: true
-  - title: "Education unions grappling with Artificial Intelligence: we snooze, we lose."
-    excerpt: "There is a lot of speculation regarding the future of teaching and learning in compulsory education, especially with recent developments in technology. The world-wide release of ChatGPT and other generative artificial intelligence platforms have created a plethora of new,"
-    publishedDateTime: 2023-07-27T10:37:00Z
-    webUrl: "https://www.ei-ie.org/en/item/27861:education-unions-grappling-with-artificial-intelligence-we-snooze-we-lose"
-    type: article
-    provider:
-      name: ei-ie
-      domain: ei-ie.org
-    quality: 51
-    images:
-      - url: "https://www.ei-ie.org/image/EVlMzVEelx0GZdnyYXp2hPjoejWA0axaKd4vR51E.jpg/lead.jpg"
-        width: 1448
-        height: 762
         isCached: true
   - title: "Hallucination, Fake References: Cautionary Tale About AI-Generated Abstracts"
     excerpt: "\"The ethics of using AI LLMs [language-learning models] to assist with academic writing will surely be spelled out in future editorials and debates. At the very least, we suggest that scientific journals incorporate questions about the use of AI LLM ..."
@@ -82,6 +69,6 @@ related:
       domain: businessinsider.com
     quality: 24
 
-secured: "2/Pkz5HggrKc9VxhOVko188oeBEoYPCiPX9FbpsAphMQkMuZ9IGo4yUKss5XK5xEHPPX60lNXBro4xKP4Ttx0620i4M28w+7/kym7zwhXrY7JgUCN/A3CRNxtDgYErEVVlkgME4G1wF2vcYJc5vzzsB/loPAwRqemL4UVjHwdWqOiuOA7OaCZgcXoaV4UkDiGu17gAjZZRLDqsQUIp2CJADYZ2vVruPwetZApbh3GRj0Bwq9G8MpOv1lFM73OMvhPQLY/Mt0MkHnFXoXJM+lQI8gyXyYFwf0z5yBa1+o7e+DhiNjxPe3z7FduBNKu/b1qs9MYDnfr1SjbI6nTNlF2c4oh8eyFzpNaFQdACwHg00=;XUi0q9rkSTR1WhQwXvvolA=="
+secured: "Urn2VT/ZUQT6vKBsx7aVinGfcretXbezKD87tAvF9bGAyJ4RPbZyYq0EvWv2A1b2Yh56et10iL4U1Dlvv2Zz5nqLXK6OxwSbAX1GwtsdMIQkspGIpM+pu4tBsircU3z+4S8HF9s+gdmllDNdNSYG/cX6FWGbePhJfYhVLPmk+eNj7Mkvai97gfjj0MEUQzGbvxiybrwQy0rzWuZRexNUxQ0Uu4ifxBX5JoTcQhpWSJp0cBw1+hxERY0wrEQx55W3Yfhc3G/32Ui54zD4Y2RohQnmK0oh6ubggtlukYPo+UQ2cW8oqKnQbyyKeifep+poVd4vWYxlq8j8oyLDtw0pDKvwjVTqL2RNA6JDeq6t8eG2vT1HAG+DXmBPs7sO32ZlNUieb+ePR5R8tb2aRhHwCwkiCtb+MX7tJ7KeBtn1P0lMrGZTXBPMhIx4k2IWBf7LZ5oPSmypzZdkaIeBhd4hZeKW8QJMrPCTKpRJ+tRC2MY+f4R0xKd3JvZnPTycTLOu+FaaVTfDH8IheHCVprf6Vg==;fM7vrfv7KIlV6xD+u9gYrQ=="
 ---
 

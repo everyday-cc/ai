@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Invest in Artificial Intelligence"
+    excerpt: "Here are some of the best AI ETFs to consider: Global X Robotics & Artificial Intelligence ETF (BOTZ): This fund invests in companies that are likely to benefit from the growth in robotics and AI ..."
+    publishedDateTime: 2023-07-27T17:28:00Z
+    webUrl: "https://moneymorning.com/artificial-intelligence-investing-guide-what-you-should-know-money-morning/how-to-invest-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 39
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/ainew.jpg"
+        width: 443
+        height: 443
+        isCached: true
 
 secured: "X8piRC9jU/5JgKFbsmP1mOG3XeVYhh1rktG09CSgTnZjvLAJPi6XA6h8h+1Y8Im5nQ1N+MKV5iYXiFcl3dAnjhHe78TnbWJCCM8lJ68WEZVcqNvCvezEd9o0e2rrgk6BwWv5n5E5DuiTIdNeCox16DAMLxFGX30dDzp7xTVpiazRhhduudEnFwHnbRo+l4uPOwcNSTcFCqk7yjH8vqfZjgw3+4ilMwCm6fyDmgSxBUX9aoTv/kronTzValRDcQjagu9ELVwSp/9B5FKZaxHwOK7Bu22OhJBXR/N3kWEBc3KfH37c/tuFPwuZObdopBFAmdl6199Lx8U2wr0m5wKlwxGC9vR/WZ7gltEAsES8pmMJZ2VeJLizFjNGOZ2asf7O7HxJHzVEDar7fgKbKwCm/HBaP2x3ZsuXNHXeW9gfdYVT++n52hE+tEzTj1OQbKKAy92VXE1jnITFjmrFqUJAUcrQ4WgcfCZ55q1qO6CVSTqu5+ju9slUbLDMoYAiS/hI9OyN5dzbqhKeUV7iuz7Ujw==;akEH+WHFzQmSj7MsW9dMkg=="
 ---

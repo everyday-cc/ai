@@ -40,18 +40,16 @@ related:
         height: 666
         isCached: true
   - title: "Google’s RT-2 AI model brings us one step closer to WALL-E"
-    excerpt: "For example, Google says that RT-2 can allow a robot to recognize and throw away trash without having been specifically trained to do so. It uses its understanding of what trash is and how it is usually disposed to guide its actions. RT-2 even sees discarded food packaging or banana peels as trash, despite the potential ambiguity."
-    publishedDateTime: 2023-07-28T21:32:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/"
+    excerpt: "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a “first-of-its-kind” vision-language-action (VLA) model that uses data scraped from the Internet to"
+    publishedDateTime: 2023-07-29T15:11:00Z
+    webUrl: "https://www.inferse.com/652061/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
+      name: Inferse
+      domain: inferse.com
+    quality: 39
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rt2_hero_1-800x450.jpg"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7839.png"
         width: 800
         height: 450
         isCached: true

@@ -33,7 +33,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c7f3022455739b3f69db67/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -52,20 +52,6 @@ related:
       - url: "https://i0.wp.com/mms.businesswire.com/media/20230727250636/en/1852136/4/trust_attention.jpg?strip=all&#038;ssl=1"
         width: 480
         height: 388
-        isCached: true
-  - title: "Education unions grappling with Artificial Intelligence: we snooze, we lose."
-    excerpt: "There is a lot of speculation regarding the future of teaching and learning in compulsory education, especially with recent developments in technology. The world-wide release of ChatGPT and other generative artificial intelligence platforms have created a plethora of new,"
-    publishedDateTime: 2023-07-27T10:37:00Z
-    webUrl: "https://www.ei-ie.org/en/item/27861:education-unions-grappling-with-artificial-intelligence-we-snooze-we-lose"
-    type: article
-    provider:
-      name: ei-ie
-      domain: ei-ie.org
-    quality: 51
-    images:
-      - url: "https://www.ei-ie.org/image/EVlMzVEelx0GZdnyYXp2hPjoejWA0axaKd4vR51E.jpg/lead.jpg"
-        width: 1448
-        height: 762
         isCached: true
   - title: "Hallucination, Fake References: Cautionary Tale About AI-Generated Abstracts"
     excerpt: "\"The ethics of using AI LLMs [language-learning models] to assist with academic writing will surely be spelled out in future editorials and debates. At the very least, we suggest that scientific journals incorporate questions about the use of AI LLM ..."

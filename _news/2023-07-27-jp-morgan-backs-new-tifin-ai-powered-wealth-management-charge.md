@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Future of Fintech in Africa 2023: AI developing rapidly, but South Africa leads the charge"
-    excerpt: "AI Media Group South Africa determined in a 2022 report that 2,400 companies were listed as AI-focused, and 40% were founded in the last five years. This marks the rapid development of AI within the continent."
-    publishedDateTime: 2023-07-27T10:53:00Z
-    webUrl: "https://www.finextra.com/the-long-read/749/future-of-fintech-in-africa-2023-ai-developing-rapidly-but-south-africa-leads-the-charge"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 29
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/749.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "SJhz5CTbWmPExy5KZycpMvhAXPx/gGwJm2FPHvrfcZ06tAYUJstHl6fjQ80gEmSK2Sf9FnjqC37s/JWYZcBHfPmYHEXzs7Ss77+UNuBHIZs3DDwhh4fLXiVtdAX0CAnsbUrKyrybaL2Fxz9OzQY2Pon500HQCgu+r0HO/Hxa1G3v24GBSkXg/4m/+jOXXPofLQOnlWqPxb1wn/NRSv281IfV6oHtE8TlmyHjKpGvxQl5tj2qDtsOm0+wWTuwka51OwTBRqPnUddgQrweXPqfRAstXRPPc6mXHBmnFemka49Rqv6XXfWb2lTYacLrpGjALThgOo3GNPsOVoRu5UBXg2V+N3wr1wvHU9zOjpoeJrnz0Ky8W8e6RYQoGO+CJWj1BMFST643kKYS6v0IJA5PnQ/wtxvDX5Uwu3eFJO/yMUA8xfD/Lzgurl08puakw8bJxO6V8H8C20n3ZoLKjWAhxffEEtCzqc5cKM9oHU78m8u6aWOgspy5wT63UHVkSSoXNOMHF6DOh0zkuzNPnKOkZA==;u7cXcB+mQbsT8x0G1gve5g=="
 ---

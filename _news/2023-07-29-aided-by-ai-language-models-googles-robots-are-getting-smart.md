@@ -111,6 +111,20 @@ related:
         width: 370
         height: 250
         isCached: true
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
+    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
+    publishedDateTime: 2023-07-29T16:30:00Z
+    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 71
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
     excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
     publishedDateTime: 2023-07-30T17:41:00Z
@@ -168,20 +182,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/64c28b81ad5efcad99aca86f_rt2_header-min-p-2000.png"
         width: 2000
         height: 1225
-        isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
-    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
-    publishedDateTime: 2023-07-29T16:30:00Z
-    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 54
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
-        width: 708
-        height: 398
         isCached: true
   - title: "Ai-Da the humanoid robot: ‘I am very good at switching off’"
     excerpt: "Ai-Da is the world’s first humanoid robot artist, and was named after the 19th-century mathematician Ada Lovelace. She was created in 2019 by the gallerist Aidan Meller and researcher Lucy Seal in collaboration with the Cornwall-based company Engineered Arts and PhD students from Oxford and other UK universities."

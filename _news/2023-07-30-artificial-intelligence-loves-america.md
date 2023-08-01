@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 876
         isCached: true
-  - title: "Accelerated adoption of AI could automate 30% of Americans’ work hours: McKinsey"
-    excerpt: "A McKinsey Global Institute report found that rapid advancements in generative artificial intelligence technologies could see about 30% of Americans' hours worked automated by 2030."
-    publishedDateTime: 2023-07-27T10:00:00Z
-    webUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey"
-    ampWebUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 52
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Jay Ambrose: Artificial intelligence loves America"
     excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
     publishedDateTime: 2023-07-30T05:01:00Z
@@ -157,15 +141,6 @@ related:
       name: Walla Walla Union Bulletin
       domain: union-bulletin.com
     quality: 21
-  - title: "AI Startup Aims to Help North American Rail Cut Diesel Use"
-    excerpt: "Transportation is responsible for one quarter of the world’s greenhouse gas emissions. While companies have touted electric vehicles and sustainable aviation fuel as ways to cut emissions from air and road travel,"
-    publishedDateTime: 2023-07-27T10:59:00Z
-    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ai-startup-aims-to-help-north-american-rail-cut-diesel-use"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 17
 
 secured: "w3Ecn2aRan7ajwq6IXZ0SWeNsMxBX057lr5bRKUemPqwLzzphIbWRGoj0s2vXcYzkM9q1h7txpuEb32OQ8XvuzG31/eE3PTBRxFq96UmXesNCiaG5mxoal7xXcH+pUH1DvjR9Zm+YO5WcXSP/3YOwV/K3zNycF4BCyxcJy6rQL9Ub62PUFU4V6OgYDNzTixM8l0gphgONTISUDvYg/6Oko8nS86MXtYC/GoDTI1xWEsT342JynZC/JJC90HzyO020t6BFro9ZZNbtKZDtEy5tREcmkVe05pSZbbRA4Zu1knT3uIM+dNIEUwH8SaR3F29IGKvsc+JpIi39A8zApj0nzy5+ojbivWUoljXtq4ogFQ=;jTH8KzXhgQ2VNQVYcumSOA=="
 ---
