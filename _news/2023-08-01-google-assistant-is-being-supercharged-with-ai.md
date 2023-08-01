@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-
 webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
 type: article
 quality: 67
-heat: 87
+heat: 79
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 512
         height: 269
         isCached: true
-  - title: "Google supercharges Maps voice commands with Assistant speech recognition"
-    excerpt: "Google Maps has replaced the old and outdated Speech Services voice input option with an integrated Google Assistant card"
-    publishedDateTime: 2023-07-27T20:01:00Z
-    webUrl: "https://www.androidpolice.com/google-maps-assistant-voice-controls/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 18
 
 secured: "yEn4mcbDCCayrxKMoWulWdURY+AgLMHX0GkZVNbmxbdsLScdwtn19mUmVkvaQ2lmw6UUTZdzQHU1WZ17hJr7l9gjgYF4Jx99hyMr/0kBJE/nIVMXCx/q1c9o/8zZOlnRvJt+2CMeeShr6JoiV+dzhS3rJMOHew0G+Bg58iiaZhKh6/3szMw+vpZ1swZKG2IHtZXEtABNOgigCNB2mwxY23Zszbns5ajvQcZTU+ceh+DTwt1Uy1YrcdUGhF1GFHAIuThnqCjcXJ5sC6s4ierCgcb+Hlts+2hNo83sMH9+++TGjMEErbsgUO6yK43VtfxmpfCvrcxhChhkno2YDbtAWKLkGUeZ4e/2cZINZZUEge0elSm/LJehR6HpcHzIfPhtS9gEZSiAaF+cKsNtfZEIFxuly5e3ZfTdiopcVa86W5RFD5ucHDVKdB5aT1YwUWkjLnTZDgkIxSyLeAV5RRhUl6gwqydNm87LQhi3irrkGAVtvkG3s19z7qOcn3P+zanj+6EXV14tasJTP6MdiH1QjQ==;71iQX69vi+P3fZA3HRCQng=="
 ---

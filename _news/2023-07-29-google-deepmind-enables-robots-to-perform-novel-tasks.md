@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Google DeepMind enables robots to perform novel tasks"
-excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic"
-publishedDateTime: 2023-07-29T05:12:00Z
-originalUrl: "https://www.prokerala.com/news/articles/a1443308.html"
-webUrl: "https://www.prokerala.com/news/articles/a1443308.html"
-ampWebUrl: "https://www.prokerala.com/news/articles/a1443308.html?amp=1"
-cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1443308.html?amp=1"
+excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
+publishedDateTime: 2023-07-29T08:12:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
 type: article
-quality: 59
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Prokerala
-  domain: prokerala.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
-  - Google AI
+  - AI in Robotics
   - AI
+  - Google AI
 
 images:
-  - url: "https://www.prokerala.com/news/photos/imgs/1200/google-deepmind-enables-robots-to-perform-novel-tasks-1621209.jpg"
-    width: 1200
-    height: 735
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -102,6 +103,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Ju8MSRGm4+G+YsyOoMtnlOQvPT893WyMgF4ex4py+S0IZGkoK0K+GB0y8e7bshRUax8Lc61uT9t9bAflY4hFYYJUdTGpe8GPsihlbnEINLpDCzmu8ybaBzL6uGwVJTDSr4fEeatzqeASxN0ka89aJX6Gb1FFCFkIpRxDuceQiCrrFY73gAdtEQ3IcfqbVWgwTLC8P3x86H7Yb5HCMcPN6+tpVsp35PMcXW+I7fzb3Nnuib1rE6IsLjm5xMCTu/A0ppDJI9XZDntyKSJC4ZyaqG5+vQkST/IVsKrS6equgtXbRrCUlkMrJ5ZQ1Ek478f1X1WBziyC3gELPODgh9o/SvA1PEL3d5jsLHXPBIfCpXs=;UD2S0derwTdv75p4/GuuHA=="
+secured: "bag/KIwOsTkkge2pTYKnrB1dGABpTYEz4dETvVIDV6S/bV+JoW3o1SVZOZ5mX6S201jLcwVLpIY8QEqFAyaD2JvkGhYLkBNAyHLmZ8SL0B1Vay64+DEMg6H9m3Q9msQQLvNJnIAwCil52reSqywhXnwp34vFb3rDVSRBo+G5BL0C6DHDWVOFY0U77asyHdR9yb248Io2sK75T5AD6rhXq0ZP4PwIuAqFYT2Iy5TZOw16yCOz1VDnnnk/inTl9/mtW2ouhq/qnJRIIIs7FYNt8fKTf6gf6o+O5BK9l7no3AOghlJ8m020Oq1n56HtToFz+DsnU7I3tqpIH0zhpP+V5HAsyLi/AiTj2RdLh+TYrT0=;2/T5YWFj78b854d5UwdU+g=="
 ---
 

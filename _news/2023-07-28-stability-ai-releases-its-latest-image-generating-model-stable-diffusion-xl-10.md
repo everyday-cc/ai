@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stable Diffusion XL puts AI-generated visual worlds at your GPU’s command"
-    excerpt: "On Wednesday, Stability AI released Stable Diffusion XL 1.0 (SDXL), its next-generation open weights AI image synthesis model. It can generate novel images from text descriptions and produces more detail and higher-resolution imagery than previous versions of Stable Diffusion."
-    publishedDateTime: 2023-07-27T22:58:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 103
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Stability AI releases Stable Diffusion XL, its next-gen image synthesis model"
-    excerpt: "On Wednesday, Stability AI released Stable Diffusion XL 1.0 (SDXL), its next-generation open weights AI image synthesis model. It can generate novel images from text descriptions and produces more detail and higher-resolution imagery than previous versions of Stable Diffusion."
-    publishedDateTime: 2023-07-27T22:58:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Stability AI launches SDXL 1.0 text-to-image generation models"
     excerpt: "Stability AI has announced the launch of its next-generation SDXL 1.0 text-to-image generation model. Making it available for anyone"
     publishedDateTime: 2023-08-01T05:55:00Z
@@ -70,6 +38,15 @@ related:
         width: 700
         height: 446
         isCached: true
+  - title: "How to install Stable Diffusion SDXL 1.0 text-to-image Ai art generator locally"
+    excerpt: "These models signify the next level of natural language processing capabilities, designed specifically to empower developers and researchers. SDXL 1.0 has one of the largest parameter counts of any open access image model, built on an innovative new ..."
+    publishedDateTime: 2023-08-01T10:57:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-install-sdxl-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 15
 
 secured: "lyiEXCj8I/i6oBGHhnIg5z/6rBycaPnCWSpxgZt4ADtaXTGfL9bPON05Yui7fUz9HXoRpJjsaaBAbmfSgFsL4ZqpnszB2J+9jcXZBtps2qiYxCJd7VlFK6CiU1MG8vbvtedZ2Sl7W0yzayVD5Z4zpqlPtYkfsLcqrRT7VH/iZ+L7KGPWkXfZNvA3SiWseoXULpMlat6bgM5jHZSiZ/Q+p8Zk009fI5+w9pmbl4F1gBLGSAR0EbMIlSW8gAmBuShXiTNt2XwDPrXtSI9s+h1JGLvEA50OHEC8X4ZcFmWwEQr6HHzQTuDZotTyjHBE5ef+zABdAlktzzYOFiR8XbfiVEHsPByYhrIB2Z2NhZuW79E=;0TPIwjverBO+wlk0lM2QmQ=="
 ---

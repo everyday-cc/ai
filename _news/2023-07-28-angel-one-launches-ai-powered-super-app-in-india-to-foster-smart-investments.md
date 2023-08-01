@@ -19,54 +19,73 @@ topics:
   - AI
 
 related:
-  - title: "Mobile website builder Universe launches AI-powered designer"
-    excerpt: "Universe, the no-code mobile website builder, announced today it's launching an AI-powered website designer in beta."
-    publishedDateTime: 2023-07-27T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/"
-    ampWebUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
+  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
+    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
+    publishedDateTime: 2023-07-28T16:18:00Z
+    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/Universe_GUS_Beta.jpg?resize=1200,675"
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How India Is Using AI To Build The Internet For Local Languages"
+    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
+    publishedDateTime: 2023-07-30T05:45:00Z
+    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Angel One launches AI-powered campaign #SuperIsHere campaign"
-    excerpt: "The film aims to encourage and empower billions across the nation to leverage the power of data and technology in their wealth-creation journey with the Angel One Super App"
-    publishedDateTime: 2023-07-30T04:40:00Z
-    webUrl: "https://www.exchange4media.com/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
+  - title: "3 AI-powered companies redefining FinTech in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T06:14:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
     type: article
     provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 59
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://www.exchange4media.com/news-photo/v_NFldkRX2k.png"
-        width: 480
-        height: 360
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Angel One launches AI-powered #SuperIsHere campaign"
-    excerpt: "The film aims to encourage and empower billions across the nation to leverage the power of data and technology in their wealth-creation journey with the Angel One Super App"
-    publishedDateTime: 2023-08-01T05:17:00Z
-    webUrl: "https://www.exchange4media.com/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
     type: article
     provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 59
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
     images:
-      - url: "https://www.exchange4media.com/news-photo/v_NFldkRX2k.png"
-        width: 480
-        height: 360
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
         isCached: true
+  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
+    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
+    publishedDateTime: 2023-07-28T00:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "yVXiaSGp6x5tPBqDD2iYUjtUDZKflysI6djknO0ujA15QCOaoLboI0sMswTNbcnQZ5i3NxZEr0hlJwJ6iFJ25VtkCt0mwoOXahfaUZwi007ywv6frdq3W59zvBQ+5rbktafC78bRsY7ZM5OVhGzCh/qC6oJvdRQvNr6QrjTBVvfVsX9D7eWvTOp1wk94O6jgQOY0wadpATdknQdcyL17SYURrRDH7r5HC3W3u7Hn2jD0rao7KsAcsbOio4GvKHFjt0f2LpE7PTIJ0bMtOaWDo+F+QEboziKbGvXHguka6mU2o0Ie/QM86EnvkX8zDbB86iMMj4hjr7/dT8yaerpoTAOyhtjnU+yTXYngdVZTXsa/WYGPOudFfaTJqLDcMvEdfIIjZ/nRcVgvxmdD8UpxMRLWx7PsL5ZXpWd+N3FsICgmk9bEX09gsSyTssToUIITeGNZk6EtlYt35tn/OJbZmTHvls9hFf4CjgRqzxLLxBMMpFHaogm06F6ILMr6+b2Ce3pHHRu2P4n5pLGMSAmtOg==;vZZVeejj7S7qji4gST8BSQ=="
 ---

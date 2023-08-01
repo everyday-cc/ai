@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "For the first time researchers restore feeling and lasting movement in man living with quadriplegia"
+    excerpt: "In a first-of-its-kind clinical trial, bioelectronic medicine researchers, engineers and surgeons at Northwell Health's The Feinstein Institutes for Medical Research have successfully implanted microchips into the brain of a man living with paralysis,"
+    publishedDateTime: 2023-08-01T14:22:00Z
+    webUrl: "https://medicalxpress.com/news/2023-08-movement-quadriplegia.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-08-movement-quadriplegia.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-movement-quadriplegia.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 30
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/for-the-first-time-bio.jpg"
+        width: 2048
+        height: 1568
+        isCached: true
   - title: "For the First Time Bioelectronic Medicine Researchers at The Feinstein Institutes Restore Feeling and Lasting Movement in Man Living With Quadriplegia"
     excerpt: "Using brain implants, artificial intelligence and novel stimulation electrodes, a double neural bypass technology restores a man's sense of touch and movement after a 2020 diving accident In a first-o"
     publishedDateTime: 2023-07-28T16:00:00Z

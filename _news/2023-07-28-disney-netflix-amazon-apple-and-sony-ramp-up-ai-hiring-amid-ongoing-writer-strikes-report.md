@@ -52,22 +52,6 @@ related:
         height: 742
         isCached: true
   - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
-    excerpt: "The entertainment industry is the midst of a strike by actors and writers who, among other concerns, worry the emergence of AI may enable studios to produce content without them."
-    publishedDateTime: 2023-07-27T22:57:00Z
-    webUrl: "https://www.foxbusiness.com/technology/entertainment-studios-hiring-ai-specialists-amid-hollywood-strike"
-    ampWebUrl: "https://www.foxbusiness.com/technology/entertainment-studios-hiring-ai-specialists-amid-hollywood-strike.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/entertainment-studios-hiring-ai-specialists-amid-hollywood-strike.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cbc248a4-d4d7-41a4-bfff-50b03c3832c7/e26698d2-8572-4452-9f46-3c179b7ba31c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
     excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
     publishedDateTime: 2023-07-30T02:44:00Z
     webUrl: "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
@@ -157,15 +141,6 @@ related:
         width: 866
         height: 488
         isCached: true
-  - title: "Netflix posts $1.3 million artificial intelligence job as actors strike"
-    excerpt: "Netflix has sparked outrage by announcing it is hiring a $1.3 million-per-year AI job, as actors and writers strike for better pay and protections against technology."
-    publishedDateTime: 2023-07-27T19:46:00Z
-    webUrl: "https://www.news.com.au/entertainment/tv/streaming/netflix-posts-13-million-artificial-intelligence-job-as-actors-strike/news-story/e0db159d748e0860a93a9b0bf6437cf0"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 19
 
 secured: "gjhHF4mQ/4QhAZyf9fGsAQu/gh4SbIh2r23To97pI9m7gDqNbwf+0xjOy6cP6+GgC1E3u5x1AsFzA2i/123oJuwrSTymnVQQDmb0fzl74DD5WpqduHDUMsrIDF67Xc3IY2TcDdThAFB6HoF9EJUKhl3CMsnarC1IauOxAlu+lqW4YH522TKHksgb+mkGWR1nz75Zdz4jasrHJS0mwIN4+XiOA5X4vCsS6HVoge88KFZf8OHKn57RIdj3Gm8UvRXbIUf9cgrzIfT6RdzyVbnzs/Dgwb2kxO9qdmwnd3AHzzLuzgQMqhSjzEddHx02jhnGTVMzupC+DkGdVfNtY++3KgGR6ZyYapb+9b5L55y+xy4=;oJayHMMxLkPgXUcWbFMc9w=="
 ---

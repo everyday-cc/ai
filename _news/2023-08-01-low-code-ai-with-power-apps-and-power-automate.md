@@ -40,7 +40,7 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://helios-i.mashable.com/imagery/articles/01dF4zPEl3tLC1J9C3IOICJ/hero-image.fill.size_1200x675.v1690273666.jpg"
         width: 1200
@@ -61,6 +61,6 @@ related:
         height: 600
         isCached: true
 
-secured: "egKJ8G9n6E+20rD2eUa5fjEwxFxXfWWsIyvluykzdXXLei+IoQh5bcHVtJ6ZRhKWLMs5sE76BH8KyBLQYBybwEqtmDvyqf68+2aRFpSzYdqR+5EeizfxoxvpIYis9ekaKpkbvxkcQ/pZyR1/J38Gt3m1FQRSLQg0ckTOuuXzMGBeR5XCfD5djlVonDC1HdWcfO2WgBA9QhcBGrNXwnqQALW0ngt4dFJCZhOwIp7K5Ql4CWB0qzaWHS00poMxGW9CAOkXQvS5Yj+2Q2Tz61v08IBfu4JeyVALAWcftCkmJmusbhlteKQOWjA2q06BQDU/33ED4vGL2SGnU264YHQPeqFK32XRe2HuC+EURVg4XvA=;tuDZ7RvHeVdrXLEvFY4kjQ=="
+secured: "tAblE0kyFnbjCCEiLW6OQ1JEFNXcqe9oYXpSSBGx24tcPvi8KxM1rJsJSbruzgH7mGU7O0wMnyzVgJhrmdwnLXLNb4TjCtFRif7qXSdPS0Z209/Arypv7qZPOqi6eDPBGm+LYmEJdMz00qBdIiVKtQODf9nwia47AzGYOLFecrpjBxIxMdipvq7tN205sGeQqx9LuG3Y/FXmIN4JGipaT0AF8PJEpqOEGMhUGV11RsXXoZA71WGSyJt5u4jrTXGlzK0AAStaeLm8d/pEog6opIWO/fbSM6hxkK1IWN+LEXrAzhz5cVc0rREpGxfSybOIDcM21YaLVQgJbZBaK5UHFEfzMFWyjIOLEsToiSC3QiIAznfO1PuNdYfNm2srXR15nRVOJ8Rb8eXbifP2Rm+tlqCHxWb6/2JYIP7QnjaWxIR4tgJ0X6dryPhDPeOo3L+WT6xxklR1ysgRr014yj2LfrJzrgpjaeYQM1v61R0B45Un/1xn2pG62e08x1hnGJEw5JsHHuZ2SzuX+aUI2VaKiQ==;pYlFUK3C57wq3yQ5OywjkA=="
 ---
 

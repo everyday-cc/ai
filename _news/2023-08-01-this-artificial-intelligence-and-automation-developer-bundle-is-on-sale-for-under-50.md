@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-01T04:18:00Z
 originalUrl: "https://mashable.com/uk/deals/best-ai-course-bundle"
 webUrl: "https://mashable.com/uk/deals/best-ai-course-bundle"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://helios-i.mashable.com/imagery/articles/01dF4zPEl3tLC1J9C3IOICJ/hero-image.fill.size_1200x675.v1690273666.jpg"

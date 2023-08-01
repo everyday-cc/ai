@@ -27,31 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "Scale knowledge management use cases with generative AI"
-    excerpt: "Businesses looking to deploy generative AI models should join forces with a trusted partner that has created or sourced quality models from quality data.\nThe post Scale knowledge management use cases with generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-27T20:30:00Z
-    webUrl: "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/"
+  - title: "How foundation models and data stores unlock the business potential of generative AI"
+    excerpt: "Together with data stores, foundation models make it possible to create and customize generative AI tools for organizations across industries\nThe post How foundation models and data stores unlock the business potential of generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-01T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 99
-  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
-    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
-    publishedDateTime: 2023-07-31T23:38:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
+    quality: 92
+  - title: "Organizational Resilience And Operating At The Speed Of AI"
+    excerpt: "The hope is that AI (and its close cousin automation) can help solve the productivity paradox. Indeed, Goldman Sachs analysts predict AI will deliver \"a 7% (or almost $7 trillion) increase in global GDP and lift productivity growth by 1."
+    publishedDateTime: 2023-07-28T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d79a86fd87ce0403e3c1/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI is fundamentally altering the business landscape"
+    excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
+    publishedDateTime: 2023-07-30T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
+    excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
+    publishedDateTime: 2023-08-01T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/billfrist/2023/08/01/how-generative-ai--a-technology-catalyst--is-revolutionizing-healthcare/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
   - title: "AI-Generated Data Can Poison Future AI Models"
     excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
     publishedDateTime: 2023-07-28T11:16:00Z
@@ -68,57 +91,75 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Top 7 Generative AI Courses by AWS"
-    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
-    publishedDateTime: 2023-07-30T04:43:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
+  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
+    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
+    publishedDateTime: 2023-07-28T12:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Artificial Intelligence and the Broadband Business: A Black Box"
+    excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
+    publishedDateTime: 2023-07-31T18:28:00Z
+    webUrl: "https://www.bbcmag.com/broadband-applications/bandwidth-hawk-artificial-intelligence-and-the-broadband-business-a-black-box"
+    type: article
+    provider:
+      name: bbcmag
+      domain: bbcmag.com
+    quality: 41
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
-        width: 1920
-        height: 1080
+      - url: "http://www.bbcmag.com/pub/photo/optical-fiber-abstract-tall.jpg"
+        width: 3000
+        height: 2250
         isCached: true
-  - title: "6 Ways Generative AI Is Changing Content Management"
-    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
-    publishedDateTime: 2023-07-31T13:26:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+  - title: "The Potential of AI as a Virtual Assistant"
+    excerpt: "Instead of seeing it as a replacement it can be used to assist in daily tasks. Generally, an AI assistant understands natural language voice commands and completes tasks for the user. A virtual assistant can complete tasks like taking dictation,"
+    publishedDateTime: 2023-07-31T11:52:00Z
+    webUrl: "https://za.investing.com/news/the-potential-of-ai-as-a-virtual-assistant-2826307"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
+      name: Investing
+      domain: investing.com
     quality: 39
     images:
-      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
-        width: 640
-        height: 480
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
-  - title: "Most businesses with AI lead new use cases with it"
-    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
-    publishedDateTime: 2023-07-31T09:45:00Z
-    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
+  - title: "IDC-Teradata Study: Data Ethics, IT Complexity, and the Future of Generative AI in Global Enterprises"
+    excerpt: "Executives at large enterprises across the globe are facing unprecedented pressures around adopting generative artificial"
+    publishedDateTime: 2023-08-01T15:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/idc-teradata-study-data-ethics-it-complexity-and-the-future-of-generative-ai-in-global-enterprises/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
+      name: datanami.com
+      domain: datanami.com
     quality: 39
     images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
-        width: 1075
-        height: 550
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
-  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
-    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
-    publishedDateTime: 2023-07-28T19:46:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
+  - title: "How Generative AI may impact the data analytics ecosystem"
+    excerpt: "Moreover, while large language models are excelling at tasks such as summarization and translation, deductive reasoning remains a formidable challenge. As AI continues to evolve, striking a balance between its capabilities and limitations is crucial."
+    publishedDateTime: 2023-08-01T11:52:00Z
+    webUrl: "https://www.geeky-gadgets.com/generative-ai-data-analytics-01-08-2023/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 31
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "TribalScale Partners With Senso AI to Unleash Generative AI Technology for Enhanced Software Customization"
+    excerpt: "The strategic partnership will equip businesses with a formidable competitive edge by integrating Generative AI into their customized software solutions, paving the way for groundbreaking innovations and cutting-edge user experiences."
+    publishedDateTime: 2023-08-01T14:23:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article277847578.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 0
 
 secured: "Az2zpuWa4qveMObnsAiOo3uLFGvqWhwx/nFL8NNULnE75l1P6E4LVWMDleKv9d1wS0Nauc1kobuw8wsK1PYKk+7H8ewz3q5rPg5G9n1y2TsXJeI2ZoQGu6oj6g4jpIDdYEpB0Xjw6dFGm45IC7L/6N8sMpPMgDrV52yFBoLNbLavKhq1d7xcrbqw4SAOJBu6uKq4xJLiNH2R7GCIE+gdNBZRxdOJ2xIj40R4eoXFRmBocbeu4N0W+ZHYjox+sjbAJWOFYk8y53lf1QFUaYAk3zj2s6lggeEoULFnDACDwLbL4XC9RRqYaUMevszpgY7h81e3OZzZ7zwY1Ck7I0n/LLHbPmf+7VIVkSEU3fr6HFjN29OqTFIIdh3OSXHp+m2VCos8wAvChnoiFLdT++J8qa34S+jhs4uxXd4bWpuqn6D6j2AoxPKn+TiyMV796jSAmiBlk5ne8mQxkwqM/z9CKnOq6r6XfDoAJgML+XgHHrEldLYpQnApHZTFEJ9qhhGnVLuSYgOm9bORTQ2bpbaUwQ==;qtygBhFbgKODTwFx3zP7wg=="
 ---

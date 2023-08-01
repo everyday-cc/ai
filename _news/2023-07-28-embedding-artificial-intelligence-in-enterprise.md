@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI is fundamentally altering the business landscape"
-    excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
-    publishedDateTime: 2023-07-30T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "8 limitations of using Artificial Intelligence"
     excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
     publishedDateTime: 2023-07-28T10:31:00Z
@@ -98,15 +84,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
-    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Risks of opening up AI"
     excerpt: "Meta has annouced that its Llama 2 large language model will maxde freely available under a community licence with certain restrictions"
     publishedDateTime: 2023-07-28T10:15:00Z
@@ -121,19 +98,19 @@ related:
         width: 500
         height: 354
         isCached: true
-  - title: "Artificial Intelligence and the Broadband Business: A Black Box"
-    excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
-    publishedDateTime: 2023-07-31T18:28:00Z
-    webUrl: "https://www.bbcmag.com/broadband-applications/bandwidth-hawk-artificial-intelligence-and-the-broadband-business-a-black-box"
+  - title: "Most businesses with AI lead new use cases with it"
+    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
+    publishedDateTime: 2023-07-31T09:45:00Z
+    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
     type: article
     provider:
-      name: bbcmag
-      domain: bbcmag.com
-    quality: 41
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
     images:
-      - url: "http://www.bbcmag.com/pub/photo/optical-fiber-abstract-tall.jpg"
-        width: 3000
-        height: 2250
+      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
+        width: 1075
+        height: 550
         isCached: true
   - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
     excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
@@ -144,6 +121,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "How Will Artificial Intelligence Change the the News Business?"
+    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
+    publishedDateTime: 2023-08-01T13:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-the-news-business-3-theories.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 17
   - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
     excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
     publishedDateTime: 2023-07-28T18:33:00Z

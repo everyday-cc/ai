@@ -156,6 +156,15 @@ related:
       name: Mining Weekly
       domain: miningweekly.com
     quality: 4
+  - title: "Safety driver in Uber self-driving fatal crash case pleads guilty"
+    excerpt: "The safety driver behind the wheel of an Uber robotaxi prototype that killed a pedestrian in 2018 has been sentenced."
+    publishedDateTime: 2023-08-01T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1116675_safety-driver-in-uber-self-driving-fatal-crash-case-pleads-guilty"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 4
   - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
     excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
     publishedDateTime: 2023-07-29T13:17:00Z
@@ -173,6 +182,15 @@ related:
     provider:
       name: Sun City West Independent
       domain: yourvalley.net
+    quality: 0
+  - title: "Backup driver for self-driving Uber that killed Arizona pedestrian pleads guilty"
+    excerpt: "Rafaela Vasquez pleads guilty to endangerment in the first deadly crash involving a fully autonomous car"
+    publishedDateTime: 2023-08-01T11:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/01/uber-self-driving-arizona-deadly-crash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 0
 
 secured: "RfRDWVm4wr36HQo12mwnZz7DOBULYPfE9t9dqz28qCowQpv2r1/d/rvSEhCmh+97MGMBy3L51zq0fEakoesgxeEmXjXTLpNy05GbjRjSmCaXrM9q7d6odY/GSTJL1IIbcMWsGsVeDh0RAqqdPy16GaK1XR8Nc4yMor0SHpzNqFCnjlqU/l/4vH/1XDciIOklEyPCJeDmdCD+WSIzvwxz5/POX2nAxtc/981VYEiY73ps35KmbFLsYvqFRqlST7puu6g3HRRa53tGdbbyHddajsAhhxsHIxajPp1NUz+0Ym8Y33VLXAwXCMUMnlFaftbuUf+bqUxN6nuz9Sx2omIbVr/C0uci4RvVX9b2AVX6j2Bw8IoLe4D/8y8nS8ipoDpf/4BZF09IcP1rZpQ/zfpobbXxsPpcndA19xofIzETrsgVjbRnDRDEJteYY8oT7fROfH0rb5qRdBJNNbEvRTXGffKovBBXTpXQg1rOLxVQQdODUMKg6EmG699RVwgy2O0fNrdiUyddBD0IbNWf/67QYg==;vu3PDNRL5TfKpLOyZP5caA=="

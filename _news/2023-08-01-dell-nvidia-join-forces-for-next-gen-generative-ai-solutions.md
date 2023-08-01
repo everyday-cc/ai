@@ -62,15 +62,6 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 19
-  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
-    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
-    publishedDateTime: 2023-07-27T21:09:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
 
 secured: "CvSAOERMEZI0cXfKobBNPjFbhOq8ZmntsgoohOOKqJ0loYjsope2SjE2B/3Rp1WXIwVXL8pOv8CqrHUFE42jYBogx0SzhHy885ZcoA9hSiOFMU4FOQLVNp9Y1g/mk2KLHxRFQ0OZsXoK6zPYuztPoa3WuSuB2pDXzcEJvAM1RGRfMuSJ4aub/EkE0MYrpHyzJ5oAUIlDF3O6rn6nFeEU4fjgBChXd+t2B5UGW06+I1ETuvUWOT2ZBGJQiMpWIMPBVS0DXkZ5Jrdf7eEWkcGHyYWj6AQBY1JBQWKIV0Lm/e1+koAw4jKQq1yuNn0hjRgnhyXNqz7ygDDSxWjSibWWYLFuJbKRQWsdG6kg9ZEq6QE7zoMhug3ur8/vY1XX8g+tFJMsPxaI9PhcF25G17v9h1TCkgTWfWEtSjABzDh6EHe36UzbuNE8uQIFkC3jzLjRNBj8C/yNmPTPg/cmwsj3mZuXI/M08hsN9/fVRtGWY5DcMmUMJdsDt3pPACxncs6m0tiazbZKINOC/ux7eXtV0Q==;pdSmUnBTPTon9aTZ5JNdsw=="
 ---

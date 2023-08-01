@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Box extends AI efforts with Microsoft 365 Copilot integration"
-    excerpt: "The integration expands Box's efforts to use generative AI to help enterprises better understand the value of their content"
-    publishedDateTime: 2023-07-27T22:00:00Z
-    webUrl: "https://venturebeat.com/ai/box-extends-ai-efforts-with-microsoft-365-copilot-integration/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/box-social.jpg?w=1200&strip=all"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI, Microsoft, Google, Anthropic Launch Frontier Model Forum to Promote Safe AI"
     excerpt: "The forum's goal is to establish \"guardrails\" to mitigate the risk of AI. Learn about the group's four core objectives, as well as the criteria for membership."
     publishedDateTime: 2023-07-28T21:28:00Z
@@ -126,20 +112,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png"
         width: 1000
         height: 715
-        isCached: true
-  - title: "Dentsu goes with Microsoft to unleash AI"
-    excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
-    publishedDateTime: 2023-07-27T21:33:00Z
-    webUrl: "https://www.adnews.com.au/news/dentsu-goes-with-microsoft-to-unleash-ai"
-    type: article
-    provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 54
-    images:
-      - url: "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_300,g_faces:center,f_auto/http%3A%2F%2Fyaffa-cdn.s3.amazonaws.com%2Fadnews%2Flive%2Fimages%2FdmImage%2FStandardImage%2Fhighway-eric-weber-via-unsplash2.jpg"
-        width: 300
-        height: 203
         isCached: true
   - title: "Microsoft Introduces Azure Deployment Stacks in Public Preview"
     excerpt: "While using ChatGPT through a web interface is one thing, creating your own autonomous AI tool that interfaces with ChatGPT via ... Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection ..."
@@ -276,6 +248,15 @@ related:
         width: 1560
         height: 1040
         isCached: true
+  - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
+    excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
+    publishedDateTime: 2023-08-01T09:54:00Z
+    webUrl: "https://www.govconwire.com/2023/08/leidos-microsoft-partner-to-advance-cloud-ai-tech-development-steve-hull-quoted/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 28
 
 secured: "9R3fkAkgbeJNq0m4CE4xmjDRRjkw9OwBbV4Bq0zl41OjB0q0jfe9aFhQc0RNVNUq6f3d5HzQq0czVedSYEZYXYKIG78Q+3y6qpIQE9F/RHMw/kT3YymLd2806smSW9yIokBeaKjPzraeXIP0oY8TOWKzX9bCUDATNnKM/WfRDa9XqpgJpL92Qsz4J+Xhsc2OzAf8fbz+mGR9dHCYJ+H2yYQpAoVSWNqGggeHLxUAWrMEJz60+ZyLV2n/dnZr9sGf911rQMueDa9uKNcggICrHhoDDSEoObbwMfAdKvufLM6PHnqVMqW2KOsxzJ8zyKSmzSXmbVmX9lAE7Q8tL4ZGrAQy88xLg4eh3ytrLaHn4OWmzsBpOlEnQowqqcs+U9yXmvopv7eo50vFyCOmrtYZiQO335x9Pk0ACxsI59N8cnzHziZulojQEm8eYj72JNaT2YlmJP1kT8yM0H1H+qlLOpAEy+RAeLOtYKviRGeIiW/aSO9Jwju0swIXhahlNOa+5Cjtqi0twMG7P19g31MXBA==;gAT6LGnRxD/Qdy04947lRQ=="
 ---

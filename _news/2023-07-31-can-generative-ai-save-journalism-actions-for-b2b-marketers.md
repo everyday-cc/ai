@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 19
-  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
-    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
-    publishedDateTime: 2023-07-27T21:09:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
 
 secured: "wr63tRCMvp/lr51VLNDcyeYKcSsA5z5ZYSqLDDY/Iw3RixAZPcFR8kKpX3MmXG63jJXSYL89IiCA12L7K8+t5yiOL/vqHj7QSf2sJECfUgtUaQRzuebEBprfSobt6jsEJJT2gKgP+P2dYygu0IzG09pcmCcyHfWE0I86U/0pI2ndpEU3TvKfUR0vCRyyBXNdBqDu/DDki9ZOImV9r/nCMpO4J/3yrzyFKKGhcxaBigugobkWuJH8oUluf/JzvSdtldQslsm47oVD/9LYI74oV9+fexq+ZgYs68IB6tw/tIk4E/xWv1N87rmM90jXPwW01zmu9yWfVM+F0GY60T9sThFTDKX7h7R0FXpsNwHzrk4=;GhzwfTDIjuvA3yjJBrq+zA=="
 ---

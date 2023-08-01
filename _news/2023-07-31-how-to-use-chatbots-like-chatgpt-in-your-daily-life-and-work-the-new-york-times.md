@@ -41,6 +41,34 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "Meta AI personas might be the most important ChatGPT rival yet, and you should be worried"
+    excerpt: "Meta is working on ChatGPT-like generative AI bots for Facebook, Instagram, and WhatsApp - here's why that's both good and bad news."
+    publishedDateTime: 2023-08-01T14:24:00Z
+    webUrl: "https://bgr.com/tech/meta-ai-personas-might-be-the-most-important-chatgpt-rival-yet-and-you-should-be-worried/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 28
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/07/rsz_gettyimages-1514363181.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1259
+        isCached: true
+  - title: "The best ChatGPT alternatives (according to ChatGPT) – Digital Trends"
+    excerpt: "ChatGPT has quickly become the darling of generative AI, but it’s hardly the only player in the game. In addition to all the other AI tools out there that do things like image generation, there’s also a number of direct competitors with ChatGPT — or so I assumed."
+    publishedDateTime: 2023-08-01T05:45:00Z
+    webUrl: "https://www.inferse.com/659040/the-best-chatgpt-alternatives-according-to-chatgpt-digital-trends/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-11248.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KWx5wFrsvSq3T62pVmQL1e/6R8CFhmum93lHNDH24Owix6ijcq2Ts96BcUoi3SjC5S8GZGoKr2hkEfr2oGgB9ZH2PV/Zz3YVPjlqE4W2tDUDVusyoOO5E9rRmo+10HlupsVoD2dNcb77FBNR9kKVyqlGCT8L7B/wW9e4mjAT0VZnkyYo8wn6DLayM/tFLvan75cbsta+mVf9FZfO6XsNIXUmg708vOazkN8dGjwikeshmlumQYMpaeJbHhw/sCp0bNwxAl9G42mKs4gqcTRTBHFcTX+xxDgRaZt/B4yho/zGyC2kp9MoFq6SRXyHBCbCe7FDJruiUPnrG8ZRqGdJmnEf9/pSqnZSlMdQlKHjSjQ=;RqPHf3d5FYglfeqmwcyiVQ=="
 ---

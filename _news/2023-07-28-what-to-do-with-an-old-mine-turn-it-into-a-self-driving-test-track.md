@@ -155,6 +155,15 @@ related:
         width: 1600
         height: 898
         isCached: true
+  - title: "Safety driver in Uber self-driving fatal crash case pleads guilty"
+    excerpt: "The safety driver behind the wheel of an Uber robotaxi prototype that killed a pedestrian in 2018 has been sentenced."
+    publishedDateTime: 2023-08-01T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1116675_safety-driver-in-uber-self-driving-fatal-crash-case-pleads-guilty"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 4
   - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
     excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
     publishedDateTime: 2023-07-29T13:17:00Z
@@ -172,6 +181,15 @@ related:
     provider:
       name: Sun City West Independent
       domain: yourvalley.net
+    quality: 0
+  - title: "Backup driver for self-driving Uber that killed Arizona pedestrian pleads guilty"
+    excerpt: "Rafaela Vasquez pleads guilty to endangerment in the first deadly crash involving a fully autonomous car"
+    publishedDateTime: 2023-08-01T11:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/01/uber-self-driving-arizona-deadly-crash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 0
 
 secured: "Ky8zMp9ZktMKTK4GV1UpIdrYB4reDxLpI4bys4pJ1ka2sYzBa4wLCaybe9XdPnAZD9UymN6FF6QjszgixmDYxeXE5Let1yMDdFD8rRt/G/eDWsqWFlN4D/Fx/LvLNYBIxud1SCe6RlFZflAjThSLtn83S5jx0rPreB2eS6JaiTEOQD8eWhKtQonP8P+vwx9ZRIMx4RRXkFZE/Ni1M7abrCFfAhImNZhL9FneDNWv6KsS8QkFXfZRHa1VVtmnBVR72O0Hs460Tz+LfIZAv5jQBghbIAbDhFSqXWNW+A8dwarZZ+f4zbZi45pfCO99Nat8KqZW1AzCXBkK+87DdBeybrXRKVd0ayw/6UW4IanSm2AdR5CoPo0npWbbCznhkXWWUMIBytlDWWWFrnin5C/AJ7pd4xhK1tVwDtCZZdOC7ej+CQuZD82vxU0mMTu1MsJZy4SAgrU0dUeKNDndTTSmUsDJdV4VbyKAjRgcfz8Qe0ZQMA7QLVwf+Q7/+CJTFSDQbHRLe7ssUXK+6qbCrglQyA==;6sAcP/WFXZZeY1nbahi3Yg=="

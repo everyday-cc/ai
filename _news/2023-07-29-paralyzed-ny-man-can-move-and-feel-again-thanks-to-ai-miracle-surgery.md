@@ -43,6 +43,29 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
+    excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."
+    publishedDateTime: 2023-08-01T13:43:00Z
+    webUrl: "https://www.unilad.com/news/us-news/new-york/brain-implant-restore-feeling-movement-paralyzed-man-210777-20230801"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 34
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt84393f55ee50af05/64c9018a3130b00af1193413/brain-implant-quadriplegic-mans-hands.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI-powered brain implant restores a paralyzed man’s ability to feel and move"
+    excerpt: "For the first time, brain microchips help a patient with paralysis regain his ability to feel the touch of other people and move his arms at will."
+    publishedDateTime: 2023-08-01T12:16:00Z
+    webUrl: "https://interestingengineering.com/innovation/brain-implant-for-paralysis"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 16
 
 secured: "vq7DYQl5969lPuN8PMZ+dXspDfxoXo44cE5sAkDpzMo7SWVXVdFSjlhjujYdPNV8OO1or8cGt52umwzwQ0Pi/BDkmsLKbkfhe1DGDAscj3Ac/tr4qNYiXtW+HpxoZhPUFWaza4ugzc3QGvKJHTm+tPH0m1oxFOe+uIqrfuCeXof9cstTAlXOGzX+oYFuy0A3r21uR/TB9fCX0Qw2oR39XSmocBt2m15EViKhosFEckeYTwFgMOdP+H/+vjJwcVOxkcMO03X+vSVwPbz6vLsXPT3IYxMqJZqKv7U4pC/bcwESKS+WTqVXI8zrFuVTzwyulKkTRHQ+FRQpcHi7PFE7jE4zfVE2YtrsFy3CfRA5XMkMR59FPR+mD8CX7gL8Sv2rVh5dt7RcQpksvisNjU479Ct6pHY8x00kTx6QweBzXnGiJDeO8dTZhiWwDLlj8G6zbZEI3qlmgvwL4TJlA/pLieT5TpPrTWlVDtLdJB47I69T9xSNijgaqOyUFdK/ySWmRytChn0PRoAeqUzzfeVQSA==;JvtMyzVxdzRGSfNC3Qc9oA=="
 ---

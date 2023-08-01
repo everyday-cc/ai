@@ -49,7 +49,7 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://helios-i.mashable.com/imagery/articles/01dF4zPEl3tLC1J9C3IOICJ/hero-image.fill.size_1200x675.v1690273666.jpg"
         width: 1200

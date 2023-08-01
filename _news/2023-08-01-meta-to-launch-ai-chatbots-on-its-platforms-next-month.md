@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "A New Attack Impacts Major AI Chatbots—and No One Knows How to Stop It"
+    excerpt: "Researchers found a simple way to make ChatGPT, Bard, and other chatbots misbehave, proving that AI is hard to tame."
+    publishedDateTime: 2023-08-01T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-adversarial-attacks/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/64c83bd3eb3f06fa8140d218/191:100/w_1280,c_limit/stickies_chatbox_GettyImages-1255116327.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
     excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
     publishedDateTime: 2023-07-28T11:27:00Z
@@ -38,61 +52,6 @@ related:
       - url: "http://images.wsj.net/im-823806?width=1280&height=720"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AI prompt engineering: learn how not to ask a chatbot a silly question"
-    excerpt: "Understanding how to interact with ChatGPT and its rivals so that their output matches your expectations will soon be a key office skill. Here’s what you need to know"
-    publishedDateTime: 2023-07-29T13:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/11f941dc122e177b0a3e99ab36acbc9f00802cce/0_0_1600_960/master/1600.jpg?width=620&quality=85&auto=format&fit=max&s=d89db484c3c4a4b4e3e6afe292b41364"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-    publishedDateTime: 2023-08-01T09:19:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "DoorDash Is Working on an AI Chatbot to Speed Up Food Ordering"
-    excerpt: "DoorDash Inc., the US food-delivery service that competes with Uber Technologies Inc. and GrubHub, is looking to speed up ordering and help customers find food options with an artificial intelligence-based chatbot."
-    publishedDateTime: 2023-07-27T19:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-27/doordash-is-working-on-an-ai-chatbot-to-speed-up-food-ordering"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "A Christian Chatbot? How AI Could Transform Bible Study"
-    excerpt: "Nils Gulbranson hopes his “Christian ChatGPT,” Biblemate.io, will help believers and non-believers to find answers to life’s"
-    publishedDateTime: 2023-07-27T20:00:00Z
-    webUrl: "https://www.movieguide.org/news-articles/a-christian-chatbot-how-ai-could-transform-bible-study.html"
-    type: article
-    provider:
-      name: Movieguide
-      domain: movieguide.org
-    quality: 39
-    images:
-      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/07/mojahid-mottakin-lmhMI34pPMA-unsplash.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Meta’s next AI play are chatbots called personas"
     excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
@@ -108,20 +67,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Experts discover workarounds to evade chatbot AI safety rules"
-    excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
-    publishedDateTime: 2023-07-30T03:56:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/experts-discover-workarounds-chatbot-ai-safety"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 37
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "We’re using AI chatbots wrong. Here’s how to direct them."
     excerpt: "After testing dozens of AI products, Brian Chen concluded that most of us are using the tech in a suboptimal way, largely because companies gave us poor directions."
     publishedDateTime: 2023-07-30T14:00:00Z
@@ -133,16 +78,21 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Therapy For You Unveils Limbic: An AI-Powered Chatbot Revolutionizing Access to Talking Therapies"
-    excerpt: "Therapy For You, the esteemed NHS Talking Therapies service catering to patients in North East and South East Essex, has recently introduced Limbic to their"
-    publishedDateTime: 2023-08-01T10:26:00Z
-    webUrl: "https://www.businesslancashire.co.uk/2023/08/01/therapy-for-you-unveils-limbic-an-ai-powered-chatbot-revolutionizing-access-to-talking-therapies/"
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-01T15:55:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
     type: article
     provider:
-      name: https//businesslancashire.co.uk
-      domain: businesslancashire.co.uk
-    quality: 21
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 28
+    images:
+      - url: "https://www.baltimoresun.com/resizer/BtfcsvUS69ehIVbbDiT8NKv8w_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEHE5CRKO5GB4BZQPXUBL2Y4RE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "UuHAi0yAXSBDeIGfagAfAsfSkoXOuhsFTrTrCdlVU+txXvDmLXX9kgyHhxxnqlKhRlaksMZ6RL2DRoISLA6sR9YgugKOIuUzeAd7qjbEtR9KDIEqjNGbIYl9oS2yayZO8x1BR5HPGUjlS2wMbZaIrG3A0m7gRbFjQLmz0LdPEKFsP48u3sSiRFN5V1Xm0jH1cmyi3KFVpxx24LVXkwYQ9A43J/8x8iWld2jc7PAuEjARulT1bJk/V3RSmeeq0JuXrTRo0lqK6yK6qvi/nQuDxAS779IEbhqb0l+03VivgAIt1RsRPP+R5qgb2CY8GghaZ7V4VG3GghGA3VAfTFezoPGW9r4ZwgFIl8G0ulQ6ql4=;ng3h1fpTdCfvLyFajRNuZg=="
+secured: "lPEDGlfgDvhNGKElvfnA+aA8pw3RLkhehVpxaqnS+adjDqMqvk3tArSFD69XOESANryqyCD0Au3g0KnN8lwTb2YoH2MbXN27nIvXnILlXB+B3lh3wJpJC42iAk6HsFpqwZfdZl39HYDsuGmJx5eZ9+uOYqfBRA1r09nBTjqOCnBUqVJth4UWqys8yUgfrrgaApv43Tzy7G0ZQJ90h3BkzFMN1ezokN0Fo+NtSdDcnH5yLZ303qQR0vTTQQgRT+AK/JPc9eL9cB15erhM0X2O9gOHd1nDsmCxkoUThMSCwu3bygON2ewqYymDVQqWviHidjKXLS3R6DVOvlAZWu27JKo8boM6vVLLqtZOciBJMApXA8C/zkuUzp/MEjCDu+K/P1dqxRrGZkrzwlDU/rQhqZIEihVeivHg9eGuDVgBvok2YjRag2Cp8KrxgEk2KAbRuNrQbuyBWInaQ9V0HCUjuDBavWyFYrqr0dkAobWFQoaK4EwNMaBjMfsjoTe8+8YU7pg9n+pVDfroSaxvCtz5+Q==;MyHNnP4xzjkb9xX1FjTWqg=="
 ---
 

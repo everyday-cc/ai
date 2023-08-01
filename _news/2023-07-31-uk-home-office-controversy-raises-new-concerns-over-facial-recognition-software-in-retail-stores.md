@@ -63,34 +63,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology"
-    excerpt: "Airline violates privacy protections of the EU's General Data Protection Regulation, plaintiff says, seeking a $210 million fine."
-    publishedDateTime: 2023-07-27T21:15:00Z
-    webUrl: "https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfbbc41b275ea3575/64c2d33884ac5d81b41b8bd2/ryanair_Rebius_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "US cities could start banning facial recognition again"
-    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
-    publishedDateTime: 2023-07-27T21:55:00Z
-    webUrl: "https://www.biometricupdate.com/202307/us-cities-could-start-banning-facial-recognition-again"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Incheon airport introduces Smart pass facial recognition system"
     excerpt: "An Incheon airport official demonstrates the use of the facial recognition Smart pass service at a departure gate of Terminal 2, Incheon International Airport, Friday. The paperle"
     publishedDateTime: 2023-08-01T09:04:00Z
@@ -105,6 +77,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Warning over using face recognition to catch shoplifters"
+    excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
+    publishedDateTime: 2023-08-01T12:45:00Z
+    webUrl: "https://www.bbc.com/news/uk-politics-66372601"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 51
   - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
     excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
     publishedDateTime: 2023-07-29T16:26:00Z

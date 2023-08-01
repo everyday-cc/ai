@@ -7,8 +7,8 @@ originalUrl: "https://www.pcworld.com/article/2011056/2011056.html"
 webUrl: "https://www.pcworld.com/article/2011056/2011056.html"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC World
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Get back to work this back-to-school season using this AI job hunter tool, only $60 for life"
+    excerpt: "Use AI to reduce the time it takes to apply to an individual job on LinkedIn or Indeed. LazyApply can help you apply to up to 150 jobs a day, and a lifetime license is only $59.97 until August 13 at 11:59 p.m. PST."
+    publishedDateTime: 2023-08-01T13:00:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/ai-job-hunter-tool-deal/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 6
 
 secured: "s1YuYH68WyoUxTp5zVbeswelqVFtidsTulyxWG2CKXsh1M71es9lzmdela82rTgmQTcDIodgoMD8SDuy8dXFxHEkXB4xfLWTr1/ZT4RtEbPwfBBK3H7CQA792yF3GgmomKyx/x/jPPBcZQIO3gIZid4XcCiwem6bWr1dTqJIL8SdtWkIwF1bS9mMuP3E4vq2Zzs9waz6J8IiQZtgCswS0mqlMOJmP0p2sSfWR+Ocrm+ewwIpxHDKvDKj/icsAUHCMoD1w1WGXIjQ9Ej8WhszKb6nFpZ6PERYo3ZLE6Oo1rfGB/KUkomfsUxpYa4hYEJ3stfN2F5TNjOev01rp7EIhx6lEiLGTExJFvfyiURq8dkNmiWu/LDhsQHRi+Fn8yMo/FvlnTGVNZNaYsw7pkCzy+CJ4e83CkOtU+IKIklsmoC041IxP36K+ozDw6q/MUBP0AwZqxN0PFlYKliTmxrVfZfUYprAmAP3SncOq2e+luelSZAc4yYUcRmVDfYoZN/8sh6ExwvY1wt3iDw8qcxhmw==;YtAAQOojXKjs7A61jqJaOg=="
 ---

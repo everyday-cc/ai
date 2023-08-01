@@ -22,37 +22,30 @@ topics:
   - AI
 
 related:
-  - title: "Betting On AI Is Big Business"
-    excerpt: "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?"
-    publishedDateTime: 2023-07-31T08:51:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
+  - title: "How foundation models and data stores unlock the business potential of generative AI"
+    excerpt: "Together with data stores, foundation models make it possible to create and customize generative AI tools for organizations across industries\nThe post How foundation models and data stores unlock the business potential of generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-01T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 92
+  - title: "Organizational Resilience And Operating At The Speed Of AI"
+    excerpt: "The hope is that AI (and its close cousin automation) can help solve the productivity paradox. Indeed, Goldman Sachs analysts predict AI will deliver \"a 7% (or almost $7 trillion) increase in global GDP and lift productivity growth by 1."
+    publishedDateTime: 2023-07-28T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d79a86fd87ce0403e3c1/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 562
-        isCached: true
-  - title: "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI"
-    excerpt: "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more."
-    publishedDateTime: 2023-07-31T16:16:00Z
-    webUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+        height: 675
         isCached: true
   - title: "How AI is fundamentally altering the business landscape"
     excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
@@ -68,51 +61,46 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "8 limitations of using Artificial Intelligence"
-    excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
-    publishedDateTime: 2023-07-28T10:31:00Z
-    webUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    ampWebUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+  - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
+    excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
+    publishedDateTime: 2023-08-01T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/billfrist/2023/08/01/how-generative-ai--a-technology-catalyst--is-revolutionizing-healthcare/"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+  - title: "The potential future of open-source generative AI"
+    excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
+    publishedDateTime: 2023-07-31T09:52:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
     quality: 59
     images:
-      - url: "https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/7/28/1690538015666_ai5.jpg"
-        width: 282
-        height: 500
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "How AI is helping satellites avoid hitting each other in space"
-    excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
-    publishedDateTime: 2023-07-31T08:53:00Z
-    webUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space"
-    ampWebUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: Scientific American
+      domain: scientificamerican.com
     quality: 57
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Risks of opening up AI"
-    excerpt: "Meta has annouced that its Llama 2 large language model will maxde freely available under a community licence with certain restrictions"
-    publishedDateTime: 2023-07-28T10:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366545672/Risks-of-opening-up-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-250723-cover-500px.jpg"
-        width: 500
-        height: 354
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "Artificial Intelligence and the Broadband Business: A Black Box"
     excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
@@ -128,33 +116,52 @@ related:
         width: 3000
         height: 2250
         isCached: true
-  - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
-    excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
-    publishedDateTime: 2023-07-28T18:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-porn-generator-unstable-making-500k-images-day-ceo-says-2023-7"
+  - title: "The Potential of AI as a Virtual Assistant"
+    excerpt: "Instead of seeing it as a replacement it can be used to assist in daily tasks. Generally, an AI assistant understands natural language voice commands and completes tasks for the user. A virtual assistant can complete tasks like taking dictation,"
+    publishedDateTime: 2023-07-31T11:52:00Z
+    webUrl: "https://za.investing.com/news/the-potential-of-ai-as-a-virtual-assistant-2826307"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-  - title: "Embedding Artificial Intelligence In Enterprise"
-    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
-    publishedDateTime: 2023-07-28T10:02:00Z
-    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
+      name: Investing
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+  - title: "IDC-Teradata Study: Data Ethics, IT Complexity, and the Future of Generative AI in Global Enterprises"
+    excerpt: "Executives at large enterprises across the globe are facing unprecedented pressures around adopting generative artificial"
+    publishedDateTime: 2023-08-01T15:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/idc-teradata-study-data-ethics-it-complexity-and-the-future-of-generative-ai-in-global-enterprises/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
-  - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
-    excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
-    publishedDateTime: 2023-07-28T18:33:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/ais-impact-on-business-billion-dollar-investments-and-market-consolidation"
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "How Generative AI may impact the data analytics ecosystem"
+    excerpt: "Moreover, while large language models are excelling at tasks such as summarization and translation, deductive reasoning remains a formidable challenge. As AI continues to evolve, striking a balance between its capabilities and limitations is crucial."
+    publishedDateTime: 2023-08-01T11:52:00Z
+    webUrl: "https://www.geeky-gadgets.com/generative-ai-data-analytics-01-08-2023/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "TribalScale Partners With Senso AI to Unleash Generative AI Technology for Enhanced Software Customization"
+    excerpt: "The strategic partnership will equip businesses with a formidable competitive edge by integrating Generative AI into their customized software solutions, paving the way for groundbreaking innovations and cutting-edge user experiences."
+    publishedDateTime: 2023-08-01T14:23:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article277847578.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 0
 
 secured: "igrutnhIJPoOOoqCCbLGfxnRrwqmB5V7VJAntSaVI6piFGRhx0pS0LbXfZRIxear/Zv7G8z2Ehkpt7b7WHcVfQgdq41Ve+t1QestORo0XwNYZnA22JGsj8c+kDYJCX/Gc4dZqKnYfdJRh6TuA2zQF7ixa0ooHeA63Ugu9ndH4a+P8jVUUlvcviD+UR/UsVMnSWSLve1kpA1KLkSGpQRo+YquBFDg01hJcyidMVTLBBteT0q2cC4J/oGXlvddFLfEQ34f2LQ6u99GRyALgFEYHzCnPJD6e+9qsLKhHYdJ2P0OQLOOafplcvqufa7xHVKzVsgNu+3PU5oAch3GwoZNGPMjclq/x6SnnPPsutrMd/sGZ93cQfFJUDN7kb/ImiaWHN5UKDOEOIiY0/+IIdSYc9i6lZaVdEA9K1TulqapBZ7tEtobOHaXGc1kCRDLS2ts+pL62eAUDjUAi7wlygog0NZ7Mpe3yfKVuQSMUrxe4S+oTi7ZN8FBfwQPSTCVeKCOfaUBymed7H1SKkxQjDeI2w==;VweWEpRNEVUi14VpwGPTzA=="
 ---

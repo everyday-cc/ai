@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "J.P. Morgan and TIFIN partner to push wealthtech's AI evolution: Wealthtech Weekly"
-    excerpt: "Plus, portfolio construction upgrades from iCapital, an AI advisor platform from Savvy and two new leaders at eMoney."
-    publishedDateTime: 2023-07-27T21:18:00Z
-    webUrl: "https://www.financial-planning.com/list/j-p-morgan-and-tifin-announce-the-launch-of-tifin-ai-wealthtech-weekly"
-    type: article
-    provider:
-      name: Financial Planning
-      domain: financial-planning.com
-    quality: 33
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/595f561/2147483647/strip/true/crop/3600x1890+0+445/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff8%2Fa0%2Fc70f26e9446680775ebc06e81ce2%2Fjpmorgan-flag-bloomberg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
     excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
     publishedDateTime: 2023-08-01T09:40:00Z

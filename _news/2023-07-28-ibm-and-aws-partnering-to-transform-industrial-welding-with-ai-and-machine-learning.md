@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-indus
 webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
 type: article
 quality: 127
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -25,6 +25,15 @@ topics:
   - AWS AI
 
 related:
+  - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
+    excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
+    publishedDateTime: 2023-08-01T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 95
   - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
     excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
     publishedDateTime: 2023-07-28T14:59:00Z

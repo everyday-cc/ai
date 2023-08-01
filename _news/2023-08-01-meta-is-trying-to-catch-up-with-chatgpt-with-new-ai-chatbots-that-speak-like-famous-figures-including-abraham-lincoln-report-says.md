@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/meta-exploring-launch-ai-chatbots-im
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-exploring-launch-ai-chatbots-imitate-abraham-lincoln-2023-8?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Meta is secretly building an AI chatbot with the personality of Abraham Lincoln"
+    excerpt: "Facebook owner Meta is working on a ChatGPT-style chatbot with the personality of Abraham Lincoln, according to reports. The new AI bot is part of a series of prototypes under development at the tech giant,"
+    publishedDateTime: 2023-08-01T15:55:00Z
+    webUrl: "https://www.aol.com/meta-secretly-building-ai-chatbot-125516915.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/99c671e56e0896c576f4ea8b54d663f5"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "kY+DJgEhs0ZIYI/6QVSQyqbwQvRRP0sBNB+nhx+69DR/+rWb/DBs96GJ9Udbw5PIZW6r+CYO4GNwrS+TxBeH54PIAeO8zH7bT4DfZ/WR34O5MEM3RzKMx0ni+lZlj44zIfrfonjYwAP770s/nHu3VTFDjv/ti/ohsQHRgsGzEVxJTU8VsW1HSl7gf1vMN2Du+hjhFsaVNHEuSrGR5jRoZod5D9iJI00+J9KWB0qj1uE1c2XUTS1r8GBdkyy4MqF+zcGoULi9ZMNFgdXAX5qEa/7mn1qPN9uYSVU5RBcaeCK+uWEmu1Atqi8MDcTGmg1U+LPw779xrLH/SAomJN4uQuHODoXfcK2bFPDUNce6ALk=;kvsSR0v6WqDhzkxeMXQuYA=="
 ---

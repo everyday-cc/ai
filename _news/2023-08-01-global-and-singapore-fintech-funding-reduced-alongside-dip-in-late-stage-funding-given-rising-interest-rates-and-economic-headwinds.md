@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Global And Singapore Fintech Funding Reduced, Alongside Dip In Late Stage Funding, Given Rising Interest Rates And Economic Headwinds"
-excerpt: "H1'2023  <br />  <li /> Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1"
-publishedDateTime: 2023-08-01T09:36:00Z
-originalUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
-webUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
+title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
+excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
+publishedDateTime: 2023-07-31T23:29:00Z
+originalUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
+webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?88541"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce"
@@ -93,6 +87,6 @@ related:
         height: 300
         isCached: true
 
-secured: "lvF5PwTvFS8BHZKAk51BKHPktcAWdLa9ykpph+mavzKI2mowKAn+LiWyuZ+PjIueWtgYXHek3e3Z8XkoHKGLlpMVX9Jq0isrQfvpL15HIAeV/YoVudDO/jVUvTzy1CFA0hnGqBEK8OxbAwUOFOhkvt6MsAxs0iicx+IfaXTyz5Z5tp6jOvn4XiPPkanZ8wQfWylqNzcgTeEQFY956EuJdmUg6rTptbkb0DLuZI+/ThdcEWkuc6De15CQfZEZ4lGS2FwhjOmI9ZE7g7TzeJq39LAl2zR0VUwTucUV3rrdJXPal2SvnyL4bMmXaDZcE5jmxR5JYebW7JQy2+FlJce6Pt3ljxRkF1QIESN4Kdnnbvw=;jSaWO79JiTbI+mNvTVEVGg=="
+secured: "PHAmOB1TkZwZqGjw8wVNUB04uEXQJ/9t/orrAiZ4xk1UhkVYQLONTAWsb47/BBtq2MGiIbycmXEZgzKX2qERFG0ngg5sGxbykIlz6ta2uTciz4QR3J7ADQckoS22t00T0bSX3InbKCXyKKn7a+U73UcyhSLJNvJjEPCvKNMvaSdCKLl0nS2M1iclMHpGku4gIrcwcj2hJLP3JlZXWMjGgWdkJ6jJq9IaENA2xJBTY2lTODUQMI1UyK5xsvGXlDQLgPehmvFNG3e7o7bU0Ie0hvGhm9w2l9jBWx2a3WXxfoVcZMsNnG9+sD3DHxU39q12GBj8IMCagX9yiJ4zrvAJfv/s34RHCsP+pj/BC6q4RIfUPZ/p4V/7/wCh0VBmf27x+dO3icB/Ri6PGaZagpKdfshxLtGr47TmvccaeWcbNZi59934zjsm2B+1QIq6Ihvefabs1GAaabtyt5j8lRN6dbpTrd4QMpZlww+9SWmDhaD2ZDIJhZFf3Xfhf9BQj5gPXBO4CcCTxr1oCgwXt4KZDg==;XTHo3eoc3zHVZIkWyqmixw=="
 ---
 

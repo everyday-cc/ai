@@ -2,11 +2,11 @@
 category: news
 title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
 excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-publishedDateTime: 2023-07-31T13:47:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
+publishedDateTime: 2023-07-31T15:03:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
@@ -15,14 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI in Robotics
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
-    width: 400
-    height: 261
-    isCached: true
+  - Microsoft AI
 
 related:
   - title: "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country"
@@ -104,6 +99,6 @@ related:
       domain: ciol.com
     quality: 7
 
-secured: "Jh44y8gw59qAzCeeOAct1kU6iGvVV7kQt/x0dWR1clyNblYsShR4uB2HRYpEkOElZV9iduFP1mMMnj5jZaOCaArvDWt/IAD/teYRs4NCdbH5Hzh6FLtzT/C5o6r5bpb/V8CFjfeWggf9p2JtqU3bHXgBAxWwYwajesSVwOX1xXq2JyWGLnp7waSKVesKorhfkxfrI0RUPDu2R8vEpRv3pLd6yoUDUiXeFwrmx2nj/8EF3o6VjE+9fccc8l5Xo5rSaQYVG5RxjNfu4LFCyfPE0Arfc2wRt7K9uHqFQLuHffvPlFm73NW7B/KnvhsH/JEIb2ZEG5OhzwsXtTf9bCWfpSrTIITxZahjxuj4BrqMeXU=;rX2lwBpHSdGcwzc46CpqUQ=="
+secured: "KxklxDOZRIAP8JJzf29OHVOxZ8pb7itgZHyvHZlw6BpGn83O9Q+rjMm5X40PukA9hi+kjERy94DSI90VF7xn0AogYuj4TQ+J9vSgP1TErSmw1wn4LcF41ny8WSFsfiOM0YzIHi8oZbQG5DJZQ2Qni1pi8GtW7UQCnmbuQ1mj11QosHCWgp3ABM+mh6b/yZTMCIKUJU4tdbU8gqc4FgD8eBE6kQqLUXy/sQ1mqsgxoVlxEBKQuNJ30JU6xGMKbzDBNPR8E9kPgnBXRorx8gsaTewM0MCd2KXTNNVEHCd3kHBnsV4DHTuXw7gjwnE+5qm44PZU2wdZTbS1l/b7+cB+JN4hTDl304Pomaldmc4A9KNblQb/gbaOlAgIeYLpd/9rAXSxXht37CJa5UM2h9nBrOleFNnzkKGgewl6pQZQiafLiMd4dpY5gDdKQd6X7oMb+1OIxmzC7mtAUOY5Oa32+F6Q8dz8DQjBugefHva2fs39No97NBWFwjI2Egrce9BSKzkHg/govya1B5P4kw2u+g==;LUG7WFS3XCivMm6R0+wVZA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Generative AI is quickly infiltrating organizations, McKinsey reports"
+    excerpt: "So far, North America-based respondents lead the globe in terms of gen AI adoption for work, with 28% of them using the tech in their jobs and outside of work, compared to 24% of European respondents and 22% of Asia-Pacific respondents (Greater China was just 19%)."
+    publishedDateTime: 2023-08-01T04:00:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_woman_stares_in_awe_at_a_computer_screen_emitting_3D_ch_0ac4b32e-4db7-4f09-b48d-cafb845ae23b-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "mLHnE9ttMISY3bXyQfOf/CYdRCtJ76gXpML0mGFLuQlbQfRtw9yBrb5IDFdCul1o+gSwzqslK8I3cNPuwmBLZLfB9v4FdRg8Sn0uZqeiWGlK9fSaDyYUgxoTXC7kTpDcRMufSWsSPnyYTP2iKfn6VuMtHHPAQ6ZDu16wMLYwsblBIWSzurHQXIRaHaJqrUMldrkYDKQWzT6J/patL7X2mrI5HeUiLfPcUHLqdlTlyGlfLcRz72C7ShgpSW/ghMMfwGrA9E7/5Fg+UNTGvmeRguZWvp7DfFuvQtXwRwAELHLi9GSwayCqfTk20p4S21pVTvjs/pjrIXo9g/JhwbWDrwdLJsD5DNh0UNl3t6Di8P4=;7+as5sy82hLWCj6/9ZO6Jg=="
 ---

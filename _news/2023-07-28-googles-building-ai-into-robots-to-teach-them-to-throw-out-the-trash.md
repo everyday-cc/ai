@@ -83,6 +83,22 @@ related:
         width: 1278
         height: 720
         isCached: true
+  - title: "Google's new AI model allows robots to finish tasks on their own"
+    excerpt: "Google's Deepmind AI division calls it a vision-language-action (VLA) model that learns by scouring the web and parsing through heaps of robotic data."
+    publishedDateTime: 2023-08-01T12:20:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 76
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
+        width: 710
+        height: 435
+        isCached: true
   - title: "RT-2: New model translates vision and language into action"
     excerpt: "Introducing Robotic Transformer 2 (RT-2), a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control, while retaining web-scale capabilities. This work builds upon Robotic Transformer 1 (RT-1),"
     publishedDateTime: 2023-07-28T00:00:00Z

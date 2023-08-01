@@ -80,18 +80,13 @@ related:
         isCached: true
   - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
     excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-    publishedDateTime: 2023-07-31T13:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
+    publishedDateTime: 2023-07-31T15:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
-        width: 400
-        height: 261
-        isCached: true
+    quality: 21
   - title: "Accelerate Your AI Startup: Apply Now for Google for Startups Accelerator India – 8th Batch"
     excerpt: "Google is inviting India-based AI startups that have received funding from Seed to Series A to apply for the 8th cohort of Google for Startups Accelerator."
     publishedDateTime: 2023-08-01T05:25:00Z

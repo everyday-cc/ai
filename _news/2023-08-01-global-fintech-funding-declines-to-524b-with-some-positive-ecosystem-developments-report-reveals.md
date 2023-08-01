@@ -78,20 +78,15 @@ related:
       name: altfi
       domain: altfi.com
     quality: 10
-  - title: "Global And Singapore Fintech Funding Reduced, Alongside Dip In Late Stage Funding, Given Rising Interest Rates And Economic Headwinds"
-    excerpt: "H1'2023  <br />  <li /> Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1"
-    publishedDateTime: 2023-08-01T09:36:00Z
-    webUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
+  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
+    excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
+    publishedDateTime: 2023-07-31T23:29:00Z
+    webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Macau Business
+      domain: macaubusiness.com
     quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?88541"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "IsbI5+Ev7eSUyK91Lts65wH8Yt/WzC82FReAznrkQjqoV6Ie3ESwusInOBb9onjnVD3yBHPjG9qae58r4YADzSyMQ+xw846nt5SBA5Ls4RDIN8QPPvPhpuWVoyVowVRTu+exhFD66pXnhbjuA7N2BbKre6jHc4NMNuywczJPKGE6VuKLxnLyG6/jcssg9uQCtLbnTFvjfaTlFYo4hg73ZjAEMorbXCPps1J35AOMDZW5qtKg4yOE+VliDT4Qh8Piu7rtO2XB4+WDbAsQx8uMrQGyrhW/KyObNT5K3ont9cfLQ5GUw+g9A+bVCWa+YkXvYxkYaqiUuXqy7a876Upzx8uHiEc4A0H/tbCIswb0iZyInYgVVStdyUi5CDKeR7qzUkRyokF31BR6oiFD9AIZmRY9hRuhOPk3g/BfELIaWOpUzv6X5yMA87rQClcn5ETG1Eg137ysaNMZvrVdVJs/NyI8bZu3B1q6BoBNz2cERct/FwK22N2DaEYoPWtDYRwMRn2/bN7apjKAijoFIOSK4Q==;3IiNckmXwGJ0CKrZbhFc8w=="
 ---

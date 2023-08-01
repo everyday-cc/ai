@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-
 cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: FOX 10 Phoenix
@@ -43,6 +43,29 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
+    excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."
+    publishedDateTime: 2023-08-01T13:43:00Z
+    webUrl: "https://www.unilad.com/news/us-news/new-york/brain-implant-restore-feeling-movement-paralyzed-man-210777-20230801"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 34
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt84393f55ee50af05/64c9018a3130b00af1193413/brain-implant-quadriplegic-mans-hands.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI-powered brain implant restores a paralyzed man’s ability to feel and move"
+    excerpt: "For the first time, brain microchips help a patient with paralysis regain his ability to feel the touch of other people and move his arms at will."
+    publishedDateTime: 2023-08-01T12:16:00Z
+    webUrl: "https://interestingengineering.com/innovation/brain-implant-for-paralysis"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 16
 
 secured: "aDf158lVs69L4EcRNcDzBMU/x4peE3C9FQPyY4QB0AAYgVGd4BJCwdQUBZeQqAjKi61Gi3BULf7AG4sWOGFj5pr2kLJKffjexG5DfJ7PESihAYbtLPDLgO3fG8QttKFnhoJXwGtjMCOAJc9H1NDwDpGmVpuZdLlPbt5REs1DoTYIJzRH0ca+4Q19S2pD0UPIWOpUtZilC4HL5Myke4zMWZ9Ad7s4P3SuQZm9vneD4Kl3IeHe8BV5RvfVaRmtYNHOxZcQjwYCOyyCGmHHN3Apgt67fv/k+giwZFf1WR450Gfe6rBYYgUGHncs7efPg4TJ/ys0dz2LTMAeZS6TNIpC++GowPrY2UGs0wQ9caBdk4chndnFpdiRXf0cmLHI+o5tTaEdyE2rT40INIQNj31/bh92O53OYqUzIIjZKFS58u857zXDDouAWgQyldi+f9xcV2GC69VBfCAK8euhkC4mMfLYA71nlSJriQdACYw1zdeIXuyfgsj/2qZerhavMSAj+pugG0ekXZ4Xxe6ZLazDpA==;76Azy3yy+rIdMmmVdo3zyQ=="
 ---

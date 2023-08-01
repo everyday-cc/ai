@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/sme/span-data-rich-text-pl
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Skill Development Ministry Partners with AWS India to Upskill Students in AI, Data and Cloud"
+    excerpt: "The Directorate General of Training under Ministry for Skill Development and Entrepreneurship (MSDE) is collaborating with Amazon Web Services India to upskill students in emerging technologies., Education News,"
+    publishedDateTime: 2023-08-01T12:17:00Z
+    webUrl: "https://www.timesnownews.com/education/skill-development-ministry-partners-with-aws-india-to-upskill-students-in-ai-data-and-cloud-article-102316923"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 23
 
 secured: "vi4QV+o2Lq77X9ieV1kj5T/RNW3+1KVb4ccKrwGl8aKldXkd9E74H+1lRBiLrX8sNVOF4o4TuJ3/ZYM0zpL/Ijbm3SR1xS75op2J5YxoLzYTl/lX8ECcYOYFzW+BM3U+4jIR1HU4vxWf0k4Z/lM/dqIr3Wrk8kBAHJKruhXSxGKGC6r3KBfc7MNpEzijYpXC3ENYzJf1ce+x/1mK0xPCVA1bCrObhHgIHfli5DeCirCnyeC7pr59b1jmzMZbvvlUon7SzMXoRXba5R3Rl0Qz/tXVkn1KN2DEImUmiyFLZe2kx9nrxbZuMa04LetE49TnFc3LHf5TnaZ7olTea0zt/0w0QqCXWYBCOLN8Z7owItZGESF7qjVI0dUTmwlT1NhdgjYmm30xaItno2NgcatF6Yjs6zesfVUkmeyeEOnXg7fHUYva/SH5cb/bp0aGJ7IjjGXgI+zrwMBToQGHSJsvp1VUiIt3n5nqPxJJrz1nBMDSR2ZLvUPdV/2jcfNjNlspWFwd/0HyRv9xgX9/JJvzow==;h/UFbSUZBX0Vu90z4h8ICQ=="
 ---

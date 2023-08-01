@@ -78,20 +78,15 @@ related:
         width: 290
         height: 300
         isCached: true
-  - title: "Global And Singapore Fintech Funding Reduced, Alongside Dip In Late Stage Funding, Given Rising Interest Rates And Economic Headwinds"
-    excerpt: "H1'2023  <br />  <li /> Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1"
-    publishedDateTime: 2023-08-01T09:36:00Z
-    webUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
+  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
+    excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
+    publishedDateTime: 2023-07-31T23:29:00Z
+    webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Macau Business
+      domain: macaubusiness.com
     quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?88541"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "soFDKVReFJ2QZj/6PiVGKKh/LHZrk03L2thHoEkIhZgkg4EyESfh1lpOtgSrgT2NvsmKoX852qHCIkL/xtS5ohVA9Zk/mU01W5KBwsGSPCJxY/MLFo43e+bLGcFtmCUyv1uEtISURgeSnOxI0xi2Q5JDalJpOe/NnQyYTlSdKgHix0AQ3lHirB/a8ymu+z3TZFzHiljl09dcJZ7/4BmBp0GNUxfGslNLzjcp2QlmKGOU8CvvD2qIqTNuRKM5dlNVypYgZQxSG/Lnt/0ldjOJ/3B5m9R3rq+O4J77JVMkrPNDQfXQ0YE8xg2GbSXIKkhXiIBUnB16irKoBBhbEZvIcil8UiVyMyGNWo9yn9hB6I8=;u1DdXCxa9gmAHsJf+nTCcQ=="
 ---

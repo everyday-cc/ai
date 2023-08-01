@@ -39,6 +39,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "GE HealthCare Technologies Inc. (GEHC) Stock: A Closer Look at the Market Potential"
+    excerpt: "The price-to-earnings ratio for GE HealthCare Technologies Inc. (NASDAQ: GEHC) is above average at 19.41x, Analysts have differing opinions on the stock, with 5 analysts rating it as a “buy,” 1 as “overweight,"
+    publishedDateTime: 2023-08-01T15:20:00Z
+    webUrl: "https://newsheater.com/2023/08/01/ge-healthcare-technologies-inc-gehc-stock-a-closer-look-at-the-market-potential/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 33
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-9.png"
+        width: 640
+        height: 420
+        isCached: true
 
 secured: "BoHBH+D5CGrywWh6mLYgR4dXYE2sP3bxAG3BUEdSbKr1EaliIaUxQdllyHJ6V82+j2z2i5+7YRGH046H7LOmfq1nn+sy9yDDYqpuw8UYg+w5mesA2BEocQdRl5mJxnmtFRpNpwSQsZdq1RNNMDd54M3ugmFwa0eBIWGQsFoRwba5jYkQW4ADcSbshYlBQAhCVs4vi5hTzr2kE7+jR71pwWAf0dJWoZa8TUHxHyO33qjxYrbHglamc2vWIvq6I03Xp1OC3ir11gNC4S26cXdYE2PvuPRfpRLN/Hzd7t38ikKV9D8tAkg3nwFH69dbmJOWm7pX6XkEb3UAsnpkcEK36wLw8USNyCH2Iog2a/qkLdM=;Oyb5r2/1tLydbyL4RTOA1A=="
 ---

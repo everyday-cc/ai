@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Top 50 Fintech Companies Hiring for Remote, In person, and Hybrid Freelance Jobs"
-    excerpt: "Ascent has an established profile in domains like fintech, software, and AI. The company has shown a way to help clients make better cost savings. They are also using regulation AI to automate ..."
-    publishedDateTime: 2023-07-27T20:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-top-50-fintech-companies-hiring-for-remote-in-person-and-hybrid-freelance-jobs"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 27
   - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
     excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
     publishedDateTime: 2023-07-31T01:25:00Z

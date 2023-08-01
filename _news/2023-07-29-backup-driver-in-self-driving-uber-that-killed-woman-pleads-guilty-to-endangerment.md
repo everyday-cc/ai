@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-ube
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp"
 type: article
 quality: 68
-heat: 178
+heat: 198
 published: true
 
 provider:
@@ -160,6 +160,15 @@ related:
       name: Mining Weekly
       domain: miningweekly.com
     quality: 4
+  - title: "Safety driver in Uber self-driving fatal crash case pleads guilty"
+    excerpt: "The safety driver behind the wheel of an Uber robotaxi prototype that killed a pedestrian in 2018 has been sentenced."
+    publishedDateTime: 2023-08-01T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1116675_safety-driver-in-uber-self-driving-fatal-crash-case-pleads-guilty"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 4
   - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
     excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
     publishedDateTime: 2023-07-29T13:17:00Z
@@ -177,6 +186,15 @@ related:
     provider:
       name: Sun City West Independent
       domain: yourvalley.net
+    quality: 0
+  - title: "Backup driver for self-driving Uber that killed Arizona pedestrian pleads guilty"
+    excerpt: "Rafaela Vasquez pleads guilty to endangerment in the first deadly crash involving a fully autonomous car"
+    publishedDateTime: 2023-08-01T11:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/01/uber-self-driving-arizona-deadly-crash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 0
 
 secured: "OaRxldhXwSrEmf/VJJ9m11WRWm6VVY8iqwvLpM7XswOyZfK8XD7DDOlx9FsOILZrs97jdObRehWOT/Gbi+WTalpLW/zDENprjIh2teGScCVHDGS85hRM9LXaIUcdb8TuoBFXc5p85KntwkQDrKPY+ZegDskdD64mB00V0Mv+GcCI/ZYzNIdQf5s8SLsVwvGOGbJIMa4SNA4JGO271zcqvHgpOKvj76dAAD2KVqS0lnu5Bu8mzTCh43tT+I/HQRsIXYbelrbB0LyZkNgD/W40w94Qd0Ym1t4FjOeLlN9CokGNvSdWbzVofFsNBCRrcKm2T5nEw1ucJtWMsK/NH8IQvi2oKNM7NqussZ0qyr4pbV4=;eijVDp9r6285SKTSE/TMBw=="
