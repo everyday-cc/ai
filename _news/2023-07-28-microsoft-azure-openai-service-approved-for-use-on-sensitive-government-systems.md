@@ -127,20 +127,6 @@ related:
         width: 1000
         height: 715
         isCached: true
-  - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
-    excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
-    publishedDateTime: 2023-07-27T15:04:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/27/despite-slowing-growth-the-battle-for-ai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/741311/a-person-studying-stock-charts-and-graphs-on-multiple-computer-monitors.jpg"
-        width: 2119
-        height: 1415
-        isCached: true
   - title: "Dentsu goes with Microsoft to unleash AI"
     excerpt: "Dentsu has partnered with Microsoft to launch enterprise-wide access to the benefits of artificial intelligence (AI) via Azure OpenAI technologies. This deal has already resulted in the development of two new CXM solutions, Merkle GenCX and AI Playground LATAM, a regionally-focused set of customised solutions."
     publishedDateTime: 2023-07-27T21:33:00Z
@@ -289,20 +275,6 @@ related:
       - url: "https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
         width: 1560
         height: 1040
-        isCached: true
-  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
-    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
-    publishedDateTime: 2023-07-27T15:26:00Z
-    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
-        width: 770
-        height: 435
         isCached: true
 
 secured: "9R3fkAkgbeJNq0m4CE4xmjDRRjkw9OwBbV4Bq0zl41OjB0q0jfe9aFhQc0RNVNUq6f3d5HzQq0czVedSYEZYXYKIG78Q+3y6qpIQE9F/RHMw/kT3YymLd2806smSW9yIokBeaKjPzraeXIP0oY8TOWKzX9bCUDATNnKM/WfRDa9XqpgJpL92Qsz4J+Xhsc2OzAf8fbz+mGR9dHCYJ+H2yYQpAoVSWNqGggeHLxUAWrMEJz60+ZyLV2n/dnZr9sGf911rQMueDa9uKNcggICrHhoDDSEoObbwMfAdKvufLM6PHnqVMqW2KOsxzJ8zyKSmzSXmbVmX9lAE7Q8tL4ZGrAQy88xLg4eh3ytrLaHn4OWmzsBpOlEnQowqqcs+U9yXmvopv7eo50vFyCOmrtYZiQO335x9Pk0ACxsI59N8cnzHziZulojQEm8eYj72JNaT2YlmJP1kT8yM0H1H+qlLOpAEy+RAeLOtYKviRGeIiW/aSO9Jwju0swIXhahlNOa+5Cjtqi0twMG7P19g31MXBA==;gAT6LGnRxD/Qdy04947lRQ=="

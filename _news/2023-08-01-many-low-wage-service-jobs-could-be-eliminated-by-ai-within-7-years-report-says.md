@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/ai-could-eliminate-service-jobs-mck
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-could-eliminate-service-jobs-mckinsey-report/"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How much healthcare jobs will be automated by AI"
-    excerpt: "AI could automate up to 30% of hours worked at US jobs by 2030, but healthcare professions are expected to remain stable because of demand, McKinsey & Co. reported."
-    publishedDateTime: 2023-07-31T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-much-healthcare-jobs-will-be-automated-by-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "plpftrn0PEtzTAKrduS2SsmPCsHjShQO8y0n9zZt9QzAJxXs6ZiK01ZOfW2MAKOM7FdHA2mxipy4UW5wZ7T8Ok/od7ghCY8x0fHAjNOcAXjT2+0lV6FfpwpPnsdTZCi7Fl6tQHT0zp6BhbEmURVTqy/B4Jkyn7eQwAz7wLD/wlIEhs3gvO0Yv+1Ky2ComLrTgrHdLli4qAN0Yd3RAmEIG/Yg4NPtOolZgE7h2miBYWehCRVhm/m79mfK0vM3c0rmAWtgrvJRxLwf1Vp74Xu5uZwrPkdEgzNT3K+GlMKJ8D1gncGqWJwQbRGZbzIKQJhxnXIZ6ya/KxdtYUz/dKFjbz9TCzksvQ+AM29/7VqK3H0=;hiwPNp9QMbp688wwvy6G7A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/lenovo-loq-gaming-la
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/lenovo-loq-gaming-laptops-with-mux-switch-and-ai-engine-launched-in-india-2023-08-01-884191"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 202
     isCached: true
 
-related:
-  - title: "Laptops will need to support growing AI and security priorities, says Lenovo"
-    excerpt: "Machine learning and cybersecurity are among CIOs' top priorities today, so work devices should be built to support these requirements."
-    publishedDateTime: 2023-07-27T16:28:00Z
-    webUrl: "https://www.zdnet.com/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/c4cc733699695e91521b8dca563ed9f16dcd9e46/2023/07/27/89da4a7c-8167-4487-a8d9-ae0670cec091/gettyimages-1199270450.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "RxdukMGgW051enH7vZTM6W/v+mROVGUmNGmVEqQQdZsYuEWW0H+J06cMvKca91yyHQBmrgSFrCRaHf+CSK1qcLhmw5aQpdsRRfTWUS+j1WRIdfY+1J60tf0/We4u+r+YEAzEtKKfadGDbbfUdt1EwEKkKZO9/TBwZMn14NjsDI6glHufT4s2lczc1kRb6EeIXLCWqPDWlaflLywMjarLtTKXq9/jwRMv5vpqQW7fHIrcqjSnIMGd/nPMHaQR9BLjDLBEKsZjmV7pmVBR6wGPWixKfFdAw8BUTsb7fHHfNEIzKHpXhJZ11I76spkv3dCj2kGWHRZsfIqPA1LoaEnnYcYz6CV/fb1D8f7jUxXsc5c=;5N+2BQ0toaUJTt6krtTO8A=="
+secured: "AMFNJl4RJQrPQ3hmge/Aovq6FDyBmct6jQgmxaApmq+wKeuhywH6u9GzUi3Luh1YkO/x9bggQ/jRv1KO8C8Zs6lltInQRq11a9l976TWQyTuJBT71HtFYRvpBKj2yqaXRnfSlRlwknXIipXQ7OThYlMVAzU+vlQiok5t5AfPJVSRvgeje1tH6gsuTj1HNxLNa2u7ebAROXjmptaykC4y2bL2HoQSKBbNb47Mrymaf/g5v0R7HJYQ8MsrNP8vtO+0xq9m/dP+p1mzntTflIksENPr2UCWXTqz0m3q7J/xyysnZdjwDv7H+s0+TPdtUdNKhvA83TYmq3MaBKkywUGkuFfg51CJwaGCWn4NSnPrz3u0fWAEePZTkzUOymLnB3azvteinOuFODYR5wSU8WhlFv5O3df6LLCL8Suqt+ZIWGrGEtvx3jMlQ+K8IhoWNQW48N3qpGparKUAQJ2TCurVWhpWFqapTN7sfTQSW/zhrR9tTSIK2BzmGmghoHj0Yp6mzd7Oh4nxRy5rKygmX95e1w==;mXcvTC7PB9LqjvWUSTZdKg=="
 ---
 

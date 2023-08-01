@@ -2,6 +2,266 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-07-23-an-ai-generated-south-park-episode-microsofts-security-woes-and-teslas-first-cybertruck-build.md",
+      "title": "An AI-generated ‘South Park’ episode, Microsoft’s security woes, and Tesla’s first Cybertruck build",
+      "excerpt": "In this edition of Week in Review, we cover the AI-generated \"South Park\" episode, Microsoft's security woes and Tesla's first Cybertruck build.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
+      "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/Cybertruck_78.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/",
+      "publishedDateTime": "2023-07-22T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-google-and-openai-plan-technology-to-track-ai-generated-content.md",
+      "title": "Google And OpenAI Plan Technology To Track AI-Generated Content",
+      "excerpt": "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/",
+      "originalUrl": "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/",
+      "publishedDateTime": "2023-07-22T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th.md",
+      "title": "Tesla offers customers one-time Full Self-Driving transfer until September 30th",
+      "excerpt": "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
+      "originalUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/p5ASh2CB4Q2WKDSg3OF25w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/25277830-ae4a-11ed-bd7e-39bcf0c251ee.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead.md",
+      "title": "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead",
+      "excerpt": "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/",
+      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/05/satyabots.jpg.jpg",
+          "width": 3414,
+          "height": 2266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped.md",
+      "title": "Is Financial Inclusion A Friction Point As Synergies Between AI And Crypto Are Hyped?",
+      "excerpt": "The intersection of Web3 and artificial intelligence has emerged as a hot topic. However, as Congress and the White House focus on risks, what about equity and inclusion?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bb4cfc812bf57af59a6bb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
+      "publishedDateTime": "2023-07-22T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-ai-is-supposed-to-make-our-jobs-easier-these-workers-disagree.md",
       "title": "AI is supposed to make our jobs easier. These workers disagree",
       "excerpt": "A new crop of artificial intelligence tools carries the promise of streamlining tasks, improving efficiency and boosting productivity in the workplace. But that hasn’t been Neil Clarke’s experience so far.",
@@ -959,255 +1219,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-directors-of-wilt-chamberlain-documentary-goliath-defend-use-of-ai-in-recreating-legends-voice.md",
-      "title": "Directors of Wilt Chamberlain documentary 'Goliath' defend use of AI in recreating legend's voice",
-      "excerpt": "“For us, it's very different because writers are striking in the sense of these are people who are alive, who have celebrity and name and voice recognition who don't want their stuff to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/directors-wilt-chamberlain-documentary-goliath-162916561.html",
-      "originalUrl": "https://www.aol.com/directors-wilt-chamberlain-documentary-goliath-162916561.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/RbGWh1viI_ZJnPFsW7yniw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_sports_800/1c39f4f5e936c989f067432aada5b1f3",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/directors-wilt-chamberlain-documentary-goliath-162916561.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/directors-wilt-chamberlain-documentary-goliath-162916561.html",
-      "publishedDateTime": "2023-07-21T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-australian-dishbrain-researchers-receive-more-than-400k-to-merge-ai-with-human-brain-cells.md",
-      "title": "Australian DishBrain researchers receive more than $400K to merge AI with human brain cells",
-      "excerpt": "Researchers in southern Australia have recently been granted more than $403,000 in funding to merge human brain cells with artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
-      "originalUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
-      "publishedDateTime": "2023-07-21T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft.md",
-      "title": "Redditors prank AI-powered news mill with “Glorbo” in World of Warcraft",
-      "excerpt": "In a truly meta moment, later on Thursday, a different Z League bot going under the name \"Ashley Beam\" picked up on a thread about AI-generated content scraping and wrote an automated article about that as well, titled \"World of Warcraft (WoW) Players React to AI-Generated Content on Popular Gaming Sites.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/",
-      "originalUrl": "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/glorbo_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/amp/",
-      "publishedDateTime": "2023-07-21T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-google-co-founder-comes-back-to-company-to-bolster-its-ai-efforts.md",
-      "title": "Google co-founder comes back to company to bolster its AI efforts",
-      "excerpt": "Google’s co-founder, Sergey Brin, is taking a hands-on approach to the company’s AI efforts. Brin is now showing up at the Google offices three to four days a week. The co-founder is using his time to help support the hiring process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-ai-sergey-brin-3347338/",
-      "originalUrl": "https://www.androidauthority.com/google-ai-sergey-brin-3347338/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2020/01/google-logo-G-at-ces-20201.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-this-barbie-ai-tool-turns-you-into-a-barbie-movie-character-sort-of.md",
-      "title": "This Barbie AI tool turns you into a Barbie movie character (sort of)",
-      "excerpt": "Warner Bros and Photoroom, an AI-based photo app, collaborated to create a Barbie Selfie Generator, which lets users upload a selfie and transform it into a Barbie movie character's poster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "originalUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/70775f51b0e65f1fc3a0c4a68812c9f6b4476177/2023/07/21/0bc0b301-9260-4cb3-8c04-1b887d1af7b1/gettyimages-1543944233.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "publishedDateTime": "2023-07-21T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

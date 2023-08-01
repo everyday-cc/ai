@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-29-can-self-driving-go-mainstream-within-10-years-watch-this-debate.md",
+      "title": "Can Self-Driving Go Mainstream Within 10 Years? Watch This Debate",
+      "excerpt": "CMU Professor Raj Rajkumar, of the DARPA challenge winning team faces off with Brad Templeton on the core question",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
+      "publishedDateTime": "2023-07-28T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-heres-why-this-ai-chipmaker-continues-to-outflank-the-competition.md",
+      "title": "Here's why this AI chipmaker continues to outflank the competition",
+      "excerpt": "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics-allbi-is-on-board.md",
       "title": "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board",
       "excerpt": "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean",
@@ -164,7 +259,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -656,6 +751,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-28-we-tested-an-ai-chatbot-drive-through-heres-how-it-did-on-three-challenges.md",
+      "title": "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges.",
+      "excerpt": "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821",
+      "originalUrl": "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-823806?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives.md",
       "title": "AI Vs. Hearing Loss: The Battle That's Transforming Millions Of Lives",
       "excerpt": "Over 5% of the world’s population suffers from disabling hearing loss. Groundbreaking advances in AI are revolutionizing hearing and helping erase the social stigma.",
@@ -664,7 +810,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1052,153 +1198,6 @@
         "AI",
         "Google AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-ryanair-challenged-by-noyb-over-invasive-facial-recognition.md",
-      "title": "Ryanair challenged by Noyb over ‘invasive’ facial recognition",
-      "excerpt": "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr",
-      "originalUrl": "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/07/AdobeStock_288121812_Editorial_Use_Only.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-lg-v30-closer-look-security-features-including-facial-and-voice-recognition.md",
-      "title": "LG V30 closer look: Security features, including facial and voice recognition",
-      "excerpt": "The voice recognition feature is pretty cool, and like the others, it works quite well. Once you turn it on though, you'll be greeted with a message about how it's not quite secure, as someone ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "originalUrl": "https://www.neowin.net/news/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2017/08/1504061717_img_2491_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
-      "publishedDateTime": "2023-07-28T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-the-future-of-art-generative-ai-web3-and-the-immersive-internet.md",
-      "title": "The Future Of Art: Generative AI, Web3 And The Immersive Internet",
-      "excerpt": "The generative AI, the metaverse and Web3 technology are set to revolutionize the art world, offering new opportunities for artists and collectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c360def8a6665c5f03e3c1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/",
-      "publishedDateTime": "2023-07-27T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

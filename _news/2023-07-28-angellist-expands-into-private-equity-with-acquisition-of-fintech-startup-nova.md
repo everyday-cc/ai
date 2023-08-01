@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
 type: article
 quality: 70
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Fintech startup Croissant launches with $24 million in seed funding"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-27T15:35:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97592/fintech-startup-croissant-launches-with-24-million-in-seed-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "Vanquis buys fintech firm Snoop"
     excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."

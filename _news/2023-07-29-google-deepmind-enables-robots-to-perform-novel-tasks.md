@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "A year ago, DeepMind’s AlphaFold AI changed the shape of science — but there is more work to do"
-    excerpt: "DeepMind's AlphaFold shook up science by predicting the shape of 200 million proteins. But there are more problems to solve."
-    publishedDateTime: 2023-07-27T16:23:00Z
-    webUrl: "https://venturebeat.com/ai/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-26T140248.380.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Google DeepMind empower robots to accomplish new and unique task"
     excerpt: "“RT-2 is not only a simple and effective modification over existing VLM models, but also shows the promise of building a general-purpose physical robot that can reason, problem solve, and interpret information for performing a diverse range of tasks in the real-world,” said Google DeepMind."
     publishedDateTime: 2023-07-29T05:36:00Z

@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-19-meta-and-microsoft-unveil-llama-2-an-open-source-ai-language-for-public-use.md",
+      "title": "Meta And Microsoft Unveil Llama 2, An Open Source AI Language For Public Use",
+      "excerpt": "In a surprising announcement yesterday, Meta (formerly Facebook) and Microsoft have introduced Llama 2, an AI language model designed to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
+      "originalUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/07/llama2.jpg?fit=1280%2C720&ssl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-how-consumers-can-protect-themselves-against-ai-voice-cloning-attacks.md",
+      "title": "How Consumers Can Protect Themselves Against AI Voice Cloning Attacks",
+      "excerpt": "In attempts to offset these crimes, the financial services sector is using voice recognition biometrics, technology that enables companies to authenticate an individual by their unique vocal ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
+      "originalUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-three-career-choices-that-will-not-be-impacted-by-ai.md",
+      "title": "Three Career Choices That Will Not Be Impacted By AI",
+      "excerpt": "Professions that require complex decision-making, creativity and empathy are difficult to replace by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59cc0cc207a8b885f1dc1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
+      "publishedDateTime": "2023-07-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-speech-recognition-eu-27.md",
       "title": "Speech Recognition - EU-27",
       "excerpt": "Value in the Speech Recognition market is projected to reach US$1.32bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.82%, resulting in a market volume of US$3 ...",
@@ -47,19 +187,19 @@
     {
       "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
       "title": "How AI is helping to translate the Bible into rare languages",
-      "excerpt": "But one team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages. Ulf Hermjakob and Joel Mathew are ...",
+      "excerpt": "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”",
       "sourceUrl": null,
-      "webUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "originalUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "webUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
+      "originalUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360",
-          "width": 540,
-          "height": 360,
+          "url": "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg",
+          "width": 670,
+          "height": 376,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,13 +207,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
-      "publishedDateTime": "2023-07-18T09:29:00-07:00",
+      "ampWebUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
+      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
+      "publishedDateTime": "2023-07-18T08:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Catholic News Agency",
-        "domain": "catholicnewsagency.com",
+        "name": "Angelus",
+        "domain": "angelusnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1247,149 +1387,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development.md",
-      "title": "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?",
-      "excerpt": "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b51b21f424212056aa415/0x0.jpg?format=jpg&crop=1392,783,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
-      "publishedDateTime": "2023-07-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-35-into-ai-food-ordering-app-lily.md",
-      "title": "Nextgen Food Robotics Integrates Large Language Model (LLM) through GPT-3.5 into AI Food Ordering App, Lily",
-      "excerpt": "Nextgen Food Robotics Corp (NEO: NGRB) (OTC:NGRBF) (FSE: A3D48V) (the \"Company\" or \"NextGen\"), a company exploring the implementation of artificial intelligence (\"AI\")",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33159832/nextgen-food-robotics-integrates-large-language-model-llm-through-gpt-3-5-into-ai-food-ordering-ap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33159832",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159832",
-      "publishedDateTime": "2023-07-10T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
-      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
-      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg?v=532947bbe7449b367b963713a282edbc",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "publishedDateTime": "2023-07-09T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

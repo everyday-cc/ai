@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/moorinsights/2023/07/28/aws-healthscr
 webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/28/aws-healthscribe-uses-generative-ai-and-real-time-doctor-patient-conversations-to-update-medical-charts/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,33 +23,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "AWS’ head of health AI on Amazon’s new clinical documentation play"
-    excerpt: "AWS’ Tehsin Syed shared what differentiates HealthScribe from other AI-based medical scribes and how Amazon is approaching tricky questions of accuracy and responsibility around generative AI in healthcare."
-    publishedDateTime: 2023-07-27T16:16:00Z
-    webUrl: "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/"
+  - title: "AWS launches AWS HealthScribe"
+    excerpt: "Amazon Web Services has launhced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
+    publishedDateTime: 2023-07-28T14:26:00Z
+    webUrl: "https://www.techcentral.ie/aws-launches-aws-healthscribe/"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
     images:
-      - url: "https://www.healthcaredive.com/imgproxy/53gowIaP8QxjnVDdtQ9rskIbm7xfdCn4x-I8DWwbeOs/crop:1763:996/g:nowe:34:422/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2F3cy1ueWMtc3VtbWl0LmpwZw.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "Artificial intelligence could aid treatment of mental health issues"
-    excerpt: "Knowing ahead of time that a patient may be at risk of harm can help us develop intervention strategies ... and adjustments to their care plan,' says Waypoint official"
-    publishedDateTime: 2023-07-29T14:16:00Z
-    webUrl: "https://www.orilliamatters.com/local-news/artificial-intelligence-could-aid-treatment-of-mental-health-issues-7320010"
-    type: article
-    provider:
-      name: orilliamatters
-      domain: orilliamatters.com
-    quality: 54
-    images:
-      - url: "https://www.vmcdn.ca/f/files/midlandtoday/images/people/20230724andreawaddellsupplied.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/06/Tech-central-MPU-1300-×-250-px.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "bno2BP+RKeFNTa67CgCLoDYfR8KTe2HyljAxX06UJbtl10sHdXItI99ntRMFMdJeEofrZPqRKNvOnHoqwl6Yucb8OIcQ/7YgyMy5X4+jA1N8M7Ln0OjE4SP3vi/wK7J8lOSI247pEiSC/Ues5s8MmhFhaDrzneCFsIAVKUT2ysHldEyN4EepK5e+rDZmTbTLiRTW8EVk1jhuTvpNvB6eztCvAd6YlPOipO8qy7QuPk6zuS2Iea03nokokAC6sYPARdjm56+u1r/FubxLcRoNFwiPghqWiHlJfZzoyUW5xm9Rnhg9E6Sn9K8L5HkNocGTlKZrt8hhtgnMEDQswuhD45F8bPdHecFZ5OhE7EMcelXjqE4MfxrvZ+HSaS8/dImSw1WFVlXp1BQF+8anyWX8kOSfPOMLEL6+es70RA8tp6olquIf55pZd/EdiFfZ0Nzhgh0UnXyY51LsaMIsJuT/czT1ddkIFQYYC9+nVvradu6//rAAHFSbvuE9QfDCm1bFZP6pZ2xGw1rqLecYzek4EA==;aJ1PyRH00RnZaILzBzhhIw=="

@@ -2,6 +2,164 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-31-betting-on-ai-is-big-business.md",
+      "title": "Betting On AI Is Big Business",
+      "excerpt": "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/",
+      "publishedDateTime": "2023-07-31T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-a-group-of-seven-technology-leaders-agree-to-ai-safeguards.md",
+      "title": "A Group Of Seven Technology Leaders Agree To AI Safeguards",
+      "excerpt": "This article discusses Amazon, Google, Inflection, Meta, Microsoft & OpenAI's voluntary commitment to AI Safeguards & discusses the USA WhiteHouse AI legislation status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c76de0561a39fa1d6b2a39/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
+      "publishedDateTime": "2023-07-31T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops.md",
+      "title": "Kubeflow Joins CNCF To Accelerate The Adoption Of MLOps",
+      "excerpt": "CNCF’s acceptance of Kubeflow as an incubation project marks an important milestone in the evolution of the open source MLOps platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c74b2ceb8e510cf216a81a/0x0.png?format=png&width=1200",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
+      "publishedDateTime": "2023-07-30T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
       "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
       "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",
@@ -10,7 +168,7 @@
       "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -451,108 +609,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-29-how-generative-ai-code-assistants-could-revolutionize-developer-experience.md",
-      "title": "How generative AI code assistants could revolutionize developer experience",
-      "excerpt": "Why tech leaders must evolve development teams to embrace generative AI code assistants and plan for the next-gen engineering experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-generative-ai-code-assistants-could-revolutionize-developer-experience/",
-      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-code-assistants-could-revolutionize-developer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_generative_ai_code_assistant_in_an_office._Colorful_fut_95302330-7b15-4a98-8996-0edaa54cd27d.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-ai-prompt-engineering-learn-how-not-to-ask-a-chatbot-a-silly-question.md",
-      "title": "AI prompt engineering: learn how not to ask a chatbot a silly question",
-      "excerpt": "Understanding how to interact with ChatGPT and its rivals so that their output matches your expectations will soon be a key office skill. Here’s what you need to know",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/11f941dc122e177b0a3e99ab36acbc9f00802cce/0_0_1600_960/master/1600.jpg?width=620&quality=85&auto=format&fit=max&s=d89db484c3c4a4b4e3e6afe292b41364",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "publishedDateTime": "2023-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-29-that-sports-broadcaster-you-hear-could-be-ai.md",
       "title": "That sports broadcaster you hear could be AI",
       "excerpt": "AI commentary was introduced in at least three major sports tournaments, including the Masters golf and Wimbledon tennis tournaments, for the first time this year.",
@@ -655,7 +711,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -782,6 +838,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-googles-new-ai-tech-lets-you-command-robots-to-throw-away-your-trash.md",
+      "title": "Google's New AI Tech Lets You Command Robots to Throw Away Your Trash",
+      "excerpt": "Google is looking to help you use natural language to control robots, with technology that's like the systems powering Bard and ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/googles-new-ai-tech-lets-you-command-robots-to-throw-away-your-trash/",
+      "originalUrl": "https://www.cnet.com/tech/googles-new-ai-tech-lets-you-command-robots-to-throw-away-your-trash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/6fe30042173d42762ddc73ffea1cf4b6312c5576/hub/2022/08/16/cb482315-de25-45c7-b325-a03a0a3ea9ee/20220811-google-palm-saycan-robot-03.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1150,101 +1257,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-can-self-driving-go-mainstream-within-10-years-watch-this-debate.md",
-      "title": "Can Self-Driving Go Mainstream Within 10 Years? Watch This Debate",
-      "excerpt": "CMU Professor Raj Rajkumar, of the DARPA challenge winning team faces off with Brad Templeton on the core question",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
-      "publishedDateTime": "2023-07-28T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-heres-why-this-ai-chipmaker-continues-to-outflank-the-competition.md",
-      "title": "Here's why this AI chipmaker continues to outflank the competition",
-      "excerpt": "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

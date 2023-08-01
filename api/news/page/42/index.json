@@ -2,6 +2,290 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-07-03-humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet.md",
+      "title": "Humane's aspiring smartphone-killer 'Ai Pin' may be the most 2023 product yet",
+      "excerpt": "The secretive start-up, founded by ex-Apple employees and backed by OpenAI's CEO, has named its AI-powered wearable launching later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet/",
+      "originalUrl": "https://www.zdnet.com/article/humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/87cbc24ba40159165e2246bfb590a298b9f944f1/2023/07/03/1cc88643-728b-4a3e-8d11-206baab84df0/fz6bjtfaqaaivgz.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humanes-aspiring-smartphone-killer-ai-pin-may-be-the-most-2023-product-yet/",
+      "publishedDateTime": "2023-07-03T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ai-combined-with-crispr-precisely-controls-gene-expression.md",
+      "title": "AI combined with CRISPR precisely controls gene expression",
+      "excerpt": "Artificial intelligence can predict on- and off-target activity of CRISPR tools that target RNA instead of DNA, according to new research published in Nature Biotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-06-ai-combined-crispr-precisely-gene.html",
+      "originalUrl": "https://phys.org/news/2023-06-ai-combined-crispr-precisely-gene.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/crispr.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-06-ai-combined-crispr-precisely-gene.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-combined-crispr-precisely-gene.amp",
+      "publishedDateTime": "2023-07-03T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works.md",
+      "title": "Valve says Steam games can’t use AI models trained on copyrighted works",
+      "excerpt": "Last week, we shared an anonymous report that Valve was blocking from Steam at least some games that make use of AI-generated artwork. Over the weekend, Valve confirmed that report, telling Ars in an e-mailed statement that the company is blocking games that use AI-generated content unless developers can prove those AI models were trained with data that does not \"infringe on existing copyrights.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/",
+      "originalUrl": "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/steamvalve2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/valve-says-steam-games-cant-use-ai-models-trained-on-copyrighted-works/amp/",
+      "publishedDateTime": "2023-07-03T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent.md",
+      "title": "Is It Possible To Opt-Out? Facial Recognition Technology Raises Questions About Data And Consent",
+      "excerpt": "multimedia artist Mac Pierce presents a simple black hat, tricked out with what he calls a privacy solution to the widespread use of facial recognition technology. Pierce has printed three angles of a face onto transfer paper, ironed the photos onto an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/science-and-technology/2020/02/25/is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent",
+      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2020/02/25/is-it-possible-to-opt-out-facial-recognition-technology-raises-questions-about-data-and-consent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/feaa8ee/2147483647/strip/true/crop/3872x2576+0+0/resize/3872x2576!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F09%2F64%2Fab02edbd4e21b2d6332384e23caf%2Ffacial-recognition.jpg",
+          "width": 3872,
+          "height": 2576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-retain-original-pdf-formatting-to-view-translated-documents-with-amazon-textract-amazon-translate-and-pdfbox.md",
+      "title": "Retain original PDF formatting to view translated documents with Amazon Textract, Amazon Translate, and PDFBox",
+      "excerpt": "Companies across various industries create, scan, and store large volumes of PDF documents. In many cases, the content is text-heavy and often written in a different language and requires translation. To address this, you need an automated solution to extract the contents within these PDFs and translate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/retain-original-pdf-formatting-to-view-translated-documents-with-amazon-textract-amazon-translate-and-pdfbox/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/retain-original-pdf-formatting-to-view-translated-documents-with-amazon-textract-amazon-translate-and-pdfbox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/03/retain-original-pdf-formatting.jpg",
+          "width": 1022,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:30:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside.md",
+      "title": "IBM: Acquiring Apptio, Dividends, AI, And Collaborations Position It For Future Upside",
+      "excerpt": "IBM has underperformed in recent years; shares falling 28.28% in past decade, but strong fundamentals and focus on AI and cloud services could change investor sentiment. IBM's recent acquisition ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4614786-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside",
+      "originalUrl": "https://seekingalpha.com/article/4614786-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/52783338/image_52783338.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 978,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-eu-to-work-with-japan-on-ai-and-chip-supply-chain.md",
       "title": "EU to Work with Japan on AI and Chip Supply Chain",
       "excerpt": "The European Union (EU) is set to work with Japan in a bid to boost its Artificial Intelligence (AI) and chip supply chain.",
@@ -858,292 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
-      "title": "Build accelerated AI apps for NPUs with Olive",
-      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
-      "publishedDateTime": "2023-07-03T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ais-impact-on-cost-savings-productivity-and-jobs.md",
-      "title": "AI’s impact on cost savings, productivity, and jobs",
-      "excerpt": "While short-sighted companies may look to AI to cut jobs and costs, smart companies will use AI to increase productivity and agility. Just as they did with open source and cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
-      "originalUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-526811863-100648031-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701588/ais-impact-on-cost-savings-productivity-and-jobs.amp.html",
-      "publishedDateTime": "2023-07-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ai-unlocks-prostate-cancer-treatment-benefits.md",
-      "title": "AI Unlocks Prostate Cancer Treatment Benefits",
-      "excerpt": "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
-      "originalUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
-      "publishedDateTime": "2023-07-02T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again.md",
-      "title": "He Spent $140 Billion on AI With Little to Show. Now He Is Trying Again.",
-      "excerpt": "Billionaire Masayoshi Son said he would make SoftBank “the investment company for the AI revolution” but he missed out on the most recent frenzy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
-      "originalUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-810126/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-02T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
-      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
-      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
-          "width": 1184,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-microsoft-explores-ai-and-the-open-source-future-with-web3.md",
-      "title": "Microsoft Explores AI and 'The Open Source Future with Web3'",
-      "excerpt": "As part of an open-source-focused Azure event, Microsoft announced new AI capabilities and explored \"the open source future with Web3.\" That was the topic of a fireside chat that closed today's (March 7) Azure Open Source Day 2023, described as an ...",
-      "sourceUrl": null,
-      "webUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
-      "originalUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://virtualizationreview.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0115vsm_dorseyVSTool.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
-excerpt: "H1'2023 Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1'23, while Singapore H1'23 funding fell to"
-publishedDateTime: 2023-08-01T07:30:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/08/01/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds-/236980"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/08/01/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds-/236980"
+title: "Global And Singapore Fintech Funding Reduced, Alongside Dip In Late Stage Funding, Given Rising Interest Rates And Economic Headwinds"
+excerpt: "H1'2023  <br />  <li /> Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1"
+publishedDateTime: 2023-08-01T09:36:00Z
+originalUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
+webUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?88541"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -93,6 +93,6 @@ related:
         height: 300
         isCached: true
 
-secured: "DoGz/DX8bygngzJJgWrEfmKGIrlyfLQjpz9OQPUKs7Sw8qzpF7hEHXYjIvOMpg2MMfeTkrPTD5uBadDfwjZCcJnBlpvA7EayoacmSdc3T5TZWupEWTD8/1MtD94n4FD58eksnDaGr0z95GF9Z4C/7F0elWXBIEyr+jS9W/hm5M032gkc/INJND3CnsiUQD9wrDWezazyI8iuLzxxond12fCeAmWEKI+pWTM3svx/w9l+E7dbNO4yqZts8kh+SDR/nuKVusTkF5Tp8XrbISny49X1hHcQ/OehpGwxrnsv3rv8d7+Jm1mtN3JdjdxYNbt8SMOK7bCvCr2hieuEluNNsT1duNKYEiImdm9EMQ1kFtI=;MTaBY21x8taXm6pkMPeZNg=="
+secured: "lvF5PwTvFS8BHZKAk51BKHPktcAWdLa9ykpph+mavzKI2mowKAn+LiWyuZ+PjIueWtgYXHek3e3Z8XkoHKGLlpMVX9Jq0isrQfvpL15HIAeV/YoVudDO/jVUvTzy1CFA0hnGqBEK8OxbAwUOFOhkvt6MsAxs0iicx+IfaXTyz5Z5tp6jOvn4XiPPkanZ8wQfWylqNzcgTeEQFY956EuJdmUg6rTptbkb0DLuZI+/ThdcEWkuc6De15CQfZEZ4lGS2FwhjOmI9ZE7g7TzeJq39LAl2zR0VUwTucUV3rrdJXPal2SvnyL4bMmXaDZcE5jmxR5JYebW7JQy2+FlJce6Pt3ljxRkF1QIESN4Kdnnbvw=;jSaWO79JiTbI+mNvTVEVGg=="
 ---
 

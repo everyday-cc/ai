@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI helps scientists to eavesdrop on endangered pink dolphins"
-    excerpt: "Researchers have used artificial intelligence (AI) to map the movements of two endangered species of dolphin in the Amazon River by training a neural network to recognize the animals’ unique clicks and whistles."
-    publishedDateTime: 2023-07-27T15:08:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-02441-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02441-8/d41586-023-02441-8_25852814.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Scientists listen to sounds of endangered dolphins via artificial intelligence"
     excerpt: "Scientists launched a study on Friday to monitor the movements of two endangered dolphin species via artificial intelligence (AI). The Catalonia Technical University which is located in Barcelona and the Mamiraua Sustainable Development Institute in the Amazon conducted the study to detect the sounds of dolphins in the Amazon River."
     publishedDateTime: 2023-07-28T14:36:00Z

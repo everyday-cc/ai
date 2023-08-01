@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/tech/googles-new-ai-tech-lets-you-command-rob
 webUrl: "https://www.cnet.com/tech/googles-new-ai-tech-lets-you-command-robots-to-throw-away-your-trash/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CNET
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Dell wants you to use your business data with new AI solutions"
+    excerpt: "Dell is expanding Project Helix by adding generative AI solutions. The offerings come for the biggest part in partnership with Nvidia. Dell is introducing"
+    publishedDateTime: 2023-08-01T08:38:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/109486/dell-wants-to-make-your-business-data-useful-with-new-ai-solutions/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/AI-business.jpg"
+        width: 1000
+        height: 526
+        isCached: true
 
 secured: "tIbxrcZvMtUc4T6Zk0tr5E0Bw8KR10pXhb4BQi17ET5lpnACK6T7KlobM4cL/ytQIceqp8WQzW4dkSUpscCTiAgDAo82JslM+BRZ8kJiRzgQeC2A84VXaPl87JXoh5p9ssLUVe7/HAQQqL1JeqOHY5rjKsin/3mFYbdVDrytJnXNYLjSwRxjBYnPA4x73SpXtMYafW6BIIlqRqldZwXXDcka409W25tB7zhRlNc6e2uoSHEw/+jSTZ1i2SCSThYtmu0/np4daQrs2wBO5ar1kLIAJwNzgvBL79RVLC3PPKcphz4oAWL64PelVLqe+jfsLXg08FusSg3WlP8Sc0uApasGGpQ+auoykbx1p6mZK2FHpOZv4VtClxdH5+tgweso8Q0v0+w2YvPNGZyv3HG9wr15dmECcfhdgfGyKCckQpr5N5fQa8urtlDgTM/UVJnOHOLc86GR0n7a1Eb6JvSFx46+UMcEfLtVEI6eYvGkbl/5hcDjZh0BfObiDwjvz9T1OlRjyF/hUd+iHq2TfTLMfg==;U8fsZRCXQCHxMRJ2z4qTrQ=="
 ---

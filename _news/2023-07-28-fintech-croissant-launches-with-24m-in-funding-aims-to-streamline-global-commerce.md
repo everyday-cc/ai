@@ -78,19 +78,19 @@ related:
         width: 290
         height: 300
         isCached: true
-  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
-    excerpt: "H1'2023 Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1'23, while Singapore H1'23 funding fell to"
-    publishedDateTime: 2023-08-01T07:30:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/08/01/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds-/236980"
+  - title: "Global And Singapore Fintech Funding Reduced, Alongside Dip In Late Stage Funding, Given Rising Interest Rates And Economic Headwinds"
+    excerpt: "H1'2023  <br />  <li /> Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1"
+    publishedDateTime: 2023-08-01T09:36:00Z
+    webUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
+      name: Mena FN
+      domain: menafn.com
     quality: 0
     images:
-      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?88541"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "k6mkfIYdsu7U6qmEaN4LNu7bDvpyitpCCeg4JnjfRpLHW+N28XQAp2FEQC2qQKtwRXVjlIRQLknLZYoCrcajD8DTxBzD6D7fh38KjgOjBJXLKxMh/cByTzuWhPHJe+KWU0+Rxaah6sy5l3Vb2ysECZcICLYDPJCvYN3BuPiUNN3lz1e3VOnHiXGnOfWErySiRaL1YSw6iHzYMu8NW+rZ+YDKT7dLJ+3Gh7GpT5hDmIkRn1unBnpMCfRNdSzmZzhe1lZZgi/utlHCNmVlhurZhMfxgB/+pWmAKdV83Ojg0zpK23Vxrl4OERpeNU7qJV/sB3YplFpZHpM0bVntuWOMJfxddvojBnQvDQoKtgSSsrBViGea6ZolVV1V2/itAaT7G7BmsPfDxY11btnLLRU+l1hKLNMOK6/2vvIdDDcKM5tWw5Tn2L8IT03hQoLEcDyC9LmXUqRxCsxKpluijoNzqnuzSWmY4BuTePKO74CxdNvCIbUIgSku+5cczR/z04+h1Mnvn/va92HGvHUSdC3PCg==;rEfU79EYivYbgSmCqmOJoA=="

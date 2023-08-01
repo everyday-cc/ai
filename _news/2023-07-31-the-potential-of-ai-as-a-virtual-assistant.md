@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/the-potential-of-ai-as-a-virtual-ass
 webUrl: "https://za.investing.com/news/the-potential-of-ai-as-a-virtual-assistant-2826307"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 251
     height: 282
     isCached: true
-
-related:
-  - title: "Alarmed by AI's potential, U.S. Senate to summon experts"
-    excerpt: "U.S. senators, alarmed by the malevolent potential of artificial intelligence, will summon developers, executives and experts for hearings later this year on possible legislative safeguards, Senate Majority Leader Chuck Schumer said on Thursday."
-    publishedDateTime: 2023-07-27T16:14:00Z
-    webUrl: "https://www.reuters.com/technology/alarmed-by-ais-potential-us-senate-summon-experts-2023-07-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/YgdSsnQzdxaaEVBm2_Y7zUhZc10=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWT26TEXONPTHCJPWDKPIB3CGM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "jVeVAdnEE5zn53riJipBBf30N7/Zs3jvjJXF002Qt0shGkfTCVq9XM0NxS5dAChwE0A4bJI36GCkNbJUkfsijEdo+7TKpTQnOn++AIA3iWrqDl8aLpn3FSP/iENt0Ybc+BPGY+w0Jv14JRWQOfRn4KYVF9DV0VppMx7BWJR9mbZVr/TqOSP6KxU5zZoW6iG3L1lpn/6D1USCZs1rjdu1rkEIve1P2nUgtGojdBO34hAX1h1vTwK2fQOhoUWzXNPOvCalbwiL7dxi1afoygGyz66EiknEovurqxOWSOHCqAoe9hy+EltvacejJDTjBgHssiwztlOHZ+FRwBE6IOOzWp/jorKOrQJcoB47goF9uqCKiXy9OFM1OfEn18Lbm64h3ZSAO81RXRdi9t98J9+weF3OuW6LWNbCN2x35CvAD9QybrzImsZOfp4J7wFbiLg3I6Q2QIfvCkf+elTnaSqmBc5NrwT/ayMQbTiGeLhTqZWs6SUnxowNQJOO5YSjQibz6s71MW9X+nntSc5dk2ya6w==;S/IxrkUutAebxqfFLJ++7w=="
 ---

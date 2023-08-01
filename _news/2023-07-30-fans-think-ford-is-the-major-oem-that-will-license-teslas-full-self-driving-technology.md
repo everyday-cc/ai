@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light"
-    excerpt: "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California."
-    publishedDateTime: 2023-07-27T15:58:00Z
-    webUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/"
-    ampWebUrl: "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla initiates email drive for Full Self-Driving transfer to customers"
     excerpt: "San Francisco: Elon Musk -run Tesla has started a new email campaign to urge Tesla owners who have the Full Self-Driving (FSD) package to upgrade to a new car and transfer the FSD package."
     publishedDateTime: 2023-07-30T10:25:00Z
@@ -48,22 +32,6 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/07/Tesla-recalls-nearly-16K-Model-S-and-Model-X-vehicles-due-to-seat-belt-issue.jpg"
         width: 1280
         height: 750
-        isCached: true
-  - title: "Congress urged to revive long-stalled debate about regulating self-driving vehicles"
-    excerpt: "Advocates for the self-driving vehicle industry are asking Congress to expand their ability to test and eventually sell autonomous cars and trucks WASHINGTON -- Advocates for the self-driving ..."
-    publishedDateTime: 2023-07-28T04:01:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/congress-urged-revive-long-stalled-debate-regulating-driving-101683765"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 38
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_f1cef9b9595a4bd87287670eaa1694d6_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
 
 secured: "5jjWj/G583lkE6b0dX8uth9asB7SwKRS3CxLoBaAaQSE/0iukx+b+sBCblS5Vk/1zL3aeeFl+KNJjt19z6PcB8PLxuw0gXNZzXbIfulM7ipp3r8zD2etScAY72+raKLJNmDR3a/dcPMPYTRn7go6Ff3gKaQX7rDW2WSNEleXofoIVwMejedv8opbT3TeFNN3XyUeP21NQrB1MITLvjf3+/qfQ1act2cEaNdYOHHujohV/M7mjrJVE/imkhjKhdXiYf9OjL9sKwAb+uSFLr46EjdBRAKqueQSVxYwn6Dk2VQNFd2i8aFmEZaGZhivKp0g5I4CvNH2F7GOJzXESqGZnmjaxulBpcFya3SaqZPJME4J+i/KsJsolGXMS2Vdb0s5B/6oZXQsGMcfUa7QitTI4XWivGp6a25UdXcEbXyDD+ZFyABPgh5hftvar+pWiU0ssmgG5VrctHw9P+wR7Eo0Oz9XHHz57FvQ+98VoK05HB+FJcP+S6+IJI1v1A8sqsFvuepcxR0V3QxodYfRnxaZ/g==;lUQlu9ijbCAte0mbSr6hqw=="

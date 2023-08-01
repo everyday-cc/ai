@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Tackling challenges of retail sweethearting with AI and machine learning"
+    excerpt: "Loss from pilferage ranges from 1% -5% of annual revenue, depending on the level of control retailers have over their outlets."
+    publishedDateTime: 2023-08-01T08:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 53
 
 secured: "4ZqzRXHoO6nZtgRI3paPNe1rcb/nnMzV+ZivINRe7Gy/fbK/b1/fZ4iyoxE7UEpaC1XYJhByAXYmjRLwYqBfITWou6Xc8qNchAgk7eRUZJmyB7l6OxmofSowlenzyN9nWae+lhvJ0JL0SqkJDgu7ZIFuQ3r3jIFA6seBajbAHPOG6yWF6RtzwXgxm124myhf9nr3FLyJ1AEqZePgUP69zmrTyQRZHSHjOqlEPSOc1/Hf1BmxeEuc8XstMqPBACeMMe0VNci7Zy8BSZlduf+5T+nlfWZpIoUaneX12LwmgyVV1v8yfsen8UkvVD1jU5K9f+F51uVQmqvjABWCnali8nDKyFj5EFrwgg2W9zKKQTs=;xvPr//chVpYDFIZaQHT+pw=="
 ---

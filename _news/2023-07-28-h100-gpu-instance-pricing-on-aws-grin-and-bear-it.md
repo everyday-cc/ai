@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
         width: 850
         height: 448
-        isCached: true
-  - title: "NVIDIA H100 GPUs Now Available on AWS Cloud"
-    excerpt: "AWS users can now access the leading performance demonstrated in industry benchmarks of AI training and inference. The cloud giant"
-    publishedDateTime: 2023-07-27T16:30:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-h100-gpus-now-available-on-aws-cloud/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/07/nvidia-aws-300x278.png"
-        width: 300
-        height: 278
         isCached: true
 
 secured: "CC6e8s2PZRx1otdVUbl+nXbkGZY1AonxlEZ3WXxXD+dDTo2kidY7T2z1raBtEXLJdFvfFICjUQghaJNJ2fjL3ukkBAW4rGbmbXg1U3Cuafx6tPiSe4BwbjLAjf3kTfCwH/QLUyUEwSKCWRe0MTnOXoNyPFqDfLpUrweREqQvpafcHRuEWxE6gqWZtJpeQ+m4KG/SjzROokrfUqspUEXAd24ySuCNy39tN1Lmrmovd6g398wuH67MlmKB+k3lViFb2i/tewi9fzLVGsxEhisw48Z8UZj40l2TSA78sekkenTV/wcSShDwHbBrxislBIuFgayyh3Q8l3IFU+aoMk52maRw11Zds9aDKYZD3T9SU7X6/mjt+oKyjqluPMS3jr8FQKfazJ4o/FUxoCsDwfv6nQHWaDXAMEwh8clnTNL6BL6jQYXJWt6tp/t+VCzbig2W97GHQoij0eHuUQqZGcN0Ix42KYmUwxdY81K8tDrSr6uvmvGYagxAlhu44rxzYH2bT2++7YAqo8vfirfOzAZB4g==;IHz56L4R2f9mnczq2aah4g=="

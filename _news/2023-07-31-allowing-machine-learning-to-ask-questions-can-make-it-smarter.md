@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/allowing-machi
 webUrl: "https://www.technologynetworks.com/informatics/news/allowing-machine-learning-to-ask-questions-can-make-it-smarter-376979"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Allowing machine learning to ask questions can make it smarter"
-    excerpt: "Biomedical engineers at Duke University have demonstrated a new method to significantly improve the effectiveness of machine learning models searching for new molecular therapeutics when using just a fraction of the available data."
-    publishedDateTime: 2023-07-27T15:55:00Z
-    webUrl: "https://techxplore.com/news/2023-07-machine-smarter.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-machine-smarter.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-machine-smarter.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/allowing-machine-learn.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "reuVlkN7fjAPu2sgawp9XYWfiWlSGxEA7ZtJvMeZCHrbov8JzZtT7tO+VVbrNHfWRiD1SMYqaq5xOofB4dux3oRu+AL96lmLCHS3KV6UWo0v9VA+ugVt4LiEGW2Ot0VJBIAz9J3gVpSuqTPkXdoJZPdNbzhcGVIbR5qyBOrprbHZv23c0w2oVL+wZpfTU7CkQa7UaAAFUxE//KsdYinqLZh0rTM4apPj5fGjAlwS5hChU4XGEQ+y0mA7EXHmt/4JXCM7TRWNboZkGAczxi4Poncpf2tls2+2kes6JFNJEMKp6WJm0ytLTxDljspSv81nhJXJN9mOdNACtZM3IeJghcLgs2MqUHBCkz4qckuGRrwOXHSqhVU+8aY9ZJkbfZ8RNgP/mqiPkbXvKFngxpZ41T6iWDd+bUNsNlXkr2Go1pz6KmRBWOyEOdnMhlMMLEHsHwcBcsf7xMBEN3vta+epcFfIX2dYJQeWBbwBukMoHS6myYwCRu93cirSab7N9M0O4td6LIZhT8rQqrUJ/hdyLQ==;OTa5DdHI9hAUFL6X70QIhw=="
 ---

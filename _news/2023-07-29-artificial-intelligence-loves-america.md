@@ -117,20 +117,6 @@ related:
       name: Hawaii Tribune-Herald
       domain: hawaiitribune-herald.com
     quality: 39
-  - title: "An AI start-up is helping North American diesel trains clean up their act"
-    excerpt: "Transportation is responsible for one-quarter of the world's greenhouse gas emissions. A Canadian start-up wants to lessen that impact."
-    publishedDateTime: 2023-07-27T15:52:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/07/27/an-ai-start-up-is-helping-north-american-diesel-trains-clean-up-their-act/70477441007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/07/27/PDTN/70477424007-trainsbgba-28-b-57-e-2-c-9011-ee-8-b-037-d-5-f-55188800.jpg?auto=webp&crop=3997,2258,x0,y213&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Commentary: Artificial intelligence loves America"
     excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-28T12:00:00Z

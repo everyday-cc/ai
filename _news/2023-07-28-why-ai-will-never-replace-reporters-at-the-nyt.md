@@ -24,6 +24,22 @@ images:
     height: 1053
     isCached: true
 
+related:
+  - title: "10 Jobs That Artificial Intelligence May Replace Soon"
+    excerpt: "With the emergence of artificial intelligence, it has changed the shape of the world. Anyone can't survive without bumping into artificial intelligence. It will reshape the whole world in coming years."
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://www.techjuice.pk/10-jobs-that-artificial-intelligence-may-replace-soon/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 37
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/08/images-16.jpeg"
+        width: 739
+        height: 415
+        isCached: true
+
 secured: "o5qrindlqITfm5Z9KVEyaf83sneGqazlo47J01pi3Odxn+bSyDiOKPYs+QwRCW+bq5mliMNwyfBqgiD/SB0UkTosUT8fN2XQmOoRgZXz//Lardg/PyxT08mqUpYuJcHC69rf6xvVTxQjFGR+V6OwYRHteIdzm2LO4bCDOgMSQPtYGb2GH7vUmxR9w5FnmjrHeOyJdSPx8DDtefzkrUN0KooItPMRM8aPsuz+jsJLBIlTYTeeJ687kEaHF3Cpb6OhXFH5nqmHLPntqECuMD+lGLds1wDbTCCURUDKJjwy7ZMi5hPhjwW06okA/8GLD9XZc3iUZkBykaHXXdn1TYU8uzsMougmbBWBdyrpxU600Yo=;uh+vr3X5ENcBrx5RFvewKQ=="
 ---
 

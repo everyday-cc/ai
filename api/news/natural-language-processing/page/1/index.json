@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
+      "title": "Low code AI with Power Apps and Power Automate",
+      "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "originalUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "publishedDateTime": "2023-08-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-what-europes-ai-regulation-moment-will-mean-for-the-world.md",
       "title": "What Europe's AI regulation moment will mean for the world",
       "excerpt": "AI's regulation 'moment' that Bodgan-Martin heralded in July will last for years and be an exercise in international legal coordination. It best be comprehensive and careful to ensure the power of AI is deployed for the good of humanity.",
@@ -54,7 +107,7 @@
       "originalUrl": "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -369,7 +422,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -695,6 +748,92 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation.md",
+      "title": "HitPaw Introduces its Online AI Video Translator: Breaking Language Barriers in Video Content Creation",
+      "excerpt": "HitPaw, a leading technology company specializing in video editing solutions, is thrilled to announce the launch of its groundbreaking Online AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/ap/national/hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation/article_b63e80a4-9b88-56a3-8045-5c7cf44b9198.html",
+      "originalUrl": "https://www.sfexaminer.com/ap/national/hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation/article_b63e80a4-9b88-56a3-8045-5c7cf44b9198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/custom/image/d2e5172a-cfb6-11ec-8535-8fc7aae45ad1.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-hitpaw-introduces-online-ai-video-translator-breaking-language-barriers-in-video-content.md",
+      "title": "HitPaw Introduces Online AI Video Translator: Breaking Language Barriers in Video Content",
+      "excerpt": "HitPaw's Online AI Video Translator is set to revolutionize the video translation landscape, offering a user-friendly platform to effortlessly translate video content from one language to another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/hitpaw-introduces-online-ai-video-translator-breaking-language-barriers-in-video-content/article_140ca8c3-824e-5d8d-a703-817d7f272344.html",
+      "originalUrl": "https://www.news-journal.com/hitpaw-introduces-online-ai-video-translator-breaking-language-barriers-in-video-content/article_140ca8c3-824e-5d8d-a703-817d7f272344.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/7/16/716a182d-05bf-52e4-b749-3c7403e01ca5/64bffc28c486b.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1311,146 +1450,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-meta-and-microsoft-unveil-llama-2-an-open-source-ai-language-for-public-use.md",
-      "title": "Meta And Microsoft Unveil Llama 2, An Open Source AI Language For Public Use",
-      "excerpt": "In a surprising announcement yesterday, Meta (formerly Facebook) and Microsoft have introduced Llama 2, an AI language model designed to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
-      "originalUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/07/llama2.jpg?fit=1280%2C720&ssl=1",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-how-consumers-can-protect-themselves-against-ai-voice-cloning-attacks.md",
-      "title": "How Consumers Can Protect Themselves Against AI Voice Cloning Attacks",
-      "excerpt": "In attempts to offset these crimes, the financial services sector is using voice recognition biometrics, technology that enables companies to authenticate an individual by their unique vocal ...",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
-      "originalUrl": "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-three-career-choices-that-will-not-be-impacted-by-ai.md",
-      "title": "Three Career Choices That Will Not Be Impacted By AI",
-      "excerpt": "Professions that require complex decision-making, creativity and empathy are difficult to replace by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59cc0cc207a8b885f1dc1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
-      "publishedDateTime": "2023-07-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
       ]
     }
   ],

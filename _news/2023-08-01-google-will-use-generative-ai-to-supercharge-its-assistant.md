@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI code assistants could revolutionize developer experience"
-    excerpt: "Why tech leaders must evolve development teams to embrace generative AI code assistants and plan for the next-gen engineering experience."
-    publishedDateTime: 2023-07-29T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-code-assistants-could-revolutionize-developer-experience/"
+  - title: "Google Assistant Is Being 'Supercharged' With AI"
+    excerpt: "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\""
+    publishedDateTime: 2023-08-01T09:43:00Z
+    webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_generative_ai_code_assistant_in_an_office._Colorful_fut_95302330-7b15-4a98-8996-0edaa54cd27d.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://i.pcmag.com/imagery/articles/02vXTOE3J7UPq5x8pKT4ons-1.fit_lim.size_1200x630.v1690882843.jpg"
+        width: 1120
+        height: 630
         isCached: true
+  - title: "Google supercharges Maps voice commands with Assistant speech recognition"
+    excerpt: "Google Maps has replaced the old and outdated Speech Services voice input option with an integrated Google Assistant card"
+    publishedDateTime: 2023-07-27T20:01:00Z
+    webUrl: "https://www.androidpolice.com/google-maps-assistant-voice-controls/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 18
 
 secured: "1vqZIuIYCL7UvpkO1WaWwABaxgi0zMyRiX54FmuhzZJ8ZoU1y449pmXkDYDQxlKUL1TlbPWzHQ2lephiM0w6p4OuSfdZ1NFfi3klPizjrx8wrPcSIgbtd7v0DCMt5bdPy3ql9o2WqoWzI5ZksnFkP8Pu7AAnbrjk1+HGUo/qULwZjhh06PseKOfWtl+gNYWHSjrCJdkKm98nQ15Hhz7oaGNzso1NyvKn23piG/tgLCJYu1OwM0FH1z1vmeHF8kfcEAC+YjGL8uUyZTcfMSKrn+HBAX96XNFIBM8L8qy4OaGiyCdFattTNrgJJNTcXyfEO/PIK3ZVDsmuXp0H639ucNoPSerTAUT1fw3bDZLNJJ/OD+PW7cK6Z2EpwMf+RTZQGV/L3FLaUYAlvJvw96QTrUn8O7Bdm2nMac9CmvOc6vVih4+0G32bnmJJKDP6plSy7AWSuigigCn8JpvNPjGGaBXE0m7xIN5GwofjG7mk5B49hkkKdzQWJ2ITpL7OGeQDdP75Q0B84wNxdlQXTgA9gQ==;4McoekxmsKIP+tBuRCXB1Q=="
 ---

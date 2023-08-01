@@ -64,34 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023"
-    excerpt: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023 - Amazon Web Services (AWS) and Accel, a prominent venture capital firm, have joined forces to launch"
-    publishedDateTime: 2023-08-01T03:47:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/amazon-web-services-and-accel-collaborate-to-propel-generative-ai-startups-with-ml-elevate-2023-nid-224435-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 59
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/P9712mxY.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
-    excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
-    publishedDateTime: 2023-07-28T19:23:00Z
-    webUrl: "https://siliconangle.com/2023/07/28/final-thoughts-aws-summit-nyc-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Accelerate Your AI Startup: Apply Now for Google for Startups Accelerator India – 8th Batch"
     excerpt: "Google is inviting India-based AI startups that have received funding from Seed to Series A to apply for the 8th cohort of Google for Startups Accelerator."
     publishedDateTime: 2023-08-01T05:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Could artificial intelligence be the future of news production?"
-    excerpt: "TVBEurope talks to Sky News' Tom Clarke about how the broadcaster used AI to create a news package, from writing the text to presenting it on screen"
-    publishedDateTime: 2023-07-27T15:50:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/could-artificial-intelligence-be-the-future-of-news-production"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 17
 
 secured: "syYZtWtHxHIbwH6WJp2exoiaX8LjxvoOHE1NFBc6PzlpYPBbMEbtUBfsFIoca7VBAF0jq7+tHGFtdbiYWE8LZxFxk1qcVeMSqgNEU01Zzn77oHWU6gvguVKl/x9lW0rSdr/OFzjqo4NQAxmricdgJvqP2ZUN2UqVcAb0ehWjHxpq13cfNQpiFSX5W4Q+RASmPh5phGJDRoW32ntH5dOTFbdlQdDC2+HfJu9xHR/2/WRurtUEGC/pEsjhjHuMvEMDMDPBtWsrdJupz/SJvc9DrPO417Ek2wa03t5GG+12ydG2SvWLkLknn1VP7pLqmflAAJx9/mxmMB0GdIGVtiosxD26ydJgurQCtoxqQcwZTi2xE2uu4GPf9sV8AqzAssLGW19Rkc1pxlrO6CurSTKoph/RD0YQdMfOxRSXSN9ra204PGSUVegY7Mqf0ojoQ+VuCvOEtJC3XkWb11oODuAml87DmIqQIC/Ra9xKQP04i96Pkbaza5NbmHhMOpMvoauNbJymRrQGZ1PL2PjXr61ufw==;bEyLXcegH1+C5SYuVpa3wA=="
 ---

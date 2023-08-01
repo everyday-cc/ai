@@ -26,234 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "3 emerging practices for responsible generative AI"
-    excerpt: "For our midyear update, we’d like to share three of our best practices based on this guidance and what we’ve done in our pre-launch design, reviews and development of ge…"
-    publishedDateTime: 2023-07-27T17:00:00Z
-    webUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/"
-    ampWebUrl: "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/"
+  - title: "Low code AI with Power Apps and Power Automate"
+    excerpt: "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up."
+    publishedDateTime: 2023-08-01T08:59:00Z
+    webUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html"
+    ampWebUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Evergreen_hero_social.width-1300.jpg"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Can Generative AI Save Journalism – Actions For B2B Marketers"
-    excerpt: "GenAI has an almost insatiable appetite for ingesting source data in striving for breadth of topics that it can address as well as the natural language of prompts and"
-    publishedDateTime: 2023-07-31T15:16:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/"
-    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7cf6e2d4a46f86369db65/0x0.png?format=png&width=1200"
-        width: 1050
-        height: 788
-        isCached: true
-  - title: "4 ways to detect generative AI hype from reality"
-    excerpt: "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims."
-    publishedDateTime: 2023-07-31T17:24:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon grows generative AI efforts with Bedrock expansion for AWS"
-    excerpt: "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service."
-    publishedDateTime: 2023-07-27T17:37:00Z
-    webUrl: "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all"
-        width: 1114
-        height: 570
-        isCached: true
-  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
-        width: 750
-        height: 501
-        isCached: true
-  - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
-    excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
-    publishedDateTime: 2023-07-29T16:51:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/path-to-predictive-analytics-generative-ai-paving-way-immersive-data-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_graph_with_colorful_lines_behind_it._Colorful_futuris_2f638b4b-7c38-4b18-ab88-137857cb6578.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The potential future of open-source generative AI"
-    excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
-    publishedDateTime: 2023-07-31T09:52:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Generative AI could be a critical tool for the visually impaired"
-    excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
-    publishedDateTime: 2023-07-27T16:42:00Z
-    webUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html"
-    ampWebUrl: "https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/01/wire_mesh_fence_blurred_blurry_bokeh_world_beyond_by_vjapratama_cc0_via_pexels_1200x800-100784627-large.jpg?auto=webp&quality=85,70"
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS Releases Generative AI Service for Clinical Documentation"
-    excerpt: "The new AWS service will support generative AI clinical documentation capabilities for general medicine and orthopedics specialties."
-    publishedDateTime: 2023-07-27T17:00:00Z
-    webUrl: "https://ehrintelligence.com/news/aws-releases-generative-ai-service-for-clinical-documentation"
+  - title: "This artificial intelligence and automation developer bundle is on sale for under £50"
+    excerpt: "TL;DR: The 2023 Ultimate Artificial Intelligence and Automation Developer Bundle is on sale for £46.69, saving you 74% on list price."
+    publishedDateTime: 2023-08-01T04:00:00Z
+    webUrl: "https://sea.mashable.com/online-learning/25640/this-artificial-intelligence-and-automation-developer-bundle-is-on-sale-for-under-ps50"
     type: article
     provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
+      name: sea.mashable
+      domain: mashable.com
+    quality: 62
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/deal/t/this-artif/this-artificial-intelligence-and-automation-developer-bundle_vf8f.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How much healthcare jobs will be automated by AI"
+    excerpt: "AI could automate up to 30% of hours worked at US jobs by 2030, but healthcare professions are expected to remain stable because of demand, McKinsey & Co. reported."
+    publishedDateTime: 2023-07-31T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-much-healthcare-jobs-will-be-automated-by-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://ehrintelligence.com/images/site/article_headers/_normal/2016-06-03-amazon.png"
-        width: 691
-        height: 404
-        isCached: true
-  - title: "Top 7 Generative AI Courses by AWS"
-    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
-    publishedDateTime: 2023-07-30T04:43:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:14:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Generative AI: Proposed Shared Responsibility Model"
-    excerpt: "As Generative AI applications are being built on the cloud, the shared responsibility model can be extended for Generative AI."
-    publishedDateTime: 2023-07-28T15:04:00Z
-    webUrl: "https://cloudsecurityalliance.org/blog/2023/07/28/generative-ai-proposed-shared-responsibility-model/"
-    type: article
-    provider:
-      name: Cloud Security Alliance
-      domain: cloudsecurityalliance.org
-    quality: 41
-    images:
-      - url: "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f34a793b8d1a2428e7284325952a1733760474d4/SaaS-Insecurity-How-to-Regain-Control.jpg/"
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
         isCached: true
-  - title: "AXA deploys secure generative AI to employees"
-    excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
-    publishedDateTime: 2023-07-28T15:20:00Z
-    webUrl: "https://www.reinsurancene.ws/axa-deploys-secure-generative-ai-to-employees/"
-    type: article
-    provider:
-      name: reinsurancene
-      domain: reinsurancene.ws
-    quality: 39
-    images:
-      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
-        width: 1000
-        height: 575
-        isCached: true
-  - title: "6 Ways Generative AI Is Changing Content Management"
-    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
-    publishedDateTime: 2023-07-31T13:26:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Merkle Unveils Revolutionary Generative AI Technology"
-    excerpt: "Generative AI LKMs can be trained on vast amounts of performance data, synthesizing the relationships among all the variables to enable marketers to draw insights from data. And by informing every customer interaction with AI-driven insights and decisioning,"
-    publishedDateTime: 2023-07-27T15:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/27/9855340.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "On the Road With Generative AI: Key Legal Considerations for the Automotive Industry"
-    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
-    publishedDateTime: 2023-07-27T21:09:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/on-the-road-with-generative-ai-key-1547108/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 14
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."
-    publishedDateTime: 2023-07-31T15:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856445.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "7y+tUjRo9i0YheGs7taUjEtoajqWbpK/y6aAAtePKQ/C/zEg8Sk8G47HjwdhNXPrDj6q5+hgIx1ixEXIBEeR/zKFrHYYwnkGdxb085LfOv420inxY2pCO7g5p5DM1pSGQssVGYXr2J5M1gQ4PncRsvh5ko8SdFz7nxgaRVt7xXM4yV/CW8VS8m6+oYuStCShNKPe59IgOv7n6QRLH4JzenQIw3TqVxO6/jgg2OX0FPFVQ0QtCVV5+LiQGkeGGVuvSBh0KnygjBPjAl+vre/guBInYLo98cQ4B61xUsXpTj+/qLAlRdo1baBINii1onZId3tdy0OPmRO1bAsw+2eFxlz+Pp7Ls6pgfmJTIHPhtLtQ4S5wygEx/Jtam8CfRXx8+7/LyVWEYlJROmrk4H78qJbTsR3JqLo4dg3YIxZ6KcVqiKRd1G1Kchcbi3lvzPlT2PJQyA78eG/kCHccqFsuRNhKVwzi7/LmzNH3mHh90t48kauDWWIpQFku7jL+ubo1fXf6OAw1U2DiQLqykpZNhQ==;o0pJ7b12mVEGQ1+CURBAxg=="
 ---

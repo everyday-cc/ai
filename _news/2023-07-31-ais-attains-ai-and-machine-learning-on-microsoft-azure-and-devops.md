@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 306
+heat: 286
 published: true
 
 provider:
@@ -113,20 +113,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png"
         width: 1000
         height: 715
-        isCached: true
-  - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
-    excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
-    publishedDateTime: 2023-07-27T15:04:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/27/despite-slowing-growth-the-battle-for-ai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/741311/a-person-studying-stock-charts-and-graphs-on-multiple-computer-monitors.jpg"
-        width: 2119
-        height: 1415
         isCached: true
   - title: "Microsoft Azure OpenAI service approved for use on sensitive government systems"
     excerpt: "The service has received FedRAMP High approval, meaning it can be used in cloud environments that hold sensitive, unclassified data."
@@ -290,20 +276,6 @@ related:
       - url: "https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
         width: 1560
         height: 1040
-        isCached: true
-  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
-    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
-    publishedDateTime: 2023-07-27T15:26:00Z
-    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
-        width: 770
-        height: 435
         isCached: true
 
 secured: "NO1dnRhi1AzExct1p6oVniDDTNC7G4GMMknN/az/NDbOguTK/zYq1O481bk84lvw5sclbOpmcC7erGVS3HwNAoxoAKDXhZZYa8O5cbzbK/0AWiSIyQGYb8AWFoI4XJQ4wwkrorlkKaS+Z14SAGtepXTHOjGuahycmku1Jqr5HIh6MqFprQ0Gnnd73UoHDi0OGS8GOQrnzXp0C+IkT7OwJ7DplrVNkMY3MGqgXDXOnEtlKu1HZx6/jQUGfT1AbW4GLgFpAqxgkKOblGZ8g8dZmfeaqRjQ4H374QmA3Md4iPj8LDoC/zXg53oZ+WTPqkN6fgzovlSBpNamc/8UZTFLoSzYhr7Ck2/6XZYS07zgsVfzD0ziSrnNh2iiKCyy9XjJWDZV0HuiDQ+wcwpydweNqNLDFa8EfdAcXoC+Ndb7LyFup0gKS6n31OPfKGlh0e8Ajatvlv7xscmOIbIvvJEiQ0MUGAJGZrtaMy3/1Ri2umsfUZ8nJEDNgBVLNmjh7Di8CbNnuV4NBFa/0qHT2hvvKQ==;oum9a94Q0OzxA/UMFUqYeQ=="

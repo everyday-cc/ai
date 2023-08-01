@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-01-google-assistant-is-being-supercharged-with-ai.md",
+      "title": "Google Assistant Is Being 'Supercharged' With AI",
+      "excerpt": "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai",
+      "originalUrl": "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02vXTOE3J7UPq5x8pKT4ons-1.fit_lim.size_1200x630.v1690882843.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
+      "title": "Low code AI with Power Apps and Power Automate",
+      "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "originalUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "publishedDateTime": "2023-08-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-govts-dgt-partners-with-amazon-web-services-to-upskill-students-in-ai-ml-for-better-employability.md",
       "title": "Govt’s DGT partners with Amazon Web Services to upskill students in AI, ML for better employability",
       "excerpt": "DGT said students enrolled in the institutions under the DGT will benefit under the tie-up. DGT implements long-term institutional skill training in the country through its network of about 15,000 Industrial Training Institutes (ITIs) and 33 National Skill Training Institutes (NSTIs).",
@@ -105,7 +209,7 @@
       "originalUrl": "https://newatlas.com/environment/newest-firefighter-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -252,7 +356,7 @@
       "originalUrl": "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -296,57 +400,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-01-wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform.md",
-      "title": "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform",
-      "excerpt": "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/",
-      "publishedDateTime": "2023-07-31T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-01-of-americans-see-ai-and-robotics-providing-future-care.md",
       "title": "⅓ of Americans see AI and robotics providing future care",
       "excerpt": "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts.",
@@ -355,7 +408,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -536,6 +589,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-01-4-ways-to-detect-generative-ai-hype-from-reality.md",
+      "title": "4 ways to detect generative AI hype from reality",
+      "excerpt": "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "originalUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "publishedDateTime": "2023-07-31T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector.md",
       "title": "Instagram reportedly developing new AI features, including an AI-generated image detector",
       "excerpt": "These new generative AI features could not only enhance users' Instagram experience but also help fight misinformation.",
@@ -674,6 +778,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-31-can-generative-ai-save-journalism-actions-for-b2b-marketers.md",
+      "title": "Can Generative AI Save Journalism – Actions For B2B Marketers",
+      "excerpt": "GenAI has an almost insatiable appetite for ingesting source data in striving for breadth of topics that it can address as well as the natural language of prompts and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7cf6e2d4a46f86369db65/0x0.png?format=png&width=1200",
+          "width": 1050,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
+      "publishedDateTime": "2023-07-31T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops.md",
       "title": "AIS Attains AI and Machine Learning on Microsoft Azure and DevOps",
       "excerpt": "AIS announces its attainment of AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations.",
@@ -682,7 +837,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 306,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -778,7 +933,7 @@
       "originalUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -967,7 +1122,7 @@
       "originalUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1061,164 +1216,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-betting-on-ai-is-big-business.md",
-      "title": "Betting On AI Is Big Business",
-      "excerpt": "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/",
-      "publishedDateTime": "2023-07-31T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-a-group-of-seven-technology-leaders-agree-to-ai-safeguards.md",
-      "title": "A Group Of Seven Technology Leaders Agree To AI Safeguards",
-      "excerpt": "This article discusses Amazon, Google, Inflection, Meta, Microsoft & OpenAI's voluntary commitment to AI Safeguards & discusses the USA WhiteHouse AI legislation status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c76de0561a39fa1d6b2a39/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
-      "publishedDateTime": "2023-07-31T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops.md",
-      "title": "Kubeflow Joins CNCF To Accelerate The Adoption Of MLOps",
-      "excerpt": "CNCF’s acceptance of Kubeflow as an incubation project marks an important milestone in the evolution of the open source MLOps platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c74b2ceb8e510cf216a81a/0x0.png?format=png&width=1200",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
-      "publishedDateTime": "2023-07-30T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,15 +2,15 @@
   "page": 191,
   "value": [
     {
-      "path": "_news/2022-05-11-global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028.md",
-      "title": "Global GPU for Deep Learning Market 2022 Opportunity Analysis, Comprehensive Insights, CAGR Status and Future Opportunity Assessment by 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 10, 2022 (CDN Newswire via Comtex) -- Global GPU for Deep Learning Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 offers an in-depth ...",
+      "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
+      "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
+      "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10",
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T20:47:00-07:00",
+      "publishedDateTime": "2023-03-25T00:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -50,26 +50,25 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-05-11-the-problem-with-self-driving-cars.md",
-      "title": "The problem with self-driving cars",
-      "excerpt": "The question was never about automating driving. The question is about how to transform the transit experience.",
+      "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
+      "title": "Object Recognition Imaging Systems Market Growth by 2031",
+      "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
-      "originalUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/shutterstock_635238704.jpg?w=1200&strip=all",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 850,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,16 +76,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-10T20:28:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,61 +101,17 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-11-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
-      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "IBM has set a new goal for propelling the ... the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare and ...",
+      "path": "_news/2023-03-25-tech-summit-on-artificial-intelligence-robotics.md",
+      "title": "Tech Summit on Artificial Intelligence & Robotics",
+      "excerpt": "Tech Summit on Artificial Intelligence & Robotics will be held in Tokyo, Japan. AI & Robotics 2023 offers an opportunity to interact with the researchers in the field of AI & Robotics, making Congress a perfect platform to share experience, foster ...",
       "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91481989,imgsize-28942,width-1200,height-628,overlay-etcio/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "publishedDateTime": "2022-05-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
-      "title": "Intel launches new AI chips, challenging Nvidia's market",
-      "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "originalUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
+      "webUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "originalUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -164,108 +119,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T19:58:00-07:00",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "publishedDateTime": "2023-03-24T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-unveils-new-ai-5g-technologies-at-texas-conference.md",
-      "title": "Intel unveils new AI, 5G technologies at Texas conference",
-      "excerpt": "Many of the artificial intelligence semiconductor technologies aim to boost productivity, cybersecurity and public health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "originalUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kgw.com/assets/KGW/images/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "publishedDateTime": "2022-05-10T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGW8",
-        "domain": "kgw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
-      "title": "Robots and the Future of Remote Healthcare",
-      "excerpt": "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
-      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -276,440 +136,25 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-community-dwelling-older-adults-the-mediating-role-of-depression.md",
-      "title": "Reciprocal associations of posttraumatic stress symptoms and cognitive decline in community-dwelling older adults: The mediating role of depression",
-      "excerpt": "Email: ellasch@bgu.ac.il People with posttraumatic stress disorder (PTSD) may have cognitive decline, a risk which can be particularly threatening at old age. However, it is yet unclear whether initial cognitive decline renders one more susceptible to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-communitydwelling-older-adults-the-mediating-role-of-depression/B3E19D38DFDF91ACF6C7000F496A9487",
-      "originalUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-communitydwelling-older-adults-the-mediating-role-of-depression/B3E19D38DFDF91ACF6C7000F496A9487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-11-settlement-clearview-ai-to-limit-sales-of-biometric-database.md",
-      "title": "Settlement: Clearview AI to Limit Sales of Biometric Database",
-      "excerpt": "After two years of legal proceedings, Clearview AI agreed this week to limit the sale of its facial recognition software to government agencies as part of a settlement reached with the American Civil Liberties Union.",
+      "path": "_news/2023-03-25-the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year.md",
+      "title": "The top 10 AI mobile apps have already pulled in over $14 million this year",
+      "excerpt": "What's clear is that integrating \"AI\" features and references to things like ChatGPT or OpenAI has been helping drive demand.",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database",
-      "originalUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database",
+      "webUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true",
-      "publishedDateTime": "2022-05-10T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-research-offers-insight-into-patients-views-of-ai-in-healthcare.md",
-      "title": "Research offers insight into patients' views of AI in healthcare",
-      "excerpt": "New research from Yale Cancer Center provides a new understanding of patients' views of artificial intelligence (AI) in healthcare. While comfort level varied by clinical application, most respondents had positive views about AI's ability to improve care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
-      "publishedDateTime": "2022-05-10T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-its-never-too-early-to-get-your-ai-ethics-right.md",
-      "title": "It’s never too early to get your AI ethics right",
-      "excerpt": "The Ethical AI Governance Group wants to give startups a framework for avoiding scandals and blunders while deploying new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/ai-ethics-startups",
-      "originalUrl": "https://www.protocol.com/ai-ethics-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-coinbase-shares-fell-sharply-after-the-company-reported-weaker-than-expected-results-less-than-p-greater-than.png?id=29412744&width=400&coordinates=0%2C186%2C0%2C187&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/ai-ethics-startups-2657296846",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ethics-startups-2657296846",
-      "publishedDateTime": "2022-05-10T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-brainchip-launches-ai-enablement-program.md",
-      "title": "BrainChip Launches AI Enablement Program",
-      "excerpt": "The AI Enablement Program delivers working prototypes that demonstrate on-chip, in device AI inference and learning. AI/ML projects can be complex, requiring expertise, financial commitment, and time. With the launch of the AI Enablement Program ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe",
-      "originalUrl": "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-sec-enforcement-actions-support-critical-skills-based-ethics-training.md",
-      "title": "SEC Enforcement Actions Support Critical Skills-based Ethics Training",
-      "excerpt": "The question of how to teach ethics has plagued academics for generations, with some even wondering whether it can be taught at all. Steven Mintz, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
-      "originalUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpajournal.com/wp-content/uploads/2022/05/CPA.2022.92.3.036_uf0011-730x330.jpg",
-          "width": 730,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cpajournal",
-        "domain": "cpajournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-machine-learning-improves-hawaii-rainfall-mapping.md",
-      "title": "Machine learning improves Hawai'i rainfall mapping",
-      "excerpt": "University of Hawaiʻi and East-West Center researchers have developed more accurate monthly rainfall maps by using machine learning. They used a machine learning technique to detect erroneous ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
-      "originalUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-impro-1.jpg",
-          "width": 676,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-hawaii-rainfall.amp",
-      "publishedDateTime": "2022-05-10T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-ai-leveraged-by-smbs-to-reshape-their-businesses.md",
-      "title": "AI Leveraged by SMBs to Reshape Their Businesses",
-      "excerpt": "AI-based software applications, such as Microsoft Azure, have made cloud-based information available to the entire organization, which means spontaneous innovation can happen faster. When a company can work more effectively, the speed of innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus.md",
-      "title": "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs",
-      "excerpt": "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
-      "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg",
-          "width": 709,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
-      "publishedDateTime": "2022-05-10T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-certn-nabs-50m-to-accelerate-background-checks-with-ai.md",
-      "title": "Certn nabs $50M to accelerate background checks with AI",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
           "width": 1200,
-          "height": 599,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -717,115 +162,12 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
-      "publishedDateTime": "2022-05-10T12:03:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "publishedDateTime": "2023-03-24T15:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-sofi-stock-falls-after-fintech-firm-accidentally-releases-first-quarter-report-early.md",
-      "title": "SoFi stock falls after fintech firm accidentally releases first-quarter report early",
-      "excerpt": "Shares of SoFi fell sharply on Tuesday and were halted for nearly three hours after the company accidentally released its first-quarter results early. The company said the report was released early due to human error.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "originalUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107018575-1645558180917-gettyimages-1372185735-0j5a7034_07649f06-aee4-4713-b71b-eb5bcd0da8bb.jpeg?v=1645558270",
-          "width": 2803,
-          "height": 1936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "publishedDateTime": "2022-05-10T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
-      "title": "Slai makes intelligent choices around machine learning setups for developers",
-      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
-      "publishedDateTime": "2022-05-10T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
+        "name": "YAHOO!News",
         "domain": "techcrunch.com",
         "images": [
           {
@@ -845,7 +187,58 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
+      "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
+      "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
+      "originalUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2213891/cat-royale-utopia-environment.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "publishedDateTime": "2023-03-24T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

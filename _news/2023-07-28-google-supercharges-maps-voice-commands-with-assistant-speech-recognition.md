@@ -19,45 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Himachal govt introduces face recognition tech for pensioners"
-    excerpt: "With this initiative, pensioners can get their faces biometrically verified and submit their life certificates from their Android devices without any hassle."
-    publishedDateTime: 2023-07-27T15:52:00Z
-    webUrl: "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/"
-    ampWebUrl: "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/"
+  - title: "Google Assistant Is Being 'Supercharged' With AI"
+    excerpt: "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\""
+    publishedDateTime: 2023-08-01T09:43:00Z
+    webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://images.indianexpress.com/2023/07/Facial-Recognition-Feat.jpg"
-        width: 1200
-        height: 667
+      - url: "https://i.pcmag.com/imagery/articles/02vXTOE3J7UPq5x8pKT4ons-1.fit_lim.size_1200x630.v1690882843.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Pocatello Animal Services adopts facial recognition technology to help reunite pets with owners"
-    excerpt: "Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
-    publishedDateTime: 2023-07-28T16:45:00Z
-    webUrl: "https://www.idahostatejournal.com/community/pocatello-animal-services-adopts-facial-recognition-technology-to-help-reunite-pets-with-owners/article_2b98be04-2d66-11ee-a72f-e7ab8a8bb917.html"
+  - title: "Google will use generative AI to ‘supercharge’ its Assistant"
+    excerpt: "In an internal memo to the Assistant team, Google announced that it is starting to work on integrating AI chat into the Assistant."
+    publishedDateTime: 2023-08-01T00:13:00Z
+    webUrl: "https://bgr.com/tech/google-will-use-generative-ai-to-supercharge-its-assistant/"
     type: article
     provider:
-      name: Idaho State Journal
-      domain: idahostatejournal.com
-    quality: 27
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/a/17/a1735fbc-2d66-11ee-aca1-f70f861549ce/64c3f1d021b15.image.png?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
-        width: 1196
-        height: 628
+      - url: "https://bgr.com/wp-content/uploads/2023/07/google-assistant.jpeg?quality=82&strip=all"
+        width: 512
+        height: 269
         isCached: true
-  - title: "Face recognition technology for pensioners soon"
-    excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."
-    publishedDateTime: 2023-07-28T00:29:00Z
-    webUrl: "https://www.tribuneindia.com/news/himachal/face-recognition-technology-for-pensioners-soon-529577"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 19
 
 secured: "FaebKFtg4u5MRBLsAI2BujRDmIBbzJnwLAE4f4jDv6zO0nldcVR0DR7Kc5bkTwrDegKHw84lhKRvkLI/J7SQq5i3Mbafv/67GJYrgGEN+Ac/07osTIYF59sQTMYET1ohxppkqsGGXxnjHz7Uw0ZyhL7C+zBBuNKNQNgj5vo3lZjqja5pff0QlzHKgMN4wQEU+DV8XNA+trbyZPNjpslMeOxORZvSUV06QlH33PppVx71p+ZBQRlBcYVtoMgEbwL5dfk0nUT/Pj5Zkq0wF0NFNeQWW0UqZ3ic/H4RuBGT/uchDnUJqhPEVZFjRNUGTQm667yBVINNtJnakGa5PXfznMgpK1EvssFetf3P0EleGOWu4UQRHKbup5nrsXVNJR7ySQINEeN5Id+cwXOM27H4TUpKiBWc0RWrzUNxAT13HOjwvyLubPA0RE1TxqeVbSmyzuooiUjhlS77C8sVxm1BAaNhK9uKSL/Vw0DPiUgKDW1YIDwpK07RLc75UKYolaDDxO46895FysarrB12r1CQ+A==;/o63ltFD7u6XEPjXHWiyXA=="
 ---

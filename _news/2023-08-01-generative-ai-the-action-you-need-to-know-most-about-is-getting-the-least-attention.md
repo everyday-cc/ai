@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Translated Debuts Trust Attention for Unprecedented Quality in MT, Paving the Way for Accuracy in Generative AI"
-    excerpt: "Press Release Translated, a leading provider of AI-powered language solutions, announced the launch of ModernMT Version 7, a significant upgrade to its adaptive machine translation (MT) system. The latest version introduces Trust Attention,"
-    publishedDateTime: 2023-07-27T15:26:00Z
-    webUrl: "https://venturebeat.com/business/translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20230727250636/en/1852136/4/trust_attention.jpg?strip=all&#038;ssl=1"
-        width: 480
-        height: 388
-        isCached: true
   - title: "Hallucination, Fake References: Cautionary Tale About AI-Generated Abstracts"
     excerpt: "\"The ethics of using AI LLMs [language-learning models] to assist with academic writing will surely be spelled out in future editorials and debates. At the very least, we suggest that scientific journals incorporate questions about the use of AI LLM ..."
     publishedDateTime: 2023-07-28T14:53:00Z

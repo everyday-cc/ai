@@ -122,20 +122,6 @@ related:
         width: 1000
         height: 715
         isCached: true
-  - title: "Despite Slowing Growth, the Battle for Artificial Intelligence (AI) Domination Between Google and Microsoft Is Kicking Off in the Cloud"
-    excerpt: "After years of frantic growth, cloud computing adoption has taken a breather over the past year or so. There's little doubt that last year's downturn -- accompanied by the worst stock market performances in over a decade -- was a contributing factor as businesses reined in spending and positioned themselves to ride out the macroeconomic storm."
-    publishedDateTime: 2023-07-27T15:04:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/27/despite-slowing-growth-the-battle-for-ai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/741311/a-person-studying-stock-charts-and-graphs-on-multiple-computer-monitors.jpg"
-        width: 2119
-        height: 1415
-        isCached: true
   - title: "Microsoft Azure OpenAI service approved for use on sensitive government systems"
     excerpt: "The service has received FedRAMP High approval, meaning it can be used in cloud environments that hold sensitive, unclassified data."
     publishedDateTime: 2023-07-28T16:56:00Z
@@ -289,20 +275,6 @@ related:
       - url: "https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
         width: 1560
         height: 1040
-        isCached: true
-  - title: "Microsoft, Blue Shield partner to develop integrated data hub"
-    excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
-    publishedDateTime: 2023-07-27T15:26:00Z
-    webUrl: "https://www.healthcaredive.com/news/microsoft-blue-shield-california-partner-integrated-data-hub/689158/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/c1aBy7YzOplvsI3vPJ7irYBSefLTwbl62eI7nO6Qkk4/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Nl84a0ZYTUo0LmpwZw.jpg"
-        width: 770
-        height: 435
         isCached: true
 
 secured: "+b/eXcmjf8Eu6eAk3OXKZ4M87gT5EyP5fBI7S4A4WI1O2G8GRHb3rjgkCbA/fGyNJ/pSr8tWnMAuIwbBhiZCwEduMfYBYKUeppcaUmVhBaVgOTIuFFIKiRHaHVkeCk65bakhNdfK5xItHTdtLBHP4Wnqlk193PqAw6aGJF97L5Xquh6X9CIvHecX4fEEAyvlIZJ0Vi9NUsEhcjxhArYwHalKuu4kIzv2IlDz3lSTIxREtaqMP2f8R6Bwvkzi5ewrUk8V38MgyV5SczcvNIeAgIn6GxWxJTI0nJSrs2MRXXD5IXyOQ2Jycm7WHzO8y/zAXtrb/s2xzvYlghwlEBVHJb/1rgXtIZC+SpwN6VbNvtc=;MXkXsYVNfV7jN7xCGvWZTg=="

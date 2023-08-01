@@ -107,6 +107,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Incheon airport introduces Smart pass facial recognition system"
+    excerpt: "An Incheon airport official demonstrates the use of the facial recognition Smart pass service at a departure gate of Terminal 2, Incheon International Airport, Friday. The paperle"
+    publishedDateTime: 2023-08-01T09:04:00Z
+    webUrl: "https://www.globaltimes.cn/page/202308/1295457.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-08-01/477f6da7-41ff-4da5-8cda-2ae36846d4a3_s.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "US cities weigh value of facial recognition for police"
     excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
     publishedDateTime: 2023-07-28T15:14:00Z
@@ -120,6 +134,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "UK stores cracking down on shoplifting with facial recognition technology"
+    excerpt: "A handful of UK-based retailers are incorporating facial recognition technology to crack down on shoplifting.  UK police are employing pre-existing live fa"
+    publishedDateTime: 2023-08-01T09:17:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/enda-brady-uk-correspondent-on-uk-stores-cracking-down-on-shoplifting-with-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 38
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/eh3h5jhx/facial-recognition-technology-123rf.jpg?rmode=crop&rnd=133353968984530000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
         isCached: true
   - title: "Home Office lobbied for facial recognition in shops to tackle shoplifting, report"
     excerpt: "Recently published documents have revealed the UK government has been actively pressurising the Information Commissioner's Office (ICO) to endorse the rollout of facial recognition technology in high street shops and supermarkets to tackle 'retail crime'."

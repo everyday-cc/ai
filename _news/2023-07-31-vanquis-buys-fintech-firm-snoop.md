@@ -99,20 +99,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Fintech startup Croissant launches with $24 million in seed funding"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-27T15:35:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97592/fintech-startup-croissant-launches-with-24-million-in-seed-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Fintech Innovations To Watch Out For In 2023"
     excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
     publishedDateTime: 2023-07-30T18:54:00Z

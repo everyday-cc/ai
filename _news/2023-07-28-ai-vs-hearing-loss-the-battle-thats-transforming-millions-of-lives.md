@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-lo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Tackling challenges of retail sweethearting with AI and machine learning"
+    excerpt: "Loss from pilferage ranges from 1% -5% of annual revenue, depending on the level of control retailers have over their outlets."
+    publishedDateTime: 2023-08-01T08:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 53
   - title: "Transforming the World: How Artificial Intelligence Has Revolutionized Our Lives"
     excerpt: "In the past few decades, the ever-evolving realm of artificial intelligence (AI) has not only emerged as a powerful force but has also become a transformative"
     publishedDateTime: 2023-07-28T16:31:00Z

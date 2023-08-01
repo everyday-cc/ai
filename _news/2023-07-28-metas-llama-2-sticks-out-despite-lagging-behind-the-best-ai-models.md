@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/metas-llama-2-sticks-out-despite-l
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/metas-llama-2-sticks-out-despite-lagging-behind-the-best-ai-models/article67131078.ece/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 836
     isCached: true
+
+related:
+  - title: "Three Best AI Bets On Wall Street"
+    excerpt: "Artificial Intelligence (AI) is the next big thing that promises to change the world and bring new fortunes to Wall Street."
+    publishedDateTime: 2023-08-01T09:23:00Z
+    webUrl: "https://www.ibtimes.com/three-best-ai-bets-wall-street-3707189"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.com/en/full/4464652/us-developer-openai-created-artificial-intelligence-program-chatgpt.jpg"
+        width: 768
+        height: 511
+        isCached: true
 
 secured: "OWRyKqNqN/szpd9LUIxpF/fugb4TvvuRxUsPIeezjV21E6pm1aRnpLmQXXU9udTynDTH1EC+WZlC5swROBDED0ykjknfrMwhdgIOwQ67UjYLpSd4IoiQjZP3tDu/PeceqnpzgyKy/YEOJuNYxyNyhlOXRvoOjL0z5pgVa9LF3OQGbqXz69RLaMv2zpa3bvPDOHNTH+QOM5CkGzqD4QezEhkARKoxgP9MUBGZYYHkxkmjJ/7II+rmFa+dXXjUA8RIBkjxJuq6lI/wqRwM1zj0urVe69uaMEtFr9Sj0uzM8RqMFFYiNU+mCaHq8vVLuS2EHJbEAXpR/gcSYzwVobHZkR8igp6mXHEqwWRNb6+2QmU=;PpRYUjYbTvsW8PyMrIqm0Q=="
 ---

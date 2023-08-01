@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
+      "title": "Low code AI with Power Apps and Power Automate",
+      "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "originalUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "publishedDateTime": "2023-08-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa.md",
       "title": "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa",
       "excerpt": "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa.",
@@ -54,7 +107,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 306,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -98,7 +151,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -257,7 +310,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/27/the-power-of-the-prompt-unleashing-ais-full-potential-for-work-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -351,6 +404,59 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws.md",
+      "title": "Amazon grows generative AI efforts with Bedrock expansion for AWS",
+      "excerpt": "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
+      "originalUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all",
+          "width": 1114,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1320,8 +1426,8 @@
       "title": "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search",
       "excerpt": "Subscribe for free. At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by ...",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=cce15334-9c75-4a74-bdbb-c47909347a8f",
-      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=cce15334-9c75-4a74-bdbb-c47909347a8f",
+      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=828c7b90-44e4-4ae8-b677-efba991a6bda",
+      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=828c7b90-44e4-4ae8-b677-efba991a6bda",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1340,116 +1446,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T03:06:00-07:00",
+      "publishedDateTime": "2023-07-21T03:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise.md",
-      "title": "Microsoft Puts AI Chat To Work With Bing Chat Enterprise",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue looks at Microsoft's generative AI advancements and their potential impacts on workers and productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 404,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9bc172887f9f5c637566c/0x0.jpg?format=jpg&width=1200",
-          "width": 720,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
-      "publishedDateTime": "2023-07-20T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-a-bull-market-is-coming-2-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-forever.md",
-      "title": "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever",
-      "excerpt": "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740240/bull-market-6.jpg",
-          "width": 2101,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

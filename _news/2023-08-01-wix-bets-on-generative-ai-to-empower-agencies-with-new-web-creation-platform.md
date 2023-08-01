@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,15 +30,62 @@ images:
     isCached: true
 
 related:
-  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
-    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
-    publishedDateTime: 2023-07-28T19:46:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
+  - title: "Amazon grows generative AI efforts with Bedrock expansion for AWS"
+    excerpt: "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service."
+    publishedDateTime: 2023-07-27T17:37:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 31
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all"
+        width: 1114
+        height: 570
+        isCached: true
+  - title: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023"
+    excerpt: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023 - Amazon Web Services (AWS) and Accel, a prominent venture capital firm, have joined forces to launch"
+    publishedDateTime: 2023-08-01T03:47:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/amazon-web-services-and-accel-collaborate-to-propel-generative-ai-startups-with-ml-elevate-2023-nid-224435-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 59
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/P9712mxY.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Appian Drives Productivity Revolution with Generative AI Strategy and Expanded AI Roadmap"
+    excerpt: "Appian today announced key elements of its expanded strategy and roadmap for generative AI in the Appian Platform for process"
+    publishedDateTime: 2023-07-28T15:58:00Z
+    webUrl: "https://www.datanami.com/this-just-in/appian-drives-productivity-revolution-with-generative-ai-strategy-and-expanded-ai-roadmap/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 30
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "AWS Expands Amazon Bedrock with Additional Foundation Models, New Model Provider, and Advanced Capabilities"
+    excerpt: "Amazon Web Services, Inc. (AWS) at AWS Summit New York announced the expansion of its fully managed foundation model (FM)"
+    publishedDateTime: 2023-07-27T17:31:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-expands-amazon-bedrock-with-additional-foundation-models-new-model-provider-and-advanced-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 21
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "9W9vC6fcAnSiJ9UGBiniMGv0HXF63k/wIt5PmUDDuO3kvIF8lCmNtNrJBlDPxN/eugTQCjjv1FDbqcjSnaLBhAaBIa+Nb2LQCE++ODyFGyMdPx3/r1r/LhPNZSe32NEE8b7R3IR4md7BrMZGhLIUi8K6iRJYryQmQlGD1Sodo2dOQ5mn0qKlE6HW++ntVpEIDrSBhekFqvJBO52BGoiP6u41wHbbAUYmbCi2curcisLZkEkrXeFKAjWRlyR9zQculrJrY0knrfQd3+qNYsp04JgbSQJLvSEnHHYelwjB+9MVA0J0EDcHyEmelj3ixNv1FDpgGaGuyWfMo8a7sPezGZWnBlZf1IFbiSh1Q/yiiP6luS20j0sWa9tDs8EODnMnQgnDxyCs+9CJm7VO238uJK/i5+61tv2Yi1DiboQCALo/v39507l7Ip9lBFGN2m6dQ3YQSLpXc3017yRAGXjikccpz9v/1BT/3tRp/+XIO/f2XZLeskJR5Ggil15dq9/VUomcd+Q8z85UE2B09qVPYQ==;CS0qMgtsqV5N3hBiyTdGzg=="
 ---

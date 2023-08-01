@@ -78,19 +78,19 @@ related:
         width: 290
         height: 300
         isCached: true
-  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
-    excerpt: "H1'2023 Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1'23, while Singapore H1'23 funding fell to"
-    publishedDateTime: 2023-08-01T07:30:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/08/01/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds-/236980"
+  - title: "Global And Singapore Fintech Funding Reduced, Alongside Dip In Late Stage Funding, Given Rising Interest Rates And Economic Headwinds"
+    excerpt: "H1'2023  <br />  <li /> Global funding in fintech dropped 17 percent to US$52.4 billion across 2,153 deals in H1"
+    publishedDateTime: 2023-08-01T09:36:00Z
+    webUrl: "https://menafn.com/1106759618/Global-And-Singapore-Fintech-Funding-Reduced-Alongside-Dip-In-Late-Stage-Funding-Given-Rising-Interest-Rates-And-Economic-Headwinds"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
+      name: Mena FN
+      domain: menafn.com
     quality: 0
     images:
-      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?88541"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "soFDKVReFJ2QZj/6PiVGKKh/LHZrk03L2thHoEkIhZgkg4EyESfh1lpOtgSrgT2NvsmKoX852qHCIkL/xtS5ohVA9Zk/mU01W5KBwsGSPCJxY/MLFo43e+bLGcFtmCUyv1uEtISURgeSnOxI0xi2Q5JDalJpOe/NnQyYTlSdKgHix0AQ3lHirB/a8ymu+z3TZFzHiljl09dcJZ7/4BmBp0GNUxfGslNLzjcp2QlmKGOU8CvvD2qIqTNuRKM5dlNVypYgZQxSG/Lnt/0ldjOJ/3B5m9R3rq+O4J77JVMkrPNDQfXQ0YE8xg2GbSXIKkhXiIBUnB16irKoBBhbEZvIcil8UiVyMyGNWo9yn9hB6I8=;u1DdXCxa9gmAHsJf+nTCcQ=="

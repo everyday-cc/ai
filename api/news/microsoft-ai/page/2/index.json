@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-21-microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise.md",
+      "title": "Microsoft Puts AI Chat To Work With Bing Chat Enterprise",
+      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue looks at Microsoft's generative AI advancements and their potential impacts on workers and productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 404,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9bc172887f9f5c637566c/0x0.jpg?format=jpg&width=1200",
+          "width": 720,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
+      "publishedDateTime": "2023-07-20T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-a-bull-market-is-coming-2-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-forever.md",
+      "title": "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever",
+      "excerpt": "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740240/bull-market-6.jpg",
+          "width": 2101,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-pooping-only-every-3-or-more-days-linked-with-cognitive-decline-research-finds.md",
       "title": "Pooping only every 3 or more days linked with cognitive decline, research finds",
       "excerpt": "Being chronically constipated, defined by the authors as having a bowel movement only every three or more days, has been linked with a 73% higher risk of subjective cognitive decline, according to ...",
@@ -1293,110 +1397,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-microsoft-unveils-fall-roadmap-for-semantic-kernel.md",
-      "title": "Microsoft unveils fall roadmap for Semantic Kernel",
-      "excerpt": "Semantic Kernel is an open-source SDK that allows developers to mix LLMs with conventional programming languages.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/msft/microsoft-unveils-fall-roadmap-for-semantic-kernel/",
-      "originalUrl": "https://sdtimes.com/msft/microsoft-unveils-fall-roadmap-for-semantic-kernel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2023/07/msft.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity.md",
-      "title": "3 ways Moveworks and Microsoft Teams use AI to improve employee productivity",
-      "excerpt": "Moveworks on Microsoft Teams uses conversational AI to help enterprises improve employee productivity and free up IT and HR staff. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/",
-      "originalUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/10/3-ways-moveworks-and-microsoft-teams-use-ai-to-improve-employee-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/07/Moveworks-feature-image-5-30.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
