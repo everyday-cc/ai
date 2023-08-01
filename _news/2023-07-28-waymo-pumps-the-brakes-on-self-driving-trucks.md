@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo shelves self-driving commercial trucking operations in favor of taxi cab business"
-    excerpt: "The CEOs of Waymo, Tekedra Mawakana and Dmitri Dolgov, said that their company will now be primarily focused on ride-hailing services, and will be investing their efforts and resources accordingly."
-    publishedDateTime: 2023-07-27T08:26:00Z
-    webUrl: "https://www.neowin.net/news/waymo-shelves-self-driving-commercial-trucking-operations-in-favor-of-taxi-cab-business/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 41
   - title: "Waymo to reduce autonomous trucking focus"
     excerpt: "Given its success in ride-hailing robotaxis, Waymo, the autonomous driving arm of Alphabet, said it will change its focus to primarily robotaxis and push back on the development of autonomous trucks."
     publishedDateTime: 2023-07-28T12:22:00Z

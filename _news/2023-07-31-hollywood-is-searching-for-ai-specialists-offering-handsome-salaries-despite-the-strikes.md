@@ -147,20 +147,6 @@ related:
       domain: techcrunch.com
     quality: 47
   - title: "Hollywood writers fear losing work to AI"
-    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
-    publishedDateTime: 2023-07-27T09:01:00Z
-    webUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Hollywood writers fear losing work to AI"
     excerpt: "Hollywood screenwriter Michelle Amor says she is fearful about the impact of artificial intelligence (AI) on her livelihood. \"I don't want to be replaced with something artificial\". Ms Amor and fellow US television and film writers have now been on strike since the start of May."
     publishedDateTime: 2023-07-28T10:24:00Z
     webUrl: "https://www.aol.com/hollywood-writers-fear-losing-ai-060158690.html"

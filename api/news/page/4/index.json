@@ -2,6 +2,211 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-28-netflix-touts-900k-ai-jobs-amid-hollywood-strikes.md",
+      "title": "Netflix touts $900k AI jobs amid Hollywood strikes",
+      "excerpt": "\"So $900k/yr per soldier in their godless AI army when that amount of earnings could qualify thirty-five actors and their families for Sag-Aftra health insurance is just ghoulish,\" actor Rob Delaney, told The Intercept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-66332876",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-66332876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/11C97/production/_130555827_gettyimages-1242278437.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-66332876.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp",
+      "publishedDateTime": "2023-07-27T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-chinese-ai-arrives-by-stealth-not-with-a-bang.md",
+      "title": "Chinese AI arrives by stealth, not with a bang",
+      "excerpt": "China faces a long slog to artificial intelligence supremacy. It wants to be a leader in the field by 2030 and this month unveiled new rules governing the technology that are less onerous than expected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealth-not-with-bang-2023-07-28/",
+      "originalUrl": "https://www.reuters.com/breakingviews/chinese-ai-arrives-by-stealth-not-with-bang-2023-07-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/TIlHrp8ZxpiVZu4i3ofFRCt0iag=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2PCISJFJH5KDLD6PQ6S7OLXD3Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-why-ai-cant-read-body-language-yet.md",
+      "title": "Why AI Can’t Read Body Language . . . Yet",
+      "excerpt": "A computer can detect the slightest microexpression, but when it comes to decoding the nuances of body language, technology has a long way to go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/",
+      "originalUrl": "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2f7b3c4a08b76f316a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/",
+      "publishedDateTime": "2023-07-27T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command.md",
+      "title": "Stable Diffusion XL puts AI-generated visual worlds at your GPU’s command",
+      "excerpt": "On Wednesday, Stability AI released Stable Diffusion XL 1.0 (SDXL), its next-generation open weights AI image synthesis model. It can generate novel images from text descriptions and produces more detail and higher-resolution imagery than previous versions of Stable Diffusion.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/amp/",
+      "publishedDateTime": "2023-07-27T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-banning-nvidia-chips-in-china-likely-wont-deter-chinas-ai-progress.md",
       "title": "Banning Nvidia Chips In China Likely Won’t Deter China’s AI Progress",
       "excerpt": "The U.S. Government is considering new export controls on semiconductors made by U.S. companies, especially chips from Nvidia used in training AI models and running",
@@ -1054,195 +1259,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
-      "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
-      "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
-      "originalUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
-      "publishedDateTime": "2023-07-27T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-himachal-govt-introduces-face-recognition-tech-for-pensioners.md",
-      "title": "Himachal govt introduces face recognition tech for pensioners",
-      "excerpt": "With this initiative, pensioners can get their faces biometrically verified and submit their life certificates from their Android devices without any hassle.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
-      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/07/Facial-Recognition-Feat.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
-      "publishedDateTime": "2023-07-27T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching.md",
-      "title": "Instructure, Kahn Academy Announce Major Partnership On AI Tutoring, Teaching",
-      "excerpt": "The news may set the standard for the role of AI in educational delivery and give the company a significant beachhead in the future of personalized learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/",
-      "originalUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2009c980aca1380ea0a55/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereknewton/2023/07/27/instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching/amp/",
-      "publishedDateTime": "2023-07-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai.md",
-      "title": "Translated Debuts Trust Attention for Unprecedented Quality in MT, Paving the Way for Accuracy in Generative AI",
-      "excerpt": "Press Release Translated, a leading provider of AI-powered language solutions, announced the launch of ModernMT Version 7, a significant upgrade to its adaptive machine translation (MT) system. The latest version introduces Trust Attention,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai/",
-      "originalUrl": "https://venturebeat.com/business/translated-debuts-trust-attention-for-unprecedented-quality-in-mt-paving-the-way-for-accuracy-in-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20230727250636/en/1852136/4/trust_attention.jpg?strip=all&#038;ssl=1",
-          "width": 480,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

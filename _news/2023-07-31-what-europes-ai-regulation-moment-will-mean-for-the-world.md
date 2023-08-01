@@ -7,7 +7,7 @@ originalUrl: "https://www.devdiscourse.com/article/technology/2542194-what-europ
 webUrl: "https://www.devdiscourse.com/article/technology/2542194-what-europes-ai-regulation-moment-will-mean-for-the-world"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "What Europe's AI regulation moment will mean for the world"
+    excerpt: "AI's regulation 'moment' that Bodgan-Martin heralded in July will last for years and be an exercise in international legal coordination. It best be comprehensive and careful to ensure the power of AI is deployed for the good of humanity."
+    publishedDateTime: 2023-08-01T01:49:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 61
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/08/01/1600x900/andy-kelly-0E_vhMVqL9g-unsplash_1682052406710_1690854551366.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Artificial intelligence could mean more litigation for restaurant employers"
     excerpt: "Relying on a computer brain to sift through resumes for the ideal candidate could raise challenges about the criteria that"
     publishedDateTime: 2023-07-31T18:49:00Z

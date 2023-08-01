@@ -3,10 +3,10 @@ category: news
 title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
 excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
 publishedDateTime: 2023-07-27T10:44:00Z
-originalUrl: "https://time.com/6297403/india-ai-karya-startup/"
-webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+originalUrl: "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/"
+webUrl: "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85"
+    width: 2400
+    height: 1800
+    isCached: true
 
 related:
   - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
@@ -115,6 +121,6 @@ related:
       domain: indiatimes.com
     quality: 4
 
-secured: "zyaxeOVOG2Uh81WWaz4PCTDtG2uMh4jzAxBttO5XOHSnGrQmazoNTrgl4aYigSnO4y0ntxhUuZPJFbTvNSjC1fzT7nEIo9BegbPgorv80ztfA1km47F7adWew9jPibplbAPUh5nXLv/Dld4VmZ4Y9tCchJT7a6o0Pzbx5QBShE4BNEdr2SUuWLzsdX0KBQ+MM9EEQXrarDRf6EMd28jrLDq1rhLfpWFRn8VY10PM3pi9r6rqGsk17E7nqJdLR1L+ZI90Bs4nGNBxtl1xFurVVqqqbXnDMSlQ31Vl/KWiVQbk/1YHkoxNzNtm5xfiiZbyX25RjDVIUmBAp2z1OQwgzJvNFks83ZYnkHuFFZ21GS3iRDWVvD7G9cH2qm/kviV6oPOrvbPlWL/tjXGNRSoeM/K5HDNG/ulaz+chttvy4CUAQPEx0N8bPq6lNH3o3A+DDWqfx0BQbGVClOS0fgoPS7Q0hkwuQRUGTFsVH5Fc1PZmORNjFodQ+/pu4hV95V8ZTlsRxMWgi4WqJ+fL+lIErw==;1bEHkal3QAYE85hP3Vl7qQ=="
+secured: "j3zYNa51oqbhBpRZx60MAl5eYUz/Hi0zdNaqsPPw91iEjPotjNxE7ZuRChhQHNmSGyD+54LVuSB/Bus6u6wnlUI+rRK1tQ/f59VlXFPdCwoMgKUGoTHszlEsfrTpnDYcKdbVH6CPSaEn8QrNTnvNnb0nfhi4M8nfe8UjL/vSWw41IUXnMMZS+/W/gkiIE6qfAKNRcElew+ApRZAgV58ShUmQfWhsMN0goYQImi0Qm75fiuX5matkdhPvjUuXiHsi/XeWai+sbiSZEAWeUIriiaKNqP6OE45OEj/trblAw7RBt3BQUFW4dIbJEmpqRBP0mrgHekn9MJnWTPIcresaOY8EjlLEjacLMSH9Cosd7tg=;H4CVe8z0LE4p5QqKVEHRdw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-28_13-00-42.jpg"
         width: 1024
         height: 1024
-        isCached: true
-  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
-    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
-    publishedDateTime: 2023-07-27T07:50:00Z
-    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 24
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
-        width: 684
-        height: 358
         isCached: true
   - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
     excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."

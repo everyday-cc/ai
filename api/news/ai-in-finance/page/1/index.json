@@ -374,6 +374,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-like-microsoft-google-salesforcecom.md",
+      "title": "AI in Fintech Market Future Outlook, In-depth Insights and Forecast 2023-2030 with Major Players like Microsoft, Google, Salesforce.com",
+      "excerpt": "The Global AI in Fintech Market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33346171/ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-lik",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33346171/ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-lik",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33346171",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33346171",
+      "publishedDateTime": "2023-07-24T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-global-ai-in-fintech-markets-2023-2028-growing-demand-for-process-automation-propels-ai-in-fintech.md",
       "title": "Global AI in Fintech Markets, 2023-2028: Growing Demand for Process Automation Propels AI in Fintech",
       "excerpt": "DUBLIN, July 24, 2023 /PRNewswire/ -- The \"Global AI in Fintech Market (2023-2028) by Component, Application, Deployment Mode, and Geography, Competitive Analysis, Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets.com's offering.",
@@ -1307,58 +1351,6 @@
         "name": "India Today",
         "domain": "indiatoday.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-meet-34-rising-stars-making-waves-in-europes-venture-capital-industry-in-2023.md",
-      "title": "Meet 34 rising stars making waves in Europe's venture capital industry in 2023",
-      "excerpt": "There remain some bright spots in Europe in areas such as fintech, AI, and climate tech. But the current generation of investors must show more discernment in picking companies than in previous years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/34-rising-stars-in-european-venture-capital-2023-2023-5",
-      "originalUrl": "https://www.businessinsider.com/34-rising-stars-in-european-venture-capital-2023-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6478ede9085acb0018ff3763?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

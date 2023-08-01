@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-31T14:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/s-p-global-named-best-artificial-intelligence-technology-provider-by-waterstechnology-1032495151"
 webUrl: "https://markets.businessinsider.com/news/stocks/s-p-global-named-best-artificial-intelligence-technology-provider-by-waterstechnology-1032495151"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "A Group Of Seven Technology Leaders Agree To AI Safeguards"

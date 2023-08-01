@@ -3,8 +3,8 @@ category: news
 title: "How AI is helping to translate the Bible into rare languages"
 excerpt: "But one team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages. Ulf Hermjakob and Joel Mathew are ..."
 publishedDateTime: 2023-07-18T16:29:00Z
-originalUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-webUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+originalUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
 ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
 cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "chUhjaIS1ip04HduFSla7L5wEUfwqcQQRO5yy2LZmyFJ6vcz00OfoJhWUwPQi7H2HLWgAVq+bisY9IKQzHMTZ2Kqi1KAHaMF2fn4Vv3bo7FlJ0DpWj0a+oaxMLKBhxdrDDolWeG5ROSqRGafyk5+JmovpZ++mMk4/Ew0UAS5msr2Kv2l1Yqw3rq6Yt34Mb5wLjrwopvVhoVI6sxixEr2d01EBb35vmSabZeU4PLFyPoCTUrN7IZDxGdit+oc83YZYgkUlym4J5JW42DBmPyxcRvx6FQCiVC3cZ4dOdHdra0sSNVLqd4pLlxUJV+rSpZCz+6KyEpPHRVs+dRV9QCi4EB2dMSEB0N2L/vnPpP12HY=;WY0Y/qQqW4A2aWIT4H2o/Q=="
+secured: "9Yfizv2xY+LMdRhAziTNCEDZCAcxw7wnKw7yLLGKvi9vywMgnjhMLPXYWN9FXK8CZswRL7l1K09sAzMyvfGDOVlh7DUZwpwclYO8jM/FR42AslQAPWe/j44j1njRjYRufSn5fEwqi3TXb+1Dxng5mzU1xbElHmibR/+fGLxDfd28z3CluaKKo7ZYJqFcGur1m52/jjQmcBCcQYGEJwpFJJ+9cBLfcii2KzPZH+26jIM0WEdB7+BrezKLZVPkfuHVAfrqYM5n2Btz4JxcDJm7gmK4JOuwgSaUsCwc7ZvGfdYzljpv91PJBLAGgMzrZoF7mdfZNyUSNOReifgcpNWw/s/NDvkpGfF5GP4WiQZN1W0=;LPuRc8eWn66Ru5/T9uPBbQ=="
 ---
 

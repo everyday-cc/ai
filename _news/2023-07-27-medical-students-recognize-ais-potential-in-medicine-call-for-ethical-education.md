@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230727/Medical-students-recogn
 webUrl: "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Medical Service Inc. Signs Joint Research Agreement with Stanford Medicine"
-    excerpt: "AIM Is First Japanese Company to Establish Joint Research Agreement in Field of Endoscopic AI -TOKYO, July 27, 2023 /PRNewswire/ -- AI Medical"
-    publishedDateTime: 2023-07-27T07:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-medical-service-inc-signs-joint-research-agreement-with-stanford-medicine-1032482750"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Could AI Cause Burnout in Medicine?"
     excerpt: "With its potential to enhance efficiency, support physicians in simpler cases, and automate certain aspects of their workflows, AI is widely regarded as a possible solution to address the burnout crisis in healthcare."
     publishedDateTime: 2023-07-29T14:02:00Z

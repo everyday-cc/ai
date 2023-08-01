@@ -41,20 +41,6 @@ related:
         width: 640
         height: 363
         isCached: true
-  - title: "Futuristic self-driving vehicle turns heads in Bengaluru. Here’s what it is"
-    excerpt: "A Twitter user named Anirudh Ravishankar shared a video of the strange-looking, self-driving vehicle as it roamed the streets of Bengaluru. People on the street were seen turning around to catch a second look at the futuristic vehicle as it made its way down the road. “On the streets of Bengaluru,” Ravishankar wrote while sharing the clip."
-    publishedDateTime: 2023-07-27T07:25:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/zpod-from-minus-zero-self-driving-autonomous-car-in-bengaluru-video-11041441.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 22
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Collage-Maker-27-Jul-2023-12-49-PM-7690-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
 
 secured: "nYH+sleHxGdX1uL5UlWMBvB5niStIuNJCUoCHDRSKUz985lMY8+JvvEVxyV0yra6PCeRtrpHcYveQHlmw2mT3l3BzSaxGi53CpGwQjOQkCDjKLzMTUyKObp1ZsXoQ2Q8CDNh+nwd3t8RmUiLfK0JPG7J31S3eaTiOFqwc1QROQhs5fAbr7csRQvQWT3TNSTpRNIlUKsvxhNqhd4AMeyP/jzKh9tEDoI9Bry0oocl+upqqd/1IBUEHjFBwrsWtgJdZJyWsK0hdMRZSPC4IPVw849B9qXKan4tJb6LJ3VlBPSQNXKAIj6RSdrQaV4+eEO5dOvT8piJqkZ5+58p9jZ9oqr3NuL8A1Z+/39OvrQx2I/qksbyB2FxDyqgbR11XbgJiwmMlI3kQ0u219UZXfyP0WObLDOgE2NibNhrhkGyHPx4mC8x4SL182V36lE4jbvxnzwAdeqFqutvrWshp8Op+i47Do+Ru0uKTz1+J81AUt8x0rZzZiwDE/QFzyJNlzO82/QbO+xpfzQ+3mWjOBRz+A==;SAVcsmqsiV0L95569/7EXA=="
 ---

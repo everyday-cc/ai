@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/nashville/news/2023/07/27/polaris-ai-a
 webUrl: "https://www.bizjournals.com/nashville/news/2023/07/27/polaris-ai-acquired-aya-health-care.html"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Cruise is bringing its self-driving cars to Nashville"
+    excerpt: "Cruise is expanding its robotaxi operations in Nashville, the seventh city in the U.S. to get the GM subsidiary's self-driving cars."
+    publishedDateTime: 2023-07-27T18:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/cruise-is-bringing-its-self-driving-cars-to-nashville/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "GM’s self-driving taxi company plans Nashville launch"
     excerpt: "Self-driving taxi company Cruise is bringing its cars to Nashville. CEO Kyle Vogt said last week that the GM subsidiary had tapped Nashville as one of its first expansion markets beyond San Francisco. The company has also expanded to Austin, Dallas, Houston, Phoenix and Miami."
     publishedDateTime: 2023-07-31T12:45:00Z

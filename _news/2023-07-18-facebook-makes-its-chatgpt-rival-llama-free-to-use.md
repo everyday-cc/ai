@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Facebook AI
 
 related:
   - title: "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use"

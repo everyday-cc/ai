@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Cruise is bringing its self-driving cars to Nashville"
+    excerpt: "Cruise is expanding its robotaxi operations in Nashville, the seventh city in the U.S. to get the GM subsidiary's self-driving cars."
+    publishedDateTime: 2023-07-27T18:37:00Z
+    webUrl: "https://techcrunch.com/2023/07/27/cruise-is-bringing-its-self-driving-cars-to-nashville/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "Nashville's Polaris AI hospital staffing platform acquired by Aya Healthcare"
     excerpt: "The Nashville crew who built an AI platform to predict health care staffing needs has sold that business to a national giant."
     publishedDateTime: 2023-07-27T11:27:00Z

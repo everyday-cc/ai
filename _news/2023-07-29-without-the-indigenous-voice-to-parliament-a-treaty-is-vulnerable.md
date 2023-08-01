@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "A vote for an Indigenous voice to parliament makes economic sense"
-    excerpt: "The voice is about recognition, listening and making sure the billions of dollars we invest in programs are getting value for money and improving lives."
-    publishedDateTime: 2023-07-27T08:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/a-vote-for-an-indigenous-voice-to-parliament-makes-economic-sense/news-story/a11b5608eaea37e35942d73f3fa526d4"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
-
 secured: "zUdpC4eNNhLuEXtEH8OcemVX7sV+KHkhoTGYCuy/B1CXIuZ4TkN2v9aW+ilHrb0Ms+Tx3j525tmQSshADlA8Sll8sm8MdY1pjuoSGckZEguQRhdv48QKqQPlShqxWg1bThbBsqQlK33J47DRt3+ycGnSM349BRPZG04SDQtUnRAEsU3zltWXDWiOuqRWoVrOB2+Mri27qKv57uPBfQbQlZ/MAyy4DY67Yz0jAhbDVSQUUnZEAguX0Fp5rL8k95+YCjXHx9AZanWFXkh4x9r3Zemn89z3QDCWg3eQsdNrY27EjiXjeSfGyUYueEwhOSsR+tjJjpBepykeny7oZVwsDeW0Tktiqpsx7KSIARAIKhP40mbhuz87lSxA+RoB10gpXtkkPiqnyRvpaBlu7xQOtcNJJI88S2wmbKaltSRRA4DokjRpM46wjM8CFxh+ou988Wg5pIQUCGspfg5omFnt8rkEfnwEiLCFowZ4uXN7iliLKR5XEJ7quqe9FDdcuO7606HhNSFkN44a/CIrUJQmEQ==;F+v1A2tRSow11So246nOdA=="
 ---
 

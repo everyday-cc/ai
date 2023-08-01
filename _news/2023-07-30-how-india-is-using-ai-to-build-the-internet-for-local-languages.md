@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
+    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
+    publishedDateTime: 2023-07-27T10:44:00Z
+    webUrl: "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 61
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "Meta and ‘India AI’ to Foster Advancements in AI Technologies in India"
     excerpt: "This collaboration will establish a framework of cooperation between ‘India AI’ and Meta in the field of Artificial Intelligence & Emerging Technologies including to make Meta’s open-source AI models"
     publishedDateTime: 2023-07-27T09:10:00Z
@@ -55,15 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
-    excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
-    publishedDateTime: 2023-07-27T10:44:00Z
-    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 41
   - title: "3 AI-powered companies redefining FinTech in India"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-31T06:14:00Z

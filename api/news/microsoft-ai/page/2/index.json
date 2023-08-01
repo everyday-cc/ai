@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-20-pooping-only-every-3-or-more-days-linked-with-cognitive-decline-research-finds.md",
+      "title": "Pooping only every 3 or more days linked with cognitive decline, research finds",
+      "excerpt": "Being chronically constipated, defined by the authors as having a bowel movement only every three or more days, has been linked with a 73% higher risk of subjective cognitive decline, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230712140838-constipated-older-adult-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "publishedDateTime": "2023-07-20T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha.md",
       "title": "SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha",
       "excerpt": "In case one needed more evidence that there’s a massive appetite for generative AI, SAP, the Germany-based consulting giant, yesterday invested in three major generative AI players: Anthropic, Cohere and Aleph Alpha. The terms of the direct investments ...",
@@ -1335,40 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-snowflake-expands-partnership-with-microsoft.md",
-      "title": "Snowflake expands partnership with Microsoft",
-      "excerpt": "Additionally, to leverage the latest in AI innovation to build intelligent data products, both companies are committed to working toward enabling Snowflake customers to easily and securely leverage Azure OpenAI and Microsoft Cognitive Services with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/snowflake-expands-partnership-with-microsoft-y0b36j8r?amp=1",
-      "publishedDateTime": "2023-07-10T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

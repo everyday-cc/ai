@@ -1,0 +1,52 @@
+---
+category: news
+title: "What Europe's AI regulation moment will mean for the world"
+excerpt: "AI's regulation 'moment' that Bodgan-Martin heralded in July will last for years and be an exercise in international legal coordination. It best be comprehensive and careful to ensure the power of AI is deployed for the good of humanity."
+publishedDateTime: 2023-08-01T01:49:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
+type: article
+quality: 61
+heat: 81
+published: true
+
+provider:
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
+
+topics:
+  - AI Ethics
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://images.hindustantimes.com/tech/img/2023/08/01/1600x900/andy-kelly-0E_vhMVqL9g-unsplash_1682052406710_1690854551366.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "What Europe's AI regulation moment will mean for the world"
+    excerpt: "This means it can better address the foundational Large Language Models that emerged in early 2023, such as ChatGPT, Bard and others.In 2024, as the EUs AI Act and the Councils AI Convention are finalised,"
+    publishedDateTime: 2023-07-31T06:44:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2542194-what-europes-ai-regulation-moment-will-mean-for-the-world"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 19
+  - title: "Artificial intelligence could mean more litigation for restaurant employers"
+    excerpt: "Relying on a computer brain to sift through resumes for the ideal candidate could raise challenges about the criteria that"
+    publishedDateTime: 2023-07-31T18:49:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/workforce/artificial-intelligence-could-mean-more-litigation-restaurant-employers"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 15
+
+secured: "zvRgM1qwdEY9ixp8LO/F2NF1gWMrOHOxTqKu6j11swz4lRMyl6DOtYSdb3JECeURvPbf1wvjcwdn2W6E++9jKn55XPqxAG9Dva0jdVD1LdH0xYsXnElKNWVr0c785JZVSJkVrDED1Z7LOjDEKmH/8cPLMelolmGibIyUpsIWzDf+xu89NsvkyS3dtIgqehjJ0jcmROu2SNdEUcynwH05+9ISD0MovzOG4rUmu+I89kHVsmJiL1VnU3AhsV/ccvZaWfF82oTQfcxG+yaql5VO+4iIo1eXtN0oj9gmQD8UR2/1mYg2dqt6ql+WRvYasV6c8LFDTgfewm4lEVSSAwOe8F17tzdLn2/rD48UtZ/dtqY=;NC9HwZlHK51TFv6ZuKbswQ=="
+---
+

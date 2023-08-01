@@ -131,6 +131,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Ryanair in Legal Dispute Over Facial Recognition Use"
+    excerpt: "Irish budget airline Ryanair is facing legal action over its use of facial recognition, which digital advocacy group NOYB says violates customers' data protection rights. Facial recognition systems require people's biometric data - a category,"
+    publishedDateTime: 2023-08-01T01:07:00Z
+    webUrl: "https://www.mrweb.com/drno/news35415.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 34
   - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
     excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
     publishedDateTime: 2023-07-31T15:00:00Z

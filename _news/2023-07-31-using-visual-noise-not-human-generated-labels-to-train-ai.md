@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "4 Ways To Make Money Off AI-Generated Art"
+    excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"
+    publishedDateTime: 2023-08-01T00:00:00Z
+    webUrl: "https://www.aol.com/finance/4-ways-money-off-ai-210004112.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/C6hxRQ_vw8YbdvlKrH74Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5c0485666c27336018e48776dba7f014"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "JEqTkUm1RtK7WOeXOODA2iUzhtxHUbYXzrVIUnKD1pgRfA8ifx/6Ja8Jnd+5WB/7OWBm5ExW2NA8XB3w1jUdo5kXnQBugGUHGVsbUg6fnvRWU3mVCk3rf2IlZGQFZD2mOrO9N5lji3Tis+M50NcpiAA6aNfnxxdRe7bNyL0g2AJHYUIzZgqvjGdr3LTM0a57J70HEkewyIYConXAyQVhU+OcMJTGfO5fQMw63JrQygLYy4hZKGXHzKl1HqCHaMsZP/anQDE12NhDKuxqiI900THJmc4mdPdEHP98GWN5jhNwuX6pJTYFhDF8okJD6jXme89I5sGyU1NN+pO96/JMIje/ZLrlcvPmVM0bhpOgQuuY3oazWWO/PAqEN25Q0mLtcceILyvu73oUQkPg1gJCtiNGEJcILA9n8cMp9gxgTtZUkvMZxIKpOy6lfs6l8F8hBpJc1s09kSgPEWFY+U6BYU05cPMSpHeYkOGs7BVEDGapMfOzTNGcFllPrAid3WYKcd1FUKxf4xCA1TVXI34FsA==;MDr+EIQhbMUDYBlowWD2FQ=="
 ---
 

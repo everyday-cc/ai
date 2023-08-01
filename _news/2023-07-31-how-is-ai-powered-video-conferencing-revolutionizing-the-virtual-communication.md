@@ -49,20 +49,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
-    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
-    publishedDateTime: 2023-07-27T07:50:00Z
-    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 24
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
-        width: 684
-        height: 358
-        isCached: true
 
 secured: "+clSwCsnLjwampz8c6oJZoPybaWWlLC+rQWrj3WwRXlDsNzuJ0PGcx3S0/Xg3pld70F82lxeWw8EF26LfyuBBUC58pFsU83glrD/yKtKmrqtcFP1YYb1sFS7NIyvs3LTRPfZWXrWI3UTt/FdOu1NAqGS2CQZzyH51JKuzZd9uPiJfSJaIpqalbv+mPm7q1Rc6H/n21LM5RCT2WHuTOfq7Q3tb604nIrdLs1y1cOXo6QElyPRCfq+Qghb5VYfaDPZo5oED3yDtmZhCqjElR7zotfYT3yjj0pZXBWzOX4gWPdqNaNBE2+xELy4jTNcR05VC0dC5XVpEKgAuR2CeenbdCq60vtST8+gzjdZim+oL36rjYSdczyPxcSLJKQ3RGbqspEEAWkNc2aV3INSSgCxtPlIR0D3udvX4vUy1EgI5jvx3pyRqG9MFRuHrvRY/+/RvkPetA8Ue90fC2SJ6H7VXhTz3dI7GtE30mI48mMBTXKSZh2NoB5rrx7VhzbUcjoSFGEtnFw9AB47RYuo+1FpWw==;9ECeN3pZpPTcQgWJ33zv/Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:

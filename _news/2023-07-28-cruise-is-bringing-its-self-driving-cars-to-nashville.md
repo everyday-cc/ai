@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/07/27/cruise-is-bringing-its-self-driv
 webUrl: "https://techcrunch.com/2023/07/27/cruise-is-bringing-its-self-driving-cars-to-nashville/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,24 +23,24 @@ topics:
   - AI
 
 related:
-  - title: "US lawmakers struggle to find deal on self-driving cars"
-    excerpt: "Handout photo courtesy of the Nevada Department of Motor Vehicles shows a Google self-driven car in Las Vegas, Nevada, May 1, 2012. REUTERS/Nevada Department of Motor Vehicles/Handout/File"
-    publishedDateTime: 2023-07-27T07:39:00Z
-    webUrl: "https://www.reuters.com/news/picture/us-lawmakers-struggle-to-find-deal-on-se-idUSKBN2Z61TB"
+  - title: "Nashville's Polaris AI hospital staffing platform acquired by Aya Healthcare"
+    excerpt: "The Nashville crew who built an AI platform to predict health care staffing needs has sold that business to a national giant."
+    publishedDateTime: 2023-07-27T11:27:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/07/27/polaris-ai-acquired-aya-health-care.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
-  - title: "Lobbyists And Lawmakers Want You To See The Race To Self-Driving As A Race Against China"
-    excerpt: "Also, Stellantis' CEO doesn't think he's needed at UAW contract talks and VW expects to sell fewer cars this year than it planned, all in today's Morning Shift."
-    publishedDateTime: 2023-07-27T15:08:00Z
-    webUrl: "https://jalopnik.com/lobbyists-and-lawmakers-want-you-to-see-the-race-to-sel-1850681770"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
+  - title: "GM’s self-driving taxi company plans Nashville launch"
+    excerpt: "Self-driving taxi company Cruise is bringing its cars to Nashville. CEO Kyle Vogt said last week that the GM subsidiary had tapped Nashville as one of its first expansion markets beyond San Francisco. The company has also expanded to Austin, Dallas, Houston, Phoenix and Miami."
+    publishedDateTime: 2023-07-31T12:45:00Z
+    webUrl: "https://www.nashvillepost.com/business/technology/gm-s-self-driving-taxi-company-plans-nashville-launch/article_64037ad8-2f9e-11ee-96a0-f3d0d95d3a08.html"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 10
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 4
 
 secured: "rgw9H07bTv+gZUXUhM12YR/YlWANUOex/6PqYFO3uLyDV5p6w5YC36VU3g40T4T0CGroF7yYqdZLPmij0P1pwNtqZQn2uZ4WaVAknemLrXS798jKQj4l43TuvOyHNY1NTNLNpb12xkkSQazvMSlHUxJoR95RxbpYryMs4CQcA9AiD5HuJp45U0+GxisccT2oEI/3OygjAold/mmfONc4E+gFKA1UEi+BTRAOP3PYQI9NLDcRMzGC9htxCeCC2xynpunFSBoRn29n/hPrLt26UIYs8zeLlOz7eQqIbCxzPlhCcvI1PFbqX78/M0LiwlP97cexWPef6A9OgtrsyjQlwe/xksCAXYz5DsCjUENCLe/lEC5nlbSyWKAG67J4cwHdw7B2BMeZE+vFiCZ7zSmcgEWZNqyqY+3SV4MRR16+imZI7qU804Ks4Y9hWJL9l3LLwkQqHryo/K43WYMh+N66RA9rCi1k9R8KveQA0PXPDG+PBM7VUnWRomKTl7c7JhEjcAeWjyHvKEgiPEneHxjChQ==;G75sgUIOv27SD5DihTNq4Q=="
 ---

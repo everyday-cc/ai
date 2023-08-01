@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "6 Cloud Computing Companies Navigating the Digital Storm in 2023"
-    excerpt: "These offerings encompass domains such as analytics, artificial intelligence and machine learning, containers, databases, and DevOps while providing flexibility to replace or complement existing on-premise servers. Utilizing Azure can help offload the ..."
-    publishedDateTime: 2023-07-27T07:50:00Z
-    webUrl: "https://www.govconwire.com/2023/07/cloud-computing-companies-in-2023/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 24
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/07/516168456-seo_6-cloud-computing-companies-navigating-the-digital-storm_684x358.png"
-        width: 684
-        height: 358
-        isCached: true
   - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
     excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
     publishedDateTime: 2023-07-31T11:51:00Z

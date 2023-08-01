@@ -118,20 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Jay Ambrose: Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-27T08:00:00Z
-    webUrl: "https://thebrunswicknews.com/jay-ambrose-artificial-intelligence-loves-america/article_d3bd6dc6-9a65-5704-b5a0-2623664ca993.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/6/3e/63e90684-7b0e-5280-bd1c-2984cdac50d3/64c236b4dfcc0.image.jpg?resize=400%2C267"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Artificial intelligence loves America"
     excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-29T05:29:00Z

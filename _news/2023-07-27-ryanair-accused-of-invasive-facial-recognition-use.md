@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Schrems’ privacy group challenges Ryanair’s use of facial recognition"
-    excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair, alleging that it is violating customers’ rights to data protection by using facial recognition to verify their identity when booking through online travel agents."
-    publishedDateTime: 2023-07-27T08:37:00Z
-    webUrl: "https://www.irishtimes.com/business/2023/07/27/schrems-privacy-group-challenges-ryanairs-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
   - title: "Ryanair accused of violating customers’ rights with facial recognition"
     excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
     publishedDateTime: 2023-07-28T12:37:00Z

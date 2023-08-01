@@ -146,20 +146,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Hollywood writers fear losing work to AI"
-    excerpt: "Elliott Kalan is a comedian and screenwriter, whose credits include The Daily Show With Jon Stewart and Mystery Science Theater 3000. He says that one of the biggest challenges writers now face is the threat of studio executives using AI to generate original ideas for movies or TV series."
-    publishedDateTime: 2023-07-27T09:01:00Z
-    webUrl: "https://www.aol.com/news/hollywood-writers-fear-losing-ai-060158690.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
-        width: 976
-        height: 549
-        isCached: true
   - title: "AI news recap: While Hollywood strikes, is ChatGPT getting worse?"
     excerpt: "There is anger over a Netflix AI job paying up to $900,000, coming as actors are still striking over the use of AI in film and TV.  In other AI news, problems with training data can cause glitches or"
     publishedDateTime: 2023-07-28T09:05:00Z

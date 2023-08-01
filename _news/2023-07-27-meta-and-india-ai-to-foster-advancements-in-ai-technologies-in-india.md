@@ -44,12 +44,17 @@ related:
   - title: "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That"
     excerpt: "This startup wants to help millions of people whose languages are marginalized online gain better access to AI tools"
     publishedDateTime: 2023-07-27T10:44:00Z
-    webUrl: "https://time.com/6297403/india-ai-karya-startup/"
+    webUrl: "https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/"
     type: article
     provider:
       name: Time
       domain: time.com
-    quality: 41
+    quality: 61
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/07/karya-india-ai-8.jpg?quality&#x3D;85"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "How India Is Using AI To Build The Internet For Local Languages"
     excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
     publishedDateTime: 2023-07-30T05:45:00Z

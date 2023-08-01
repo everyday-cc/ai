@@ -26,17 +26,6 @@ images:
     height: 427
     isCached: true
 
-related:
-  - title: "3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In"
-    excerpt: "The article \" 3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In \" first appeared on MarketBeat."
-    publishedDateTime: 2023-07-27T07:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/18885712/3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 4
-
 secured: "lrpTNY6kBwfh+9ZxVL4+S7ErxajrGlybGCFdAJijM1yrh5ATRN/iPKQ+/UTYwxE84HD2LCPwE598X24ItSoNR8A6HTcouJSiiUROxDK6fYYOGN+zptMZOrbVI+F2ammubLcts1QPFZUE1eX8d2w0e/9NzdoqLGTSc8/Rp1fbi8B6Zy48/ihbzTCtbHInNuuVvDQrSNYTuh2XJZDBT23/rxAXqI/DEjnA4LKHz8vxSbQzR56VtGcFgwvH83T6nC4egzcTVDztel+prK0WcsyoXpTN6QHvjlmFZsQefychl8xuUNYQ5c42HM1nNtNouL6U2KRylWCsiYC6wC+XeoJx3kJuftCfZHLgBYkb37DJcno=;3VtSpdUWOfIes2mM+VPm3w=="
 ---
 

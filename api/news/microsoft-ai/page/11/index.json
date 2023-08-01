@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-19-microsoft-reportedly-working-on-its-own-ai-chips-that-may-rival-nvidias.md",
+      "title": "Microsoft reportedly working on its own AI chips that may rival Nvidia’s",
+      "excerpt": "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=biztoc.com",
+      "originalUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zD7YbqnU4W_XAaEW-O3cKSa4dGc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19249962/akrales_190930_3682_0006.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon.md",
       "title": "New Microsoft AI chip no threat to Nvidia, but growing LLM needs drive custom silicon",
       "excerpt": "Experts say Nvidia won't be threatened by Microsoft's Athena AI chip, but growing LLM needs are driving hyperscalers to develop custom silicon.",
@@ -1311,49 +1364,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai.md",
-      "title": "Snorkel AI Partners with Microsoft to Unlock the Potential of Enterprise AI",
-      "excerpt": "Press Release Snorkel AI, the data-centric AI platform company, announced it is integrating Microsoft Azure AI services to speed AI development for Azure customers. In addition, Snorkel AI has joined the Microsoft for Startups program.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
-      "originalUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/amp/",
-      "publishedDateTime": "2023-04-04T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

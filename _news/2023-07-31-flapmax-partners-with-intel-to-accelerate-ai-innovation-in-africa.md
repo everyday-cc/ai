@@ -2,9 +2,9 @@
 category: news
 title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
 excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-publishedDateTime: 2023-07-31T13:47:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
+publishedDateTime: 2023-07-31T15:03:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI in Robotics
   - AI
 
 images:
@@ -99,6 +99,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "K90fICA5EXXiI+g7Zsn2YbvTIpEp34AdkoxjNh1WET8Yt4tblv767/EhsdBJI2zxSKEwjRcMl28TvDy9pdCnC7BkAoXOYg1NBorKLHgUrQTt6Qv+xL1FSZDZWpievc1JHKqpBohVsUpJJebHYKM9zWC/1i5T8c9U3K0XRR1g7vDL9cppEx2efq7P8/wBtGENof3MF88FNeFcy2ibMuZSWXWrnfPyffhI34cm/8a47GQISYRkjdNgC99USm7bGd+O9VRPIZNW9Lhdtj67uTYWqWm29HSN3fLZMCvsYyHysx4DlBNu5oQ8e5wV/gzjYrITwO28sx9EC9MCU7kH8svn97v3v1dKeQHN8GT1jDYhnIg=;w2hJJ0mddzYawz6s8UCoaQ=="
+secured: "wZiwmydHOIsnj8pnoGbtfe1AOUG8hJDIHQcrOTpaCMO8r4x0bGkioEjgWRTdW9fAnvCsH7jZYt6gXOO9RVUlfHWizv6bghotwE+cyKE9We7SEt+N40KgZT+iuqhKgdU+HKlTq6DO8jRYlKEug37MunW+Umo6mjeAyRMsPQ9ruTCv0WGGoIVf0gZj/br5PVbH1v6K0ZM1B6qLukx3mEEL0Qa91Mz/j6SshotQaMvAb5DGVaJ3NsaEinN0Z5N06sX9GkF7/V6xKeknqrKF0zXmjFue/EozfX5jIWsUQYOq2n8Tr4P5ZoNrSg2jpDmWqsLzV46iiQ+2MaBhEvAJr0cRRGZHObN36lMo8vuTqfB83CE=;gCDv09ccsTKsn0NxCV5Lvw=="
 ---
 
