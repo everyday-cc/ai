@@ -2,13 +2,13 @@
 category: news
 title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
 excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-publishedDateTime: 2023-08-01T09:32:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+publishedDateTime: 2023-08-01T09:19:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+webUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: abcnews.go.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -79,6 +80,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
+    excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
+    publishedDateTime: 2023-08-01T11:32:00Z
+    webUrl: "https://tech.co/news/meta-launch-ai-chatbots"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/03/10073649/AdobeStock_482385584_Editorial_Use_Only-min-scaled-e1678814941370.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "Meta’s next AI play are chatbots called personas"
     excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
     publishedDateTime: 2023-08-01T08:09:00Z
@@ -118,7 +133,16 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Therapy For You Unveils Limbic: An AI-Powered Chatbot Revolutionizing Access to Talking Therapies"
+    excerpt: "Therapy For You, the esteemed NHS Talking Therapies service catering to patients in North East and South East Essex, has recently introduced Limbic to their"
+    publishedDateTime: 2023-08-01T10:26:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/08/01/therapy-for-you-unveils-limbic-an-ai-powered-chatbot-revolutionizing-access-to-talking-therapies/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 21
 
-secured: "YF5R59QX2OYol+S/uswHs4P82XbDYUoWG4hcKelUYGTxSk5nqhbOjKG1E+7VBPdM1W1CtrAKuKExsUXTce3Qq3A/ryxPxAARbnCIhWwGMiRXiOnbN6yftxgMEA30r4jHYhOM+m01YzgogPfwF7EUSX4FOAfp1EQnXuMdnWJGGNObyEaJF8oWUrFUfdYboAZqmQ5hN8cYTmfSe+rWAeO9wojO1bZlQPvSSaPJ0BHCeCjhiGg/KRMVkoN+IdwjkcrNPtBYZwQHPf1qRhGQo1yLBexzkYed+Z7HAQnQV0+8FGBWjAmloATIFHC5w9gG28jI96nH5O4nzC1rUy6Z1NunygzVD/tfUSkuw5DjxX8b4To=;/4RueBVIYXQ1uMdo75rdfQ=="
+secured: "2So7OpsNJZ+Ilu16HNHUWLckDaqCNWi1Vym2JWaNBi95VolBrfwX2ypibz6JqGQOoZLd52lWjM57iUUc721PWML+UrmtvGBXJqQ0QXRThAa/SDSDNu5Z7U1jb7M0VxYvhRET0B13uw0KvRT3AzOaL2NrpD5fN1hy+ZaMpgDVYlAvqgvt07k1btDNDBF++SoDJe2AZcAd9LHeIqlBa/uOR6/PAoj6uGsAIpIxjMLx49mtUlqzxR60aJ281XlNrc4lBeHdKKa9kepdVgKqS0+dcRky9dGALvpmgyBQPjKV2BzJ2l7UVUIwBWreTmD3yBMpxtKqxlYYBSjhGH61N74a/CPZUAn5RJmsMj0q7Ianc2Y=;FU+9EoYrhF7M1GliK6ePrQ=="
 ---
 

@@ -2,6 +2,204 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-07-21-ibm-the-og-ai-spark-excitement-for-watsons-new-skills.md",
+      "title": "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills",
+      "excerpt": "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
+      "originalUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33309833",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833",
+      "publishedDateTime": "2023-07-20T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-want-to-know-how-to-get-ready-for-the-rise-of-ai-dig-into-the-past.md",
+      "title": "Want to know how to get ready for the rise of AI? Dig into the past.",
+      "excerpt": "Experts are looking to past technological disruptions to help predict how the rise of generative AI could impact workers of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
+      "originalUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b84697a46ce30019a1f97e?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rise-of-ai-artificial-intelligence-how-to-prepare-history-productivity-2023-7?amp",
+      "publishedDateTime": "2023-07-20T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics.md",
+      "title": "AI Economics Must Avoid The Ethical Mistakes Of Climate Economics",
+      "excerpt": "There is increased danger that AI economics research will turn into a tool to advance a preset policy agenda, similar to what has played out in climate change economics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
+      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b90ec712fc5c66bcbd34f2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
+      "publishedDateTime": "2023-07-20T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient.md",
+      "title": "TSMC delays US chip fab opening, says US talent is insufficient",
+      "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) was supposed to have its first Arizona chip factory operational by late 2024 but now has confirmed significant delays. Primarily due to a shortage of technical workers with critical expertise in the US, TSMC projects to finish construction instead by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1245437477-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
+      "publishedDateTime": "2023-07-20T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-teslas-full-self-driving-tech-might-actually-end-up-in-other-evs.md",
       "title": "Tesla’s Full Self-Driving Tech Might Actually End Up In Other EVs",
       "excerpt": "Tesla’s CEO Elon Musk revealed during a second-quarter earnings call that the company is in early talks with a major automaker about using Tesla’s Full Self-Driving feature. Musk elaborated ...",
@@ -989,169 +1187,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Musk optimistic on progress for self-driving, robots",
-      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-future-ai-algorithms-have-potential-to-learn-like-humans-say-researchers.md",
-      "title": "Future AI algorithms have potential to learn like humans, say researchers",
-      "excerpt": "Memories can be as tricky to hold onto for machines as they can be for humans. To help understand why artificial agents develop holes in their own cognitive processes, electrical engineers at The Ohio State University have analyzed how much a process called “continual learning” impacts their overall performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/996196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/996196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
-      "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
-      "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "originalUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "publishedDateTime": "2023-07-19T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-review-airrobo-pc100-pool-cleaning-robot.md",
-      "title": "Review: AiRROBO PC100 Pool Cleaning Robot",
-      "excerpt": "The AiRROBO PC100 is a cordless pool robot with 2-hour battery life and powerful suction that employs AI for a claimed 10X gain in cleaning efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
-      "originalUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b868227cdf254e7dfb68d1/0x0.jpg?format=jpg&crop=1600,899,x0,y154,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
-      "publishedDateTime": "2023-07-19T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

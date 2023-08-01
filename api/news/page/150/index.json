@@ -2,6 +2,188 @@
   "page": 150,
   "value": [
     {
+      "path": "_news/2023-04-28-can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks.md",
+      "title": "Can Artificial Intelligence (AI) grow your money? Yes, in theory, but know the risks",
+      "excerpt": "What are artificial intelligence ETFs? AI ETFs (exchange-tracked funds) mirrors growth of companies involved in the development and production of robots or AI. The world’s largest ETF is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "originalUrl": "https://gulfnews.com/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/04/28/AI-money-investment_187c8226c79_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/your-money/saving-investment/can-artificial-intelligence-ai-grow-your-money-yes-in-theory-but-know-the-risks-1.1682689976742",
+      "publishedDateTime": "2023-04-28T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-robots-and-ai-could-soon-have-feelings-hopes-and-rights.md",
+      "title": "Robots and AI could soon have feelings, hopes and rights",
+      "excerpt": "This is a start, but nothing more than that ... such as the formation of a European agency for AI and robotics, a legal definition of “smart autonomous robots”, a registration system for ...",
+      "sourceUrl": null,
+      "webUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
+      "originalUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
+      "cdnAmpWebUrl": "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/trending/160315/robots-and-ai-could-soon-have-feelings-hopes-and-rights/amp/",
+      "publishedDateTime": "2023-04-28T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesstech.co.za",
+        "domain": "businesstech.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-ballooning-ai-driven-facial-recognition-industry-sparks-concern-over-bias-privacy-you-are-being-identified.md",
+      "title": "Ballooning AI-driven facial recognition industry sparks concern over bias, privacy: ‘You are being identified'",
+      "excerpt": "A significant expansion in Artificial intelligence (AI) facial recognition technology is increasingly being deployed to catch criminals, but experts express concern about the impact on personal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified",
+      "originalUrl": "https://www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/32c1b574-IMG_0282_Facetune_12-01-2022-10-53-23.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ballooning-ai-driven-facial-recognition-industry-concern-bias-privacy-being-identified.amp",
+      "publishedDateTime": "2023-04-28T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-amazon-stock-down-5-as-high-prices-slow-aws-growth.md",
+      "title": "Amazon Stock Down 5% As High Prices Slow AWS Growth",
+      "excerpt": "Amazon stock fell after CFO, Brian Olsavsky, told investors that the AWS growth rate in April is tracking five percentage points below its first quarter growth rate. Were that slowdown to continue, AWS could grow at 10.8% in the second quarter — well below the 13% Wall Street projects for the second quarter, the Journal wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644aade0f54d022866bfa396/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
+      "publishedDateTime": "2023-04-28T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources.md",
       "title": "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources",
       "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,",
@@ -993,186 +1175,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-machine-learning-helps-scientists-identify-the-environmental-preferences-of-microbes.md",
-      "title": "Machine learning helps scientists identify the environmental preferences of microbes",
-      "excerpt": "A machine-learning approach can give scientists insight into the environmental preferences of microbes, based only on their genes. The approach has practical research implications: it could help researchers more efficiently grow bacteria in the laboratory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230428153618.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230428153618.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-mechatronics-blended-engineering-for-the-robotic-future.md",
-      "title": "Mechatronics: Blended Engineering for the Robotic Future",
-      "excerpt": "The term was coined in 1971 by Tetsuro Mori, an engineer at robotics company, Yaskawa Electric Corp. He combined the words \"mechanical\" and \"electronic\" to describe the electronic control systems that Yaskawa was building for mechanical factory equipment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/mechatronics-blended-engineering-robotic-future",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/mechatronics-blended-engineering-robotic-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ABB%20robot.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-the-future-of-state-sponsored-ai-research-in-china.md",
-      "title": "The Future of State-Sponsored AI Research in China",
-      "excerpt": "In this article, I explore China’s approach to AI research, as well as its implications ... such as Microsoft, Alphabet, and Facebook. The two main organizations driving the advancement of ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/",
-      "originalUrl": "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-24-150332.jpg",
-          "width": 600,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt.md",
-      "title": "AI Weekly: Replit Raises $97 Million For AI Coding, Hugging Face Takes Aim At ChatGPT",
-      "excerpt": "The feature is said to be an experiment available in select regions. AI startup Runway launches an app to bring users video-to-video generative AI Runway, which contributed to the development Stable Diffusion, has launched a video-to-video generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644b07d0576948b60d02778e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
-      "publishedDateTime": "2023-04-27T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

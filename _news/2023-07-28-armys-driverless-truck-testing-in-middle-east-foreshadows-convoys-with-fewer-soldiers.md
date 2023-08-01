@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless 4-wheeler in Bengaluru marks its presence on the internet; users impressed"
-    excerpt: "Minus Zero, a Bengaluru-based start-up while announcing the launch, called it 'just the beginning' and indicated towards more exciting changes that lie ahead for India in the next five years"
-    publishedDateTime: 2023-07-28T06:37:00Z
-    webUrl: "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html"
-    ampWebUrl: "https://www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/driverless-4-wheeler-in-bengaluru-marks-its-presence-on-the-internet-users-impressed-12927312.html/amp"
+  - title: "Cyngn-Arauco Deal Tackles Labor Shortage With Driverless Forklifts"
+    excerpt: "Tech company Cyngn has stuck a major deal to help logistics giant Arauco deal with labor shortages by providing forklifts that drive themselves."
+    publishedDateTime: 2023-08-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/"
+    ampWebUrl: "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AI-vehicle.jpg"
-        width: 640
-        height: 363
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c82903d23dff027cc6f9a9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "nYH+sleHxGdX1uL5UlWMBvB5niStIuNJCUoCHDRSKUz985lMY8+JvvEVxyV0yra6PCeRtrpHcYveQHlmw2mT3l3BzSaxGi53CpGwQjOQkCDjKLzMTUyKObp1ZsXoQ2Q8CDNh+nwd3t8RmUiLfK0JPG7J31S3eaTiOFqwc1QROQhs5fAbr7csRQvQWT3TNSTpRNIlUKsvxhNqhd4AMeyP/jzKh9tEDoI9Bry0oocl+upqqd/1IBUEHjFBwrsWtgJdZJyWsK0hdMRZSPC4IPVw849B9qXKan4tJb6LJ3VlBPSQNXKAIj6RSdrQaV4+eEO5dOvT8piJqkZ5+58p9jZ9oqr3NuL8A1Z+/39OvrQx2I/qksbyB2FxDyqgbR11XbgJiwmMlI3kQ0u219UZXfyP0WObLDOgE2NibNhrhkGyHPx4mC8x4SL182V36lE4jbvxnzwAdeqFqutvrWshp8Op+i47Do+Ru0uKTz1+J81AUt8x0rZzZiwDE/QFzyJNlzO82/QbO+xpfzQ+3mWjOBRz+A==;SAVcsmqsiV0L95569/7EXA=="

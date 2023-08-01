@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-la
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future"
-    excerpt: "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ..."
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33426371"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
     excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
     publishedDateTime: 2023-07-28T13:32:00Z
@@ -87,15 +71,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 16
-  - title: "ReflexAI announces venture funding to bring AI-powered training and quality assurance tools to high-stakes call centers"
-    excerpt: "ReflexAI, the provider of AI-powered training and quality assurance tools for high-stakes call centers, today announced its first round of venture funding. Led by Footwork, the $3.3M oversubscribed round included Emerson Collective,"
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855558.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "5Weq4kh5/0ccsKU06QbbmbAk77ohmJaXNXNB/V1nF/nFd8Fuyd3fE/wm+IfVsAdqW+dSMntujKsMwGlH7TVTGSfgQOhpwtyJE6X4xuJkPx8y1U/F02tr0Nq2V48Q9yNKl3rin5UjU4nHnMz89vS1i9EH+6VhPx3SayW4JGBdJqjS3jAhXNWz8Eo65763MU3z+iYf4VcDGYgX2WIyNZ5TtnRJF88PC8Pldk3I/Gi2CbeBqkvmRKjJq38RFqxZYlujRLzqQijcxrO2SUz0jLYIpbEE9vZaXM0dQ6rGpEfu4NzsDvxIIuznsunS9FAHS2StkYOlzduaaC+ywdEUTy44tucQ7CEa+vi3AtkaTdTNY98=;Qq3JM86MMHnA7KmZdly1aA=="
 ---

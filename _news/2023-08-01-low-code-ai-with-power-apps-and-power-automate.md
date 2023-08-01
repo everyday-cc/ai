@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-app
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -33,34 +33,18 @@ images:
 
 related:
   - title: "This artificial intelligence and automation developer bundle is on sale for under £50"
-    excerpt: "TL;DR: The 2023 Ultimate Artificial Intelligence and Automation Developer Bundle is on sale for £46.69, saving you 74% on list price."
-    publishedDateTime: 2023-08-01T04:00:00Z
-    webUrl: "https://sea.mashable.com/online-learning/25640/this-artificial-intelligence-and-automation-developer-bundle-is-on-sale-for-under-ps50"
+    excerpt: "If you buy a product featured here, we may earn an affiliate commission or other compensation. TL;DR: The 2023 Ultimate Artificial Intelligence and Automation Developer Bundle is on sale for £46.69, saving you 74% on list price. Want to get in on this new ..."
+    publishedDateTime: 2023-08-01T04:18:00Z
+    webUrl: "https://mashable.com/uk/deals/best-ai-course-bundle"
     type: article
     provider:
-      name: sea.mashable
+      name: Mashable
       domain: mashable.com
-    quality: 62
+    quality: 60
     images:
-      - url: "https://sm.mashable.com/t/mashable_sea/deal/t/this-artif/this-artificial-intelligence-and-automation-developer-bundle_vf8f.1200.jpg"
+      - url: "https://helios-i.mashable.com/imagery/articles/01dF4zPEl3tLC1J9C3IOICJ/hero-image.fill.size_1200x675.v1690273666.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI-Generated Data Can Poison Future AI Models"
-    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
-    publishedDateTime: 2023-07-28T11:16:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
-        width: 790
-        height: 496
         isCached: true
   - title: "How much healthcare jobs will be automated by AI"
     excerpt: "AI could automate up to 30% of hours worked at US jobs by 2030, but healthcare professions are expected to remain stable because of demand, McKinsey & Co. reported."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Flapmax Partners Intel: Driving AI Innovation in Africa"
+    excerpt: "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel."
+    publishedDateTime: 2023-08-01T11:52:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
+    ampWebUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/resizedgg.jpg"
+        width: 800
+        height: 530
+        isCached: true
   - title: "12 African countries sign AI Ethics Code at Russia-Africa summit"
     excerpt: "Kenya is among 12 African countries that have signed the code of ethics of artificial intelligence (AI Ethics Code), during the second Russia-Africa Economic and Humanitarian Forum at St Petersburg. Other foreign companies that have joined the community of AI experts are from Nigeria,"
     publishedDateTime: 2023-07-28T11:29:00Z

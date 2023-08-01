@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-01-cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts.md",
+      "title": "Cyngn-Arauco Deal Tackles Labor Shortage With Driverless Forklifts",
+      "excerpt": "Tech company Cyngn has stuck a major deal to help logistics giant Arauco deal with labor shortages by providing forklifts that drive themselves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c82903d23dff027cc6f9a9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/",
+      "publishedDateTime": "2023-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-ai-and-college-admission-dont-autocomplete-your-application.md",
+      "title": "AI And College Admission: Don’t Autocomplete Your Application",
+      "excerpt": "Artificial intelligence has the potential, if used wisely, to serve as a powerful guide to traversing the path to college.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
+      "originalUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c85a0699b262e39549763d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
+      "publishedDateTime": "2023-08-01T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-google-assistant-is-being-supercharged-with-ai.md",
       "title": "Google Assistant Is Being 'Supercharged' With AI",
       "excerpt": "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\"",
@@ -61,7 +164,7 @@
       "originalUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -147,57 +250,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports.md",
-      "title": "Generative AI is quickly infiltrating organizations, McKinsey reports",
-      "excerpt": "So far, North America-based respondents lead the globe in terms of gen AI adoption for work, with 28% of them using the tech in their jobs and outside of work, compared to 24% of European respondents and 22% of Asia-Pacific respondents (Greater China was just 19%).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_woman_stares_in_awe_at_a_computer_screen_emitting_3D_ch_0ac4b32e-4db7-4f09-b48d-cafb845ae23b-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -597,7 +649,7 @@
       "originalUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -648,7 +700,7 @@
       "originalUrl": "https://www.zdnet.com/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -742,7 +794,7 @@
       "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -803,6 +855,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
       "publishedDateTime": "2023-07-31T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-tech-forbes-ai-newsletter-july-29th.md",
+      "title": "Several Companies Face Shakeups In Leadership And Big Changes Coming For Tech - Forbes AI Newsletter July 29th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7c17e7a930dbd6169db63/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
+      "publishedDateTime": "2023-07-31T07:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -933,7 +1036,7 @@
       "originalUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1111,111 +1214,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-new-controversy-over-facial-recognition-in-retail-stores.md",
-      "title": "New Controversy Over Facial Recognition In Retail Stores",
-      "excerpt": "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
-      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
-      "publishedDateTime": "2023-07-31T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-i-drove-the-70000-genesis-gv60-see-inside-the-futuristic-tesla-rival-that-has-facial-recognition-and-a-crystal-ball.md",
-      "title": "I drove the $70,000 Genesis GV60: See inside the futuristic Tesla rival that has facial recognition and a crystal ball",
-      "excerpt": "The Genesis GV60 is a quirky, premium SUV packed with futuristic tech. It's also super quick and charges fast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
-      "originalUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c4240dcf0778001966e871?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
-      "publishedDateTime": "2023-07-31T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

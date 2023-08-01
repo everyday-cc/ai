@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-o
 webUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,37 +28,23 @@ images:
     isCached: true
 
 related:
-  - title: "4 careers where workers will have to change jobs by 2030 due to AI and shifts in how we shop, according to a McKinsey study"
-    excerpt: "AI and changes in how we shop could force nearly 12 million US workers to change jobs in less than a decade, a McKinsey study found."
-    publishedDateTime: 2023-07-28T16:36:00Z
-    webUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-from-ai-replace-change-chatgpt-automation-study-2023-7?amp"
+  - title: "Organizational Resilience And Operating At The Speed Of AI"
+    excerpt: "The hope is that AI (and its close cousin automation) can help solve the productivity paradox. Indeed, Goldman Sachs analysts predict AI will deliver \"a 7% (or almost $7 trillion) increase in global GDP and lift productivity growth by 1."
+    publishedDateTime: 2023-07-28T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/64c3d73acf07780019665507?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d79a86fd87ce0403e3c1/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "KPMG Will Invest $2 Billion in AI, Following Accenture, PwC, and McKinsey"
-    excerpt: "The investment will be conducted through an expanded partnership with Microsoft, which KPMG expects will bring in over $12 billion in revenue over five years, as the firm helps companies integrate AI into their operations. This amount would represent about 7% of the company’s global revenue, which totaled about $34.64 billion in the year."
-    publishedDateTime: 2023-07-27T17:28:00Z
-    webUrl: "https://iblnews.org/kpmg-will-invest-2-billion-in-ai-following-accenture-pwc-and-mckinsey/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 38
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/07/kpmg.jpg"
-        width: 860
-        height: 494
+        height: 675
         isCached: true
 
-secured: "FY/KPxvOjhqRIDYmTMc2PAEbUnAh5wuPfb129jJS+V2iWAjv1QIpYgLfgfRCZKdw8ZnUFqDRnFFJIVPFFlfi5ABoiJprFe9lozbu+zaozSXq4lJ2oCRLtmOa3GkiobKPKmDOKCDSyO3z3lWqhiLZ4Oy6B/5eWvIdB838nmRt456g00+xA3oS87wMrMGkLn/HTFDwonryl/1IfJKuZaOtk+z8UxJAPNW5XQBlM7xSGUaCZiYCDtKOseEYAc3iZMP7RISDgfgYALcTqMgAdnNUwcluKXHhSCJUxECF0/2ha+A7V0fvKvMV+tx2EmmILWFceCmGub7md42F3hLx8Oko7Q4CLPV98hrieiO8/v43Y3I=;m2NYxM6MwhAbkBHG7D0FVg=="
+secured: "FaxLW1g4n1CxutIufCUuCcPwxzL0pnP9Ol7/w9Gdo74om/M0AqqsYOLFhPuGRY97Xw3hUiWf/8V5CBZyeco1LiCZ0rsnbv5HO+XixFspFwQzru38b/72uGEY/xjHluZkQ4qvHtTFASdjpPZ/H57aSgsLI1dA9DTzmvlF1Yn5Mw5+hQwVmcAmvsFSEiuDzu0110qajgoVlyf0kAvJ6DbOMO1Lj+NvF6yd/q8hvNUTL63RuLJosLGYKiMAr0jqHtZthiMZvlxMpuBrjbsjwB3tCErBovigzGQ351MrW9K1FlyMLViRpLLi8ovamBF925+UoZ8c2vwmvKRKPKpGHf6SRmhAiUXEYJ/vg2+RBfSKLVZsCQELqZHQWfPJrONcxZvqJkBN2ncXgELZ2IRxMpfHsPKsNgPB9LoH7URUrVABQmmw/llQRVNakqDBy+iLhHhAY4rWBy5s0BF2sXz43tVLr9FcrmMlWhAiCSkyCUK67ifiE7IimHbsi44amqkTdfuDoNXzu94uf+Y7pN5EGLvNKQ==;CV9bGBAO6t6NRtKRvBoZTA=="
 ---
 

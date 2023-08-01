@@ -54,15 +54,15 @@ related:
         isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-    publishedDateTime: 2023-08-01T09:32:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    publishedDateTime: 2023-08-01T09:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
@@ -81,6 +81,20 @@ related:
       - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/07/mojahid-mottakin-lmhMI34pPMA-unsplash.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
+    excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
+    publishedDateTime: 2023-08-01T11:32:00Z
+    webUrl: "https://tech.co/news/meta-launch-ai-chatbots"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/03/10073649/AdobeStock_482385584_Editorial_Use_Only-min-scaled-e1678814941370.jpeg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Meta’s next AI play are chatbots called personas"
     excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
@@ -121,6 +135,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Therapy For You Unveils Limbic: An AI-Powered Chatbot Revolutionizing Access to Talking Therapies"
+    excerpt: "Therapy For You, the esteemed NHS Talking Therapies service catering to patients in North East and South East Essex, has recently introduced Limbic to their"
+    publishedDateTime: 2023-08-01T10:26:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/08/01/therapy-for-you-unveils-limbic-an-ai-powered-chatbot-revolutionizing-access-to-talking-therapies/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 21
 
 secured: "tXy4qdtB/eQEMMoJFMgSK3nHP5sdQMiHGTO7VtMq3KoqD9MhFzpg47pE8Xk+DVchUKQHWkCkJxMss92JtVbGAvbDXy2c7Yuun0Yp6ss8Jo6snhBD3iaLXdmFRipBX2WTWeoiVBTs1JQEkgABFeYRzvrD+3JtMY7qJj2PmiGyG4EvsDy6Ya8ByFic9Ao4N8XvpXm5us/Umcq876C7VmC5h7/YAvyRYXTIOvp69c9mZK0m6kwLaqDhzmcHN6e+X5aVJ6aVm3CHxcyxKs1eItPStmIgLVi9eptqfOgts+XLMiz2TGdEZrtzRfTPVFK3W9OXGb9jLoYD6VgxBiswzEgR7Nzcw4jUZ8ggvv9SVm4CmFxwmEHPUkm/fCrKhdgSmkizF33BmYAp/A+wu2PJwUrdcFUYGXv7D8X449J9+XOBVgKDhckCB3QpmYWUIsiStT+OPXYPkZsxpu33IzUQeaLNCqUgKb88qWfPyDzg7+eW6xJ/FFjtDOu3L+3j2Xhq7Ie/vZCSQb4M3+WdUlqQGgpLrA==;HfzEyrXzdXsEK9+CyAoIvw=="
 ---

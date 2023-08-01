@@ -173,6 +173,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-27-scale-knowledge-management-use-cases-with-generative-ai.md",
+      "title": "Scale knowledge management use cases with generative AI",
+      "excerpt": "Businesses looking to deploy generative AI models should join forces with a trusted partner that has created or sourced quality models from quality data.\nThe post Scale knowledge management use cases with generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-skilled-partners-hold-the-key-to-accelerating-ai-adoption.md",
       "title": "Skilled partners hold the key to accelerating AI adoption",
       "excerpt": "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n",
@@ -1258,49 +1301,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ibm-sets-watson-chips-on-the-ai-case-as-price-war-kicks-off.md",
-      "title": "IBM sets Watson chips on the AI case as price war kicks off",
-      "excerpt": "IBM claims it can cut the cost for AI models in the cloud with custom silicon to cash in on the surge of interest in generative models like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/07/13/ibm_ai_cloud_price/",
-      "originalUrl": "https://www.theregister.com/2023/07/13/ibm_ai_cloud_price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2023/05/09/watson_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/07/13/ibm_ai_cloud_price/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/07/13/ibm_ai_cloud_price/",
-      "publishedDateTime": "2023-07-13T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

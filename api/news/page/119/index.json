@@ -2,6 +2,196 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2023-05-16-where-healthcare-meets-tech-three-crucial-areas-of-discussion.md",
+      "title": "Where Healthcare Meets Tech: Three Crucial Areas Of Discussion",
+      "excerpt": "The first has to do with artificial intelligence, particularly in terms of improving the patient experience, lowering costs, and speeding up patient selection and triage. A lot can be said about the potential of AI when applied to healthcare. According to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646235bedaef4a82dbbcd1ea/0x0.jpg?format=jpg&crop=2366,1330,x0,y217,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/16/where-healthcare-meets-tech-three-crucial-areas-of-discussion/amp/",
+      "publishedDateTime": "2023-05-16T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried.md",
+      "title": "When Generative AI Refuses To Answer Questions, AI Ethics And AI Law Get Deeply Worried",
+      "excerpt": "Generative AI such as ChatGPT and GPT-4 make use of refusals as a form of answering user prompts. There is a tricky line to be followed about the use of refusals. We closely explore the refusal conundrum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/642f13c3d7bd6767a2eb4796/0x0.jpg?format=jpg&crop=2285,1522,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/16/when-generative-ai-refuses-to-answer-questions-ai-ethics-and-ai-law-get-deeply-worried/amp/",
+      "publishedDateTime": "2023-05-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances.md",
+      "title": "AI Demand Triggers GPU Shortage and Unusual Big Tech Alliances",
+      "excerpt": "When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-robot-firefighter-market-research-2023-2030.md",
+      "title": "Robot Firefighter Market Research | 2023-2030",
+      "excerpt": "The Global Robot Firefighter market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/robot-firefighter-market-research-2023-2030-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-indigenous-man-condemns-voice-no-campaign-leaders-for-wrongly-using-his-image.md",
       "title": "Indigenous man condemns voice no campaign leaders for wrongly using his image",
       "excerpt": "No voice leader Warren Mundine has stood by his campaign’s ... “It appears that some people have been misled into saying things on camera about constitutional recognition by the no campaign,” she told Guardian Australia.",
@@ -992,202 +1182,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right.md",
-      "title": "Fmr. Google CEO says no one in government can get AI regulation 'right'",
-      "excerpt": "OpenAI CEO Sam Altman is slated to testify before Congress as lawmakers seek to determine how to regulate the rapidly evolving technology. On Meet the Press Reports, former Google CEO Eric Schmidt says there's \"no one in the government\" who can get regulation right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fmr-google-ceo-says-no-one-in-government-can-get-ai-regulation-right-174442053869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684184943076_now_mtp_clip_reports_230515_1920x1080-hqq020.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174442053869",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174442053869",
-      "publishedDateTime": "2023-05-15T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-amazon-vp-in-charge-of-the-astro-home-robot-leaves-after-less-than-2-years-leaked-email-shows.md",
-      "title": "Amazon VP in charge of the Astro home robot leaves after less than 2 years, leaked email shows",
-      "excerpt": "Ken Washington is the latest high-profile executive to leave Lab126, the Amazon hardware unit that created the Kindle and other devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-vp-in-charge-of-astro-home-robot-leaves-2023-5",
-      "originalUrl": "https://www.businessinsider.com/amazon-vp-in-charge-of-astro-home-robot-leaves-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/646293953c46f3001898d0a4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools.md",
-      "title": "Cloudflare unveils Cloudflare One for AI to enable safe use of generative AI tools",
-      "excerpt": "Cloudflare One for AI will enable organizations to adopt the latest generative AI technologies without compromising performance or security.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
-      "originalUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/cloudflare-mobile.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
-      "publishedDateTime": "2023-05-15T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-c3ai-stock-soars-as-company-expects-to-beat-revenue-target.md",
-      "title": "C3.ai stock soars as company expects to beat revenue target",
-      "excerpt": "Shares of C3.ai were surging in Monday afternoon trading after the software company said it expects that it exceeded its revenue target for last quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37?mod=hp_minor_pos25",
-      "originalUrl": "https://www.marketwatch.com/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37?mod=hp_minor_pos25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-735665/horizontal",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/c3-ai-stock-rises-as-company-expects-to-beat-revenue-target-25cade37",
-      "publishedDateTime": "2023-05-15T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

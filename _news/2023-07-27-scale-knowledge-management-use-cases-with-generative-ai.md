@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with
 webUrl: "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: IBM
@@ -23,84 +23,105 @@ topics:
   - AI
 
 related:
-  - title: "Skilled partners hold the key to accelerating AI adoption"
-    excerpt: "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-27T17:45:00Z
-    webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Skilled-partners-hold-the-key-to-accelerating-AI-adoption-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "Organizational Resilience And Operating At The Speed Of AI"
-    excerpt: "The hope is that AI (and its close cousin automation) can help solve the productivity paradox. Indeed, Goldman Sachs analysts predict AI will deliver \"a 7% (or almost $7 trillion) increase in global GDP and lift productivity growth by 1."
-    publishedDateTime: 2023-07-28T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
+  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
+    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
+    publishedDateTime: 2023-07-31T23:38:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d79a86fd87ce0403e3c1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "8 limitations of using Artificial Intelligence"
-    excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
-    publishedDateTime: 2023-07-28T10:31:00Z
-    webUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    ampWebUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+  - title: "The potential future of open-source generative AI"
+    excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
+    publishedDateTime: 2023-07-31T09:52:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
+      name: Marketplace
+      domain: marketplace.org
     quality: 59
     images:
-      - url: "https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/7/28/1690538015666_ai5.jpg"
-        width: 282
-        height: 500
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "10 Keys To A Winning AI Strategy"
-    excerpt: "David Yunger is CEO of AI strategy and innovation firm Vaital. The world has forever changed. Seemingly overnight, for the first time in human history, computers can outperform humans—at the highest measures of human intellectual achievement. • In the 90th percentile of America’s best and brightest attorneys on the Bar Exam."
-    publishedDateTime: 2023-07-31T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/10-keys-to-a-winning-ai-strategy/"
+  - title: "AI-Generated Data Can Poison Future AI Models"
+    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
+    publishedDateTime: 2023-07-28T11:16:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
-    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Top 7 Generative AI Courses by AWS"
+    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
+    publishedDateTime: 2023-07-30T04:43:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
-    excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-    publishedDateTime: 2023-07-31T13:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: CMS Wire
+      domain: cmswire.com
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
-        width: 400
-        height: 261
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
         isCached: true
+  - title: "Most businesses with AI lead new use cases with it"
+    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
+    publishedDateTime: 2023-07-31T09:45:00Z
+    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
+        width: 1075
+        height: 550
+        isCached: true
+  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
+    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
+    publishedDateTime: 2023-07-28T19:46:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
 
 secured: "vAQn4ay68uuHeW568dU6hLzQZkU4PST0YI/RLlIE3w9un1+ddrrT++6vgi9sZYTqCdlYJYfVJHV+qZxcOf2NqD7UMpyNoWMMpWDfXOkfyokpPIDLg1Jqse5U+8otrhzIjnlLR+Bz933pmVYvUuaKw+08jSYTvKmrBFH0gh1uEykujyVi63k7v5VR35t2pMc67oUv1mLej5UhRCZFHLbZT2visP81VpaokA0Cs1NNOvozsUMydygjB5s1vQQeAGEhBdXp7EMtnHfgUuFGGvjYS5taM5cZCrEkkKXqbaWyPADVLt3CPJhPjjlxDY4YjkFtbyz/iQ9z5ZTVsKfd0H3YeBa82v+qEZge9hO0V1a+vTY=;9eA4hqw5O9FkQS1lISt1gA=="
 ---

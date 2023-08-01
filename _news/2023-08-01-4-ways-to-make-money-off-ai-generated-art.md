@@ -54,20 +54,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Top 7 Generative AI Courses by AWS"
-    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
-    publishedDateTime: 2023-07-30T04:43:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Devar uses generative AI to create 3D AR images from text prompts"
     excerpt: "Devar is getting ready to launch the world's first generative AI neural network for AR that allows people to create 3D objects and others AR assets."
     publishedDateTime: 2023-07-28T12:59:00Z
@@ -104,20 +90,6 @@ related:
       - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
         width: 1000
         height: 575
-        isCached: true
-  - title: "6 Ways Generative AI Is Changing Content Management"
-    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
-    publishedDateTime: 2023-07-31T13:26:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
-        width: 640
-        height: 480
         isCached: true
   - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
     excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."

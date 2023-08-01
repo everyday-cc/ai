@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-03-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside.md",
+      "title": "IBM: Acquiring Apptio, Dividends, AI, And Collaborations Position It For Future Upside",
+      "excerpt": "IBM has underperformed in recent years; shares falling 28.28% in past decade, but strong fundamentals and focus on AI and cloud services could change investor sentiment. IBM's recent acquisition ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4614786-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside",
+      "originalUrl": "https://seekingalpha.com/article/4614786-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/52783338/image_52783338.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 978,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-ai-innovators-10-artificial-intelligence-companies-to-keep-an-eye-on-in-2023.md",
       "title": "AI Innovators: 10 Artificial Intelligence Companies to Keep an Eye on in 2023",
       "excerpt": "Stay updated on the latest innovations and platforms from leading artificial intelligence companies, revolutionizing technology and driving advancements in AI.",
@@ -1329,48 +1372,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-the-business-value-of-operating-core-insurance-solutions-on-the-cloud.md",
-      "title": "The business value of operating core insurance solutions on the cloud",
-      "excerpt": "IBM has a well-architected, secure core insurance platform for life and group insurance operating on the cloud.\nThe post The business value of operating core insurance solutions on the cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T06:23:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

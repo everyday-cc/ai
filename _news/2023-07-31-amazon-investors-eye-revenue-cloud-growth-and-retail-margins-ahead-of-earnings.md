@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Amazon investors eye revenue, cloud growth and retail margins ahead of earnings"
-excerpt: "Amazon investors are looking for updates on the tech giant's cloud business, ad revenue growth and signals on consumer health heading into the holidays as inflation continues to impact spending for corporations and consumers."
-publishedDateTime: 2023-07-31T10:06:00Z
-originalUrl: "https://www.aol.com/news/amazon-investors-eye-revenue-cloud-100604197.html"
-webUrl: "https://www.aol.com/news/amazon-investors-eye-revenue-cloud-100604197.html"
+excerpt: "Amazon on Monday said it hit record delivery speeds in the United States in the second-quarter while continuing to cut costs, as investors look for signs of growth in its e-commerce business when it reports its Q2 financials on Thursday."
+publishedDateTime: 2023-07-31T11:43:00Z
+originalUrl: "https://www.reuters.com/technology/amazon-investors-eye-revenue-cloud-growth-retail-margins-ahead-earnings-2023-07-31/"
+webUrl: "https://www.reuters.com/technology/amazon-investors-eye-revenue-cloud-growth-retail-margins-ahead-earnings-2023-07-31/"
 type: article
-quality: 35
-heat: 35
+quality: 65
+heat: 65
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/9bfd0dd5664235f911b94893bdb18c2b"
-    width: 800
-    height: 533
+  - url: "https://www.reuters.com/resizer/S2HdjKr9zHQ87joJ9nWyA3r1JNE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XEFIQSSR7VKC5P7E44NYL5UJWQ.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "hKllB6pxXS6zE9bKjocQ1U7LFexs0XCGOS/PDgbc9BaQ/X+Y3Pus4luM2yt+wd5wBXe89Oey5anvS5kenZ8vGZe3uif72ViuBm/ZaJhBsBgnn4Vwosyaxm7qV57w70PazTQD18dvG4gOE2Y8VP1elpssBXg1TadV1ZqUNZtAaP32UCK0EdTqD3p6kWDpH8tuSZhoZbv7TTOFbH6DOVk20G00/hOWL2p1hCwEeVxeH0Q0eepPVesfXvQfTG4/DTwicFrXbO+Twn93rXLIj4qLEhOYqIZPlPu/UhWmI41xG6mNX00HcKlEpb47D1KGf3/gKozYMWoE7WvT0mpNSGcf5xwXuBC4LH+mhKbpmV6RjKKoTnyqaKUpgHlLpcxz733Or+oat9IGqVHKG8JG0E/rfK/DjFIjqkhz1RpJZqgsyyVjuufHHnp8pTgEcGQ87oN/pNvpOep+8whxDfi0hwlx51oPhU1dsz9dZyCcs/AWHVM0yF1Z1lL7leVg9qjBeoQBvncdDIHyFQZqilrTXumQvQ==;XNWjDGMV8y54osMTecO79A=="
+secured: "QSxWIZRiUpcWk9k7qJw942SZIzhpo1sSo1DLGgzlXHcM2BqnRG6rZPDGe3OMAcALV/+QZhoNHX6LuoB/Z/Wzr0AH8lBiKLH2dCoTbhKsd7vvKuzpAiRny6TaRo3Z/PB03zoEY+IA/oLHAuGr0bBIKgvnyMyVNpaaE/Oxh5Q5yHDRkYCTPH/n8QbLyh5Q2beBgkd0AhlTDtIfc9KudVQk89Yt8oPhMMtQX8HM/CbqgVI2SqNLHd+PJ0MliawLCs5Y0wG5lCrF4TGMGX5NPib+Lkg2SY9W550hRWyh0OOxrTUrATwI0HxMY8sBL9L+ovcRb/j3V8bjNlOwR82IIvBjteYCd64M886WxQrjTT69eTs=;JLOHv2gc5QHClhnKditWjQ=="
 ---
 

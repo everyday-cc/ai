@@ -33,7 +33,7 @@ related:
     provider:
       name: techjuice.pk
       domain: techjuice.pk
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/08/images-16.jpeg"
         width: 739

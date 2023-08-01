@@ -72,6 +72,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "8 limitations of using Artificial Intelligence"
+    excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
+    publishedDateTime: 2023-07-28T10:31:00Z
+    webUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+    ampWebUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 59
+    images:
+      - url: "https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/7/28/1690538015666_ai5.jpg"
+        width: 282
+        height: 500
+        isCached: true
+  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
+    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
+    publishedDateTime: 2023-07-28T12:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Risks of opening up AI"
     excerpt: "Meta has annouced that its Llama 2 large language model will maxde freely available under a community licence with certain restrictions"
     publishedDateTime: 2023-07-28T10:15:00Z
@@ -99,20 +124,6 @@ related:
       - url: "http://www.bbcmag.com/pub/photo/optical-fiber-abstract-tall.jpg"
         width: 3000
         height: 2250
-        isCached: true
-  - title: "Most businesses with AI lead new use cases with it"
-    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
-    publishedDateTime: 2023-07-31T09:45:00Z
-    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
-        width: 1075
-        height: 550
         isCached: true
   - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
     excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."

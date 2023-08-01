@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 7 Generative AI Courses by AWS"
-    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
-    publishedDateTime: 2023-07-30T04:43:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Devar uses generative AI to create 3D AR images from text prompts"
     excerpt: "Devar is getting ready to launch the world's first generative AI neural network for AR that allows people to create 3D objects and others AR assets."
     publishedDateTime: 2023-07-28T12:59:00Z
@@ -91,20 +77,6 @@ related:
       - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
         width: 1000
         height: 575
-        isCached: true
-  - title: "6 Ways Generative AI Is Changing Content Management"
-    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
-    publishedDateTime: 2023-07-31T13:26:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
-        width: 640
-        height: 480
         isCached: true
   - title: "4 Ways To Make Money Off AI-Generated Art"
     excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"

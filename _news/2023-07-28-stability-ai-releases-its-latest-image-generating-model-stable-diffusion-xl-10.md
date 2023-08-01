@@ -70,20 +70,6 @@ related:
         width: 700
         height: 446
         isCached: true
-  - title: "Stability AI Announces Stable Diffusion XL 1.0, Featured on Amazon Bedrock"
-    excerpt: "Stability AI, a leading open generative AI company, announced the release of Stable Diffusion XL (SDXL) 1.0, the latest and"
-    publishedDateTime: 2023-07-27T17:04:00Z
-    webUrl: "https://www.datanami.com/this-just-in/stability-ai-announces-stable-diffusion-xl-1-0-featured-on-amazon-bedrock/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
 
 secured: "lyiEXCj8I/i6oBGHhnIg5z/6rBycaPnCWSpxgZt4ADtaXTGfL9bPON05Yui7fUz9HXoRpJjsaaBAbmfSgFsL4ZqpnszB2J+9jcXZBtps2qiYxCJd7VlFK6CiU1MG8vbvtedZ2Sl7W0yzayVD5Z4zpqlPtYkfsLcqrRT7VH/iZ+L7KGPWkXfZNvA3SiWseoXULpMlat6bgM5jHZSiZ/Q+p8Zk009fI5+w9pmbl4F1gBLGSAR0EbMIlSW8gAmBuShXiTNt2XwDPrXtSI9s+h1JGLvEA50OHEC8X4ZcFmWwEQr6HHzQTuDZotTyjHBE5ef+zABdAlktzzYOFiR8XbfiVEHsPByYhrIB2Z2NhZuW79E=;0TPIwjverBO+wlk0lM2QmQ=="
 ---

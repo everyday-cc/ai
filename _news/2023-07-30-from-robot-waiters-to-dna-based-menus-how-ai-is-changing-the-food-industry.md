@@ -9,7 +9,7 @@ ampWebUrl: "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp"
 type: article
 quality: 72
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 888
     isCached: true
+
+related:
+  - title: "Can AI really change the payments industry?"
+    excerpt: "AI-powered payment reconciliation can automatically match incoming payments with outstanding invoices, reducing the need for human intervention and speed up reconciliation times. This will hopefully lead to some of the £50 billion or more in late payments owed to UK businesses being reduced."
+    publishedDateTime: 2023-08-01T11:41:00Z
+    webUrl: "https://www.finextra.com/blogposting/24673/can-ai-really-change-the-payments-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "1Q47/mgrVmKm5ge/agxq5RCH4pNA2Fj5qYvgrKIm0f9PY0tO82GpBsKPV+r/FD8ASYkNJjZ0wqaLQvYedi5/WBLErnYRgyRUf1bwcR/y+vVMhwWQsLlIo/QOPe2FRmZUFr17fozWgMxpWMJnqKY8KVcyt3af767KoyBuUliccJDkGXpZxPhwnzgMNNvsVxAQT2cOLgFakbdNHmmL+UZzDylKbjtmGr+YnCJSgV0q5gp5HA9QzoKTSYJV32FMeeNfikACQRQF8VTGToyqwEKl5gtcuVVxp/p2U1tZaxyoxyZn89+EVNkxAaniWJXVYqAsnzDwlWpeOuAnt/0VZCSfAlmP3syaDvjw45Gj+SGAhu5Oigwd9UJS5cs/U2oRYnvrxI6wCchaKH/QBdMTwyuC80v+L5PdhOBCXgqYDW0QkNFHlzJZCFhaCpssZZ7uN0cWmVgjJBwyFLf4oHe57VDm+dd6StHuQTt+KNhIh3Mr9Fob3HReyg7nnyQ2HmQHHT26e0W5Te8EVfREvVTw1ANCog==;pwudAubnjwEU8m5jnaKxag=="
 ---

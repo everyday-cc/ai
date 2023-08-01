@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence M&A performed in the pharmaceutical industry in Q2 2023"
-    excerpt: "In the global pharmaceutical industry, there were 6 M&A deals announced in Q2 2023, worth a total value of $191.2m, according to GlobalData's Deals Database."
-    publishedDateTime: 2023-07-27T17:10:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/uncategorized/ma-activity-artificial-intelligence-pharmaceutical-industry/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 33
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2017/09/MicrosoftTeams-image-37.png"
-        width: 388
-        height: 544
-        isCached: true
   - title: "Artificial Intelligence hiring activity increased in the pharmaceutical industry in Q2 2023"
     excerpt: "The global pharmaceutical industry recorded a 21% rise in artificial intelligence hiring activity in Q2 2023, according to GlobalData"
     publishedDateTime: 2023-07-28T05:22:00Z

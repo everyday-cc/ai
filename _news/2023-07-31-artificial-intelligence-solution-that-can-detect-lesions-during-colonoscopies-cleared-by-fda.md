@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Headlines/Clinical-Development/
 webUrl: "https://www.outsourcing-pharma.com/Headlines/Clinical-Development/FDA-clears-colonoscopy-artificial-intelligence-solution2"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1500
     height: 1125
     isCached: true
+
+related:
+  - title: "FDA approves new AI-powered colonoscopy aid"
+    excerpt: "The FDA has cleared the AI under its 510 (k) pathway for medical devices, and the green light follows approvals in 2021 in Israel and the EU. It will start to roll out in the US \"in the coming weeks,\" according to Magentiq Eye."
+    publishedDateTime: 2023-08-01T11:44:00Z
+    webUrl: "https://pharmaphorum.com/news/fda-approves-new-ai-powered-colonoscopy-aid"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/sites/default/files/2023-08/Magentiq-Colo_session.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "2F2d81dJEJX4FHXVjgm9mouiBUyEep1kTqnzxgceX9tGyxlw9aTkGQ/DKruvMmCkSqN3bgfnTn1NbHxrslvClBIxeyqXtTD+Hvn6kRDrbgRyY68zC4Bdk6gufXP9kPb4QEhiCXqp8qJcTitu8glyAooAdmx4ATzM8TTm1iQjQNJcEp2WZU8WKRIdAjpGOoPlQdbQ3afBjJ47wmM6hPFkwknOxKuDU8zbZr7cgdbE7BBudISPDjSMCmeLS6ENqcE7WSpSr+/pmd4zVcLfiabUgl1hQDHWv/i0PZb8CGF7wF7jDBG8rka2gxyySmQXongGa7UdaAF9OAvOe/g0X+7j7yKH3v+LHa7l2UcFBFQKSoY=;bVbNphHuGAOreCAFV7s+fw=="
 ---

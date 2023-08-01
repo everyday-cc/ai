@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,76 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Skilled partners hold the key to accelerating AI adoption"
-    excerpt: "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-27T17:45:00Z
-    webUrl: "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/"
+  - title: "Generative AI is quickly infiltrating organizations, McKinsey reports"
+    excerpt: "So far, North America-based respondents lead the globe in terms of gen AI adoption for work, with 28% of them using the tech in their jobs and outside of work, compared to 24% of European respondents and 22% of Asia-Pacific respondents (Greater China was just 19%)."
+    publishedDateTime: 2023-08-01T04:00:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-quickly-infiltrating-organizations-mckinsey-reports/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/07/Skilled-partners-hold-the-key-to-accelerating-AI-adoption-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "Scale knowledge management use cases with generative AI"
-    excerpt: "Businesses looking to deploy generative AI models should join forces with a trusted partner that has created or sourced quality models from quality data.\nThe post Scale knowledge management use cases with generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-27T20:30:00Z
-    webUrl: "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "8 limitations of using Artificial Intelligence"
-    excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
-    publishedDateTime: 2023-07-28T10:31:00Z
-    webUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    ampWebUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 59
-    images:
-      - url: "https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/7/28/1690538015666_ai5.jpg"
-        width: 282
-        height: 500
-        isCached: true
-  - title: "10 Keys To A Winning AI Strategy"
-    excerpt: "David Yunger is CEO of AI strategy and innovation firm Vaital. The world has forever changed. Seemingly overnight, for the first time in human history, computers can outperform humans—at the highest measures of human intellectual achievement. • In the 90th percentile of America’s best and brightest attorneys on the Bar Exam."
-    publishedDateTime: 2023-07-31T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/10-keys-to-a-winning-ai-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
-    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
-    excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-    publishedDateTime: 2023-07-31T13:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856504.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2165580/Flapmax_X_Intel.jpg"
-        width: 400
-        height: 261
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_woman_stares_in_awe_at_a_computer_screen_emitting_3D_ch_0ac4b32e-4db7-4f09-b48d-cafb845ae23b-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "grNmAvk+xprA/6kB9i/B4BzIaXjDN62enUAdbpyWDesQxKCD03IFzrbhpWV6TDpv61z4EG9JjHhdw1uwT1IQBuWgmm77vIbiuawPtgy6YqQKnrpFPDJSu/ygFpF0KetaK8ZdBZnRFgC8YumfQJ3LrnWzuUKVSI2COhf65e4QyhHX3+ZzDIKtV5Fql6B7doCtbiY7L9cbU+/RHldPSFMog4XsPrK9Wgs+kX/rT7T5GZ7n7HaM7GoljbByHyt4vAx9x3cLghm2EW9iTa8aNhInFZpgv7pA5H7Ugl2l6n2FnaWcMyJQ/HHKtf4zwWJUOouERln4uSbF9ifc7u56uig79HxNSry0N9ibc/IO3tuF108=;OhUrRVhYUqI0eYbjTDNLcg=="

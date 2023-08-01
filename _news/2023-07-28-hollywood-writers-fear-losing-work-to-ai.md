@@ -57,22 +57,6 @@ related:
         width: 1320
         height: 742
         isCached: true
-  - title: "Disney, Netflix go on AI hiring sprees as strikes drag on"
-    excerpt: "As the Writers Guild and SAG-AFTRA strikes drag on — and with the use of AI being a big point of contention in negotiations — major entertainment companies appears to be hiring for jobs in the AI realm. The Hollywood Reporter searched searched through job listings and found a number of open positions related to AI."
-    publishedDateTime: 2023-07-27T17:35:00Z
-    webUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/"
-    ampWebUrl: "https://nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/27/disney-netflix-go-on-ai-hiring-sprees-as-strikes-drag-on/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000015043041.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
     excerpt: "The entertainment industry is the midst of a strike by actors and writers who, among other concerns, worry the emergence of AI may enable studios to produce content without them."
     publishedDateTime: 2023-07-27T22:57:00Z
@@ -137,15 +121,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy"
-    excerpt: "It's no surprise one of the world's biggest tech companies is paying top dollar for AI experts - but we can still call them out."
-    publishedDateTime: 2023-07-27T18:16:00Z
-    webUrl: "https://techcrunch.com/2023/07/27/its-not-just-netflixs-900k-ai-jobs-its-the-hypocrisy/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "AI news recap: While Hollywood strikes, is ChatGPT getting worse?"
     excerpt: "There is anger over a Netflix AI job paying up to $900,000, coming as actors are still striking over the use of AI in film and TV.  In other AI news, problems with training data can cause glitches or"
     publishedDateTime: 2023-07-28T09:05:00Z

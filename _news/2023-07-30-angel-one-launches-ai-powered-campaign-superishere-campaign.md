@@ -59,22 +59,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future"
-    excerpt: "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ..."
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33426371"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
     excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
     publishedDateTime: 2023-07-28T13:32:00Z
@@ -84,15 +68,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 16
-  - title: "ReflexAI announces venture funding to bring AI-powered training and quality assurance tools to high-stakes call centers"
-    excerpt: "ReflexAI, the provider of AI-powered training and quality assurance tools for high-stakes call centers, today announced its first round of venture funding. Led by Footwork, the $3.3M oversubscribed round included Emerson Collective,"
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855558.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "IMlXad+UExT5eIR8asnZuM3W1G9KqZr4h1sg8oTbmzjtQxP45EpRzhreDzsFVXG4IW77oYwok0URf5VQeL/zs8FrjRBxKuddZb/fh/Erxx2NBAEUmVv2ah8lnkqyRMKwpv86KZWdVGPyielzUJqpS39t3Wv8aQS/8X/AQVnCHYfozO9zrfbwown3O02fxtOuOHLTlMHRZ4Bb9pfo4T6Ap+OhGBjXKOvu87yjloxE9DscZv2YCtmjADBR6PsyXXcsuiFEIChXS35mAoK0qk/Tq+7eBMbFWP4kPcfnnAG1vNXN6zINqWdGcOK+qThzI2PEHPIn5Ms+Brq3hFwPfete89/GllTQGNoIB9OiRDqQWg8=;iT3JZedbYE63q1P5+G+s9A=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 4160
         height: 2340
         isCached: true
+  - title: "NVIDIA DGX Cloud targets generative AI"
+    excerpt: "DGX Cloud also incorporates NVIDIA AI Enterprise, the software layer of the NVIDIA AI platform, which includes over 100 pretrained models, optimized frameworks and accelerated data science software libraries. These add-ins give developers an additional jump-start to their AI projects, Boyle notes."
+    publishedDateTime: 2023-08-01T10:01:00Z
+    webUrl: "https://www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.html"
+    ampWebUrl: "https://www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden considering executive order to limit sales of artificial intelligence and semiconductors to China"
     excerpt: "President Joe Biden is reportedly planning to sign an executive order limiting United States investments in key technologies in China, a further escalation in the antagonism between the two countries over semiconductor chips and other advanced tech."
     publishedDateTime: 2023-07-28T21:46:00Z

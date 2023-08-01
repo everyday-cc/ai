@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google DeepMind enables robots to perform novel tasks"
-excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
-publishedDateTime: 2023-07-29T08:12:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic"
+publishedDateTime: 2023-07-29T05:12:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1443308.html"
+webUrl: "https://www.prokerala.com/news/articles/a1443308.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1443308.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1443308.html?amp=1"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
-    width: 600
-    height: 450
+  - url: "https://www.prokerala.com/news/photos/imgs/1200/google-deepmind-enables-robots-to-perform-novel-tasks-1621209.jpg"
+    width: 1200
+    height: 735
     isCached: true
 
 related:
@@ -102,6 +102,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "h8NzzfPgcnoZlQR4fxwv//lJebLzo+XBqaHDG203uoLoHZBURsiL/m+4jCJl1+KssdMhwYzrQiA47FWXY7ySCQ+V06w55T9L1yV0cmE0cpSPvEYlEVLYM24Ly3WuTnnzbhuLlGiF0YJs23MQZZM95ESCV4dCHDM9JxgcptvTcxWvJGCb0HuIiZkleGeSlVaoTBnyTpzLAsI08icO4Ixspk0vRkwVQ0USy/Id2ROSf9jRiZcBfOQKeyj2WHA832T/RB+fh66qJMi0mBgoKeT7ebdwD3AtqOjrOeOMA98bpEXpMD0RYMAggAs2wcl8Qg13YhkjOrK6scxtDTl3nL8TvNv4GfcChNZ4KNrRxW0qZDC4WwS8WdN6b0tahgd5TA386W/Cg6clzPE8DWgzfKB8drb+De0bGMYBD3uRkvuUiyDTKewS5l5gAE48jzZvWH9MUAei3IvuLgDOyYy4JnW1OXsoW0qK37lIF01sHwaMgdVaOnkFdHeO38NmMO5NplkHLXdjpj1WF5iXMOXVo0nd6w==;Qe6s9ylOAUlI8MpTZFnLFw=="
+secured: "Ju8MSRGm4+G+YsyOoMtnlOQvPT893WyMgF4ex4py+S0IZGkoK0K+GB0y8e7bshRUax8Lc61uT9t9bAflY4hFYYJUdTGpe8GPsihlbnEINLpDCzmu8ybaBzL6uGwVJTDSr4fEeatzqeASxN0ka89aJX6Gb1FFCFkIpRxDuceQiCrrFY73gAdtEQ3IcfqbVWgwTLC8P3x86H7Yb5HCMcPN6+tpVsp35PMcXW+I7fzb3Nnuib1rE6IsLjm5xMCTu/A0ppDJI9XZDntyKSJC4ZyaqG5+vQkST/IVsKrS6equgtXbRrCUlkMrJ5ZQ1Ek478f1X1WBziyC3gELPODgh9o/SvA1PEL3d5jsLHXPBIfCpXs=;UD2S0derwTdv75p4/GuuHA=="
 ---
 

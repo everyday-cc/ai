@@ -67,31 +67,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Google Emphasizes Its Ability To Retain Its Power In The AI-Powered Future"
-    excerpt: "After a challenging 2022 and thousands of layoffs, Alphabet GOOGGOOGL seems to be restoring its power amid the advertising market rebound and AI boom. Google parent topped ... competing on the Cloud front with Azure. But whatever happens in the cloud ..."
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://www.benzinga.com/23/07/33426371/google-emphasizes-its-ability-to-retain-its-power-in-the-ai-powered-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33426371"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33426371"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/3d-robot-hand-background-ai-technology-side-view.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ReflexAI announces venture funding to bring AI-powered training and quality assurance tools to high-stakes call centers"
-    excerpt: "ReflexAI, the provider of AI-powered training and quality assurance tools for high-stakes call centers, today announced its first round of venture funding. Led by Footwork, the $3.3M oversubscribed round included Emerson Collective,"
-    publishedDateTime: 2023-07-27T17:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/27/9855558.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "yVXiaSGp6x5tPBqDD2iYUjtUDZKflysI6djknO0ujA15QCOaoLboI0sMswTNbcnQZ5i3NxZEr0hlJwJ6iFJ25VtkCt0mwoOXahfaUZwi007ywv6frdq3W59zvBQ+5rbktafC78bRsY7ZM5OVhGzCh/qC6oJvdRQvNr6QrjTBVvfVsX9D7eWvTOp1wk94O6jgQOY0wadpATdknQdcyL17SYURrRDH7r5HC3W3u7Hn2jD0rao7KsAcsbOio4GvKHFjt0f2LpE7PTIJ0bMtOaWDo+F+QEboziKbGvXHguka6mU2o0Ie/QM86EnvkX8zDbB86iMMj4hjr7/dT8yaerpoTAOyhtjnU+yTXYngdVZTXsa/WYGPOudFfaTJqLDcMvEdfIIjZ/nRcVgvxmdD8UpxMRLWx7PsL5ZXpWd+N3FsICgmk9bEX09gsSyTssToUIITeGNZk6EtlYt35tn/OJbZmTHvls9hFf4CjgRqzxLLxBMMpFHaogm06F6ILMr6+b2Ce3pHHRu2P4n5pLGMSAmtOg==;vZZVeejj7S7qji4gST8BSQ=="
 ---

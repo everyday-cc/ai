@@ -26,50 +26,98 @@ images:
     isCached: true
 
 related:
-  - title: "Low code AI with Power Apps and Power Automate"
-    excerpt: "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up."
-    publishedDateTime: 2023-08-01T08:59:00Z
-    webUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html"
-    ampWebUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
+  - title: "Scale knowledge management use cases with generative AI"
+    excerpt: "Businesses looking to deploy generative AI models should join forces with a trusted partner that has created or sourced quality models from quality data.\nThe post Scale knowledge management use cases with generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-27T20:30:00Z
+    webUrl: "https://www.ibm.com/blog/scale-knowledge-management-use-cases-with-generative-ai/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "This artificial intelligence and automation developer bundle is on sale for under £50"
-    excerpt: "TL;DR: The 2023 Ultimate Artificial Intelligence and Automation Developer Bundle is on sale for £46.69, saving you 74% on list price."
-    publishedDateTime: 2023-08-01T04:00:00Z
-    webUrl: "https://sea.mashable.com/online-learning/25640/this-artificial-intelligence-and-automation-developer-bundle-is-on-sale-for-under-ps50"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
+    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
+    publishedDateTime: 2023-07-31T23:38:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
     type: article
     provider:
-      name: sea.mashable
-      domain: mashable.com
-    quality: 62
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://sm.mashable.com/t/mashable_sea/deal/t/this-artif/this-artificial-intelligence-and-automation-developer-bundle_vf8f.1200.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "How much healthcare jobs will be automated by AI"
-    excerpt: "AI could automate up to 30% of hours worked at US jobs by 2030, but healthcare professions are expected to remain stable because of demand, McKinsey & Co. reported."
-    publishedDateTime: 2023-07-31T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-much-healthcare-jobs-will-be-automated-by-ai.html"
+  - title: "The potential future of open-source generative AI"
+    excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
+    publishedDateTime: 2023-07-31T09:52:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Marketplace
+      domain: marketplace.org
+    quality: 59
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Top 7 Generative AI Courses by AWS"
+    excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
+    publishedDateTime: 2023-07-30T04:43:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-7-Generative-AI-Courses-by-AWS.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Most businesses with AI lead new use cases with it"
+    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
+    publishedDateTime: 2023-07-31T09:45:00Z
+    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
+        width: 1075
+        height: 550
+        isCached: true
+  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
+    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
+    publishedDateTime: 2023-07-28T19:46:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
 
 secured: "7y+tUjRo9i0YheGs7taUjEtoajqWbpK/y6aAAtePKQ/C/zEg8Sk8G47HjwdhNXPrDj6q5+hgIx1ixEXIBEeR/zKFrHYYwnkGdxb085LfOv420inxY2pCO7g5p5DM1pSGQssVGYXr2J5M1gQ4PncRsvh5ko8SdFz7nxgaRVt7xXM4yV/CW8VS8m6+oYuStCShNKPe59IgOv7n6QRLH4JzenQIw3TqVxO6/jgg2OX0FPFVQ0QtCVV5+LiQGkeGGVuvSBh0KnygjBPjAl+vre/guBInYLo98cQ4B61xUsXpTj+/qLAlRdo1baBINii1onZId3tdy0OPmRO1bAsw+2eFxlz+Pp7Ls6pgfmJTIHPhtLtQ4S5wygEx/Jtam8CfRXx8+7/LyVWEYlJROmrk4H78qJbTsR3JqLo4dg3YIxZ6KcVqiKRd1G1Kchcbi3lvzPlT2PJQyA78eG/kCHccqFsuRNhKVwzi7/LmzNH3mHh90t48kauDWWIpQFku7jL+ubo1fXf6OAw1U2DiQLqykpZNhQ==;o0pJ7b12mVEGQ1+CURBAxg=="
 ---

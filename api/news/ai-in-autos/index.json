@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-01-cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts.md",
+      "title": "Cyngn-Arauco Deal Tackles Labor Shortage With Driverless Forklifts",
+      "excerpt": "Tech company Cyngn has stuck a major deal to help logistics giant Arauco deal with labor shortages by providing forklifts that drive themselves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c82903d23dff027cc6f9a9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/",
+      "publishedDateTime": "2023-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-i-drove-the-70000-genesis-gv60-see-inside-the-futuristic-tesla-rival-that-has-facial-recognition-and-a-crystal-ball.md",
       "title": "I drove the $70,000 Genesis GV60: See inside the futuristic Tesla rival that has facial recognition and a crystal ball",
       "excerpt": "The Genesis GV60 is a quirky, premium SUV packed with futuristic tech. It's also super quick and charges fast.",
@@ -1400,49 +1452,6 @@
         "name": "TechRound",
         "domain": "techround.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-forbes-daily-artificial-intelligence-and-what-you-need-to-know.md",
-      "title": "Forbes Daily: Artificial Intelligence And What You Need To Know",
-      "excerpt": "Good morning, Seemingly overnight, artificial intelligence began to dominate public consciousness thanks to the launch of ChatGPT in November. In just two months, the bot had 100 million users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

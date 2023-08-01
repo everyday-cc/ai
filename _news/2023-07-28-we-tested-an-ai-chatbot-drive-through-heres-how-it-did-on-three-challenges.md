@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/
 webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
 type: article
 quality: 64
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
+    publishedDateTime: 2023-08-01T09:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "DoorDash Is Working on an AI Chatbot to Speed Up Food Ordering"
     excerpt: "DoorDash Inc., the US food-delivery service that competes with Uber Technologies Inc. and GrubHub, is looking to speed up ordering and help customers find food options with an artificial intelligence-based chatbot."
     publishedDateTime: 2023-07-27T19:06:00Z
@@ -53,22 +69,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-    publishedDateTime: 2023-08-01T09:32:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 46
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "A Christian Chatbot? How AI Could Transform Bible Study"
     excerpt: "Nils Gulbranson hopes his “Christian ChatGPT,” Biblemate.io, will help believers and non-believers to find answers to life’s"
     publishedDateTime: 2023-07-27T20:00:00Z
@@ -82,6 +82,20 @@ related:
       - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/07/mojahid-mottakin-lmhMI34pPMA-unsplash.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
+    excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
+    publishedDateTime: 2023-08-01T11:32:00Z
+    webUrl: "https://tech.co/news/meta-launch-ai-chatbots"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/03/10073649/AdobeStock_482385584_Editorial_Use_Only-min-scaled-e1678814941370.jpeg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Meta’s next AI play are chatbots called personas"
     excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
@@ -122,6 +136,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Therapy For You Unveils Limbic: An AI-Powered Chatbot Revolutionizing Access to Talking Therapies"
+    excerpt: "Therapy For You, the esteemed NHS Talking Therapies service catering to patients in North East and South East Essex, has recently introduced Limbic to their"
+    publishedDateTime: 2023-08-01T10:26:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/08/01/therapy-for-you-unveils-limbic-an-ai-powered-chatbot-revolutionizing-access-to-talking-therapies/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 21
 
 secured: "q8sX4dhUUkEIsB0c58ovmtgTM1Hw4tB5Xbh/WHiwmfC/e11YzeTXdAdpQbTWFl7cCkxWZ86hpXG7iu+2USSaICEnzTWOQC1JOpDyZVKFh7rquwDzoK9pdezLlEn53TkzFHbqCUfFLQ7Jv0fkq+BTq4gV2npwHNzLmccN9TprpB5+y1Em7XsBgF5lvmjqg+YYTDWsx9veZL5VU1OoDVSK3NKlcdUq3V1wxdNnQ7TcZxDHtFxmNrJwODt/8eV3JphF6F4zupHtUin4jnutE6JiHpGyWYnK29IvE1zWZQS+4MZ2y45325yI5bqLCWidFDbStcnpmDhfuzehrkJjqk4uppMft+NIjUWRzwbwPuu1ffFcZnGScYeC0G46cdKOoIXvsJG/ANRZvWcq9v9tQCZ+JL+WQXvOZAKLzHhlGYQ5AtyNklvuqVO5Ik0CvvnpaOs4Hg793GfQAViCALtL6ypuNqI7kDuGyiob63KbApm+H7ew+WiXpf68UpMdwzsB/cVZj5g8ayA0JH91PtNHKhu/KA==;7O9gHT/h33qC7ouQb72YkQ=="
 ---
