@@ -266,25 +266,34 @@
     },
     {
       "path": "_news/2023-07-25-google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors.md",
-      "title": "Google DeepMind, Strategy Partner, Technology, Claudia van der Salm proposed for election to Greater Than's Board of Directors",
-      "excerpt": "Van der Salm currently holds the position of Strategy Partner, Technology, at Google DeepMind, a unit of Google. Google DeepMind is committed to solving intelligence to advance science and benefit ...",
+      "title": "Google DeepMind, Strategy Partner, Technology, Claudia van der Salm proposed for election to Greater Than’s Board of Directors",
+      "excerpt": "Van der Salm currently holds the position of Strategy Partner, Technology, at Google DeepMind, a unit of Google. Google DeepMind is committed to solving intelligence to advance science and benefit humanity. At Google DeepMind, van der Salm is partnering ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
+      "webUrl": "https://www.di.se/pressreleaser/2023/07/25/greater-than-google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election/",
+      "originalUrl": "https://www.di.se/pressreleaser/2023/07/25/greater-than-google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mb.cision.com/Public/11629/3809400/993d85be7b8339ed_800x800ar.png?interpolation=lanczos-none&crop=1.777778h:h;*,*&crop=w:0.5625w;*,*&output-quality=70",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T06:36:00-07:00",
+      "publishedDateTime": "2023-07-25T04:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "di",
+        "domain": "www.di.se",
         "images": null,
         "publishers": null,
         "authors": null

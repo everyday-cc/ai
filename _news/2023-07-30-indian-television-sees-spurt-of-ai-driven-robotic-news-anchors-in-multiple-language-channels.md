@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "New DeepMind AI model can control robotic actions it was never trained to do"
+    excerpt: "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines."
+    publishedDateTime: 2023-08-01T16:58:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "This Google AI Model can translate commands into real-life action"
     excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
     publishedDateTime: 2023-07-31T14:55:00Z
@@ -100,20 +114,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
         width: 710
         height: 435
-        isCached: true
-  - title: "RT-2: New model translates vision and language into action"
-    excerpt: "Introducing Robotic Transformer 2 (RT-2), a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control, while retaining web-scale capabilities. This work builds upon Robotic Transformer 1 (RT-1),"
-    publishedDateTime: 2023-07-28T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64c28b81ad5efcad99aca86f_rt2_header-min.png"
-        width: 3294
-        height: 2018
         isCached: true
   - title: "Google’s DeepMind AI enables robots to perform novel tasks"
     excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic (the understanding of words and sentences), and visual understanding beyond the robotic data it was exposed to."

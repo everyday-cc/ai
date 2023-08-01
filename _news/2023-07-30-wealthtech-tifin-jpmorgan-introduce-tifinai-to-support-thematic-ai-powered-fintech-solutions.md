@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpm
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,34 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "UK investment minister: GCC trade deal would develop AI, fintech sectors"
-    excerpt: "A free trade agreement (FTA) between the United Kingdom and the Gulf Corporation Council (GCC) should help promote innovation and develop new industries like fintech and artificial intelligence (AI), Britain’s Investment Minister Dominic Johnson has told Al-Monitor."
-    publishedDateTime: 2023-07-28T14:33:00Z
-    webUrl: "https://www.al-monitor.com/originals/2023/07/uk-investment-minister-gcc-trade-deal-would-develop-ai-fintech-sectors"
+  - title: "Two fintech veterans join FairPlay AI's advisory team"
+    excerpt: "Consumer lending and finance experts Kevin Moss and Sarah Elliott come on board as new advisors for FairPlay to support the company's rapid"
+    publishedDateTime: 2023-08-01T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/two-fintech-veterans-join-fairplay-ai-s-advisory-team-1032501045"
     type: article
     provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 38
-    images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-07/dominic.jpeg?h=1d34674f&itok=40DrD_EK"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
-    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
-    publishedDateTime: 2023-08-01T09:40:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 18
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
-        width: 1200
-        height: 765
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "sP34K3ICJWR9r7G5CgRubTqdGGMjqJn4zi0+6P6AIFWs/IP9y6mI5br8XugCmrqCXBws/0KOLqaxV7NS5afqMRpjCnAOLv5T+rdyWaXBaztFUJ6KwpWu8xyOLspJhMRP+aD6ZqkVfsTOUSCI5fgIFLGsvNc9JulStrJ0DXRuDY5s0LVoOXibaHzvDN8QwEyQ7KnncTTkw7wVkihGW6TNe16NarF37EYfVq/bkTRo+vXbefRlYDJG7WLMb+BKtu6jwyxHzSX5de4bOBpBHVxSbwZ+QuKNzejp4UxdlLEo3s6ULSOwSUZCWGN/mB8icityJ4IzgHSyP4SgvcWXCrJdHjV5mMYO7INlg2ZipZoEXzA0nzTVDErY+d2Tu2et8sCLjrI9+b52OZmvas88RvNrb3iyLRmERvb1OiYb7Euqt3O+YcNTAm84+DhtuJcCIIuputP3kkrYstkLZ6tUMG+KbDlXDi5TojoT1kEa+Y9u9UeRz/Ht0Jv/Ym3pwQnh9sNQwhF8tq+tMh6LPQJtPcL8BQ==;I0Pop1nNN1Ru42vXlXOn4Q=="
 ---

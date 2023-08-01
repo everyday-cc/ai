@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "Gen AI to Increase US Production — With Caveats"
+    excerpt: "Discover how businesses use generative AI and automation and how they will affect the future of work, based on McKinsey's report."
+    publishedDateTime: 2023-08-01T17:18:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-and-the-future-of-work/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Workiva integrates generative AI into cloud platform"
+    excerpt: "Workiva announced today it has integrated generative artificial intelligence across its business reporting platform. According to a news release, generative AI gives users the ability to “author, edit,"
+    publishedDateTime: 2023-08-01T15:53:00Z
+    webUrl: "https://www.businessrecord.com/workiva-integrates-generative-ai-into-cloud-platform/"
+    type: article
+    provider:
+      name: businessrecord
+      domain: businessrecord.com
+    quality: 39
+    images:
+      - url: "https://www.businessrecord.com/wp-content/uploads/2022/11/BR_web_311x311.jpeg"
+        width: 311
+        height: 311
+        isCached: true
   - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
     excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
     publishedDateTime: 2023-07-28T19:46:00Z
@@ -40,13 +68,13 @@ related:
       domain: venturebeat.com
     quality: 31
   - title: "Boyd Innovation Will Cool Next-Generation AI Processors"
-    excerpt: "\"AI chip and data center cooling is energy intensive,\" said Boyd CTO Jerry Toth. \"Cooling technology must stay ahead of next-generation processor design to enable innovation. We're doing this with sustainability and carbon footprint reduction in mind.\""
-    publishedDateTime: 2023-08-01T14:18:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/01/9857054.htm"
+    excerpt: "Boyd will cool next-gen AI with innovative liquid cooling technology that will reduce data center energy use, in collaboration with NVIDIA and others."
+    publishedDateTime: 2023-08-01T15:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230801975816/en/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
 
 secured: "9W9vC6fcAnSiJ9UGBiniMGv0HXF63k/wIt5PmUDDuO3kvIF8lCmNtNrJBlDPxN/eugTQCjjv1FDbqcjSnaLBhAaBIa+Nb2LQCE++ODyFGyMdPx3/r1r/LhPNZSe32NEE8b7R3IR4md7BrMZGhLIUi8K6iRJYryQmQlGD1Sodo2dOQ5mn0qKlE6HW++ntVpEIDrSBhekFqvJBO52BGoiP6u41wHbbAUYmbCi2curcisLZkEkrXeFKAjWRlyR9zQculrJrY0knrfQd3+qNYsp04JgbSQJLvSEnHHYelwjB+9MVA0J0EDcHyEmelj3ixNv1FDpgGaGuyWfMo8a7sPezGZWnBlZf1IFbiSh1Q/yiiP6luS20j0sWa9tDs8EODnMnQgnDxyCs+9CJm7VO238uJK/i5+61tv2Yi1DiboQCALo/v39507l7Ip9lBFGN2m6dQ3YQSLpXc3017yRAGXjikccpz9v/1BT/3tRp/+XIO/f2XZLeskJR5Ggil15dq9/VUomcd+Q8z85UE2B09qVPYQ==;CS0qMgtsqV5N3hBiyTdGzg=="

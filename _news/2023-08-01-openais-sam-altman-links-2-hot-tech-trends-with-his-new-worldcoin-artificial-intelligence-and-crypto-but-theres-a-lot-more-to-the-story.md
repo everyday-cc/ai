@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/amp/"
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 840
     height: 559
     isCached: true
-
-related:
-  - title: "My Eyeball Met With Sam Altman’s Crypto AI Scanner"
-    excerpt: "Sam Altman’s imprimatur has given a new lease of life to cryptocurrency Worldcoin, whose orb-shaped iris scanners — key to verifying individuals who can then claim free tokens — are now being pitched as humanity’s future ID system in a world dominated by artificial intelligence."
-    publishedDateTime: 2023-07-27T23:41:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/07/28/crypto-and-ai-my-eyeball-met-with-sam-altman-s-worldcoin-iris-scanner/a06c47f6-2d01-11ee-a948-a5b8a9b62d84_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T7MHEEBNAEI65KKIUW4KTNRNQQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "6tjjB663uaPUtoueEhyJHHDqdCXXA6/5+ojFiqgHYB/mTjUiNYwwmzdnzXv0KrOfhIsAxi1qdBovtEb13ZQgnMjXKOdGg9ZQQ00TqPfqmsweIue3YOfOMnABUqYXMv5QV0ygdTH7utb5RaEz/bnUbeJpNhTjF1Pd6+li/fBhXyHJ5j5S3nZyAlQW1aqyY1X8YQNEMWXTNXXsAHPQOZrhYqOaZrQPJ1ukdGRX215iYh21uCsLc4nasbMx95iQvu7W81QWRycOjZvoRFtBRewtl0Xtzj79JUB+1ijQQMa/eq0qYshBm9qnTANCN817+3X4QAiDTg282Sxtz5qc8/fvDcUnNP3eLYpQWa6KLMLPBMI=;JbIn5KgKFMXYqCmHSrlWGQ=="
 ---

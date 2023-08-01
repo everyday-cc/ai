@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 733
         isCached: true
+  - title: "Predictive or generative AI: Which will change healthcare the most?"
+    excerpt: "Digital health leaders largely agree that predictive analytics has the most potential to improve healthcare, with generative AI a close second. Mayo Clinic is already using both technologies."
+    publishedDateTime: 2023-08-01T15:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/predictive-or-generative-ai-which-will-change-healthcare-the-most.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "/DGLCyYTfZ0lGH7cJm6vlP2yxGw3hIs0rGBjaYuyxJ84tiRbZn1Y0CeK2Bq3sf4zOtvV7z9rO9IDId0KM7fGZZUF+1AeCrhDj1SohhHJaTmWJfxpBYB/6NBOtpK5kwT3hYzR1nV6A3tUfEB0vfdmmGRFpdjdXlLohUcnm93gU513Nxy2BMqOzxRMYEfvqjTYCY8S4KNnfQYvt+toMgEwwEfex+N2xChVmunLpmv9rbYHq8uKv4YT4FfHllqyl8XWsABhWXLyPDLsZ1bQVakI7wwT9V+dsz7SwIgXXtjBiDfvi45md5iuLVwCQfpYVQC11mhu2br2XkestcvS2QvULdinhK6To+SPLSlT4UL/sI0=;SksHbFqw/tEQfGMRsQPE5Q=="
 ---

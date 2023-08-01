@@ -78,15 +78,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 16
-  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
-    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
-    publishedDateTime: 2023-07-28T00:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "S3WbddnbVyNRyRUvN9WCQsI8K1USWaeYZvAq1FM+6QyJPGhLQmBjujl6W0jzTSXOg8chycB9fftMsu+KDMP7Lu11XEI2S6jq4kO60nEZYWRLc6E2l7MYPlcSo6KigQdlggLQKJ04Bnc2dUb3H7r4vmX2WIPlC8DTyJMBu1mysd8sBNFiNVCwbmpMAfTycbfASkaCQozcF8AF5IxO1+NCnT9qfXz046WPDdGSHCO8YtEbzG0qjLl+s5ZMLy66221SiPV3pZB1gguS15QlhjJ1miYdSG2mnbvYMrMM70VD9tW+M1YPb389VMfLxfmvuH8W/oFka/UaEhIXE8Cyb5jLJXhTpD9oZbJkByObQXwC2ps=;tsvaLJHT5uXwRWsPjxWFlw=="
 ---

@@ -44,20 +44,15 @@ related:
         width: 958
         height: 539
         isCached: true
-  - title: "Experts discover workarounds to evade chatbot AI safety rules"
-    excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
-    publishedDateTime: 2023-07-30T03:56:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/experts-discover-workarounds-chatbot-ai-safety"
+  - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
+    excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
+    publishedDateTime: 2023-08-01T17:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-01/uber-is-developing-an-ai-powered-chatbot-to-integrate-into-app"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 37
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "/Q19hHlPFtIW3MBt3gIT5lgLId/9dMbf/zPKNFWmK86h5boMQTwKWFLc7X8YXbpMeDtdbuWHGiWUOcGkwu2Mf0dJyNmQITnYnfgAWUN2GsMj90PSmmDxfqL8moXg3MQPpydz8mYHBrCOSgCFh37WtozZ/RLSkDk46tBJmti1bfu0k/lIIV/eWjquHCIdE4VP/AgwdWK5e+EQ0C6wxVgco4eFlmqHu71xqiOfoFhMgq3FDcetNugBR+ciZamV1mEr0ozaKC5XugwMYK/EKIoac97AZL+fKw+qay8kyOLgCuzj7Q9JT7kq3uuCXk7Am7zO39nWv0oXgjpjOIQQ7t9e4zyuW5U47m0cOoiqkEoAtqFnXSN70m6vUCHVjvvEuxA7ove3+G51FkljaMZAzW27RmJnmbVVjveR4kL462hDIF3xX2H7gIcIa6/tXBoSlZOrCOAUZ/L37oL67hm3xk8AyYOSprotWNu16NqdnXHQaRm1dLmkdUAMymvqy961CQJV2S2DfFRkTF829x8J8gTu+A==;aRkldtOjWjhAgzjsGBycBQ=="
 ---

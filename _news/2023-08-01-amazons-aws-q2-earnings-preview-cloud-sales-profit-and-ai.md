@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cl
 webUrl: "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cloud-sales-profit-and-ai"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 458
     isCached: true
 
-secured: "V3iZVQLSkykK+Pdw0eo7op3ery7sLa4iMFZx6BO96JidEz4vi0gykR+GL/t9ceVchds63SCYZdPge4FuyV0T0QYYaF/8tsEpfLf1ZliH57amvxHZMloyPCRd2GMyXcN0smsyDMg3tfDP0xNLQ040ujI0+jLavWd+pgW3CS4GvX2qXF3qYCaXMDbcwxu5QG02ZxIJLFtG0WGXIabKcqpAX7dxyyhtan/rNxvCplG4vNj/+QW1MPAq0571vL464gkHdFzk0lGgziB935VB7wqLK0n080z7LBKcw5lMNRIrLnXeKC1GD8lEu+YMQxmNTK2LYe/vaDP3Y7O/kBSkfm04wbZaZqTj8nUXpwuxD5Ogzuc=;lxaCQDcwHC+r6D2PtBzkFg=="
+related:
+  - title: "Qualcomm Earnings Preview: Poised To Outperform Despite Chip Excess Concerns, Analyst Predicts"
+    excerpt: "Chatterjee maintained his \"favorable view\" of Qualcomm, despite concerns of chip excess and a potential decrease in chip prices that could hurt gross margins, adding that the company’s performance is set to outperform investor expectations."
+    publishedDateTime: 2023-08-01T16:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qualcomm-earnings-preview-poised-to-outperform-despite-chip-excess-concerns-analyst-predicts-1032501831"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/qualcomm_shutter5.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+
+secured: "14XqI+0qds8gRvThchLpQxGhpVgiXCsqUNTm8FiVti2A7kF7PUqnITq41ZGutQUnLQ7MgAvZUEDgAGI8HqEVgzbx9SVYmobLrxTVmL9Qct4Ilzj9Bfr2Q5HvEbuGvLrl5R5M1/SxqLyEGF/yb3xZwiRIVnenDPFbKdnDloLWEVkRN43RhiHA9ns6QHk/AUg2HcrPOq2n/9KdGxXFjqWEZB4K+ibtz2QrFIKmTb1CNNlGqMtEVFg3/YcbGakosZdZPBXrV1TxBfasZ2ytff2fzFSNUgr29MQRDwUDVStafQkmaB6bU6bywj810+8EV5hx33pfjd7IG18ekDqyLID5BhtgvYQ4ZyuYQwgHA3IP1+UNI0cEnUnP3ItWhaPJ0teKN65k9IenP79wWGyrV++ZJeo3+AMoq8/b9hjqKk/8bQCMUELA7SWfaXDk4swUNNrJqV2v5rMXTdnA3Yj6zVIm50/lAr3iD8fgJ6NF8B3IsecaRMRsbUtLeYfZ5ZTqAPbmGgdnUCXXhlNRov8p9XzOPw==;5HDycaASD3t1n+LhPqH4Bw=="
 ---
 

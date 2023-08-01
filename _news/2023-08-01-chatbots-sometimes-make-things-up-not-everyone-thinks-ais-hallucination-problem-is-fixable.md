@@ -92,7 +92,21 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-01T17:36:00Z
+    webUrl: "https://www.columbian.com/news/2023/aug/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 26
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679-e3523.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
-secured: "GfpP7l4xYtBUPbBwZQvK0dD5NkCsSys/uOB72Uo6sTmKi2YG06PUfH0DQivdDuqSSSeYZOHxKSsznqs/z5pxAU8ZfXS8FFg2PSHAN4qKC31xxwjSAFzDml3bFUSuO1+JpN1QQ4VvrOWmVF+lDZBOCVAuvhjYVLdlrYdCCfOh5AKgXOvTSD8Y205aaYri+aQsYjXSRUpUN8s/Anf4Dc5T7k3Ve9D2dNcqA/6AeyxazqivHj2t9IEvVOsnDN3dxtaYBudjW7GbeSPcTSdh17GFqvU/tUdf2fEyyRmVfLhgZ7l4ntd7bRsqTf6vZTwZ9F1xQ/zj0FLLPZlAozRoY8q4KzP+vhXp6XVKkt/ClK7nj/0=;uUnZQE4+qBoSPj05WXHPMw=="
+secured: "zrSYM328ecqAX8bepZmmSdg645YYqd1c5gcer98DnPXHsL+n56nFXaj1X7P68M+7qO8LEHPjFowvbB/UTBvBCmuVv5M0iZszeenY3hM6oy3SS4YGvnZZwRHgpjNsLf8E5nTflik2HxrIZolcLXrLelOD7EJg1Lzdr7KCsVwbx2X7p6dYwCBWEn2nxeZwLFOHfKPXfWPRDxB190u2b1Vb4W6w6sN6iaTSDCzUxKG81+9/8w2rBYvrQLUptYM8Cu8VeuniarO/kvKXzd9qTuHv0g3ZFEUDCkkXPcocJ7jr7VevoEnlVBkG9cOsIN1ZjGIGNsSbZIGsqoPfXvo37tq93hLvyX5jesoULxElAdqA99zfejwirsjidKp1ZvhmGexx2uQlGyIYKugTbhqWfptkK8wPh6EisV0FaOnaL70C1x/40p7iA2zi3z1DHbbtxDVfqmh838Qj69N+LWIQLInc9yc18JlMBgSLtFMAQS3I6/AcDYRZ9E9pDdaWJsUHkeyG61ps4DcHNReFx7+eOCUupA==;K1eNKxTTfqD2vglBZBhhgA=="
 ---
 

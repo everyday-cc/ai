@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Doubles Down On Generative AI, Announcing Copilot Pricing And New Generative AI Skills"
+    excerpt: "Microsoft announced new pricing and features for its Copilot along with Bing search enterprise. A look at Microsoft's AI strategy and its competitive outlook."
+    publishedDateTime: 2023-08-01T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91b9ff21e65c88869db65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "OpenAI, Microsoft, Google, Anthropic Launch Frontier Model Forum to Promote Safe AI"
     excerpt: "The forum's goal is to establish \"guardrails\" to mitigate the risk of AI. Learn about the group's four core objectives, as well as the criteria for membership."
     publishedDateTime: 2023-07-28T21:28:00Z

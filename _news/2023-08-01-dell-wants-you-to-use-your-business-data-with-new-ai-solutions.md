@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube's new AI feature helps you decide what to watch next"
+    excerpt: "If a new feature from YouTube tests well, AI could help you decide what video to watch next."
+    publishedDateTime: 2023-08-01T16:38:00Z
+    webUrl: "https://www.zdnet.com/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b04de20ea290e1a10b49931bd2b4352863418b0b/2023/08/01/7edbe9b7-6de6-456a-af39-13519564b236/gettyimages-1530252654.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google's New AI Tech Lets You Command Robots to Throw Away Your Trash"
     excerpt: "Google is looking to help you use natural language to control robots, with technology that's like the systems powering Bard and ChatGPT."
     publishedDateTime: 2023-07-29T00:34:00Z
@@ -38,6 +54,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/6fe30042173d42762ddc73ffea1cf4b6312c5576/hub/2022/08/16/cb482315-de25-45c7-b325-a03a0a3ea9ee/20220811-google-palm-saycan-robot-03.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "YouTube Is Letting AI Write Video Summaries"
+    excerpt: "YouTube is experimenting with allowing an AI to generate summaries for videos. As Android Police reports, the experiment was mentioned in a YouTube support post from 2019, which regularly gets updated as new features are tested. The latest update, dated July 31, is explained as follows:"
+    publishedDateTime: 2023-08-01T13:40:00Z
+    webUrl: "https://www.pcmag.com/news/youtube-is-letting-ai-write-video-summaries"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/039pYfEp75BJWT7mBKjej5z-1.fit_lim.size_1200x630.v1690896925.jpg"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "DlH6OQa7Vhu7pPH3hsno2i6AloCJ3l70XU4q8uYlPlhJlDCW6qHmxEZWBIstCobwBzoLf/g5GwHEHWhWIbOtEyHRjitKtvEDznQfSl8CTwIV9hMGvR4o3m+xCap/KnhvRmFb32lkwd4cE433NU3BdANJYYHw/XctirI9PTfCzFDQNO2ZNDXIaCTAqqD2VzmhVl4yi9It+yoSEYFs71YQf+uaDwGglmlI4iEcIaXY/SMDADTyUN15P4MBFw533lN10aiAjDCcwhYiMBJLi4Pac1PekLy1w4UsGYTxD6m2V9ERxrdYjFcl5TPPcqCMLRS7pLi0BfWB40IdDkGRXH70mXMFA0oQQIwaX8+u+6G5EcepZCaSST5ciOKdJwIrjvpZLgpGw9R+l0efP4EHrUxuZNoNF0givhCIScQMwvtlep1XHBsUPJyhzMTKP23GtxYI5Pgg5Lrc9bntQPy/5dtUddALdOAgvAwHW3KopuN6aiTdUYfcNX40YwpAmfD+Ha6b/hyEoZfvFgXxw+JLe0Hxzg==;EBO3bOrf1nPBfHQ4bhyEDA=="

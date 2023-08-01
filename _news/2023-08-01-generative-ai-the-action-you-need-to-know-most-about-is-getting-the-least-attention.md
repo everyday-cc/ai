@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Predictive or generative AI: Which will change healthcare the most?"
+    excerpt: "Digital health leaders largely agree that predictive analytics has the most potential to improve healthcare, with generative AI a close second. Mayo Clinic is already using both technologies."
+    publishedDateTime: 2023-08-01T15:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/predictive-or-generative-ai-which-will-change-healthcare-the-most.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Hallucination, Fake References: Cautionary Tale About AI-Generated Abstracts"
     excerpt: "\"The ethics of using AI LLMs [language-learning models] to assist with academic writing will surely be spelled out in future editorials and debates. At the very least, we suggest that scientific journals incorporate questions about the use of AI LLM ..."
     publishedDateTime: 2023-07-28T14:53:00Z

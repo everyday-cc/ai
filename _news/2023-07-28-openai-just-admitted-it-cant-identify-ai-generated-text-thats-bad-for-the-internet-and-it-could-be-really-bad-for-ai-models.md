@@ -30,47 +30,38 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Can’t Read Body Language . . . Yet"
-    excerpt: "A computer can detect the slightest microexpression, but when it comes to decoding the nuances of body language, technology has a long way to go."
-    publishedDateTime: 2023-07-27T23:30:00Z
-    webUrl: "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/"
-    ampWebUrl: "https://www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolkinseygoman/2023/07/27/why-ai-cant-read-body-language----yet/amp/"
+  - title: "That sports broadcaster you hear could be AI"
+    excerpt: "AI commentary was introduced in at least three major sports tournaments, including the Masters golf and Wimbledon tennis tournaments, for the first time this year."
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.nbcnews.com/tech/innovation/us-open-ai-sports-commentary-masters-wimbledon-rcna95244"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna95244"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95244"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2f7b3c4a08b76f316a7fe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 751
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230724-ai-sports-announcing-social-cs-accdf0.jpg"
+        width: 2500
+        height: 1400
         isCached: true
-  - title: "A jargon-free explanation of how AI large language models work"
-    excerpt: "One reason for this is the unusual way these systems were developed. Conventional software is created by human programmers, who give computers explicit, step-by-step instructions. By contrast, ChatGPT is built on a neural network that was trained using billions of words of ordinary language."
-    publishedDateTime: 2023-07-31T11:00:00Z
-    webUrl: "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/"
-    ampWebUrl: "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/"
+  - title: "Six ways that AI could change politics"
+    excerpt: "A new era of AI-powered domestic politics may be coming. Watch for these milestones to know when it’s arrived."
+    publishedDateTime: 2023-07-28T08:30:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/28/1076756/six-ways-that-ai-could-change-politics/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/28/1076756/six-ways-that-ai-could-change-politics/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/28/1076756/six-ways-that-ai-could-change-politics/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/LLM-cat-vector-space-1-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/230724_AIpolitics.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Demonstrating Why AI Can’t Do High-Quality Translation"
-    excerpt: "With all the excitement and anxiety about AI soon matching or exceeding human intelligence, it turns out that AI hasn’t actually made much progress since the 1950s."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2023/07/28/demonstrating-why-ai-cant-do-high-quality-translation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "ctWUMUWbT6iG5FfJC5H2Ptv7mGkRG3EYAl/OQz+U03FGgkwBuzhvKgdP9WUG72dBYJK8Xs7L2Uchp5bxWyWB5wIG9Q7uD+14DDlaoRefQzSfjlUOXovA/EVzvyNiKC/SCSvjzpWpv0MhfxPBW/dTWddedLMGu5m/t/x1/MSm5+NLUx0wVWTfA9Po1/WN546Quy47a2rJ+0rmZwTGZEh5lPJeSp6ZX5v9MVSGvCk19hXsi4vrHYsSTGBUm8yb8eDx4oU9PsxTITZSkqKF+T/ybOKeb27G5LvrJh2EK/mahbDyNugLrxHLLtsbPxDMopWVIRdXcJYPcmkvS6NjUmt8f8ysJu3jn7hL+fYi57m9wA1ip/JEbG513Bi3LR1rBuAi50A+dDPlfrn5yoIzt6BHsiheoGIEOTiNcg3Lw4K6/ztvyo8qJiY1qYHBazQ4p6TlG0Kh9wirwwuqFkB+EiMTo1GA/z7UHQmLllVz2cMJiMZBDAk13uFomJxeKwEASBaZ9cDcri2yQoUaR8pnmQaloA==;J+ZF3iUGpffNx9ck/klfcA=="
 ---

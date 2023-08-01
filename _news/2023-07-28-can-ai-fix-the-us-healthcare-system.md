@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healt
 webUrl: "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/"
 type: article
 quality: 64
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -37,29 +37,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Unveiling The Future Of Healthcare With Advanced Health Information Technology System"
-    excerpt: "Welcome to a world where cutting-edge technology is transforming the way we receive healthcare! In this blog post, we delve into the realm of advanced health information technology systems and unveil how they are revolutionizing the future of healthcare."
-    publishedDateTime: 2023-07-31T10:28:00Z
-    webUrl: "https://techbullion.com/unveiling-the-future-of-healthcare-with-advanced-health-information-technology-system/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/Medical.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Would You Trust Tesla's Self-Driving System? Read This!"
-    excerpt: "Tesla's self-driving system has been criticized repeatedly over the years. One group calling for a ban on Tesla's Full Self-Driving software is The Dawn Project, a nonprofit group founded by Dan O'Dowd. It's campaigning to get Congress to ban it."
-    publishedDateTime: 2023-07-28T00:26:00Z
-    webUrl: "https://www.timesunion.com/news/article/would-you-trust-tesla-s-self-driving-system-18265021.php?IPID=Times-Union-cars-headlines"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 19
 
 secured: "q56MXTKoG7QNaAGtZ4gqv7YytVLlvMZHHYDnIOt5PNMUFOjUo5dDH1j/0UDRLpeOrCJ+9I4/fxa7bmkwB0OpHw0F+qhVf7RDKgloJkLILYLUcaQDt7J4Kj8OmcmHJZnA7flNFNVvBC2zM0nenf40kRQx21Bh7sadOLLjPoeSj8TlqVk6lNusx8jKLwytdo/kBv8PiNtGq1AZMzuL/kyRudZr1LxpVEJdx4dcnVPjoDP7zkeUyriC+fO9OfOAr+AWVOdHuKx14Y88VplbR6b0YF2GijOpuey/DK9gM1iCNS9hmyt0VZ8I08/kONaOLngujPE2gpMTHLD3gSoTWRi4M2a2WwvPbzyJ0bJQUTzFNIXqNFd8BblysUCfo5j7A3K1khiwhN3AsWxVxUQhNJ+WIO+/YzfEexTXJh5Eoplvy7675IJny8dNGZ14DFVB0jf3DCYFH5i7RK9rdDKYxY0R3u9SJ72pXI2+xLzgQmHSZ4HRQBqn4/Y4a8iZRupP/cDulJfBXKeulWcXBm/foF1+NQ==;pljZnNlxP9Ux7nh4fM7jtw=="
 ---

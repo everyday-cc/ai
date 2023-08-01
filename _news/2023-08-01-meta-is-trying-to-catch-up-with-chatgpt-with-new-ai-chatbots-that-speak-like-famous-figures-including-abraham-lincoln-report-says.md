@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/meta-exploring-launch-ai-chatbots-im
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-exploring-launch-ai-chatbots-imitate-abraham-lincoln-2023-8?amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,65 @@ images:
     isCached: true
 
 related:
-  - title: "Meta is secretly building an AI chatbot with the personality of Abraham Lincoln"
-    excerpt: "Facebook owner Meta is working on a ChatGPT-style chatbot with the personality of Abraham Lincoln, according to reports. The new AI bot is part of a series of prototypes under development at the tech giant,"
-    publishedDateTime: 2023-08-01T15:55:00Z
-    webUrl: "https://www.aol.com/meta-secretly-building-ai-chatbot-125516915.html"
+  - title: "Chatbots can make things up. Can we fix AI’s hallucination problem?"
+    excerpt: "Builders of AI systems known as large language models say they're working to make them more truthful. But some experts say the problem isn't fixable."
+    publishedDateTime: 2023-08-01T15:35:00Z
+    webUrl: "https://www.pbs.org/newshour/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
+      name: PBS
+      domain: pbs.org
+    quality: 59
     images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/99c671e56e0896c576f4ea8b54d663f5"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/2023-06-16T114756Z_523881915_RC2AK1A00IA9_RTRMADP_3_BILL-GATES-CHINA-XI-AI-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain"
+    publishedDateTime: 2023-08-01T16:32:00Z
+    webUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/"
+    ampWebUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 56
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Experts discover workarounds to evade chatbot AI safety rules"
+    excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
+    publishedDateTime: 2023-07-30T03:56:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/experts-discover-workarounds-chatbot-ai-safety"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 37
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
         width: 1200
-        height: 900
+        height: 630
+        isCached: true
+  - title: "Tue. 10:18 a.m.: Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout"
+    publishedDateTime: 2023-08-01T16:08:00Z
+    webUrl: "https://www.tribtoday.com/news/latest-news/2023/08/tue-1018-a-m-chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    type: article
+    provider:
+      name: Tribune Chronicle
+      domain: tribtoday.com
+    quality: 20
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2023/08/01101716/AP23212720406679-750x500.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "kY+DJgEhs0ZIYI/6QVSQyqbwQvRRP0sBNB+nhx+69DR/+rWb/DBs96GJ9Udbw5PIZW6r+CYO4GNwrS+TxBeH54PIAeO8zH7bT4DfZ/WR34O5MEM3RzKMx0ni+lZlj44zIfrfonjYwAP770s/nHu3VTFDjv/ti/ohsQHRgsGzEVxJTU8VsW1HSl7gf1vMN2Du+hjhFsaVNHEuSrGR5jRoZod5D9iJI00+J9KWB0qj1uE1c2XUTS1r8GBdkyy4MqF+zcGoULi9ZMNFgdXAX5qEa/7mn1qPN9uYSVU5RBcaeCK+uWEmu1Atqi8MDcTGmg1U+LPw779xrLH/SAomJN4uQuHODoXfcK2bFPDUNce6ALk=;kvsSR0v6WqDhzkxeMXQuYA=="

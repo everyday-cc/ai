@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
-    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
-    publishedDateTime: 2023-07-28T00:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "yVXiaSGp6x5tPBqDD2iYUjtUDZKflysI6djknO0ujA15QCOaoLboI0sMswTNbcnQZ5i3NxZEr0hlJwJ6iFJ25VtkCt0mwoOXahfaUZwi007ywv6frdq3W59zvBQ+5rbktafC78bRsY7ZM5OVhGzCh/qC6oJvdRQvNr6QrjTBVvfVsX9D7eWvTOp1wk94O6jgQOY0wadpATdknQdcyL17SYURrRDH7r5HC3W3u7Hn2jD0rao7KsAcsbOio4GvKHFjt0f2LpE7PTIJ0bMtOaWDo+F+QEboziKbGvXHguka6mU2o0Ie/QM86EnvkX8zDbB86iMMj4hjr7/dT8yaerpoTAOyhtjnU+yTXYngdVZTXsa/WYGPOudFfaTJqLDcMvEdfIIjZ/nRcVgvxmdD8UpxMRLWx7PsL5ZXpWd+N3FsICgmk9bEX09gsSyTssToUIITeGNZk6EtlYt35tn/OJbZmTHvls9hFf4CjgRqzxLLxBMMpFHaogm06F6ILMr6+b2Ce3pHHRu2P4n5pLGMSAmtOg==;vZZVeejj7S7qji4gST8BSQ=="
 ---

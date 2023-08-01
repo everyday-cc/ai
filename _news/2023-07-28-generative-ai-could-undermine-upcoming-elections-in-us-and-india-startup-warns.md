@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midj
 webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 16
-  - title: "Promotion of innovation, start-ups helped India shine globally: Yogi"
-    excerpt: "Emphasising on the role of technology in the 21st century, CM Yogi Adityanath said India had made a name for itself on global platform due to its work"
-    publishedDateTime: 2023-07-28T00:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/promotion-of-innovation-start-ups-helped-india-shine-globally-yogi/articleshow/102184985.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "qBlhbR7DBb+Vz04W13GielkODKMTZ3Zds4dyeuBB18vA3ByTN6tWwfq3Qcp1CZbvGJFXoOjYjLx+cD5xF9DCsQZHOrKxEcQW5j/ISHSN4cYzErLmGgAdUQxfjgKI/DziSrh7nfgcqYjyc92j5uU1tWmuUQIQK5BaEYbJpYJ97cvluZtl0vA7jMy4qoS19vppaXOx3sy0R5USK2t9kmpDejhs+dneVvF46Olpxs6n6oJ2zz5xn+IiK100XsWc+Vpik4j31JO3gHJhR+xQCgoRw0HQJ2EGljA+x/ZVzxVAsHBzoKt1VjgaM1UOP7CS64Ie+Wduqz4DEXH9lKRXdydEYmB4zyMBvb3d6GwdAzWEq4MXD4Yv3i34Ov81RhT1IOwV7f1WF8u6v8Ya8oJtMpImO2GIoPQzwHSPjigR/EASuYnZAjWGFKtjba+pQ24ejMc18boyIsU+Let9236iX9eH26h3nqYu8Ohpwe9B3vGhDcOdjajCvKkQVumByMLYCiUoqhgHUjtw48ekAI31BDkVzA==;/24ySamedzWXie8SZbl8Cg=="
 ---

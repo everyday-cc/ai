@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Google DeepMind enables robots to perform novel tasks"
-excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
-publishedDateTime: 2023-07-29T08:12:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic"
+publishedDateTime: 2023-07-29T05:12:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1443308.html"
+webUrl: "https://www.prokerala.com/news/articles/a1443308.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1443308.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1443308.html?amp=1"
 type: article
-quality: 76
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
-  - AI in Robotics
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
-    width: 600
-    height: 450
+  - url: "https://www.prokerala.com/news/photos/imgs/1200/google-deepmind-enables-robots-to-perform-novel-tasks-1621209.jpg"
+    width: 1200
+    height: 735
     isCached: true
 
 related:
@@ -103,6 +102,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "bag/KIwOsTkkge2pTYKnrB1dGABpTYEz4dETvVIDV6S/bV+JoW3o1SVZOZ5mX6S201jLcwVLpIY8QEqFAyaD2JvkGhYLkBNAyHLmZ8SL0B1Vay64+DEMg6H9m3Q9msQQLvNJnIAwCil52reSqywhXnwp34vFb3rDVSRBo+G5BL0C6DHDWVOFY0U77asyHdR9yb248Io2sK75T5AD6rhXq0ZP4PwIuAqFYT2Iy5TZOw16yCOz1VDnnnk/inTl9/mtW2ouhq/qnJRIIIs7FYNt8fKTf6gf6o+O5BK9l7no3AOghlJ8m020Oq1n56HtToFz+DsnU7I3tqpIH0zhpP+V5HAsyLi/AiTj2RdLh+TYrT0=;2/T5YWFj78b854d5UwdU+g=="
+secured: "DZaT+S6EfKMC0ER5z0OT+b4FI5vBa7gAO5ZFLzZ0uyUprPuT3jLthuUgH2tiFLlOyFU0cr+JaWDF2AEjDT2N7lAtcyni9JXDbBhu73lbGEmMA6CZLMGbv4MxgXbcZj5iyXlFLT6ErwnZlh7RuHxezt5AZP7gUmUrokbueBteHuPvHahHukNN22B6JsNHxlUB8pz+VHL7iTwxR0KayvThPsxW03Ixs7N5d57DJ9cHHMp9xQoyPeXTmi3dBRusZGY9XxBXq1L0BAGLGsZRODMG23UmjvdMF6vnxa7gpznRqm8VPvS5p+vZrSPbbRc4TD5lW4brZrUS9/ZFFnft5Eex4CNXxtkPdBbk/MYgF1egeLY=;UWD3N9kMu6EU371roISWJw=="
 ---
 

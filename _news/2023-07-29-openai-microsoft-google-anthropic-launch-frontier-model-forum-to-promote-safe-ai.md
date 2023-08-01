@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Doubles Down On Generative AI, Announcing Copilot Pricing And New Generative AI Skills"
+    excerpt: "Microsoft announced new pricing and features for its Copilot along with Bing search enterprise. A look at Microsoft's AI strategy and its competitive outlook."
+    publishedDateTime: 2023-08-01T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91b9ff21e65c88869db65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI Is Impacting DevOps"
     excerpt: "There are some unique aspects of DevOps that make it uniquely adaptable to AI augmentation. Because code is ultimately language, and large language models (LLMs) are the heart of GPT functionality, LLMs and GPTs are especially well suited toward capabilities like code generation."
     publishedDateTime: 2023-07-28T11:30:00Z

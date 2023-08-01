@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-cr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/generative-ai-development-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Icertis Brings Generative AI to Enterprise Contracting with Delivery of First Contract Intelligence Copilots"
+    excerpt: "PRNewswire Bellevue Washington [US] August 1 Icertishas deliveredIcertis Contract Intelligence ICI Copilots the first generative AI applications for enterprise contract management Built on IcertisExpl"
+    publishedDateTime: 2023-08-01T17:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273917243/icertis-brings-generative-ai-to-enterprise-contracting-with-delivery-of-first-contract-intelligence-copilots"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 20
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ZDdhZTFiZDEtZWY.jpg"
+        width: 630
+        height: 473
         isCached: true
 
 secured: "L+2PLd+CF1QKnS4pnu5XF9dLUszlOMnUTI+aXDO9QMKPAU0qjH/DANSQgbyQCN2ELkowfKDJpHjzWvCGREWDUlUiHJx1/Fsc9tMtMJFS/8vJpQ5z2dBnIHa1V7bA9nMJKx0Tr0b9/cP81O1eiCFpWBc+hunJVK0vAqIsACbrBkK4fE88KLaAEHImJhuLS9idClpR20xuU4/uBEjAUmhNPkV58eeo3idwTzFDPGMu7LgWoz4uAzrjA5sffWX0aK4KTH4YxQWWuSFxVNoGj4qAG/FwKlsiJSPu1t37BrMSZN8EYcfOBuhk+W0PXtNsLOyY4DkG+4MaVi1H6ci/rMYxgSE400uYHY/hjXSTtqmb4RQ=;ORvJffk4J+qcNKVxvUuEQQ=="

@@ -41,15 +41,6 @@ related:
         width: 1817
         height: 2025
         isCached: true
-  - title: "Skin cancer diagnosis: reinforcement learning for improved performance of artificial intelligence explored"
-    excerpt: "Artificial intelligence (AI) is already being used to diagnose skin cancer, but it cannot (yet) keep pace with the complex decision-making of doctors in practice. An international research team led by Harald Kittler of MedUni Vienna has now explored a learning method in which greater accuracy in AI results can be achieved by incorporating human decision-making criteria."
-    publishedDateTime: 2023-07-27T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/997042"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 1
 
 secured: "D/gb5mySEPK1OkFRpD+v2lyQVSsJrXCbVujCT+Acs5XdIcwWt81p9wh46A1WJmWhcChHGtDj6o9CQ0WhmhEd4d332NsndZMl41C7EHCd9yiy5gb3E1Bu3trzdtKnX8Hmoq7mVVrL7VF7AzpsmgPs3tHvinPtgI9JhO4vNz25kUSYVKqAb9ndPX9LfVIBZnAl9KqpUDdb94HqrLykX50GiyzAc4loTE7z0OC8jNzOMgeeGaCh0sq/d77yWDs6eiw5sJkxPftBUcvf2Cb/fE2GfleAaPZ9hkoWs2LtoI9pJCN3tUOIglzqvBpIv6pwr0/wb0elAh0brCyJmZGvS27+7wB+58juuo9iVLFBHPw0qp4=;UPA+MTKIe+vCUE4FOuaxfA=="
 ---

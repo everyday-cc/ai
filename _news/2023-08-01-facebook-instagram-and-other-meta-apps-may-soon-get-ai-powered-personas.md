@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Researchers highlight ethical issues for developing future AI assistants"
+    excerpt: "Most people use voice assistant technologies like Alexa or Google Assistant for list making and quick weather updates. But imagine if these technologies could do much more—summarize doctor's appointments,"
+    publishedDateTime: 2023-08-01T16:10:00Z
+    webUrl: "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 73
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-highlight.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "AI images on Instagram; Meta chatbot plans create privacy and misinformation fears"
     excerpt: "“Once users interact with a chatbot, it really exposes much more of their data to the company, so that the company can do anything they want with that data,” said Ravit Dotan, an AI ethics adviser and co-founder of the Collaborative AI Responsibility lab at the University of Pittsburgh."
     publishedDateTime: 2023-08-01T13:11:00Z

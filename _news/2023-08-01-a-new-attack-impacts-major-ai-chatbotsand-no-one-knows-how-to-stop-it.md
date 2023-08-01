@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-adversarial-attacks/"
 webUrl: "https://www.wired.com/story/ai-adversarial-attacks/"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -97,7 +97,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-01T17:36:00Z
+    webUrl: "https://www.columbian.com/news/2023/aug/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 26
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679-e3523.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
-secured: "v9oFAlGx5C5oofOqzo+Q06zN0NTqnsqF8U10he6KNpEdVyEl/Fy9tkM8dq38A/9vgZ/7rdLAsB6v6zUwzODR3nGJERhnyvWLal17ovPOFwgSADiyH1Mozd2Tpg6d4ArpwO63K4t8696s6GUhYZmOhJh9LE/VsUvJullebWouK9KnYZDJC6iAMgenZ8Ckm1f0IbyJzgijxqVG/Wk5jrbUnDk+ituxOZziOBfEDLCOWfvgEkfIadCnkqTEijN61kiqi4/IOPAhLJLyjonKFIqzvpzXMMRghyZUZonWykTLHfZvUhlRwY89+eq3yq/Ol/NPXoCvNqevx0R2scsouToUDIC5LR9Hkv7jTr5HAr2kpcQ=;L0ImsWNqAUmBWADfXdoUMg=="
+secured: "TBrtahezLcwU7sryvrnB0z270+wTYid5JngaFZQd1o4wv35XGGTEZ2aNoxBDWUpaG/QRQ6auy/WaNXLkm1O0rLll/A4e1VOf7Tj2amidkRQKeYKSEy0F0WP12cibhtUzwl06pOxqhcrgVx2Jw1oImt9OdbGuaV46pehZXtl0Z1xAznd7TUqNoRezXocIWU3O+xUlPC/J9JVnTYEbR3Rrt5nfQG9YZTayoNw8mCHcxfzqC0zmL8D1qzYJmAPDnJ6fSj+g1vieR3l7w3tNn9d5kmkBdb6fvXULisgZgJBW2eL10snJdcxVxlEmB0/6iGw5H5Du1NZmRYQ0GNiDRijCWruShIZX81LC6i7jLqyfiZpynvBwQWvqG+5OZiK54GvyWiWDxFkHhPGHULn3GnIP8vqA2WPTZI+BeF4eT1k3+kllu38i4OxCne+ozWOTS1hGAg2j4YeLgDdn1YzXDEZP83r+1yyk7zBylBwdsQMgtNMbovMhDy3ZNycZB2VfdRAbmdiYqL5cGOtguc06uMh2SQ==;jwhsQY4ZbkR2vvKgjy5Keg=="
 ---
 

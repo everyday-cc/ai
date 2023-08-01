@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Icertis Brings Generative AI to Enterprise Contracting with Delivery of First Contract Intelligence Copilots"
+    excerpt: "PRNewswire Bellevue Washington [US] August 1 Icertishas deliveredIcertis Contract Intelligence ICI Copilots the first generative AI applications for enterprise contract management Built on IcertisExpl"
+    publishedDateTime: 2023-08-01T17:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273917243/icertis-brings-generative-ai-to-enterprise-contracting-with-delivery-of-first-contract-intelligence-copilots"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 20
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ZDdhZTFiZDEtZWY.jpg"
+        width: 630
+        height: 473
+        isCached: true
 
 secured: "I8DU+yiEFGCvbAA/Bu0hi5dmQoQggTTMj0yWrwfHTn9Iu9QpLNkqLkFFxT2EhEq38FLjFDJxJgg+CmOdPZn3yLtf2u8Adf1Ngoo49rQaRFEKiDtFyvXuXce4nUx3NfP0SHlW75ClJyV3LnGm4T5jdCAp1re1GtZnAGvPfqgdWOlYIvprgi/pzelaJI0OM6IxCibwmXPeY2m6osF+FDc4pewAim3mxOTq8SqgsqkpjCBE2IoZKtPpInx1vSdgZsBrYwYdkihOGogWXA9Fvw2c3JDwwYfXoz4TOhg8l9V23d0M5GKJIbCu49NOX+tyIc6knMWZCFItFOorcZwfOetkFplV9klz8eY2lN2NW8Pi1Ls=;HwgOESEpTvQ+xekxpmd4qw=="
 ---

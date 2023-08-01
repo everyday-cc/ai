@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.ht
 ampWebUrl: "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp"
 type: article
-quality: 52
-heat: 52
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-computer-vision-base.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1159
     isCached: true
 
-secured: "ocoJCSyYldDTDaevaPyWztD+HGn72RpaazWE5+68Y2CRoeWctWVIi+w4W1Pvt5oTXwqfPU2/X1mx5uVU652TaJMf7rRW/dEF7j2GvLr68OfSspHDhbRlnQdbjvH4zX+sfc6tggVXUaoBEheP1sm5Nke5f4Qv6CJ7Db7vOks/JfMHsIhztZgpCWgFwB80TYep5EYJEoqRk8Q8UYvw9pMMpagEIanKQ5dtSqBSWF0aRyeebmgpeY4hjF8u2DaCfcEWfDXuEve0gC7ciOOurGbZMKx5fkMNRK+ybwyDuOV2esVQ+E9oeXIs8y0vE/ZI6+bBJPp+iBqOa5acpSu1+FL0M6pgzBeN5Ru9jANiXbutqas=;WbKluZyx6avpbb0U4217nw=="
+secured: "Tixnl8FItiOWfQONmNzBLQLwIV6j5tJ/XSJCjFc/mPOd0hTFlwVQliy59A+mI6mSQIv9mcsVCrXKQ0ZimzUC6q38u/Hc2BsY8xpNzYhsp/5v0KDyzbJ7tpfTzi1BOkQGgjwF9/MxBwOqQu2Pe5BU2nIIRyTG2Um7N1qdfVypxGxRxWoEvjEPg9XiDh2Wjo/XlQ6PmuPjJdixzRiUg1WtM8Tw/z+0+Mr//JH6+1WNZluAdVpFqKs17htmGAAJFVdl3S6MUmczSHMK0hb5dQXqflsCegvDfTKvTAQU3cbEYZTxJ17H5Zmdocg7M/T6wcH3XE/AVkDUsqsKrZbRKbeDT9qKNQXSQKpUNseG/TjNpWc+UutV9dfUIOueOrw2EGBYiT73f1cvIfyoa9Wn9Oky+q/A99RwO3hJFcVlKP9OP0fPpDxyGWh0z4vEnIXvNMCMsGegLhfxNnw0L1Gt/X72p3NGwWX/0+V0fn/hyQTLaotQrr3enrAZA8hR3yIzbdiKLx4VzW0x9Xk2LiNPUHXlJg==;svQn+aMVBhUlJMvPLdJUnQ=="
 ---
 

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition technology for pensioners soon"
-    excerpt: "The Department of Treasuries Accounts and Lotteries, Himachal Pradesh, has decided to introduce face recognition technology for the pensioners of the state government so that they can easily submit their life certificate through ‘Jeevan Pramaan’ face application."
-    publishedDateTime: 2023-07-28T00:29:00Z
-    webUrl: "https://www.tribuneindia.com/news/himachal/face-recognition-technology-for-pensioners-soon-529577"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 19
   - title: "Pocatello Animal Services adopts innovative facial recognition technology to help reunite lost pets with owners"
     excerpt: "POCATELLO, Idaho (KIFI) - Pocatello Animal Services is proudly joining forces with Petco Love, a national non-profit working to lead and inspire change for animals and animal welfare groups across the country."
     publishedDateTime: 2023-07-28T19:37:00Z
