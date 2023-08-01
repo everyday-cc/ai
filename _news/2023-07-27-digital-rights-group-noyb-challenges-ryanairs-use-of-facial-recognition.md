@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy group challenges Ryanair's use of facial recognition"
-    excerpt: "Digital rights group NOYB on Thursday filed a complaint against Ryanair , alleging that it is violating customers' rights to data protection by using facial recognition to verify their identity when booking through online travel agents."
-    publishedDateTime: 2023-07-27T05:54:00Z
-    webUrl: "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/dIDyVgha2Ldzns3rcSc6hqCdXt0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FBR3K75CPFPAZMM63XCHD3ESFE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Ryanair Accused Of 'Invasive' Facial Recognition Use"
     excerpt: "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\"."
     publishedDateTime: 2023-07-27T11:38:00Z

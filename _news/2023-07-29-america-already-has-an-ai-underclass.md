@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-
 webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
 type: article
 quality: 67
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Atlantic
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "⅓ of Americans see AI and robotics providing future care"
+    excerpt: "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts."
+    publishedDateTime: 2023-07-31T21:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 69
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AI Models Might Make American Healthcare Better – But It’s An Uphill Climb"
     excerpt: "In a nutshell, one thing you find out is that the best outcomes are ‘volume-based’ – in other words, if you find a provider that does a certain thing all day, that provider is probably going to be more proficient than someone else who is a jack of all trades or a generalist."
     publishedDateTime: 2023-07-28T19:44:00Z
@@ -37,6 +51,38 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
+  - title: "How you can future-proof your career in the era of AI"
+    excerpt: "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe."
+    publishedDateTime: 2023-07-31T17:26:00Z
+    webUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.html"
+    ampWebUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-future-proof-career-era-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-you-can-future-pro.jpg"
+        width: 1280
+        height: 876
+        isCached: true
+  - title: "Accelerated adoption of AI could automate 30% of Americans’ work hours: McKinsey"
+    excerpt: "A McKinsey Global Institute report found that rapid advancements in generative artificial intelligence technologies could see about 30% of Americans' hours worked automated by 2030."
+    publishedDateTime: 2023-07-27T10:00:00Z
+    webUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey"
+    ampWebUrl: "https://www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/economy/accelerated-adoption-ai-automate-30-americans-work-hours-mckinsey.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 52
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial intelligence loves America"
     excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-30T06:03:00Z

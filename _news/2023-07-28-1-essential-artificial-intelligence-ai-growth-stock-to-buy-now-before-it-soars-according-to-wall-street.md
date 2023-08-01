@@ -36,6 +36,15 @@ related:
         width: 2119
         height: 1415
         isCached: true
+  - title: "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock to Buy Now and Hold Forever"
+    excerpt: "Looking ahead, AI will almost certainly be a defining trend of the next bull market. Several Wall Street strategists have cited AI for recent upward revisions in their S&P 500 price targets, and Ark Invest says AI software revenue will increase at 42% annually to reach $14 trillion by 2030."
+    publishedDateTime: 2023-07-27T13:43:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/bull-market-coming-1-ai-growth-stock-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 53
 
 secured: "spZ62Un2Vsq76d6EnUYfja9vnwQswS8TIPAqmWeo+WqX8ZiNHvf5TkaCiLEWhxCA3TlWYxyx6q4rTT/3v07SsWyAH53XogMnOxFNv4rWhmxODDA4FEz46JjQT5r4XWdoHsj/JZEtSQ56aFthp3HIekhRt7mMB3C0ZrSMA0PQewQBvT0VglwgmeZ/WMdDpr5F0Zrtr96UfDYE8QimQptvKjECuSOq16PcDTh/FYY0BTy+2QjUHyQtglJFzplCCHDc3PcmvKRzdikuZuMG9JfFVhckYoNiL9AQR8d1AKQdz1N+e7cz8Cp+FtjqA8+EcaCu+vinNLPQ/9DfOUCIZ2uvsQi8oaMnZEeObBJQZxKRYYbqR05b6oWao03oYO68SjWcWScF9tq6bA07uLhp2q5ygwtqtD23u9NGu7J8f+EJV8T3Tb66r/Hz4VvCU9wFrL3hPDskZqdHvvS4jAtzMxlwtpjTJAQ0wZUVbqLW94HujGNZYHFSEgZc2fCW3Nn7hCEm8+BPVwN27bwWNGaJxOGWsA==;Yw7DtY/9jgZK/mXOtpCh9g=="
 ---

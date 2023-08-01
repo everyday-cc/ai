@@ -57,7 +57,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all"
         width: 1200

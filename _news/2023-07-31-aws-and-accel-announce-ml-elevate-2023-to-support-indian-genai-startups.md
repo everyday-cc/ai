@@ -74,8 +74,8 @@ related:
         isCached: true
   - title: "Blackbaud Invests in Generative AI Startup for Social Impact"
     excerpt: "CHARLESTON, S.C., July 31, 2023 /PRNewswire/ -- Blackbaud (NASDAQ: BLKB), the leading provider of software for powering social impact, today announced a strategic investment in Momentum, a leading AI-focused Blackbaud partner, graduate of Blackbaud's Social Good Startup tech accelerator program, and winner of Blackbaud's 2022 startup showcase."
-    publishedDateTime: 2023-07-31T15:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
+    publishedDateTime: 2023-07-31T14:21:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/31/9856518.htm"
     type: article
     provider:
       name: TMCnet

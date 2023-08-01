@@ -2,19 +2,27 @@
 category: news
 title: "MDbio – The Doctors BrandTM Publishes New Article About Artificial Intelligence in Healthcare"
 excerpt: "Beverly Hills, California, July 24, 2023 (GLOBE NEWSWIRE) -- MDbio – The Doctors BrandTM published a new article about artificial intelligence in healthcare and what the future of this ..."
-publishedDateTime: 2023-07-24T13:05:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8879402/mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8879402/mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare"
+publishedDateTime: 2023-07-24T13:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/g33345270/mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345270/mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare"
+ampWebUrl: "https://www.benzinga.com/amp/content/33345270"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33345270"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "P0MFlWDDBzGQAme2p0dWy5cCFoEI6B11dH3fES0yg5mMcy/eyE4JWCtcpgAbZ81aZMc68Ck/oE23VwO48RDbc+GTMJLi91tIqACBhKB6CyfVRM9ZfoV91xX33QCfKYWXYBvv2BbEB+JTG29puUcRe8jJKQYO2g8eE06nK2GQjsDBUhh8YaEeabzlzqdwBk2dRsN3TqT98JGa/EA9PyPftjiXqLWzcAUX+6Ui7HKMQcWablYShkqBuG7TWv5Yyn8yUucXoWcElnwb661IHgY5NrBlewdA1H6kgLunX/dGwOhcggHwrKCqiWTkfRzP0+ywr1exaZxNSFdYaIkiWT0UanQPSYIf2bT5x8FST14naR4=;odpfONkYi0wtIs66B69s8A=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "tIug4P5hhg2bqSyQRu6NCIrAQHOgXVbc40KQKJhn6eufyelV8ZfRQLBnP6O8s76yq69dzr0IJ1vYDPgXLsQ9eBFzpWbObzc/JSP1Y5UPmR6XjQVnVMFwmu6MppnSA4quJJG3MErf1GRgr8unRkn3jq8sK+lRHl3RyWLv7RpcL+GR5+os6v8QkFNz28+OLVNuKX5g/0uC2ABPARGdwNXGPegPNz4OU+l69YL+YPm+IgF2Q6OLVoO8NllISZSBCFFF8+zinXlGeK6eNLxQU05DP7NXmpxw4LTcvxxbHdIPaudyfOljUy7n8DTUJHm8tDKiBNqSacA2jR0sctQiw4GjbqIwMxFh54CS/XIne2649HI=;ltQXqnc/j9uxoUwgBnlh4A=="
 ---
 

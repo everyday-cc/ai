@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AMA calls for stronger AI regulations after doctors use ChatGPT to write medical notes"
-    excerpt: "Artificial intelligence protections should include ensuring that clinicians make final decisions, Australian Medical Association says"
-    publishedDateTime: 2023-07-27T05:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/2ce43a07b1fb47b304a7bf8ff0fbda407563c2e7/0_218_6048_3628/master/6048.jpg?width=620&quality=85&auto=format&fit=max&s=9a2195325f6e969e5c4cf59dc90809bb"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How does ChatGPT work and do AI-powered chatbots “think” like us?"
     excerpt: "The large language models behind the new chatbots are trained to predict which words are most likely to appear together – but “emergent abilities” suggest they might be doing more than that"
     publishedDateTime: 2023-07-27T09:22:00Z

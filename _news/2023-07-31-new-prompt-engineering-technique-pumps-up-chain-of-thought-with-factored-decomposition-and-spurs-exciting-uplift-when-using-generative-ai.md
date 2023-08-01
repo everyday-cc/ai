@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/31/new-prompt-engine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/31/new-prompt-engineering-technique-pumps-up-chain-of-thought-with-factored-decomposition-and-spurs-exciting-uplift-when-using-generative-ai/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Forbes
@@ -45,15 +45,6 @@ related:
         width: 618
         height: 411
         isCached: true
-  - title: "AI Changing the Dynamics of Image Processing Technology"
-    excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
-    publishedDateTime: 2023-07-27T05:44:00Z
-    webUrl: "https://www.pcquest.com/ai-changing-the-dynamics-of-image-processing-technology/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 19
 
 secured: "jhSiX0tii9MYcoFcPcJ8aD4SLCf0ixO56q/GhLwJfm0w5WeZw6JPqWKMm1VlHQWR8dnVj/b+0eByf65sSns0FfbwAi9seHf1N2W5m1TzXZbwG11d86DnlgKHUMIiivQ/zGgPKzRM18iFnUtFizMkRBN1BejqKNmuoVacfqhgYQj+Iq37waHqpDWEkBKqo2c+GfUCyM13qjXu5jysU1HLXLBk3nERx4pRBpY+rnWZ4yIvkth8dMq9eTU0Y5rf/y07c+n5UJz7fqKcSZZJ/2zroPwiJ0rDAANGAdNhzsof3ELxuCF3UCll8Jf2uhhKDasTgs8lEkIYvlKKGUQTpebgJVu3SiJXQFo02unuS/jjQlkXZ52gHo7E5E5jV57V/sEYWU3trBRI6ooskXHZ1bWWs+sjLHwhwjyPTtmtKT9iHCr9YlVXCtqlDKdqvMTccLG/qaxGly/Xa/TdpzgPT4mt6C0Z01msO4RtMJtiVc7gDQkbCtQTO4ey2xUxfPbj3wddSgeZdLLgUUm8T5JiaK4+Kg==;aFfmrNNT2JSLTSfwXCYobA=="
 ---

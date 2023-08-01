@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-31T21:13:00Z
 originalUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
 webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all"
@@ -244,6 +245,6 @@ related:
         height: 800
         isCached: true
 
-secured: "w6WI4jaiYELrSpOVw1OcDxhcnXTVP0D/lyqn0qafjCkL9zi7wDKsNOLo8jnCLGCMC4lZMv3A+i4YOBy7dMrn6nvw35wqlZM1SWq1n3Sg85STTGEl4uyFxwbagTsIRV4CHgY8qxZyHPhqqW+LrLUuZ0DTk9p+LXHNaERdQIzHTZyf8ckqBeBIgRsB40+JlB16ncaY0MzrMd6wtCYTB09kTsVfVEo7bM7w4YWR1iw7cTUr/9l4a9CgR2HVkgF8iU3+Kc6wNLVhr3zCXGDd/cubhEgqre0hWAR9cvuCurxLpfj8vrcNevttZjU/4T0+j2qUQEFR3okMezXBXn3GWMrKm9/qm2wu4rsCsWGzmqtzwYo=;84TJ+HDIsJ5lRu/Xz7vnPg=="
+secured: "9egqleoZuQmouESt3WHCyc8jGLevA1VJHELkxDelnWEnlfibCY07viRthzQ8oRZA89OI4+NzGRSJpbU3TReEhkIcHLcR9hS99wlf7ktn+K53B8wAC5fsUFs+yVO/BTSPTIkfMBy++MOCzrb3kgQLzwHAVOzimBzi4ZD6BgHWFzgCtDxnZwu10u0MNqoAl+p9bRukD69Ehl+jxxgfC0tM3vmoAwO7GivAFyVikYZ2tJDdh+79zmsjm+WIz25G8Y1MqtIotr571yDRx4ER+QOxdC4PaooSS+rdbx4UAF6YSJKXSakjZxyftW26KBS3tc4cvXc9CTInAs9rGda62tRU84UwTpxzBS63bcx95Rw4eviUnq/+V3tQUg4xOEXfFp658+IFwwlXqHT/oHJpViYMyX3u851xIOJUo7l9tFb6GvE1ah7RVKrvR4lgeSDGu8NICPIIuvxp+w3XIuPuEomfrIOvn/bQEu4PqAellADk/aFy8ltlyvZJ7cC6yKDm7G0qgyybrJDRRTq/H5Shxrmvow==;vmKDUSIdIZ4tBptCk6CtKQ=="
 ---
 

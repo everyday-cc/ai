@@ -48,22 +48,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "The Human Factor In Generative AI And The Automation Paradox"
-    excerpt: "Effective leaders understand the “automation paradox”: the more complex technology (including generative AI) gets, the more vital human users become to its operation."
-    publishedDateTime: 2023-07-27T06:39:00Z
-    webUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/"
-    ampWebUrl: "https://www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/07/27/the-human-factor-in-generative-ai-and-the-automation-paradox/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c19d4aa9e746b2deea0a57/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 751
-        isCached: true
   - title: "Organizational Resilience And Operating At The Speed Of AI"
     excerpt: "The hope is that AI (and its close cousin automation) can help solve the productivity paradox. Indeed, Goldman Sachs analysts predict AI will deliver \"a 7% (or almost $7 trillion) increase in global GDP and lift productivity growth by 1."
     publishedDateTime: 2023-07-28T14:00:00Z
@@ -115,6 +99,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "qjAjF3yUcXTu0uagL8NGYx7JlYEFJFVGlUqRbKhpapNBWv2Sg9oFFkz3JX1W7ylMEz9Q9IljsMPqmuOnr+UnHMQSWCPfE+cMntk/MtBLD/5yGNZ3hkdTBW8k+L4LtZpPcUwarBMyrBd3WWLoEdiLnNyTNAG9c7XNp/O3g+CaJzk+eAib2xLiS5/Vz+PKYREqHo7aoo98uzjfzzdXyhbZ18ZEwSwJU0jw9VR684ImFa/2BoYeom8SMhSpKJYMleH6ly+GCQV+4qg9e4fniXSOjoFhxcPxOjGFsFT8owLMc4V9tDN2vzSQn4Q6dpIUls0mP38eV4VpBtsAGr7nXAx0TgE8LEDZ2QDFSqrNLmSCXZs=;IxE55aVb4LU+0z+PcfQjZg=="
+secured: "K90fICA5EXXiI+g7Zsn2YbvTIpEp34AdkoxjNh1WET8Yt4tblv767/EhsdBJI2zxSKEwjRcMl28TvDy9pdCnC7BkAoXOYg1NBorKLHgUrQTt6Qv+xL1FSZDZWpievc1JHKqpBohVsUpJJebHYKM9zWC/1i5T8c9U3K0XRR1g7vDL9cppEx2efq7P8/wBtGENof3MF88FNeFcy2ibMuZSWXWrnfPyffhI34cm/8a47GQISYRkjdNgC99USm7bGd+O9VRPIZNW9Lhdtj67uTYWqWm29HSN3fLZMCvsYyHysx4DlBNu5oQ8e5wV/gzjYrITwO28sx9EC9MCU7kH8svn97v3v1dKeQHN8GT1jDYhnIg=;w2hJJ0mddzYawz6s8UCoaQ=="
 ---
 

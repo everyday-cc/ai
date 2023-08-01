@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "ServiceNow expands platform with additional generative AI capabilities to ease enterprise productivity"
-    excerpt: "By infusing generative AI features, ServiceNow aims to help customers drive business value from a single platform."
-    publishedDateTime: 2023-07-28T19:46:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-expands-platform-with-additional-generative-ai-capabilities-to-ease-enterprise-productivity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 31
-
 secured: "YwDc8EbI4U6jATZU7cePyVSdjme28S7ngwdnsn/PCAuAyeznbletWSnC7L5htFjGtJU9IiVNOrGze2djx602AVpIeHCHeG6vImlJb2/PvTiwMSWwUZ+vsnuJucDtocGmeAeVPR7Sv+JAsp1bMa7/asejLgWPTI8Flxm9zfYn1y7uoFvvlRoWlTtcLUsXLFRjFtVvG8WMwZEnsCwUfLQrgvG801rurkVSbmrbm6mQrF/4IoS1CunAST1aiwUijtWpxYEoUOdejX2G+Ao4pFmrMMCLkwXBV4a7cx/q6+PaM/PG6AjdVUFrSh0ZfTNyDqP9cLqFdDSkNETJm0c8kX+tlyfX8YEstusJricyegWsoSesg+R1mlBU4uuiB3VJ521Aday232EMsuEmR3cDyDBz2jrR5oEegY+wvtU6eYwxTdXiYLu8xiUbjpPiNJwZ7D5Gy2rAtRyM+biLKgbLm54YBCfnvmNIQfCIF1sBXXfFZjDHSO92VIfJ9fCUbe7suLyy4OGHsfHsAdwZtCcTklPQRQ==;aJu5uMrocsmjI3cYo/NGvQ=="
 ---
 

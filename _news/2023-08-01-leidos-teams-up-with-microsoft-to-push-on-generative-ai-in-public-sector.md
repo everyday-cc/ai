@@ -257,6 +257,20 @@ related:
       name: Morningstar
       domain: morningstar.com
     quality: 41
+  - title: "Meta Has A.I. Google Has A.I. Microsoft Has A.I. Amazon Has a Plan."
+    excerpt: "Bloomberg, for instance, built BloombergGPT, a bot for financial information, on a Bedrock precursor called SageMaker. To do it, the company took four decades of unstructured financial data and analytics, loaded them into AWS, added some other training ..."
+    publishedDateTime: 2023-07-31T13:00:00Z
+    webUrl: "https://slate.com/technology/2023/07/the-cloud-giant-isnt-trying-to-win-the-race-it-wants-to-own-the-road.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 41
+    images:
+      - url: "https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
+        width: 1560
+        height: 1040
+        isCached: true
   - title: "Microsoft, Blue Shield partner to develop integrated data hub"
     excerpt: "The hub, which the companies are calling “The Blue Shield Experience Cube,” will create an integrated digital health record as its first use case."
     publishedDateTime: 2023-07-27T15:26:00Z
@@ -272,6 +286,6 @@ related:
         height: 435
         isCached: true
 
-secured: "gRNpyB9tuBf7YrF3vHzmp0lklB03IyD2Qwg7HyjY6JhFB1KOwYjRoFzub+Qq/HMjXkboioAQTAv4Wg9pADpphgUMz2yt64NU51jWJvjgWWA2qqUuTR3BSFnKeUN+kzTXLjNd2phkByugcd60xnNx+MUSXorTCmid93y5Rbqmknd7XrI0cTxyK2XaURJCuRT3feoWeOWO8hK9k00jWDsh/4aaHBpWMiHyTMYVFl5426e7eSBfQZlHI2nIdFlOhInDRqIme+kp55xA3+0/ukLUkReKvRNymYN7yp8FOw/UU2FpQmyIe61c1dftiAuo14xlDSzeOKGRaGDfpjrmmMsxrQIwpmOaC+8k3DEccJ38zBE=;CYOhRqCt/1HbmZk0mY6qrA=="
+secured: "PejMWyorqduy8IvFWFvvV0osl0lbUhzHAaOpI57d7GP7axyXw3M3lzBfFvlJNGuGGCJ8xxCegAQRxq4ZZ/p4WUaRy61D42uLpCTlmqKHXl7BicWXINntAC83h2bWrOBWysiyPHJyY4UHj2PRRHdXaZPum11kBLjgg+/fRTI5vcIXcIwXJN3iXkUVfpjUz5Bvj3c8j1Xc5bePhOQiGSwi0XPxW6e5rNhdEvM9Jqtz+NR5bbc9SSixze1Whpreo6Gnb11dH+HCkaLLPp2tO0C/WaSQD/crfG9RDH81gMezblL9DZmwmrX8GQbE6C78R63GKSH5uoHlM0qzAC99G++RGeI04JLV/2Sr6himHInTJzd8kCV2uDdtTWDKxMJR3zD4m7DNbUQpxQMlgX+xzrdCzW8lx1CV4EDdzF5wxrV1smT101+05I9/65wi+4e5/3NjiTFQY/GLPBbao/Ry0SiD9fyxsyZurI8t5nRiIHTZAjCPzLXeYfso2sBuihsA4QtFytJegNaHb3v1wm5qAeAtpA==;4YbGfXNVMGq6Qdul+wWT2Q=="
 ---
 

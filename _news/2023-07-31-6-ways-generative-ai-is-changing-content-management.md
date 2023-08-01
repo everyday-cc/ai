@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The potential future of open-source generative AI"
+    excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
+    publishedDateTime: 2023-07-31T09:52:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 59
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Generative AI could be a critical tool for the visually impaired"
     excerpt: "Because of the way generative AI can ingest data from websites and allow users to interact with it verbally, it could be a boon for workers with sight problems."
     publishedDateTime: 2023-07-27T16:42:00Z
@@ -237,20 +253,6 @@ related:
         width: 1000
         height: 575
         isCached: true
-  - title: "On the Road with Generative AI: Key Legal Considerations for the Automotive Industry"
-    excerpt: "Onboard automotive cameras installed in the front, rear, and both the sides of the vehicle are the eyes of the vehicle and assist by sending collision warning alerts, providing vehicle parking assistance, performing object recognition, and offering lane ..."
-    publishedDateTime: 2023-07-27T05:08:00Z
-    webUrl: "https://www.natlawreview.com/article/road-generative-ai-key-legal-considerations-automotive-industry"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 32
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=2t-22qAR"
-        width: 500
-        height: 309
-        isCached: true
   - title: "Merkle Unveils Revolutionary Generative AI Technology"
     excerpt: "Generative AI LKMs can be trained on vast amounts of performance data, synthesizing the relationships among all the variables to enable marketers to draw insights from data. And by informing every customer interaction with AI-driven insights and decisioning,"
     publishedDateTime: 2023-07-27T15:15:00Z
@@ -279,6 +281,6 @@ related:
       domain: tmcnet.com
     quality: 12
 
-secured: "p5Q8lEev3skdrGY3awQfXSrvGlsZir9TlE0YzQ5hyHRZqJ+n7F8BQg91HhXJXI0VvPLvKykCja9QHIf2g8SwIozotGJuxw2yEfgPeCEF5pn8SZfhJvA/3W2hyrHl4sjeFK3FdVpbfbJRcAVa+FPC3+5Zu5bqAKSdRYI2wSTrn6z5YW1r0t2dfgEX9EdwQeWEx5mQE1EsVE4hHvGjlHj//1YeL3k+5QYiovLkiQp8MO00QuTB3JYt7qm6fnaiukVkJzWfs2uvQn4C/7IbZk49KA1dypfoCPmPwUg1xcpwNTHAKCjncxLyIzPt8Z0fBhffIlP/BqIv1v6oDTNF4KyGo7dsnv1xIxD2qoyiaplud3o=;czgI/5fP0hR2AbsY+2ZW+w=="
+secured: "uraJe+xQpfOcoFdktNA2lwz3LgscmFdh4p0xcBz4CMBoe5Pz3pvPdRncRowmuuWPmKQkzzFRAyAdiAZcH54/EK8A6rGYeG6rBcSm9wFMhXM1iuKl3DQktHgPQxcET2KGYF5i6vUPZTGC8odDwAsbWDHy2aYbP2AlSJlaWPMj9r0006wAObewXGkJ8O512lXQ6KdobL07qYH1xA6xf+mlAtCdXq0PdSxgjYkwwNlsgq6qqlawv4Mm0otXmCspldQHcJ5+M06ELbQQNkxsKpA8aq91WT8Q7oq/NogziSRP3x5lQOr5qLqAS16JmkkF8JBqRjvi1Xh2J4PeLWlTRMADh+TU7YXhmDsqYMKmnGkSOESwi0pvQ/dqUs39BeTmpNCzm5uBclr+fmjVJ6C4HxTWAyRMnh/l4NM36bAZxGuCn8IQGuCPmHJIYSGYfPhgjTLQofP2H1xVc9AijFM0LGx7S/gbPtL8jhSHGHGjPeJdbDwJN+GEPtr6buqe18zbadtmo/tHYXi5NdfdvizWijpPeg==;faO3jWJ0ClBYtf7f0l6xbA=="
 ---
 

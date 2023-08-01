@@ -63,7 +63,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all"
         width: 1200
@@ -240,6 +240,6 @@ related:
         height: 800
         isCached: true
 
-secured: "JRJZKH9vYYUhbtglVwH4moaWVS/Oouzd/nJ7yuZjNKucQ1VI2WU4+n5TLsZXAK5/4H6IvfkU7DJTsCMOXjNzdTESqmDPSiWbQ6H+4EeHwXpfJzv2mkLOGkk1knuYWEAOxq1mmSc9k90JAa1ktFgbOtEn8tfBD+K0nVUZwZY1c1SG6dcFWGwcbaIxuHHp95zeaDI8oEI8qdstQpTaMVuryh942UCsZmXzOcsMPTLO2ABWUzQiL/PuzT5vWa/a2R0LXffbCSap8MCvD7/VJISaWzV2GfkqdnZtDYDYXRttNwXYLIw5E5Zo6gQhuOJQJsEZqgpel3Gfv81IbhyiGAegf5HdXt2zRyHhA7oLq/dbywE=;1yT3h2eBIuGYWJzEE7/IjQ=="
+secured: "IXb7ACvPoa4sif3uOmjx1S5WCfbIvSrNvHUdTh6DOTW/hKl2896cYaXfDcyVQdgcqtYmI7HvbjFY7DTxjgabNwinH1+EpkvgB2qvizSwLluxuTANBb3lAXINaCMT9LsgygsHNpWiCwxpPdvpwnPItuf5WalMOVPzAlD84Lhu557sdfMukNqpGHWs2wG8wKLYScL34sCUlUeda46Mpfl8eeCjE8r8zHbrSMAsNNe1QbsrR/Is1A9O2HwST/6Je3lwSWL6DFOE/lMY1XBimJ21jcYZT6Jlbm6gaObV+D6xWGdCzdkbdH9WWU7KaBX18MYkkJzBqRYGl1QnevaQp1/PX7hz7EZ2s2QrkLEBRzve4ZiC4Pt/kj1VNeVGieF53cFEmERcrkGGa/XzmegQOZH/9amFugA2z31JngxyabQBbolbvBgCU4IzN5e5h2i69iaddJvbl5PTkpLRLhGgVwjDu0X5EbtsqEmbZG433jwlwdv+6rzI6pb6g70BOphZL+7nvASJyF4s0/QxeQCCRXBpWg==;kQnQrV6uhzB4o92UxjLkBg=="
 ---
 

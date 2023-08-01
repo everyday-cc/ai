@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/28/artificial-intelligence-
 webUrl: "https://www.fool.com/investing/2023/07/28/artificial-intelligence-ai-growth-stock-buy-avoid/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock to Buy Now and Hold Forever"
+    excerpt: "Looking ahead, AI will almost certainly be a defining trend of the next bull market. Several Wall Street strategists have cited AI for recent upward revisions in their S&P 500 price targets, and Ark Invest says AI software revenue will increase at 42% annually to reach $14 trillion by 2030."
+    publishedDateTime: 2023-07-27T13:43:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/27/bull-market-coming-1-ai-growth-stock-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 53
   - title: "1 Essential Artificial Intelligence (AI) Growth Stock to Buy Now Before It Soars, According to Wall Street"
     excerpt: "One Wall Street strategist says Datadog could become the fastest-growing software company due to tailwinds from artificial intelligence."
     publishedDateTime: 2023-07-28T12:22:00Z

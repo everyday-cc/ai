@@ -41,16 +41,7 @@ related:
         width: 1200
         height: 933
         isCached: true
-  - title: "AI Changing the Dynamics of Image Processing Technology"
-    excerpt: "Artificial intelligence, or AI, is making waves across industries, catapulting technological advancements to prodigious heights. Because of its myriad advantages, AI’s application in image processing is also picking up steam,"
-    publishedDateTime: 2023-07-27T05:44:00Z
-    webUrl: "https://www.pcquest.com/ai-changing-the-dynamics-of-image-processing-technology/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 19
 
-secured: "vFcfM5t9yGrfzzYAeINFaynI5jwVGlTYgkDz3FjTyzhAG0gWqx5gsczqWVf1kBJ5XclVT1YNuJ9SDjnaYFDgTSLYbnNFp3lrpH1Kcl6y/alO7Hg82a+3De1DFmDDERS69izXcWBuq2tcNRD+T0ZviXKu5lt+d3icy5d0NXGUSPlQ6/WAzTALdz+tltDvcdTKwjlQnv2z3EKYEpOWVVvBKdQkPxblUm8VYzW/0vofcCdzazzyPYH8T21bNC7/hbHNQHCuEgTgyE+qhLVVRf2+enjSh1XKnW7fbQzcJa4+yUr6N5nCuvrd81TyfwE6qU4NR9ja8cB88pa2s2/+lNLPTl4SjYBz0LaMrYlOESqqcyc=;EZHTji6BUYhn696lfeQKjg=="
+secured: "yoYL5h4IJEKTuZ+bESE4yqTz+w0ivtkGs+mw4NibDnk7WhR5jeE9NmpCbx4+5oVDE+DoNzKtzZf8Dt0uDDKGQ5GoIW4d6adEMP8oAUvc6n/y97gMwrwh6f2gL4TFzN+4D0Z5kSfRNdXydbz6BDPhD3niOJnIA+hvri2p4jyjoUwoqvudj0ByMoRki3TYDWQBhN2m7HNdE9YQI5JQ+STaZV769KHXLYGOt8VY7Q1buMznZzcsi66zxGgqjTl7tSZrxMpPo7RdejfOKEtk4laqQyEkjudIv4IzRX8GN4ue8ctJOPf+wbKttTDn2kkddN2vrVsEwAEJl6CuDvkl6qAhuHGnlVW6IkOaAJ/cXbThbQ/8M1YJjvzohIcKv5Qi11bUPd5LldLPBM8CJBUnLsTuo2jLnfZjmfh350cukCJJnGY+YHWvilhd9Pkn3i87BkfCMZX4NRyB05kD6bAD//0eU6fVm8Uh3nREJo+FF7VPSDoDEZ9CECG+9vUYTokDAX0bNRLYz4S7q+GQMpc8ZDbfZQ==;faPmVaK7SsgY04XD1T+tcA=="
 ---
 

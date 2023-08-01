@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AMA calls for stronger AI regulations after doctors use ChatGPT to write medical notes"
-    excerpt: "Artificial intelligence protections should include ensuring that clinicians make final decisions, Australian Medical Association says"
-    publishedDateTime: 2023-07-27T05:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/27/chatgpt-health-industry-hospitals-ai-regulations-ama"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/2ce43a07b1fb47b304a7bf8ff0fbda407563c2e7/0_218_6048_3628/master/6048.jpg?width=620&quality=85&auto=format&fit=max&s=9a2195325f6e969e5c4cf59dc90809bb"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "WFWhFV2f/DOBoXyKZgC0y8q0QjCa5zghUnijRbD50mhVArvL22mxUVnt/F09ODXXGuv/gL90VTpPDXh2BEKcIttT1wGWPTyOj4z8qJk7bpCRzRPnlot5LSVB8F0uOMQnlyakOuAmoSOLwvemJQwN2Q8/gXcHgJF3N7ROla3fPlvge26ONDe2G7PgAIOx5hp/8QKKVYlUTLtqTnoPOIAF4+eNRivAxF85jSON3zcMWQgyVGydZrmod2P641IImD4DeFI2lUiqB/qWfXvbd+O1x8CSK2NBVxmHoL0O5gL0SXDgE0gdAjINKZeinLBMUTDAqwCcPRVPmVAhX93gUg8bPlDXM/PYhLGSG7YtAgvJpQ8=;hMQLvo0QLxa2evo6qHbjyw=="
 ---

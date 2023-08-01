@@ -64,20 +64,6 @@ related:
       name: Time
       domain: time.com
     quality: 41
-  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
-    excerpt: "India AI and Meta India on Wednesday signed a pact to foster collaboration in the field of AI and emerging technologies, making Meta's open-source AI models available for use by the Indian ecosystem,"
-    publishedDateTime: 2023-07-27T05:25:00Z
-    webUrl: "https://yourstory.com/2023/07/india-ai-meta-india-ink-pact-advancements-ai"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "How India Is Using AI To Build The Internet For Local Languages"
     excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
     publishedDateTime: 2023-07-30T05:45:00Z
