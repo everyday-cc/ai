@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robot_coffee.jpg"
-    width: 647
-    height: 450
-    isCached: true
-
-secured: "+46IMa8FJSqBnWc6cuMvnB3CzhuBgDkGfTqRm93bzMcKamc7tVhI+uCIUCEZi5zF7DQaoUZfjYWLcntXNmwPr/yeblGrKclys4KXDPQxoFIcKlfdG/XQsBnr+KXMon1xQyG9oikrlbnybAMM8Zlqcbw4howghnLrtSpc1fU1B8+1AQd/A1XzCbCbzO+Hq4hz7zpgPhEaE0w3b6nh8mHtRM4DLFncxRDfEe3YE6txmzfUdOUA6oqoLUVqoOy19+GE263B79k0gTMWgQlNUyvPt+B0/Yp1NiFcPACnsXsJT+H7kalkKbLLkIKv3OsIO4/rJa3y75QfKgXisA+jZhWOi8Au1MfOaSXO4cE0jIXrm1Q=;YmS4AM0WEqV0lCDkbNV/ZA=="
+secured: "aC7yo5eiLc0ihFPm07WWRL+Er8dv/JB9mVzeASJSwxt1OHDDhYuvlltLkR9nwL7rwEA+iaJ5LPZlr/gVB+AUHSRLzm2bZQNrkyGjnuQEChb6LwmO8ukaMW/tW4B4FoEu6vOEDo5f/YH7EwsLNwqXapxUsptAIsm0G0WcrREWaEIbBEOlaNo/4JUPZH4CQUg03lYMYhoWaaL/Tlf8vqwoOWrZ/QgM0lc9Y46yH3aMgsZj1y0lecS4HPN4KoiEX0GYAexwzPfO9XMiCCNEj4mfHOnaR/fcnKR5oXoSbeAiJiYXpggFC+9wB6X02lII0FcKptn4wvHFTX3jzogxqQQbPacbWYycmu2f9ASkVWr9R6U=;a8rncuxX0GrK92uiOwCSTw=="
 ---
 

@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/IBM-Watson.jpg"
-    width: 900
-    height: 568
-    isCached: true
-
-secured: "ml6jYFtyRnP0uk7ZF6QL3wyJprf9Gdz69k/7QOYDetZ38x4Vt+nh9UhI9vkUbZ8BBTkZ8FPU2bnBibkGPINJrEeUi2dFapSDcpIeUMUiAeayrTVcrJ+8DO5jiN5F5FAA5wTFpUKvkBOpxeZAKFDEnRJXEnQM0qVs1yV/47w3gjScQPbcG2fsTIDV9u0bOlgevjA+2ioGhm2i6w2ZYp9zCWFROs6sGKPSZnm5FWuVJ9qzHBxhpXhnHOKccJsVmz6reGBq3vGhfZ5gQP8WChuATfGMhT0PYV2E+rS5N4FiksU84djUMl+yr6jzxm4vx7khC1w/gwq5JLQllF0jgiHcJPH0XPiRn5c0vVAu/QrlxAU=;ORmQ91gKWBAICy/CJZUwzQ=="
+secured: "6iUvGv3khpC5OC6fiyf0RNf4DQ2GlbCfMHCh5K4hOSNadY8ap07ZV1R6/jJfSBTx4M849tJhkC7EY/lKvrEBFB7kWvRciWEvfMklj2CfQG8vRaOKl7olyxWf17whA3ggvrzuVPvwU/fjFkEx0LyOYbLNXy0n+bOQ54Pj4kmDHOfuQvGLTl8AD8a507jpYzKUqlGKSWPQTsXdr8SAiobsNYZr+EvmHirJUSSzUINGNBXz2kmX2qc8XSwVtT72pg3oJXw9P/8UDG4w89Ul1oqG6jnGscWEw66eNbRo6yYYqErdbEJSFtf3dAI8/9qWOIBly0InDUFTwc77T+bwXA2a/Q/3AA0UAiFDJfW/2WDBA8M=;kVI3x4SfSdUu0SDOX5oVUw=="
 ---
 
