@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-con
 webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: IBM
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM and AWS partnering to transform industrial welding with AI and machine learning"
-    excerpt: "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 127
   - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
     excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
     publishedDateTime: 2023-07-28T14:59:00Z
@@ -45,6 +36,20 @@ related:
       - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/07/27/IBM_logo/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
         isCached: true
   - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
     excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
@@ -62,17 +67,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
-    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
-    publishedDateTime: 2023-07-29T05:58:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 16
 
 secured: "48xSFuuG81Yf/hiDCMX0BCekC24G6XphYUSvXAL7qhfj3I7gmVtZ4en/5ck62HLo8UTE/CpzUy7GZLH7nOpyS7A8rlObm/x+Tu/Mr7ClDMdf8aqr5EA8u7dupRoyWQeABbM8re8jGFJt3iEkoFFJJZwt/lPL/X+krY/X/fBXQdoxU4GqTmn+F/Pwu6GkFndN1PBVeRkgfHFVcID4X8Dh/2mzBUwJXXnAPCmJ8MdpFo6YPw3SYbcgEvkZN16uQSxc9mrYhqJcA9I331VMrX5iLwd8kOvI1InKC2JpsywogwocCg/0ghuw4rSR8N2Aclr93zQt/fq3DsGSnJ5jcRm5P4qx9iT3XH9yYzM2opZjBL0=;vK47J/BM93MTvgNnZU7ZVQ=="
 ---

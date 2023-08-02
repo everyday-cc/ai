@@ -31,15 +31,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "Palantir Stock Surges After Wedbush's Ives Calls It 'Messi of AI' With A Bullish Outlook: 'On Golden Track To Success'"
-    excerpt: "The analyst called the company as the “Messi of AI on the golden track to success,” referring to the World Cup-winning Argentine soccer legend Lionel Messi, who currently plays in Major League Soccer For I nter Miami."
-    publishedDateTime: 2023-07-28T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/palantir-stock-surges-after-wedbush-s-ives-calls-it-messi-of-ai-with-a-bullish-outlook-on-golden-track-to-success-1032489883"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "EJ3rQRR4nA43bwlDxl1+xzkSjBrkGHPn+xXbvK/QzS+FJyKkgwcc7CTt3zBRpamZTQMyqdokfET192/HB6shfILyPqxtgYEYTYcSUFKJbme7TXCkwV10S+TeMe0i+YC/VGupTWvp5FeR7i8YscKreHowZsWo61l0yT3fjClToA89gOx8hTdkkTvuAg5Ge1lH5MVkJq7HO4lsi7+pmsysSbbwvpqFg/0B0hyFoRQrKHpdmGf/aauwZBwXzFSJorqiFersObG/Z2hE4FkiotOdQd1Zs8z+L4k5eBh8Hn3ob7aFO9BmqDE/sCt8bvLIqZ/ri9y331lhIGx31JETNX7TgarqMRC398+emT/27FITduhBfJjUptgPU2+FzMPe0HVHX67f9Rh2cxZn7Uq/bw35RXYaLIfSiY0sNgUxBagLEpBvj5cKnhw1RWlrqlkLa9vy8D8TFM6t8drpXQyNWIabWsPVVMLPZSkWPvpBrUtMDSg0fh0aGHoY67W5snqKPTPYOKumESaP/gDk6ADJ1QJLEQ==;xp15XfMhMFyoRgZ4arAcfg=="
 ---

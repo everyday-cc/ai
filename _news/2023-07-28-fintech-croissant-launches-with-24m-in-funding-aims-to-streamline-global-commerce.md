@@ -41,15 +41,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "US fintech Croissant exits stealth with $24m raise to shake up the e-commerce experience"
-    excerpt: "Integrating directly into merchants’ shopping experiences, Croissant offers customers guaranteed buybacks to amplify their purchasing power."
-    publishedDateTime: 2023-07-28T12:09:00Z
-    webUrl: "https://www.altfi.com/article/us-fintech-croissant-exits-stealth-with-usd24m-raise-to-shake-up-the-e-commerce-experience"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 10
   - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
     excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
     publishedDateTime: 2023-07-31T17:29:00Z
@@ -64,6 +55,15 @@ related:
         width: 290
         height: 300
         isCached: true
+  - title: "Exploring Fintech's Next Frontier - Physical Branches"
+    excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
+    publishedDateTime: 2023-08-02T05:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---physical-branches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
     excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
     publishedDateTime: 2023-07-31T23:29:00Z

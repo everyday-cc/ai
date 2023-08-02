@@ -54,15 +54,20 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "3 Millionaire-Maker AI Stocks to Buy Before the Window Closes"
-    excerpt: "The post 3 Millionaire-Maker AI Stocks to Buy Before the Window Closes appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-28T12:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-millionaire-maker-ai-stocks-to-buy-before-the-window-closes"
+  - title: "Transforming the World: How Artificial Intelligence Has Revolutionized Our Lives"
+    excerpt: "In the past few decades, the ever-evolving realm of artificial intelligence (AI) has not only emerged as a powerful force but has also become a transformative"
+    publishedDateTime: 2023-07-28T16:31:00Z
+    webUrl: "https://www.tech-critter.com/transforming-the-world-how-artificial-intelligence-has-revolutionized-our-lives/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 36
+    images:
+      - url: "https://secure.gravatar.com/avatar/cfac215c599f8f3ec6ae2564a97d0677?s=300&d=mm&r=g"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Yfx7K75UmO08KbecoHQWb5MiPOj0EEAWKe7fXL94mHa6v4NQ1h1kaBuH2Do+i36kms/rjUhIrNpul9vx4/O35cJcTOj1NjOBNmgX0yO3iTobP2zdqxwYCSGnPa2P+nSvtW2/pxbyc80eGPHPP57L9R1IHJSsqEkMhOKPuVw5oIq5+xzrGFKBL4+DgecFrbUEVNy56KwkNs5SFe2bmcHRDER4oxrd22bRbcwT9E/+DvYXPHECBGpExQINUCSchTBdANq/hVq3nypowk/T6DRWNRPrW524Gak7DSzk7zUpPp14nxEOQtAwXRVGIjWMoKx4F60MOKrtgJpTWpHHenGmgfBJFCOO/bOHuYn4dElLf9eyiwuJSgvYvzInqFRi24p9ti1ohzT+WD0Fu7kpcQ5GXcT4iS48SmtmY8HgHbb0SeiDYDBpr/xSuyX7V1+pbmV5H7plpljZx4kKueBWGlX2pvjLvVjDM7o6qqVFBpHPDt4b2XdGR3zNlLwWlqsDz2goOTL5PfNr/fxByVFooiAMHg==;b0HS9doe72TokpKtePgD4A=="
 ---

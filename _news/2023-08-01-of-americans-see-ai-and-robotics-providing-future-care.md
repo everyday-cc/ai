@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Commentary: Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://www.union-bulletin.com/commentary-artificial-intelligence-loves-america/article_d48a318a-2cb9-11ee-a292-cf639ea6ace5.html"
-    type: article
-    provider:
-      name: Walla Walla Union Bulletin
-      domain: union-bulletin.com
-    quality: 21
 
 secured: "LoFFU6nMLysvALjhihEKUprUASi21ayN5ZGDsao+pn0DwQU9y5+9QPcb5cpSbRsgJ/kitQ82hk3HQUp5JTQwJrlhuIu34IjNz988Y/t8BN7wYG2pT4E6ZKGAZLeGBwAQjdRZanYesBxKDpl9ffvOqXU7rdtxQVSpUvYMveAYRg3PlK0K06yXNoxayYkC1qPUg6u73FWKTiyxFosZqcTFCb0/9sJ+gXtZeFrONBOqOufzlSTMMI0ewwOlji1WBwsx3h0RCapSvtiykgNpzfjnD5PSUbO/TBEqkG5tvI5bp23gOo3wbpVAgRF/2NCDYqHwwkww5HrnNo8vvIJCzILu33XEcbU2xAJcEzarg7npH18=;JV1UdB3P8jRoO1xVMqAl4w=="
 ---

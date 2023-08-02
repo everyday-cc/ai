@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Google's building A.I. into robots to teach them to throw out the trash"
-    excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
-    publishedDateTime: 2023-07-28T11:19:00Z
-    webUrl: "https://www.cnbc.com/2023/07/28/googles-builds-ai-into-robots-to-teach-them-to-throw-out-the-trash.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 49
   - title: "Indian Television Sees Spurt Of AI-Driven Robotic News Anchors In Multiple Language Channels"
     excerpt: "In April, the Malayalam TV channel, MediaOne presented its own TV news anchor, Ivan, a rare male in the lineup of AI-driven speaking humanoid robots in India. He often takes over the task of presenting the daily 10pm “Sharp Ten” headlines. Here is Ivan introducing his service to viewers and anchoring a short segment."
     publishedDateTime: 2023-07-30T07:19:00Z

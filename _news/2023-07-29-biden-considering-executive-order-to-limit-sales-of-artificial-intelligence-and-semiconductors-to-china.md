@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonexaminer.com/policy/technology/biden-conside
 webUrl: "https://www.washingtonexaminer.com/policy/technology/biden-considering-executive-order-to-limit-sales-of-artificial-intelligence-and-semiconductors-to-china"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "U.S. lawmakers urge Biden administration to tighten AI chip export rules"
-    excerpt: "Two U.S. lawmakers who head a committee focused on China on Friday urged the Biden administration to tighten export restrictions on artificial intelligence chips in the wake of industry lobbying to leave the rules unchanged."
-    publishedDateTime: 2023-07-28T12:05:00Z
-    webUrl: "https://www.reuters.com/technology/us-lawmakers-urge-biden-administration-tighten-ai-chip-export-rules-2023-07-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 63
 
 secured: "5qHzi/DSQIZ1Gix1gGY52LxzMs8iNaNIkQo5dP0/wyoHUMrQJx16EKtQKjKT092ZKGdhXjQ4kW1jEyX78DsDbOIPh4cAa6YcfZHLNawfy+kninfeln6K/Ld7Grxur3Sm2mHpK3wib7hcyDsRKb/steJjIn67w+Bp2tL0Cxku6Gnj0kbsULHprzxDNreK1Ad9/QbxvMN2x5bn6jY1dqK/HrIklBuPAAWPLxjPSBOGSs5YOpA0aMYnXBvk+6IRfn+UPhwZs6sSCXChY9shzn3qikikWg7aY3OxsP3+ElvV0F7q0IdSA91jaYd8nVop6hUExSw3izuvXke/OWTyO85/jwyv2tpCFCfH5k5e2MMnH1OEN8G3RkAYrREYWfAyirN36HoLsvxHA5Ex6rDCakh+Ofym1IoiWx+lHiU0T+x+ALoU0NVrrJf+NVpPmKQUrwHEGdYCLKJ8M/4w84c0ViJH6PfqNgvc38JgnhOOVUuJXn/Fg5Ias2PbNFN+fBMNhkDN/0cP57x4vmQD8Rb6/21vQQ==;pxg+Qxv2A1dCXFmZ5kcOow=="
 ---

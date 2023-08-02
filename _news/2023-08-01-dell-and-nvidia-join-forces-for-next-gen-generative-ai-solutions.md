@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The best AI video generators for creators and marketers"
-    excerpt: "The AI-based tools that YouTube creators are using now offer a glimpse into the AI video generators content marketers may adopt soon."
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://searchengineland.com/best-ai-video-generators-creators-marketers-429940"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 19
 
 secured: "n18DryjzSwMiI4Lfj709jpklFahIV3jNBBL0wkPtuYcND2i/FZNebZTHk2juFjOQ0IW1cRNKV/36JB7UyhgQYBXDjgDLREeAeNicXPCkngp4S0w8u+0RlJKwhWzFgldN0O9Oxgj5sjADRfH4+BmF/ui5Mhi5pJmDVrymce2SfiZLLlSR5egmlpckjC9czis+f5i6AHMGd9ScMlV+4/Mq3o57brMvvbs+eSjbJHC2dDmQXsCRXqksIIVAwI1ew6GA6QDyErx+D3oLWSHhMD0zCvuxW9o759NdlSHkjA5hzhq1L4Nl91LgqJ1iCc66UNWtAK3FYC8PdiboBzlqDhVvcXbe8n9085s0Dbshh8gHSZG3Jxqo/QCM43p7xaUlu4DbgJyRqJRunROlbV8mlHRwwRi8stQtuaoayOfOoYSiFVO0CY+BP2FA3DQXHTucO0E2voB4zoURDN7/cVM3txGPn8Z7aBe/zPSWDnISWZwd2b+CmMUSe07j2om09YwoMMriXsmb0hA6nkKkPFIUtF+LxQ==;WJR6C/tOVNLOeooNTXReLA=="
 ---

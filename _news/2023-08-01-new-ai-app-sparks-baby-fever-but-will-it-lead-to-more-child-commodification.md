@@ -20,6 +20,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
+    excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
+    publishedDateTime: 2023-07-31T11:51:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2542411-how-is-ai-powered-video-conferencing-revolutionizing-the-virtual-communication"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 15
+
 secured: "FWdRWNT/7ZkXRRDAruMLzM+73vkS8RiB2WKDDzy4HkOQ4NbVn5l7jcZvF7DcABFUMDUNt/w0+iG6IUA3kv8+PYWLlqelR+71Q6dsvFnJcK2I1WSgH5PB2lPtjxjESGNwN1+HGLVrwcvwyJ3Qjuakye+Y+ZQM8LE2nvKw41MjO9F+Gglwrl1rtvkaqgHcTJyr4FKYddMG2KsqFXUAboigabi1HxgmJrw/CilH5bggpZKaHxM26QZs4CKU2QieN09X+71msv04JG0W8//Atl6Hj/Z3XF9z2G1fOZse81tEk6JdIq3AjX7VXWujqNHTF3guZ+iuUfmmc5e+JQE/NwqfQKdSOdkN2ALcEeXanHM8onmkRUU3y/lQHmbhWal8eb00N0BbYC6Q8EQA/MuzvRvnj10DZr/7CYI96hNDtZ5qQFJPj+ITl/hAGqdApPjM+WkQFNdHkcUPB+00wusa0Tq8aAE36yoU/ESvuJiwIm/yXSj/R2Q277tNLqSmyjJMYC+h9Fo9tPJ3EL3lDICWd2LnAw==;bNaaBYdZlYJTRmWM2PCivw=="
 ---
 

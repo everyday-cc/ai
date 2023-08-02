@@ -21,54 +21,75 @@ topics:
   - AI
 
 related:
-  - title: "IBM and AWS partnering to transform industrial welding with AI and machine learning"
-    excerpt: "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
+  - title: "Exploring summarization options for Healthcare with Amazon SageMaker"
+    excerpt: "In today’s rapidly evolving healthcare landscape, doctors are faced with vast amounts of clinical data from various sources, such as caregiver notes, electronic health records, and imaging reports. This wealth of information, while essential for patient care, can also be overwhelming and time-consuming"
+    publishedDateTime: 2023-08-01T16:18:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 127
-  - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
-    excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
-  - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
-    excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
-    publishedDateTime: 2023-07-28T14:59:00Z
-    webUrl: "https://washingtontechnology.com/top-100/2023/07/ibms-tech-and-business-agenda-leads-ai-hybrid-cloud/388925/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 41
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/07/27/IBM_logo/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/exploring-summarization.jpg"
+        width: 1017
+        height: 505
         isCached: true
-  - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
-    excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
-    publishedDateTime: 2023-07-29T07:47:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+  - title: "Unlocking creativity: How generative AI and Amazon SageMaker help businesses produce ad creatives for marketing campaigns with AWS"
+    excerpt: "Advertising agencies can use generative AI and text-to-image foundation models to create innovative ad creatives and content. In this post, we demonstrate how you can generate new images from existing base images using Amazon SageMaker, a fully managed service to build, train, and deploy ML models for"
+    publishedDateTime: 2023-08-01T16:07:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-creativity-how-generative-ai-and-amazon-sagemaker-help-businesses-produce-ad-creatives-for-marketing-campaigns-with-aws/"
     type: article
     provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 34
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102228308,imgsize-12376,width-1200,height=765,overlay-ethealth/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more.jpg"
-        width: 1200
-        height: 765
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/unlocking-creativity.jpg"
+        width: 1022
+        height: 511
         isCached: true
+  - title: "Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics"
+    excerpt: "If you are a business analyst, understanding customer behavior is probably one of the most important things you care about. Understanding the reasons and mechanisms behind customer purchase decisions can facilitate revenue growth. However, the loss of customers (commonly referred to as customer churn)"
+    publishedDateTime: 2023-07-31T18:45:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/is-your-model-good-a-deep-dive-into-amazon-sagemaker-canvas-advanced-metrics/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 66
+  - title: "Build protein folding workflows to accelerate drug discovery on Amazon SageMaker"
+    excerpt: "Drug development is a complex and long process that involves screening thousands of drug candidates and using computational or experimental methods to evaluate leads. According to McKinsey, a single drug can take 10 years and cost an average of $2.6 billion to go through disease target identification,"
+    publishedDateTime: 2023-07-31T18:49:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 64
+  - title: "Unveiling The Future Of Healthcare With Advanced Health Information Technology System"
+    excerpt: "Welcome to a world where cutting-edge technology is transforming the way we receive healthcare! In this blog post, we delve into the realm of advanced health information technology systems and unveil how they are revolutionizing the future of healthcare."
+    publishedDateTime: 2023-07-31T10:28:00Z
+    webUrl: "https://techbullion.com/unveiling-the-future-of-healthcare-with-advanced-health-information-technology-system/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/Medical.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Here's the 7-slide presentation healthcare startup Helpful used to raise $7.5 million for its management program for family caregivers"
+    excerpt: "Helpful raised $7.5 million from Redesign Health to build a community for caregiver organization and support."
+    publishedDateTime: 2023-08-01T13:00:00Z
+    webUrl: "https://www.businessinsider.com/seed-financing-pitch-deck-for-family-caregiving-healthtech-startup-helpful-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
 
 secured: "yEksh38GhR20JEgx6GEHa0P7lN7CIwYmdWIGxtPgjXUJJE1Wa0RVeOWMHchk9YJGA/ETgi6MlTnbXz7CEdWm9byBk6gV0fuVFNswWMD+zu5QuDYfwLmnqNv0IEPnPtw6DawG36cEWsueSavM0p5BBNB3rJukn3zZbiozHnIVskv+tgTHLv/PEZRW63pLmV4+A5YPJ7FOcSggfWcgeJ1iRNxK/nsgv76HWB8fGVueVl0Ym4Cletw8ajY5/NI+YUUVjolDPnw+f9OEMkxwAMhuyOjLT+arAFdczG2W+ozNM+tkv3DRtklLNhReXMKFbLJ8MOxXG3eAzV1yf2LfkC5LptaxKmqHIRY/NJrhnCp5y0E=;XX7aNfl1QKR0tcKKN0O/Dg=="
 ---

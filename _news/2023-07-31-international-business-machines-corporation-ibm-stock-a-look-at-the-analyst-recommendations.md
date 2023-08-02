@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Molina Healthcare Inc. (MOH) Stock: A Closer Look at the Market Potential"
-    excerpt: "The price-to-earnings ratio for Molina Healthcare Inc. (NYSE: MOH) is above average at 20.93x, while the 36-month beta value is 0.69.Analysts have differing opinions on the stock, with 8 analysts rating it as a “buy,"
-    publishedDateTime: 2023-07-28T11:03:00Z
-    webUrl: "https://newsheater.com/2023/07/28/molina-healthcare-inc-moh-stock-a-closer-look-at-the-market-potential/"
-    type: article
-    provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 38
-    images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-44.png"
-        width: 640
-        height: 426
-        isCached: true
   - title: "GE HealthCare Technologies Inc. (GEHC) Stock: A Closer Look at the Market Potential"
     excerpt: "The price-to-earnings ratio for GE HealthCare Technologies Inc. (NASDAQ: GEHC) is above average at 19.41x, Analysts have differing opinions on the stock, with 5 analysts rating it as a “buy,” 1 as “overweight,"
     publishedDateTime: 2023-08-01T15:20:00Z

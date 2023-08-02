@@ -72,6 +72,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "AWS and Accel Announce Accelerator Program for Generative AI Startups in India"
+    excerpt: "Amazon Web Services (AWS) and venture capital firm Accel have jointly announced ML Elevate 2023, a 6-week accelerator program aimed at empowering star"
+    publishedDateTime: 2023-08-02T04:59:00Z
+    webUrl: "https://www.indianweb2.com/2023/08/aws-and-accel-announce-accelerator.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 50
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuWf8p4faTqGgICWbuiJ0HcNgruglRQiYRcrE2gMZPxVvWKVSYpJWQcJXXiXbhG1ppVHRUsV1xC9T29_BPe2WtFuLJscaHrUw-ZprJHChGa7gdSDHoq0_aHbnisT-CAy9pQPTW7pn2snF_t5G6SbtXa4TVMv55E8BCycFmwWX1ePyO1XMTDm_vi0eHD4o/s16000/ML_Elevate.webp"
+        width: 2640
+        height: 1486
+        isCached: true
   - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
     excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
     publishedDateTime: 2023-07-31T15:03:00Z

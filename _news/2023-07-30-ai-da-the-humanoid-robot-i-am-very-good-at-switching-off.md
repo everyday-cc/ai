@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Google's building A.I. into robots to teach them to throw out the trash"
-    excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
-    publishedDateTime: 2023-07-28T11:19:00Z
-    webUrl: "https://www.cnbc.com/2023/07/28/googles-builds-ai-into-robots-to-teach-them-to-throw-out-the-trash.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 49
   - title: "A New Dawn in Robotics: Touch-Based Object Rotation"
     excerpt: "In a groundbreaking development, a team of engineers at the University of California San Diego (UCSD) has designed a robotic hand that can rotate objects using touch alone, without the need for visual input."
     publishedDateTime: 2023-07-28T13:21:00Z

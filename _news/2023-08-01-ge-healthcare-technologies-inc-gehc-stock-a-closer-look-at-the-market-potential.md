@@ -7,7 +7,7 @@ originalUrl: "https://newsheater.com/2023/08/01/ge-healthcare-technologies-inc-g
 webUrl: "https://newsheater.com/2023/08/01/ge-healthcare-technologies-inc-gehc-stock-a-closer-look-at-the-market-potential/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Molina Healthcare Inc. (MOH) Stock: A Closer Look at the Market Potential"
-    excerpt: "The price-to-earnings ratio for Molina Healthcare Inc. (NYSE: MOH) is above average at 20.93x, while the 36-month beta value is 0.69.Analysts have differing opinions on the stock, with 8 analysts rating it as a “buy,"
-    publishedDateTime: 2023-07-28T11:03:00Z
-    webUrl: "https://newsheater.com/2023/07/28/molina-healthcare-inc-moh-stock-a-closer-look-at-the-market-potential/"
-    type: article
-    provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 38
-    images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-44.png"
-        width: 640
-        height: 426
-        isCached: true
   - title: "International Business Machines Corporation (IBM) Stock: A Look at the Analyst Recommendations"
     excerpt: "International Business Machines Corporation (NYSE: IBM) has a higher price-to-earnings ratio of 69.94x compared to its average ratio. compared to its average ratio and a 36-month beta value of 0.85. Analysts have mixed views on the stock,"
     publishedDateTime: 2023-07-31T07:19:00Z

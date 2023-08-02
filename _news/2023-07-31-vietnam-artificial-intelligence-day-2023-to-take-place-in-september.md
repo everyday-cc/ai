@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vietnam Orders Social Media Firms to Cut Toxic Content Using AI"
-    excerpt: "HO CHI MINH CITY, VIETNAM - Vietnam’s demand that international social media firms use artificial intelligence to identify and remove \"toxic&quo"
-    publishedDateTime: 2023-07-28T11:05:00Z
-    webUrl: "https://www.malaysiasun.com/news/273913648/vietnam-orders-social-media-firms-to-cut-toxic-content-using-ai"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 19
   - title: "2023 Vietnam Artificial Intelligence Day to take place in September"
     excerpt: "Vietnam Artificial Intelligence Day (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on September 21-22."
     publishedDateTime: 2023-07-31T09:23:00Z

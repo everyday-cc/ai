@@ -33,15 +33,6 @@ related:
         width: 600
         height: 313
         isCached: true
-  - title: "Vietnam Orders Social Media Firms to Cut Toxic Content Using AI"
-    excerpt: "HO CHI MINH CITY, VIETNAM - Vietnam’s demand that international social media firms use artificial intelligence to identify and remove \"toxic&quo"
-    publishedDateTime: 2023-07-28T11:05:00Z
-    webUrl: "https://www.malaysiasun.com/news/273913648/vietnam-orders-social-media-firms-to-cut-toxic-content-using-ai"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 19
 
 secured: "MqGyVDcy7DpAEjuaZhKq6qvuHoXRiRBn/xvyow7j5fycnaarfyPs61gQRMzzEaAuou8Yp8tzmG9PgbxCS52RyewsjbAFxrww/gW772NuHTagiATKtbsPH/CnpMnIGXV41pHhrf7nIeakjCV8v2+ySfB01XHHRLyw1qC136eDDl/x4yC8mVAt4OVsKDaLKkHdxrtoX2zr0STMIBCpSNkKR7qdAarFgxv7TIp9BKxwfyMPb/wVZ9KvahwXyt32yX3jk7IffokxTSBj23Dl+f8gxhivQM5HadpnW8writK9YU9rgzikE2Fo/60daDZJ9nyD8Kk5qZbu1Dbz6Qvj78nheCaOdmLicr4qg5HBgnUajaiyTCbt2IP6lQ4EEJ4bgDq3KThnPwopOkyjTr57PgkMWruzWn/lAgSvPpMyUURY/qp4q8DKMGxi7kgroUaUAruqa4I7ynreeB2RRERTFNgSnVOkxlH7HwhRhWC71pPGE29ar5VxINhXE/u8BnVjbxlnqTIsBWKIFHQtn4NZ27X1xA==;EmaPBRAciDJH2UfKy3IOyg=="
 ---

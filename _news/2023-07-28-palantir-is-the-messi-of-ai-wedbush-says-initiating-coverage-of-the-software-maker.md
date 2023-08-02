@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Palantir Stock Surges After Wedbush's Ives Calls It 'Messi of AI' With A Bullish Outlook: 'On Golden Track To Success'"
-    excerpt: "The analyst called the company as the “Messi of AI on the golden track to success,” referring to the World Cup-winning Argentine soccer legend Lionel Messi, who currently plays in Major League Soccer For I nter Miami."
-    publishedDateTime: 2023-07-28T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/palantir-stock-surges-after-wedbush-s-ives-calls-it-messi-of-ai-with-a-bullish-outlook-on-golden-track-to-success-1032489883"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Palantir has built an 'AI fortress that is unmatched' and the stock is set to soar 54% as new industrial revolution begins, Wedbush says"
     excerpt: "The data software firm, which has been funded in part by the CIA's In-Q-Tel venture capital arm, is the \"Messi\" of AI, Wedbush said."
     publishedDateTime: 2023-07-28T13:28:00Z

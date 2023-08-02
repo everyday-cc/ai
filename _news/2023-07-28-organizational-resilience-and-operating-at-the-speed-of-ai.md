@@ -78,31 +78,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "AI-Generated Data Can Poison Future AI Models"
-    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
-    publishedDateTime: 2023-07-28T11:16:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
-    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial Intelligence and the Broadband Business: A Black Box"
     excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
     publishedDateTime: 2023-07-31T18:28:00Z

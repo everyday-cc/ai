@@ -41,15 +41,22 @@ related:
         width: 980
         height: 556
         isCached: true
-  - title: "S. Korea’s Incheon Airport implements facial recognition system for travellers"
-    excerpt: "Incheon Airport said it has begun using pre-registered facial information to streamline the departure process for passengers from Friday (July 28)."
-    publishedDateTime: 2023-07-28T12:19:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/28/s-koreas-incheon-airport-implements-facial-recognition-system-for-travellers"
+  - title: "IIT-Madras to introduce facial recognition attendance system, app coordinating parent visits as part of suicide prevention initiative"
+    excerpt: "In the forthcoming academic year starting August, IIT Madras will introduce two practices as part of its suicide prevention initiative — a face recognition attendance management system to identify students absent for prolonged periods of time and an app that will let parents have regular interactions with their children."
+    publishedDateTime: 2023-08-02T05:14:00Z
+    webUrl: "https://indianexpress.com/article/education/iit-madras-to-introduce-facial-recognition-attendance-system-app-coordinating-parent-visits-as-part-of-suicide-prevention-initiative-jee-main-jee-advanced-2023-8872511/"
+    ampWebUrl: "https://indianexpress.com/article/education/iit-madras-to-introduce-facial-recognition-attendance-system-app-coordinating-parent-visits-as-part-of-suicide-prevention-initiative-jee-main-jee-advanced-2023-8872511/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-madras-to-introduce-facial-recognition-attendance-system-app-coordinating-parent-visits-as-part-of-suicide-prevention-initiative-jee-main-jee-advanced-2023-8872511/lite/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 30
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 28
+    images:
+      - url: "https://images.indianexpress.com/2023/08/A-view-of-the-IIT-Madras-Logo-1-2-2.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "YIjFncLS78t2bNgRIrjD20SnA7ekM2g/nL2+HOx6/y1Mwbyxl6ghfNmp2SFsAI5haYAojE+n6mZi+AxJzGrWDFl1P8t+aMLwFXKmn6p0/CYVoyS9FrHlB+tVWiQd4pPekHH207QuUXDMJIwfXcmuaBlg4fMynG5Mow8dqJj2h5B16ByUyG71ZSKGrO6s7iXmprA+2EQVsYaMgamtHSD9mbtqTvZ5iv5eqJkcusFztGZnqEzR/N48+UJ2vGKL6fxbvnNQjDOZYP6Y4V1y/24eb0DEpj/3/ACKWVetWlkRxeL1FP3fCyF809nGrX4RS2Z6haD47yHXKRq+bjyggXaCfdLDY0LpJEmFKRtcTsCt4/FZuZ1dklRttoQL/4xDiCr29DRWl9QrshWuV07vYQAatt60InirZQ3CVTGLvU9TalsILFgp9pfurttBryk3kuSp/EY1xzJYk3JvqObl0iMVj5fKx6x5hyrA+61RBEjS0k7ks8keQfsBmYaTsTDzr5ucAJR/t5MV8NSnMcgM31ftqw==;u02z0fcAHcE2sjJEotsDCw=="
 ---

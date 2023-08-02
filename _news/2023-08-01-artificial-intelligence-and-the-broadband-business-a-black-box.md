@@ -90,31 +90,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "AI-Generated Data Can Poison Future AI Models"
-    excerpt: "As AI-generated content fills the Internet, it’s corrupting the training data for models to come. What happens when AI eats itself?"
-    publishedDateTime: 2023-07-28T11:16:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-generated-data-can-poison-future-ai-models/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B49447D3-BE5D-4A25-8505059961823425.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "Harnessing AI For Pitch Decks: A Guide To AI-Generated Presentations"
-    excerpt: "While AI pitch deck generators offer substantial benefits, it's crucial to keep in mind their limitations. These tools are designed to augment your capabilities, not replace them. Review and adjust the AI-generated content to ensure it aligns with your presentation goals and resonates with your specific audience."
-    publishedDateTime: 2023-07-28T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/28/harnessing-ai-for-pitch-decks-a-guide-to-ai-generated-presentations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "The Potential of AI as a Virtual Assistant"
     excerpt: "Instead of seeing it as a replacement it can be used to assist in daily tasks. Generally, an AI assistant understands natural language voice commands and completes tasks for the user. A virtual assistant can complete tasks like taking dictation,"
     publishedDateTime: 2023-07-31T11:52:00Z
@@ -171,6 +146,6 @@ related:
       domain: newsobserver.com
     quality: 0
 
-secured: "MLHzOc8Dpez7beR7A9NM34hILUB+eUD/a8XQr0iqGXIe7X3G4H4RBUHnDsDOa4O19LWbPlzi+G1YIOGPegWCtt9rk3kK+pS8IV4UORGsmj8ugzPj4YoIzoSgw6+VVALp9C2qZl7tTiurOjN+BMs3DneqiNGwvV+7HHi+5xla+tMmEOnabC2iCI/nxyQzBS2xfgyp12QJhM7crdZJpRAmNOYW1PReQeVlRg5h9ucBlWq0ZdhF6ogbFNHPzlv++bD0g+s3Vg879/+JvGVheYeo53lcqxMGbjDxMvRFkeuSNFjzb3wZp/SpO1TmkfvVopISKcWFpzqWp+wO/BxEnR98YQ01tgP9HEslSKDQVTx3yPg=;L1fY+z5ly8iKxC/5K5dnhg=="
+secured: "zfnUS74wSeDjQk5Pk2R7HsASaUC4TFwIZ49yKmrW3RSKMzW+YhQrngQtnxcpB477gHB42YGjFxqdeunBoPzpEJsI15X36gNHRn2umcI1JdGaJtciuIgRPTBuloaqNon5NJY6LmPO6fd2WH9spMcwgut/mVM9nMyGVbN1PqyASvpiOXIJpC/whawWvgSq3gCwMWCYo/rMWxb/GBB31fmbbUNPkOZO7SjOmaFyrMvRBQxJhXSlijAYeAjJ7Ls4RcvJHic8c9fby0tZ2E5MOXAhLL0YRpda7iFDU6dHZ7yWZq1TT1eoMx8I5zDNrRpC3nGZaoNILqKpJy/f9r1qUJYQ/YUMqx4UoTZRvBzbRBurwrgkJ0wMHG0+SrzjgWQekzvvMIDIfqXFbzUrecAEPXTWBl4qbEL0XnHamX78T9YNEsqpY+R/naiLgX1A9DnLrfLjrrSoSIXN22W/S+aITsxXyjFuSmcf+mvq218xA8eJKX56qvllvNv6UgbUkd04L9b3slOLN/vL8n/I9O2C/DCD2g==;uqOkjZao2zkzYzo5D7eZ7g=="
 ---
 

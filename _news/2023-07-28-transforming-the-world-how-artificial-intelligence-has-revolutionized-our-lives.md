@@ -26,33 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "AI Vs. Hearing Loss: The Battle That's Transforming Millions Of Lives"
-    excerpt: "Over 5% of the world’s population suffers from disabling hearing loss. Groundbreaking advances in AI are revolutionizing hearing and helping erase the social stigma."
-    publishedDateTime: 2023-07-28T11:10:00Z
-    webUrl: "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/"
-    ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/"
+  - title: "Executives Need To Be Careful Before Diving Into The World Of AI"
+    excerpt: "With AI continuing to make headlines, organizations feel under pressure to adopt the new technology. But many questions remain."
+    publishedDateTime: 2023-07-29T16:49:00Z
+    webUrl: "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c39893bc808dac8016a7fe/0x0.jpg?format=jpg&crop=2908,1637,x0,y150,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c54268c990bbf4f1ade19b/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 676
+        height: 800
         isCached: true
-  - title: "Tackling challenges of retail sweethearting with AI and machine learning"
-    excerpt: "Loss from pilferage ranges from 1% -5% of annual revenue, depending on the level of control retailers have over their outlets."
-    publishedDateTime: 2023-08-01T08:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+  - title: "Intel Needs to Latch Onto the AI Boom"
+    excerpt: "PC recovery will only get chip maker so far as data center market pivots toward Nvidia."
+    publishedDateTime: 2023-07-28T15:34:00Z
+    webUrl: "https://www.wsj.com/articles/intel-needs-to-latch-onto-the-ai-boom-36484994"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 53
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-825721/social"
+        width: 1279
+        height: 640
+        isCached: true
+  - title: "There Is No Need To Fear Artificial Intelligence"
+    excerpt: "We hear and read about the potential impact of artificial intelligence (AI) and the upcoming technological revolution in reshaping our lives and indeed, the entire world. It is predicted that this transformation will drastically alter our personal and professional routines,"
+    publishedDateTime: 2023-07-30T22:34:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/there-is-no-need-to-fear-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 37
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/07/creative-artificial-intelligence-concept-with-human-brain-sketch-man-hand-writing-diary-background-double-exposure.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "4ZqzRXHoO6nZtgRI3paPNe1rcb/nnMzV+ZivINRe7Gy/fbK/b1/fZ4iyoxE7UEpaC1XYJhByAXYmjRLwYqBfITWou6Xc8qNchAgk7eRUZJmyB7l6OxmofSowlenzyN9nWae+lhvJ0JL0SqkJDgu7ZIFuQ3r3jIFA6seBajbAHPOG6yWF6RtzwXgxm124myhf9nr3FLyJ1AEqZePgUP69zmrTyQRZHSHjOqlEPSOc1/Hf1BmxeEuc8XstMqPBACeMMe0VNci7Zy8BSZlduf+5T+nlfWZpIoUaneX12LwmgyVV1v8yfsen8UkvVD1jU5K9f+F51uVQmqvjABWCnali8nDKyFj5EFrwgg2W9zKKQTs=;xvPr//chVpYDFIZaQHT+pw=="
 ---

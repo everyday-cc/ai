@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/netflix-criticized-for-posting
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/netflix-criticized-for-posting-ai-jobs-paying-up-to-900-000-while-writers-and-actors-are-on-strike-1de748f"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 13
-  - title: "Disney, Netflix, Amazon, Apple, and Sony Ramp Up AI Hiring Amid Ongoing Writer Strikes: Report"
-    excerpt: "Major entertainment companies are on a hiring spree with plum pay packages for positions in the artificial intelligence (AI) fie"
-    publishedDateTime: 2023-07-28T11:45:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33437141/disney-netflix-amazon-apple-and-sony-ramp-up-ai-hiring-amid-ongoing-writer-strikes-report"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "UTFfECKKXKKhtCkWSvWIrt22LGnp6iwg/saBsGGEjWwYCHBzJVhQNo41QaeqPvLc84e/zHP/Q5C9RiN9tdP6u2FDq7ddO5UvpVlgQY/dCPo2Vf/oVV+vcZWKTqQpS0IOcdZ+6D/3EiqQo8NObrCbzwetAX7EHkkHXoxMkp35d/oshQjNa8/t/xeD88gT44w7UTrz2AOM9Xt9d9gL3Ai7zxVIaEa8v5aRyTITOidyoIaLDT+OaQiXxtUA6+drOqidSBFHKvF6VD3PVjt77donFsJMGHVa5Txw8yc7InS+xiafif7p66pXnJPopgHnIpJ9wM+r2c1QPJLUDbGYCl69xao7GBR3Ha2zLsl2D2Qi9Bw=;kKQPVXus236LuAGhtGEd8w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "The best AI video generators for creators and marketers"
-    excerpt: "The AI-based tools that YouTube creators are using now offer a glimpse into the AI video generators content marketers may adopt soon."
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://searchengineland.com/best-ai-video-generators-creators-marketers-429940"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 19
 
 secured: "wr63tRCMvp/lr51VLNDcyeYKcSsA5z5ZYSqLDDY/Iw3RixAZPcFR8kKpX3MmXG63jJXSYL89IiCA12L7K8+t5yiOL/vqHj7QSf2sJECfUgtUaQRzuebEBprfSobt6jsEJJT2gKgP+P2dYygu0IzG09pcmCcyHfWE0I86U/0pI2ndpEU3TvKfUR0vCRyyBXNdBqDu/DDki9ZOImV9r/nCMpO4J/3yrzyFKKGhcxaBigugobkWuJH8oUluf/JzvSdtldQslsm47oVD/9LYI74oV9+fexq+ZgYs68IB6tw/tIk4E/xWv1N87rmM90jXPwW01zmu9yWfVM+F0GY60T9sThFTDKX7h7R0FXpsNwHzrk4=;GhzwfTDIjuvA3yjJBrq+zA=="
 ---

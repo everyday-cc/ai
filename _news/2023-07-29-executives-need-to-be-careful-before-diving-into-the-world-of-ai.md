@@ -44,15 +44,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "3 Millionaire-Maker AI Stocks to Buy Before the Window Closes"
-    excerpt: "The post 3 Millionaire-Maker AI Stocks to Buy Before the Window Closes appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-28T12:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-millionaire-maker-ai-stocks-to-buy-before-the-window-closes"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "There Is No Need To Fear Artificial Intelligence"
     excerpt: "We hear and read about the potential impact of artificial intelligence (AI) and the upcoming technological revolution in reshaping our lives and indeed, the entire world. It is predicted that this transformation will drastically alter our personal and professional routines,"
     publishedDateTime: 2023-07-30T22:34:00Z
@@ -66,6 +57,20 @@ related:
       - url: "https://themedialine.org/wp-content/uploads/2023/07/creative-artificial-intelligence-concept-with-human-brain-sketch-man-hand-writing-diary-background-double-exposure.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Transforming the World: How Artificial Intelligence Has Revolutionized Our Lives"
+    excerpt: "In the past few decades, the ever-evolving realm of artificial intelligence (AI) has not only emerged as a powerful force but has also become a transformative"
+    publishedDateTime: 2023-07-28T16:31:00Z
+    webUrl: "https://www.tech-critter.com/transforming-the-world-how-artificial-intelligence-has-revolutionized-our-lives/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 36
+    images:
+      - url: "https://secure.gravatar.com/avatar/cfac215c599f8f3ec6ae2564a97d0677?s=300&d=mm&r=g"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "nfgrC+/tFRLH7fDWSOYKnB6nTP5dqXbB+zj/cdU2+9u2aTOWNM41UcqQapgyLhI2VUONNi0j7Pi3+M7NSB8UAlcqzZs7bg+ut3Cn589V8DaZeZ1hbo5ubMVmpU/vYz3FOS0gM1n4inDKFvIMie7UpG5I53cLJagQdBQCKJJTB1Lpbbj3OdkvG72LwixmBOgKCmUJdBryOJ/9zlux/TWZC04Ndaitys58pwrDqi+Yx2V1cm1eLIOgUWpNiaRGz1A7Ygg6YI96dq5AsJsQa3CX6tBmz9Sg/gfsMfAgmRV2aZJEs1OF5EJQ3Z5oS7qkaG5oHKT+38QRZvgzwHBj9HplKBBrkFf7XDVAvAdCrs9ZckpNdiJm6ANlg1ieCteZGbD5MsLXpkZuxSeotHpWa+LK1LHQoyVu/balypMdfBAZJzo7daqcsC9mvyZU+WuRXXH/Q856g1uElCtP3mNQrx05OhLFD/narTCLsm+4zYN2uGDBg1zdOTKeAErBhOwF0Bk+HdHEHKJP41M6YDgyj2Rkig==;0WTKZiF1VDmo3N/Xq4HghQ=="

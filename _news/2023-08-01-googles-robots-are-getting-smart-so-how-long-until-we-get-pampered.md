@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/amp/"
 type: article
 quality: 89
-heat: 92
+heat: 89
 published: true
 
 provider:

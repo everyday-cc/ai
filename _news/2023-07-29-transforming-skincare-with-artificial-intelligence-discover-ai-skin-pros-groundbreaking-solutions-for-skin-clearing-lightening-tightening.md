@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and AWS partnering to transform industrial welding with AI and machine learning"
-    excerpt: "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 127
   - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
     excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
     publishedDateTime: 2023-08-01T12:00:00Z
@@ -59,17 +50,20 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
-    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
-    publishedDateTime: 2023-07-29T05:58:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 16
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "Mrg3M0G2K4Ol5aF3dF+WULpunM4aSQmPzcJ6n4QETq3Cvg6HD0f5pgaDQMcNbgg3mlDpczhjkssnHQQUSMautfEW/XeDeRkmJldSUo1AhB6uIPtpuhi/kzCr3p9LEYpWNtptsL4N5Fy7n9dyTpSha63TPp3PL9+PxDmUxPIvFTw64vPUR8xhVof6s+B0z3E4V4EYcPAXOyphGGY7fnSwRCKih6pmrLgAhpc5t8ZoshOOD/b/9j6NzzKW9wcTza3zLJ9VDcNVpRD6SPCXxznXSGXM30kjy+0tGxAHpxyBLcqn/0gQ2ZOLmu1Geuu5pWpWc6ZUgALf2Eo+d6fm2I/LOJjauHJGt4HzZ6Yf5c3yNTlIGIyL00DERwecT8r3rdFGvRLQLOidML4vfL/O4qiPInTJv8VlG/9IGfV4KM7DJESCY3f4fO9sQyioKTDM0rNY3aUYPo1q7tROowTpAVzSX1QNfEx1625RgOmF8o5tNh5qpHjmz+4nf5PD/vttVIQFyz7BnYY9wZBjBgMMQdwjew==;O+UqG76eSvonAboCyrsQxg=="
 ---

@@ -43,6 +43,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Axiata Group's Fintech Arm, Boost Sets to Accelerate MSMEs' Financial Inclusion and Digitalization to help the underserved market in Indonesia"
+    excerpt: "Boost aims to empower 77.6% underserved MSMEs through simplified financing solutions. JAKARTA, Indonesia, Aug. 2, 2023 /PRNewswire/ -- Boost, a leading regional full spectrum fintech arm of Axiata, is proud to announce its unwavering dedication to bolstering the growth of Indonesia's MSMEs."
+    publishedDateTime: 2023-08-02T04:30:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/02/9857822.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "V+VNvO0NXzVGBsRRnOWhnbb5pkGqO3YDSJom2YC/Bt7eR1C9etVlxhcn5EleU32IkfdtUDMOU3SeUOpbmH+HhC2hr1MIE669qMqCtjUjFpZCQUE6+mn7n2o0hP1PBFg4HHq7ru9Xy4e4yXMjfQr+Ka4HdKSUXF8+WHZDoM5kF6+82/3ObG/x/cHq0nS/X9K8CFx5U27xO081xqjSkdwIplEqFZ3QiyTU7P1J/YuTBiCsKNmGGl5mR4DSEJSjUlpUX4H39e5oVpqtqOlossGVXHFi653aWe6OEPnqpCWJu4adqQb1rNJQ0GNt+PnuDY4v3gr/v7aYMJLF3Z4yNWNe/r/0nWdNCE5wJo6UfKmsNHySM6NuF8PSMkxM2iryJGXx0ySd6rypiHqLYK5WpAyfogxv8vRAbYQvX0MmWs1zlomQgEp302S3pk4nV76sjo25/ryHp7wMiTZ6XuXG78zHCPQezyZqcvgczQl8CQV502FAyHtg4tLWnQiJLiF0odYL4hSD41rF6VTbaY7xN50OgQ==;+HSjc/T2ecSieHyAA2bLTg=="
 ---

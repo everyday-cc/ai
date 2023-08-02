@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-summarizat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -85,6 +85,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
+    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
+    publishedDateTime: 2023-07-29T05:58:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 16
 
 secured: "8N3qVFcr/UZhdZBUDRqls/fJTsEKFZJiqno68hx2pgelwewzLVSekYPlY3NtdIUQ6dQ1vCn9KirJzUKLObHY8IPs62/ptSCyNRjdx0NCBVKBDUfXX4/D9CPdEBluUH+/HSnUjaNFVRHQwnmOSEqafTp8KWIg4InfYVpF2rWPjQHRcVyZMUtBhYXbKF17ljnVeFJ5KF3flq33XqpuKU5JCI+UWzf76YaK9AH1XNV7gjtUR8sR3AbF9KPhN3pjwo1UWprexz0fmSbz6yNG0VXMBUDrMPKATGb5YvBZmWwcifrrprJvY25zbZVH/y1SCx9HEsnsWfoCV3OSSVTGXkgZHNnrXZXUGY8B3GYnSmYTkYI=;59IVcbY5sWtWWi8z77Arpg=="
 ---

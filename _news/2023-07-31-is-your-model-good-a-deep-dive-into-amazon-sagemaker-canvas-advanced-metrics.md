@@ -83,6 +83,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
+    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
+    publishedDateTime: 2023-07-29T05:58:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 16
 
 secured: "39UsmlGHKLlx76WL4JWQ7WJf7//T3JIEbOevT000eVDeT2g8ZelIchioVNvXc82klyp+4fLfsXchakwMq2uRBon6Ch4vBx+MrrCRW5BgY3n5Fy53ygR2cUOeAtQ+uG+wb6Okf0TieWmY97qr1aKTdzuihRcdLJBzc7lU+DNdmogokFu1YF2hW0hwBEvrpD2t3X5RtDWMn+B1qe9FxXLqLUDXdsuQgbP774+FIZSf7iC92qDaAcejfwJN7bVsK5qL4eV2zPyLssbnejieCtP/xS/1vN+rAcGxs+8Z2BS6juHstJqXmpbBaqT599fa17+HJ436/IFGnkejy2B0CclKRNvREsIoE2eHBWv2hH422Q8=;08PqOoRl3YePY7wxBliB1w=="
 ---

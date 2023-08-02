@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
-excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
-publishedDateTime: 2023-08-01T15:55:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
+title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
+excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
+publishedDateTime: 2023-08-01T12:28:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
 type: article
-quality: 28
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/BtfcsvUS69ehIVbbDiT8NKv8w_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEHE5CRKO5GB4BZQPXUBL2Y4RE.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -54,20 +56,6 @@ related:
       - url: "https://media.wired.com/photos/64c83bd3eb3f06fa8140d218/191:100/w_1280,c_limit/stickies_chatbox_GettyImages-1255116327.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
-    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
-    publishedDateTime: 2023-07-28T11:27:00Z
-    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-    images:
-      - url: "http://images.wsj.net/im-823806?width=1280&height=720"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Researchers find multiple ways to bypass AI chatbot safety rules"
     excerpt: "Preventing artificial intelligence chatbots from creating harmful content may be more difficult than initially believed, according to new research from Carnegie Mellon University which reveals new"
@@ -312,6 +300,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "3XP8iYotoh2JLsCI/krDjA81z7MW8KQnlgXozoO+YgHdPiSUMCatd6MNBe5w7Tio9Z/5Kp+v4IOa2dZOHZNPhtiYf9JJ0CnhxxIAYkJSMGv2vCuftaBmAvdVVZeynXs7wRJ1xYUb/nppUeujeN5CttNTJSgM488gJmUGXI4CzRxrWwDEPyp3ZnHNwn1AyA8NyntUMjQMFxeCMYI2zYgBapQuTqwUdF1Zi+kmfsgwOI/Ow1no3AT4eyUZ8YmZ47qsTc16fHdiyeCPnKrf5XJujzUo6iXWSWoOZ4rCWUdyg6/6eq3KhUcNhtc5bnloMVj4ZBGc6xhmx3fqWekvdoNYdGChgXTn6kd9mIocX4W9ba0=;3wmJIC0+wwBY2QDyWY0/yQ=="
+secured: "AymqMkwMdvFGsXuSlUD8UcYfVR5x2NPlfgfeqo5bgZffwgSdrZFajBeANH+r/kahrlh1m+VyKJxTxRS6wGQ8DBAZBKTu7mUXktotsFPD50PhpHpDXAgkTSo47CaoRdfkzdJxhLPWtxiKLGIjLQR3mPhb7dqGbNYL0wUinF+u1/sZT69Y5gqdddMLYhjlVH0V6E/+eW6MaS/99+fkhb0kzh0FYwky1nBkbx5Yh6lQQrsNjoxZOP1VZV77WgxauMJo53RhgcsqxOMrdpLMhY3ciTSbzFXVM8BehJlt+ixYapvohb/gtBg0kD1148h5qg+ENu2Ct9OKqNgdMWnwpWZR9U7iM4mPCr8hfvgCTZFQ6rI=;mL4Ouxa8itCTP5AI4SYeDg=="
 ---
 

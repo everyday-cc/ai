@@ -83,6 +83,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
+    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
+    publishedDateTime: 2023-07-29T05:58:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 16
 
 secured: "AIAZM+cUlTtsIn3K3zQBI21zfueT2axKEUn2bAEqicWiSu4JGiEywyswVXhU6KBaPazHzz4buSeTJnydIvsREvCZq3EZUbLRNcwNZ00eW6dU8mYmQIMX60iLEXn0pttDhqh9+bLP1DAztAYS9pjreiM6Ej6rGycvwCtbPKUQgu3/Fm34IHs//Y/tyMUO2sJ8HLK+FEic3x9fvn7PqBMcET6xERANP73EfZ3SsHlE2Sko8gzRMaVdM1oxBSu2OpMbfoOpaQYLmOEvQF2EzWd2eqYQaPxjf93sNHCzjbMmq0ZE67MbuYohFIe/NpDzuWvWj+t+LTlJ2A5OhBuoY6QYQd1F6AgLApvAcTP8hYLxsMidKAtyR5BLqICShNE3N1QUqX9kaCoG3SEd3cYdT/DWu1K0InW5XLHY6OjouyL50dMAmO7bdODoh16ORZ6AZNbMV95y1kbaYXC6KGRqSRB36X7WQk6yoSXnSwPbIyG3k6y3nseir8a4ivr/KnIY8KP9Xfmkv48+Gm4N7/ucLgNuMw==;nQrpcJNaUehVZw6iPiBH7A=="
 ---

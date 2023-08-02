@@ -67,15 +67,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "The best AI video generators for creators and marketers"
-    excerpt: "The AI-based tools that YouTube creators are using now offer a glimpse into the AI video generators content marketers may adopt soon."
-    publishedDateTime: 2023-07-28T12:00:00Z
-    webUrl: "https://searchengineland.com/best-ai-video-generators-creators-marketers-429940"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 19
 
 secured: "CvSAOERMEZI0cXfKobBNPjFbhOq8ZmntsgoohOOKqJ0loYjsope2SjE2B/3Rp1WXIwVXL8pOv8CqrHUFE42jYBogx0SzhHy885ZcoA9hSiOFMU4FOQLVNp9Y1g/mk2KLHxRFQ0OZsXoK6zPYuztPoa3WuSuB2pDXzcEJvAM1RGRfMuSJ4aub/EkE0MYrpHyzJ5oAUIlDF3O6rn6nFeEU4fjgBChXd+t2B5UGW06+I1ETuvUWOT2ZBGJQiMpWIMPBVS0DXkZ5Jrdf7eEWkcGHyYWj6AQBY1JBQWKIV0Lm/e1+koAw4jKQq1yuNn0hjRgnhyXNqz7ygDDSxWjSibWWYLFuJbKRQWsdG6kg9ZEq6QE7zoMhug3ur8/vY1XX8g+tFJMsPxaI9PhcF25G17v9h1TCkgTWfWEtSjABzDh6EHe36UzbuNE8uQIFkC3jzLjRNBj8C/yNmPTPg/cmwsj3mZuXI/M08hsN9/fVRtGWY5DcMmUMJdsDt3pPACxncs6m0tiazbZKINOC/ux7eXtV0Q==;pdSmUnBTPTon9aTZ5JNdsw=="
 ---
