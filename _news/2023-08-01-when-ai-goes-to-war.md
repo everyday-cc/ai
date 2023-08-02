@@ -102,6 +102,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "4 Ways To Make Money Off AI-Generated Art"
     excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"
     publishedDateTime: 2023-08-01T00:00:00Z
@@ -115,6 +129,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/C6hxRQ_vw8YbdvlKrH74Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5c0485666c27336018e48776dba7f014"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Learn how to use AI in your projects with Generative AI Studio"
+    excerpt: "Watch the introductory video below to learn more about what you can expect from Google’s Generative AI Studio and see the language tool in action. Let’s start with the basics: what is Generative AI? It is a type of artificial intelligence that can ..."
+    publishedDateTime: 2023-08-02T09:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/generative-ai-studio/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-use-Generative-AI.jpg"
+        width: 700
+        height: 459
         isCached: true
   - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
     excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."

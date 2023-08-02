@@ -48,6 +48,20 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "Working with Generative AI Just Got Faster!"
+    excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
+    publishedDateTime: 2023-08-02T11:42:00Z
+    webUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "What’s wrong with tech giants riding the AI wave"
     excerpt: "Rising on optimism over their AI prospects, more than on actual AI revenue, investors are betting that the giants will rule for a long time. The average age of the tech top five is edging back up towards 40, with no newcomers. And their size is unprecedented."
     publishedDateTime: 2023-07-30T12:01:00Z

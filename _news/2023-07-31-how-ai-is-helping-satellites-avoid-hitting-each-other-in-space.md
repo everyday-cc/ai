@@ -111,15 +111,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 32
-  - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
-    excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
-    publishedDateTime: 2023-07-28T18:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-porn-generator-unstable-making-500k-images-day-ceo-says-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Creating better treatments with AI"
     excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
     publishedDateTime: 2023-08-02T08:12:00Z
@@ -138,15 +129,6 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 17
-  - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
-    excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
-    publishedDateTime: 2023-07-28T18:33:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/ais-impact-on-business-billion-dollar-investments-and-market-consolidation"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "HiCuwy8weaoSv2mKRfifI0AiB6R+q/PAqnPLNP3IIW81gGzWg13CNcvF9wiLcjfTgS8tVhZFyqGVSdGeId4MR+MVhWmCSfGbh/Mt6s1AidM4rtMHH1uS2o78pxQhy0McvIl79p9DnIDH8rEBUkUrSDQE22LJATSyZOt6Cq1gdgf2aOXklZKpDneN2dTIixF3n1ZA7Jx30EeFZLQProgXtmJpYLTtAQK5QwpsmxfrYxl1cEYrSlPCoy+f2ustBK82AU7cKvKxaJpPiqW9nuSKH3j6TorkHOhL5bwDiXvJ/nbMJ1C19yOm7ctK9a4XTs6SxP/oi6wAthrxBbMayz4FccVPYGwbC0OkHxq0E2mK13o=;zaE++dk9jyChA6Ep+C3E6g=="
 ---

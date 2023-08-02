@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-con
 webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
 type: article
 quality: 95
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -23,33 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "6 Ways Generative AI Is Changing Content Management"
-    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
-    publishedDateTime: 2023-07-31T13:26:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+  - title: "How conversational AI can transform IT support"
+    excerpt: "There are two prominent problems in the IT support process: repetitiveness and availability. Here's how conversational AI can help address both.\nThe post How conversational AI can transform IT support appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-02T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
-        width: 640
-        height: 480
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/dsc09921.blog-lead-space-40x21-1-630x330.jpg"
+        width: 630
+        height: 330
         isCached: true
-  - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
-    excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
-    publishedDateTime: 2023-07-29T07:47:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+  - title: "Rakuten Group signs pact with OpenAI to deliver conversational AI experiences"
+    excerpt: "Rakuten claims to have more than 70 services and 1.7 billion members worldwide. It operates Japan’s largest online shopping mall and offers a diverse portfolio of services spanning e-commerce, fintech,"
+    publishedDateTime: 2023-08-02T11:08:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences/102351717"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences/102351717"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences/102351717"
     type: article
     provider:
-      name: health.economictimes.indiatimes
+      name: telecom.economictimes.indiatimes
       domain: indiatimes.com
-    quality: 34
+    quality: 56
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102228308,imgsize-12376,width-1200,height=765,overlay-ethealth/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102351717,imgsize-131332,width-1200,height=765,overlay-ettelecom/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences.jpg"
         width: 1200
         height: 765
         isCached: true

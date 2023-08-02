@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230731PD208/ai-cambricon-china.h
 webUrl: "https://www.digitimes.com/news/a20230731PD208/ai-cambricon-china.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "Here's why this AI chipmaker continues to outflank the competition"
-    excerpt: "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat."
-    publishedDateTime: 2023-07-28T17:27:00Z
-    webUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 64
 
 secured: "2eXrXAq6fN1Et+Ks76NOxw+hk5OdqFNc2BD3t3Lwxhcb+VOIfnxaH0C+WoRb6E7EgWCPQST2K2kk/SRlLKJCGX1rwcORCKxtaIxM21eNI5FGh+YQDF4HDj1CdrkQurieQtLJ25SFSOmraRUZLl+AOn2RyxVUux+CuJHKNAfdSoWCljMNmhw391A8SjovTdlwDyw7XaXa5zQeseYtKHsjDPievpZHY51fneQPv/IuGv591BKk8uh/OfNErDDDE5hNrz75jBxTxYPoCD06AwbuygdY2pJvk6VFxwgudTox968t72sfeEWvhkbzQ89Nbq/e1fABPwGolZfoacOwy/QuTGWgl23uO2x9jaXSSSQlPtQ=;hNPQtbvUYdh1V9NALAuxHA=="
 ---

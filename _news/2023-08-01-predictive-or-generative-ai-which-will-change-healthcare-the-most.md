@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/predictive-or-gen
 webUrl: "https://www.beckershospitalreview.com/innovation/predictive-or-generative-ai-which-will-change-healthcare-the-most.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Generative AI: The Action You Need To Know Most About Is Getting The Least Attention"
-    excerpt: "It turns out that the most important changes in Generative AI plus ads are happening where you might not be looking."
-    publishedDateTime: 2023-07-31T23:43:00Z
-    webUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/"
-    ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7f3022455739b3f69db67/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 733
-        isCached: true
 
 secured: "DWzCt67Eqpcz6e0+cWP/FqB0/hNSiKHGCG85HJ7uKjSdiPbNtUjlkxJGzvInupS2+huVJI6IcFZpPnE7ucCzCmHGi8RtsDAjxsI2ycV3maavR1Dve/VNrDJ7uBtP502itkhEVIBl/03BfrDlcwb15ZHG4LMHKlEWYkBd5argTZfnQathwiVCUX0xcMTuq/WvfcUvomdXYYBKulMCIIns3T3Z5wb+gY1xqFoi1R4t3VJyqr3ki0nD8GfJPB1OEslOmVtBLkbkoiEZ34I6/1B0Ej4XKn1/lMCn3IcIMH7cS7CMoRvxEkAJ5OGWqRmSspfB4VULnX2eA2UUltmKg+trfIelhOxZaidHKSFSYf+rKNI=;nBCnpAO01A2cjWxUyxgdpg=="
 ---

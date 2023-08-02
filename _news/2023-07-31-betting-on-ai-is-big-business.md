@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -117,15 +117,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 32
-  - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
-    excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
-    publishedDateTime: 2023-07-28T18:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-porn-generator-unstable-making-500k-images-day-ceo-says-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Creating better treatments with AI"
     excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
     publishedDateTime: 2023-08-02T08:12:00Z
@@ -144,15 +135,6 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 17
-  - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
-    excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
-    publishedDateTime: 2023-07-28T18:33:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/ais-impact-on-business-billion-dollar-investments-and-market-consolidation"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "gJKR2anKhhgeD3c2hP3WNwsbT7TBjL3CSw40hufXc3VNFissJqEihNNfwt/MEa5D/Ufm7THTsJ8kjSea5+SeEVIaAzncDKXaeI01awpbkh2XUP844HkWMopRMpQgN9bF8e5WnokGzXq933kbVkn6U0l6naG8yiS118rNdpILH8jbj2v7XHn5HwzbtP7+/8oQzhANqQJiAm9erPuqimW7wC7SNQP24ULEUx2vEYaCSGVbqU8mzXLThZ/xUxQU5Mkj1FIN9aT/NAJzXfCi7d78mzYZ6QNVDO3Iz9s7mGkH86cLLrKHXh/4RnHP5ijGpTWd2w6reCMNo+jM5i7epEGi/NANeAYbnAwZ0+gbkBoGafg=;CWd8L5wjo0IgaijCC/B27w=="
 ---

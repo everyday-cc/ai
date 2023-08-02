@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,20 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Predictive or generative AI: Which will change healthcare the most?"
-    excerpt: "Digital health leaders largely agree that predictive analytics has the most potential to improve healthcare, with generative AI a close second. Mayo Clinic is already using both technologies."
-    publishedDateTime: 2023-08-01T15:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/predictive-or-generative-ai-which-will-change-healthcare-the-most.html"
+  - title: "Fifty Must-Know Crucial Golden Nuggets About AI And The Law That You Need To Know"
+    excerpt: "Start-ups in the LegalTech space see this same opportunity ... Of course, we don’t necessarily need to have a walking and gesturing robot, perhaps AI software is sufficient (though, don’t count out the day that we have both, consisting of the AI ..."
+    publishedDateTime: 2023-08-02T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c9fc427710022fdf69db63/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 754
         isCached: true
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"
+    publishedDateTime: 2023-08-01T10:30:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-01/five-things-you-need-to-know-to-start-your-day"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 32
 
 secured: "Urn2VT/ZUQT6vKBsx7aVinGfcretXbezKD87tAvF9bGAyJ4RPbZyYq0EvWv2A1b2Yh56et10iL4U1Dlvv2Zz5nqLXK6OxwSbAX1GwtsdMIQkspGIpM+pu4tBsircU3z+4S8HF9s+gdmllDNdNSYG/cX6FWGbePhJfYhVLPmk+eNj7Mkvai97gfjj0MEUQzGbvxiybrwQy0rzWuZRexNUxQ0Uu4ifxBX5JoTcQhpWSJp0cBw1+hxERY0wrEQx55W3Yfhc3G/32Ui54zD4Y2RohQnmK0oh6ubggtlukYPo+UQ2cW8oqKnQbyyKeifep+poVd4vWYxlq8j8oyLDtw0pDKvwjVTqL2RNA6JDeq6t8eG2vT1HAG+DXmBPs7sO32ZlNUieb+ePR5R8tb2aRhHwCwkiCtb+MX7tJ7KeBtn1P0lMrGZTXBPMhIx4k2IWBf7LZ5oPSmypzZdkaIeBhd4hZeKW8QJMrPCTKpRJ+tRC2MY+f4R0xKd3JvZnPTycTLOu+FaaVTfDH8IheHCVprf6Vg==;fM7vrfv7KIlV6xD+u9gYrQ=="
 ---

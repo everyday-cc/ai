@@ -54,6 +54,20 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "Working with Generative AI Just Got Faster!"
+    excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
+    publishedDateTime: 2023-08-02T11:42:00Z
+    webUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Using AI to Build Stronger Connections with Customers"
     excerpt: "As companies learn to use generative AI to create value, there’s a risk that they take the wrong approach when applying the technology to the customer experience. In fact, research shows AI can help boost customer satisfaction when it’s used to offer customers more personalized solutions or to help human employees provide better service than they would without the technological assist."
     publishedDateTime: 2023-08-01T12:15:00Z

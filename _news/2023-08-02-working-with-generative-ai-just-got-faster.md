@@ -1,0 +1,85 @@
+---
+category: news
+title: "Working with Generative AI Just Got Faster!"
+excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
+publishedDateTime: 2023-08-02T11:42:00Z
+originalUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
+webUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI Hardware
+
+images:
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "Generative AI and the fourth why: Building trust with your customer"
+    excerpt: "When positioning new emerging technologies, like generative AI platforms, solutions providers must be able to answer these questions with clarity, precision, and relevance."
+    publishedDateTime: 2023-08-01T14:12:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/aab9ab76805776187d2171327baab0431d44966b/2023/07/31/e4dba81a-533b-453d-8623-db9c22932277/gettyimages-1383963898.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Reducing Generative AI Hallucinations and Trusting Your Data: Interview With Cognite CPO Moe Tanabian"
+    excerpt: "What should tech professionals who are concerned about AI hallucinations have in mind when determining whether to use generative AI products?"
+    publishedDateTime: 2023-07-31T20:58:00Z
+    webUrl: "https://www.techrepublic.com/article/interview-moe-tanabian-data-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062223-featuredimage-lenovo-extending-ai-ready-infrastructure.jpeg"
+        width: 1400
+        height: 788
+        isCached: true
+  - title: "What’s wrong with tech giants riding the AI wave"
+    excerpt: "Rising on optimism over their AI prospects, more than on actual AI revenue, investors are betting that the giants will rule for a long time. The average age of the tech top five is edging back up towards 40, with no newcomers. And their size is unprecedented."
+    publishedDateTime: 2023-07-30T12:01:00Z
+    webUrl: "https://www.ft.com/content/31dc322a-b2a1-4ef3-9a9d-d7268d58fac5?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "Using AI to Build Stronger Connections with Customers"
+    excerpt: "As companies learn to use generative AI to create value, there’s a risk that they take the wrong approach when applying the technology to the customer experience. In fact, research shows AI can help boost customer satisfaction when it’s used to offer customers more personalized solutions or to help human employees provide better service than they would without the technological assist."
+    publishedDateTime: 2023-08-01T12:15:00Z
+    webUrl: "https://hbr.org/2023/08/using-ai-to-build-stronger-connections-with-customers"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
+
+secured: "xO2nqt7H5WDUrve/7I9Ec62CCHiIgc7D9sqb18Yg9V2ROgFU7h1ZB1vwSR374dWliPeKnsMyZatHlXPk1lHFhZU2de7DvnSjgYN+qjQTWUSGRFpQY9+lCZ3zBWdjAcbk4l9qZ10fIxQZwlZANPxxxdHTI9QGnJbaV58QnMj5PZ3eCTuDv8R/SlIw3OpApQMUCeRLNHxzEfaBt+huY1xqxPgZNzzXRfa9cN+i24F49R1CSoIT/0duz1lwy3Nby3Q1GsDXA/+UvjIXd14Rk3xvAx5/hgh4fmIJgkieqxTgccfdpJhNfFCjhiv/rzY3jsxNSj11oEMxpPshJa6hBJkdr6Ypl+8Uo8dLBGVWtJmn4mk=;mg+hb2DpwwW5/ml8wHZ9vQ=="
+---
+

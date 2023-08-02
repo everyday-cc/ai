@@ -117,15 +117,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 32
-  - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
-    excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
-    publishedDateTime: 2023-07-28T18:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-porn-generator-unstable-making-500k-images-day-ceo-says-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Creating better treatments with AI"
     excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
     publishedDateTime: 2023-08-02T08:12:00Z
@@ -144,15 +135,6 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 17
-  - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
-    excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
-    publishedDateTime: 2023-07-28T18:33:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/ais-impact-on-business-billion-dollar-investments-and-market-consolidation"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "K0DxkwQR/Wwv1FSUboSE0e+NPM2eSO/XK82rBnhsoRjd7JSVtoV9NZAnBs+/COidEy+1BnBoPWeywXhUeRq3HxrTwg0Ol7SgNPHeLXbIKvTuChh1HeY/5VAte04Tc9l91It7n4CQKVhehbrf0UNPhAk3ySSWk7+IE1pdC16TfisK0z7priNtQlLzJIzQZgv9NipC9NW6EiGwkrXpBSY77RetGBD8hC3Mp6Xkw7aVKCE1M7Ped2LwdKAOahH9Q9LTXn1+xvs9qIr6kBXBdUIOHq3zgx9cl6+mn+V81nx84a7QZq0nGAQBL2HvzL9OdTMwwEwSKVT7oANaZlZvrMn8P/KyG0chf6LCf0PrwNEnjFNO8/t42HIVl9yzWnUd0OVM53SsnFL+a7WH7aE0gIXPmgwfhof2NFAYOCrVlDbMj0YMK69kuhJk5pFSJRg/823QuR8LMAJ53LTHz2J7LhUc5XyecVilTROPySbvn+wOcUrBmg7Uo3MtlQyItvLICi9/e1w/BX13TA+C+uUs+xGMTg==;AzVaOb+chrOsp/XD3lDplw=="
 ---

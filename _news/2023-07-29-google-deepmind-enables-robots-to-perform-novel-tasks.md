@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s DeepMind team highlights new system for teaching robots novel tasks"
-    excerpt: "Things that appear simple to humans have potentially infinite variables that we take for granted. Robots don’t have such luxuries."
-    publishedDateTime: 2023-07-28T17:18:00Z
-    webUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/"
-    ampWebUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
     excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
     publishedDateTime: 2023-07-31T21:13:00Z
@@ -197,6 +181,6 @@ related:
       domain: hothardware.com
     quality: 34
 
-secured: "yTEoUQVtUVW13nX0DDJ/Z8i3X/QqAHKtp3tBRZMSTpDl1AZyBhiOxm4JzS6ycdZPYdsG/+28UALX2vWeP46E7wbrPm63+bB1EAz5LqzCqbtrDhPdnTUW0paohjajRvQJRmXUWyXT/NuZ4A4N3DPx5L0g4gLpMtz+/7YkD/oBkUFbAmdyiQitf0QduhH2IhQgxcDF1ap+mTui3BhBl3pcdaCFUyIm7xr/o7uhU49abYjiWSWgwYGaJFaddIwvaRRmJqnSuhUdL5R+nxaZorXFT8Hca2CjH5FZ9Sr8/6zojfn/n3tQ7JxCzvNX5TBrSlI5xghpTaE1cv2Dbu1cF9cPeZST2xt/eIhOEK6zGWwDjDE=;epFD1WGq5dGnrMnL1SgsjA=="
+secured: "COdvVA12XX9Uyo+h6UPXgDpi1X3ve11aV1VLCB/6jzpBGj5U/O1slKw3SDqk/FJAgK+MsiHPaz59ifyyK1XPVyzhzvQhFgTXWORRnN4MIxSjUhhmPQXyMQL6eWetDwRD/DL1Om5zJKXpXiDGKkV+Q1uszlfwhZ9hIq6pIKBd6YytXHZNfgpdbADt+G7XpMaLcKzxVoqiIM5rIfI8emky99N+c7BNoC/xL7xrplA2AEFRtd2GcgAPpAg3C4QD+iTU91xz1gxGo+x9DisyAxRHwclX3lRpNpQql6OapGOUoQvTkv2IPUHtm/HsYLxLv1wcKd5BojkSMLR221etuImJOfdZiGx/DkI4yMFXCmtjyWs=;89lR+Otsvq5VC15+1UVoYw=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Learn how AI large language models work"
+    excerpt: "Learn more about how large language models work and can be used for a wide variety of different artificial intelligence applications."
+    publishedDateTime: 2023-08-02T11:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-do-large-language-models-work/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/How-do-large-language-models-work.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Researchers discover new vulnerability in large language models"
     excerpt: "Large language models (LLMs) use deep-learning techniques to process and generate human-like text. The models train on vast amounts of data from books, articles, websites and other sources to generate responses,"
     publishedDateTime: 2023-07-31T19:03:00Z
@@ -53,6 +67,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "p2WF30dYTh7snW3Yc74m1kVK2UOgsm1NKue1JX6PojIHKdz/A8WVA+JRjIIOeKdt8sSe534j9TYB6piVf0sXGRzFZ8Qfyfg/0OBVKs1WiTcOS7Vu6hxlmMt/AgpZ4t8QbJVdXFd0aATLo+0jwNLcVHE2SODNHDDrZAsHHdsOZExcdfC8jO+u2yev3IxEQWstNjpB0GuQYp920p8X6bM0YikWm3eJwAPXfwVB8gnYvsCx4Jmz4WK9e5Z0SuPcU+Ynixw6aaxEhQV0wterJAVzg/+kYd1SDqVHfIl7LLf9sEUNsLIIuvOgHcGdWgR5ERVEfhR6LqrHjq9eMRmzrkJxjoy/h766P/6YQbxbez6TuNM=;YlELCa506yjWCgVStNCMrg=="
+secured: "EwkszbMYY9M7hr/Hm923gRr7pPVT8BQh/zpcUpJ9oZma0T6pbBZ0qf+z6uq+eDE2zjOgKebE9AfN/eNnR1nNv8H2WZzSGAuEYAYv3Z+Qsh6ktUG3S+rrpm5THxgcBpgJGM1BBsoAET5JmhwR7jJ4sCWHZ53/qtYP6EUWHDHkvBGwrLbiNpgi+Vyx6qaJVBquf+9905ExcCpJcs4V8/Ws79BpLJ4hsxpql7/LRdBnpdJp7dRMKBhGZSL6090nLMWEWV+WnxcBJ/78MeLtAbg4VzlY07JdTRl0NBX9C48Gb1FbMOgpcukzMCX7dx/G44OQqKhmqLuQqC/ME/NVzman2HooZULI6NDLoi00v1UxBsh88HV3WHRql6Lqm9EJE0MoSayLodOtSITJUBZ1FsDF7z6l2jMVWo/sxtXzKMt34k6Ee1m9MlvXE4qkXoWgRqWc/wvFooOPCpn5u47jF1236r2V7aWP9si/M5t2r7pbCSLj3xhmbzSbMvkDiFa2S+d02uDhctz8tWbKbc8tDaFWgQ==;aMfIr3o/G1S5oZVe75+eRA=="
 ---
 

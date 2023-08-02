@@ -120,15 +120,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 32
-  - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
-    excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
-    publishedDateTime: 2023-07-28T18:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-porn-generator-unstable-making-500k-images-day-ceo-says-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "How Will Artificial Intelligence Change the the News Business?"
     excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
     publishedDateTime: 2023-08-01T13:00:00Z
@@ -138,15 +129,6 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 17
-  - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
-    excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
-    publishedDateTime: 2023-07-28T18:33:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/ais-impact-on-business-billion-dollar-investments-and-market-consolidation"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "mBII2sXNJdkZcOwF0Z61IT5zpl4zY23E5SGBpyyysduHTxopObdFOxwAAcud2fbuPkxWjhhAqox+scosWZ9lKCUULChAO5NmDmS8HhVEtKq9H5JWnTzkQxD1eiRgmjKj1uWvw8ghG5/HDHMmxcELUNeR+7yA1kUG1MD5CK0AQHCeXEChsOKD4axHKeAI7K/+dj5f4aCs5EhJ5/vrrO9HF1sJLgNN4oetBkwZ8n63Lcufssd58yO9TNL12/Tk7zYoTKgg4SWnkj5C/+fr3EdVqpCb/xorWcTqEnMi7UzRdb4LBpvAhCF2oHlCGtgjypSHtz94ANtE4bi7ImRSTbOel5HD4JTDOANN5OuxG4uCPcw=;96r+Z93Vh9yQTGTcS5C3Hw=="
 ---

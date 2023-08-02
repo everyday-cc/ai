@@ -105,6 +105,20 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Vanquis acquires money-saving FinTech Snoop"
+    excerpt: "Vanquis Banking Group has announced its acquisition of money-saving FinTech Snoop. Snoop’s app generates personalised insights aimed at helping its users to better understand and manage their finances while also using AI to analyse Open Banking data to further assist users in realising cost savings on their household bills."
+    publishedDateTime: 2023-08-02T09:01:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Vanquis_acquires_moneysaving_FinTech_Snoop.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/man-stacking-silver-coins-graph-money-investment-m.jpg"
+        width: 4096
+        height: 2304
+        isCached: true
 
 secured: "DFtuPFfffE0an+iH3YTk4FxAdovBJ0cg1K2s+QYSyfX3RdvQhdR/YGW8tSLTZ+oiGCpemxbyk+M70FLdktkkJvig1q12YTyBFkAXTQxEU7VAqaVLiILa8eDzuWoE8uUno6PY0zLttbvDz/QG5erok5oUD3ynsXdb5mgKEHaErmhnxRZS6u6h3ZCJvlZJDtLEgsWmN1DyUJ3CrGcAKy07YwpUQV17HRvOvu/JKt/H5wfuGmibF8gefRM5rxPs9JEl9lugIcrfWzPCZ4N/YSgEfneBd7YgSJJc92ruEM6r9g+Do0JXMWIXjCsedUgoyACRbBwXQDan3gkuQwkaGL1oPWh4cxll7eeaZlSpAWCEDrM=;WhqtPCAO3sUw1sDA20e1qw=="
 ---

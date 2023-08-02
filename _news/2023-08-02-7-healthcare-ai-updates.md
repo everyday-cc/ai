@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Women’s Health: The Pros, The Cons, And The Guardrails Needed To Improve Care"
-    excerpt: "At that point, artificial intelligence (AI) was still a relatively young development in society: one that wouldn’t enter healthcare for another 20 years. Now, artificial intelligence - or the combination of computer science and datasets to stimulate ..."
-    publishedDateTime: 2023-08-01T21:02:00Z
-    webUrl: "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/"
+  - title: "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real"
+    excerpt: "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research."
+    publishedDateTime: 2023-08-02T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b77d90b34fc46d155b79a2/0x0.jpg?format=jpg&crop=1208,679,x0,y55,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-827019/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AWS HealthScribe Uses Generative AI And Real-Time Doctor-Patient Conversations To Update Medical Charts"
-    excerpt: "AWS HealthScribe can potentially reduce the number of human hours associated with charting patients’ visits. Besides saving the healthcare industry a staggering amount of time in charting, its automated features promise to streamline patient care and improve clinical workflows for medical practitioners."
-    publishedDateTime: 2023-07-28T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/28/aws-healthscribe-uses-generative-ai-and-real-time-doctor-patient-conversations-to-update-medical-charts/"
+  - title: "Healthcare leaders urge caution on AI"
+    excerpt: "Healthcare leaders are urging caution when using emerging AI technologies such as generative AI and large language models, as they could lead to inaccurate info"
+    publishedDateTime: 2023-07-28T19:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-urge-caution-on-ai.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "q73lByOG57gHt35A/26jEuZk24lJZCRVVLmMGrGOmePJyqcW67eNUr9vfAZS5eBxkL8tbL5VTp/4yAUXS7mRc1Q1XXiu9SpXuWrUzvjfGfx/mM1hDjJU/XFgH0jn1VCAPyAkyPLNzb2hlW5qilYLgkBlVqWH3vHevME+mdHqq0J1L2ghSIaNF3wwl1t5nozzQz9gA1EBtZH1v5d8AuPLqmQp3ZRXkPTEU/1mzUxouG4OUslZI4LFkJRxDVc4bwmEoRv0NGKM34TFi5LwK4V4umRlsW84p6wshfQWzcu6oKwxclJs1v7mNcxLRUISxRnI8nDt8NK9Ws+uNg8oIgNrrKq/htf4v40OVFAUB2POXos=;K2IygaJABXyuttjfXY/BXg=="
 ---

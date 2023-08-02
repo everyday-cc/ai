@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Vietnam: Opportunities and Challenges"
+    excerpt: "AI in Vietnam is very popular. However, as foreign firms seek to capitalize on this trend, they should be mindful of certain challenges."
+    publishedDateTime: 2023-08-02T10:51:00Z
+    webUrl: "https://www.vietnam-briefing.com/news/ai-in-vietnam-opportunities-and-challenges.html/"
+    type: article
+    provider:
+      name: vietnam-briefing
+      domain: vietnam-briefing.com
+    quality: 37
+    images:
+      - url: "https://www.vietnam-briefing.com/news/wp-content/uploads/2023/08/MicrosoftTeams-image-37.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "2023 Vietnam Artificial Intelligence Day to take place in September"
     excerpt: "Vietnam Artificial Intelligence Day (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on September 21-22."
     publishedDateTime: 2023-07-31T09:23:00Z

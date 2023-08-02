@@ -35,6 +35,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Police urged to use Big Brother-style facial recognition cameras after one snared wanted pervert at King’s Coronation"
+    excerpt: "POLICE are being urged to use Big Brother-style facial recognition cameras after one snared a wanted pervert at the King’s Coronation. Policing minister Chris Philp has held meetings with Home"
+    publishedDateTime: 2023-07-30T20:30:00Z
+    webUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/"
+    ampWebUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 36
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/07/NEW_AFP_1JK7RZjpg-JS513962209-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "5QoZhE/nEp4FABkgILfzUGrdm4DbkGTdzuqX+TbzPxj2aJOQUxZFa0n5bGefKFI4rfBfikBcqfxBbeFOHYxHgrwtLfnUdIpeOvF693uLRajFyqUIOT/pDgIlf9tYcUaVc/zVBsN1y2bXcCdeYdl90FbHRKENtIHvIU7NJXlF1Cfk1F3RuOO9150gIIdDMd4pFESpHcgWaFiJkRRSMYGnKaEdV5ccPf/zH0w8iPxV+Yx2ZRTkvUf5XH/eyV2pnop4PJudarSBYHXPUn+aiVOFihsuSa/QPuZ5XurW4jFsZCXfU/8RFF31FWqtLNa/lZNtDD+nsOO7kzJiNy9DFfFdICtKfhKjyanGBDkzuxkpcscj4eAKAN2jJ6cUJd1dgPoTG7lFtPUT4YnDG/FiH5kYV6vhI8EPCl3/RtsxOhILCAJgNZ231YTXiS8I3n2638MA1x0KFVy234KL0aLGEQNqmPxsG3+SWiWzLc3UnnO+wJYNHK6Q9sdp7OyHfM9/2612tNsNiOcRrrk6cts/EA7kbQ==;4GXUMDx1bS+GmzOGY/pz0w=="
 ---

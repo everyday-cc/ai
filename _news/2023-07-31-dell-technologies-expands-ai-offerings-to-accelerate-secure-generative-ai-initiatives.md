@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "4 Ways To Make Money Off AI-Generated Art"
     excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"
     publishedDateTime: 2023-08-01T00:00:00Z
@@ -122,6 +136,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/C6hxRQ_vw8YbdvlKrH74Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5c0485666c27336018e48776dba7f014"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Learn how to use AI in your projects with Generative AI Studio"
+    excerpt: "Watch the introductory video below to learn more about what you can expect from Google’s Generative AI Studio and see the language tool in action. Let’s start with the basics: what is Generative AI? It is a type of artificial intelligence that can ..."
+    publishedDateTime: 2023-08-02T09:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/generative-ai-studio/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-use-Generative-AI.jpg"
+        width: 700
+        height: 459
         isCached: true
 
 secured: "qN7yNMbqY6ZC88WTTdEydJSCb5oIRqCuVWVkiCJSiSaeWGKWJiTSSXfp98klfG+5iFS53bVZ59CcbfjrYoNP9TMa7FJ0+4oA9jRYBOk/7jpXlRKLXf5u/HnZor4dmx3d1BcTjoj9HuBOHQUrCPSTU/+IIbTkElaHX1rVDDV6W4iIJsHS1YZr/T1J8Ehd3DXCaqFiAxqWmswpv6DZcbvvRfxKUe6PZZqrNUYU3Wecb70vbT/vLebHy1qlw2aYeTJkbYaiKlx0FAJ2O6e0pTg6p+iU5mf+ZHLkAlI1LgQ5NlfPYcpMEwXhg34GCEl6OQyRyh4nPu/XPYAcIaQo+EKavTPZM5CcKyoUvhsyRM4ulpw=;4A8zM76H3qss/dfnBBAdIg=="

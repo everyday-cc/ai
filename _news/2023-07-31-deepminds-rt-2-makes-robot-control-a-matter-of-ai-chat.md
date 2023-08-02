@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a
 webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
 type: article
 quality: 103
-heat: 223
+heat: 213
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/48c004685e3952e576e09b8e35ae1abc156d5295/2023/07/28/516b1b2a-8cc7-4d6b-9c42-ea21f7d01800/gettyimages-1303435496.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google’s DeepMind team highlights new system for teaching robots novel tasks"
-    excerpt: "Things that appear simple to humans have potentially infinite variables that we take for granted. Robots don’t have such luxuries."
-    publishedDateTime: 2023-07-28T17:18:00Z
-    webUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/"
-    ampWebUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?resize=1200,798"
-        width: 1200
-        height: 798
         isCached: true
   - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
     excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."

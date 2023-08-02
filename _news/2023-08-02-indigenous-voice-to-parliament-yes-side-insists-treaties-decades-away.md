@@ -3,8 +3,8 @@ category: news
 title: "Indigenous voice to parliament Yes side insists treaties decades away"
 excerpt: "The Yes campaign has insisted treaties take decades to finalise as it seeks to distance the process from the voice referendum and Anthony Albanese rules out the commonwealth pursuing agreements with Indigenous Australians in this term of parliament."
 publishedDateTime: 2023-08-02T09:52:00Z
-originalUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-yes-side-insists-treaties-decades-away/news-story/0288bdd7f55d28856cabf9c2cfda96f9"
-webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-yes-side-insists-treaties-decades-away/news-story/0288bdd7f55d28856cabf9c2cfda96f9"
+originalUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-side-insists-treaties-decades-away/news-story/0288bdd7f55d28856cabf9c2cfda96f9"
+webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-side-insists-treaties-decades-away/news-story/0288bdd7f55d28856cabf9c2cfda96f9"
 type: article
 quality: 4
 heat: -1
@@ -40,6 +40,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "DlGR3kYOqTPE3vNkg0ZgHpv4cwljEQ89bTTsfLxe5mVxvZgjVHc04jhILbIg+gkmyqz99ZNLWdpZ+GL+umXZVdGAlnKPuUsjWZKK5UW3QjGppZH2NZC1fB8uFJ3HetNetJuSg+0TQEzmu2HKff3RmZcndtFzT9qyrAWdlLvx8YU1ajWQ3Ju/DFHjfpBotwxC+QEsQvv9Qa+8APWpR7uO6uWcnlja+BPVV06tllmsjn9tYCIgfTmjnsdnwYCGfM8ZNUh1SZytrS/E1L8MrBtggnOch/MXgd7Q8qP3TeIaA2ws0ImUANn4Pr/oTamN6jDb+enynsI79J1Bs7+2rYdVPzt5e/6olpDfDTmeuse3QW69X0K4WfwLR76NfUHiCNaVJeGKRq8ayqnZs23ncyGqtw+65LIskwJR1MLqpHpYJ3BAm2HlGOhNMQfClxNGquXy9ocJ7dipJJcfW+UNTUB0uscRK2zlR02M2wq3tB1uIESH/BxMV0MXIKKVqeEsGLQk4SrRnGk6aCOFurTDnRwRKQ==;A4eVXkpWptXaR7ATCfAl7Q=="
+secured: "dTgw/EfAJWnEfRb0C2HSrQ0kZDsPXXisgYnt3o92EXaFkm2bJr9dNShyOrABPCAvPsthK00LPECcSAuoxAodGFx25vju+8ufC01Ll4tPG/iiycKjfxiWv1TUUK2o8ZTjZjin9j9NcDd9LooNhZGMTSgQE7e0LleDzfCTBCKV1OLu6MtNZ6XMlkFIy8BcXms2tGOq38l3YwhfoJQuycWvut9OVUpF9VDc7DSap7yZMHK5ivuych0FhO17HqeHttLJJ8zf532+ONU4nf7uobzm89H/8ltXYmmKIUA1b4l4zx+Yhe2MRgNy30o0RrgM8HodWTrNcOEvzRXCtNNaFc0LEkrdZz2O/PX+iu0qe2pmRG0=;kmjbDy/sy1G9whnzkHW4+g=="
 ---
 

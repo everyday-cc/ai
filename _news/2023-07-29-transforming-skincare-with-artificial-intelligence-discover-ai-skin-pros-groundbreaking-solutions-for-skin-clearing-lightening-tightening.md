@@ -27,28 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
-    excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
+  - title: "The Looming Ubiquity Of AI: Navigating Cloud Efficiency And Environmental Impact With CAST AI"
+    excerpt: "The allure from those who have invested billions into Generative AI startups have not considered the underlying reality of these high costs that threaten this current boom"
+    publishedDateTime: 2023-08-02T10:05:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
-  - title: "6 Ways Generative AI Is Changing Content Management"
-    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
-    publishedDateTime: 2023-07-31T13:26:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
-        width: 640
-        height: 480
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ca220be7faf6a593775a99/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1129
         isCached: true
 
 secured: "Mrg3M0G2K4Ol5aF3dF+WULpunM4aSQmPzcJ6n4QETq3Cvg6HD0f5pgaDQMcNbgg3mlDpczhjkssnHQQUSMautfEW/XeDeRkmJldSUo1AhB6uIPtpuhi/kzCr3p9LEYpWNtptsL4N5Fy7n9dyTpSha63TPp3PL9+PxDmUxPIvFTw64vPUR8xhVof6s+B0z3E4V4EYcPAXOyphGGY7fnSwRCKih6pmrLgAhpc5t8ZoshOOD/b/9j6NzzKW9wcTza3zLJ9VDcNVpRD6SPCXxznXSGXM30kjy+0tGxAHpxyBLcqn/0gQ2ZOLmu1Geuu5pWpWc6ZUgALf2Eo+d6fm2I/LOJjauHJGt4HzZ6Yf5c3yNTlIGIyL00DERwecT8r3rdFGvRLQLOidML4vfL/O4qiPInTJv8VlG/9IGfV4KM7DJESCY3f4fO9sQyioKTDM0rNY3aUYPo1q7tROowTpAVzSX1QNfEx1625RgOmF8o5tNh5qpHjmz+4nf5PD/vttVIQFyz7BnYY9wZBjBgMMQdwjew==;O+UqG76eSvonAboCyrsQxg=="

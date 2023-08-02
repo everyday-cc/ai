@@ -72,15 +72,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "How Fintech and Virtual Staging are Revolutionizing the Real Estate Industry"
-    excerpt: "Fintech has disrupted various sectors, and real estate is no exception. In the context of the property market, Fintech has introduced innovative solutions that streamline financial transactions and enhance the overall experience for all stakeholders."
-    publishedDateTime: 2023-07-31T08:13:00Z
-    webUrl: "https://www.finextra.com/blogposting/24653/how-fintech-and-virtual-staging-are-revolutionizing-the-real-estate-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 1
 
 secured: "ZU/k1N8loFYLP3EY4E3Nc4q12n+H6uS97R7xbw+qbPJmrfLUCWbaVDFEjnzHtCJ/+YF3kmEvqyjnMDs2G9PJeSEPwBqG8NJiYlFuuBB+bJLVobaQQBOE+bHjX8LjUaHVBzHLakAN7MlEl4SA3ebjOy/CFP0/SDYUaqcNnhXOdw2kTRMMCuJ0gLjg93PQ/TMMOA2dOcugIqU5fpGBrEqtxbLgkt2CwpS6HecQStj1k+e6xLF+t0bvKTiUbXqWgWc4UxbMouKKYyb/FxQGvANPOk3qZuvD3K6wVRnEKRD7eUctNl9GzKVXRU9r8oKjraN1h0d9ynAvbm+yO8wKrBLlPyGoZpQOR32WHHTGOkWZqdE=;SzDtq3W0StAeei8akasTcA=="
 ---

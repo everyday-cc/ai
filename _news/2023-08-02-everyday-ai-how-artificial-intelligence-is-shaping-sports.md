@@ -110,15 +110,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
-    excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
-    publishedDateTime: 2023-07-28T18:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-porn-generator-unstable-making-500k-images-day-ceo-says-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Creating better treatments with AI"
     excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
     publishedDateTime: 2023-08-02T08:12:00Z
@@ -137,15 +128,6 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 17
-  - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
-    excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
-    publishedDateTime: 2023-07-28T18:33:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/ais-impact-on-business-billion-dollar-investments-and-market-consolidation"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "Jm1ErsWoKaV7UZUrGSlew/1OFb/4jerH19TcI0Hulxv9tkyFSDhJ9hUK/fKHlq9q2Vmika7jjyP+AqEDfBsbYW1wKa0fPe0tUf+6nR5iX4sM0laABDWciu2hb8t39mZ284K8f5/1Tz7/nzGkV+LMHpxUewKQh6l1391eDCuo+ZirP9nJVkV4nubj7GYJDwlE8a//xZOin12kRLqJ/cYo7qdk/OynXTi6+dAQH2hzXApk5GSMhEQywmfxgKm4Hy64BELYdvtL7o6XDQYE9VhQghgyxJVrd47wrzCVIRje6+2hmRpssK3f/GHzQBK8skaLSHjrEVERKVgischi/C6PuHqJ0RM4JmoYDXACJyWKjaLhfjSSed3Bsd95rhNd0TFpRFUL/TbIpx9Obg/iIIQD6IuRFAV3sroPE7DrfLZP6BYOBrYh0o+2UJUnj14I4gGUQhj9Mp7WUIJLbvFSPxij8++QDOc/Z4Cj2f//jTAYLGpmO5QCZmslSeQcsVbCQePqla8lAa6ivP146+BhBd6Nxg==;8rWaOELrbm9p4C+pxg7K7w=="
 ---

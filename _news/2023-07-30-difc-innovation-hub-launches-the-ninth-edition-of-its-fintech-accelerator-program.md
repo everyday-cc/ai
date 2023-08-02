@@ -68,15 +68,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "How Fintech and Virtual Staging are Revolutionizing the Real Estate Industry"
-    excerpt: "Fintech has disrupted various sectors, and real estate is no exception. In the context of the property market, Fintech has introduced innovative solutions that streamline financial transactions and enhance the overall experience for all stakeholders."
-    publishedDateTime: 2023-07-31T08:13:00Z
-    webUrl: "https://www.finextra.com/blogposting/24653/how-fintech-and-virtual-staging-are-revolutionizing-the-real-estate-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 1
   - title: "Axiata Group's Fintech Arm, Boost Sets to Accelerate MSMEs' Financial Inclusion and Digitalization to help the underserved market in Indonesia"
     excerpt: "Boost aims to empower 77.6% underserved MSMEs through simplified financing solutions. JAKARTA, Indonesia, Aug. 2, 2023 /PRNewswire/ -- Boost, a leading regional full spectrum fintech arm of Axiata, is proud to announce its unwavering dedication to bolstering the growth of Indonesia's MSMEs."
     publishedDateTime: 2023-08-02T04:30:00Z

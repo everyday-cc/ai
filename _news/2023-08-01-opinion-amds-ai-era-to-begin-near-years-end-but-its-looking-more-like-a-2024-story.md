@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-year
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1320
     height: 742
     isCached: true
+
+related:
+  - title: "Opinion: Stop worrying about AI and start paying attention more"
+    excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
+    publishedDateTime: 2023-08-02T11:54:00Z
+    webUrl: "https://www.statesman.com/story/opinion/columns/your-voice/2023/08/02/opinion-stop-worrying-about-ai-and-start-paying-attention-more/70498026007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 17
 
 secured: "AwQgDivb3dQvR3P4DwLaPjzXozF8Gvf46pxILbXJWWa9yBNiu4OL3VED3vgGokc/jOiPmw61c6N4QxbTPjaMwuJ6eNycv23PR4S2egtvyBBZJi1BjEajd4vmwNF7pSYkzXaYj9BoBwSMsxIkwz+6D6czZKjf0iDikGcn9CsgSsDn4CX7TGiIUnTChs7HE3NcrKdFkOzVye2a5i6iR91VUuIOEu8Cwzczl+oIFfQgGbGXCKXdwANBM4a+Zucbx8vtQvIOG7m1hGpWeMSpTCl+cmXy/IeckCoAW2vb5vBOcDoKCxGBtWPFwY0VjIWUzWXJiWgRJddqOXCVjObXhI5RGnlnIstpphb9sJvDHxXG1Pk=;sVzMd7qJPjQaaXArpghDeA=="
 ---

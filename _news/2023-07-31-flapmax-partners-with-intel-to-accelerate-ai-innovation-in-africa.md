@@ -36,22 +36,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "AWS, Accel announce programme to support generative AI startups"
-    excerpt: "ML Elevate will provide generative AI startups access to AI models and tools, business and technical mentorship, curated resources, the AWS Activate programme, and up to $200,000 in AWS Credits."
-    publishedDateTime: 2023-07-31T14:30:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/articleshow/102284478.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15856,msid-102284662/aws-accel.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AWS and Accel announce ML Elevate 2023 to Support Indian GenAI Startups"
     excerpt: "Amazon Web Services (AWS) and venture capital firm Accel has announced ML Elevate 2023, a six-week accelerator programme aimed at empowering Indian startups that are building generative AI applications."
     publishedDateTime: 2023-07-31T09:28:00Z

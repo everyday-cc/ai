@@ -95,18 +95,18 @@ related:
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
     publishedDateTime: 2023-08-01T16:16:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 58
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Meta readies AI chatbots for artificial companionship—and user retention"
     excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."

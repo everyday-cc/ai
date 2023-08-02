@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s DeepMind team highlights new system for teaching robots novel tasks"
-    excerpt: "Things that appear simple to humans have potentially infinite variables that we take for granted. Robots don’t have such luxuries."
-    publishedDateTime: 2023-07-28T17:18:00Z
-    webUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/"
-    ampWebUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "New DeepMind AI model can control robotic actions it was never trained to do"
     excerpt: "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines."
     publishedDateTime: 2023-08-01T16:58:00Z

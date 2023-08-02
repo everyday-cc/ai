@@ -3,10 +3,10 @@ category: news
 title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
 excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
 publishedDateTime: 2023-08-01T16:16:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
-webUrl: "https://abcnews.go.com/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+originalUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
 type: article
 quality: 58
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -300,6 +300,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "yu/UfQSKcI2qIKCDPHeTn0rOYFJfyd44QaF7rBJDL8uWnqNGchVdKLr9G0U2L83/Nh8eJ2xjc+eFl2PJCEsqtghwTdRyQgKNLzWBnYzFUqVg8x/UouSC8mMfWBlatsfkMtXZ1QavhVHPMv7y+C4TpuCSV0oeQK/8CXdouvIjBfzHi/pE/6CedxgU08ZBq6cwDbLK752fhcHpNH9OvKUslmoOBaBT2bByTjgwveQcsBXDzHknsUytJuHqgTH+OFMqrD0A0idqy/7HlU48q03/ubk9MUw/OnSKiue4LtiP3CLv2Vk74XYoktMu74zvCTz+DQiedJK2apn4lUijzVoOQ9Z1EkKqpjJ2YutOe0tCMNlFq7Jy3hNDJDTptT6uO7D2/FiYDGn0L1x0Ae0PxGW4+RP4I99a38BuCfa3Vr7OQGGKoS+K+9RTUe8G/n2xozBBVJTrNPN9WzfbeXhnk3S3F8nHBl1L9xyPj5lErz2wFrrPq2vACKpzHD9klYuJl52k0he3QoGYWBd5ud47e28Mgw==;tXxmItyOg9/3YdZ2vOW44g=="
+secured: "TmlCDfPiYNwMWF884PaPCTdUSAyxTq8gLtCnYq+NK6BgAlStUZJSpjErn4x+xMmhjX6MKxQ6PyLGuTTRHfCa86Zzn/Dh4WMXSdB7Tl6cflkHd0Iptd3Cdhz4lFDrQ0ZggC4C9LQmaxKT9YjfyY8QvBIHq3HNs+x61AJ2+XBB5hQRbJbhj+T5+eUOdJnT5PXvdfmHIqC6GP4bPE8WjkeLqUMqU71B2fVgalIc4G4PK+XNQacZF6g7hIAssgTJn+kvhS1Qz3vIrVvmbUEsGtReGgOboRpMAHeMajJ62+r4q5158TgqtOX/Ax08w7XmOsXb3Xi49GIefmmZdp1mMw+DQ4yFaIxFxr249c9h8Bcd4Dk=;bGzZEv2GN4E0MGHCB/0J5w=="
 ---
 
