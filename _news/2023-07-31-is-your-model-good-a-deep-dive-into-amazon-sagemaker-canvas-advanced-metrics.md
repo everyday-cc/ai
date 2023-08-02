@@ -51,6 +51,20 @@ related:
         width: 1022
         height: 511
         isCached: true
+  - title: "SageMaker Distribution is now available on Amazon SageMaker Studio"
+    excerpt: "SageMaker Distribution is a pre-built Docker image containing many popular packages for machine learning (ML), data science, and data visualization. This includes deep learning frameworks like PyTorch, TensorFlow, and Keras; popular Python packages like NumPy, scikit-learn, and pandas; and IDEs like"
+    publishedDateTime: 2023-08-02T16:43:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/27/featured-images-ML-14803.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Build protein folding workflows to accelerate drug discovery on Amazon SageMaker"
     excerpt: "Drug development is a complex and long process that involves screening thousands of drug candidates and using computational or experimental methods to evaluate leads. According to McKinsey, a single drug can take 10 years and cost an average of $2.6 billion to go through disease target identification,"
     publishedDateTime: 2023-07-31T18:49:40Z

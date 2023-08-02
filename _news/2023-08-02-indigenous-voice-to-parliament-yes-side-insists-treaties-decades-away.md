@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-
 webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-side-insists-treaties-decades-away/news-story/0288bdd7f55d28856cabf9c2cfda96f9"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Without the Indigenous voice to parliament, a treaty is vulnerable"
-    excerpt: "The Uluru Statement from the Heart called for a constitutionally protected voice to parliament, treaty and truth. The reforms are listed in a sequence. The sequence is deliberate, and understanding the order is central to the message of the Uluru statement."
-    publishedDateTime: 2023-07-28T23:31:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "Innes Willox says most of his members are not advocating for the Indigenous voice to parliament"
     excerpt: "The head of a leading employer group says most company leaders have not come to a position on the Indigenous voice to parliament, despite the Albanese government claiming corporate Australia is behind its Yes campaign."
     publishedDateTime: 2023-08-02T09:54:00Z

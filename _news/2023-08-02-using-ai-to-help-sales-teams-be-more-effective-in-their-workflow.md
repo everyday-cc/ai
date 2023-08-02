@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Help Your Team Tap into the Power of Artificial Intelligence"
+    excerpt: "Outside of the internet, I've never seen something as powerful as artificial intelligence (AI) when it comes to transforming just about every industry or job function. With the rise of ChatGPT and other AI platforms, every leader, manager, and worker ..."
+    publishedDateTime: 2023-08-02T14:19:00Z
+    webUrl: "https://www.inc.com/soren-kaplan/help-your-team-tap-into-power-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 41
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1415846000_532882_a3jy61.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "There Is No Need To Fear Artificial Intelligence"
     excerpt: "We hear and read about the potential impact of artificial intelligence (AI) and the upcoming technological revolution in reshaping our lives and indeed, the entire world. It is predicted that this transformation will drastically alter our personal and professional routines,"
     publishedDateTime: 2023-07-30T22:34:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://themedialine.org/wp-content/uploads/2023/07/creative-artificial-intelligence-concept-with-human-brain-sketch-man-hand-writing-diary-background-double-exposure.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Help Your Team Tap into the Power of Artificial Intelligence"
-    excerpt: "Outside of the internet, I've never seen something as powerful as artificial intelligence (AI) when it comes to transforming just about every industry or job function. With the rise of ChatGPT and other AI platforms, every leader, manager, and worker ..."
-    publishedDateTime: 2023-08-02T14:19:00Z
-    webUrl: "https://www.inc.com/soren-kaplan/help-your-team-tap-into-power-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1415846000_532882_a3jy61.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "njPhP36PfRQMjsVJT9zMfDQKtZ3HgCXogJyhplcBnNchmKESQ0J98jcQ8/WFuWn0rFLMHUtnm0iRFafd+N3ZnL1K2JA1bm3LT1vS5XYn8aG4nYfQsaQ32IH9uxCde3Uq6k1BlqlohrpTlTk3IUu41pipR6TXu/AAOViFULRJ22DKcTUCFq60gobfgxAMzk1ixgutBCjANEucfQ6Qb1aEFSF58zAq/zWKv3nHqe8lZkssCvSmFdkaM4RowKP18Amlj/xQL0lg5onLt+6iapCNQaXoqczUx6L7uwPUuXvrzT0hT+HqHZz+2sglWNasT80fOQkK33w/jlMQyvWReAH1Ts53Z4e+jRXdeA2AMzNb4xU=;8BFENsKUSjuCsHNLUvuL3w=="

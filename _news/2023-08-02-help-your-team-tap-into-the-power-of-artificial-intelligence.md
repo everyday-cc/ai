@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-02T14:19:00Z
 originalUrl: "https://www.inc.com/soren-kaplan/help-your-team-tap-into-power-of-artificial-intelligence.html"
 webUrl: "https://www.inc.com/soren-kaplan/help-your-team-tap-into-power-of-artificial-intelligence.html"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI Ethics
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1415846000_532882_a3jy61.jpg"
@@ -71,6 +73,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "At/5GbLFA+tzpbGnN+d1qfNK116wNFUXXBicXTgghl9jAD/6w/34XfcvZaGGlvA6APVCm2X8EmKU3ZXggUcni2ZcxmKh/2eBOZdrqUBbA0InadwLqk4ZPkEf/Rtiui5H4r9QxE482FI/U2EiA5tidgishEghJXDaHvWzxyvV29R2/ElOws23TmJcCe9QZImtSGpLAKb0cHk+GZZYs5q691DjiTI0oTUqj6rZwzmtZINZB588oeFFHHnbbWZPNUcoWaDWhDWm05wste4hr5wxHabt6DDcSkVcJ9vnF7i/fBsapBNc7u1m4+HjRPQl6kb8V/MfRaEh9y7xGShJGAJqpY/nUbfLqjixq4afBCFHe5E=;ZSH64q9yfkTn9xoHt7uuSw=="
+secured: "LC4bExleW4JOPDVgJNKZaEq5a23oYCL0D7bpydqL07XIuTRle+lEvsPB2nFvMrDYKwRi9ZO9VOSjxYBU7De//zIcay4Jj0wBA/4XmPbGNbhMHbhqlnRJv+YdGF1mkpk/1Ft7zbD4UY0C89ou3x8+cBwdYQ/orOM5c+Olqv+2DxY9XX9Kdas5gwRVUzs8txYktup8Q2QuSlbKKK9kLgLT9Qyj81osBOxcrItbu1XORG3EGHC6sWOECQ9EySFJXzyUGqO6lYwJNtsMCSVy0ktGaz31zzjHH80nURuVMkdExRV7reC2lq4sl6unBmvzSAUj0/TV83YkBmZ6hUJ2OOmmv0IWvemzQ0M3MxWlcxnq644tF0UNtv/OhNCWxU4cL5H4ko8Sio/fKYRFhu6XpfHZxfP23ZaQOzvnID8qfGqFPlnGXrNKsT0ZfLuaVG/En/FU2W36HbiV1enF4Uy2Z3JjJk+HFpVNTkWgNNkMUkkkcvy3z5ba6LroZt467Nms8kG3U12oxnMn4MCmuBWU40+cWQ==;sQDwxjYB0aWLGnHtZbkvZQ=="
 ---
 

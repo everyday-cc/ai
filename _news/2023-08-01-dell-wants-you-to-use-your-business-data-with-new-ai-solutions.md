@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's New AI Tech Lets You Command Robots to Throw Away Your Trash"
-    excerpt: "Google is looking to help you use natural language to control robots, with technology that's like the systems powering Bard and ChatGPT."
-    publishedDateTime: 2023-07-29T00:34:00Z
-    webUrl: "https://www.cnet.com/tech/googles-new-ai-tech-lets-you-command-robots-to-throw-away-your-trash/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/6fe30042173d42762ddc73ffea1cf4b6312c5576/hub/2022/08/16/cb482315-de25-45c7-b325-a03a0a3ea9ee/20220811-google-palm-saycan-robot-03.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "YouTube Is Letting AI Write Video Summaries"
     excerpt: "YouTube is experimenting with allowing an AI to generate summaries for videos. As Android Police reports, the experiment was mentioned in a YouTube support post from 2019, which regularly gets updated as new features are tested. The latest update, dated July 31, is explained as follows:"
     publishedDateTime: 2023-08-01T13:40:00Z

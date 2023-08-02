@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
     quality: 59
     images:
       - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AMD's AI And Expansion Plans Hold Great Promise Of Catching Up To Nvidia"
+    excerpt: "With intense PC market weakness that refuses to fade, Advanced Micro Devices Inc (NASDAQ: AMD) delivered better-than-expected results on Tuesday as the chip maker continues aspiring to challenge the AI chip leader,"
+    publishedDateTime: 2023-08-02T16:10:00Z
+    webUrl: "https://www.benzinga.com/23/08/33525836/amds-ai-and-expansion-plans-hold-great-promise-of-catching-up-to-nvidia"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33525836"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33525836"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-futuristic-innovation-technology-remix_0.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-su
 webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational AI to Fuel Contact Center Market to 16% Growth"
+    excerpt: "Gartner predicts a 16% growth in conversational AI thanks to the booming contact center tech market, the advent of virtual assistants and as-a-service models."
+    publishedDateTime: 2023-08-02T16:19:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-to-fuel-16-contact-center-market-growth/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr00802223-featuredimage-ai-to-fuel-16-contact-center-market-growth.jpeg"
+        width: 1400
+        height: 785
+        isCached: true
   - title: "Rakuten Group signs pact with OpenAI to deliver conversational AI experiences"
     excerpt: "Rakuten claims to have more than 70 services and 1.7 billion members worldwide. It operates Japan’s largest online shopping mall and offers a diverse portfolio of services spanning e-commerce, fintech,"
     publishedDateTime: 2023-08-02T11:08:00Z

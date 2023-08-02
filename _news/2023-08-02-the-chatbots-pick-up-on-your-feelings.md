@@ -207,6 +207,22 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "A chatbot willing to take on questions of all kinds is the latest representation of Jesus for the AI age"
+    excerpt: "Jesus has been portrayed in many different ways: from a prophet who alerts his audience to the world's imminent end to a philosopher who reflects on the nature of life."
+    publishedDateTime: 2023-08-02T15:40:00Z
+    webUrl: "https://phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.html"
+    ampWebUrl: "https://phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-chatbot-willing-to-t.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
     excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
     publishedDateTime: 2023-08-01T11:32:00Z
@@ -402,6 +418,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "JGLpFdhFu6D8OB+wEr8dYXDjxuEc5QCCeW6RzWlqimQCEYMUs4Y4/6SgODnYjcVF4MAMNNT8JCssDIpkelI9tjPdpR/PNKIt01VQo+nMArXM4ENo46igUc1CzmE0cVbKk5eEhUDAPUQ1QUc+2gNMdEkBm+xoY6AqLRgTcnMF9LuAyCImBCoO0Um4tL2EL0TOdaK12nVuMCpX8Iux2IsdRvWbZ0JK0c9kJ5puiNNU/WY1iqKlYuRE/4Viap03SKbJjO01kkKIUc0om3VLaLDS9EpP41cWXkJqLtwjSTZ/7100AC3U6f+AVGAOdt+X8fqHoF7Hd1BwAHiQkzlNzxmv7qWv1Uf29oclEsyDrly4/Qg=;SipjcUIrKLhQONZdh1ftAw=="
+secured: "mbroeCDejs+axR6DBtioZmUKfOPcrWMl7AVouGBECVzOon2bI7uvYfBDSOtgU9PMjeabUUvuu2AH2Wa+BpFi5zKKDpORZz4Cu8HSWlQmPTK5lzavVPbK5MWb0ppGIPR7NUUZEEL7PsEVvXMMiSdshlLqzq8p62HeG73vIwywd2sqzbP04dGwS40ppQmZCsnrU2Tc2fHQIc12sWvFxfjuaE4+skYqDwcXA1/wck1aBjyC73lPfIZcDGv16TtemR8rKpVN4UIEaKDLjzkkSZiQURJHoNEU5CpNaJLnyzdAHgeCw2sxKP+LggH9xep4o9MNdw068R7MARFxy/V6+Y12eLaHdjmvPsOqlSF+R+4I8Su6owFTPVrUDiJaYLXOv9tFk2tZ7Sf7LOraSksNL5qErSfUt/YLhHaPPaxm61nZWZy3/9PghFhgdVtABYZx78ga7eVBISVcyoehsJmlRYYqa+d3ZQ09VHnWp1dWTlZjZFQlufqXwBRbp5P3QKlDYMS5zXltUbB5v4XPFPg9Vw3c7g==;Or8wBD58gvBZSbp8VjZuPw=="
 ---
 

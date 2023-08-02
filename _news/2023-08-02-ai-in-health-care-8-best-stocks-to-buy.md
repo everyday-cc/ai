@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "7 healthcare AI updates"
-    excerpt: "Here are seven updates on artificial intelligence developments in healthcare for ASC leaders reported by Becker's since June 5: 1. The FDA issued 510(k) clearance for the Magentiq-Colo, created by Israel-based technology company Magentiq-Eye."
-    publishedDateTime: 2023-08-01T20:55:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/7-healthcare-ai-updates.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "MBA Grads With Startup Ambitions Attracted to Health Care, AI"
     excerpt: "The class of 2023 from two of the nation's most prominent business schools founded nearly 100 startups, according to data released by an international software design and development firm. The data from Symphony revealed that the Stanford MBA class of 2023 founded 23 companies,"
     publishedDateTime: 2023-08-02T12:01:00Z

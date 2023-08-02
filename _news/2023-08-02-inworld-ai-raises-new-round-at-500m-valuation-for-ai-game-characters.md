@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-
 webUrl: "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,22 @@ images:
     height: 675
     isCached: true
 
-secured: "QPPGAxKz+67fP6fQ8DQYZs7z13mo7hvimL8JKyuFNIssqgkKL4vKLLhA1TvVBQYfNxg++xNLev3q3EZXphEvYD8OewYePPlCD+PA89qPiHcE8YbrfoAd+0tBOM8Ct24Un0+3wG3Wtt4BA/6B3FGnkOJRppqUFl8EVfbPA3/46TNAC65yTePrUXNwXjm8UVSIxQbbC+ICF5sZdI470aFyZtphuHgPLE6gJ2EH+M9cVOyDnvBb9jfCBnnosmSj6WX3R5TaU9E5yCCaOYUz8oZ3VeYQB5lKlJZFOfN3BIVs75XHDzEMCifMilO9svO9kBSxGmxIR1rcSe/nF4pPoG8P18CPTtedWsejPsGv+JFd2K8=;sBmpVPqqgr674Tu8xUhCVA=="
+related:
+  - title: "Character Creating Startup Inworld AI Raises More Cash At $500M Valuation"
+    excerpt: "Inworld has now raised more than $100 million since being founded in 2021, per the company. The Mountain View, California-based startup sits at the intersection of AI and gaming."
+    publishedDateTime: 2023-08-02T17:16:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/inworld-ai-funding-video-game-ai-character-generation/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 36
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2021/08/Video_Game-2.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
+secured: "E8BtXI04rb5pTNBdX2+rn5awGzgzOe8opGT6cgR0Hv23ksFadfDPbc6da5PhvBSs/7RSEYHEoGTMZU2zpyX2eieieBIVRymlxy4k8rCYnQV+eGNq6IjWAHwYhek70ey19ZaGwalgV2jYR8LJbdguX/cz9fBLr9TmiUxsiUT8rFqLJtXhLz5GzkBiD2FxtTbiKirJYZDnHqCRqL/V6q4oiM39RFfn+rUEuzD/3vXURWtFB0MaArQKQN6CAniX4nmZbkCUwVMojy+ARnlUX9JUus70WiehA2sjrRvf8b1ihxHn/Y/Iz7XBC7JqZV0t6xImJ/NMilL4R677D2b991jxHExiwvmQ9mElLovNAhEWzVLNQd/dw2M0RiR2KNEIE9x8If8VzsaPKvqa/2p7bMcyBjMr+SGKAoiRQWz4SubLrE7JC0JZvy8OkiHc5gyhoEPPtXMQjV3XUvbaKPO9sKni80BuNPNRgmaKjZpTpz9pQXZy97z8Kycf3tGvJHCyoe+UzH0CkeyRHCsyOBvyj0pkvA==;ToM+EUIs9scbWFpOTQ92BQ=="
 ---
 

@@ -27,6 +27,22 @@ images:
     height: 540
     isCached: true
 
+related:
+  - title: "Abu Dhabi Islamic Bank accelerates digital transformation journey by migrating its applications to the Cloud"
+    excerpt: "Abu Dhabi Islamic Bank (ADIB), a leading Islamic financial institution, announced today the successful migration of a high percentage of its applicat"
+    publishedDateTime: 2023-08-02T17:37:00Z
+    webUrl: "https://menafn.com/1106770488/Abu-Dhabi-Islamic-Bank-accelerates-digital-transformation-journey-by-migrating-its-applications-to-the-Cloud"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/02/pr_13942_68d7fa9a_image_story.jpg"
+        width: 827
+        height: 1147
+        isCached: true
+
 secured: "nkNt68gu6jDCGKzAJRGJZ5G8G9naG1z2PhPF0y++5KTwvcNqfGYd3IquWOJUuRhrZ7KqlP1agLPVIO9Nj5t7ks2OIB32G6oPzOoybb5J7xF6GwPodMNqNH5V2ulz2ldhbhRH98HV9OrNJpKlztx76AmQ/L/cEsgyKEn05KjMKXZyRgSoE6JKCTlo6nCHHcwS8/rtaAKS/ZWKBzzHeJi3XI2jusm1OquE/XE7A7I7k4mBMFcyxSctgSPuSCQby4IGVYb3QA/gGouPBfdLZdqOESA/72FkClLsSdsbQXGsyZyQwn7yH1jcbCqfUHXMmsbI7Z4ZMdOjBLEJ+51uhy1wmj5n1IZCHRCQzg9QGaHz2ec=;PcNUNAi64oBHaJnJgO8sQw=="
 ---
 

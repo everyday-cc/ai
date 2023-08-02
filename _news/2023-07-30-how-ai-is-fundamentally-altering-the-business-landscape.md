@@ -38,6 +38,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
+  - title: "Automate caption creation and search for images at enterprise scale using generative AI and Amazon Kendra"
+    excerpt: "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories"
+    publishedDateTime: 2023-08-02T16:41:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-caption-creation-and-search-for-images-at-enterprise-scale-using-generative-ai-and-amazon-kendra/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/12/ML-14376-dog.png"
+        width: 441
+        height: 295
+        isCached: true
   - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
     excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
     publishedDateTime: 2023-08-01T13:00:00Z
@@ -104,6 +118,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
         width: 1893
         height: 767
+        isCached: true
+  - title: "Generative AI Impact on the Database"
+    excerpt: "Once you're able to see through the 'AI whitewashing,' a strong case for generative AI in the database space can be made."
+    publishedDateTime: 2023-08-02T17:53:00Z
+    webUrl: "https://redmondmag.com/articles/2023/08/02/generative-ai-impact-on-the-database.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIDatabaseintro.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "How Generative AI may impact the data analytics ecosystem"
     excerpt: "Moreover, while large language models are excelling at tasks such as summarization and translation, deductive reasoning remains a formidable challenge. As AI continues to evolve, striking a balance between its capabilities and limitations is crucial."

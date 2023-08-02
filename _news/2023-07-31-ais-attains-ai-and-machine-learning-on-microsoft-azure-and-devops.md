@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 276
+heat: 286
 published: true
 
 provider:
@@ -213,6 +213,20 @@ related:
       - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
         width: 1920
         height: 1024
+        isCached: true
+  - title: "Duke Health, Microsoft Launch Generative Artificial Intelligence Partnership"
+    excerpt: "The new collaboration between Microsoft and Duke Health will focus on how generative AI and cloud technology can advance health equity and improve care."
+    publishedDateTime: 2023-08-02T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/duke-health-microsoft-launch-generative-artificial-intelligence-partnership"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 53
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
     excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"

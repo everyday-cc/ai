@@ -39,6 +39,20 @@ related:
         height: 313
         isCached: true
   - title: "2023 Vietnam Artificial Intelligence Day to take place in September"
+    excerpt: "Vietnam Artificial Intelligence Day (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on September 21-22, Azernews reports, citing OANA."
+    publishedDateTime: 2023-08-02T15:35:00Z
+    webUrl: "https://www.azernews.az/region/213059.html"
+    type: article
+    provider:
+      name: Azer News
+      domain: azernews.az
+    quality: 39
+    images:
+      - url: "https://www.azernews.az/media/2023/08/02/artificial_intelligence_day.jpg"
+        width: 480
+        height: 250
+        isCached: true
+  - title: "2023 Vietnam Artificial Intelligence Day to take place in September"
     excerpt: "Vietnam Artificial Intelligence Day (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on September 21-22."
     publishedDateTime: 2023-07-31T09:23:00Z
     webUrl: "https://en.vietnamplus.vn/2023-vietnam-artificial-intelligence-day-to-take-place-in-september/265325.vnp"

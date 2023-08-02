@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vast Data Unveils The Vast Data Platform: A Transformative Data Platform Built For Deep Learning Ai"
+    excerpt: "Dubai, United Arab Emirates– VAST Data, the data platform company for the AI era, has unveiled the full vision for the company by introducing a t"
+    publishedDateTime: 2023-08-02T17:37:00Z
+    webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/02/M_afcc2image_story.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Workiva integrates generative AI into cloud platform"
     excerpt: "Workiva announced today it has integrated generative artificial intelligence across its business reporting platform. According to a news release, generative AI gives users the ability to “author, edit,"
     publishedDateTime: 2023-08-01T15:53:00Z

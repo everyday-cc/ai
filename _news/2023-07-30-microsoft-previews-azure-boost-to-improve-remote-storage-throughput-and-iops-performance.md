@@ -227,6 +227,20 @@ related:
         width: 1920
         height: 1024
         isCached: true
+  - title: "Duke Health, Microsoft Launch Generative Artificial Intelligence Partnership"
+    excerpt: "The new collaboration between Microsoft and Duke Health will focus on how generative AI and cloud technology can advance health equity and improve care."
+    publishedDateTime: 2023-08-02T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/duke-health-microsoft-launch-generative-artificial-intelligence-partnership"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 53
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
     publishedDateTime: 2023-08-02T08:57:00Z

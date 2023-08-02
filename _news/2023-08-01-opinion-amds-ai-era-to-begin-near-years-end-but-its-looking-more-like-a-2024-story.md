@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-year
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMD's AI Bet A 2024 Opportunity, But Near-Term Outlook Leaves Analysts Wary After Q2 Print"
+    excerpt: "AMD Uniquely Positioned: Morgan Stanley: Analyst Moore sees AMD as uniquely positioned with strong AI opportunity that begins in earnest only in 2024. The second quarter should be a significant relief for investors, who were bracing for margin impact from rival Intel Corp 's (NASDAQ:INTC) aggressive pricing and promotion, he said."
+    publishedDateTime: 2023-08-02T17:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-bet-a-2024-opportunity-but-near-term-outlook-leaves-analysts-wary-after-q2-print-1032508034"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/amd_shutter2.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Opinion: Stop worrying about AI and start paying attention more"
     excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
     publishedDateTime: 2023-08-02T11:54:00Z

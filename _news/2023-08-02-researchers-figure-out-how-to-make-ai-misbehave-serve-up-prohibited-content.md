@@ -1,14 +1,16 @@
 ---
 category: news
 title: "Researchers figure out how to make AI misbehave, serve up prohibited content"
-excerpt: "Imperceptible changes to images can, for instance, cause image classifiers to misidentify an object, or make speech recognition systems respond to inaudible messages. Developing such an attack typically involves looking at how a model responds to a given ..."
-publishedDateTime: 2023-08-02T13:25:00Z
-originalUrl: "https://arstechnica.com/ai/2023/08/researchers-figure-out-how-to-make-ai-misbehave-serve-up-prohibited-content/2/"
-webUrl: "https://arstechnica.com/ai/2023/08/researchers-figure-out-how-to-make-ai-misbehave-serve-up-prohibited-content/2/"
+excerpt: "Adversarial attacks exploit the way that machine learning picks up on patterns in data to produce aberrant behaviors. Imperceptible changes to images can, for instance, cause image classifiers to misidentify an object, or make speech recognition systems respond to inaudible messages."
+publishedDateTime: 2023-08-02T13:22:00Z
+originalUrl: "https://arstechnica.com/ai/2023/08/researchers-figure-out-how-to-make-ai-misbehave-serve-up-prohibited-content/2/?view=grid"
+webUrl: "https://arstechnica.com/ai/2023/08/researchers-figure-out-how-to-make-ai-misbehave-serve-up-prohibited-content/2/?view=grid"
+ampWebUrl: "https://arstechnica.com/ai/2023/08/researchers-figure-out-how-to-make-ai-misbehave-serve-up-prohibited-content/2/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/researchers-figure-out-how-to-make-ai-misbehave-serve-up-prohibited-content/2/amp/"
 type: article
-quality: 46
-heat: -1
-published: false
+quality: 66
+heat: 76
+published: true
 
 provider:
   name: Ars Technica
@@ -40,6 +42,6 @@ related:
         height: 1712
         isCached: true
 
-secured: "zirmCIAPFR5GGOr/v6o0VhgYlIAYLx7Bpe8KyoyU0wfmLox95dT9pgnmYFBxujPgr/Pafm15cUkUVGRIa4goU71Rd/A8iPu0j0iMEyz+yKJ74hoWW3bkpalkOR/oysot6CLQI3USS1Xjtna0EqUrI9i1vc4tPZ9wJwg1Z+toHsZbFncUMqYc/CKxgmGiSUdDBn1cVI7SeccyZpqPfv4jKV0YpEfkNFHFQNDluD/S1x5/gtvoSNYtf+p6GPjlj5krJIfgDBtXe5SSAi+2QrnyOsiAWhOohTf2IepcwLXBqfo0hSOgmjsWGngc0rhRaNUdEOCtVxgC4kZIx4gLyFpAwfCCkK7txQ9TG/mNS3WcFIdK44PVQUhnTVoeJ74mYj3L+w6SJDTpCx8R7GzXL0ELnjiQcQaOrBvdxj6O88crGyRc/kD2sOmSad0gCjUpBYdlQPDqppMUODVWkF9fM4B9IXtltXz8Qdvyqv3sTRnY+LqRk3W9hu+3UwbzXx7TAkxzGyJn28nIh2TtTVx6FhB3CQ==;6tRRKZq8q4qak6LOT1esog=="
+secured: "Itm+wAjn+GwnE7vgvm5ATJS6jRPVX1rWoVBj+UcgqLPmxqCMYePDfHh3JNYHjWYkK5308sII2Yovh/TCKo47sCtn7jeWngpWPPsSb6N63i9fNw/ImA6FcWds1wR+CBgmCX7liGBPaBOPRwSezXP3XI1Acbhf/AReicQnhqxDA2nmJTsnsUbAHHAUhAqLEdeKMxH65mOAx1GINFDjve+8eBV2VombtqyJbx2JjSJRnoB8d3xdE5CAVlUeWc44Z0lT5fPKCgSySphQoB4SYhiBDPTkevC/jhG/J0VYu46svVTh8WcFZD3ZgrFRvLfeyqyKlaz65jc9ITfz6tt1jUZ1XMt55cCprQ6Jtw1/XbZyX6DY2GKLiOOitM4qNutEh/YGj2QyIhtuBn1r0OCiin46rMrvdrTVpONTNq+zWCjCIuDEuGqkzYPXstAFkxG6L5DNlHE9UfuaRqaPn/RM8/epNRJy9VL9TtZf78g/NfHjufyvwjeoxThXUSmlSIHdBCwQKDlLFs1jOvrx9lnZwWSh3Q==;c8m2f6VP8zS30/0fXg5V+g=="
 ---
 

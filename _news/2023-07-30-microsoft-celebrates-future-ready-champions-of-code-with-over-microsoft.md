@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Spatial Audio brings an immersive meeting experience to Microsoft Teams, but it won't work on Bluetooth devices"
+    excerpt: "Native Bluetooth devices do not support stereo during a call, therefore spatial audio is available. New Bluetooth standard LE Audio capable devices may support stereo in calls. For these devices, spatial audio will be supported."
+    publishedDateTime: 2023-08-02T15:35:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/spatial-audio-brings-an-immersive-meeting-experience-to-microsoft-teams-but-it-wont-work-on-bluetooth-devices"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 19
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/EixGUD9Zoz5ub48rHda2Bo-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "j/esnQRf7c4i/M3Bf4troYw34iXAWMJON9oHC6lpjABPe15RudT9/Un+U2cHRaJQ8C6QKJkb/NRMWJyUMmzv2RIKhG4oOaNUVqEac2SjFs4lSolJlrDuoNZdV8QVytI9BRUS375s04wAS4x7e/ubmQnLhwb/DICFhElEx9f7kptFfUklASR5qqEKheQbN7RQq8MckSoWQs80y8BAuYur7YUm2MsOmRsDrdL/5eTsUCT9hwk0VX7HHiMlbKKKfaCRt6rBe4TFvPVsTfO6qPZRxQ4KESPTdf7TBbtkZ5FcJr8bMFYsJcorK1Lu5103VladDNj2K9d+RDZpIK/0jHpKalN5E4xINMKZwqkOGtaOLNo=;WsFR5JGTf1ej8B+WibKvrg=="
 ---

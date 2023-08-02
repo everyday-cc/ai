@@ -1,22 +1,30 @@
 ---
 category: news
 title: "AI-supported screenings increase breast cancer detection by 20%, study says"
-excerpt: "Artificial intelligence can allegedly detect more breast cancers than doctors with years of training and experience, according to a new study. The new early-stage study was published Tuesday in the journal The Lancet Oncology."
-publishedDateTime: 2023-08-02T12:59:00Z
-originalUrl: "https://www.kolotv.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/"
-webUrl: "https://www.kolotv.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/"
+excerpt: "The group whose scans were assisted by AI found 20% more cancers than the group without AI assistance. However, this doesn’t mean hospitals will let a computer determine whether a patient has cancer any time soon. The authors of the study say there is still a lot more research to do."
+publishedDateTime: 2023-08-02T16:58:00Z
+originalUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/"
+webUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/"
+ampWebUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp"
+cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: KOLO TV
-  domain: kolotv.com
+  name: WDBJ
+  domain: wdbj7.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/EwLmyaUJXfmKZSOY6C5VE2_9X5k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/B42NVLP4QJBGJK6TDXVWZBW36M.jpg"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "AI shows its value in mammography screening"
@@ -34,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "xpJWhK57WvK4/TYTZD6uhGpEfaSPxf4MtjoY81fXYfMoDFxNp35rgZEae6bglqNGaUMsHpu5USDgSPz9G2pmYoeuguUIRqItxYrfxiMqBS35QLaZNb5Hs0/f+qMvMDA2qPQEtuzCSgDpIcxT0mt0xJljvB4Eie8RbFirlYv1ehXjbTOR7EkuxR8exgtOzG18ZEJBdxXr8EFMiAxC5W1tPe6kFZUHF1uJesgaIH0opDnCeQ/2bsoPj8R82dCyEqKD5BYG9ZkLMMOMfG/M1FNzapSEpHjUkc6b2q/j+GWZJAS6+v4J5DK3yiqeherx/8h7tG8LU+ZY1j0jZ6QC11ymMi4ZziCsfuzlHLRt8pKvLEa8ZyWxyVPwFMi2pRBEHif8wSmU8aTeUZS30hSJAO7vQGjC/vnSJ6vAA1VumYYI7pVCWAdkteMgMPk2f9/EMtRYd5AB+yTH7mItPlfhL8f+pCuLAiT3dO920RSnVDxcPtI9KWzLMvAD2hheZwe/eLaOr5pxleu/MCUSYKYMpYSQ9g==;XENVEGA4Ns4iVzwUs5p7+Q=="
+secured: "jpoGXs1d/YLJFzAN6fyhAZhORNqLSNE2w5/PtQziMijExmAN01rrEPmf4z6uCzD8WgB+xMqGSV1eIPucX6wIIKaDSLHZls7WCmxpFL4pf4VSwWwTpcD1FwlNS5N1HY8eNDQkN1dk4IDwGdmB3VBPr+vGoXZvTEfoG/7Bp4xDNS7AnM258nXn03icrgfjGLfGMEzPKpR9Vxzokpb1z6R54M786N+Z+jCWl9UsYx5m1XrjPoYy3VCtJfHTmVSJy/YIFdKzMu6/YK85eKydbqYBn7CbE2Xk25lkmxrcRAaHeaDxJE/fijvBkoquZq00zEmliakBuIHoHnklWtudqjBjhlR0lJAoBPb7KVAfj+4erAk=;1ZIrEFuR+PgXEcNqZEeuoA=="
 ---
 

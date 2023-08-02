@@ -2,6 +2,361 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-07-03-ai-unlocks-prostate-cancer-treatment-benefits.md",
+      "title": "AI Unlocks Prostate Cancer Treatment Benefits",
+      "excerpt": "Data from a new study published in NEJM Evidence shows promise for personalized use of short-term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI,",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "originalUrl": "https://medicaldialogues.in/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/07/03/213394-new-study-validates-the-first-ever-predictive-ai-biomarker-of-androgen-deprivation-therapy-adt-benefit-in-prostate-cancer.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/oncology/videos/ai-unlocks-prostate-cancer-treatment-benefits-113825",
+      "publishedDateTime": "2023-07-02T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again.md",
+      "title": "He Spent $140 Billion on AI With Little to Show. Now He Is Trying Again.",
+      "excerpt": "Billionaire Masayoshi Son said he would make SoftBank “the investment company for the AI revolution” but he missed out on the most recent frenzy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
+      "originalUrl": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-810126/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
+      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
+      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
+          "width": 1184,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-microsoft-explores-ai-and-the-open-source-future-with-web3.md",
+      "title": "Microsoft Explores AI and 'The Open Source Future with Web3'",
+      "excerpt": "As part of an open-source-focused Azure event, Microsoft announced new AI capabilities and explored \"the open source future with Web3.\" That was the topic of a fireside chat that closed today's (March 7) Azure Open Source Day 2023, described as an ...",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2023/03/07/azure-open-source.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0115vsm_dorseyVSTool.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-tensorflow-decision-forests-tutorials.md",
+      "title": "TensorFlow Decision Forests tutorials",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/tutorials",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/tutorials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-aws-invests-100-million-into-generative-ai-center.md",
+      "title": "AWS invests $100 million into Generative AI Center",
+      "excerpt": "Amazon Web Services invested $100 million in a new program called the Generative AI Innovation Center. It will connect AWS artificial intelligence experts with global customers and",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center",
+      "originalUrl": "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125632/aws-invests-100-million-into-ai-center/amp",
+      "publishedDateTime": "2023-07-02T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023.md",
+      "title": "3 Artificial Intelligence Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The most exciting rally in the tech sector since 2021 has undeniably been in",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-the-robot-among-the-animals-an-optical-illusion-that-will-boggle-your-mind.md",
+      "title": "The Robot Among the Animals: An Optical Illusion That Will Boggle Your Mind",
+      "excerpt": "Did you know that Greek mathematician Archytas of Tarentum created the first known “robot” in the 5th century BC? Quite amazing isn’t it? This shows the power and skills of the human mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
+      "publishedDateTime": "2023-07-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-better-artificial-intelligence-stock-amd-vs-amazon.md",
       "title": "Better Artificial Intelligence Stock: AMD vs. Amazon",
       "excerpt": "The artificial intelligence (AI) market has captured Wall ... Amazon Web Service (AWS), which is testing it for potential use. Amazon has concerned investors recently, with AWS reporting slowing ...",
@@ -787,369 +1142,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-the-pope-just-released-a-guide-to-artificial-intelligence.md",
-      "title": "The Pope Just Released a Guide to Artificial Intelligence",
-      "excerpt": "The Pope has released a guidebook on AI ethics. Yes, you heard that right. The supreme pontiff has partnered with Santa Clara University's Markkula Center for Applied Ethics to form the Institute ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "originalUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2023/06/pope-guide-artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week.md",
-      "title": "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week",
-      "excerpt": "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33088892",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892",
-      "publishedDateTime": "2023-07-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-us-ai-chip-controls-dont-deter-blackrock-from-going-all-in-the-week-in-ai.md",
-      "title": "US AI Chip Controls Don’t Deter BlackRock From Going All In: The Week in AI",
-      "excerpt": "Artificial intelligence has become the latest battleground for world dominance between China and the US, adding one more link in a long chain of technological rivalries between the two superpowers. The US has so far maintained a competitive edge, but an explosion of Chinese startups in recent months has brought its lead into question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYAznfVq6ko/v1/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-microsoft-tiktok-give-generative-ai-a-sort-of-memory.md",
-      "title": "Microsoft, TikTok give generative AI a sort of memory",
-      "excerpt": "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/",
-      "publishedDateTime": "2023-07-01T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-how-should-a-robot-explore-the-moon-a-simple-question-shows-the-limits-of-current-ai-systems.md",
-      "title": "How should a robot explore the Moon? A simple question shows the limits of current AI systems",
-      "excerpt": "Scientists theorise how a simple question - How should a robot explore the Moon? - can teaches how AI can be used more effectively",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/sci-tech/science/b4cwev/article67030504.ece/alternates/FREE_1200/Lunar%20lander.jpeg",
-          "width": 1200,
-          "height": 1182,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece/amp/",
-      "publishedDateTime": "2023-07-01T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-robot-takes-podium-as-orchestra-conductor-in-korea.md",
-      "title": "Robot takes podium as orchestra conductor in Korea",
-      "excerpt": "The two-armed robot, designed by the Korea Institute of Industrial Technology, made its debut at the National Theater of Korea, leading musicians in the country's national orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "originalUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/01/k3dwrlbpezmhfj54pggtboxzya.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "publishedDateTime": "2023-06-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-tfgm-no-ai-facial-recognition-in-new-oldham-speed-cameras.md",
-      "title": "TfGM: No AI facial recognition in new Oldham speed cameras",
-      "excerpt": "New speed cameras have been spotted going up around the borough, amid speculation they could include AI or facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
-      "originalUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theoldhamtimes.co.uk/resources/images/16947498/?type=responsive-gallery",
-          "width": 650,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theoldhamtimes.co.uk/news/23624964.amp/",
-      "cdnAmpWebUrl": "https://www-theoldhamtimes-co-uk.cdn.ampproject.org/c/s/www.theoldhamtimes.co.uk/news/23624964.amp/",
-      "publishedDateTime": "2023-06-30T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theoldhamtimes",
-        "domain": "theoldhamtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-tasting-success-in-puri-facial-recognition-now-in-big-cities.md",
-      "title": "Tasting success in Puri, facial recognition now in big cities",
-      "excerpt": "In a first-of-its-kind initiative, the state police have introduced a facial recognition technology in Puri to track the movement of habitual offende",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-101408730,width-1070,height-580,imgsize-1561423,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms",
-      "publishedDateTime": "2023-06-30T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

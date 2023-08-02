@@ -221,6 +221,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "A chatbot willing to take on questions of all kinds is the latest representation of Jesus for the AI age"
+    excerpt: "Jesus has been portrayed in many different ways: from a prophet who alerts his audience to the world's imminent end to a philosopher who reflects on the nature of life."
+    publishedDateTime: 2023-08-02T15:40:00Z
+    webUrl: "https://phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.html"
+    ampWebUrl: "https://phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-chatbot-willing-to-t.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Meta’s next AI play are chatbots called personas"
     excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
     publishedDateTime: 2023-08-01T08:09:00Z

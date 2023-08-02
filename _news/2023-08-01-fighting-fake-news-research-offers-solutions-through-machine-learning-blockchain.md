@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-fake-news-solutions-machine-bloc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 60
+  - title: "Global Blockchain AI Research Report 2023: Enhancing Data Security and Insights - The Key Role of Blockchain AI in Modern Businesses"
+    excerpt: "DUBLIN, Aug. 2, 2023 /PRNewswire/ -- The \"Blockchain AI Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2023-08-02T17:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/02/9858468.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "x6GoE8d9jffBzpKriX5AzieGpRV4FUtWQ2aInCd/Rv53r8FEsSEiuYu2WkEfgik+Eas3eMhm3C/GX1lndQpdYcKURTL6Pyl8XWFaG/G2iBFyX/cE7JlcdN0n1N1uUblWbY+i1Zj6ZPQHN14lM6Y5yzBs0lS+nS/AlkdGvCI3LL3zjXv3RrXf6VPY0QITi8erUbtfDnAy9WRh2JJAf+PJLfhNvlMYp1GTu+RWZB8GIYB0guoVDv/75MQeEMlqjgeQH82KwkloderDQTIw42j0SI6pEhO7I/VXcBau0bw+q5jZlFX0+7xekuMlgXo2ZyAPrXttXv44KZGE+FX77kdmEeE+rkFRa07wa3ts4myFHL83edeN+1dhr/hgl60WDu8qVyiV+b9Qn6moFU/qzxy1dYfPSByYTDwkq7tzqO5X3tUktCfE8WE+RZrPulUv95WwHWw5y8lvv/f1y+3o3UEkW7CGissnuZ4IOAlZOnU7Bca2cl8HWrHeAQNJUNv7New22RpkENKT1tfyIAqNU7Af7g==;dUWWWQwvbNHWVxJyYE7ORg=="
 ---

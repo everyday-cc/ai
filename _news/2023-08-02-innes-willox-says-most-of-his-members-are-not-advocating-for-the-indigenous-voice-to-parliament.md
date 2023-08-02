@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Without the Indigenous voice to parliament, a treaty is vulnerable"
-    excerpt: "The Uluru Statement from the Heart called for a constitutionally protected voice to parliament, treaty and truth. The reforms are listed in a sequence. The sequence is deliberate, and understanding the order is central to the message of the Uluru statement."
-    publishedDateTime: 2023-07-28T23:31:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/without-the-indigenous-voice-to-parliament-a-treaty-is-vulnerable/news-story/c981e109347357241dd87c435a89b2de?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "Indigenous voice to parliament Yes side insists treaties decades away"
     excerpt: "The Yes campaign has insisted treaties take decades to finalise as it seeks to distance the process from the voice referendum and Anthony Albanese rules out the commonwealth pursuing agreements with Indigenous Australians in this term of parliament."
     publishedDateTime: 2023-08-02T09:52:00Z

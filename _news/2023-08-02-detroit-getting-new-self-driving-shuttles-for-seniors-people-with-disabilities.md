@@ -7,7 +7,7 @@ originalUrl: "https://www.wxyz.com/news/detroit-getting-new-self-driving-shuttle
 webUrl: "https://www.wxyz.com/news/detroit-getting-new-self-driving-shuttles-for-seniors-people-with-disabilities"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "I-94 could host self-driving vehicle lanes between Ann Arbor and Detroit. Here’s how to learn more"
+    excerpt: "The connected and automated vehicle project aims to convert part of the interstate into high-tech express lanes in Washtenaw and Wayne counties."
+    publishedDateTime: 2023-08-02T16:30:00Z
+    webUrl: "https://www.mlive.com/news/ann-arbor/2023/08/i-94-could-host-self-driving-vehicle-lanes-between-ann-arbor-and-detroit-heres-how-to-learn-more.html"
+    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2023/08/i-94-could-host-self-driving-vehicle-lanes-between-ann-arbor-and-detroit-heres-how-to-learn-more.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/08/i-94-could-host-self-driving-vehicle-lanes-between-ann-arbor-and-detroit-heres-how-to-learn-more.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 30
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ITBW2M2XONCQBDUP6BKA4PMJGI.png"
+        width: 3840
+        height: 2160
+        isCached: true
 
 secured: "YeVs0L7EVM6hByOmQYz4e6M5kQWXYxxKL9HHu4nXeIh7Y2X65BRCfnEEsKBw9Jo2q440QoQqLJbgNQzSR2dbxuXC+5AjAKPi8tK2rkakdrW9nEphnaSEfWavI/tzjl18WaZSMuNCoJGzjf2pziHlmWyeNEVKNiB9kMib2oeK0wT1oCBOJzIaJysINLyNhO2vB8hQfezyELGsKMTVL5iW77drBSsoYPmOk+U1XwFtN7xeMYBiNIIuemPUARkrRUg/N/AZtC+ZqJlEYZPSOF0GkqbjE/OiLiAuZjd0oIMRP4dwbMvwdy0jqBCXqFrQfAi/jpeSzeNzW+23TfoSJJc8KrbMfRa8EXIB40dTfJl8y28=;bQKxHIAACIKgTczxd6LSNA=="
 ---

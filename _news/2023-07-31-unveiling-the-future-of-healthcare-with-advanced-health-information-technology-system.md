@@ -53,6 +53,20 @@ related:
         width: 1022
         height: 511
         isCached: true
+  - title: "SageMaker Distribution is now available on Amazon SageMaker Studio"
+    excerpt: "SageMaker Distribution is a pre-built Docker image containing many popular packages for machine learning (ML), data science, and data visualization. This includes deep learning frameworks like PyTorch, TensorFlow, and Keras; popular Python packages like NumPy, scikit-learn, and pandas; and IDEs like"
+    publishedDateTime: 2023-08-02T16:43:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/27/featured-images-ML-14803.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics"
     excerpt: "If you are a business analyst, understanding customer behavior is probably one of the most important things you care about. Understanding the reasons and mechanisms behind customer purchase decisions can facilitate revenue growth. However, the loss of customers (commonly referred to as customer churn)"
     publishedDateTime: 2023-07-31T18:45:03Z

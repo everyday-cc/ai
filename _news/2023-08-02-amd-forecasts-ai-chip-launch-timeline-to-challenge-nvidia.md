@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AMD's AI And Expansion Plans Hold Great Promise Of Catching Up To Nvidia"
+    excerpt: "With intense PC market weakness that refuses to fade, Advanced Micro Devices Inc (NASDAQ: AMD) delivered better-than-expected results on Tuesday as the chip maker continues aspiring to challenge the AI chip leader,"
+    publishedDateTime: 2023-08-02T16:10:00Z
+    webUrl: "https://www.benzinga.com/23/08/33525836/amds-ai-and-expansion-plans-hold-great-promise-of-catching-up-to-nvidia"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33525836"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33525836"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-futuristic-innovation-technology-remix_0.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AMD plans AI chip debut by year-end to compete with Nvidia"
     excerpt: "Chief executive Lisa Su said AMD is set to ramp up production of its flagship MI300 artificial-intelligence chips in the fourth quarter. The accelerator chips, which are in short supply, are designed to compete against the advanced H100 chips already sold by Nvidia."
     publishedDateTime: 2023-08-02T00:30:00Z

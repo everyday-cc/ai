@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real"
-excerpt: "Healthcare companies have been mesmerized by the possibilities of “synthetic data”—data built out by applying artificial intelligence algorithms to real data sets. But ongoing technology challenges continue to limit widespread industry adoption ..."
-publishedDateTime: 2023-08-02T11:01:00Z
-originalUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd?mod=business_minor_pos1"
-webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd?mod=business_minor_pos1"
+excerpt: "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research."
+publishedDateTime: 2023-08-02T10:00:00Z
+originalUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
+webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
 type: article
-quality: 61
-heat: 61
-published: false
+quality: 81
+heat: 91
+published: true
 
 provider:
   name: Wall Street Journal
@@ -22,6 +22,28 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "afe1OZWQN/N3egjaDk7Kj/hzn9uCdfDCpJmmBOXIX0GiqaPJ1E97uwqIumdiGN/oCfu0XJvisuCwRle25/OHXf9CcsLqU92P3NZ4RY3+To6wGbhuB1FMRbUMrH0qH0ks/7A9pS5Zn/oOxHdPLvz4ahw5ars79WCXWdNi8PoaPUT7I2YaogSNg81XNobAkbhMpAd2uMazszC10D/744n9ot2LvQnFRi7FuH2zSq2OSiPZsFsa7xcc4zYeBvPdcyRT2a1U25JJbAHLI7ul2obx7lLTmwirF5SGsZcu723ftjdP+pYEPzSBJDo0dG5yghWqOfZPwbZLbOnbojk9c2g9YwswtiyUKLa2hI8e245pGyFpIIkkRAxd6QQdnCS8WwFwPDuOx9nNQQ8OWJ7YHthyBC9n1sw/KI6WPMtR4xhOztd5fZ+DzDbj+6L2d8BllM3KVHThzdqx/JfkGllQL/DDfUfrvSO8ATohuK8EFolVD1o43OISalEy08oRW+tnJoeOaa87wcD+e9pfYe7nL7oTaA==;tRZ6WXqGRObLkui0dIdCZQ=="
+images:
+  - url: "https://images.wsj.net/im-827019/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "7 healthcare AI updates"
+    excerpt: "Here are seven updates on artificial intelligence developments in healthcare for ASC leaders reported by Becker's since June 5: 1. The FDA issued 510(k) clearance for the Magentiq-Colo, created by Israel-based technology company Magentiq-Eye."
+    publishedDateTime: 2023-08-01T20:55:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/7-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 54
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "EHZ5ebtvWE/9yK/l0NEPrm5bqEmM7tU5j7YDWHOembhCbzOxIx58I5h4X+2pNagQrGms60OIkQJyRXeRjgW7x2VYGmLX5flgNyGRl9v2LqQkM02fqGjgxWP+qbaVzd1fjptp2+ZCXkjCpJ+GJQAi+VuR23Qo8a7v0WbYjD97mhLQc/PAyeU92Yq+S8fiBh5bqg5ru0A7gNPSdDtZeJVCYkWTjDxM6pSBfrqMHmBjoZiCzhWWvNq1VPuDZ8EevfUHH7WsnHA+PE5m979EJVXAH8i3kU1ZzfHxpq/DMw1Npmjtd5GADrl7hhdls2RMFP2l8TYzaGVI4jhWaOyHyKQ8mJl4YCWuh+NBasCstkID5Xg=;X98e2rOSnOakEv6fUEtO1Q=="
 ---
 

@@ -1,33 +1,23 @@
 ---
 category: news
 title: "TipRanks ‘Perfect 10’ List: These 2 Tech Titans Could Reach New Highs"
-excerpt: "AI, artificial intelligence, has come into its own in recent years. Machine learning technology has found its way into a wide range of"
+excerpt: "The giant tech firms pick up plenty of reviews from Wall Street, and Nvidia has 32 recent calls on file – including 30 to Buy and 2 to Hold, for a Strong Buy consensus rating. The shares are priced at $467.5, and the stock’s $504.46 average price target suggests a 12-month appreciation of 8%. (See Nvidia’s stock forecast .)"
 publishedDateTime: 2023-07-30T09:02:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tipranks-perfect-10-list-these-2-tech-titans-could-reach-new-highs-1032492025"
-webUrl: "https://markets.businessinsider.com/news/stocks/tipranks-perfect-10-list-these-2-tech-titans-could-reach-new-highs-1032492025"
+originalUrl: "https://www.nasdaq.com/articles/tipranks-perfect-10-list%3A-these-2-tech-titans-could-reach-new-highs"
+webUrl: "https://www.nasdaq.com/articles/tipranks-perfect-10-list%3A-these-2-tech-titans-could-reach-new-highs"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/image-802-1024x662.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-    width: 1024
-    height: 662
-    isCached: true
-
-secured: "ojL4Ijec+/BG1dsNF5gtDzk4/1kKjl/Nlp+aRuzI3iE/kiBcgyQasra5V4F6FzNnxLwMb0jfU5MUIYim1keKE4sjNOnOIxB8Epg1t6pefKZObV/PaFxhn+H0+fRBIYTX4jxMjUNCk/Bgkkaq/nHP8/IcaisYWsbTY/a/HpG95uFFQWOrwg7DNYcVev/D/SR8cGdVcuDcCHIGvmnV+LBpbG3D6XD+JAwcYo2CDcrne1nCd+DDLLj57o50aBgS9UBseoArH8pCrAkeOReQO9bqTBDbDqYTCK6GBPbnl7/uU0FOfk1CRNVmrTHEsBmKGRwmURI+kFaf/CUoEm3YhF+fTWrqefpxWjyK4e0qR5OucFUICRifIQ4Krc4UvLvR65tRRmo5J7LhEbMkDKFKpg06ObScEUVZj/Q+k3VznHjhXiDZgNUvzy9I1G4yWENb6NMmYKR0Ws4+W9sS7SkoVT6du+6L+4FnajlQQDHBxTUjTsyetkIPzZ7EU61psY7RzgLY9omd+y60qB3xEuBjU+LD5A==;ZzpGvo3MEJJZbwFvJfAI1Q=="
+secured: "5zRi3AJQuJCU0JzP5eAypD7eWYL5xI2CtOjoGUuLhK3npRLRIIFPBjtLkF4wXNnL2psDXO50IK5biYOw3UjQeyCVPwSQOXz45VO8sYRTftJ/UzDWFZQDN9Zh7IOJrCyewKJMgCVnXxifrFuFznz1Z9mCq+/Ug6gBvX4rg95N8gr6D0UWyNR2Y7HjVsXsGU7jpl3DIdavSQUsnve+gmQuD+LjM8EBUBiLe55JUNpn/7CeWGHRmkZ1uEwu+T8njQ8VCpNef4mh7ihrHvyJvByJ3jmLQLTWs5hRa6yQXs88zkvoL5Ix8FuUNyGP46BCDLxLgHICYVdVby6Ep/8a1TB9T2Zv5FAxOxu3CYR27qtAcic=;50WyA7u8fZyZy99vTn8vmw=="
 ---
 
