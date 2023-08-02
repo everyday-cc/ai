@@ -94,6 +94,20 @@ related:
         width: 1075
         height: 550
         isCached: true
+  - title: "How Will Artificial Intelligence Change the News Business?"
+    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
+    publishedDateTime: 2023-08-01T13:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-news-business.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b6a/b30/800ca33462d64e132280295777c0e1bdcd-GettyImages-205-moshed-07-31-13-48-45.1x.rsocial.w1200.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Everyday AI: How artificial intelligence is shaping sports"
     excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
     publishedDateTime: 2023-08-01T17:47:00Z

@@ -34,20 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
-  - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
-    excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
-    publishedDateTime: 2023-07-28T14:59:00Z
-    webUrl: "https://washingtontechnology.com/top-100/2023/07/ibms-tech-and-business-agenda-leads-ai-hybrid-cloud/388925/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 41
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/07/27/IBM_logo/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
     excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
     publishedDateTime: 2023-07-29T07:47:00Z

@@ -30,24 +30,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 5
-  - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-3-year-low-experts-say-recovery-near"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 4
-  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-02T00:24:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 0
 
 secured: "sQ+fiDbFZaBRnXVk4sFflfTDIsGJTKkduPYoZ3Uas/CV2REHUtncpyNVS0trzt0LFVgXFtcmyQr/zKeN13EnF5uNWMp4d0+4WgPs25a5H6kf+b20Dk1I9OXm3dcF29SIwPek+s2TgQpYgte48PUieJ3AKlFUTg8QrpzDOzSynBPZPAVSiDHhIwZBwkYamHz1MMiwDHzG7pcoPgtnlE8izMHxwuK18OMIKyXS9GBHGOVhCGNYAhQzFN3LqrCwPJo2VTekZPFeyT9sd9SztrxHGHqX9Bycr7WEe4fh5rYaqX8LSA17aMr2+yGX8h7f2T2KGs9i3GESHR2lbG8C+8WjosWdpmOuGtp/YGKg3U87A30EAPS/Xy2NfntBqY8UHCyZgVGaJ1o+S/a8NBxm4LpyB99+h6SIu0uCQ4noK0kQPj+QdY4+Mnr1yd2ej63m4Y949Bzj669hGVe5rHT58QYY7oRpwUASttACgfct7LzyihM0TXx9SvJ/bxWmbU68CKersg9o2y8Zq22uWk8Rn4kzAQ==;oP+8HeJgUuYRJsbi/Xp8LQ=="
 ---

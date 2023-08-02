@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-bigg
 webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce"
-    excerpt: "Croissant, a fintech with a mission to empower intentional commerce, launched today with $24 million in seed funding from suite of investors.."
-    publishedDateTime: 2023-07-28T14:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
+  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
+    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 18
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/09/Choice-Options-Decision-Croissant-Food-Breakfast.jpg"
-        width: 1280
-        height: 960
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
     excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
@@ -55,6 +53,15 @@ related:
         width: 290
         height: 300
         isCached: true
+  - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
+    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
+    publishedDateTime: 2023-08-01T12:00:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-3-year-low-experts-say-recovery-near"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 4
   - title: "Exploring Fintech's Next Frontier - Physical Branches"
     excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
     publishedDateTime: 2023-08-02T05:45:00Z
@@ -72,6 +79,15 @@ related:
     provider:
       name: Macau Business
       domain: macaubusiness.com
+    quality: 0
+  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
+    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
+    publishedDateTime: 2023-08-02T00:24:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 0
 
 secured: "KxWNRzdUxdGaUDcahlmQTKMQNAnxtS0e+Xca3RtO6F5WhSjLss51r2vsJ6wYVBRjlfwS1SUmMUcNK2YxmjW5WzSCCOtV+3cXhJFzAAV5cJMVnREEeZhv/qhA4hkh6RorlNiwLVqCKp5meUZ+wI8SYbI9mZO0Y4KuvDbUP/UkgI3YT5VZvXodfzru8zsrP61h2yLOXGcYDVwSmgGW0YqjDw9SpQUz09tlfNPu7T6WbjFRqqyd/8pC1sOnrHfaXqjA+4Kt87wUgmpc0fiGsqSRXpWGogyYAtMn5/LwKXASZfGQRCOgLPWlEGpkfO246LzNL0aGbY2vHgOWsAn7y9L3cdEzXBnRIOxL+Y2Flk6vP7SBz9/3Rdc6VL8tLxCUOTLXnq8DwuI6CFTUargzBwBDcfHhOffzI6UYAU/6XjbjRx/ADHvIVBaluIVqkXNQncLlHtmLH7K/flfw9olPuqAAe1pZhpUBFhIz10DijJkvaifAL9fnbZjgb/Mw4nIoBA6HNJ4Z9tSwPqcLApL7NQDzRw==;5DDmWWceV2s35B18O2ITbg=="

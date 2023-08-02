@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel CEO Gelsinger: ‘We’re Going To Build AI Into Every Product We Build’"
-    excerpt: "Gelsinger has placed his bets on Meteor Lake, a next-generation processor planned for the fall, as a way for Intel to own the coming AI PC moment. He wants Intel to have a repeat of how the vendor’s Centrino wireless computer network adapters helped the spread of Wi-Fi in the 2000s."
-    publishedDateTime: 2023-07-28T14:11:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-ceo-gelsinger-we-re-going-to-build-ai-into-every-product-we-build-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/027d-172a628013fd-c9ee24cea71d-1000/pat-gelsinger-intel-vision3.jpeg"
-        width: 610
-        height: 458
-        isCached: true
 
 secured: "HpXziuSvKcleJXM9IOSYdD2DCHo6RFKu53e5vg2pSIDBK0X2nuYRE4dTGk9TyLBItCgUu75i+JjaSqXS+B0mqBpc62/eTUsreH2qNTrR9UVuweJPlob338e8wzsaOGVR2S5jKK7npZCL4E7c/gmGhvP/Mm1wXuZPNqLpJ68wlibemaiLm0wBGDyxPDQdeOcQX/n0qM5vDPAxqtrxmQS9benkljhCm/EnJjYOskmQsrWy2S6+YBsA9iUb++Jib9wU31+N7qW6bqrWWfZge6hT5lws+7Ig4OnFeUN18SbFIg3wDn8FxQm3NX0RCMMThOFg7SSwoYhc9HVjB/w29B5zY9KnLbJV3uWHoQPDMAsExzU65C2mZ/VGG+oGQgCkuGu8VTReBZUNa75bbfde1MNMDhwK56jzqm4uwH3eIziW6GGy+GdNo3q/C8VK+dvU1iNBQnMPWPzQ3Y8FVcNFyIhQ2xRXMvyyZoauUcxGcbysOVH4blKHMABahjc5UhCwQU38SV1ia8mgX/vFdp1LOSiPDA==;MSdQ90BCNDGSgqdWnaEH9Q=="
 ---

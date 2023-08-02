@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midj
 webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Xume, India’s 1st AI-powered Grocery Scoring and Recommendation Startup, Launched"
+    excerpt: "Xume, India's first AI-powered platform for personalised grocery scoring and recommendation, has been officially launched to address the complexity in"
+    publishedDateTime: 2023-08-02T07:23:00Z
+    webUrl: "https://www.indianweb2.com/2023/08/xume-indias-1st-ai-powered-grocery.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 32
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKhfqqXLbJ958N3I_8k-g8lLmUdUNagWb_R-dlWiPmy7hN_ptThFaGR7LqOQGL4bstwu9TnJUvF5RUBtvAfATwELocLCp_kWZ7P2I-uB0EYATCGXQbmn8pD21gaK7BXtXF8HcnPx9IpmTWpxMO7Y4xLEC888mFphxKGVZ4Hql7HMQFC7T0MP_19YP-ayg/s16000/Xume%20Launch.jpg"
+        width: 1882
+        height: 1058
         isCached: true
   - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
     excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."

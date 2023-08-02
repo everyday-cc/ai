@@ -96,6 +96,20 @@ related:
         width: 1075
         height: 550
         isCached: true
+  - title: "How Will Artificial Intelligence Change the News Business?"
+    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
+    publishedDateTime: 2023-08-01T13:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-news-business.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b6a/b30/800ca33462d64e132280295777c0e1bdcd-GettyImages-205-moshed-07-31-13-48-45.1x.rsocial.w1200.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "An AI image generator making NSFW content is pumping out 500,000 pics a day, CEO says — but AI porn is a murky business"
     excerpt: "After getting booted off Kickstarter at the end of last year, Unstable Diffusion, a NSFW image generator, has still managed to find a big audience."
     publishedDateTime: 2023-07-28T18:06:00Z

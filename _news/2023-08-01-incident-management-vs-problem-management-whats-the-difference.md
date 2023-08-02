@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/incident-management-vs-problem-management
 webUrl: "https://www.ibm.com/blog/incident-management-vs-problem-management/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: IBM
@@ -22,15 +22,29 @@ topics:
   - IBM AI
 
 related:
-  - title: "What is the vulnerability management lifecycle?"
-    excerpt: "The vulnerability management lifecycle is a continuous process for discovering, prioritizing and addressing vulnerabilities in a company's IT assets.\nThe post What is the vulnerability management lifecycle? appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-28T13:19:47Z
-    webUrl: "https://www.ibm.com/blog/vulnerability-management-lifecycle/"
+  - title: "Advanced endpoint protection vs. risk-based application patching vs. laptop management: Similarities and differences"
+    excerpt: "Using multiple platforms to discover apps and manage laptops and mobile devices negatively impacts the IT and security team's efficiency. Advanced endpoint protection (AEP) is a set of capabilities that uses a proactive approach to prevent zero-day cyberattacks from succeeding, no matter the type and"
+    publishedDateTime: 2023-08-01T16:19:58Z
+    webUrl: "https://www.ibm.com/blog/advanced-endpoint-protection-vs-risk-based-application-patching-vs-laptop-management-similarities-and-differences/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 82
+    quality: 59
+  - title: "The potential impact of artificial intelligence on industrial property management? We turned to Cushman & Wakefield"
+    excerpt: "Chris Taylor, executive managing director at Cushman & Wakefield, and a member of an Atlanta-based AI committee, recently shared with Chicago Industrial Properties his predictions regarding the potential effects of AI on industrial owners/operators."
+    publishedDateTime: 2023-08-01T16:34:00Z
+    webUrl: "https://rejournals.com/the-potential-impact-of-artificial-intelligence-on-industrial-property-management-we-turned-to-cushman-wakefield/"
+    type: article
+    provider:
+      name: RE Journals
+      domain: rejournals.com
+    quality: 15
+    images:
+      - url: "https://rejournals.com/wp-content/uploads/pexels-tara-winstead-8386440.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "L2rAu9g/kjVcAj28xlz9jD7EbUq7SjTSa1TpdOiWdf05vVbO04QuVB9tvdM1rAXcc0bcj9IB9ss4TyUzRM0QTHB7kUhE6wucKqSqkECMgwYH+FonRYJnK5VD0QUL1gKiRL7+DTisGLyEGI1UxizkvDjCxSj5E09eYqAgUWNWOVk5uGKb7MIiar7dzmvq5cUqq6L3YS+gFdZFRTTP/Avm949DD30hOZbPDCWjj38gCESBuogtabS8lcewkS3Qxn2SOtbqCcoAZ18k4gzp//5FAEbXPjqycj3H0DvfnXwpPhKLKZqb7tCHmFCO15L0CYzRnCkjChHgV5WHd9jOp/7wEOMeRiZIKc18w2b7f1XQfR8=;XofUYvyDKl6N8DA/9X9wog=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-con
 webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
 type: article
 quality: 95
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM's tech and business agenda leads with AI, hybrid cloud"
-    excerpt: "Company No. 28 on our 2023 Top 100 made a big investment in the federal market through its acquisition of Octo Consulting and sees that as directly tied to Big Blue's bigger, global vision for itself."
-    publishedDateTime: 2023-07-28T14:59:00Z
-    webUrl: "https://washingtontechnology.com/top-100/2023/07/ibms-tech-and-business-agenda-leads-ai-hybrid-cloud/388925/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 41
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/07/27/IBM_logo/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "6 Ways Generative AI Is Changing Content Management"
     excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
     publishedDateTime: 2023-07-31T13:26:00Z

@@ -24,22 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing the AI Stage agenda at TechCrunch Disrupt 2023"
-    excerpt: "AI is everywhere it seems, and you’ll find plenty of hot topics on the agenda for the new AI Stage at TechCrunch Disrupt 2023. Check it out!"
-    publishedDateTime: 2023-07-28T14:00:00Z
-    webUrl: "https://techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/"
-    ampWebUrl: "https://techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/amp/"
+  - title: "Generative AI and the fourth why: Building trust with your customer"
+    excerpt: "When positioning new emerging technologies, like generative AI platforms, solutions providers must be able to answer these questions with clarity, precision, and relevance."
+    publishedDateTime: 2023-08-01T14:12:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/AI-Stage-Article-Image-Header-1920x1080@2x.jpg?resize=1200,675"
+      - url: "https://www.zdnet.com/a/img/resize/aab9ab76805776187d2171327baab0431d44966b/2023/07/31/e4dba81a-533b-453d-8623-db9c22932277/gettyimages-1383963898.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Reducing Generative AI Hallucinations and Trusting Your Data: Interview With Cognite CPO Moe Tanabian"
+    excerpt: "What should tech professionals who are concerned about AI hallucinations have in mind when determining whether to use generative AI products?"
+    publishedDateTime: 2023-07-31T20:58:00Z
+    webUrl: "https://www.techrepublic.com/article/interview-moe-tanabian-data-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062223-featuredimage-lenovo-extending-ai-ready-infrastructure.jpeg"
+        width: 1400
+        height: 788
+        isCached: true
+  - title: "Using AI to Build Stronger Connections with Customers"
+    excerpt: "As companies learn to use generative AI to create value, there’s a risk that they take the wrong approach when applying the technology to the customer experience. In fact, research shows AI can help boost customer satisfaction when it’s used to offer customers more personalized solutions or to help human employees provide better service than they would without the technological assist."
+    publishedDateTime: 2023-08-01T12:15:00Z
+    webUrl: "https://hbr.org/2023/08/using-ai-to-build-stronger-connections-with-customers"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "DmIS4Yqg6+si1RPADTGLTLSNZKLy/wy9dWL3w9DZov9LifG1qNzMxpDtXkmfZGWV6k+gvy3lbcZsq1HaSYYiGnQrAnlvcBGZmg/9HcdVqW4vP95vVkmQD2JQLtwQrsHPcllSoHMtubitc4zbgQ1jnr6Ztd7g4gdWeGa4HtRKqMtKM0qX6epJNFrXnmp+MWgsCIqGb5VZ5NcCqM1PUW0ruDRHn0XRhr7TjcLTm+HYsmGV3TnklnE+nSWxoxm3gxAnZHqxPIA3Mtfny99/7lP5waTZ+7NkdND5POZa/356fxvavVcaOROP9DL6TAIHHfUCnwOVLq9xdJEQbOmmJaE87OB2cdTgkd2A+w688576QLY=;u9K+avFxsBjCeVdJH1SypQ=="
 ---

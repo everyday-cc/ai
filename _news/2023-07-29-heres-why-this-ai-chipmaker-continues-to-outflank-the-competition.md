@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-contin
 webUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230731pd208_files/2_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "AMD Q2 Beats Estimates As Server, PC Chip Demand Improves; Chipmaker Signals Strong Engagement Ahead Of AI Launch"
-    excerpt: "AMD shares have rallied over 80% year-to-date, outperforming the QQQ and the SOXX. The company noted strong demand for its EPYC server chips and Ryzen 7000 CPU processors in the second quarter. Advanced Micro Devices,"
-    publishedDateTime: 2023-08-01T20:54:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33506515/amd-q2-beats-estimates-as-server-pc-chip-demand-improves-chipmaker-signals-strong-engagement-ahead-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33506515"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33506515"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Freudenberg,,North,Rhine–westphalia_-_germany,-,22,05,2020:,An,Amd,Sign.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "ArrQ0zYeDTLm6rb+MK3I2K1tfPJ72kpuvarvBifSVq3tERwZAieu6F+Oiqns2uToA8X5GmO3nIM87Q6F0BtiFx4vNOOBYDr0CEWVdy3jfs44Qh4+5+AbYRamZVPlKRlsq1GMYeL/naTNvt1YvcywDPg3Z9jpOvDVop0oh02BfuUM2ZPagZOhDwM6qilGYS6Kv5nvOqF7dCYl/QUvmTbuvENs5HzL1cdT23Bf3xd+JbBX+Y52OZ27BClb/MzbIiRRdpBm7qm8VnfaWVsFUC2aMUcIHB5Z1foRO4BeT/ul5h4yht2f2LxxITTEuZ6fq80DwMKrL7I6B9v+rpF2vL5U4JPqH3LcDgO655fTNDpsUEg+ZefgEh5NcFNZ1nMi7ZgeWICgfCL+f9QV+xtGcG+7+XfuNTTXXiL8jP6QZb+Ov0FFYNdJYzBrpb1E/4Fbhjiv7c35SU2hPnYC1zkujBQ6Is6ckKlKWqqOZErAI8KxCHtp9wbgFBAQWjbFKR7wVH0ql3qZTf6hWiTgG3TShvE+7g==;TowLmPS/vtFxG8HjoYpMhA=="

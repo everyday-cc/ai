@@ -38,22 +38,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
-  - title: "Organizational Resilience And Operating At The Speed Of AI"
-    excerpt: "The hope is that AI (and its close cousin automation) can help solve the productivity paradox. Indeed, Goldman Sachs analysts predict AI will deliver \"a 7% (or almost $7 trillion) increase in global GDP and lift productivity growth by 1."
-    publishedDateTime: 2023-07-28T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/28/organizational-resilience-and-operating-at-the-speed-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d79a86fd87ce0403e3c1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
     excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
     publishedDateTime: 2023-08-01T13:00:00Z

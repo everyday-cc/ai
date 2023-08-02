@@ -27,28 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Here's why this AI chipmaker continues to outflank the competition"
-    excerpt: "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat."
-    publishedDateTime: 2023-07-28T17:27:00Z
-    webUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html"
+  - title: "AMD Projects Strong Year-end Performance With AI Chip Launch"
+    excerpt: "The strong projection will be driven by the planned launch of artificial-intelligence chips that could compete with Nvidia semiconductors."
+    publishedDateTime: 2023-08-02T07:20:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 64
-  - title: "China's AI chipmaker Cambricon rumored to see further layoffs"
-    excerpt: "Based on reports from and, insiders revealed that SingGo, an autonomous driving chip subsidiary under Chinese AI chipmaker Cambricon Technologies, has laid off nearly half of its software department employees and retained only a few hardware developers,"
-    publishedDateTime: 2023-07-31T06:51:00Z
-    webUrl: "https://www.digitimes.com/news/a20230731PD208/ai-cambricon-china.html"
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 74
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lbfgquscrtshxtew_1690959468.jpeg"
+        width: 768
+        height: 437
+        isCached: true
+  - title: "AMD Reports Solid Earnings and ‘Strong Progress’ on AI Chips. The Stock Is Rising."
+    excerpt: "Advanced Micro Devices could have a bumpy couple of quarters, but there is a long-term reason to be optimistic about the stock: the potential for its artificial intelligence chips. Already a subscriber? Sign In"
+    publishedDateTime: 2023-08-01T05:30:00Z
+    webUrl: "https://www.barrons.com/articles/amd-earnings-stock-price-bdc77862"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: Barron's
+      domain: barrons.com
+    quality: 68
+    images:
+      - url: "https://images.barrons.com/im-826572/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AMD forecasts AI chip launch timeline to challenge Nvidia"
+    excerpt: "AMD forecast a strong fourth quarter and expects to have artificial intelligence hardware that can challenge Nvidia chips by that quarter. “Our AI engagements increased by more than seven times in the quarter as multiple customers initiated or expanded programs supporting future deployments of Instinct accelerators at scale,"
+    publishedDateTime: 2023-08-01T23:04:00Z
+    webUrl: "https://www.itnews.com.au/news/amd-forecasts-ai-chip-launch-timeline-to-challenge-nvidia-598727"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
     quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20230731pd208_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://i.nextmedia.com.au/News/2023-07-28T054958Z_1_LYNXMPEJ6R05V_RTROPTP_4_AMD-RESULTS.JPG"
+        width: 1000
+        height: 672
+        isCached: true
+  - title: "AMD makes ‘strong progress’ on AI chips and its stock rises"
+    excerpt: "Wall Street’s estimates, but its stock rose after the company beat expectations and made optimistic sounds about its artificial intelligence portfolio. The company reported second-quarter earnings before certain costs such as stock compensation of 58 cents per share,"
+    publishedDateTime: 2023-08-02T00:42:00Z
+    webUrl: "https://siliconangle.com/2023/08/01/amd-makes-strong-progress-ai-chips-stock-rises/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-06-14_084033192.png"
+        width: 687
+        height: 371
+        isCached: true
+  - title: "AMD plans AI chip debut by year-end to compete with Nvidia"
+    excerpt: "Chief executive Lisa Su said AMD is set to ramp up production of its flagship MI300 artificial-intelligence chips in the fourth quarter. The accelerator chips, which are in short supply, are designed to compete against the advanced H100 chips already sold by Nvidia."
+    publishedDateTime: 2023-08-02T00:30:00Z
+    webUrl: "https://www.crn.com.au/news/amd-plans-ai-chip-debut-by-year-end-to-compete-with-nvidia-598742"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2023-07-28T054958Z_1_LYNXMPEJ6R05V_RTROPTP_3_AMD-RESULTS.JPG"
+        width: 800
+        height: 538
         isCached: true
 
 secured: "qwO0pHYIVE2YLoCuS3MCyU7RnffwCnUDfhAcoL0Jf+Mj60YEKx11nLc4x1gjFytzrxVaQRbQKF6Ytg7kCjnlUt0+wOAfLAFGvqcvKsmcQtn2VDSfh9ieoxX5Q6RGf9eJKilZp8EHA7L1cAWEwZQn7qqKdsBpcFbyWR1tplFIiRFf6xi9taRbRPa6TM7szaegj5yPGsCNO76mK0DEkTPc0q+qQVChCWZvQ1te3eT1yVfolCjGtq4Zxx5irgxmUOerOG5g25rq4EOPsMO3j0Y1l2gbFyB0koWAPeIW4gkZsRoNQsyjqtOHb0iKhjA+36tG1s561HWhA7s0AWnmN+4mhMr4Ql48d8yxDQJGjFeZ5Kc=;qa7KA9qts3Wmkj2+iBfwHg=="

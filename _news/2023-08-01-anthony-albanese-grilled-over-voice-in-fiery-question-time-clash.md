@@ -37,6 +37,15 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
+    excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
+    publishedDateTime: 2023-08-02T04:28:00Z
+    webUrl: "https://www.dailytelegraph.com.au/business/work/leaders/anthony-albanese-fires-up-on-housing-in-question-time-grilling/news-story/0361059ce2d6fe05929c3c0700fb43a2"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 3
 
 secured: "2QOfBjRaJj5I7UyaRuI+TUtatGRFO8GcUioh25veebxWYIvNnDEcVnXSuARu4bDLQaLYLT6BXOkTgm1v+R/oeJ34+dRV/ZogRRso0BIVXvFTj3RDmASCKWkv/MBeCB+m0wGKNWPiH8QQCKzKyEsyPitkHaVGE1qUCvCvNCNOqnc/r/EjdnmPFlv61Sps5e0Gns8X5IBkLEF4gBYNaqTTdSEz4GueuUx5l3clCvlFBytkTCZkQxIYMbsLtF1tfsimPCoHKdqvHC5l5LgWCmN4wvzYEUTceoBGo0+GBeBgiDOcn4RkpRM4TpLMpjptW3mR59Y915bnIMgjemtB8bmjrkPonnB9c4tSFr7a2uO/8eEYzuGBTNEAG0SaMwlXgjrusLceVAc3uqANoTYMk3KHQbXbz7x7Jh14aI3uVH6lHR6L3ibtzWbOvYWyxsuELuhvF1lBFxYNRR6REUbsmVy9E7uJJJSeHrFMhm5sd+snozSkwhvxBsEwYJcbxeCZAS84RCC/hwIEL1vPNtiW1I8b8w==;R2ceJwdrA7JAtcduR1ZtBQ=="
 ---

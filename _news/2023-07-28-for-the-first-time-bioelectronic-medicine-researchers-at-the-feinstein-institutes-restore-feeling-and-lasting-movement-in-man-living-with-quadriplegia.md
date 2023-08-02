@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers successfully train a machine learning model in outer space for the first time"
-    excerpt: "For the first time, researchers have trained a machine learning model in outer space, on board a satellite. This achievement could enable real-time monitoring and decision making for a range of applications,"
-    publishedDateTime: 2023-07-28T14:11:00Z
-    webUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-successfully-machine-outer-space.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 65
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-successful-2.jpg"
-        width: 1280
-        height: 1508
-        isCached: true
-  - title: "How Researchers Train Machine Learning Model in Outer Space on Satellite"
-    excerpt: "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space."
-    publishedDateTime: 2023-07-31T03:38:00Z
-    webUrl: "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 53
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "For the first time researchers restore feeling and lasting movement in man living with quadriplegia"
     excerpt: "In a first-of-its-kind clinical trial, bioelectronic medicine researchers, engineers and surgeons at Northwell Health's The Feinstein Institutes for Medical Research have successfully implanted microchips into the brain of a man living with paralysis,"
     publishedDateTime: 2023-08-01T14:22:00Z
@@ -72,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/for-the-first-time-bio.jpg"
         width: 2048
         height: 1568
-        isCached: true
-  - title: "New machine-learning satellite model can change how we gather data in space"
-    excerpt: "University of Oxford's team trains a machine learning model on a satellite, enabling real-time monitoring and decision-making for remote-sensing satellites."
-    publishedDateTime: 2023-07-31T16:47:00Z
-    webUrl: "https://www.ibtimes.co.uk/new-machine-learning-satellite-model-can-change-how-we-gather-data-space-1718096"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 22
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1712244/iss-photographed-expedition-66-crew.jpg"
-        width: 1200
-        height: 801
         isCached: true
 
 secured: "9jo4VHmFs4+ReDCf18onNOG6Gzrm3WYWHqdH509ELp66cPxdjbDmwCE76utHvrWFOP2x5sBrKFhMU6Wg6vDgFyzlBoVl8Rnv+v+ienu6qEpm9TIHxbx02OEEgux8UEOR+oz+BFFdEibnvJupfkTTYwml1LL3oGwEgl/rx33wJ8u7trk1XUBnE4t8upSM+mCjvMqmhBpp8gWyKeQis+edOhYun8/1TYgDU0Zrg+U3cu2xsUPIWQX7GLIIY6c71mUygugLiSh3sDRarCYNdoAQui0nA5p0I5OBoDMRlxCUL7e8PAc6M4MDTkD4JeO3vrQ1+ZQl2urvJviJO1csXn38/iStwrnQ/uGkcS9+u+JKkYo=;RPcILiNfQzxtqkrH3NZjrQ=="

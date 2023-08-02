@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMD Projects Strong Year-end Performance With AI Chip Launch"
+    excerpt: "The strong projection will be driven by the planned launch of artificial-intelligence chips that could compete with Nvidia semiconductors."
+    publishedDateTime: 2023-08-02T07:20:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 74
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lbfgquscrtshxtew_1690959468.jpeg"
+        width: 768
+        height: 437
+        isCached: true
   - title: "AMD Reports Solid Earnings and ‘Strong Progress’ on AI Chips. The Stock Is Rising."
     excerpt: "Advanced Micro Devices could have a bumpy couple of quarters, but there is a long-term reason to be optimistic about the stock: the potential for its artificial intelligence chips. Already a subscriber? Sign In"
     publishedDateTime: 2023-08-01T05:30:00Z
@@ -41,15 +57,50 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AMD Leaps On Q2 Earnings Beat, Plans To Ramp New AI Chip Production"
-    excerpt: "\"We made strong progress meeting key hardware and software milestones to address the growing customer pull for our data center AI solutions,\" said CEO Lisa Su."
-    publishedDateTime: 2023-08-01T21:01:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/amd-leaps-on-q2-earnings-beat-plans-to-ramp-new-ai-chip-production"
+  - title: "AMD forecasts AI chip launch timeline to challenge Nvidia"
+    excerpt: "AMD forecast a strong fourth quarter and expects to have artificial intelligence hardware that can challenge Nvidia chips by that quarter. “Our AI engagements increased by more than seven times in the quarter as multiple customers initiated or expanded programs supporting future deployments of Instinct accelerators at scale,"
+    publishedDateTime: 2023-08-01T23:04:00Z
+    webUrl: "https://www.itnews.com.au/news/amd-forecasts-ai-chip-launch-timeline-to-challenge-nvidia-598727"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 34
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2023-07-28T054958Z_1_LYNXMPEJ6R05V_RTROPTP_4_AMD-RESULTS.JPG"
+        width: 1000
+        height: 672
+        isCached: true
+  - title: "AMD plans AI chip debut by year-end to compete with Nvidia"
+    excerpt: "Chief executive Lisa Su said AMD is set to ramp up production of its flagship MI300 artificial-intelligence chips in the fourth quarter. The accelerator chips, which are in short supply, are designed to compete against the advanced H100 chips already sold by Nvidia."
+    publishedDateTime: 2023-08-02T00:30:00Z
+    webUrl: "https://www.crn.com.au/news/amd-plans-ai-chip-debut-by-year-end-to-compete-with-nvidia-598742"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2023-07-28T054958Z_1_LYNXMPEJ6R05V_RTROPTP_3_AMD-RESULTS.JPG"
+        width: 800
+        height: 538
+        isCached: true
+  - title: "AMD Q2 Beats Estimates As Server, PC Chip Demand Improves; Chipmaker Signals Strong Engagement Ahead Of AI Launch"
+    excerpt: "AMD shares have rallied over 80% year-to-date, outperforming the QQQ and the SOXX. The company noted strong demand for its EPYC server chips and Ryzen 7000 CPU processors in the second quarter. Advanced Micro Devices,"
+    publishedDateTime: 2023-08-01T20:54:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/23/08/33506515/amd-q2-beats-estimates-as-server-pc-chip-demand-improves-chipmaker-signals-strong-engagement-ahead-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33506515"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33506515"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Freudenberg,,North,Rhine–westphalia_-_germany,-,22,05,2020:,An,Amd,Sign.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "m6yORL9+MFkH91SRs/2yjCv3QdxzJBDBQOsNnKdJktVO8a1jj3bU5JymmJNJnt6SyzYxcSp+TPl3Or5bQBBxUeIeM2FkItrAlke3EOA/aHDvf0VNMMJWwVOzglR6+5dkHlnyRDHlrwwC7hBa6uaN6w+h5UhMJhofacQ81WoZwJm1Hh9DchZcz55qTZmaaX7eZLCESVoiROpcOQ2Gj5BAJ+eFDeLxfY+Cm/9OH3B5/0sYFFHqJrjLBQvXU0+6cig0wdhDmYClf88X80rTARQxnbTvQTn01odil0HLaoet9XIj7kKdvsgSAplZb2DL3CNmtixZt8oJnjx9QomJTd3qG2dek7JaHCABN1CoeWQKr/0=;oTYuMoIAZIC+V1fAT/GZYQ=="
 ---

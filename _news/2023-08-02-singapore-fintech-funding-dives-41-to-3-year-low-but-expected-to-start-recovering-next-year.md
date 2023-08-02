@@ -19,26 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "Global and Singapore fintech funding in 1H2023 dropped, but payments and AI remain resilient sectors: KPMG"
-    excerpt: "In Singapore, 84 deals in mergers and acquisitions (M&A), private equity (PE), and venture capital (VC) accounted for the US$934 million raised, a drop from the 117 deals in 2H2022. However, the report notes that this year’s figure is still “well above” the 1H2019 funding slump of US$344 million across 70 deals."
-    publishedDateTime: 2023-08-01T04:07:00Z
-    webUrl: "https://www.theedgesingapore.com/news/fintech/global-and-singapore-fintech-funding-1h2023-dropped-payments-and-ai-remain-resilient"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/fintech/global-and-singapore-fintech-funding-1h2023-dropped-payments-and-ai-remain-resilient"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/fintech/global-and-singapore-fintech-funding-1h2023-dropped-payments-and-ai-remain-resilient"
+  - title: "Emea fintech takes biggest hit in funding downturn"
+    excerpt: "The European fintech industry bore the brunt of a global drop in fintech funding during the first half of 2023, declining by more than half over the peceding period."
+    publishedDateTime: 2023-07-31T08:44:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 21
-  - title: "Artificial Intelligence in the Global Fintech Market 2023-2028: Growing Demand for AI-Based Banking Software Propels Solutions Segment - ResearchAndMarkets.com"
-    excerpt: "The global AI in fintech market is projected to achieve an estimated value of $4.1 billion by 2028, showcasing an impressive Compound Annual Growth Rate (CAGR) of 23.6% from 2023 to 2028."
-    publishedDateTime: 2023-07-28T16:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230728052216/en/Artificial-Intelligence-in-the-Global-Fintech-Market-2023-2028-Growing-Demand-for-AI-Based-Banking-Software-Propels-Solutions-Segment---ResearchAndMarkets.com/"
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
+    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 18
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
+    excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
+    publishedDateTime: 2023-07-31T17:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210842-global-fintech-funding-declines-to-52-4b-with-some-positive-ecosystem-developments-report-reveals/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 9
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Real-Estate-Crowdfunding-Webinar-2023-290x300.jpg"
+        width: 290
+        height: 300
+        isCached: true
   - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
     excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
     publishedDateTime: 2023-08-01T12:00:00Z
@@ -48,6 +70,24 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 4
+  - title: "Exploring Fintech's Next Frontier - Physical Branches"
+    excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
+    publishedDateTime: 2023-08-02T05:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---physical-branches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
+    excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
+    publishedDateTime: 2023-07-31T23:29:00Z
+    webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 0
 
 secured: "Y2tzccvg8bB8aYS1pakTc38CW6AFw1efLUBAWuUjDVtswD+5wuv6xb7Ar3RMDmp5W+8Q/yXvXuQRLarM0xJpopIXU+JgtrGxSW1Acs9dz8ii+eHCkM5iL+5XgwVda2ngWi4ftgSj1qle/AAYYudlNu71Z7mRsCTM399by7G2EXj86fkUyPXWYAuSVcZpO6Fc338rUpK6QVI7dRcM789DQodGlxKQRzunS2zUNfZGkzzqdcE/WiZC627x3wCDgTsraofve+9jJ8I6CECbuge6byDEsRbuyggeL5zq03WFdBn4x2gFiwH5UK9NwzCzflcRM55Um9DLvfNE90pNx5Q3Q7LkfMMw/3yYVn5P/q3lgJw=;T+bJ4j7Uh+UIYho0LcK1iQ=="
 ---

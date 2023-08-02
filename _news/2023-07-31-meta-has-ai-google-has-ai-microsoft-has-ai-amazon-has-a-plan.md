@@ -270,15 +270,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
-    excerpt: "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ..."
-    publishedDateTime: 2023-07-28T14:13:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 41
   - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
     excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
     publishedDateTime: 2023-08-01T09:54:00Z

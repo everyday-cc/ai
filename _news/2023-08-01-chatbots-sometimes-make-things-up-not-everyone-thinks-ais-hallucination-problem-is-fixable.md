@@ -231,6 +231,17 @@ related:
         width: 1068
         height: 712
         isCached: true
+  - title: "Tiger Brokers officially launches AI-powered chatbot to streamline pre-investment preparation processes"
+    excerpt: "Tiger Brokers has officially launched TigerGPT, its artificial intelligence (AI)-powered investment assistant, to help investors with their investing decisions. The launch follows a successful beta testing period since April 2023."
+    publishedDateTime: 2023-08-02T06:05:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/tiger-brokers-officially-launches-ai-powered-chatbot-streamline-pre"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/artificial-intelligence/tiger-brokers-officially-launches-ai-powered-chatbot-streamline-pre"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/artificial-intelligence/tiger-brokers-officially-launches-ai-powered-chatbot-streamline-pre"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 23
   - title: "Therapy For You Unveils Limbic: An AI-Powered Chatbot Revolutionizing Access to Talking Therapies"
     excerpt: "Therapy For You, the esteemed NHS Talking Therapies service catering to patients in North East and South East Essex, has recently introduced Limbic to their"
     publishedDateTime: 2023-08-01T10:26:00Z
@@ -263,15 +274,6 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 17
-  - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
-    excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-28T13:32:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/angel-one-launches-ai-powered-super-app-in-india-to-foster-smart-investments-article-102208147"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 16
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
     publishedDateTime: 2023-08-01T21:49:00Z
@@ -300,6 +302,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "AymqMkwMdvFGsXuSlUD8UcYfVR5x2NPlfgfeqo5bgZffwgSdrZFajBeANH+r/kahrlh1m+VyKJxTxRS6wGQ8DBAZBKTu7mUXktotsFPD50PhpHpDXAgkTSo47CaoRdfkzdJxhLPWtxiKLGIjLQR3mPhb7dqGbNYL0wUinF+u1/sZT69Y5gqdddMLYhjlVH0V6E/+eW6MaS/99+fkhb0kzh0FYwky1nBkbx5Yh6lQQrsNjoxZOP1VZV77WgxauMJo53RhgcsqxOMrdpLMhY3ciTSbzFXVM8BehJlt+ixYapvohb/gtBg0kD1148h5qg+ENu2Ct9OKqNgdMWnwpWZR9U7iM4mPCr8hfvgCTZFQ6rI=;mL4Ouxa8itCTP5AI4SYeDg=="
+secured: "58yAzm0OhcyfoW8HAYe5qgBP/o4kluDABkA+jwQ6IgFaxhoNMdQZu0El3oHI1rKZaXifk6jJIBrJb+sLAE2F2cP3Um5MYl3IbSb/wFSG4QN8PKCu8Gqp54O5YLbk+pHAK5Jm55koHRWIT3pqRQiLXKl6RCKcT8TUAAOKnwUmcL7i548ulqPk+W5MS5djdHG+BoO4YUK/j4ALY1/6lGT9T9tANVVNgyAxfpRDmkm8hx8B/OYyG8Z9okUdOcygM48dITZSk8KUYczWkR1xpTGxMMZlvlyaPK9JZDuc2bHFfq+EEainn/WVT5KSSq5zF0geOPVHte5GsZ+/rhJWMGlocLQczMhkgBJ2fKAGgAWOPClTwi5jfPjdrRm6KAWhpgz5x/KMP/LjViHFR3bcvI/LhQgRkEbOdmHatmx895Bi1v6jZHwbSunwXMO1irVgG61MSYxqgRmZK8VfH/ScOlRhmtQTS9uhmzLwtElPidv273144gAymUZdKVqLEOLEhewbRlFrRyJ4feztmUqhnthYjQ==;iye3K5sMRnyGxMk0jVy07Q=="
 ---
 

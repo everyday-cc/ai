@@ -155,15 +155,6 @@ related:
         width: 1600
         height: 898
         isCached: true
-  - title: "What to do with an old mine? Turn it into a self-driving test track"
-    excerpt: "BMW has launched a new test site in Sokolov, Czechia, aimed at developing self-driving and self-parking. The German car maker says the 300-million euro Future Mobility Development Center (FMDC) will play a key role in the company’s development of automated driving."
-    publishedDateTime: 2023-07-28T13:15:00Z
-    webUrl: "https://www.miningweekly.com/article/what-to-do-with-an-old-mine-turn-it-into-a-self-driving-test-track-2023-07-28"
-    type: article
-    provider:
-      name: Mining Weekly
-      domain: miningweekly.com
-    quality: 4
   - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
     excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
     publishedDateTime: 2023-07-29T13:17:00Z

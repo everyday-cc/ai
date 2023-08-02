@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 296
+heat: 286
 published: true
 
 provider:
@@ -256,15 +256,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
-    excerpt: "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ..."
-    publishedDateTime: 2023-07-28T14:13:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 41
   - title: "Meta Has A.I. Google Has A.I. Microsoft Has A.I. Amazon Has a Plan."
     excerpt: "Bloomberg, for instance, built BloombergGPT, a bot for financial information, on a Bedrock precursor called SageMaker. To do it, the company took four decades of unstructured financial data and analytics, loaded them into AWS, added some other training ..."
     publishedDateTime: 2023-07-31T13:00:00Z

@@ -30,24 +30,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 21
-  - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-3-year-low-experts-say-recovery-near"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 4
-  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-02T00:24:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 0
 
 secured: "LM+3uZPRPVpVt5NETjQDEqBszG1VTCYenNyWqW1hAae6XQr6dhu6wDv2gPsw4NmGKRfrMvojcsw/5YltyI9QXjr+T2w9pkqq791G3D1BbV5zc6URfjAeGHQQbtpnaV/THIxAN2/n7EA218v9rNMryUeYclzUFoOgOObfSTV5jGavE2L1NOA5I6Y+93NKL+aUNicy2e6UzMG6IMT7Op+Nt+R1tWVm64bLhlwpFnwlXmyEwnzNsgRjD6nzLA/49eswyMEUn+2nHMM0cdOC42IFWNOMZjQ5WhgUywH9QiM7xvvgYNrbRqWE+12gr6nvv+BZDATHOFjCDKSEsk5SfYNFSR5x7tltdoanV/jdC3TCuYg=;Tm7g6EDA7joM5qfJDqM5JQ=="
 ---

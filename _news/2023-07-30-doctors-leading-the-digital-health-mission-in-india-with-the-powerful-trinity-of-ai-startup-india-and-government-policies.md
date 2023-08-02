@@ -68,6 +68,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Xume, India’s 1st AI-powered Grocery Scoring and Recommendation Startup, Launched"
+    excerpt: "Xume, India's first AI-powered platform for personalised grocery scoring and recommendation, has been officially launched to address the complexity in"
+    publishedDateTime: 2023-08-02T07:23:00Z
+    webUrl: "https://www.indianweb2.com/2023/08/xume-indias-1st-ai-powered-grocery.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 32
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKhfqqXLbJ958N3I_8k-g8lLmUdUNagWb_R-dlWiPmy7hN_ptThFaGR7LqOQGL4bstwu9TnJUvF5RUBtvAfATwELocLCp_kWZ7P2I-uB0EYATCGXQbmn8pD21gaK7BXtXF8HcnPx9IpmTWpxMO7Y4xLEC888mFphxKGVZ4Hql7HMQFC7T0MP_19YP-ayg/s16000/Xume%20Launch.jpg"
+        width: 1882
+        height: 1058
+        isCached: true
 
 secured: "23Z6gJbIIHW8e6fbzdXcPiMmTTvoTIZ9Fa+p/Kbtg9ZT14TbBwwowHudqXgxkeVp0wqzxW5HvZV/59eUpz+Geeclrmk+/8D0dT49FiQIUcrvnbKS3f+crXDno/LQZtePBM0ua1OdvvMnR1ims/71HMfFSOcbl4vaGqzmAGqdK6MkoOGLC4nyDje7O1p6GEv4b89lwb+KvXTTMsUXEgR4YUfHUK4A11WOdwbcjvKbxingmyuh5K1zLTO27VG0qmxBAZugJvGB9wQ/Jwfz5PNwfuqOBOSqS5Z9DyrjteW10HSZG1eYJq+kN0X/aO9sPOveRv4lcClNbAWnpRgw6n7sCJfGXgu3Dov2nXjPkSVRvkAyZPSXBnuc0a0Av74x9Z0ZvT6GOfYbPE+mS9174zyeaTbX3sA+gppMZ1ec0k3m94KZw8jtUfUIFWJzXq8Cfh4s3aaXxQu6QPQR+qREQ0jtrsMsiDZyrjHAYncCHW1YGsnJg1EvmFOWMZYdbh3+2Q5sFq0W1D7UndhWbtcU7qMnZg==;YAUmrLv1b7H1bSWcs/rsSA=="
 ---

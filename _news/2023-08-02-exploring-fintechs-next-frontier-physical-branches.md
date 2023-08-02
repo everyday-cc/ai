@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Croissant Launches with $24M in Funding, Aims to Streamline Global Commerce"
-    excerpt: "Croissant, a fintech with a mission to empower intentional commerce, launched today with $24 million in seed funding from suite of investors.."
-    publishedDateTime: 2023-07-28T14:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/09/Choice-Options-Decision-Croissant-Food-Breakfast.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Emea fintech takes biggest hit in funding downturn"
     excerpt: "The European fintech industry bore the brunt of a global drop in fintech funding during the first half of 2023, declining by more than half over the peceding period."
     publishedDateTime: 2023-07-31T08:44:00Z
@@ -48,6 +32,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
+    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 18
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
     excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
@@ -63,6 +61,15 @@ related:
         width: 290
         height: 300
         isCached: true
+  - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
+    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
+    publishedDateTime: 2023-08-01T12:00:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-3-year-low-experts-say-recovery-near"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 4
   - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
     excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
     publishedDateTime: 2023-07-31T23:29:00Z
@@ -71,6 +78,15 @@ related:
     provider:
       name: Macau Business
       domain: macaubusiness.com
+    quality: 0
+  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
+    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
+    publishedDateTime: 2023-08-02T00:24:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 0
 
 secured: "DFtuPFfffE0an+iH3YTk4FxAdovBJ0cg1K2s+QYSyfX3RdvQhdR/YGW8tSLTZ+oiGCpemxbyk+M70FLdktkkJvig1q12YTyBFkAXTQxEU7VAqaVLiILa8eDzuWoE8uUno6PY0zLttbvDz/QG5erok5oUD3ynsXdb5mgKEHaErmhnxRZS6u6h3ZCJvlZJDtLEgsWmN1DyUJ3CrGcAKy07YwpUQV17HRvOvu/JKt/H5wfuGmibF8gefRM5rxPs9JEl9lugIcrfWzPCZ4N/YSgEfneBd7YgSJJc92ruEM6r9g+Do0JXMWIXjCsedUgoyACRbBwXQDan3gkuQwkaGL1oPWh4cxll7eeaZlSpAWCEDrM=;WhqtPCAO3sUw1sDA20e1qw=="

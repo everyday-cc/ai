@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "A New Dawn in Robotics: Touch-Based Object Rotation"
-    excerpt: "In a groundbreaking development, a team of engineers at the University of California San Diego (UCSD) has designed a robotic hand that can rotate objects using touch alone, without the need for visual input."
-    publishedDateTime: 2023-07-28T13:21:00Z
-    webUrl: "https://www.unite.ai/a-new-dawn-in-robotics-touch-based-object-rotation/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
 
 secured: "i2m8d6JO50PWoK4RcTfB+VbDjC0Jgt/F8GJ7tdZxSDGpTeJjZmkoMEp0BIN3sFM8j1+9uK5aRn5OJCQ/OqowM7Jz6/YSz6UhTvyKRjb5q7AuzRgSxIclVzdOfeMc31KELEcnAYKbthXUMpbv2lnRx98twCX6mOU/xlYkUSnupJYeeonJuWjU6wdHN7JxDrakM5y97qudBfCzqk57g7nX2Ffmu3+VvlI8pFICjG+zjsKgbVMphnvgpQh1cPbNnkCWMNjC1EjNjPWptgAmFNXgNxARRXMpi1MtrsO0fS2MLRB5KbX9QnBhLN5s/58FaotikIPd1zLi6WxpHDgR+NaQQ0Ce/x/780YM68EKaALfuABE/uwbzQl6rPv+d2DOH7H+vmbQ9whbIRpNVFBNWKIsDCVx8nhuxOfzeKf12TfvJSOP3STuLP+46i9wh3jq7bitDgLtRV/UVBjG7qkZmOsZ0KGSjcyN82kiTSlusq0JrNa+TCVOWQnFfRKrDY4vQ6nzR+nkxDYpgS4yxAaEAaKj2Q==;x8HDqYSglaoALtDGUvoVGA=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A New Dawn in Robotics: Touch-Based Object Rotation"
-    excerpt: "In a groundbreaking development, a team of engineers at the University of California San Diego (UCSD) has designed a robotic hand that can rotate objects using touch alone, without the need for visual input."
-    publishedDateTime: 2023-07-28T13:21:00Z
-    webUrl: "https://www.unite.ai/a-new-dawn-in-robotics-touch-based-object-rotation/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
   - title: "Indian Television Sees Spurt Of AI-Driven Robotic News Anchors In Multiple Language Channels"
     excerpt: "In April, the Malayalam TV channel, MediaOne presented its own TV news anchor, Ivan, a rare male in the lineup of AI-driven speaking humanoid robots in India. He often takes over the task of presenting the daily 10pm “Sharp Ten” headlines. Here is Ivan introducing his service to viewers and anchoring a short segment."
     publishedDateTime: 2023-07-30T07:19:00Z
