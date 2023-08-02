@@ -45,6 +45,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI-Powered Spend Management: Brex and Rho Harness AI Startups to Revolutionize Financial Operations"
+    excerpt: "Brex and Rho, two spend management companies, are turning to AI startups to help power their new products as the spend management space heats up. Both companies are leveraging AI to automate and simplify tasks like expense tracking,"
+    publishedDateTime: 2023-08-02T08:34:00Z
+    webUrl: "https://thesiliconreview.com/2023/08/brex-startups-financial-ai-powered-operations"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 5
 
 secured: "njnEYK5oOje1M8qtGCbSowUqo6rxqpoQ3Gncot2Y2PwH015pvM9c4IKGBt7qRYGwArVT8WSn3qnnfR8d20K2Ws31+wySXFT8DaZGGRpIsSA5+0HmT+RF0lar92nr3+DuTbph5N2nEDFthTpBL/RhbPAVyCTLhOIAb5WTXa2uuNYL14FPnXw0OL1fkAm3/1RZg+Lumvp33z0Io8XWiO0FhDGv4FIiwaMJn7cLqPKKTIxc79QGD2YhiJTvif3KtX/K6FjEHtmKbAoqZp2u/+1h6HOtVDetv1zB/5Q3aH5LmJBpeFpz22VGWBDu89ddqvPI7nz4uXqi+2lGRB4QWzs4Z0DH49L9X+G+gsAA+qTuAXc=;pTJx6DJdtm2fEW14iohoCw=="
 ---

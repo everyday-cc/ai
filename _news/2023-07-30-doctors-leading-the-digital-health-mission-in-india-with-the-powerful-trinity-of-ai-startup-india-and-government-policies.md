@@ -26,61 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
-    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
-    publishedDateTime: 2023-07-28T16:18:00Z
-    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
+  - title: "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading"
+    excerpt: "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes"
+    publishedDateTime: 2023-07-29T05:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "How India Is Using AI To Build The Internet For Local Languages"
-    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
-    publishedDateTime: 2023-07-30T05:45:00Z
-    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 AI-powered companies redefining FinTech in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-31T06:14:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Xume, India’s 1st AI-powered Grocery Scoring and Recommendation Startup, Launched"
-    excerpt: "Xume, India's first AI-powered platform for personalised grocery scoring and recommendation, has been officially launched to address the complexity in"
-    publishedDateTime: 2023-08-02T07:23:00Z
-    webUrl: "https://www.indianweb2.com/2023/08/xume-indias-1st-ai-powered-grocery.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 32
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKhfqqXLbJ958N3I_8k-g8lLmUdUNagWb_R-dlWiPmy7hN_ptThFaGR7LqOQGL4bstwu9TnJUvF5RUBtvAfATwELocLCp_kWZ7P2I-uB0EYATCGXQbmn8pD21gaK7BXtXF8HcnPx9IpmTWpxMO7Y4xLEC888mFphxKGVZ4Hql7HMQFC7T0MP_19YP-ayg/s16000/Xume%20Launch.jpg"
-        width: 1882
-        height: 1058
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg"
+        width: 800
+        height: 576
         isCached: true
 
 secured: "23Z6gJbIIHW8e6fbzdXcPiMmTTvoTIZ9Fa+p/Kbtg9ZT14TbBwwowHudqXgxkeVp0wqzxW5HvZV/59eUpz+Geeclrmk+/8D0dT49FiQIUcrvnbKS3f+crXDno/LQZtePBM0ua1OdvvMnR1ims/71HMfFSOcbl4vaGqzmAGqdK6MkoOGLC4nyDje7O1p6GEv4b89lwb+KvXTTMsUXEgR4YUfHUK4A11WOdwbcjvKbxingmyuh5K1zLTO27VG0qmxBAZugJvGB9wQ/Jwfz5PNwfuqOBOSqS5Z9DyrjteW10HSZG1eYJq+kN0X/aO9sPOveRv4lcClNbAWnpRgw6n7sCJfGXgu3Dov2nXjPkSVRvkAyZPSXBnuc0a0Av74x9Z0ZvT6GOfYbPE+mS9174zyeaTbX3sA+gppMZ1ec0k3m94KZw8jtUfUIFWJzXq8Cfh4s3aaXxQu6QPQR+qREQ0jtrsMsiDZyrjHAYncCHW1YGsnJg1EvmFOWMZYdbh3+2Q5sFq0W1D7UndhWbtcU7qMnZg==;YAUmrLv1b7H1bSWcs/rsSA=="

@@ -142,20 +142,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "US cities weigh value of facial recognition for police"
-    excerpt: "Throughout the United States, cities are reconsidering the role of facial recognition in criminal investigations and prosecutions."
-    publishedDateTime: 2023-07-28T15:14:00Z
-    webUrl: "https://www.biometricupdate.com/202307/us-cities-weigh-value-of-facial-recognition-for-police"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "UK stores cracking down on shoplifting with facial recognition technology"
     excerpt: "A handful of UK-based retailers are incorporating facial recognition technology to crack down on shoplifting.  UK police are employing pre-existing live fa"
     publishedDateTime: 2023-08-01T09:17:00Z

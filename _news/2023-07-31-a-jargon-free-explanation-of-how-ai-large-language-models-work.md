@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages"
+    excerpt: "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that."
+    publishedDateTime: 2023-08-02T08:01:00Z
+    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/"
+    ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 61
+    images:
+      - url: "https://images.indianexpress.com/2023/08/AI-Language.png"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Researchers discover new vulnerability in large language models"
     excerpt: "Large language models (LLMs) use deep-learning techniques to process and generate human-like text. The models train on vast amounts of data from books, articles, websites and other sources to generate responses,"
     publishedDateTime: 2023-07-31T19:03:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Esteban Granero: Former midfielder using artificial intelligence to help shape tactics, transfers and the future of football"
 excerpt: "Olocip was born. The company, of which Granero, a former Real Madrid midfielder, is founder and CEO, specialises in the development and application of artificial intelligence in football and has been active since 2016, long before the technology exploded ..."
-publishedDateTime: 2023-08-02T07:52:00Z
-originalUrl: "https://www.skysports.com/football/news/11095/12924195/esteban-granero-former-midfielder-using-artificial-intelligence-to-help-shape-tactics-transfers-and-the-future-of-football"
-webUrl: "https://www.skysports.com/football/news/11095/12924195/esteban-granero-former-midfielder-using-artificial-intelligence-to-help-shape-tactics-transfers-and-the-future-of-football"
+publishedDateTime: 2023-08-02T09:21:00Z
+originalUrl: "https://www.skysports.com/football/news/12040/12924195/esteban-granero-former-midfielder-using-artificial-intelligence-to-help-shape-tactics-transfers-and-the-future-of-football"
+webUrl: "https://www.skysports.com/football/news/12040/12924195/esteban-granero-former-midfielder-using-artificial-intelligence-to-help-shape-tactics-transfers-and-the-future-of-football"
 ampWebUrl: "https://www.skysports.com/amp/football/news/11096/12924195/esteban-granero-former-midfielder-using-artificial-intelligence-to-help-shape-tactics-transfers-and-the-future-of-football"
 cdnAmpWebUrl: "https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11096/12924195/esteban-granero-former-midfielder-using-artificial-intelligence-to-help-shape-tactics-transfers-and-the-future-of-football"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "AsTIf2gzlUzqsC8BRMZBGfSnsZqWnJ8mCvWzhwOuOxSff433pXeSBBgiQZXTdijCsJr++emmrJ1VF5Xt9LEVSbdNaBlsBs2tzy+7ZJQuDS++ssx386q+8ro7Nt+MzX9iZW86wTD7dvLcjdacQPO5ePGvxRuLpPVoh0v12Oe9h3cui07fkm9zHZkzVx+1DmRMJbETzlx4H34COyFhSGtuEP3mFUAE0XAOoWwAvMmh2c5O+dU74n4iy4M1OhRfuAaiHxs10L9qvx6lwDwKIVicrocFgG+h4y6mgvviYyoIFBpUaHEzie8VSiSISQOIlRZ1Sp06+BKrNIsF7Fcbq/RBfcQtIgsXk4x7naAHp5n/0Ho=;Fcy1Sfb81LtCPiwKgt9PfQ=="
+secured: "KSidEDN+AfvmD1MjoOj/MX8PXKfMuJddO/pLqUbXlNkivkRWQyOsJ0gclQWy8jFhD3CDoQh0Okaql9RA+RqhuR41STDsVtqR6bYasg5rC6XZSXBYTqRSogIFFdenEuRurMvh2bKFr3N5FiIXyS4QV8eQlxQIovWADr2kcnkysi9t3YAalwvS6pu44wBHJC3eDrcNHICNKE2B1tK3OwP52G/wR5STMv2w0YR9l/EW1TsjdmkXGmXJTkfGsKxF0j/RIp8478SLeZl9KHO+HTTHr/sLoHvi81Lzr6wnv0XsMoRyuocxkaQtX3IuaCdVYnR2tVGzenZ6Ky652KERqOtVONeQt+c41vhLma5jbzldFo0=;VJOzhra6+D3D2XE6+ZY/9Q=="
 ---
 

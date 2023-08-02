@@ -1,28 +1,24 @@
 ---
 category: news
 title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-excerpt: "Multi year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory. KPMG and Microsoft have announced a significant expansion"
-publishedDateTime: 2023-08-02T03:40:00Z
-originalUrl: "https://www.ryt9.com/en/prg/269956"
-webUrl: "https://www.ryt9.com/en/prg/269956"
+excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
+publishedDateTime: 2023-08-02T08:57:00Z
+originalUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s"
+webUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s"
+ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.ryt9.com/img/files/20230802/iq74a13ffbb6c207e21ae73387e92a8266.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "AIS Attains AI and Machine Learning on Microsoft Azure and DevOps"
@@ -112,20 +108,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png"
         width: 1000
         height: 715
-        isCached: true
-  - title: "Microsoft Azure OpenAI service approved for use on sensitive government systems"
-    excerpt: "The service has received FedRAMP High approval, meaning it can be used in cloud environments that hold sensitive, unclassified data."
-    publishedDateTime: 2023-07-28T16:56:00Z
-    webUrl: "https://fedscoop.com/azure-openai-approved-for-use-on-sensitive-gov-systems/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 65
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/09/White-House-exterior.jpg?w=505"
-        width: 505
-        height: 336
         isCached: true
   - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
     excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
@@ -279,6 +261,6 @@ related:
       domain: govconwire.com
     quality: 28
 
-secured: "RfTrAkTF9QepoUSWEHeZ91dv1LRNOGETCmD87q90xpaFQaQJ6ycyJ1sbZ8oQovIuomoaCLKimKymq3CMhb43NvzRaxk4JKEy1x50VZ8AZ1FJm4LAJS5j4qfe9zhvG/4CAcis1jk2B9+dUKqQ/ZNtligw7MuCMVuOyzqcemWOpve5ObekjIoetNBXSTAUjpQKQCOtOUQ1TjWv8h+glhGlkI0sxHPZS/hK+4Kyr9xoDq7G6BKKupPOtWXlYFwKPoho+TT5Oqf0h0UH/yjB3/jfKRGI50XPeUt1admznVEyj0pFtVrg2sPHKY++7swssir/vw4V5Ghm8Kx6pbPeLwFhw8tZmbjGZr9dff3lvjJoxqc=;SDqa1MyvDuvY2NrLXyJMGw=="
+secured: "wpzEVr1rIKLofAv8n+EHHn5WhBwORXtxZivjOIGx4u6l6GOxDUcwbtLm6wgm1iM6UT07yo8l1wNpSMpjfzc7WtZ+KnvXD2oK/lG7leAWAbgFv+5HpZqLQdUyKpJHmn64hJwFIC8qfBR7LdwysoixOdLSiyHGyeUUNNb4Y02Pl18BZ9Wpf1EKjm+djYFghf4tu5dY0k7KWDV8gWNVA4KWGpFJW/Lx6L8NNKQIp1zizfCxyCnH9AYRAvGcNl/QaiM6/NhGzObvt5pbLOusVK6p+5PrIkF+TMVoqkrdUNtrwkrhaDEWBYv1AHKNmKQPSXzlJwDGJuVhBS1bTwe8xNDZY++njuwgfLMkTLKnAIG3VYo=;jx5SMPQ+xONJX7wtAQRx5A=="
 ---
 

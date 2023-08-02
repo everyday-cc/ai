@@ -120,6 +120,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "Creating better treatments with AI"
+    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
+    publishedDateTime: 2023-08-02T08:12:00Z
+    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
+    type: article
+    provider:
+      name: scientific-computing
+      domain: scientific-computing.com
+    quality: 19
   - title: "How Will Artificial Intelligence Change the the News Business?"
     excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
     publishedDateTime: 2023-08-01T13:00:00Z
@@ -139,6 +148,6 @@ related:
       domain: thestreet.com
     quality: 14
 
-secured: "j9UdPRPDapGdZ6Gsat8al1UOt1kLAEuAnErRsknzdCvn16ptbangt0cECIX4lL0xJSVaIoK7kw1iTe4pcOWdJTD2uHKtswHQ9PcPNynB/VO4fRSgE9NLs1tG0bN9CTxr69SwZj1MWpUQ8RowMtL+1+WJ1b1YPj3zoykWNx07G+klXW/IZQVsz/e1riwXU9g7VYvolU9fKx7GgnSfQsK9Sq8m6rbOVjUstDOv46wuQEtSmXhmu29+WlPK0SrSWZVqiktQx2a+W5N1lJpXviVKn/P8/TRfi40Bo2J2uwpd9bLKwvjezEGd9+7QJrH4sNyeSNZeatxh4WxTi6PD40tSE+FOyelcZPaJYO//+/EoNuk=;ESoyiDCwMrbm3/YgdtzO0A=="
+secured: "nlfjLV5DbQ+dANd22wZC8uYfg0wjgvPZBINgrXrQeuzQsPku8Ar/ljGUQeZ+MxQgDKDTxOZHvB0hIqnzZodo5sAmLN274B+4VU2EtcRQSH4i6E/VH1t1ZWbUa+lmPN0FsI+YPco50Q9PV9iAcXzRslN6G6uzqHRpqKg5AdvaUU2bmMAwKycEI2+3Nw7BElKEFrHftI/NPBEYpMLyuUa5ks86pIbKnsdQLvbBGdFq+Cue16CjILpl1BFUPsjjMbFafcyN/K4MzP38fcCvP8BymVS5NXCEEyh9N89MSSh6jYJ7HHpxcAoStSxeVVlN5oyaMnOvLaDMWhynox2uDs9eaegLsmGowtfR+OyqSr+mj4uL/+usgG4Ux3ivUpLGdxs5IpK4IkBemTajfosJTEnDX12mwdM1RTPZOTJLbf7DiHPEJQMSrZWXbmVymTMELDPcaBztpAkPKMgrESjaKaZFO5IztO85jwd9eq6SJfUYs702DkqcXul6fuYybXs42ufgY2AGpLW0uN6bQtw6McAe0A==;Xv/D5jRYHVvNvKW3deVXNg=="
 ---
 

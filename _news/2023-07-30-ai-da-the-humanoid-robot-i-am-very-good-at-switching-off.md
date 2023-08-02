@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/ai-da-the-humanoid-robot-i-am-v
 webUrl: "https://www.thetimes.co.uk/article/ai-da-the-humanoid-robot-i-am-very-good-at-switching-off-wh0r3k3w0"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions"
-    excerpt: "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions."
-    publishedDateTime: 2023-07-28T16:23:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33444703"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33444703"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/28/google_ai.png?width=1200&height=800&fit=crop"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "The No Robot Bosses Act Aims to Regulate Workplace AI"
-    excerpt: "Like the “No Robot Bosses Act,” the text of the bill is not yet ... continue to consider methods of regulating employment-related automated systems and artificial intelligence more broadly. At the same time, federal regulators and private plaintiffs ..."
-    publishedDateTime: 2023-08-01T23:16:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-no-robot-bosses-act-aims-to-4374708/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.11535_5738.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Indian Television Sees Spurt Of AI-Driven Robotic News Anchors In Multiple Language Channels"
-    excerpt: "In April, the Malayalam TV channel, MediaOne presented its own TV news anchor, Ivan, a rare male in the lineup of AI-driven speaking humanoid robots in India. He often takes over the task of presenting the daily 10pm “Sharp Ten” headlines. Here is Ivan introducing his service to viewers and anchoring a short segment."
-    publishedDateTime: 2023-07-30T07:19:00Z
-    webUrl: "https://swarajyamag.com/technology/indian-television-sees-spurt-of-ai-driven-robotic-news-anchors-in-multiple-language-channels"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 28
-    images:
-      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4f5f90a-38ef-492c-8e2b-fc253b304ebe/Photo_1_ALTERNATE__Lisa_is_India_s_newest_Ai_news_anchor_who_debuted_on_Odisha_TV_last_week.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "IXb7ACvPoa4sif3uOmjx1S5WCfbIvSrNvHUdTh6DOTW/hKl2896cYaXfDcyVQdgcqtYmI7HvbjFY7DTxjgabNwinH1+EpkvgB2qvizSwLluxuTANBb3lAXINaCMT9LsgygsHNpWiCwxpPdvpwnPItuf5WalMOVPzAlD84Lhu557sdfMukNqpGHWs2wG8wKLYScL34sCUlUeda46Mpfl8eeCjE8r8zHbrSMAsNNe1QbsrR/Is1A9O2HwST/6Je3lwSWL6DFOE/lMY1XBimJ21jcYZT6Jlbm6gaObV+D6xWGdCzdkbdH9WWU7KaBX18MYkkJzBqRYGl1QnevaQp1/PX7hz7EZ2s2QrkLEBRzve4ZiC4Pt/kj1VNeVGieF53cFEmERcrkGGa/XzmegQOZH/9amFugA2z31JngxyabQBbolbvBgCU4IzN5e5h2i69iaddJvbl5PTkpLRLhGgVwjDu0X5EbtsqEmbZG433jwlwdv+6rzI6pb6g70BOphZL+7nvASJyF4s0/QxeQCCRXBpWg==;kQnQrV6uhzB4o92UxjLkBg=="
 ---

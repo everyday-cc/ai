@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-ae/finance/difc-innovation-hub-lau
 webUrl: "https://www.entrepreneur.com/en-ae/finance/difc-innovation-hub-launches-the-ninth-edition-of-its/456502"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,79 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "AngelList expands into private equity with acquisition of fintech startup Nova"
-    excerpt: "With its acquisition of fintech startup Nova, AngelList is making a serious push into the private equity space."
-    publishedDateTime: 2023-07-28T15:49:00Z
-    webUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/"
-    ampWebUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-187186651.jpg?resize=1200,1200"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
-    excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
-    publishedDateTime: 2023-07-31T15:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
+  - title: "Wealthtech TIFIN, JPMorgan Introduce TIFIN.AI to Support Thematic AI-powered Fintech Solutions"
+    excerpt: "TIFIN.AI ushers in a new phase of fintech innovation “in wealth management across advice and products through the use of AI capabilities across use cases that include client portfolio insights for advisors, alternative investing, wealth management in the workplace, and insurance among others.”"
+    publishedDateTime: 2023-07-30T15:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 59
+    quality: 47
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg"
-        width: 1280
-        height: 1080
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/04/Sunset-Beach-Ocean-Waves-Fintech.jpeg"
+        width: 1082
+        height: 1280
         isCached: true
-  - title: "FinTech Startup Finda Raises $37M in Series C"
-    excerpt: "South Korean FinTech Finda, which operates as a prominent loan comparison platform in the nation, has successfully closed a $37m Series C funding round. Finda has secured $37m in this funding round, with significant investment coming from JB Financial Group and 500 Global,"
-    publishedDateTime: 2023-07-31T16:11:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/fintech-startup-finda-raises-37m-series-c"
+  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
+    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 18
     images:
-      - url: "https://financialit.net/sites/default/files/finda_0.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-31T10:53:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/vanquis-banking-group-acquires-money-saving-fintech-snoop/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Vanquis buys fintech firm Snoop"
-    excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
-    publishedDateTime: 2023-07-31T06:51:00Z
-    webUrl: "https://www.sharecast.com/news/news-and-announcements/vanquis-buys-fintech-firm-snoop--14182144.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 24
-    images:
-      - url: "https://img3.s3wfg.com/web/img/images_uploaded/8/f/dl-money-cash-great-british-pounds-sterling-gbp-finance-spending-consumer-footfall-retail-bills-gas-energy-pb.jpg"
-        width: 620
-        height: 350
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Fintech Innovations To Watch Out For In 2023"
     excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
@@ -121,6 +77,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 1
+  - title: "Axiata Group's Fintech Arm, Boost Sets to Accelerate MSMEs' Financial Inclusion and Digitalization to help the underserved market in Indonesia"
+    excerpt: "Boost aims to empower 77.6% underserved MSMEs through simplified financing solutions. JAKARTA, Indonesia, Aug. 2, 2023 /PRNewswire/ -- Boost, a leading regional full spectrum fintech arm of Axiata, is proud to announce its unwavering dedication to bolstering the growth of Indonesia's MSMEs."
+    publishedDateTime: 2023-08-02T04:30:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/02/9857822.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mbZBvxRj1DkyCQBePmdPwKH3uAqNpWcc/ZOzjl/AAvCL5V57pf0yKXGKpy5jphCIxJTBHik0KhgG3ouCctGMpuoJJjF7fWUH0LGT0TwBSMguHUoabwHdt1gLr4tQo/9mtZlLrXEyj3Ge8CApK+HgZg3Ta7u7Q56IzJNmgY9BAJIzn8sjkp3PigF2m440eYpeOSyAUXVVpmo5sJ6uF1V+9PbosYlpVjW7fANgh7dxWAh7hNiBfr3Gy0uIdzXKFJGlqZjHDnsi7UNPw8uM2LgXRwdnFtnh1Cl90ymbkX750D8pp1rWWrGITWOtbGLCjwtLr/g/UpVQbRCDOZhe892Zy/Uv3nIsFBJOnTbf78MpGZg=;912PKb2rzBr+R7ct+46dkw=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 710
         height: 435
         isCached: true
-  - title: "Google unveils RT-2, an AI language model for telling robots what to do"
-    excerpt: "Google LLC today unveiled a new artificial intelligence model that will allow humans to speak to robots and tell them what to do by transforming words into action."
-    publishedDateTime: 2023-07-28T16:21:00Z
-    webUrl: "https://siliconangle.com/2023/07/28/google-unveils-rt-2-ai-language-model-telling-robots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/64c28b81ad5efcad99aca86f_rt2_header-min-p-2000.png"
-        width: 2000
-        height: 1225
-        isCached: true
   - title: "Aided by AI Language models, Google’s robots are getting smart"
     excerpt: "Google has recently begun plugging state-of-the-art language models into its robots, giving them the equivalent of artificial brains."
     publishedDateTime: 2023-07-29T13:00:00Z

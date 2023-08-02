@@ -117,22 +117,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-    publishedDateTime: 2023-08-01T12:28:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
     excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
     publishedDateTime: 2023-08-01T17:48:00Z
@@ -219,6 +203,20 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-10420.png"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-01T15:55:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 28
+    images:
+      - url: "https://www.baltimoresun.com/resizer/BtfcsvUS69ehIVbbDiT8NKv8w_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEHE5CRKO5GB4BZQPXUBL2Y4RE.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."

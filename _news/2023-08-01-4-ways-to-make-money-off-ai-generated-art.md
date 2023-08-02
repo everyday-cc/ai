@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AXA deploys secure generative AI to employees"
-    excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
-    publishedDateTime: 2023-07-28T15:20:00Z
-    webUrl: "https://www.reinsurancene.ws/axa-deploys-secure-generative-ai-to-employees/"
-    type: article
-    provider:
-      name: reinsurancene
-      domain: reinsurancene.ws
-    quality: 39
-    images:
-      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
-        width: 1000
-        height: 575
-        isCached: true
   - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
     excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."
     publishedDateTime: 2023-07-31T15:02:00Z

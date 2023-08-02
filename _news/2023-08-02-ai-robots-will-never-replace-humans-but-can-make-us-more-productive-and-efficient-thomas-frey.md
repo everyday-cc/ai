@@ -8,8 +8,8 @@ webUrl: "https://www.forbesindia.com/article/mentors-and-mavens/ai-robots-will-n
 ampWebUrl: "https://www.forbesindia.com/amp/article/mentors-and-mavens/ai-robots-will-never-replace-humans-but-can-make-us-more-productive-and-efficient-thomas-frey/87211/1"
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/mentors-and-mavens/ai-robots-will-never-replace-humans-but-can-make-us-more-productive-and-efficient-thomas-frey/87211/1"
 type: article
-quality: 47
-heat: 47
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.forbesindia.com/media/images/2023/Aug/img_214799_thomasfreydavinciinstitute.jpg"

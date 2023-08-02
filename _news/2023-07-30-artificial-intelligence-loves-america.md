@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 876
         isCached: true
+  - title: "Here are the 9 smartest ways to invest in artificial intelligence right now, according to Bank of America, Morgan Stanley, and UBS"
+    excerpt: "Artificial intelligence stocks have more upside, according to Bank of America, Morgan Stanley, and UBS. Here's how they recommend investing in AI now."
+    publishedDateTime: 2023-08-02T09:30:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-bofa-morgan-stanley-ubs-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/64c95657048ff200190f443d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Jay Ambrose: Artificial intelligence loves America"
     excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
     publishedDateTime: 2023-07-30T05:01:00Z

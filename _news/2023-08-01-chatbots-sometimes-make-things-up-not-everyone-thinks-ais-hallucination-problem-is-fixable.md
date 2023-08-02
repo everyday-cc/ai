@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
-excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-publishedDateTime: 2023-08-01T12:28:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+publishedDateTime: 2023-08-01T15:55:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
 type: article
-quality: 48
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.baltimoresun.com/resizer/BtfcsvUS69ehIVbbDiT8NKv8w_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEHE5CRKO5GB4BZQPXUBL2Y4RE.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -302,6 +300,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "58yAzm0OhcyfoW8HAYe5qgBP/o4kluDABkA+jwQ6IgFaxhoNMdQZu0El3oHI1rKZaXifk6jJIBrJb+sLAE2F2cP3Um5MYl3IbSb/wFSG4QN8PKCu8Gqp54O5YLbk+pHAK5Jm55koHRWIT3pqRQiLXKl6RCKcT8TUAAOKnwUmcL7i548ulqPk+W5MS5djdHG+BoO4YUK/j4ALY1/6lGT9T9tANVVNgyAxfpRDmkm8hx8B/OYyG8Z9okUdOcygM48dITZSk8KUYczWkR1xpTGxMMZlvlyaPK9JZDuc2bHFfq+EEainn/WVT5KSSq5zF0geOPVHte5GsZ+/rhJWMGlocLQczMhkgBJ2fKAGgAWOPClTwi5jfPjdrRm6KAWhpgz5x/KMP/LjViHFR3bcvI/LhQgRkEbOdmHatmx895Bi1v6jZHwbSunwXMO1irVgG61MSYxqgRmZK8VfH/ScOlRhmtQTS9uhmzLwtElPidv273144gAymUZdKVqLEOLEhewbRlFrRyJ4feztmUqhnthYjQ==;iye3K5sMRnyGxMk0jVy07Q=="
+secured: "/HsgqR2f/GYgaIJkc1ogmj2EQ4oyxnzxprweOmJvi9Hi3HxmlOLbqHQsZ6+gzXcqiajh/JPbvO7gcrmHwGW2ayyHQvf1YO7+tnAHxcw257OJyEvrHC01+wYfJbz6HDZIevF3S8ZNC8OHJcfIjU7EGKIU6Pfqzld0Hvcqd9lhywG+xkbr796UjH1ByAd6Xu8QGRwVo8xyTbahxjsFWBtALbp9dP0REdgR/cyLj25Fsh6VoN3TSPsQ1LVuOcyrRwOupl7yhCs3QjmF7KBb/zuryrUl88DetR0t9A6pQbkr5n8mRAQLVFTpil/WIfNO89eDRDLlKpCq/vrPO47M8LSP33pyWsTS2QhsiYAkUo91y64=;cpPD3TqREWSjiAxY7L5+ng=="
 ---
 

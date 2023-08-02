@@ -25,64 +25,87 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
-    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
-    publishedDateTime: 2023-07-28T16:18:00Z
-    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
+  - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
+    excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
+    publishedDateTime: 2023-07-31T15:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg"
         width: 1280
-        height: 640
+        height: 1080
         isCached: true
-  - title: "How India Is Using AI To Build The Internet For Local Languages"
-    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
-    publishedDateTime: 2023-07-30T05:45:00Z
-    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
+  - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T10:53:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/vanquis-banking-group-acquires-money-saving-fintech-snoop/"
     type: article
     provider:
-      name: Swarajya
-      domain: swarajyamag.com
+      name: IBS
+      domain: ibsintelligence.com
     quality: 39
     images:
-      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Xume, India’s 1st AI-powered Grocery Scoring and Recommendation Startup, Launched"
-    excerpt: "Xume, India's first AI-powered platform for personalised grocery scoring and recommendation, has been officially launched to address the complexity in"
-    publishedDateTime: 2023-08-02T07:23:00Z
-    webUrl: "https://www.indianweb2.com/2023/08/xume-indias-1st-ai-powered-grocery.html"
+  - title: "Emea fintech takes biggest hit in funding downturn"
+    excerpt: "The European fintech industry bore the brunt of a global drop in fintech funding during the first half of 2023, declining by more than half over the peceding period."
+    publishedDateTime: 2023-07-31T08:44:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 32
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKhfqqXLbJ958N3I_8k-g8lLmUdUNagWb_R-dlWiPmy7hN_ptThFaGR7LqOQGL4bstwu9TnJUvF5RUBtvAfATwELocLCp_kWZ7P2I-uB0EYATCGXQbmn8pD21gaK7BXtXF8HcnPx9IpmTWpxMO7Y4xLEC888mFphxKGVZ4Hql7HMQFC7T0MP_19YP-ayg/s16000/Xume%20Launch.jpg"
-        width: 1882
-        height: 1058
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
-    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
-    publishedDateTime: 2023-07-30T10:46:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+  - title: "Unleashing the Power of Generative AI in Fintech: A Groundbreaking Interview with Sam Edge, Global Head of Fintech for Startups at AWS"
+    excerpt: "Sam, please introduce yourself, and tell a bit about your professional background. I’m the Global Head of Fintech for Startups at Amazon Web Services (AWS), where I lead a team of former founders and investors to support the world’s best and brightest fintech startups and venture capital funds building in the cloud."
+    publishedDateTime: 2023-07-31T14:19:00Z
+    webUrl: "https://financialit.net/content/unleashing-power-generative-ai-fintech-groundbreaking-interview-sam-edge-global-head-fintech"
     type: article
     provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 31
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
-        width: 1200
-        height: 765
+      - url: "https://financialit.net/sites/default/files/sam_edge_31.png"
+        width: 2292
+        height: 2293
         isCached: true
+  - title: "Vanquis buys fintech firm Snoop"
+    excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
+    publishedDateTime: 2023-07-31T06:51:00Z
+    webUrl: "https://www.sharecast.com/news/news-and-announcements/vanquis-buys-fintech-firm-snoop--14182144.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 24
+    images:
+      - url: "https://img3.s3wfg.com/web/img/images_uploaded/8/f/dl-money-cash-great-british-pounds-sterling-gbp-finance-spending-consumer-footfall-retail-bills-gas-energy-pb.jpg"
+        width: 620
+        height: 350
+        isCached: true
+  - title: "Exploring Fintech's Next Frontier - Physical Branches"
+    excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
+    publishedDateTime: 2023-08-02T05:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---physical-branches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "+fUiWB+xksVJvblleps3EmTd5py+Fh34F+/hvyZZCivy5SnCyMXFVyPIxxA3BZp85CbPQDcI2j+2pjdaPeHiPRG+zxN322z7BzSCeYFv9oSYXG49GbawAj2v2Cpph+xE2oaMD9q+7CBcawg2tmXewdlcPosXcLJrE0puvfbRAGDRxBkjO4kkx+o6oCCx/U5bboOiLnAWDAi61Yy5Ns1SriUZ/AMJmM+aIGC3j09zjiA3T+LDvJBhvM4vLm2av2x6A460o+go3BA4v9jK1PUtXoOCdCibA7mmRugogHuWGR1kZ+u4zcqt8FD7lKk1vYPJGMZRHvxtvHe2YsOOa5+oactFEOAaES1fZSXRqOX5d8qZbHvl0pwCK/kKM3U9w1UFGVLw8vo92MlHDmt2/xTPng7oKeF30TBg9Pwdj1XltYLrJZzzsPmUULoDVK69kKxOBpoUauacyNOKer4WYmL2l19eFmjgN4HfQvpGQ0xtSFPUxxyH0UcV0nb3G7ROYyx2ZnNj+dgwIGRUpIC0Pt5JYQ==;01NqyjOBYdWLJK9EZHEbjA=="
 ---

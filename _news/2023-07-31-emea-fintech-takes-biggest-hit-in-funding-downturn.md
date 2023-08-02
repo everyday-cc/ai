@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-bigg
 webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,43 +25,78 @@ images:
     isCached: true
 
 related:
-  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
-    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
-    publishedDateTime: 2023-08-01T09:40:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 18
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
-    excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
-    publishedDateTime: 2023-07-31T17:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210842-global-fintech-funding-declines-to-52-4b-with-some-positive-ecosystem-developments-report-reveals/"
+  - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
+    excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
+    publishedDateTime: 2023-07-31T15:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 9
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Real-Estate-Crowdfunding-Webinar-2023-290x300.jpg"
-        width: 290
-        height: 300
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg"
+        width: 1280
+        height: 1080
         isCached: true
-  - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-3-year-low-experts-say-recovery-near"
+  - title: "3 AI-powered companies redefining FinTech in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T06:14:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 4
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T10:53:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/vanquis-banking-group-acquires-money-saving-fintech-snoop/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Unleashing the Power of Generative AI in Fintech: A Groundbreaking Interview with Sam Edge, Global Head of Fintech for Startups at AWS"
+    excerpt: "Sam, please introduce yourself, and tell a bit about your professional background. I’m the Global Head of Fintech for Startups at Amazon Web Services (AWS), where I lead a team of former founders and investors to support the world’s best and brightest fintech startups and venture capital funds building in the cloud."
+    publishedDateTime: 2023-07-31T14:19:00Z
+    webUrl: "https://financialit.net/content/unleashing-power-generative-ai-fintech-groundbreaking-interview-sam-edge-global-head-fintech"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/sam_edge_31.png"
+        width: 2292
+        height: 2293
+        isCached: true
+  - title: "Vanquis buys fintech firm Snoop"
+    excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
+    publishedDateTime: 2023-07-31T06:51:00Z
+    webUrl: "https://www.sharecast.com/news/news-and-announcements/vanquis-buys-fintech-firm-snoop--14182144.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 24
+    images:
+      - url: "https://img3.s3wfg.com/web/img/images_uploaded/8/f/dl-money-cash-great-british-pounds-sterling-gbp-finance-spending-consumer-footfall-retail-bills-gas-energy-pb.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Exploring Fintech's Next Frontier - Physical Branches"
     excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
     publishedDateTime: 2023-08-02T05:45:00Z
@@ -71,24 +106,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
-    excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
-    publishedDateTime: 2023-07-31T23:29:00Z
-    webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 0
-  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-02T00:24:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 0
 
 secured: "KxWNRzdUxdGaUDcahlmQTKMQNAnxtS0e+Xca3RtO6F5WhSjLss51r2vsJ6wYVBRjlfwS1SUmMUcNK2YxmjW5WzSCCOtV+3cXhJFzAAV5cJMVnREEeZhv/qhA4hkh6RorlNiwLVqCKp5meUZ+wI8SYbI9mZO0Y4KuvDbUP/UkgI3YT5VZvXodfzru8zsrP61h2yLOXGcYDVwSmgGW0YqjDw9SpQUz09tlfNPu7T6WbjFRqqyd/8pC1sOnrHfaXqjA+4Kt87wUgmpc0fiGsqSRXpWGogyYAtMn5/LwKXASZfGQRCOgLPWlEGpkfO246LzNL0aGbY2vHgOWsAn7y9L3cdEzXBnRIOxL+Y2Flk6vP7SBz9/3Rdc6VL8tLxCUOTLXnq8DwuI6CFTUargzBwBDcfHhOffzI6UYAU/6XjbjRx/ADHvIVBaluIVqkXNQncLlHtmLH7K/flfw9olPuqAAe1pZhpUBFhIz10DijJkvaifAL9fnbZjgb/Mw4nIoBA6HNJ4Z9tSwPqcLApL7NQDzRw==;5DDmWWceV2s35B18O2ITbg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/incident-management-vs-problem-management
 webUrl: "https://www.ibm.com/blog/incident-management-vs-problem-management/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI-Powered Spend Management: Brex and Rho Harness AI Startups to Revolutionize Financial Operations"
+    excerpt: "Brex and Rho, two spend management companies, are turning to AI startups to help power their new products as the spend management space heats up. Both companies are leveraging AI to automate and simplify tasks like expense tracking,"
+    publishedDateTime: 2023-08-02T08:34:00Z
+    webUrl: "https://thesiliconreview.com/2023/08/brex-startups-financial-ai-powered-operations"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 5
 
 secured: "L2rAu9g/kjVcAj28xlz9jD7EbUq7SjTSa1TpdOiWdf05vVbO04QuVB9tvdM1rAXcc0bcj9IB9ss4TyUzRM0QTHB7kUhE6wucKqSqkECMgwYH+FonRYJnK5VD0QUL1gKiRL7+DTisGLyEGI1UxizkvDjCxSj5E09eYqAgUWNWOVk5uGKb7MIiar7dzmvq5cUqq6L3YS+gFdZFRTTP/Avm949DD30hOZbPDCWjj38gCESBuogtabS8lcewkS3Qxn2SOtbqCcoAZ18k4gzp//5FAEbXPjqycj3H0DvfnXwpPhKLKZqb7tCHmFCO15L0CYzRnCkjChHgV5WHd9jOp/7wEOMeRiZIKc18w2b7f1XQfR8=;XofUYvyDKl6N8DA/9X9wog=="
 ---

@@ -113,20 +113,6 @@ related:
         width: 1000
         height: 715
         isCached: true
-  - title: "Microsoft Azure OpenAI service approved for use on sensitive government systems"
-    excerpt: "The service has received FedRAMP High approval, meaning it can be used in cloud environments that hold sensitive, unclassified data."
-    publishedDateTime: 2023-07-28T16:56:00Z
-    webUrl: "https://fedscoop.com/azure-openai-approved-for-use-on-sensitive-gov-systems/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 65
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/09/White-House-exterior.jpg?w=505"
-        width: 505
-        height: 336
-        isCached: true
   - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
     excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
     publishedDateTime: 2023-08-01T21:16:00Z
@@ -242,19 +228,16 @@ related:
         height: 1024
         isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "Multi year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory. KPMG and Microsoft have announced a significant expansion"
-    publishedDateTime: 2023-08-02T03:40:00Z
-    webUrl: "https://www.ryt9.com/en/prg/269956"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
+    publishedDateTime: 2023-08-02T08:57:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: Zawya
+      domain: zawya.com
     quality: 42
-    images:
-      - url: "https://www.ryt9.com/img/files/20230802/iq74a13ffbb6c207e21ae73387e92a8266.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta Has A.I. Google Has A.I. Microsoft Has A.I. Amazon Has a Plan."
     excerpt: "Bloomberg, for instance, built BloombergGPT, a bot for financial information, on a Bedrock precursor called SageMaker. To do it, the company took four decades of unstructured financial data and analytics, loaded them into AWS, added some other training ..."
     publishedDateTime: 2023-07-31T13:00:00Z

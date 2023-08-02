@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AngelList expands into private equity with acquisition of fintech startup Nova"
-    excerpt: "With its acquisition of fintech startup Nova, AngelList is making a serious push into the private equity space."
-    publishedDateTime: 2023-07-28T15:49:00Z
-    webUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/"
-    ampWebUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-187186651.jpg?resize=1200,1200"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
     excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
     publishedDateTime: 2023-07-31T15:52:00Z
@@ -57,33 +41,19 @@ related:
         width: 1280
         height: 1080
         isCached: true
-  - title: "DIFC Innovation Hub Launches The Ninth Edition Of Its Fintech Accelerator Program"
-    excerpt: "As an initiative that aims to support innovative and revolutionary fintech-focused startups and scaleups, this particular edition of the program will concentrate on areas such as open banking, artificial intelligence (AI), and automation in an effort to ..."
-    publishedDateTime: 2023-07-30T02:38:00Z
-    webUrl: "https://www.entrepreneur.com/en-ae/finance/difc-innovation-hub-launches-the-ninth-edition-of-its/456502"
+  - title: "3 AI-powered companies redefining FinTech in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-31T06:14:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690454254-DIFC.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "FinTech Startup Finda Raises $37M in Series C"
-    excerpt: "South Korean FinTech Finda, which operates as a prominent loan comparison platform in the nation, has successfully closed a $37m Series C funding round. Finda has secured $37m in this funding round, with significant investment coming from JB Financial Group and 500 Global,"
-    publishedDateTime: 2023-07-31T16:11:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/fintech-startup-finda-raises-37m-series-c"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
+      name: IBS
+      domain: ibsintelligence.com
     quality: 39
     images:
-      - url: "https://financialit.net/sites/default/files/finda_0.png"
-        width: 1366
-        height: 768
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
@@ -99,24 +69,43 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Fintech Innovations To Watch Out For In 2023"
-    excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
-    publishedDateTime: 2023-07-30T18:54:00Z
-    webUrl: "https://menafn.com/1106738881/Fintech-Innovations-To-Watch-Out-For-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "How Fintech and Virtual Staging are Revolutionizing the Real Estate Industry"
-    excerpt: "Fintech has disrupted various sectors, and real estate is no exception. In the context of the property market, Fintech has introduced innovative solutions that streamline financial transactions and enhance the overall experience for all stakeholders."
-    publishedDateTime: 2023-07-31T08:13:00Z
-    webUrl: "https://www.finextra.com/blogposting/24653/how-fintech-and-virtual-staging-are-revolutionizing-the-real-estate-industry"
+  - title: "Emea fintech takes biggest hit in funding downturn"
+    excerpt: "The European fintech industry bore the brunt of a global drop in fintech funding during the first half of 2023, declining by more than half over the peceding period."
+    publishedDateTime: 2023-07-31T08:44:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
     type: article
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 1
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Unleashing the Power of Generative AI in Fintech: A Groundbreaking Interview with Sam Edge, Global Head of Fintech for Startups at AWS"
+    excerpt: "Sam, please introduce yourself, and tell a bit about your professional background. I’m the Global Head of Fintech for Startups at Amazon Web Services (AWS), where I lead a team of former founders and investors to support the world’s best and brightest fintech startups and venture capital funds building in the cloud."
+    publishedDateTime: 2023-07-31T14:19:00Z
+    webUrl: "https://financialit.net/content/unleashing-power-generative-ai-fintech-groundbreaking-interview-sam-edge-global-head-fintech"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/sam_edge_31.png"
+        width: 2292
+        height: 2293
+        isCached: true
+  - title: "Exploring Fintech's Next Frontier - Physical Branches"
+    excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
+    publishedDateTime: 2023-08-02T05:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---physical-branches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "1v7aazxb/HoBadHUvFnOK8DfT43QGushKhKCCE/wXAORGnmdYr3zka41FNN4dRf4kBV8sfETz6QsR6ydzRBgNykGmuaOFmTaZsRtMlo5qYnORgw25ElIJ5eVD3PPADjGcDkBIMHgyPb/4nNao9kBSgM5nOnBi6m7Bj5in9uRSoiFXUjv/GLV6BRxIY90g4ifG9yeziHcXL53128cNdJipDn7rwyfPW36t0NZ9I6YqSUxWPHh+CEE842AioovCP5GF9ez008r2FwFVLEJr5kTodM7ztSDRDIzQ5x4tMNi30ZNZKaCtZHdvpnF3UM87Tp2ztAe103EJW0vMyc0ZcCueALxN755yzQi/x2j0nIeRIU=;5F1scWlILqbuPJF29qpnMg=="
 ---

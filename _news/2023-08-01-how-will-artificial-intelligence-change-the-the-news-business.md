@@ -128,6 +128,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "Creating better treatments with AI"
+    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
+    publishedDateTime: 2023-08-02T08:12:00Z
+    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
+    type: article
+    provider:
+      name: scientific-computing
+      domain: scientific-computing.com
+    quality: 19
   - title: "AI's Impact on Business: Billion-Dollar Investments and Market Consolidation"
     excerpt: "AI's transformative potential, opportunities, and threats: impacts on diverse fields and industry consolidation."
     publishedDateTime: 2023-07-28T18:33:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/fundraising-news/fintech-startup-find
 webUrl: "https://financialit.net/news/fundraising-news/fintech-startup-finda-raises-37m-series-c"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,98 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AngelList expands into private equity with acquisition of fintech startup Nova"
-    excerpt: "With its acquisition of fintech startup Nova, AngelList is making a serious push into the private equity space."
-    publishedDateTime: 2023-07-28T15:49:00Z
-    webUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/"
-    ampWebUrl: "https://techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/angellist-expands-into-private-equity-with-acquisition-of-fintech-startup-nova/amp/"
+  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
+    excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
+    publishedDateTime: 2023-07-31T23:29:00Z
+    webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-187186651.jpg?resize=1200,1200"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
-    excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
-    publishedDateTime: 2023-07-31T15:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg"
-        width: 1280
-        height: 1080
-        isCached: true
-  - title: "DIFC Innovation Hub Launches The Ninth Edition Of Its Fintech Accelerator Program"
-    excerpt: "As an initiative that aims to support innovative and revolutionary fintech-focused startups and scaleups, this particular edition of the program will concentrate on areas such as open banking, artificial intelligence (AI), and automation in an effort to ..."
-    publishedDateTime: 2023-07-30T02:38:00Z
-    webUrl: "https://www.entrepreneur.com/en-ae/finance/difc-innovation-hub-launches-the-ninth-edition-of-its/456502"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690454254-DIFC.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-31T10:53:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/vanquis-banking-group-acquires-money-saving-fintech-snoop/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Vanquis buys fintech firm Snoop"
-    excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
-    publishedDateTime: 2023-07-31T06:51:00Z
-    webUrl: "https://www.sharecast.com/news/news-and-announcements/vanquis-buys-fintech-firm-snoop--14182144.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 24
-    images:
-      - url: "https://img3.s3wfg.com/web/img/images_uploaded/8/f/dl-money-cash-great-british-pounds-sterling-gbp-finance-spending-consumer-footfall-retail-bills-gas-energy-pb.jpg"
-        width: 620
-        height: 350
-        isCached: true
-  - title: "Fintech Innovations To Watch Out For In 2023"
-    excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
-    publishedDateTime: 2023-07-30T18:54:00Z
-    webUrl: "https://menafn.com/1106738881/Fintech-Innovations-To-Watch-Out-For-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "How Fintech and Virtual Staging are Revolutionizing the Real Estate Industry"
-    excerpt: "Fintech has disrupted various sectors, and real estate is no exception. In the context of the property market, Fintech has introduced innovative solutions that streamline financial transactions and enhance the overall experience for all stakeholders."
-    publishedDateTime: 2023-07-31T08:13:00Z
-    webUrl: "https://www.finextra.com/blogposting/24653/how-fintech-and-virtual-staging-are-revolutionizing-the-real-estate-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 1
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 0
 
 secured: "Dr68Qb8e98UC2f1uuGGKb6S5p9laUeS0DUskBNWjw/cu3b53H/eWgyLnEv054aakteQHd8McnAxYj4h0Sy5aPRVl3pi1NOVydc/pIheY429/TzP/ysg1QyLQx0BLDCTTUWQjJPYWZfaowxZOEnqA62CMW1Hr6I6nfRrvnawnTF5sUc9Nl3az36WsA6R7daVypoGeXYH13FHvc2w8wQHIJTMUTypC+7BOsZWCZ4AuL3hazCwcu6eismDJnDoZG8l1BhiVJW5AH0KloHgSOJ0lULAoQn6MAftCRpxdLTeRMOhI8vS2RJh83oYsaxEbPEgeuDvbalgbgq21tVxLGsQPVdp3qINosp0HXipMTMAR0jw=;UpSkeooxyd0OV1PvckQV3A=="
 ---

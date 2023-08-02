@@ -104,20 +104,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AXA deploys secure generative AI to employees"
-    excerpt: "AXA, a worldwide leader within insurance and asset management, has announced the deployment of AXA Secure GPT- an internal service built on Microsoft’s"
-    publishedDateTime: 2023-07-28T15:20:00Z
-    webUrl: "https://www.reinsurancene.ws/axa-deploys-secure-generative-ai-to-employees/"
-    type: article
-    provider:
-      name: reinsurancene
-      domain: reinsurancene.ws
-    quality: 39
-    images:
-      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2022/12/axa-logo.png"
-        width: 1000
-        height: 575
-        isCached: true
   - title: "4 Ways To Make Money Off AI-Generated Art"
     excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"
     publishedDateTime: 2023-08-01T00:00:00Z
