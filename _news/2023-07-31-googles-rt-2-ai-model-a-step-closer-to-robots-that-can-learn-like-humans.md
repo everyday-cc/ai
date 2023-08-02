@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "This Google AI Model can translate commands into real-life action"
+    excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
+    publishedDateTime: 2023-07-31T14:55:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 76
+    images:
+      - url: "https://static.tnn.in/thumb/msid-102284914,updatedat-1690815394245,width-1280,height-720,resizemode-75/102284914.jpg"
+        width: 1278
+        height: 720
+        isCached: true
+  - title: "Google's new AI model allows robots to finish tasks on their own"
+    excerpt: "Google's Deepmind AI division calls it a vision-language-action (VLA) model that learns by scouring the web and parsing through heaps of robotic data."
+    publishedDateTime: 2023-08-01T12:20:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 76
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
+        width: 710
+        height: 435
+        isCached: true
   - title: "Google Unveils Advanced AI Model To Train Robots For Real-World Tasks"
     excerpt: "In a significant step towards enhancing robotic capabilities, Google (GOOGL) announced the launch of its latest artificial"
     publishedDateTime: 2023-07-28T20:21:00Z
@@ -40,6 +72,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Google unveils RT-2, an AI language model for telling robots what to do"
+    excerpt: "Google LLC today unveiled a new artificial intelligence model that will allow humans to speak to robots and tell them what to do by transforming words into action."
+    publishedDateTime: 2023-07-28T16:21:00Z
+    webUrl: "https://siliconangle.com/2023/07/28/google-unveils-rt-2-ai-language-model-telling-robots/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/64c28b81ad5efcad99aca86f_rt2_header-min-p-2000.png"
+        width: 2000
+        height: 1225
+        isCached: true
+  - title: "Aided by AI Language models, Google’s robots are getting smart"
+    excerpt: "Google has recently begun plugging state-of-the-art language models into its robots, giving them the equivalent of artificial brains."
+    publishedDateTime: 2023-07-29T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/"
+    ampWebUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Google’s RT-2 AI model brings us one step closer to WALL-E"
     excerpt: "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a “first-of-its-kind” vision-language-action (VLA) model that uses data scraped from the Internet to"
     publishedDateTime: 2023-07-29T15:11:00Z

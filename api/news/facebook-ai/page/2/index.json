@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
-      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
-      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
-      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-how-will-ai-impact-the-future-of-your-work.md",
       "title": "How Will AI Impact the Future of Your Work?",
       "excerpt": "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where.",
@@ -1482,6 +1430,50 @@
         "IBM AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-ai-may-transform-healthcare-2-top-stocks-to-buy-now.md",
+      "title": "AI May Transform Healthcare: 2 Top Stocks to Buy Now",
+      "excerpt": "The global AI-in-healthcare market is set to grow in the double digits to top $100 billion later this decade, a Research and Markets report shows. It's no surprise that some healthcare companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273914693/ireland-ryanair-use-
 webUrl: "https://www.bignewsnetwork.com/news/273914693/ireland-ryanair-use-of-facial-recognition-challenged"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ryanair challenged by Noyb over ‘invasive’ facial recognition"
-    excerpt: "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies."
-    publishedDateTime: 2023-07-28T08:08:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/07/AdobeStock_288121812_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Ryanair accused of violating customers’ rights with facial recognition"
     excerpt: "Ryanair is the latest company to face legal action over questionable customer privacy practices by using facial recognition."
     publishedDateTime: 2023-07-28T12:37:00Z

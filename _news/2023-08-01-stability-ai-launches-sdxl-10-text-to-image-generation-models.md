@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
-    excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
-    publishedDateTime: 2023-07-28T09:00:00Z
-    webUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/64c30ccecf0778001965f5a8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Boyd Innovation Will Cool Next-Generation AI Processors"
     excerpt: "Boyd will cool next-gen AI with innovative liquid cooling technology that will reduce data center energy use, in collaboration with NVIDIA and others."
     publishedDateTime: 2023-08-01T15:59:00Z

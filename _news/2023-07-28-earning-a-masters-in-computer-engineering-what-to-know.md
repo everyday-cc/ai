@@ -45,15 +45,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
-    excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
-    publishedDateTime: 2023-08-01T17:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-01/uber-is-developing-an-ai-powered-chatbot-to-integrate-into-app"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "pno4tnOrW4TVRUax3n+Jkeh6Cihk1Mx4aZSHB6LDC5au2mYOmp6SJmuQzDrjfBSIYX5oRM2n5NfuO3q48vBEb8/Gs67iA6cs8HE66Kss39c8zs+6z79ZUkdy2/DmzRT7oNfdN82n8xa0ScrT33G3GJ0YL4+KqRema8oes06gctmq0JwWPt/VRSL0+glOUMyp3KTKQHQAUZmDd0k2f6XnE7k0RLxiRzG6dt1PMr3dmTGd3kBivRaQnTT1tyJgaKWbpnmacRiV/yWXSPe73Dxul8yb5q1sHEJ2i4rKTkfvBgAe01Y96KyUsJMQt74/7ikNpf8CcHMLp0WmQzs+7U4+9HRzupFQ/xFVO1dBpWq/bkw=;8yq4dw8GlJ6QURwDPKtsAw=="
 ---

@@ -2,6 +2,108 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-06-24-ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook.md",
+      "title": "AI-Generated Images of Titan Submersible Debris Hit Twitter, Facebook",
+      "excerpt": "With no official photos of the Titan wreckage released, unscrupulous Twitter and Facebook accounts have stepped in with fake photos they created using AI image generators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook",
+      "originalUrl": "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00yBJ5oOeZpo96LWxQDToTG-6.fit_lim.size_1200x630.v1687549750.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-ai-and-crypto-integration-is-going-to-happen-whether-you-want-it-or-not.md",
+      "title": "AI and crypto integration is going to happen whether you want it or not",
+      "excerpt": "During Coinbase’s State of Crypto Summit on Thursday, venture capitalists and AI experts shared their thoughts during a panel on what similarities and differences the industries have and how investors,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/23/ai-crypto-integration/",
+      "originalUrl": "https://techcrunch.com/2023/06/23/ai-crypto-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1281361359.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-linkedins-new-ai-bot-will-write-your-hard-earned-milestone-posts-for-you.md",
       "title": "LinkedIn's new AI bot will write your hard-earned milestone posts for you",
       "excerpt": "Crafting the perfect LinkedIn post takes time and effort. Here's how the new AI bot will help make things easier.",
@@ -1064,92 +1166,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
-      "title": "Aws Announces Generative Ai Innovation Center",
-      "excerpt": "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
-      "originalUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
-      "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
-      "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
-      "originalUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png",
-          "width": 620,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
-      "publishedDateTime": "2023-06-22T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

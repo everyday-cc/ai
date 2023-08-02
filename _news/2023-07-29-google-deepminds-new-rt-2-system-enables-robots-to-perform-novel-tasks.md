@@ -61,6 +61,92 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
+    excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
+    publishedDateTime: 2023-07-31T21:13:00Z
+    webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "New DeepMind AI model can control robotic actions it was never trained to do"
+    excerpt: "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines."
+    publishedDateTime: 2023-08-01T16:58:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google’s DeepMind AI enables robots to perform novel tasks"
+    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic (the understanding of words and sentences), and visual understanding beyond the robotic data it was exposed to."
+    publishedDateTime: 2023-07-29T06:11:00Z
+    webUrl: "https://www.gujaratsamachar.com/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
+    ampWebUrl: "https://www.gujaratsamachar.com/amp/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
+    cdnAmpWebUrl: "https://www-gujaratsamachar-com.cdn.ampproject.org/c/s/www.gujaratsamachar.com/amp/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
+    type: article
+    provider:
+      name: Gujarat Samachar
+      domain: gujaratsamachar.com
+    quality: 74
+    images:
+      - url: "https://static.gujaratsamachar.com/articles/articles_thumbs/photo_1690611113728.jpeg"
+        width: 370
+        height: 250
+        isCached: true
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
+    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
+    publishedDateTime: 2023-07-29T16:30:00Z
+    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 71
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
+    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
+    publishedDateTime: 2023-07-30T17:41:00Z
+    webUrl: "https://www.inferse.com/655063/googles-deepmind-rt-2-ai-model-will-help-robots-serve-humans-like-r2d2/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 71
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9306.png"
+        width: 708
+        height: 399
+        isCached: true
+  - title: "Google's New AI Model Controls Robots"
+    excerpt: "Forget AI that can draw pictures, Google’s latest AI model can control a robot. On Friday, Google introduced Robotics Transformer 2, or RT2 a vision-language-action (VLA) model that can take text and images and output them into robotic actions."
+    publishedDateTime: 2023-07-29T17:37:00Z
+    webUrl: "https://www.pcmag.com/news/googles-new-ai-model-controls-robots"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00remt9EBrpPM9xQCL6Q1ee-1.fit_lim.size_1200x630.v1690652217.png"
+        width: 957
+        height: 537
+        isCached: true
   - title: "Google DeepMind enables robots to perform novel tasks"
     excerpt: "according to Google DeepMind. A traditional robot can pick up a ball and stumble when picking up a cube. RT-2’s flexible approach enables a robot to train on picking up a ball and can figure out ..."
     publishedDateTime: 2023-07-29T05:16:00Z
@@ -105,6 +191,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
+    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
+    publishedDateTime: 2023-07-29T16:26:00Z
+    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 34
 
 secured: "0OMRwHqqnDKfITJ+kNegnNkbeynS5wHGfFfHBj2Fbv/AS/uPMdqfi5M0m/CtPxM++qusACfyA2KBU+JMMhYHwPjfDQeEvzMjGJjH0Qd1UBpAsOa2w9P/+1uaz452VUZA7XgmJUsuP8D1ZQOI0YN/PfN4pJh/dQwF0EWi21J65MTYW2b2+w2xBHzPJguYzGyN4LANL6ez1TvS+cWj2kBVEZ5qKcPpfIRr8xjr+n0IyvWfDwr7b5AK6hMlKvqzGPMh9GETlc/d6ZMtfcb3/96voZ7iY2rdf5HIAM0cQ+0rr9IwCEMnsLVUnh1wlnprfx0sY2MTa0KbY5lGHr8qEI9+OQq9nVlvwfuKfySpoMsfmdmbiene8SGeVdRS69pOBjoPTPfZWIKQ4LTu278TxYiGfMelD5ESCpCO2yBc40d3w5MMnb/2BMFyrPDfVDM5Q53TPJ4T0Z/sI0yVmoihvVcy3TVBVaGoxUTpnMuej/vQrkXSEaqbWjMHwgXhHyuakzls/HBK9fVTAIHzP+GnFplSAA==;rQhEppU3N0urbfC51lQoDw=="
 ---

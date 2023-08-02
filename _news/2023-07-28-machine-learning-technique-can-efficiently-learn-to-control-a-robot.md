@@ -7,8 +7,8 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/machine-learni
 webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: technologynetworks
@@ -41,20 +41,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/reinforcement-learning.jpg"
         width: 1280
         height: 820
-        isCached: true
-  - title: "A Simpler Approach For Learning To Control A Robot"
-    excerpt: "Researchers have developed a machine-learning method that learns robot control more efficiently, achieving superior performance with less data."
-    publishedDateTime: 2023-07-28T08:00:00Z
-    webUrl: "https://www.electronicsforu.com/news/a-simpler-approach-for-learning-to-control-a-robot"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 41
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-LearningControl-01-press_0.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "7Y65qlRzsJB0+kwP/gKs5HFenCUhUQWf3jmUeLr2KtmZvkh37vvXDrahTx6s7y6R5IZhpeOilVQYzjJ21C83iPnYevoSNqrfJ0P0ezc/Vf2eeK4Dqt3kEb+gydd374dKhhMyldmwpXJ7BhFmwbK45Qq/IcEgpVSJOZBYv4XqXZ9jyJYlHQPoi6PM5WiQh4npGgjSKl9Y4NmRmScGlFeOBLQpsfA9PtYJJ1y5h18C9Mh2mwsYaBgZK/CVztpxB3IQiz1AyOFWkNo9YadZghLwhQPQveW9YrPM6gXHCTnyj2OHobGQyHfNZVXhnTgPsqwPpvfFKZmNqIvunPwI4ALcVe5hyEFS0XjXizN5G5/Y9oFLFsnQPIrSwseTjRO9ZY/A+ufnNO1rhrPObgT3IycEQ9koyCr5yYaYLfU+LO97V9ipukMk2x8eHMdT/3bbofU550htHV3ZIuCskCaaK8gx3hSwZoSMXLlAy70oimxOE0L0mBKafMunpU4PUQd4Ruz6O1bxiP5ZEGFL9UxwvJmNgQ==;uVdCF6jxsvdyrIONR6WpXA=="

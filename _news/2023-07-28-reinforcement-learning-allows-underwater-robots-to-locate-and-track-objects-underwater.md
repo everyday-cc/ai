@@ -41,20 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "A Simpler Approach For Learning To Control A Robot"
-    excerpt: "Researchers have developed a machine-learning method that learns robot control more efficiently, achieving superior performance with less data."
-    publishedDateTime: 2023-07-28T08:00:00Z
-    webUrl: "https://www.electronicsforu.com/news/a-simpler-approach-for-learning-to-control-a-robot"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 41
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-LearningControl-01-press_0.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "sbALGpEupi6eTESOj0eWHC08iG0SqVvi4BQMz4+gBUaoolmL958oKgJKdz2uQJUgg7bvIWlW83dfLvTHM3SPAM/+Fy2SIDT+faSRpgNmacpOGVQm5HZGuvAyS9dEXFpj51jU1Dl4pTDCHA2IrNfCMjJ1+RYelS9cUznMEW6OO/jM6gvvhaXyeNaUY9NW0qUN9uATDcs2GaxnQ9vCbajy//BZsFg3WRsY4DfnGSB6zQ/M1AiY/1LlGyPPgoarqLw+gejqlXHPMhLDieaDeGbLjZNv4KiTtKg/RwHhsAU8E+6I4tiweheYVEf7DpqgVF/9diYouXLDN7M/dEtsotXHIpyXV668rTQjuawgW23Rvwk=;5T1Ua3icPBHStUYIoOWgog=="
 ---

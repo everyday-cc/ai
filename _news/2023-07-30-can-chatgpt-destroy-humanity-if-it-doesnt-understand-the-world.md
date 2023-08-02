@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
-    excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
-    publishedDateTime: 2023-07-31T15:28:00Z
-    webUrl: "https://www.inferse.com/657346/how-to-use-chatbots-like-chatgpt-in-your-daily-life-and-work-the-new-york-times/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-10420.png"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Meta AI personas might be the most important ChatGPT rival yet, and you should be worried"
     excerpt: "Meta is working on ChatGPT-like generative AI bots for Facebook, Instagram, and WhatsApp - here's why that's both good and bad news."
     publishedDateTime: 2023-08-01T14:24:00Z

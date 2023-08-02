@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-01-chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem.md",
-      "title": "Chatbots can make things up. Can we fix AI’s hallucination problem?",
-      "excerpt": "Builders of AI systems known as large language models say they're working to make them more truthful. But some experts say the problem isn't fixable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem",
-      "originalUrl": "https://www.pbs.org/newshour/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/2023-06-16T114756Z_523881915_RC2AK1A00IA9_RTRMADP_3_BILL-GATES-CHINA-XI-AI-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem",
-      "publishedDateTime": "2023-08-01T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
       "title": "Low code AI with Power Apps and Power Automate",
       "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -306,7 +263,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1439,6 +1396,40 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031.md",
+      "title": "Voice and Speech Recognition Market Size, 2023 Global Growth, Key Players and Forecast 2031",
+      "excerpt": "The global speech and voice recognition market size is expected to grow toUSD 31.49 billionby 2026 according to a new report published by Report Ocean. The report \"Voice and Speech Recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33318042/voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33318042/voice-and-speech-recognition-market-size-2023-global-growth-key-players-and-forecast-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

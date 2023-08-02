@@ -115,7 +115,7 @@
       "originalUrl": "https://www.barrons.com/articles/amd-earnings-stock-price-bdc77862",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -137,6 +137,58 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-opinion-amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story.md",
+      "title": "Opinion: AMD’s AI era to begin near year’s end, but it’s looking more like a 2024 story",
+      "excerpt": "When another analyst asked if she was expecting GPU sales of around $500 million this year ... to speed up compute power required for handling AI training and machine learning, but sales to other customers will likely occur in the first half of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "originalUrl": "https://www.marketwatch.com/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-828019/horizontal",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "publishedDateTime": "2023-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1447,58 +1499,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-taiwans-tsmc-to-invest-29-billion-in-new-plant-as-demand-for-ai-chips-soars.md",
-      "title": "Taiwan’s TSMC to invest $2.9 billion in new plant as demand for AI chips soars",
-      "excerpt": "TSMC, the world’s largest chipmaker, says it plans to invest nearly 90 billion New Taiwan dollars ($2.9 billion) to build an advanced chip plant in Taiwan, as it expands production to meet booming demand for artificial intelligence (AI) products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230725082028-taiwan-tsmc-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/25/tech/taiwan-tsmc-ai-factory-hnk-intl/index.html",
-      "publishedDateTime": "2023-07-25T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

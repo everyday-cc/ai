@@ -2,6 +2,109 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-07-19-lenovo-unveils-data-management-solutions-for-enterprise-ai.md",
+      "title": "Lenovo unveils data management solutions for enterprise AI",
+      "excerpt": "These all-flash arrays are designed to simplify AI workload enablement and unleash the value of data. The company has also revealed two integrated and engineered ThinkAgile SXM Microsoft Azure Stack servers. These provide a unified hybrid cloud option ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Lenovo-Logo.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-ai-put-me-in-a-south-park-episode.md",
+      "title": "AI put me in a 'South Park' episode",
+      "excerpt": "And then there was me, a tech journalist going door-to-door warning about the impending AI apocalypse. No, I wasn't actually guest starring on the long-running TV series — I was thrust into an episode entirely produced by the Showrunner AI model from The Simulation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html",
+      "originalUrl": "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/5eOPagwvugtI9ZGYXlZsaA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/0ba6ba00-2588-11ee-b3bd-4c14cd489115.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-hardware-conversion-of-convolutional-neural-networks.md",
       "title": "Hardware conversion of convolutional neural networks",
       "excerpt": "Artificial Intelligence Microcontroller with Ultra Low Power Convolutional Neural Network Accelerator The MAX78000 is an AI microcontroller with an ultra low power CNN accelerator, an advanced system on chip. It enables neural networks at ultra low power ...",
@@ -1085,91 +1188,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-want-agency-in-the-ai-age-get-ready-to-fight.md",
-      "title": "Want agency in the AI age? Get ready to fight",
-      "excerpt": "Writers are protesting against studios’ use of AI language models to write scripts. Actors are on strike after rejecting a proposal from companies seeking to use AI technology to scan people’s faces and bodies, and own the right to use these deepfake-style digital copies without consent or compensation in perpetuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/18/1076465/want-agency-in-the-ai-age-get-ready-to-fight/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/18/1076465/want-agency-in-the-ai-age-get-ready-to-fight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/hollywood.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/18/1076465/want-agency-in-the-ai-age-get-ready-to-fight/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1076465/want-agency-in-the-ai-age-get-ready-to-fight/amp/",
-      "publishedDateTime": "2023-07-18T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
-      "title": "Medifakt: Empowering healthcare through decentralized blockchain technology",
-      "excerpt": "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
-      "originalUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
-      "publishedDateTime": "2023-07-18T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

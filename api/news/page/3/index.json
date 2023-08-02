@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-31-banking-on-mainframe-led-digital-transformation-for-financial-services.md",
+      "title": "Banking on mainframe-led digital transformation for financial services",
+      "excerpt": "Explore why the world’s biggest modernization challenges are concentrated in the banking industry.          \nThe post Banking on mainframe-led digital transformation for financial services appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
+      "originalUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T06:04:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-how-ai-music-startup-audioshake-is-expanding-content-localization.md",
+      "title": "How AI Music Startup AudioShake Is Expanding Content Localization",
+      "excerpt": "AI music startup AudioShake is making quality dubbing and content localization viable for content creators at all levels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
+      "originalUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c48d91821236b6e642dc54/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
+      "publishedDateTime": "2023-07-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-a-jargon-free-explanation-of-how-ai-large-language-models-work.md",
       "title": "A jargon-free explanation of how AI large language models work",
       "excerpt": "One reason for this is the unusual way these systems were developed. Conventional software is created by human programmers, who give computers explicit, step-by-step instructions. By contrast, ChatGPT is built on a neural network that was trained using billions of words of ordinary language.",
@@ -324,7 +418,7 @@
       "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -472,7 +566,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -800,57 +894,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-29-ai-prompt-engineering-learn-how-not-to-ask-a-chatbot-a-silly-question.md",
-      "title": "AI prompt engineering: learn how not to ask a chatbot a silly question",
-      "excerpt": "Understanding how to interact with ChatGPT and its rivals so that their output matches your expectations will soon be a key office skill. Here’s what you need to know",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/11f941dc122e177b0a3e99ab36acbc9f00802cce/0_0_1600_960/master/1600.jpg?width=620&quality=85&auto=format&fit=max&s=d89db484c3c4a4b4e3e6afe292b41364",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard",
-      "publishedDateTime": "2023-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-29-that-sports-broadcaster-you-hear-could-be-ai.md",
       "title": "That sports broadcaster you hear could be AI",
       "excerpt": "AI commentary was introduced in at least three major sports tournaments, including the Masters golf and Wimbledon tennis tournaments, for the first time this year.",
@@ -859,7 +902,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/innovation/us-open-ai-sports-commentary-masters-wimbledon-rcna95244",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1188,58 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-backup-driver-in-self-driving-uber-that-killed-woman-pleads-guilty-to-endangerment.md",
-      "title": "Backup Driver In Self-Driving Uber That Killed Woman Pleads Guilty To Endangerment",
-      "excerpt": "PHOENIX (AP) — The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
-      "originalUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64c4321d2700003500df18f5.jpeg?cache=9Ru4pUuEwC&ops=1200_630",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
-      "publishedDateTime": "2023-07-28T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

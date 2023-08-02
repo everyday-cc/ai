@@ -40,20 +40,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
-    excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
-    publishedDateTime: 2023-07-31T15:28:00Z
-    webUrl: "https://www.inferse.com/657346/how-to-use-chatbots-like-chatgpt-in-your-daily-life-and-work-the-new-york-times/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-10420.png"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The best ChatGPT alternatives (according to ChatGPT) – Digital Trends"
     excerpt: "ChatGPT has quickly become the darling of generative AI, but it’s hardly the only player in the game. In addition to all the other AI tools out there that do things like image generation, there’s also a number of direct competitors with ChatGPT — or so I assumed."
     publishedDateTime: 2023-08-01T05:45:00Z

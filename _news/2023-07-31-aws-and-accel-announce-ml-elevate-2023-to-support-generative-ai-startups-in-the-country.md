@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-20
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Accelerate Your AI Startup: Apply Now for Google for Startups Accelerator India – 8th Batch"
-    excerpt: "Google is inviting India-based AI startups that have received funding from Seed to Series A to apply for the 8th cohort of Google for Startups Accelerator."
-    publishedDateTime: 2023-08-01T05:25:00Z
-    webUrl: "https://www.ciol.com/accelerate-your-ai-startup-apply-now-for-google-for-startups-accelerator-india-8th-batch/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 7
 
 secured: "x5lKBgze1CIwowm8RfPEDmkMmWpiy1JFM34K0vuFahlI6HdAJffzVXcxjTARcTW4RNg8oPB17951OzeCKLxRpfpoBAunIevvERH2YCaVAkG2g1633nbKaGO+foUrENXAoUm9vHjvNNvxK96JO2lvpwvXS24V8GxRstXuNxYsiFOXp1NZk3kOn+Wjfs71OxSbg4KR2EEza14oxJ2P7qSde43TPu/QEc323iwQ8n9x0RhRtDPH1uTeJDmHHuul+rTUFOa6kQA1Tm8HDxcOjuMBcvY7sJr6QslQS+NO/fT590bsFKxcRONwdLwudJzbGtCCG1Yoat1vxsieSvZvqokzLgGHstXwZbMzYCu+XRP+rPbSbZ/fpVhw39qLNqKX/7hdYbj3SYkc0O08svzyqNm8T3R+H/EMIacBEshs0Zih4LGjtr9VGPHeUj4D9qsxS4cZ7Kdvdn6U/NSK9XY9ZpaDmjN6JnXSqOQN4mvxlnnhr6D4smbPsAzbtW7oDMUpoTx+MJ/Z2tsLBfcblGQOQWa29Q==;egBKThU/J/SzIg26qcWOUg=="
 ---

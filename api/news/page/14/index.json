@@ -2,6 +2,83 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-24-artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031.md",
+      "title": "Artificial Neural Networks Market Size, Overview, Top Key Players, Growth, Share, and Forecast 2031",
+      "excerpt": "The global Artificial Neural Networks industry report provides top-notch qualitative and quantitative information including: Market size (2017-2021 value and 2022 forecast).",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33337075/artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33337075/artificial-neural-networks-market-size-overview-top-key-players-growth-share-and-forecast-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33337075",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33337075",
+      "publishedDateTime": "2023-07-23T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-global-ai-in-fintech-markets-2023-2028-growing-demand-for-process-automation-propels-ai-in-fintech.md",
+      "title": "Global AI in Fintech Markets, 2023-2028: Growing Demand for Process Automation Propels AI in Fintech",
+      "excerpt": "DUBLIN, July 24, 2023 /PRNewswire/ -- The \"Global AI in Fintech Market (2023-2028) by Component, Application, Deployment Mode, and Geography, Competitive Analysis, Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/07/24/9853108.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/07/24/9853108.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-ai-for-execs-how-to-cut-through-the-noise-and-deliver-results.md",
       "title": "AI for execs: How to cut through the noise and deliver results",
       "excerpt": "Where are your key business pain points and inefficiencies? Ultimately, the best approach is to start with the problem rather than the exciting new AI solution. We recommend taking new technologies as building blocks to create enterprise-ready solutions ...",
@@ -1125,100 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-cybersecurity-in-the-era-of-ai-and-quantum.md",
-      "title": "Cybersecurity In The Era Of AI And Quantum",
-      "excerpt": "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/",
-      "publishedDateTime": "2023-07-21T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-voice-controlled-robot-controlled-by-an-android-phone.md",
-      "title": "Voice Controlled Robot Controlled By An Android Phone",
-      "excerpt": "[Jeff] sent in a build of a voice controlled robot he just finished based on the Android ADK and an iRobot Create. The robot is able to obey voice commands telling it where to go. Currently the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2011/07/05/voice-controlled-robot-controlled-by-an-android-phone/",
-      "originalUrl": "https://hackaday.com/2011/07/05/voice-controlled-robot-controlled-by-an-android-phone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://hackaday.com/wp-content/uploads/2011/07/robot.jpg?w=450",
-          "width": 450,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

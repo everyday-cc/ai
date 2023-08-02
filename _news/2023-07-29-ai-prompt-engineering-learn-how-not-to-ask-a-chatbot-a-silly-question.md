@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/ai-prompt-enginee
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/ai-prompt-engineering-chatbot-questions-art-writing-dalle-midjourney-chatgpt-bard"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -44,15 +44,6 @@ related:
         width: 958
         height: 539
         isCached: true
-  - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
-    excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
-    publishedDateTime: 2023-08-01T17:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-01/uber-is-developing-an-ai-powered-chatbot-to-integrate-into-app"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "/Q19hHlPFtIW3MBt3gIT5lgLId/9dMbf/zPKNFWmK86h5boMQTwKWFLc7X8YXbpMeDtdbuWHGiWUOcGkwu2Mf0dJyNmQITnYnfgAWUN2GsMj90PSmmDxfqL8moXg3MQPpydz8mYHBrCOSgCFh37WtozZ/RLSkDk46tBJmti1bfu0k/lIIV/eWjquHCIdE4VP/AgwdWK5e+EQ0C6wxVgco4eFlmqHu71xqiOfoFhMgq3FDcetNugBR+ciZamV1mEr0ozaKC5XugwMYK/EKIoac97AZL+fKw+qay8kyOLgCuzj7Q9JT7kq3uuCXk7Am7zO39nWv0oXgjpjOIQQ7t9e4zyuW5U47m0cOoiqkEoAtqFnXSN70m6vUCHVjvvEuxA7ove3+G51FkljaMZAzW27RmJnmbVVjveR4kL462hDIF3xX2H7gIcIa6/tXBoSlZOrCOAUZ/L37oL67hm3xk8AyYOSprotWNu16NqdnXHQaRm1dLmkdUAMymvqy961CQJV2S2DfFRkTF829x8J8gTu+A==;aRkldtOjWjhAgzjsGBycBQ=="
 ---

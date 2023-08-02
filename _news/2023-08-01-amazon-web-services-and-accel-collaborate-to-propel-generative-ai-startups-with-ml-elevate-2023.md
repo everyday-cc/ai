@@ -90,15 +90,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Accelerate Your AI Startup: Apply Now for Google for Startups Accelerator India – 8th Batch"
-    excerpt: "Google is inviting India-based AI startups that have received funding from Seed to Series A to apply for the 8th cohort of Google for Startups Accelerator."
-    publishedDateTime: 2023-08-01T05:25:00Z
-    webUrl: "https://www.ciol.com/accelerate-your-ai-startup-apply-now-for-google-for-startups-accelerator-india-8th-batch/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 7
 
 secured: "fE7kvy7C0Vd9XkDjMYAGjdKk1tG7xNVxljJUOFt8pk+J2js+cOJeVmCqSUq7P4FLkGn5l8iNKpOkMCTwubc4uAeuwuwaplcVnqh+KjpXwfz6Wd4J9gyjY46SPQoZJ3qgpKDSXO9b2oe/crOKM6juVYaaCQ3PeCVU6ZnIyLIEw1q0ZhzKJN6HLUorNQYL8w6igL2CyWDlPal2Yqq8HNhtBrNSiXa0yhWiUSuOaoDPT0f6uW2KykElHh9sekAwuQzOec6iGMucq4UQk7a5OgEGmOgEoGIHk5AmBRYzip5UmWsVCq/fhhh7Wo5ODNiO8lJtxi02MaB/57iYpHReCnW9bPPIQ88FaEIG+7AyK2E+n5v7W+AAdqwFOtN6ChE0m28aqmeRWzZ/CoByet5mBLImn4UTaI5lL5iqNDTzdQ987nB0OjZgTXCvzfjTG9iU9dKY3dILUjIvjP/VRdQLxCacgRykJ+yZyqdVmZ6keCsBcAINYkVd35VrCWDL3jPYpJBw6tO7Gs/I2lc/T/wrNa+FsQ==;5mxhkjOMz4Fh1gpiVWUXVg=="
 ---

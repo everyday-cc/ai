@@ -19,64 +19,288 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI could undermine upcoming elections in US and India, startup warns"
-    excerpt: "Three popular generative AI platforms could be used to spread election disinformation, according to new research."
-    publishedDateTime: 2023-07-28T16:18:00Z
-    webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
+  - title: "Meta plans AI-powered chatbots to boost social media numbers"
+    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
+    publishedDateTime: 2023-08-01T19:10:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FUntitled-design-6-8.jpg&signature=506cdc55f456be41ac3195846d8a4e8e"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/facebook_bot_hero_3-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "A New Attack Impacts Major AI Chatbots—and No One Knows How to Stop It"
+    excerpt: "Researchers found a simple way to make ChatGPT, Bard, and other chatbots misbehave, proving that AI is hard to tame."
+    publishedDateTime: 2023-08-01T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-adversarial-attacks/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/64c83bd3eb3f06fa8140d218/191:100/w_1280,c_limit/stickies_chatbox_GettyImages-1255116327.jpg"
         width: 1280
-        height: 640
+        height: 670
         isCached: true
-  - title: "How India Is Using AI To Build The Internet For Local Languages"
-    excerpt: "The National Payments Corporation of India (NPCI), an umbrella organisation for all retail payment systems in India, is reportedly working with AI4Bhārat to develop a system for voice-based merchant payments and peer-to-peer transactions in Indian languages."
-    publishedDateTime: 2023-07-30T05:45:00Z
-    webUrl: "https://swarajyamag.com/science/how-india-is-using-ai-to-build-the-internet-for-local-languages"
+  - title: "We Tested an AI Chatbot Drive-Through. Here's How It Did on Three Challenges."
+    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
+    publishedDateTime: 2023-07-28T11:27:00Z
+    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-through-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
     type: article
     provider:
-      name: Swarajya
-      domain: swarajyamag.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+    images:
+      - url: "http://images.wsj.net/im-823806?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Researchers find multiple ways to bypass AI chatbot safety rules"
+    excerpt: "Preventing artificial intelligence chatbots from creating harmful content may be more difficult than initially believed, according to new research from Carnegie Mellon University which reveals new"
+    publishedDateTime: 2023-07-29T15:54:00Z
+    webUrl: "https://thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/"
+    ampWebUrl: "https://thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/64519ba185baa9.10986482-e1683927109195.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Chatbots can make things up. Can we fix AI’s hallucination problem?"
+    excerpt: "Builders of AI systems known as large language models say they're working to make them more truthful. But some experts say the problem isn't fixable."
+    publishedDateTime: 2023-08-01T15:35:00Z
+    webUrl: "https://www.pbs.org/newshour/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 59
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/2023-06-16T114756Z_523881915_RC2AK1A00IA9_RTRMADP_3_BILL-GATES-CHINA-XI-AI-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
+    publishedDateTime: 2023-08-01T16:16:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 58
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Meta is trying to catch up with ChatGPT with new AI chatbots that speak like famous figures including Abraham Lincoln, report says"
+    excerpt: "The social media giant led by Mark Zuckerberg is hoping to ride the wave of interest in AI chatbots generated by OpenAI's ChatGPT."
+    publishedDateTime: 2023-08-01T10:38:00Z
+    webUrl: "https://www.businessinsider.com/meta-exploring-launch-ai-chatbots-imitate-abraham-lincoln-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/meta-exploring-launch-ai-chatbots-imitate-abraham-lincoln-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-exploring-launch-ai-chatbots-imitate-abraham-lincoln-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/64c8ce00048ff200190ea0a7?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
+    publishedDateTime: 2023-08-01T12:28:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Meta readies AI chatbots for artificial companionship—and user retention"
+    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
+    publishedDateTime: 2023-08-01T19:10:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 48
+  - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
+    excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
+    publishedDateTime: 2023-08-01T17:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-08-01/uber-is-developing-an-ai-powered-chatbot-to-integrate-into-app"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
+    excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
+    publishedDateTime: 2023-08-01T11:32:00Z
+    webUrl: "https://tech.co/news/meta-launch-ai-chatbots"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
     quality: 39
     images:
-      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4eff80d-e12e-4576-98a8-c4d262b895a2/Swarajya_images__1_.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
+      - url: "https://images.tech.co/wp-content/uploads/2023/03/10073649/AdobeStock_482385584_Editorial_Use_Only-min-scaled-e1678814941370.jpeg"
+        width: 1920
+        height: 960
         isCached: true
-  - title: "3 AI-powered companies redefining FinTech in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-31T06:14:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
+  - title: "Meta’s next AI play are chatbots called personas"
+    excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
+    publishedDateTime: 2023-08-01T08:09:00Z
+    webUrl: "https://htxt.co.za/2023/08/01/metas-next-ai-play-are-chatbots-called-personas/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Htxt.Africa
+      domain: htxt.co.za
     quality: 39
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
-        width: 300
-        height: 300
+      - url: "http://htxt.co.za/wp-content/uploads/2023/08/chat-g30db832ed_1920.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
-    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
-    publishedDateTime: 2023-07-30T10:46:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+  - title: "Experts discover workarounds to evade chatbot AI safety rules"
+    excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
+    publishedDateTime: 2023-07-30T03:56:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/experts-discover-workarounds-chatbot-ai-safety"
     type: article
     provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 31
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
         width: 1200
-        height: 765
+        height: 630
         isCached: true
+  - title: "We’re using AI chatbots wrong. Here’s how to direct them."
+    excerpt: "After testing dozens of AI products, Brian Chen concluded that most of us are using the tech in a suboptimal way, largely because companies gave us poor directions."
+    publishedDateTime: 2023-07-30T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
+    excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
+    publishedDateTime: 2023-07-31T15:28:00Z
+    webUrl: "https://www.inferse.com/657346/how-to-use-chatbots-like-chatgpt-in-your-daily-life-and-work-the-new-york-times/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 33
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-10420.png"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-01T17:36:00Z
+    webUrl: "https://www.columbian.com/news/2023/aug/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 26
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679-e3523.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Therapy For You Unveils Limbic: An AI-Powered Chatbot Revolutionizing Access to Talking Therapies"
+    excerpt: "Therapy For You, the esteemed NHS Talking Therapies service catering to patients in North East and South East Essex, has recently introduced Limbic to their"
+    publishedDateTime: 2023-08-01T10:26:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/08/01/therapy-for-you-unveils-limbic-an-ai-powered-chatbot-revolutionizing-access-to-talking-therapies/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 21
+  - title: "Tue. 10:18 a.m.: Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout"
+    publishedDateTime: 2023-08-01T16:08:00Z
+    webUrl: "https://www.tribtoday.com/news/latest-news/2023/08/tue-1018-a-m-chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    type: article
+    provider:
+      name: Tribune Chronicle
+      domain: tribtoday.com
+    quality: 20
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2023/08/01101716/AP23212720406679-750x500.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
+    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
+    publishedDateTime: 2023-08-01T12:40:00Z
+    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 17
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
+    publishedDateTime: 2023-08-01T21:49:00Z
+    webUrl: "https://lasvegassun.com/news/2023/aug/01/chatbots-sometimes-make-things-up-is-ais-hallucina/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 16
+  - title: "AI images on Instagram; Meta chatbot plans create privacy and misinformation fears"
+    excerpt: "“Once users interact with a chatbot, it really exposes much more of their data to the company, so that the company can do anything they want with that data,” said Ravit Dotan, an AI ethics adviser and co-founder of the Collaborative AI Responsibility lab at the University of Pittsburgh."
+    publishedDateTime: 2023-08-01T13:11:00Z
+    webUrl: "https://9to5mac.com/2023/08/01/ai-images-for-instagram/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 13
+  - title: "Meta reportedly working on AI-powered chatbots with distinct personalities, possible roll-out in September"
+    excerpt: "These upcoming chatbots are said to exhibit distinct personalities, mimicking them to provide human-like conversations to users. Launched as soon as next month, these AI-powered chatbots could find their way into Meta’s Instagram or Facebook,"
+    publishedDateTime: 2023-08-01T17:53:00Z
+    webUrl: "https://thetechportal.com/2023/08/01/meta-reportedly-working-on-ai-powered-chatbots-with-distinct-personalities-possible-roll-out-in-september/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 1
 
 secured: "yVXiaSGp6x5tPBqDD2iYUjtUDZKflysI6djknO0ujA15QCOaoLboI0sMswTNbcnQZ5i3NxZEr0hlJwJ6iFJ25VtkCt0mwoOXahfaUZwi007ywv6frdq3W59zvBQ+5rbktafC78bRsY7ZM5OVhGzCh/qC6oJvdRQvNr6QrjTBVvfVsX9D7eWvTOp1wk94O6jgQOY0wadpATdknQdcyL17SYURrRDH7r5HC3W3u7Hn2jD0rao7KsAcsbOio4GvKHFjt0f2LpE7PTIJ0bMtOaWDo+F+QEboziKbGvXHguka6mU2o0Ie/QM86EnvkX8zDbB86iMMj4hjr7/dT8yaerpoTAOyhtjnU+yTXYngdVZTXsa/WYGPOudFfaTJqLDcMvEdfIIjZ/nRcVgvxmdD8UpxMRLWx7PsL5ZXpWd+N3FsICgmk9bEX09gsSyTssToUIITeGNZk6EtlYt35tn/OJbZmTHvls9hFf4CjgRqzxLLxBMMpFHaogm06F6ILMr6+b2Ce3pHHRu2P4n5pLGMSAmtOg==;vZZVeejj7S7qji4gST8BSQ=="
 ---

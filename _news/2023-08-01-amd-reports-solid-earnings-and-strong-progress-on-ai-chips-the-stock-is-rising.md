@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/amd-earnings-stock-price-bdc778
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMD makes ‘strong progress’ on AI chips and its stock rises"
+    excerpt: "Wall Street’s estimates, but its stock rose after the company beat expectations and made optimistic sounds about its artificial intelligence portfolio. The company reported second-quarter earnings before certain costs such as stock compensation of 58 cents per share,"
+    publishedDateTime: 2023-08-02T00:42:00Z
+    webUrl: "https://siliconangle.com/2023/08/01/amd-makes-strong-progress-ai-chips-stock-rises/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-06-14_084033192.png"
+        width: 687
+        height: 371
+        isCached: true
   - title: "AMD Leaps On Q2 Earnings Beat, Plans To Ramp New AI Chip Production"
     excerpt: "\"We made strong progress meeting key hardware and software milestones to address the growing customer pull for our data center AI solutions,\" said CEO Lisa Su."
     publishedDateTime: 2023-08-01T21:01:00Z

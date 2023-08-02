@@ -19,35 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Speaking robot: Our new AI model translates vision and language into robotic actions"
-    excerpt: "Google DeepMind introduces a new vision-language-action model for improving robotics."
-    publishedDateTime: 2023-07-28T09:00:00Z
-    webUrl: "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/"
-    ampWebUrl: "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/"
+  - title: "DeepMind's RT-2 makes robot control a matter of AI chat"
+    excerpt: "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words."
+    publishedDateTime: 2023-07-31T05:08:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 119
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/speaking_robot.width-1300.png"
-        width: 1300
-        height: 541
+      - url: "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Aided by A.I. Language Models, Google’s Robots Are Getting Smart"
-    excerpt: "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots."
-    publishedDateTime: 2023-07-28T10:00:00Z
-    webUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
+  - title: "Google DeepMind's new RT-2 system enables robots to perform novel tasks"
+    excerpt: "Google DeepMind unveiled RT-2, the first vision-language-action (VLA) model for robot control, which effectively takes the robotics game several levels up. The system was trained on text data and images from the internet, much like the large language models behind AI chatbots like ChatGPT and Bing are trained."
+    publishedDateTime: 2023-07-28T21:10:00Z
+    webUrl: "https://www.zdnet.com/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/48c004685e3952e576e09b8e35ae1abc156d5295/2023/07/28/516b1b2a-8cc7-4d6b-9c42-ea21f7d01800/gettyimages-1303435496.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google’s DeepMind team highlights new system for teaching robots novel tasks"
+    excerpt: "Things that appear simple to humans have potentially infinite variables that we take for granted. Robots don’t have such luxuries."
+    publishedDateTime: 2023-07-28T17:18:00Z
+    webUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/"
+    ampWebUrl: "https://techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/28/googles-deepmind-team-highlights-new-system-for-teaching-robots-novel-tasks/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 86
     images:
-      - url: "https://static01.nyt.com/images/2023/07/28/multimedia/28ROOSE-02-zwqm/28ROOSE-02-zwqm-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?resize=1200,798"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
     excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
@@ -76,38 +92,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
         width: 1280
         height: 640
-        isCached: true
-  - title: "This Google AI Model can translate commands into real-life action"
-    excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-31T14:55:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 76
-    images:
-      - url: "https://static.tnn.in/thumb/msid-102284914,updatedat-1690815394245,width-1280,height-720,resizemode-75/102284914.jpg"
-        width: 1278
-        height: 720
-        isCached: true
-  - title: "Google's new AI model allows robots to finish tasks on their own"
-    excerpt: "Google's Deepmind AI division calls it a vision-language-action (VLA) model that learns by scouring the web and parsing through heaps of robotic data."
-    publishedDateTime: 2023-08-01T12:20:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 76
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
-        width: 710
-        height: 435
         isCached: true
   - title: "Google’s DeepMind AI enables robots to perform novel tasks"
     excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic (the understanding of words and sentences), and visual understanding beyond the robotic data it was exposed to."
@@ -153,22 +137,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions"
-    excerpt: "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions."
-    publishedDateTime: 2023-07-28T16:23:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33444703"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33444703"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/28/google_ai.png?width=1200&height=800&fit=crop"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Google's New AI Model Controls Robots"
     excerpt: "Forget AI that can draw pictures, Google’s latest AI model can control a robot. On Friday, Google introduced Robotics Transformer 2, or RT2 a vision-language-action (VLA) model that can take text and images and output them into robotic actions."
     publishedDateTime: 2023-07-29T17:37:00Z
@@ -183,76 +151,49 @@ related:
         width: 957
         height: 537
         isCached: true
-  - title: "Google unveils RT-2, an AI language model for telling robots what to do"
-    excerpt: "Google LLC today unveiled a new artificial intelligence model that will allow humans to speak to robots and tell them what to do by transforming words into action."
-    publishedDateTime: 2023-07-28T16:21:00Z
-    webUrl: "https://siliconangle.com/2023/07/28/google-unveils-rt-2-ai-language-model-telling-robots/"
+  - title: "Google DeepMind enables robots to perform novel tasks"
+    excerpt: "according to Google DeepMind. A traditional robot can pick up a ball and stumble when picking up a cube. RT-2’s flexible approach enables a robot to train on picking up a ball and can figure out ..."
+    publishedDateTime: 2023-07-29T05:16:00Z
+    webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
+    ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/64c28b81ad5efcad99aca86f_rt2_header-min-p-2000.png"
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
         width: 2000
         height: 1225
         isCached: true
-  - title: "Aided by AI Language models, Google’s robots are getting smart"
-    excerpt: "Google has recently begun plugging state-of-the-art language models into its robots, giving them the equivalent of artificial brains."
-    publishedDateTime: 2023-07-29T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/"
-    ampWebUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
+  - title: "Google DeepMind empower robots to accomplish new and unique task"
+    excerpt: "“RT-2 is not only a simple and effective modification over existing VLM models, but also shows the promise of building a general-purpose physical robot that can reason, problem solve, and interpret information for performing a diverse range of tasks in the real-world,” said Google DeepMind."
+    publishedDateTime: 2023-07-29T05:36:00Z
+    webUrl: "https://telanganatoday.com/google-deepmind-empower-robots-to-accomplish-new-and-unique-task"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
-  - title: "Ai-Da the humanoid robot: ‘I am very good at switching off’"
-    excerpt: "Ai-Da is the world’s first humanoid robot artist, and was named after the 19th-century mathematician Ada Lovelace. She was created in 2019 by the gallerist Aidan Meller and researcher Lucy Seal in collaboration with the Cornwall-based company Engineered Arts and PhD students from Oxford and other UK universities."
-    publishedDateTime: 2023-07-29T23:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-da-the-humanoid-robot-i-am-very-good-at-switching-off-wh0r3k3w0"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 39
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F48a0147a-c66a-4398-9aca-71dc29b8db60.jpg?crop=2871%2C1616%2C0%2C741&resize=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/03/Google.jpg"
+        width: 1280
+        height: 750
         isCached: true
-  - title: "Google's building A.I. into robots to teach them to throw out the trash"
-    excerpt: "The Robotics Transformer 2 (RT-2) is a vision-language-action model trained on information on the web that can be translated into actions for the robot."
-    publishedDateTime: 2023-07-28T11:19:00Z
-    webUrl: "https://www.cnbc.com/2023/07/28/googles-builds-ai-into-robots-to-teach-them-to-throw-out-the-trash.html"
+  - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
+    excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."
+    publishedDateTime: 2023-07-31T16:21:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-latest-rt-2-algorithm-makes-robots-perform-novel-tasks/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 49
-  - title: "A New Dawn in Robotics: Touch-Based Object Rotation"
-    excerpt: "In a groundbreaking development, a team of engineers at the University of California San Diego (UCSD) has designed a robotic hand that can rotate objects using touch alone, without the need for visual input."
-    publishedDateTime: 2023-07-28T13:21:00Z
-    webUrl: "https://www.unite.ai/a-new-dawn-in-robotics-touch-based-object-rotation/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
-  - title: "Indian Television Sees Spurt Of AI-Driven Robotic News Anchors In Multiple Language Channels"
-    excerpt: "In April, the Malayalam TV channel, MediaOne presented its own TV news anchor, Ivan, a rare male in the lineup of AI-driven speaking humanoid robots in India. He often takes over the task of presenting the daily 10pm “Sharp Ten” headlines. Here is Ivan introducing his service to viewers and anchoring a short segment."
-    publishedDateTime: 2023-07-30T07:19:00Z
-    webUrl: "https://swarajyamag.com/technology/indian-television-sees-spurt-of-ai-driven-robotic-news-anchors-in-multiple-language-channels"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 28
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://gumlet.assettype.com/swarajya/2023-07/f4f5f90a-38ef-492c-8e2b-fc253b304ebe/Photo_1_ALTERNATE__Lisa_is_India_s_newest_Ai_news_anchor_who_debuted_on_Odisha_TV_last_week.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "D8lMVGjdFRe2bBGsTF7UG/b7ZOWccAyQZwblti4WaH3aXqnN2UcbQIZnyIl4NNCjKF/qgspUjkivwbOPSaRjJZ+Y3+Hr/p6VBY5Wu17jp7XX7B4cJ2ZWLJbOkGQ9lEEHgeA/1w4X9ArqHhKro0HRFZYrryjSXEnnBHQeu+69MO1NZjYXcySccMz1fAkmZmDldbJiIK7Uiox500Ddd89BM53BcX4moTgwz/X0HJRfFx2vbrBWZ2Kcmg0svDrwVVtciqh9a3HU52qpBKlJJ1Mcjogr3td3bi19MFsbUzYrnm4vMR+pIf1epDQHNF8W9pH6CtaAar5c0VG6zwOOSzDOaigsEpiqU1ltJY3MmV6w0JlcHZKkai/9yuml+dMEFG1fHXJGD7SZzdpRBZ0nEXywa0Bz1qD6wWMCjKJhX3+zgQQugSELamcObY50INvctwKo4+oELoxlIxPBre3N69lm9QAzaSjjJinb/4odArX/0ACDmi7FYQ223OMITkfgNrqi2IXrGT/26bbb/FFHoywzag==;DLUiMSmfzR1iYq4qfftOSQ=="

@@ -71,24 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
-    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
-    publishedDateTime: 2023-08-01T12:40:00Z
-    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 17
-  - title: "AI images on Instagram; Meta chatbot plans create privacy and misinformation fears"
-    excerpt: "“Once users interact with a chatbot, it really exposes much more of their data to the company, so that the company can do anything they want with that data,” said Ravit Dotan, an AI ethics adviser and co-founder of the Collaborative AI Responsibility lab at the University of Pittsburgh."
-    publishedDateTime: 2023-08-01T13:11:00Z
-    webUrl: "https://9to5mac.com/2023/08/01/ai-images-for-instagram/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 13
 
 secured: "OHhe732/yviK6fGS3HLviqDfzxm1MJtEsOr+rQSR+Lie2+BQ7QhazJWdCfGmDLopt4RzAx0f2823BkPSshqdhil7oCV2KiBZBBpeaQZYFG1eduffulLhm+Z9zZPuEMmC6YuNnrbYuOEH6BHxwg8jfyD++DHm10YRGLxHOokByojqeSnohZ4hB0yeRvrSIEsdhUVeJ0MM38jxcSI2tTkGQk2qKA7IF5hIw+jklV+YS2DmSyp4/GPhVAThEJLncUvYWb4DD/GpxZ1Q5oXB2PCxTe1bjld6ImWG8HUeucXlGIrPFWgZzUvAVY8u7tJZI29RlZ+CP+xFwjcjOakr5OoJfIV6TAgVFdoS/ZVlDoaLJvBEU3pzbyR1P/G3hRDD3lWmR7BlUcuhU4poRFt702m7P6W30g7TG/pYRdDbMeMbqIw21kIH5Dn7IeYoXvSEYqQlKlR6CAyXtsgcIkp2j0Iz61QX4yXriHjrUJOsPBnnyzB4YG8rdxGxHZA1GkuE0gtUQwyQz83hKC1s5jtMKy5OfQ==;8BG8lTypQoKq4fsXwqvTJg=="
 ---

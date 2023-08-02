@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-28-rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection.md",
+      "title": "RSA Survey Reveals Identity Security Knowledge Gaps And AI's Role In Improving Protection",
+      "excerpt": "A new report from RSA highlights concerning gaps in the knowledge of self-identified identity professionals, and shares insight on the future of identity security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d402ffd3da1bf4624c5504/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/amp/",
+      "publishedDateTime": "2023-07-27T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-meta-and-microsoft-vets-land-22m-for-startup-building-shared-brain-developer-platform.md",
       "title": "Meta and Microsoft vets land $2.2M for startup building ‘shared brain’ developer platform",
       "excerpt": "A new artificial intelligence startup wants to help software development teams capture, store, and query their company data and knowledge. Augmend recently emerged from stealth mode with $2.2 million",
@@ -1138,49 +1190,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ryanair-accused-of-invasive-facial-recognition-use.md",
-      "title": "Ryanair Accused Of 'Invasive' Facial Recognition Use",
-      "excerpt": "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "originalUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "publishedDateTime": "2023-07-27T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

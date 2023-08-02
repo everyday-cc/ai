@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
-    excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-28T13:32:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/angel-one-launches-ai-powered-super-app-in-india-to-foster-smart-investments-article-102208147"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 16
 
 secured: "+fUiWB+xksVJvblleps3EmTd5py+Fh34F+/hvyZZCivy5SnCyMXFVyPIxxA3BZp85CbPQDcI2j+2pjdaPeHiPRG+zxN322z7BzSCeYFv9oSYXG49GbawAj2v2Cpph+xE2oaMD9q+7CBcawg2tmXewdlcPosXcLJrE0puvfbRAGDRxBkjO4kkx+o6oCCx/U5bboOiLnAWDAi61Yy5Ns1SriUZ/AMJmM+aIGC3j09zjiA3T+LDvJBhvM4vLm2av2x6A460o+go3BA4v9jK1PUtXoOCdCibA7mmRugogHuWGR1kZ+u4zcqt8FD7lKk1vYPJGMZRHvxtvHe2YsOOa5+oactFEOAaES1fZSXRqOX5d8qZbHvl0pwCK/kKM3U9w1UFGVLw8vo92MlHDmt2/xTPng7oKeF30TBg9Pwdj1XltYLrJZzzsPmUULoDVK69kKxOBpoUauacyNOKer4WYmL2l19eFmjgN4HfQvpGQ0xtSFPUxxyH0UcV0nb3G7ROYyx2ZnNj+dgwIGRUpIC0Pt5JYQ==;01NqyjOBYdWLJK9EZHEbjA=="
 ---

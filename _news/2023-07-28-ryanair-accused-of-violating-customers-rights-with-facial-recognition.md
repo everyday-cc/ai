@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ryanair challenged by Noyb over ‘invasive’ facial recognition"
-    excerpt: "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies."
-    publishedDateTime: 2023-07-28T08:08:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/07/AdobeStock_288121812_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Ireland's Ryanair's use of facial recognition challenged"
     excerpt: "NOYB has filed a complaint against Ryanair for violating customers data protection rights by using facial recognition to verify their identities when booking through online travel agents"
     publishedDateTime: 2023-07-29T10:42:00Z

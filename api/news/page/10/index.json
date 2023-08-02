@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-07-26-blackburn-warns-ai-is-robbing-female-songwriters-other-artists-with-biased-algorithms.md",
+      "title": "Blackburn warns AI is robbing female songwriters, other artists with biased algorithms",
+      "excerpt": "Sen. Marsha Blackburn warned AI experts in a Senate hearing Tuesday musical artists and songwriters' revenue streams could be impacted by unchecked AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/blackburn-warns-ai-robbing-female-songwriters-artists-biased-algorithms",
+      "originalUrl": "https://www.foxnews.com/us/blackburn-warns-ai-robbing-female-songwriters-artists-biased-algorithms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc1adc4e-14d1-499e-b845-26b2e79da394/5855a602-c829-48b3-bca9-5fc947f6429d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/blackburn-warns-ai-robbing-female-songwriters-artists-biased-algorithms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/blackburn-warns-ai-robbing-female-songwriters-artists-biased-algorithms.amp",
+      "publishedDateTime": "2023-07-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expanding-at-a-51-cagr-from-2023-2030.md",
+      "title": "The worldwide AI Speech Recognition industry is currently experiencing significant growth and expanding at a 5.1% CAGR from 2023 - 2030",
+      "excerpt": "The Global Market Overview of \"AI Speech Recognition Market\" offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33385997/the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33385997/the-worldwide-ai-speech-recognition-industry-is-currently-experiencing-significant-growth-and-expan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33385997",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33385997",
+      "publishedDateTime": "2023-07-25T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-alibabas-cloud-unit-brings-metas-ai-model-llama-to-its-clients.md",
       "title": "Alibaba's cloud unit brings Meta's AI model Llama to its clients",
       "excerpt": "Alibaba's cloud computing division said it has become the first Chinese enterprise to support Meta's open-source artificial intelligence (AI) model Llama, allowing its Chinese business users to develop programs off the model.",
@@ -1134,108 +1228,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver.md",
-      "title": "Meta’s stock picks up an upgrade ahead of earnings — but AI is the biggest driver",
-      "excerpt": "It isn't lost on New Street Research analyst Dan Salmon that he's upgrading shares of Meta Platforms Inc. a day before the company is due to report earnings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "originalUrl": "https://www.marketwatch.com/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-748566/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/metas-stock-picks-up-an-upgrade-ahead-of-earnings-but-ai-is-the-biggest-driver-b10ab538",
-      "publishedDateTime": "2023-07-25T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-bing-ai-chat-expands-to-chrome-and-safari-for-select-users.md",
-      "title": "Bing AI chat expands to Chrome and Safari for select users",
-      "excerpt": "\"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" said Caitlin Roulston, Microsoft director of communications. \"We are excited to expand access to even more users once our standard testing procedures are complete.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "originalUrl": "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/90f674cd85981dcb50a5f3f8d5e29f2a07295b41/2023/07/25/0852fcad-54ee-4823-9f85-b7df7c18bb05/binggettyimages-1246902268.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/",
-      "publishedDateTime": "2023-07-25T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midj
 webUrl: "https://thenextweb.com/news/generative-ai-threatens-democracy-midjourney-dalle2-stable-diffusion"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Angel One Launches AI-Powered Super App in India to Foster Smart Investments"
-    excerpt: "Angel One introduces a Super App in India to facilitate smart investments for the country's young investors, as part of its AI-powered #SuperIsHere campaign., Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-28T13:32:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/angel-one-launches-ai-powered-super-app-in-india-to-foster-smart-investments-article-102208147"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 16
 
 secured: "qBlhbR7DBb+Vz04W13GielkODKMTZ3Zds4dyeuBB18vA3ByTN6tWwfq3Qcp1CZbvGJFXoOjYjLx+cD5xF9DCsQZHOrKxEcQW5j/ISHSN4cYzErLmGgAdUQxfjgKI/DziSrh7nfgcqYjyc92j5uU1tWmuUQIQK5BaEYbJpYJ97cvluZtl0vA7jMy4qoS19vppaXOx3sy0R5USK2t9kmpDejhs+dneVvF46Olpxs6n6oJ2zz5xn+IiK100XsWc+Vpik4j31JO3gHJhR+xQCgoRw0HQJ2EGljA+x/ZVzxVAsHBzoKt1VjgaM1UOP7CS64Ie+Wduqz4DEXH9lKRXdydEYmB4zyMBvb3d6GwdAzWEq4MXD4Yv3i34Ov81RhT1IOwV7f1WF8u6v8Ya8oJtMpImO2GIoPQzwHSPjigR/EASuYnZAjWGFKtjba+pQ24ejMc18boyIsU+Let9236iX9eH26h3nqYu8Ohpwe9B3vGhDcOdjajCvKkQVumByMLYCiUoqhgHUjtw48ekAI31BDkVzA==;/24ySamedzWXie8SZbl8Cg=="
 ---
