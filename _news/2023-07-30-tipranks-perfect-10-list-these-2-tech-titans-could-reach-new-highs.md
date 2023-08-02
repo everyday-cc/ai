@@ -6,6 +6,9 @@ publishedDateTime: 2023-07-30T09:02:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/tipranks-perfect-10-list-these-2-tech-titans-could-reach-new-highs-1032492025"
 webUrl: "https://markets.businessinsider.com/news/stocks/tipranks-perfect-10-list-these-2-tech-titans-could-reach-new-highs-1032492025"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

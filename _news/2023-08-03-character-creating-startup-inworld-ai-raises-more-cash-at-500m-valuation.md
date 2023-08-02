@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-02T17:16:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/inworld-ai-funding-video-game-ai-character-generation/"
 webUrl: "https://news.crunchbase.com/ai-robotics/inworld-ai-funding-video-game-ai-character-generation/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 

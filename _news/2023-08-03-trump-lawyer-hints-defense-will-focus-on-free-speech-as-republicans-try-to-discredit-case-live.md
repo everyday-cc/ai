@@ -30,6 +30,17 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Trump lawyer hints defense will focus on free speech; ex-president will not have mugshot taken – live"
+    excerpt: "John Lauro claims four criminal charges over efforts to overturn 2020 election ‘absurd’; US officials say Trump will have fingerprints taken but no photo Obama warned Biden of Trump's continued strength - report Donald Trump’s attorney John Lauro ..."
+    publishedDateTime: 2023-08-02T19:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2023/aug/02/donald-trump-indictment-criminal-charges-2020-us-election-republicans-latest-updates?page=with:block-64caa8f58f082f4d58911d08"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
+
 secured: "IyTWHWtN4YLW6J6AByQ+lQG7HeXiXV/9cofoBnC8XNBDvkH2vcMSBkTrRuQhhAkPTDbgPmiZSJ0qeMIwSG259loIZF5DPPjGpHFD7V6CzFptcsTB/RqK8E2a1SxiyrcuwJrIqJbA0ktQa0a75OZZQOvy7PWrdPQ4/bSiTBtQjSsw4gvlalqUJjT0jugLRC2MUwEgQz6qUCz0H5tHh4S2ThcDDsls7cFprunWeemTy3JoevpzSa6aeEj4aaKC8P5pLbtGjh0EkMSl5Gv4P6y9wTjQIvWyspVK04o+JFWtKH1wK5HvRddcp5eNlzi9L5zUjEXjscC2yPYWE2E4DC4977QMoc0HSjWM7DUIHCdkTKI=;kJ+93d/kuFRxweQWOzcO8A=="
 ---
 

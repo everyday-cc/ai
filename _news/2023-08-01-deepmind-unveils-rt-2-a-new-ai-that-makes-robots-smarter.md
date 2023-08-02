@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google DeepMind enables robots to perform novel tasks"
+    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
+    publishedDateTime: 2023-07-29T08:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Google’s DeepMind AI enables robots to perform novel tasks"
     excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic (the understanding of words and sentences), and visual understanding beyond the robotic data it was exposed to."
     publishedDateTime: 2023-07-29T06:11:00Z
@@ -131,22 +147,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/00remt9EBrpPM9xQCL6Q1ee-1.fit_lim.size_1200x630.v1690652217.png"
         width: 957
         height: 537
-        isCached: true
-  - title: "Google DeepMind enables robots to perform novel tasks"
-    excerpt: "according to Google DeepMind. A traditional robot can pick up a ball and stumble when picking up a cube. RT-2’s flexible approach enables a robot to train on picking up a ball and can figure out ..."
-    publishedDateTime: 2023-07-29T05:16:00Z
-    webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
-    ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
-        width: 2000
-        height: 1225
         isCached: true
   - title: "Google DeepMind empower robots to accomplish new and unique task"
     excerpt: "“RT-2 is not only a simple and effective modification over existing VLM models, but also shows the promise of building a general-purpose physical robot that can reason, problem solve, and interpret information for performing a diverse range of tasks in the real-world,” said Google DeepMind."

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cl
 webUrl: "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cloud-sales-profit-and-ai"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/qualcomm_shutter5.jpeg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Amazon earnings preview: Cloud looms as investors also eye retail, ads, and AI"
+    excerpt: "For its part, Microsoft Azure clocked a decline in its revenue growth ... according to RBC Capital Markets' Brad Erickson. Instead, AI will feature heavily, especially given Amazon's (still-mostly-theoretical) competitive advantage with large enterprise ..."
+    publishedDateTime: 2023-08-02T20:04:00Z
+    webUrl: "https://www.aol.com/finance/amazon-earnings-preview-cloud-looms-195332749.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/hZfIEsEQaW7qv9DODgtRNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dde3e84dbc51c49900908fd9960f5295"
+        width: 1199
+        height: 800
         isCached: true
 
 secured: "14XqI+0qds8gRvThchLpQxGhpVgiXCsqUNTm8FiVti2A7kF7PUqnITq41ZGutQUnLQ7MgAvZUEDgAGI8HqEVgzbx9SVYmobLrxTVmL9Qct4Ilzj9Bfr2Q5HvEbuGvLrl5R5M1/SxqLyEGF/yb3xZwiRIVnenDPFbKdnDloLWEVkRN43RhiHA9ns6QHk/AUg2HcrPOq2n/9KdGxXFjqWEZB4K+ibtz2QrFIKmTb1CNNlGqMtEVFg3/YcbGakosZdZPBXrV1TxBfasZ2ytff2fzFSNUgr29MQRDwUDVStafQkmaB6bU6bywj810+8EV5hx33pfjd7IG18ekDqyLID5BhtgvYQ4ZyuYQwgHA3IP1+UNI0cEnUnP3ItWhaPJ0teKN65k9IenP79wWGyrV++ZJeo3+AMoq8/b9hjqKk/8bQCMUELA7SWfaXDk4swUNNrJqV2v5rMXTdnA3Yj6zVIm50/lAr3iD8fgJ6NF8B3IsecaRMRsbUtLeYfZ5ZTqAPbmGgdnUCXXhlNRov8p9XzOPw==;5HDycaASD3t1n+LhPqH4Bw=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-02-brain-implants-powered-by-ai-help-paralyzed-man-feel-and-move-again.md",
+      "title": "Brain implants powered by AI help paralyzed man feel and move again",
+      "excerpt": "New York resident Thomas was involved in a diving accident on July 18, 2020, that injured his spine's C4 and C5 vertebrae, resulting in a total",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html",
+      "originalUrl": "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-02-image-10.jpg",
+          "width": 875,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real.md",
       "title": "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real",
       "excerpt": "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -156,49 +208,6 @@
         "AI",
         "AWS AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-ai-brain-implant-helps-paralyzed-man-move-feel-again.md",
-      "title": "A.I. brain implant helps paralyzed man move, feel again",
-      "excerpt": "There was a time that I didn’t know if I was even going to live, or if I wanted to, frankly. And now, I can feel the touch of someone holding my hand. It’s overwhelming,\" said Keith Thomas, the patient who received the revolutionary treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again",
-      "originalUrl": "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/07/932/470/AI-chip-image.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp",
-      "publishedDateTime": "2023-07-31T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {

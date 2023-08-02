@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T18:21:00Z
 originalUrl: "https://www.csoonline.com/article/648486/beware-of-overly-permissive-azure-ad-cross-tenant-synchronization-policies.html"
 webUrl: "https://www.csoonline.com/article/648486/beware-of-overly-permissive-azure-ad-cross-tenant-synchronization-policies.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CSOonline

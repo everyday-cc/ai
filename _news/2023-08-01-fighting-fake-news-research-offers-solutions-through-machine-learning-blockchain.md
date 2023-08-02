@@ -37,13 +37,13 @@ related:
       domain: sciencedaily.com
     quality: 60
   - title: "Global Blockchain AI Research Report 2023: Enhancing Data Security and Insights - The Key Role of Blockchain AI in Modern Businesses"
-    excerpt: "DUBLIN, Aug. 2, 2023 /PRNewswire/ -- The \"Blockchain AI Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2023-08-02T17:56:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/02/9858468.htm"
+    excerpt: "The \"Blockchain AI Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. The global blockchain ai market grew from $0.39 billion in 2022"
+    publishedDateTime: 2023-08-02T17:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33527992/global-blockchain-ai-research-report-2023-enhancing-data-security-and-insights-the-key-role-of-blo"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 5
 
 secured: "x6GoE8d9jffBzpKriX5AzieGpRV4FUtWQ2aInCd/Rv53r8FEsSEiuYu2WkEfgik+Eas3eMhm3C/GX1lndQpdYcKURTL6Pyl8XWFaG/G2iBFyX/cE7JlcdN0n1N1uUblWbY+i1Zj6ZPQHN14lM6Y5yzBs0lS+nS/AlkdGvCI3LL3zjXv3RrXf6VPY0QITi8erUbtfDnAy9WRh2JJAf+PJLfhNvlMYp1GTu+RWZB8GIYB0guoVDv/75MQeEMlqjgeQH82KwkloderDQTIw42j0SI6pEhO7I/VXcBau0bw+q5jZlFX0+7xekuMlgXo2ZyAPrXttXv44KZGE+FX77kdmEeE+rkFRa07wa3ts4myFHL83edeN+1dhr/hgl60WDu8qVyiV+b9Qn6moFU/qzxy1dYfPSByYTDwkq7tzqO5X3tUktCfE8WE+RZrPulUv95WwHWw5y8lvv/f1y+3o3UEkW7CGissnuZ4IOAlZOnU7Bca2cl8HWrHeAQNJUNv7New22RpkENKT1tfyIAqNU7Af7g==;dUWWWQwvbNHWVxJyYE7ORg=="

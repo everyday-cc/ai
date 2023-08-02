@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Concentric AI to Unveil Data Security Privacy Personas at Black Hat Conference 2023"
+    excerpt: "Concentric AI, a leading vendor of intelligent AI-based solutions for autonomous data security posture management"
+    publishedDateTime: 2023-08-02T19:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/concentric-ai-to-unveil-data-security-privacy-personas-at-black-hat-conference-2023/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 28
+
 secured: "GgiQduSMJz66zeOLkqUMGoiNp6IeIIPrLI0oBJCrULmA8N5JktTEh1Ekxs6nPEBdH7clA9Aob97qTjQUDg9IDxp1sB0o120IMZ1uixnvyQfMMvh816saAueMMtHkxzQ0guvFMGRF5M/TobuA5L0yAtvFx779m298SgQbZtXG30czOXkdXor114ThPQ36yB4Ly+a+hL2N13aPgswF3O6ZPRX+K3NHbWzRKP7JZs6RtjbQe2aOwleK8g9f1Gx+5MvX/Lt0RZD+LvSRYHjypF3FZ2BdXi/1lhkao7ObN+FKOlBSaBo1hdSNBdKpoe4wz0zWUwUZr8pfoQspTX238pXbDy0TQnKzr7g9yXt8TgvC8tc=;1khtyh0in0EwLZKBpxUamg=="
 ---
 

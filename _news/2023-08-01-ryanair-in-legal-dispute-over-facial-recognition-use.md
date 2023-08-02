@@ -164,6 +164,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Alaska lawmakers must consider regulating facial recognition"
+    excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://www.newsminer.com/opinion/alaska-lawmakers-must-consider-regulating-facial-recognition/article_f9f3581c-30dc-11ee-975d-03edac35dd66.html"
+    type: article
+    provider:
+      name: Fairbanks Daily News-Miner
+      domain: newsminer.com
+    quality: 19
   - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
     excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
     publishedDateTime: 2023-07-31T15:00:00Z

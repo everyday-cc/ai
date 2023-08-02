@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T18:54:00Z
 originalUrl: "https://www.govtech.com/education/k-12/maryland-student-creates-seeing-app-for-the-blind"
 webUrl: "https://www.govtech.com/education/k-12/maryland-student-creates-seeing-app-for-the-blind"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Government Technology

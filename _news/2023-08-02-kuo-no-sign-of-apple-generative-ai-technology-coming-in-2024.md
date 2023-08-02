@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T12:42:00Z
 originalUrl: "https://www.macrumors.com/2023/08/02/no-sign-of-apple-generative-ai-coming-2024/"
 webUrl: "https://www.macrumors.com/2023/08/02/no-sign-of-apple-generative-ai-coming-2024/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MacRumors

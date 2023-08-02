@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T19:18:00Z
 originalUrl: "https://www.redmondpie.com/elon-musk-again-says-full-self-driving-is-almost-ready/"
 webUrl: "https://www.redmondpie.com/elon-musk-again-says-full-self-driving-is-almost-ready/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Redmond Pie

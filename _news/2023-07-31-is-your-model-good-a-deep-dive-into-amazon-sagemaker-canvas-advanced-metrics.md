@@ -65,6 +65,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
+    excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
+    publishedDateTime: 2023-08-02T18:34:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "Build protein folding workflows to accelerate drug discovery on Amazon SageMaker"
     excerpt: "Drug development is a complex and long process that involves screening thousands of drug candidates and using computational or experimental methods to evaluate leads. According to McKinsey, a single drug can take 10 years and cost an average of $2.6 billion to go through disease target identification,"
     publishedDateTime: 2023-07-31T18:49:40Z

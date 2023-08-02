@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Explaining the ‘T’ in ChatGPT"
+    excerpt: "One letter is key in explaining how Artificial Intelligence models work. ChatGPT stands for ‘Chat Generative Pretrained Transformer’, and the word ‘Transformer’ is at the core of how these systems work,"
+    publishedDateTime: 2023-08-02T04:00:00Z
+    webUrl: "https://www.fuqua.duke.edu/duke-fuqua-insights/explaining-‘t’-chatgpt"
+    type: article
+    provider:
+      name: fuqua.duke.edu
+      domain: duke.edu
+    quality: 19
 
 secured: "HV3JX51xV91ebUz9xx8XOmmkbTVx91rr5cBRjFFizWb5xki/JBBBfRISl/NHBHHAn8PhrfN/x3hyvSMBcdnGPDOGam9v2G3RxUsGY9c2UhxkRLkBqH+wQ8m0fZpyEFHbXgF564ci/oiQPCECfTRvNDkuJbk0GhSPBrqeyqbrRixucZyI+qgpJO3LumcO5KKAtvyhXH4JFnKW9OM5iRtt7X/HPqoPExOHuIvlZO0l0Rv3qRLJ2uyk3T5JSYtvfxET41BZAY4bP9JuTPR/JqRgcJ2PA0ATRWkzhXhiplV1DINyy+tke30aAkOPUgysVIEKyGkx94RfZnoGnudY9dU1EL86HoZx4pQq/7RsxNqQu2Wzw76OvywHrOFfDnVYl1eNZ8brwxKdNTtWhCipsGEj5kMckwx950OzQFbM39Hx+86N7k0yQriu99z0mEJfxSfTYiuSpO7wsW2fG7mvdhcD4YnsZ6V8dZFdlWbJGD04NJfxyv6Jg/mo46dFQCnghyGhPQFu3gNfNsNQErfIPgEeBA==;QCo1Dr13Udrtf3hwn+DZ5w=="
 ---

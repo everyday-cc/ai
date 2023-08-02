@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T19:43:00Z
 originalUrl: "https://sanjosespotlight.com/silicon-valley-congressman-tours-computer-chip-facility/"
 webUrl: "https://sanjosespotlight.com/silicon-valley-congressman-tours-computer-chip-facility/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: San Jose Spotlight

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelli
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The AI Revolution is Canceled"
+    excerpt: "C&E published a magazine cover story with the ominous headline: “Artificial Intelligence Could Alter Campaigning As We Know It.” The piece focused on how pollsters will be […]"
+    publishedDateTime: 2023-08-02T19:31:00Z
+    webUrl: "https://campaignsandelections.com/campaigntech/the-ai-revolution-is-canceled/"
+    type: article
+    provider:
+      name: Campaigns and Elections
+      domain: campaignsandelections.com
+    quality: 39
+    images:
+      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
     excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
     publishedDateTime: 2023-07-30T10:46:00Z

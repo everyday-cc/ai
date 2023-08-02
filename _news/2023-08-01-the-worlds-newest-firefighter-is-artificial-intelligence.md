@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/environment/newest-firefighter-artificial-intel
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
     images:
       - url: "https://i.pcmag.com/imagery/articles/00iwhhHqOZixX36fLPsrrfU-1.fit_lim.size_1200x630.v1690403210.jpg"
         width: 1120
-        height: 630
-        isCached: true
-  - title: "David Nevins: The new world of AI"
-    excerpt: "The buzzword for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested?"
-    publishedDateTime: 2023-07-29T03:30:00Z
-    webUrl: "https://wacotrib.com/opinion/column/david-nevins-the-new-world-of-ai/article_583237c2-2d5e-11ee-bb3b-efc5cfa5c9c2.html"
-    type: article
-    provider:
-      name: wacotrib
-      domain: wacotrib.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/d/b3/db355df4-2d66-11ee-a274-633ca1ddab7e/64c3f1f6621d8.image.jpg?crop=1721%2C904%2C0%2C150&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
         height: 630
         isCached: true
 

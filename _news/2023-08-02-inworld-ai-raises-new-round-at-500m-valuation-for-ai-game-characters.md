@@ -37,7 +37,7 @@ related:
     provider:
       name: news.crunchbase
       domain: crunchbase.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://news.crunchbase.com/wp-content/uploads/2021/08/Video_Game-2.jpg"
         width: 900

@@ -1,0 +1,90 @@
+---
+category: news
+title: "Brain implants powered by AI help paralyzed man feel and move again"
+excerpt: "New York resident Thomas was involved in a diving accident on July 18, 2020, that injured his spine's C4 and C5 vertebrae, resulting in a total"
+publishedDateTime: 2023-08-02T16:46:00Z
+originalUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
+webUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
+type: article
+quality: 69
+heat: 109
+published: true
+
+provider:
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-02-image-10.jpg"
+    width: 875
+    height: 556
+    isCached: true
+
+related:
+  - title: "A.I. brain implant helps paralyzed man move, feel again"
+    excerpt: "There was a time that I didn’t know if I was even going to live, or if I wanted to, frankly. And now, I can feel the touch of someone holding my hand. It’s overwhelming,\" said Keith Thomas, the patient who received the revolutionary treatment."
+    publishedDateTime: 2023-07-31T21:00:00Z
+    webUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again"
+    ampWebUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/07/932/470/AI-chip-image.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "First-of-its-kind AI brain implant surgery helped a man regain feeling in his hand"
+    excerpt: "Just four months after the groundbreaking surgery, the patient was able to feel the touch of his sister's hand."
+    publishedDateTime: 2023-08-01T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/01/09-keithimplants.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
+    excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."
+    publishedDateTime: 2023-08-01T13:43:00Z
+    webUrl: "https://www.unilad.com/news/us-news/new-york/brain-implant-restore-feeling-movement-paralyzed-man-210777-20230801"
+    type: article
+    provider:
+      name: unilad
+      domain: unilad.com
+    quality: 34
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt84393f55ee50af05/64c9018a3130b00af1193413/brain-implant-quadriplegic-mans-hands.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI-powered brain implant restores a paralyzed man’s ability to feel and move"
+    excerpt: "For the first time, brain microchips help a patient with paralysis regain his ability to feel the touch of other people and move his arms at will."
+    publishedDateTime: 2023-08-01T12:16:00Z
+    webUrl: "https://interestingengineering.com/innovation/brain-implant-for-paralysis"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 16
+
+secured: "7Ct3Xrwmq64+rJTUExzDyoPAaNj9UWbDPmNitIGLvJykRJKc6ILtCXdlgLnY5rbqI6cTWgBVjOLEgVS3TrTQFVVzpnNaIHOWaUy+Y7D5gNp4yjbHUS8o3mptsMZlHN+7B7x0752zuXcXkdmK/Rmcf15P6oyXFKBi0M2kffd2L5Lb69qXvIdlvxav6L7I4Z39Dn4ARCFBLl4fd9863zaVuYTySUpfYkC84pwzWwbLYqu4FtrD8fojVA1f69Q3eqb28uqndmAeVY4ZpHaXOJC8tBVemiru8ycBnvkYPBKr/CKD6WYh60anmHfl0OrQgW85ZAupKV6RZYv2VF3IvYYEO421w12bMotnC0BVwwU2A4I=;pjoYvPKbW5ddpFMjAmXI2w=="
+---
+

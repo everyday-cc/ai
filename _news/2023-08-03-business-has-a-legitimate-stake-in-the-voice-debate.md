@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T19:00:00Z
 originalUrl: "https://www.afr.com/politics/federal/business-has-a-legitimate-stake-in-the-voice-debate-20230802-p5dt9y"
 webUrl: "https://www.afr.com/politics/federal/business-has-a-legitimate-stake-in-the-voice-debate-20230802-p5dt9y"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian Financial Review

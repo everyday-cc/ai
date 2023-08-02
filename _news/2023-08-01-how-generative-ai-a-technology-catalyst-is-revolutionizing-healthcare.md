@@ -132,6 +132,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
+    excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"
+    publishedDateTime: 2023-08-02T20:17:00Z
+    webUrl: "https://www.datanami.com/this-just-in/digitates-new-generative-ai-capability-unlocks-innovation-and-delivers-greater-agility-across-enterprises/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 21
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "How Generative AI may impact the data analytics ecosystem"
     excerpt: "Moreover, while large language models are excelling at tasks such as summarization and translation, deductive reasoning remains a formidable challenge. As AI continues to evolve, striking a balance between its capabilities and limitations is crucial."
     publishedDateTime: 2023-08-01T11:52:00Z

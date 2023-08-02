@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Brain implants powered by AI help paralyzed man feel and move again"
+    excerpt: "New York resident Thomas was involved in a diving accident on July 18, 2020, that injured his spine's C4 and C5 vertebrae, resulting in a total"
+    publishedDateTime: 2023-08-02T16:46:00Z
+    webUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-02-image-10.jpg"
+        width: 875
+        height: 556
+        isCached: true
   - title: "A.I. brain implant helps paralyzed man move, feel again"
     excerpt: "There was a time that I didn’t know if I was even going to live, or if I wanted to, frankly. And now, I can feel the touch of someone holding my hand. It’s overwhelming,\" said Keith Thomas, the patient who received the revolutionary treatment."
     publishedDateTime: 2023-07-31T21:00:00Z

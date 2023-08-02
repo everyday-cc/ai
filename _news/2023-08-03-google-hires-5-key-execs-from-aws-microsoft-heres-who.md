@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T18:30:00Z
 originalUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
 webUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: CRN

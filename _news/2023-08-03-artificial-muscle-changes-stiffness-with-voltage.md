@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T19:40:00Z
 originalUrl: "https://www.medgadget.com/2023/08/artificial-muscle-changes-stiffness-with-voltage.html"
 webUrl: "https://www.medgadget.com/2023/08/artificial-muscle-changes-stiffness-with-voltage.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Medgadget

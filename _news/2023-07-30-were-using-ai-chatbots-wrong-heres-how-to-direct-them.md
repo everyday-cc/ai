@@ -271,6 +271,20 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
+  - title: "Meta to launch AI-powered chatbots with ‘personas’ in September"
+    excerpt: "Mark Zuckerberg is set to enter the AI space and join the AI hype by launching chatbots on Facebook’s social media platforms."
+    publishedDateTime: 2023-08-02T16:00:00Z
+    webUrl: "https://interestingengineering.com/culture/meta-to-launch-ai-powered-chatbots-with-personas-in-september"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/02/image/jpeg/rSwWIUGKDTC2O3OKOcQkGK2GYmQqaw8CgzywDm8i.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Experts discover workarounds to evade chatbot AI safety rules"
     excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
     publishedDateTime: 2023-07-30T03:56:00Z
@@ -377,6 +391,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Meta to launch AI chatbots with personalities to retain users"
+    excerpt: "The multinational technology company are developing variations of chatbots with different personalities and functions in a bid to improve user retention."
+    publishedDateTime: 2023-08-02T17:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/meta-launch-ai-chatbots-personalities-retain-users-1718184"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 19
   - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
     excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
     publishedDateTime: 2023-07-29T05:58:00Z

@@ -2,6 +2,134 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2023-05-22-how-artificial-intelligence-is-revolutionising-healthcare.md",
+      "title": "How Artificial Intelligence is revolutionising healthcare",
+      "excerpt": "Artificial Intelligence (AI ... AI is often far more cost-efficient than manual healthcare. Its development could therefore make medical treatment and care possible for more people, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-the-3-ai-stocks-you-need-to-own-now-for-maximum-returns.md",
+      "title": "The 3 AI Stocks You Need to Own Now for Maximum Returns",
+      "excerpt": "The popularity of artificial intelligence has surged since the launch of ChatGPT in November 2022, which was developed by the AI startup OpenAI. This has resulted in the company being valued at $ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist.md",
+      "title": "Today's AI boom will amplify social problems if we don't act now, says AI ethicist",
+      "excerpt": "AI systems trained on internet data are in danger of reinforcing negative bias and causing societal harm. Salesforce's Kathy Baxter explains how to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "originalUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1052e43673c58630ef01e4edf1a0eb50a72c1c2c/2023/05/21/8ff5fae9-93d2-4635-81c0-23e5d09956f6/kathy-baxter-salesforce.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "publishedDateTime": "2023-05-21T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-how-does-ai-add-value-to-sales-intelligence.md",
       "title": "How Does AI add Value To Sales Intelligence?",
       "excerpt": "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:",
@@ -1054,151 +1182,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-lawmakers-reveal-ai-concerns-over-future-of-humanity-following-openai-ceos-senate-testimony.md",
-      "title": "Lawmakers reveal AI concerns over 'future of humanity' following OpenAI CEO's Senate testimony",
-      "excerpt": "Displaying bias, foreign adversaries like China becoming dominant, and outsmarting humans were all top artificial intelligence concerns for members of Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony",
-      "originalUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp",
-      "publishedDateTime": "2023-05-19T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-schools-bewildered-by-ai-advances-say-head-teachers.md",
-      "title": "Schools bewildered by AI advances, say head teachers",
-      "excerpt": "UK schools have been left confused by the fast rate of change in artificial intelligence (AI) and its impact on education, head teachers are warning. In a letter to the Times, educators from the state and private sector say developments are \"bewildering\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-65655010",
-      "originalUrl": "https://www.bbc.com/news/uk-65655010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10AC0/production/_129788286_gettyimages-450123483.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-65655010.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp",
-      "publishedDateTime": "2023-05-19T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-to-see-one-of-ais-greatest-dangers-look-to-the-military.md",
-      "title": "To See One of A.I.’s Greatest Dangers, Look to the Military",
-      "excerpt": "Anyone can read what you share. By Peter Coy Rogue artificial intelligence versus humankind is a common theme in science fiction. It could happen, I suppose. But a more imminent threat is human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

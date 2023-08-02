@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T16:50:00Z
 originalUrl: "https://www.ahwatukee.com/opinion/article_1f7ca2e2-3154-11ee-a055-03b95110b15d.html"
 webUrl: "https://www.ahwatukee.com/opinion/article_1f7ca2e2-3154-11ee-a055-03b95110b15d.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Ahwatukee Foothills News

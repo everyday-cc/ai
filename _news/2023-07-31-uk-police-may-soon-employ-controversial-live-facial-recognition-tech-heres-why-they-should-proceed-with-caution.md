@@ -179,6 +179,15 @@ related:
       name: MrWeb
       domain: mrweb.com
     quality: 34
+  - title: "Alaska lawmakers must consider regulating facial recognition"
+    excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://www.newsminer.com/opinion/alaska-lawmakers-must-consider-regulating-facial-recognition/article_f9f3581c-30dc-11ee-975d-03edac35dd66.html"
+    type: article
+    provider:
+      name: Fairbanks Daily News-Miner
+      domain: newsminer.com
+    quality: 19
   - title: "Facewatch caught in more controversy after closed-door meeting with UK Home Office"
     excerpt: "Facewatch, which has been facing backlash for deploying facial recognition in retail stores across the UK, may be facing another public relations problem."
     publishedDateTime: 2023-07-31T17:49:00Z

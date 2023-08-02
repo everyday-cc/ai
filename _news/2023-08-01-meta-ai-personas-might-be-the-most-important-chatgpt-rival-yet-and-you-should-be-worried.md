@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Explaining the ‘T’ in ChatGPT"
+    excerpt: "One letter is key in explaining how Artificial Intelligence models work. ChatGPT stands for ‘Chat Generative Pretrained Transformer’, and the word ‘Transformer’ is at the core of how these systems work,"
+    publishedDateTime: 2023-08-02T04:00:00Z
+    webUrl: "https://www.fuqua.duke.edu/duke-fuqua-insights/explaining-‘t’-chatgpt"
+    type: article
+    provider:
+      name: fuqua.duke.edu
+      domain: duke.edu
+    quality: 19
 
 secured: "1YVDpcaDrxZQ1VqDevzbraHJvKRh4O+iNm/+OIAm1ag/ZQMQ+0eMpqT4jEA40k/X8g5Sdm+b23n3rArortsbXfko5Sdujd+FN6P1BhVFFZwbhVLRSnVi26waZYnF6tameCWe/ggVd6HQq44Ii9su3e80yrrkYnpzmKr45fz1Yu+kcTtIeBYjBaHQs09InpQun/7j9R/gA7SGLvEX34pkSDldClWDNIuLYTooBXTi9bZsDZ9WaKKfzI7Cu83GdIdcdwsXpCVH4AmY1T1m1BMo5y3FVEKFPmhfKOkDyms0PSbmPUdTohYzFnutdfBOOFeL2GmMM6GiZIZXfyUVPdu8y/cy5hL8wwCMeGPWXPk4sBeHOevSevWeHdrYGEPdlzE1tUBuG17NpIgM1f8W9loWkAfZow3R4DVc2t9/MAUR9ogXbnjhYI9LFIUskv6a5S/NvAzDUNAYS9omdpkzR97htxzLiJLWqO2rwmums2uZ+294gLnlA8LXio5z+XBKe7IR1IODvQvjPi88vQwyOACe4w==;+LCGWo3Vl2ptu40QoAjjlA=="
 ---

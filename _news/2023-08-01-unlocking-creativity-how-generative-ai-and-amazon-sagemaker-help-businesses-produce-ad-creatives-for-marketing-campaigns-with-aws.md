@@ -58,6 +58,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
+    excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
+    publishedDateTime: 2023-08-02T18:34:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics"
     excerpt: "If you are a business analyst, understanding customer behavior is probably one of the most important things you care about. Understanding the reasons and mechanisms behind customer purchase decisions can facilitate revenue growth. However, the loss of customers (commonly referred to as customer churn)"
     publishedDateTime: 2023-07-31T18:45:03Z

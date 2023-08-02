@@ -6,6 +6,9 @@ publishedDateTime: 2023-08-02T19:09:00Z
 originalUrl: "https://menafn.com/1106771672/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Looking-To-Leverage-Blockchain-Technologys-Capabilities-To-Ease-Cross-Border-Money-Transfers"
 webUrl: "https://menafn.com/1106771672/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Looking-To-Leverage-Blockchain-Technologys-Capabilities-To-Ease-Cross-Border-Money-Transfers"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mena FN

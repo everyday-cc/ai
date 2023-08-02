@@ -3,8 +3,8 @@ category: news
 title: "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages"
 excerpt: "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that."
 publishedDateTime: 2023-08-02T08:01:00Z
-originalUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/"
-webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/"
+originalUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
+webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
 ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
 type: article
@@ -81,6 +81,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "EwkszbMYY9M7hr/Hm923gRr7pPVT8BQh/zpcUpJ9oZma0T6pbBZ0qf+z6uq+eDE2zjOgKebE9AfN/eNnR1nNv8H2WZzSGAuEYAYv3Z+Qsh6ktUG3S+rrpm5THxgcBpgJGM1BBsoAET5JmhwR7jJ4sCWHZ53/qtYP6EUWHDHkvBGwrLbiNpgi+Vyx6qaJVBquf+9905ExcCpJcs4V8/Ws79BpLJ4hsxpql7/LRdBnpdJp7dRMKBhGZSL6090nLMWEWV+WnxcBJ/78MeLtAbg4VzlY07JdTRl0NBX9C48Gb1FbMOgpcukzMCX7dx/G44OQqKhmqLuQqC/ME/NVzman2HooZULI6NDLoi00v1UxBsh88HV3WHRql6Lqm9EJE0MoSayLodOtSITJUBZ1FsDF7z6l2jMVWo/sxtXzKMt34k6Ee1m9MlvXE4qkXoWgRqWc/wvFooOPCpn5u47jF1236r2V7aWP9si/M5t2r7pbCSLj3xhmbzSbMvkDiFa2S+d02uDhctz8tWbKbc8tDaFWgQ==;aMfIr3o/G1S5oZVe75+eRA=="
+secured: "Qq5kqerH29YLGRzFDldCvhXa169v/t7qY6fPYbCnsKetMY17SAzkjB+XHCTQSGXgsfmQbtrHZBpQSZaIwbPdQdRFjDDRUFWt2xENvkdHJcfr4dvxP+ZXJBH9GhUtxwGhI/DN0tbsFt3BUIxFIPvaGBecGmPpid9QWDi6cllf897i3cEk7qnitXEkuTeutSU5wOc6a4EWlImXl/ZQ3o5IIpD3Z/VmSYF9XpQQigHuPMnIrG36N9y6UX32lwU54XSkhTUUf7AmSKAEbU3Z6YdMDHP0m5rbj8cw+g/xFSk0U4iFVg/pjBfnECPzphzeh2uiQBlSZ56RWh9aQE8Xoll0F8a9A9U6sNI3kuPDrSGDeYY=;bmihSw9/UG7SDTBC/tGsMg=="
 ---
 

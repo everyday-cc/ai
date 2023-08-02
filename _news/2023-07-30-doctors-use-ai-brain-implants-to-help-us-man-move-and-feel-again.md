@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 698
         isCached: true
+  - title: "Could Inhibiting a Liver Enzyme Ameliorate Alzheimer’s Pathology in the Brain?"
+    excerpt: "Plaque Cleanup. Amyloid plaques (bright green) accumulate in the motor cortices (left), hippocampi (middle), and entorhinal cortices (right) of 16-month-old 3xTgAD mice (top), but less so when the liver enzyme sEH is knocked out at 14 months (bottom). [Courtesy of Wu et al., Neuron.]"
+    publishedDateTime: 2023-08-02T20:22:00Z
+    webUrl: "https://www.alzforum.org/news/research-news/could-inhibiting-liver-enzyme-ameliorate-alzheimers-pathology-brain"
+    type: article
+    provider:
+      name: ALZFORUM
+      domain: alzforum.org
+    quality: 35
+    images:
+      - url: "https://www.alzforum.org/sites/default/files/08.02_Neuron-Wu-Liver_enzyme_1.jpg"
+        width: 627
+        height: 245
+        isCached: true
 
 secured: "YM9h/E7Qq3vMzx17z8+q8O4nNzRv1F6igTSWwMuV5wgjRchbZ0p/fvT3UBMl9HyPvyWtnKvaGcVZfpN3AsblzeshBuyqpcjn7GbCI6iWi8aPazkHzZu9JQN340RLFucDUAdR0SJsMu5V6hFHPrY02wJWcFqDTRNwN8re+WrnZ2wDMpxXGV1Ro3EKtL/NfZ6ZYYYWqJhuYMjXWYHIEPm73Yb2DIOOR/CH1WL9oL7caNB5vGuWgGA2D6odRbj8Pqv4tnLT3dJKN49xFep1EVz5rcjRknS7jeKTZgDjQD2ugJLydPuS3E1SrGy6Bop9zkAO5KbxhLzeLpBD16zIN/LyZldnoPNEG/eFS2uHrtiAkSmaWaoEYJqdlNgo+LYxGGBy4vKwrWQQqf2JPFLWOWEO0M+3sKQOZRs6oGQV9PqMWDAlqhqIP7q4GjEWGXplsNbs7yLmRRVtikqafvqBmS4mBsEwWuo9oSwapCKmiHQbISHayhFbB33l1ECDxXp4RM5lFpPEwolfui6p+q7vzj3XWA==;ZcJB5Qzm6F6+d4E+8SIcyA=="
 ---

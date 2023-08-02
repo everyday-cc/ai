@@ -9,7 +9,7 @@ ampWebUrl: "https://english.elpais.com/opinion/2023-07-30/artificial-intelligenc
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Could Inhibiting a Liver Enzyme Ameliorate Alzheimer’s Pathology in the Brain?"
+    excerpt: "Plaque Cleanup. Amyloid plaques (bright green) accumulate in the motor cortices (left), hippocampi (middle), and entorhinal cortices (right) of 16-month-old 3xTgAD mice (top), but less so when the liver enzyme sEH is knocked out at 14 months (bottom). [Courtesy of Wu et al., Neuron.]"
+    publishedDateTime: 2023-08-02T20:22:00Z
+    webUrl: "https://www.alzforum.org/news/research-news/could-inhibiting-liver-enzyme-ameliorate-alzheimers-pathology-brain"
+    type: article
+    provider:
+      name: ALZFORUM
+      domain: alzforum.org
+    quality: 35
+    images:
+      - url: "https://www.alzforum.org/sites/default/files/08.02_Neuron-Wu-Liver_enzyme_1.jpg"
+        width: 627
+        height: 245
+        isCached: true
   - title: "Doctors use AI & brain implants to help US man move and feel again"
     excerpt: "Keith Thomas, 45, was left paralysed from the chest down, making him unable to move and feel, after a diving accident in 2020."
     publishedDateTime: 2023-07-30T13:48:00Z

@@ -62,6 +62,15 @@ related:
       name: VietnamPlus
       domain: vietnamplus.vn
     quality: 19
+  - title: "2023 Vietnam Artificial Intelligence Day To Take Place In September"
+    excerpt: "Vietnam Artificial Intelligence Day (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on Sept"
+    publishedDateTime: 2023-08-02T19:25:00Z
+    webUrl: "https://menafn.com/1106772366/2023-Vietnam-Artificial-Intelligence-Day-To-Take-Place-In-September"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "xyfx4GFGfRkRxREx87/6PRmDZcLtR28HkS7wagouhsyLRCg20016yvG16EnNGQyDQYyhyXTL4Td45tmTlWeMlQjKp2g4xu1lycctmQo/wLhd9XFujcRnT+hYDV4VpI38zWre7iANGrsANZjilXLKz4aPJQPuXrPeubizBxL1TyhrqO17Y7OFMgEGFKcg+WrAhFZOCVJH+IC7Pt/IS8CLohCa+t7mWiVmGvLHL2uuRRF1dLnRmsELmblMyKK9aNgw7TaNXjd3cKNQ0gCB6nNoVIPno4TUgLFFUKg53iIjOldLo6D+aJH/7/v3B3WrT5wo5m0YpoAl8Y+UCJJ3f8crbBRq4AxobEDdM3j8NhEqShC5QNO9NPfpYkTVTZ4Z+XbMG4ORFNMGexgFcmmluKjgB+3Daj1iyAZI0N9uqvxnB7meBGyTrrAjnipqYBR1KMooCE3x1lEC3iy4DKYTWOcXPWcRhJgtpUL3Ods0Launc/tCxZ4PfBhKwHySGy8/TZoV46SYpxBb/IaiEhT08WBkXQ==;k7qPECVit8waJGrrm9AvSQ=="
 ---

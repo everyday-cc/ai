@@ -2,6 +2,117 @@
   "page": 185,
   "value": [
     {
+      "path": "_news/2023-04-05-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society.md",
+      "title": "Fujitsu Ltd: Fujitsu launches AI platform \"Fujitsu Kozuchi,\" streamlining access to AI and ML solutions to contribute to a sustainable society",
+      "excerpt": "At its Fujitsu Activate Now Technology Summit in Madrid, Fujitsu unveiled a new platform, \"Fujitsu Kozuchi (code name) - Fujitsu AI Platform,\" delivering access to",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos.acnnewswire.com/tr:n-650/FujitsuKozuchiFig1.jpg",
+          "width": 650,
+          "height": 247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform.md",
+      "title": "Covariant announces $75 million in backing for its artificial intelligence platform",
+      "excerpt": "California firm applies its technology to manual warehouse operations in piece-picking and case-picking areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/57121-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform",
+      "originalUrl": "https://www.dcvelocity.com/articles/57121-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-ai-in-computer-vision-market-expected-to-reach-457-billion-by-2028.md",
+      "title": "AI in Computer Vision Market Expected to Reach $45.7 Billion by 2028",
+      "excerpt": "By 2026, the demand for computer vision systems in developing applications, quality inspection and automation needs, and government measures to assist industrial automation and AI",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
       "title": "Students use machine learning in lesson designed to reveal issues, promise of AI",
       "excerpt": "In a new study, North Carolina State University researchers had 28 high school students create their own machine learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
@@ -856,117 +967,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-adlink-pocket-ai-portable-plug-and-play-gpu-accelerator.md",
-      "title": "ADLINK Pocket AI portable, plug and play GPU accelerator",
-      "excerpt": "ADLINK has this week introduced a new piece of hardware to its range which will be available to preorder later this month and takes the form of the Pocket AI, “the first ever ultra-portable GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/gpu-accelerator-04-04-2023/",
-      "originalUrl": "https://www.geeky-gadgets.com/gpu-accelerator-04-04-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-artificial-neural-networks-market-2023-size-and-forecast-to-2031.md",
-      "title": "Artificial Neural Networks Market 2023 Size and Forecast to 2031",
-      "excerpt": "Apr 03, 2023 (The Expresswire) -- Artificial Neural Networks Marketinformation for each competitor includes (Alyuda, Ward Systems, IBM, Qualcomm, Oracle, Neurala, Neuralware, Clarifai, Intel ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-size-and-forecast-to-2031-2023-04-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-size-and-forecast-to-2031-2023-04-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-artificial-intelligence-ethics-and-a-right-to-a-human-decision.md",
-      "title": "Artificial Intelligence, Ethics, and a Right to a Human Decision",
-      "excerpt": "John Tasioulas is the inaugural Director for the Institute for Ethics and AI, and Professor of Ethics and Legal Philosophy, Faculty of Philosophy, University of Oxford. Professor Tasioulas has degrees in Law and Philosophy from the University of Melbourne ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.princeton.edu/events/2023/artificial-intelligence-ethics-and-right-human-decision",
-      "originalUrl": "https://www.princeton.edu/events/2023/artificial-intelligence-ethics-and-right-human-decision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Princeton University",
-        "domain": "princeton.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
