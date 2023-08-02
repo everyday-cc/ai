@@ -10,7 +10,7 @@
       "originalUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-01-fighting-fake-news-research-offers-solutions-through-machine-learning-blockchain.md",
+      "title": "Fighting fake news: Research offers solutions through machine learning, blockchain",
+      "excerpt": "Time is of the essence as a deluge of updates spreads across the internet and social media feeds. Members of the public are eager to find information they can trust.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg",
+          "width": 1920,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp",
+      "publishedDateTime": "2023-07-31T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops.md",
       "title": "AIS Attains AI and Machine Learning on Microsoft Azure and DevOps",
       "excerpt": "AIS announces its attainment of AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations.",
@@ -54,7 +97,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 296,
+      "heat": 306,
       "tags": null,
       "images": [
         {
@@ -196,7 +239,7 @@
       "originalUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -291,7 +334,7 @@
       "originalUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1322,50 +1365,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-teradata-vantagecloud-lake-brings-exciting-aiml-use-cases-to-microsoft-azure.md",
-      "title": "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure",
-      "excerpt": "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

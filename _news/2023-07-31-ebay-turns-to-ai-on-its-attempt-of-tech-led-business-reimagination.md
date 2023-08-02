@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33475213"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33475213"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Benzinga.com
@@ -31,6 +31,15 @@ related:
     excerpt: "Native American mascot names are under a lot of scrutiny, hence the change of Cleveland's team name to the Guardians, and while the Braves have said they have no intent to change their name, they can easily keep it by changing their tomahawk logo into a fireman's axe. After all, firefighters are considered the bravest."
     publishedDateTime: 2023-07-31T21:59:00Z
     webUrl: "https://www.chron.com/opinions/article/ai-mlb-mascots-18270811.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
+  - title: "AI reimagined all 30 MLB mascots, and the results are interesting"
+    excerpt: "AI could've taken this in the direction of a more animated character to resemble hall of fame greats to suit up for the Braves over the past century. Could've developed Hammerin'"
+    publishedDateTime: 2023-08-01T21:19:00Z
+    webUrl: "https://www.chron.com/news/article/ai-mlb-mascots-18272903.php"
     type: article
     provider:
       name: Houston Chronicle

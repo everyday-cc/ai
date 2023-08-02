@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Amazon promo codes for August 2023"
+    excerpt: "Amazon Prime is Amazon’s subscription service which gives you access to loads of great benefits. Firstly, there’s free same-day, one-day, and two-day shipping. You can also enjoy services like ..."
+    publishedDateTime: 2023-08-01T04:43:00Z
+    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kYQT2Yb9WkTYgHGhpZqEeb-1200-80.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Pdk4BcQCZa8UxqB6chKFHM6ZKmNNDlHH3EcfE71MKBY3D9aH0NR2M1sqOPgdr8hdklxF3i2a6WhH9AUCSz9fbyZgvZM8WWNoxwWvpVFldHW/m6Bdx6/jWd0xO6vsy1uNylQqZ0QZhQWQxbEHFazLLl59n1YO/WZmB4ERgyGDgPDgSxf+fGC6Ru0CtgMZGG7Ve5co/vgoSv+Ws273FTYZkXo4ghUh1ThXzJAA2r+fKVwC4Q+uCBAJqAND2BlwLhOElfIxPH+UET6T5a5uz5beaBTp3Un7URf4aZsYN+6u37yop++XVmQn/UAppU5Y3C6tzvo8j0l/C2cIdbkuqD/ao8GT2NgsCaoEYCig8kbrnYg=;vRNZuGdRpEs0hTnQVMMdwg=="
 ---

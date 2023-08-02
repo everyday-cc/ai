@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 31
-  - title: "Boyd Innovation Will Cool Next-Generation AI Processors"
-    excerpt: "Boyd will cool next-gen AI with innovative liquid cooling technology that will reduce data center energy use, in collaboration with NVIDIA and others."
-    publishedDateTime: 2023-08-01T15:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230801975816/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "9W9vC6fcAnSiJ9UGBiniMGv0HXF63k/wIt5PmUDDuO3kvIF8lCmNtNrJBlDPxN/eugTQCjjv1FDbqcjSnaLBhAaBIa+Nb2LQCE++ODyFGyMdPx3/r1r/LhPNZSe32NEE8b7R3IR4md7BrMZGhLIUi8K6iRJYryQmQlGD1Sodo2dOQ5mn0qKlE6HW++ntVpEIDrSBhekFqvJBO52BGoiP6u41wHbbAUYmbCi2curcisLZkEkrXeFKAjWRlyR9zQculrJrY0knrfQd3+qNYsp04JgbSQJLvSEnHHYelwjB+9MVA0J0EDcHyEmelj3ixNv1FDpgGaGuyWfMo8a7sPezGZWnBlZf1IFbiSh1Q/yiiP6luS20j0sWa9tDs8EODnMnQgnDxyCs+9CJm7VO238uJK/i5+61tv2Yi1DiboQCALo/v39507l7Ip9lBFGN2m6dQ3YQSLpXc3017yRAGXjikccpz9v/1BT/3tRp/+XIO/f2XZLeskJR5Ggil15dq9/VUomcd+Q8z85UE2B09qVPYQ==;CS0qMgtsqV5N3hBiyTdGzg=="
 ---

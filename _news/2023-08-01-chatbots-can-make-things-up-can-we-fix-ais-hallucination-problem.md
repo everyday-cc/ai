@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/science/chatbots-can-make-things-up
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://i.insider.com/64c8ce00048ff200190ea0a7?width=1200&format=jpeg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain"
-    publishedDateTime: 2023-08-01T14:34:00Z
-    webUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-    ampWebUrl: "https://www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 48
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Experts discover workarounds to evade chatbot AI safety rules"
     excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."

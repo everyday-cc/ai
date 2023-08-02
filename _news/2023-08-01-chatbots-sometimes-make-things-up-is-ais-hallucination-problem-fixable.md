@@ -3,10 +3,10 @@ category: news
 title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
 excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
 publishedDateTime: 2023-08-01T16:16:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
-webUrl: "https://abcnews.go.com/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890988"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+webUrl: "https://abcnews.go.com/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890989"
 type: article
 quality: 58
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -54,6 +54,22 @@ related:
       - url: "http://images.wsj.net/im-823806?width=1280&height=720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
+    publishedDateTime: 2023-08-01T12:28:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Meta readies AI chatbots for artificial companionship—and user retention"
     excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
@@ -118,6 +134,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ETmouTZS5CeUQXvXaQCZpVHYbGrBC4kVU2L8DoCwsdm6U9TqWrHz+5wR7tRVdzjdtHd9pH52Xkv+buM4aBldleQRXzaz7TLs1++fzDHho6idUVEH2qxSUKPnADFPTNO2lwhFw79KmfYYm9CknvbyJlyQmJFoyV9ClcP3BfM7KcBhRB1dw+wb8+aokiATFph2hhJoZMGMZ7HajlIOwqjx/OaqrJvs6+h8mw/LwErcYZFKagep16/LUPnMchEmeMxJ+4AVTsDXvm248UfiH3/SFmQTcjYiC1Z1GNhf8eYTlhhqUpbUworquAm9gIcGOklE6FeMF7N02HbEI/7bJ+GF/pi8lrTiAck1WLRa1Z9TEEQ=;gqLGvQPvmA4sw8q3uvfKvA=="
+secured: "xqAp3yCe2ZgvqG0sUTkaavq34ot6ZCdYEgZJng0UiCl0FThkTEoAPvUW9Fia+vH2c0oLVCjteBbluVUpt186k0caatHoshoT+2r3EpzrtUV2NFkmBqOC8WfDprAku8J6ll8AmiISnyA/xzGai5mMQLG5aY6UsSXk0AwrqqjnWAO/Bqay+poNE/aJ/KKOCFLUZwqvSO8eIn8/JpNH3pDjaNY7+/lrrbPJ+tsKeiVF/jydMpnO+ifAL/8B2MxBRRYSFdbV52ucWokQAcqKsHsrEKYJ3Ofgjx2E6m3NeSAT0y0Fmp/gfaxUgo/YIq/zsslfINYkdZy05Q6U7H04bu5u3ltNqtVX3AS8c8F2rkVl+zw=;kGbe60ZjtPRxx9TPr7FIqw=="
 ---
 

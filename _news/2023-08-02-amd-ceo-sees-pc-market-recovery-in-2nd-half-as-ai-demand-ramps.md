@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/amd-sees-pc-market-recovery-coming-in-2
 webUrl: "https://venturebeat.com/ai/amd-sees-pc-market-recovery-coming-in-2nd-half-as-ai-demand-ramps/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -37,27 +37,11 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/11/lisa-su-2.jpg?w=1200&strip=all"
         width: 1200
         height: 697
-        isCached: true
-  - title: "AMD Q2 Beats Estimates As Server, PC Chip Demand Improves; Chipmaker Signals Strong Engagement Ahead Of AI Launch"
-    excerpt: "AMD shares have rallied over 80% year-to-date, outperforming the QQQ and the SOXX. The company noted strong demand for its EPYC server chips and Ryzen 7000 CPU processors in the second quarter. Advanced Micro Devices,"
-    publishedDateTime: 2023-08-01T20:54:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33506515/amd-q2-beats-estimates-as-server-pc-chip-demand-improves-chipmaker-signals-strong-engagement-ahead-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33506515"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33506515"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Freudenberg,,North,Rhine–westphalia_-_germany,-,22,05,2020:,An,Amd,Sign.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "PmjInu8s5qntNqgBYnWBqXpQ91/XncYSNl1F4yRT8+k5MpjOa+DFEtDkGetKh/DA1DatUpIQ7XcjuJSBp/vOxcwdiKcha77ljsS/ziV/0YpvuiaMXrp8YkkzcdjfmMedpdxVw1BmKdFIoXij41fYTCmWhsZMOiZlqfxpZlOloLstpJrDKUOoAfkGPb3PloFTR5a16dHd/3zH3vZHdy6w4ueLxRAylTuN5uRZej4uog5p3eh6lcrVwY1GvPvmHH/3Dril12y3d+7PN+DtOEV6pqpLs99I5OrNoOSEM7Mg0cnSy5k7rVnFM1S8pxztViS/jGu7SgPaBUmPlBZnxdbMqEW7rs/c6kh+rPlFFuTytCk=;blqtuE9Epr5Ys8RKVSB/0Q=="

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Will Never Replace Reporters at the NYT"
-    excerpt: "Cary Grant, Ralph Bellamy, and Rosalind Russel in His Girl Friday, Hoard Hawks, director, Columbia Pictures, 1940. Screenshot. Time: Spring 2024"
-    publishedDateTime: 2023-07-28T05:31:00Z
-    webUrl: "https://www.counterpunch.org/2023/07/28/why-ai-will-never-replace-reporters-at-the-nyt/"
+  - title: "The No Robot Bosses Act Aims to Regulate Workplace AI"
+    excerpt: "Like the “No Robot Bosses Act,” the text of the bill is not yet ... continue to consider methods of regulating employment-related automated systems and artificial intelligence more broadly. At the same time, federal regulators and private plaintiffs ..."
+    publishedDateTime: 2023-08-01T23:16:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-no-robot-bosses-act-aims-to-4374708/"
     type: article
     provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 39
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
     images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2023/07/word-image-290204-1.png"
-        width: 1429
-        height: 1053
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.11535_5738.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "p4qmKa9B3pMcSEmpmdeLDaYDoVtY5gRqWSx9eNYErSA/oYXAgw7Fnh0UzWwdsY2GAceEXbOsUIxGJgas80UKnTnbIvvSv1i6HyJJZio+RDPANWQMopahEnnISB9yMUENCSjmd46AoUvMTrW3otdPgoWpnDjDaW6mSrOp/0d/d5q0jitBTOiHlhIjVj6hDre600tpC31/CTvD6KAJbnKJkALheYx+K5kzmFyyDeTOU+8WISG/63AMphKAdTPjeAB6TH7TvIRSoWMx3F8SQlYcilyz7l3Ir+KfbmMDUwtzokBXh6Gx0MgfmVptb9CW2WqoJss1R+GpLOsRkl1v7kffsG3ag57vk1fSLve6z3qDNcI2e4gcmuBvmVNAgO2qnADJaFk6GHx3e9mZjlcusDu6kwC0TP2ys34T4/pNnF/sT3BGWlzf5hf2uUM2KgqLX94fbIiQe9MqyWSNVqQTxS6Eu+rewzYi/LYPpVytYXwhKlv9yjtJ76hXCJ9ldR/NbhhpdhN8S1Kd/PMdQ31dKbhmDg==;vqZTP/EDZBszvgFfnUZkyA=="

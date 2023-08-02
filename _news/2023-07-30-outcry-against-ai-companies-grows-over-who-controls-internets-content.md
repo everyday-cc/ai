@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/outcry-against-ai-companies-grows-ove
 webUrl: "https://www.wsj.com/articles/outcry-against-ai-companies-grows-over-who-controls-internets-content-91d604c9"
 type: article
 quality: 67
-heat: 72
-published: true
+heat: 67
+published: false
 
 provider:
   name: Wall Street Journal

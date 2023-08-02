@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI reimagined all 30 MLB mascots, and the results are interesting"
+    excerpt: "AI could've taken this in the direction of a more animated character to resemble hall of fame greats to suit up for the Braves over the past century. Could've developed Hammerin'"
+    publishedDateTime: 2023-08-01T21:19:00Z
+    webUrl: "https://www.chron.com/news/article/ai-mlb-mascots-18272903.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "pUsaDchyuVKN2XMyCDZhd1kG7c17hlvzmrB1Ge7iv3czPbzfxrqIqzdjK5tJJ5yx3XbBe3XM2K5i2PZ9mXxuOhYi2wRUkK4h/BccbS5dLBzIJFAPGdF13CQ1J4yS/ixAb/mJrBR6vDWm2tn+S01ljaX9b+mGb6uXdZX5VsiWcNAb+CNuBeXqNB3aFAp0n5GyWtYwSf4K3ASwzj0r1WJ/oA7DxGaXbF+TkDzYm2DBDI2Nxw7JQC4oTxRbP+8ct3AzIVfLEG9Q9V4glCgFGt7ISnCfL6teprslG1sd+T5t5a/rDquEr4UkqoIWInGvX8kF39/O7LdoFJKMjocKHbI6IPC4NCMDNtNlV826v5fx4QuPBhDgOq/B6kH/XfL3cUu7o0n7OwBtCU48til4oODTD21cjuPPQ2ORUUm/xz4j5A5LvMOvKZRiom83R4uJ5MFs8UyBTA1aRj452K13EJtzePY/SDyYM4pDfV5O+F5dce5+QVOXRiJ2XCwrLLzHhCGWOaCnIZmsBQhfQPPcdJj2dw==;gdd7s7xlK4Lp8FxUD5FJBg=="
 ---

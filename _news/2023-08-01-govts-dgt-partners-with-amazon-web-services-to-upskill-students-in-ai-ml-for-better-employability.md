@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/sme/span-data-rich-text-pl
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Skill Development Ministry partners with AWS India"
+    excerpt: "The Directorate General of Training under Ministry for Skill Development and Entrepreneurship (MSDE) is collaborating with Amazon Web Services India to upskill students in emerging technologies. The free online programmes in cloud computing,"
+    publishedDateTime: 2023-08-01T21:50:00Z
+    webUrl: "https://www.dailyexcelsior.com/skill-development-ministry-partners-with-aws-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 39
+    images:
+      - url: "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/08/SKILL-DEVELOPMENT.jpg"
+        width: 800
+        height: 458
+        isCached: true
   - title: "Skill Development Ministry Partners with AWS India to Upskill Students in AI, Data and Cloud"
     excerpt: "The Directorate General of Training under Ministry for Skill Development and Entrepreneurship (MSDE) is collaborating with Amazon Web Services India to upskill students in emerging technologies., Education News,"
     publishedDateTime: 2023-08-01T12:17:00Z

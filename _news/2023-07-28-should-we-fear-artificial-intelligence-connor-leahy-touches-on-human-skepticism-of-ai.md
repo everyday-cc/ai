@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6332012077112"
 webUrl: "https://www.foxnews.com/video/6332012077112"
 type: article
 quality: 74
-heat: 78
+heat: 74
 published: true
 
 provider:

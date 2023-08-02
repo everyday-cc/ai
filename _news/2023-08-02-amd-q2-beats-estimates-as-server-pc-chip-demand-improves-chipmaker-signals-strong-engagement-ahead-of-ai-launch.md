@@ -27,33 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "AMD CEO sees PC market recovery in 2nd half as AI demand ramps"
-    excerpt: "The big chip maker executed well in the second quarter, launching multiple leadership products, significantly expanding AI engagements and ramping the latest Zen 4 Epyc and Ryzen product families, Su said in a call with analysts. While the second quarter ..."
-    publishedDateTime: 2023-08-01T21:30:00Z
-    webUrl: "https://venturebeat.com/ai/amd-sees-pc-market-recovery-coming-in-2nd-half-as-ai-demand-ramps/"
+  - title: "Here's why this AI chipmaker continues to outflank the competition"
+    excerpt: "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat."
+    publishedDateTime: 2023-07-28T17:27:00Z
+    webUrl: "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/LISA-SU.jpg?w=1200&strip=all"
-        width: 1200
-        height: 579
-        isCached: true
-  - title: "AMD revenues fall 18% to $5.36B as PC market recovers and AI rises"
-    excerpt: "Advanced Micro Devices reported that revenue in its second quarter was $5.36 billion, down 18% from a year earlier as the client PC market continues to climb back during the economic downturn. But investors took the report as good news,"
-    publishedDateTime: 2023-08-01T21:11:00Z
-    webUrl: "https://venturebeat.com/games/amd-earnings/"
+      name: CNBC
+      domain: cnbc.com
+    quality: 64
+  - title: "China's AI chipmaker Cambricon rumored to see further layoffs"
+    excerpt: "Based on reports from and, insiders revealed that SingGo, an autonomous driving chip subsidiary under Chinese AI chipmaker Cambricon Technologies, has laid off nearly half of its software department employees and retained only a few hardware developers,"
+    publishedDateTime: 2023-07-31T06:51:00Z
+    webUrl: "https://www.digitimes.com/news/a20230731PD208/ai-cambricon-china.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/lisa-su-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 697
+      - url: "https://img.digitimes.com/newsshow/20230731pd208_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "qwO0pHYIVE2YLoCuS3MCyU7RnffwCnUDfhAcoL0Jf+Mj60YEKx11nLc4x1gjFytzrxVaQRbQKF6Ytg7kCjnlUt0+wOAfLAFGvqcvKsmcQtn2VDSfh9ieoxX5Q6RGf9eJKilZp8EHA7L1cAWEwZQn7qqKdsBpcFbyWR1tplFIiRFf6xi9taRbRPa6TM7szaegj5yPGsCNO76mK0DEkTPc0q+qQVChCWZvQ1te3eT1yVfolCjGtq4Zxx5irgxmUOerOG5g25rq4EOPsMO3j0Y1l2gbFyB0koWAPeIW4gkZsRoNQsyjqtOHb0iKhjA+36tG1s561HWhA7s0AWnmN+4mhMr4Ql48d8yxDQJGjFeZ5Kc=;qa7KA9qts3Wmkj2+iBfwHg=="

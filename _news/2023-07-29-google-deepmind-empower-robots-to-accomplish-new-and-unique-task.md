@@ -72,20 +72,20 @@ related:
         height: 798
         isCached: true
   - title: "Google DeepMind enables robots to perform novel tasks"
-    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic"
-    publishedDateTime: 2023-07-29T05:12:00Z
-    webUrl: "https://www.prokerala.com/news/articles/a1443308.html"
-    ampWebUrl: "https://www.prokerala.com/news/articles/a1443308.html?amp=1"
-    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1443308.html?amp=1"
+    excerpt: "according to Google DeepMind. A traditional robot can pick up a ball and stumble when picking up a cube. RT-2’s flexible approach enables a robot to train on picking up a ball and can figure out ..."
+    publishedDateTime: 2023-07-29T05:16:00Z
+    webUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks"
+    ampWebUrl: "https://glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/google-deepmind-enables-robots-to-perform-novel-tasks?amp=1"
     type: article
     provider:
-      name: Prokerala
-      domain: prokerala.com
+      name: glamsham.com
+      domain: glamsham.com
     quality: 59
     images:
-      - url: "https://www.prokerala.com/news/photos/imgs/1200/google-deepmind-enables-robots-to-perform-novel-tasks-1621209.jpg"
-        width: 1200
-        height: 735
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/Google-Deepmind.png"
+        width: 2000
+        height: 1225
         isCached: true
   - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
     excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."

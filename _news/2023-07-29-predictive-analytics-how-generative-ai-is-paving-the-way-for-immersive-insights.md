@@ -28,22 +28,54 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Art: Generative AI, Web3 And The Immersive Internet"
-    excerpt: "The generative AI, the metaverse and Web3 technology are set to revolutionize the art world, offering new opportunities for artists and collectors."
-    publishedDateTime: 2023-07-28T06:39:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/28/the-future-of-art-generative-ai-web3-and-the-immersive-internet/amp/"
+  - title: "Can Generative AI Save Journalism – Actions For B2B Marketers"
+    excerpt: "GenAI has an almost insatiable appetite for ingesting source data in striving for breadth of topics that it can address as well as the natural language of prompts and"
+    publishedDateTime: 2023-07-31T15:16:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c360def8a6665c5f03e3c1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7cf6e2d4a46f86369db65/0x0.png?format=png&width=1200"
+        width: 1050
+        height: 788
         isCached: true
+  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
+        width: 750
+        height: 501
+        isCached: true
+  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:14:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "The best AI video generators for creators and marketers"
+    excerpt: "The AI-based tools that YouTube creators are using now offer a glimpse into the AI video generators content marketers may adopt soon."
+    publishedDateTime: 2023-07-28T12:00:00Z
+    webUrl: "https://searchengineland.com/best-ai-video-generators-creators-marketers-429940"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 19
 
 secured: "2qg7eDkCGaFm02QN6XOgGF1XZPQ0+Mj5kt1LabQhT+YbxxtzM1cxMz56JX/SG9AWmz/SUfV2PZWFo/DZhUERbm6+dju+RXJeVljkxMvEFlmkNvZjqPkC4oWm3AsH99WaH2+txZzi2VQ7J9LFl5qCg7VJL4IbyunA9z4s/3xVJmH49iiXYi3MFy1VwZJdhIzMc+RTl+U8NCowzPxOMM0fBsQ3ELanMRXmZCy0vXbMvyeskeBeygDehBNq+xQ3wfWZmaE5QD1x91JUzqhpj1n8NA9Uka9EKJaRL/kCtby4n4Pkj5jvg6YaNrMZYK9b/yEF/T8gSVX7vbSNtRyawGoS1Kn2XT2FO3D1NaljllSXayeGZi4YbYE592+bviOvgEvhi560HytO6B5qhIkX7jsBOuuaAfp0Qx8iB3t8vzb7JCIF08zkpH5a3HS7fgn6+ZZixFohXNCU5Om9ej/TytKRX5uF/f9b+85FSb9eZ3FbMagRheTfdlYsnGPqkBiNX51nqabflucnAWufAbvlV2S5Fw==;U0d8By4z8IDMbhxc9IZgfQ=="
 ---

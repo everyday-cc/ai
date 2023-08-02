@@ -42,7 +42,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
         width: 800

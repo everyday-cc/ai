@@ -2,21 +2,73 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-02-amd-ceo-sees-pc-market-recovery-in-2nd-half-as-ai-demand-ramps.md",
-      "title": "AMD CEO sees PC market recovery in 2nd half as AI demand ramps",
-      "excerpt": "The big chip maker executed well in the second quarter, launching multiple leadership products, significantly expanding AI engagements and ramping the latest Zen 4 Epyc and Ryzen product families, Su said in a call with analysts. While the second quarter ...",
+      "path": "_news/2023-08-02-dall-e-3-could-take-ai-image-generation-to-the-next-level.md",
+      "title": "DALL-E 3 could take AI image generation to the next level",
+      "excerpt": "An anonymous leaker who claims to have been a part of an alpha test of Dall-E 3 for several months details features of the new version of the AI image generator.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amd-sees-pc-market-recovery-coming-in-2nd-half-as-ai-demand-ramps/",
-      "originalUrl": "https://venturebeat.com/ai/amd-sees-pc-market-recovery-coming-in-2nd-half-as-ai-demand-ramps/",
+      "webUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/",
+      "originalUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/LISA-SU.jpg?w=1200&strip=all",
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/DALL-E-2-Image-on-OpenAI.jpg?resize=1200%2C630&p=1",
           "width": 1200,
-          "height": 579,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp",
+      "publishedDateTime": "2023-08-01T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-amd-revenues-fall-18-to-536b-as-pc-market-recovers-and-ai-rises.md",
+      "title": "AMD revenues fall 18% to $5.36B as PC market recovers and AI rises",
+      "excerpt": "Advanced Micro Devices reported that revenue in its second quarter was $5.36 billion, down 18% from a year earlier as the client PC market continues to climb back during the economic downturn. But investors took the report as good news,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/amd-earnings/",
+      "originalUrl": "https://venturebeat.com/games/amd-earnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/lisa-su-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 697,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T14:30:00-07:00",
+      "publishedDateTime": "2023-08-01T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -50,7 +102,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -258,7 +311,7 @@
       "originalUrl": "https://www.zdnet.com/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -518,7 +571,7 @@
       "originalUrl": "https://www.pbs.org/newshour/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -792,7 +845,7 @@
       "originalUrl": "https://www.wired.com/story/ai-adversarial-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -999,7 +1052,7 @@
       "originalUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1052,7 +1105,7 @@
       "originalUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1163,57 +1216,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-the-worlds-newest-firefighter-is-artificial-intelligence.md",
-      "title": "The world's newest firefighter is artificial intelligence",
-      "excerpt": "With current wildfires in Greece, Italy and North America, and Australia on an El Niño alert that could signal dryer conditions perfect for another grim summer of blazes, the race is on to develop better early response technologies and even ways to accurately predict outbreaks.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/environment/newest-firefighter-artificial-intelligence/",
-      "originalUrl": "https://newatlas.com/environment/newest-firefighter-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/61cca5b/2147483647/strip/true/crop/4994x3329+239+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fef%2F2c%2F8a576a7f4eb89cc5c726b530acac%2Fdrone-shoot-oak-grove-butte-ripplebrook-or-dji-0732.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true",
-      "publishedDateTime": "2023-07-31T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

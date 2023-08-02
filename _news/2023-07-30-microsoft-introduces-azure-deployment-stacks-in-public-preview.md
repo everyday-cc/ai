@@ -143,6 +143,22 @@ related:
         width: 505
         height: 336
         isCached: true
+  - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
+    excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
+    publishedDateTime: 2023-08-01T21:16:00Z
+    webUrl: "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/"
+    ampWebUrl: "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 65
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280"
+        width: 974
+        height: 648
+        isCached: true
   - title: "Leidos and Microsoft partner for public sector AI transformation"
     excerpt: "Leidos and Microsoft have formed a strategic collaboration to expedite the implementation of artificial intelligence (AI) solutions for the public sector. The"
     publishedDateTime: 2023-07-31T16:06:00Z

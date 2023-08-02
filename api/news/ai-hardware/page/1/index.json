@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-02-amd-ceo-sees-pc-market-recovery-in-2nd-half-as-ai-demand-ramps.md",
-      "title": "AMD CEO sees PC market recovery in 2nd half as AI demand ramps",
-      "excerpt": "The big chip maker executed well in the second quarter, launching multiple leadership products, significantly expanding AI engagements and ramping the latest Zen 4 Epyc and Ryzen product families, Su said in a call with analysts. While the second quarter ...",
+      "path": "_news/2023-08-02-amd-revenues-fall-18-to-536b-as-pc-market-recovers-and-ai-rises.md",
+      "title": "AMD revenues fall 18% to $5.36B as PC market recovers and AI rises",
+      "excerpt": "Advanced Micro Devices reported that revenue in its second quarter was $5.36 billion, down 18% from a year earlier as the client PC market continues to climb back during the economic downturn. But investors took the report as good news,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amd-sees-pc-market-recovery-coming-in-2nd-half-as-ai-demand-ramps/",
-      "originalUrl": "https://venturebeat.com/ai/amd-sees-pc-market-recovery-coming-in-2nd-half-as-ai-demand-ramps/",
+      "webUrl": "https://venturebeat.com/games/amd-earnings/",
+      "originalUrl": "https://venturebeat.com/games/amd-earnings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/LISA-SU.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/lisa-su-2.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 579,
+          "height": 697,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T14:30:00-07:00",
+      "publishedDateTime": "2023-08-01T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -307,7 +308,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Warning over using face recognition to catch shoplifters"
+    excerpt: "The Home Office declined to comment on the use of face recognition to catch shoplifters ... Ministers plan to introduce a new crime and justice bill in the upcoming King's Speech - although planning for the legislation is still in its early stages."
+    publishedDateTime: 2023-08-01T21:50:00Z
+    webUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
+    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 91
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
     excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
     publishedDateTime: 2023-07-31T10:06:00Z

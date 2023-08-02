@@ -49,6 +49,20 @@ related:
         width: 750
         height: 501
         isCached: true
+  - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
+    excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
+    publishedDateTime: 2023-07-29T16:51:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/path-to-predictive-analytics-generative-ai-paving-way-immersive-data-insights/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_graph_with_colorful_lines_behind_it._Colorful_futuris_2f638b4b-7c38-4b18-ab88-137857cb6578.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
     excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
     publishedDateTime: 2023-07-31T19:14:00Z

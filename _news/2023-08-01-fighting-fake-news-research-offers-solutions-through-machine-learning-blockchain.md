@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-07-fake-news-solutions-machine-bloc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: techxplore
@@ -25,6 +25,17 @@ images:
     width: 1920
     height: 1439
     isCached: true
+
+related:
+  - title: "Machine learning, blockchain technology could help counter spread of fake news"
+    excerpt: "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,"
+    publishedDateTime: 2023-08-01T22:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230801172011.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 60
 
 secured: "x6GoE8d9jffBzpKriX5AzieGpRV4FUtWQ2aInCd/Rv53r8FEsSEiuYu2WkEfgik+Eas3eMhm3C/GX1lndQpdYcKURTL6Pyl8XWFaG/G2iBFyX/cE7JlcdN0n1N1uUblWbY+i1Zj6ZPQHN14lM6Y5yzBs0lS+nS/AlkdGvCI3LL3zjXv3RrXf6VPY0QITi8erUbtfDnAy9WRh2JJAf+PJLfhNvlMYp1GTu+RWZB8GIYB0guoVDv/75MQeEMlqjgeQH82KwkloderDQTIw42j0SI6pEhO7I/VXcBau0bw+q5jZlFX0+7xekuMlgXo2ZyAPrXttXv44KZGE+FX77kdmEeE+rkFRa07wa3ts4myFHL83edeN+1dhr/hgl60WDu8qVyiV+b9Qn6moFU/qzxy1dYfPSByYTDwkq7tzqO5X3tUktCfE8WE+RZrPulUv95WwHWw5y8lvv/f1y+3o3UEkW7CGissnuZ4IOAlZOnU7Bca2cl8HWrHeAQNJUNv7New22RpkENKT1tfyIAqNU7Af7g==;dUWWWQwvbNHWVxJyYE7ORg=="
 ---

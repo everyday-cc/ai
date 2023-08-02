@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition system implemented at Incheon Airport"
-    excerpt: "Incheon Airport said it has begun utilizing preregistered facial information to streamline the departure process for passengers from Friday. Dubbed the \"facial recognition smart pass service,\" the newly launched service will allow passengers to quickly pass through the identification process at departure and boarding gates without having to show their passports and boarding passes to security personnel."
-    publishedDateTime: 2023-07-28T05:09:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230728000502&np=1&mp=1"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230728000502"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230728000502"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 74
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F07%2F28%2F20230728000521_0.jpg"
-        width: 630
-        height: 451
-        isCached: true
   - title: "Incheon airport introduces Smartpass facial recognition system"
     excerpt: "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,"
     publishedDateTime: 2023-07-30T23:25:00Z
@@ -51,22 +35,6 @@ related:
         width: 980
         height: 556
         isCached: true
-  - title: "Wanted pervert snared at the King’s Coronation after being spotted by facial recognition cameras"
-    excerpt: "POLICE are being urged to use Big Brother-style facial recognition cameras after one snared a wanted pervert at the King’s Coronation. Policing minister Chris Philp has held meetings with Home"
-    publishedDateTime: 2023-07-30T22:55:00Z
-    webUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/"
-    ampWebUrl: "https://www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/23253475/push-for-face-recognition-cameras-caught-pervert/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 46
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/07/NEW_AFP_1JK7RZjpg-JS513962209-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "South Korea’s Incheon Airport implements facial recognition system for both Koreans and foreigners"
     excerpt: "In order to use the new service, a passenger must either download the ICN Smartpass application on their phones from Apple’s App Store or the Google Play store, or use the self check-in kiosk machines at the airport to register their facial information into the smart pass service."
     publishedDateTime: 2023-07-28T09:58:00Z
@@ -80,6 +48,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/28/yuincheonairport2807.jpg"
         width: 860
         height: 573
+        isCached: true
+  - title: "Japanese construction company Obayashi introduces state-of-the-art facial recognition at Expo 2025 construction site"
+    excerpt: "Japanese construction company Obayashi Corporation has introduced a facial recognition system based on Panasonic Connect's world-clas"
+    publishedDateTime: 2023-07-30T07:31:00Z
+    webUrl: "https://baoxaydung.com.vn/japanese-construction-company-obayashi-introduces-state-of-the-art-facial-recognition-at-expo-2025-construction-site-358171.html"
+    type: article
+    provider:
+      name: baoxaydung
+      domain: baoxaydung.com.vn
+    quality: 16
+    images:
+      - url: "https://baoxaydung.com.vn/stores/news_dataimages/2023/072023/30/14/in_social/image00120230730143033.jpg?randTime=1690704337"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "us0vlzu1k62CJgIVwobeGiGKcb+Pr0do0+EZNezeBaTi39R7ULIa5MfTvyqXhs3JdpukWGLXeQSIIpL/fUd4dj2XBpsnz6Lonx3VMw8kCeKoRZ72fbblSU2A6K4S4Dc9gGWEXeG1+FMBDRaBcl7WZlfZWLlQXi8b7R2A8YEi9qLUsPJMVvTgY5wNRTPZRP0MPOHZRRbyy4SpG64aDvz+IrTbdrRPVrTFf39TLqioWcVv21gwyQyUfYMfBMmK5r4eBkzas/+9dTIsEsNMk3lACMv9WE1Al7aSyKHYxyB5tR95x4VQ9DEvA++rQnFYobRUiBcIDqwcphs9zklwsE5n+3E7v/nX39qSF7+inJhi+ymwfcISRdR+nBUl24huTO2WYEHGKZCzkTa2IV7Lm774W63dJO1wnu9zU9PIzdLY+xQZRbjqBTx5/52XZq+wHPkJ3w7cXy/IqqSILShCA6HuHzwb77Acx4Q8Zq84EuB1THt1tIuuRdpPElSGOr6l8yrvcHOFh0F4XzYFEaY+knN0zg==;GSfR0oQNfUToQpLUID1nvQ=="

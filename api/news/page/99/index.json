@@ -2,6 +2,196 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-05-30-high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus.md",
+      "title": "High-quality human feedback for your generative AI applications from Amazon SageMaker Ground Truth Plus",
+      "excerpt": "Amazon SageMaker Ground Truth Plus helps you prepare high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements, and Ground Truth Plus",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/ML-14314-image005-1063x630.png",
+          "width": 1063,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T09:13:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-sap-wants-to-future-proof-businesses-with-ai.md",
+      "title": "SAP Wants To Future-Proof Businesses With AI",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead examines how SAP says it wants to help customers transform business models in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647617a83cda87b81f945378/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
+      "publishedDateTime": "2023-05-30T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis.md",
+      "title": "Ankylosing spondylitis: Machine learning could pave the way for early diagnosis of inflammatory arthritis",
+      "excerpt": "Ankylosing spondylitis (AS) is the second most common type of inflammatory arthritis, often affecting teenagers and young adults. Symptoms of AS can include back pain, stiffness, joint inflammation (arthritis),",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ankylosing-spondylitis.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp",
+      "publishedDateTime": "2023-05-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-patrick-mahomes-i-think-were-deep-at-receiver.md",
+      "title": "Patrick Mahomes: I think we’re deep at receiver",
+      "excerpt": "The Chiefs lost two of their key receivers from 2022 to the AFC East, as JuJu Smith-Schuster signed with the Patriots and Mecole Hardman signed with the Jets in free agency. But the group that ...",
+      "sourceUrl": null,
+      "webUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/",
+      "originalUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/05/GettyImages-1257802297-e1685454590347.jpg",
+          "width": 870,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/amp/",
+      "cdnAmpWebUrl": "https://profootballtalk-nbcsports-com.cdn.ampproject.org/c/s/profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/amp/",
+      "publishedDateTime": "2023-05-30T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Sports",
+        "domain": "nbcsports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more.md",
       "title": "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More",
       "excerpt": "Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. Gartner IT +1.5% expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers. Ultimately, all the investment in generative AI technology must result in applications that people pay money to use.",
@@ -972,205 +1162,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal.md",
-      "title": "Sequoia China-Backed AI Startup Xtalpi To Partner With Pharma Giant Eli Lilly In $250 Million Novel Drug Deal",
-      "excerpt": "Xtalpi declined to comment on the report. Last year, AI-powered biotech startup Insilico Medicine, based across the border in Hong Kong, raised $60 million in Series D funding from investors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/",
-      "originalUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6475df6af28e84d39d7b69dd/0x0.jpg?format=jpg&crop=3500,1970,x0,y76,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/amp/",
-      "publishedDateTime": "2023-05-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai.md",
-      "title": "SOXQ ETF: Front-Row Exposure to Semiconductor Stocks and AI",
-      "excerpt": "On the other hand, I also wouldn’t want to not have exposure to these names, as AI is clearly here to stay and is just getting started on disrupting many industries. Thus, my strategy (not financial advice) with an ETF like this would be to start a ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-798-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets.md",
-      "title": "MediaTek taps Nvidia GPU and AI for connected car chipsets",
-      "excerpt": "Today at Computex, MediaTek and Nvidia announced a partnership to develop a unique platform for AI-powered connected cars.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
-      "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA-e1685375149906.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-should-the-government-be-allowed-to-use-facial-recognition.md",
-      "title": "Should the government be allowed to use facial recognition?",
-      "excerpt": "While security implementations of facial-recognition software continue, the technology has reportedly found uses in more nefarious settings. A report in The Washington Post found that dozens of ...",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition",
-      "originalUrl": "https://theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1685134084/FaceRecGov.jpg",
-          "width": 814,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition?amp",
-      "publishedDateTime": "2023-05-29T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

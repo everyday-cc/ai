@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-31-why-we-need-to-pause-ai-research-and-consider-the-real-dangers.md",
+      "title": "Why we need to pause AI research and consider the real dangers",
+      "excerpt": "Google’s DeepMind says its mission is to “solve intelligence” and from there use the enhanced intelligence to solve all our other problems — global poverty, climate change, cancer, you name it. I find this vision compelling, and I still believe AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/",
+      "originalUrl": "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000009022875.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/amp/",
+      "publishedDateTime": "2023-03-31T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-why-the-ai-industry-could-stand-to-slow-down-a-little.md",
       "title": "Why the AI industry could stand to slow down a little",
       "excerpt": "At the same time, tech platforms are cutting members of their AI ethics teams. A large language model created by Meta leaked and was posted to 4chan, and soon someone figured out how to get it running on a laptop. Elsewhere, OpenAI released plug-ins for ...",

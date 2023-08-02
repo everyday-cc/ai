@@ -8,7 +8,7 @@ webUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting
 ampWebUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
@@ -169,6 +170,6 @@ related:
       domain: thestreet.com
     quality: 14
 
-secured: "3v3+4uSN+h5Iz06rIubMqeahjbMD3SLi+jc6DBofHoUVJ4lyPH3Vy12BQvSQkCCJi8VCmwQ5cstuJctXr3ACCxVbl4JFuxK2pgTPvEFPbsG6XF2cxamoN1PxbVeG+tCimaALiiURVPafT1wYuxorXCryHrKH4BdlOqnVc9FR92G2Au5xoZdHJw1o5iWuoNarKsGHw1BCwkaZsTnp5w4MMnonbvRzUs4seXPIzf9ahnP1dsmE2pYfkgoT669y6KumzvIy2GgFHK8PgjUbZkiumEtGX6g7ur837j+18jTI3C68Ot7aBCChkhDmXCVG5tn/L1REd0iQnAwxFJD452tU/eBfWeyRU+bcNxFl9JZviZY=;iDUQ5w3v5kxXHq/6zOGsUw=="
+secured: "K0DxkwQR/Wwv1FSUboSE0e+NPM2eSO/XK82rBnhsoRjd7JSVtoV9NZAnBs+/COidEy+1BnBoPWeywXhUeRq3HxrTwg0Ol7SgNPHeLXbIKvTuChh1HeY/5VAte04Tc9l91It7n4CQKVhehbrf0UNPhAk3ySSWk7+IE1pdC16TfisK0z7priNtQlLzJIzQZgv9NipC9NW6EiGwkrXpBSY77RetGBD8hC3Mp6Xkw7aVKCE1M7Ped2LwdKAOahH9Q9LTXn1+xvs9qIr6kBXBdUIOHq3zgx9cl6+mn+V81nx84a7QZq0nGAQBL2HvzL9OdTMwwEwSKVT7oANaZlZvrMn8P/KyG0chf6LCf0PrwNEnjFNO8/t42HIVl9yzWnUd0OVM53SsnFL+a7WH7aE0gIXPmgwfhof2NFAYOCrVlDbMj0YMK69kuhJk5pFSJRg/823QuR8LMAJ53LTHz2J7LhUc5XyecVilTROPySbvn+wOcUrBmg7Uo3MtlQyItvLICi9/e1w/BX13TA+C+uUs+xGMTg==;AzVaOb+chrOsp/XD3lDplw=="
 ---
 

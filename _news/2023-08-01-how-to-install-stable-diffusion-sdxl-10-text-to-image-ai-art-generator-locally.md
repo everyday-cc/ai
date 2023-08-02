@@ -19,6 +19,52 @@ topics:
   - AI
 
 related:
+  - title: "DALL-E 3 could take AI image generation to the next level"
+    excerpt: "An anonymous leaker who claims to have been a part of an alpha test of Dall-E 3 for several months details features of the new version of the AI image generator."
+    publishedDateTime: 2023-08-01T23:55:00Z
+    webUrl: "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/10/DALL-E-2-Image-on-OpenAI.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How generative AI code assistants could revolutionize developer experience"
+    excerpt: "Why tech leaders must evolve development teams to embrace generative AI code assistants and plan for the next-gen engineering experience."
+    publishedDateTime: 2023-07-29T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-code-assistants-could-revolutionize-developer-experience/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_generative_ai_code_assistant_in_an_office._Colorful_fut_95302330-7b15-4a98-8996-0edaa54cd27d.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "OpenAI just admitted it can't identify AI-generated text. That's bad for the internet and it could be really bad for AI models."
+    excerpt: "OpenAI launched a system for identifying AI-generated text. This month, the company scrapped it."
+    publishedDateTime: 2023-07-28T09:00:00Z
+    webUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cant-identify-ai-generated-text-bad-for-internet-models-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/64c30ccecf0778001965f5a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Stability AI launches SDXL 1.0 text-to-image generation models"
     excerpt: "Stability AI has announced the launch of its next-generation SDXL 1.0 text-to-image generation model. Making it available for anyone"
     publishedDateTime: 2023-08-01T05:55:00Z
@@ -33,20 +79,15 @@ related:
         width: 700
         height: 446
         isCached: true
-  - title: "Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0"
-    excerpt: "AI startup Stability AI continues to refine its generative AI models in the face of increasing competition — and"
-    publishedDateTime: 2023-07-28T05:57:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/290781/Stability-AI-releases-its-latest-image-generating-model,-Stable-Diffusion-XL-1.0"
+  - title: "Boyd Innovation Will Cool Next-Generation AI Processors"
+    excerpt: "Boyd will cool next-gen AI with innovative liquid cooling technology that will reduce data center energy use, in collaboration with NVIDIA and others."
+    publishedDateTime: 2023-08-01T15:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230801975816/en/"
     type: article
     provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 32
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-27-161814003.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "VqYuzdGrI+Q6Olcxt2mFNjjUN8/K2NW0GoKRTQ15X0r5wOGPSZP/DwRnMIFq65JGju5/spANTahbNIMIglCDkFt4NGURSvfB7a106IA2wuXXrWIprxycZ6ITOYPY+q2QEnBoc2vCMl7HTC5sv9hhsn02d+n4zk3Ws5MMerd64hNCVr/4BzhVR/Rtk1r4B17PBKR/dwpFt1puDrhDn1bM5Sgnki87J6ttPMpFIZ7hlUwMilLcKyY54lqqiyXN2t8qW00fgphTOjnithJi3tmREzLf4x5WUXK7qAbIpL6CggBNGAe4/b6gje4iCQPo2K3DBl4sLMd05Vmpc7encJGMglG3MOQB0l5cDcKzxExx7OE=;Paf7liKEucXVj5pzIO5GWw=="
 ---

@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence in the Global Fintech Market 2023-2028: Growing Demand for AI-Based Banking Software Propels Solutions Segment - ResearchAndMarkets.com"
+    excerpt: "The global AI in fintech market is projected to achieve an estimated value of $4.1 billion by 2028, showcasing an impressive Compound Annual Growth Rate (CAGR) of 23.6% from 2023 to 2028."
+    publishedDateTime: 2023-07-28T16:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230728052216/en/Artificial-Intelligence-in-the-Global-Fintech-Market-2023-2028-Growing-Demand-for-AI-Based-Banking-Software-Propels-Solutions-Segment---ResearchAndMarkets.com/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
   - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
     excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
     publishedDateTime: 2023-08-01T12:00:00Z

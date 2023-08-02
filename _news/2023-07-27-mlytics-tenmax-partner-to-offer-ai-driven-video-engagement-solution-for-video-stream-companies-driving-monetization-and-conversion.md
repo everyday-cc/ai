@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2163790/Mlytics___TenMax_Partner_Offer_AI_driven_Video_Engagement_Solution_Video.jpg"

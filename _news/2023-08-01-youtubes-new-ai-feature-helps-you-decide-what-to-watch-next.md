@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/youtube-rolls-out-ai-featur
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/"
 type: article
 quality: 87
-heat: 117
+heat: 120
 published: true
 
 provider:
