@@ -49,20 +49,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-28T09:58:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/croissant-fintech-platform-launches-24m-change-future-commerce"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 20
-    images:
-      - url: "https://financialit.net/sites/default/files/croissant.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Global Fintech Funding Declines to $52.4B, with Some Positive Ecosystem Developments, Report Reveals"
     excerpt: "The first six months of 2023 were difficult for the fintech market globally, \"with both total funding and the number of deals dropping,\" report reveals."
     publishedDateTime: 2023-07-31T17:29:00Z

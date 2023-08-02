@@ -257,19 +257,19 @@ related:
         width: 1920
         height: 1024
         isCached: true
-  - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
-    excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
-    publishedDateTime: 2023-07-28T09:25:00Z
-    webUrl: "https://za.investing.com/news/5-big-earnings-hits-meta-delights-microsoft-warns-in-huge-week-for-tech-ai-2824014"
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "Multi year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory. KPMG and Microsoft have announced a significant expansion"
+    publishedDateTime: 2023-08-02T03:40:00Z
+    webUrl: "https://www.ryt9.com/en/prg/269956"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 51
+      name: RYT9
+      domain: ryt9.com
+    quality: 42
     images:
-      - url: "https://d1-invdn-com.investing.com/content/c74d600952f59cc9004ec48c4e5994d2.jpeg"
-        width: 650
-        height: 397
+      - url: "https://www.ryt9.com/img/files/20230802/iq74a13ffbb6c207e21ae73387e92a8266.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
     excerpt: "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ..."

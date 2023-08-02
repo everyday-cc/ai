@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 secured: "AIVS7JozDJHuHmTH18fCv5UP4+98Uuj/bXwD61lZc+Nzm5I175F46nEmahRH39VXYdOuuIH+OfDmrL1ZiddC32vQJPg+aFQ+a82tTEquwMRyBXg8giF5tkMcqbEImP3TUT9NqqCcyIjYVmzaNXUh17KWgAmWpr2+xNTD4k8GyOLLyRLaIPKa6I5w/Iqzb8pQyywuTdvYfS1sH3dkpU+khWjRhoVCJF80mXimTZh4zfFeYYpBY5pbLRMMxrO1mf84n/7lGm9kZYjpWbDFGr0BAH2teBAFfFDI1H5I4ND0pNrP1zULZ/b7WvOzDbjK80rHyAeJgbOsjgJXlU7rWf1moRZ0rotMCDMFdBoGpEQk1Xvniuq2DyRcVJqpFpl/t9I/DcYgkHKFM2vsF22hmQkNCOTCS2EieoHv7HyFFGHDZMT9lpIX9TrMIxFKQSqkKkYwlxLsMorEE4sVLnltdPoyt1xXTWUVhGIumJnLOcMxYc10Nwurney69H1GkSCdUCz6n0j/8gqyBZEOj5aWNU1TkQ==;voknbnRXIDSudtd0iekGfA=="
 ---

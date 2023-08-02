@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "South Korea’s Incheon Airport implements facial recognition system for both Koreans and foreigners"
-    excerpt: "In order to use the new service, a passenger must either download the ICN Smartpass application on their phones from Apple’s App Store or the Google Play store, or use the self check-in kiosk machines at the airport to register their facial information into the smart pass service."
-    publishedDateTime: 2023-07-28T09:58:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/south-korea-s-incheon-airport-implements-facial-recognition-system-for-both-koreans-and-foreigners"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 40
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/28/yuincheonairport2807.jpg"
-        width: 860
-        height: 573
-        isCached: true
   - title: "S. Korea’s Incheon Airport implements facial recognition system for travellers"
     excerpt: "Incheon Airport said it has begun using pre-registered facial information to streamline the departure process for passengers from Friday (July 28)."
     publishedDateTime: 2023-07-28T12:19:00Z

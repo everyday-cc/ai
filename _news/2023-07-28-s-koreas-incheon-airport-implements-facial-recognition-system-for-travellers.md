@@ -35,20 +35,6 @@ related:
         width: 980
         height: 556
         isCached: true
-  - title: "South Korea’s Incheon Airport implements facial recognition system for both Koreans and foreigners"
-    excerpt: "In order to use the new service, a passenger must either download the ICN Smartpass application on their phones from Apple’s App Store or the Google Play store, or use the self check-in kiosk machines at the airport to register their facial information into the smart pass service."
-    publishedDateTime: 2023-07-28T09:58:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/south-korea-s-incheon-airport-implements-facial-recognition-system-for-both-koreans-and-foreigners"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 40
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/28/yuincheonairport2807.jpg"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Japanese construction company Obayashi introduces state-of-the-art facial recognition at Expo 2025 construction site"
     excerpt: "Japanese construction company Obayashi Corporation has introduced a facial recognition system based on Panasonic Connect's world-clas"
     publishedDateTime: 2023-07-30T07:31:00Z

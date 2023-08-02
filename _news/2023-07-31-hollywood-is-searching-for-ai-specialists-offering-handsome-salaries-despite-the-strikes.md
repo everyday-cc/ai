@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
     excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
-    publishedDateTime: 2023-07-30T17:00:00Z
-    webUrl: "https://www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
-    ampWebUrl: "https://www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
-    cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    publishedDateTime: 2023-07-31T15:32:00Z
+    webUrl: "https://www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
+    ampWebUrl: "https://www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
+    cdnAmpWebUrl: "https://www-my9nj-com.cdn.ampproject.org/c/s/www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
     type: article
     provider:
-      name: Fox 5
-      domain: fox5dc.com
+      name: WWOR
+      domain: my9nj.com
     quality: 59
     images:
-      - url: "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.my9nj.com/www.my9nj.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true
@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hollywood writers fear losing work to AI"
-    excerpt: "Hollywood screenwriter Michelle Amor says she is fearful about the impact of artificial intelligence (AI) on her livelihood. \"I don't want to be replaced with something artificial\". Ms Amor and fellow US television and film writers have now been on strike since the start of May."
-    publishedDateTime: 2023-07-28T10:24:00Z
-    webUrl: "https://www.aol.com/hollywood-writers-fear-losing-ai-060158690.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/220e194b0e83ce7d49b042d013fcf2ab"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Studios Seek AI Specialists as Tech’s Role Debated Amid Strikes"
     excerpt: "Major studios are seeking AI specialists as striking writers and actors express concern over the technology's rising role in"
     publishedDateTime: 2023-07-28T23:00:00Z
@@ -100,20 +86,6 @@ related:
       - url: "https://movieguide.b-cdn.net/wp-content/uploads/2022/11/0vgg7cqtwco.jpg"
         width: 1600
         height: 1067
-        isCached: true
-  - title: "AI news recap: While Hollywood strikes, is ChatGPT getting worse?"
-    excerpt: "There is anger over a Netflix AI job paying up to $900,000, coming as actors are still striking over the use of AI in film and TV.  In other AI news, problems with training data can cause glitches or"
-    publishedDateTime: 2023-07-28T09:05:00Z
-    webUrl: "https://www.newscientist.com/article/2384188-ai-news-recap-while-hollywood-strikes-is-chatgpt-getting-worse/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/26162553/SEI_165496948.jpg"
-        width: 1350
-        height: 901
         isCached: true
 
 secured: "RfMq5vWJCfh68uQAR+fPME5WL0pUdUBM1PbJcZHtgYDjyXZcsKedwLir7+2jMsxS/R9WVSM8qrP5BlfF2IJpiZOB8cCmNcMKhj++ZnHy93rDJGE9vFi1vRq1cHCPD65uzRoSKe0dsis/AkdJ568U+KNBst/ksVQKXNojpWXCQr+DsSYDf+Wz8kqBlKvHbdRPjHrOmr1q2H1CmTwSqqGn2/nlD/8Pk50FVfsAuAoi3IBVy4Sclpnovrfk8W8jThxwiT7bYOaYSpFjzc30Fq8Uk5nOMn8CRIDFtuO4wloILNASjRHaFJkPsJV9DoAKCfBY1i0Qn9lX88BNC2xienNFLQFr/zMi+5AzTeOqf0Fp/o30XBM243i3xFslC4hSsNaIOy+OWIxKO8kJwFUav51vXAy7hDMIv/4PXUOlB5tYJu1i+t99VPezQsziW2R7CBOaKC3QvoTxtT5rKJtoxAIKZlktETWRartwJSsKbsAPtma5l1quXBxcm6/XKMtyyj9u0WAWAAHaQWBlSG33CQztTg==;k8/YSmONi60+iafVYmxQ+Q=="

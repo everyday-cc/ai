@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -92,17 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our species disdain it."
-    publishedDateTime: 2023-07-28T10:05:00Z
-    webUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/"
-    ampWebUrl: "https://www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
-    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2023/07/28/opinion/artificial-intelligence-loves-america/amp/"
-    type: article
-    provider:
-      name: Hawaii Tribune-Herald
-      domain: hawaiitribune-herald.com
-    quality: 39
   - title: "Artificial intelligence loves America"
     excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-29T05:29:00Z

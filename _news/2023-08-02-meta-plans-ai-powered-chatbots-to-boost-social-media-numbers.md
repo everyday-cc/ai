@@ -8,8 +8,8 @@ webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-
 ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
 type: article
-quality: 87
-heat: 307
+quality: 89
+heat: 319
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/facebook_bot_hero_3-800x450.jpg"
@@ -122,22 +123,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI's hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-    publishedDateTime: 2023-08-01T12:28:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Meta readies AI chatbots for artificial companionship—and user retention"
     excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
     publishedDateTime: 2023-08-01T19:10:00Z
@@ -184,6 +169,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI's hallucination problem: Chatbots tend to make things up"
+    excerpt: "Described as hallucination, confabulation or just plain making things up, it’s now a problem for every business, organization and high school student trying to get a “generative AI” system to compose documents and get work done."
+    publishedDateTime: 2023-08-02T02:22:00Z
+    webUrl: "https://www.fox5ny.com/news/ais-hallucination-problem-chatbots-tend-to-make-things-up"
+    ampWebUrl: "https://www.fox5ny.com/news/ais-hallucination-problem-chatbots-tend-to-make-things-up.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/ais-hallucination-problem-chatbots-tend-to-make-things-up.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
   - title: "Experts discover workarounds to evade chatbot AI safety rules"
     excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
     publishedDateTime: 2023-07-30T03:56:00Z
@@ -225,17 +221,31 @@ related:
         isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
-    publishedDateTime: 2023-08-01T17:36:00Z
-    webUrl: "https://www.columbian.com/news/2023/aug/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    publishedDateTime: 2023-08-01T15:55:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 28
+    images:
+      - url: "https://www.baltimoresun.com/resizer/BtfcsvUS69ehIVbbDiT8NKv8w_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEHE5CRKO5GB4BZQPXUBL2Y4RE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-02T02:00:00Z
+    webUrl: "https://www.sent-trib.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    type: article
+    provider:
+      name: Sentinel-Tribune
+      domain: sent-trib.com
     quality: 26
     images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/08/Artificial_Intelligence_Hallucination_06679-e3523.jpg"
-        width: 900
-        height: 600
+      - url: "https://www.sent-trib.com/wp-content/uploads/2023/08/131708624_web1_131708624-782391250f5244beb50da79c07cda4df.jpg"
+        width: 1068
+        height: 712
         isCached: true
   - title: "Therapy For You Unveils Limbic: An AI-Powered Chatbot Revolutionizing Access to Talking Therapies"
     excerpt: "Therapy For You, the esteemed NHS Talking Therapies service catering to patients in North East and South East Essex, has recently introduced Limbic to their"
@@ -306,6 +316,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "g5Bwb+RvM4qpQ7MwZnuklIbTqQNx/+UVBpbe5D+BSSc0CZzK9CkQQHZN8GHUyUDIcUV2gYRLcQGeDDV3oKuPpNSsdRyaVQe4zfwjZSbHOwpu2bZcHA/5QPXqF5IurHMYnwCBKuVcIcoOGWzr5WquFAdAhd4kodTXzhcJr3DhyzXRTz1EP4wrqbXBb9ZTIC9zo2h9gWmG7WIZFeTDgIiS4fDy8j6JsdoFptKdJ+pD9L/e118nkLUq0uAIo34DPyubdgtFpxPjhjc5TW5xndE7mTYmHpuSi8rpZoqd0W+k/P2rsRxFpOsbAu9lM2j9a4fFYlHun6ic5XYluMSNPCB8rPSu8ENa8G79cXN0EzxCV58=;Fa110fCE+DvyGbh+/sun4Q=="
+secured: "08MIo4iW6YOVQqFMVczH6aTpVQww3Z/tB+VfoCOZo6icrfopz+6F25fL/GG+PDvKX95QMKEQuUZ2fDDOMqe4aaON2/vcX1Elzs7++cIFkSU2+M24i74V3G6kKs7Ml3mTsVn/18veN3KzwZEcJcITevsjEHhnyL1ShlThsIBviS4b0fXVMkJ2daRbhs16RuI+tl4PEM3YmEemoHvXbkF/+39rbpU+piD8TFrls6GtBJvcufEZTvemEgbvh/sSAJoGLThVWg6bUKYCmmTQQ3o/pXNONl8mWFEnViNcSNFqope/cYSovVnOMLqXnWv/MM0kxP3tdOJeqWfzVWkP+d0zAAE+CGA+fkI59W+FLQ9VaWZ5tYCrUFvXVE+zlOlYyEM5qzaB0/ToApYOnpOKTiVwOcobTW3dM4lvgOrOOeanapzo4xiGz8L9kLeFQ//SXEZLX5tOgCnbwJAY0RqMQsZtIXPanrhRqcgl4BY0cnuXXW9xBTaUreHSogYHRBS8fhL5pgCFZX5r6VsJ4hH+KXH4cw==;lCA9Ok7IWIzseAFwBYjfiQ=="
 ---
 

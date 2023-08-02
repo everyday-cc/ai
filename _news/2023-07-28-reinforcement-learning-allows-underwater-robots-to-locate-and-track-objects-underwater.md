@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technique Can Efficiently Learn To Control a Robot"
-    excerpt: "Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where conditions can change rapidly."
-    publishedDateTime: 2023-07-28T09:30:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917"
+  - title: "A Machine Learning–Based Analysis of Alleged Marketing Misrepresentations"
+    excerpt: "The most robust analyses of this content are systematic and objective. One state-of-the-art approach that satisfies these criteria leverages machine learning models and exemplars, which represent the type of at-issue content. To illustrate the value of ..."
+    publishedDateTime: 2023-07-28T22:03:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/a-machine-learning-based-analysis-of-2053534/"
     type: article
     provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 56
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 55
     images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/376917/machine-learning-technique-can-efficiently-learn-to-control-a-robot-376917-640x360.jpg?cb=20230728"
-        width: 640
-        height: 360
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16270_1115.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "sbALGpEupi6eTESOj0eWHC08iG0SqVvi4BQMz4+gBUaoolmL958oKgJKdz2uQJUgg7bvIWlW83dfLvTHM3SPAM/+Fy2SIDT+faSRpgNmacpOGVQm5HZGuvAyS9dEXFpj51jU1Dl4pTDCHA2IrNfCMjJ1+RYelS9cUznMEW6OO/jM6gvvhaXyeNaUY9NW0qUN9uATDcs2GaxnQ9vCbajy//BZsFg3WRsY4DfnGSB6zQ/M1AiY/1LlGyPPgoarqLw+gejqlXHPMhLDieaDeGbLjZNv4KiTtKg/RwHhsAU8E+6I4tiweheYVEf7DpqgVF/9diYouXLDN7M/dEtsotXHIpyXV668rTQjuawgW23Rvwk=;5T1Ua3icPBHStUYIoOWgog=="

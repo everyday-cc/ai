@@ -252,20 +252,6 @@ related:
         width: 1920
         height: 1024
         isCached: true
-  - title: "5 big earnings hits: Meta delights, Microsoft warns in huge week for tech, AI"
-    excerpt: "Meta (NASDAQ: META ) popped 4.4% Thursday after the company said it pocketed $2.98 per share in the second quarter - $0.07 better than the Street had anticipated - on above-par revenue of $32 billion, driven by a 12% year-over-year jump in advertising revenue."
-    publishedDateTime: 2023-07-28T09:25:00Z
-    webUrl: "https://za.investing.com/news/5-big-earnings-hits-meta-delights-microsoft-warns-in-huge-week-for-tech-ai-2824014"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 51
-    images:
-      - url: "https://d1-invdn-com.investing.com/content/c74d600952f59cc9004ec48c4e5994d2.jpeg"
-        width: 650
-        height: 397
-        isCached: true
   - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
     excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"
     publishedDateTime: 2023-07-30T05:52:00Z
@@ -279,6 +265,20 @@ related:
       - url: "https://res.infoq.com/news/2023/07/azure-boost-remote-storage/en/headerimage/generatedHeaderImage-1690147793884.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "Multi year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory. KPMG and Microsoft have announced a significant expansion"
+    publishedDateTime: 2023-08-02T03:40:00Z
+    webUrl: "https://www.ryt9.com/en/prg/269956"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 42
+    images:
+      - url: "https://www.ryt9.com/img/files/20230802/iq74a13ffbb6c207e21ae73387e92a8266.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta Has A.I. Google Has A.I. Microsoft Has A.I. Amazon Has a Plan."
     excerpt: "Bloomberg, for instance, built BloombergGPT, a bot for financial information, on a Bedrock precursor called SageMaker. To do it, the company took four decades of unstructured financial data and analytics, loaded them into AWS, added some other training ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/amp/"
 type: article
 quality: 89
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Aided by A.I. Language Models, Google’s Robots Are Getting Smart"
-    excerpt: "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots."
-    publishedDateTime: 2023-07-28T10:00:00Z
-    webUrl: "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 86
-    images:
-      - url: "https://static01.nyt.com/images/2023/07/28/multimedia/28ROOSE-02-zwqm/28ROOSE-02-zwqm-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "ziDKOWezhNKfBXrxV/YTMUoxWsTrxv+r0FU1zzM9QCcDFpA3jp/EvxDY2Qr5X5YI3C6xblWgnvSI2eVDjUI/6ajvh88HkyjLBpwl9CeoH2ftbCoBuoESHHgwDCgXCpbF0t2zP5KGOGkyuPU/q0GbV9TQCKLe4B5g2G6VuFTIox75czkaQGZZS1aM4et9n+Mn1n26N2dgZjkaUCihqkTWzfxim55mY8yQZxjliQNR7xn/6NLM+D3eGUjw2V7a1Q4PI+jd8ge4Ly0hCinIVCIHjDXnpvSUgkRk4Gx71GYrju27wPyRYvONoIRiJW4dAly7UvD3WsFl+5iJCNPLoDpwFtxChdk+gN3bHsdy2XVS37RQhIlaE5dN075/Lee3YLCiEF336iQ1ZRIyKlLijrUywbNFxf0d9LdxgtEMtLqPfzsoRz9+ETZuiQ92JRBtLinhOCG77RrupTtoosRhgTVHb7zetH2Kso8oL1P+xawmw3kkApsKEvtMzVXrlGyR8diwk5tIkt7jwEhtif4iW2kXgw==;SaBoCWJw019Xlxe6nwZHFQ=="
 ---

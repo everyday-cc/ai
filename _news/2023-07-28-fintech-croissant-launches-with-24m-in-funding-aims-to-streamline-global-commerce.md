@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210708-fintech-croissant-la
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210708-fintech-croissant-launches-with-24m-in-funding-aims-to-streamline-global-commerce/amp/"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Croissant, a Fintech Platform Launches $24M in to Change the Future of Commerce"
-    excerpt: "Croissant, a fintech platform with a mission to empower intentional commerce, launched today with $24 million in seed funding from a suite of top investors, including Portage and KKR co-founders George Roberts and Henry Kravis."
-    publishedDateTime: 2023-07-28T09:58:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/croissant-fintech-platform-launches-24m-change-future-commerce"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 20
-    images:
-      - url: "https://financialit.net/sites/default/files/croissant.png"
-        width: 1366
-        height: 768
         isCached: true
   - title: "US fintech Croissant exits stealth with $24m raise to shake up the e-commerce experience"
     excerpt: "Integrating directly into merchants’ shopping experiences, Croissant offers customers guaranteed buybacks to amplify their purchasing power."

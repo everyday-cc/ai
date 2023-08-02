@@ -197,6 +197,6 @@ related:
       domain: hothardware.com
     quality: 34
 
-secured: "VT1YBKa5RK2zp6fOpUOFCwZFTUABtfoancyvvxkQH5huF06D5EDFqui4LWYDFmZCX9up8R+1clTgmn0uGFj3ckeG6q/uqiy9LZn+9bPQ6YlG+7mBI2EsubxudlBkE/vpxYlDSecnhVoyCYm2PiDgyOiVab7BI/ISrmF5z/CYSB2WBRpA93QUp8a1UJjXPdRy4kSkGGqjh5FmsrpS4hrkQnktx4JXR3Dxkd3vxusxqfbTdBf07OJ/4jiGibj3lunz88KFbsdfe+TKn8jx6+YhjGx/HlUzikckFz63CtEvTkK0jAjXkWuPTcBt9CbQOUovao8peAdVkH+fyg0xeGUH2NhuO/GjOi1SmZBKn90WlSI=;EIy6qcicoo3ovZd4YeLxlg=="
+secured: "kSx+udmJxORwKDcfm2sPRA9f4D/xmjgKFQ4QufaugOsy/qJQa+YZ1kMfirqvuGYOk052R5hRwF/e2BXv0Ayp/oTmpuBKOr9wa0BhoHYMuZ00veMOB864zqVdbgFuOpvqW26xzrSPrucX6REFwcbCCI6RDuIoKfNlWnUk5X+Ys8w7jnFQu5HphuXKNc2vjKUUcaVeATYQjh0I5f2y8641wzHADoEqXNHFV5m2v6BgJg9RGO+/UyvjYw1EYT6ob3Acofc9RGW/2tYhpDTyg92OZ9dIxLXecJ5S4yvgsfmu5C8oUWLHrlpHyl//cqbAZ6uAjEQQotcg0jVIdT06U5K3AJf/Usa/xSstB/3aYX5ex5E=;7NdMww/wC1cc0FIInB2Rhg=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "HitPaw Introduces its Online AI Video Translator: Breaking Language Barriers in Video Content Creation"
-excerpt: "HitPaw, a leading technology company specializing in video editing solutions, is thrilled to announce the launch of its groundbreaking Online AI"
-publishedDateTime: 2023-07-25T21:46:00Z
-originalUrl: "https://www.sfexaminer.com/ap/national/hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation/article_b63e80a4-9b88-56a3-8045-5c7cf44b9198.html"
-webUrl: "https://www.sfexaminer.com/ap/national/hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation/article_b63e80a4-9b88-56a3-8045-5c7cf44b9198.html"
+title: "Hitpaw Introduces Its Online Ai Video Translator: Breaking Language Barriers In Video Content Creation"
+excerpt: "HitPaw Online AI Video Translator. Language Barriers, No More! In an increasingly interconnected world, language barriers have become a significant challenge for content creators and businesses seeking to reach wider audiences."
+publishedDateTime: 2023-07-25T20:10:00Z
+originalUrl: "https://menafn.com/1106684999/Hitpaw-Introduces-Its-Online-Ai-Video-Translator-Breaking-Language-Barriers-In-Video-Content-Creation"
+webUrl: "https://menafn.com/1106684999/Hitpaw-Introduces-Its-Online-Ai-Video-Translator-Breaking-Language-Barriers-In-Video-Content-Creation"
 type: article
 
 provider:
-  name: San Francisco Examiner
-  domain: sfexaminer.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/custom/image/d2e5172a-cfb6-11ec-8535-8fc7aae45ad1.png?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://menafn.com/updates/pr/2023-07/25/SN_63700image_story.jpg"
+    width: 800
+    height: 600
     isCached: true
 
-secured: "phOgiikcP3eDVIoeRqbEwhwCJY3GGO0m+4ex3n4y1i9RRAxtJ5mdACOd1vJmrVOIVvx5aKoBUQqAB7Pc1sUxFNyk39FUHbjwkhbPBQGBvSYw8ZzWPQF5UpEju8fEvdTsQuWBSwsyc0ZmXHbp6GIPIXWqHPh9feelZb9kRRMecFwJaXcE0V9owI2Rlqgbq3FPjrRYcT7wJ2X8F+hlU0ehP9tl/ZvejR+iQ1UfHpomNBXGoQbIaebdhdmOpra+b211PNpkecZXgQCqVmyzQWbr3lgR08n6rfXErRN3FjIbc4E2fxMe8JXkZP6/wSqWGSstLziAjAdtG5rjwsxyZeG+QDZR3kFWtOOR2tmUmzRC7to=;vEr9oskn2Tsk2ynnAcmJSA=="
+secured: "uSzSLPyd7DCxcTFqkBS28PRL8stoZI5nrN+KhPOo5iTtphfkryk5vF8VDypeouOANHbqsIv67eOUcC9poTfjdx/Vo07OPyYL+iG4Q4XpS0jJGtYy9CEtVEC2UGXEKO5mUhyC8CxBbnNkmQqiJOf39lTxbiTqxDwAnMnipygcfJmHvA6/qYgXSYWT6dfSuTrzR1iyAGZcxjhTyzJt07Ip02iiirtXGClD7dBlt9+0JlXlzlK7HetTM6suNF2MHpBxBdTqPEux5MESZhFtqMdenhml3EtymFekWIAYHkNi1kSb+Mks9Dj9xbW271KNuC1x8VstoeU5OAs3EG/TUoDJob/m0eVHEywwsBha/j9cwkg=;ipqPeDW8SJIu4piBRpE42Q=="
 ---
 

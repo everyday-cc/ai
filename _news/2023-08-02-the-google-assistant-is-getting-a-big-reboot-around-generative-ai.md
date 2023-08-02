@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "8 limitations of using Artificial Intelligence"
-    excerpt: "With pre-fed data and prior experiences, AI is able to learn over time, but it is not capable of taking a creative method. Robots outperform humans in working effectively, but it is true that human connections, the backbone of teams, cannot be replaced by ..."
-    publishedDateTime: 2023-07-28T10:31:00Z
-    webUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    ampWebUrl: "https://www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/technology/8-limitations-of-using-artificial-intelligence-1690537398257"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 59
-    images:
-      - url: "https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/7/28/1690538015666_ai5.jpg"
-        width: 282
-        height: 500
-        isCached: true
   - title: "How AI is helping satellites avoid hitting each other in space"
     excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
     publishedDateTime: 2023-07-31T08:53:00Z
@@ -95,20 +79,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Risks of opening up AI"
-    excerpt: "Meta has annouced that its Llama 2 large language model will maxde freely available under a community licence with certain restrictions"
-    publishedDateTime: 2023-07-28T10:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366545672/Risks-of-opening-up-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-250723-cover-500px.jpg"
-        width: 500
-        height: 354
         isCached: true
   - title: "Most businesses with AI lead new use cases with it"
     excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
@@ -142,15 +112,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
-  - title: "Embedding Artificial Intelligence In Enterprise"
-    excerpt: "The ability of embedded systems or resource-constrained devices, typically isolated, to carry out operations that call for human intellectual capacities is called embedded AI. Embedded AI refers to using AI models and algorithms at the device level to enable  independent functionality without outside assistance."
-    publishedDateTime: 2023-07-28T10:02:00Z
-    webUrl: "https://www.finextra.com/blogposting/24644/embedding-artificial-intelligence-in-enterprise"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 21
   - title: "How Will Artificial Intelligence Change the the News Business?"
     excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
     publishedDateTime: 2023-08-01T13:00:00Z
