@@ -25,34 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real"
-    excerpt: "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research."
-    publishedDateTime: 2023-08-02T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
+  - title: "Artificial Intelligence In Women’s Health: The Pros, The Cons, And The Guardrails Needed To Improve Care"
+    excerpt: "At that point, artificial intelligence (AI) was still a relatively young development in society: one that wouldn’t enter healthcare for another 20 years. Now, artificial intelligence - or the combination of computer science and datasets to stimulate ..."
+    publishedDateTime: 2023-08-01T21:02:00Z
+    webUrl: "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 81
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://images.wsj.net/im-827019/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b77d90b34fc46d155b79a2/0x0.jpg?format=jpg&crop=1208,679,x0,y55,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Healthcare leaders urge caution on AI"
-    excerpt: "Healthcare leaders are urging caution when using emerging AI technologies such as generative AI and large language models, as they could lead to inaccurate info"
-    publishedDateTime: 2023-07-28T19:44:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-urge-caution-on-ai.html"
+  - title: "AI in Health Care: 8 Best Stocks to Buy"
+    excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
+    publishedDateTime: 2023-08-02T15:23:00Z
+    webUrl: "https://wtop.com/news/2023/07/ai-in-health-care-8-best-stocks-to-buy/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: WTOP News
+      domain: wtop.com
+    quality: 41
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+        width: 512
+        height: 512
         isCached: true
+  - title: "MBA Grads With Startup Ambitions Attracted to Health Care, AI"
+    excerpt: "The class of 2023 from two of the nation's most prominent business schools founded nearly 100 startups, according to data released by an international software design and development firm. The data from Symphony revealed that the Stanford MBA class of 2023 founded 23 companies,"
+    publishedDateTime: 2023-08-02T12:01:00Z
+    webUrl: "https://www.technewsworld.com/story/mba-grads-with-startup-ambitions-attracted-to-health-care-ai-178502.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
 
 secured: "q73lByOG57gHt35A/26jEuZk24lJZCRVVLmMGrGOmePJyqcW67eNUr9vfAZS5eBxkL8tbL5VTp/4yAUXS7mRc1Q1XXiu9SpXuWrUzvjfGfx/mM1hDjJU/XFgH0jn1VCAPyAkyPLNzb2hlW5qilYLgkBlVqWH3vHevME+mdHqq0J1L2ghSIaNF3wwl1t5nozzQz9gA1EBtZH1v5d8AuPLqmQp3ZRXkPTEU/1mzUxouG4OUslZI4LFkJRxDVc4bwmEoRv0NGKM34TFi5LwK4V4umRlsW84p6wshfQWzcu6oKwxclJs1v7mNcxLRUISxRnI8nDt8NK9Ws+uNg8oIgNrrKq/htf4v40OVFAUB2POXos=;K2IygaJABXyuttjfXY/BXg=="
 ---

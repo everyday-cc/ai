@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-02T10:41:00Z
 originalUrl: "https://www.kompas.id/baca/english/2023/08/02/en-mesin-pembelajar-memitigasi-penyebaran-kabar-bohong"
 webUrl: "https://www.kompas.id/baca/english/2023/08/02/en-mesin-pembelajar-memitigasi-penyebaran-kabar-bohong"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://dmm0a91a1r04e.cloudfront.net/3NlDmuWiRb4eAm1Aa6RuaJrIUHI=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F02%2F718dfc1f-0eaa-442b-aed8-5d5dc9f9c947_jpg.jpg"

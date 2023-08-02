@@ -19,31 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Fitch downgrades U.S. credit rating, AMD's AI chip plans - what's moving markets"
-    excerpt: "U.S. stock futures fall after Fitch lowers its U.S. credit rating, flagging worries over Washington's ability to resolve pressing fiscal issues in the wake of a t"
-    publishedDateTime: 2023-08-02T09:55:00Z
-    webUrl: "https://www.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359"
-    ampWebUrl: "https://m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
+  - title: "AMD Aims to Ramp Up AI Chip Production for Release by Q4, Raises Q3 Forecast to $5.7 Billion"
+    excerpt: "Large cloud players like Microsoft and Google plan to ramp up spending on data centres in the second half of the year."
+    publishedDateTime: 2023-08-02T05:14:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233/amp"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 69
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 63
     images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB2G0QI_L.jpg"
-        width: 800
-        height: 533
+      - url: "https://i.gadgets360cdn.com/large/amd_reuters_1690952669799.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Global Stocks Slump, Fitch U.S. Downgrade, AMD AI Ramp, Starbucks Sales, CVS Health On Deck - 5 Things To Know"
-    excerpt: "CEO Lisa Su said AMD is working with \"top-tier cloud providers, large enterprises and numerous leading AI companies\" as it ramps up production of its MI300 accelerators, the chip it unveiled earlier this spring, adding that \"our AI engagements increased ..."
-    publishedDateTime: 2023-08-02T09:52:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/stocks-slump-fitch-u-s-downgrade-amd-starbucks-cvs-health"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 16
 
 secured: "lSKEF6S/CmBmwPught/5KgBbUpYVeBzpvLslRup7a8tBl+/r1Ib5CuSDd3SC9SxKFyoX0c0kPExMy7/9cz+GsOcUKTqykHCmEbmvQ1rQqUkgn5nxQtXQHGcTyx5d0JFyvOl5iYbDGkpF9DkAeZGcC24/xC2ChWGbBh+3HV5JD+R0DdZXFug6Z4UsSeFMH6fWMmnSM4OGlTb1SWwY+Bx7hFBxKHSXpZQBVoGhMKIj9T1CY8gXgx87IGwUYc+hYAUyv1U2ziSblzoOnfC2+0tbzqCmMxiTJiXVQ5hBC29Hkdj/kTkcXo+o5L6qV0MnME0sjuO8+9BaiuwFAeISnJ57zBngBERFRwI5JLoolAF4N/uac/7EB6U/sDynfN52BAs+EmIu9sXjwOZCUqwCSnguEwAtU5IcxG+s+GNyEZxdsxuHEx5CONnmPGrVO5cQTRd1a4qGR8BgqOdeOh/8qH/iujH2A3+oOzgEiUsOFZAats2yXFrT9p/INIXidUZ8sl8/0Xit6rH57/zoPK+V1wPtOg==;B9nswRlbR9h2Ia5KbsblHw=="
 ---

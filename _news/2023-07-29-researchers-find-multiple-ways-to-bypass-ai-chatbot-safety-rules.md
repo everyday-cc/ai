@@ -27,6 +27,24 @@ images:
     isCached: true
 
 related:
+  - title: "How AI-powered chatbots are transforming marketing and sales operations"
+    excerpt: "Discover how some marketing teams are embracing AI technology with Watson Assistant to drive more powerful marketing campaigns.\nThe post How AI-powered chatbots are transforming marketing and sales operations appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-02T12:03:00Z
+    webUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 133
+  - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
+    excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
+    publishedDateTime: 2023-08-01T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 95
   - title: "Meta plans AI-powered chatbots to boost social media numbers"
     excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
     publishedDateTime: 2023-08-01T19:10:00Z
@@ -43,6 +61,24 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How chatbots can provide a better customer experience"
+    excerpt: "Users are frustrated by limited chatbots that insufficiently resolve queries or deliver unsatisfactory outcomes. Learn how AI can help.\nThe post How chatbots can provide a better customer experience appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-02T12:01:00Z
+    webUrl: "https://www.ibm.com/blog/how-chatbots-can-provide-a-better-customer-experience/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
+  - title: "How chatbots improve human resource operations"
+    excerpt: "Today’s HR departments struggle to efficiently manage operations and routine tasks. Learn how conversational AI can improve HR operations.\nThe post How chatbots improve human resource operations appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-02T12:02:00Z
+    webUrl: "https://www.ibm.com/blog/how-chatbots-improve-human-resource-operations/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "A New Attack Impacts Major AI Chatbots—and No One Knows How to Stop It"
     excerpt: "Researchers found a simple way to make ChatGPT, Bard, and other chatbots misbehave, proving that AI is hard to tame."
     publishedDateTime: 2023-08-01T11:00:00Z
@@ -56,6 +92,38 @@ related:
       - url: "https://media.wired.com/photos/64c83bd3eb3f06fa8140d218/191:100/w_1280,c_limit/stickies_chatbox_GettyImages-1255116327.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Fitch downgrades U.S. credit rating, AMD's AI chip plans - what's moving markets"
+    excerpt: "U.S. stock futures fall after Fitch lowers its U.S. credit rating, flagging worries over Washington's ability to resolve pressing fiscal issues in the wake of a t"
+    publishedDateTime: 2023-08-02T09:55:00Z
+    webUrl: "https://www.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359"
+    ampWebUrl: "https://m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 69
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB2G0QI_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Angel One launches AI-powered campaign #SuperIsHere campaign"
+    excerpt: "The film aims to encourage and empower billions across the nation to leverage the power of data and technology in their wealth-creation journey with the Angel One Super App"
+    publishedDateTime: 2023-07-30T04:40:00Z
+    webUrl: "https://www.exchange4media.com/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 59
+    images:
+      - url: "https://www.exchange4media.com/news-photo/v_NFldkRX2k.png"
+        width: 480
+        height: 360
         isCached: true
   - title: "Chatbots can make things up. Can we fix AI’s hallucination problem?"
     excerpt: "Builders of AI systems known as large language models say they're working to make them more truthful. But some experts say the problem isn't fixable."
@@ -123,6 +191,22 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "The Chatbots Pick Up on Your Feelings"
+    excerpt: "Interest in artificial intelligence (AI) has exploded recently ... This quantification of language is key to advancing scientific understanding of psychological therapy, support, and mental health symptom assessment. Psychological descriptions of emotion ..."
+    publishedDateTime: 2023-08-02T14:20:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-07/headshot300.png.jpg?itok=xQYvQoqh"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
     excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
     publishedDateTime: 2023-08-01T11:32:00Z
@@ -187,6 +271,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
+    excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
+    publishedDateTime: 2023-07-29T07:47:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 34
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102228308,imgsize-12376,width-1200,height=765,overlay-ethealth/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
     publishedDateTime: 2023-07-31T15:28:00Z
@@ -263,15 +363,17 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
-    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
-    publishedDateTime: 2023-08-01T12:40:00Z
-    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
+  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
+    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
+    publishedDateTime: 2023-07-29T05:58:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 17
+      name: The Week
+      domain: theweek.in
+    quality: 16
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
     publishedDateTime: 2023-08-01T21:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57350-amd-will-have-a-tricky-time
 webUrl: "https://www.fudzilla.com/news/ai/57350-amd-will-have-a-tricky-time-getting-into-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 620
     height: 465
     isCached: true
+
+related:
+  - title: "AMD Keeps the AI Dream Alive Enough"
+    excerpt: "But rival AMD overtook Intel in market value last year, thanks in part to an expensive bet on chip design. WSJ’s Asa Fitch explains the companies’ battle for the brains of your computer."
+    publishedDateTime: 2023-08-02T15:33:00Z
+    webUrl: "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-828111/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "IIW85DcfBMUaXtnDcWovwobBTyg3hXhVeGDZ/RtzYin/410xzjwEPcExCzQe9zss7UzJ+2k18kl/tiZhFHgSy74j9c5cVUtT/SFb01lx1DG22r70uwr8Bp9DTxrJQrIAYzU+Nk8pa75NTwRJMC6bHMmwz2VR16vctAfHt1p50CoMe0Ja/EePUhyP65ocot8Cmdo76omZi50HA9ttftPqs3lUzdLBh1pIVQOsrWo05V9CEXRLkDvFqEXQwQ69N1/9KJ0GpxbAd4P5i0ASmg9nLKkq6GRUXiJPSUZ4U2eI8+EqkXvy4zZ+kFr+C4dF9KxrF50UXThwbAguAvqfuY8pMKAQLYtvNKSoBuubBOqLoWs=;Df6wEKARDwvXq/D94Tc0Gw=="
 ---

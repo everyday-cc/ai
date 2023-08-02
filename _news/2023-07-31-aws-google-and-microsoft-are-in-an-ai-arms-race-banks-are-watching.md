@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "OpenAI, Microsoft, Google, Anthropic Launch Frontier Model Forum to Promote Safe AI"
-    excerpt: "The forum's goal is to establish \"guardrails\" to mitigate the risk of AI. Learn about the group's four core objectives, as well as the criteria for membership."
-    publishedDateTime: 2023-07-28T21:28:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-frontier-model-forum-news/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 80
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
-        width: 1400
-        height: 719
-        isCached: true
   - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
     excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
     publishedDateTime: 2023-08-01T07:43:00Z
@@ -186,6 +172,20 @@ related:
       - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_2289658777.jpg"
         width: 2732
         height: 1200
+        isCached: true
+  - title: "New features released for Microsoft Azure Operator Nexus"
+    excerpt: "New features have been released for Azure Operator Nexus, Microsoft’s hybrid cloud platform for telecommunications firms, as it also becomes generally available following a period of public preview. “Earlier this year at MWC Barcelona,"
+    publishedDateTime: 2023-08-02T15:26:00Z
+    webUrl: "https://www.technologyrecord.com/article/new-features-released-for-microsoft-azure-operator-nexus"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4518/AzureOperatorNexusWeb.jpg"
+        width: 975
+        height: 548
         isCached: true
   - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
     excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."

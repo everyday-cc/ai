@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Studios Seek AI Specialists as Tech’s Role Debated Amid Strikes"
-    excerpt: "Major studios are seeking AI specialists as striking writers and actors express concern over the technology's rising role in"
-    publishedDateTime: 2023-07-28T23:00:00Z
-    webUrl: "https://www.movieguide.org/news-articles/studios-seek-ai-specialists-as-techs-role-debated-amid-strikes.html"
-    type: article
-    provider:
-      name: Movieguide
-      domain: movieguide.org
-    quality: 39
-    images:
-      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2022/11/0vgg7cqtwco.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "RfMq5vWJCfh68uQAR+fPME5WL0pUdUBM1PbJcZHtgYDjyXZcsKedwLir7+2jMsxS/R9WVSM8qrP5BlfF2IJpiZOB8cCmNcMKhj++ZnHy93rDJGE9vFi1vRq1cHCPD65uzRoSKe0dsis/AkdJ568U+KNBst/ksVQKXNojpWXCQr+DsSYDf+Wz8kqBlKvHbdRPjHrOmr1q2H1CmTwSqqGn2/nlD/8Pk50FVfsAuAoi3IBVy4Sclpnovrfk8W8jThxwiT7bYOaYSpFjzc30Fq8Uk5nOMn8CRIDFtuO4wloILNASjRHaFJkPsJV9DoAKCfBY1i0Qn9lX88BNC2xienNFLQFr/zMi+5AzTeOqf0Fp/o30XBM243i3xFslC4hSsNaIOy+OWIxKO8kJwFUav51vXAy7hDMIv/4PXUOlB5tYJu1i+t99VPezQsziW2R7CBOaKC3QvoTxtT5rKJtoxAIKZlktETWRartwJSsKbsAPtma5l1quXBxcm6/XKMtyyj9u0WAWAAHaQWBlSG33CQztTg==;k8/YSmONi60+iafVYmxQ+Q=="
 ---

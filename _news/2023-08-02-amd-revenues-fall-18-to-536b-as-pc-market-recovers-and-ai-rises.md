@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/amd-earnings/"
 webUrl: "https://venturebeat.com/games/amd-earnings/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/11/LISA-SU.jpg?w=1200&strip=all"
         width: 1200
         height: 579
+        isCached: true
+  - title: "AMD Eyes An AI Uplift As GPU And PC Earnings Hit A Speed Bump"
+    excerpt: "Shares of AMD are on the rise this morning after the chip designer posted better-than-expected financial results for the second quarter of 2023."
+    publishedDateTime: 2023-08-02T14:26:00Z
+    webUrl: "https://hothardware.com/news/amd-eyes-ai-uplift-gpu-pc-earnings-hit-speedbump"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62203/content/AMD_Dr_Lisa_Su_Hero.jpg"
+        width: 708
+        height: 400
         isCached: true
 
 secured: "Xtkl9M4s8TdtAa6DgtHJntFitGeRL8pxnwZgJOhBDXqsotwpAlCeamxCmYU+CPNQCG182qSejtVTShMgrc33f7L/Me1DWT9XvyHboh0cImkcyVAvA8RDXSJIj3LQsGqaFqDSVQ5fVhVKUEebX2aoIxDwfnW+h+tIJ7XpHFz6hRxuHLfnKgtX0D5sW7+BquGLxxlQazfltStd/4stpqGPzJzaHqvRzicJheaDsrhvO5x8tyg6lSE7I989qiJSPpToj9IfLjBYb8cS4YrTkn2jv/rz0y4AnHXcKF/+JBRDY/2LT2wwDw1Zxe+ABuRykQs5EVy5+uXkWb+poRhVlIhc7Iqi2S7U59+DJvjzW/fymm8=;HuJzybeqfBzQoo3W2TrLyw=="

@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6299631/what-socrates-can-teach-us-about-ai/"
 webUrl: "https://time.com/6299631/what-socrates-can-teach-us-about-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Time
@@ -26,6 +26,17 @@ images:
     width: 2400
     height: 1600
     isCached: true
+
+related:
+  - title: "Torq Socrates agent leverages AI for comprehensive threat analysis"
+    excerpt: "No-code automation platform startup Torq Ltd. today announced the launch of Torq Socrates, a Tier-1 analysis artificial intelligence agent designed to transform security operation"
+    publishedDateTime: 2023-08-02T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/02/torq-socrates-agent-leverages-ai-comprehensive-threat-analysis/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "t9G5T0nzgZ1ZTxQfnb3CSAPxcyUTFd8J0aO6jGuPDHqDiULwR4IO98/KFTlGbKZApHLeI+ED/ZGO9X+n4U34zSVrwhmH9+c7DZzGHSmoUOzvzWmxz3EBeRgO+si60TAtYNsg3+yyxxlblatRqD3AwosXHrn5470cOGbT698mHLKpxnJzLt0xtIU4YiB665IsRgEYyRQnAhIdC2yTFGgwojpIcyhnnkQeZfvh3Yi9ewdo8LWQOdZCHTN4791DATekQXv6L8h5+TdLeeLTLDoiOFox+5BsnVpKOSoc00tTPwn9t/rFLOtdHGInenA0N41mfbWMR0v412WZo8hty42RB/gNRHfqySwi3ijMDj9pzjPE9ZV3+syNTuQQSLgTUT2eBqqCdW1cc6foTxIbrESEY1Dc99NffXFe3TjzFaJ8g0/lht29Fsti2RHN06L+yyWeBTd+G62OQoYC9uGF4AG4QxFRsqqr52F2A9NDGJAh6hvuhZPJ4c8W0ty5OYeb7zFkZ+fNoSUyBtJuA4M1hRSCQA==;eMrrfueDStm1BvPmlGpxng=="
 ---

@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
-    excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
-    publishedDateTime: 2023-07-28T19:23:00Z
-    webUrl: "https://siliconangle.com/2023/07/28/final-thoughts-aws-summit-nyc-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "When AI Goes to War"
     excerpt: "That’s the future Lt. Gen. Richard G. Moore Jr., deputy chief of staff for plans and programs of the US Air Force, was considering when he made widely reported comments about ethics in AI warfare at a Hudson Institute event last week. While America’s ..."
     publishedDateTime: 2023-07-31T18:29:00Z

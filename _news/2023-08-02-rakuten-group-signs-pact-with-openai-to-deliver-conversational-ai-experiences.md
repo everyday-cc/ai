@@ -41,15 +41,6 @@ related:
         width: 630
         height: 330
         isCached: true
-  - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
-    excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
 
 secured: "fuFU+Xi4Z82jbzkv2JIxOZRZxTbT8KAcUo5dzBROB7fJMrOIwSkGz+LhBYUmw3PkV4CtBIq3TZ8rXVyl7twn8dq8bwB3Imz5YzSpk8m6C6CiEFmjR6PqEMckDY0maKBDJq7gCskp9gBAnYSSudnNA7Dk9LNMFvQQU2jgP1Y9P2Ma+WoozbPwRtefEHNMv6Iox1TePWDiyP5abcjxXq0/w8OZWbvwhg1MR3pH5ySUQFBumkGcz+xjJsRnkfiPX7rB5eqsPCPQLaaaAwnu2rvS3fZRljlhW535o8iIoVY9MaHDMBy0st7NgtJJXkV5vaDdPRGWy4c13pwma99XjvXoM8+VVSdJy2eN5zhWV3o7gmU=;HWRnVPs4+7Dp4O/Go9Ghwg=="
 ---

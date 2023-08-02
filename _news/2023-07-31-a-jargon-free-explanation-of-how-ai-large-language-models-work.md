@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/How-do-large-language-models-work.jpg"
         width: 700
         height: 466
+        isCached: true
+  - title: "New Vulnerability Discovered in Large Language Models"
+    excerpt: "Large language models, or LLMs, are models that use deep-learning techniques to process and generate human-like text. They can generate responses, translate languages, summarize text, answer questions,"
+    publishedDateTime: 2023-08-02T12:01:00Z
+    webUrl: "https://i-hls.com/archives/120199"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 24
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2023/08/online-g312cf2e23_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Researchers discover new vulnerability in large language models"
     excerpt: "Large language models (LLMs) use deep-learning techniques to process and generate human-like text. The models train on vast amounts of data from books, articles, websites and other sources to generate responses,"

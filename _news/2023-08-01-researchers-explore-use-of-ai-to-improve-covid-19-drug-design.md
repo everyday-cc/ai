@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-08-explore-ai-covid-drug.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-explore-ai-covid-drug.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 2120
     height: 1712
     isCached: true
+
+related:
+  - title: "Researchers figure out how to make AI misbehave, serve up prohibited content"
+    excerpt: "Imperceptible changes to images can, for instance, cause image classifiers to misidentify an object, or make speech recognition systems respond to inaudible messages. Developing such an attack typically involves looking at how a model responds to a given ..."
+    publishedDateTime: 2023-08-02T13:25:00Z
+    webUrl: "https://arstechnica.com/ai/2023/08/researchers-figure-out-how-to-make-ai-misbehave-serve-up-prohibited-content/2/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 46
 
 secured: "cRY5kxIyr0n37UpUKNYrVRLLkdk6qpZiMGcK1eCNXf3tTVVnRz0a8eYYPL02JSFE06/z5pjqK6pcjobLEKgk/TgnarW8YGIQaBYMKIN2xptHujY7s8CJcXw518ij5yX1lL5Npejb8I/75PdJ/7++eqipSTYN6cs2unRyhGq6dYV60eRWrZDuQurzE3/MYJcmWe7Zn+13UqGM1wMZIGo/PVpHVN9Gyozb9875nAe7gO+W+liHfMsftuWGRqrVW5NCdlGjc81MKpqM77yOD8hgwS9rR03evAeHoYpGddPTfbAZCPLrMyC4oxgzRAVvTKI2cRfUtfjfJ/9Jy/AG93lBq6iV0NUMukv2dR/w889B01GlkCz2gA3XetAkKPxKB1tWfC++zBWFUggUvMWnw3bHPZBUOvDP975fX1AbXF6GWJrcxV1fwmvECT0wFHNCFcw7iJ97Va3zj/mRtxrIUQUXrHdSWffbzqngz6CFPHK2YU47LKSPmqitY3iO5F1wDZJIJ393Gmc7bId1VrcmlVWJYw==;F6maJPqNWunaiwH58n21nQ=="
 ---

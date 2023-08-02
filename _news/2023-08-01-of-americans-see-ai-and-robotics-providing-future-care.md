@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
 type: article
 quality: 69
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -25,29 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "America Already Has an AI Underclass"
-    excerpt: "Search engines, ChatGPT, and other AI tools wouldn’t function without an army of contractors. Now those workers say they’re underpaid and mistreated."
-    publishedDateTime: 2023-07-28T20:19:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AI Models Might Make American Healthcare Better – But It’s An Uphill Climb"
-    excerpt: "In a nutshell, one thing you find out is that the best outcomes are ‘volume-based’ – in other words, if you find a provider that does a certain thing all day, that provider is probably going to be more proficient than someone else who is a jack of all trades or a generalist."
-    publishedDateTime: 2023-07-28T19:44:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/28/ai-models-might-make-american-healthcare-better--but-its-an-uphill-climb/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
   - title: "How you can future-proof your career in the era of AI"
     excerpt: "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe."
     publishedDateTime: 2023-07-31T17:26:00Z

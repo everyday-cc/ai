@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-02-ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real.md",
-      "title": "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real",
-      "excerpt": "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research.",
+      "path": "_news/2023-08-02-artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care.md",
+      "title": "Artificial Intelligence In Women’s Health: The Pros, The Cons, And The Guardrails Needed To Improve Care",
+      "excerpt": "At that point, artificial intelligence (AI) was still a relatively young development in society: one that wouldn’t enter healthcare for another 20 years. Now, artificial intelligence - or the combination of computer science and datasets to stimulate ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd",
-      "originalUrl": "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd",
+      "webUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
+      "originalUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-827019/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b77d90b34fc46d155b79a2/0x0.jpg?format=jpg&crop=1208,679,x0,y55,safe&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T03:00:00-07:00",
+      "publishedDateTime": "2023-08-01T14:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {

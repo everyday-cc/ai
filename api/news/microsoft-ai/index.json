@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/games/amd-earnings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -401,10 +401,10 @@
     {
       "path": "_news/2023-07-28-ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai.md",
       "title": "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI",
-      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, proudly",
+      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations,",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai/",
-      "originalUrl": "https://www.01net.it/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai/",
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/28/9855968.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/28/9855968.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -414,11 +414,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T09:40:00-07:00",
+      "publishedDateTime": "2023-07-28T07:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

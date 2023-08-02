@@ -44,29 +44,6 @@ related:
         width: 1050
         height: 788
         isCached: true
-  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
-        width: 750
-        height: 501
-        isCached: true
-  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:14:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "2qg7eDkCGaFm02QN6XOgGF1XZPQ0+Mj5kt1LabQhT+YbxxtzM1cxMz56JX/SG9AWmz/SUfV2PZWFo/DZhUERbm6+dju+RXJeVljkxMvEFlmkNvZjqPkC4oWm3AsH99WaH2+txZzi2VQ7J9LFl5qCg7VJL4IbyunA9z4s/3xVJmH49iiXYi3MFy1VwZJdhIzMc+RTl+U8NCowzPxOMM0fBsQ3ELanMRXmZCy0vXbMvyeskeBeygDehBNq+xQ3wfWZmaE5QD1x91JUzqhpj1n8NA9Uka9EKJaRL/kCtby4n4Pkj5jvg6YaNrMZYK9b/yEF/T8gSVX7vbSNtRyawGoS1Kn2XT2FO3D1NaljllSXayeGZi4YbYE592+bviOvgEvhi560HytO6B5qhIkX7jsBOuuaAfp0Qx8iB3t8vzb7JCIF08zkpH5a3HS7fgn6+ZZixFohXNCU5Om9ej/TytKRX5uF/f9b+85FSb9eZ3FbMagRheTfdlYsnGPqkBiNX51nqabflucnAWufAbvlV2S5Fw==;U0d8By4z8IDMbhxc9IZgfQ=="
 ---

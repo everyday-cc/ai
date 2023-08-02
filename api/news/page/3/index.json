@@ -2,6 +2,289 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-01-cfos-how-can-you-evaluate-budget-requests-for-cloud-spending.md",
+      "title": "CFOs: How Can You Evaluate Budget Requests For Cloud Spending?",
+      "excerpt": "With more cloud spending comes more decisions for CFOs on what budget requests to approve from internal teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e3d8278b45126c8a62c39/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
+      "publishedDateTime": "2023-07-31T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-4-ways-to-detect-generative-ai-hype-from-reality.md",
+      "title": "4 ways to detect generative AI hype from reality",
+      "excerpt": "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "originalUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/",
+      "publishedDateTime": "2023-07-31T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination.md",
+      "title": "eBay Turns To AI On Its Attempt Of Tech-Led Business Reimagination",
+      "excerpt": "Despite its earnings beat, eBay Inc (NASDAQ: EBAY) shares tanked 10.5% upon the release of second quarter results last week while its main competitor and e-commerce giant, Amazon.com Inc (NASDAQ: AMZN",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
+      "originalUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/16544.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33475213",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33475213",
+      "publishedDateTime": "2023-07-31T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector.md",
+      "title": "Instagram reportedly developing new AI features, including an AI-generated image detector",
+      "excerpt": "These new generative AI features could not only enhance users' Instagram experience but also help fight misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
+      "originalUrl": "https://www.zdnet.com/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4e8e2311ff534c2f500d13b5866595f42de1b76b/2023/07/31/cba57098-e30c-49bf-afdc-a1e3fcce6426/gettyimages-1252972863.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
+      "publishedDateTime": "2023-07-31T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-dobot-robotics-signs-letter-of-intent-with-venhub.md",
+      "title": "DoBot Robotics signs letter of intent with VenHub",
+      "excerpt": "DoBot Robotics has signed a Letter of Intent with VenHub, a company developing a modular retail platform built on expendable containers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "originalUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/dobot-collab-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-money-saving-fintech-snoop-acquired-by-vanquis-banking-group.md",
+      "title": "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group",
+      "excerpt": "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg",
+          "width": 1280,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
+      "publishedDateTime": "2023-07-31T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa.md",
       "title": "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa",
       "excerpt": "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa.",
@@ -98,7 +381,7 @@
       "originalUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -244,7 +527,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -485,7 +768,7 @@
       "originalUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -888,113 +1171,19 @@
       ]
     },
     {
-      "path": "_news/2023-07-31-generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms.md",
-      "title": "Generative AI Exposure Widens Return Gap Between Tech And Traditional Firms",
-      "excerpt": "A new study from the National Bureau of Economic Research reveals that recent advances in generative AI are accelerating the divergence in stock market performance.",
+      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
+      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
+      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
+      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
-      "publishedDateTime": "2023-07-30T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-incheon-airport-introduces-smartpass-facial-recognition-system.md",
-      "title": "Incheon airport introduces Smartpass facial recognition system",
-      "excerpt": "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202307/76a5bef4fee443218a7a270c29c87bb8.jpg",
-          "width": 980,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
-      "publishedDateTime": "2023-07-30T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-fragmented-truth-how-ai-is-distorting-and-challenging-our-reality.md",
-      "title": "Fragmented truth: How AI is distorting and challenging our reality",
-      "excerpt": "Truth and trust have been under attack for quite some time. Why developments in generative AI suggest the trend will continue.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/fragmented-truth-how-ai-is-distorting-and-challenging-our-reality/",
-      "originalUrl": "https://venturebeat.com/ai/fragmented-truth-how-ai-is-distorting-and-challenging-our-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_fragmenting_into_smaller_pieces_456c801c-fa4c-4aa1-9c32-ecf46c7653ed.png?w=1200&strip=all",
+          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -1004,67 +1193,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T09:10:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "publishedDateTime": "2023-07-30T17:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
-      "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
-      "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 450,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
-      "publishedDateTime": "2023-07-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1082,136 +1220,7 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
-      "title": "Artificial intelligence, the airplane of the brain?",
-      "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
-      "sourceUrl": null,
-      "webUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
-      "originalUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.english.elpais.com/resizer/0q5qXMcy-sM7hl5Nwu7g0W0QvlU=/1200x0/filters:focal(1262x338:1272x348)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VLDX7LS4JRGWFHYN6XXC5HPQNM.jpg",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
-      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
-      "publishedDateTime": "2023-07-30T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El País in English",
-        "domain": "elpais.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.md",
-      "title": "Entertainment companies hiring AI specialists amid Hollywood strike",
-      "excerpt": "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike",
-      "originalUrl": "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp",
-      "cdnAmpWebUrl": "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp",
-      "publishedDateTime": "2023-07-29T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTTV",
-        "domain": "foxla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.md",
-      "title": "From robot waiters to DNA-based menus: How AI is changing the food industry",
-      "excerpt": "This technology can optimize processes in a kitchen and transform the way restaurants operate. For customers, it could mean targeted menus and pricing changes in real time",
-      "sourceUrl": null,
-      "webUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
-      "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.english.elpais.com/resizer/MikA5DG10cupeGKdb7L3Tpv6wns=/1200x0/filters:focal(3158x1571:3168x1581)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/U6CGZ3DPCFFFXB5X6NB22RSCUI.jpg",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
-      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
-      "publishedDateTime": "2023-07-29T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El País in English",
-        "domain": "elpais.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Robotics"
       ]
     }
   ],

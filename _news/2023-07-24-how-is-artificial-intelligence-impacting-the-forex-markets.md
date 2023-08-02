@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2023/07/forex-robot_1280x720.jpg"

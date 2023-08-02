@@ -35,6 +35,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "OpenAI Drops Huge Clue About GPT-5"
+    excerpt: "OpenAI has applied for new trademark for \"GPT-5,\" giving us a glimpse of its successor to its blockbuster large language model GPT-4."
+    publishedDateTime: 2023-08-02T15:46:00Z
+    webUrl: "https://futurism.com/the-byte/openai-trademark-gpt-5"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/openai-trademark-gpt-5.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Zk86zHtwHdBLUF121SyRAxnJGhlYtQv/46EQ0wpzGPR/2d/maWXka0uKcaS2ti8d787CG9eyamezmpJ4IjpndmaTwinGlev5srGkqlgwmsl8ekZZCkyeWkxFV27puFai/GdOQyxhLlWXVhhmFuCOVf7xPuItqMcp/yZ2ulJzwYfRi+pi5pi0uvDd8m4D3IYzDLdlVXnFa3oofAM7SiRlECCk8JYZfpiOR0Va+I3TMNSk4Tg89hDOuDUK/7i/Df83PEDEnqqrGKn3KUrbrDya3haBKZbXaqtw1RNYYeauQKreJRLSoDP2O+0LaTGZ4JXwi22cZ2MOxuw0Duue46HCqHVW3HDcPda5Z9eQ9M8HPzWTlVaVJ4Ew/UfeW6WqX7+HQ3YIKwUi2907nCmmcbZ0GtENG3VqtnZVSGOjlOW6x373Pgk0wGvAao1kgqnemFDuPtP92GlTzlzL3vlQvMvNd9OBxH6bIlreaP2xIrApoWGRU5ooJvLxcf7BeaVn3uRnoJnerVMPnsB1W9i+IcSB8g==;dS7MP4D1ERays8rVXpw/dg=="
 ---

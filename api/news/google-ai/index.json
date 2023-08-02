@@ -360,6 +360,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-21-in-race-for-ai-chips-google-deepmind-uses-ai-to-design-specialized-semiconductors.md",
+      "title": "In Race for AI Chips, Google DeepMind Uses AI to Design Specialized Semiconductors",
+      "excerpt": "Researchers at Google DeepMind have discovered a more efficient and automated method of designing computer chips using artificial intelligence, which the lab’s parent company, Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/in-race-for-ai-chips-google-deepmind-uses-ai-to-design-specialized-semiconductors-dcd78967",
+      "originalUrl": "https://www.wsj.com/articles/in-race-for-ai-chips-google-deepmind-uses-ai-to-design-specialized-semiconductors-dcd78967",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-820735/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-googles-medpalm-emphasizes-human-clinicians-in-medical-ai.md",
       "title": "Google's MedPaLM emphasizes human clinicians in medical AI",
       "excerpt": "Large language models still fall short of human clinicians' abilities. The solution appears to be a lot more human prompting.",
@@ -1418,41 +1470,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-googles-deepmind-unveils-ai-robot-that-can-teach-itself-without-supervision.md",
-      "title": "Google’s DeepMind unveils AI robot that can teach itself without supervision",
-      "excerpt": "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html?ref=target-is-new.ghost.io",
-      "originalUrl": "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html?ref=target-is-new.ghost.io",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

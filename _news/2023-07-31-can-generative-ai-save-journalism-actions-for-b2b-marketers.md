@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
-        width: 750
-        height: 501
-        isCached: true
   - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
     excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
     publishedDateTime: 2023-07-29T16:51:00Z
@@ -58,15 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:14:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "wr63tRCMvp/lr51VLNDcyeYKcSsA5z5ZYSqLDDY/Iw3RixAZPcFR8kKpX3MmXG63jJXSYL89IiCA12L7K8+t5yiOL/vqHj7QSf2sJECfUgtUaQRzuebEBprfSobt6jsEJJT2gKgP+P2dYygu0IzG09pcmCcyHfWE0I86U/0pI2ndpEU3TvKfUR0vCRyyBXNdBqDu/DDki9ZOImV9r/nCMpO4J/3yrzyFKKGhcxaBigugobkWuJH8oUluf/JzvSdtldQslsm47oVD/9LYI74oV9+fexq+ZgYs68IB6tw/tIk4E/xWv1N87rmM90jXPwW01zmu9yWfVM+F0GY60T9sThFTDKX7h7R0FXpsNwHzrk4=;GhzwfTDIjuvA3yjJBrq+zA=="
 ---

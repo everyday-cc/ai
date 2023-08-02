@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-su
 webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
-    excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
   - title: "Rakuten Group signs pact with OpenAI to deliver conversational AI experiences"
     excerpt: "Rakuten claims to have more than 70 services and 1.7 billion members worldwide. It operates Japan’s largest online shopping mall and offers a diverse portfolio of services spanning e-commerce, fintech,"
     publishedDateTime: 2023-08-02T11:08:00Z

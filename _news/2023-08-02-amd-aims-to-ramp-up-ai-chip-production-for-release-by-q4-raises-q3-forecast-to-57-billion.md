@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233/amp"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: gadgets360
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AMD Leaps On Q2 Earnings Beat, Plans To Ramp New AI Chip Production"
+    excerpt: "\"We made strong progress meeting key hardware and software milestones to address the growing customer pull for our data center AI solutions,\" said CEO Lisa Su."
+    publishedDateTime: 2023-08-01T21:01:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/amd-leaps-on-q2-earnings-beat-plans-to-ramp-new-ai-chip-production"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
 secured: "7hr6EQBIfVmVYWY3F6HivpRY33dXBUdz+kwKMCD14a5daFVxai6rCq3mWHMMCOV8WZ96dP8d8BkGAnMjZJdyhr9hGUwQXHVgp+CCT/qQPpAA6QBh68pp6A7sBdr83NJUS1irlsc4A6jS6QLXW9jharlPJLeK4LTXBIj0n6HAKxi5GxaM49MQImavCyBGPshFThSJ9Xpz3v03sGBYFksL4bPk5gsNICdnyIlQLMt2SLyIGqO6+5gSv+lyYbkVQs19X0YPU+0ViI+J4yLz8sNm7BN5Xva7dThZYW+8tAHaFcIEA9FBwnVErLxXdnZjHGZ0xEujp7kVY4Nlv5BJ1Uq2ADHyCcmsRRZ80SljzrN7LDc=;hWEo3xjAJmKNzamVSXriUQ=="
 ---

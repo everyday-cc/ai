@@ -43,22 +43,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Paralyzed NY man can move and feel again — thanks to AI ‘miracle’ surgery"
-    excerpt: "This is the first time a paralyzed person is regaining movement and sensation by having their brain, body and spinal cord electronically linked together,” experts told The Post."
-    publishedDateTime: 2023-07-28T20:56:00Z
-    webUrl: "https://nypost.com/2023/07/28/paralyzed-ny-man-can-move-and-feel-again-thanks-to-ai/"
-    ampWebUrl: "https://nypost.com/2023/07/28/paralyzed-ny-man-can-move-and-feel-again-thanks-to-ai/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/28/paralyzed-ny-man-can-move-and-feel-again-thanks-to-ai/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 58
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/newspress-collage-3jn1vcue4-1690576546013.jpg?quality=75&strip=all&1690562238&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
     excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."
     publishedDateTime: 2023-08-01T13:43:00Z

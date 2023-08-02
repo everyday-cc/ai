@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-14-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
+      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
+      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
+      "originalUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "publishedDateTime": "2023-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-abcs-of-ai-here-is-how-artificial-intelligence-works.md",
       "title": "ABCs of AI: Here is how artificial intelligence works",
       "excerpt": "WHERE IT CAME FROM AND HOW IT WORKS. INSIDE CSAIL THE COMPUTER SCIENCE AND ARTIFICIAL INTELLIGENCE LAB AT MIT. IT’S TIME TO TAKE CHIP FOR A WALK. UNLIKE MOST ROBOTS WHOSE MOVEMENTS ARE PRETTY ...",
@@ -1251,40 +1294,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-tesla-self-driving-cars-later-this-year-musk.md",
-      "title": "Tesla self-driving cars 'later this year' – Musk",
-      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
-      "originalUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
-      "publishedDateTime": "2023-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
         "images": null,
         "publishers": null,
         "authors": null

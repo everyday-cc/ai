@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI Drops Huge Clue About GPT-5"
+    excerpt: "OpenAI has applied for new trademark for \"GPT-5,\" giving us a glimpse of its successor to its blockbuster large language model GPT-4."
+    publishedDateTime: 2023-08-02T15:46:00Z
+    webUrl: "https://futurism.com/the-byte/openai-trademark-gpt-5"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/openai-trademark-gpt-5.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Evolution of Chat GPT: From GPT-1 to GPT-4"
     excerpt: "Language models have transformed the way we interact with artificial intelligence, and Chat GPT (Generative Pre-trained Transformer) stands ..|News Track"
     publishedDateTime: 2023-07-29T09:23:00Z

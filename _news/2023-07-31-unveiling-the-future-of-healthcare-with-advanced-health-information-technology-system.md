@@ -71,6 +71,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 64
+  - title: "Transforming Healthcare: The Pioneering Path of Sumedh Datar in Computer Vision and Deep Learning"
+    excerpt: "Introduction: In the rapidly developing science of machine learning, Deep Learning has emerged as a transformational area of study, captivating the attention of researchers and developers worldwide. Its exceptional pattern recognition capabilities have made it particularly valuable in computer vision applications."
+    publishedDateTime: 2023-08-02T14:30:00Z
+    webUrl: "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 60
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/bb6b4281-0874-40fa-a336-2042bf87d8f2-1000x600.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Here's the 7-slide presentation healthcare startup Helpful used to raise $7.5 million for its management program for family caregivers"
     excerpt: "Helpful raised $7.5 million from Redesign Health to build a community for caregiver organization and support."
     publishedDateTime: 2023-08-01T13:00:00Z
@@ -80,17 +94,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
-    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
-    publishedDateTime: 2023-07-29T05:58:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 16
 
 secured: "vuYEMHmAooOGK8Ixyr/tyKhI4PSA/dH2791ci+0xMbXSIjsFEbk3tWLlLL+yNvtux9Wb9J/UoQLL5PwtuulUyRnfImHWObMald9J/Y9Syve5r+bWHy4f8TQSo1VmgPWdyPa6xWd/3fH4FkBnSpzYutyDSLQ3UXVDRPZigrhzy/F+MJTnoGGxi6L5S+Qym5nBnrDWXFXqIJQbtPMcELvgne/XTIsU/IFKEU/DLu+XiWGW4gq288rqZq/MGafvmYZJKThT1qoviuIgpxV/VY7uUwyyg0owLT0PbpXWXiqqP1/5Gl2Q6E1X/url7chAx9ntAgvDqD2yxpBOAa39dHxaLnXLpQMenqiz78y0Fsxw2gPmYxh2geeTrvdV3FVprtIsErJY+GpfFZbXV066rIEzEBZHUI1S/CzKgdSQbIB5a6FN0C2/vymSCJ9RP1zCtakH33R2U+fy6jYhp9ubpUpegeq2U8SlyyEnbHQgau2C+7pPd/UYhHCfKUgS4dSBu8O2OOnqJHXgU6hAlCzWwMUiKw==;1eAh/cSyd0x4S5uAoZbiZg=="
 ---

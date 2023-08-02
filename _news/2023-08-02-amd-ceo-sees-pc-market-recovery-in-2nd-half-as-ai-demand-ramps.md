@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 697
         isCached: true
+  - title: "AMD Eyes An AI Uplift As GPU And PC Earnings Hit A Speed Bump"
+    excerpt: "Shares of AMD are on the rise this morning after the chip designer posted better-than-expected financial results for the second quarter of 2023."
+    publishedDateTime: 2023-08-02T14:26:00Z
+    webUrl: "https://hothardware.com/news/amd-eyes-ai-uplift-gpu-pc-earnings-hit-speedbump"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62203/content/AMD_Dr_Lisa_Su_Hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
 
 secured: "PmjInu8s5qntNqgBYnWBqXpQ91/XncYSNl1F4yRT8+k5MpjOa+DFEtDkGetKh/DA1DatUpIQ7XcjuJSBp/vOxcwdiKcha77ljsS/ziV/0YpvuiaMXrp8YkkzcdjfmMedpdxVw1BmKdFIoXij41fYTCmWhsZMOiZlqfxpZlOloLstpJrDKUOoAfkGPb3PloFTR5a16dHd/3zH3vZHdy6w4ueLxRAylTuN5uRZej4uog5p3eh6lcrVwY1GvPvmHH/3Dril12y3d+7PN+DtOEV6pqpLs99I5OrNoOSEM7Mg0cnSy5k7rVnFM1S8pxztViS/jGu7SgPaBUmPlBZnxdbMqEW7rs/c6kh+rPlFFuTytCk=;blqtuE9Epr5Ys8RKVSB/0Q=="
 ---

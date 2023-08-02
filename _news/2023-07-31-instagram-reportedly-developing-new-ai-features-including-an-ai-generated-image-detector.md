@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-reportedly-develo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
 type: article
 quality: 78
-heat: 108
+heat: 128
 published: true
 
 provider:
@@ -74,6 +74,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
+    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
+    publishedDateTime: 2023-08-01T12:40:00Z
+    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 17
+  - title: "New Instagram Star Turns out to Be an Artificial Intelligence Creation, According to DeepTech"
+    excerpt: "Milla Sofia, a 19-year-old model from Finland, has become the new center of attention in the world of social media, as reported by DeepTech, a media organization covering news in the field of artificial intelligence and information technologies."
+    publishedDateTime: 2023-08-02T11:00:00Z
+    webUrl: "https://techbullion.com/new-instagram-star-turns-out-to-be-an-artificial-intelligence-creation-according-to-deeptech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 6
 
 secured: "ToMoErzzRd08ekvCkOw4QX9JC8QdOS7HN5jui/DWaF2puY4NhYepZDdnXjLzaaeudeGucboTsRrjpXqlApJzDbLjfhQFls7ogNy2tktYHyI7kNQGT/pLZ2pOfSWNsW53mx20KHghsc5mVAQgCE7ZoubnvTaXCH2yrLlPKqqzsjGUKu9+qlsBgZwlHuwMmVMexfhwhX4sQa1n//aAX0VwhM5xV0cvhPlfqKxMR/GK4m1EVd0IU4Y62InDQk79VAZ64NM6aii1frFqmSti6VwnQNBegEWHnptLG+Ru8GpzGvWJiwStpRF7H+Uue68E4CYh5zhNlX5ZFOaSJHltD+rOp4/Iqd7lArhNtETpOdC/0BhnGNkqEny/oLGslTo4wBQy8aJBwHDr8w4n0qwgfJZ8HkcOAXgtnBU+IKChwrRPUmhYQ0DVxz4OIUK/qjxkfE5X/qPAPirgHm2+Oa9d9wDM+2FrgnXfqqKV0LldF4hDs/l7nKGmsxNgoSSpVdU8D/8tIQk2ZaCDpnLyZL8H8ugsHw==;s7LEFMz9lo2m/Bbr2HdsaQ=="
 ---

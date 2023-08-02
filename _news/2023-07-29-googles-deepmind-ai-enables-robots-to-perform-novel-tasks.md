@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google DeepMind's new RT-2 system enables robots to perform novel tasks"
-    excerpt: "Google DeepMind unveiled RT-2, the first vision-language-action (VLA) model for robot control, which effectively takes the robotics game several levels up. The system was trained on text data and images from the internet, much like the large language models behind AI chatbots like ChatGPT and Bing are trained."
-    publishedDateTime: 2023-07-28T21:10:00Z
-    webUrl: "https://www.zdnet.com/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-new-rt-2-system-enables-robots-to-perform-novel-tasks/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/48c004685e3952e576e09b8e35ae1abc156d5295/2023/07/28/516b1b2a-8cc7-4d6b-9c42-ea21f7d01800/gettyimages-1303435496.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
     excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
     publishedDateTime: 2023-07-31T21:13:00Z
@@ -84,6 +68,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
         width: 1280
         height: 640
+        isCached: true
+  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
+    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
+    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
     excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"

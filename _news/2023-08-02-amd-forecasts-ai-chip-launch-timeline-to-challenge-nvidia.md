@@ -25,65 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Projects Strong Year-end Performance With AI Chip Launch"
-    excerpt: "The strong projection will be driven by the planned launch of artificial-intelligence chips that could compete with Nvidia semiconductors."
-    publishedDateTime: 2023-08-02T07:20:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
+  - title: "While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish"
+    excerpt: "AMD stock is down 2% in early trading August 2 after disappointing guidance and a to-be-executed Generative AI strategy"
+    publishedDateTime: 2023-08-02T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lbfgquscrtshxtew_1690959468.jpeg"
-        width: 768
-        height: 437
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ca454a57cf68536b69db6b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "AMD Reports Solid Earnings and ‘Strong Progress’ on AI Chips. The Stock Is Rising."
-    excerpt: "Advanced Micro Devices could have a bumpy couple of quarters, but there is a long-term reason to be optimistic about the stock: the potential for its artificial intelligence chips. Already a subscriber? Sign In"
-    publishedDateTime: 2023-08-01T05:30:00Z
-    webUrl: "https://www.barrons.com/articles/amd-earnings-stock-price-bdc77862"
-    ampWebUrl: "https://www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
+  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 68
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://images.barrons.com/im-826572/social"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
+        width: 750
+        height: 501
         isCached: true
-  - title: "AMD bets on AI chips amid 94pc profit plunge"
-    excerpt: "AMD aims to ramp up production of its AI accelerator chips and plans to design specific semiconductors to bypass US export issues with China."
-    publishedDateTime: 2023-08-02T10:38:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/amd-ai-accelerator-chips-semiconductors-china"
+  - title: "NVIDIA DGX Cloud targets generative AI"
+    excerpt: "DGX Cloud also incorporates NVIDIA AI Enterprise, the software layer of the NVIDIA AI platform, which includes over 100 pretrained models, optimized frameworks and accelerated data science software libraries. These add-ins give developers an additional jump-start to their AI projects, Boyle notes."
+    publishedDateTime: 2023-08-01T10:01:00Z
+    webUrl: "https://www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.html"
+    ampWebUrl: "https://www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.amp.html"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
+      name: Network World
+      domain: networkworld.com
+    quality: 59
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_427135554_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AMD makes ‘strong progress’ on AI chips and its stock rises"
-    excerpt: "Wall Street’s estimates, but its stock rose after the company beat expectations and made optimistic sounds about its artificial intelligence portfolio. The company reported second-quarter earnings before certain costs such as stock compensation of 58 cents per share,"
-    publishedDateTime: 2023-08-02T00:42:00Z
-    webUrl: "https://siliconangle.com/2023/08/01/amd-makes-strong-progress-ai-chips-stock-rises/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AMD plans AI chip debut by year-end to compete with Nvidia"
     excerpt: "Chief executive Lisa Su said AMD is set to ramp up production of its flagship MI300 artificial-intelligence chips in the fourth quarter. The accelerator chips, which are in short supply, are designed to compete against the advanced H100 chips already sold by Nvidia."
@@ -99,22 +85,38 @@ related:
         width: 800
         height: 538
         isCached: true
-  - title: "AMD Q2 Beats Estimates As Server, PC Chip Demand Improves; Chipmaker Signals Strong Engagement Ahead Of AI Launch"
-    excerpt: "AMD shares have rallied over 80% year-to-date, outperforming the QQQ and the SOXX. The company noted strong demand for its EPYC server chips and Ryzen 7000 CPU processors in the second quarter. Advanced Micro Devices,"
-    publishedDateTime: 2023-08-01T20:54:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33506515/amd-q2-beats-estimates-as-server-pc-chip-demand-improves-chipmaker-signals-strong-engagement-ahead-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33506515"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33506515"
+  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
+    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
+    publishedDateTime: 2023-07-31T19:14:00Z
+    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "AMD may take advantage of Nvidia shortfalls with AI hardware"
+    excerpt: "AMD plans to release its MI300 chip this calendar year, which should provide competition against Nvidia's H100 GPU. Because of the huge demand for AI"
+    publishedDateTime: 2023-08-02T11:04:00Z
+    webUrl: "https://www.techzine.eu/news/devices/109564/amd-may-take-advantage-of-nvidia-shortfalls-with-ai-hardware/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Freudenberg,,North,Rhine–westphalia_-_germany,-,22,05,2020:,An,Amd,Sign.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/amd-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
+  - title: "AMD plans to launch flagship AI chip by year-end, why it may be ‘bad news’ for Nvidia"
+    excerpt: "AMD plans to increase the production of its flagship MI300 series of artificial intelligence (AI) chips in the fourth quarter of 2023. At its launch, Amazon looked to be a likely early user; the company's public cloud computing platform,"
+    publishedDateTime: 2023-08-02T12:42:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/amd-plans-to-launch-flagship-ai-chip-by-year-end-why-it-may-be-bad-news-for-nvidia/articleshow/102354840.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 27
 
 secured: "BUaaIWmFFLqKPDNd+OIcsZTUS83ZJDGTVTG47itU5VzpKbctRtwLLxQ7ruZBX1DCEhY69GosYxyf4zOP+uJZlrUpVIiDEHs19qKukYgHsE2q6LH5MtnbJHvofNHEPocckNIvtriQGpbv2HRn8C8xVMEe7ES+s8MzPaz8tfY1esLiRoi89YehkdU8QrP0qEluRkuOTSE/gI+m2S+M21CabB7vtSSS0iOdbMlVszYA71g3uKYYap1f++p6MpGnuTRrIQRa37G/HuvY4nuDvRuInStaj1mqYz+Z4xLCGhEfFd1DdGj7vdZWzC1ttwt2pWqVfRAsygn/upGE2ZxmEdkIaZSyikfSKUdE8NCCRNKUobY=;MlMmM96E8peZbhMN/+Pg4A=="
 ---

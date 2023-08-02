@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "AI-supported screenings increase breast cancer detection by 20%, study says"
+    excerpt: "Artificial intelligence can allegedly detect more breast cancers than doctors with years of training and experience, according to a new study. The new early-stage study was published Tuesday in the journal The Lancet Oncology."
+    publishedDateTime: 2023-08-02T12:59:00Z
+    webUrl: "https://www.kolotv.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/"
+    type: article
+    provider:
+      name: KOLO TV
+      domain: kolotv.com
+    quality: 17
+
 secured: "JG02mNqrnjLvmv/Mata+2/xaCwSDMI2acaDFeNEdz4tnSxuTSdwHN94acGVdnS650sgrw+3ZOq3MwBu0pe/pYm7NCqwwe1sfYu2bDG60T//uvxrd4Vku7yiZZRFc+yb1PdpFEhDIXEdxLswSMYtWvguH080WDX2V2GKhXcKlU9Z+ikyqyH1NHZbl4/NAKCz2l3RAeHw8tUrzdAw1/yzPRIe4EvlT6RA+Aj0kaFLIS5Go7i9hO9ZXmYnSq0Io4rA0W/sAPopTbam8Z1D+vaWWNRfxVFH++jNhZBjWg/QBfuWhWGR46yeMowkdaTO+cStAJU79NsfdxPA74ER1n01oM1SZNC+lHutTVsNypVPANiE=;462t1gXGSJb1sinmzqAkMA=="
 ---
 

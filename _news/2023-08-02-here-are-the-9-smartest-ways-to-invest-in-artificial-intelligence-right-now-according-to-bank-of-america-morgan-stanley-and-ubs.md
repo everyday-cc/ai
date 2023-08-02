@@ -43,29 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "America Already Has an AI Underclass"
-    excerpt: "Search engines, ChatGPT, and other AI tools wouldn’t function without an army of contractors. Now those workers say they’re underpaid and mistreated."
-    publishedDateTime: 2023-07-28T20:19:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AI Models Might Make American Healthcare Better – But It’s An Uphill Climb"
-    excerpt: "In a nutshell, one thing you find out is that the best outcomes are ‘volume-based’ – in other words, if you find a provider that does a certain thing all day, that provider is probably going to be more proficient than someone else who is a jack of all trades or a generalist."
-    publishedDateTime: 2023-07-28T19:44:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/28/ai-models-might-make-american-healthcare-better--but-its-an-uphill-climb/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
   - title: "How you can future-proof your career in the era of AI"
     excerpt: "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe."
     publishedDateTime: 2023-07-31T17:26:00Z
@@ -125,6 +102,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3poxYH/hqu7ldnJjhgczyLVmIMaclApkQDjlYoRkJP7GLOC8W79iMB9LHUEa3LhviGePnweBH1gY0CeD4tP6kvB5HOXjxQeZvISS7Kvm8QxjEoDEg9wkEIvzDrf+3TNMnRdiNg2AIJ+Tf1noQfpmH/bf5XCBg2TXjOnzOm3gqspvNYWZOnn7Jo7Ao/iug8Hzc37M3kLK854AXNUvbm8YlGP1rsAqhffiMTU8v6ZQ1VbS6SlVvAZHiMwRhRjeGTlTvfdVIuC5NFZeVaPC4m8c5l/oj9tmmj3tVrVFqJXFdkRM27f+5+uSDOhAcfs/9FWODCMwAjEPPv+2sREIMvskb8Ptl9SNWuzSFdu/DE7ksow=;ekY1htkAb82UgDCXOfvtqA=="
+secured: "mVlJ1N9FiOFeQ09jJJuq0D17tmgiSx/UAT/DenfpjWpxHbHyS5MNiVqVHL8OdKEipHjhgisYMk+/w4OcWiSZ1zZwa0lGJXiTUf9/py/fW/uvk1o4hPPt8wBY/2A0bCI8Fv7tRYrPA8JWkr/F2U9vke9nNzgzXubxNxtAKkd9EYHKviGxj5u8dv6cxNhWx84Nw6VxTa1PFHFHRWVBtIJyltJKdGLF3IYb+8sQfua38PrmASemKf1d9cEpUyxy+oPFKIvRp9gRFxl7ihG/NRRv1bm2cdtkEQVGHO3lmWifj81MrywnzOi2aYP9Z7/aOzrD8XFWivgtHMZgS4GFiUTgdbOCHsaZ11ZMCFnzThDFhjsTojNEwVWT2to/fi45xodXUHu2aIomNl3ZcWUHMLnoRenU/vlXBxOV7wVCMuLNoUWLETpy8OPx69UVMt9c38EnXkDWNrNgOqGU/IMfV1/xcQ6qLTZjtnqVx+J2Ng0QO8oWRwRLTf7kWTSySKsL8CcuRJ3dXGWXAjSWouGo0BAxWg==;qBw2FODjbJp69c8TAdy0fQ=="
 ---
 

@@ -40,29 +40,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "America Already Has an AI Underclass"
-    excerpt: "Search engines, ChatGPT, and other AI tools wouldn’t function without an army of contractors. Now those workers say they’re underpaid and mistreated."
-    publishedDateTime: 2023-07-28T20:19:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AI Models Might Make American Healthcare Better – But It’s An Uphill Climb"
-    excerpt: "In a nutshell, one thing you find out is that the best outcomes are ‘volume-based’ – in other words, if you find a provider that does a certain thing all day, that provider is probably going to be more proficient than someone else who is a jack of all trades or a generalist."
-    publishedDateTime: 2023-07-28T19:44:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/28/ai-models-might-make-american-healthcare-better--but-its-an-uphill-climb/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
   - title: "Here are the 9 smartest ways to invest in artificial intelligence right now, according to Bank of America, Morgan Stanley, and UBS"
     excerpt: "Artificial intelligence stocks have more upside, according to Bank of America, Morgan Stanley, and UBS. Here's how they recommend investing in AI now."
     publishedDateTime: 2023-08-02T09:30:00Z

@@ -60,15 +60,6 @@ related:
         width: 710
         height: 435
         isCached: true
-  - title: "Google Unveils Advanced AI Model To Train Robots For Real-World Tasks"
-    excerpt: "In a significant step towards enhancing robotic capabilities, Google (GOOGL) announced the launch of its latest artificial"
-    publishedDateTime: 2023-07-28T20:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/google-unveils-advanced-ai-model-to-train-robots-for-real-world-tasks-1032491309"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Aided by AI Language models, Google’s robots are getting smart"
     excerpt: "Google has recently begun plugging state-of-the-art language models into its robots, giving them the equivalent of artificial brains."
     publishedDateTime: 2023-07-29T13:00:00Z

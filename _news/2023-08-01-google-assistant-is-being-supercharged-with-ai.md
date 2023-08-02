@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-
 webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/07/google-assistant.jpeg?quality=82&strip=all"
         width: 512
         height: 269
+        isCached: true
+  - title: "Leaked internal Google email reveals Assistant is getting a 'supercharged' AI upgrade"
+    excerpt: "An internal Google email has revealed the company is pivoting toward upgrading Google Assistant with a special artificial intelligence."
+    publishedDateTime: 2023-08-02T14:58:00Z
+    webUrl: "https://www.tweaktown.com/news/92658/leaked-internal-google-email-reveals-assistant-is-getting-supercharged-ai-upgrade/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92658_22222_google-assistant-to-be-completely-upgraded-with-special-ai_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "yEn4mcbDCCayrxKMoWulWdURY+AgLMHX0GkZVNbmxbdsLScdwtn19mUmVkvaQ2lmw6UUTZdzQHU1WZ17hJr7l9gjgYF4Jx99hyMr/0kBJE/nIVMXCx/q1c9o/8zZOlnRvJt+2CMeeShr6JoiV+dzhS3rJMOHew0G+Bg58iiaZhKh6/3szMw+vpZ1swZKG2IHtZXEtABNOgigCNB2mwxY23Zszbns5ajvQcZTU+ceh+DTwt1Uy1YrcdUGhF1GFHAIuThnqCjcXJ5sC6s4ierCgcb+Hlts+2hNo83sMH9+++TGjMEErbsgUO6yK43VtfxmpfCvrcxhChhkno2YDbtAWKLkGUeZ4e/2cZINZZUEge0elSm/LJehR6HpcHzIfPhtS9gEZSiAaF+cKsNtfZEIFxuly5e3ZfTdiopcVa86W5RFD5ucHDVKdB5aT1YwUWkjLnTZDgkIxSyLeAV5RRhUl6gwqydNm87LQhi3irrkGAVtvkG3s19z7qOcn3P+zanj+6EXV14tasJTP6MdiH1QjQ==;71iQX69vi+P3fZA3HRCQng=="

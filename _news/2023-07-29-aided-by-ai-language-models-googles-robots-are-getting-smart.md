@@ -69,15 +69,6 @@ related:
         width: 710
         height: 435
         isCached: true
-  - title: "Google Unveils Advanced AI Model To Train Robots For Real-World Tasks"
-    excerpt: "In a significant step towards enhancing robotic capabilities, Google (GOOGL) announced the launch of its latest artificial"
-    publishedDateTime: 2023-07-28T20:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/google-unveils-advanced-ai-model-to-train-robots-for-real-world-tasks-1032491309"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Google’s RT-2 AI model brings us one step closer to WALL-E"
     excerpt: "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a “first-of-its-kind” vision-language-action (VLA) model that uses data scraped from the Internet to"
     publishedDateTime: 2023-07-29T15:11:00Z

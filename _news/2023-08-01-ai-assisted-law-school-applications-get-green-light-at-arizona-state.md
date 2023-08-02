@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/07/ai-assisted
 webUrl: "https://arstechnica.com/information-technology/2023/07/ai-assisted-law-school-applications-get-green-light-at-arizona-state/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Students can use AI on applications, Arizona State law school says"
-    excerpt: "A week after The University of Michigan Law School banned the use of popular artificial intelligence tools like ChatGPT on student applications, at least one school is going in the other direction."
-    publishedDateTime: 2023-07-28T19:14:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/b2Anx_GTiPSvepG6KWEo6YSj1bs=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMVVTUJ5J5JXRFRVUHV5ZWIYMI.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "Arizona State University Law School allows generative AI on applications"
     excerpt: "Arizona State University said Thursday that applicants to degree programs at its college of law will be allowed to use generative artificial intelligence in application preparation."
     publishedDateTime: 2023-07-29T13:04:00Z

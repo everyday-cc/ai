@@ -47,6 +47,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "Leaked internal Google email reveals Assistant is getting a 'supercharged' AI upgrade"
+    excerpt: "An internal Google email has revealed the company is pivoting toward upgrading Google Assistant with a special artificial intelligence."
+    publishedDateTime: 2023-08-02T14:58:00Z
+    webUrl: "https://www.tweaktown.com/news/92658/leaked-internal-google-email-reveals-assistant-is-getting-supercharged-ai-upgrade/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92658_22222_google-assistant-to-be-completely-upgraded-with-special-ai_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "1vqZIuIYCL7UvpkO1WaWwABaxgi0zMyRiX54FmuhzZJ8ZoU1y449pmXkDYDQxlKUL1TlbPWzHQ2lephiM0w6p4OuSfdZ1NFfi3klPizjrx8wrPcSIgbtd7v0DCMt5bdPy3ql9o2WqoWzI5ZksnFkP8Pu7AAnbrjk1+HGUo/qULwZjhh06PseKOfWtl+gNYWHSjrCJdkKm98nQ15Hhz7oaGNzso1NyvKn23piG/tgLCJYu1OwM0FH1z1vmeHF8kfcEAC+YjGL8uUyZTcfMSKrn+HBAX96XNFIBM8L8qy4OaGiyCdFattTNrgJJNTcXyfEO/PIK3ZVDsmuXp0H639ucNoPSerTAUT1fw3bDZLNJJ/OD+PW7cK6Z2EpwMf+RTZQGV/L3FLaUYAlvJvw96QTrUn8O7Bdm2nMac9CmvOc6vVih4+0G32bnmJJKDP6plSy7AWSuigigCn8JpvNPjGGaBXE0m7xIN5GwofjG7mk5B49hkkKdzQWJ2ITpL7OGeQDdP75Q0B84wNxdlQXTgA9gQ==;4McoekxmsKIP+tBuRCXB1Q=="
 ---

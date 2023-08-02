@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxla.com/news/entertainment-companies-hiring-ai-special
 cdnAmpWebUrl: "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://phantom-marca.unidadeditorial.es/324538eb1885d5209aebeadf1b589dcd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/29/16906447999149.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Studios Seek AI Specialists as Tech’s Role Debated Amid Strikes"
-    excerpt: "Major studios are seeking AI specialists as striking writers and actors express concern over the technology's rising role in"
-    publishedDateTime: 2023-07-28T23:00:00Z
-    webUrl: "https://www.movieguide.org/news-articles/studios-seek-ai-specialists-as-techs-role-debated-amid-strikes.html"
-    type: article
-    provider:
-      name: Movieguide
-      domain: movieguide.org
-    quality: 39
-    images:
-      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2022/11/0vgg7cqtwco.jpg"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "Hollywood is searching for AI specialists, offering handsome salaries, despite the strikes"
     excerpt: "As per The Hollywood Reporter, the advert for the job at Netflix states: \"Our business is driven by Machine Learning/Artificial Intelligence, which fuels innovation in content creation and acquisition, personalization, payment processing, and other revenue-centric initiatives\"."

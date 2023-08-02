@@ -2,6 +2,248 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-01-exploring-summarization-options-for-healthcare-with-amazon-sagemaker.md",
+      "title": "Exploring summarization options for Healthcare with Amazon SageMaker",
+      "excerpt": "In today’s rapidly evolving healthcare landscape, doctors are faced with vast amounts of clinical data from various sources, such as caregiver notes, electronic health records, and imaging reports. This wealth of information, while essential for patient care, can also be overwhelming and time-consuming",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/exploring-summarization.jpg",
+          "width": 1017,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T09:18:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-the-debate-around-ai-ethics-in-australia-is-falling-far-behind.md",
+      "title": "The Debate Around AI Ethics in Australia is Falling Far Behind",
+      "excerpt": "In Australia and elsewhere, the debate around AI and ethics rages. Meanwhile, AI apps with questionable ethics are being released daily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/",
+      "originalUrl": "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-ai-australia.jpeg",
+          "width": 1400,
+          "height": 954,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-incident-management-vs-problem-management-whats-the-difference.md",
+      "title": "Incident management vs. problem management: What’s the difference?",
+      "excerpt": "incident and problem management are two important processes for issue and error control, maintaining uptime, and delivering a great service to customers.\nThe post Incident management vs. problem management: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
+      "originalUrl": "https://www.ibm.com/blog/incident-management-vs-problem-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T08:18:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-new-vectors-for-ai-data-any-source-is-the-special-sauce.md",
+      "title": "New Vectors For AI Data, Any Source Is The Special Sauce",
+      "excerpt": "We no longer just have database specialists – today we also have data movement specialists. Airbyte is one such firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c8d3e5c3d7c3298969db63/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/amp/",
+      "publishedDateTime": "2023-08-01T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-amazons-aws-q2-earnings-preview-cloud-sales-profit-and-ai.md",
+      "title": "Amazon’s AWS Q2 Earnings Preview: Cloud Sales, Profit And AI",
+      "excerpt": "AWS earnings in Q2 2023 will highlight cloud sales growth, operating income, generative AI and Amazon’s profitability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cloud-sales-profit-and-ai",
+      "originalUrl": "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cloud-sales-profit-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/027c-16e3747ed8c6-ae36c1f05f3d-1000/aws-sign-summit.jpeg",
+          "width": 611,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-a-computer-visionbased-teleoperation-system-that-can-be-applied-to-different-robots.md",
       "title": "A computer vision–based teleoperation system that can be applied to different robots",
       "excerpt": "Recent advances in the fields of robotics and artificial intelligence (AI) have opened exciting new avenues for teleoperation, the remote control of robots to complete tasks in a distant location. This could,",
@@ -234,6 +476,57 @@
       ]
     },
     {
+      "path": "_news/2023-08-01-what-socrates-can-teach-us-about-ai.md",
+      "title": "What Socrates Can Teach Us About AI",
+      "excerpt": "In his Apology, Plato tells the story of how Socrates’s friend Chaerephon goes to visit the oracle at Delphi. Chaerephon asks the oracle whether there is anyone wiser than Socrates. The priestess responds that there isn't: Socrates is the wisest of them all.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6299631/what-socrates-can-teach-us-about-ai/",
+      "originalUrl": "https://time.com/6299631/what-socrates-can-teach-us-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/08/socrates-artificial-intelligence.jpg?quality&#x3D;85",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-ai-and-college-admission-dont-autocomplete-your-application.md",
       "title": "AI And College Admission: Don’t Autocomplete Your Application",
       "excerpt": "Artificial intelligence has the potential, if used wisely, to serve as a powerful guide to traversing the path to college.",
@@ -293,7 +586,7 @@
       "originalUrl": "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -640,7 +933,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -734,7 +1027,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -820,7 +1113,7 @@
       "originalUrl": "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -902,289 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-cfos-how-can-you-evaluate-budget-requests-for-cloud-spending.md",
-      "title": "CFOs: How Can You Evaluate Budget Requests For Cloud Spending?",
-      "excerpt": "With more cloud spending comes more decisions for CFOs on what budget requests to approve from internal teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e3d8278b45126c8a62c39/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
-      "publishedDateTime": "2023-07-31T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-4-ways-to-detect-generative-ai-hype-from-reality.md",
-      "title": "4 ways to detect generative AI hype from reality",
-      "excerpt": "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
-      "originalUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/",
-      "publishedDateTime": "2023-07-31T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination.md",
-      "title": "eBay Turns To AI On Its Attempt Of Tech-Led Business Reimagination",
-      "excerpt": "Despite its earnings beat, eBay Inc (NASDAQ: EBAY) shares tanked 10.5% upon the release of second quarter results last week while its main competitor and e-commerce giant, Amazon.com Inc (NASDAQ: AMZN",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
-      "originalUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/16544.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33475213",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33475213",
-      "publishedDateTime": "2023-07-31T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector.md",
-      "title": "Instagram reportedly developing new AI features, including an AI-generated image detector",
-      "excerpt": "These new generative AI features could not only enhance users' Instagram experience but also help fight misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
-      "originalUrl": "https://www.zdnet.com/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4e8e2311ff534c2f500d13b5866595f42de1b76b/2023/07/31/cba57098-e30c-49bf-afdc-a1e3fcce6426/gettyimages-1252972863.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/",
-      "publishedDateTime": "2023-07-31T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-dobot-robotics-signs-letter-of-intent-with-venhub.md",
-      "title": "DoBot Robotics signs letter of intent with VenHub",
-      "excerpt": "DoBot Robotics has signed a Letter of Intent with VenHub, a company developing a modular retail platform built on expendable containers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
-      "originalUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/dobot-collab-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-money-saving-fintech-snoop-acquired-by-vanquis-banking-group.md",
-      "title": "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group",
-      "excerpt": "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg",
-          "width": 1280,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
-      "publishedDateTime": "2023-07-31T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

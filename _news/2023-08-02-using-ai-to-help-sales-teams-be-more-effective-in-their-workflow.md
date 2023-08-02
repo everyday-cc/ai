@@ -57,6 +57,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Help Your Team Tap into the Power of Artificial Intelligence"
+    excerpt: "Outside of the internet, I've never seen something as powerful as artificial intelligence (AI) when it comes to transforming just about every industry or job function. With the rise of ChatGPT and other AI platforms, every leader, manager, and worker ..."
+    publishedDateTime: 2023-08-02T14:19:00Z
+    webUrl: "https://www.inc.com/soren-kaplan/help-your-team-tap-into-power-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1415846000_532882_a3jy61.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "njPhP36PfRQMjsVJT9zMfDQKtZ3HgCXogJyhplcBnNchmKESQ0J98jcQ8/WFuWn0rFLMHUtnm0iRFafd+N3ZnL1K2JA1bm3LT1vS5XYn8aG4nYfQsaQ32IH9uxCde3Uq6k1BlqlohrpTlTk3IUu41pipR6TXu/AAOViFULRJ22DKcTUCFq60gobfgxAMzk1ixgutBCjANEucfQ6Qb1aEFSF58zAq/zWKv3nHqe8lZkssCvSmFdkaM4RowKP18Amlj/xQL0lg5onLt+6iapCNQaXoqczUx6L7uwPUuXvrzT0hT+HqHZz+2sglWNasT80fOQkK33w/jlMQyvWReAH1Ts53Z4e+jRXdeA2AMzNb4xU=;8BFENsKUSjuCsHNLUvuL3w=="
 ---

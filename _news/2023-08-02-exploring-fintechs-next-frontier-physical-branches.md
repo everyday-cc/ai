@@ -105,6 +105,20 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Top 10 fintech lenders by total funding"
+    excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."
+    publishedDateTime: 2023-08-02T14:48:00Z
+    webUrl: "https://fintechmagazine.com/top10/top-10-fintech-lenders-by-total-funding-2023"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/e5ff8462968500ba2f1acc4b4bdf26b8:4deb0bcbf7d5145d2e79f83787481200/fintech-top10-lenders-1.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vanquis acquires money-saving FinTech Snoop"
     excerpt: "Vanquis Banking Group has announced its acquisition of money-saving FinTech Snoop. Snoop’s app generates personalised insights aimed at helping its users to better understand and manage their finances while also using AI to analyse Open Banking data to further assist users in realising cost savings on their household bills."
     publishedDateTime: 2023-08-02T09:01:00Z

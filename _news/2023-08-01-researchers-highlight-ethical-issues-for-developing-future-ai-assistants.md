@@ -71,6 +71,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
+    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
+    publishedDateTime: 2023-08-01T12:40:00Z
+    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 17
+  - title: "New Instagram Star Turns out to Be an Artificial Intelligence Creation, According to DeepTech"
+    excerpt: "Milla Sofia, a 19-year-old model from Finland, has become the new center of attention in the world of social media, as reported by DeepTech, a media organization covering news in the field of artificial intelligence and information technologies."
+    publishedDateTime: 2023-08-02T11:00:00Z
+    webUrl: "https://techbullion.com/new-instagram-star-turns-out-to-be-an-artificial-intelligence-creation-according-to-deeptech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 6
 
 secured: "OHhe732/yviK6fGS3HLviqDfzxm1MJtEsOr+rQSR+Lie2+BQ7QhazJWdCfGmDLopt4RzAx0f2823BkPSshqdhil7oCV2KiBZBBpeaQZYFG1eduffulLhm+Z9zZPuEMmC6YuNnrbYuOEH6BHxwg8jfyD++DHm10YRGLxHOokByojqeSnohZ4hB0yeRvrSIEsdhUVeJ0MM38jxcSI2tTkGQk2qKA7IF5hIw+jklV+YS2DmSyp4/GPhVAThEJLncUvYWb4DD/GpxZ1Q5oXB2PCxTe1bjld6ImWG8HUeucXlGIrPFWgZzUvAVY8u7tJZI29RlZ+CP+xFwjcjOakr5OoJfIV6TAgVFdoS/ZVlDoaLJvBEU3pzbyR1P/G3hRDD3lWmR7BlUcuhU4poRFt702m7P6W30g7TG/pYRdDbMeMbqIw21kIH5Dn7IeYoXvSEYqQlKlR6CAyXtsgcIkp2j0Iz61QX4yXriHjrUJOsPBnnyzB4YG8rdxGxHZA1GkuE0gtUQwyQz83hKC1s5jtMKy5OfQ==;8BG8lTypQoKq4fsXwqvTJg=="
 ---

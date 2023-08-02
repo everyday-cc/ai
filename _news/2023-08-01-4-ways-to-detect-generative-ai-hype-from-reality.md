@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Final thoughts from AWS Summit NYC: It was all about generative AI"
-    excerpt: "During his keynote, Swami Sivasubramanian (pictured), vice president of databases, analytics and machine learnings at AWS, called this moment the “tipping point for generative AI.” He mentioned that we are at somewhat of a convergence point where several forces are coming together."
-    publishedDateTime: 2023-07-28T19:23:00Z
-    webUrl: "https://siliconangle.com/2023/07/28/final-thoughts-aws-summit-nyc-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/AWS-Summit-NY-2023_003.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Top 7 Generative AI Courses by AWS"
     excerpt: "AWS has introduced a diverse range of 7 generative AI courses, thoughtfully tailored to cater to both technical and non-technical audiences."
