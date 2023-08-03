@@ -229,6 +229,20 @@ related:
         width: 807
         height: 425
         isCached: true
+  - title: "Samsung, Hyundai, Kia back AI chip manufacturer Tenstorrent in $100-million USD round"
+    excerpt: "Tenstorrent, which builds computers meant to train and run AI models, has closed a $100-million funding round as it looks to advance product development in a time of accelerated AI adoption."
+    publishedDateTime: 2023-08-03T20:00:00Z
+    webUrl: "https://betakit.com/samsung-hyundai-kia-back-ai-chip-manufacturer-tenstorrent-in-100-million-usd-round/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 47
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/08/Tenstorrent-and-Samsung.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     excerpt: "Nvidia's GPUs are not the end-game for AI, says Keller. \"When the aliens land, I don't think they'll be asking us did we invent CUDA.\""
     publishedDateTime: 2023-08-03T12:22:00Z
@@ -255,6 +269,15 @@ related:
     provider:
       name: Business Times
       domain: businesstimes.com.sg
+    quality: 34
+  - title: "Jim Keller’s AI Chip Unicorn Locks Up $100M From Strategic Investors"
+    excerpt: "AI chip startup Tenstorrent closed a $100 million strategic financing from the likes of Hyundai and Samsung in what the company is calling an “up-round.” The Toronto-based company previously reached unicorn status after its $200 million-plus raise in 2021."
+    publishedDateTime: 2023-08-03T17:27:00Z
+    webUrl: "https://news.crunchbase.com/news/tenstorrent-jim-keller-ai-chip-startup-funding-hyundai-kia/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
     quality: 34
 
 secured: "x/+94Skkujj4fIiuJ2Ebxr/7B89GIzOFAY3ykZq8Q+6oWjFUt/htfCT5eZctBdQjH69+wWnf1cnL0Cp/5yYmAv1ZwRPElSt6FFxJqiCAZy70iuEk0NNfe59bdFjAjm9ry2reF4Y3aS39Dv70aQVTK2/vypNP+A5kjKChCVMnK8MlfuKhERF8xI1UH1fXgVkxInNpOcu0Y7rCOtrceJDXpSRMdIqyripqQlZ97ckAI4pc+bbNWfP3B/qwV4dY06/paxC2BzkuQPgh7sOTlvamiCMNmL6XQ5kH67n5kHBAHSyhTLWRKhAeOGyb6ZT0d5VG72QVPUkv4+qr29TLVl9wY5+gf+IaKDRmpcWc7HMBAKg=;TtTWKwW2GMoZ3DEAiwGTTA=="

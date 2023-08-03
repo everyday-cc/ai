@@ -100,20 +100,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Jay Ambrose: Artificial intelligence loves America"
-    excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
-    publishedDateTime: 2023-07-30T05:01:00Z
-    webUrl: "https://richmond.com/opinion/columnists/jay-ambrose-artificial-intelligence-loves-america/article_0b3abbb6-2cc2-11ee-8a22-4bdad8e34086.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/b3/0b3abbb6-2cc2-11ee-8a22-4bdad8e34086/64c2e5f841f26.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "m724WJVC0Mlao1RmtTIphQy1mKbzM9aStaYkLZY7TdCZPyIJLVOJXZ9VL4wSHMiPYjJ9vdfSNXSlaEHE0U9Crt/Y7roveL7zulIPycgrFZbQUOzK9XtYaotjyUOtNC+8aMSfnO3vUvcwDgGa0myKt/JxiJUQM1tsgQZD2XhOsAVsWBloMCS1uulGNdfWArAheJrpCMAZTg78O1UUDkDqaKfiS8EFMT1NqNo6mkzKDuG3BbR73a9X/gqYyagnO4axAxIVG73xI92932jimKYUhtFVy9DiF0Wu6VJDzaWVDbGCiQG7gPEf5CX5tSKtMKBmQUGJ9WnRxzItXDC8gXdrAa7a38Xc/lXd6SteYq8qCaOCbIaFdKWpg2psdq5b3PliT9t2p9LdezNjrddTu8WpqBNj/I5xtKgUIMq5Gbp58jrOkaefBX+iijdeQqiDSnB+zsBBfDQ0t745oneN5E5n8GS11BGPmFg6qTNwUuyQlVGNCO6CX70fKx5NM2aoeH9kzhAoicahVGgl1wpgH7TLuw==;lspIZyMs5cj7/FRHCHikNQ=="
 ---

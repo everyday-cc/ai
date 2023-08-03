@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Working with Generative AI Just Got Faster!"
-    excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
-    publishedDateTime: 2023-08-02T11:42:00Z
-    webUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "What’s wrong with tech giants riding the AI wave"
     excerpt: "Rising on optimism over their AI prospects, more than on actual AI revenue, investors are betting that the giants will rule for a long time. The average age of the tech top five is edging back up towards 40, with no newcomers. And their size is unprecedented."
     publishedDateTime: 2023-07-30T12:01:00Z
@@ -90,15 +76,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
-    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
-    publishedDateTime: 2023-08-03T15:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "bveRZO4NtzU9gF/PlfnqMq3CHJ1iq2PBniNpNOf7d1puZT6d1ae8rI6MkrIHtetkbWgEgwWxUVP4wztA6ZiyFt14Vhw20looxcdAN2RqCXk14PBJLRSf3Ykflp8KSde1OdymM2X/DFbpdOBAD++ca+/ILaiSOxRyJlStE4dVm8daRKM5A5+bFxLCIJwS/QqiUaUMt3I8OQ0KkzY2OZPkCgVaT4sRTYSAsJSUXaac0jlF+lkj5stV8Cxr19FqAFzMfq1fp0dVUwBXAuKuBKfiZJrYDkFHYm5aeY7mhlFck7x9z4SMCc484BKXdax3rXyQ5G087ENQxCM44BWy72eZYx30aoBMJZpNpRbZoBPZCazUc+X2WgS9QGI8/XISKzqwF0ROQGkwxKiZ0dJh1WskKexzb1LMB82qkZlyKngN7f3LfC3rtbTApIwJCOfTuIcMTh6jktsnxTo34vxbSSxxJTvP+6+wLjx+Gj8JWZh1DV12BEUH6HQMSG70xs6KB8B91R4bCdLDuKSW0XRB0fIOog==;gnKqZYG2pyoJkIJKqeErgA=="
 ---

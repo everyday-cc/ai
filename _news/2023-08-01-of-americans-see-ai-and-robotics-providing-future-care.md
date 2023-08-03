@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "Jay Ambrose: Artificial intelligence loves America"
-    excerpt: "At the moment, a major issue is regulatory control of what could be a mighty intelligence power, with some fearing nothing less than disaster if scientists, businesses and political leaders moved too quickly and others believing the real disaster could reside with too little being done too slowly as enemies and some specific,"
-    publishedDateTime: 2023-07-30T05:01:00Z
-    webUrl: "https://richmond.com/opinion/columnists/jay-ambrose-artificial-intelligence-loves-america/article_0b3abbb6-2cc2-11ee-8a22-4bdad8e34086.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/b3/0b3abbb6-2cc2-11ee-8a22-4bdad8e34086/64c2e5f841f26.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "LoFFU6nMLysvALjhihEKUprUASi21ayN5ZGDsao+pn0DwQU9y5+9QPcb5cpSbRsgJ/kitQ82hk3HQUp5JTQwJrlhuIu34IjNz988Y/t8BN7wYG2pT4E6ZKGAZLeGBwAQjdRZanYesBxKDpl9ffvOqXU7rdtxQVSpUvYMveAYRg3PlK0K06yXNoxayYkC1qPUg6u73FWKTiyxFosZqcTFCb0/9sJ+gXtZeFrONBOqOufzlSTMMI0ewwOlji1WBwsx3h0RCapSvtiykgNpzfjnD5PSUbO/TBEqkG5tvI5bp23gOo3wbpVAgRF/2NCDYqHwwkww5HrnNo8vvIJCzILu33XEcbU2xAJcEzarg7npH18=;JV1UdB3P8jRoO1xVMqAl4w=="

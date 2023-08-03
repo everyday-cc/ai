@@ -9,8 +9,8 @@ ampWebUrl: "https://www.my9nj.com/news/entertainment-companies-hiring-ai-special
 cdnAmpWebUrl: "https://www-my9nj-com.cdn.ampproject.org/c/s/www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: WWOR
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Entertainment companies hiring AI specialists amid Hollywood strike"
-    excerpt: "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts."
-    publishedDateTime: 2023-07-30T02:44:00Z
-    webUrl: "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike"
-    ampWebUrl: "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
-    cdnAmpWebUrl: "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
-    type: article
-    provider:
-      name: KTTV
-      domain: foxla.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Hollywood goes on AI hiring boon, despite WGA and SAG-AFTRA strikes"
     excerpt: "Hollywood studios are rushing to hire AI professionals, despite ongoing strikes and layoffs. What could this mean for the industry’s future?"
     publishedDateTime: 2023-08-02T19:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-r
 webUrl: "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
+    excerpt: "In recent years, numerous principles, handbooks, codes, and guides have been released on how governments and organizations can tackle widespread AI risks. An online resource from AI Ethicists has an impressive list of more than 70 AI principles from governmental,"
+    publishedDateTime: 2023-08-03T19:20:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/opinion-principles-laws-consumer-protection-can-galvanize-ai-regulation-2023-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 44
   - title: "Xiao-I Corporation: Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China"
     excerpt: "SHANGHAI, CHINA / ACCESSWIRE / August 2, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, is excited to anno"
     publishedDateTime: 2023-08-02T16:01:00Z

@@ -33,6 +33,15 @@ related:
         width: 728
         height: 485
         isCached: true
+  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
+    excerpt: "In recent years, numerous principles, handbooks, codes, and guides have been released on how governments and organizations can tackle widespread AI risks. An online resource from AI Ethicists has an impressive list of more than 70 AI principles from governmental,"
+    publishedDateTime: 2023-08-03T19:20:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/opinion-principles-laws-consumer-protection-can-galvanize-ai-regulation-2023-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 44
 
 secured: "lJq8eknOzsA/3x2VL485VHx1J4aWFXTsUxI91PrZOwACgQMdD0/Gu5xgUa3105nm/hZoSCxH6pdbrx5+7mZ+SaTFJ6vzIrv3SMgRSv1IqX6vrkCoj73Ik4hltgmiPjTA/ZRoCg6TS6XJsu7p7ysolyC+wdgQEoTKhcheUiHZp7rmsiERW4YUyETYe9cHdf7bSTyH/jw7BM9ijTl94A/mv9FH2Ki1iOOjvYZcQ5TbuqwjMAL7dq99WJGFR72MDPFU9L751pVLyvn+C1MzZ6T57PFJ8PlHn4+0QBvIqk4jX5HyyBPyh+KUSaaLCw3OeX4/uDhIMeRUawqJu7b8BV3XO8FK4S/6cDnC0vwbYxvwYc0=;VlKWAFiQyuEnZ1s7Fs2xLQ=="
 ---

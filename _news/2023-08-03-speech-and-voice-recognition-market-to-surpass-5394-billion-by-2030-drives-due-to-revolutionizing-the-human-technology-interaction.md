@@ -203,6 +203,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Computer language that anyone can read’ launches Aeternity compiler"
+    excerpt: "The developer of Lexon claims that it may provide benefits in computer science education, as well as allow for better GUIs and automated self-documentation."
+    publishedDateTime: 2023-08-03T21:01:00Z
+    webUrl: "https://cointelegraph.com/news/lexon-computer-language-that-anyone-can-read-launches-aeternity-compiler"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 24
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvMTYzM2EyMGUtYzhlYy00ZWZiLWFhYzEtYmMyNWIzYTYyYzIzLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Alaska lawmakers must consider regulating facial recognition"
     excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
     publishedDateTime: 2023-08-02T14:00:00Z
@@ -212,6 +226,15 @@ related:
       name: Fairbanks Daily News-Miner
       domain: newsminer.com
     quality: 19
+  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
+    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
+    publishedDateTime: 2023-07-31T13:36:00Z
+    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 13
 
 secured: "zQZEWdtqC2ar/xrPioJUxSbfz2BCLCWQfaTALr4A3Axb/nLWhzuTuEqaIhvsxQ4WtlsuslcyTLeoWs45lG/58u143gL9u7yh+uFrp29QIb2NVdboTb4IeX6njh3oKaARUUJEm/MNZr4jt8081yZnpwiSi4NjPefOgpBkjX1tEOR9odBq3qGPw25W0etMwMEjLCdCZlcC0Gal8h11CtAEdIrbq0BxbcLmU2deA1CmhXLC7iUsyWzlNqMK0r0tQeVIZEC+O4sCzUFyyuA7uqgbpKZMwOX7ZjfHtoiXdQ9tBtkp9aZ5jMvcJd8ZFke12iBQO/K0AbrrU3ue7hHsUoUMUalrSh1LuT0RzE/XZ6P6eNs=;I4LMBl18Eoh5HyqKzSyk5w=="
 ---

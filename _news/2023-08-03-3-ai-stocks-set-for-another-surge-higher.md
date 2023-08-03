@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-03T16:32:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-set-for-another-surge-higher-1032513799"
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-set-for-another-surge-higher-1032513799"
 type: article
-quality: 47
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
+  - AI Hardware
 
 related:
   - title: "5 AI Stocks Poised for Growth Without Sky-High Risk"

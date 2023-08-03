@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Working with Generative AI Just Got Faster!"
-    excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
-    publishedDateTime: 2023-08-02T11:42:00Z
-    webUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Using AI to Build Stronger Connections with Customers"
     excerpt: "As companies learn to use generative AI to create value, there’s a risk that they take the wrong approach when applying the technology to the customer experience. In fact, research shows AI can help boost customer satisfaction when it’s used to offer customers more personalized solutions or to help human employees provide better service than they would without the technological assist."
     publishedDateTime: 2023-08-01T12:15:00Z
@@ -91,15 +77,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
-    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
-    publishedDateTime: 2023-08-03T15:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "DmIS4Yqg6+si1RPADTGLTLSNZKLy/wy9dWL3w9DZov9LifG1qNzMxpDtXkmfZGWV6k+gvy3lbcZsq1HaSYYiGnQrAnlvcBGZmg/9HcdVqW4vP95vVkmQD2JQLtwQrsHPcllSoHMtubitc4zbgQ1jnr6Ztd7g4gdWeGa4HtRKqMtKM0qX6epJNFrXnmp+MWgsCIqGb5VZ5NcCqM1PUW0ruDRHn0XRhr7TjcLTm+HYsmGV3TnklnE+nSWxoxm3gxAnZHqxPIA3Mtfny99/7lP5waTZ+7NkdND5POZa/356fxvavVcaOROP9DL6TAIHHfUCnwOVLq9xdJEQbOmmJaE87OB2cdTgkd2A+w688576QLY=;u9K+avFxsBjCeVdJH1SypQ=="
 ---

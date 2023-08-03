@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
-    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the ..."
-    publishedDateTime: 2023-07-31T15:37:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/crime/facial-recognition-camer-sex-offender-coronation-b2384856.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 33
-    images:
-      - url: "https://static.independent.co.uk/2023/07/31/11/iStock-1322374647.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "tS3o/ek3R0mDmkWw8xZLsFf0+tK0pIrtsU9WLfA6ou4BTkFk0I1YZm5nFDJL8LAuL/E4heaMVehjpUmfs1szsdhRDcY+Pie7M/MqgmfXP4KlaTMIcd1JSwEFkWwjpKy3TbSy00nKE01FLufQ3bOW5p2264nHD0cH/HP0cUAwfW8m1SH1mENUZkAzJsR9UYkxOyGa6PfoSKJcYIE1rKeNh5ltg16rra+Cam4wJlCBMPxX11TZMNT0MdKs5V81a8Yu118iGuKub4vBB1Sa4ijr5YXbnzmB62rVQ2r42BNrC4Fb9QeOMVyHJ/f5gsyYy1r8MPhtHvhh34rTeO2SeLVQzvbtfgSJl4Jo77qX0t3AUvtdnjziJ6en/SNQIM42NwXVmS8kvs6cUd8bc+BkFdFJToir1R/SbWZB5zXwRkcINATdj35dLEjzCVYSukZ1LYFQS3p8wp4+W/5V98Dz1L/wcrmDOGE69QEmuaHAu8woevdOtQzAfhl7KMKPxdK2MfYuXu++uxWIdoEAQ1nqmZhzIQ==;1RjQ2LXYuJOhLKrW5Zz7TQ=="
 ---

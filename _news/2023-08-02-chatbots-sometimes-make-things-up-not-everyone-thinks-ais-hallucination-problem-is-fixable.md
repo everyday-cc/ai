@@ -106,22 +106,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Angel One launches AI-powered campaign #SuperIsHere campaign"
-    excerpt: "The film aims to encourage and empower billions across the nation to leverage the power of data and technology in their wealth-creation journey with the Angel One Super App"
-    publishedDateTime: 2023-07-30T04:40:00Z
-    webUrl: "https://www.exchange4media.com/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/angel-one-launches-ai-powered-campaign-superishere-campaign-128821.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 59
-    images:
-      - url: "https://www.exchange4media.com/news-photo/v_NFldkRX2k.png"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Chatbots can make things up. Can we fix AI’s hallucination problem?"
     excerpt: "Builders of AI systems known as large language models say they're working to make them more truthful. But some experts say the problem isn't fixable."
     publishedDateTime: 2023-08-01T15:35:00Z
@@ -187,6 +171,15 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
+    quality: 47
+  - title: "Uber is working on its own AI chatbot, reveals CEO"
+    excerpt: "Uber CEO Dara Khosrowshahi told Bloomberg this week that the company is working on its own AI chatbot, with no specific details disclosed. Also: Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
+    publishedDateTime: 2023-08-03T18:29:00Z
+    webUrl: "https://www.zdnet.com/article/uber-is-working-on-its-own-ai-project-reveals-ceo/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 47
   - title: "The Chatbots Pick Up on Your Feelings"
     excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
@@ -287,20 +280,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Experts discover workarounds to evade chatbot AI safety rules"
-    excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
-    publishedDateTime: 2023-07-30T03:56:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/experts-discover-workarounds-chatbot-ai-safety"
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination fixable?"
+    excerpt: "Described as hallucination, confabulation or just plain making things up, it's now a problem for every entity or person trying to get AI to do work"
+    publishedDateTime: 2023-08-03T17:31:00Z
+    webUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
+    ampWebUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 37
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/a3c1f5c/2147483647/strip/true/crop/2309x1212+0+43/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F13%2Fe2%2Fff7bf4a641e1a1b217ff1e1b3efd%2Fistock-1494104649.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "We’re using AI chatbots wrong. Here’s how to direct them."
     excerpt: "After testing dozens of AI products, Brian Chen concluded that most of us are using the tech in a suboptimal way, largely because companies gave us poor directions."
     publishedDateTime: 2023-07-30T14:00:00Z

@@ -69,20 +69,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Unleashing the Power of Generative AI in Fintech: A Groundbreaking Interview with Sam Edge, Global Head of Fintech for Startups at AWS"
-    excerpt: "Sam, please introduce yourself, and tell a bit about your professional background. I’m the Global Head of Fintech for Startups at Amazon Web Services (AWS), where I lead a team of former founders and investors to support the world’s best and brightest fintech startups and venture capital funds building in the cloud."
-    publishedDateTime: 2023-07-31T14:19:00Z
-    webUrl: "https://financialit.net/content/unleashing-power-generative-ai-fintech-groundbreaking-interview-sam-edge-global-head-fintech"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/sam_edge_31.png"
-        width: 2292
-        height: 2293
-        isCached: true
   - title: "Vanquis buys fintech firm Snoop"
     excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
     publishedDateTime: 2023-07-31T06:51:00Z

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-30-tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities.md",
+      "title": "Tech Mahindra Leverages Microsoft Azure OpenAI for Enhanced Enterprise Search Capabilities",
+      "excerpt": "Tech Mahindra integrates Microsoft Azure OpenAI into its Enterprise Search offering, aiming to boost proficiency, productivity, and employee satisfaction through enhanced data accessibility and AI-driven capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388",
+      "originalUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-101399388,updatedat-1688133100045,width-1280,height-720,resizemode-75/101399388.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388/amp",
+      "publishedDateTime": "2023-06-30T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search.md",
       "title": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search",
       "excerpt": "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services",
@@ -1367,40 +1410,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-news-tagged-with-cognitive-impairment.md",
-      "title": "News tagged with cognitive impairment",
-      "excerpt": "Women with atrial fibrillation progress more rapidly to cognitive impairment and dementia than men with the heart rhythm condition, according to research presented today at ACNAP 2023, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
-      "originalUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

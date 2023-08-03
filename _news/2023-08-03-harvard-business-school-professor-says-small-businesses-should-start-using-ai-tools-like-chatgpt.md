@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "The Google Assistant is getting a big reboot around generative AI"
-    excerpt: "Axios has more details about Google's plan to reboot the Google Assistant into something based around generative AI. As was previously reported, the Google Assistant team is getting reorganized around Google's new LLM (large language model) ChatGPT-clone,"
-    publishedDateTime: 2023-08-01T19:44:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 91
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI"
     excerpt: "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more."
     publishedDateTime: 2023-07-31T16:16:00Z
@@ -159,6 +143,6 @@ related:
       domain: nymag.com
     quality: 17
 
-secured: "RBIBYywOiASTtfiSHUGeodoL3DBh53WidU6ANjisXiV8+s6zgdHOTNlql9r22S8MQaxJs6c9u/6+Xpjzj+aVN23tMSiK1bqHaJcFtXg5ELYRHJsazgK1qwFpBm4OJKMQF+Oq3lxse1vcRP5ZSNNaidkC6KxqfR2FOUvflvFQTDyPU2UAP+UKh9VOtD12av9n7lrzYQbCfOKXPQcAmL4VvXZ32Z3XNSMzqd4cOzpB5skc7y9Tm/2/3YNIJZgfv39ZqLLVz3XJq8r88zfl64ahgJcPToae8Khm3z01ns7froKRVU5PLr+OCLBrbQVSjyNuN4BP2VzftcCWwnPgyVVIi3EAqyZSX4WAX6klLnYhRQU=;LRMARkBPEygKOTCFwNGd9w=="
+secured: "uUHlOqiLxoYmotZvvresUQBiHIiwl09gI92sS6fwvgHlNrvtUGkr3aVSTWFmR3zI5AGNtJSjhmlE4ED5DDuZ+D9Ob1lFl9Oa8wW+EBRWFu+QBnGtBN5UB+rtvfoN6V67/yPBxi1aCr0/2uzES9cCIr6O9o5YGbc26Ni71VbBcOwRRqajyyruCmm2Gak0O38DGtLSkxH9qKtHApYhe1D6yUofEDvm1imgw0tSnoY6nUsyaPc0r65TnVHpynb19rdg7yET6s1KMxxD0FjDKLAIkyj68HHF9ihYPT8TxaJhzbVL8Ju9KdbDaiEj0go4oSdWiYRoUHCIwRFDZHoTqDGjggIk05nej+7iGfPO+AI+WhkJh07C6donrWvhiszFOIyM/GS13patvS5nGrhVqhYBM2qOVNtZppuGgkoiXu6m/aMcla2J92f/F6Z2gc9fxZurFOFo8Mw9ACT710rFfhu8mMEAlJls0WvrpyNAnAU0ZqI7sffm0cp9kBjNU3QwDl+utNAlStGYGJXsZiD+nE/tZQ==;xZ8cuSSnK1EtDGOuI0lxfA=="
 ---
 

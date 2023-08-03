@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-03T16:30:00Z
 originalUrl: "https://venturebeat.com/ai/nvidia-gpu-shortage-is-top-gossip-of-silicon-valley/"
 webUrl: "https://venturebeat.com/ai/nvidia-gpu-shortage-is-top-gossip-of-silicon-valley/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/08/Untitled-design-2023-08-03T102846.408.png?w=1200&strip=all"
@@ -44,6 +45,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Tqv5Hli4ZRiAAKghAKtzmDCifopADZEY63qCML6Hta1KCmfo6YH+UpzmW9YrBrrQUlUrnU9trpdc+IyA7sHxDu9o4vnimglEHqgdyXikVfeZTMlYeisKPI6XlmF6HjSV2wXSNxlZ+ufTL6iY6JpqwBjx+quzVmaBLYVbi5yi4qCqmC2T+5iTXdWxf5xm8gl5E/Hyci8niR40GSPPblPMcRf3+KIdnZ9fxX9osh4eAgOSyPOUOh7gTdH7gKr6ESOpQdDCE7V5TknMDGE6C0hCw7y/phgp8UNTArAVWO9qHvnS9rhsKJltHUnvp8meCqkAwG/9esA3RReXSwBqxQr4O/3zYVsw5Ii6ikvLvAFEfis=;k56VcAkFSYcPSVeqoVJj2w=="
+secured: "lDowRwu+KlHM+WoG5fJvj7rNL8028snhxJ7BKagoy6OCpSn85GG77WrWBzxjPcFFcPFmfrDupdwwyK2mx4+As/h4G5hevE3TyDv6M68c3M2PJKiW/+R1+YZ64S37jpXUxO8BCAsM2w1BPJUrDNVzqXVa4/ttt60wyrO6x9JQRF1hL8jX9kWzBQcQESKw7iDMZJIiVPAD4Cw7TYkh9EoIJqClQ/3eWjIUnh/ybxDxflVxv/mqBkIPCDdKjIbb/xdYMKo+3uGrjmfXW+5dm6AoaNsIVWfKJoU4vF5YGMxhfQff7flLAbEeINVyvylMUvMQoBmfsws05GFtJzEpVFU8p3Q1xNL79tqv5oUygCWoyCiFpkq99e9JpxTSphb1JZFYEZJH78CQAJnr9D25uMvBEMAF4/LnLN7P1vchqBM1CX/pKiVMCFgB8fyW52iDjNkcu3113a1bbLrAazGcr+RC/G8zgELUquHJ+oKbj3NqxumR5EUCLH/KV2AW54Aqx2Te9Q45dfETR2Vbn05xKmKS7A==;S41+sVsDzXFLl6Yvk0V7sw=="
 ---
 

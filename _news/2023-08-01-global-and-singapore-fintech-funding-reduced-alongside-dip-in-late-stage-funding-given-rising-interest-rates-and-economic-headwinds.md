@@ -33,6 +33,29 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
+    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 18
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
+    excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
+    publishedDateTime: 2023-08-03T11:45:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/210911-fintech-firms-stavvy-and-brace-to-enhance-servicing-innovation/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "PHAmOB1TkZwZqGjw8wVNUB04uEXQJ/9t/orrAiZ4xk1UhkVYQLONTAWsb47/BBtq2MGiIbycmXEZgzKX2qERFG0ngg5sGxbykIlz6ta2uTciz4QR3J7ADQckoS22t00T0bSX3InbKCXyKKn7a+U73UcyhSLJNvJjEPCvKNMvaSdCKLl0nS2M1iclMHpGku4gIrcwcj2hJLP3JlZXWMjGgWdkJ6jJq9IaENA2xJBTY2lTODUQMI1UyK5xsvGXlDQLgPehmvFNG3e7o7bU0Ie0hvGhm9w2l9jBWx2a3WXxfoVcZMsNnG9+sD3DHxU39q12GBj8IMCagX9yiJ4zrvAJfv/s34RHCsP+pj/BC6q4RIfUPZ/p4V/7/wCh0VBmf27x+dO3icB/Ri6PGaZagpKdfshxLtGr47TmvccaeWcbNZi59934zjsm2B+1QIq6Ihvefabs1GAaabtyt5j8lRN6dbpTrd4QMpZlww+9SWmDhaD2ZDIJhZFf3Xfhf9BQj5gPXBO4CcCTxr1oCgwXt4KZDg==;XTHo3eoc3zHVZIkWyqmixw=="
 ---

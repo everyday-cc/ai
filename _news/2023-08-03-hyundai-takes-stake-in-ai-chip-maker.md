@@ -230,6 +230,20 @@ related:
         width: 807
         height: 425
         isCached: true
+  - title: "Samsung, Hyundai, Kia back AI chip manufacturer Tenstorrent in $100-million USD round"
+    excerpt: "Tenstorrent, which builds computers meant to train and run AI models, has closed a $100-million funding round as it looks to advance product development in a time of accelerated AI adoption."
+    publishedDateTime: 2023-08-03T20:00:00Z
+    webUrl: "https://betakit.com/samsung-hyundai-kia-back-ai-chip-manufacturer-tenstorrent-in-100-million-usd-round/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 47
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/08/Tenstorrent-and-Samsung.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     excerpt: "Nvidia's GPUs are not the end-game for AI, says Keller. \"When the aliens land, I don't think they'll be asking us did we invent CUDA.\""
     publishedDateTime: 2023-08-03T12:22:00Z
@@ -256,6 +270,15 @@ related:
     provider:
       name: Business Times
       domain: businesstimes.com.sg
+    quality: 34
+  - title: "Jim Keller’s AI Chip Unicorn Locks Up $100M From Strategic Investors"
+    excerpt: "AI chip startup Tenstorrent closed a $100 million strategic financing from the likes of Hyundai and Samsung in what the company is calling an “up-round.” The Toronto-based company previously reached unicorn status after its $200 million-plus raise in 2021."
+    publishedDateTime: 2023-08-03T17:27:00Z
+    webUrl: "https://news.crunchbase.com/news/tenstorrent-jim-keller-ai-chip-startup-funding-hyundai-kia/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
     quality: 34
 
 secured: "8OjEzvYIenlaFLP8NVE71f8J2Nor1VLDdDUdGbEKRHITRR+eYpPwnxKlzVR/DjGokluGon2N5Jh1Z7bALy8NQkTiyB98z6TjWuknGhur8qYd3H5+J1GI5M9gVTM08SKQ/qDhQgCSgbEVAFfSnS4g+lGGs7gxpcGUuCVqZ51lNH0+vk9oV6zzhDfx571eaHol0bkaHBum/hVAUORh16AL7aUcBS7pJ02I62x2wz979ASKlSAKs5oudVl8+kRF4m77zOVVuCD2vAvkcLtPtT9YQgUyDV2QaCMebTyyRXDFxVCCP6ccDS17XVsKpO0XYhZ5xPHmrtTAS88EY2HikaN+1TzenFc/42UvAmBXEEqN+CwXPZFW8fT+I1TtGSdhHoOQ/SYl2mNBI8MPffQwGUz9Z3imY/Xl4f6va5AksvnrFPTjf1FVbtDdnPEUoivkdCLUtKR1myehZ3baG/yokH0OJS+zrELWVASnZc5m9Qf2L+H+060Z+rvuHoq0KLXa605CLkaRseqaUlMnbkjKm1W9YA==;J7IayMP4TjyWM2MTO5vO/w=="

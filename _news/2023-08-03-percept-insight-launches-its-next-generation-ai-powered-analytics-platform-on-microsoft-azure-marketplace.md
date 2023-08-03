@@ -312,6 +312,15 @@ related:
         width: 1560
         height: 1040
         isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
   - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
     excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
     publishedDateTime: 2023-08-01T09:54:00Z
@@ -321,6 +330,15 @@ related:
       name: GovCon Wire
       domain: govconwire.com
     quality: 28
+  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
+    publishedDateTime: 2023-08-03T19:12:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 19
 
 secured: "McZJ6S++L5WhD7g/XOKiiKS30JmvvXB+3lYaSWj+eHEur0doGAkcPfCAMT0/YUHQkMKDwQD6l0ZJLIGs2iaQs3r2czK+hI+8w71UEryY7mxi/POkTP4TwVkUnYsB4hWkoDKC6TTOkC/pTgDHxv0FifTmOzhKUwX7NNY4J2KDxfKMOlxKFJnV4+9NGe9vP102qqH3MF00NEwcr6q2J24hyb6YxJVBBA1hF05iMQQEgFUYMs0wsngPAUqU3z/YVC5G6ldHxIoNk8Wv05FkkhuAslOgvXts/kqdH5zJ8SoPLI7bed48yBxOkgY1TIrhiI6NIlexu3+LXWNZ9xabBmGQmrkTSFEYPdvNuNQc4hNYRtV0g2xOSnMApU4fVCUznnW1zHt3lKDccFmz39kQ+7CbtP//u6Y56EYvtFfEvbY8YQR4wmedizcAYxKlFXS88DEv4xdaWs+k36lqTMJNIkKTkyVsLZmiFSNOc5HylRmDU3l08ah+1/HlCBiN/OuFUTZMiEpcCihxRvwe1q/YXpSOHA==;pge9mSFESAsySG+zj5a4HA=="
 ---

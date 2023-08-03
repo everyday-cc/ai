@@ -33,13 +33,13 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/Untitled-design-2023-08-03T102846.408.png?w=1200&strip=all"
         width: 1200
         height: 750
         isCached: true
 
-secured: "AQhCF6FTEZFoKLdrGHIprOW0hQmybtjWwrHvXZK32B38pSz+lXsTzvRUx8wu4VV/6OfpsZ8NHsBI4agL9TXviUlW6D8FlniGN53FG8pHwQVGl13mq34WbE+V2Yfk+1gnI49afqayydfkNkImykdbP6ecwoEskQAEDKK4urs3zAYwY32VtQLLvc9e7NbW8k940vp/u3qwmlktAJAQsNMkiuRbSvIistdwJcAZ63R2EekdAEPIc3AEtSZiVs8Vgo1Qpt7xWualOoyueGYn7T5Gj5TFBuptlTM+Q1zXti+vjfp08AAgwqnzP6ZD/6lvXNZoXXYkB+GtY6+zdXyOwms8x4ML6p9OpEsQSZ3qjqTp9GI=;Sc0J8dgjpOmhSFmIoBcktg=="
+secured: "UaUdsutPWHPnZsW979ziucaa268VO0tRO99rWjyyC2lQ452DG+M4edsN0q6BnNQQUm52M9hqXcYFH9QZg7POalFB9FOBh6H/KxkgSVEiWf45OisBRqS6D2Ery+K1bPK6tkAhGHK4mGRhpI/NEdhBmgb7Qz0ux67MZPyMed2lWKfn0oE3hduPZaLntAK6cZuy1ZC3PUu0osu+MWesRfAvq9q+IPF/wLmmnIWkCT1cvBJ0CJCa3jgoElS6AO6D5rqaEaBAPCTMtTYG5vkOUA3OLGYAhcm9OZ7iWYCP+IovQdxq0I1uvIut/TfQWqJ++QJpyC0NF3U0kVAXwIXcu2YTQwyt3tawyr5ASwwSMc3GbFCB0beYrXl1yNBRE5M2yZri245FBm/80Vp0pgNoBUCfnaYxd0NkC/CtqW6+DWXOqunFmQAX/vozDtR+63G57yJBSyVG2St24AXn4XS66wFksoEd4kJGikVJtudnrYhR8oEoSzgdtb5cmUDjWItAgwBgv5ylbJ0OhWeYW0EnKPj16w==;vqS5as0hGf/SB+aUO2yCfw=="
 ---
 

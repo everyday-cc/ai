@@ -145,20 +145,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
-    excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
-    publishedDateTime: 2023-08-03T17:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
   - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
     excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"
     publishedDateTime: 2023-08-02T20:17:00Z
@@ -191,6 +177,24 @@ related:
       name: WWLP-22News
       domain: wwlp.com
     quality: 19
+  - title: "IBM and NASA open-source foundation AI model for analyzing satellite data"
+    excerpt: "IBM and NASA jointly trained their model on a geospatial dataset called Harmonized Landsat Sentinel-2. The dataset includes images of the Earth’s surface that were taken by NASA’s Landsat-8 satellite. It also contains measurements from Sentinel-2, a satellite constellation operated by the European Space Agency."
+    publishedDateTime: 2023-08-03T19:38:00Z
+    webUrl: "https://siliconangle.com/2023/08/03/ibm-nasa-open-source-foundation-ai-model-analyzing-satellite-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
+    excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
+    publishedDateTime: 2023-08-03T19:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859321.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "gPrLdPg15DKJBGEAu3isLgq68DnF2q+iXHGJySgqmP1KIiAlkpvQ17Z+bTWYr9QRXpafV/nk/DBiT+hGCLULwHJLfQ6DQG7T5co1lIHkXoixPgA9gIkYPXbL2uKpMkFVaKqHMCL/jcj2pOmy/wc/CF3Ruq4i+pUSeYrxOJ+PAfgdwDM1vYDkA2hd5ghbJBHyyXDubndjXTcXZJ5MXUstCkEjzcUbFgWWviZnFlq8uK1L8MTsDjOsaTKHh/zxAmSAh2rsCpHaQnuVV8sYv4pyU+5hF8hP8A6psQJVNk7TQiKozew6GG6vPmavKTRfVHpY1lHliGO6jZRvMb8z6NPCf4EXGCXl3ulsNVNSsM6Gp4M=;Fl/CGlTnp99HsdoL5EWzIg=="
 ---

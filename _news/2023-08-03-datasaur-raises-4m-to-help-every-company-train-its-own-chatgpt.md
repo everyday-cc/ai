@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Datasaur Secures $4M and Unveils New Feature Dinamic to Train Custom Natural Language Processing Models"
+    excerpt: "Datasaur, a leading natural language processing (NLP) platform that helps annotators train AI algorithms, today announced"
+    publishedDateTime: 2023-08-03T20:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/datasaur-secures-4m-and-unveils-new-feature-dinamic-to-train-custom-natural-language-processing-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/datasaur-ai-square-300x272.png"
+        width: 300
+        height: 272
+        isCached: true
+  - title: "Datasaur Secures $4M and Unveils New Feature Dinamic to Train Custom Natural Language Processing Models"
     excerpt: "Datasaur has invested the last four years in building an intuitive and efficient platform that enables companies to label their own data which transforms raw data into valuable AI datasets. With Datasaur's new product Dinamic,"
     publishedDateTime: 2023-08-03T16:01:00Z
     webUrl: "https://it.tmcnet.com/news/2023/08/03/9859186.htm"
@@ -35,6 +49,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "Rh83rqirL3WoXgXVVwT8GSK2rzjHEoDd8Y9Cl8CECy+0slColK7toqVZMZBEmCAnVAZnyvcgw21a9fanJSe63cNkk9+obsZdZ41K1uEZoCxtVNcbrPL9DnZp9SJTmZ0Ttkh1DZu4PE68Uf2jP+2X1N9SCppH2BWSyuR4g6+Mys53Oc5inpERhDUep3A/hvS8CbWtR4XIimC+JDeLnqqFbAwH4hV9FDb0o6+erYG7cimcgoWgRpZD5V8UztRhJEzvgGH14A3KJ5sKY9YSwEuzqFOaOnS0CDbHUvdldfYvpVllrEbKsm71lJoFvtz94pDKLf3IGfcIgtnLoAzkYsmnT0NdHyaoFPPPsOKEcMSndZA=;CH/Oy2GiolARkos88R4hjw=="
+secured: "7u/wdjKf5r4axo494No03RlbtIRqsUCqlhqvjyKI2oK2SYmzzEeYT+U2RNOhMsOgo5nwsrY3b3mltCrVg44Enf9/OfMeMJJyuHH+LYS8HOa5Crg2eDkA1bBabOFG50JqJF6e+ipfpgSsLj5nryHB3TLofNIJGuyTfVnWeQW3uyoq515nU6Q6+6pW6ePHXv6KiWi/e9MVzsjWrIPRykhO2lL4cktf88pKAa89ZGTElMkXS10GQqKAx60FtSukEdnYdSJedcXzRwEtijatigkyP5h5B9guXGzgb8vyFsO9l3sPS9mfNYh5GQVw2J6bYwfX9UyCuBI03d+DeeJTh9dgUpZ4zKYzKPOEWSA1iwXyFhMVKTjLe4hOZuKv2yjWQ2fJdmmQGFKegLGTKqF0OrLK4N1ReSTc+v223/wbI/2qYsbaniEc8BC1vv9I+A0buh4pdNgWVqchsk7mVFdpWHN+pXvV17JxjGSx5XrZpxMRkX67EpWLDK73Q5zkVo84trrxMOisd45l1F+Xee5i6JY+ew==;P40zdfGBGv1wLDisz29EnQ=="
 ---
 

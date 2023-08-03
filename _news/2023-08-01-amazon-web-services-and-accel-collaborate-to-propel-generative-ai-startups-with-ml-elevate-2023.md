@@ -26,51 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country"
-    excerpt: "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups."
-    publishedDateTime: 2023-07-31T13:59:00Z
-    webUrl: "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/"
-    ampWebUrl: "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/"
+  - title: "Enhancing AWS intelligent document processing with generative AI"
+    excerpt: "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,"
+    publishedDateTime: 2023-08-03T21:03:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 83
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg"
-        width: 1500
-        height: 844
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/How-to-get-started.png"
+        width: 936
+        height: 420
         isCached: true
-  - title: "AWS and Accel announce ML Elevate 2023 to Support Indian GenAI Startups"
-    excerpt: "Amazon Web Services (AWS) and venture capital firm Accel has announced ML Elevate 2023, a six-week accelerator programme aimed at empowering Indian startups that are building generative AI applications."
-    publishedDateTime: 2023-07-31T09:28:00Z
-    webUrl: "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/"
+  - title: "The Google Assistant is getting a big reboot around generative AI"
+    excerpt: "Axios has more details about Google's plan to reboot the Google Assistant into something based around generative AI. As was previously reported, the Google Assistant team is getting reorganized around Google's new LLM (large language model) ChatGPT-clone,"
+    publishedDateTime: 2023-08-01T19:44:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 91
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ML-Elevate-2023.png"
-        width: 1280
-        height: 720
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
+        width: 800
+        height: 532
         isCached: true
-  - title: "AWS and Accel join forces to launch accelerator program for Generative AI start-ups"
-    excerpt: "Start-ups will gain peer support from AI and ML founders and an opportunity to scale generative AI apps on Amazon SageMaker JumpStart. Generative AI start-ups that have an MVP ready and those ..."
-    publishedDateTime: 2023-07-31T13:19:00Z
-    webUrl: "https://www.businesstoday.in/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
-    ampWebUrl: "https://www.businesstoday.in/amp/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
+  - title: "Why AI’s Creative Intelligence Will Change Advertising In 2024"
+    excerpt: "AI is perfectly placed to change many aspects of the digital advertising industry, and this is especially the case in the realm of ad creativity."
+    publishedDateTime: 2023-07-31T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202307/ezgif-sixteen_nine_647.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/608881c0e49450ab722af606/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "AWS and Accel Announce Accelerator Program for Generative AI Startups in India"
     excerpt: "Amazon Web Services (AWS) and venture capital firm Accel have jointly announced ML Elevate 2023, a 6-week accelerator program aimed at empowering star"
@@ -86,24 +86,108 @@ related:
         width: 2640
         height: 1486
         isCached: true
-  - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
-    excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-    publishedDateTime: 2023-07-31T15:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
+  - title: "Working with Generative AI Just Got Faster!"
+    excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
+    publishedDateTime: 2023-08-02T11:42:00Z
+    webUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "6 Ways Generative AI Is Changing Content Management"
+    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
+    publishedDateTime: 2023-07-31T13:26:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Learn how to use AI in your projects with Generative AI Studio"
+    excerpt: "Watch the introductory video below to learn more about what you can expect from Google’s Generative AI Studio and see the language tool in action. Let’s start with the basics: what is Generative AI? It is a type of artificial intelligence that can ..."
+    publishedDateTime: 2023-08-02T09:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/generative-ai-studio/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-use-Generative-AI.jpg"
+        width: 700
+        height: 459
+        isCached: true
+  - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
+    excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
+    publishedDateTime: 2023-08-03T21:01:00Z
+    webUrl: "https://www.cuinsight.com/efficiently-grow-with-predictive-artificial-intelligence-engagement-modeling/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 34
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Smart-Manufacturing-And-Hit-470991649.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Unleashing the Power of Generative AI in Fintech: A Groundbreaking Interview with Sam Edge, Global Head of Fintech for Startups at AWS"
+    excerpt: "Sam, please introduce yourself, and tell a bit about your professional background. I’m the Global Head of Fintech for Startups at Amazon Web Services (AWS), where I lead a team of former founders and investors to support the world’s best and brightest fintech startups and venture capital funds building in the cloud."
+    publishedDateTime: 2023-07-31T14:19:00Z
+    webUrl: "https://financialit.net/content/unleashing-power-generative-ai-fintech-groundbreaking-interview-sam-edge-global-head-fintech"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/sam_edge_31.png"
+        width: 2292
+        height: 2293
+        isCached: true
+  - title: "Icertis Brings Generative AI to Enterprise Contracting with Delivery of First Contract Intelligence Copilots"
+    excerpt: "PRNewswire Bellevue Washington [US] August 1 Icertishas deliveredIcertis Contract Intelligence ICI Copilots the first generative AI applications for enterprise contract management Built on IcertisExpl"
+    publishedDateTime: 2023-08-01T17:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273917243/icertis-brings-generative-ai-to-enterprise-contracting-with-delivery-of-first-contract-intelligence-copilots"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 20
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ZDdhZTFiZDEtZWY.jpg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
+    excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."
+    publishedDateTime: 2023-08-03T19:56:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/03/as-gen-ai-explodes-will-legal-tech-companies-get-more-aggressive-protecting-company-secrets/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 6
+  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
+    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
+    publishedDateTime: 2023-08-03T15:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 21
-  - title: "Blackbaud Invests in Generative AI Startup for Social Impact"
-    excerpt: "CHARLESTON, S.C., July 31, 2023 /PRNewswire/ -- Blackbaud (NASDAQ: BLKB), the leading provider of software for powering social impact, today announced a strategic investment in Momentum, a leading AI-focused Blackbaud partner, graduate of Blackbaud's Social Good Startup tech accelerator program, and winner of Blackbaud's 2022 startup showcase."
-    publishedDateTime: 2023-07-31T15:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+    quality: 0
 
 secured: "fE7kvy7C0Vd9XkDjMYAGjdKk1tG7xNVxljJUOFt8pk+J2js+cOJeVmCqSUq7P4FLkGn5l8iNKpOkMCTwubc4uAeuwuwaplcVnqh+KjpXwfz6Wd4J9gyjY46SPQoZJ3qgpKDSXO9b2oe/crOKM6juVYaaCQ3PeCVU6ZnIyLIEw1q0ZhzKJN6HLUorNQYL8w6igL2CyWDlPal2Yqq8HNhtBrNSiXa0yhWiUSuOaoDPT0f6uW2KykElHh9sekAwuQzOec6iGMucq4UQk7a5OgEGmOgEoGIHk5AmBRYzip5UmWsVCq/fhhh7Wo5ODNiO8lJtxi02MaB/57iYpHReCnW9bPPIQ88FaEIG+7AyK2E+n5v7W+AAdqwFOtN6ChE0m28aqmeRWzZ/CoByet5mBLImn4UTaI5lL5iqNDTzdQ987nB0OjZgTXCvzfjTG9iU9dKY3dILUjIvjP/VRdQLxCacgRykJ+yZyqdVmZ6keCsBcAINYkVd35VrCWDL3jPYpJBw6tO7Gs/I2lc/T/wrNa+FsQ==;5mxhkjOMz4Fh1gpiVWUXVg=="
 ---

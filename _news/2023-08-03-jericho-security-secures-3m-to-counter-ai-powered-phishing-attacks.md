@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "Tromzo secures $8M to lead the charge in AI-powered cloud security solutions"
+    excerpt: "Tromzo, a cybersecurity startup, today announced an additional $8 million in an oversubscribed seed round led by Venture Guides to secure cloud applications."
+    publishedDateTime: 2023-08-03T19:49:00Z
+    webUrl: "https://venturebeat.com/ai/tromzo-secures-8m-to-lead-the-charge-in-ai-powered-cloud-security-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
   - title: "Fall offerings at Manchester Community College include AI for Cybersecurity and Computer Science Extended Reality"
     excerpt: "What was once the domain of science fiction novels and Hollywood movies, has quickly developed into a mainstream career path and Manchester Community College has enhanced its offerings to reflect the explosive growth of computer science careers."
     publishedDateTime: 2023-07-31T01:48:00Z

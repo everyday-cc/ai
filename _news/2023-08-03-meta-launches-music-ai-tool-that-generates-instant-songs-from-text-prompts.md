@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta unveils new text-to-music AI tools to compete with Google's"
+    excerpt: "EnCodec is an audio codec comprised of neural networks that compress audio and reconstruct the input signal. As part of the announcement, Meta released the most improved version of Encodec that allows for higher-quality music generations with fewer artifacts, according to the release."
+    publishedDateTime: 2023-08-03T20:39:00Z
+    webUrl: "https://www.zdnet.com/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/bfe856c9bcc0b2902226cee85375e8a69b5481e8/2023/08/03/fe614ab3-0f0a-47d1-b4aa-53d01d34d452/gettyimages-844347442.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta Releases AudioCraft AI Tool to Create Music From Text"
     excerpt: "The AI tool is bundled with three models, AudioGen, EnCodec and MusicGen, and works for music, sound, compression and generation, Meta said. MusicGen is trained using company-owned and specifically licensed music, it added. Low commission rates start at $0 ..."
     publishedDateTime: 2023-08-02T15:11:00Z

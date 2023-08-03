@@ -312,6 +312,15 @@ related:
         width: 1560
         height: 1040
         isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
   - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
     excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
     publishedDateTime: 2023-08-01T09:54:00Z
@@ -321,6 +330,15 @@ related:
       name: GovCon Wire
       domain: govconwire.com
     quality: 28
+  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
+    publishedDateTime: 2023-08-03T19:12:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 19
 
 secured: "Vak62Cc8AXgMKfDaGEDW8hrAb4qTRqqo4s0a/SKsxnUQG/YVvUp0zSzzCdas/eTkLAR7Yf4D3pu1j/nssuJi2vISnpctqqfL6FfRW65/F2El401HbjG2ofU36franZU37ZMBVOLBzbjC9VJ3wCx6TFR4alMEJRPmj4U6tBJNp/LLFVfq4kR2SuYTTNDOEB0iJrFBY4aA7WFz704y4Wp0wVWqzWwdOSiB/B1Xyhh1asVV8uJr19LIzvpZJXxSUdS4RRJKBdSYGObLxV/PS9IIYZW9wm54C5fd7uDarikP1hFKP9A2Z4mc3Vb+aOB1CGctzFHh3bL4XieMNB5DlXE5BxxY9vg3pcKTH5LWFZeoOWg=;In3aP5vvl5slSdngiebPcA=="
 ---
