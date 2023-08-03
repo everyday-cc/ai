@@ -19,17 +19,64 @@ topics:
   - AI
 
 related:
-  - title: "New AI app sparks baby fever, but will it lead to more child commodification?"
-    excerpt: "Remini’s AI imagery has created excitement about parenthood in younger users, but one expert cautions that its approach could be a dangerous path."
-    publishedDateTime: 2023-07-31T17:00:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/254946/new-ai-app-sparks-baby-fever-but-will-it-lead-to-more-child-commodification"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254946/new-ai-app-sparks-baby-fever-but-will-it-lead-to-more-child-commodification"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254946/new-ai-app-sparks-baby-fever-but-will-it-lead-to-more-child-commodification"
+  - title: "How AI Has Revolutionized The Digital Lending Sector"
+    excerpt: "Scaling up with technology Today, leveraging advanced technologies has become the primary reason behind non-fintech and non-lending startups jumping into the digital lending bandwagon and finding success in the same. \"Advanced technologies such as AI have ..."
+    publishedDateTime: 2023-08-02T04:42:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/how-ai-has-revolutionized-the-digital-lending-sector/456807"
     type: article
     provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 36
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690950881-rupixen-com-Q59HmzK38eQ-unsplash.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The AI Revolution is Canceled"
+    excerpt: "C&E published a magazine cover story with the ominous headline: “Artificial Intelligence Could Alter Campaigning As We Know It.” The piece focused on how pollsters will be […]"
+    publishedDateTime: 2023-08-02T19:31:00Z
+    webUrl: "https://campaignsandelections.com/campaigntech/the-ai-revolution-is-canceled/"
+    type: article
+    provider:
+      name: Campaigns and Elections
+      domain: campaignsandelections.com
+    quality: 39
+    images:
+      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "ParagraphAI: Revolutionizing Writing with the World’s Leading AI Tool and Assistan"
+    excerpt: "Introduction In an era dominated by digital communication, the art of writing has taken center stage, with the demand for high-quality content growing exponentially across various industries. To cater to this ever-expanding need,"
+    publishedDateTime: 2023-08-02T08:17:00Z
+    webUrl: "https://techbullion.com/paragraphai-revolutionizing-writing-with-the-worlds-leading-ai-tool-and-assistan/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 33
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-writing-tools-to-generate-ideas-62a877278db09-sej-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "+clSwCsnLjwampz8c6oJZoPybaWWlLC+rQWrj3WwRXlDsNzuJ0PGcx3S0/Xg3pld70F82lxeWw8EF26LfyuBBUC58pFsU83glrD/yKtKmrqtcFP1YYb1sFS7NIyvs3LTRPfZWXrWI3UTt/FdOu1NAqGS2CQZzyH51JKuzZd9uPiJfSJaIpqalbv+mPm7q1Rc6H/n21LM5RCT2WHuTOfq7Q3tb604nIrdLs1y1cOXo6QElyPRCfq+Qghb5VYfaDPZo5oED3yDtmZhCqjElR7zotfYT3yjj0pZXBWzOX4gWPdqNaNBE2+xELy4jTNcR05VC0dC5XVpEKgAuR2CeenbdCq60vtST8+gzjdZim+oL36rjYSdczyPxcSLJKQ3RGbqspEEAWkNc2aV3INSSgCxtPlIR0D3udvX4vUy1EgI5jvx3pyRqG9MFRuHrvRY/+/RvkPetA8Ue90fC2SJ6H7VXhTz3dI7GtE30mI48mMBTXKSZh2NoB5rrx7VhzbUcjoSFGEtnFw9AB47RYuo+1FpWw==;9ECeN3pZpPTcQgWJ33zv/Q=="
 ---

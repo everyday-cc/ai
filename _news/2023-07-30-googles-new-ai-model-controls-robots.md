@@ -87,22 +87,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google’s DeepMind AI enables robots to perform novel tasks"
-    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic (the understanding of words and sentences), and visual understanding beyond the robotic data it was exposed to."
-    publishedDateTime: 2023-07-29T06:11:00Z
-    webUrl: "https://www.gujaratsamachar.com/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
-    ampWebUrl: "https://www.gujaratsamachar.com/amp/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
-    cdnAmpWebUrl: "https://www-gujaratsamachar-com.cdn.ampproject.org/c/s/www.gujaratsamachar.com/amp/news/science-technology/googles-deepmind-ai-enables-robots-to-perform-novel-tasks"
-    type: article
-    provider:
-      name: Gujarat Samachar
-      domain: gujaratsamachar.com
-    quality: 74
-    images:
-      - url: "https://static.gujaratsamachar.com/articles/articles_thumbs/photo_1690611113728.jpeg"
-        width: 370
-        height: 250
-        isCached: true
   - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
     excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
     publishedDateTime: 2023-08-02T14:00:00Z
@@ -146,20 +130,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9306.png"
         width: 708
         height: 399
-        isCached: true
-  - title: "Google DeepMind empower robots to accomplish new and unique task"
-    excerpt: "“RT-2 is not only a simple and effective modification over existing VLM models, but also shows the promise of building a general-purpose physical robot that can reason, problem solve, and interpret information for performing a diverse range of tasks in the real-world,” said Google DeepMind."
-    publishedDateTime: 2023-07-29T05:36:00Z
-    webUrl: "https://telanganatoday.com/google-deepmind-empower-robots-to-accomplish-new-and-unique-task"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 39
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/03/Google.jpg"
-        width: 1280
-        height: 750
         isCached: true
   - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
     excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."

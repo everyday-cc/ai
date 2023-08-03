@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-12-edge-artificial-intelligence-ai-chip-market-by-2030.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market by 2030",
+      "excerpt": "Chip market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-by-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-by-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
       "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
       "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
@@ -1370,58 +1422,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-chinas-ai-industry-barely-slowed-by-us-chip-export-rules.md",
-      "title": "China's AI industry barely slowed by US chip export rules",
-      "excerpt": "The rules restricted shipments of Nvidia Corp (NVDA.O) and Advanced Micro Devices Inc (AMD.O) chips that have become the global technology industry's standard for developing chatbots and other AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/chinas-ai-industry-barely-slowed-by-us-chip-export-rules-2023-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/chinas-ai-industry-barely-slowed-by-us-chip-export-rules-2023-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8NgE-1bXHPgt8VNLbMIiOc8UY6s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/65LYREDM3RMMZLDZD6ENCBIMKE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

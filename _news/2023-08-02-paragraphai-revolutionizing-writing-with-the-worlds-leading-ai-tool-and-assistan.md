@@ -25,15 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "LinkedIn seems to be planning an AI 'coach' to assist you with job searching and applications"
-    excerpt: "A leak indicates \"LinkedIn Coach\" is in the works, an AI tool to help with applications and questions about things like a company's culture."
-    publishedDateTime: 2023-08-01T12:50:00Z
-    webUrl: "https://www.businessinsider.com/linkedin-coach-ai-tool-job-search-applications-2023-7"
+  - title: "How AI Has Revolutionized The Digital Lending Sector"
+    excerpt: "Scaling up with technology Today, leveraging advanced technologies has become the primary reason behind non-fintech and non-lending startups jumping into the digital lending bandwagon and finding success in the same. \"Advanced technologies such as AI have ..."
+    publishedDateTime: 2023-08-02T04:42:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/how-ai-has-revolutionized-the-digital-lending-sector/456807"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690950881-rupixen-com-Q59HmzK38eQ-unsplash.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The AI Revolution is Canceled"
+    excerpt: "C&E published a magazine cover story with the ominous headline: “Artificial Intelligence Could Alter Campaigning As We Know It.” The piece focused on how pollsters will be […]"
+    publishedDateTime: 2023-08-02T19:31:00Z
+    webUrl: "https://campaignsandelections.com/campaigntech/the-ai-revolution-is-canceled/"
+    type: article
+    provider:
+      name: Campaigns and Elections
+      domain: campaignsandelections.com
+    quality: 39
+    images:
+      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
+    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
+    publishedDateTime: 2023-07-30T10:46:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
+    excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
+    publishedDateTime: 2023-07-31T11:51:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2542411-how-is-ai-powered-video-conferencing-revolutionizing-the-virtual-communication"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 15
 
 secured: "5xBj8jNVaNDI+fDqKiZCVeKddKOsQohv31bifQV2ddm3dK2wwQo0QA4AsZ0LMAqj+TvMpVEYoirOxiVWcUOercWr9PUDnjaAflpRhxUrOQ5mkNVwD2VwR2yPohSbyifP88psV0L32t2UaKzCbY9XrqcfEsgOz1SXXq663QyD3ck1U7AEfNOhyepC33SYa5N66IcuDTm+KvznU1pI9EeBJUyZZGh59qj2Yi17Jm64XRpRa8Z9vF6zN501elKInajmoAh6Nt6T8vwSpW5ROFmP6pkteOT0DwLMFMGC9sedryDQI5yXNQCE8VpEr4YMs5s3Hi3dO/pr0WIJbctdfKow8uSynIT9sh+tzjkEr+VMGJE=;XwYdF8LfHhnadDdLnn/Lww=="
 ---

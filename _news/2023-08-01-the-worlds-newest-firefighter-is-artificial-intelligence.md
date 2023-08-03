@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/environment/newest-firefighter-artificial-intel
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:

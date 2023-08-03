@@ -52,6 +52,15 @@ related:
         width: 441
         height: 295
         isCached: true
+  - title: "New threats, same rules for finance generative AI"
+    excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
+    publishedDateTime: 2023-08-02T20:39:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/new-threats-same-rules-for-finance-generative-ai/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
     excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
     publishedDateTime: 2023-08-01T13:00:00Z

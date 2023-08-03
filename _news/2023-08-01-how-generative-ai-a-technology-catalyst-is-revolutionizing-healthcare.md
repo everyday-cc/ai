@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New threats, same rules for finance generative AI"
+    excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
+    publishedDateTime: 2023-08-02T20:39:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/new-threats-same-rules-for-finance-generative-ai/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "The potential future of open-source generative AI"
     excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
     publishedDateTime: 2023-07-31T09:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-the-fourt
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062223-featuredimage-lenovo-extending-ai-ready-infrastructure.jpeg"
         width: 1400
         height: 788
+        isCached: true
+  - title: "Don’t risk your rep: The importance of ethics and compliance in generative AI"
+    excerpt: "Putting your trust in someone means believing in both their good intentions and their ability. Or, to put it another way: “Trust is about character and competence,” says Justin Tauber, Strategic Innovation and Responsible AI Lead at Salesforce ANZ."
+    publishedDateTime: 2023-08-02T23:00:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/dont-risk-your-rep-the-importance-of-ethics-and-compliance-in-generative-ai/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 51
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/Saesforces-article-3-1466x710-1.png?resize=1200,630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Working with Generative AI Just Got Faster!"
     excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"

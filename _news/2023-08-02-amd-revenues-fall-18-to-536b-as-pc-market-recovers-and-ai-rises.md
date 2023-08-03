@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/amd-earnings/"
 webUrl: "https://venturebeat.com/games/amd-earnings/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/62203/content/AMD_Dr_Lisa_Su_Hero.jpg"
         width: 708
         height: 400
+        isCached: true
+  - title: "Believe Gives AI a Vote of Confidence as Company Revenues Climb 18%"
+    excerpt: "Artificial intelligence “will rapidly be available to elevate the quality of the music,” said CEO Denis Ladegaillerie while delivering midyear earnings."
+    publishedDateTime: 2023-08-02T22:52:00Z
+    webUrl: "https://www.billboard.com/pro/believe-ai-confidence-revenues-h1-2023/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 37
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/03/Denis-Ladegaillerie-cr-Anis-Martin-2023-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
         isCached: true
 
 secured: "DXXXN4AQyS8q7w5lEmQHDHWQ4UtbuJT5StJql9fnV4ySuiNltasi5ZUhBGRc1tVDVbGxI92w2dxqb9gCAMv0aTuHw7rwoArRuQRZp4uuTuUjfQMNvYLKJbDFxP92cb3wTe8WprCWSkpI+TCv/N+pr3J2WFsM1LoBS2HzdtW/0wUJ8VCOUitk0I/uG7xUCBILK36LKNR3i9gSRaupDBwz7gWDyuftL4Th65J+1ZKWzAQc7m5SeOkiM9uqo9IYFCzo7FM269+kycE5BiqFZs0L/Cah6WH63kvx9pXYvtGF+v6GSMaS2pnE1UiSlPnmiuccoPLRyWbwPU+h3eNxREvpMmICDnZDCFdipk/k+V5iBspmgLhu5b3orYHiKeKGziRV8RrThRX23jllpQpSgnUPcJlZqYcZ/zfdKrn2ZujZCxOkGkhzZnz/Gjcvj9MWDdTJcNtq0PaQai51nicUQ0WkoxgrnHqwfD3IZYFcVS6O6PWDgHX+BPz5fh+X/Q5MjdiOIu6t1WFqDgzc65R8XdJO2g==;xLH4WyPL0uhq2F9hqSNfOw=="

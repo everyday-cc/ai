@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-20-autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy.md",
+      "title": "Autotech Ventures’ new $230M mobility fund adds fintech, circular economy to its investment strategy",
+      "excerpt": "Fintech, logistics, supply chain and the circular ... Autotech Ventures is also cautiously wading into generative AI, although Andreev was quick to note that the company has not made any ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
+      "originalUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-157650258.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform.md",
       "title": "More Nigerians to access credit facilities with Kredete AI-Powered lending platform",
       "excerpt": "Fintech startup, Kredete, has opened up an opportunity for more Nigerians to get access to credit facilities with the launch of an Artificial Intelligence, AI-powered application for lending ...",
@@ -1164,50 +1216,7 @@
         "AI",
         "AI in Finance"
       ]
-    },
-    {
-      "path": "_news/2023-03-28-buy-nowpay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis.md",
-      "title": "Buy now/pay later fintechs lean on AI to survive the banking crisis",
-      "excerpt": "The recent banking crisis adds even more pressure on buy now/pay later lenders, which are taking steps to better manage underwriting and credit decisions in the months ahead. Many lenders want to limit damage by using machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/payments/news/buy-now-pay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis",
-      "originalUrl": "https://www.americanbanker.com/payments/news/buy-now-pay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/76e0027/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fee%2Fc1%2Fe042d3314172878007bc70e76645%2F366620409.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

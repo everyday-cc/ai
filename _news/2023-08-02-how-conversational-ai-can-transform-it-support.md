@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-su
 webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr00802223-featuredimage-ai-to-fuel-16-contact-center-market-growth.jpeg"
         width: 1400
         height: 785
+        isCached: true
+  - title: "AI Has Finally Become Transformative"
+    excerpt: "After a decade’s worth of innovation, new models can change the world the way the internet did."
+    publishedDateTime: 2023-08-02T15:46:00Z
+    webUrl: "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-827870/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Rakuten Group signs pact with OpenAI to deliver conversational AI experiences"
     excerpt: "Rakuten claims to have more than 70 services and 1.7 billion members worldwide. It operates Japan’s largest online shopping mall and offers a diverse portfolio of services spanning e-commerce, fintech,"

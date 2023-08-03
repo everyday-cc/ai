@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
+      "title": "Low code AI with Power Apps and Power Automate",
+      "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "originalUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html",
+      "publishedDateTime": "2023-08-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-govts-dgt-partners-with-amazon-web-services-to-upskill-students-in-ai-ml-for-better-employability.md",
+      "title": "Govt’s DGT partners with Amazon Web Services to upskill students in AI, ML for better employability",
+      "excerpt": "DGT said students enrolled in the institutions under the DGT will benefit under the tie-up. DGT implements long-term institutional skill training in the country through its network of about 15,000 Industrial Training Institutes (ITIs) and 33 National Skill Training Institutes (NSTIs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/",
+      "originalUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/startup-pexels.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/",
+      "publishedDateTime": "2023-07-31T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-the-worlds-newest-firefighter-is-artificial-intelligence.md",
+      "title": "The world's newest firefighter is artificial intelligence",
+      "excerpt": "With current wildfires in Greece, Italy and North America, and Australia on an El Niño alert that could signal dryer conditions perfect for another grim summer of blazes, the race is on to develop better early response technologies and even ways to accurately predict outbreaks.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/environment/newest-firefighter-artificial-intelligence/",
+      "originalUrl": "https://newatlas.com/environment/newest-firefighter-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/61cca5b/2147483647/strip/true/crop/4994x3329+239+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fef%2F2c%2F8a576a7f4eb89cc5c726b530acac%2Fdrone-shoot-oak-grove-butte-ripplebrook-or-dji-0732.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true",
+      "publishedDateTime": "2023-07-31T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-what-europes-ai-regulation-moment-will-mean-for-the-world.md",
       "title": "What Europe's AI regulation moment will mean for the world",
       "excerpt": "AI's regulation 'moment' that Bodgan-Martin heralded in July will last for years and be an exercise in international legal coordination. It best be comprehensive and careful to ensure the power of AI is deployed for the good of humanity.",
@@ -106,7 +254,7 @@
       "originalUrl": "https://fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -252,7 +400,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -338,7 +486,7 @@
       "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -672,7 +820,7 @@
       "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1026,151 +1174,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-banking-on-mainframe-led-digital-transformation-for-financial-services.md",
-      "title": "Banking on mainframe-led digital transformation for financial services",
-      "excerpt": "Explore why the world’s biggest modernization challenges are concentrated in the banking industry.          \nThe post Banking on mainframe-led digital transformation for financial services appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
-      "originalUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T06:04:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-how-ai-music-startup-audioshake-is-expanding-content-localization.md",
-      "title": "How AI Music Startup AudioShake Is Expanding Content Localization",
-      "excerpt": "AI music startup AudioShake is making quality dubbing and content localization viable for content creators at all levels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
-      "originalUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c48d91821236b6e642dc54/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
-      "publishedDateTime": "2023-07-31T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-a-jargon-free-explanation-of-how-ai-large-language-models-work.md",
-      "title": "A jargon-free explanation of how AI large language models work",
-      "excerpt": "One reason for this is the unusual way these systems were developed. Conventional software is created by human programmers, who give computers explicit, step-by-step instructions. By contrast, ChatGPT is built on a neural network that was trained using billions of words of ordinary language.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
-      "originalUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/LLM-cat-vector-space-1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/",
-      "publishedDateTime": "2023-07-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

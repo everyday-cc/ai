@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-02T19:25:00Z
 originalUrl: "https://menafn.com/1106772490/Mbzuai-Launches-Dedicated-Robotics-And-Computer-Science-Graduate-Programs-To-Meet-Surging-Global-Market-Demand"
 webUrl: "https://menafn.com/1106772490/Mbzuai-Launches-Dedicated-Robotics-And-Computer-Science-Graduate-Programs-To-Meet-Surging-Global-Market-Demand"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Robotics
   - Natural Language Processing
+
+images:
+  - url: "https://menafn.com/updates/pr/2023-08/02/M_b6a3bimage_story.jpg"
+    width: 1270
+    height: 846
+    isCached: true
 
 related:
   - title: "MBZUAI launches dedicated robotics and computer science graduate programmes"
@@ -54,6 +60,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Mrd8QQIgYzOtolyvFLGm/vWg8NpVg5SzkpJ65zK0Bigcc1P1llQZTPL8A7ir3pgH55igkQuvdGylTIlBTeD1Rc8xGHbAE0tjte9mjnA43MK9aOQGo/tEvPAkO6csWLvwmqFqEJvcGI7jr/PwT1NPF9wApedmTzWq2yygqAXrHcK8BoxMvQzkmzyf4Wu7MLXwxgKiVc+Lz9hU9vu6toiRQD/g3b53ASzdYl2AnM0kj98VUybC2GcOJNbUuUwWcELsucQ+7aV3tYOpQKpi92InontzBbV3c/AimIc6V8MzxHkZFHDGAtH4uCIZfaB1TtwjOLpQTio4kmQeP+RKjPokg2hQENrsWyA6nm8z6KknXgw=;ifxem3kyL2HMaf9DeJuVwA=="
+secured: "tE5J7mQXcnSefhkqtJ5PqmO7pO3KTOCcB1Y0+0RSFuZp3UlsG28wyr+cpFsvWVsXQA18LeUa4iaoGKpXnSnMpguHWDVBj8hHq9p6n6y34tqdfEHOm4X3IWh/+65zN7Zjza5LXl5JJ+qeWk9Nj1yzURVGG/vEOTWtKKDBmRdHIs1vxl3L0fuG2LIdLMKMqOSE6eD4jemOOw3W43wtezNfRdkYO5bV2vl/kVLXa6usMCdjs7abWwVNDdK5PwVA6qKn4msLD3A8SRR/ZTxAejkTqIMJLkrdfaRojwPyEPrPb5rgUZJ5CSux8ekgu4Y6Atjw6dBEpYaWSx2/CI0xVkFQ8MFSjHk347/JDL5RrPifXBc=;7D10GwrtAVn2yrZkmRTQGA=="
 ---
 

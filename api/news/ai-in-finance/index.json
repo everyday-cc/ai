@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-02-how-ai-has-revolutionized-the-digital-lending-sector.md",
+      "title": "How AI Has Revolutionized The Digital Lending Sector",
+      "excerpt": "Scaling up with technology Today, leveraging advanced technologies has become the primary reason behind non-fintech and non-lending startups jumping into the digital lending bandwagon and finding success in the same. \"Advanced technologies such as AI have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/how-ai-has-revolutionized-the-digital-lending-sector/456807",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/how-ai-has-revolutionized-the-digital-lending-sector/456807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1690950881-rupixen-com-Q59HmzK38eQ-unsplash.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-money-saving-fintech-snoop-acquired-by-vanquis-banking-group.md",
       "title": "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group",
       "excerpt": "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited.",
@@ -1300,49 +1352,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions.md",
-      "title": "Fintech Salt Edge, Kindgeek to Enhance Open Banking Solutions",
-      "excerpt": "Kindgeek, a one-stop shop fintech software developer, and Salt Edge, an open banking service provider, announce their partnership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Salt.jpeg",
-          "width": 1280,
-          "height": 1217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209660-fintech-salt-edge-kindgeek-to-enhance-open-banking-solutions/amp/",
-      "publishedDateTime": "2023-07-06T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

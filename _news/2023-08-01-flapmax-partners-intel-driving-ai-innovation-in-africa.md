@@ -57,6 +57,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Flapmax, Intel Partner to Advance Africa’s AI Innovation"
+    excerpt: "Kindly share this postFlapmax and Intel, two US technology companies, are collaborating to promote AI innovation to drive economic development in Africa. Flapmax, an AI business, announced the alliance details this week."
+    publishedDateTime: 2023-08-02T23:16:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/flapmax-intel-partner-to-advance-africas-ai-innovation/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/02/Robotics-and-AI-image.jpg?resize=601%2C333&#038;ssl=1"
+        width: 601
+        height: 333
+        isCached: true
 
 secured: "8nR1r13/gtNvoNLD8akfxvHBzKv326L4v/6IE42Oonoo91VG2224sz5LoyyQDMvaYmwAFFRyL0xjIV6NZ1hP40aQ01lUNHmn3JtFRq02HEef2V1d8UAEO9TT3BNxyrEu7E6QeUfvNPueW5SyuZw09xFtPWF82fMfSxbNMqpbPEmYHJymrBYIqQUhtIzlMkQL+c0hJ423mQ4DEop+1Hvjusk8fW3K6T5GxrazUSE8XrPWevk/x5KSR8O2j6L0j7uZOR7b653xQzjC8xobEvOoXrVzjk4Kb+l61xBsne2oIkp9wgwskEiRKB0ABIv23MmLlZcvg4rTHu+t9cRcd+ORQpca1LCDh3Q1iH7+eVwlows=;MyerYca+LsmngYGtK5wUaw=="
 ---

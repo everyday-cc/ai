@@ -33,6 +33,20 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Government Investigating Tesla Over Small Issue Where Steering Wheel Locks Up While Driving"
+    excerpt: "The NHTSA is officially investigating reports of Tesla drivers losing steering control and power steering while driving."
+    publishedDateTime: 2023-08-02T23:10:00Z
+    webUrl: "https://futurism.com/the-byte/government-investigating-tesla-over-small-issue-where-steering-wheel-locks-up"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 29
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/government-investigating-tesla-over-small-issue-where-steering-wheel-locks-up.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5jjWj/G583lkE6b0dX8uth9asB7SwKRS3CxLoBaAaQSE/0iukx+b+sBCblS5Vk/1zL3aeeFl+KNJjt19z6PcB8PLxuw0gXNZzXbIfulM7ipp3r8zD2etScAY72+raKLJNmDR3a/dcPMPYTRn7go6Ff3gKaQX7rDW2WSNEleXofoIVwMejedv8opbT3TeFNN3XyUeP21NQrB1MITLvjf3+/qfQ1act2cEaNdYOHHujohV/M7mjrJVE/imkhjKhdXiYf9OjL9sKwAb+uSFLr46EjdBRAKqueQSVxYwn6Dk2VQNFd2i8aFmEZaGZhivKp0g5I4CvNH2F7GOJzXESqGZnmjaxulBpcFya3SaqZPJME4J+i/KsJsolGXMS2Vdb0s5B/6oZXQsGMcfUa7QitTI4XWivGp6a25UdXcEbXyDD+ZFyABPgh5hftvar+pWiU0ssmgG5VrctHw9P+wR7Eo0Oz9XHHz57FvQ+98VoK05HB+FJcP+S6+IJI1v1A8sqsFvuepcxR0V3QxodYfRnxaZ/g==;lUQlu9ijbCAte0mbSr6hqw=="
 ---

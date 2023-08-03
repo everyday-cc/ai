@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help
 webUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/07/932/470/AI-chip-image.jpg?ve=1&tl=1"
         width: 932
         height: 470
-        isCached: true
-  - title: "First-of-its-kind AI brain implant surgery helped a man regain feeling in his hand"
-    excerpt: "Just four months after the groundbreaking surgery, the patient was able to feel the touch of his sister's hand."
-    publishedDateTime: 2023-08-01T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 53
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/01/09-keithimplants.jpg?auto=webp"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
     excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."

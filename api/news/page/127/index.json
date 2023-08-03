@@ -2,6 +2,256 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2023-05-12-eu-parliament-backs-ai-restrictions-and-facial-recognition-ban.md",
+      "title": "EU parliament backs AI restrictions and facial recognition ban",
+      "excerpt": "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
+      "originalUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
+      "publishedDateTime": "2023-05-12T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-googles-translation-glasses-were-actually-at-io-2023-and-right-in.md",
+      "title": "Google's 'translation glasses' were actually at I/O 2023, and right in ...",
+      "excerpt": "Google unveiled a pair of augmented reality (AR) glasses at its I/O developer conference. But unlike Google Glass, this new concept, which didn't have a name at the time (and still doesn't), demonstrated the practicality of digital overlays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "originalUrl": "https://www.zdnet.com/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/183b38573ea4cabb8eb92ebc5bb135a502b0197a/2023/05/11/0b3f8170-2af0-4e35-8015-ef8757dd6950/google-translation-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-translation-glasses-were-actually-at-io-2023-and-right-in-front-of-our-eyes/",
+      "publishedDateTime": "2023-05-12T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale.md",
+      "title": "How AI Is Helping To Improve Transportation Safety On A Global Scale",
+      "excerpt": "While the use of AI in vehicle inspection is a significant development, it is one of many other ways that AI is being used to improve transportation safety around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ce929429d7626542796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/amp/",
+      "publishedDateTime": "2023-05-12T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-ai-frenzy-accounts-for-all-of-sp-500-gain-in-2023-socgen-says.md",
+      "title": "AI Frenzy Accounts for All of S&P 500 Gain in 2023, SocGen Says",
+      "excerpt": "The investing frenzy around artificial intelligence has been so strong that without it, US stocks would be down for the year, according to Societe Generale SA strategist Manish Kabra.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-12/ai-frenzy-accounts-for-all-of-s-p-500-gain-in-2023-socgen-says",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-12/ai-frenzy-accounts-for-all-of-s-p-500-gain-in-2023-socgen-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6Vg4KWrxalg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges.md",
+      "title": "Are Alternative Investment Firms Becoming Over-Reliant On AI To Solve Their Cyber Challenges?",
+      "excerpt": "Organizations must strengthen their first line of defense by taking a more holistic approach to threat prevention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645ce8924885ffd3982796e1/0x0.jpg?format=jpg&crop=2144,1206,x871,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/12/are-alternative-investment-firms-becoming-over-reliant-on-ai-to-solve-their-cyber-challenges/amp/",
+      "publishedDateTime": "2023-05-12T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-the-open-source-ai-boom-is-built-on-big-techs-handouts-how-long-will-it-last.md",
       "title": "The open-source AI boom is built on Big Tech’s handouts. How long will it last?",
       "excerpt": "Greater access to the code behind generative models is fueling innovation. But if top companies get spooked, they could close up shop.",
@@ -910,264 +1160,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage.md",
-      "title": "GitHub’s Thomas Dohmke talks open source, AI and more on the Disrupt SaaS Stage",
-      "excerpt": "Thomas Dohmke, the CEO of GitHub, will join TechCrunch for a fireside chat on this year's SaaS Stage at TechCrunch Disrupt 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/",
-      "originalUrl": "https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/thomas.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/amp/",
-      "publishedDateTime": "2023-05-11T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-gmails-new-ai-feature-will-write-your-emails-for-you.md",
-      "title": "How Gmail's New AI Feature Will Write Your Emails for You",
-      "excerpt": "Gmail is adding a new feature aimed at taking the pain out of crafting boring emails. At Wednesday's Google I/O event, CEO Sundar Pichai announced Help Me Write. Powered by the company's proprietary AI, the new Google service will draft automated messages for you in Gmail, text messages and other Google apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/8a26daad55df302a2217acdc25f6f0b12005ee2d/hub/2023/05/10/a8b74029-bbff-457e-a48e-7344fd0569c6/help-me-write.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmails-new-ai-feature-will-write-your-emails-for-you/",
-      "publishedDateTime": "2023-05-11T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management.md",
-      "title": "‘AI-powered’ VC firm Vela emerges from stealth with $25M under management",
-      "excerpt": "Vela, an early-stage-focused VC firm that its founder describes as 'product-led,' has emerged from stealth with $25 million under management.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/",
-      "originalUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?resize=1200,902",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/ai-powered-vc-firm-vela-emerges-from-stealth-with-25m-under-management/amp/",
-      "publishedDateTime": "2023-05-11T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy.md",
-      "title": "EvokAI Creative Labs To Acquire AI-Powered Company Rehaboo Oy",
-      "excerpt": "Following the closing of the Rehaboo Acquisition, Rehaboo will be a wholly owned subsidiary of EvokAI. Completion of the Rehaboo Acquisition is subject to a number of standard conditions, including receipt of all regulatory approvals and the acceptance of the TSX Venture Exchange (\" TSXV \").",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-generative-ai-landscape-current-and-future-trends.md",
-      "title": "Generative AI Landscape: Current and Future Trends",
-      "excerpt": "The generative AI landscape is expanding rapidly, and offers great benefits even as it presents enormous challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/amp/"
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/07/31/sam-altman-worldcoin-crypto-ai/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 72
 published: true
 
 provider:

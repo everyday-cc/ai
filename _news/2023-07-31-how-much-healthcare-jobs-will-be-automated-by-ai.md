@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Using a Polite Tone with AI Matters"
+    excerpt: "It should, says Microsoft’s Kurtis Beavers, a director on the design team for Microsoft Copilot. It’s not that your AI chatbot feels appreciative when you say please and thank you. But using basic etiquette when interacting with AI, Beavers tells WorkLab, helps generate respectful, collaborative outputs."
+    publishedDateTime: 2023-08-02T22:37:00Z
+    webUrl: "https://www.microsoft.com/en-us/worklab/why-using-a-polite-tone-with-ai-matters"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://images.ctfassets.net/y8fb0rhks3b3/7BGZZ0wWTNxTqOP1QmwLy9/b4c4d880e86edffceb59107421921aad/MSFT_7.27_Newsletter_072623_16x9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "VlS7d4uY5xIMYaovhUaq6P/bken2THQn2YRXeqHzGbuBHG4HXsYxy6I6sRLtIkmt3/mOmkHOg759GKHw66KkIB9r0NQT2A+ct9qG/7v3EJCLgzgZpG6G+RipWPkRlwEl1bsSuf8u3H79u06BDfY04wbNYh3Zmc145YkVBfvAYS5cIEF0A4X3ACtRu22A/j9/0So+cH0LeiVj3nlGD4q/1nUxDOdLlEvmQvtVRF5A5U7y9ol0RR3NSDlvO+voAM/xPp8AmDD7iSUUMX2+LJlOUmnhLTNmTbnON5G5KIZi7ORh1AJw2XTCkk7STpM1mKwisdvvBUuYGnuy2CpSL9VJ4sVkug2G8OZKkuWOVytncyw=;lP+KqgcUAN4c2LN5WjNXWw=="
 ---

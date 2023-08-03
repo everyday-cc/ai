@@ -409,17 +409,6 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 19
-  - title: "Transforming Skincare with Artificial Intelligence Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing Lightening Tightening and More"
-    excerpt: "Artificial Intelligence (AI) is becoming a prominent subject of appreciation and praise in recent times. The AI-based tools are going to greatly enhance healthcare processes right, from assisting in various administrative work where clinical data collection is concerned to advanced assistance like image analysis,"
-    publishedDateTime: 2023-07-29T05:58:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra’s®.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/07/29/dcm5-dr-batra%E2%80%99s%C2%AE.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 16
   - title: "AI images on Instagram; Meta chatbot plans create privacy and misinformation fears"
     excerpt: "“Once users interact with a chatbot, it really exposes much more of their data to the company, so that the company can do anything they want with that data,” said Ravit Dotan, an AI ethics adviser and co-founder of the Collaborative AI Responsibility lab at the University of Pittsburgh."
     publishedDateTime: 2023-08-01T13:11:00Z

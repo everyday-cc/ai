@@ -53,7 +53,12 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 33
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/02/M_b6a3bimage_story.jpg"
+        width: 1270
+        height: 846
+        isCached: true
 
 secured: "NGyAFtYJJiNsMAFE+7xKRmTb9MItj1z0Yg5W/M7eqWzHXSB4+ouNN/3QeGJSOTz0AzKcS11G2yz9BoM60Tj1ug2B6b+BjyJ0RGvuM9JA1HktLnIFQGQ90HWz+6pEAUcxovBXtwiwKwbLae+Z9BEuoEAr4o3vs9FJfjn483+CnQ6ufz70v3P+7GEZiG4GGRFJ3FSZtQ4fXfXqlzh2c5HiSi3qHGeIuC3zd706TjmNiQ0M81oMeQlKVUUfNJgozg7d6wDxYdF43LGgJQuJMGo6rVErTdeVw3N6aioWAj4V8TDH81nBDIXH1MmWMfW9UHS6bJjFJO4MpEIzf4Jh9LhXF5/AQtDjzwOh9R0s1B4KQ/4=;td3WM6t54Vg9D5YNhD1/RA=="
 ---

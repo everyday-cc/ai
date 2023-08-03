@@ -2,6 +2,151 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-31-banking-on-mainframe-led-digital-transformation-for-financial-services.md",
+      "title": "Banking on mainframe-led digital transformation for financial services",
+      "excerpt": "Explore why the world’s biggest modernization challenges are concentrated in the banking industry.          \nThe post Banking on mainframe-led digital transformation for financial services appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
+      "originalUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T06:04:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-how-ai-music-startup-audioshake-is-expanding-content-localization.md",
+      "title": "How AI Music Startup AudioShake Is Expanding Content Localization",
+      "excerpt": "AI music startup AudioShake is making quality dubbing and content localization viable for content creators at all levels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
+      "originalUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c48d91821236b6e642dc54/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/",
+      "publishedDateTime": "2023-07-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-a-jargon-free-explanation-of-how-ai-large-language-models-work.md",
+      "title": "A jargon-free explanation of how AI large language models work",
+      "excerpt": "One reason for this is the unusual way these systems were developed. Conventional software is created by human programmers, who give computers explicit, step-by-step instructions. By contrast, ChatGPT is built on a neural network that was trained using billions of words of ordinary language.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
+      "originalUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/LLM-cat-vector-space-1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/amp/",
+      "publishedDateTime": "2023-07-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-new-controversy-over-facial-recognition-in-retail-stores.md",
       "title": "New Controversy Over Facial Recognition In Retail Stores",
       "excerpt": "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?",
@@ -115,7 +260,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -168,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -273,7 +418,7 @@
       "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -656,6 +801,100 @@
       ]
     },
     {
+      "path": "_news/2023-07-30-how-artificial-intelligence-is-helping-hire-promote-and-train-workers.md",
+      "title": "How artificial intelligence is helping hire, promote and train workers",
+      "excerpt": "As artificial intelligence becomes more prevalent in business, HR departments are at the forefront of capitalizing on its potential. A majority of HR leaders are already using AI for a variety of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107274356-1689869031421-gettyimages-1204762097-p_ab_technology153.jpeg?v=1690643722",
+          "width": 2289,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "publishedDateTime": "2023-07-30T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers.md",
+      "title": "Tesla initiates email drive for Full Self-Driving transfer to customers",
+      "excerpt": "San Francisco: Elon Musk -run Tesla has started a new email campaign to urge Tesla owners who have the Full Self-Driving (FSD) package to upgrade to a new car and transfer the FSD package.",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers",
+      "originalUrl": "https://telanganatoday.com/tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/07/Tesla-recalls-nearly-16K-Model-S-and-Model-X-vehicles-due-to-seat-belt-issue.jpg",
+          "width": 1280,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-outcry-against-ai-companies-grows-over-who-controls-internets-content.md",
       "title": "Outcry Against AI Companies Grows Over Who Controls Internet’s Content",
       "excerpt": "Authors, artists and internet publishers demand compensation for the alleged use of their work to train generative-AI systems sweeping the globe.",
@@ -801,7 +1040,7 @@
       "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -972,254 +1211,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna95244",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95244",
       "publishedDateTime": "2023-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-the-best-shows-on-amazon-prime-right-now-august-2023.md",
-      "title": "The best shows on Amazon Prime right now (August 2023)",
-      "excerpt": "Amazon Prime Video has a wide selection of shows from which to choose, with new shows being added all the time. Some of Amazon Prime Video’s original series have become very popular, too, like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/good-omens-season-2.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-what-role-does-ai-play-in-enhancing-aviation-cybersecurity.md",
-      "title": "What Role Does AI Play In Enhancing Aviation Cybersecurity?",
-      "excerpt": "Cybersecurity is critical to the safety of aviation. Attacks to critical aviation infrastructure pose real threats. So, how does the FAA address these cyber challenges?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3bdca3e9ca5472f03e488/0x0.jpg?format=jpg&crop=273,273,x0,y79,safe&width=1200",
-          "width": 273,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/amp/",
-      "publishedDateTime": "2023-07-29T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-the-robots-we-were-afraid-of-are-already-here.md",
-      "title": "The Robots We Were Afraid of Are Already Here",
-      "excerpt": "The long-anticipated automation revolution has begun. Robots are ready to operate forklifts and do laundry. It’s not as scary as it sounds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/30/multimedia/00mr-robot-01-zmfw/00mr-robot-01-zmfw-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading.md",
-      "title": "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading",
-      "excerpt": "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg",
-          "width": 800,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers.md",
-      "title": "Walmart using AI to streamline organization – what will it mean for workers?",
-      "excerpt": "Walmart is using artificial intelligence to help streamline their product organization. That raises questions about how workers' jobs could change. NBC News’ Jacob Ward has more details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690586636299_nn_jwa_walmart_embraces_new_tech_230728_1920x1080-4596y2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189519429834",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189519429834",
-      "publishedDateTime": "2023-07-28T16:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",

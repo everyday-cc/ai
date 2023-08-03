@@ -44,7 +44,7 @@ related:
   - title: "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages"
     excerpt: "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that."
     publishedDateTime: 2023-08-02T08:01:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
+    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/"
     ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
     cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/"
     type: article

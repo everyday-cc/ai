@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How AI is helping satellites avoid hitting each other in space"
-    excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
-    publishedDateTime: 2023-07-31T08:53:00Z
-    webUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space"
-    ampWebUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Most businesses with AI lead new use cases with it"
     excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."

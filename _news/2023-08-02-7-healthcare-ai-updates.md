@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why synthetic data isn't ready for healthcare"
+    excerpt: "Synthetic data is hard to mimic real patient information, making it expensive and difficult to use in healthcare. Despite this, AI-generated data could be a boon for the industry."
+    publishedDateTime: 2023-08-02T22:05:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/why-synthetic-data-isnt-ready-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
     excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
     publishedDateTime: 2023-08-02T19:47:00Z

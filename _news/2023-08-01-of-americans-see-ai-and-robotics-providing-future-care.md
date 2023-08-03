@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/b3/0b3abbb6-2cc2-11ee-8a22-4bdad8e34086/64c2e5f841f26.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-29T05:29:00Z
-    webUrl: "https://www.meadvilletribune.com/opinion/artificial-intelligence-loves-america/article_406a1124-2d53-11ee-86a7-3b63d22f9063.html"
-    type: article
-    provider:
-      name: The Meadville Tribune
-      domain: meadvilletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600"
-        width: 600
-        height: 600
         isCached: true
 
 secured: "LoFFU6nMLysvALjhihEKUprUASi21ayN5ZGDsao+pn0DwQU9y5+9QPcb5cpSbRsgJ/kitQ82hk3HQUp5JTQwJrlhuIu34IjNz988Y/t8BN7wYG2pT4E6ZKGAZLeGBwAQjdRZanYesBxKDpl9ffvOqXU7rdtxQVSpUvYMveAYRg3PlK0K06yXNoxayYkC1qPUg6u73FWKTiyxFosZqcTFCb0/9sJ+gXtZeFrONBOqOufzlSTMMI0ewwOlji1WBwsx3h0RCapSvtiykgNpzfjnD5PSUbO/TBEqkG5tvI5bp23gOo3wbpVAgRF/2NCDYqHwwkww5HrnNo8vvIJCzILu33XEcbU2xAJcEzarg7npH18=;JV1UdB3P8jRoO1xVMqAl4w=="

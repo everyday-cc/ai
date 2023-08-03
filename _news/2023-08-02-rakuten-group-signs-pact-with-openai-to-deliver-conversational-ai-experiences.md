@@ -55,6 +55,20 @@ related:
         width: 1400
         height: 785
         isCached: true
+  - title: "AI Has Finally Become Transformative"
+    excerpt: "After a decade’s worth of innovation, new models can change the world the way the internet did."
+    publishedDateTime: 2023-08-02T15:46:00Z
+    webUrl: "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-827870/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "fuFU+Xi4Z82jbzkv2JIxOZRZxTbT8KAcUo5dzBROB7fJMrOIwSkGz+LhBYUmw3PkV4CtBIq3TZ8rXVyl7twn8dq8bwB3Imz5YzSpk8m6C6CiEFmjR6PqEMckDY0maKBDJq7gCskp9gBAnYSSudnNA7Dk9LNMFvQQU2jgP1Y9P2Ma+WoozbPwRtefEHNMv6Iox1TePWDiyP5abcjxXq0/w8OZWbvwhg1MR3pH5ySUQFBumkGcz+xjJsRnkfiPX7rB5eqsPCPQLaaaAwnu2rvS3fZRljlhW535o8iIoVY9MaHDMBy0st7NgtJJXkV5vaDdPRGWy4c13pwma99XjvXoM8+VVSdJy2eN5zhWV3o7gmU=;HWRnVPs4+7Dp4O/Go9Ghwg=="
 ---

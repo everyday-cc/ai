@@ -2,6 +2,248 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-07-19-leveraging-generative-ai-on-aws-to-transform-life-sciences.md",
+      "title": "Leveraging Generative AI on AWS to transform Life Sciences",
+      "excerpt": "The exponential leap in Generative AI is already transforming many industries: optimizing workflows, helping human teams focus on value added tasks and accelerating time to market. Life Sciences industry is beginning to take notice and aims to leapfrog the technological advances. Life Sciences industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/",
+      "originalUrl": "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T08:02:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-no-hands-on-deck-uncrewed-autonomous-boat-applies-ai-solar-power-to-explore-the-ocean.md",
+      "title": "No hands on deck: Uncrewed, autonomous 'boat' applies AI, solar power to explore the ocean",
+      "excerpt": "The US-based startup Saildrone makes autonomous, uncrewed surface vehicles (USVs) with nautical data collection technology that can be used to better explore marine life, weather, ocean floor mapping, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
+      "originalUrl": "https://www.zdnet.com/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/951599185999dc2f0edafddc0049d088c958e4d6/2023/07/18/4123504b-f229-47f7-9d5b-4377f72f2f7a/screenshot-2023-07-18-at-11-44-54-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
+      "publishedDateTime": "2023-07-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-meta-and-microsoft-unveil-llama-2-an-open-source-ai-language-for-public-use.md",
+      "title": "Meta And Microsoft Unveil Llama 2, An Open Source AI Language For Public Use",
+      "excerpt": "In a surprising announcement yesterday, Meta (formerly Facebook) and Microsoft have introduced Llama 2, an AI language model designed to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
+      "originalUrl": "https://www.techbooky.com/meta-and-microsoft-unveil-llama-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/07/llama2.jpg?fit=1280%2C720&ssl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge.md",
+      "title": "‘Crazy Times’: Elon Musk Reacts To Tech Stocks’ Latest AI Surge",
+      "excerpt": "AI mania on Wall Street has helped Tesla stock surge more than 170% this year and made Elon Musk more than $100 billion richer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b7ed817e177644c2fb68d1/0x0.jpg?format=jpg&crop=4054,2278,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
+      "publishedDateTime": "2023-07-19T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-even-the-ceo-of-a-top-ai-startup-thinks-that-ai-will-be-the-biggest-bubble-of-all-time.md",
+      "title": "Even the CEO of a top AI startup thinks that AI will 'be the biggest bubble of all time'",
+      "excerpt": "Emad Mostaque, CEO of the company behind text-to-image generator Stable Diffusion, compared the current AI investing craze to the dot-com bubble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-",
+      "originalUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b69fce76558a00189d1a40?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-ceo-artificial-intelligence-biggest-bubble-of-all-time-2023-?amp",
+      "publishedDateTime": "2023-07-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-googles-medpalm-emphasizes-human-clinicians-in-medical-ai.md",
       "title": "Google's MedPaLM emphasizes human clinicians in medical AI",
       "excerpt": "Large language models still fall short of human clinicians' abilities. The solution appears to be a lot more human prompting.",
@@ -933,230 +1175,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai.md",
-      "title": "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI",
-      "excerpt": "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
-      "publishedDateTime": "2023-07-18T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-robot-control-system-internship-with-lab42.md",
-      "title": "Robot Control System Internship with Lab42",
-      "excerpt": "The gThe goal of the project is to develop a robot control system that can be successfully used on robots with flexible arrangements of sensors and actuators to solve various tasks. The robot control system will be developed according to principles that ...",
-      "sourceUrl": null,
-      "webUrl": "https://ethz.ch/de/die-eth-zuerich/globales/netzwerk/eth-studios/eth-studio-davos/bioinformatics-internship-with-siaf1.html",
-      "originalUrl": "https://ethz.ch/de/die-eth-zuerich/globales/netzwerk/eth-studios/eth-studio-davos/bioinformatics-internship-with-siaf1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ethz.ch/etc/designs/ethz/img/header/eth_default_og.jpg",
-          "width": 1564,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETH Zurich",
-        "domain": "ethz.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-meta-releases-ai-tech-to-rival-chatgpt.md",
-      "title": "Meta releases AI tech to rival ChatGPT",
-      "excerpt": "Meta, the parent company of Facebook and Instagram, is releasing its open source Llama 2 large language model, which can power artificial intelligence ... also released a research paper along ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/",
-      "originalUrl": "https://thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/07/64a622c57bc120.03896746.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4103856-meta-releases-ai-tech-to-rival-chatgpt/amp/",
-      "publishedDateTime": "2023-07-18T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
-      "excerpt": "SAN FRANCISCO, July 19 (Reuters) - Tesla TSLA.O Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
-      "originalUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-the-ai-behind-chatgpt-really-does-seem-to-be-getting-dumber-but-no-one-can-quite-figure-out-why.md",
-      "title": "The AI behind ChatGPT really does seem to be getting dumber — but no one can quite figure out why",
-      "excerpt": "There's been a growing feeling for a while now that the AI model behind ChatGPT is ... No one can quite figure out why GPT-4 is changing What the research doesn't seem to identify is why this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b7cbed593b890019f17bdc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7?amp",
-      "publishedDateTime": "2023-07-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

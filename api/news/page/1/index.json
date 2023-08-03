@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-03-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
+      "title": "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars",
+      "excerpt": "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all",
+          "width": 858,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-ai-chip-firm-tenstorrent-raises-100-mln-from-hyundai-samsung.md",
+      "title": "AI chip firm Tenstorrent raises $100 mln from Hyundai, Samsung",
+      "excerpt": "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/",
+      "originalUrl": "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-opinion-from-principles-to-laws-consumer-protection-can-galvanize-ai-regulation.md",
       "title": "OPINION: From principles to laws: Consumer protection can galvanize AI regulation",
       "excerpt": "Government is the least trusted sector of society, according to research from the American College Maguire Center for Ethics(here). Focusing on consumers as a primary area of concern is a great place to start. AI use is already widespread. Consumers ...",
@@ -157,7 +262,7 @@
       "originalUrl": "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -719,7 +824,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 463,
+      "heat": 453,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -764,7 +869,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1070,7 +1175,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1153,100 +1258,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-amd-aims-to-ramp-up-ai-chip-production-for-release-by-q4-raises-q3-forecast-to-57-billion.md",
-      "title": "AMD Aims to Ramp Up AI Chip Production for Release by Q4, Raises Q3 Forecast to $5.7 Billion",
-      "excerpt": "Large cloud players like Microsoft and Google plan to ramp up spending on data centres in the second half of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233",
-      "originalUrl": "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/amd_reuters_1690952669799.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233/amp",
-      "publishedDateTime": "2023-08-01T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-fake-ai-friends-this-will-result-in-learned-narcissism.md",
-      "title": "Fake AI Friends: ‘This Will Result In Learned Narcissism’",
-      "excerpt": "Facebook’s AI chatbots will reportedly offer a range of personalities and capabilities, presumably in the hope that at least one will appeal to most if not all Facebook",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c9c41e7f72131e4cc6f9a3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/amp/",
-      "publishedDateTime": "2023-08-01T19:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

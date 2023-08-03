@@ -26,109 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "Betting On AI Is Big Business"
-    excerpt: "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?"
-    publishedDateTime: 2023-07-31T08:51:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
+  - title: "How artificial intelligence is helping hire, promote and train workers"
+    excerpt: "As artificial intelligence becomes more prevalent in business, HR departments are at the forefront of capitalizing on its potential. A majority of HR leaders are already using AI for a variety of ..."
+    publishedDateTime: 2023-07-30T11:28:00Z
+    webUrl: "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: CNBC
+      domain: cnbc.com
+    quality: 102
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://image.cnbcfm.com/api/v1/image/107274356-1689869031421-gettyimages-1204762097-p_ab_technology153.jpeg?v=1690643722"
+        width: 2289
+        height: 1309
+        isCached: true
+  - title: "Using AI to help sales teams be more effective in their workflow"
+    excerpt: "In a recent Outreach study, 95% of companies said they are prioritizing investment sales tech. That makes sense. The role of sales in the buyer's journey is getting harder, and it's critical for sellers to implement strategies that show they understand the buyer and speak to them as trusted sources."
+    publishedDateTime: 2023-08-02T09:22:00Z
+    webUrl: "https://diginomica.com/using-ai-help-sales-teams-be-more-effective-their-workflow"
+    ampWebUrl: "https://diginomica.com/using-ai-help-sales-teams-be-more-effective-their-workflow?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/using-ai-help-sales-teams-be-more-effective-their-workflow?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/success-617130_640.jpg"
+        width: 640
+        height: 452
+        isCached: true
+  - title: "How AI-based hiring processes are helping recruiters"
+    excerpt: "Predictive analytics can also help recruiters make data-driven decisions, optimise recruitment strategies, and identify potential attrition risks. Machine learning algorithms continually learn and improve from recruitment data, enhancing the precision of candidate recommendations."
+    publishedDateTime: 2023-07-30T06:35:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design147.jpg"
         width: 1200
-        height: 562
+        height: 675
         isCached: true
-  - title: "The Google Assistant is getting a big reboot around generative AI"
-    excerpt: "Axios has more details about Google's plan to reboot the Google Assistant into something based around generative AI. As was previously reported, the Google Assistant team is getting reorganized around Google's new LLM (large language model) ChatGPT-clone,"
-    publishedDateTime: 2023-08-01T19:44:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
+  - title: "First-of-its-kind AI brain implant surgery helped a man regain feeling in his hand"
+    excerpt: "Just four months after the groundbreaking surgery, the patient was able to feel the touch of his sister's hand."
+    publishedDateTime: 2023-08-01T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 91
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
-        width: 800
-        height: 532
+      - url: "https://www.popsci.com/uploads/2023/08/01/09-keithimplants.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI"
-    excerpt: "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more."
-    publishedDateTime: 2023-07-31T16:16:00Z
-    webUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
+  - title: "How Silicon Valley is helping the Pentagon in the AI arms race"
+    excerpt: "The US military is opening up to defence and weapons start-ups as evolving technology begins to transform modern warfare"
+    publishedDateTime: 2023-07-31T04:00:00Z
+    webUrl: "https://www.ft.com/content/2ed278cc-6c3f-4569-b73c-64ad378f3ea8"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Most businesses with AI lead new use cases with it"
-    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
-    publishedDateTime: 2023-07-31T09:45:00Z
-    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
-        width: 1075
-        height: 550
-        isCached: true
-  - title: "How Will Artificial Intelligence Change the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-news-business.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 37
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/b6a/b30/800ca33462d64e132280295777c0e1bdcd-GettyImages-205-moshed-07-31-13-48-45.1x.rsocial.w1200.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Everyday AI: How artificial intelligence is shaping sports"
-    excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
-    publishedDateTime: 2023-08-01T17:47:00Z
-    webUrl: "https://techxplore.com/news/2023-08-everyday-ai-artificial-intelligence-sports.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 32
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
+      name: The Financial Times
+      domain: ft.com
     quality: 19
-  - title: "How Will Artificial Intelligence Change the the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-the-news-business-3-theories.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 17
 
 secured: "HiCuwy8weaoSv2mKRfifI0AiB6R+q/PAqnPLNP3IIW81gGzWg13CNcvF9wiLcjfTgS8tVhZFyqGVSdGeId4MR+MVhWmCSfGbh/Mt6s1AidM4rtMHH1uS2o78pxQhy0McvIl79p9DnIDH8rEBUkUrSDQE22LJATSyZOt6Cq1gdgf2aOXklZKpDneN2dTIixF3n1ZA7Jx30EeFZLQProgXtmJpYLTtAQK5QwpsmxfrYxl1cEYrSlPCoy+f2ustBK82AU7cKvKxaJpPiqW9nuSKH3j6TorkHOhL5bwDiXvJ/nbMJ1C19yOm7ctK9a4XTs6SxP/oi6wAthrxBbMayz4FccVPYGwbC0OkHxq0E2mK13o=;zaE++dk9jyChA6Ep+C3E6g=="
 ---

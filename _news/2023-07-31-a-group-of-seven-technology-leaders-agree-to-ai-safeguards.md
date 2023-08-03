@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/"
 type: article
 quality: 87
-heat: 103
+heat: 97
 published: true
 
 provider:

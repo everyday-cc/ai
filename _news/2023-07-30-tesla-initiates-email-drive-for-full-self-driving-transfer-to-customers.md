@@ -7,8 +7,8 @@ originalUrl: "https://telanganatoday.com/tesla-initiates-email-drive-for-full-se
 webUrl: "https://telanganatoday.com/tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Telangana Today
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Government Investigating Tesla Over Small Issue Where Steering Wheel Locks Up While Driving"
+    excerpt: "The NHTSA is officially investigating reports of Tesla drivers losing steering control and power steering while driving."
+    publishedDateTime: 2023-08-02T23:10:00Z
+    webUrl: "https://futurism.com/the-byte/government-investigating-tesla-over-small-issue-where-steering-wheel-locks-up"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 29
+    images:
+      - url: "https://wp-assets.futurism.com/2023/08/government-investigating-tesla-over-small-issue-where-steering-wheel-locks-up.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fans Think Ford Is The ‘Major OEM’ That Will License Tesla’s Full Self-Driving Technology"
     excerpt: "Full Self-Driving has its detractors and supporters but there’s little doubt that it has flashes in the pan of brilliance. To that end, it would make sense for any brand that fe"
     publishedDateTime: 2023-07-29T21:34:00Z

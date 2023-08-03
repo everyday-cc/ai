@@ -57,6 +57,20 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Believe Gives AI a Vote of Confidence as Company Revenues Climb 18%"
+    excerpt: "Artificial intelligence “will rapidly be available to elevate the quality of the music,” said CEO Denis Ladegaillerie while delivering midyear earnings."
+    publishedDateTime: 2023-08-02T22:52:00Z
+    webUrl: "https://www.billboard.com/pro/believe-ai-confidence-revenues-h1-2023/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 37
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/03/Denis-Ladegaillerie-cr-Anis-Martin-2023-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
 
 secured: "YhPHfBDwPjRwM6eIj4oTQGLXQITgb+dDDtylhz+4jcP9hHdTvsrqqm0yNUTVwluI+UBT3udZt/bqCYa+wfji/aL640FAjBkrox3KVwP7vaO8Ue4GBoxIQJ+LgemynHE+jOLVD2WMFacfjLkZAZglCfYl3mVr+Q0bBRS9/AjjElI5IZy6x215jPBhi5KsCfgvgWzsXM2U2bF3f8vvo5SNB9AyjVt/S+Rh1Wg2u/Bzu8N8ATVl7B7gTMfQ84x1zD4390MQqcIeCSErzAYo07HZbnt0wOM4k0DH4kw6tlZeDCOQHoKLAlKxlnmqjGY2VC8/AJJVksXi1b1XUjFMJRuyneYmp00E6x2ngLZ2vGHX7H0atTSinyMOLMR26RcGSca8Tzb3XrzNcVfqa1usKpXre1O+rsU4Uq+QktnuclYStPu+xeYYrsYE91JqbOIf6M+4LvkVQ7VuT6mNWNicQpfkbrrQI52+Frp+njP4Hgpc3w3Mn+mSZLPLaFdod+qFXV67gDLLOT5Cz+JnQBZh9Yibaw==;dqNO5AemN13S1RQmEYYdnA=="
 ---

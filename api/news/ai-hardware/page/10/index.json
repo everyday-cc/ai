@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-19-meta-working-on-new-ai-chip-next-gen-gpus-for-video-workloads.md",
+      "title": "Meta Working On New AI Chip, Next-Gen Gpus For Video Workloads",
+      "excerpt": "Meta (formerly Facebook) is building its first-generation custom silicon chip for running artificial intelligence (AI) model",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106275451/Meta-Working-On-New-AI-Chip-Next-Gen-Gpus-For-Video-Workloads",
+      "originalUrl": "https://menafn.com/1106275451/Meta-Working-On-New-AI-Chip-Next-Gen-Gpus-For-Video-Workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-05/19/I_95b6bimage_story.jpg",
+          "width": 304,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-facebook-parent-meta-unveils-chip-for-ai-programs.md",
       "title": "Facebook parent Meta unveils chip for AI programs",
       "excerpt": "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,",
@@ -1406,58 +1449,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-edge-artificial-intelligence-ai-chip-market-by-2030.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market by 2030",
-      "excerpt": "Chip market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-by-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-by-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 329,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

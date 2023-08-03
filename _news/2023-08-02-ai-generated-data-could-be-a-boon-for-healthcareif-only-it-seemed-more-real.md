@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for
 webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 54
     images:
       - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Why synthetic data isn't ready for healthcare"
+    excerpt: "Synthetic data is hard to mimic real patient information, making it expensive and difficult to use in healthcare. Despite this, AI-generated data could be a boon for the industry."
+    publishedDateTime: 2023-08-02T22:05:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/why-synthetic-data-isnt-ready-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
         isCached: true

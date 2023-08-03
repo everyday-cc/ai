@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-29T05:29:00Z
-    webUrl: "https://www.meadvilletribune.com/opinion/artificial-intelligence-loves-america/article_406a1124-2d53-11ee-86a7-3b63d22f9063.html"
-    type: article
-    provider:
-      name: The Meadville Tribune
-      domain: meadvilletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "etm66F9wpmiyVrY5Cl2jqyD8bDYQ0MfFvmIp5TkxgpqduAMOBx2Fk3VbCGC3FAo7mmpU9S4zq1SNo1M9C2s072NLeOScCmI4KpGVa7s3P87nv2PHeqQenil2xZK4VRzcevmZW1RY3iIW+cQoNNb/+sYmssnm41f63DL1CjybmixnLueXyfYQfarCW+fyS+64vprzHhVAvXGMhgoc6NH0XDNVOOAibojaJ26Mo+Rt/tEjFzRvi4G4gygSoYQa3GV4hNGnSlj4C4aZc2KN+I8d8dgkG2aqTjM5l0WEVPFbewUAJ7cv9ujarH5GmEh27ND7LoxSBygTep5fpIjDVA+9y5Pu2pl/ZOr+3S5C8wuu9oq/2rWdL+h6g/ODT8zKqih29isOMSp/Ytry3Dk+oFItrxGJrbpbsxV9eqUAMnsaYqYQ+elYRsL2r5Sgr755JGOjzDODHFP5A0MS+3NBucttqYQQJz35GnF94i0mVwLxVH8FoEaLOuvIDX64xwLl/f8lVI6gM0KlcExBv+8XhraZhw==;/Ajw7rySKUvFK24hRa3gIg=="
 ---
