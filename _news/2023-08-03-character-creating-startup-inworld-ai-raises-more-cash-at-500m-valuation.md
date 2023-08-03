@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Startup Inworld Raises $50M to Create Better Video Game Characters"
+    excerpt: "Video game developer Inworld AI has closed its latest round of funding, bringing the company's total valuation to $500 million, the startup said on Wednesday. Earlier reports put the amount raised at $30 million, but a spokesperson for Inworld AI told Decrypt in an email the figure is actually over $50 million."
+    publishedDateTime: 2023-08-02T23:53:00Z
+    webUrl: "https://decrypt.co/151063/ai-startup-inworld-raises-50m-to-create-better-video-game-characters"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 37
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/Ingame-AI-Arcade-Characters-scaled-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "8cn9oB1vPuMVr7Su78jvciM/JTDIzUwQltLHvFnIapKEGiDY434OMqhHTuCf8zVjykRZ3aTmIa4AqWU6QKHr5cf7/zbHazEcEWblhDVrFANGs9bsXQpQEtCl4JPM3r4Ux46rvqDrJBI+2wJLY27UhpGXOVESH5NRbB5pZ0WLJ32E4gs58o+lMWNgJ26m+LzWutImt2NEJqnH3uRjd5/1mG/br02LSdhBAMmGXK+9mMzvEnD/NhR1r82A8pOFmI1pgZBkj6TaBPvApTt8gLLd4erW2/zDoVGtGhIXe+e00SiNMWS9OQRWEbIu7Gp2eIHOQDhQCrXbKDVhatf1gb32PjjvI8Jag092lT53H7b/5wY=;qNr/jeNIuFxLHDy2G+12BA=="
 ---

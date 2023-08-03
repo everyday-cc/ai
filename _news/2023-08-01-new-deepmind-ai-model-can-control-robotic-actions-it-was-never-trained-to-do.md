@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Google DeepMind enables robots to perform novel tasks"
-    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
-    publishedDateTime: 2023-07-29T08:12:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 76
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
     excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
     publishedDateTime: 2023-08-02T14:00:00Z

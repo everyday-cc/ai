@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-01T11:28:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/torch-ai-opens-new-all-source-fusion-lab-for-intelligence-surveillance-reconnaissance-isr-research-innovation-1032499826"
 webUrl: "https://markets.businessinsider.com/news/stocks/torch-ai-opens-new-all-source-fusion-lab-for-intelligence-surveillance-reconnaissance-isr-research-innovation-1032499826"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2166187/TorchAI_Lab_Room.jpg"
@@ -27,6 +28,6 @@ images:
     height: 242
     isCached: true
 
-secured: "nVt2DDYxE9Zyh50t3UkXQ5U99FvpDSxO6W+MJ63P2xP8QsGt5A0oWKU68ALiIb4v5SDtLC4iLSiFDDH7XW8ZNRGAiOpE6kS1+t66kSj3832pK/Z4XeEuIoUklwynTFvgrBOaO/xFZ2q5NTliobqd+cCLYSQwEww4tJ6gLBSaA9iWWsT80fsVnS1UmT8SlGRzHWlpoOlcSmcG0wh9TduBeoC5TWBsqo/A1CP/huIIbq01s/88yIAmMndYnZDKPhq9wErO65Q6wkg8A4jQlA+zJ3C4FL6Y0G8kXO+xOpoayBiY7ngWLnyXAcbKnp8pqlvK3L1yiF7fLM0CeAFRk2daZrLudZ3ydwCGA8IWb8GWKXc=;lm2+fKIauK4ajac9DAJ35g=="
+secured: "MA13hNSEobZghkEQtcMyTrFaJ4IDctyLkYHyrayNQWT348UNUbQ4B54CpLRwfZQX+8G6NKS4UlBe8Z6dJ8PFkf6Zndu5/fzB9dLRlk5z72Yka6nZeyz+Ocu0weAHSEzOhRZyEi9pqUlG9WGWn8sek++c9h0gqZh2Dn1ALvQ7B3JxMiTTELR6jL3a04h7aAcGeqwEKiXCCHMAidvpy4N2Vjqm+VRHkKbQIoVRDowPU5iTwXloWZC/qI7u/f8J5F5jHZAWXePolVCl8N42AFE+rysHtrxRDwLdRJQCO/f0l1qPxzz8/8vyh6Cozz182vCKJNt0AxYBIBn+Jpv42enUUpqZVuGH2Q88SYOvD4nXjcvKaswIoOVGZo1Bjo5hegfkLp2an1Pb6QS3aVXi0Srv/BhTxY3qHul/Ck9TojG5eYvkn8AWUOtBQm4/q9ex6g04u9jHEXRVd2vctxjJYRoPU3F+6VH2m+lBp632TjO4lvV9SA+3jORtMaU6bN2CJHOJ6jDKS2I8OOV81CZKjC6I8A==;54qvJruMzYz97hd0ElMoRw=="
 ---
 

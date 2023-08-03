@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung, Hyundai Lead $100M Funding Into AI Hardware Startup Tenstorrent"
+    excerpt: "By Liza Lin Canadian tech hardware startup Tenstorrent raised $100 million from investors including Hyundai Motor Group and Samsung Electronics to"
+    publishedDateTime: 2023-08-02T23:44:00Z
+    webUrl: "https://www.marketwatch.com/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI chip firm Tenstorrent raises $100 mln from Hyundai, Samsung"
     excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
     publishedDateTime: 2023-08-02T22:41:00Z
@@ -43,6 +59,50 @@ related:
       - url: "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Hyundai Motor to invest $50 mil. in Canadian AI startup"
+    excerpt: "Hyundai Motor Group said Thursday it will invest $50 million in Canadian artificial intelligence (AI) semiconductor startup Tenstorrent as it seeks to integrate AI into its future mobility solutions."
+    publishedDateTime: 2023-08-03T00:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/419_356272.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356272"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356272"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e654cc06c4cc40dfa361acbee6462271.jpg"
+        width: 980
+        height: 654
+        isCached: true
+  - title: "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung"
+    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
+    publishedDateTime: 2023-08-02T23:42:00Z
+    webUrl: "https://www.aol.com/news/ai-chip-firm-tenstorrent-raises-234211423.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/be5a26815b63d27664ae3f61775d0255"
+        width: 800
+        height: 564
+        isCached: true
+  - title: "AI chip firm Tenstorrent raises US$100m from Hyundai, Samsung"
+    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said yesterday it has"
+    publishedDateTime: 2023-08-03T00:17:00Z
+    webUrl: "https://www.malaymail.com/news/money/2023/08/03/ai-chip-firm-tenstorrent-raises-us100m-from-hyundai-samsung/83254"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 54
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/08/03/thumbs/400x400/135064.jpg"
+        width: 400
+        height: 281
         isCached: true
   - title: "RISC-V AI Startup Tenstorrent Gets Another $100M Infusion From Samsung And Hyundai"
     excerpt: "Tenstorrent is a relatively recent startup that is focused on creating new processors built around the RISC-V ISA and specifically targeted at providing extremely high integer math performance for AI training and inference. We wrote back in April about how ..."
@@ -61,6 +121,6 @@ related:
         height: 416
         isCached: true
 
-secured: "WsPOAiwGzF6QhJ0sP7lTIOObWD6TlpsTBbrBPg3Y4YmB7CxPmkX6y90Hhbcfeb1RT7c4xHO0mObPo385TFDYzuecCcTUqzSLxkr5rDVRWbUCJBmfN/1b4u9+vnfy6ZIqPH23nQ6N5w657fN/mmsPuhNS3sCeDEuFNaXe1XyaEHhVRdccvKpg5PCQjauW0sVjBnQCBqF4+vMXr/944bZqczgtdaaZHLpwwd4z3fbsAc51CVHz9O8woM020wPZiZQ72LcIdzb87swqVFX4uUwT7e1W+F3LELBjLnmsv38L72N9ABT0PzpdWJ9EqrGcNUoy4nga4yCah7nMpz7/wML0aL+ibyK+Rko4QvfIjwwk6TU=;vV6teOnLVFUBsR5ZOMd4RA=="
+secured: "b5+NNmx+iJjAp5vIJBy9nZkf+W8dbI3aG39mH62p1eTRLvAVkR6dlLJjlZJ9PoC8RQ+Ew0zJS7LfZjAROG4WpTMBUh4qSF7WQJPPnxLgsPsKH6R1NwwfDCkOAEQSo02ZuV/R0GHyycWygvcYJqHOQ+GnOQSiDn+O7B3OvqG5GU2GayWIe64rj26dRmOPT+vDKLpyOBmTVDt3M5mah1Al+9bsBStFS7RjwF0CXuKAvzT+eNMrKf9Fy9+sTHzNrrxj4e6BPJh6hHZ96OexZffFQOanpGVusxwqXXEwtVvSNuokrMPyGGVBm6KDnMxoAC89uVW3rnsyRKo8b4I1CdeuHX/YaSVpEL6AygkAIKw3Hy54L0IRpp34bc9R8NQo6kWTnY1ySzH0yjCH82q6FC0LylrgjNiai1+mVG93nigAhGJLlTBfGSfF1eYRm9VrhsyPxQlDB/BHZjHgCGR1SkBqH180BOmcxWSCWjJZ/nwmjdZE94e2FaacCZQM99+LYgYrxh+sy5CfPCi4POooWmsVfg==;TIXYjHJv7gMCieHPUprGxg=="
 ---
 

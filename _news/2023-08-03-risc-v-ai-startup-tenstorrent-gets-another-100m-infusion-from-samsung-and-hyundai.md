@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung, Hyundai Lead $100M Funding Into AI Hardware Startup Tenstorrent"
+    excerpt: "By Liza Lin Canadian tech hardware startup Tenstorrent raised $100 million from investors including Hyundai Motor Group and Samsung Electronics to"
+    publishedDateTime: 2023-08-02T23:44:00Z
+    webUrl: "https://www.marketwatch.com/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI chip firm Tenstorrent raises $100 mln from Hyundai, Samsung"
     excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
     publishedDateTime: 2023-08-02T22:41:00Z
@@ -57,7 +73,51 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Hyundai Motor to invest $50 mil. in Canadian AI startup"
+    excerpt: "Hyundai Motor Group said Thursday it will invest $50 million in Canadian artificial intelligence (AI) semiconductor startup Tenstorrent as it seeks to integrate AI into its future mobility solutions."
+    publishedDateTime: 2023-08-03T00:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/08/419_356272.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356272"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356272"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e654cc06c4cc40dfa361acbee6462271.jpg"
+        width: 980
+        height: 654
+        isCached: true
+  - title: "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung"
+    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
+    publishedDateTime: 2023-08-02T23:42:00Z
+    webUrl: "https://www.aol.com/news/ai-chip-firm-tenstorrent-raises-234211423.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/be5a26815b63d27664ae3f61775d0255"
+        width: 800
+        height: 564
+        isCached: true
+  - title: "AI chip firm Tenstorrent raises US$100m from Hyundai, Samsung"
+    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said yesterday it has"
+    publishedDateTime: 2023-08-03T00:17:00Z
+    webUrl: "https://www.malaymail.com/news/money/2023/08/03/ai-chip-firm-tenstorrent-raises-us100m-from-hyundai-samsung/83254"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 54
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/08/03/thumbs/400x400/135064.jpg"
+        width: 400
+        height: 281
+        isCached: true
 
-secured: "kDBPTevF1NkiPb2nT4v7LZHMkJsCkCaKDKlqF0eYSnvysIrjfBn4HqwBKnBaV4uuzkT+UcKfwXfE+/7ZrNiNxjYCHaIWWmnhP/K0Hhs1vlAxCS5kHwAxuhiNPz35ksye84qattmYcGo6CXT8SEfGDgbWkXYlYq2c/XzU4DcllBXIsMOnqRPoKUnT+35NADSZgOLCsXy2CGlt4F7JJQ7h4NhuMBCdyDuzTG4c02mofD4H+87zGRrMWwHNEH15owhY3VsT6DSx/5DMJVJm/OVub87B0g+uJL1HUV3CsU9Hfbgz/baWfR9A5nTfewMzSB5F56XR4Zx/eWXSd/3X9nAM12bZk6caQLhrtsJLUTnBEVM=;cKVkid777YOwbBptbWdTQQ=="
+secured: "QbVyLB+gJb7L2awirupyazjYwnS/urFTriHubjMN6RAoUmxxLKjRJ30r+KlYRTCjB9HD+1kb+wMBriRbR3SNOewYYaA35VY61ZPiKH5QkwYtsRGzoU8bXLrnwNhgcs0U1vokB42VNDKkUle+kUX9ZWZQ+F6bFXyLG3wU1AuSH5FJreOG9kHRhtlgSUusLwuz+HRimwUzl39NPQug2tYHD/BrHtKdHlX4dhUwhtmn3yCbJiDFwuTUfWi32J1noFgaucuhNasa/1RRVB9J7izjPQuU2dd6qaHfBo4T0htKkbxOWJ7U0eyn8f10aV9F5D/JMC6Q5vIJb1PgrgwqFG/fxnTXuQbvE5Rft6yF1HSwJooLPWgnRmNI9rfviuqYk1h6b8bNr/KMiefmUoBSA45Rh/BwJOS2XfJ1a99Gjn+2de//OGAygUCUO8F1/WLqudiAtD1kdMuCNqlLGCAbSiVB+wX+b+1P4dui1XlClANt0hxA6/WLKSmqZxYJ0Eu2tnAqzGrQkFDpR1CZNshiCeFUcw==;L1879hjtbXNmrX1uZyWhTg=="
 ---
 

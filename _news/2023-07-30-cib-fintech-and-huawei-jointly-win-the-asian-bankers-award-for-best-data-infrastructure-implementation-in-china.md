@@ -33,15 +33,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
-    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-29T08:26:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/29/9856119.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "DWKBSZMhhCol/OVq0Y/acSPy8ZmDcfF4bNGOl+kPUYv8g6EXMHRGyff8xGh/IW+Ur0xlOX+3u7Emg9qc09aEK1NxlvQveMbpGV4utzsv1tGkMU97//b1irpxnZPergF1GbVyebOSnnVTleeZNaZHDELGO7jb5GXwihWZwYaXv/qkr0Xg3IkVmIKByV3jhmJ9H8FgGRxFCz5u7GesyGog7IbLPa6bNxN0xSCD18riDVB3MmjK8xXJtUyVQzZAkdXrEcF7kSf391jMuA/6cG3JNptVKBi4AiBbYPFG4HktfilpRQ5QBkZHfZmQgYoquxlie6uonPO4+PTVjdCvJ7wsbXKZEN/fS55k92t6vKZ+IQQrt4rq8hE8+Rb7rlaLuZrrrSOcQBmq9viCCNKGwTMXD04bzE37Pw7U1ybxNCO43vQhcXuLhzTj5NKkEJ6yPoTK2pJs+Nv6jKrRhNBwoo5KxoZWRIZh0FhwzCRB5GMBKHmLujW8go6JOKvieWo/xAKQ8OX8EaOPL7GhAZZNDAKrhw==;9GklkpgzYV7qdT0KnGf96Q=="
 ---

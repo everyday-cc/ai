@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-07-19-sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha.md",
+      "title": "SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha",
+      "excerpt": "In case one needed more evidence that there’s a massive appetite for generative AI, SAP, the Germany-based consulting giant, yesterday invested in three major generative AI players: Anthropic, Cohere and Aleph Alpha. The terms of the direct investments ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/",
+      "originalUrl": "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-474787219.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/",
+      "publishedDateTime": "2023-07-19T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-leveraging-generative-ai-on-aws-to-transform-life-sciences.md",
       "title": "Leveraging Generative AI on AWS to transform Life Sciences",
       "excerpt": "The exponential leap in Generative AI is already transforming many industries: optimizing workflows, helping human teams focus on value added tasks and accelerating time to market. Life Sciences industry is beginning to take notice and aims to leapfrog the technological advances. Life Sciences industry",
@@ -1131,50 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-computer-vision-in-healthcare-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-2028.md",
-      "title": "Computer Vision in Healthcare Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2023 - 2028",
-      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33263028/computer-vision-in-healthcare-market-global-industry-analysis-size-share-growth-trends-and-forecast",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33263028/computer-vision-in-healthcare-market-global-industry-analysis-size-share-growth-trends-and-forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33263028",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33263028",
-      "publishedDateTime": "2023-07-18T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

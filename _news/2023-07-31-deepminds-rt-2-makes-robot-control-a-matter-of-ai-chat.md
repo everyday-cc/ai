@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a
 webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
 type: article
 quality: 103
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google DeepMind enables robots to perform novel tasks"
-    excerpt: "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to."
-    publishedDateTime: 2023-07-29T08:12:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/amp_articleshow/102228809.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 76
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83854,msid-102228824/google-deepmind-enables-robots-to-perform-novel-tasks.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
     excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."

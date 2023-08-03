@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-18-20-amazing-and-free-data-sources-anyone-can-use-to-build-ais.md",
+      "title": "20+ Amazing (And Free) Data Sources Anyone Can Use To Build AIs",
+      "excerpt": "When we talk about artificial intelligence (AI) in business and society today ... including product information and ratings. Waymo Open Dataset – Alphabet’s autonomous driving subsidiary Waymo makes a huge amount of data collected via self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464717149c5a56fb3c2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/amp/",
+      "publishedDateTime": "2023-05-17T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-feds-say.md",
       "title": "Apple engineer steals secrets on self-driving cars and flees to China, feds say",
       "excerpt": "He booked a one-way ticket to China and left the United States on the same night FBI agents searched his home, prosecutors say.",
@@ -1352,49 +1404,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-uk-to-roll-out-driverless-bus-service.md",
-      "title": "UK to roll out driverless bus service",
-      "excerpt": "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service",
-      "originalUrl": "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/11/28023.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp",
-      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp",
-      "publishedDateTime": "2023-05-11T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

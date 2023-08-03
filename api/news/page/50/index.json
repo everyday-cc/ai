@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-06-30-big-tech-has-a-troubling-stranglehold-on-artificial-intelligence.md",
+      "title": "Big Tech Has a Troubling Stranglehold on Artificial Intelligence",
+      "excerpt": "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie5XYaJRJeK8/v1/1200x799.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-computer-vision-south-korea.md",
       "title": "Computer Vision - South Korea",
       "excerpt": "Value in the Computer Vision market is projected to reach US$411.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.54%, resulting in a market volume of US$1,065 ...",
@@ -1046,49 +1097,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-how-to-start-a-career-in-artificial-intelligence.md",
-      "title": "How to start a career in artificial intelligence",
-      "excerpt": "Global industry disruption brought about by artificial intelligence (AI ... how we live and work with technologies like self-driving cars and virtual assistants. If you’re interested in ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/58d12984-a56f-4a58-8ef9-1db84c7cbdeb.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
-      "publishedDateTime": "2023-06-29T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

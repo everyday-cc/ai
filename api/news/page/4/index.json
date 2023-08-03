@@ -418,7 +418,7 @@
       "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -809,7 +809,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -848,7 +848,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

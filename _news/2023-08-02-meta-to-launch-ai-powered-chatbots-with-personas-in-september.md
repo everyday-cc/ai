@@ -301,22 +301,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
-    excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
-    publishedDateTime: 2023-07-29T07:47:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 34
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102228308,imgsize-12376,width-1200,height=765,overlay-ethealth/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
     publishedDateTime: 2023-07-31T15:28:00Z
@@ -430,6 +414,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "dmQR11bdurDhKnxQjMAKMKEc6Vsp22rxlLZCLfgfqcZj1J/w5VrWVtEWOeHe/XnGEWe8d7SeJiVsqLcRdE7x2TTnqfdlO0uG/pR/ZXv3SoELpA9rsLtF156N/AmS5aJBzHsEh9L4Ixi+Gud4Osmq4fzeCzXgnC67VPByVlmmWpm9Ob7SnF2lg+tgeTFwgqzKW/SKv0xNTSME8XUh8Aumw7EWsaqfr1HQV6DsusHlPbTO37E1+6NAL1rLnzBTFuvoWg6oKemRT8RAflFmtRGWC3bK8qhxL71zyPs32zNkPdxaEdVYMTitGgP1EX8NRkyUI7G0tdCOvrbyF67/gXh+MN5IjI88ljYHW42YTViX9Is=;YVhCq6zRT0+aKDuSUfckaA=="
+secured: "mw6PABYxS2CW+27XZkr6r9o2Ey/+pxhFERxfM+2Gq3wKdzW9fPDPNX6Z2WEkiEtm4YqBQQp+W+/fBozhjEYBe5AM6wnyhSnYHQGz7hD82C9cEduBSXnnFOz731RMf6uUKDHVVEfrlC3iIQblEDz+c/pTHE7cwDgOXlhGzJUjprbUPIbFMy58Zg1AoL0UQGPSHT9Fqen9r4wZL8Eulosui3JTePtAe/NTABxZbgw1fuzhWYQOPvvRh4QdfgHilBk0JJDC5fWAuIZounqMti/7t6T7Dd6JNXLzHgovbWayDo744R+vhbZevAdlTmQfSph39MjessPV/3obZyP2wP+UtsLzRnZEWdQ2evS9oQU3lUqrDr6b14PS7/fcH+NDPwQxIjDjGxjOa6/fGbgI1LBSCER8je1bm7bwKFTmrwNb++TWld3eHAiqOi7YK0ZAN58Zi7jw0J2gF2pJ6M0RZsaJi4ORy2hyS8F//hgf1wjalW5UAiRTxB9xWcPWs0KZuTXfXJd6Fj9NDJ5Z+z+Q20cBdg==;kUV9uuQlgGF6tMD2iSQhrw=="
 ---
 

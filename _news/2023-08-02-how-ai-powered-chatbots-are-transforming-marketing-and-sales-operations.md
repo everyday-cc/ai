@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-
 webUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/"
 type: article
 quality: 133
-heat: 453
+heat: 443
 published: true
 
 provider:
@@ -306,22 +306,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Transforming Skincare with Artificial Intelligence: Discover AI Skin Pro's Groundbreaking Solutions for Skin Clearing, Lightening, Tightening and More"
-    excerpt: "Skin analysis gives us a detailed account of several skin conditions like acne, pigmentation, eczema, etc., and also proves beneficial in determining the severity of those skin conditions so that appropriate aesthetic treatment outcomes can be utilized."
-    publishedDateTime: 2023-07-29T07:47:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more/102228308"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 34
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102228308,imgsize-12376,width-1200,height=765,overlay-ethealth/health-it/transforming-skincare-with-artificial-intelligence-discover-ai-skin-pros-groundbreaking-solutions-for-skin-clearing-lightening-tightening-and-more.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
     publishedDateTime: 2023-07-31T15:28:00Z

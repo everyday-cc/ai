@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Warning over using face recognition to catch shoplifters"
+    excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
+    publishedDateTime: 2023-08-01T12:45:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-politics-66372601"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-politics-66372601.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-politics-66372601.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
     excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
     publishedDateTime: 2023-07-29T15:11:00Z
@@ -107,15 +123,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Warning over using face recognition to catch shoplifters"
-    excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
-    publishedDateTime: 2023-08-01T12:45:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66372601"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 51
   - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
     excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
     publishedDateTime: 2023-07-29T16:26:00Z

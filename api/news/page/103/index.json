@@ -2,6 +2,57 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-05-28-the-music-industry-is-freaking-out-about-ai-but-this-artist-is-embracing-the-new-tools.md",
+      "title": "The music industry is freaking out about AI — but this artist is embracing the 'new tools'",
+      "excerpt": "\"Patten\" made his album \"Mirage FM\" entirely from text-to-audio AI samples and says AI tools can help more people \"express themselves.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "originalUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646e42256f9a4800187369fb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "publishedDateTime": "2023-05-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-can-chatgpt-really-think-like-a-human-qa-with-ai-scientist-dave-ferrucci.md",
       "title": "Can ChatGPT Really Think Like a Human? Q&A With A.I. Scientist Dave Ferrucci",
       "excerpt": "Artificial intelligence is getting smart quickly ... Ferrucci is best known as the creator of IBM Watson. Developed in the late 2000s to answer questions on the television quiz show Jeopardy!,",
@@ -1046,49 +1097,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference.md",
-      "title": "Qatar to hold 2nd edition of Fintech Finance Technologies Conference",
-      "excerpt": "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "originalUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg",
-          "width": 1000,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "publishedDateTime": "2023-05-26T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
