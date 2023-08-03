@@ -109,22 +109,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Researchers find multiple ways to bypass AI chatbot safety rules"
-    excerpt: "Preventing artificial intelligence chatbots from creating harmful content may be more difficult than initially believed, according to new research from Carnegie Mellon University which reveals new"
-    publishedDateTime: 2023-07-29T15:54:00Z
-    webUrl: "https://thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/"
-    ampWebUrl: "https://thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4126647-researchers-find-multiple-ways-to-bypass-ai-chatbot-safety-rules/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/64519ba185baa9.10986482-e1683927109195.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Chatbots can make things up. Can we fix AI’s hallucination problem?"
     excerpt: "Builders of AI systems known as large language models say they're working to make them more truthful. But some experts say the problem isn't fixable."
     publishedDateTime: 2023-08-01T15:35:00Z

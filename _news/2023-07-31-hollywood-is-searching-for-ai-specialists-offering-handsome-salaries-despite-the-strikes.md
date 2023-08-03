@@ -57,22 +57,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Amid screenwriters' and actors' strike, Hollywood wants Artificial Intelligence experts"
-    excerpt: "For a few weeks now, the actors and screenwriters' strike in Hollywood has put the industry in check. There have been weeks of protests and claims of a guild that feels attacked, a"
-    publishedDateTime: 2023-07-29T16:46:00Z
-    webUrl: "https://www.marca.com/en/lifestyle/movies/2023/07/29/64c54f79268e3e035d8b4593.html"
-    ampWebUrl: "https://amp.marca.com/en/lifestyle/movies/2023/07/29/64c54f79268e3e035d8b4593.html"
-    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/movies/2023/07/29/64c54f79268e3e035d8b4593.html"
-    type: article
-    provider:
-      name: MARCA
-      domain: marca.com
-    quality: 49
-    images:
-      - url: "https://phantom-marca.unidadeditorial.es/324538eb1885d5209aebeadf1b589dcd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/29/16906447999149.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hollywood goes on AI hiring boon, despite WGA and SAG-AFTRA strikes"
     excerpt: "Hollywood studios are rushing to hire AI professionals, despite ongoing strikes and layoffs. What could this mean for the industry’s future?"
     publishedDateTime: 2023-08-02T19:00:00Z

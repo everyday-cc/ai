@@ -89,22 +89,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
-    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
-    publishedDateTime: 2023-07-29T15:11:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
-    images:
-      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Vendor claims 3-year ROI on retail facial recognition deployment"
     excerpt: "A new case study from RecFaces shows that such systems can identify thieves and reduce theft-related losses by 50 percent."
     publishedDateTime: 2023-08-01T20:35:00Z
@@ -118,22 +102,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
-    excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
-    publishedDateTime: 2023-07-29T16:26:00Z
-    webUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/3db4e2352f0c005d9cb730443a4f3d40a71f612d/0_653_1512_907/master/1512.jpg?width=620&quality=85&auto=format&fit=max&s=14ecf08b5772b0758f675dc478f5e63b"
-        width: 620
-        height: 372
         isCached: true
   - title: "UK stores cracking down on shoplifting with facial recognition technology"
     excerpt: "A handful of UK-based retailers are incorporating facial recognition technology to crack down on shoplifting.  UK police are employing pre-existing live fa"

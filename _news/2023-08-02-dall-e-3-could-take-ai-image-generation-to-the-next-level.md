@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-reve
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp"
 type: article
 quality: 89
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI code assistants could revolutionize developer experience"
-    excerpt: "Why tech leaders must evolve development teams to embrace generative AI code assistants and plan for the next-gen engineering experience."
-    publishedDateTime: 2023-07-29T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-code-assistants-could-revolutionize-developer-experience/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_generative_ai_code_assistant_in_an_office._Colorful_fut_95302330-7b15-4a98-8996-0edaa54cd27d.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Stability AI launches SDXL 1.0 text-to-image generation models"
     excerpt: "Stability AI has announced the launch of its next-generation SDXL 1.0 text-to-image generation model. Making it available for anyone"
     publishedDateTime: 2023-08-01T05:55:00Z

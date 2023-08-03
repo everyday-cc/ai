@@ -137,6 +137,20 @@ related:
         width: 700
         height: 459
         isCached: true
+  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
+    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "qN7yNMbqY6ZC88WTTdEydJSCb5oIRqCuVWVkiCJSiSaeWGKWJiTSSXfp98klfG+5iFS53bVZ59CcbfjrYoNP9TMa7FJ0+4oA9jRYBOk/7jpXlRKLXf5u/HnZor4dmx3d1BcTjoj9HuBOHQUrCPSTU/+IIbTkElaHX1rVDDV6W4iIJsHS1YZr/T1J8Ehd3DXCaqFiAxqWmswpv6DZcbvvRfxKUe6PZZqrNUYU3Wecb70vbT/vLebHy1qlw2aYeTJkbYaiKlx0FAJ2O6e0pTg6p+iU5mf+ZHLkAlI1LgQ5NlfPYcpMEwXhg34GCEl6OQyRyh4nPu/XPYAcIaQo+EKavTPZM5CcKyoUvhsyRM4ulpw=;4A8zM76H3qss/dfnBBAdIg=="
 ---

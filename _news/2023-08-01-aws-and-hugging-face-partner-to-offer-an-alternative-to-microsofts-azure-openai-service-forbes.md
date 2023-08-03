@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "India], August 3: Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T07:43:00Z
-    webUrl: "https://theprint.in/ani-press-releases/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace/1698602/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace/1698602/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace/1698602/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 72
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230803072221.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
     excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
     publishedDateTime: 2023-08-01T21:16:00Z
@@ -230,6 +214,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T08:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
+    images:
+      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
+        width: 630
+        height: 473
+        isCached: true
   - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
     excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"
     publishedDateTime: 2023-07-30T05:52:00Z
@@ -243,6 +241,20 @@ related:
       - url: "https://res.infoq.com/news/2023/07/azure-boost-remote-storage/en/headerimage/generatedHeaderImage-1690147793884.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777028/KPMG-and-Microsoft-enter-landmark-agreement-to-put-AI-at-the-forefront-of-professional-services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_56_06b2169c_image_story.jpg"
+        width: 1024
+        height: 1536
         isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"

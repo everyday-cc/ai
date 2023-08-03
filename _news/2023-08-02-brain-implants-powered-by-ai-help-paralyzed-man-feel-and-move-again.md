@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help
 webUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/07/932/470/AI-chip-image.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Paralyzed man regains movement and feeling with brain implants and AI"
+    excerpt: "A man who was paralyzed from the chest down after a diving accident has regained movement and sensation in his hand, arm and wrist thanks to a novel technology that uses brain implants, artificial"
+    publishedDateTime: 2023-08-03T08:03:00Z
+    webUrl: "https://trendydigests.com/2023/08/03/paralyzed-man-regains-movement-and-feeling-with-brain-implants-and-ai/"
+    type: article
+    provider:
+      name: trendydigests
+      domain: trendydigests.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/08/paralyzed-man-regains-movement-and-feeling-with-brain-implants-and-ai.png?fit=1200%2C900&#038;ssl=1"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
     excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."

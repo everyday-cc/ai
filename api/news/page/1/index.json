@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-03-level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30.md",
+      "title": "Level up your AI skills with this ChatGPT and Python coding bundle for $30",
+      "excerpt": "Start your coding education during this back-to-school sale and get the 2023 Ultimate AI ChatGPT and Python Programming Bundle for only $30 until August 13.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/",
+      "originalUrl": "https://www.zdnet.com/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/388ef5b23f2b31507664828048664414fd83b420/2023/08/02/0e0126de-cddc-499f-be65-fbd68c709020/stack-social-chatgpt-ai-bundle.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/",
+      "publishedDateTime": "2023-08-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-aws-strengthens-saas-spanners-for-cloud-native-development.md",
+      "title": "AWS Strengthens SaaS Spanners For Cloud-Native Development",
+      "excerpt": "The major Cloud Service Provider (CSP) hyperscalers have established themselves pretty much from the outset as essentially Software-as-a-Service (SaaS) entities that",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca60bcd4f6dd03de6b2a45/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/amp/",
+      "publishedDateTime": "2023-08-03T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent.md",
       "title": "Samsung, Hyundai Lead $100M Funding Into AI Hardware Startup Tenstorrent",
       "excerpt": "By Liza Lin Canadian tech hardware startup Tenstorrent raised $100 million from investors including Hyundai Motor Group and Samsung Electronics to",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -61,7 +164,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -262,7 +365,7 @@
       "originalUrl": "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -729,7 +832,7 @@
       "originalUrl": "https://www.techspot.com/news/99637-amd-develop-slower-ai-gpus-chinese-market-comply.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -824,7 +927,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 453,
+      "heat": 443,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1162,102 +1265,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai.md",
-      "title": "The Looming Ubiquity Of AI: Navigating Cloud Efficiency And Environmental Impact With CAST AI",
-      "excerpt": "The allure from those who have invested billions into Generative AI startups have not considered the underlying reality of these high costs that threaten this current boom",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca220be7faf6a593775a99/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1129,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/",
-      "publishedDateTime": "2023-08-02T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-amd-projects-strong-year-end-performance-with-ai-chip-launch.md",
-      "title": "AMD Projects Strong Year-end Performance With AI Chip Launch",
-      "excerpt": "The strong projection will be driven by the planned launch of artificial-intelligence chips that could compete with Nvidia semiconductors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lbfgquscrtshxtew_1690959468.jpeg",
-          "width": 768,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "publishedDateTime": "2023-08-02T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

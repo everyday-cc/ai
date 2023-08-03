@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1050
     height: 788
     isCached: true
-
-related:
-  - title: "Predictive analytics: How generative AI is paving the way for immersive insights"
-    excerpt: "For business leaders, generative AI and predictive analytics are set to become a partnership that’s impossible to ignore. With many firms already actively undergoing digital transformation, the incorporation of artificial intelligence represents a major step towards keeping heads and shoulders above the mire of a hyper-competitive landscape."
-    publishedDateTime: 2023-07-29T16:51:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/path-to-predictive-analytics-generative-ai-paving-way-immersive-data-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_graph_with_colorful_lines_behind_it._Colorful_futuris_2f638b4b-7c38-4b18-ab88-137857cb6578.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "wr63tRCMvp/lr51VLNDcyeYKcSsA5z5ZYSqLDDY/Iw3RixAZPcFR8kKpX3MmXG63jJXSYL89IiCA12L7K8+t5yiOL/vqHj7QSf2sJECfUgtUaQRzuebEBprfSobt6jsEJJT2gKgP+P2dYygu0IzG09pcmCcyHfWE0I86U/0pI2ndpEU3TvKfUR0vCRyyBXNdBqDu/DDki9ZOImV9r/nCMpO4J/3yrzyFKKGhcxaBigugobkWuJH8oUluf/JzvSdtldQslsm47oVD/9LYI74oV9+fexq+ZgYs68IB6tw/tIk4E/xWv1N87rmM90jXPwW01zmu9yWfVM+F0GY60T9sThFTDKX7h7R0FXpsNwHzrk4=;GhzwfTDIjuvA3yjJBrq+zA=="
 ---

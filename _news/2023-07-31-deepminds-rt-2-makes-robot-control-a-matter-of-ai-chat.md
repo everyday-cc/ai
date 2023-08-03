@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a
 webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
 type: article
 quality: 103
-heat: 183
+heat: 163
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
-    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
-    publishedDateTime: 2023-07-29T16:30:00Z
-    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 71
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
     excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
     publishedDateTime: 2023-07-30T17:41:00Z
@@ -131,15 +117,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
-    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
-    publishedDateTime: 2023-07-29T16:26:00Z
-    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
 
 secured: "DtEu2UzQJjlZW9YzOftgOBeOyO/KVyKiT5wQofYtlC/TWO+IHQia9mR5HoKw/d1+NHyubTMAZNl6BMscyM3FyCSCTA4h62jRozpKfbZcRvnZ5IJahuUSgk+tMnP4KOG0Kzwsf9aP8yCdSsfu55xY5zhU1Y+YkbNjpH3umMqgNyo7MVxvuc8weBRs8CWWNbvPsPNSDV5+D4z7UhnhwqYI6IfmEur7LOARl8FoFPHTN3t4i9jPkt8u0Lj/OZvRwicgDu3RxwOIVCw8YAaJ5LKzoBSO2O0wNeO7Mz+eG1GPMR3LOnmwjFYFE1P8fwM5H0S6F22UQwxA/WzIOd0c8naDyM9UFRRX8bbpvcR5FQRKrFAeosGZTuNOTUt4gfepYDhBr21/rp3d5r90p2AGvoYIsSiJ1weX70opaJxFx+QvY21nOQJIWCKhAQ5ZAOlo4iiwkna3EmCmPQqC3SCbIQT+RC9KSEIUp70usyqBQNIW35/9QNohHEQGx5G0qTlNXdZKCeevEptXNxEm96nG7WLnig==;asOOpAjE4anIAeO/A6vjZg=="
 ---

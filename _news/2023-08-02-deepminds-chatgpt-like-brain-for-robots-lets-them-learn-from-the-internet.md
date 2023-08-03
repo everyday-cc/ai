@@ -69,20 +69,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
-    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
-    publishedDateTime: 2023-07-29T16:30:00Z
-    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 71
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
     excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
     publishedDateTime: 2023-07-30T17:41:00Z
@@ -125,15 +111,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
-    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
-    publishedDateTime: 2023-07-29T16:26:00Z
-    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
 
 secured: "ghBGoKMmxcmbePrtlJG/2Cx8UeANhWSisvhUy909dMEPPAku9n3CD1UhKMtflbekcaK+ne+AaHunI7+gSWaQ49PdiyUZ90YueD2poo3GysaDlb/no9HHVeATXeGybnCLaUsJFPK4ZwWeuJAFljHC9iOcK/Lo3+sgwr1Y8L8lYh77wHqIRJcZHmVgMuZRlDvzpiq1aPoEZZKkiQi+g2B1AN16K9bJHnF+L7O7+cozEtbh4S4C/gcOFGz8jlWKTDkPtLOPFsz1/NIsO6dRBZQ5qAnCbwIvjC14rn10Yp1/GxOFO4ecreXHQYhirrbzfwkDl6yDIQuyuy5iEjElE9aF35b2Tg4x90FzTrWYLLXVDrE=;22a+RefS0/t9+P8N9JXUXg=="
 ---

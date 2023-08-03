@@ -2,6 +2,245 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-06-12-microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud.md",
+      "title": "Microsoft has added ChatGPT into the secure US government Azure cloud",
+      "excerpt": "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
+      "originalUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-is-there-a-right-cloud-strategy-for-banking.md",
+      "title": "Is there a “right” cloud strategy for banking?",
+      "excerpt": "Looking at what cloud technology can offer central banks and the challenges they face in adopting it.\nThe post Is there a “right” cloud strategy for banking? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
+      "originalUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:34:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research.md",
+      "title": "AI researchers face higher risk of loneliness, insomnia and drinking: research",
+      "excerpt": "According to research published Monday by the American Psychological Association, artificial intelligence researchers are risking their mental and emotional health and are more likely to suffer ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/",
+      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/06/Artificial-intelligence_getty.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/amp/",
+      "publishedDateTime": "2023-06-12T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-5g-network-rollout-using-devops-myth-or-reality.md",
+      "title": "5G network rollout using DevOps: Myth or reality?",
+      "excerpt": "How can IT DevOps principles apply to the deployment of a complex 5G network?\nThe post 5G network rollout using DevOps: Myth or reality? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
+      "originalUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/dsc07568.lr_2x1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:16:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc.md",
+      "title": "Using the metadata service to identify disks in your VSI with IBM Cloud VPC",
+      "excerpt": "Recently, IBM Cloud VPC introduced the metadata service, which allows you to query data about itself and get identity tokens and more from the VSI. \nThe post Using the metadata service to identify disks in your VSI with IBM Cloud VPC appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "originalUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/lhj_2193-edit-161212-gj.lr_2x1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:09:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-cops-yell-at-stalled-self-driving-cruise-car-to-get-out-of-the-way-during-a-mass-shooting-in-san-francisco-video-shows.md",
       "title": "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows",
       "excerpt": "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos.",
@@ -946,228 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-ai-jobs-with-mind-blowing-paychecks-of-375k-a-year.md",
-      "title": "AI jobs with mind-blowing paychecks of $375K a year",
-      "excerpt": "When we’re talking AI and jobs, it’s easy to be nervous that the tech will make yours obsolete. Scan this list to see if AI might change the way you work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
-      "originalUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
-      "publishedDateTime": "2023-06-11T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology.md",
-      "title": "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology",
-      "excerpt": "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-creating-a-strong-foundation-for-your-startup-with-ai.md",
-      "title": "Creating A Strong Foundation For Your Startup With AI",
-      "excerpt": "Startups must take proactive steps to overcome business challenges and get ahead. One of those steps should be implementing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64824c948f1cd79e3030c0ae/0x0.jpg?format=jpg&crop=2988,1679,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/",
-      "publishedDateTime": "2023-06-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools.md",
-      "title": "Recruit teachers, upgrade labs to start AI, robotics classes: CISCE to schools",
-      "excerpt": "Syllabus prepared for subjects, uploaded on Council website The CISCE has already prepared the syllabus for the two new subjects - artificial intelligence (AI) and robotics - that are to be introduced in class IX from this academic session and uploaded it ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-100907494,width-1070,height-580,imgsize-86732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
-      "publishedDateTime": "2023-06-11T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-samsungs-chip-division-to-introduce-custom-ai-services-for-employees.md",
-      "title": "Samsung's chip division to introduce custom AI Services for employees",
-      "excerpt": "Samsung Electronics reportedly plans to launch an in-house artificial intelligence-based service for internal use this year amid security concerns raised over OpenAI’s highly-advanced chatbot ChatGPT,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F06%2F11%2F20230611000114_0.jpg",
-          "width": 630,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230611000126",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230611000126",
-      "publishedDateTime": "2023-06-10T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

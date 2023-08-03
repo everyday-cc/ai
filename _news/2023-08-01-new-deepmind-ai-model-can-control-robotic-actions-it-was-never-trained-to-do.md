@@ -74,20 +74,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
-    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
-    publishedDateTime: 2023-07-29T16:30:00Z
-    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 71
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
     excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
     publishedDateTime: 2023-07-30T17:41:00Z
@@ -130,15 +116,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
-    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
-    publishedDateTime: 2023-07-29T16:26:00Z
-    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
 
 secured: "PWUtWVsNmOPF6MZyzwIVrd0AgQL2qAQLlqk5vhoHp9OLXBU/yP76WPeTuJw+ZAorZvg/Llms17bkwG4cmNVXyGqQxo8JDtmZwQd9iZrndDGaxWiaU2rbMpoYVxqCx5sg6VAJphRWyv2WEJ8+tUD1d3gMRru4txrpO7ZR/t+cHZ63nvFagIQ0Au/K1gp3Fb35qGNvRMGqz0+oVkJaQ0gnQxThQ6SNYgxstbA9XpqyY5CJjR6/h8rk8Ub1awTFUvgPo9D/AFEOiXKtFIDrkW36FZikTmuGWYvq+xzgaeuKwy99nq2s/5j1knT/Z4hmVDe0PfUmwbvZDESUcVqMmGLfutQ8YamKV8KZvzAqNtOrn4jA7IZjpxmmGU2WEYjea7kWAcB7c1MEpQ77OyR1tUsT9RZFmVjTQWk9rQEt3GFl8CNMRR/eMK6dI8WVnRRjpEoynyE+v6wNFmdprPEcVrC/IilSdqWA5WmxOSGukKSU+S7PLmNM3M65L7Ew0t5CTHNibQCPwT37ZDL3W4Eto2joEA==;sCMF0iDsFLWPJVOocAcueg=="
 ---

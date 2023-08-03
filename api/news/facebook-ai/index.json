@@ -289,6 +289,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-26-microsoft-reports-201b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift.md",
+      "title": "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'",
+      "excerpt": "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent Meta in selling the latest artificial intelligenc",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "publishedDateTime": "2023-07-25T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-the-us-is-headed-for-a-roaring-economic-boom-thanks-to-ai-robots-quantum-computers-market-veteran-ed-yardeni-says.md",
       "title": "The US is headed for a roaring economic boom, thanks to AI, robots, quantum computers, market veteran Ed Yardeni says",
       "excerpt": "\"I think that by the end of the decade we'll look back on it and say, it started out awful, but it ended up awfully good.\"",
@@ -1415,49 +1459,6 @@
       "provider": {
         "name": "NewsNation",
         "domain": "newsnationnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-musk-warns-of-terminator-future-in-ai-race-as-zuckerberg-prepares-chatgpt-rival.md",
-      "title": "Musk warns of ‘Terminator future’ in AI race as Zuckerberg prepares ChatGPT rival",
-      "excerpt": "Earlier this year Mr Musk signed a letter warning that “out of control” AI research by “unelected ... the popular chatbot tool. The Facebook-owner previously released a free AI bot for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/07/13/elon-musk-warns-terminator-future-ai-race-mark-zuckerberg/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/07/13/elon-musk-warns-terminator-future-ai-race-mark-zuckerberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/07/13/TELEMMGLPICT000342454197_16892387650800_trans_NvBQzQNjv4Bq5yQLQqeH37t50SCyM4-zeGcv5yZLmao6LolmWYJrXns.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

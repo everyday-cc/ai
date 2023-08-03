@@ -60,20 +60,6 @@ related:
         width: 710
         height: 435
         isCached: true
-  - title: "Google’s RT-2 AI model brings us one step closer to WALL-E"
-    excerpt: "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a “first-of-its-kind” vision-language-action (VLA) model that uses data scraped from the Internet to"
-    publishedDateTime: 2023-07-29T15:11:00Z
-    webUrl: "https://www.inferse.com/652061/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7839.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "RgQNKgzZfvmTLhu+fUGuipS2tvv5NLrhNGTSvyuLEVah+UpavfiUJBvfgm7VrfU43o7pknW9MHrqXen9opgIpebid+jzx9MwpjLN3E6BUKEDzgXxd7Uv2ywR1Tt1FH9PT22V4bgyuqzdsFEfUk+U7RkI1bp2S4aABEUJjBtZyXH3QshZn5O04ODrHhlnUKFN6u2HVxZZIzwmI1Ik9/3lDWMYXrgYdNGWoQzpfAWrfpYHLSoNH03axXKzqbYxBQIvb4kHwHmMUkUiQBP6lqCD88V0wESdM+KyWJVn2AZq2rB8l3zeIfs12ldTdTMtBzu1u0gE5nPBS6iv2QhteKmnLI102sqRhxK8+KwTrrusGrvQQBF3msTbRjt8KROawjPyZnbvzc1Ec4J5qMWz5TIKv76OFg2AiimTsO2ISR5XtUwmuMxs+8ad8LT/t2h5yhEgm7jr6/PdSoLB41IPyzWVTgzEocE23DxRHb325+sb9POCSRt6Bj7iL78fEeEmNW/JAiSrm/XXnVDlz0C3DP1f7g==;IlGxaLQq6+zZTPDaixRujg=="
 ---

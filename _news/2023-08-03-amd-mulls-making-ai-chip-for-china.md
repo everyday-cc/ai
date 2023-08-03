@@ -41,6 +41,20 @@ related:
         width: 2098
         height: 1440
         isCached: true
+  - title: "AMD Shares Dip Despite Excitement for Q4 MI300 AI Chip Launch; China Market Challenge Remains"
+    excerpt: "Amid a 6% stock decline, Advanced Micro Devices (AMD) champions robust customer interest in its AI-targeted MI300 chip, signaling a potential shakeup in the high-stakes AI semiconductor market, despite certain China-related export challenges. In extended ..."
+    publishedDateTime: 2023-08-03T09:55:00Z
+    webUrl: "https://www.econotimes.com/AMD-Eyes-AI-Chip-Debut-by-Year-End-1660451"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 43
+    images:
+      - url: "https://f1.econotimes.com/2023/08/2mi4l0iize_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
 
 secured: "QJnaJUkkkJEPtisTfasu3My9utJetuuxk/UYg/6mV0PYTMu5D6+Q11Jkqgicx4liouPl02pBRwgkGNdRBZ4WYWWtYS2Y/RGOiMS0Vo82Dy80XEB6XEZEIcE3xKDuArnxSk8TiDC5axate9P0ZxhIUWON1A1PQGJ3AlQh3ddrnpHQw0y6iekCflcZrdgJT/5owDTTaGUFeq8Vu4QV7ftujx2j2XZlM1j5F4cW5j7dk5//EcF3dasgqbxUeJ+A/fo7/aSP93TS7NomcPJ4e/22+Kv35JEtzFxiMkty1pANFLnxCSvHAsiv/ZULxeJezV9y6rRICzFlINh5HjOIOoKrtX7p57IfZ82Zat2z5XTfMgI=;Co6p/aCRfWFBDpmfCYcp8A=="
 ---

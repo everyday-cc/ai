@@ -1,0 +1,52 @@
+---
+category: news
+title: "AI for all? Google ups the ante with free UK training courses for firms"
+excerpt: "US tech giant starts charm offensive on artificial intelligence with basic courses to help firms understand and exploit emerging phenomenon"
+publishedDateTime: 2023-08-03T07:21:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race?ref=upstract.com"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
+type: article
+quality: 57
+heat: 67
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/3cf69682fa8137790defffbb9ae589d60c11fa6b/0_130_5072_3043/master/5072.jpg?width=620&quality=85&auto=format&fit=max&s=63b48f3f3067033ccd5016be00e2010e"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "‘So important’: UK minister endorses Google’s training drive in AI arms race"
+    excerpt: "Few countries have tried so hard to promote AI – but many non-tech British firms don’t know where to start"
+    publishedDateTime: 2023-08-03T05:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/3cf69682fa8137790defffbb9ae589d60c11fa6b/0_130_5072_3043/master/5072.jpg?width=620&quality=85&auto=format&fit=max&s=63b48f3f3067033ccd5016be00e2010e"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "2qYOETKbdtjJQAOiCGhV5LYMcccphR545aLv36hbTDa1BuHFV9wCYfCf1tmoPye/FltrBBVd/496aVe/oeTWIrN3FN5RezrmYsyq9vO+XUJDupcWKLz9RMuVVcUDFWJeLmuiwdzmy9NbdAdv5qcKAeGHeqcvmInm99ur5jGmJ5dKoQgRbzwIyqTYgZshjN2xiX/JZv+kVXo4jVKPOaNZs7LGX5W2LbmNNEut1HeyEnh2wuXIHma07sRCdxNdYN14A5U8ZFJ6a5ivRDjfNjoyCCYrBgpr9lnazblKJbP4UKTTofNgtue8jtfvvNBktwwha+dHS7ToHANgn65/hzu5KkO/HDZa52796N0E33xe4R4=;7wTia+xBIP5VdF16+JajXA=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-musi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta expands its AI music experiments with AudioCraft"
+    excerpt: "Meta released MusicGen, a musical AI model that could use text prompts to create 12-second samples. It turns out this was just the start of the tech giant’s a"
+    publishedDateTime: 2023-08-03T09:15:00Z
+    webUrl: "https://musically.com/2023/08/03/meta-expands-its-ai-music-experiments-with-audiocraft/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/08/meta-ai.jpeg?fit=1200%2C675&#038;ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta Unveils AudioCraft, A New Generative AI for Audio and Music"
     excerpt: "Meta has just unveiled 'AudioCraft', a new family of generative Al models built for generating high-quality, realistic audio & music from text."
     publishedDateTime: 2023-08-03T04:24:00Z

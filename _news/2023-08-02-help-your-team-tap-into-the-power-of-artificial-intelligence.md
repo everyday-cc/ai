@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/soren-kaplan/help-your-team-tap-into-power-of-
 webUrl: "https://www.inc.com/soren-kaplan/help-your-team-tap-into-power-of-artificial-intelligence.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Executives Need To Be Careful Before Diving Into The World Of AI"
-    excerpt: "With AI continuing to make headlines, organizations feel under pressure to adopt the new technology. But many questions remain."
-    publishedDateTime: 2023-07-29T16:49:00Z
-    webUrl: "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c54268c990bbf4f1ade19b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "There Is No Need To Fear Artificial Intelligence"
-    excerpt: "We hear and read about the potential impact of artificial intelligence (AI) and the upcoming technological revolution in reshaping our lives and indeed, the entire world. It is predicted that this transformation will drastically alter our personal and professional routines,"
-    publishedDateTime: 2023-07-30T22:34:00Z
-    webUrl: "https://themedialine.org/mideast-mindset/there-is-no-need-to-fear-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Media Line
-      domain: themedialine.org
-    quality: 37
-    images:
-      - url: "https://themedialine.org/wp-content/uploads/2023/07/creative-artificial-intelligence-concept-with-human-brain-sketch-man-hand-writing-diary-background-double-exposure.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "LC4bExleW4JOPDVgJNKZaEq5a23oYCL0D7bpydqL07XIuTRle+lEvsPB2nFvMrDYKwRi9ZO9VOSjxYBU7De//zIcay4Jj0wBA/4XmPbGNbhMHbhqlnRJv+YdGF1mkpk/1Ft7zbD4UY0C89ou3x8+cBwdYQ/orOM5c+Olqv+2DxY9XX9Kdas5gwRVUzs8txYktup8Q2QuSlbKKK9kLgLT9Qyj81osBOxcrItbu1XORG3EGHC6sWOECQ9EySFJXzyUGqO6lYwJNtsMCSVy0ktGaz31zzjHH80nURuVMkdExRV7reC2lq4sl6unBmvzSAUj0/TV83YkBmZ6hUJ2OOmmv0IWvemzQ0M3MxWlcxnq644tF0UNtv/OhNCWxU4cL5H4ko8Sio/fKYRFhu6XpfHZxfP23ZaQOzvnID8qfGqFPlnGXrNKsT0ZfLuaVG/En/FU2W36HbiV1enF4Uy2Z3JjJk+HFpVNTkWgNNkMUkkkcvy3z5ba6LroZt467Nms8kG3U12oxnMn4MCmuBWU40+cWQ==;sQDwxjYB0aWLGnHtZbkvZQ=="
 ---

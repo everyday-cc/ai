@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -151,7 +151,7 @@
       "originalUrl": "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 296,
       "tags": null,
       "images": [
         {
@@ -328,6 +328,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
+      "title": "How is machine learning different from deep learning?",
+      "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "publishedDateTime": "2023-07-30T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
       "title": "Artificial intelligence, the airplane of the brain?",
       "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
@@ -410,49 +453,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
-      "title": "Researchers successfully train a machine learning model in outer space for the first time",
-      "excerpt": "For the first time, researchers have trained a machine learning model in outer space, on board a satellite. This achievement could enable real-time monitoring and decision making for a range of applications,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/researchers-successful-2.jpg",
-          "width": 1280,
-          "height": 1508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-successfully-machine-outer-space.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-successfully-machine-outer-space.amp",
-      "publishedDateTime": "2023-07-28T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -585,6 +585,49 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
+      "title": "Researchers successfully train a machine learning model in outer space for the first time",
+      "excerpt": "Scientists have trained a machine learning model in outer space, on board a satellite. This achievement could revolutionize the capabilities of remote-sensing satellites by enabling real-time monitoring and decision making for a range of applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230728170641.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230728170641.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1323,40 +1366,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-hardware-conversion-of-convolutional-neural-networks.md",
-      "title": "Hardware conversion of convolutional neural networks",
-      "excerpt": "Artificial Intelligence Microcontroller with Ultra Low Power Convolutional Neural Network Accelerator The MAX78000 is an AI microcontroller with an ultra low power CNN accelerator, an advanced system on chip. It enables neural networks at ultra low power ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/hardware-conversion-of-convolutional-neural-networks/",
-      "originalUrl": "https://www.embedded.com/hardware-conversion-of-convolutional-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

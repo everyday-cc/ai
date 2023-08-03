@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/03/so-important-uk-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 372
     isCached: true
 
-secured: "B2xlSfvQk8kficj34U0XAHA6l+MlEej+Pi3FJDb+dE/mMUp2wuQQ86TejoOPp/2eU3l/sv/QEs47jX0njvd/xBJmv3rczJeiy7scgme5welV74bn1WAToZheHoJceQ28DtzVtoM0ffzBY4XU1Zn/LWtiMjCD1k8ZpQyjeDaFgUJBpFdJWQ3hc8yPoJ1rw3NQTNcy0hyoLT4z2UVZVVBzDKMWcPUtxMuulsD07xK3OoROxGcpW2rMAr/BjKhWqL1BjunoQ0byCMXXTvStsdRDk35VtLxlQJCsyTbSFvwi7RrX/WvFbwFDwPWEhB4TSQ6YY6sBWnEVSVknRPEneCgthZ2RHcJMAFD5f+FVq9GOpBs=;y27vIuR3zV98mxmKMM975w=="
+related:
+  - title: "AI for all? Google ups the ante with free UK training courses for firms"
+    excerpt: "US tech giant starts charm offensive on artificial intelligence with basic courses to help firms understand and exploit emerging phenomenon"
+    publishedDateTime: 2023-08-03T07:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/03/so-important-uk-minister-endorses-googles-training-drive-in-ai-arms-race"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/3cf69682fa8137790defffbb9ae589d60c11fa6b/0_130_5072_3043/master/5072.jpg?width=620&quality=85&auto=format&fit=max&s=63b48f3f3067033ccd5016be00e2010e"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "VOeuyAGwc9dmDsO55z6+ICvEOI9hJiO1/SQoICDgDlRATT4CiNfv4y6g8BAwqauag+JQDBBvP5T9RqBkK5IUvdwiPM/NOQhCuP+M9bkemUHsRzuVyT4TNcHPVPJD42G1XjnYdUj9JNlPwug1/j+okHnKqr6Z2MEqBag1YCHmvsvaPr0hGE2+7lGCS1RzJJsza438xf3mL1wR11VIXW7rZ08ranFZjCwkTyD7/jVqUVHtqfhNj1iOAaTx53smVd++yiksj6h/si+Cm2rlCXuJ6CT7gr5wOJSX+AHcV98H/+aZYJyLj/i2AesC8LpJciVR+J0uoL+cJfZ0ybs2xknQVdM2LmoJFuo/61aY7esjLrgKmq1fkzkbLRqzIlvWjt6fn2eCg0ImVj3ew+lXG1dn5L1geVdnOMsufQDmpR9t4FCLxO1b/y6B7IBo7VX3nfFJuVEBhaVZtUHwUTqBJiq5cwi6I0njcXCpIkp/HRhWZYgUhWHmms+L+iHDhElEmZh7hm5TEVL1RyTEGvc8wJB24g==;FA7/5yI7IURVB6evLqEAYQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-13-effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning.md",
+      "title": "Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning",
+      "excerpt": "Recent years have shown amazing growth in deep learning neural networks (DNNs). This growth can be seen in more accurate models and even opening new possibilities with generative AI: large language models (LLMs) that synthesize natural language, text-to-image generators, and more. These increased capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/effectively-solve-distributed-training.jpg",
+          "width": 1022,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T09:03:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-intelligence.md",
       "title": "Data Security Startup Raises Pre-Seed Funding, Launches Data Protection Software Using Artificial Intelligence",
       "excerpt": "New York-based Teleskope reduces manual overhead burdening security, data, and engineering teams, preventing alert fatigue Teleskope, a cybersecurity startup, today launched a data protection platform",
@@ -1360,59 +1412,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws.md",
-      "title": "Auto-labeling module for deep learning-based Advanced Driver Assistance Systems on AWS",
-      "excerpt": "In computer vision (CV), adding tags to identify objects of interest or bounding boxes to locate the objects is called labeling. It’s one of the prerequisite tasks to prepare training data to train a deep learning model. Hundreds of thousands of work hours are spent generating high-quality labels from",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/auto-labeling-module-for-deep-learning-based-advanced-driver-assistance-systems-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/19/ml-13782-image001-1260x573.jpg",
-          "width": 1260,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T07:24:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -87,20 +87,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Take Action Like R2D2"
-    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
-    publishedDateTime: 2023-07-29T16:30:00Z
-    webUrl: "https://www.inferse.com/652235/googles-deepmind-rt-2-ai-model-will-help-robots-take-action-like-r2d2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 71
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7922.png"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
     excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
     publishedDateTime: 2023-07-30T17:41:00Z
@@ -129,15 +115,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
-    excerpt: "RT-2 learns from both web and robotics data, while translating the knowledge into generalized instructions for robotic control."
-    publishedDateTime: 2023-07-29T16:26:00Z
-    webUrl: "https://hothardware.com/news/googles-deepmind-rt-2-ai-help-robots-take-action"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
 
 secured: "znCjP+BjEl6tw0qrvU6w5AWeuHuYQmAteER+8LMO2BiESNLg7hA2RN8E78KEhZAZzH1I4vFDVl7OAyf0uwiFk3OCjvLgNboPl9cLT+Yte86IEyu1vYV0iSWQxePJnR7Q/L2uT8OrQ8TUGnK7lW6AMih9NAxBsCWJezgOKQY7uEfs29m77eh8WAzczAgWY1/XD0DF2J+AtpeUHaFuGHPnqNN7dBlsLsxuXtwzFgv5hjPDv0q5tcGhQgtbAoUVPmF9S96+FffpjDMmkB/1HaPAw+aGbKnaMB1aXOUqajt66afDP/yeFptMKNJOMt7+OuXPSwc73Q/ID0/2NLeffYf0K6hFASGJV9jHidosYIbtEOmEe43OvInGmY9onXCFW0xGxPxw5VSBguIGcWod2a2DOpu2P59osVm2ETzpLX+f/vjHQikX0dZnfy9NjmCcwq7sgf6DxiqPOH8B9y/cR4Fssltmr8+uxlMYZYxdRCYfWdziU1A8djYjn9J5C8D6uZdK3hQrzAQwiBi+Bi2MVuNmsQ==;kLEkUb5m0oukm6FeUx5aBg=="
 ---

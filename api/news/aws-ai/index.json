@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-03-aws-strengthens-saas-spanners-for-cloud-native-development.md",
+      "title": "AWS Strengthens SaaS Spanners For Cloud-Native Development",
+      "excerpt": "The major Cloud Service Provider (CSP) hyperscalers have established themselves pretty much from the outset as essentially Software-as-a-Service (SaaS) entities that",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca60bcd4f6dd03de6b2a45/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/03/aws-strengthens-saas-spanners-for-cloud-native-development/amp/",
+      "publishedDateTime": "2023-08-03T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-exploring-summarization-options-for-healthcare-with-amazon-sagemaker.md",
       "title": "Exploring summarization options for Healthcare with Amazon SageMaker",
       "excerpt": "In today’s rapidly evolving healthcare landscape, doctors are faced with vast amounts of clinical data from various sources, such as caregiver notes, electronic health records, and imaging reports. This wealth of information, while essential for patient care, can also be overwhelming and time-consuming",
@@ -1401,58 +1453,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-18T09:45:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning.md",
-      "title": "Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning",
-      "excerpt": "Recent years have shown amazing growth in deep learning neural networks (DNNs). This growth can be seen in more accurate models and even opening new possibilities with generative AI: large language models (LLMs) that synthesize natural language, text-to-image generators, and more. These increased capabilities",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/effectively-solve-distributed-training.jpg",
-          "width": 1022,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T09:03:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

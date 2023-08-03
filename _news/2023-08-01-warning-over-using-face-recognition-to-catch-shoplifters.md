@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
-    excerpt: "Covert government strategy to install electronic surveillance in shops raises issues around bias and data, and contrasts sharply with the EU ban to keep AI out of public spaces"
-    publishedDateTime: 2023-07-29T15:11:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
-    images:
-      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Incheon airport introduces Smart pass facial recognition system"
     excerpt: "An Incheon airport official demonstrates the use of the facial recognition Smart pass service at a departure gate of Terminal 2, Incheon International Airport, Friday. The paperle"
     publishedDateTime: 2023-08-01T09:04:00Z
@@ -118,22 +102,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "‘We’ll just keep an eye on her’: Inside Britain’s retail centres where facial recognition cameras now spy on shoplifters"
-    excerpt: "Ruxley Manor in south-east London is among the increasing numbers of retailers installing biometric security technology"
-    publishedDateTime: 2023-07-29T16:26:00Z
-    webUrl: "https://www.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jul/29/well-just-keep-an-eye-on-her-inside-britains-retail-centres-where-facial-recognition-cameras-now-spy-on-shoplifters"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/3db4e2352f0c005d9cb730443a4f3d40a71f612d/0_653_1512_907/master/1512.jpg?width=620&quality=85&auto=format&fit=max&s=14ecf08b5772b0758f675dc478f5e63b"
-        width: 620
-        height: 372
         isCached: true
   - title: "UK stores cracking down on shoplifting with facial recognition technology"
     excerpt: "A handful of UK-based retailers are incorporating facial recognition technology to crack down on shoplifting.  UK police are employing pre-existing live fa"
@@ -205,6 +173,6 @@ related:
       domain: biometricupdate.com
     quality: 0
 
-secured: "XtwDCrHo6ptCFN8KGCtg1G2wEWQNcNKjANFQcLcsGbgO+se0SCQ9ObEARj3MK4C4lzzpzVRYSrKWnM6nyTSJguCdEjSIUFRMSJpr0Uuxbi+pQfQ/RdWU/Jzy02QTtbjWnFPkVEz71CKdm7EMLxuNaXrsiR+NNOIZ7LC/hyEnYdwjlgE+BBmgPddadt7eBvvmsyCY59Mk3qvjPd71Um4sMeeeSZ4HVVaTs0WAzItyMsf3Da6hZ6ybvDyiuHZwNUX9Z+dEvERsmcWuHhncOkuc/kg5+ZTjDDJF1xB60D72xSfqkD6fGrpzI3+GwsKdJ4PO4FjT8+pmsbADkwYxxt05oB/fgLYpLLbK4EWqHqgDG24=;T4SkM4nXxFakP7oAnjbO7A=="
+secured: "241H7s3TEqAvYxCTuM0+sQcV76yOg6lyC2VPm2tB/v11V9PL+y5WycyaD7PFAE+B3JcakUj5lmqAJ4n/pMBR6OyL2DycouklPFGonx2W+iIo9IzeHWvGV7J2xO34RfnD5Jl2XmHUC747H9hkQapya7zO6NAWnPDcpg4MOFTQrw90FpKzKEW30GPnHd6JrHX8PkaslwPaJBdIs32Y1H6xZRAlj/WTCQ0qfpKoOXkesqRVTJU/bXXc8gpP0sxTNQinUSg7TPqIOBEpEzaPmPMMJgr8ZKf8Nq7eI20s77S7UaP3LsxTUx9bBZCClaguR8NwlkwWMPnTsgsr89yArdr9lBMDbAxFyBYCUCpM02kJgmCOLa4GDz2xU8riV4CKl/egOrztZp6pTGmEBiTwYk77rXQ6t/5nKkm/myWr44HIuY3bllXpJujcOYpRU+1Xg9elGV7wVVJ7LrAb+ivixvnIgUrHhrQrXdVOHgrCNFcWzF3rrwjoySWX3htRafLg2iNlEd4x9UCQaCM9c5lzaSSEtg==;Zp7gN+JGySfl5SrvvLhmbg=="
 ---
 

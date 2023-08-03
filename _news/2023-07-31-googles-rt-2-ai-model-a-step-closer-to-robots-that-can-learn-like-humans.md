@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
         width: 710
         height: 435
-        isCached: true
-  - title: "Google’s RT-2 AI model brings us one step closer to WALL-E"
-    excerpt: "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a “first-of-its-kind” vision-language-action (VLA) model that uses data scraped from the Internet to"
-    publishedDateTime: 2023-07-29T15:11:00Z
-    webUrl: "https://www.inferse.com/652061/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-7839.png"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "SHP6M+QNJvZ6bhRwC28H7y4u5/gIM6r8LpUIn9A2I/7byRrKlfPhUKg0w3mELqi6cYkrSJq2Q7WfF0zoz9XbIneukTfn1jmFd54hzOBeJzoxZB5h3HKY1KX7xdyPxSBW3NwZyOk8u5WZm90J5iIPJNZ5Bkk6UezL+DQ8PyvZOYRgfFF07oCC/lHTtY3BrytTcK4cEZ0NcOJSzwlfhiUAuikouiTgpD/KxWYYG35tFFq/D10LzM4a0fhu8mbfoD9Ii9NZkzsNRYgTx5NxQpn2e4pI4eITXvdhhzw8h2J0Qw8M+kUbCf7RbJy+HLHnbL7ZSAF3VJYqQPlA/A01aLWK4Y0WZA3KoGPxAjXFMdJPnYXWzQj3oSB0RIbvvfv7FHNRYi0lKlcgjT7HeTPV2TRerB+d1yT22ROp1P39z/Eb0S3aqkvJ0TFB//K/NkspJBfNxUv++d81MESCB44wy6l9P1bZgpJuXwid84LnQD53/kqCoVRz/szcI88it9QE8jZRElohuvy+zIfOOP8FQ7q/Iw==;dXZ5QrDsbzUKoiBqnWsgSg=="

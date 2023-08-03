@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-use-Generative-AI.jpg"
         width: 700
         height: 459
+        isCached: true
+  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
+    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
     excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."

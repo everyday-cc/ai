@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-fund
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
 type: article
 quality: 86
-heat: 196
+heat: 198
 published: true
 
 provider:
