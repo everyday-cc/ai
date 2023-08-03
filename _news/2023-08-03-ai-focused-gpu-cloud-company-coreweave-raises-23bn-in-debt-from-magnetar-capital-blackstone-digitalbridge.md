@@ -29,11 +29,27 @@ related:
     excerpt: "As organizations rush to embrace AI, it’s putting the cloud — or clouds, rather — under strain. Amazon Web Services, Microsoft, Google and Oracle, facing an unprecedented spike in demand for the server chips that train and run AI-powered software ..."
     publishedDateTime: 2023-08-03T13:48:00Z
     webUrl: "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/"
+    ampWebUrl: "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 43
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/tengyart-hR4JiEOZMS8-unsplash.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CoreWeave secures $2.3 billion in new financing for GPU cloud, data centers"
+    excerpt: "CoreWeave, a specialized cloud provider of large-scale GPU-accelerated workloads, announced that it has secured a $2.3 billion debt facility."
+    publishedDateTime: 2023-08-03T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/coreweave-secures-2-3-billion-in-new-financing-for-gpu-cloud-data-centers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "CoreWeave Secures $2.3 B Debt Financing Facility to Meet Surging Demand and Ongoing Expansion of Specialized Cloud Infrastructure to Power AI"
     excerpt: "CoreWeave , a specialized cloud provider of large-scale GPU-accelerated workloads, today announced it has secured a $2.3 billion debt financing facility. The funding was led by Magnetar Capital and funds managed by Blackstone Tactical Opportunities"
     publishedDateTime: 2023-08-03T13:55:00Z
@@ -44,6 +60,6 @@ related:
       domain: cmswire.com
     quality: 0
 
-secured: "THHc4a1pEJDha/4R1gx8dXEPAQtKWroP4Cx+i3a3PVEhrh2JUUph1OTg6PExuTxvUcuLV+r3+oe9N1b72EbF4YpVA0+eEKZujsHX2Hc7fKLdkYNS3WtSdRgmIGu9D27mw2jd/BWjK6bpmZW6A/TfKpQ6eszD3OVowt/MTXZraOvgQcpEC/AeOc+xy12NknFP68Ozxh9/7+bLbkHYrkPPUGuFfDCq9/7FGMATpFuDXYa6S+W/1nv64YR6JdHciCLYG1UebEhaNkTOhbQSgfunKykzFPIns4BLTGTWmOx+Fz6EiaGx6zkPKrAeHYKeKLcC5YEKVHRBN8TTG3qQH8fVzSXf0kv/BtkryV9H6JqB/ek=;3dQujdC+an69vITvMmItVw=="
+secured: "GS6qRABVAgyrBn1ZJBUCJnjhvD6FAp5bgdJOJ34CkXCqngBTMzzpeE9ybj31qzo1KB+1Te+LHwnl7e+b31NlkQZ7ZInSC0ATmdpe5MmJoWBNC7vv2y8calrYig+52YOozu3RRG+H+N/j2u16tD51R9FLnSe8vhGl8BoMvlobRalZUep6XroQ3GmXm3bg1/waIUzehwxEZBm6qeN5QFaWjy/otJCRzdX18Jngbogku4psC7jxmj+1CbWOAXzNbwSqcmK726lSjFDGW2kEKrRWgFmIwUzXriJuk3o8M/e8Q+8MGN5CQggvC0tUlCXK9DZie8rh+jWHXpRxgZpXWFwuh8jgs48KAoUFvzwYUFozVcsPthDzxOxThIQWLTu6cWn51ZIr85uL1U61jeEj+I19LgiJLuYBGwOQT/NpjlhESBsf8ZYeTONo1UBKzDNoxzznxUaij7VhNnuYd8WwDvgXeEB8mj/O9+AC8ojZvfMxY4vepKXQJhKDIgiFXJdEn7a8QVF8Q883N0ezjLa2JxdJ/A==;k6N5VBqumLXjuABoQImAYg=="
 ---
 

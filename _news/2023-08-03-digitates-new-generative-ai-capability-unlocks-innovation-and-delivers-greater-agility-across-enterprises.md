@@ -152,6 +152,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
+    excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
+    publishedDateTime: 2023-08-03T17:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "How Generative AI may impact the data analytics ecosystem"
     excerpt: "Moreover, while large language models are excelling at tasks such as summarization and translation, deductive reasoning remains a formidable challenge. As AI continues to evolve, striking a balance between its capabilities and limitations is crucial."
     publishedDateTime: 2023-08-01T11:52:00Z

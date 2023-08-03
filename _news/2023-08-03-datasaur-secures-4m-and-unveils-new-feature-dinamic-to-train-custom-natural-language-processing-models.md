@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Datasaur Secures $4M and Unveils New Feature Dinamic to Train Custom Natural Language Processing Models"
-excerpt: "To learn more about Datasaur, please visit https://datasaur.ai/."
-publishedDateTime: 2023-08-03T15:37:00Z
-originalUrl: "https://www.tmcnet.com/channels/call-center-management/news/-datasaur-secures-4m-unveils-new-feature-dinamic-tra-/2023/08/03/9859186.htm"
-webUrl: "https://www.tmcnet.com/channels/call-center-management/news/-datasaur-secures-4m-unveils-new-feature-dinamic-tra-/2023/08/03/9859186.htm"
+excerpt: "Datasaur has invested the last four years in building an intuitive and efficient platform that enables companies to label their own data which transforms raw data into valuable AI datasets. With Datasaur's new product Dinamic,"
+publishedDateTime: 2023-08-03T16:01:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/08/03/9859186.htm"
+webUrl: "https://it.tmcnet.com/news/2023/08/03/9859186.htm"
 type: article
 quality: 18
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 351
         isCached: true
 
-secured: "7HuxYoMh6q2gsrT3qhjJvmTMX8kIKgSqukm92RN1SU2967oe/GOuGrzxj0B23dTNCZ8sIw8GHev365zjBZUdOdlMKkR3ewOcZm4fBjUqhEyieWCpi9sBJajHg8+sryukVDIzAULc2wWMkmxxciBlZy8CTwHcenLw234LJGIvKIgF2hl4pXZc28o9ApWQpEe3oqsTdePQ7wgixz3wGEXp09w+WaWUevJGfu1KpiBF2K9aUgJfbL1ylWzpOLTe7IPUUUpT2csWt9PANsX9L0BQ/XUbNt87lFPXg9WCVzxaFyVqZCBsOa9V1WZ7xsI10LXQen303t2FhFnQouASFEo+u0x4ktqJsR5/fF4NyNcBTmo=;pHHtC1kpCHvUZ8B29+4Rog=="
+secured: "xGIIweydaqbnkXDk/EbzDOtZJ7LfGnoatO4PP5QlNzuqgvAf0cLBUwx8Gq5NWUbvmLFa4zQcFx9hTGFi/E577Qht7R2qvfsTjQyIwHBB4+voqhamrumb7JfZLaZVzCQgs6SioSdQbTMplbXtilxE8d6LSkPR9G/fQuoasJGGXMg/eOsq/OxCBcf8zHmISKFXZeCsgHclL6iEU6yQ/dc5Y2wBZSIwUMCK2lly/c2/WsWq2PgLnJUbr+2tdrf96yGIyks4zjOqJL13LfeF5P5uskwjzy8UC00OSqc4ddgZEsWuaYsw6fi1GVx3tViFutz6SdSrRaNBZcL2c63SXkVTrwPecLwCxzgesRigqUia6JZqj63pzoTgr5sTkRQalK4dJSFkwpmGX+BoJdJ/n9+6OX1rG3UOQzHXPeJ5kIWnF2zzAdieXS5gOdc8VYR836XR921qrq5yYgrTVVclhdJh3HfcFdAfroriabTPgiXbP2A5c8LExgtqeAarRZbsjLmDoQO9Y0YltscOD6R2iAyvLQ==;Mg9TFc7RDWHwopehrQI9nQ=="
 ---
 

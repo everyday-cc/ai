@@ -1,34 +1,23 @@
 ---
 category: news
-title: "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars"
-excerpt: "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle."
-publishedDateTime: 2023-08-03T05:43:00Z
-originalUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
-webUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
+title: "How MIT's Liquid Neural Networks can Solve AI problems from Robotics to Self-Driving Cars"
+excerpt: "In the current artificial intelligence (AI) landscape, the buzz around large language models (LLMs) has led to a race toward creating increasingly larger neural networks. However, not every application can support the computational and memory demands of very large deep learning models."
+publishedDateTime: 2023-08-03T14:25:00Z
+originalUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"
+webUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"
 type: article
-quality: 92
-heat: 95
-published: true
+quality: 40
+heat: 40
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: acm.org
+  domain: acm.org
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all"
-    width: 858
-    height: 686
-    isCached: true
-
-secured: "Z6xBBWaA3dFoyOejRZjLTsn3ki6dh3qVvQmwdrtHDsUm2sG4u33xTNuYv+TQRdqBjsK/adevBrTvvA5JPI159YHRsNCvD0F5wzNQRSup0M98BzaHXN19rsGh40YS41VYJn1bVyh8HPt24kvvpaVWTS4m0++i+NgwZRO8IF4IDLOf2G4cbiHpMRNqcr2BcmD5k035m1QWNFcLbfVi8/8eB87Ia1TpfONP4RFVv/wghrmK0Xj52rsjzR923B6HiHITUD29e1ciDD6/4B48dGsUeaiNc2mJeucz7W/o3IPPasjcJ7XxGSSFRBlAucNDDz/yxWBqmU4m3gqGozZt7gbzeM7/untBAQGpwJb7L4UhtDQ=;RB+7wBs1ZQ2OoQ6van7dPA=="
+secured: "z2uEiettDKEMLxxVlbo6hkN/jko0WhJ4a1PGwqgqkhU/bvi3ra4g+7NPPu7Tf799QBMrpNXZuzKr4WktAtSb9i80HgJC2abmvxjo23XXN22VeVNK4w0fAc8EOdmgvRmn/5sq0x377L1eyWkJsbQcdjgzvv1dqc8xOWcNQ4uJACoJPzLigb6U2VHE38Rtkk2bhXWbw4FRf6vhLMYnlj6A53Uv84+b70+GTRayWPFjxdp5hRGRxWgNljwqzg/kTGcE1TTjmh/5zr9yo6XzInO/wsG1J1HvjEOIqh8MXfMOiwyFC4wYT3bWCb63I7y1v0BCXC/8U+1s/EgP0dlrGNmowDsgQUrnKUEChEcjBwUhXja4HGpm5rFZQo+LwT8cXYIDYPW86PCBX/xP2qf/xhJSWMVZU14zB9cfiifal5PWrQXmXiQNRLHr8iy8N4xTv8OEim5u0HX+x6KwIcvi8HMrVqIq753MbElgmfsVB9v571hrz9B7BvbThBNlu0z0d4qLAgM3MxNB4PlS4AKxZfH80A==;ZegoBips9VPi6m9YQivRLQ=="
 ---
 

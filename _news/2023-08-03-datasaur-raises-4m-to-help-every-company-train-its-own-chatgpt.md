@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Datasaur Secures $4M and Unveils New Feature Dinamic to Train Custom Natural Language Processing Models"
-    excerpt: "To learn more about Datasaur, please visit https://datasaur.ai/."
-    publishedDateTime: 2023-08-03T15:37:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-management/news/-datasaur-secures-4m-unveils-new-feature-dinamic-tra-/2023/08/03/9859186.htm"
+    excerpt: "Datasaur has invested the last four years in building an intuitive and efficient platform that enables companies to label their own data which transforms raw data into valuable AI datasets. With Datasaur's new product Dinamic,"
+    publishedDateTime: 2023-08-03T16:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859186.htm"
     type: article
     provider:
       name: TMCnet

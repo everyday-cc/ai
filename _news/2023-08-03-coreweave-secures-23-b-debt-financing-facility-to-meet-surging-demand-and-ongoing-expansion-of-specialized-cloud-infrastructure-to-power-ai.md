@@ -23,11 +23,27 @@ related:
     excerpt: "As organizations rush to embrace AI, it’s putting the cloud — or clouds, rather — under strain. Amazon Web Services, Microsoft, Google and Oracle, facing an unprecedented spike in demand for the server chips that train and run AI-powered software ..."
     publishedDateTime: 2023-08-03T13:48:00Z
     webUrl: "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/"
+    ampWebUrl: "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 43
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/tengyart-hR4JiEOZMS8-unsplash.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CoreWeave secures $2.3 billion in new financing for GPU cloud, data centers"
+    excerpt: "CoreWeave, a specialized cloud provider of large-scale GPU-accelerated workloads, announced that it has secured a $2.3 billion debt facility."
+    publishedDateTime: 2023-08-03T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/coreweave-secures-2-3-billion-in-new-financing-for-gpu-cloud-data-centers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "AI-focused GPU-cloud company CoreWeave raises $2.3bn in debt from Magnetar Capital, Blackstone, & DigitalBridge"
     excerpt: "The company, which successfully pivoted from cryptomining ahead of the generative AI boom, in April raised $221 million in Series B funding led by Magnetar Capital with contributions from Nvidia, Nat Friedman, and Daniel Gross. It raised another $200m in a Series B extension, also led by Magnetar Capital, the next month."
     publishedDateTime: 2023-08-03T15:36:00Z

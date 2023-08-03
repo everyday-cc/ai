@@ -185,11 +185,11 @@ related:
       domain: bloomberg.com
     quality: 47
   - title: "The Chatbots Pick Up on Your Feelings"
-    excerpt: "Interest in artificial intelligence (AI) has exploded recently ... This quantification of language is key to advancing scientific understanding of psychological therapy, support, and mental health symptom assessment. Psychological descriptions of emotion ..."
+    excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
     publishedDateTime: 2023-08-02T14:20:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
+    webUrl: "https://www.psychologytoday.com/za/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
     type: article
     provider:
       name: Psychology Today

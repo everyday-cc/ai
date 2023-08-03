@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AWS and Accel join forces to launch accelerator program for Generative AI start-ups"
+    excerpt: "Start-ups will gain peer support from AI and ML founders and an opportunity to scale generative AI apps on Amazon SageMaker JumpStart. Generative AI start-ups that have an MVP ready and those ..."
+    publishedDateTime: 2023-07-31T13:19:00Z
+    webUrl: "https://www.businesstoday.in/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
+    ampWebUrl: "https://www.businesstoday.in/amp/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 68
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202307/ezgif-sixteen_nine_647.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS and Accel Announce Accelerator Program for Generative AI Startups in India"
     excerpt: "Amazon Web Services (AWS) and venture capital firm Accel have jointly announced ML Elevate 2023, a 6-week accelerator program aimed at empowering star"
     publishedDateTime: 2023-08-02T04:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6299631/what-socrates-can-teach-us-about-ai/"
 webUrl: "https://time.com/6299631/what-socrates-can-teach-us-about-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "As Artificial Intelligence Accelerates, Cybercrime Innovates"
+    excerpt: "Rare government, industry alignment on AI threats means we have an opportunity to make rapid strides to improve cybersecurity and slip the hold cybercriminals have on us."
+    publishedDateTime: 2023-08-03T17:00:00Z
+    webUrl: "https://www.darkreading.com/risk/as-artificial-intelligence-accelerates-cybercrime-innovates"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt76f420b3a9b0620a/64ca9833a55e441a18f6e4fb/AI_NicoElNino_Alamy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Torq Socrates agent leverages AI for comprehensive threat analysis"
     excerpt: "No-code automation platform startup Torq Ltd. today announced the launch of Torq Socrates, a Tier-1 analysis artificial intelligence agent designed to transform security operation"
     publishedDateTime: 2023-08-02T13:00:00Z

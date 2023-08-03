@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/semiconductor-industry-is-pulling-ai-a
 webUrl: "https://semiengineering.com/semiconductor-industry-is-pulling-ai-across-a-diversity-of-end-uses-and-applications/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 559
     height: 210
     isCached: true
+
+related:
+  - title: "Hailo unveils new edge AI accelerators, targeting entry-level and high-capacity applications"
+    excerpt: "Tel Aviv-based Hailo today announced the expansion of its Hailo-8 product lineup with two new offerings: Hailo-8L and Hailo-8 Century."
+    publishedDateTime: 2023-08-03T16:04:00Z
+    webUrl: "https://venturebeat.com/ai/hailo-unveils-new-edge-ai-accelerators/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-1-e1691073023165.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "79Ck8oGjLr/KItEqidnjn/HnV3aDdSj/hkDuoYcvX5kyjDP9kteDW8im/SigykI+ez+6++yLVaPimNyCfkHcsLy1dFcnj86B/jzLVBvxsIpjyg+Opp6rPGZSzTc822Yn6+JQHYKzDUbZlrfxgMzaoXPMlXtUNcw3WbPaF4T1fdBuC7qfsssI1l03HJUnFoa4FV1EA6fwLDvaFwDfyqqWggpjsHmv/Bt2emPt9bABwIOxMJWHbwOydoWVUjRTxzy0/O3un0j1/kddteFYmoEXhdEZPItHjXqjGJGqZjejGMkvKkumHOgYVoEPzHSa1w2xh53mfPrDs+LkI7XUiG9+e95B0A+ntaiXG3gyThFrbpk=;7r9mS8Q6XSUflERdNoOWiw=="
 ---

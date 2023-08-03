@@ -12,8 +12,9 @@ provider:
   domain: alphagalileo.org
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg"
@@ -21,6 +22,6 @@ images:
     height: 547
     isCached: true
 
-secured: "2fqFtFx0GDEJ9vcmPruACHDm1ubg5hliVoPGT1LvTf4ZsHyRmhkMvO41E2m3FcVDjiFpbZbm08wcCoohsTKZrzN66KecSTfOY4ID2R4tEEU/6GIveqJYmqXZ9X6cDLvHomqi8EMfRTcKbavkowWth5YyH618faKKTYsRmDlk1Y0KTDG1Y2OLkMrgT6HknxQWZ7Ejp2JsLJRofzQ6DKG9BCJXb04DiiJfisum3oulJ5QX+W1kChSk0MpVpZQuiTx+/gamssivLfXnE8uUbKWqohwQz9nKGjogdH4jprh5hObXbjeYR0rqmMU7+nT7P8N7eYwDK0UwmgP1Rl830NU/74+rbKo2OijdXzG4ZZ/KfaI=;fxXP+B8cRSR1DF6vEKsFEw=="
+secured: "nbDJ1agf7CnIEnXGjkmP2YmtL9RHBbcfKVFa6+Qi1Fj68eV9nCgugYKwOOIzauCMPCKImPSv7xqiNGwJ+Ne3o7k5qcDe+beA/Tp9e0c9n3TcwHrfncRrOooX0Jgx+r9xPGso9WKJdwqxsxyPw5gFyLDGrdumtLmKhQFDFwwPnr6rbSmhrR3mnmBUgxcSN77BOYopiHbNsIHtYVdUjf81hUHbDK1qpuwLTAHzBPZoG9dIz1+WwGrj1OWV84YWPalwFKSjXvrvKpV/kuOGJbHm0gL+D7+mePFb1snnfN26a4NeyWHSU4ncL+LJX3NpBSn9gz7YhtLODG5R3tSDvULZNjcrb8iE84Ari1fLbpGwNgw=;ySGUmaFrdGNOSKCxaQMgTA=="
 ---
 

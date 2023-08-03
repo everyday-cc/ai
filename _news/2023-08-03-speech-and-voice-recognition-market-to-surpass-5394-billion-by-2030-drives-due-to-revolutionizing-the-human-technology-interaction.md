@@ -212,15 +212,6 @@ related:
       name: Fairbanks Daily News-Miner
       domain: newsminer.com
     quality: 19
-  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
-    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
-    publishedDateTime: 2023-07-31T13:36:00Z
-    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 13
 
 secured: "zQZEWdtqC2ar/xrPioJUxSbfz2BCLCWQfaTALr4A3Axb/nLWhzuTuEqaIhvsxQ4WtlsuslcyTLeoWs45lG/58u143gL9u7yh+uFrp29QIb2NVdboTb4IeX6njh3oKaARUUJEm/MNZr4jt8081yZnpwiSi4NjPefOgpBkjX1tEOR9odBq3qGPw25W0etMwMEjLCdCZlcC0Gal8h11CtAEdIrbq0BxbcLmU2deA1CmhXLC7iUsyWzlNqMK0r0tQeVIZEC+O4sCzUFyyuA7uqgbpKZMwOX7ZjfHtoiXdQ9tBtkp9aZ5jMvcJd8ZFke12iBQO/K0AbrrU3ue7hHsUoUMUalrSh1LuT0RzE/XZ6P6eNs=;I4LMBl18Eoh5HyqKzSyk5w=="
 ---

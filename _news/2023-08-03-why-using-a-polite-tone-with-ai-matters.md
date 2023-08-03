@@ -72,6 +72,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI apps drive computing power, chip demand"
+    excerpt: "The terms artificial intelligence (AI), machine learning and natural language processing were rapidly thrust into the limelight following the launch of ChatGPT late last year as the platform, and to a lesser degree similar AI programmes, took the world by storm, increasing productivity and enhancing creativity across various industries."
+    publishedDateTime: 2023-08-03T16:49:00Z
+    webUrl: "https://www.theasset.com/article/49701/ai-apps-drive-computing-power-chip-demand"
+    type: article
+    provider:
+      name: The Asset
+      domain: theasset.com
+    quality: 54
+    images:
+      - url: "https://www.theasset.com/storage/Image/2023/Aug/1691044487chatgpc.jpg"
+        width: 2001
+        height: 1333
+        isCached: true
 
 secured: "6z5vYEJvjbeBEzjcspWe8n1qXp4MJbswG9M9sOaHw1KQPHGnw0erPNtd//KEPCe4W1wCj2BjS4JXAvmOILjjJIAO+q6a8X5haBoW88bsR8GyTnVoXRbpBza8IjvqzP/6ZGBpZH28/s7Xc5pKnxauyIrLRO7NpRvx5xWkOTy1rnSaVKxH81PIUF0eExcXpADW1Ul3bgk2R53jFq+FZc606Mk8eHsaR7jWgQ+OB8tTEUgGya2ITyHLJgDw7uHWSDM9unA4J2GkyVCrOAg0enoAw5xE7zjUJ8oXH4kX5Do/QkmfWArjo1aYpFlGBk2V+PUI34oZ1nGpmZ5ZsRgQkbF1cHDOgTcfJn4fCXK64Vqpuys=;cLEsa/W6tUp7uLFV5Pj9Cw=="
 ---

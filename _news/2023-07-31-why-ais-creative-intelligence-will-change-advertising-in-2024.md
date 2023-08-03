@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-cr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (Ai) In Travel And Tourism Thematic Intelligence Report 2023"
+    excerpt: "This thematic research report delves into the profound impact of artificial intelligence (AI) on the travel and tourism industry. With a comprehensive industry analysis and real-life case studies, this report examines the players affected by this theme and highlights how companies are responding to its influence on their operations."
+    publishedDateTime: 2023-08-03T17:24:00Z
+    webUrl: "https://menafn.com/1106778517/Artificial-Intelligence-Ai-In-Travel-And-Tourism-Thematic-Intelligence-Report-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?463303"
+        width: 587
+        height: 250
+        isCached: true
   - title: "The Best Generative AI Development Companies in 2023–2024"
     excerpt: "The rise of generative AI in today’s dynamic digital world has captured the attention of top business leaders worldwide. This cutting-edge technology can create real photos, movies, texts, and audio,"
     publishedDateTime: 2023-07-31T05:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selectio
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,40 @@ images:
     width: 1200
     height: 674
     isCached: true
+
+related:
+  - title: "Dating apps like Tinder and OkCupid are hoping new AI features will help you land a date by choosing your profile picture and best matches"
+    excerpt: "Bernard Kim, the CEO of Match Group, said AI will help its dating app users enhance their profiles."
+    publishedDateTime: 2023-08-03T16:30:00Z
+    webUrl: "https://www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://i.insider.com/64cbb89a0f3dff0019562d2f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Here’s a thought: Tinder tests AI tool to help users select best-looking photos"
+    excerpt: "App says it will be launching a number of artificial intelligence initiatives to make dating more rewarding"
+    publishedDateTime: 2023-08-03T16:32:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/b6625f16acf95fa6d766fd02c5ec1674db5bceee/0_490_7360_4414/master/7360.jpg?width=620&quality=85&auto=format&fit=max&s=4ce98fce1b3fa55ed399618ad4b5ec8e"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "R2sPVgJ7VTEAT3RBwBHsLXQ9/y+54mBLEV7fH1F0XfOSp6uVPcUyupwfKK+QBg71e0RTptwJDVy+qjwSpa+xwTFYytyFFyXcxNxK885juxTIEWMIk3xoiF0EjsRcvmQtDx4s1HDB25f77Yif+CVAXz0MnFnsWDEMJmOdEdfsyR3tZRjA3JXTupbYyWS8AVCUVMSt09ChLp5yQnx9s7qgAJxCBizk08a6ZJ6n6LEc3M5nKrx1DSt02FTFzvjLFz+Cd1PvE1g/jnsgyv7kPN/sOoDukJE7UD4GrY4IkbZAz/DK+8xFsgLHd1o8ISqqtw/mFumEzE8IIRHdqR/eOEdkGE1i8WglS4I7xJMSS0lXW8q0jyYN0ACOxumgYs7IfeveMwNXEQ80SgvmYE0E2uzuqsqkeJJNMzXMX8c1RkWd1umgBhfYZF07rKk+IdxwhKvDKNUWGEx+668pGeyy8Jyz/jXAblNjjeVJJaq8xccVkzNb8dy9aUVwEhz2W+LPflEX8oWpzdadVIzFi9r+4EZc3A==;z1H/c8x+QJ9HmHA+vpD4cA=="
 ---

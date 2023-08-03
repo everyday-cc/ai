@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence (Ai) In Travel And Tourism Thematic Intelligence Report 2023"
+    excerpt: "This thematic research report delves into the profound impact of artificial intelligence (AI) on the travel and tourism industry. With a comprehensive industry analysis and real-life case studies, this report examines the players affected by this theme and highlights how companies are responding to its influence on their operations."
+    publishedDateTime: 2023-08-03T17:24:00Z
+    webUrl: "https://menafn.com/1106778517/Artificial-Intelligence-Ai-In-Travel-And-Tourism-Thematic-Intelligence-Report-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?463303"
+        width: 587
+        height: 250
+        isCached: true
   - title: "Icertis Brings Generative AI to Enterprise Contracting with Delivery of First Contract Intelligence Copilots"
     excerpt: "PRNewswire Bellevue Washington [US] August 1 Icertishas deliveredIcertis Contract Intelligence ICI Copilots the first generative AI applications for enterprise contract management Built on IcertisExpl"
     publishedDateTime: 2023-08-01T17:22:00Z

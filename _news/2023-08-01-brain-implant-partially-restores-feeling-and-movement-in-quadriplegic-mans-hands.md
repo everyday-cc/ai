@@ -55,6 +55,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Brain implants powered by AI help paralyzed man feel and move again"
+    excerpt: "While artificial intelligence has the potential to cause societal harm, it's easy to forget that the technology can also do a lot of good. One"
+    publishedDateTime: 2023-08-03T15:40:00Z
+    webUrl: "https://www.inferse.com/665791/brain-implants-powered-by-ai-help-paralyzed-man-feel-and-move-again/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-3230-1920x1425.png"
+        width: 1920
+        height: 1425
+        isCached: true
   - title: "Paralyzed man regains movement and feeling with brain implants and AI"
     excerpt: "A man who was paralyzed from the chest down after a diving accident has regained movement and sensation in his hand, arm and wrist thanks to a novel technology that uses brain implants, artificial"
     publishedDateTime: 2023-08-03T08:03:00Z

@@ -55,6 +55,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI apps drive computing power, chip demand"
+    excerpt: "The terms artificial intelligence (AI), machine learning and natural language processing were rapidly thrust into the limelight following the launch of ChatGPT late last year as the platform, and to a lesser degree similar AI programmes, took the world by storm, increasing productivity and enhancing creativity across various industries."
+    publishedDateTime: 2023-08-03T16:49:00Z
+    webUrl: "https://www.theasset.com/article/49701/ai-apps-drive-computing-power-chip-demand"
+    type: article
+    provider:
+      name: The Asset
+      domain: theasset.com
+    quality: 54
+    images:
+      - url: "https://www.theasset.com/storage/Image/2023/Aug/1691044487chatgpc.jpg"
+        width: 2001
+        height: 1333
+        isCached: true
   - title: "Why Using a Polite Tone with AI Matters"
     excerpt: "It should, says Microsoft’s Kurtis Beavers, a director on the design team for Microsoft Copilot. It’s not that your AI chatbot feels appreciative when you say please and thank you. But using basic etiquette when interacting with AI, Beavers tells WorkLab, helps generate respectful, collaborative outputs."
     publishedDateTime: 2023-08-02T22:37:00Z

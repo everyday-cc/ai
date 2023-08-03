@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unl
 webUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/"
 type: article
 quality: 92
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIDatabaseintro.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
+    excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
+    publishedDateTime: 2023-08-03T17:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
+        width: 400
+        height: 210
         isCached: true
   - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
     excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"
