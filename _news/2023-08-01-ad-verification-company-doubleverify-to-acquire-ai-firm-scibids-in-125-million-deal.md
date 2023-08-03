@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/doubleverify-acquires-european-ai-
 webUrl: "https://www.businessinsider.com/doubleverify-acquires-european-ai-firm-scibids-125-million-2023-7"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Why DoubleVerify Is Nabbing Scibids, An Ad Tech Company That Makes Customizable AI"
+    excerpt: "Buying AI ad tech startup Scibids makes sense for DoubleVerify as it moves beyond measurement into media activation and campaign optimization."
+    publishedDateTime: 2023-08-03T13:25:00Z
+    webUrl: "https://www.adexchanger.com/ai/why-doubleverify-is-nabbing-scibids-an-ad-tech-company-that-makes-customizable-ai/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 11
 
 secured: "AD4YL+UTXfwDsDFcuRKnXQTeIKbmoR/9rLpIeJBacTFM5xQMKrXWVBPKEEWYyGew5KHv1UhzjXbX/yqKIirzutLrY8sVjKmz+sJeWFd7h1OOcdsANKYP6ljgKHZs70+UW/p+EEDoIo/wZXf9gOU1Tio2wgsyaOqMugxaX77szywz0GmcFYbcVXF6BQb3IV0xIvRmFIDcjOA6s2aZX+ebhRmfpEo0JNK0hn+dAE4ezHxqjU8hF69Gh/m+P4gUue2a/xVhxLHBTxxuehHz28wOmDucFV3acaHji3PT9iOadQJwG2OotjLl1nTgF0+C6gqSm1KO8ap7WHKRI4HxDnSFJJsSIqAcE9IwOsa8XGGz6rA=;94+mSB4zeIxY9jX9Wiinmg=="
 ---

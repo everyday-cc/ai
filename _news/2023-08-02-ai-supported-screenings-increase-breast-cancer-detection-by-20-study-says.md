@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-br
 cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WDBJ
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Breast cancer screening with artificial intelligence-supported mammography safe"
+    excerpt: "Sweden: The use of artificial intelligence (AI) in mammography screening is safe, an interim analysis of a prospective, randomised controlled trial has shown. The trial, led by researchers"
+    publishedDateTime: 2023-08-03T14:30:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/breast-cancer-screening-with-artificial-intelligence-supported-mammography-safe-115346"
+    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/breast-cancer-screening-with-artificial-intelligence-supported-mammography-safe-115346"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/breast-cancer-screening-with-artificial-intelligence-supported-mammography-safe-115346"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 53
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2020/06/30/131048-digital-mammography.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "AI shows its value in mammography screening"
     excerpt: "A study has shown that artificial intelligence can be safely used to support mammography to spot breast cancers and may spot more tumours than the current standard approach. The Swedish trial published in The Lancet Oncology found that one expert reader using ScreenPoint's Transpara AI to look at mammograms was at least as good,"
     publishedDateTime: 2023-08-02T07:49:00Z

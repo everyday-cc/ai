@@ -34,6 +34,15 @@ related:
         width: 1300
         height: 866
         isCached: true
+  - title: "5 Steps For Creating a Breakout Generative AI Startup"
+    excerpt: "You can also use open-source frameworks that streamline the process of building generative AI apps. One is LangChain. It allows for integrating many LLMs (Large Language Models) -- even those that are free -- as well as providing access to data sources, such as Google and Wikipedia. You can even connect with popular apps like Notion."
+    publishedDateTime: 2023-08-03T12:02:00Z
+    webUrl: "https://www.inc.com/tom-taulli/5-steps-for-creating-a-breakout-generative-ai-startup.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "sFp2x0yKScHPtCQkVZy2M/E9PTED/QHFkztP8qDTE/TRcF5CS4PAZfkwn9+zs7BNC12LP20XxhlFyGVEWC9L54+skQkUFqH3nABfn+I86LT9MP8psrD8TALMEbq2ngsc72eb667dbHNAS6HvAEv9OJmt4qziCExhLrg5Rcwt+7j7Nuoagafxn6k756XK01IEUrqBeQCNlJIH92ZUL9Logw7Tpprxx9DH8BjcAWF8/6fb0A4ALVJ045I+EICIOCEpUfQ1EM7NQFb93VuSA8V2Nsw7sOR8mpPrSPPNj9wzv3rRq8M05jhg5zFVI9g7i76C4WOPfTOHIQ7SWX7ATLC7piqScwAWNj0lqQVWBFd4Oe/eRPKDPyQkxhY9VXSuL5JlCHD1fwwmTF9JrQRMac5vcRA9fqElI4gSW/il7Jhdn1dYbOv+YWCr1s+TLk5fomloPck2z3Q6XiVPxu3IIDokqCCmSnEXMTRdwgJcS33Hmb+tWHi9GxoDo1y0AdbI0en9J/Sj9gNyHmEyLxMltQitHw==;k9cy88fl4R0HnDJGGhxszQ=="
 ---

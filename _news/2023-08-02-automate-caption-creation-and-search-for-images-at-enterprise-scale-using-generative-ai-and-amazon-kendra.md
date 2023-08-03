@@ -29,174 +29,202 @@ images:
     isCached: true
 
 related:
-  - title: "How foundation models and data stores unlock the business potential of generative AI"
-    excerpt: "Together with data stores, foundation models make it possible to create and customize generative AI tools for organizations across industries\nThe post How foundation models and data stores unlock the business potential of generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/"
+  - title: "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition"
+    excerpt: "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform"
+    publishedDateTime: 2023-08-03T14:53:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 127
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-5922-demo-v2-1253x630.jpg"
+        width: 1253
+        height: 630
+        isCached: true
+  - title: "Scale training and inference of thousands of ML models with Amazon SageMaker"
+    excerpt: "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits"
+    publishedDateTime: 2023-08-03T15:05:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 118
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg"
+        width: 982
+        height: 630
+        isCached: true
+  - title: "Exploring summarization options for Healthcare with Amazon SageMaker"
+    excerpt: "In today’s rapidly evolving healthcare landscape, doctors are faced with vast amounts of clinical data from various sources, such as caregiver notes, electronic health records, and imaging reports. This wealth of information, while essential for patient care, can also be overwhelming and time-consuming"
+    publishedDateTime: 2023-08-01T16:18:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/exploring-summarization.jpg"
+        width: 1017
+        height: 505
+        isCached: true
+  - title: "Unlocking creativity: How generative AI and Amazon SageMaker help businesses produce ad creatives for marketing campaigns with AWS"
+    excerpt: "Advertising agencies can use generative AI and text-to-image foundation models to create innovative ad creatives and content. In this post, we demonstrate how you can generate new images from existing base images using Amazon SageMaker, a fully managed service to build, train, and deploy ML models for"
+    publishedDateTime: 2023-08-01T16:07:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-creativity-how-generative-ai-and-amazon-sagemaker-help-businesses-produce-ad-creatives-for-marketing-campaigns-with-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/unlocking-creativity.jpg"
+        width: 1022
+        height: 511
+        isCached: true
+  - title: "SageMaker Distribution is now available on Amazon SageMaker Studio"
+    excerpt: "SageMaker Distribution is a pre-built Docker image containing many popular packages for machine learning (ML), data science, and data visualization. This includes deep learning frameworks like PyTorch, TensorFlow, and Keras; popular Python packages like NumPy, scikit-learn, and pandas; and IDEs like"
+    publishedDateTime: 2023-08-02T16:43:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/27/featured-images-ML-14803.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Warning over using face recognition to catch shoplifters"
+    excerpt: "The Home Office declined to comment on the use of face recognition to catch shoplifters ... Ministers plan to introduce a new crime and justice bill in the upcoming King's Speech - although planning for the legislation is still in its early stages."
+    publishedDateTime: 2023-08-01T21:50:00Z
+    webUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
+    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 91
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
+    excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
+    publishedDateTime: 2023-08-02T18:34:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+  - title: "How organizations can successfully measure an application health monitoring process"
+    excerpt: "Application health monitoring is a diagnostic process to identify application health issues and create a resolution plan before they become greater issues.\nThe post How organizations can successfully measure an application health monitoring process appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-03T13:52:50Z
+    webUrl: "https://www.ibm.com/blog/application-health-monitoring/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 92
-  - title: "How AI is fundamentally altering the business landscape"
-    excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
-    publishedDateTime: 2023-07-30T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/"
+    quality: 76
+  - title: "Accelerate business outcomes with 70% performance improvements to data processing, training, and inference with Amazon SageMaker Canvas"
+    excerpt: "Amazon SageMaker Canvas is a visual interface that enables business analysts to generate accurate machine learning (ML) predictions on their own, without requiring any ML experience or having to write a single line of code. SageMaker Canvas’s intuitive user interface lets business analysts browse and"
+    publishedDateTime: 2023-08-03T15:03:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-business-outcomes-with-70-performance-improvements-to-data-processing-training-and-inference-with-amazon-sagemaker-canvas/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/accelerate-business-outcomes.jpg"
+        width: 1023
+        height: 507
         isCached: true
-  - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
-    excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
-    publishedDateTime: 2023-08-03T07:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
+  - title: "Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics"
+    excerpt: "If you are a business analyst, understanding customer behavior is probably one of the most important things you care about. Understanding the reasons and mechanisms behind customer purchase decisions can facilitate revenue growth. However, the loss of customers (commonly referred to as customer churn)"
+    publishedDateTime: 2023-07-31T18:45:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/is-your-model-good-a-deep-dive-into-amazon-sagemaker-canvas-advanced-metrics/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all"
-        width: 1200
-        height: 840
-        isCached: true
-  - title: "New threats, same rules for finance generative AI"
-    excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
-    publishedDateTime: 2023-08-02T20:39:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/new-threats-same-rules-for-finance-generative-ai/"
+      name: AWS
+      domain: aws.amazon.com
+    quality: 66
+  - title: "Build protein folding workflows to accelerate drug discovery on Amazon SageMaker"
+    excerpt: "Drug development is a complex and long process that involves screening thousands of drug candidates and using computational or experimental methods to evaluate leads. According to McKinsey, a single drug can take 10 years and cost an average of $2.6 billion to go through disease target identification,"
+    publishedDateTime: 2023-07-31T18:49:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: AWS
+      domain: aws.amazon.com
     quality: 64
-  - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
-    excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/billfrist/2023/08/01/how-generative-ai--a-technology-catalyst--is-revolutionizing-healthcare/"
+  - title: "AI Transformer Models Enable Machine Vision Object Detection"
+    excerpt: "A system-level view of machine vision will be essential to move the technology forward."
+    publishedDateTime: 2023-08-03T07:06:00Z
+    webUrl: "https://semiengineering.com/ai-transformer-models-enable-machine-vision-object-detection/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-  - title: "The potential future of open-source generative AI"
-    excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
-    publishedDateTime: 2023-07-31T09:52:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 43
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "Visit Fort Wayne gets recognition from Destinations International"
+    excerpt: "Visit Fort Wayne, Fort Wayne and Allen County’s official tourism destination marketing and management organization – Convention and Visitors Bureau – received a seal from an industry accreditation program."
+    publishedDateTime: 2023-08-01T18:31:00Z
+    webUrl: "https://www.journalgazette.net/local/visit-fort-wayne-gets-recognition-from-destinations-international/article_fb6cdca8-30a1-11ee-bdd4-6b99e99aad3c.html"
+    type: article
+    provider:
+      name: journalgazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalgazette.net/content/tncms/assets/v3/editorial/f/b6/fb6cdca8-30a1-11ee-bdd4-6b99e99aad3c/64c974beeb8bb.preview.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 799
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence and the Broadband Business: A Black Box"
-    excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
-    publishedDateTime: 2023-07-31T18:28:00Z
-    webUrl: "https://www.bbcmag.com/broadband-applications/bandwidth-hawk-artificial-intelligence-and-the-broadband-business-a-black-box"
+  - title: "Alaska lawmakers must consider regulating facial recognition"
+    excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://www.newsminer.com/opinion/alaska-lawmakers-must-consider-regulating-facial-recognition/article_f9f3581c-30dc-11ee-975d-03edac35dd66.html"
     type: article
     provider:
-      name: bbcmag
-      domain: bbcmag.com
-    quality: 41
-    images:
-      - url: "http://www.bbcmag.com/pub/photo/optical-fiber-abstract-tall.jpg"
-        width: 3000
-        height: 2250
-        isCached: true
-  - title: "The Potential of AI as a Virtual Assistant"
-    excerpt: "Instead of seeing it as a replacement it can be used to assist in daily tasks. Generally, an AI assistant understands natural language voice commands and completes tasks for the user. A virtual assistant can complete tasks like taking dictation,"
-    publishedDateTime: 2023-07-31T11:52:00Z
-    webUrl: "https://za.investing.com/news/the-potential-of-ai-as-a-virtual-assistant-2826307"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
-  - title: "IDC-Teradata Study: Data Ethics, IT Complexity, and the Future of Generative AI in Global Enterprises"
-    excerpt: "Executives at large enterprises across the globe are facing unprecedented pressures around adopting generative artificial"
-    publishedDateTime: 2023-08-01T15:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/idc-teradata-study-data-ethics-it-complexity-and-the-future-of-generative-ai-in-global-enterprises/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "Generative AI Impact on the Database"
-    excerpt: "Once you're able to see through the 'AI whitewashing,' a strong case for generative AI in the database space can be made."
-    publishedDateTime: 2023-08-02T17:53:00Z
-    webUrl: "https://redmondmag.com/articles/2023/08/02/generative-ai-impact-on-the-database.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIDatabaseintro.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
-    excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"
-    publishedDateTime: 2023-08-02T20:17:00Z
-    webUrl: "https://www.datanami.com/this-just-in/digitates-new-generative-ai-capability-unlocks-innovation-and-delivers-greater-agility-across-enterprises/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "How Generative AI may impact the data analytics ecosystem"
-    excerpt: "Moreover, while large language models are excelling at tasks such as summarization and translation, deductive reasoning remains a formidable challenge. As AI continues to evolve, striking a balance between its capabilities and limitations is crucial."
-    publishedDateTime: 2023-08-01T11:52:00Z
-    webUrl: "https://www.geeky-gadgets.com/generative-ai-data-analytics-01-08-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Fairbanks Daily News-Miner
+      domain: newsminer.com
     quality: 19
-  - title: "The future of AI in businesses"
-    excerpt: "Artificial Intelligence has been the topic of conversations since it first hit the public market. Now there’s been concern over AI’s ethics in school and"
-    publishedDateTime: 2023-08-01T17:18:00Z
-    webUrl: "https://www.wwlp.com/massappeal/the-future-of-ai-in-businesses/"
+  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
+    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
+    publishedDateTime: 2023-07-31T13:36:00Z
+    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
     type: article
     provider:
-      name: WWLP-22News
-      domain: wwlp.com
-    quality: 19
-  - title: "TribalScale Partners With Senso AI to Unleash Generative AI Technology for Enhanced Software Customization"
-    excerpt: "The strategic partnership will equip businesses with a formidable competitive edge by integrating Generative AI into their customized software solutions, paving the way for groundbreaking innovations and cutting-edge user experiences."
-    publishedDateTime: 2023-08-01T14:23:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article277847578.html"
+      name: AOL
+      domain: aol.com
+    quality: 13
+  - title: "Speech And Voice Recognition Market To Surpass 53.94 Billion By 2030 Drives Due To Revolutionizing The Human-Technology Interaction"
+    excerpt: "According to SkyQuest, the speech and voice recognition market is poised to be driven by a significant technological advancements and the increasing adoption of advanced electronic devices. One of the key drivers of market growth is the rising use of voice-activated biometrics for security purposes."
+    publishedDateTime: 2023-08-02T17:19:00Z
+    webUrl: "https://menafn.com/1106771121/Speech-And-Voice-Recognition-Market-To-Surpass-5394-Billion-By-2030-Drives-Due-To-Revolutionizing-The-Human-Technology-Interaction"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Mena FN
+      domain: menafn.com
     quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?101068"
+        width: 477
+        height: 250
+        isCached: true
 
 secured: "/k1ZWlXxczkB6fNoamjLdlG5uDGIGeLJEMCFH/csCouiIk8KViiovd1k2GDAEMyw0xsPGnXkRUbLyq9Hh+En7eOM6/jawcnzDnw+E0Y3JdziuhJqRo8AjjWVh5Wn8RVnlyCQHFnT6uu77GtQW9x+E1kLYeWKfUHvM9iyxi3jFub1vWzTLXfbem8VYCk605srzn89vogke+nH0KLlsN1lULFlANSX315MDJ/fSmWhpLMI/6Uo/nibOJTm/TR524Wcj5QzgUP4ihVQSl/M5FhjzvZGy6taoVJQO+8Qw0njfijIceV6hpjdam/ZbvmINdp7l9P7jQGTxqlGyOGmCTYZwCaeBLor7yP5pgndeaB3jEE=;SGIUYUfb1v2cW/oNeDVmeA=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://indiaeducationdiary.in/kit-researchers-artificial-neural-networ
 ampWebUrl: "https://indiaeducationdiary.in/kit-researchers-artificial-neural-networks-to-localize-extrasystoles/"
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/kit-researchers-artificial-neural-networks-to-localize-extrasystoles/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/08/2023_050_Maschinelles-Lernen_Kuenstliche-neuronale-Netze-lokalisieren-Herzstolpern_72dpi-1024x576.jpg"
@@ -26,6 +27,6 @@ images:
     height: 576
     isCached: true
 
-secured: "m9LBPFuLDhKVv5hdnZFVmn0O5Pt+Vq7UmXgAlIOOkv2Xx1CAplnF+cpey/o8DF0nAA+DeLLe+l6c+87BtDu/9RbjC09OaP3tgG03OSxqToChfIIKr43X/StwVesL7BQhoRJ0uWqbmXYRSZrZAdJ4t3kdAq0eLoJQLu19KJG3BStxSy3j1lfkWaichir3OEwmyiRXifI2tbVN63GynHBiY9gOMCB4W0B93u4i8Ozm0SaxjYnTYP9//fa6sIh2TNuwyl1NiWXl4Dg9jfvIJCdIv4WnfGAfkWdROlZLBesWdAQ9DZhZzC6v5qcfXBR1U39BY8FGPSjmejP4eJIOcCbFytJ5d0iIqymYcHVJ459+JHw=;ff8i6E/NEEcWcvEydhzRGg=="
+secured: "gd+ECBGSY2dUiNvmoCQ1toOc0Lm2aWPiu3qACjT4SzZ33IJD2MV+DmELY0tTFpUs5dCHsfBPfRtt6JRHSkLm82WL7DCuR1KU6NKeNdRy+M2Dr9fUoqaQMqoz4+huQj3BdKeYcK5noYknYbmEDOcAsZjmet3GArwp9xEhk0M14Lu8M4VntEgjKbshJhEBv+43Z1E4nD722l1/BWV36Uw717I+dTuXe7AbOBTUU/xz3ZAGliGKdkXYCFE/+NT/iFK2Je3zVCO9fmk66F52LSEGHSqIkebESbM2nam5jki+coWfeOfVwzYwG8mCRg/GQ90uzbwxbskooQD6jHkkZcI5JsIWTqxznWS9SDuUmjvvY2BWDzadWHtYG/dkMWX1pnCT4KqhlIAKX1s3Pm5Gi14Oe7IIEnoHz1HQzo0WaAXXPBtYiriaTUNmYUKHo1ZGVyyxqP9jJwo4xgWMGZWcXcJHOOn4jZrcl/4ivUKYC6I9maDDgU0dqyfqHhvD9cV2QfLmMM6f9uohdnddx3UOEUG6+w==;a2nESB4ACVeJ0bqD7YSdFQ=="
 ---
 

@@ -48,22 +48,6 @@ related:
         height: 799
         isCached: true
   - title: "Warning over using face recognition to catch shoplifters"
-    excerpt: "The Home Office declined to comment on the use of face recognition to catch shoplifters ... Ministers plan to introduce a new crime and justice bill in the upcoming King's Speech - although planning for the legislation is still in its early stages."
-    publishedDateTime: 2023-08-01T21:50:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 91
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Warning over using face recognition to catch shoplifters"
     excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
     publishedDateTime: 2023-08-01T16:12:00Z
     webUrl: "https://www.bbc.com/news/uk-politics-66372601"
@@ -144,15 +128,6 @@ related:
       name: MrWeb
       domain: mrweb.com
     quality: 34
-  - title: "Alaska lawmakers must consider regulating facial recognition"
-    excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
-    publishedDateTime: 2023-08-02T14:00:00Z
-    webUrl: "https://www.newsminer.com/opinion/alaska-lawmakers-must-consider-regulating-facial-recognition/article_f9f3581c-30dc-11ee-975d-03edac35dd66.html"
-    type: article
-    provider:
-      name: Fairbanks Daily News-Miner
-      domain: newsminer.com
-    quality: 19
   - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
     excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
     publishedDateTime: 2023-07-31T15:00:00Z

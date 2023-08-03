@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/education/mbzuai-launches-dedicate
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1270
         height: 846
         isCached: true
+  - title: "UAE’s Leading University Introduces Robotics and Computer Science Programs"
+    excerpt: "The Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi has introduced two new departments focusing on robotics and computer"
+    publishedDateTime: 2023-08-03T12:57:00Z
+    webUrl: "https://propakistani.pk/2023/08/03/uaes-leading-university-introduces-robotics-and-computer-science-programs/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 34
 
 secured: "NGyAFtYJJiNsMAFE+7xKRmTb9MItj1z0Yg5W/M7eqWzHXSB4+ouNN/3QeGJSOTz0AzKcS11G2yz9BoM60Tj1ug2B6b+BjyJ0RGvuM9JA1HktLnIFQGQ90HWz+6pEAUcxovBXtwiwKwbLae+Z9BEuoEAr4o3vs9FJfjn483+CnQ6ufz70v3P+7GEZiG4GGRFJ3FSZtQ4fXfXqlzh2c5HiSi3qHGeIuC3zd706TjmNiQ0M81oMeQlKVUUfNJgozg7d6wDxYdF43LGgJQuJMGo6rVErTdeVw3N6aioWAj4V8TDH81nBDIXH1MmWMfW9UHS6bJjFJO4MpEIzf4Jh9LhXF5/AQtDjzwOh9R0s1B4KQ/4=;td3WM6t54Vg9D5YNhD1/RA=="
 ---

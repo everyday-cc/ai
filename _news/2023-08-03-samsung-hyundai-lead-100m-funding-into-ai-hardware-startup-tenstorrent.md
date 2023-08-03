@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-fund
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
 type: article
 quality: 86
-heat: 248
+heat: 256
 published: true
 
 provider:
@@ -233,6 +233,15 @@ related:
         width: 807
         height: 425
         isCached: true
+  - title: "Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
+    excerpt: "Nvidia's GPUs are not the end-game for AI, says Keller. \"When the aliens land, I don't think they'll be asking us did we invent CUDA.\""
+    publishedDateTime: 2023-08-03T12:22:00Z
+    webUrl: "https://www.zdnet.com/article/samsung-hyundai-back-ai-startup-tenstorrent-everyone-wants-competition-to-nvidia-says-ceo-keller/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 37
   - title: "AI chip firm raises US$100mil from Hyundai, Samsung"
     excerpt: "TORONTO: Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised US$100 million from Hyundai Motor Group and a Samsung investment fund, among others."
     publishedDateTime: 2023-08-03T05:13:00Z

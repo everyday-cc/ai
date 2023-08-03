@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T15:44:00-07:00",
+      "publishedDateTime": "2023-08-02T22:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -51,8 +51,7 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Robotics",
-        "Machine Learning"
+        "AI in Robotics"
       ]
     },
     {
@@ -169,7 +168,7 @@
       "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -319,21 +318,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-30-tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers.md",
-      "title": "Tesla initiates email drive for Full Self-Driving transfer to customers",
-      "excerpt": "San Francisco: Elon Musk -run Tesla has started a new email campaign to urge Tesla owners who have the Full Self-Driving (FSD) package to upgrade to a new car and transfer the FSD package.",
+      "path": "_news/2023-07-30-uber-self-driving-car-test-driver-pleads-guilty-to-endangerment-in-pedestrian-death-case.md",
+      "title": "Uber self-driving car test driver pleads guilty to endangerment in pedestrian death case",
+      "excerpt": "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of supervised probation Friday,",
       "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers",
-      "originalUrl": "https://telanganatoday.com/tesla-initiates-email-drive-for-full-self-driving-transfer-to-customers",
+      "webUrl": "https://www.aol.com/uber-self-driving-car-test-182754151.html",
+      "originalUrl": "https://www.aol.com/uber-self-driving-car-test-182754151.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/07/Tesla-recalls-nearly-16K-Model-S-and-Model-X-vehicles-due-to-seat-belt-issue.jpg",
-          "width": 1280,
-          "height": 750,
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/65a0a6c83971954f3aaa019c4816e37c",
+          "width": 960,
+          "height": 540,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -343,11 +342,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T03:25:00-07:00",
+      "publishedDateTime": "2023-07-29T14:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -548,6 +547,40 @@
       "provider": {
         "name": "Carscoops",
         "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-2029.md",
+      "title": "L2 Self-driving Vehicle Market 2023 Industry Outlook, Business Strategies, Trends and Forecast to 2029",
+      "excerpt": "The Global \"L2 Self-driving Vehicle Market\" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1393,58 +1426,6 @@
         "AI in Autos",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th.md",
-      "title": "Tesla offers customers one-time Full Self-Driving transfer until September 30th",
-      "excerpt": "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
-      "originalUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/p5ASh2CB4Q2WKDSg3OF25w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/25277830-ae4a-11ed-bd7e-39bcf0c251ee.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-22T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

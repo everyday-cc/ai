@@ -93,6 +93,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
+  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
+    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
+    publishedDateTime: 2023-08-03T15:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xO2nqt7H5WDUrve/7I9Ec62CCHiIgc7D9sqb18Yg9V2ROgFU7h1ZB1vwSR374dWliPeKnsMyZatHlXPk1lHFhZU2de7DvnSjgYN+qjQTWUSGRFpQY9+lCZ3zBWdjAcbk4l9qZ10fIxQZwlZANPxxxdHTI9QGnJbaV58QnMj5PZ3eCTuDv8R/SlIw3OpApQMUCeRLNHxzEfaBt+huY1xqxPgZNzzXRfa9cN+i24F49R1CSoIT/0duz1lwy3Nby3Q1GsDXA/+UvjIXd14Rk3xvAx5/hgh4fmIJgkieqxTgccfdpJhNfFCjhiv/rzY3jsxNSj11oEMxpPshJa6hBJkdr6Ypl+8Uo8dLBGVWtJmn4mk=;mg+hb2DpwwW5/ml8wHZ9vQ=="
 ---

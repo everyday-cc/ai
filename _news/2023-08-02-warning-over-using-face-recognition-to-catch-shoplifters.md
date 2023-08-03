@@ -32,119 +32,168 @@ images:
     isCached: true
 
 related:
-  - title: "New Controversy Over Facial Recognition In Retail Stores"
-    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
-    publishedDateTime: 2023-07-31T10:06:00Z
-    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/"
-    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
+  - title: "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition"
+    excerpt: "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform"
+    publishedDateTime: 2023-08-03T14:53:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 127
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-5922-demo-v2-1253x630.jpg"
+        width: 1253
+        height: 630
+        isCached: true
+  - title: "Scale training and inference of thousands of ML models with Amazon SageMaker"
+    excerpt: "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits"
+    publishedDateTime: 2023-08-03T15:05:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 118
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg"
+        width: 982
+        height: 630
+        isCached: true
+  - title: "Exploring summarization options for Healthcare with Amazon SageMaker"
+    excerpt: "In today’s rapidly evolving healthcare landscape, doctors are faced with vast amounts of clinical data from various sources, such as caregiver notes, electronic health records, and imaging reports. This wealth of information, while essential for patient care, can also be overwhelming and time-consuming"
+    publishedDateTime: 2023-08-01T16:18:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/exploring-summarization.jpg"
+        width: 1017
+        height: 505
+        isCached: true
+  - title: "Unlocking creativity: How generative AI and Amazon SageMaker help businesses produce ad creatives for marketing campaigns with AWS"
+    excerpt: "Advertising agencies can use generative AI and text-to-image foundation models to create innovative ad creatives and content. In this post, we demonstrate how you can generate new images from existing base images using Amazon SageMaker, a fully managed service to build, train, and deploy ML models for"
+    publishedDateTime: 2023-08-01T16:07:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-creativity-how-generative-ai-and-amazon-sagemaker-help-businesses-produce-ad-creatives-for-marketing-campaigns-with-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/unlocking-creativity.jpg"
+        width: 1022
+        height: 511
+        isCached: true
+  - title: "SageMaker Distribution is now available on Amazon SageMaker Studio"
+    excerpt: "SageMaker Distribution is a pre-built Docker image containing many popular packages for machine learning (ML), data science, and data visualization. This includes deep learning frameworks like PyTorch, TensorFlow, and Keras; popular Python packages like NumPy, scikit-learn, and pandas; and IDEs like"
+    publishedDateTime: 2023-08-02T16:43:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
     quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/27/featured-images-ML-14803.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
+    excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
+    publishedDateTime: 2023-08-02T18:34:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+  - title: "How organizations can successfully measure an application health monitoring process"
+    excerpt: "Application health monitoring is a diagnostic process to identify application health issues and create a resolution plan before they become greater issues.\nThe post How organizations can successfully measure an application health monitoring process appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-03T13:52:50Z
+    webUrl: "https://www.ibm.com/blog/application-health-monitoring/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 76
+  - title: "Automate caption creation and search for images at enterprise scale using generative AI and Amazon Kendra"
+    excerpt: "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories"
+    publishedDateTime: 2023-08-02T16:41:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-caption-creation-and-search-for-images-at-enterprise-scale-using-generative-ai-and-amazon-kendra/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/12/ML-14376-dog.png"
+        width: 441
+        height: 295
+        isCached: true
+  - title: "Accelerate business outcomes with 70% performance improvements to data processing, training, and inference with Amazon SageMaker Canvas"
+    excerpt: "Amazon SageMaker Canvas is a visual interface that enables business analysts to generate accurate machine learning (ML) predictions on their own, without requiring any ML experience or having to write a single line of code. SageMaker Canvas’s intuitive user interface lets business analysts browse and"
+    publishedDateTime: 2023-08-03T15:03:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-business-outcomes-with-70-performance-improvements-to-data-processing-training-and-inference-with-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/accelerate-business-outcomes.jpg"
+        width: 1023
+        height: 507
+        isCached: true
+  - title: "Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics"
+    excerpt: "If you are a business analyst, understanding customer behavior is probably one of the most important things you care about. Understanding the reasons and mechanisms behind customer purchase decisions can facilitate revenue growth. However, the loss of customers (commonly referred to as customer churn)"
+    publishedDateTime: 2023-07-31T18:45:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/is-your-model-good-a-deep-dive-into-amazon-sagemaker-canvas-advanced-metrics/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 66
+  - title: "Build protein folding workflows to accelerate drug discovery on Amazon SageMaker"
+    excerpt: "Drug development is a complex and long process that involves screening thousands of drug candidates and using computational or experimental methods to evaluate leads. According to McKinsey, a single drug can take 10 years and cost an average of $2.6 billion to go through disease target identification,"
+    publishedDateTime: 2023-07-31T18:49:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 64
+  - title: "AI Transformer Models Enable Machine Vision Object Detection"
+    excerpt: "A system-level view of machine vision will be essential to move the technology forward."
+    publishedDateTime: 2023-08-03T07:06:00Z
+    webUrl: "https://semiengineering.com/ai-transformer-models-enable-machine-vision-object-detection/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 43
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "Visit Fort Wayne gets recognition from Destinations International"
+    excerpt: "Visit Fort Wayne, Fort Wayne and Allen County’s official tourism destination marketing and management organization – Convention and Visitors Bureau – received a seal from an industry accreditation program."
+    publishedDateTime: 2023-08-01T18:31:00Z
+    webUrl: "https://www.journalgazette.net/local/visit-fort-wayne-gets-recognition-from-destinations-international/article_fb6cdca8-30a1-11ee-bdd4-6b99e99aad3c.html"
+    type: article
+    provider:
+      name: journalgazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalgazette.net/content/tncms/assets/v3/editorial/f/b6/fb6cdca8-30a1-11ee-bdd4-6b99e99aad3c/64c974beeb8bb.preview.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 799
+        height: 630
         isCached: true
-  - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
-    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
-    publishedDateTime: 2023-07-31T10:06:00Z
-    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/"
-    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 90
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Warning over using face recognition to catch shoplifters"
-    excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
-    publishedDateTime: 2023-08-01T16:12:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66372601"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Incheon airport introduces Smart pass facial recognition system"
-    excerpt: "An Incheon airport official demonstrates the use of the facial recognition Smart pass service at a departure gate of Terminal 2, Incheon International Airport, Friday. The paperle"
-    publishedDateTime: 2023-08-01T09:04:00Z
-    webUrl: "https://www.globaltimes.cn/page/202308/1295457.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-08-01/477f6da7-41ff-4da5-8cda-2ae36846d4a3_s.jpeg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Vendor claims 3-year ROI on retail facial recognition deployment"
-    excerpt: "A new case study from RecFaces shows that such systems can identify thieves and reduce theft-related losses by 50 percent."
-    publishedDateTime: 2023-08-01T20:35:00Z
-    webUrl: "https://www.biometricupdate.com/202308/vendor-claims-3-year-roi-on-retail-facial-recognition-deployment"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "UK stores cracking down on shoplifting with facial recognition technology"
-    excerpt: "A handful of UK-based retailers are incorporating facial recognition technology to crack down on shoplifting.  UK police are employing pre-existing live fa"
-    publishedDateTime: 2023-08-01T09:17:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/enda-brady-uk-correspondent-on-uk-stores-cracking-down-on-shoplifting-with-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 38
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/eh3h5jhx/facial-recognition-technology-123rf.jpg?rmode=crop&rnd=133353968984530000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
-  - title: "Home Office lobbied for facial recognition in shops to tackle shoplifting, report"
-    excerpt: "Recently published documents have revealed the UK government has been actively pressurising the Information Commissioner's Office (ICO) to endorse the rollout of facial recognition technology in high street shops and supermarkets to tackle 'retail crime'."
-    publishedDateTime: 2023-07-31T07:26:00Z
-    webUrl: "https://www.computing.co.uk/news/4121156/home-office-lobbied-facial-recognition-shops-tackle-shoplifting-report"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 34
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/302014b/e4858223-4780-4d82-9ee1-a70f0bca491b/24/live-facial-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "Ryanair in Legal Dispute Over Facial Recognition Use"
-    excerpt: "Irish budget airline Ryanair is facing legal action over its use of facial recognition, which digital advocacy group NOYB says violates customers' data protection rights. Facial recognition systems require people's biometric data - a category,"
-    publishedDateTime: 2023-08-01T01:07:00Z
-    webUrl: "https://www.mrweb.com/drno/news35415.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 34
   - title: "Alaska lawmakers must consider regulating facial recognition"
     excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
     publishedDateTime: 2023-08-02T14:00:00Z
@@ -154,29 +203,29 @@ related:
       name: Fairbanks Daily News-Miner
       domain: newsminer.com
     quality: 19
-  - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
-    excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
-    publishedDateTime: 2023-07-31T15:00:00Z
-    webUrl: "https://www.sciencefocus.com/news/police-live-facial-recognition-caution/"
+  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
+    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
+    publishedDateTime: 2023-07-31T13:36:00Z
+    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
     type: article
     provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 18
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/Facial-recognition-cameras-analysing-a-group-of-people-d8d12c2.jpg?quality=90&crop=5px,147px,1190px,512px&resize=940,400"
-        width: 940
-        height: 400
-        isCached: true
-  - title: "Facewatch caught in more controversy after closed-door meeting with UK Home Office"
-    excerpt: "Facewatch, which has been facing backlash for deploying facial recognition in retail stores across the UK, may be facing another public relations problem."
-    publishedDateTime: 2023-07-31T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202307/facewatch-caught-in-more-controversy-after-closed-door-meeting-with-uk-home-office"
+      name: AOL
+      domain: aol.com
+    quality: 13
+  - title: "Speech And Voice Recognition Market To Surpass 53.94 Billion By 2030 Drives Due To Revolutionizing The Human-Technology Interaction"
+    excerpt: "According to SkyQuest, the speech and voice recognition market is poised to be driven by a significant technological advancements and the increasing adoption of advanced electronic devices. One of the key drivers of market growth is the rising use of voice-activated biometrics for security purposes."
+    publishedDateTime: 2023-08-02T17:19:00Z
+    webUrl: "https://menafn.com/1106771121/Speech-And-Voice-Recognition-Market-To-Surpass-5394-Billion-By-2030-Drives-Due-To-Revolutionizing-The-Human-Technology-Interaction"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Mena FN
+      domain: menafn.com
     quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?101068"
+        width: 477
+        height: 250
+        isCached: true
 
 secured: "6au2+1EU4meLr1E1LXbDfM5TnbCXiWjc0g5eTh7nJkB4IDTLRSXk2S9Q+xIswErILaa2qt1SKvKpHpbv2GpyFMFa8ZbdI0NCdcigwZqowea6sYm3NcE0onF/7RI77BB2ogPVXrDPcUugIvacxPeNtvz9u8T2QTfiwL7OfyU8gYfCLIS2bKZbdN4IvfppluqwdebuAbAbhIvala/f3YivMku2ZTxQcRNdICGT+MlRgrJQJ2YCpRPKRTAHGsaCY/FcNodxqZGJ+PZqu+3E5oNpEk1BOf5+NaRwNwQRrpM7fC5gu9Bqq56bEvkeTxQaa8YJ6fpxQ7fgn0tBrAFIFDqGVUi7jMHUKL72QCKD+WMtQgOQhxrFEzWwPDMHznY/5joqxjKDVmBmgXs6Q9tS2xsUZnh+dH+xyypGC80SMjrYlMz3rFaq80GkmoPItBLpL4Z/4TPzdqVGpky3WG6zOIpDFjmudXweq/7Cr5VP/kBM6Ugii+YzfYEyUjENMFNibvovJsIucJNm1jOGK4rhBSTImA==;/Lzy2eEg2dmYTPqd4IbQ7g=="
 ---

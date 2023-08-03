@@ -105,6 +105,22 @@ related:
         width: 974
         height: 648
         isCached: true
+  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
+    publishedDateTime: 2023-08-03T14:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Leidos and Microsoft partner for public sector AI transformation"
     excerpt: "Leidos and Microsoft have formed a strategic collaboration to expedite the implementation of artificial intelligence (AI) solutions for the public sector. The"
     publishedDateTime: 2023-07-31T16:06:00Z
@@ -230,6 +246,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
         width: 630
         height: 473
+        isCached: true
+  - title: "Microsoft Partner Chief Dezen: Partners Will Get More Generative AI Resources"
+    excerpt: "Dezen – who also serves as Redmond, Wash.-based Microsoft’s corporate vice president for the Global Partner Solutions (GPS) group – told CRN that the vendor is investing in its rechristened Microsoft AI Cloud Partner Program and other resources for partners around generative AI."
+    publishedDateTime: 2023-08-03T13:59:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-partner-chief-dezen-partners-will-get-more-generative-ai-resources"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
+    images:
+      - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
     excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"

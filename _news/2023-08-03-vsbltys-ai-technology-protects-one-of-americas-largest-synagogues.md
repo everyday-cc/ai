@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI and robots might be the future of battery development"
+    excerpt: "Combining the power of robots and artificial intelligence, researchers have found a way to develop faster charging and more energy-dense batteries."
+    publishedDateTime: 2023-08-03T13:26:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-and-robots-future-battery"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/09/image/jpeg/zJQEuHMS5v67BKugegCEa7K59vq1AI7lMk8IRyXa.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Artificial intelligence loves America"
     excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-30T06:03:00Z
@@ -101,6 +115,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hZ5IzTHALBcq/oiUE8VRMl3+3IpnQcq/QHoQ3UBDNBs1AqAVmCB0QK0QgAx9LUHLEJL9tCmk4abxaqBKsA66yAK2nPG0IRraAwLoCiyfvgLexTinb1uIeB1M6NBXITvxAWERJ7SKE4TvZxS1b2WIgbyEHC0y51Q5q64HHctNyplryEI6DwArf3nkkAwyDoGadGffXmxuakb3HMXs5AX+5FVisGTkIxsHWwPU6Cp10FIZUVpGfhtEO3NEUaZBke9VBeBjcdoSuAWe5Ha2sItSrc8pnd9b+egsrPSDzTpJfnRiu7oVA2oVlsSv/KZtmybE/SWqxhEr0X8/B1IqhBvw/LmAL3kXA0CpeNrdI5RdMmw=;MbSGwhOG1OTqYVqo51ajwQ=="
+secured: "m724WJVC0Mlao1RmtTIphQy1mKbzM9aStaYkLZY7TdCZPyIJLVOJXZ9VL4wSHMiPYjJ9vdfSNXSlaEHE0U9Crt/Y7roveL7zulIPycgrFZbQUOzK9XtYaotjyUOtNC+8aMSfnO3vUvcwDgGa0myKt/JxiJUQM1tsgQZD2XhOsAVsWBloMCS1uulGNdfWArAheJrpCMAZTg78O1UUDkDqaKfiS8EFMT1NqNo6mkzKDuG3BbR73a9X/gqYyagnO4axAxIVG73xI92932jimKYUhtFVy9DiF0Wu6VJDzaWVDbGCiQG7gPEf5CX5tSKtMKBmQUGJ9WnRxzItXDC8gXdrAa7a38Xc/lXd6SteYq8qCaOCbIaFdKWpg2psdq5b3PliT9t2p9LdezNjrddTu8WpqBNj/I5xtKgUIMq5Gbp58jrOkaefBX+iijdeQqiDSnB+zsBBfDQ0t745oneN5E5n8GS11BGPmFg6qTNwUuyQlVGNCO6CX70fKx5NM2aoeH9kzhAoicahVGgl1wpgH7TLuw==;lspIZyMs5cj7/FRHCHikNQ=="
 ---
 

@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
+    excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
+    publishedDateTime: 2023-08-03T11:45:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/210911-fintech-firms-stavvy-and-brace-to-enhance-servicing-innovation/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
   - title: "Axiata’s FinTech arm, Boost to accelerate digitisation for MSMEs in Indonesia"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-08-02T12:02:00Z

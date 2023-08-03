@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "5 Steps For Creating a Breakout Generative AI Startup"
+    excerpt: "You can also use open-source frameworks that streamline the process of building generative AI apps. One is LangChain. It allows for integrating many LLMs (Large Language Models) -- even those that are free -- as well as providing access to data sources, such as Google and Wikipedia. You can even connect with popular apps like Notion."
+    publishedDateTime: 2023-08-03T12:02:00Z
+    webUrl: "https://www.inc.com/tom-taulli/5-steps-for-creating-a-breakout-generative-ai-startup.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
   - title: "Accelerate Your AI Startup: Apply Now for Google for Startups Accelerator India – 8th Batch"
     excerpt: "Google is inviting India-based AI startups that have received funding from Seed to Series A to apply for the 8th cohort of Google for Startups Accelerator."
     publishedDateTime: 2023-08-01T05:25:00Z

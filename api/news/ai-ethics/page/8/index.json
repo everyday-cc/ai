@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-07-pov-why-ethics-education-and-empathy-are-key-to-our-ai-future.md",
+      "title": "POV: Why ethics, education, and empathy are key to our AI future",
+      "excerpt": "As apps like ChatGPT continue to rise in popularity and accessibility, concerns about AI across all sectors of society are also continuing to mount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
+      "originalUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-generative-ais-drawbacks-ip-to-ethics.md",
+      "title": "Generative AI’s Drawbacks: IP to Ethics",
+      "excerpt": "Generative AI is generating deafening hype yet there are considerable downsides to using these emerging AI platforms, from ethics to IP issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/drawbacks-of-generative-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/drawbacks-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/02/data-analytics-concept.jpg",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-artificial-intelligence-ethics-and-a-right-to-a-human-decision.md",
       "title": "Artificial Intelligence, Ethics, and a Right to a Human Decision",
       "excerpt": "John Tasioulas is the inaugural Director for the Institute for Ethics and AI, and Professor of Ethics and Legal Philosophy, Faculty of Philosophy, University of Oxford. Professor Tasioulas has degrees in Law and Philosophy from the University of Melbourne ...",

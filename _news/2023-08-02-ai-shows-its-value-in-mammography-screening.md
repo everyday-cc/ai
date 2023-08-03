@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Breast cancer screening with artificial intelligence-supported mammography safe"
+    excerpt: "Sweden: The use of artificial intelligence (AI) in mammography screening is safe, an interim analysis of a prospective, randomised controlled trial has shown. The trial, led by researchers"
+    publishedDateTime: 2023-08-03T14:30:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/breast-cancer-screening-with-artificial-intelligence-supported-mammography-safe-115346"
+    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/breast-cancer-screening-with-artificial-intelligence-supported-mammography-safe-115346"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/breast-cancer-screening-with-artificial-intelligence-supported-mammography-safe-115346"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 53
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2020/06/30/131048-digital-mammography.jpg"
+        width: 1500
+        height: 900
+        isCached: true
 
 secured: "JG02mNqrnjLvmv/Mata+2/xaCwSDMI2acaDFeNEdz4tnSxuTSdwHN94acGVdnS650sgrw+3ZOq3MwBu0pe/pYm7NCqwwe1sfYu2bDG60T//uvxrd4Vku7yiZZRFc+yb1PdpFEhDIXEdxLswSMYtWvguH080WDX2V2GKhXcKlU9Z+ikyqyH1NHZbl4/NAKCz2l3RAeHw8tUrzdAw1/yzPRIe4EvlT6RA+Aj0kaFLIS5Go7i9hO9ZXmYnSq0Io4rA0W/sAPopTbam8Z1D+vaWWNRfxVFH++jNhZBjWg/QBfuWhWGR46yeMowkdaTO+cStAJU79NsfdxPA74ER1n01oM1SZNC+lHutTVsNypVPANiE=;462t1gXGSJb1sinmzqAkMA=="
 ---

@@ -90,6 +90,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
+    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
+    publishedDateTime: 2023-08-03T15:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "bveRZO4NtzU9gF/PlfnqMq3CHJ1iq2PBniNpNOf7d1puZT6d1ae8rI6MkrIHtetkbWgEgwWxUVP4wztA6ZiyFt14Vhw20looxcdAN2RqCXk14PBJLRSf3Ykflp8KSde1OdymM2X/DFbpdOBAD++ca+/ILaiSOxRyJlStE4dVm8daRKM5A5+bFxLCIJwS/QqiUaUMt3I8OQ0KkzY2OZPkCgVaT4sRTYSAsJSUXaac0jlF+lkj5stV8Cxr19FqAFzMfq1fp0dVUwBXAuKuBKfiZJrYDkFHYm5aeY7mhlFck7x9z4SMCc484BKXdax3rXyQ5G087ENQxCM44BWy72eZYx30aoBMJZpNpRbZoBPZCazUc+X2WgS9QGI8/XISKzqwF0ROQGkwxKiZ0dJh1WskKexzb1LMB82qkZlyKngN7f3LfC3rtbTApIwJCOfTuIcMTh6jktsnxTo34vxbSSxxJTvP+6+wLjx+Gj8JWZh1DV12BEUH6HQMSG70xs6KB8B91R4bCdLDuKSW0XRB0fIOog==;gnKqZYG2pyoJkIJKqeErgA=="
 ---

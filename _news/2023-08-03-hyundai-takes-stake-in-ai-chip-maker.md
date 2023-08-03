@@ -230,6 +230,15 @@ related:
         width: 807
         height: 425
         isCached: true
+  - title: "Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
+    excerpt: "Nvidia's GPUs are not the end-game for AI, says Keller. \"When the aliens land, I don't think they'll be asking us did we invent CUDA.\""
+    publishedDateTime: 2023-08-03T12:22:00Z
+    webUrl: "https://www.zdnet.com/article/samsung-hyundai-back-ai-startup-tenstorrent-everyone-wants-competition-to-nvidia-says-ceo-keller/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 37
   - title: "AI chip firm raises US$100mil from Hyundai, Samsung"
     excerpt: "TORONTO: Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised US$100 million from Hyundai Motor Group and a Samsung investment fund, among others."
     publishedDateTime: 2023-08-03T05:13:00Z
@@ -249,6 +258,6 @@ related:
       domain: businesstimes.com.sg
     quality: 34
 
-secured: "Zhj96F6Qf16XVvfPYOUB1gWKtDrybOGLFsM/6HpAWxP8XOHOEwbeLdcHHUfM5OufEhlI86jeUKsYGVgoVo94X2wWSBPij+SBrmTW9E2v76kQOcR9Qxqoo+FFdUD4eywEXAxuTfP/0ryb3lwmHlSSla2rGluDVtzX7Q49nK5/EFhBH8G5Q8AvaWOReEJ7zQb0+v9l3xyfbMdFuCEkbY62npQDlQ6Jkewkjy57lB5ZJgb6iUoKysgwi7cJwU64UFx8gZiygZSeHlDQky3b1VOmA6nyhB+skX44X+/2uBpBFLtDBpFMHOoyDNFKghH4/roen4QviGpqf5KF4jDgYe9z4/bF6j8UD9DBSMoy0m58D1I=;eIKdBOZaSyu2uoejxXi3Ng=="
+secured: "8OjEzvYIenlaFLP8NVE71f8J2Nor1VLDdDUdGbEKRHITRR+eYpPwnxKlzVR/DjGokluGon2N5Jh1Z7bALy8NQkTiyB98z6TjWuknGhur8qYd3H5+J1GI5M9gVTM08SKQ/qDhQgCSgbEVAFfSnS4g+lGGs7gxpcGUuCVqZ51lNH0+vk9oV6zzhDfx571eaHol0bkaHBum/hVAUORh16AL7aUcBS7pJ02I62x2wz979ASKlSAKs5oudVl8+kRF4m77zOVVuCD2vAvkcLtPtT9YQgUyDV2QaCMebTyyRXDFxVCCP6ccDS17XVsKpO0XYhZ5xPHmrtTAS88EY2HikaN+1TzenFc/42UvAmBXEEqN+CwXPZFW8fT+I1TtGSdhHoOQ/SYl2mNBI8MPffQwGUz9Z3imY/Xl4f6va5AksvnrFPTjf1FVbtDdnPEUoivkdCLUtKR1myehZ3baG/yokH0OJS+zrELWVASnZc5m9Qf2L+H+060Z+rvuHoq0KLXa605CLkaRseqaUlMnbkjKm1W9YA==;J7IayMP4TjyWM2MTO5vO/w=="
 ---
 

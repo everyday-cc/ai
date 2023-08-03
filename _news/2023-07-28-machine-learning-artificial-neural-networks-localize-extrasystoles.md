@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Machine learning: artificial neural networks localize extrasystoles"
-excerpt: "Neural Networks Learn from 1.8 Million ECGs In Artificial Intelligence in Medicine, researchers from IBT and from the company of EPIQure in Karlsruhe report how they use deep learning to localize ..."
-publishedDateTime: 2023-07-27T23:59:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/997044"
-webUrl: "https://www.eurekalert.org/news-releases/997044"
+title: "Machine Learning: Artificial Neural Networks Localize Extrasystoles"
+excerpt: "Up to a certain number, ventricular extrasystoles are normal. Ventricular tachycardias, however, may impair cardiac action and even be life-threatening in case of existing cardiac insufficiency. Ventricular tachycardias may be treated by catheter ablation: The origin of the extrasystoles is ablated by high-frequency current via a special catheter."
+publishedDateTime: 2023-07-28T07:01:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ca1b31a0-667c-4b71-9c2a-45bedef70d76/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg"
+    width: 1181
+    height: 547
     isCached: true
 
-secured: "FgG+c3QFGSWLeT44hoc4OosVIko95Ajvhz9/aU59Ai5Pm8x5sDw69JZo1Q0x+9Zu+eB26hzcL63Tr1yHFSVD1BPixsq274gnSOK66epsrVv72rIEVEkcbANjE2DyNXp6dLYYNl3HTEBmbg9En18hjZdltOywLnfSxmZai9TuYgHdX+4HZdAto1YsDv0xNmoM7IAi0jYSsuUf4ss8bc/P8G2mxbh/86MnBfxgE0DnmB4zJQaCJab5F+sjMG6jjJWKiHBhJKjxJ3dbgk6tVBI6QBeWQbj5jCO/Lx1Cu7IooiEeH6K6sFSZAjh7W/PhSlATzJEmTh751vtwNnggcB2yDKSZ86jC2+wC0uEtPxIO9eU=;SnGEy/Exb2FuhkKc7Q68cg=="
+secured: "2fqFtFx0GDEJ9vcmPruACHDm1ubg5hliVoPGT1LvTf4ZsHyRmhkMvO41E2m3FcVDjiFpbZbm08wcCoohsTKZrzN66KecSTfOY4ID2R4tEEU/6GIveqJYmqXZ9X6cDLvHomqi8EMfRTcKbavkowWth5YyH618faKKTYsRmDlk1Y0KTDG1Y2OLkMrgT6HknxQWZ7Ejp2JsLJRofzQ6DKG9BCJXb04DiiJfisum3oulJ5QX+W1kChSk0MpVpZQuiTx+/gamssivLfXnE8uUbKWqohwQz9nKGjogdH4jprh5hObXbjeYR0rqmMU7+nT7P8N7eYwDK0UwmgP1Rl830NU/74+rbKo2OijdXzG4ZZ/KfaI=;fxXP+B8cRSR1DF6vEKsFEw=="
 ---
 

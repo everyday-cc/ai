@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/coreweave-came-out-of-nowhere-now-its-p
 webUrl: "https://venturebeat.com/ai/coreweave-came-out-of-nowhere-now-its-poised-to-make-billions-off-of-ai-with-its-gpu-cloud/"
 type: article
 quality: 72
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 750
     isCached: true
+
+related:
+  - title: "CoreWeave secures $2.3 billion in new financing for GPU cloud, data centers"
+    excerpt: "CoreWeave, a specialized cloud provider of large-scale GPU-accelerated workloads, announced that it has secured a $2.3 billion debt facility."
+    publishedDateTime: 2023-08-03T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/coreweave-secures-2-3-billion-in-new-financing-for-gpu-cloud-data-centers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "QxzSsrBvMtCLEdJI6K70C1ex8OIspRVyew9IkiwG8h20+OpJdbtmHxGYZS+Op/Ao9d1KzN20tjyWVzBOTyWAIvIi0+voiRFlOyRVOsooD39mRZa+Tcn9Lbp8iNAy6DhitfpvOGxYGhA8QGoWy89JpA16eTNqU6isCiLVX2zseF/tTPR89Whtnskftrbg5x8iN/fyLdqk99jfGvI9Wvlpip+t65cpvZj4piAJzx924Q5cpFRrbyDzCfPVHoIvhToKOQjn+ASfchO2Bl9I0+3go9S1MylbzsxlsLTNHDZM2RffSifppqcUSi6RAPa0S3ST7V/kTFPL9leoxjcubBbB0cR3LXK/DrGH9pfkhORTeiBkXg0VTN2ROwOiowNa0+05eL7Cl+KN0ibsrU5zWZ69CgYnpxqSJtzeS+r3rNkvaUkH88RyNM3VE5p5uFP6B6L8iFNGD4AAy8ehnqhqzhALSzU7q3q6vEWfEdgz7mAKtBWvKOJiB6aPmXRQbaurDgyOztOs77YCvm8gvO6M/1N90g==;DDUl6EZ+KFk4qA3ezlQ9AQ=="
 ---

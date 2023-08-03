@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Warning over using face recognition to catch shoplifters"
-    excerpt: "The Home Office declined to comment on the use of face recognition to catch shoplifters ... Ministers plan to introduce a new crime and justice bill in the upcoming King's Speech - although planning for the legislation is still in its early stages."
-    publishedDateTime: 2023-08-01T21:50:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 91
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
     excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
     publishedDateTime: 2023-07-31T10:06:00Z
@@ -144,15 +128,6 @@ related:
       name: MrWeb
       domain: mrweb.com
     quality: 34
-  - title: "Alaska lawmakers must consider regulating facial recognition"
-    excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
-    publishedDateTime: 2023-08-02T14:00:00Z
-    webUrl: "https://www.newsminer.com/opinion/alaska-lawmakers-must-consider-regulating-facial-recognition/article_f9f3581c-30dc-11ee-975d-03edac35dd66.html"
-    type: article
-    provider:
-      name: Fairbanks Daily News-Miner
-      domain: newsminer.com
-    quality: 19
   - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
     excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
     publishedDateTime: 2023-07-31T15:00:00Z
@@ -177,6 +152,6 @@ related:
       domain: biometricupdate.com
     quality: 0
 
-secured: "4jftzpzeBou7qxPagNsZZo72+gG8H5sjdJ1GYEKglst0a5aBoOPqpGk1NHnRNQ8JmJltN0uynZ/u/ZnfhoR8sF9hlTgm+LlFiBfwtGUwGExoCnTLaM0k8OnvknHTog25Wt/O3eUzBhXDlNWfMOU/Ubdyz1NhNWghoLSGELtJZKMxt2khQQ+Oxm1/9te8Ysx8KEvL8LmkWdM0XPNb+D7Puw7zQBsnoEPm7CS2G91nw9Yzj1Zw4X365lMoC2f9xT+788vi7PoLXoIpdGuHMIu2Oi8c6pX75gX5oXNmE7PGFixm26iWhKi1c8BvZsHRmAH1Nz4C5I9OsXdAJ8FH3br9kQ6q/2nnizO9VO1cyfr7nTw=;f2+6atmyI7pyR4gNw/pxoA=="
+secured: "kXP8KSLM2qGf8odFBSecaPpZAS7SB0F2GO9oHqgD86MQ/VhGNpuHC+eCGv2qazM5ieQ6OEiHpso8sYCXlH5p/P8h/PJFAI1eUrYidGUxCn6JC1xDhmyfnhEcNCKfL1POdS8eH2BhDEjtC+8fwFv30pebyfhvo+RxdnnbzWKxkEF/lbzdxWbh56IC7xI16Sf0YW5AtAXYXuwVvPjCldyz9uq7eZRRAJiHQQJYTZc6qjWLGLoWN9HcmWGbRBo/yu7AjHpKDTmuGrhP3ZDcpIaAEeQbGLvRe8qKAyKG/XH8P24CQrznwdBCaqT/MuUtfLpiW8VRlMhq58GYmiO17ovMInkyNGCOo/T1lpOnW/VXkyaCsAcVchA5GmlcYaN6DbzeOsjBO788NsddQP5wyn1XU2meSLfeqQt7fVCX/BWfwGw7v0GkQy1i2/0UJynPNoB+CtNSB1tFHdTkF2D5nzFwExqvq2eLV79X9Oo4Kwx98mys+WhnOsNg0+hnaua4SuKqdFRMucxGCjWXvehOr3FTVw==;eDHsKqu7XNE9wjfXtgCGeQ=="
 ---
 

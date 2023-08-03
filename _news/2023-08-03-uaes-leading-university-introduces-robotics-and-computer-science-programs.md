@@ -1,0 +1,86 @@
+---
+category: news
+title: "UAE’s Leading University Introduces Robotics and Computer Science Programs"
+excerpt: "The Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi has introduced two new departments focusing on robotics and computer"
+publishedDateTime: 2023-08-03T12:57:00Z
+originalUrl: "https://propakistani.pk/2023/08/03/uaes-leading-university-introduces-robotics-and-computer-science-programs/"
+webUrl: "https://propakistani.pk/2023/08/03/uaes-leading-university-introduces-robotics-and-computer-science-programs/"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: ProPakistani
+  domain: propakistani.pk
+
+topics:
+  - Computer Vision
+  - AI
+  - AI in Robotics
+
+related:
+  - title: "MBZUAI launches dedicated robotics and computer science graduate programmes"
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programmes dedicated to robotics and computer science, catering to the surging global demand for these disciplines ..."
+    publishedDateTime: 2023-08-02T11:43:00Z
+    webUrl: "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5"
+    ampWebUrl: "https://www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 91
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YWEzZmJhNzEtNGU0Ny00/0/gmaa-mhmd-bn-zyd-llthk-lstnaay-ttlk-brmg-drst-aaly-fy-aalm-lrobott-oaalom-lhsob.jpeg?f=3%3A2"
+        width: 898
+        height: 599
+        isCached: true
+  - title: "AWS, Accel announce programme to support generative AI startups"
+    excerpt: "ML Elevate will provide generative AI startups access to AI models and tools, business and technical mentorship, curated resources, the AWS Activate programme, and up to $200,000 in AWS Credits."
+    publishedDateTime: 2023-07-31T14:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/articleshow/102284478.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15856,msid-102284662/aws-accel.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Abu Dhabi’s MBZUAI launches new robotics and computer science departments"
+    excerpt: "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,"
+    publishedDateTime: 2023-08-03T07:42:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 70
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/08/03/Mohamed-bin-Zayed-University-of-Artificial-Intelligence-MBZUAI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mbzuai Launches Dedicated Robotics And Computer Science Graduate Programs To Meet Surging Global Market Demand"
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four as"
+    publishedDateTime: 2023-08-02T19:25:00Z
+    webUrl: "https://menafn.com/1106772490/Mbzuai-Launches-Dedicated-Robotics-And-Computer-Science-Graduate-Programs-To-Meet-Surging-Global-Market-Demand"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/02/M_b6a3bimage_story.jpg"
+        width: 1270
+        height: 846
+        isCached: true
+
+secured: "C0VMC/61nL3Q86gBbH0Ft2kcZT5C0jBWIdcVOaC4px7L+yGWuHu3nj9ir5QvstKP0n5jiOmGjHs4681/qOIu1e+6iKiC6uPt5MrKMCeOCBsJH4KZxjtFVv0Gyc9vjy2LWS3ui4v2uOD5iepPBKAI7WLTWYGy9VFuaWm8MQcFQqS9O0JHAvoptw2poukGfbOJzijhCcj7t6DS1hI0pkieUrfnhtZ33byEMcVxqBuN00noOltK/YxoHsiK5YKXG3eOjolQoqAtenVMFwUOzPeUhanh7j76W3r0LXN7qCGrEGvRHCHsFin+1aPa695xp/kj698ySjVxNGIOPgyT1DVRYWHAmGWWCNKOQpHKjCQSIgFxRHlm7D/d0WPBT0WxPEs3SX/WwBPHvaa74j1+zALJ69TmHZRimFcL70G1lyQ3j/GWXDWl5dH4Qu7MSbU+tLL71FRlmydsoHuolySDxgchlSVQ3nqIoEFMCPIGqtNC/qMwVFuXAGRiTkeFtOW9sEBFRNHIjU+VwXBqIjywmaSuzg==;hGtWXBDV4U/UiCUs5Ii76Q=="
+---
+

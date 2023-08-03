@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 876
         isCached: true
+  - title: "AI and robots might be the future of battery development"
+    excerpt: "Combining the power of robots and artificial intelligence, researchers have found a way to develop faster charging and more energy-dense batteries."
+    publishedDateTime: 2023-08-03T13:26:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-and-robots-future-battery"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/09/image/jpeg/zJQEuHMS5v67BKugegCEa7K59vq1AI7lMk8IRyXa.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Artificial intelligence loves America"
     excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
     publishedDateTime: 2023-07-30T06:03:00Z

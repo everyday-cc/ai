@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2023-08-02/sleep-wellness-
 webUrl: "https://www.pharmiweb.com/press-release/2023-08-02/sleep-wellness-revolution-exploring-the-success-of-sleep-aid-devices-market-shows-steady-expansion"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,70 @@ images:
     width: 1200
     height: 448
     isCached: true
+
+related:
+  - title: "What’s Under The Hood Of This AI Revolution?"
+    excerpt: "AI users interact with one side of the tech’s story, but the enablers—the ones building the backstage infrastructure technology and hardware—are equally valuable."
+    publishedDateTime: 2023-08-03T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
+        isCached: true
+  - title: "How AI Has Revolutionized The Digital Lending Sector"
+    excerpt: "Scaling up with technology Today, leveraging advanced technologies has become the primary reason behind non-fintech and non-lending startups jumping into the digital lending bandwagon and finding success in the same. \"Advanced technologies such as AI have ..."
+    publishedDateTime: 2023-08-02T04:42:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/how-ai-has-revolutionized-the-digital-lending-sector/456807"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1690950881-rupixen-com-Q59HmzK38eQ-unsplash.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The AI Revolution is Canceled"
+    excerpt: "C&E published a magazine cover story with the ominous headline: “Artificial Intelligence Could Alter Campaigning As We Know It.” The piece focused on how pollsters will be […]"
+    publishedDateTime: 2023-08-02T19:31:00Z
+    webUrl: "https://campaignsandelections.com/campaigntech/the-ai-revolution-is-canceled/"
+    type: article
+    provider:
+      name: Campaigns and Elections
+      domain: campaignsandelections.com
+    quality: 39
+    images:
+      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
+    excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
+    publishedDateTime: 2023-07-31T11:51:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2542411-how-is-ai-powered-video-conferencing-revolutionizing-the-virtual-communication"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 15
+  - title: "Research Solutions Acquires ResoluteAI to Transform AI-Powered Innovation Workflows"
+    excerpt: "Research Solutions, Inc. (NASDAQ: RSSS), a trusted partner providing cloud-based workflow solutions to accelerate research for R&D-driven organizations, today announced its acquisition of ResoluteAI,"
+    publishedDateTime: 2023-07-31T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/31/9856374.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "clHbqMjDx60IhRC0ERpECXn4k+OneDV6UX/Bi2bXKkhyT/gzn37fWX9jTgMpon86WmmR4cxk6UyR8VofHqP5kZA5rPw9BKwhy8CNDKm4CYIJr4eo8J/KtxLjEJy4NAEZwXCiQWWAnKexV796GGB4S5JTcJ4xdr5dFTLRhDDI4z2BD+6R/JMyd4PnZ1n9Jbq+D+fDZraTqEA2/6Fd0pVXfWJF5E8NZWQx9hVDO8EJM0xjmWKv7aUimoS1wfg/mMyb7OXkXiu6G95jIrh7taVgCECVTGX4GXsaidGpkUGCgyFWrNnNqwpU2/VRsTdwpE56bKq2RhpcF94VyJ47tQDBPGrN07UNiBOn6nTSh/sOcS8=;kXhIRMQ440eB89+a6WAtKg=="
 ---

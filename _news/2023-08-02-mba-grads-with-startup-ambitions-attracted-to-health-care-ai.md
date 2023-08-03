@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI inferences of race in medical images can improve or worsen health care disparities"
+    excerpt: "Among the hottest sectors for artificial intelligence (AI) adoption is health care. The Food and Drug Administration has now approved more than 500 AI devices—most within just the last couple of years—to assist doctors across a range of tasks,"
+    publishedDateTime: 2023-08-03T12:39:00Z
+    webUrl: "https://medicalxpress.com/news/2023-08-ai-inferences-medical-images-worsen.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 10
 
 secured: "isHIGjjjOdbdouR4j1BQE0yymwR6xwGdEg46ajNE8mTbVpOwVlqxMbKG3a3ICn2rU6ad6cV60eicD3bADsSRVXBS5b1sJ4Yz3dlBsOcgmxGxgotKCmc7dOmchNQJ27ufaUQwiGZFkS3XhfTsvsuncop4Ikc6QByWrKljog5luTHXJaqqqy5cnAYAkM9oPoAg8w5o/ys3+hcM6FpOu90Zjj4HxtJiO9R3RJfGFLSx3HniMrYSl0Vy4a9NGTsBKkzcMGnzaBFR+GjbLYAMGbw4jolFleFkBx32GicSPU9p2X9oihTX+dhzdH4qwqmWjb1lGDbYpacvHIhFcYvtdoZI+huweDSMkOD9Gg8YPxU/93I=;YY+fiM53+DfxiLiBUOAPIQ=="
 ---

@@ -38,20 +38,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
-  - title: "Automate caption creation and search for images at enterprise scale using generative AI and Amazon Kendra"
-    excerpt: "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories"
-    publishedDateTime: 2023-08-02T16:41:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-caption-creation-and-search-for-images-at-enterprise-scale-using-generative-ai-and-amazon-kendra/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/12/ML-14376-dog.png"
-        width: 441
-        height: 295
-        isCached: true
   - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
     excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
     publishedDateTime: 2023-08-03T07:01:00Z

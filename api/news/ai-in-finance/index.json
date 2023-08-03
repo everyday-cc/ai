@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-02-how-ai-has-revolutionized-the-digital-lending-sector.md",
-      "title": "How AI Has Revolutionized The Digital Lending Sector",
-      "excerpt": "Scaling up with technology Today, leveraging advanced technologies has become the primary reason behind non-fintech and non-lending startups jumping into the digital lending bandwagon and finding success in the same. \"Advanced technologies such as AI have ...",
+      "path": "_news/2023-08-01-why-is-the-machine-learning-chips-market-expected-to-grow-by-usd-2227652-million.md",
+      "title": "Why is the Machine Learning Chips Market Expected to Grow by USD 22,276.52 Million?",
+      "excerpt": "In a recent report by Technavio, the machine learning chips market is projected to experience remarkable growth, expanding by USD 22,276.52 million from 2022 to 2027, with a compound annual growth rate (CAGR) of 30.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/how-ai-has-revolutionized-the-digital-lending-sector/456807",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/how-ai-has-revolutionized-the-digital-lending-sector/456807",
+      "webUrl": "https://www.cryptopolitan.com/machine-learning-chips-market-grow-22276-m/",
+      "originalUrl": "https://www.cryptopolitan.com/machine-learning-chips-market-grow-22276-m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1690950881-rupixen-com-Q59HmzK38eQ-unsplash.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
+          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-01_11-14-35.jpg",
+          "width": 1024,
+          "height": 1024,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -78,21 +78,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T21:42:00-07:00",
+      "publishedDateTime": "2023-08-01T01:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "cryptopolitan",
+        "domain": "cryptopolitan.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -102,7 +93,10 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI Hardware"
       ]
     },
     {
@@ -646,8 +640,8 @@
       "title": "Revolutionizing Fintech: The Role of AI in Democratizing Investment Opportunities",
       "excerpt": "With the integration of AI in fintech, individual investors can access high-quality researched-back data and investment recommendations to make better-informed decisions. AI platforms are using ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200",
-      "originalUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200",
+      "webUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
+      "originalUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

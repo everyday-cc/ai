@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UAE’s Leading University Introduces Robotics and Computer Science Programs"
+    excerpt: "The Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi has introduced two new departments focusing on robotics and computer"
+    publishedDateTime: 2023-08-03T12:57:00Z
+    webUrl: "https://propakistani.pk/2023/08/03/uaes-leading-university-introduces-robotics-and-computer-science-programs/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 34
 
 secured: "w+I1acVqTZuNMsQGBUwoK2bOCOckWV7KtL+WBpFbAed51EcVrX4gYmDwGb6BMXAOPrXxWa7wk9oG9X5pna4yH7sCGNPVTk14TDUcQvc8yUkuPk96lwR8810d/lS8Iw3IHcZ+/BLNuI4auXIutAd+I+njTDSuCe+ehMlX/zHYivQO7NngkoczfwiKR2HWvShlWqGPM9pwoBfHQ3iUgimMX68BtrRmN4xHZ9Hltt6/si/4p1EdLANzgIbabja3fel9K+0FY5ybBiMsFvQz7z9HXQ2WhgC6mY3aW74duPzo4ggRCgvg/30nK9tRorMajbfhCyD4VR+skGVCULh9Rp5HvpqoayGcBkw7UwvZJ03Ik/XtYem25oSm5nGggNQb+up2WnJmLj8gKY/8BeiweODOL7t3d3LgrT/KKTer3ZcT1ibDOrxGRL5JEbeuxhc/5AGTN19R344Tu6KS8w2+NmEnlGXWtS4jWd6iILIFcTCwKyKNL0XdUAr7jAKbW9YWprZ0dkQ1nPJ13/Wl9wdauUGp7Q==;b8D2HfaSnsiEuhVMMPJtnQ=="
 ---

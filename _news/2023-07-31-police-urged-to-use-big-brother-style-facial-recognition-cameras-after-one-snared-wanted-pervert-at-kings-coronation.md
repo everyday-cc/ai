@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
-    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
-    publishedDateTime: 2023-07-31T13:36:00Z
-    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 13
 
 secured: "AXWoZ63jaxKd9WhEMHk6NX/BlIutU6rOvww3tuctA9GyUN0URz0hBN/ElrxSIk4ziSj828xd5Ti8MfIenPlAcs0dej8VSF8y99Wo6MMSlq39TbhCQ3xzegyGO7KHe5op2b8O0uUNt6EIeK1e9EXJiFArWaCraV0WJccCkZDn9SKai6mEZl6ELYS7pGHhEtPUBja4tJvtS3xQVr7X+f22xRU2YZrqr/j/tbxPL+KqWDT6vYqNSwiVJWxxxQ090tqyuuDQ6dm75U8PIsq6MdgCh3QzF9pXi8WndNV6uerk1vB6Wd7ceaATGOpwwP9u7fUEbPTNVTTKMft6zjRjYCZ25rZCjVOVE19wpDdFIZXIc5M0hdod1FApyGAiW3r1lM8metvMiJ78uIevb8DU+cTcQE2w3WtkU9W2A2gTTCa3v/ibB9DTye0+n5+NE0WMgWnHoNp/qHoT7w40g+M0popZBZadUXReJTa6u8gaHo2+k5+9GEYxpFtEJXiT7qvTliAmmljX4oLUIPTjtEYY9rvoZw==;L4LBJlIh/5P+ShsO8H9kDg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intell
 webUrl: "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: TechNewsWorld
       domain: technewsworld.com
     quality: 19
+  - title: "How AI inferences of race in medical images can improve or worsen health care disparities"
+    excerpt: "Among the hottest sectors for artificial intelligence (AI) adoption is health care. The Food and Drug Administration has now approved more than 500 AI devices—most within just the last couple of years—to assist doctors across a range of tasks,"
+    publishedDateTime: 2023-08-03T12:39:00Z
+    webUrl: "https://medicalxpress.com/news/2023-08-ai-inferences-medical-images-worsen.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 10
 
 secured: "8X07I/XtMhLd4S34jiQXddGE5ikP4Pfg2wGv6QlASKEYC6ybT27lo77gaLJK8dVawo5XGgIjoHYiMYbfXCo9EBhnuEQRPoAA8VGEWo/kENhvvlgVYhVeYrkdh0qeV/KAz2bu0qnZt0sHOYEbcvNEjksN9PmDGKAmo4O6/2sr+yUUr2TmSYO4RikLdWCAK3tgWXV2KH3qBEertH5S+S+s9L9wa70BoJKeDz1+ceNLvY15cj0qbhVq9KcwrVeMHldBPg0p2msNednxeqOEM2SAoF5uAcVod+B33a2QE3+v3y314PyekavCVNRMtfFEyTrLFfIZnT/WOGl6LxN6Ryei1hMBAPAAu0xy89YVMslcI7amcJqItDkKbhefDCZbPUfm8f2rTQZ43UMTGtZ4l4rBkduzM1J/8d+XpFwHqfhVtfA2ynAymEx20js0Nwb+eYSE9sHL3ssRqcOEuhoaM09jbkPV2rpoZYwzhrKTcC21mKkoqHA/q12iD/AN6AQKId8zGfazCt+6hTDBs7BHMHNIew==;r/odO241xCM4R9NXFx7wdg=="
 ---

@@ -72,6 +72,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
+  - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
+    excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
+    publishedDateTime: 2023-08-03T11:45:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/210911-fintech-firms-stavvy-and-brace-to-enhance-servicing-innovation/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
   - title: "Axiata Group's Fintech Arm, Boost Sets to Accelerate MSMEs' Financial Inclusion and Digitalization to help the underserved market in Indonesia"
     excerpt: "Boost aims to empower 77.6% underserved MSMEs through simplified financing solutions. JAKARTA, Indonesia, Aug. 2, 2023 /PRNewswire/ -- Boost, a leading regional full spectrum fintech arm of Axiata, is proud to announce its unwavering dedication to bolstering the growth of Indonesia's MSMEs."
     publishedDateTime: 2023-08-02T04:30:00Z

@@ -24,6 +24,17 @@ images:
     height: 544
     isCached: true
 
+related:
+  - title: "Can AI really change the payments industry?"
+    excerpt: "AI-powered payment reconciliation can automatically match incoming payments with outstanding invoices, reducing the need for human intervention and speed up reconciliation times. This will hopefully lead to some of the £50 billion or more in late payments owed to UK businesses being reduced."
+    publishedDateTime: 2023-08-01T11:41:00Z
+    webUrl: "https://www.finextra.com/blogposting/24673/can-ai-really-change-the-payments-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
+
 secured: "MShzKPPPsHXu/BHEoFfw9cz3+yEmW0HtUMk9sUhXpCllGVEFU4vyZY4Z3EDtd+FfFDEuOvk8o9Xo2SB0HtW1riZCU5fcYWYX2NkpjYOvuCNzpqcFTlTOXOOFH3dFZ9ZaD7KodIbVvc4iOC+ie4p0/xTrqtdpFu/TXs0a4p1CTBtqNjbMs8LmHCIy9/d2L/+hB/Gm/3berB1baTSoe2nZwrgYQvfbU65lAPiYc8ieNWrnnd47hwyRoNnHvWerFX49DGsWo03/YQBWD7vw1C5XZx1v2MdMJiHtLlnSM3CVV6u/LG5kahAsusqvTGkvb0soAhIaCoyDU8dhfYUMAd5IbWpWnpjTmdRve1gpAfhJVZU=;BQgoiAaxTf36KJj5z4jgNw=="
 ---
 

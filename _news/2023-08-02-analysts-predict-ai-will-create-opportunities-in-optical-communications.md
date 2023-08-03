@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Media Alert: BrainChip Presents Market Opportunities of Edge AI at Oppenheimer Technology, Internet & Communications Conference"
+    excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, will detail advantages, benefits and opportunities of Edge AI to investors at Oppenheimer & Co Inc.'s 26 th Annual Technology, Internet & Communications Conference August 8-9."
+    publishedDateTime: 2023-08-03T15:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859136.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
   - title: "Gravitational Wave Astronomy in Artificial Intelligence Era: Opportunities, Challenges and Future"
     excerpt: "The groundbreaking detection of gravitational wave event GW150914 has ushered in a transformative era for multi-messenger astronomy. As the sensitivity of ground-based observatories like LIGO-Virgo-KAGRA is enhanced,"
     publishedDateTime: 2023-08-03T07:13:00Z

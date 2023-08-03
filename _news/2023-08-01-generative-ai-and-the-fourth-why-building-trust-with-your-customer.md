@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-the-fourt
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-the-fourth-why-building-trust-with-your-customer/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
+  - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
+    excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
+    publishedDateTime: 2023-08-03T15:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859151.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Wbj8JMmKHC5r3a/NBdBpm8+BjXObW8w7dBZmnLiY4vnlWMukNaS+bk4lhRVzzLzIEI24iJBcFZQ6Lek1NShLJMJ/v3KtAjuuDZqcdBaktMAst+a66R5OxzMgv8AxGmJsOeRJ6LyCYCqNm6sphTSW6HjMUAjXrbDY6XMZZXdf4/V6Q6gJfw4FCxfJ263fH1bow9VoA7bdxVmh2SxoE1OozhlXxK+m4r15MTuFxCMDCJG1GL44eaZcq/VnqCjWyTUYuab8W0VeqI9gx3E36vF9oGShFP96G3O2drgJBBaGlKV9b9BGG+rUyhlEUnZDe85ZkgUzpfdOZSchaSkwmDQrc/zKbRllwkTbabqY4hrSvwPlugYkmoJlqRFJXsvJGy7ZwC4tg3WlhX5wBF8nMDuS+0Iabq/zIAowQskMfT7OUJNEua0wp0il8d9Y9Ih4L7ItuxQhBD6q10f0vchzIH4H4C3cZaQ31G3DyGJieMSErO7Wm7IBSBBHoWx363vb7uRfzC5wrQghbW+0xv0xRvUOOQ==;u4D1OPQXLOmgoGGsXswlrQ=="
 ---

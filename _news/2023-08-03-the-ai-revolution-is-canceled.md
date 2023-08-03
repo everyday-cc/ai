@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What’s Under The Hood Of This AI Revolution?"
+    excerpt: "AI users interact with one side of the tech’s story, but the enablers—the ones building the backstage infrastructure technology and hardware—are equally valuable."
+    publishedDateTime: 2023-08-03T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "How AI Has Revolutionized The Digital Lending Sector"
     excerpt: "Scaling up with technology Today, leveraging advanced technologies has become the primary reason behind non-fintech and non-lending startups jumping into the digital lending bandwagon and finding success in the same. \"Advanced technologies such as AI have ..."
     publishedDateTime: 2023-08-02T04:42:00Z
@@ -39,36 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "ParagraphAI: Revolutionizing Writing with the World’s Leading AI Tool and Assistan"
-    excerpt: "Introduction In an era dominated by digital communication, the art of writing has taken center stage, with the demand for high-quality content growing exponentially across various industries. To cater to this ever-expanding need,"
-    publishedDateTime: 2023-08-02T08:17:00Z
-    webUrl: "https://techbullion.com/paragraphai-revolutionizing-writing-with-the-worlds-leading-ai-tool-and-assistan/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 33
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/08/ai-writing-tools-to-generate-ideas-62a877278db09-sej-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Doctors Leading the Digital Health Mission in India with the powerful trinity of AI, Startup India, and Government Policies"
-    excerpt: "Despite the Indian healthcare industry growing at double-digit rates and evolving significantly in the last decade, several challenges need to be addressed in providing access to quality, affordable healthcare in the country."
-    publishedDateTime: 2023-07-30T10:46:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies/102249605"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102249605,imgsize-17176,width-1200,height=765,overlay-ethealth/health-it/doctors-leading-the-digital-health-mission-in-india-with-the-powerful-trinity-of-ai-startup-india-and-government-policies.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
     excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
     publishedDateTime: 2023-07-31T11:51:00Z
@@ -78,6 +64,29 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 15
+  - title: "Research Solutions Acquires ResoluteAI to Transform AI-Powered Innovation Workflows"
+    excerpt: "Research Solutions, Inc. (NASDAQ: RSSS), a trusted partner providing cloud-based workflow solutions to accelerate research for R&D-driven organizations, today announced its acquisition of ResoluteAI,"
+    publishedDateTime: 2023-07-31T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/31/9856374.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Sleep Wellness Revolution: Exploring the Success of Sleep Aid Devices Market Shows Steady Expansion at 6.9% CAGR by 2032 | FMI Report"
+    excerpt: "The Sleep Aid Devices Market has witnessed substantial growth in recent years as the prevalence of sleep disorders and insomnia continues to rise. Sleep deprivation and poor sleep quality have become significant health concerns,"
+    publishedDateTime: 2023-08-02T05:45:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-08-02/sleep-wellness-revolution-exploring-the-success-of-sleep-aid-devices-market-shows-steady-expansion"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 8
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "w0p/Xw6QvzUU1nFpWH6xvgWkfxaHTeQP/+iEQwjJMuocIXAy5Q6E+POJNKbvFrFbbR6Eh3zfI96iR0o3+CEzMdAdK9B0TtgNMH1IZi4Qc+jW5WXba1tWymm5a9p/YghLeGGzAC1zTQtE1NzniR7c/4CJP5lxBKy68wVqa9zZPI/PehA9VTarxiUjaiPjkOag1osj+ZDdU4wFJtYA7ECgkZHsWf0umZyRaCi6Xltkp3m7eG3ScyN8uS08iL76rvvPji1wbcg2d01KkOjaSmfrWU6OyzmVOJpq4qqyxQkJLQxJ2mLYCPJT/trXKPguCwTuGeCR2pchCsOwj95sH/SvVCyCkjk5C698SBEznuUdGto=;BpTvZ+IKBwq2XGHOiBGzAw=="
 ---
