@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Arizona State University Law School allows generative AI on applications"
-    excerpt: "Arizona State University said Thursday that applicants to degree programs at its college of law will be allowed to use generative artificial intelligence in application preparation."
-    publishedDateTime: 2023-07-29T13:04:00Z
-    webUrl: "https://www.foxbusiness.com/technology/arizona-state-university-law-school-allows-generative-ai-applications"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 16
-
 secured: "ZNxOKFKqfg5Zvp7gXwbht8OIm+1dkJdv2mkwrYb9yBOsoXHojzKYTC7fupJLOnTQjzMmvHlcbHjaMtIeT8KoaRa3NnfUzIU3cqCAu8yIMJ+spX03DrpBomMPMDi8iwNtLIFBHPeQ7sdPgNFCjbialAGG75h52tLQEaPJummu4y1JlW+27U+Kz3yeASJRMPN8Q/DwHRP0NJotv16s3RA8on5dNQoygyjAP+j87wsWOkMtDmlyCAPQHi49ZZBIXkL8UBPT+yk1WTxbDHSfcQA2sEG2Ut9rZ+uyYgeeEIxFOhlzYS2ssnlS0IAhHbk/45t2sVdmjqVp33gvECC9A80eLaunq8rBvUM4Vp9Er8eIaaNjOLObQaXdYhNHVICyC/38n8UaRk/pMNA2K9UPSDheqo+HGmVsHQ5MFesueX5YzGPFcrwzFJW/XIQlj7RX6uoWDEIozuZYo5kp7ZCK38BDMD5XVldrHl/0XbTC+MZdtgAMJ4C9WXVPuM9ru4oukhFVHTzKLVVqoKtV61tLuyoHEg==;dq4khb1YNaN6xwf0w3amCg=="
 ---
 

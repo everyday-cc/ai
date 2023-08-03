@@ -2,6 +2,93 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-07-12-best-amazon-prime-day-2023-deals-under-25.md",
+      "title": "Best Amazon Prime Day 2023 deals under $25",
+      "excerpt": "Ahead, the best Amazon Prime Day 2023 deals under $25. Find savings on protein powder, face wash, toys and more. Find prices reduced on favorite brands, from Olaplex to Orgain. Be sure to shop now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-amazon-prime-day-2023-deals-under-25/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-amazon-prime-day-2023-deals-under-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-3-strategies-for-accountable-ai-usage-in-b2b-sales.md",
+      "title": "3 Strategies For Accountable AI Usage In B2B Sales",
+      "excerpt": "Sales leaders codify business ethics to guide employees in their daily actions with these three principles of accountable AI usage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/12/3-strategies-for-accountable-ai-usage-in-b2b-sales/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/12/3-strategies-for-accountable-ai-usage-in-b2b-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64511369334f801a98dc456e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/12/3-strategies-for-accountable-ai-usage-in-b2b-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/12/3-strategies-for-accountable-ai-usage-in-b2b-sales/amp/",
+      "publishedDateTime": "2023-07-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-the-future-of-education-embracing-ai-for-student-success.md",
       "title": "The Future Of Education: Embracing AI For Student Success",
       "excerpt": "It is only by deploying resources, training and policies at every level of our institutions that we can begin to realize the vast potential of what AI can offer.",
@@ -1023,100 +1110,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-how-ai-can-make-gaming-better-for-all-players.md",
-      "title": "How AI can make gaming better for all players",
-      "excerpt": "The project was inspired by Lancy Carr, a quadriplegic video game streamer who utilizes a head-tracking mouse as part of his gaming setup. After his existing hardware was lost in a fire, Google stepped in to create an open source,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/",
-      "originalUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1387724979-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/",
-      "publishedDateTime": "2023-07-11T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-mastering-chatgpt-ethical-challenges-of-chatgpt.md",
-      "title": "Mastering ChatGPT: Ethical Challenges of ChatGPT",
-      "excerpt": "we will delve into the complexities of AI ethics, including data privacy, misinformation, bias, and job displacement. Roberts, extensive knowledge and experience in the field make him a relatable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2237_2750.jpg",
-          "width": 691,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

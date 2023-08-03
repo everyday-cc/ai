@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-28-aurora-self-driving-truck-service-to-launch-in-2024.md",
+      "title": "Aurora self-driving truck service to launch in 2024",
+      "excerpt": "Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-Driving Car Project that eventually became Waymo, plans to launch a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
+      "originalUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg",
+          "width": 1920,
+          "height": 1281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-aurora-self-driving-truck-service-to-launch-in-2024.md",
+      "title": "Aurora self-driving truck service to launch in 2024",
+      "excerpt": "Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-Driving Car Project that eventually became Waymo, plans to launch a ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/",
+      "originalUrl": "https://ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/04/644a9ed8efce58.97446895.jpg?w=1280",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/amp/",
+      "publishedDateTime": "2023-04-27T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-teslas-price-cuts-slow-a-rival-in-the-race-to-deliver-self-driving-tech.md",
       "title": "Tesla’s Price Cuts Slow a Rival in the Race to Deliver Self-Driving Tech",
       "excerpt": "Tesla started cutting prices in China. That same week, shares of rival self-driving technology provider Mobileye surged on their first day of trading following a hotly anticipated IPO. Now Tesla’s pri",
@@ -1302,102 +1388,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-top-10-artificial-intelligence-ai-companies-in-2023.md",
-      "title": "Top 10 Artificial Intelligence (AI) Companies in 2023",
-      "excerpt": "When it comes to technological advancement Artificial Intelligence and machine learning are one of the core technologies that we can find at the base. Whether it could be Data Science or metaverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/04/21/1600x900/Screenshot_2023-04-21_155126_1682072562332_1682072571805.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/top-10-artificial-intelligence-ai-companies-in-2023-101682072405377-amp.html",
-      "publishedDateTime": "2023-04-21T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world.md",
-      "title": "What are the four main types of artificial intelligence? Find out how future AI programs can change the world",
-      "excerpt": "Over the last few years, the rapid development of artificial intelligence has taken the world by storm as many experts believe machine learning technology will fundamentally alter the way of life ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
-      "originalUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac1965b-5982-426d-9b4c-4ee8e74a3170/e2145637-9569-47fe-a67b-6ecd88f6304e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
-      "publishedDateTime": "2023-04-21T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -76,6 +76,22 @@ related:
         width: 980
         height: 654
         isCached: true
+  - title: "AI chip maker Tenstorrent raises $100 million from Hyundai, Samsung in a bid to rival Nvidia's chip dominance"
+    excerpt: "Canadian startup Tenstorrent secures $100m in funding from Hyundai, Samsung, and Kia to challenge Nvidia's dominance in AI chip supply."
+    publishedDateTime: 2023-08-03T05:36:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance-11691037638633.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance/amp-11691037638633.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-samsung-kia-in-a-bid-to-rival-nvidias-chip-dominance/amp-11691037638633.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/03/600x338/newsroom-230801-1120x745_1691038355009_1691038367133.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung"
     excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
     publishedDateTime: 2023-08-02T23:42:00Z
@@ -118,6 +134,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "S. Korea's Hyundai Motor to invest in AI chip startup"
+    excerpt: "South Korea Hyundai Motor Group said Thursday that it will make a strategic investment in Tenstorrent an artificial intelligence AI"
+    publishedDateTime: 2023-08-03T05:56:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919821/s-koreas-hyundai-motor-to-invest-in-ai-chip-startup"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "RISC-V AI Startup Tenstorrent Gets Another $100M Infusion From Samsung And Hyundai"
     excerpt: "Tenstorrent is a relatively recent startup that is focused on creating new processors built around the RISC-V ISA and specifically targeted at providing extremely high integer math performance for AI training and inference. We wrote back in April about how ..."
     publishedDateTime: 2023-08-02T23:49:00Z
@@ -134,6 +164,15 @@ related:
         width: 708
         height: 416
         isCached: true
+  - title: "AI chip firm raises US$100mil from Hyundai, Samsung"
+    excerpt: "TORONTO: Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised US$100 million from Hyundai Motor Group and a Samsung investment fund, among others."
+    publishedDateTime: 2023-08-03T05:13:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/08/03/ai-chip-firm-raises-us100mil-from-hyundai-samsung/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "b5+NNmx+iJjAp5vIJBy9nZkf+W8dbI3aG39mH62p1eTRLvAVkR6dlLJjlZJ9PoC8RQ+Ew0zJS7LfZjAROG4WpTMBUh4qSF7WQJPPnxLgsPsKH6R1NwwfDCkOAEQSo02ZuV/R0GHyycWygvcYJqHOQ+GnOQSiDn+O7B3OvqG5GU2GayWIe64rj26dRmOPT+vDKLpyOBmTVDt3M5mah1Al+9bsBStFS7RjwF0CXuKAvzT+eNMrKf9Fy9+sTHzNrrxj4e6BPJh6hHZ96OexZffFQOanpGVusxwqXXEwtVvSNuokrMPyGGVBm6KDnMxoAC89uVW3rnsyRKo8b4I1CdeuHX/YaSVpEL6AygkAIKw3Hy54L0IRpp34bc9R8NQo6kWTnY1ySzH0yjCH82q6FC0LylrgjNiai1+mVG93nigAhGJLlTBfGSfF1eYRm9VrhsyPxQlDB/BHZjHgCGR1SkBqH180BOmcxWSCWjJZ/nwmjdZE94e2FaacCZQM99+LYgYrxh+sy5CfPCi4POooWmsVfg==;TIXYjHJv7gMCieHPUprGxg=="
 ---

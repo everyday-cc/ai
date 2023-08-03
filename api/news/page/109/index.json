@@ -2,6 +2,100 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-05-24-woman-using-ai-to-redesign-garden-sparks-debate-cool-but-sad.md",
+      "title": "Woman Using AI to Redesign Garden Sparks Debate: 'Cool But Sad'",
+      "excerpt": "Paulina Machaj told Newsweek she's used artificial intelligence to generate design ideas and gain inspiration for what her courtyard garden could look like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
+      "originalUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2238408/backyard-garden-woman-looking-computer-screens.jpg",
+          "width": 2201,
+          "height": 1553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
+      "publishedDateTime": "2023-05-24T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-what-have-we-learned-about-ai-ethics-its-time-for-risk-based-regulations.md",
+      "title": "What have we learned about AI ethics? It's time for risk-based regulations",
+      "excerpt": "The bad news? The typical approach to AI ethics hasn't worked. But a way forward is emerging - via a growing momentum for risk-based AI regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "originalUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2016-08/robots-typing.jpg",
+          "width": 1041,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "publishedDateTime": "2023-05-24T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-which-car-makers-offer-hands-free-driving-systems-for-2023.md",
       "title": "Which car makers offer hands-free driving systems for 2023?",
       "excerpt": "Fully automated self-driving cars are still a thing of the future. But you can get a taste of what they’ll be like if your vehicle has what’s commonly described as hands-free driving capability.",
@@ -1072,91 +1166,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence.md",
-      "title": "Fake image of explosion near Pentagon stirs concerns over artificial intelligence",
-      "excerpt": "A fabricated photo seems to show a fiery explosion near the Pentagon and went viral. Now experts say it was likely created by AI, fueling concerns about the technology’s use on social media. NBC News’ Hallie Jackson has more details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684882938191_nn_hja_ai_doctored_images_moves_markets_230523_1920x1080-5t44ym.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo176166981779",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo176166981779",
-      "publishedDateTime": "2023-05-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology.md",
-      "title": "3 principles biometric vendors should embrace to promote trust in facial recognition technology",
-      "excerpt": "Here's how vendors can contribute to more responsible and ethical use of facial recognition and other biometric tech and ensure privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology/",
-      "originalUrl": "https://venturebeat.com/security/3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

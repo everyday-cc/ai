@@ -2,6 +2,109 @@
   "page": 164,
   "value": [
     {
+      "path": "_news/2023-04-23-mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores.md",
+      "title": "MPs condemn Frasers Group’s use of facial recognition cameras in stores",
+      "excerpt": "Exclusive: Cross-party collection of parliamentarians write letter to Sports Direct owner",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4c14124c6135d5ccc6e785003a21fefdb05ecc79/0_83_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=ee459190323236390d1ef2e99f46c882",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores",
+      "publishedDateTime": "2023-04-23T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-german-magazine-editor-fired-after-fake-ai-interview-with-formula-one-racer.md",
+      "title": "German Magazine Editor Fired After Fake AI Interview With Formula One Racer",
+      "excerpt": "Die Aktuelle ran a headline promising the first interview with Michael Schumacher since a 2013 accident, but the quotes attributed to Schumacher were produced by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview",
+      "originalUrl": "https://www.pcmag.com/news/german-magazine-editor-fired-after-fake-michael-schumacher-ai-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00AWAj8B566DggKwdiNsKlx-1.fit_lim.size_1200x630.v1682264705.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-23-meet-robin-umass-memorials-new-pediatric-robot.md",
       "title": "Meet Robin, UMass Memorial’s new pediatric robot",
       "excerpt": "UMass Memorial invited me to \"meet\" Robin, a new robot the hospital brought into the pediatric unit last October. Here what it was like.",
@@ -1058,95 +1161,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-artificial-intelligence-in-the-garden-of-eden.md",
-      "title": "Artificial Intelligence in the Garden of Eden",
-      "excerpt": "The dawn of the internet age was so exciting. I took my grade-school son, enthralled by Apple computers, to see Steve Jobs speak at a raucous convention in New York almost a quarter-century ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-767058/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-ai-ml-data-news-roundup-hugginggpt-aws-bedrock-microsoft-visual-chatgpt-and-stablelm.md",
-      "title": "AI, ML & Data News Roundup: HuggingGPT, AWS Bedrock, Microsoft Visual ChatGPT, and StableLM",
-      "excerpt": "The latest update for the week of April 17th, 2023, includes the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. The spotlight this week is on top players like Hugging Face,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/",
-      "originalUrl": "https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

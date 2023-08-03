@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "2 Healthcare AI Stocks That Could Go Parabolic"
+    excerpt: "In May, Recursion increased its AI-powered capability by agreeing to buy two AI-focused drug discovery start-ups, Cyclica and Valance, for a total of $87.5 million. GE Healthcare's shares are up nearly 40% to start the year. The recent spinoff from ..."
+    publishedDateTime: 2023-08-02T11:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/741875/research-scientists-drugs-pharma-biotech.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real"
     excerpt: "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research."
     publishedDateTime: 2023-08-02T10:00:00Z
@@ -39,29 +53,52 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Why synthetic data isn't ready for healthcare"
-    excerpt: "Synthetic data is hard to mimic real patient information, making it expensive and difficult to use in healthcare. Despite this, AI-generated data could be a boon for the industry."
-    publishedDateTime: 2023-08-02T22:05:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/why-synthetic-data-isnt-ready-for-healthcare.html"
+  - title: "Artificial intelligence could aid treatment of mental health issues"
+    excerpt: "Knowing ahead of time that a patient may be at risk of harm can help us develop intervention strategies ... and adjustments to their care plan,' says Waypoint official"
+    publishedDateTime: 2023-07-29T14:16:00Z
+    webUrl: "https://www.orilliamatters.com/local-news/artificial-intelligence-could-aid-treatment-of-mental-health-issues-7320010"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: orilliamatters
+      domain: orilliamatters.com
+    quality: 54
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://www.vmcdn.ca/f/files/midlandtoday/images/people/20230724andreawaddellsupplied.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
-    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
-    publishedDateTime: 2023-08-02T19:47:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
+  - title: "7 AI Penny Stocks that Could Hit $5 Soon"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The era of artificial intelligence is upon us. By 2030, AI is expected to"
+    publishedDateTime: 2023-07-30T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-penny-stocks-with-huge-potential-to-go-to-five-dollars-1032492373"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI in Health Care: 8 Best Stocks to Buy"
+    excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
+    publishedDateTime: 2023-08-02T15:23:00Z
+    webUrl: "https://wtop.com/news/2023/07/ai-in-health-care-8-best-stocks-to-buy/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 41
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Top 8 Bizarre AI Predictions That Could Change the Future"
+    excerpt: "Dive into the realm of AI's oddest forecasts, unveiling the top 8 strangest predictions, from AI-powered politics to digitally eternal life."
+    publishedDateTime: 2023-07-31T17:44:00Z
+    webUrl: "https://yourstory.com/2023/07/strangest-predictions-artificial-intelligence"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 19
 
 secured: "q73lByOG57gHt35A/26jEuZk24lJZCRVVLmMGrGOmePJyqcW67eNUr9vfAZS5eBxkL8tbL5VTp/4yAUXS7mRc1Q1XXiu9SpXuWrUzvjfGfx/mM1hDjJU/XFgH0jn1VCAPyAkyPLNzb2hlW5qilYLgkBlVqWH3vHevME+mdHqq0J1L2ghSIaNF3wwl1t5nozzQz9gA1EBtZH1v5d8AuPLqmQp3ZRXkPTEU/1mzUxouG4OUslZI4LFkJRxDVc4bwmEoRv0NGKM34TFi5LwK4V4umRlsW84p6wshfQWzcu6oKwxclJs1v7mNcxLRUISxRnI8nDt8NK9Ws+uNg8oIgNrrKq/htf4v40OVFAUB2POXos=;K2IygaJABXyuttjfXY/BXg=="
 ---

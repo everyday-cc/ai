@@ -1,21 +1,21 @@
 ---
 category: news
 title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
-excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, proudly"
-publishedDateTime: 2023-07-28T16:40:00Z
-originalUrl: "https://www.01net.it/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai/"
-webUrl: "https://www.01net.it/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai/"
+excerpt: "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ..."
+publishedDateTime: 2023-07-28T14:13:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai"
+webUrl: "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "67zRFJl+xgkP9ZAwGQI1LhVGEkhChZmOs56aHMDdnM4Cwl832WJmakNkFqJPfoBzdZhLM+wkSc0uS8Jwe2XdUdBsiA6wqop6Z6GaC9uXAxTdqJodcppnyakdmk5j1f4m5dBm5tcs26BhUzHUIx/eLRHT98GKFWT/phvnFbDINTjy07v5ykcQo9WaGvP2IZ0q8wz67Iud33B44tkWG/TIC3nUA9Asknp/ZCFOdab8N/MXlxoUW1O7kMhCsBIMEHxoU0+VXQcMdxUjZLnvyISwMdjjgt7Z4XqzNO9rifdhI4E2l4laIptYLYEpbvl2efT0KIdqORBLC9SrGIXqi/qBe5fTWjbwVD5gkylC3fuxWePYx/M0t3gTopgwnWSWzjidH4QeAkMe7bwNTfb/r/MSSsEFduKpOZ/lEgqQa1SmB8XtXEu7tof2zbZRSzRyA3iTUUtcHjL7/itAxkHXfVlaoRdfr0GpPeyhWrv+xDLAubuKOi+XiAShSC/WwAlesbnv+GJ175K7L78EIn/X5r+seA==;LA61QAK2cpZCBn0RPKzRgw=="
+secured: "k8x5hoGY6B+5NISPAW9ZnaAoUbLnKj7wYshjmbInE35vhKTjwTeVGKD6r2FJuZ4zdQtTZS3zMALXgwUlPBE1dkpf7xm/GDSq13DW0iRFhJi/tJQ6zNr7acCTbgx6Ww6atoXlcFk8lRCUAu5LQzn55RgyVzjRYoDSEqlvpZwz7mqZt2zTN0eJRQtGRA16OoiF0dOdBtS420kU1sF5KS5L380D853AqB5cAAvM8Vfh2sTrlsDf90GYTqjDE0J1wESU2cLSyooY+2N+TIUDmI+Escp2MwdMV4oYIf+SNZ3MKz+Z1joOoUmm/YOgrbaCgPGHcQJTIFgvhyeTPA/Dux6uIm7YTG4r56ATUnjxCV/WwL0=;/zhuMbDSdtRfmuMZrRTUDQ=="
 ---
 

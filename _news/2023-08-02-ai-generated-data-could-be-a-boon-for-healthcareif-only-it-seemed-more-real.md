@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for
 webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
 type: article
 quality: 81
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "2 Healthcare AI Stocks That Could Go Parabolic"
+    excerpt: "In May, Recursion increased its AI-powered capability by agreeing to buy two AI-focused drug discovery start-ups, Cyclica and Valance, for a total of $87.5 million. GE Healthcare's shares are up nearly 40% to start the year. The recent spinoff from ..."
+    publishedDateTime: 2023-08-02T11:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/741875/research-scientists-drugs-pharma-biotech.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "Artificial intelligence could aid treatment of mental health issues"
+    excerpt: "Knowing ahead of time that a patient may be at risk of harm can help us develop intervention strategies ... and adjustments to their care plan,' says Waypoint official"
+    publishedDateTime: 2023-07-29T14:16:00Z
+    webUrl: "https://www.orilliamatters.com/local-news/artificial-intelligence-could-aid-treatment-of-mental-health-issues-7320010"
+    type: article
+    provider:
+      name: orilliamatters
+      domain: orilliamatters.com
+    quality: 54
+    images:
+      - url: "https://www.vmcdn.ca/f/files/midlandtoday/images/people/20230724andreawaddellsupplied.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "7 healthcare AI updates"
     excerpt: "Here are seven updates on artificial intelligence developments in healthcare for ASC leaders reported by Becker's since June 5: 1. The FDA issued 510(k) clearance for the Magentiq-Colo, created by Israel-based technology company Magentiq-Eye."
     publishedDateTime: 2023-08-01T20:55:00Z
@@ -43,29 +71,38 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Why synthetic data isn't ready for healthcare"
-    excerpt: "Synthetic data is hard to mimic real patient information, making it expensive and difficult to use in healthcare. Despite this, AI-generated data could be a boon for the industry."
-    publishedDateTime: 2023-08-02T22:05:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/why-synthetic-data-isnt-ready-for-healthcare.html"
+  - title: "7 AI Penny Stocks that Could Hit $5 Soon"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The era of artificial intelligence is upon us. By 2030, AI is expected to"
+    publishedDateTime: 2023-07-30T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-penny-stocks-with-huge-potential-to-go-to-five-dollars-1032492373"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI in Health Care: 8 Best Stocks to Buy"
+    excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
+    publishedDateTime: 2023-08-02T15:23:00Z
+    webUrl: "https://wtop.com/news/2023/07/ai-in-health-care-8-best-stocks-to-buy/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 41
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
-    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
-    publishedDateTime: 2023-08-02T19:47:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
+  - title: "Top 8 Bizarre AI Predictions That Could Change the Future"
+    excerpt: "Dive into the realm of AI's oddest forecasts, unveiling the top 8 strangest predictions, from AI-powered politics to digitally eternal life."
+    publishedDateTime: 2023-07-31T17:44:00Z
+    webUrl: "https://yourstory.com/2023/07/strangest-predictions-artificial-intelligence"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 34
+      name: Your Story
+      domain: yourstory.com
+    quality: 19
 
 secured: "fhnlIfuqMp0k4xuMeDMIJbVpnZ7S43LIL3tu9nNWePoZEOc3pR6mRm6BrHSNHYAxP+r4OoZ06dI6xDSBTp5T5L2fVTxffK5ljSttDGaSa4WarJqMPnyFq3HAvVVHZtt7loG1RLlmkzWLbqnWAsmY11V838k3uBZeZvJzDGSkZGjCvrh5gVHAaDqyDO4Jrz6ud7p82KY6qUfu+lKS10y2U8wvMIXoQdVwZTPMBql7cX5+8kxDct1YZ4O58v31Zy/LgEyW8mtGmHZTS3yhCMTxY48vMnIN1Py7wB6TLuBAqDtUSa8JJr7Qy11dVcDAiFXnKc+0aDYXzyonxJmLv8YEXn7fK3qIV85JzQ6c1W5lxP/hgY77CnREM46kDdHx8wIDH/9RIBxzP/RFvatVfxswB1Yh6/EmrHYliTwCeKLSjAJkZ06cfwF2U/b8VeYXnwf5nQaXuujuUOfM8J1wCZZA+GGoKO8iBnQvyyPkZmVkS+Htp5YqP+g4EEqOQY0KjVUZoZBOeM6jPqAK0sgp4diRcA==;9NuWzC3Ex1WsDfKExmZcEw=="
 ---

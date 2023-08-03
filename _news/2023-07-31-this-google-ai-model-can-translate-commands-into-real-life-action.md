@@ -60,17 +60,6 @@ related:
         width: 710
         height: 435
         isCached: true
-  - title: "Aided by AI Language models, Google’s robots are getting smart"
-    excerpt: "Google has recently begun plugging state-of-the-art language models into its robots, giving them the equivalent of artificial brains."
-    publishedDateTime: 2023-07-29T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/"
-    ampWebUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Google’s RT-2 AI model brings us one step closer to WALL-E"
     excerpt: "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a “first-of-its-kind” vision-language-action (VLA) model that uses data scraped from the Internet to"
     publishedDateTime: 2023-07-29T15:11:00Z

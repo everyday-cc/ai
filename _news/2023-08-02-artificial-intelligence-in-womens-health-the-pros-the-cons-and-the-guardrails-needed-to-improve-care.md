@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intell
 webUrl: "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Health Care: 8 Best Stocks to Buy"
-    excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
-    publishedDateTime: 2023-08-02T15:23:00Z
-    webUrl: "https://wtop.com/news/2023/07/ai-in-health-care-8-best-stocks-to-buy/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 41
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "MBA Grads With Startup Ambitions Attracted to Health Care, AI"
     excerpt: "The class of 2023 from two of the nation's most prominent business schools founded nearly 100 startups, according to data released by an international software design and development firm. The data from Symphony revealed that the Stanford MBA class of 2023 founded 23 companies,"
     publishedDateTime: 2023-08-02T12:01:00Z

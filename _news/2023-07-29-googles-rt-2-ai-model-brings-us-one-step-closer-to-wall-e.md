@@ -73,17 +73,6 @@ related:
         width: 710
         height: 435
         isCached: true
-  - title: "Aided by AI Language models, Google’s robots are getting smart"
-    excerpt: "Google has recently begun plugging state-of-the-art language models into its robots, giving them the equivalent of artificial brains."
-    publishedDateTime: 2023-07-29T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/"
-    ampWebUrl: "https://www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/aided-by-ai-language-models-googles-robots-are-getting-smart/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
 secured: "7g5EoXijRd3PxZQ5m+9HrVrD8A2rGFKsvJzH9SC4cGIXpCKRJIB1KLgz6mPU/V+uVl5BNQUbOOFe0+wjMCz72iFzz65brrMmcggCdsRX1wazuBYH/HuI93GGhR7NY3pTcd0BWL/nR7ZLLuZqS3/vFPXWrGuMSoGyR05Sce3bMRRq+NQCtsyaIkJcG2JaQVqS6ANDlzkLSRURlbS5zltzBygYNZXcFaefhMq2wO0QhEIIGbxpxcqQh94sV0918mCxHqsPIvf8CP8+Y8Taa60rrEghuMVZlSzG/nZM4Z6VfB0qOIw4m3rbQTgsJB8VMJfqeGuUUZHxXyiPBpfji5WLO6xUbMMFTxbV/e7NhycQSvZ5+O+65cAGyliNMwD3YrhmZeCh6DTDyR7lMWgjRi+FJ5VLlYFlDWovn9/xwn+SMWf+F4EE1le8JyTthgZXMqF0aKOazLQ1gRCv2MTGFzCKeECJ5j4C+Dr5ulkStNOm4u4/sfr5rAg8VGX9GPwmitux9cavPpiFNlCE9daepeH7eQ==;d+ul6jJ8L+E6FLHdU3Lklw=="
 ---

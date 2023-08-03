@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-01-sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols.md",
+      "title": "Sheikh Saif bin Zayed wowed by Dubai Police's driverless patrols",
+      "excerpt": "These vehicles, developed by creative national talents, are mobile operation rooms equipped with cutting-edge artificial intelligence technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols",
+      "originalUrl": "https://www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=a7d96836-2cf1-58db-8f31-28bae9574e0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84519&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols?amp=1",
+      "publishedDateTime": "2023-06-01T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-lawmakers-and-big-tech-clash-over-the-fate-of-self-driving-semitrucks-in-california.md",
+      "title": "Lawmakers and Big Tech clash over the fate of self-driving semitrucks in California",
+      "excerpt": "Let’s face it. There are a lot of people in Big Tech lobbying against this bill,” said Assemblywoman Cecilia Aguiar-Curry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modbee.com/news/california/article275831791.html",
+      "originalUrl": "https://www.modbee.com/news/california/article275831791.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.modbee.com/news/california/article275831791.html",
+      "cdnAmpWebUrl": "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article275831791.html",
+      "publishedDateTime": "2023-05-31T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modesto Bee",
+        "domain": "modbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times.md",
       "title": "10 Ways GPT-4 Is Impressive but Still Flawed – The New York Times",
       "excerpt": "When Chris Nicholson, an A.I. expert and a partner with the venture capital firm Page One Ventures, used GPT-4 on a recent afternoon, he told the bot that he was an English speaker with no knowledge of Spanish.",
@@ -1189,101 +1266,6 @@
         "name": "The Toowoomba Chronicle",
         "domain": "thechronicle.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says.md",
-      "title": "SEC Looks to Provide Rules on Predictive Data Analytics, Chair Gensler Says",
-      "excerpt": "U.S. Securities and Exchange Commission Chair Gary Gensler said Tuesday that artificial intelligence tools offer promise to companies seeking to detect marketplace trends but also",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/texaslawyer/2023/05/17/sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says/",
-      "originalUrl": "https://www.law.com/texaslawyer/2023/05/17/sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/292/2023/05/Gary-Gensler-2-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-baidu-exec-charged-with-stealing-apples-self-driving-car-tech.md",
-      "title": "Baidu exec charged with stealing Apple’s self-driving car tech",
-      "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier by CNBC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen",
-      "originalUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-musi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "Meta Unveils AudioCraft, A New Generative AI for Audio and Music"
+    excerpt: "Meta has just unveiled 'AudioCraft', a new family of generative Al models built for generating high-quality, realistic audio & music from text."
+    publishedDateTime: 2023-08-03T04:24:00Z
+    webUrl: "https://www.indianweb2.com/2023/08/meta-unveils-audiocraft-new-generative.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 39
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1lj_L-l2FCI2mlgA4etgLoUm8Q0V6csHhjwmSGKSVfEQcX9lUsUQHhOOWNMIiMq3IHGpW8MEILwHjZ-qf7NfCYECa50hJyyJeVVDTMZ0x6jCo-FVZpAayT_VqoeSuozO_cR2wyqEMbn5j2kcuaZZizfo0H99Oj55Dl8MY522JFRALmfmp90fnhRwiboI/s16000/364044687_188110547422666_6558067645303623389_n.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "MipVTWg40YyoPLT2w+/XklTcEIWDS6JHNNVUOAM90obvcESOP8brP/TBbawaogADiZlgdNVtP+ngqT9npft9lBINmedmFq962dQ6hhx8yD+U2Tvo3tWHVC3ZACowl01h/Wo1/ur1Bz3GLO2SbTv8pLX7ygzYeVvuIM/fFT7hYW4AnrnxT0LZFGkQZbLmY3Vy/zzMHRprr7el/oy4Jg/q2Y5/vySpfmZJeKG+CCVJLul0yNB/8HFjLsmjkbl4D76g+EXGo30t7E9zQxi1+jx3a+XHIhp6aNBUDwb5cFdDG+9tsPCJm5ekVAhSyOr72is+dsyOJQuxsPeeAEFA2VA99oEYB2jLNK59lh5FTme9PBvnx3NOOxFxtMHUl9/gr9XX4fQ18mr3Wmi/SRmjef+a57NR87lo0HVJmy9IEj7HNqLdJfS2rO2+gZtguGEap7E6S6RdmQrglxkYOj93JWLRcELtzYG0U6qQsV4Z2yfI/Rb0e5QYmphLFyIr5XGO0twizIkWnESW4xmtIY2gHZVHIA==;GicohsHfZyAn16DMQFa5+w=="
 ---

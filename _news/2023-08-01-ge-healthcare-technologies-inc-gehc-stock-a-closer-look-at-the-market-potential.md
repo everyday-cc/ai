@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Future FinTech Group Inc. (FTFT) Stock: A Look at the Analyst Recommendations"
+    excerpt: "Analysts have mixed views on the stock, with 0 analysts rating it as a “buy,” 1 as “overweight,” 0 as “hold,” and 0 as “sell.” The average price point forecasted by analysts for Future F"
+    publishedDateTime: 2023-08-03T05:10:00Z
+    webUrl: "https://newsheater.com/2023/08/03/future-fintech-group-inc-ftft-stock-a-look-at-the-analyst-recommendations/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 21
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-24.png"
+        width: 640
+        height: 424
+        isCached: true
   - title: "International Business Machines Corporation (IBM) Stock: A Look at the Analyst Recommendations"
     excerpt: "International Business Machines Corporation (NYSE: IBM) has a higher price-to-earnings ratio of 69.94x compared to its average ratio. compared to its average ratio and a 36-month beta value of 0.85. Analysts have mixed views on the stock,"
     publishedDateTime: 2023-07-31T07:19:00Z

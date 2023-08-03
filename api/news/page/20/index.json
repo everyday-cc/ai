@@ -2,6 +2,109 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-07-20-asset-and-wealth-managementembracing-ai-and-consolidation-to-win.md",
+      "title": "Asset And Wealth Management—Embracing AI And Consolidation To Win",
+      "excerpt": "AI and consolidations are reshaping the asset and wealth management industries as firms seek cost efficiencies and strive for market competitiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b889794b23d6863cde7b97/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "publishedDateTime": "2023-07-20T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-pooping-only-every-3-or-more-days-linked-with-cognitive-decline-research-finds.md",
+      "title": "Pooping only every 3 or more days linked with cognitive decline, research finds",
+      "excerpt": "Being chronically constipated, defined by the authors as having a bowel movement only every three or more days, has been linked with a 73% higher risk of subjective cognitive decline, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230712140838-constipated-older-adult-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
+      "publishedDateTime": "2023-07-20T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-taiwans-export-orders-slump-for-10th-straight-month-in-june-taipei-pins-hopes-on-ai-demand.md",
       "title": "Taiwan’s export orders slump for 10th straight month in June, Taipei pins hopes on AI demand",
       "excerpt": "Taiwan’s export orders fell by 24.9 per cent from a year ago in June, but Taipei expects improvements in the second half of the year due to the growing demand for its artificial intelligence (AI) supply chain.",
@@ -1074,101 +1177,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data.md",
-      "title": "Use a generative AI foundation model for summarization and question answering using your own data",
-      "excerpt": "Large language models (LLMs) can be used to analyze complex documents and provide summaries and answers to questions. The post Domain-adaptation Fine-tuning of Foundation Models in Amazon SageMaker JumpStart on Financial data describes how to fine-tune an LLM using your own dataset. Once you have a solid",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/19/use-generative-ai-foundation-model-summarization-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T09:27:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-artificial-intelligence-is-changing-social-media.md",
-      "title": "Artificial Intelligence Is Changing Social Media",
-      "excerpt": "Artificial intelligence is quickly becoming part of our social media world on our cellphones and computers. Text, images, audio and video are becoming easier for anyone to create using new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "originalUrl": "https://www.voanews.com/a/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/01000000-0a00-0242-35a5-08db884d3054_w1080_h608_s_b.jpeg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "publishedDateTime": "2023-07-19T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
