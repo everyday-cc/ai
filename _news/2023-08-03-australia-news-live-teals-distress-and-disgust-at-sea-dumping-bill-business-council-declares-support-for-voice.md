@@ -30,6 +30,22 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "‘Unifying moment for Australia’: Dutton backs Indigenous constitutional recognition"
+    excerpt: "I think 80% of Australians would vote YES [for a constitutional recognition]”, Dutton explained. He emphasised the importance of providing Australian people with the facts and allowing them to make up their"
+    publishedDateTime: 2023-08-03T01:56:00Z
+    webUrl: "https://www.2gb.com/unifying-moment-for-australia-dutton-backs-indigenous-constitutional-recognition/"
+    type: article
+    provider:
+      name: 2GB
+      domain: 2gb.com
+    quality: 18
+    images:
+      - url: "https://www.2gb.com/wp-content/uploads/sites/2/2023/08/GettyImages-1465732518-scaled.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
+
 secured: "0bU5XjO0JSjEwPkPEhlAKyzcXpHU2Md6hsxCmJBInPWChhXLd0DER36lUOKHPV6Nbx28X/e6bgs2f86MIZDDsM/s6JJNN7uUhhr1rX5Wx8DeLRAc/p4Pemc0csk4jYkkKdaOil7ZiAJl8fzBeThyJlVHhYiuIuUDb+UYyCO+uMC6WpzqvVncxuYBRMLzataxIstT8JOgrzs0fTyV15aEHybfil+dk1aqIT4ut9Cc9dvqoYiTqvIDbAdm5ifdGs2YltxRur5acLM13MDe7xNgLW6nT32HWVikwsTLQ5ZfiEbcAuezwOP5mkoMDRoOGeaNYVk9jVLaOgw5OPxKOOgM16WPTd1R2PMjk6MyS2lKUB4=;nLIJIKFaWaswOqymTW77MA=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
+    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
+    publishedDateTime: 2023-08-02T00:24:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 0
+
 secured: "IsbI5+Ev7eSUyK91Lts65wH8Yt/WzC82FReAznrkQjqoV6Ie3ESwusInOBb9onjnVD3yBHPjG9qae58r4YADzSyMQ+xw846nt5SBA5Ls4RDIN8QPPvPhpuWVoyVowVRTu+exhFD66pXnhbjuA7N2BbKre6jHc4NMNuywczJPKGE6VuKLxnLyG6/jcssg9uQCtLbnTFvjfaTlFYo4hg73ZjAEMorbXCPps1J35AOMDZW5qtKg4yOE+VliDT4Qh8Piu7rtO2XB4+WDbAsQx8uMrQGyrhW/KyObNT5K3ont9cfLQ5GUw+g9A+bVCWa+YkXvYxkYaqiUuXqy7a876Upzx8uHiEc4A0H/tbCIswb0iZyInYgVVStdyUi5CDKeR7qzUkRyokF31BR6oiFD9AIZmRY9hRuhOPk3g/BfELIaWOpUzv6X5yMA87rQClcn5ETG1Eg137ysaNMZvrVdVJs/NyI8bZu3B1q6BoBNz2cERct/FwK22N2DaEYoPWtDYRwMRn2/bN7apjKAijoFIOSK4Q==;3IiNckmXwGJ0CKrZbhFc8w=="
 ---
 

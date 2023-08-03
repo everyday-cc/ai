@@ -3,18 +3,22 @@ category: news
 title: "Warning over using face recognition to catch shoplifters"
 excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
 publishedDateTime: 2023-08-01T12:45:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-politics-66372601"
-webUrl: "https://www.bbc.co.uk/news/uk-politics-66372601"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-politics-66372601.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-politics-66372601.amp"
+originalUrl: "https://www.bbc.com/news/uk-politics-66372601"
+webUrl: "https://www.bbc.com/news/uk-politics-66372601"
+ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -205,6 +209,6 @@ related:
       domain: biometricupdate.com
     quality: 0
 
-secured: "qt6qxTlo+4/eWsi2pb8b6XiCiuZp9vNYCiw1yZOA/brwfYSpaFQeDYYHEJh4co+4BrD4D2DCP1yoVsSPapVENwr2Wbr7C3aRnmXvu4vtn49w1KwUi8CryYrN9DViVxe3Ix+VFwE1x3F+gpILK1tsbHGCVB47EqVeTbu+uyAviLpLbdXGznZnbwDmCCiFRU9mDUP1GFUkrtaeEiIx9k2lwdXMnJORcT5Y3/wP8KwfP1c8SUJbbf8I5HwBA3hYk91oBl3Y8Z2lZIIefZ3mPxbPUZVzjwfyiLTnZk/NzE5anH2YkjHxIW9tQBoqplH3WUFuzWjNjPV5TplMdN/m2WgyfplD4Y3pZBCxY7ZGXMmukK4=;36dBV7FkhIUXTLVUw/mn2g=="
+secured: "R2NQoaE1FjNzWn19b0uApwhjQi/y0peTI/gUvUKJ5N7RCgN20n5Ih7Xfkr3tfa+h0h4Mx7P69o6Qcj/JzZfwnJjQu73nNcmO3DM1hrDLLGZH2HMSEayRLb1Cl5J4SQ9PRFCvVSpE3rSx4hUhL4AVkceoeK3D/Udyhm48VoIntlLdkpASK77pKhsDmgC3P1pFrjV4DYIx5GuayFnBy8Xyzzfm9URaRSqpCVYWIL6UDQRKvmuOyeZLFgaOHh04U8eLLA1NXMDHNH9CUKBE/SCIntKGcQzH/OfGDkanGfyRDjsksxzo9Vyie+IbAofsTqv2IJMsQj6tx10M2BoJq1SOR3ty+WiwarqkAk+t0hSIsds=;7xi7Y9nCMp0FRt3c26SC5A=="
 ---
 

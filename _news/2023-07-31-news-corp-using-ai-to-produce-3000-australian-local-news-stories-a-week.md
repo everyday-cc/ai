@@ -76,6 +76,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Business leaders back Australia's Indigenous Voice"
+    excerpt: "Australia biggest companies have thrown their support behind the Indigenous Voice to Parliament The Business Council of Australia"
+    publishedDateTime: 2023-08-03T03:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919728/business-leaders-back-australias-indigenous-voice"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "DUnBMZ0ZIeqsxZeIlvOyNb6X1JO0SzphnJNH8b2V7mZZk/aWe5l4N9/zYutbe0G/bxpSgxqipbRYFmJvFKMEoSv70WkbT8W5smwq8zTL1FOOIDYHs1NXG9LOhnW/snvZfBEZ5yirA5kehlYqjwmq+8sh02d1pKnqu6kZnUgobWAJQVZhJ9a/IP4iqOFIUy31TrNqNXMIHh/yFgvMrtfVC8kMfVbuJqv6tRSNJxB71uxhmkyy2l97SORpNHfCLzgU/tsjY9d0/pRzOFrLJDAQ0lvV4AZuNvkoZdvsrbfysWBxoi1Akxc6/lQcOr43irVdmRRPVt7OaR8ze3+aGto13pjMG3QjpdRnFu09WciqyXTwuWvls9XTPedE0iWM2InubuqpHRfwTOQqokX8cKOheYcwd7POXqgIfPmEtacbHynKvDTfDBwEdKVljQIkdvlW/sEQPU8c+SId4wUEWV3zVQckSzbNsudoL5U6ib8t3/vNRDyq9sYI9JQlUYb9tKsTPFqhUf37NHARzYUIwtsqdA==;qFEorBSyL+7ABOGQt8dUVg=="
 ---

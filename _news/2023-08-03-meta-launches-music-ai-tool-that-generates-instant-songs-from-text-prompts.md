@@ -3,8 +3,8 @@ category: news
 title: "Meta Launches Music AI Tool That Generates Instant Songs From Text Prompts"
 excerpt: "The company’s AudioCraft consists of three different models that serve as competition to a similar tool released by Google in May."
 publishedDateTime: 2023-08-02T23:46:00Z
-originalUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/?ref=biztoc.com"
-webUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/?ref=biztoc.com"
+originalUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/#!"
+webUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/#!"
 type: article
 quality: 35
 heat: -1
@@ -34,6 +34,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "uXKRmpUzhsZlHPEwVy1U6oLNnrLsyXU7C/BGkd6I8hz9iNYWpC7QUoCBuLjKSXiKlRfFFsopSiucW2iGyBjH9H9Di/HantJUGdeMzAhWf/XQTLr/BQ5p+fbufZuLQN8YYJbmehNPvkQRew7QhhM9ctC7MizscB2kuR7nB5G2ypTdC+F263/hvkHPFcsbp4U5nWihpCOsnVOd1ih3tssthXqgjljBO01HLEzy/1K/wN2YofTvNHYVBNLHYEs8Q3a8h/IEY8LS2RUr9j3rnizMoVYKnWytv1pc/LdHhgN36QMKBfdqlM6aK/RVjkY289o+lV1Qwg+0RIrX5FkNZ/BdT/Av1tjAvnKcSshFSeDPykw=;dICN0MpTpB9h7xNWJKDGgg=="
+secured: "U9VVXH26ezUe0QaPaheYREEd6atzznyOoOG4r9XG/qdlzqShRHeqihtg8k2u3YFNZBVM/uIw4falIWzpnex3h9x6Y4PmgLdCAlqQkQSlk1x8MWk1BaVGe93/huTd070iv0C0dSDSAvKLxYra/qtCVamYA2ew7fqNLo4m1wmoJaqhrKcpUVKRiKrph77WwnlZ+JO2uYfmKX8sjeHTcHdFFttHPEBTDQoh9xkdmgg/frDoEl1UofKMsoQdiZiXsP49U7pqzmb59fWpRcqc5HQ2EgFeLszP9kA1lX+lRL2M3RBlZCuSDRe8eZEai+P/50TGWKF6OHv9QB44VORuO04IUABWh2fP8ArS2roJEkElLC8=;oDk1xra1mqz4wEqMSUKtow=="
 ---
 

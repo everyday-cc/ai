@@ -90,6 +90,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "AI is helping scientists reveal star ages. Here's how"
+    excerpt: "The algorithm bases a star's age on its lithium abundance and temperature. It may one day be expanded to include other properties too."
+    publishedDateTime: 2023-08-02T12:01:00Z
+    webUrl: "https://www.space.com/star-ages-ai-cosmic-chemical-data"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/riZwMvxSAuKw4qVoTnAH9G-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Silicon Valley is helping the Pentagon in the AI arms race"
     excerpt: "The US military is opening up to defence and weapons start-ups as evolving technology begins to transform modern warfare"
     publishedDateTime: 2023-07-31T04:00:00Z

@@ -25,7 +25,7 @@ related:
   - title: "Meta Launches Music AI Tool That Generates Instant Songs From Text Prompts"
     excerpt: "The company’s AudioCraft consists of three different models that serve as competition to a similar tool released by Google in May."
     publishedDateTime: 2023-08-02T23:46:00Z
-    webUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/?ref=biztoc.com"
+    webUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/#!"
     type: article
     provider:
       name: Billboard

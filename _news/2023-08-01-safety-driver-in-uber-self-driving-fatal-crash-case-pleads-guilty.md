@@ -51,20 +51,6 @@ related:
         width: 2048
         height: 1568
         isCached: true
-  - title: "Self-driving car crash case ends"
-    excerpt: "The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car."
-    publishedDateTime: 2023-07-29T09:46:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/jul/29/self-driving-car-crash-case-ends/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/img/photos/2023/07/28/3A1Uber0729_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
     excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
     publishedDateTime: 2023-07-29T13:17:00Z

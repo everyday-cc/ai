@@ -117,6 +117,20 @@ related:
         width: 400
         height: 281
         isCached: true
+  - title: "AI chip firm Tenstorrent raises USD 100 mln from Hyundai, Samsung"
+    excerpt: "Tenstorrent, which before this funding had already raised USD 234.5 million was valued at USD 1 billion, is one of several upstarts looking to challenge Nvidia, the market leader in supplying chips to develop artificial intelligence products like ChatGPT."
+    publishedDateTime: 2023-08-03T02:46:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/ai-chip-firm-tenstorrent-raises-usd-100-mln-from-hyundai-samsung/102370050"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102370050,imgsize-152950,width-1200,height=765,overlay-etauto/auto-technology/ai-chip-firm-tenstorrent-raises-usd-100-mln-from-hyundai-samsung.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "QbVyLB+gJb7L2awirupyazjYwnS/urFTriHubjMN6RAoUmxxLKjRJ30r+KlYRTCjB9HD+1kb+wMBriRbR3SNOewYYaA35VY61ZPiKH5QkwYtsRGzoU8bXLrnwNhgcs0U1vokB42VNDKkUle+kUX9ZWZQ+F6bFXyLG3wU1AuSH5FJreOG9kHRhtlgSUusLwuz+HRimwUzl39NPQug2tYHD/BrHtKdHlX4dhUwhtmn3yCbJiDFwuTUfWi32J1noFgaucuhNasa/1RRVB9J7izjPQuU2dd6qaHfBo4T0htKkbxOWJ7U0eyn8f10aV9F5D/JMC6Q5vIJb1PgrgwqFG/fxnTXuQbvE5Rft6yF1HSwJooLPWgnRmNI9rfviuqYk1h6b8bNr/KMiefmUoBSA45Rh/BwJOS2XfJ1a99Gjn+2de//OGAygUCUO8F1/WLqudiAtD1kdMuCNqlLGCAbSiVB+wX+b+1P4dui1XlClANt0hxA6/WLKSmqZxYJ0Eu2tnAqzGrQkFDpR1CZNshiCeFUcw==;L1879hjtbXNmrX1uZyWhTg=="
 ---

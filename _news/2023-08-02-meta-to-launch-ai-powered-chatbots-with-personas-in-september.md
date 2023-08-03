@@ -276,6 +276,20 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
+  - title: "Meta To Launch AI Chatbots With Distinct Personas"
+    excerpt: "Facebook’s parent company ... The open-source LLM is free for commercial and research use, opening the door to many more applications of AI in business and marketing tools. With Meta AI chatbots offering a wide range of engagement experiences, marketers ..."
+    publishedDateTime: 2023-08-02T04:55:00Z
+    webUrl: "https://www.searchenginejournal.com/meta-to-launch-ai-chatbots-personas/492994/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/meta-ai-chatbots-personas-launching-soon-64c941790ef06-sej.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Experts discover workarounds to evade chatbot AI safety rules"
     excerpt: "A new study is raising awareness about the cybersecurity issues posed by artificial intelligence programs, such as ChatGPT—a website that, with the assistance of an online generator, helps humans with tasks as simple as writing a children's bedtime story."
     publishedDateTime: 2023-07-30T03:56:00Z

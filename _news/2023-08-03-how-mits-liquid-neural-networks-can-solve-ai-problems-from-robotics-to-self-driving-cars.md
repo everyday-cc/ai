@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-sol
 webUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
 type: article
 quality: 109
-heat: 109
+heat: 110
 published: true
 
 provider:

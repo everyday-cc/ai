@@ -261,6 +261,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meta To Launch AI Chatbots With Distinct Personas"
+    excerpt: "Facebook’s parent company ... The open-source LLM is free for commercial and research use, opening the door to many more applications of AI in business and marketing tools. With Meta AI chatbots offering a wide range of engagement experiences, marketers ..."
+    publishedDateTime: 2023-08-02T04:55:00Z
+    webUrl: "https://www.searchenginejournal.com/meta-to-launch-ai-chatbots-personas/492994/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/meta-ai-chatbots-personas-launching-soon-64c941790ef06-sej.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Meta to launch AI-powered chatbots with ‘personas’ in September"
     excerpt: "Mark Zuckerberg is set to enter the AI space and join the AI hype by launching chatbots on Facebook’s social media platforms."
     publishedDateTime: 2023-08-02T16:00:00Z

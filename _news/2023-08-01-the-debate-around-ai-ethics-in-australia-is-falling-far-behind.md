@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/what-ethics-look-like-post-ai
 webUrl: "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/091377188912f2b0933881990ce7efd08d8d9944/0_0_4244_2829/master/4244.jpg?width=620&quality=85&auto=format&fit=max&s=525306b1b56db1972ea88a5def94ede2"
         width: 620
         height: 413
+        isCached: true
+  - title: "Business leaders back Australia's Indigenous Voice"
+    excerpt: "Australia biggest companies have thrown their support behind the Indigenous Voice to Parliament The Business Council of Australia"
+    publishedDateTime: 2023-08-03T03:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919728/business-leaders-back-australias-indigenous-voice"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "iCNi+4XbcegLEo03NiS8SWCCWQFDXaeLI0c7/2UDsZADNsuuVbPiB5ILAwiYJn0S8c9z5LIZLeKJbuVclHvutxVqZWUmOLV3QxSEkUtLZ9FzUgxd0xcF9kqcHQDHvQR3IyvdtYLMV43deN/sFj7DpLQpDpGpNIi0/actzXt3LquGr+Gi2+rtYjpMSC1OCh4Ol0jfBbPVItNa/WxNzBmD6qMSqORbd6dbV7pPr1xJET7cARkBlYHm00P+DQ29JIoZqoxfX/pXFZThE0QcVCdNPTkZDLluLoyG4frQIxgEs0ixi9J5d2SBflvj06IlsdK8/MyYxkmkRBA7MqHHsbAQxDRVc+O1PZ09P/4QFPGP3jgOJTmvab4E888WyiYr3XsZ291lVKMa+2grDWMr6eN578WrfTqjUVY09xOY0FrbJP/N8znr6DHw6VJvIoLHdkZgOlkgfLuz1BQSUGzODjAPjZYfdrT00z68wx/hFcTNJAm5ZdK58E+VLNkNrBfQURDovlP21SP08iPRGPEtPGKV8w==;KDbl9cCQsjmZJGyAiBo0vw=="

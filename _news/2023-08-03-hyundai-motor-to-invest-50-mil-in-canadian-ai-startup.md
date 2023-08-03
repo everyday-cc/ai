@@ -100,6 +100,20 @@ related:
         width: 400
         height: 281
         isCached: true
+  - title: "AI chip firm Tenstorrent raises USD 100 mln from Hyundai, Samsung"
+    excerpt: "Tenstorrent, which before this funding had already raised USD 234.5 million was valued at USD 1 billion, is one of several upstarts looking to challenge Nvidia, the market leader in supplying chips to develop artificial intelligence products like ChatGPT."
+    publishedDateTime: 2023-08-03T02:46:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/ai-chip-firm-tenstorrent-raises-usd-100-mln-from-hyundai-samsung/102370050"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102370050,imgsize-152950,width-1200,height=765,overlay-etauto/auto-technology/ai-chip-firm-tenstorrent-raises-usd-100-mln-from-hyundai-samsung.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "RISC-V AI Startup Tenstorrent Gets Another $100M Infusion From Samsung And Hyundai"
     excerpt: "Tenstorrent is a relatively recent startup that is focused on creating new processors built around the RISC-V ISA and specifically targeted at providing extremely high integer math performance for AI training and inference. We wrote back in April about how ..."
     publishedDateTime: 2023-08-02T23:49:00Z
@@ -117,6 +131,6 @@ related:
         height: 416
         isCached: true
 
-secured: "Qe0v+mhFyR31SvI20xa8oobHjioFfd9ksiKrW50+awXncbOpbYMckj75Wdr9Kb9RZaS9/P6RF2XA7G1rWNXAUYY4PVQisKcgfmjakyhlmNBS3A5dfVOCaWMB3+jFq2AgyM3T/nfj3NZoLA6kwLmFbjw1KIenvUV4HjP6RFPjo9vrB4U0UPJVXs4ovfgaQikoZJI7kt+x9cNMlsnigbtwsFFza9xFywdOCYeK9aXnX0ArhxaMfCfjmW3Jrvsq4JZrPTOTafcChPOPP7HZURHWdq2USVMWoufyzmfYI3S4ANX+cm6FRQ3RYOXu2pDn8Oy2lAcQ9sVUHOynqustc0hOBKcylQz3W7V9tFB7fXu3fxk=;huK7xhUjWw2vr0tF9Vwh0w=="
+secured: "De+0MDjNxcpPW6hrxST6JIaeNUz99XrOFDfmHm9Y6SgGDJGjFetUlevspuD0MGFyH7bX9uoNmqIEuW01UAy8eMTsUlmNdzf3vVj4JilxUnROOmkNRirpPEIjnerOMmbEdI00z1mv/KvnmcFYl7NkoYlzvHaFtNxpFmedn4OtF1NeagD6p0cthaGwEgAHFHlJIsXYMcEjgugpcbcnm/awYEbQosfyLApNBqwwwfO1TkjofgL7pD3bhTJ2ho3CWShXgZEdRplambO/TXBjJmxJvYySzE7J+URyq4HbbAVER9NOn+kQMd2X8hlDW6SqjAb36ENX1XOr7d9AC+yTkMwwb1WQG6b//rPH35abRXxX/n29afZ3N3aIbBUTJub93BzJ0T9zRwE27rsA6wB5zGtvkqLbfRpZL90DdVyVsVB+XfIE3PNr7TSllYBCZQz5GrMboYO3XNt0EL7ZJfWKWplKhU6l9SgPpZf6LvykRXPY0nT18BWrJ7pnj9fjCA7uraeZqMCsNx+906LcjHfMlBPCkg==;aGqkW+6bQDlgGJRVd9g6OQ=="
 ---
 
