@@ -2,6 +2,59 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2023-05-11-amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund.md",
+      "title": "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund",
+      "excerpt": "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
+      "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
+      "publishedDateTime": "2023-05-11T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-uk-to-roll-out-first-driverless-bus-service.md",
       "title": "UK To Roll Out First Driverless Bus Service",
       "excerpt": "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ...",
@@ -1162,49 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-amazon-reportedly-has-more-ai-features-in-development-for-astro-robot.md",
-      "title": "Amazon reportedly has more AI features in development for Astro robot",
-      "excerpt": "Amazon’s robot Astro reportedly has future new artificial intelligence (AI ... \"Astro is off to a very promising start. Invite requests remain strong, and we continue to get great feedback ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot",
-      "originalUrl": "https://www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/3857a654-3dc9-4412-81d0-f67bc9fda558/5f7ed505-cc5e-4bc5-b94a-d8f50817c27b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot.amp",
-      "publishedDateTime": "2023-05-10T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

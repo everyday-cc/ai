@@ -124,6 +124,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Why the AI World is Looking Up to NVIDIA"
+    excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."
+    publishedDateTime: 2023-08-03T07:06:00Z
+    webUrl: "https://analyticsindiamag.com/why-the-ai-world-is-looking-up-to-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/nvidia-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AMD plans to launch flagship AI chip by year-end, why it may be ‘bad news’ for Nvidia"
     excerpt: "AMD plans to increase the production of its flagship MI300 series of artificial intelligence (AI) chips in the fourth quarter of 2023. At its launch, Amazon looked to be a likely early user; the company's public cloud computing platform,"
     publishedDateTime: 2023-08-02T12:42:00Z

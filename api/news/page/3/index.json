@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-01-machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.md",
+      "title": "Machine Learning, Blockchain Could Combat the Spread of Fake News, New Study Says",
+      "excerpt": "Researchers proposed solutions to combat the spread of fake news using a combination of machine learning and blockchain technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "originalUrl": "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/432894/machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.jpg",
+          "width": 1500,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "publishedDateTime": "2023-08-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-low-code-ai-with-power-apps-and-power-automate.md",
       "title": "Low code AI with Power Apps and Power Automate",
       "excerpt": "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up.",
@@ -435,49 +478,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-01-fighting-fake-news-research-offers-solutions-through-machine-learning-blockchain.md",
-      "title": "Fighting fake news: Research offers solutions through machine learning, blockchain",
-      "excerpt": "Time is of the essence as a deluge of updates spreads across the internet and social media feeds. Members of the public are eager to find information they can trust.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg",
-          "width": 1920,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp",
-      "publishedDateTime": "2023-07-31T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-01-torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires.md",
       "title": "Torch Startup Says Its Outdoor Sensors Can Help Snuff Out Wildfires",
       "excerpt": "The California company is taking preorders for its first batch of 100,000 detectors. They plan to begin shipments in the fourth quarter.",
@@ -486,7 +486,7 @@
       "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 72,
       "tags": null,
       "images": [
         {

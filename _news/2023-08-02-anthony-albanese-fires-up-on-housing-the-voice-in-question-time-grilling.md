@@ -30,6 +30,22 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "Anthony Albanese stops spruiking Indigenous Voice on Twitter with over month-long silence on key policy platform"
+    excerpt: "Anthony Albanese has been silent on the Indigenous Voice to Parliament on Twitter for over a month, as polls suggest support for the proposed body is in decline."
+    publishedDateTime: 2023-08-03T06:08:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-stops-spruiking-indigenous-voice-on-twitter-with-over-monthlong-silence-on-key-policy-platform/news-story/39d576f839a8badda073d25c615a537a"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-stops-spruiking-indigenous-voice-on-twitter-with-over-monthlong-silence-on-key-policy-platform/news-story/39d576f839a8badda073d25c615a537a?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/anthony-albanese-stops-spruiking-indigenous-voice-on-twitter-with-over-monthlong-silence-on-key-policy-platform/news-story/39d576f839a8badda073d25c615a537a?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 23
+    images:
+      - url: "https://content.api.news/v3/images/bin/8f355f394cb743483d1bd2c6efc523c2"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Albanese's 'Voice, Treaty, Truth' t-shirt at Midnight Oil concert sparks fierce debate about Voice during Question Time"
     excerpt: "The saga surrounding Prime Minister Anthony Albanese's t-shirt choice at a Midnight Oil concert last year sent both sides of politics into a laughing frenzy during Question Time on Monday."
     publishedDateTime: 2023-07-31T08:13:00Z

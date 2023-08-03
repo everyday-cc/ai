@@ -51,15 +51,6 @@ related:
         width: 2048
         height: 1568
         isCached: true
-  - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
-    excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
-    publishedDateTime: 2023-07-29T13:17:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/backup-uber-driver-self-driving-car-that-killed-pedestrian-2018-pleads-guilty-endangerment/Y5U3FKI2RRHKHOKML4NW2IWXW4/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 0
   - title: "Backup driver for self-driving Uber that killed Arizona pedestrian pleads guilty"
     excerpt: "Rafaela Vasquez pleads guilty to endangerment in the first deadly crash involving a fully autonomous car"
     publishedDateTime: 2023-08-01T11:28:00Z

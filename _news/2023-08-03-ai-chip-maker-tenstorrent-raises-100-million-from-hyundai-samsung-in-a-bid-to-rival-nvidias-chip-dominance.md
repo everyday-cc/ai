@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Hyundai Motor invests $50m in Canadian AI chip startup Tenstorrent"
+    excerpt: "Hyundai Motor Group said Thursday it has invested $50 million in Canadian artificial intelligence semiconductor startup Tenstorrent in a move to secure key technology for future mobility. Tenstorrent recently closed a $100 million strategic funding round,"
+    publishedDateTime: 2023-08-03T04:51:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230803000514"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230803000514"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230803000514"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F03%2F20230803000531_0.jpg"
+        width: 630
+        height: 421
+        isCached: true
   - title: "Hyundai Motor to invest $50 mil. in Canadian AI startup"
     excerpt: "Hyundai Motor Group said Thursday it will invest $50 million in Canadian artificial intelligence (AI) semiconductor startup Tenstorrent as it seeks to integrate AI into its future mobility solutions."
     publishedDateTime: 2023-08-03T00:59:00Z
@@ -171,6 +187,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "EDOOtyQAiAGjfKCbq+LPOzrUpH6xaIT6FkBU52NbFazfR+y3c6j3t8S5gt7xX+4LH32cNZF3ajppq/0Defu//CoS+LaGIo7ijt4U7qkTr+f9fd7D5CpqiYxDjMS+pY6iE/fyy8aAtzw7BqNd9Cw+9PTIvJBFFbf0X0iQPfnRUN6VLJv+3frkG3gZogzVlPqlGX/tjEPOpwvEYqie1hsYgvQNwL0ebpDGbhSIywvvCEi2CYzuANosGJEFTMr9RXLlOOXw6N6OKYae439R1L5AHTyE57X0XTtlcOejQNKKSJlfgfFYGVtz7JasTLOIo2BZ7t0z7sPKX6U2Jeou1Mnw8E3t40owmjdFJcbVx3z6I7w=;hlI+aRAQWfQAW6c2l18Yvg=="
+secured: "28K3P7PaEu2TUGkAC11C0EYUANvcSPybIX7Oo6l4lcJlgwo+ai4CPlohGBu2rGdZWSeWPETHEz51Q0V6a6jSNQi+9LK85PFb3C4cmM+rwOQw1tlUJuDIe5EUz3h/UbZk2v8kaNhpB0Kqem3x2YuyFNiJIqLEGB9PTl+0VwD8GcoIUFTf+Vx79j4rFpJsMc91ugD3pe2vWlHX8cUtAnxy70zvJnTqHMbpG2m964Tl39wLgCvuLnU5Q0bPzxUj5ZUMX4FAxcrlxK4kdImQyayt/6QoaDqxw17BCdjoJ9tMPER1pRdizi5YoJzcm5akJv2lZU3wEtHBPHd8S7MMzStrOpDPNBXUU+0dG/8aNP9KJ//uqf2BZrWrzMsKzaIn7FDuFpRhHKdrR9xYc/6l2xyiWSG29NwTkKuYMeVRK/iUz+gDc8Xgd50gzUr2BmhYLyT9iV/UxTIaImx10RO2QxNsU/TlFQC2tU53I10UVecOgOJw+BTvIEc5nVvboXmMY2p2um8UaxZwJcJOYe1pOeLjIA==;XZJX3I8dgt8KoIjRVcMa2Q=="
 ---
 

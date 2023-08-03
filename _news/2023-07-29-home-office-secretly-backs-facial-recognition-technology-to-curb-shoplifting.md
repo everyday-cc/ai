@@ -83,14 +83,14 @@ related:
   - title: "Warning over using face recognition to catch shoplifters"
     excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
     publishedDateTime: 2023-08-01T12:45:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66372601"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
+    webUrl: "https://www.bbc.co.uk/news/uk-politics-66372601"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-politics-66372601.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-politics-66372601.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 89
+      domain: bbc.co.uk
+    quality: 59
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
         width: 1024

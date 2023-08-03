@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine Learning, Blockchain Could Combat the Spread of Fake News, New Study Says"
+    excerpt: "Researchers proposed solutions to combat the spread of fake news using a combination of machine learning and blockchain technology."
+    publishedDateTime: 2023-08-01T09:35:00Z
+    webUrl: "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 69
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/432894/machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.jpg"
+        width: 1500
+        height: 960
+        isCached: true
   - title: "Fighting fake news: Research offers solutions through machine learning, blockchain"
     excerpt: "Time is of the essence as a deluge of updates spreads across the internet and social media feeds. Members of the public are eager to find information they can trust."
     publishedDateTime: 2023-07-31T21:03:00Z
@@ -39,6 +55,29 @@ related:
         width: 1920
         height: 1439
         isCached: true
+  - title: "Machine Learning Mitigates the Spread of Fake News"
+    excerpt: "The spread of false news must be prevented because it has the potential to have a negative impact. Incorrect information can lead a person to make the wrong decision or act."
+    publishedDateTime: 2023-08-02T10:41:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/08/02/en-mesin-pembelajar-memitigasi-penyebaran-kabar-bohong"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 41
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/3NlDmuWiRb4eAm1Aa6RuaJrIUHI=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F08%2F02%2F718dfc1f-0eaa-442b-aed8-5d5dc9f9c947_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Machine Learning, Blockchain Technology could Help Counter Spread of Fake News"
+    excerpt: "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news, according to new research."
+    publishedDateTime: 2023-08-02T17:16:00Z
+    webUrl: "https://cacm.acm.org/news/275181-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 30
   - title: "Global Blockchain AI Research Report 2023: Enhancing Data Security and Insights - The Key Role of Blockchain AI in Modern Businesses"
     excerpt: "The \"Blockchain AI Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. The global blockchain ai market grew from $0.39 billion in 2022"
     publishedDateTime: 2023-08-02T17:45:00Z

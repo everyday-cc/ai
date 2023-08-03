@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-07-05-ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learning-series.md",
+      "title": "AI for business leaders: Discover AI advantages in this Microsoft AI learning series",
+      "excerpt": "As a leader in all things AI, Microsoft has spearheaded a curriculum created especially for you and your colleagues to help you build the knowledge, insights, and skills needed to make the most of AI technologies. Transform Your Business with Microsoft AI is designed to bridge the gap between AI technology",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture5.jpg",
+          "width": 900,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-how-to-modernize-data-lakes-with-a-data-lakehouse-architecture.md",
       "title": "How to modernize data lakes with a data lakehouse architecture",
       "excerpt": "Learn how a data lakehouse architecture and watsonx.data can help you modernize you data management strategy.\nThe post How to modernize data lakes with a data lakehouse architecture appeared first on IBM Blog.\n",
@@ -1153,49 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
-      "title": "Growing bio-inspired polymer brains for artificial neural networks",
-      "excerpt": "Advanced Functional Materials) While neural-network models have achieved remarkable success in applications such as image generation and cancer diagnosis, they still lag far behind the general processing abilities of the human brain. In part, this is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/nanotechnology-news2/id63278_1.jpg",
-          "width": 1075,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

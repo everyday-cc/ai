@@ -35,20 +35,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House"
-    excerpt: "US President Joe Biden met with Google, Microsoft, Meta, OpenAI, Amazon, Anthropic and Inflection on July 21. They agreed to emphasize \"safety, security and trust\" when developing AI technologies. More specifically:"
-    publishedDateTime: 2023-07-29T15:00:00Z
-    webUrl: "https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 98
-    images:
-      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Doubles Down On Generative AI, Announcing Copilot Pricing And New Generative AI Skills"
     excerpt: "Microsoft announced new pricing and features for its Copilot along with Bing search enterprise. A look at Microsoft's AI strategy and its competitive outlook."
     publishedDateTime: 2023-08-01T15:55:00Z
@@ -92,6 +78,22 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png"
         width: 1000
         height: 715
+        isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "India], August 3: Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T07:43:00Z
+    webUrl: "https://theprint.in/ani-press-releases/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace/1698602/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace/1698602/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace/1698602/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 72
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230803072221.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
     excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-26-this-bluetooth-controlled-robotic-arm-kit-helps-ease-you-into-the-world-of-robotics-and-is-now-over-90-off.md",
+      "title": "This Bluetooth-controlled robotic arm kit helps ease you into the world of robotics and is now over $90 off",
+      "excerpt": "Dive into emerging robotic technologies with a variety of hands-on tools. By Stack Commerce | Published Jul 26, 2023 9:00 AM EDT We may earn revenue from the products available on this page and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/",
+      "originalUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/07/24/image-2.jpeg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/?amp",
+      "publishedDateTime": "2023-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-10-ways-the-oil-and-gas-industry-can-leverage-digital-twin-technology.md",
       "title": "10 ways the oil and gas industry can leverage digital twin technology",
       "excerpt": "In the era of digital transformation, digital twins are emerging as a potent solution to energy production challenges. \nThe post 10 ways the oil and gas industry can leverage digital twin technology appeared first on IBM Blog.\n",
@@ -1156,49 +1199,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-artificial-intelligence-recent-congressional-activity-and-a-look-to-the-future.md",
-      "title": "Artificial Intelligence: Recent Congressional Activity and a Look to The Future",
-      "excerpt": "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E",
-          "width": 500,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

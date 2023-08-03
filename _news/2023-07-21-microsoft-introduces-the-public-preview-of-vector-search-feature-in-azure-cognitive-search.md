@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search"
 excerpt: "Subscribe for free. At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by ..."
-publishedDateTime: 2023-07-21T10:06:00Z
-originalUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=cce15334-9c75-4a74-bdbb-c47909347a8f"
-webUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=cce15334-9c75-4a74-bdbb-c47909347a8f"
+publishedDateTime: 2023-07-21T10:03:00Z
+originalUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=828c7b90-44e4-4ae8-b677-efba991a6bda"
+webUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=828c7b90-44e4-4ae8-b677-efba991a6bda"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "yWpMOmN82krO4rDE4X2O0ZtWdm7STrnRqr8sWtzzTTb0Web+1iYX0lbfT59Isc1ASO249shrMY7G9Zrf/ZyODaFToZ2HfI8Qn9GQxuRyzksdgJ5sbHR5dJpnWjq3eL02qlU/WGbUL0le7uMO9uHlOGzZNCmBVYhRHJRjXWFT0/r54JWQe6E7rpwRKYMQESIT119oE0O/1EbIMMbim1//fhx/pv6u3f4Go9JJwm44y8qof9PPnXHLxzhYFehtAg+IUstUUtPRyjc95IpTQqXAuK9m3zPYiZBE/yNCp8Inr2G8/D2bwaPKPdkBdyTECAXnhJeZ+YupMRNrBk9PbHcjaZVPWRF8fUsyVdR9D9b29eA=;yb0Jqclc22grfXFeF2wphA=="
+secured: "KuC0MJIAUcFIcHc+nBvy5Ae1xyNSWEACgRzT2qWHTeJqfsibMpthvZVwP8jfeCPvkdpah2RDtNDEZHpMRzjFspwoTSk2YZ/CNSKCqqC+xg7P5QC6hodQhuUlKk8rbqbBW+k0Vuc1Jv9/4eCcJxzah3yJb1l8K/ZxqXS9S65b491Z83OzO9dKhGbStqYlAO3IIANQLGPhRbcIDKCkvMKa05Lj+vfjobl/RSZiejgJl4a6Z1OBWdlZql38myEwvF4kcaDQZCYGLnCrk6vF6W08X7qDDYSk6+CPeyjUDYnfI6iGuz49HLUVOzO7GLvwzFCeeBX6gFZH8JyH+k1LH/FMh2Vy9LL4heko9H2VcezKwvk=;H1KOjdt24wdNTA0Bm7cVjA=="
 ---
 

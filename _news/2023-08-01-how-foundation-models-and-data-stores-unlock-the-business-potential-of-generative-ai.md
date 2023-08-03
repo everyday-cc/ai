@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unl
 webUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/"
 type: article
 quality: 92
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
+    excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
+    publishedDateTime: 2023-08-03T07:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all"
+        width: 1200
+        height: 840
         isCached: true
   - title: "New threats, same rules for finance generative AI"
     excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."

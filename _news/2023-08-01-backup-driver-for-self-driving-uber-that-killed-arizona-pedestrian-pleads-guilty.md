@@ -64,15 +64,6 @@ related:
       name: Motor Authority
       domain: motorauthority.com
     quality: 4
-  - title: "Backup Uber driver of self-driving car that killed pedestrian in 2018 pleads guilty to endangerment"
-    excerpt: "Getting behind the wheel of a car is a serious responsibility. Regardless of whatever technology might be available to drivers, safety for everyone on the street and in the vehicle must always be a driver’s first priority,"
-    publishedDateTime: 2023-07-29T13:17:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/backup-uber-driver-self-driving-car-that-killed-pedestrian-2018-pleads-guilty-endangerment/Y5U3FKI2RRHKHOKML4NW2IWXW4/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 0
 
 secured: "qZO/Q3vzy3fFqpI7eKEtP8dSvtAwZZfegl4DXhfgNJMaOTAIqgIIXStk8b4d+ne+JyNtlUujZ6IAWJXD1clyTFWpGxTmyq9axtYx86fZ9n7FDeQP/JRQp/YxGM6KdGc7Ta6K+BYuuhrZ/MipUV2YtIEcIOpNEf+bMaYEt5sceUNDQxRnP2LpFU21dwaQA+xub/j/+Cjwcp8gWHAQGQ8d2Ubypf5H5LPP5CsFrkYg2mbbDUcSOHsZ8fvrI9AoJcVNjpRoRy7OFROSw7iBFYl2fzOmmNqGyOk2xGLf8wlc2IvKvx1PuYUo/K45YSq8KBubguYIY5+fR+leTuAbC1eom+d0lrFocxANP3UqX5qdUBQq7boJF/hLhP1izwMcm3fanCafduZM+8YhW9UoEBPXeCrNWWXwGZtKC2Kema+1aSeyA5Y64AWgxUARujyjRWi2PBss/IC+gIcuqFbPsTL5Nf+UhoyZ1NYweqabAQCGlgCVOwrJPUsqHO/ehwtvnGkfcKGBD+QxMIlXYE42iOD9CQ==;nwuSKtu5iFEN9PrbGsTeFQ=="
 ---

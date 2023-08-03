@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-22-what-elon-musks-ai-startup-means-for-teslas-ai-ambitions.md",
+      "title": "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions",
+      "excerpt": "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
+      "originalUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-821616/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-musk-says-tesla-would-buy-more-nvidia-ai-chips-if-only-nvidia-had-enough-of-them.md",
       "title": "Musk Says Tesla Would Buy More Nvidia AI Chips, If Only Nvidia Had Enough of Them",
       "excerpt": "Later in the call, Musk expanded on those comments, doling out praise for Nvidia and its co-founder and CEO Jensen Huang:",
@@ -431,10 +483,10 @@
     {
       "path": "_news/2023-07-20-25-millionaire-maker-ai-stocks-to-buy-now.md",
       "title": "25 Millionaire-Maker AI Stocks to Buy Now",
-      "excerpt": "“The AI megatrend is just getting started. ChatGPT really kickstarted this AI frenzy back in November 2022. We’re basically just seven months into the AI Boom. By comparison, the Internet Boom lasted almost 10 years – from the launch of the world’s first website in 1991 to the peak of the dot-com bubble in 2000.",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips To say that artificial intelligence is transforming the world would be a",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/25-millionaire-maker-ai-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/25-millionaire-maker-ai-stocks-to-buy-now",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/25-millionaire-maker-ai-stocks-to-buy-now-1032463359",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/25-millionaire-maker-ai-stocks-to-buy-now-1032463359",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -447,9 +499,18 @@
       "publishedDateTime": "2023-07-20T08:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1301,58 +1362,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-elon-musks-tesla-robots-could-be-groundbreaking-for-ai-and-automation-but-still-have-a-long-way-to-go.md",
-      "title": "Elon Musk's Tesla robots could be groundbreaking for AI and automation, but still have a long way to go",
-      "excerpt": "Elon Musk's Tesla robots, or \"Tesla Bot,\" are bipedal robot devices that use the same AI as Tesla's cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac095a6d7e02001af8a08e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
-      "publishedDateTime": "2023-07-16T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

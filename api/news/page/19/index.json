@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-07-21-james-cameron-on-dangers-of-artificial-intelligence-i-warned-you-guys-in-1984.md",
+      "title": "James Cameron On Dangers Of Artificial Intelligence: ‘I Warned You Guys In 1984!'",
+      "excerpt": "The “Terminator” director said he’s more concerned AI will cause a nuclear disaster than write “a good story.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text",
+      "originalUrl": "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64b95c1f2200006c006b127e.jpeg?ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp",
+      "publishedDateTime": "2023-07-20T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-norad-commander-extended-interview-potential-threats-ai-and-russia-part-1.md",
       "title": "NORAD commander extended interview: potential threats, AI and Russia (Part 1)",
       "excerpt": "Lester Holt interviews General Glen D. VanHerck, the commander of NORAD who oversees security of North American aerospace, about monitoring potential threats, artificial intelligence and interactions with Russia.",
@@ -720,10 +772,10 @@
     {
       "path": "_news/2023-07-20-25-millionaire-maker-ai-stocks-to-buy-now.md",
       "title": "25 Millionaire-Maker AI Stocks to Buy Now",
-      "excerpt": "“The AI megatrend is just getting started. ChatGPT really kickstarted this AI frenzy back in November 2022. We’re basically just seven months into the AI Boom. By comparison, the Internet Boom lasted almost 10 years – from the launch of the world’s first website in 1991 to the peak of the dot-com bubble in 2000.",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips To say that artificial intelligence is transforming the world would be a",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/25-millionaire-maker-ai-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/25-millionaire-maker-ai-stocks-to-buy-now",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/25-millionaire-maker-ai-stocks-to-buy-now-1032463359",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/25-millionaire-maker-ai-stocks-to-buy-now-1032463359",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -736,9 +788,18 @@
       "publishedDateTime": "2023-07-20T08:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1117,49 +1178,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names.md",
-      "title": "Corporate earnings season heating up, TSMC outlook adding concerns to AI and chip names",
-      "excerpt": "- Industrials: Saab [SAABB.SE] +3.5% (Q2 results), Electrolux [ELUXB.SE] -15.0% (earnings; starts preparations for a potential divestment of Zanussi and other non-core brands during the coming years which could be valued at SEK10B in total), Volvo Cars [VOLCARB.SE] -1.0% (Q2 results), Alfa Laval [ALFA.SE] +6.0% (Q2 results).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "originalUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Markets/Equities/DowJones/DowJones_frontbuilding_Small.jpg",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "publishedDateTime": "2023-07-20T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

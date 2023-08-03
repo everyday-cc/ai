@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-07-14-ftc-opens-investigation-into-chatgpt-maker-over-technologys-potential-harms.md",
+      "title": "F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms",
+      "excerpt": "The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/07/13/multimedia/13ftc-chatgpt-jgqt/13ftc-chatgpt-jgqt-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite.md",
       "title": "Navigating The AI Combinatorial Explosion: A Guide For The C-Suite",
       "excerpt": "Creators of the new technology say that businesses will soon be inundated with new products and services now under development.",
@@ -1092,58 +1144,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-opens-three-new-routes-to-career-advancement.md",
-      "title": "Artificial Intelligence Opens Three New Routes To Career Advancement",
-      "excerpt": "These are the ways today’s managers and professionals need to meet the challenges and opportunities of artificial intelligence head-on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
-      "publishedDateTime": "2023-07-13T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

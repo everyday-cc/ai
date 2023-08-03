@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-fund
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
 type: article
 quality: 86
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64c96d01ee4e42fcd569db67/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 703
+        isCached: true
+  - title: "Hyundai Motor invests $50m in Canadian AI chip startup Tenstorrent"
+    excerpt: "Hyundai Motor Group said Thursday it has invested $50 million in Canadian artificial intelligence semiconductor startup Tenstorrent in a move to secure key technology for future mobility. Tenstorrent recently closed a $100 million strategic funding round,"
+    publishedDateTime: 2023-08-03T04:51:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230803000514"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230803000514"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230803000514"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F03%2F20230803000531_0.jpg"
+        width: 630
+        height: 421
         isCached: true
   - title: "Hyundai Motor to invest $50 mil. in Canadian AI startup"
     excerpt: "Hyundai Motor Group said Thursday it will invest $50 million in Canadian artificial intelligence (AI) semiconductor startup Tenstorrent as it seeks to integrate AI into its future mobility solutions."

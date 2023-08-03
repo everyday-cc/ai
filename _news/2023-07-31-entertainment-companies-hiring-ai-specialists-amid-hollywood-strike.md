@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hollywood goes on AI hiring boon, despite WGA and SAG-AFTRA strikes"
+    excerpt: "Hollywood studios are rushing to hire AI professionals, despite ongoing strikes and layoffs. What could this mean for the industry’s future?"
+    publishedDateTime: 2023-08-02T19:00:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/campaign-finance-traffic-sag-wga/hollywood-ai-jobs"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 39
+    images:
+      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
+        width: 542
+        height: 384
+        isCached: true
   - title: "Hollywood is searching for AI specialists, offering handsome salaries, despite the strikes"
     excerpt: "As per The Hollywood Reporter, the advert for the job at Netflix states: \"Our business is driven by Machine Learning/Artificial Intelligence, which fuels innovation in content creation and acquisition, personalization, payment processing, and other revenue-centric initiatives\"."
     publishedDateTime: 2023-07-31T08:22:00Z

@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-07-22-microsofts-semantic-kernel-ai-sdk-adds-java-integrates-with-azure-cognitive-search.md",
+      "title": "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search",
+      "excerpt": "Microsoft has been busy updating its Semantic Kernel ... Weaviate, Chroma, along with Azure Cognitive Search and Services. Additionally, we are developing a document chunking service and enhancing the VS Code extension for Semantic Kernel.",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/Articles/2023/07/21/semantic-kernel-updates.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2023/07/21/semantic-kernel-updates.aspx?p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robot_coffee.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-reddit-tricks-an-ai-into-writing-an-article-about-a-fake-world-of-warcraft-character.md",
       "title": "Reddit tricks an AI into writing an article about a fake World of Warcraft character",
       "excerpt": "On July 20, Reddit user kaefer_kriegerin made a text post expressing their excitement over the impending arrival of a new WoW player named Glorbo. Glorbo is not real, and the author made their aim for creating him clear, writing at the top of the post, \"I just really want some major bot operated news websites to publish an article about this.\"",
@@ -1172,49 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-microsoft-introduces-the-public-preview-of-vector-search-feature-in-azure-cognitive-search.md",
-      "title": "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search",
-      "excerpt": "Subscribe for free. At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=cce15334-9c75-4a74-bdbb-c47909347a8f",
-      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/?topicPageSponsorship=cce15334-9c75-4a74-bdbb-c47909347a8f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/07/microsoft-launches-vector-search/en/headerimage/generatedHeaderImage-1689764249103.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -59,6 +59,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Abu Dhabi’s MBZUAI launches new robotics and computer science departments"
+    excerpt: "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,"
+    publishedDateTime: 2023-08-03T07:42:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 70
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/08/03/Mohamed-bin-Zayed-University-of-Artificial-Intelligence-MBZUAI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "w+I1acVqTZuNMsQGBUwoK2bOCOckWV7KtL+WBpFbAed51EcVrX4gYmDwGb6BMXAOPrXxWa7wk9oG9X5pna4yH7sCGNPVTk14TDUcQvc8yUkuPk96lwR8810d/lS8Iw3IHcZ+/BLNuI4auXIutAd+I+njTDSuCe+ehMlX/zHYivQO7NngkoczfwiKR2HWvShlWqGPM9pwoBfHQ3iUgimMX68BtrRmN4xHZ9Hltt6/si/4p1EdLANzgIbabja3fel9K+0FY5ybBiMsFvQz7z9HXQ2WhgC6mY3aW74duPzo4ggRCgvg/30nK9tRorMajbfhCyD4VR+skGVCULh9Rp5HvpqoayGcBkw7UwvZJ03Ik/XtYem25oSm5nGggNQb+up2WnJmLj8gKY/8BeiweODOL7t3d3LgrT/KKTer3ZcT1ibDOrxGRL5JEbeuxhc/5AGTN19R344Tu6KS8w2+NmEnlGXWtS4jWd6iILIFcTCwKyKNL0XdUAr7jAKbW9YWprZ0dkQ1nPJ13/Wl9wdauUGp7Q==;b8D2HfaSnsiEuhVMMPJtnQ=="
 ---

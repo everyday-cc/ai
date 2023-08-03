@@ -2,6 +2,57 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-05-28-want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how.md",
+      "title": "Want To Prep For An Interview Using AI? This TikTok Video Shows You How",
+      "excerpt": "A TikTok video by a user named Hanna Goefft shows how easy it is to use AI to help you prepare for an interview. It’s a novel idea and actually seems to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647372dbb65ff1df789811f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
+      "publishedDateTime": "2023-05-28T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it.md",
       "title": "How the rise of generative AI could kill the metaverse — or save it",
       "excerpt": "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future.",
@@ -1071,40 +1122,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-deep-ink-daniel-sprong.md",
-      "title": "Deep Ink: Daniel Sprong",
-      "excerpt": "Daniel Sprong knew he wanted to get tattoos as early as age 18, but he also knew he should probably clear the idea with his family first. So he sought out permission from mom and dad. \"They said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhl.com/kraken/news/deep-ink-daniel-sprong/c-344601470",
-      "originalUrl": "https://www.nhl.com/kraken/news/deep-ink-daniel-sprong/c-344601470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Hockey League",
-        "domain": "nhl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

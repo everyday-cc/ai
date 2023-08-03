@@ -2,6 +2,59 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-07-25-nvidia-stock-investors-should-love-what-elon-musk-said-on-teslas-earnings-call-about-ai.md",
+      "title": "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI",
+      "excerpt": "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg",
+          "width": 2314,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-the-us-is-headed-for-a-roaring-economic-boom-thanks-to-ai-robots-quantum-computers-market-veteran-ed-yardeni-says.md",
       "title": "The US is headed for a roaring economic boom, thanks to AI, robots, quantum computers, market veteran Ed Yardeni says",
       "excerpt": "\"I think that by the end of the decade we'll look back on it and say, it started out awful, but it ended up awfully good.\"",
@@ -97,40 +150,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-25-microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus.md",
-      "title": "Microsoft earnings: What to expect as Azure, AI come into focus",
-      "excerpt": "no more than a modest [deceleration] in Azure growth with encouraging commentary for FY24, and quantification of AI tailwinds in FY24 and beyond,\" Raymond James analyst Andrew Marok wrote recently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-25-ai-researchers-train-artificial-intelligence-to-help-detect-breast-cancer.md",
       "title": "AI: Researchers train artificial intelligence to help detect breast cancer",
       "excerpt": "Researchers have developed an artificial intelligence (AI) system that may help doctors detect cancer. The researchers from Cardiff University say it could help improve the accuracy of medical diagnostics and could lead to earlier breast cancer detection.",
@@ -178,6 +197,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus.md",
+      "title": "Microsoft earnings: What to expect as Azure, AI come into focus",
+      "excerpt": "As Microsoft gears up to report earnings in the present, it's becoming ever harder for Wall Street not to get swept up by the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-823051/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "publishedDateTime": "2023-07-25T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -558,6 +629,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
+      "title": "AI-powered travel assistant touted as most powerful ever",
+      "excerpt": "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "originalUrl": "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "cdnAmpWebUrl": "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "publishedDateTime": "2023-07-25T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox6now",
+        "domain": "fox6now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1076,92 +1181,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
-      "title": "AI-powered travel assistant touted as most powerful ever",
-      "excerpt": "Travel technology company Mondee has rolled out a new artificial intelligence-powered planning assistant named Abhi, which the firm says is the most powerful in the industry. The Austin, Texas-based company introduced Abhi this week in conjunction with the one-year anniversary of the firm going public on Nasdaq and says the new tool's ability to generate a fully bookable travel itinerary within the Mondee Marketplace is revolutionary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox29.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever",
-      "originalUrl": "https://www.fox29.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox29.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
-      "cdnAmpWebUrl": "https://www-fox29-com.cdn.ampproject.org/c/s/www.fox29.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
-      "publishedDateTime": "2023-07-24T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 29",
-        "domain": "fox29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-is-artificial-intelligence-anti-black.md",
-      "title": "Is Artificial Intelligence Anti-Black?",
-      "excerpt": "The rise of artificial intelligence like ChatGPT is ushering in a new era of possibilities. This article examines the anti-blackness baked into our AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
-      "originalUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bf1828c39d451c82b88edd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
-      "publishedDateTime": "2023-07-24T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

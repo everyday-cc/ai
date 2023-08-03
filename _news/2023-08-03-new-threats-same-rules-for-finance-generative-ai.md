@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
+    excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
+    publishedDateTime: 2023-08-03T07:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
     excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
     publishedDateTime: 2023-08-01T13:00:00Z

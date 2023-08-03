@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-t
 webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.wsj.net/im-827019/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Artificial intelligence could aid treatment of mental health issues"
-    excerpt: "Knowing ahead of time that a patient may be at risk of harm can help us develop intervention strategies ... and adjustments to their care plan,' says Waypoint official"
-    publishedDateTime: 2023-07-29T14:16:00Z
-    webUrl: "https://www.orilliamatters.com/local-news/artificial-intelligence-could-aid-treatment-of-mental-health-issues-7320010"
-    type: article
-    provider:
-      name: orilliamatters
-      domain: orilliamatters.com
-    quality: 54
-    images:
-      - url: "https://www.vmcdn.ca/f/files/midlandtoday/images/people/20230724andreawaddellsupplied.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "7 healthcare AI updates"
     excerpt: "Here are seven updates on artificial intelligence developments in healthcare for ASC leaders reported by Becker's since June 5: 1. The FDA issued 510(k) clearance for the Magentiq-Colo, created by Israel-based technology company Magentiq-Eye."

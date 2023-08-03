@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -56,6 +56,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-01-machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.md",
+      "title": "Machine Learning, Blockchain Could Combat the Spread of Fake News, New Study Says",
+      "excerpt": "Researchers proposed solutions to combat the spread of fake news using a combination of machine learning and blockchain technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "originalUrl": "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/432894/machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.jpg",
+          "width": 1500,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm",
+      "publishedDateTime": "2023-08-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-govts-dgt-partners-with-amazon-web-services-to-upskill-students-in-ai-ml-for-better-employability.md",
       "title": "Govt’s DGT partners with Amazon Web Services to upskill students in AI, ML for better employability",
       "excerpt": "DGT said students enrolled in the institutions under the DGT will benefit under the tie-up. DGT implements long-term institutional skill training in the country through its network of about 15,000 Industrial Training Institutes (ITIs) and 33 National Skill Training Institutes (NSTIs).",
@@ -97,49 +140,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-fighting-fake-news-research-offers-solutions-through-machine-learning-blockchain.md",
-      "title": "Fighting fake news: Research offers solutions through machine learning, blockchain",
-      "excerpt": "Time is of the essence as a deluge of updates spreads across the internet and social media feeds. Members of the public are eager to find information they can trust.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg",
-          "width": 1920,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp",
-      "publishedDateTime": "2023-07-31T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -423,41 +423,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-28-ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai.md",
-      "title": "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI",
-      "excerpt": "proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations, bringing their total number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230728545357/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
       "title": "Researchers successfully train a machine learning model in outer space for the first time",
       "excerpt": "For the first time, researchers have trained a machine learning model in outer space, on board a satellite. This achievement could enable real-time monitoring and decision making for a range of applications,",
@@ -498,6 +463,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai.md",
+      "title": "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI",
+      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure/article_fc81ac42-2822-5fac-a781-432ab8b786be.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure/article_fc81ac42-2822-5fac-a781-432ab8b786be.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {

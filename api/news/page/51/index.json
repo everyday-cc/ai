@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
+      "title": "Researchers teach an AI to write better chart captions",
+      "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-captions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-captions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-captions.amp",
+      "publishedDateTime": "2023-06-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment.md",
       "title": "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'",
       "excerpt": "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,",
@@ -1127,49 +1170,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-this-transformer-like-robot-can-roll-fly-stand-walk-and-more.md",
-      "title": "This Transformer-Like Robot Can Roll, Fly, Stand, Walk, and More",
-      "excerpt": "Robots are slowly getting smarter, mostly thanks to advances in artificial intelligence that enables them to learn on their own rather than requiring constant human guidance. But despite being able to independently learn new tasks, most robots are still ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
-      "originalUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/06/Gharib_Mory-Lab-M4-Robot-063.2e16d0ba.fill-1600x810-c100.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
-      "publishedDateTime": "2023-06-29T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

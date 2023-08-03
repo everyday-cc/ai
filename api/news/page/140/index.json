@@ -2,6 +2,57 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2023-05-06-what-are-apples-plans-for-generative-ai-tim-cook-wants-to-be-thoughtful.md",
+      "title": "What are Apple’s plans for generative AI? Tim Cook wants to be ‘thoughtful’",
+      "excerpt": "Apple CEO Tim Cook didn't talk specifics, but noted the company will continue to include generative AI and AI overall in its products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
+      "originalUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/",
+      "publishedDateTime": "2023-05-05T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
       "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
       "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
@@ -1140,57 +1191,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-inside-the-high-stakes-ai-powered-race-to-dethrone-google-search.md",
-      "title": "Inside The High-Stakes, AI-Powered Race To Dethrone Google Search",
-      "excerpt": "Artificial intelligence is “a bit like dropping a bomb right at the center of the information nexus,” said one startup founder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0",
-      "originalUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6452a4f02700001a006fb6ef.jpg?cache=gLMM3kdUI0&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp",
-      "publishedDateTime": "2023-05-05T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

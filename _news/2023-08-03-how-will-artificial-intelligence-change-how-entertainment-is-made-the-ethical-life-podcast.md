@@ -3,28 +3,27 @@ category: news
 title: "How will artificial intelligence change how entertainment is made? | The Ethical Life podcast"
 excerpt: "The hosts discuss how worried we should be about computers taking over more of what we watch and read, and whether live performances and sports will benefit."
 publishedDateTime: 2023-08-02T23:30:00Z
-originalUrl: "https://omaha.com/opinion/column/artificial-intelligence-films-books-podcast/article_a6e81a8b-1fe4-5a66-b6da-c63d33b537f0.html"
-webUrl: "https://omaha.com/opinion/column/artificial-intelligence-films-books-podcast/article_a6e81a8b-1fe4-5a66-b6da-c63d33b537f0.html"
+originalUrl: "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html"
+webUrl: "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html"
 type: article
-quality: 60
-heat: 60
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
-  - AI in Robotics
   - AI
   - AI Ethics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/6e/a6e81a8b-1fe4-5a66-b6da-c63d33b537f0/64ca79fa15187.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c9/3c9b495b-dca5-51ea-826b-8d6102fff53a/64ca79fb1255f.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
     width: 1196
     height: 628
     isCached: true
 
-secured: "F3WO2CXYanmQUxBxzVirjb6uDMuFcho16nzT+f2gdh1RpfWhb6jdqdKEqgweUeALGcH8ZCTCoMu2jeTZYU8vUPowp2u39slLDROzTwsKBFrxRcxt6dWaAAUHkBog3Dfo3ocBTX+WWiskQjiGSHqyYDG7yCqiccn9NdUDi4nYe/qZAfJBMRAFuF30kiOBra/SRzbFAGKoBTBxSD8Bgghtex6DgeYu8FuRuxXLKhJdV0AZ78g7MEB7sEkKkjQcwbMJF8yNXXnRmiL3hM+AF4zqOIPCPSybiBh52mgMXhjn+YC6XV0iyEznCi5ZKAKIPgeWOBYtWTo/uHEESG0xhwgcYvei3fhvXqOb+NDis4cVLr51ikhwQq3i+6+kF5+MQPBwaF2LFYbSw4/bCILBv6ux3ZDUyGhXQNhMJaNg+iNfFBeCbiVR3hF+smVFFhe6cpi/WXV6w9023WcMVgxrMky/ncy+s2Hw312xDDkTRYo5df7FF160/JK9DtuZDvOO17FZTdjH2Fc5byF1sXe3B/lPfg==;APMs9t4V8AvV+2hqkgiGzQ=="
+secured: "Bztuu3ky+O52GRyWaVzuHGxce6oNue4/0Db7ezpmHHNQNxLXkIVE4CyA3Fd44BIHKVCB5UNcvK3iN57tNOaiklwo+XD0HuyWxl27LJv7CR0yT9KO1Yqbw2LLcZIHpHJPEBtqc5+I1C1FTgm98SS3v6G/zK+DfrPSJE4qzd3p1bn2JurncO/2tBNlSQF+uArkcvOC+qpU/YNP6VXGGYfCsouDpC6d0Krlc3NDg90NWWvy7I4hO/4iVZRRIu4RcX76AsKzP/oQP8HFME3ID9xKQ7dIlpT9lKfFy9unvkcdNut+PsREw9eJEejgwfELmypoJoV5yabkz0F1YA3A/1FGmjj4cwGCjbSI0nPBCUCFGcg=;kV3t/CYCiVyCw8LuanKAmA=="
 ---
 

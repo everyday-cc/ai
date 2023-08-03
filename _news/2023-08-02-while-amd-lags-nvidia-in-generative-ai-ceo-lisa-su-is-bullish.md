@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Why the AI World is Looking Up to NVIDIA"
+    excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."
+    publishedDateTime: 2023-08-03T07:06:00Z
+    webUrl: "https://analyticsindiamag.com/why-the-ai-world-is-looking-up-to-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/nvidia-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AMD may take advantage of Nvidia shortfalls with AI hardware"
     excerpt: "AMD plans to release its MI300 chip this calendar year, which should provide competition against Nvidia's H100 GPU. Because of the huge demand for AI"
     publishedDateTime: 2023-08-02T11:04:00Z

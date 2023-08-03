@@ -53,20 +53,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial intelligence could aid treatment of mental health issues"
-    excerpt: "Knowing ahead of time that a patient may be at risk of harm can help us develop intervention strategies ... and adjustments to their care plan,' says Waypoint official"
-    publishedDateTime: 2023-07-29T14:16:00Z
-    webUrl: "https://www.orilliamatters.com/local-news/artificial-intelligence-could-aid-treatment-of-mental-health-issues-7320010"
-    type: article
-    provider:
-      name: orilliamatters
-      domain: orilliamatters.com
-    quality: 54
-    images:
-      - url: "https://www.vmcdn.ca/f/files/midlandtoday/images/people/20230724andreawaddellsupplied.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "7 AI Penny Stocks that Could Hit $5 Soon"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The era of artificial intelligence is upon us. By 2030, AI is expected to"
     publishedDateTime: 2023-07-30T18:45:00Z

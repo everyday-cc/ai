@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/education/mbzuai-launches-dedicate
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/education/mbzuai-launches-dedicated-robotics-and-computer-science-graduate-programmes-xz1n0vo5?amp=1"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15856,msid-102284662/aws-accel.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Abu Dhabi’s MBZUAI launches new robotics and computer science departments"
+    excerpt: "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,"
+    publishedDateTime: 2023-08-03T07:42:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 70
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/08/03/Mohamed-bin-Zayed-University-of-Artificial-Intelligence-MBZUAI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Mbzuai Launches Dedicated Robotics And Computer Science Graduate Programs To Meet Surging Global Market Demand"
     excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four as"
