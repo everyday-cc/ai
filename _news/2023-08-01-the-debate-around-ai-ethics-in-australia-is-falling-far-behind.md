@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/what-ethics-look-like-post-ai
 webUrl: "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/a0e5854ed24c8f131239f83e03b611f6b888eb32/0_0_2112_1052/master/2112.jpg?width=620&quality=85&auto=format&fit=max&s=0d6b1b3ca45a934fd0015f86b92581e8"
         width: 620
         height: 309
-        isCached: true
-  - title: "Australians I talk to are optimistic about the voice – even in the face of fear and misinformation"
-    excerpt: "It is true that our task is not easy, but I am confident that we can win the referendum for an Indigenous voice to parliament"
-    publishedDateTime: 2023-07-29T19:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/30/indigenous-voice-to-parliament-yes-campaign-no-campaign-thomas-mayo"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/30/indigenous-voice-to-parliament-yes-campaign-no-campaign-thomas-mayo"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/30/indigenous-voice-to-parliament-yes-campaign-no-campaign-thomas-mayo"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 30
-    images:
-      - url: "https://i.guim.co.uk/img/media/091377188912f2b0933881990ce7efd08d8d9944/0_0_4244_2829/master/4244.jpg?width=620&quality=85&auto=format&fit=max&s=525306b1b56db1972ea88a5def94ede2"
-        width: 620
-        height: 413
         isCached: true
   - title: "Business leaders back Australia's Indigenous Voice"
     excerpt: "Australia biggest companies have thrown their support behind the Indigenous Voice to Parliament The Business Council of Australia"

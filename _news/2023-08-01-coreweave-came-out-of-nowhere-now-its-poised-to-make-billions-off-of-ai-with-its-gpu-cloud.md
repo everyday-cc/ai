@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/coreweave-came-out-of-nowhere-now-its-p
 webUrl: "https://venturebeat.com/ai/coreweave-came-out-of-nowhere-now-its-poised-to-make-billions-off-of-ai-with-its-gpu-cloud/"
 type: article
 quality: 72
-heat: 74
+heat: 77
 published: true
 
 provider:

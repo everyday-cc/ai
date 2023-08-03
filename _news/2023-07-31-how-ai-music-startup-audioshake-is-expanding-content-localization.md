@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-musi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet AudioCraft: Meta’s new generative AI tool for audio and music"
+    excerpt: "Meta has unveiled a new generative artificial intelligence tool to generate music from text prompts and announced its open-source availability for research purposes. The new tool called AudioCraft consists of three models: MusicGen, AudioGen and EnCodec."
+    publishedDateTime: 2023-08-03T10:18:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/meet-audiocraft-metas-new-generative-ai-tool-for-audio-and-music/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 39
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/05/andrea-de-santis-zwd435-ewb4-unsplash-1-e1684150423238.jpg"
+        width: 2764
+        height: 1555
+        isCached: true
   - title: "Meta expands its AI music experiments with AudioCraft"
     excerpt: "Meta released MusicGen, a musical AI model that could use text prompts to create 12-second samples. It turns out this was just the start of the tech giant’s a"
     publishedDateTime: 2023-08-03T09:15:00Z

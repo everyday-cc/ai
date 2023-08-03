@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Meet AudioCraft: Meta’s new generative AI tool for audio and music"
+    excerpt: "Meta has unveiled a new generative artificial intelligence tool to generate music from text prompts and announced its open-source availability for research purposes. The new tool called AudioCraft consists of three models: MusicGen, AudioGen and EnCodec."
+    publishedDateTime: 2023-08-03T10:18:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/meet-audiocraft-metas-new-generative-ai-tool-for-audio-and-music/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 39
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/05/andrea-de-santis-zwd435-ewb4-unsplash-1-e1684150423238.jpg"
+        width: 2764
+        height: 1555
+        isCached: true
   - title: "Meta Unveils AudioCraft, A New Generative AI for Audio and Music"
     excerpt: "Meta has just unveiled 'AudioCraft', a new family of generative Al models built for generating high-quality, realistic audio & music from text."
     publishedDateTime: 2023-08-03T04:24:00Z
@@ -56,6 +70,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4rZrDC1ofib7K/dXoRGDqY6x/XgZGtX68pjBWiY98GrXMOATC+A+9lQG3Y1O9vBTUw6OUnrTfWvxjw1XICvoFl4Fm/j6xR+ilKtsSz03huaIWolII4WrWZuEVmRD5OvPisbFd+dtZX8FabO1jtpJUeAYoswkRsxEkSNMaeY6Tuh/0VncKCPFpicF9CJB2Qlf39ztsjKPL3/HCJQXGKcBHo4aMjZSh3iRkJXnNP65FvmVDJeAKCpvmlT8k5o4ReQxoAtC+k4CPX2uprNiICaEI30ntKsvQ2xMPSzJW9yQhx/k5PrR1vpgW27kSMoA1yOPjSb0HcGdbBoyWXMLnxj7O5/EzyO8uYc56X/fYB5EZPI=;cuHNMVENECIbKLAc0KvDUA=="
+secured: "rGyNa8Gu2+8sBI3EQVCV1JsYpwUhrPrcULyY0XVbIEk8lFi0+hSFZRBz9tHTZHC9uHRNKBXSYMkIuIoIvV9eX9FFYVzoGX4y4xpuk2rKDDUnr8LoZphywNXy15AJwd4G5jidzukn3VZftXcYbVrgLg2Qlm1/fmoZBhCjcIwhtJ7jH2weXvxfA2Pss2J3DvYMBGKTGSV1XOWaOHGDwS/ImH2f56kbD1QX1P7H43gl9ra0qfa6SdmeNKIlWOucbPArpXx3ORtVajUDZ6iFISWXb+7Pfc/bOTDp+m/kHnbE6Ek8Ost8gOJjwQLhcEil9+nYK4RbyjMCUDX0fjkWP53wj7Q93VJXpGIbTlS6xz2VFn4MTmkw5c24W+kK37VPivlWuQSYpExm+5AodPrx+wm+rAIOcVDvMtTSfTH33+214O4kXwYVdeTeaQKVzaycTMXHkHy1FvfHGv3y8KE5DMm0YGlIJOWZouFHkCZS0QAkCG32+4BmzN9TmWHJlQ0jLWbvhjXMm8gT4Dpi2nI2Yf7mPg==;czmCSrarTHkuPYgIKNG0fA=="
 ---
 

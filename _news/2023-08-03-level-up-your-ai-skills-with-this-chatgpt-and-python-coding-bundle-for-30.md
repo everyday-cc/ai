@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-wit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
 type: article
 quality: 85
-heat: 145
+heat: 147
 published: true
 
 provider:
@@ -110,6 +110,6 @@ related:
       domain: duke.edu
     quality: 19
 
-secured: "MVvIGAT578IXS+1tak4d0pSrlb7Z4CWiTxfdl/oeHJHahU5jnW2NGouleoneX6DtCboRKcMc5D8dL6XO9+FTHtV0lKuPE98MGc02h1LOuWRJ6EO5Ka53tISgFoOo8Es1sIGaaO9SOEyHP2MnCDW55OApJJDTTGXJ6BUpQe72p18g8/u6i8pfQvYxrRqTlAavQHNPo/3MVpArIg4U41Ua1Z5YU42nEKV7GG86Ms9MPunFbK9Z5QMnE0wg2owjdNdvLkF1TPp0zk8hxiQolLzdUr1KSmYNkcBJ73cDglH9T6bH3ewMyBym0433EUqUOCOAJZM+vlmcATbsa43BlbBMVrqD8IusbspqZObeirwTTg4=;rv5KCzDBgVN8EK7pGf/p8g=="
+secured: "GuDbX2cOZwnUDinXxZSycmSHq8t61i7vN5+un8CwQxE/e4pQ1v9f99yTuXh9GX1ghpHXVr+ajEb4uaCuce1aX2KxkyU40TM531tAmZTPizNV8y87BPp935ADe2eNtiLn1QpsfkZqIx3erNT05r09MqTl2b9Y2u4XY9/uLnmmhJ81M1ISU7NXwco3muIz9F9IcD5Za3vNkKctl7isslIsb1RyCRX1CBzLgBeh6iGa8sR4VZAUZDkOvYNxebTi/kPmdWYS4ST/alqexIyIyV3Fx8HHrvBzqiaG+Uo1PK+jBsEBxaEdf2r051hVbRn2BFNIzDCuhoHfLATbZakb31TLqRL3IwTe7G0+trdOFOAHgTn5ADOBcAs0q0tq6gzuqH8oyqnT3f3LTt5GaA+Dx2tCbdZIZY6h98u2CjXH82Re9DQIof0o4T8FYYf/zE4xn2ePW9e2bOQOpRF5m5LXrsdNvDsKDKb131OtiMP82JaRaOINsPAqDSK/MpdLMgqPY8Bqnv216d3wxV/KCDRz36d3MQ==;JuKZqn+q3tHQpwlIeY9BPQ=="
 ---
 

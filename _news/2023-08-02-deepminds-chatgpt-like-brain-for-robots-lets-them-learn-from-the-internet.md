@@ -83,20 +83,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "Google's New AI Model Controls Robots"
-    excerpt: "Forget AI that can draw pictures, Google’s latest AI model can control a robot. On Friday, Google introduced Robotics Transformer 2, or RT2 a vision-language-action (VLA) model that can take text and images and output them into robotic actions."
-    publishedDateTime: 2023-07-29T17:37:00Z
-    webUrl: "https://www.pcmag.com/news/googles-new-ai-model-controls-robots"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00remt9EBrpPM9xQCL6Q1ee-1.fit_lim.size_1200x630.v1690652217.png"
-        width: 957
-        height: 537
-        isCached: true
   - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
     excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."
     publishedDateTime: 2023-07-31T16:21:00Z

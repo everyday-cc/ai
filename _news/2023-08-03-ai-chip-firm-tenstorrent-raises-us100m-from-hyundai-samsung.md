@@ -81,7 +81,7 @@ related:
     provider:
       name: The Korea Herald
       domain: koreaherald.com
-    quality: 74
+    quality: 76
     images:
       - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F03%2F20230803000531_0.jpg"
         width: 630
@@ -119,6 +119,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI chip developer gets $100 million from Samsung and Hyundai"
+    excerpt: "The investments come as the AI chip market is currently dominated by Nvidia, who has the most powerful chips available to developers, and companies like Tenstorrent are seeking to take a share."
+    publishedDateTime: 2023-08-03T10:54:00Z
+    webUrl: "https://cointelegraph.com/news/ai-chip-developer-gets-100-million-from-samsung-and-hyundai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvZWI0NTZkZmQtNjJmMi00YWMzLWFiYjUtODdlODgwNzI2Y2Q2LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung"
     excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
     publishedDateTime: 2023-08-02T23:42:00Z
@@ -146,6 +160,31 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-102370050,imgsize-152950,width-1200,height=765,overlay-etauto/auto-technology/ai-chip-firm-tenstorrent-raises-usd-100-mln-from-hyundai-samsung.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "AI chip maker Tenstorrent raises $100 million from Hyundai and Samsung"
+    excerpt: "Tenstorrent closes $100M up-round led by Hyundai Motor Group and Samsung Catalyst Fund to accelerate AI chip and ML software development. Funding will help the company design and develop AI chiplets and strengthen Hyundai Motor Group's capabilities in AI tech."
+    publishedDateTime: 2023-08-03T10:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+  - title: "Hyundai takes stake in AI chip maker"
+    excerpt: "Hyundai Motor Group (HMG) said it was investing US$50m in Canadian artificial intelligence (AI) semiconductor company Tenstorrent to increase integration of AI into future Hyundai, Kia and Genesis models and in air mobility (AAM) vehicles and robotics."
+    publishedDateTime: 2023-08-03T10:06:00Z
+    webUrl: "https://www.just-auto.com/news/hyundai-takes-stake-in-ai-chip-maker/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/08/HyundaiTenstorrent.png"
+        width: 1118
+        height: 743
         isCached: true
   - title: "S. Korea's Hyundai Motor to invest in AI chip startup"
     excerpt: "South Korea Hyundai Motor Group said Thursday that it will make a strategic investment in Tenstorrent an artificial intelligence AI"
@@ -177,6 +216,20 @@ related:
         width: 708
         height: 416
         isCached: true
+  - title: "AI and RISC-V chip company Tenstorrent raises $100m from Hyundai, Kia, and Samsung"
+    excerpt: "AI chip company Tenstorrent has raised $100 million from investors including Hyundai Motor Group, Kia, and a Samsung investment fund."
+    publishedDateTime: 2023-08-03T10:31:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-and-risc-v-chip-company-tenstorrent-raises-100m-from-hyundai-kia-and-samsung/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 48
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/tenstorrent.2e16d0ba.fill-1200x630.png"
+        width: 807
+        height: 425
+        isCached: true
   - title: "AI chip firm raises US$100mil from Hyundai, Samsung"
     excerpt: "TORONTO: Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised US$100 million from Hyundai Motor Group and a Samsung investment fund, among others."
     publishedDateTime: 2023-08-03T05:13:00Z
@@ -185,6 +238,15 @@ related:
     provider:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
+    quality: 34
+  - title: "AI chip firm Tenstorrent raises US$100 million from Hyundai, Samsung"
+    excerpt: "TENSTORRENT, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence (AI) chips, said on Wednesday (Aug 2) it had raised US$100 million from Hyundai Motor Group and a Samsung investment fund,"
+    publishedDateTime: 2023-08-03T11:17:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-chip-firm-tenstorrent-raises-us100-million-hyundai-samsung"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 34
 
 secured: "852bqK1DHEIOpMqOWYgA0+kOsMvI+ehLlhhKQdf0fKvFRG/TCMl5XeryzqNqwNOT5byOE1BgbHPfOJCROCqmo4lFjDilqHNKbVLbyxv32mkuy/I30S25Ia6nreF2hFKR22uIH6oMTTnCQo+phWeyPoSSaGfOgbtvGcBSa5iLwNXJ6Jzj8JphHUS1Awk11Bs9EQJwtmku6MufG6ks7D/xXvG9ik3eo65l9u8RiQ3RH4ZFKtVg7sBI9WN4Ex74wN8at6sEQTCuQcECtbQBj+J6SM1CF09lAOcsrTv6Vz79QxtTjMd95nwzcBnNgutff5RwQHeYI705SAhI8EC/Y4rrjoKECw6QFarSgdNCu48EOsA=;2gncKPOiEy88LFOwe/nDJw=="

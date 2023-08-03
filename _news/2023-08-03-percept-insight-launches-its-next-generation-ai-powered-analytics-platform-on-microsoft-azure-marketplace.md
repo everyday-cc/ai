@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft, Duke Health partner on AI efforts, create innovation lab"
+    excerpt: "Duke Health is embarking on a five-year, innovative partnership with Microsoft aimed at responsibly and ethically harnessing the potential of generative artificial intelligence (AI) and cloud technology to redefine the health care landscape."
+    publishedDateTime: 2023-08-03T10:28:00Z
+    webUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/"
+    ampWebUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 74
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/03/arseny-togulev-MECKPoKJYjM-unsplash-e1679482039960.jpg"
+        width: 7753
+        height: 4353
+        isCached: true
   - title: "AWS, Google and Microsoft are in an AI arms race. Banks are watching."
     excerpt: "Cloud giants are making major investments in generative AI and large language models. Their financial services clients are mostly in test-and-learn mode."
     publishedDateTime: 2023-07-31T01:01:00Z
@@ -100,20 +116,6 @@ related:
       - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280"
         width: 974
         height: 648
-        isCached: true
-  - title: "Microsoft Introduces Azure Deployment Stacks in Public Preview"
-    excerpt: "While using ChatGPT through a web interface is one thing, creating your own autonomous AI tool that interfaces with ChatGPT via ... Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection ..."
-    publishedDateTime: 2023-07-29T17:47:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/azure-deployment-stacks-preview/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2023/07/azure-deployment-stacks-preview/en/headerimage/generatedHeaderImage-1690105019398.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Leidos and Microsoft partner for public sector AI transformation"
     excerpt: "Leidos and Microsoft have formed a strategic collaboration to expedite the implementation of artificial intelligence (AI) solutions for the public sector. The"
@@ -290,6 +292,6 @@ related:
       domain: govconwire.com
     quality: 28
 
-secured: "oHxX424nGW755cOji9XH/fXbcZ3V49FjnXhP5gBKwfpRUSGDYsidV0gFtz3XV8bVQUCxHfbD98p++ceruOKOzTvOGlvMZedwK+lFUOK8Cmr1ftOacRfcbjuwa54pAhWoyHGKzEIa+yn2QVl9e/9pITFhCGXG3gvSu8HBLMI6rM0Q99K5oevXcFb57NijeGEZ80LBfCRA8mxWeE3bJpwvWQuz4kiUbDwdSUwYzAINnZ59/zgzVe0f4GVM8yiLLk+CrIC9COIIsYRu7V2LVAziaXUxIE/CphGRhPEk+OxU/IkL0FYOtUYTgsD+jeQryUW18uV4td87TIxeV13K5C7f71Ntx7iZ85HzzKjJBfTLIMg=;2ClGkK6vrozEJsFisM9bgw=="
+secured: "McZJ6S++L5WhD7g/XOKiiKS30JmvvXB+3lYaSWj+eHEur0doGAkcPfCAMT0/YUHQkMKDwQD6l0ZJLIGs2iaQs3r2czK+hI+8w71UEryY7mxi/POkTP4TwVkUnYsB4hWkoDKC6TTOkC/pTgDHxv0FifTmOzhKUwX7NNY4J2KDxfKMOlxKFJnV4+9NGe9vP102qqH3MF00NEwcr6q2J24hyb6YxJVBBA1hF05iMQQEgFUYMs0wsngPAUqU3z/YVC5G6ldHxIoNk8Wv05FkkhuAslOgvXts/kqdH5zJ8SoPLI7bed48yBxOkgY1TIrhiI6NIlexu3+LXWNZ9xabBmGQmrkTSFEYPdvNuNQc4hNYRtV0g2xOSnMApU4fVCUznnW1zHt3lKDccFmz39kQ+7CbtP//u6Y56EYvtFfEvbY8YQR4wmedizcAYxKlFXS88DEv4xdaWs+k36lqTMJNIkKTkyVsLZmiFSNOc5HylRmDU3l08ah+1/HlCBiN/OuFUTZMiEpcCihxRvwe1q/YXpSOHA==;pge9mSFESAsySG+zj5a4HA=="
 ---
 

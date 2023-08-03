@@ -54,6 +54,17 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
+    excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
+    publishedDateTime: 2023-08-03T10:12:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
   - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
     excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
     publishedDateTime: 2023-08-02T04:28:00Z

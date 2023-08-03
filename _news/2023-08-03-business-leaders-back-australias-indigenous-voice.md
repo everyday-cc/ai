@@ -71,22 +71,6 @@ related:
         width: 620
         height: 309
         isCached: true
-  - title: "Australians I talk to are optimistic about the voice – even in the face of fear and misinformation"
-    excerpt: "It is true that our task is not easy, but I am confident that we can win the referendum for an Indigenous voice to parliament"
-    publishedDateTime: 2023-07-29T19:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/30/indigenous-voice-to-parliament-yes-campaign-no-campaign-thomas-mayo"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/30/indigenous-voice-to-parliament-yes-campaign-no-campaign-thomas-mayo"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/30/indigenous-voice-to-parliament-yes-campaign-no-campaign-thomas-mayo"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 30
-    images:
-      - url: "https://i.guim.co.uk/img/media/091377188912f2b0933881990ce7efd08d8d9944/0_0_4244_2829/master/4244.jpg?width=620&quality=85&auto=format&fit=max&s=525306b1b56db1972ea88a5def94ede2"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "oottBDzphi3pliaRDB7DGvv6VZHtG1VPYVQu4v+lpM+d4vRSD8Sdd0wSv9tcAHxL7dsSlMkQiuIkIt5Mkop6zYwxh/YBGQ9F+uxrSKrRwQkuLoFcTSdqJKLxbxq8r0/ycY3bPCVTx+0GCjhdLhGjWYmuDNXeed5MPBQ27XT8ywleUwPJVF0+pBTF8k7lHkkwZz502k7QDU0hlMcF4bWJDA1MuzVGd+EBiHZYh0Vdnj/toJzQ4SC+j4FR+vtv5TA2Kelcah8PeH7oT3xmt1NEjhMk1Gg/gFhPkZ3e41HdZdD8aFvRlx65Tkr1T8xdDDn97Yybe76HOh2KarKYbZXswi3XC8RaTYjah7uxyVO0Zfo=;zGydBfJJK+VjU5pMSt/aOQ=="
 ---

@@ -26,17 +26,6 @@ images:
     height: 678
     isCached: true
 
-related:
-  - title: "Probation sentence 'appropriate' in fatal Tempe self-driving Uber collision: MCAO"
-    excerpt: "Maricopa County Attorney Rachel Mitchell said the three-year probation sentence imposed on the backup Uber driver of a self-driving vehicle that struck and killed a woman in Tempe was"
-    publishedDateTime: 2023-07-29T18:59:00Z
-    webUrl: "https://www.yourvalley.net/stories/probation-sentence-appropriate-in-fatal-tempe-self-driving-uber-collision-mcao,414435"
-    type: article
-    provider:
-      name: Sun City West Independent
-      domain: yourvalley.net
-    quality: 0
-
 secured: "kUs0WkAs7rMH5EvkJSz4pPISOSVKE7rDUs+tpMOOswoReF+F/nhDX5QTY1e8VttlJdtfxiNo+Vx/OzCoReCv2dpqw+wOoMQvJpV6MgS3t/ck3mc/2H+s5X8xlfWp7NVPadxIJoxEnhEecddmqi8IET+yL0NX99WM7VnTkU0sz7yGNKOvKJzGpX+NplZNntT9W0JCBSbJ9FBcxYFkP/K5T7eypoFRz7VZFj7NjDER6YJE5gb+EWWC6U5YijGnqJ1ZRpgW7jqsmVAWh7C9ib3rWHmF70DkEqVrODAso9YsAuQa2cRzjsrOtiSlTZYsjVZLYmd9cia7NmM6guZV315P1k4DuQ2rKcO1BKIVHeIVRic=;l/NwyTrr+45m8sUxplUmaA=="
 ---
 

@@ -2,19 +2,23 @@
 category: news
 title: "Warning over using face recognition to catch shoplifters"
 excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
-publishedDateTime: 2023-08-01T12:45:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-politics-66372601"
-webUrl: "https://www.bbc.co.uk/news/uk-politics-66372601"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-politics-66372601.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-politics-66372601.amp"
+publishedDateTime: 2023-08-01T16:12:00Z
+originalUrl: "https://www.bbc.com/news/uk-politics-66372601"
+webUrl: "https://www.bbc.com/news/uk-politics-66372601"
+ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -173,6 +177,6 @@ related:
       domain: biometricupdate.com
     quality: 0
 
-secured: "241H7s3TEqAvYxCTuM0+sQcV76yOg6lyC2VPm2tB/v11V9PL+y5WycyaD7PFAE+B3JcakUj5lmqAJ4n/pMBR6OyL2DycouklPFGonx2W+iIo9IzeHWvGV7J2xO34RfnD5Jl2XmHUC747H9hkQapya7zO6NAWnPDcpg4MOFTQrw90FpKzKEW30GPnHd6JrHX8PkaslwPaJBdIs32Y1H6xZRAlj/WTCQ0qfpKoOXkesqRVTJU/bXXc8gpP0sxTNQinUSg7TPqIOBEpEzaPmPMMJgr8ZKf8Nq7eI20s77S7UaP3LsxTUx9bBZCClaguR8NwlkwWMPnTsgsr89yArdr9lBMDbAxFyBYCUCpM02kJgmCOLa4GDz2xU8riV4CKl/egOrztZp6pTGmEBiTwYk77rXQ6t/5nKkm/myWr44HIuY3bllXpJujcOYpRU+1Xg9elGV7wVVJ7LrAb+ivixvnIgUrHhrQrXdVOHgrCNFcWzF3rrwjoySWX3htRafLg2iNlEd4x9UCQaCM9c5lzaSSEtg==;Zp7gN+JGySfl5SrvvLhmbg=="
+secured: "4jftzpzeBou7qxPagNsZZo72+gG8H5sjdJ1GYEKglst0a5aBoOPqpGk1NHnRNQ8JmJltN0uynZ/u/ZnfhoR8sF9hlTgm+LlFiBfwtGUwGExoCnTLaM0k8OnvknHTog25Wt/O3eUzBhXDlNWfMOU/Ubdyz1NhNWghoLSGELtJZKMxt2khQQ+Oxm1/9te8Ysx8KEvL8LmkWdM0XPNb+D7Puw7zQBsnoEPm7CS2G91nw9Yzj1Zw4X365lMoC2f9xT+788vi7PoLXoIpdGuHMIu2Oi8c6pX75gX5oXNmE7PGFixm26iWhKi1c8BvZsHRmAH1Nz4C5I9OsXdAJ8FH3br9kQ6q/2nnizO9VO1cyfr7nTw=;f2+6atmyI7pyR4gNw/pxoA=="
 ---
 

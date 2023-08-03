@@ -97,20 +97,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "Google's New AI Model Controls Robots"
-    excerpt: "Forget AI that can draw pictures, Google’s latest AI model can control a robot. On Friday, Google introduced Robotics Transformer 2, or RT2 a vision-language-action (VLA) model that can take text and images and output them into robotic actions."
-    publishedDateTime: 2023-07-29T17:37:00Z
-    webUrl: "https://www.pcmag.com/news/googles-new-ai-model-controls-robots"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00remt9EBrpPM9xQCL6Q1ee-1.fit_lim.size_1200x630.v1690652217.png"
-        width: 957
-        height: 537
-        isCached: true
 
 secured: "1HWDIDdJd1m91lH05rLUMAdfTTVjDE2W3Rjgn51iQi5Khk0dJPULCkfzqBBGMFtNy5fWW8lKcfFngOPaL1UyoGUT/8W2GFs5wQh+X9vN05UsbXAr/ABGDndr5oEzK0FIXs2o0MZ4B6RwncyvDE6Fv0IIKoci441tZ7hLl0OEDqufQ31jfEOCQyjlsNWX8UBzxvBSvyd2hRNBgmoboqtWBOBTjyd8HcqJnvMMJNxCsQNbwhNJyarLR/C626dU0zKqoVNe//TB0KD4XIQVeMU/10pnyUrsha0oKndTGXMgl9m6NtoLr/12zzz0kcq18+s+xDBRVN0FPzk4YjS1EJNyXdLFgOsuorkeIQF0O/nM2r76MqUt0zdCK7A3AvCt9y7uMFwuMi7ZbcUxSOiHylUvElKyV83rtd3Be0NAwrrKFPB+Sv6wzLDIozPCxLXO3GI0hpbqrVmbxDam9c1YafdjNyExrif4rHFhj0+oHN22qlPjfBJ9JMTzqAyD6sr29+K0mLvbYSVo1X7TUaFIXcpvzA==;UMK11j5YwXxfF/uxisqBnQ=="
 ---

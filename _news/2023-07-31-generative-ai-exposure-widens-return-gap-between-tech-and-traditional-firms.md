@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-ex
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 798
     isCached: true
+
+related:
+  - title: "Generative AI needs humans in the loop for widespread adoption"
+    excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
+    publishedDateTime: 2023-08-03T05:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Generative-AI-needs-humans-in-the-loop-for-widespread-adoption"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "lvmj/DVQRQ+TB6wIXrKSasAKnf44tP2hs/2V2e9OYEs7wAOk4al1wDSnQopKe7VPIXDexIermYzLzocCdNGc2RMkHqqWRZODvNz7s4PkXWDvKlWbBLmfBHNxAgyVV7su+hEsB/sl94c/uLRoudGGPggitl3ssYUxSYABf6mf5c8MDunAI1JkVQBM6GX2Mq84ykUfsA4kCxRuBN6h+OhfTLO8X1dOt+Dl4O79TZ3XHG3SqalIJuF57/noBvFEz4s/MQg0O9kH0r29JWav5qLVsLrqgbM3IxBSCbwrpCVLOwNH06u8fOD/dlLGKdATw5tWMTOSFBoCrKwOikmMvbyc4VdXS4/30BPAQwduLJnIW5ynvNSmzxzIuq48w2A6o1JtMlOS9OfIaKO5cJY4TR/MgZMVgFCtzg6xKSps+a/We1e0j9IltiFXFHUtg0y5ooPi3bbbDrQwlbq18D1iEQNNkvZX8RRYWXfkXCI7bZWHlukaOHt80XrZEW90ursGtURn2V1LeFLj7puV+cmfY+TgvQ==;jdan18s27oOss+0iDAaChw=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "VSBLTY'S AI TECHNOLOGY PROTECTS ONE OF AMERICA'S LARGEST SYNAGOGUES"
+    excerpt: "Intelligent Perimeter Security Shield Deployed Around the SynagoguePHILADELPHIA, Aug. 3, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies Corp."
+    publishedDateTime: 2023-08-03T11:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg"
+        width: 400
+        height: 283
+        isCached: true
   - title: "Here are the 9 smartest ways to invest in artificial intelligence right now, according to Bank of America, Morgan Stanley, and UBS"
     excerpt: "Artificial intelligence stocks have more upside, according to Bank of America, Morgan Stanley, and UBS. Here's how they recommend investing in AI now."
     publishedDateTime: 2023-08-02T09:30:00Z

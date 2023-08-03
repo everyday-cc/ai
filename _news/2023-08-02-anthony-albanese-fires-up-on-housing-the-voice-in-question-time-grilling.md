@@ -62,6 +62,17 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
+    excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
+    publishedDateTime: 2023-08-03T10:12:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
 
 secured: "5p2WQQ4k7JaMlo9MPtLQL9J8qp1STqFxo+YHQgxuyC0hEukESvMzbXoPdtvMNm/+cUXMdBNkc2/KvA2uvhNdcqnGdIAuGYYa83EO4RqrpCVRXt/2ryL4FeekffGDANXVPMnpB3dWTNXYZC4aJNEqrNntVN+WS3tnZrqKudu2AKy6P2WP/NIu8/x/Dv3nl7vckBdFzfCKJybBCdisLjNgJjq3cpMODsP3WeUFE0CsTrX0luKQShlFll86coUkbjpxMepMkuBntIx3Rt9/ABx6Vc321KT/AOmRmx4R/Zn1PzlD4sxdbSdzgm251GRJPnuYjUBED6kT9r255us+R7lxPdonUzR+TAVJCXpJcY7P/JdmFhzePxazRoyjbaLjLVdv+8aBVoFb4ZqW5ix3Hqi5shwHFdySokBv92FSZYOG+YjxI8uHuS4Q/74GjszrmZ0Ri7VTOHDGYo2ia58dcJEDQrmqsptGfVEEnKmRTMDRt8gESKIQOyassMZUWFLo5wTLHnvlC8A5vT6TLlhITeziig==;ihd+Z+CMGN+jfygx+uHXnQ=="
 ---
