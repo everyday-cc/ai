@@ -155,8 +155,8 @@ related:
         isCached: true
   - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
     excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
-    publishedDateTime: 2023-08-03T19:01:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859321.htm"
+    publishedDateTime: 2023-08-03T17:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
     type: article
     provider:
       name: TMCnet

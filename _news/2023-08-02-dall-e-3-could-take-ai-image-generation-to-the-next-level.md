@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-reve
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp"
 type: article
 quality: 89
-heat: 131
+heat: 129
 published: true
 
 provider:

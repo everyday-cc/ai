@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-sol
 webUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
 type: article
 quality: 92
-heat: 98
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 686
     isCached: true
 
-secured: "/pAvRMNg6T9McWkl1g9PzoMSL5fl7S242UtEj7Q4Wtg95+3nFkfoD+AT3ayI6OAEnF3ex0UXwwqS6YCiByH1FrNqjMvZGexkvRMZZhgueE4rPi9jAoXr1roCco+64jSKd1BgiFuqMIGimQYpiJ66NPBSu9fcLxvAQ+P9sfLD6AE94eg6RYnnRC5oOAaNo1egw86wLiHnvSHC5gyUDX0mQW9+0JW3Ca+qisMC72iFOsHnU8H/rqEaCUqSix+sYmo6Si1evsCxl8Ma0HdjY9OnNQ3D/U5s3LbQFOyG0sCLU4keUchg9l46TNZNRuzg8294SEzoahv3OpkFa8H27o+rc1dWjKEXDxIwGOZ4HRMKjWU=;UPV0174Msstfyz1Bul2ATw=="
+secured: "qXA/CM1mpuu8VHcu2mll0vb9QOx3h2jJ9Q9nzefs0KHsHWtRd9OnjCgk+XuTlcis5qUvkbnGeZBF4b3tICp+CNWDOjiUBt3glnoupcCactu/bdvEfHeOkAzaK0py8hd8NOLCQAzeMfiOdXcD/axSSu6lehPE709ICUShBojn2Q1W01aqLREfGfVFP1xPiGNEgbCsba7mm/NnLllWQ9zywkDwPMp0gCvz5jSlrs/QqM7GndVxMcCLZMyYn1sLn7bRFPrQTL+HDcptP+CmVxMz9KcvvxGmAA3uYyUHh7cYIW+Exmj4AdBBWCJ0cFWLYM23HLEoCN4YKytdtPYuaMAr/Lr8vBoE5Z8NNsa1Dh4WsbU=;xgjLCXslx8VZvThAByFCMw=="
 ---
 

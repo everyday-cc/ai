@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Cybersecurity Startup Uses AI To Counter Emerging Threats"
+    excerpt: "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology."
+    publishedDateTime: 2023-08-04T00:42:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 549
+        isCached: true
   - title: "Jericho Security uses AI to fight AI in new frontier of cybersecurity"
     excerpt: "Jericho Security announced it has raised $3 million in pre-seed funding to build solutions using machine learning capabilities to \"fight AI with AI.\""
     publishedDateTime: 2023-08-03T16:00:00Z
@@ -39,15 +55,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Tromzo secures $8M to lead the charge in AI-powered cloud security solutions"
-    excerpt: "Tromzo, a cybersecurity startup, today announced an additional $8 million in an oversubscribed seed round led by Venture Guides to secure cloud applications."
-    publishedDateTime: 2023-08-03T19:49:00Z
-    webUrl: "https://venturebeat.com/ai/tromzo-secures-8m-to-lead-the-charge-in-ai-powered-cloud-security-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
   - title: "Fall offerings at Manchester Community College include AI for Cybersecurity and Computer Science Extended Reality"
     excerpt: "What was once the domain of science fiction novels and Hollywood movies, has quickly developed into a mainstream career path and Manchester Community College has enhanced its offerings to reflect the explosive growth of computer science careers."
     publishedDateTime: 2023-07-31T01:48:00Z

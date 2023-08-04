@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/security/jericho-security-uses-ai-to-fight
 webUrl: "https://venturebeat.com/security/jericho-security-uses-ai-to-fight-ai-in-new-frontier-of-cybersecurity/"
 type: article
 quality: 84
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,15 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Tromzo secures $8M to lead the charge in AI-powered cloud security solutions"
-    excerpt: "Tromzo, a cybersecurity startup, today announced an additional $8 million in an oversubscribed seed round led by Venture Guides to secure cloud applications."
-    publishedDateTime: 2023-08-03T19:49:00Z
-    webUrl: "https://venturebeat.com/ai/tromzo-secures-8m-to-lead-the-charge-in-ai-powered-cloud-security-solutions/"
+  - title: "This Cybersecurity Startup Uses AI To Counter Emerging Threats"
+    excerpt: "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology."
+    publishedDateTime: 2023-08-04T00:42:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 549
+        isCached: true
   - title: "Jericho Security secures $3M to counter AI-powered phishing attacks"
     excerpt: "Jericho assists enterprises in defending against social engineering phishing attacks by leveraging AI to create sophisticated simulations and educational content for employees. In the company’s own words, it “uses AI to fight AI,” acting as a white hat for organizations."
     publishedDateTime: 2023-08-03T16:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-
 webUrl: "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/"
 type: article
 quality: 69
-heat: 91
+heat: 89
 published: true
 
 provider:

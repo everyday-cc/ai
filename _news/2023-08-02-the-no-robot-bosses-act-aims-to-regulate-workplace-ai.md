@@ -7,8 +7,8 @@ originalUrl: "https://www.jdsupra.com/legalnews/the-no-robot-bosses-act-aims-to-
 webUrl: "https://www.jdsupra.com/legalnews/the-no-robot-bosses-act-aims-to-4374708/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: JD Supra
@@ -38,6 +38,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/08/images-16.jpeg"
         width: 739
         height: 415
+        isCached: true
+  - title: "AI companies try to self-regulate"
+    excerpt: "The group has only four members so far: Microsoft, OpenAI, Google and Anthropic — companies building the biggest and most powerful AI platforms. But it could be very important to AI policy: one of its core objectives is to be a conduit between the exploding AI industry and policymakers."
+    publishedDateTime: 2023-08-02T20:56:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/08/02/ai-companies-try-to-self-regulate-00109502"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/89/61/2af5cdf64beba1228a853f5fdf34/https-delivery-gettyimages.com/downloads/1258676664"
+        width: 6018
+        height: 4012
         isCached: true
 
 secured: "KIV/46EalhB7w+OIpPf75Xg24I6AlWVpDPbS9UYZSnYaHfiiT+zxSPj++8k9UxgiN5Gx8XW9YSz8yXrQBDY+aVuqpqpwiR2UlXv9XWkV+TIJZquYikuvO9IR5VMEVQlWwF6ePfGGlLV0CHagbZeV4YrHopDlg09t+WsfW5dO+6FG6H59leoVXbLsi5rFhnoWwp7Zqvh1/rd068ivxSHrimSGQX96ulxUwjKoSodxaC+AQB7ttflJNLtLMmiDLqBiNdF3lBOd0tjuLT8OoGueNFOqToUfaNaP+JwevadPB1hqP2UCEY6o1yL+H8o/uS1jKNAu46CUlqGIxBz7K6UYSiPxNWz5ZK69ys+g0y35Oo8=;nhGMgO99wXhPch2temy/QQ=="

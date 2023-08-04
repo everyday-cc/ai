@@ -154,8 +154,8 @@ related:
         isCached: true
   - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
     excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
-    publishedDateTime: 2023-08-03T19:01:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859321.htm"
+    publishedDateTime: 2023-08-03T17:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
     type: article
     provider:
       name: TMCnet
@@ -217,6 +217,6 @@ related:
       domain: newsobserver.com
     quality: 0
 
-secured: "hF6s4YJnFcTIIS7uj3sNUAYSBZsbsMOV2PVcRw8v7974u3Mo+e50a8xnzmgJF6Emux5u0jn6PwX/VANc7Gt+c1zEYoIDOLL8m9w2YBgNqwjbdOAaNeoClBF7YHiXlPvyDBfGGl5ykpgXLPcYfdGHe4WT9XT46hvjc1jQkje6nBPlaJbgsq2KjOjS8y0XpKwqSVHX3yKd1pxkEYYfuF+Bo+xPHSmbmDnxlXU6mzlQJ/CkmUdd3V2Yv/RsOGTAWIN3hQyiF5bRG7H7+09KkAuPtpCy7CzA0uaGaEfbgAAqWSi7gAhnV1uhhkT9Pur29kxcGSHHAdL1tzy4j5H5QtsShO0rFHTLPal9huCubBMHHw8=;PSlOdQp+mESkpJ3rn8gVCA=="
+secured: "dnJsE+/7aS8xuVzMwZ0dvqU8jzh7xa60nAXnR1WkCCDqUiwq5R5P2Kuvz9cWD9PWVAyi6R7YdJNhdsHsTcE+Mi1fUgW6x6a4oreGdg0FRURrxb2JYEXeEsYmneGBxwS1iTa77SG29gOwttrZg4tFpY5KfiCL35AJvgk650xCpDn0AFcazg7GiK4DwXgqStJdLWiY4YFHwv5+qO5NOof1j56f1f++ju/TNLdT7Pg4shN6JrgoZh4uJqQJSBy8gQf2wAsIjOWhNEoTQ0g0xLDWJ2WtoOqIWRtMZyRITrecl4SNw6jy1TX/BnsGgoPQnrbNWEhndVFx72SsXzaSzxhVUleuvhF8rwVzakayL3+AYX0hd3bWTOwT5fXm2cNn314ZdicW7eR78XvdeX+WnDlL/fMbTZXXbtWrQ6WqKEfn4u1G/VXXSiieZKjvvu9H9pelUuV2PD6OR9TGMW3KSfQQjTMchoVOJPydsIIHZoXqPeR/w9HP5prnwPGdhbnzmnkJjFCLE/z7ipLyWw37zB2SRg==;UlLDzte1zCpWO8tMD2QLlw=="
 ---
 

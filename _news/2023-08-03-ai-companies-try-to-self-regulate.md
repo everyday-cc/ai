@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Outcry Against AI Companies Grows Over Who Controls Internet’s Content"
-    excerpt: "Authors, artists and internet publishers demand compensation for the alleged use of their work to train generative-AI systems sweeping the globe."
-    publishedDateTime: 2023-07-30T08:31:00Z
-    webUrl: "https://www.wsj.com/articles/outcry-against-ai-companies-grows-over-who-controls-internets-content-91d604c9"
+  - title: "The No Robot Bosses Act Aims to Regulate Workplace AI"
+    excerpt: "Like the “No Robot Bosses Act,” the text of the bill is not yet ... continue to consider methods of regulating employment-related automated systems and artificial intelligence more broadly. At the same time, federal regulators and private plaintiffs ..."
+    publishedDateTime: 2023-08-01T23:16:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-no-robot-bosses-act-aims-to-4374708/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
     images:
-      - url: "https://images.wsj.net/im-825914/social"
-        width: 1280
-        height: 640
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.11535_5738.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "10 Jobs That Artificial Intelligence May Replace Soon"
+    excerpt: "With the emergence of artificial intelligence, it has changed the shape of the world. Anyone can't survive without bumping into artificial intelligence. It will reshape the whole world in coming years."
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://www.techjuice.pk/10-jobs-that-artificial-intelligence-may-replace-soon/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 39
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/08/images-16.jpeg"
+        width: 739
+        height: 415
         isCached: true
 
 secured: "KtSzIicWr6jyhAby1ABdroW7HGZ+UuCB9aB7HTzr2mqsvcaTdlbAiBPq+TMezsnN9m5gJhzZRb/ZOzy41HyY5pRG+MfvqVgYNXl0lyvlBhWcl3x1cJFaZfxj+VNbiUicFMdBoYaQ3eYkSSea2Z8m/YOhLh+YWbC0DnyjPT1d8IMxlls1ml28gX9fDy0i2WxYVwJ/c/D/65wcEFaiyejaSJzBep0EpPnxc+0md8kGH4dPxM8YdR6h93db3xfR1xliLk9YoWIQPDxfNm9YD6pQu2Iq8HZdb55coiBZF+z+vhs06zPcHBKvtkfhMQWGFhMqUtuKeIe1CdGYljEzQwET8Qi7tLthh7lK9u5epZ/eSNo=;NFLEwqLsfSILE3gm4OwaXg=="

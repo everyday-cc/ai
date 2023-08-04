@@ -55,6 +55,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "AI Brain Implant Helps Patient Regain Both Feeling and Movement"
+    excerpt: "AI brain implant has enabled a patient to regain both feeling and movement, offering hope for those living with paralysis."
+    publishedDateTime: 2023-08-03T12:33:00Z
+    webUrl: "https://greekreporter.com/2023/08/03/ai-brain-implant-regain-feeling-movement/"
+    type: article
+    provider:
+      name: Greek Reporter
+      domain: greekreporter.com
+    quality: 39
+    images:
+      - url: "https://greekreporter.com/wp-content/uploads/2023/08/a-patient-regained-feeling-and-movement-through-an-ai-brain-implant-credit-nih-image-gallery-flickr-ccbync2.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Brain implants powered by AI help paralyzed man feel and move again"
     excerpt: "While artificial intelligence has the potential to cause societal harm, it's easy to forget that the technology can also do a lot of good. One"
     publishedDateTime: 2023-08-03T15:40:00Z

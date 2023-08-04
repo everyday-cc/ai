@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.indianexpress.com/2023/08/A-view-of-the-IIT-Madras-Logo-1-2-2.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "Japanese construction company Obayashi introduces state-of-the-art facial recognition at Expo 2025 construction site"
-    excerpt: "Japanese construction company Obayashi Corporation has introduced a facial recognition system based on Panasonic Connect's world-clas"
-    publishedDateTime: 2023-07-30T07:31:00Z
-    webUrl: "https://baoxaydung.com.vn/japanese-construction-company-obayashi-introduces-state-of-the-art-facial-recognition-at-expo-2025-construction-site-358171.html"
-    type: article
-    provider:
-      name: baoxaydung
-      domain: baoxaydung.com.vn
-    quality: 16
-    images:
-      - url: "https://baoxaydung.com.vn/stores/news_dataimages/2023/072023/30/14/in_social/image00120230730143033.jpg?randTime=1690704337"
-        width: 600
-        height: 360
         isCached: true
 
 secured: "zshE7G8ZJYjTGMEY0rD7n6IOkFFdWhsqaLV5vV3KIFl8RTAiW8Zk5tyOQJOy9quZTYVnhnDCHwv1jCY1O+AoPdBf0Rr8C9HcQ4Up+F5Eljpwe7xjJk4LW3p6AqCwvdWeFBDJYjJjqCONmA9nPKpHn/r6nbk2KYMNICaNlv3YmV12bdey/D1ipDHmAhCSy4UhMmk7m41A6LwLn60mm5sWaFgTWRo7/oNqON+aIsoDCKclAsIFZ5s9Z0wbXvVyHjwFDEqmpL2Is4VSIBj0UQaGF3nX8zIoG+KpgB9okkMJ/LU4Bu2XDJV9ha2XQGm++gZhQ625JpjTwsZAQKrGfoXWF+2+lpe2G7WfIhBCt8OY1iSiS0twHFhoDg4bnn8ZTqKsSPfWXye8Y4US5Ho+0o7AYj33c2uBQPMsVpoWmegbYSAjKEkkmmAJ7PaAtgt/h+SeDd9LzhHa3vjdjdMyaQm1grziwNexF301qckG3DE5GIjulgxRc02u1Iv2C4prDcr4oeEkquWppinHFTJpUbIESg==;Zkq8d4T5u/7wDJHIMr0yVA=="

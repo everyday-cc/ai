@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-in
 webUrl: "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:
