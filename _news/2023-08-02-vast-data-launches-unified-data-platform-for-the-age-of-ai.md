@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-uni
 webUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Institute for Artificial Intelligence"
+    excerpt: "Atri Rudra has been named the first Katherine Johnson Chair in Artificial Intelligence, which was established by a generous gift from computer science alums D. Sivakumar, PhD ’96, and Uma Mahadevan, PhD ’98. Students placed near the top of an ..."
+    publishedDateTime: 2023-07-31T00:00:00Z
+    webUrl: "https://www.buffalo.edu/ai-data-science.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 39
+    images:
+      - url: "https://www.buffalo.edu/etc/designs/ubcms/clientlibs-main/images/ub-social.png.img.512.auto.png/1615975612658.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Vast Data announces global data infrastructure layer for AI workloads"
     excerpt: "The secret sauce behind the Vast Data Platform is its novel components, which consist of a unified and global datastore, a new kind of semantic database layer and a specialized AI computing engine."
     publishedDateTime: 2023-08-01T16:08:00Z

@@ -104,6 +104,20 @@ related:
         width: 1000
         height: 715
         isCached: true
+  - title: "Ansys launches AnsysGPT virtual assistant developed on Microsoft’s Azure OpenAI service"
+    excerpt: "Simulation solutions provider Ansys has launched a beta release of its new artificial intelligence-powered virtual assistant, AnsysGPT, developed on the Microsoft Azure OpenAI Service. The service will support users of Ansys solutions and is trained to answer questions on physics,"
+    publishedDateTime: 2023-08-04T10:13:00Z
+    webUrl: "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-virtual-assistant-developed-on-microsofts-azure-openai-service"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 61
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4522/Unsplash_ThisisEngineering-RAEng_web-2.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
     excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
     publishedDateTime: 2023-08-03T14:38:00Z
@@ -189,6 +203,20 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4518/AzureOperatorNexusWeb.jpg"
         width: 975
         height: 548
+        isCached: true
+  - title: "Leidos Announces AI Collaboration With Microsoft"
+    excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
+    publishedDateTime: 2023-08-04T10:41:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/leidos-announces-ai-collaboration-with-microsoft/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 54
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/07/artificial-intelligence-4478109_1920.jpg"
+        width: 1920
+        height: 784
         isCached: true
   - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
     excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."

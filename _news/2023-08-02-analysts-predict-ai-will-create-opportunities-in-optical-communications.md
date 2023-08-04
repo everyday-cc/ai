@@ -28,15 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
-  - title: "Gravitational Wave Astronomy in Artificial Intelligence Era: Opportunities, Challenges and Future"
-    excerpt: "The groundbreaking detection of gravitational wave event GW150914 has ushered in a transformative era for multi-messenger astronomy. As the sensitivity of ground-based observatories like LIGO-Virgo-KAGRA is enhanced,"
-    publishedDateTime: 2023-08-03T07:13:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/59097/gravitational-wave-astronomy-in-artificial-intelligence-era-opportunities-challenges-and-future"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 4
 
 secured: "VNFglw844b/tdl1mzzUJyA+PiJU0WYRwxzPVXWBso/ljMtx2Gp+C6yhbWZruyKO14lihr0oQ7TdIezCa9/lU5Yvcfwi/Dxk8JRYpLqyTw7gzYRZ6VHULEV8rwi9ZpmS7gQFjqRIHq17LU9s5OxioFsjBFidCrwNu4nHY/kkqozgKdp7uR1OAAN9mZIT/IOzS0N75MdCEn3BbnF41GGxQV+kaz+bz7gjC1mGrg+6vLbvfffBp3BqGO0/Pot3M8CzvScfL/E2Icx/dMdtd6pXbRefrxRTlAtcZynbgDyQEJbYc3Sw81HvTt3HDOfjfOf+hguV54MSd7Xoyx9Tp5LPsEBE2LEwQzXrAxXVGPBlvDTA=;ipzoEJNfjH/sqvq0LjKhww=="
 ---

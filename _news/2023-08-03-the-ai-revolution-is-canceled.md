@@ -55,6 +55,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How Artificial Intelligence (AI) is revolutionizing image editing"
+    excerpt: "AI is revolutionizing image editing by enhancing quality, efficiency, and creativity. It's making professional editing accessible to all through tools like image upscaling, automating complex tasks, and opening new artistic possibilities. AI blends technology and art, shaping the future of digital imaging."
+    publishedDateTime: 2023-08-04T11:07:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/20-sell-art/how-artificial-intelligence-ai-is-revolutionizing-image-editing/333967"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 54
+    images:
+      - url: "https://www.artmajeur.com/medias/hd/j/e/jean-dubreil/blog/digital-designer.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
     excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
     publishedDateTime: 2023-07-31T11:51:00Z

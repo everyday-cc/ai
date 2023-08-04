@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 549
         isCached: true
-  - title: "Jericho Security secures $3M to counter AI-powered phishing attacks"
-    excerpt: "Jericho assists enterprises in defending against social engineering phishing attacks by leveraging AI to create sophisticated simulations and educational content for employees. In the company’s own words, it “uses AI to fight AI,” acting as a white hat for organizations."
-    publishedDateTime: 2023-08-03T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/08/03/jericho-security-secures-3m-counter-ai-powered-phishing-attacks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/jerichosecurity.png"
-        width: 533
-        height: 316
-        isCached: true
   - title: "Fall offerings at Manchester Community College include AI for Cybersecurity and Computer Science Extended Reality"
     excerpt: "What was once the domain of science fiction novels and Hollywood movies, has quickly developed into a mainstream career path and Manchester Community College has enhanced its offerings to reflect the explosive growth of computer science careers."
     publishedDateTime: 2023-07-31T01:48:00Z

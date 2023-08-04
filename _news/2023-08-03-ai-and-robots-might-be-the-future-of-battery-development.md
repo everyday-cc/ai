@@ -25,63 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "⅓ of Americans see AI and robotics providing future care"
-    excerpt: "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts."
-    publishedDateTime: 2023-07-31T21:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
+  - title: "Researchers highlight ethical issues for developing future AI assistants"
+    excerpt: "Most people use voice assistant technologies like Alexa or Google Assistant for list making and quick weather updates. But imagine if these technologies could do much more—summarize doctor's appointments,"
+    publishedDateTime: 2023-08-01T16:10:00Z
+    webUrl: "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
+      name: techxplore
+      domain: techxplore.com
+    quality: 73
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "VSBLTY'S AI TECHNOLOGY PROTECTS ONE OF AMERICA'S LARGEST SYNAGOGUES"
-    excerpt: "Intelligent Perimeter Security Shield Deployed Around the SynagoguePHILADELPHIA, Aug. 3, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies Corp."
-    publishedDateTime: 2023-08-03T11:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg"
-        width: 400
-        height: 283
-        isCached: true
-  - title: "How you can future-proof your career in the era of AI"
-    excerpt: "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe."
-    publishedDateTime: 2023-07-31T17:26:00Z
-    webUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.html"
-    ampWebUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-future-proof-career-era-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-you-can-future-pro.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-highlight.jpg"
         width: 1280
-        height: 876
-        isCached: true
-  - title: "Here are the 9 smartest ways to invest in artificial intelligence right now, according to Bank of America, Morgan Stanley, and UBS"
-    excerpt: "Artificial intelligence stocks have more upside, according to Bank of America, Morgan Stanley, and UBS. Here's how they recommend investing in AI now."
-    publishedDateTime: 2023-08-02T09:30:00Z
-    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-bofa-morgan-stanley-ubs-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/64c95657048ff200190f443d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 852
         isCached: true
 
 secured: "b3y2WACvVdbEFwQ5XbmBvk4FOcXmZDMLX0H41wHlH6cAMeXkV56yjL8N3Vumipwzmy5bap2W3SE8OXwGK2C1PBU4ko4jbeajoO9gj+mG5p7k1a/YiQ57Nj+TkXflx11FS1fAGs1ac3uZQtuCVPG6roFHEPEeY+IFOlgviCvciOr34JVeo+H5P4w4yJsitV6dmIQA6BUYfCOXQJ1kvibcJXnqzn3IbsX3Ii+4hOKGBd+rt3EdMhmkV5W3P74OlHrTRLYBhysPaq7WUvwKE3hP11I18neDcVINNffUKbY0Z8jfwGeGBCJTDEcbOaLiM9ojuPwGgP89e5idJnTstiPU499dr4DC290oXr/FuOpdn6GSp1Ut7cAr5lt6Rwp2iXHgSuh6+dp5T9dBidF4ctEqrPBiWLtKCoGh+aL3QuN9wboz0cvCZbyA7kDcTpIjjMNfsNTQ3jWBBst8nhlu3lw7y3VnPMZFZkZ96WXQP6/feLCk8fFAuldNZ1CDZF4qm8RvhTHFkQoPrpNwj1b287J8WQ==;/S59/uCg98DjfZmj07x3FQ=="

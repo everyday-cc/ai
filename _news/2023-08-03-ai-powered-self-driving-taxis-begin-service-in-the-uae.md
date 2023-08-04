@@ -3,20 +3,26 @@ category: news
 title: "AI Powered, Self-Driving Taxis Begin Service in the UAE"
 excerpt: "This is the driverless vehicle currently ferrying passengers around in two cities, part of an international autonomous tech company WeRide. They’ve been offering the rides for free, an attempt to"
 publishedDateTime: 2023-08-03T11:49:00Z
-originalUrl: "https://www.djournal.com/news/national/ai-powered-self-driving-taxis-begin-service-in-the-uae/video_0b1f051f-2390-5fb0-bcd9-fcff00022465.html"
-webUrl: "https://www.djournal.com/news/national/ai-powered-self-driving-taxis-begin-service-in-the-uae/video_0b1f051f-2390-5fb0-bcd9-fcff00022465.html"
+originalUrl: "https://www.wyomingnews.com/news/national/ai-powered-self-driving-taxis-begin-service-in-the-uae/video_450d66cc-dea6-5ed4-8fbd-2de18096ee30.html"
+webUrl: "https://www.wyomingnews.com/news/national/ai-powered-self-driving-taxis-begin-service-in-the-uae/video_450d66cc-dea6-5ed4-8fbd-2de18096ee30.html"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Wyoming News
+  domain: wyomingnews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/4/50/450d66cc-dea6-5ed4-8fbd-2de18096ee30/64cb9ddf15fbd.image.jpg?crop=1127%2C592%2C0%2C21&resize=1127%2C592&order=crop%2Cresize"
+    width: 1127
+    height: 592
+    isCached: true
 
 related:
   - title: "Riders will be able to book a self-driving Waymo in Austin, Texas this fall"
@@ -34,6 +40,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "CrgcPdcr7UeRcderLK7Gt7iK37Kt3l6z55u9Jo9JIhw1ZBgy2nP9tK+VZjXAo1Gmusvp/aqkdIHMu+O7hWQjfEcjxEvdU4dgqHuyXqCXP+qTKsRpEvPQujgn0Dm8kZW+uM/4PuU0M9IIGrYmFO5on7CIAuhGWR5mEqSoHl/qXDbyzZ2Fk1YY4/s/QpV+ymiL/78T+DN+Tc0mOLsjf6+GqpJlAuRfM2mdY3JtYVmC9R7DK5wSbMORSBrtQdL8XwqXpmmV+2k9GqdpUW2nyX15dfGq4mgS0VcsCqLrCPazYyRys4P51FFAsUtVr9Sf/PzojtkPMhupjpWoDRS6X20/JUFrU0f0wxvPf1w0KQ2E/8M/yLguqz3P2lbmbGa25njiQhmx2Wxlh2S2cRBqKRXfdWmaA6qej++c8+npObfW6XGeXoExpnRO8eEjLIbjgZrI/1M+OJ/MmhWExN3EAsSS0GkHKLGqqyViY/G9DE9/uPRCx+gxn/E/z+gFVp18b40QKpj6t+ezGfD20U+FxuTZsQ==;rVljFMQp/OftFgav7WzLvA=="
+secured: "TL+6kznR+msh0HFO6jqTL8kG25PBkgW6Ll/WQ5TxQpfuQxdkV5fQD6FA6V1scH9VAi9GTTWvpZoZ67wvIR3vgcnOz/UGhx5HvdGU18SBzOdNDpydkMRyRplPVvkj5QkFcPbldZWWXKxUy1vM+rR7c4U/PcraghOzImLvbYfG+aiKWc8LeZ8BRNXisesCe/TACPnWEbjxTQ+bS73DE7AOG8ByUnu/vNmocsSDHb25TwYRMR0spawt7ysGa2/MgPIoKIeSwXo+qRZPzjwOrxcU1oZYbGL39APQXdkLVFpVZQ+RedtbuP7rsNSjO/YxAxuh+DZ5Bj3cU5TA2t4fR/VA3SXQlRnIgif0zdpxpCLFoRk=;rMUUqy0+VBOtjzTRWmGeIw=="
 ---
 

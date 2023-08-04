@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1050
     height: 788
     isCached: true
+
+related:
+  - title: "MIT Task Force Puts Forth Guidelines for Generative-AI Use in Legal Practice"
+    excerpt: "In response to the growing concerns surrounding the ethical use of artificial intelligence (AI) in the legal profession, law.MIT.edu has formed a Task Force dedicated to developing principles and guidelines for the responsible application of generative-AI in legal work."
+    publishedDateTime: 2023-08-04T09:28:00Z
+    webUrl: "https://www.cryptopolitan.com/mit-guidelines-generative-ai-legal-practice/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 36
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/08/photo_2023-08-04_12-48-46.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "wr63tRCMvp/lr51VLNDcyeYKcSsA5z5ZYSqLDDY/Iw3RixAZPcFR8kKpX3MmXG63jJXSYL89IiCA12L7K8+t5yiOL/vqHj7QSf2sJECfUgtUaQRzuebEBprfSobt6jsEJJT2gKgP+P2dYygu0IzG09pcmCcyHfWE0I86U/0pI2ndpEU3TvKfUR0vCRyyBXNdBqDu/DDki9ZOImV9r/nCMpO4J/3yrzyFKKGhcxaBigugobkWuJH8oUluf/JzvSdtldQslsm47oVD/9LYI74oV9+fexq+ZgYs68IB6tw/tIk4E/xWv1N87rmM90jXPwW01zmu9yWfVM+F0GY60T9sThFTDKX7h7R0FXpsNwHzrk4=;GhzwfTDIjuvA3yjJBrq+zA=="
 ---

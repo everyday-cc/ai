@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "AMD forecasts challenger to Nvidia AI chip for 4th quarter, eyes China AI market"
+    excerpt: "Advanced Micro Devices on Tuesday forecast a strong fourth quarter driven by the planned launch of artificial-intelligence chips that could compete with Nvidia chips, with the company's CEO saying it sees an \"opportunity\" to sell its AI chips in China."
+    publishedDateTime: 2023-08-02T01:09:00Z
+    webUrl: "https://www.aol.com/amd-forecasts-challenger-nvidia-ai-201734953.html"
+    ampWebUrl: "https://www.aol.com/amphtml/amd-forecasts-challenger-nvidia-ai-201734953.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/amd-forecasts-challenger-nvidia-ai-201734953.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 69
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/843f04a444e5fa21a05f5df69eaa1702"
+        width: 800
+        height: 553
+        isCached: true
   - title: "NVIDIA DGX Cloud targets generative AI"
     excerpt: "DGX Cloud also incorporates NVIDIA AI Enterprise, the software layer of the NVIDIA AI platform, which includes over 100 pretrained models, optimized frameworks and accelerated data science software libraries. These add-ins give developers an additional jump-start to their AI projects, Boyle notes."
     publishedDateTime: 2023-08-01T10:01:00Z

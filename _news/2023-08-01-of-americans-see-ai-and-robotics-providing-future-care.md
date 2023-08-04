@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://i.insider.com/64c95657048ff200190f443d?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI and robots might be the future of battery development"
-    excerpt: "Combining the power of robots and artificial intelligence, researchers have found a way to develop faster charging and more energy-dense batteries."
-    publishedDateTime: 2023-08-03T13:26:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-and-robots-future-battery"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/09/image/jpeg/zJQEuHMS5v67BKugegCEa7K59vq1AI7lMk8IRyXa.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "LoFFU6nMLysvALjhihEKUprUASi21ayN5ZGDsao+pn0DwQU9y5+9QPcb5cpSbRsgJ/kitQ82hk3HQUp5JTQwJrlhuIu34IjNz988Y/t8BN7wYG2pT4E6ZKGAZLeGBwAQjdRZanYesBxKDpl9ffvOqXU7rdtxQVSpUvYMveAYRg3PlK0K06yXNoxayYkC1qPUg6u73FWKTiyxFosZqcTFCb0/9sJ+gXtZeFrONBOqOufzlSTMMI0ewwOlji1WBwsx3h0RCapSvtiykgNpzfjnD5PSUbO/TBEqkG5tvI5bp23gOo3wbpVAgRF/2NCDYqHwwkww5HrnNo8vvIJCzILu33XEcbU2xAJcEzarg7npH18=;JV1UdB3P8jRoO1xVMqAl4w=="

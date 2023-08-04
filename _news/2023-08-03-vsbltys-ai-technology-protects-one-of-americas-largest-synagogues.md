@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI and robots might be the future of battery development"
-    excerpt: "Combining the power of robots and artificial intelligence, researchers have found a way to develop faster charging and more energy-dense batteries."
-    publishedDateTime: 2023-08-03T13:26:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-and-robots-future-battery"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/09/image/jpeg/zJQEuHMS5v67BKugegCEa7K59vq1AI7lMk8IRyXa.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "m724WJVC0Mlao1RmtTIphQy1mKbzM9aStaYkLZY7TdCZPyIJLVOJXZ9VL4wSHMiPYjJ9vdfSNXSlaEHE0U9Crt/Y7roveL7zulIPycgrFZbQUOzK9XtYaotjyUOtNC+8aMSfnO3vUvcwDgGa0myKt/JxiJUQM1tsgQZD2XhOsAVsWBloMCS1uulGNdfWArAheJrpCMAZTg78O1UUDkDqaKfiS8EFMT1NqNo6mkzKDuG3BbR73a9X/gqYyagnO4axAxIVG73xI92932jimKYUhtFVy9DiF0Wu6VJDzaWVDbGCiQG7gPEf5CX5tSKtMKBmQUGJ9WnRxzItXDC8gXdrAa7a38Xc/lXd6SteYq8qCaOCbIaFdKWpg2psdq5b3PliT9t2p9LdezNjrddTu8WpqBNj/I5xtKgUIMq5Gbp58jrOkaefBX+iijdeQqiDSnB+zsBBfDQ0t745oneN5E5n8GS11BGPmFg6qTNwUuyQlVGNCO6CX70fKx5NM2aoeH9kzhAoicahVGgl1wpgH7TLuw==;lspIZyMs5cj7/FRHCHikNQ=="
 ---

@@ -22,17 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Fintech Innovations To Watch Out For In 2023"
-    excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
-    publishedDateTime: 2023-07-30T18:54:00Z
-    webUrl: "https://menafn.com/1106738881/Fintech-Innovations-To-Watch-Out-For-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-
 secured: "vGtpsR2EA84ye7cdDL1akbaIouimriBXN7BdOe0MEhP0WaPOGlxMgFJh8TFcJHDt4hOC9DzmOQoFTWp143+aNzn6C3VxRHedOphE3f0USkVJHVbkTSR2o6RSDE5lWPP2AS+rCNu2YlkSgYTtHlS61ZMPg1uRvMe022jmRWosriyAf6F/ycHKEo9XEWSUU9Jnm/QIoHXZppZ5US+RWV74UOsaWYUP1ASz6TfJkUP7T73z6P7yXGvxdhn4KKEBakTYMSj42jHWQ0ATMAfLCTeaxNyn92voo2+knKTDW864JG/Co5SCLmLdt2CdY3fnTAUovBxNvdddKbpeTI1l/uxQE1ga8xHvPqUBYDqopMMvARo=;g3hyA6WZFLb043zgAcSW7w=="
 ---
 

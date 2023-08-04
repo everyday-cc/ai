@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/datasaur-secures-4m-and-unve
 webUrl: "https://www.datanami.com/this-just-in/datasaur-secures-4m-and-unveils-new-feature-dinamic-to-train-custom-natural-language-processing-models/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Datasaur raises $4M to help every company train its own ChatGPT"
-    excerpt: "Natural language processing startup Datasaur Inc. said today it has closed on a $4 million seed funding round that brings its total amount raised to date to $7.9 million."
-    publishedDateTime: 2023-08-03T13:59:00Z
-    webUrl: "https://siliconangle.com/2023/08/03/datasaur-raises-4m-help-every-company-train-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/63861b9b2225b579982f5188_playground-image-800x351.png"
-        width: 800
-        height: 351
-        isCached: true
   - title: "Datasaur Secures $4M and Unveils New Feature Dinamic to Train Custom Natural Language Processing Models"
     excerpt: "Datasaur has invested the last four years in building an intuitive and efficient platform that enables companies to label their own data which transforms raw data into valuable AI datasets. With Datasaur's new product Dinamic,"
     publishedDateTime: 2023-08-03T16:01:00Z

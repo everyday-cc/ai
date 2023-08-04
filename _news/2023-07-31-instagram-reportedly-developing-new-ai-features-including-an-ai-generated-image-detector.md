@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-reportedly-develo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
 type: article
 quality: 78
-heat: 148
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,96 +30,68 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers highlight ethical issues for developing future AI assistants"
-    excerpt: "Most people use voice assistant technologies like Alexa or Google Assistant for list making and quick weather updates. But imagine if these technologies could do much more—summarize doctor's appointments,"
-    publishedDateTime: 2023-08-01T16:10:00Z
-    webUrl: "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp"
+  - title: "Defending Against AI-Based Phishing Attacks"
+    excerpt: "Nefarious phishing operations have rapidly adopted AI tools that can launch devastating business email compromises using social engineering techniques."
+    publishedDateTime: 2023-08-04T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-highlight.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63cef5084fcbdd7722766ec0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 695
+        isCached: true
+  - title: "Artificial intelligence is leveling up the fight against infectious diseases"
+    excerpt: "Artificial intelligence is a new addition to the infectious disease researcher's toolbox. Yet in merely half a decade, AI has accelerated progress on some of the most urgent issues in medical science and public health."
+    publishedDateTime: 2023-07-31T15:02:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 69
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-63.jpg"
         width: 1280
-        height: 852
+        height: 853
         isCached: true
-  - title: "Meta Bets Big on AI to Revive Facebook and Instagram"
-    excerpt: "With new chatbots and image editing tools, the social giant is gunning to rise again like a phoenix—with AI as the wind beneath its wings."
-    publishedDateTime: 2023-08-01T18:56:00Z
-    webUrl: "https://decrypt.co/150882/meta-ai-instagram-facebook-chatbot-personalities"
+  - title: "Let’s stop worrying about AI and start paying attention more"
+    excerpt: "Paying attention requires effort. Looking away is easier, but then we become isolated and lonely. That’s where we are now, through no fault of"
+    publishedDateTime: 2023-08-03T06:30:00Z
+    webUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/"
+    ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
     type: article
     provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 41
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 57
     images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_10988146041-gID_7.jpg"
-        width: 1000
-        height: 512
-        isCached: true
-  - title: "Institute for Artificial Intelligence"
-    excerpt: "Atri Rudra has been named the first Katherine Johnson Chair in Artificial Intelligence, which was established by a generous gift from computer science alums D. Sivakumar, PhD ’96, and Uma Mahadevan, PhD ’98. Students placed near the top of an ..."
-    publishedDateTime: 2023-07-31T00:00:00Z
-    webUrl: "https://www.buffalo.edu/ai-data-science.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 39
-    images:
-      - url: "https://www.buffalo.edu/etc/designs/ubcms/clientlibs-main/images/ub-social.png.img.512.auto.png/1615975612658.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Instagram Might Soon Start Labeling Posts Generated By AI"
-    excerpt: "Labeling AI generated content on Instagram, the feature will put an end to all fake and misinforming content created through AI"
-    publishedDateTime: 2023-08-02T16:39:00Z
-    webUrl: "https://www.techjuice.pk/instagram-might-soon-start-labeling-posts-generated-by-ai/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 37
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/08/Instagram.jpg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/2jzUUgf2g1K5jfKHazF_QhsVhag=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S2I5OVNZUNDTDO6ANMYKKPREPQ.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Venture Capital Firm Releases Instructions for Creating AI Girlfriend"
-    excerpt: "Another day, another step closer to the normalization of romantic AI chatbot partners — if Andreessen Horowitz has things its way, that is."
-    publishedDateTime: 2023-08-01T20:41:00Z
-    webUrl: "https://futurism.com/the-byte/venture-capital-ai-girlfriend"
+  - title: "Jericho Security secures $3M to counter AI-powered phishing attacks"
+    excerpt: "Jericho assists enterprises in defending against social engineering phishing attacks by leveraging AI to create sophisticated simulations and educational content for employees. In the company’s own words, it “uses AI to fight AI,” acting as a white hat for organizations."
+    publishedDateTime: 2023-08-03T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/03/jericho-security-secures-3m-counter-ai-powered-phishing-attacks/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://wp-assets.futurism.com/2023/07/venture-capital-ai-girlfriend.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/jerichosecurity.png"
+        width: 533
+        height: 316
         isCached: true
-  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
-    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
-    publishedDateTime: 2023-08-01T12:40:00Z
-    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 17
-  - title: "New Instagram Star Turns out to Be an Artificial Intelligence Creation, According to DeepTech"
-    excerpt: "Milla Sofia, a 19-year-old model from Finland, has become the new center of attention in the world of social media, as reported by DeepTech, a media organization covering news in the field of artificial intelligence and information technologies."
-    publishedDateTime: 2023-08-02T11:00:00Z
-    webUrl: "https://techbullion.com/new-instagram-star-turns-out-to-be-an-artificial-intelligence-creation-according-to-deeptech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 6
 
 secured: "ToMoErzzRd08ekvCkOw4QX9JC8QdOS7HN5jui/DWaF2puY4NhYepZDdnXjLzaaeudeGucboTsRrjpXqlApJzDbLjfhQFls7ogNy2tktYHyI7kNQGT/pLZ2pOfSWNsW53mx20KHghsc5mVAQgCE7ZoubnvTaXCH2yrLlPKqqzsjGUKu9+qlsBgZwlHuwMmVMexfhwhX4sQa1n//aAX0VwhM5xV0cvhPlfqKxMR/GK4m1EVd0IU4Y62InDQk79VAZ64NM6aii1frFqmSti6VwnQNBegEWHnptLG+Ru8GpzGvWJiwStpRF7H+Uue68E4CYh5zhNlX5ZFOaSJHltD+rOp4/Iqd7lArhNtETpOdC/0BhnGNkqEny/oLGslTo4wBQy8aJBwHDr8w4n0qwgfJZ8HkcOAXgtnBU+IKChwrRPUmhYQ0DVxz4OIUK/qjxkfE5X/qPAPirgHm2+Oa9d9wDM+2FrgnXfqqKV0LldF4hDs/l7nKGmsxNgoSSpVdU8D/8tIQk2ZaCDpnLyZL8H8ugsHw==;s7LEFMz9lo2m/Bbr2HdsaQ=="
 ---

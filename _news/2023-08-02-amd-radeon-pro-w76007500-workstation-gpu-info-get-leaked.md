@@ -7,7 +7,7 @@ originalUrl: "https://www.guru3d.com/news-story/amd-radeon-pro-w76007500-worksta
 webUrl: "https://www.guru3d.com/news-story/amd-radeon-pro-w76007500-workstation-gpu-info-get-leaked.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AMD Radeon RX 7800 XT specs spill out ahead of launch, thanks to GPU maker"
+    excerpt: "Good news AMD fans, looks like the Radeon RX 7800 XT is actually coming, as fresh leaks confirm specs for a custom GPU variant. I say “leaks”, but the incident is best described as a pre-launch boo boo, as graphics card maker Powercolor seemingly posted its product page a tad early."
+    publishedDateTime: 2023-08-04T10:34:00Z
+    webUrl: "https://www.gamesradar.com/amd-radeon-rx-7800-xt-specs-spill-out-ahead-of-launch-thanks-to-gpu-maker/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/zrUMAkPVmg4DifsCa33PFP-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AMD Radeon PRO W7600/7500 Workstation GPU info gets leaked"
     excerpt: "AMD is set to reveal the Radeon PRO W7600/7500, its entry-level workstation graphics processing units (GPUs), tomorrow. This news comes shortly after the company's unveiling of their forthcoming"
     publishedDateTime: 2023-08-03T16:23:00Z

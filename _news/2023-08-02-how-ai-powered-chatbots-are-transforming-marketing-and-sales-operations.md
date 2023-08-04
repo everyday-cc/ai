@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-
 webUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/"
 type: article
 quality: 133
-heat: 443
+heat: 453
 published: true
 
 provider:
@@ -296,6 +296,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/6mrWWVfXMSYWCLmK7Et1Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/470a4915dd52e31c809a4e29003e6c2a"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The insane hardware powering ChatGPT artificial intelligence"
+    excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."
+    publishedDateTime: 2023-08-04T11:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/hardware-powering-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
+        width: 700
+        height: 492
         isCached: true
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"

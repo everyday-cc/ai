@@ -28,6 +28,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
+  - title: "Data democratization: How data architecture can drive business decisions and AI initiatives"
+    excerpt: "Learn how data democratization simplifies the data stack, eliminates gatekeepers, and makes a comprehensive data platform more accessible.\nThe post Data democratization: How data architecture can drive business decisions and AI initiatives appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-04T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 89
   - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
     excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
     publishedDateTime: 2023-08-03T07:01:00Z

@@ -306,6 +306,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The insane hardware powering ChatGPT artificial intelligence"
+    excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."
+    publishedDateTime: 2023-08-04T11:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/hardware-powering-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
+        width: 700
+        height: 492
+        isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-01T15:55:00Z

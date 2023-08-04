@@ -55,6 +55,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "7 YouTube channels to learn machine learning"
+    excerpt: "Machine learning is a fascinating and rapidly growing field revolutionizing various industries. If you’re interested in diving into the world of machine learning and developing your skills, YouTube can be an excellent platform to start your learning journey."
+    publishedDateTime: 2023-07-31T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/7-youtube-channels-to-learn-machine-learning"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvODY2YzQxMTYtM2ZjNS00Y2FhLWE1ZTUtZjJkNzU4MGYzY2NlLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "DlH6OQa7Vhu7pPH3hsno2i6AloCJ3l70XU4q8uYlPlhJlDCW6qHmxEZWBIstCobwBzoLf/g5GwHEHWhWIbOtEyHRjitKtvEDznQfSl8CTwIV9hMGvR4o3m+xCap/KnhvRmFb32lkwd4cE433NU3BdANJYYHw/XctirI9PTfCzFDQNO2ZNDXIaCTAqqD2VzmhVl4yi9It+yoSEYFs71YQf+uaDwGglmlI4iEcIaXY/SMDADTyUN15P4MBFw533lN10aiAjDCcwhYiMBJLi4Pac1PekLy1w4UsGYTxD6m2V9ERxrdYjFcl5TPPcqCMLRS7pLi0BfWB40IdDkGRXH70mXMFA0oQQIwaX8+u+6G5EcepZCaSST5ciOKdJwIrjvpZLgpGw9R+l0efP4EHrUxuZNoNF0givhCIScQMwvtlep1XHBsUPJyhzMTKP23GtxYI5Pgg5Lrc9bntQPy/5dtUddALdOAgvAwHW3KopuN6aiTdUYfcNX40YwpAmfD+Ha6b/hyEoZfvFgXxw+JLe0Hxzg==;EBO3bOrf1nPBfHQ4bhyEDA=="
 ---

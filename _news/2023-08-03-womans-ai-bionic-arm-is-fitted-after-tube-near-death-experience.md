@@ -31,7 +31,7 @@ related:
   - title: "Experience: scammers used AI to fake my daughter’s kidnap"
     excerpt: "No part of me questioned whether this was real - I had to save my baby"
     publishedDateTime: 2023-08-04T08:00:00Z
-    webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
+    webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
     type: article

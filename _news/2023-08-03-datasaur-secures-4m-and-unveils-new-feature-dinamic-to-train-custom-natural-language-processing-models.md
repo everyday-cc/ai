@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Datasaur raises $4M to help every company train its own ChatGPT"
-    excerpt: "Natural language processing startup Datasaur Inc. said today it has closed on a $4 million seed funding round that brings its total amount raised to date to $7.9 million."
-    publishedDateTime: 2023-08-03T13:59:00Z
-    webUrl: "https://siliconangle.com/2023/08/03/datasaur-raises-4m-help-every-company-train-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/63861b9b2225b579982f5188_playground-image-800x351.png"
-        width: 800
-        height: 351
-        isCached: true
   - title: "Datasaur Secures $4M and Unveils New Feature Dinamic to Train Custom Natural Language Processing Models"
     excerpt: "Datasaur, a leading natural language processing (NLP) platform that helps annotators train AI algorithms, today announced"
     publishedDateTime: 2023-08-03T20:53:00Z

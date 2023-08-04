@@ -83,20 +83,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
-    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
-    publishedDateTime: 2023-07-30T17:41:00Z
-    webUrl: "https://www.inferse.com/655063/googles-deepmind-rt-2-ai-model-will-help-robots-serve-humans-like-r2d2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 71
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9306.png"
-        width: 708
-        height: 399
-        isCached: true
   - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
     excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
     publishedDateTime: 2023-08-04T08:07:00Z

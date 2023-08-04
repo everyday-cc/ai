@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "AMD forecasts challenger to Nvidia AI chip for 4th quarter, eyes China AI market"
+    excerpt: "Advanced Micro Devices on Tuesday forecast a strong fourth quarter driven by the planned launch of artificial-intelligence chips that could compete with Nvidia chips, with the company's CEO saying it sees an \"opportunity\" to sell its AI chips in China."
+    publishedDateTime: 2023-08-02T01:09:00Z
+    webUrl: "https://www.aol.com/amd-forecasts-challenger-nvidia-ai-201734953.html"
+    ampWebUrl: "https://www.aol.com/amphtml/amd-forecasts-challenger-nvidia-ai-201734953.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/amd-forecasts-challenger-nvidia-ai-201734953.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 69
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/843f04a444e5fa21a05f5df69eaa1702"
+        width: 800
+        height: 553
+        isCached: true
   - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
     excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
     publishedDateTime: 2023-07-31T19:16:00Z

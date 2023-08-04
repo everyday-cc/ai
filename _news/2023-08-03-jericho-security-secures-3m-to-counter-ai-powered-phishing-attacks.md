@@ -25,49 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "This Cybersecurity Startup Uses AI To Counter Emerging Threats"
-    excerpt: "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology."
-    publishedDateTime: 2023-08-04T00:42:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
+  - title: "Defending Against AI-Based Phishing Attacks"
+    excerpt: "Nefarious phishing operations have rapidly adopted AI tools that can launch devastating business email compromises using social engineering techniques."
+    publishedDateTime: 2023-08-04T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63cef5084fcbdd7722766ec0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 549
+        height: 695
         isCached: true
-  - title: "Jericho Security uses AI to fight AI in new frontier of cybersecurity"
-    excerpt: "Jericho Security announced it has raised $3 million in pre-seed funding to build solutions using machine learning capabilities to \"fight AI with AI.\""
-    publishedDateTime: 2023-08-03T16:00:00Z
-    webUrl: "https://venturebeat.com/security/jericho-security-uses-ai-to-fight-ai-in-new-frontier-of-cybersecurity/"
+  - title: "Instagram reportedly developing new AI features, including an AI-generated image detector"
+    excerpt: "These new generative AI features could not only enhance users' Instagram experience but also help fight misinformation."
+    publishedDateTime: 2023-07-31T15:55:00Z
+    webUrl: "https://www.zdnet.com/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_Good_hacker_versus_a_bad_hacker_shown_in_the_style_o_254df582-0504-4e2e-8feb-d3806c5f8d82.png?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/4e8e2311ff534c2f500d13b5866595f42de1b76b/2023/07/31/cba57098-e30c-49bf-afdc-a1e3fcce6426/gettyimages-1252972863.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 960
+        height: 675
         isCached: true
-  - title: "Fall offerings at Manchester Community College include AI for Cybersecurity and Computer Science Extended Reality"
-    excerpt: "What was once the domain of science fiction novels and Hollywood movies, has quickly developed into a mainstream career path and Manchester Community College has enhanced its offerings to reflect the explosive growth of computer science careers."
-    publishedDateTime: 2023-07-31T01:48:00Z
-    webUrl: "https://manchesterinklink.com/fall-offerings-at-manchester-community-college-include-ai-for-cybersecurity-and-computer-science-xr/"
+  - title: "Artificial intelligence is leveling up the fight against infectious diseases"
+    excerpt: "Artificial intelligence is a new addition to the infectious disease researcher's toolbox. Yet in merely half a decade, AI has accelerated progress on some of the most urgent issues in medical science and public health."
+    publishedDateTime: 2023-07-31T15:02:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
     type: article
     provider:
-      name: manchesterinklink
-      domain: manchesterinklink.com
-    quality: 18
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 69
     images:
-      - url: "https://manchesterinklink.com/wp-content/uploads/2020/08/mcc.jpeg"
-        width: 1520
-        height: 759
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-63.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Let’s stop worrying about AI and start paying attention more"
+    excerpt: "Paying attention requires effort. Looking away is easier, but then we become isolated and lonely. That’s where we are now, through no fault of"
+    publishedDateTime: 2023-08-03T06:30:00Z
+    webUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/"
+    ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/08/03/lets-stop-worrying-about-ai-and-start-paying-attention-more/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 57
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/2jzUUgf2g1K5jfKHazF_QhsVhag=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S2I5OVNZUNDTDO6ANMYKKPREPQ.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "t3HQHH7a88kb/UaeWcV9L7XHlkFNIqB9mFVkF63hBc/jVFptuQ43ixQETs+b9Kat5qEMMA1q566Hcq3kPJxlwV8DGsVldX7zvlPJdaKtL/gEW7O5ZhbaErmeINucG2EaI3UeLaqsbpqsKbtQ94jJzIb25wtM4yzT/MdXGtNvlnVJEUVA/BxEz4o2+PjX64WLZ6sS38qumKWY7JgeDzVOqn7XetYqfwOc6QfifnzwpcFOO9Wvd84eAiBDPnHyMFojwni/w8sAuDaoyA4IE7BeXWjGiyZiDQbgAwFTPoDkC6Sl104N8Kdndr/30JL2ySKZX9BttyPrXK82O3SZeTaMQ/kGusRPfBLS8e20chsRrLU=;t2MsLJ6C5+ieRPJaSiYWug=="

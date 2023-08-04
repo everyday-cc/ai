@@ -53,15 +53,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "7 AI Penny Stocks that Could Hit $5 Soon"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The era of artificial intelligence is upon us. By 2030, AI is expected to"
-    publishedDateTime: 2023-07-30T18:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-penny-stocks-with-huge-potential-to-go-to-five-dollars-1032492373"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AI in Health Care: 8 Best Stocks to Buy"
     excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
     publishedDateTime: 2023-08-02T15:23:00Z

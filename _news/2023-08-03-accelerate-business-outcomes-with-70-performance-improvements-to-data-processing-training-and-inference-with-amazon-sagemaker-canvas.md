@@ -193,6 +193,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple could use motion tracking to boost Siri's voice recognition"
+    excerpt: "Apple has filed a patent application, called Keyword Detection Using Motion Sensing, that could enhance Siri's voice recognition capabilities"
+    publishedDateTime: 2023-08-04T10:36:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/apple-siri-could-be-trained-to-read-lips-patent-claims/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 24
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l71620230804153046.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "‘Computer language that anyone can read’ launches Aeternity compiler"
     excerpt: "The developer of Lexon claims that it may provide benefits in computer science education, as well as allow for better GUIs and automated self-documentation."
     publishedDateTime: 2023-08-03T21:01:00Z
@@ -216,15 +230,6 @@ related:
       name: Fairbanks Daily News-Miner
       domain: newsminer.com
     quality: 19
-  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
-    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
-    publishedDateTime: 2023-07-31T13:36:00Z
-    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 13
   - title: "Speech And Voice Recognition Market To Surpass 53.94 Billion By 2030 Drives Due To Revolutionizing The Human-Technology Interaction"
     excerpt: "According to SkyQuest, the speech and voice recognition market is poised to be driven by a significant technological advancements and the increasing adoption of advanced electronic devices. One of the key drivers of market growth is the rising use of voice-activated biometrics for security purposes."
     publishedDateTime: 2023-08-02T17:19:00Z

@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "7 YouTube channels to learn machine learning"
+    excerpt: "Machine learning is a fascinating and rapidly growing field revolutionizing various industries. If you’re interested in diving into the world of machine learning and developing your skills, YouTube can be an excellent platform to start your learning journey."
+    publishedDateTime: 2023-07-31T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/7-youtube-channels-to-learn-machine-learning"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvODY2YzQxMTYtM2ZjNS00Y2FhLWE1ZTUtZjJkNzU4MGYzY2NlLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Dell wants you to use your business data with new AI solutions"
     excerpt: "Dell is expanding Project Helix by adding generative AI solutions. The offerings come for the biggest part in partnership with Nvidia. Dell is introducing"
     publishedDateTime: 2023-08-01T08:38:00Z

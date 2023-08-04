@@ -84,20 +84,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Google’s DeepMind RT-2 AI Model Will Help Robots Serve Humans Like R2D2"
-    excerpt: "A new study involving Google's DeepMind Robotic Transformer 2 (RT-2) vision-language-action (VLA) model shows promising results in building a general-purpose"
-    publishedDateTime: 2023-07-30T17:41:00Z
-    webUrl: "https://www.inferse.com/655063/googles-deepmind-rt-2-ai-model-will-help-robots-serve-humans-like-r2d2/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 71
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9306.png"
-        width: 708
-        height: 399
-        isCached: true
   - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
     excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."
     publishedDateTime: 2023-07-31T16:21:00Z
@@ -113,6 +99,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "sP0w70iic7nh00UdCGnXhWzR03iI3ZqxaTPFMCtM6MuQsUczsu+qs96MBwa9H+yTnyjuIRCbTRtUrhFQDYHIKl3uNnGD4NcTSqP2rnmrp+lL+lyLS+NMoIsfngceQxTWg4QObAWzXxzy1+G02FeViukKdsMvS51h0zwBe6ytW/W1m40x6Avwoq+A+bbKCeF0XFZ1MX785QmqZnfrG6g26nSP7sprbzEisgdnUouY0kuCtPfwtLgvQeMGHH2rnMHUKopG/3yzjG1Ys1LkIgf4848Uz7ANcetaJzcFTnr0fcPvAj4j0wwbFE2kCrUelhdWcXSdqN4Wy1jGfRahAndhbCNZ/prmRmZi9Z/4QTzGnAw=;vJHuB6ROyxUEjJiR/ypnwA=="
+secured: "XuYbCF1N+7BsL9JT1MDi3ZJkzRi+6LNCh+K46+A/Sn2MHAw34+4mwLIXCQuBdJ+dtY0WljHykar7JIWKJuVcpv0z7Op/7j1idPoD6gq2rhSOh24znL8qf7bxI+NRirB/6xUM9Atc4fyZcjlD+g+/g62slj9x1nD3etyqe3qmhUpZVg+VsnuWkgnfYddKJF7hHPhNYKQSXSJpA9FmgwQm1n9EQgbKxZPy1zxvoTDpp9LIXAleMhkkIeVHcrY9LzalX0gPqNEWGKwWFcgp52PPW32z4IvMjnzgqKqGZAjPySN/86tDVFS5dVTvg8w3wHYlTN5dRv9BUXurhI4BpZiaJbPO2TAxCwpYGhVtLeAJPLe9shxjD/Ao2Chr8NfjDxKtpFkNh90dkRKkfF6+jfSTK18qJ/dO26BOk5Q8QJp4Kbzm13jpwrmn1w3O7cz9wefU43h5ZgDVpuCUTK7Ix0O08OioUsBnddIPY9tKkyulXNF6ptkZrSx/WU/iOmDrfc0xEy21NxnwScj+E37U+4XZjA==;6ksQs+KH+LyVQnhLTQw0jQ=="
 ---
 

@@ -68,15 +68,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "7 AI Penny Stocks that Could Hit $5 Soon"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The era of artificial intelligence is upon us. By 2030, AI is expected to"
-    publishedDateTime: 2023-07-30T18:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-penny-stocks-with-huge-potential-to-go-to-five-dollars-1032492373"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Top 8 Bizarre AI Predictions That Could Change the Future"
     excerpt: "Dive into the realm of AI's oddest forecasts, unveiling the top 8 strangest predictions, from AI-powered politics to digitally eternal life."
     publishedDateTime: 2023-07-31T17:44:00Z

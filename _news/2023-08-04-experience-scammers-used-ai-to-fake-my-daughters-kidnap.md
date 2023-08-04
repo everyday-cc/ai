@@ -3,8 +3,8 @@ category: news
 title: "Experience: scammers used AI to fake my daughter’s kidnap"
 excerpt: "No part of me questioned whether this was real - I had to save my baby"
 publishedDateTime: 2023-08-04T08:00:00Z
-originalUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
-webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
+originalUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
+webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 576
         isCached: true
 
-secured: "oEkBqvOXOJXo0jgqCPksky5gQqE9m+qCQFwHd8kiYCQxcMNDMirLuOS2WypgmvMrrbTUXvLFyotuRtznmz6Utdt7aQO/QpYaZ4RnWlxUAXl4R6XzsixrHeb7D32H5br3KQ7erqghSdOJG66sRgQP5RBRv/2Ko0lYVUS8jm7LBkkuj9zAVHv0J6XhIoC99jqJI9Mf2BM2xLXWHF76h3i9Bjy18aw6bafxN6Z43uey3cJ2XhkyVEA5FXbCav9ZGiLkh2VcklaE+PQs+Zs3koWXKjetv5y/5CdLIvjEW7YGTBvqDujzC/kGIMXG4GDIXbsljX4Niq/aBIrdON0FYITGO7HxX0J8dswSaXrTg69ke4E=;ZQ9Akpfhtra0Ge/Gfglung=="
+secured: "KSRpnhQ847t72uLYZdch054XVOL+gxtGfG7+jBDfbX6SNivJsGllyb3K2gdWgIFnjGqsY637ekc21LNKG33jF1uzVZlFo3OXkT0OsZpb2JezrXdYpP81NhrZlnIkvxGlnfEX4EQmMc8gxIqDlxB0zxI9g2LAgfAV7wql9faotN6o12ygYC45G+EYZVprPwZf/U+d8hGtoDK8JaCmALH6UGukY75o3C1lN6jSRUq0awulChIt31viUyqSgKf+IVzyXKDObU/aEPRwmuIid3uKV8Mw6MePA7XLYefNMaTuzkB3e8D86JOr+cb/VdC2HFTaFSX5aBn8zJ+tger6NjxnhQ61ouF8SKd44fbKj34RWoU=;GkFLzKqA6UwZx6NGXzD5DQ=="
 ---
 

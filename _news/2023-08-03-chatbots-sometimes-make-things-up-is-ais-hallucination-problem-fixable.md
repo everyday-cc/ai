@@ -292,6 +292,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "The insane hardware powering ChatGPT artificial intelligence"
+    excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."
+    publishedDateTime: 2023-08-04T11:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/hardware-powering-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
+        width: 700
+        height: 492
+        isCached: true
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
     publishedDateTime: 2023-07-31T15:28:00Z
@@ -405,6 +419,6 @@ related:
       domain: thetechportal.com
     quality: 1
 
-secured: "E2sqqHT2QKMbl93s6rvZqf77zNINHhyBOkmDgzLbn3xn7ZMjIcuL0ei3dFZrGBry/oHRVefOaHiybiXRxsX+GqHyZ00dwWNUQo8h5ewvUpbBkTLh3gToXpY03RCZgBLH3FmGLoDp8/lQGQj84o2ZchuxCBOO1wVV2l/46GLajq20j3weLbySawvtECw84HRzn5X9CTk6Vbw/nwdeiSV11XdyFanAZ3zUBW3j6MQ4uinD9KMwMqXge5PKID5eC695QhvY4E8I8M28YpOmVgle95lbm8SAn0zy/XEShXTxHGzCtRb2Bd6ia2zLz79kLgVvPHGNhjlxOCnJ1uw2ISi0mutoEHlFtLutMUWbFgIysCk=;7WmcnQqhxvjSvn8OlcDd6Q=="
+secured: "mx5zdPxnxdlNa0DSwZSza3Db3fytcwW7jEtV3PnesLi8l0U+njezdT2bQNHzHoIw716WIhV9yXBiwDeNMpomPqGR5CN6aTB2qhljWatIlExFJRKLKhuiRnZ7Jjk4rH3oFHk7OdYYRRV6RYnroF3GDiz32bPuEzhHQqTjIV/qlriqlPJZyjEErFN2aych0b4VlmC2uWobnhT0wuhpPEHrRXpFd0Oq//xzVdtDXfO1Kss/VfngmA4JJkMuTUWhHSHZalmMiNihkGcl2iVg8dW9Hpa8Ji8v7pRN4oef8VD/x5M1Uqg8Jzb8k8TEgEgY0YTf4u8RjzPDMzVqirx8/DQ2xOqnx12GAUle+T4SfMjKenNvRK57kQd7uviBHyWczfjMlPtIFFyH66WuxqtM3RMZ6Jjifbnw6NEg72TxmW6mkdOf+mUunum6tytd+AWo1RfZNabbK6eoSGcLkr1C2YlNZwmhDJDXRfBSBImiInseM97BAUa60n8HguYHR12+snMPWneL2mLL7Lt+YMKmRUH4JA==;jMafqi4fJo/DXr7iAHvjUQ=="
 ---
 
