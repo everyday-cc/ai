@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Will artificial intelligence take away the need for screenwriters?"
-excerpt: "A screenwriter and AI expert share why AI has become a hot topic in the union discussions, and how the career could shift in the next decade"
-publishedDateTime: 2023-08-01T11:24:00Z
-originalUrl: "https://www.wtkr.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
-webUrl: "https://www.wtkr.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
+excerpt: "What if you were scrolling for something to watch on one of those streaming services, and half of the shows and movies were created by artificial intelligence? Would you want to know which ones ..."
+publishedDateTime: 2023-07-31T21:03:00Z
+originalUrl: "https://www.10news.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
+webUrl: "https://www.10news.com/news/national/will-artificial-intelligence-take-away-the-need-for-screenwriters"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/88e4f04/2147483647/strip/true/crop/6419x3370+834+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc6%2Ffd%2F225020254fbcbabe9c558438cc9c%2Fshutterstock-1218220324.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "I'm a Screenwriter. These AI Jokes Give Me Nightmares"
@@ -33,6 +40,6 @@ related:
         height: 1409
         isCached: true
 
-secured: "PCi+Ze1n393OCESjqQpvFmuuGjL9DWw2yyDtqk1BYrmuwE5tZFSxtXeSAt0Yj4C4vqS3unvadjjarWZpVF9wA0oQALMhzpre0csZcPXy2NB6nhqzutsZ0BJrhINs4HIvB6gzgVw0ceLllCkMReD58qhZXD6nuFpZXaNSW8REGdbdkHQcwPTpoqOWPWP9oatJCnotApUNJVmGnoMWji4z38Abz9Dg1IF/ZXc+CfuwqJ+ozxbeZ7Ls2hoBsNkfyAGWpxRW9cMzgTvatefWK7pGnFb8Jmy2i4mZMe6sAZuqPiKwQsT8TAJULzHmAU32QL1yX+FeQp6xhBEUOXXzEWwnL2b6jjyL5ZyOk1egXmcT8clvESj5SXGSNILNv0BMHkKKoyKgvSaN8GABewLBmWDKNf/rghbaOCF8i1raYEQomCGTEzCdg4wBjyBeB1G2g4auomfWHFPQJQrX070yJNUdop49BOELl0tKYBPJ2pVYNCy1kfxJw4s6k2QN97UwCoHr31/kfE7Tft3M2jSiELivKw==;QAguf9d52rzGp08j7Jw9+g=="
+secured: "XViVp2Mh8kEl81MG/5jPOV8yN8bltfaSKPuYGGsXuePjaZpgwE+86UU0JAYXK5oLo9uE2PS9lYQaul7m2OTISTi1atkX8XrsucROgVzfaXjAhak/IAdw9GQvNaAvP7NBKzxTYo84xVR8snrYxxW5d3gqAIKiDsJCXRNhdvezhg1SbbGkv5dz1XssW62cKmMS3UFV6H5pW1ofBWZFNmo5HIsnA+xjhtK6b/z7gLQsFXdvim64et1FHmGXX7ZcQ+FkhFsQOubCvF7NKKFKxmcgkubO1kQb/u5fE6wSAHWF3JOPeFMGD3p1OVf77YIU8yIJ6WF0R7c2CwHPTnyjMa5nPz+mx7rhS6gE61o7KWL/ids=;9mynDXujdkhNOukZFeJqtQ=="
 ---
 

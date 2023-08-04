@@ -75,6 +75,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Barriers To AI Adoption"
+    excerpt: "Despite its evident potential, some businesses and industry leaders are maintaining a cautious distance from AI, hesitating to embrace its advantages to their"
+    publishedDateTime: 2023-08-04T18:03:00Z
+    webUrl: "https://www.forbes.com/sites/paulnoble/2023/08/04/barriers-to-ai-adoption/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "njPhP36PfRQMjsVJT9zMfDQKtZ3HgCXogJyhplcBnNchmKESQ0J98jcQ8/WFuWn0rFLMHUtnm0iRFafd+N3ZnL1K2JA1bm3LT1vS5XYn8aG4nYfQsaQ32IH9uxCde3Uq6k1BlqlohrpTlTk3IUu41pipR6TXu/AAOViFULRJ22DKcTUCFq60gobfgxAMzk1ixgutBCjANEucfQ6Qb1aEFSF58zAq/zWKv3nHqe8lZkssCvSmFdkaM4RowKP18Amlj/xQL0lg5onLt+6iapCNQaXoqczUx6L7uwPUuXvrzT0hT+HqHZz+2sglWNasT80fOQkK33w/jlMQyvWReAH1Ts53Z4e+jRXdeA2AMzNb4xU=;8BFENsKUSjuCsHNLUvuL3w=="
 ---

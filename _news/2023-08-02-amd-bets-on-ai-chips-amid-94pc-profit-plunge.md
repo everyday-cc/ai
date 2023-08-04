@@ -57,6 +57,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD's New AI Chip Could Send its Stock Soaring. Here's Why."
+    excerpt: "AMD's quarterly results were lackluster, as total revenue fell 18% year over year. Management noted that the company's new AI chip remains on track for delivery in the fall. AMD is planning to ramp its AI business on the back of colossal demand for AI ..."
+    publishedDateTime: 2023-08-02T15:16:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
   - title: "AMD makes ‘strong progress’ on AI chips and its stock rises"
     excerpt: "Wall Street’s estimates, but its stock rose after the company beat expectations and made optimistic sounds about its artificial intelligence portfolio. The company reported second-quarter earnings before certain costs such as stock compensation of 58 cents per share,"
     publishedDateTime: 2023-08-02T00:42:00Z

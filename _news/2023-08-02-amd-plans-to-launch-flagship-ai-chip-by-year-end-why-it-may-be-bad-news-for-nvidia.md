@@ -162,6 +162,20 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "AMD's Lisa Su: AI production capacity has received sufficient assurance"
+    excerpt: "AMD CEO Lisa Su's Asia tour in July to secure its supply chain became the focal point for analysts during the company's 2Q23 financial earnings call. In particular, discussions on the production capacity of AI chips and customer meetings allowed Lisa Su to talk freely about AI."
+    publishedDateTime: 2023-08-04T06:03:00Z
+    webUrl: "https://www.digitimes.com/news/a20230804PD204/amd-lisa-su-ai-chips-mi300-ai-gpu.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230804pd204_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "pv++J6Ax5DY9AWd1U8OWCbwZADkef3SBBVHUcLpq20yaqPWMdS3jPqbFGBQFRzI14CsBWUSntVDW+BnBzmmkHEBVnNNUjv7kQKYKnMzha46LnNt4UI+UD2ue99HdV0JvoGxVyS44lMcvHHRSZEWznhxYeLhYLyoz7WMt3eTOQzYpoenkuBn+lHz6RtFbASIWcdLil24Kj/eLGcH5BqFJbse89agUx1nBPQzWJhRs36LNWwVxVGuQzfC9o0DN/dT6zUQA/12iLTBZGcsDqUu1EPSaL4ZRrtWqQP4EdxB2IOp2jFx8/AEfq72/StA7AO1a2QruTYALxMk807artA4yAxC1wPw79kP+MlQh45/jKoE=;GW/vgAgjhPp3FtrCXjWmAA=="
 ---

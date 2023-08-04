@@ -105,6 +105,22 @@ related:
       name: The Australian Financial Review
       domain: afr.com
     quality: 19
+  - title: "Anthony Albanese will not announce Voice referendum date at Garma Festival but says he won't 'kick the can down the road'"
+    excerpt: "Prime Minister Anthony Albanese will not delay a vote on an Indigenous Voice to Parliament despite support for the proposal falling in opinion polls."
+    publishedDateTime: 2023-08-04T20:23:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 19
+    images:
+      - url: "https://content.api.news/v3/images/bin/a4ed728404629fb71a10b3152cbcdaa2"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
     excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
     publishedDateTime: 2023-08-02T04:28:00Z

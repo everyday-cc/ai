@@ -44,19 +44,21 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Fall offerings at Manchester Community College include AI for Cybersecurity and Computer Science Extended Reality"
-    excerpt: "What was once the domain of science fiction novels and Hollywood movies, has quickly developed into a mainstream career path and Manchester Community College has enhanced its offerings to reflect the explosive growth of computer science careers."
-    publishedDateTime: 2023-07-31T01:48:00Z
-    webUrl: "https://manchesterinklink.com/fall-offerings-at-manchester-community-college-include-ai-for-cybersecurity-and-computer-science-xr/"
+  - title: "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity"
+    excerpt: "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more"
+    publishedDateTime: 2023-08-04T19:29:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
     type: article
     provider:
-      name: manchesterinklink
-      domain: manchesterinklink.com
-    quality: 18
+      name: Forbes
+      domain: forbes.com
+    quality: 70
     images:
-      - url: "https://manchesterinklink.com/wp-content/uploads/2020/08/mcc.jpeg"
-        width: 1520
-        height: 759
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd4a39912a743867716411/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "p6mTbqS3pQ/sqq1nFSXE4+2yQtXHirpVoimoIwTRJ5BAbxxVbJxvzjFkh4xdOZYz7bX4HvqIHAQJeA+vSeOHYb4zGpXxQA30V6IHHW8bWWLwLCzNyfEZ1glpemu62hQ951k7Arse1CmxG+bLYmpMdig9kKkWyCKo4gg25oWCnrv6/5skX7Mc/I0qcFyCLiZzO2PeRnR4bv9juwLclP07eS2nIPhR5aRac3UngzEuQdc9y2DIdiI4h+TCv6mAeOSN5QP4OjE447ZQqlAD48KzlgwAkE5RtD6qf4/bLKliUMQXGexfxft50cf6u+tSGsIdJH4kq1zb22xeFwZouEqmDpqM0uoWp0Jf3JS37qaQXrVIGaPEtW7u7BtwGtmAzdk3aVVLPkE9gWvc3+lv7d2F5WCHU2QFEGA0dS6HyoQZAvzmm6J/TsAA166SSuyHWshTnbhL4mYrUskQPMSKAEykzqWlQoIoWgOwZ4HFGNzYKg8ETZmVp42Kwl6zfxcIjpGR37tmck6OdEXoDnhvsPqwaA==;o9YDS6vVI1qpH02aJ5ca5w=="

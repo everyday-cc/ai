@@ -2,6 +2,58 @@
   "page": 148,
   "value": [
     {
+      "path": "_news/2023-05-03-try-4-new-arts-and-ai-experiments.md",
+      "title": "Try 4 new Arts and AI experiments",
+      "excerpt": "Four new online interactive artworks from Google Arts & Culture Lab artists in residence",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Generative_Bundle_Hero_Image_GIF.gif",
+          "width": 600,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
+      "publishedDateTime": "2023-05-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-midjourney-51-arrives-and-its-another-leap-forward-for-ai-art.md",
       "title": "Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art",
       "excerpt": "The company claims that version 5.1 of the engine is “more opinionated”, bringing it closer to the kind of results that you would get with version 4 of Midjourney, but at a higher quality. There’s also a “raw” mode, for those who don’t want images that are as strongly opinionated.",
@@ -1117,49 +1169,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-godfather-of-ai-leaves-google-warns-of-techs-dangers.md",
-      "title": "‘Godfather of AI’ leaves Google, warns of tech’s dangers",
-      "excerpt": "But it’s the concerns of insiders in the AI research community that are attracting ... a top AI scientist at Facebook parent Meta, has taken a more optimistic approach. AP Technology Reporter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/",
-      "originalUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/xR0qjtUBey2hosBOwU9Xt-0_7jQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/627XNACR65DVZIYFW3WKTTTWHU.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kwtx-com.cdn.ampproject.org/c/s/www.kwtx.com/2023/05/02/godfather-ai-leaves-google-warns-techs-dangers/?outputType=amp",
-      "publishedDateTime": "2023-05-02T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KWTX",
-        "domain": "kwtx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

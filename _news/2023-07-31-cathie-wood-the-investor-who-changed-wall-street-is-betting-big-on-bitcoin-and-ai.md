@@ -157,15 +157,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Everyday AI: How artificial intelligence is shaping sports"
-    excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
-    publishedDateTime: 2023-08-01T17:47:00Z
-    webUrl: "https://techxplore.com/news/2023-08-everyday-ai-artificial-intelligence-sports.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 32
   - title: "Harvard Business School Professor Says Small Businesses Should Start Using AI Tools Like ChatGPT"
     excerpt: "With the rise of AI tools such as OpenAI's ChatGPT, small businesses have a remarkable opportunity to harness its potential. This advice comes from Karim Lakhani, a distinguished professor at Harvard Business School with over three decades of technology research under his belt."
     publishedDateTime: 2023-08-03T09:42:00Z

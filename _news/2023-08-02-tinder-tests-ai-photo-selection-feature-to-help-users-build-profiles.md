@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selectio
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Barriers To AI Adoption"
+    excerpt: "Despite its evident potential, some businesses and industry leaders are maintaining a cautious distance from AI, hesitating to embrace its advantages to their"
+    publishedDateTime: 2023-08-04T18:03:00Z
+    webUrl: "https://www.forbes.com/sites/paulnoble/2023/08/04/barriers-to-ai-adoption/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "R2sPVgJ7VTEAT3RBwBHsLXQ9/y+54mBLEV7fH1F0XfOSp6uVPcUyupwfKK+QBg71e0RTptwJDVy+qjwSpa+xwTFYytyFFyXcxNxK885juxTIEWMIk3xoiF0EjsRcvmQtDx4s1HDB25f77Yif+CVAXz0MnFnsWDEMJmOdEdfsyR3tZRjA3JXTupbYyWS8AVCUVMSt09ChLp5yQnx9s7qgAJxCBizk08a6ZJ6n6LEc3M5nKrx1DSt02FTFzvjLFz+Cd1PvE1g/jnsgyv7kPN/sOoDukJE7UD4GrY4IkbZAz/DK+8xFsgLHd1o8ISqqtw/mFumEzE8IIRHdqR/eOEdkGE1i8WglS4I7xJMSS0lXW8q0jyYN0ACOxumgYs7IfeveMwNXEQ80SgvmYE0E2uzuqsqkeJJNMzXMX8c1RkWd1umgBhfYZF07rKk+IdxwhKvDKNUWGEx+668pGeyy8Jyz/jXAblNjjeVJJaq8xccVkzNb8dy9aUVwEhz2W+LPflEX8oWpzdadVIzFi9r+4EZc3A==;z1H/c8x+QJ9HmHA+vpD4cA=="
 ---

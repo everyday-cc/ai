@@ -56,7 +56,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 84
   - title: "Fed report highlights emerging cyber threats, including generative AI"
     excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
     publishedDateTime: 2023-08-04T17:15:00Z
@@ -71,6 +71,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
+    excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
+    publishedDateTime: 2023-08-04T18:45:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/04/cyber-connective-corporation-provides-a-solution-to-ai-problem/70531183007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
 secured: "hsTwQKJKFQ04j/G+QfvY1lK1yIfzUm5VyVrceRVSBYFbhVIK1dpdnBjBQKtaN5ZATFIez+NAFj1WLQpifnBO57g+yBcati+jPmHr4k+rE3lhfk4mCE3DDplcQaaP/4i1xPe9H9MuuLvXquWeXcEDzlhoC6i7VhX/uPZpPGFI8V7BlRnX7uuxbW5V0qMOmTKs7dJUhBOO9BLnoUQame4FQu7RuIsoGw5v3jwILeHVuCmkqmO8YfS71mdaZCO0jY2BHbw8vyRIlNQ/m73rXf/5PgYMkia6SPkvA0w7AshT+3sfO9OGQ3P6OGus/iDtT99yht1bzeyPdLE/YLWOk0g9rlR6ohVNLbCYZfbgfVJaL8fEokYscT/f8PDbPLaAAkon40aEA4oePEQEVGFvaGvQmhnC+laimBFAGnaQkMcXnkONg0VUJHKInep+n3wdZ6MA5r8Tlt6IOh56DYe/wG/lA8A7CjXXqDkzW6zaK8JFlENfanJ/doqvZNFzvCe8I2Mctf2dc/YCo7iXODnSADozzA==;HCsGM76JUAz7l8hTLcPiMA=="
 ---

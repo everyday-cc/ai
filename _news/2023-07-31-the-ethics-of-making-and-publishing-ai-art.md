@@ -7,8 +7,8 @@ originalUrl: "https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-
 webUrl: "https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Lifehacker
@@ -36,6 +36,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 53
+  - title: "Regulating Artificial Intelligence and the Limits of the Law"
+    excerpt: "This is a book which deserves to be widely read.' Jacob Turner, author of Robot Rules: Regulating Artificial Intelligence 'An accessible introduction to some of the most important legal questions raised by artificial intelligence, and solutions implemented ..."
+    publishedDateTime: 2023-07-31T09:58:00Z
+    webUrl: "https://www.cambridge.org/cg/universitypress/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=AR"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 19
 
 secured: "dbrhK75qvDqFYz5oUM9LakSS+8v00MxMDEVYo+He7VmQuUMUDlj0ETpsw4t+62UOHlzrMuGOXY3F/ypieWzknsVHOgQe/QN8RR5Z3/6ojuQnL/5B2XxDqqZapMHBO8p1BY+m5poSZUYDa/MudT/yVhGaMT8GeJgKnk2rh8s5WuEcUJo1r6OAzEfhWXjoGDPKfnFpI9NBzRo57KQ0xVDy4PQfxlB3PwrSsDUrRTMqniD+3Gkg8IjI3kldPrVrOS5dy5a4p/g8HWxbeByiS6RGdVn5qGX2Ssxw/0ERCrJNqfuLxp+ERx57XBCzsujR26ovKGx+xxEBCnZxj0uoyJkZEM7ahQciYeosGTNJCwvVgR4=;uJvaDt3r02CqtXcAEWB4yg=="
 ---

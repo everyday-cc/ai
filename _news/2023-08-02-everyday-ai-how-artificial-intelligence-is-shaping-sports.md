@@ -18,190 +18,102 @@ topics:
   - AI
 
 related:
-  - title: "Betting On AI Is Big Business"
-    excerpt: "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?"
-    publishedDateTime: 2023-07-31T08:51:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ..."
+    publishedDateTime: 2023-08-04T21:14:00Z
+    webUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fifty Must-Know Crucial Golden Nuggets About AI And The Law That You Need To Know"
+    excerpt: "Start-ups in the LegalTech space see this same opportunity ... Of course, we don’t necessarily need to have a walking and gesturing robot, perhaps AI software is sufficient (though, don’t count out the day that we have both, consisting of the AI ..."
+    publishedDateTime: 2023-08-02T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c9fc427710022fdf69db63/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 562
+        height: 754
         isCached: true
-  - title: "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI"
-    excerpt: "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more."
-    publishedDateTime: 2023-07-31T16:16:00Z
-    webUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
+  - title: "Generative AI: The Action You Need To Know Most About Is Getting The Least Attention"
+    excerpt: "It turns out that the most important changes in Generative AI plus ads are happening where you might not be looking."
+    publishedDateTime: 2023-07-31T23:43:00Z
+    webUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/"
+    ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 81
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7f3022455739b3f69db67/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 733
         isCached: true
-  - title: "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators"
-    excerpt: "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs."
-    publishedDateTime: 2023-08-03T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
+  - title: "The Looming Ubiquity Of AI: Navigating Cloud Efficiency And Environmental Impact With CAST AI"
+    excerpt: "The allure from those who have invested billions into Generative AI startups have not considered the underlying reality of these high costs that threaten this current boom"
+    publishedDateTime: 2023-08-02T10:05:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 73
+    quality: 80
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c99016bea27fc14269db67/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 395
-        isCached: true
-  - title: "How AI is helping satellites avoid hitting each other in space"
-    excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
-    publishedDateTime: 2023-07-31T08:53:00Z
-    webUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space"
-    ampWebUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "How to Use AI to Create Writing and Business Efficiencies"
-    excerpt: "Author and CEO Maddy Osman shows how to use AI to organize your thoughts, detect AI writing and generate job descriptions."
-    publishedDateTime: 2023-08-04T12:00:00Z
-    webUrl: "https://www.newsweek.com/ai-writing-business-efficiencies-1816500"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 47
-  - title: "Report to Congress on Advances in Artificial Intelligence"
-    excerpt: "The following is the Aug. 4, 2023, Congressional Research Service report, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress. From the report Artificial intelligence (AI)—a term generally thought of as computerized systems that work and react in ways commonly thought to require intelligence—can encompass a range of technologies,"
-    publishedDateTime: 2023-08-04T14:29:00Z
-    webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
-    type: article
-    provider:
-      name: USNI
-      domain: usni.org
-    quality: 43
-    images:
-      - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Most businesses with AI lead new use cases with it"
-    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
-    publishedDateTime: 2023-07-31T09:45:00Z
-    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
-        width: 1075
-        height: 550
-        isCached: true
-  - title: "How Will Artificial Intelligence Change the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-news-business.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 37
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/b6a/b30/800ca33462d64e132280295777c0e1bdcd-GettyImages-205-moshed-07-31-13-48-45.1x.rsocial.w1200.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ca220be7faf6a593775a99/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 1129
         isCached: true
-  - title: "3 ways AI can save small businesses time, stress"
-    excerpt: "Generative AI is creating an extraordinary amount of buzz, and it's catching the interest of people wondering how to take advantage of what it has to offer. If you're a"
-    publishedDateTime: 2023-08-03T15:29:00Z
-    webUrl: "https://www.chronicleonline.com/news/business/3-ways-ai-can-save-small-businesses-time-stress/article_1f782d41-a073-5a3f-a32f-eb7a77556256.html"
+  - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
+    excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
+    publishedDateTime: 2023-08-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/getting-the-most-out-of-ai-businesses-need-skilled-prompt-engineers/"
     type: article
     provider:
-      name: Citrus County Chronicle Online
-      domain: chronicleonline.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "When AI Goes to War"
+    excerpt: "That’s the future Lt. Gen. Richard G. Moore Jr., deputy chief of staff for plans and programs of the US Air Force, was considering when he made widely reported comments about ethics in AI warfare at a Hudson Institute event last week. While America’s ..."
+    publishedDateTime: 2023-07-31T18:29:00Z
+    webUrl: "https://www.christianitytoday.com/ct/2023/july-web-only/when-ai-goes-to-war-moore-kristian.html"
+    type: article
+    provider:
+      name: Christianity Today
+      domain: christianitytoday.com
+    quality: 41
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/d/e1/de164193-1cd4-5cfd-a4f7-adf60b113404/64cbc928c291d.image.jpg?crop=1260%2C662%2C0%2C89&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www-images.christianitytoday.com/images/135578.jpg?h=675&w=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "4 Industries Where AI is Changing How We Do Business"
-    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
-    publishedDateTime: 2023-08-04T06:18:00Z
-    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"
+    publishedDateTime: 2023-08-01T10:30:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-01/five-things-you-need-to-know-to-start-your-day"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Harvard Business School Professor Says Small Businesses Should Start Using AI Tools Like ChatGPT"
-    excerpt: "With the rise of AI tools such as OpenAI's ChatGPT, small businesses have a remarkable opportunity to harness its potential. This advice comes from Karim Lakhani, a distinguished professor at Harvard Business School with over three decades of technology research under his belt."
-    publishedDateTime: 2023-08-03T09:42:00Z
-    webUrl: "https://www.techtimes.com/articles/294636/20230803/harvard-business-school-professor-small-businesses-ai-tools.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 26
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/433236/harvard-business-school-professor-says-small-businesses-should-start-using-ai-tools-like-chatgpt.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
-    quality: 19
-  - title: "Column: Why AI extinction risk is a business reality"
-    excerpt: "The findings come just weeks after dozens of AI industry leaders, academics, and even some celebrities signed a statement warning of an \"extinction\" risk from AI."
-    publishedDateTime: 2023-08-04T09:00:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/08/04/why-ai-extinction-risk-is-a-business-reality.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "How Will Artificial Intelligence Change the the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-the-news-business-3-theories.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 17
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 32
 
 secured: "Jm1ErsWoKaV7UZUrGSlew/1OFb/4jerH19TcI0Hulxv9tkyFSDhJ9hUK/fKHlq9q2Vmika7jjyP+AqEDfBsbYW1wKa0fPe0tUf+6nR5iX4sM0laABDWciu2hb8t39mZ284K8f5/1Tz7/nzGkV+LMHpxUewKQh6l1391eDCuo+ZirP9nJVkV4nubj7GYJDwlE8a//xZOin12kRLqJ/cYo7qdk/OynXTi6+dAQH2hzXApk5GSMhEQywmfxgKm4Hy64BELYdvtL7o6XDQYE9VhQghgyxJVrd47wrzCVIRje6+2hmRpssK3f/GHzQBK8skaLSHjrEVERKVgischi/C6PuHqJ0RM4JmoYDXACJyWKjaLhfjSSed3Bsd95rhNd0TFpRFUL/TbIpx9Obg/iIIQD6IuRFAV3sroPE7DrfLZP6BYOBrYh0o+2UJUnj14I4gGUQhj9Mp7WUIJLbvFSPxij8++QDOc/Z4Cj2f//jTAYLGpmO5QCZmslSeQcsVbCQePqla8lAa6ivP146+BhBd6Nxg==;8rWaOELrbm9p4C+pxg7K7w=="
 ---

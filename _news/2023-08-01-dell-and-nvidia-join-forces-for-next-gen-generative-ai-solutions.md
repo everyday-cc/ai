@@ -156,6 +156,20 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "AMD's Lisa Su: AI production capacity has received sufficient assurance"
+    excerpt: "AMD CEO Lisa Su's Asia tour in July to secure its supply chain became the focal point for analysts during the company's 2Q23 financial earnings call. In particular, discussions on the production capacity of AI chips and customer meetings allowed Lisa Su to talk freely about AI."
+    publishedDateTime: 2023-08-04T06:03:00Z
+    webUrl: "https://www.digitimes.com/news/a20230804PD204/amd-lisa-su-ai-chips-mi300-ai-gpu.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230804pd204_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AMD plans to launch flagship AI chip by year-end, why it may be ‘bad news’ for Nvidia"
     excerpt: "AMD plans to increase the production of its flagship MI300 series of artificial intelligence (AI) chips in the fourth quarter of 2023. At its launch, Amazon looked to be a likely early user; the company's public cloud computing platform,"
     publishedDateTime: 2023-08-02T12:42:00Z

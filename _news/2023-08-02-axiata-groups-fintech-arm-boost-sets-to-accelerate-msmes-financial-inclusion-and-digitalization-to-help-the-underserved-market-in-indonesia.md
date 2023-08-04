@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "CIB FinTech and Huawei Jointly Win The Asian Banker's Award for Best Data Infrastructure Implementation in China"
-    excerpt: "At the Future of Finance China 2023, the prestigious international finance magazine The Asian Banker unveiled the winners of its Financial Technology Awards this year. Industrial Digital Financial Services Co."
-    publishedDateTime: 2023-07-31T01:25:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/269905"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 18
-    images:
-      - url: "https://www.ryt9.com/img/files/20230731/iq0a3101bae9d83ba1d3cba0e22d952a83.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Axiata’s FinTech arm, Boost to accelerate digitisation for MSMEs in Indonesia"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-08-02T12:02:00Z

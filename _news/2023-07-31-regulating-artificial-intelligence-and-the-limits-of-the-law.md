@@ -19,47 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Fifty Must-Know Crucial Golden Nuggets About AI And The Law That You Need To Know"
-    excerpt: "Start-ups in the LegalTech space see this same opportunity ... Of course, we don’t necessarily need to have a walking and gesturing robot, perhaps AI software is sufficient (though, don’t count out the day that we have both, consisting of the AI ..."
-    publishedDateTime: 2023-08-02T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
+  - title: "The Ethics of Making (and Publishing) AI Art"
+    excerpt: "Before we get too far in the weeds on the tech and ethics of AI art, let’s quickly overview the tools themselves. There are many AI art generators out there, but the major players would be Midjourney, Stable Diffusion, Bing’s AI image creator ..."
+    publishedDateTime: 2023-07-31T16:14:00Z
+    webUrl: "https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c9fc427710022fdf69db63/0x0.jpg?format=jpg&width=1200"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d544a90b6f0f8394bb21547c6af9ad8.png"
         width: 1200
-        height: 754
+        height: 675
         isCached: true
-  - title: "Generative AI: The Action You Need To Know Most About Is Getting The Least Attention"
-    excerpt: "It turns out that the most important changes in Generative AI plus ads are happening where you might not be looking."
-    publishedDateTime: 2023-07-31T23:43:00Z
-    webUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/"
-    ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
+  - title: "Tackling challenges of retail sweethearting with AI and machine learning"
+    excerpt: "Loss from pilferage ranges from 1% -5% of annual revenue, depending on the level of control retailers have over their outlets."
+    publishedDateTime: 2023-08-01T08:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7f3022455739b3f69db67/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 733
-        isCached: true
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"
-    publishedDateTime: 2023-08-01T10:30:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-01/five-things-you-need-to-know-to-start-your-day"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 32
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 53
 
 secured: "1un7US0r+dDrJLe/jyI2/ecKj5ez5ZNJc85b0wztkVSDv77Trmtd2VGEmC4hvBKDDsNm9Oi3WPw31auQ0Wr320yhNyEMkfGrx0JltQyDjit1uHRwneAFKO5a+eOtBLHkWLIsPF59iRPRIgEupBxap36WL8KHMvku3dAA3a41e6dKRvhny6Wb59ZanMuh9TgQtYHlu1YXLNjiswsOACCyxdkLQuXT4mgzYDpIxH/cPsBtTnA+kNrmMkFQqdAzYFThLvcspw0Q8TWGrzpXAVfzy2b/5xZwzpdBM1nYXbEgSjvQ5+y5HuAoRVrrttu6uhXFaTp5wZa8myA0aiwC7kE/+z5tLbG/yoBgZhnDfPOIRFw=;PMpIAU1AHUtplQl88zvXWQ=="
 ---

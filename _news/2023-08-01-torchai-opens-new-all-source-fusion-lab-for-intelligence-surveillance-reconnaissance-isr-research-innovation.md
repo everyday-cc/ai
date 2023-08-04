@@ -28,6 +28,17 @@ images:
     height: 242
     isCached: true
 
+related:
+  - title: "Fast Simon Launches Vector Search With Advanced AI for eCommerce"
+    excerpt: "Fast Simon, the leader in AI-powered shopping optimization, today announced Vector Search with advanced AI for"
+    publishedDateTime: 2023-08-04T17:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fast-simon-launches-vector-search-with-advanced-ai-for-ecommerce/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+
 secured: "MA13hNSEobZghkEQtcMyTrFaJ4IDctyLkYHyrayNQWT348UNUbQ4B54CpLRwfZQX+8G6NKS4UlBe8Z6dJ8PFkf6Zndu5/fzB9dLRlk5z72Yka6nZeyz+Ocu0weAHSEzOhRZyEi9pqUlG9WGWn8sek++c9h0gqZh2Dn1ALvQ7B3JxMiTTELR6jL3a04h7aAcGeqwEKiXCCHMAidvpy4N2Vjqm+VRHkKbQIoVRDowPU5iTwXloWZC/qI7u/f8J5F5jHZAWXePolVCl8N42AFE+rysHtrxRDwLdRJQCO/f0l1qPxzz8/8vyh6Cozz182vCKJNt0AxYBIBn+Jpv42enUUpqZVuGH2Q88SYOvD4nXjcvKaswIoOVGZo1Bjo5hegfkLp2an1Pb6QS3aVXi0Srv/BhTxY3qHul/Ck9TojG5eYvkn8AWUOtBQm4/q9ex6g04u9jHEXRVd2vctxjJYRoPU3F+6VH2m+lBp632TjO4lvV9SA+3jORtMaU6bN2CJHOJ6jDKS2I8OOV81CZKjC6I8A==;54qvJruMzYz97hd0ElMoRw=="
 ---
 

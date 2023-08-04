@@ -163,20 +163,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
-    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
-    publishedDateTime: 2023-07-31T01:43:00Z
-    webUrl: "https://www.brecorder.com/news/40255285"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 54
-    images:
-      - url: "https://i.brecorder.com/large/2023/07/64c6c8b5de187.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Duke Health, Microsoft to Collaborate on AI Innovation"
     excerpt: "The two organizations, members of the Coalition for Health AI, have forged a five-year partnership built around the new Duke Health AI Innovation Lab and Center of Excellence."
     publishedDateTime: 2023-08-01T20:34:00Z

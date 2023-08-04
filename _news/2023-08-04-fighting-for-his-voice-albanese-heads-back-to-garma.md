@@ -41,6 +41,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Albanese's inability to handle public pressure over his Voice proposal will cause him to lose the referendum, and ultimately the prime ministership"
+    excerpt: "Anthony Albanese left the Garma Festival last August without a pub-ready case to support his vision of an Indigenous Voice to Parliament."
+    publishedDateTime: 2023-08-04T20:00:00Z
+    webUrl: "https://www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05"
+    ampWebUrl: "https://www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 6
+    images:
+      - url: "https://content.api.news/v3/images/bin/caf27f7e9bc5124829e5fc5865c0db38"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "tc40LXwiJmyzIPOadVJz9xDvCTzviaJZb3ZCO16YVJYuSYCpLOv5WGEjECx4SIUUXj/m4fJoYtSOYJagIglDr/FxrbK/YErB9N4EXi5hIyrULy8fNQ+FZ/3M8083zZYMDi7YXrStiPHJzJGItoYzhZfHD3IBrhHlCd26C9VTt3TglkyGxPguOUghqdC/Jg9MorisDUvLfgiToqtGGAbub7oCwBXwHq1EnzntqTJQEu4HNp60jzlMLVOcrG3rm6bBKPqHuPjEjZZ7uuGI3JfAHQPShMwh9X2wEV6I49GlKtlpvKEJ10lFd5tjfH2uGYZ0XKjjWW0XzUREPY6yvmeIn4DHr0Xz8TWoIalfpCswa0I4SfJdoUBRkEsI+kC8xudVnJeOsieV/rQp8aPin1lck0S/EFIExbMcfpgwoquIqN1KLb30Pkz/aOQnMLnEFclWV4UQRfAxCE+rPv8bfrHAb2/uwZMUjrpz2TTHaHa9iK7kduOYWtsCo+fryZ+hoS2O3M/yzfuGAM3yp1Iyq/o83w==;67EevgWhYX9fE9bjTmH3NQ=="
 ---

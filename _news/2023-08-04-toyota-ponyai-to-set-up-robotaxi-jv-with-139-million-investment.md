@@ -52,6 +52,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
+    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that employ the startup's autonomous driving technology and ride-hailing services."
+    publishedDateTime: 2023-08-04T19:51:00Z
+    webUrl: "https://www.autonews.com/china/toyota-ponyai-plan-mass-produce-robotaxis-china"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
 
 secured: "R3V8Ynp1FLAaCFuu5d/7TG4q26HOjLfIZfrqoj216VdRol7YijC+F0+Z3H3w+R2ko4Jr1eEEv/vojLZ7BcwZ+UlkF8Z+AxZc4sxDU8LAFrDePk7MO3hQ74kITpgPjweTEznsEN7jGvW6rKAs8Xg5/40kCXsai8shpbh/SVK2Pnocr8jLBTIur1Y0LbMbgKrbtaPhaXl/Hpk/3dse0Jcg/Z6S+GoOZnzAjWn5T8iQoGvuJ11775eE2yvtPAd/u6YdpGEY+xycxRmzUIFtRPkOc39wTW0errszxElIdRL3LSWdDyaqTsv66NB9Dj22KLG4cRcAOBUE2bFR5Nrnkscc6m6ZBxPKCjDHLXgpoQ2QJo1Hz2fVRWljRqcGrFPHl2hTSs86kbhP/Ljd7Vjp/1+MTsuj2x1+Ofx/c5690Rejwn5VNLzcpK4uDmZ8aJj1yqxkF6A6KNrI/pLd9aWJcRBBgPJYHl4oCHxkmIalugGlBxjKFxi1eh7DU+7k7u19XyGSSXvKldqGdtLZm1110X+YPA==;7gOtYsNXJ1ujsjsxrCfPNA=="
 ---

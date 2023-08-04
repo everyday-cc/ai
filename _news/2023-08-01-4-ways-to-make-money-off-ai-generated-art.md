@@ -88,20 +88,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "When AI Goes to War"
-    excerpt: "That’s the future Lt. Gen. Richard G. Moore Jr., deputy chief of staff for plans and programs of the US Air Force, was considering when he made widely reported comments about ethics in AI warfare at a Hudson Institute event last week. While America’s ..."
-    publishedDateTime: 2023-07-31T18:29:00Z
-    webUrl: "https://www.christianitytoday.com/ct/2023/july-web-only/when-ai-goes-to-war-moore-kristian.html"
-    type: article
-    provider:
-      name: Christianity Today
-      domain: christianitytoday.com
-    quality: 41
-    images:
-      - url: "https://www-images.christianitytoday.com/images/135578.jpg?h=675&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
     excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
     publishedDateTime: 2023-08-03T09:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 356
+heat: 346
 published: true
 
 provider:
@@ -149,20 +149,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Ledios-Partnership-Hero-image.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
-    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
-    publishedDateTime: 2023-07-31T01:43:00Z
-    webUrl: "https://www.brecorder.com/news/40255285"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 54
-    images:
-      - url: "https://i.brecorder.com/large/2023/07/64c6c8b5de187.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity"
     excerpt: "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology"

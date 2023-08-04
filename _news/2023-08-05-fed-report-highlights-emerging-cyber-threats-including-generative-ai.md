@@ -67,8 +67,17 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 84
+  - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
+    excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
+    publishedDateTime: 2023-08-04T18:45:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/04/cyber-connective-corporation-provides-a-solution-to-ai-problem/70531183007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
-secured: "N5VdlX4BKZmCw83LnbDR4FNJRavwo76IqIn7Fa0opw+E4lvNGTP+/aAxzpg4pLjZugsUFQ7JBsCR4xMagusCXbmRyjgqFnY0/Y7w1Qd9XvtYb91NHQvaHA4ItPGaEEdcXWEBXBx/2SbFofCTUnGlH2L2op/02A6FIwVK+WQ+hkzBuWRzJWyXfrHIgA3cmE+B2Uy1DI343yKR9FPT1PnpIxqW1rZ5psxzuSThQErebQe13kgye32sSOCBTMdJMratBK+YZXpsagM3fcCtxKPP2D0wWohKWsHf0BN1WXoI3uGXEQhdBQl5aa92C+DfPRFQenCmZnn9O67Qlx3TpEUx1inl8OTGDKoZCYLCHbVtfx0=;HfBYqHQa8+k1McwObmOSCw=="
+secured: "0ZBIqzM+MG0OcNdbNrkvNqi+unn8/jwl7onnm/Q+XCOmXMNr5j37w2QXSZW1H1M2COLnESw1eNLQRzoXLa3C34EcMGTek/QQrzYf8bypCk6aRqbSrndl9yX83giGUFuqkoKJltTTNPwVW0QpAW0j+KmtFEtDesjneUrIrhg0XEP6ZS+kJncs/ny431Roxjg22xKrkAXBTdwW5I0QhF2X1XbPbIV+y3EUd7ikJU5ANKDRmqbcaDqdczBtvt6k4rQsXnwMDEEg5IC117Kc4mdgtob4r659kg8uvgLP/TVvHDdcGUre6n/fZk5OPDQl6L+4qpjwDkaQ7/+qZQone5s11oB/8XiBo3QkH395t4amNd3kxsvgIbRK6k9V1SrU3us+7VzEY5Er/OiYHOSI5do0TvTYcbT7384zCtv5z3QJ6cN9nBl4amLoKVBUEBmgNPksSwhHqXiQQtXt5QR3IMD7rkFN6b9siL4vgHcG+spG46KdPv7zFJ22wzMWuUxyD2x4hM1NCSnzOKd56W6Oml9N/g==;6HcMG2m7VwjhyS2uKMiy+Q=="
 ---
 

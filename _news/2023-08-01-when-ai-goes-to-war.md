@@ -26,107 +26,97 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways to detect generative AI hype from reality"
-    excerpt: "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims."
-    publishedDateTime: 2023-07-31T17:24:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google Assistant is about to get supercharged by generative AI, says new report"
-    excerpt: "\"We've also seen the profound potential of generative AI to transform people's lives and see a huge opportunity to explore what a supercharged Assistant, powered by the latest LLM technology, would look like,\" said Google VP Peeyush Ranjan and Director of Product Duke Dukellis in the e-mail."
-    publishedDateTime: 2023-08-01T14:53:00Z
-    webUrl: "https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/c8aef6052625489293039233897e8894049b1231/2022/12/19/d5fb7b9b-c0fe-4bdc-a3f8-a1256845858c/google-nest-audio.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI services pulled from Apple App Store in China ahead of new regulations"
-    excerpt: "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license."
-    publishedDateTime: 2023-08-01T19:05:00Z
-    webUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/"
-    ampWebUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ..."
+    publishedDateTime: 2023-08-04T21:14:00Z
+    webUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 80
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Smartphone App Uses Artificial Intelligence to Detect Stroke Signs"
-    excerpt: "Researchers created a smartphone app with the help of artificial intelligence to recognize stroke signs such as facial asymmetry, arm weakness, and speech changes."
-    publishedDateTime: 2023-08-04T16:43:00Z
-    webUrl: "https://www.medindia.net/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 57
-    images:
-      - url: "https://www.medindia.net/health-images/smartphones-to-diagnose-infections.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "4 Ways To Make Money Off AI-Generated Art"
-    excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"
-    publishedDateTime: 2023-08-01T00:00:00Z
-    webUrl: "https://www.aol.com/finance/4-ways-money-off-ai-210004112.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/C6hxRQ_vw8YbdvlKrH74Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5c0485666c27336018e48776dba7f014"
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
-    publishedDateTime: 2023-08-03T09:35:00Z
-    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
+  - title: "Fifty Must-Know Crucial Golden Nuggets About AI And The Law That You Need To Know"
+    excerpt: "Start-ups in the LegalTech space see this same opportunity ... Of course, we don’t necessarily need to have a walking and gesturing robot, perhaps AI software is sufficient (though, don’t count out the day that we have both, consisting of the AI ..."
+    publishedDateTime: 2023-08-02T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c9fc427710022fdf69db63/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 900
+        height: 754
         isCached: true
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."
-    publishedDateTime: 2023-07-31T15:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856445.htm"
+  - title: "Generative AI: The Action You Need To Know Most About Is Getting The Least Attention"
+    excerpt: "It turns out that the most important changes in Generative AI plus ads are happening where you might not be looking."
+    publishedDateTime: 2023-07-31T23:43:00Z
+    webUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/"
+    ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7f3022455739b3f69db67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 733
+        isCached: true
+  - title: "The Looming Ubiquity Of AI: Navigating Cloud Efficiency And Environmental Impact With CAST AI"
+    excerpt: "The allure from those who have invested billions into Generative AI startups have not considered the underlying reality of these high costs that threaten this current boom"
+    publishedDateTime: 2023-08-02T10:05:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ca220be7faf6a593775a99/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1129
+        isCached: true
+  - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
+    excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
+    publishedDateTime: 2023-08-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/getting-the-most-out-of-ai-businesses-need-skilled-prompt-engineers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"
+    publishedDateTime: 2023-08-01T10:30:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-01/five-things-you-need-to-know-to-start-your-day"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 32
+  - title: "Everyday AI: How artificial intelligence is shaping sports"
+    excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
+    publishedDateTime: 2023-08-01T17:47:00Z
+    webUrl: "https://techxplore.com/news/2023-08-everyday-ai-artificial-intelligence-sports.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 32
 
 secured: "vZC+vBt72OrsfbN05W+BaYun92wwEy06q+nhUNEU4Nejy8pQ3KLgLLtL+rRPnWDS58EQphWEVskO1pPrUGSxTqy2+k32Ck1yW968rJY8ViGEJ1yK2Zd8DENdQSIufdGniOljryglSqY3GepfImihrde8o4LTexQC8dvcYzjsSxffrc1K6DMTNNEEOy8fhm3IE86N/88XkLQ8WZr+ULNubryvwJcDXgi9bOqBoBtpJwTjSXWEuznXAXGZzLfSdWwK+EZm6YrxnQPXAZgH2GIbh+DOVEheJShAF7WyzPg5tWkZlwnPO+Aif5vxURRfQa9lheAsTMbZQLngIRuYgfVDhxsI1m8Eo7UiFZCdPm2WAhQ=;RO8RxqCOHq2BSW/wFfCpAQ=="
 ---

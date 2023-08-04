@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-
 webUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/"
 type: article
 quality: 67
-heat: 87
+heat: 100
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
+    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that employ the startup's autonomous driving technology and ride-hailing services."
+    publishedDateTime: 2023-08-04T19:51:00Z
+    webUrl: "https://www.autonews.com/china/toyota-ponyai-plan-mass-produce-robotaxis-china"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
 
 secured: "XfQOX6ieuqlPlqjwI+DXTjCWX2pOgrTeENnWPaKM/bCQqNf7LDA4JhDB1+tTfR2dSFqENhOUE1ABFB8um0fhanvT3MNST5ZDafeILQ4MLklSqnjGLeohnq3BdX8cyfASrhEMBs3SbGTz1Ao08ywua5AZ82I6ovAVOKi90oEIkiFisu/MYP4HH+ViPgdFsZNDiBoRLIBl7bh88YXR7LEwcEzFQ299bY3zjrxHycUy0s53tRBS/egCGxSz+CD9uYnX4CuQT/bYdrt7DYKXhxPVPUhahhkZ/yhpGgx/jtz6iVAMWOOndquNRSo1nOuSisAGIijruhB4BLtOK6reQ+hLDm/XS3KIZWoDz1BHKTHgCycjXfw/ZL8jCmDDb+pcj0z3JmuWYqo9UNQ3XTVcGPwoOLfjqJgjYFBFifwwoqBAmaMvyYAdJlmKZDnd5im4ZGS6os+vtkPEnOvuo7UBD2SAwH7k/U3+cuy16Z8a/T9Adjvw5n5hFsRowjY6gCP6TWYg4ULQB2DRQaHNatKFgiHpqQ==;/p7S7+N8PyghsE5YWaWjIQ=="
 ---

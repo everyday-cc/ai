@@ -75,7 +75,7 @@ related:
     provider:
       name: MedPage Today
       domain: medpagetoday.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://assets.medpagetoday.net/media/images/105xxx/105765.jpg"
         width: 1600

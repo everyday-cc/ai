@@ -28,14 +28,14 @@ related:
   - title: "AI Powered, Self-Driving Taxis Begin Service in the UAE"
     excerpt: "This is the driverless vehicle currently ferrying passengers around in two cities, part of an international autonomous tech company WeRide. They’ve been offering the rides for free, an attempt to"
     publishedDateTime: 2023-08-03T11:49:00Z
-    webUrl: "https://www.wyomingnews.com/news/national/ai-powered-self-driving-taxis-begin-service-in-the-uae/video_450d66cc-dea6-5ed4-8fbd-2de18096ee30.html"
+    webUrl: "https://www.djournal.com/news/national/ai-powered-self-driving-taxis-begin-service-in-the-uae/video_0b1f051f-2390-5fb0-bcd9-fcff00022465.html"
     type: article
     provider:
-      name: Wyoming News
-      domain: wyomingnews.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/4/50/450d66cc-dea6-5ed4-8fbd-2de18096ee30/64cb9ddf15fbd.image.jpg?crop=1127%2C592%2C0%2C21&resize=1127%2C592&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b1/0b1f051f-2390-5fb0-bcd9-fcff00022465/64cb9df4cf938.image.jpg?crop=1127%2C592%2C0%2C21&resize=1127%2C592&order=crop%2Cresize"
         width: 1127
         height: 592
         isCached: true

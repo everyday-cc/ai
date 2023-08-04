@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce launches Einstein Studio for training AI models with Data Cloud"
+    excerpt: "Salesforce today announced Einstein Studio, a new experience that allows users to connect and train their own custom AI models on Data Cloud."
+    publishedDateTime: 2023-08-04T17:51:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-launches-einstein-studio-for-training-ai-models-with-data-cloud/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Salesforce Goes BYOM for AI"
     excerpt: "Salesforce today launched Einstein Studio, a bring-your-own-model (BYOM) AI development tool that allows customers to bring AI models they have already"
     publishedDateTime: 2023-08-04T16:19:00Z

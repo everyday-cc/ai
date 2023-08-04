@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Albanese's inability to handle public pressure over his Voice proposal will cause him to lose the referendum, and ultimately the prime ministership"
+    excerpt: "Anthony Albanese left the Garma Festival last August without a pub-ready case to support his vision of an Indigenous Voice to Parliament."
+    publishedDateTime: 2023-08-04T20:00:00Z
+    webUrl: "https://www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05"
+    ampWebUrl: "https://www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/insights-and-analysis/albaneses-inability-to-handle-public-pressure-over-his-voice-proposal-will-cause-him-to-lose-the-referendum-and-ultimately-the-prime-ministership/news-story/fdb6a4011393cc22b5da621778842d05?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 6
+    images:
+      - url: "https://content.api.news/v3/images/bin/caf27f7e9bc5124829e5fc5865c0db38"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PrYJzBDBP3rEIEzpnjPI8kV+9GYnwA/KRYZWOqW5EiRPeONz3gvLju2bFT5NbXCijtlLF8FymjYHsIPNdDP9D3bsJ9IejtgBXhXOUS7R6nK7FgR8y7C6KLpMmjmzcEGANPh0OOoSfvkr4h4WQNrlZ9htNmTUUOCT/ddo5lGlu0jQpcpneBUgDpgUnHxFBgJRg+AT/d1r05hLId3mUSHmpIkPJbEn0wxaiGr1IVZ7VcRyO2cUKJ7C2mNO6jPt8ep30F1pgCcCp4w7nA1YndtJqgcaz7yZKQgCfH5Ez3GAO01fbGTnmXFIbgs/0txGDCF1uoPMDKOj7l5ExIfkaMlkngpFqyM1zYgVOn4k9TrB7oQ=;IKTQ6hpUkI6wqutvJGWFSw=="
 ---

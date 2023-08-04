@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-04T16:37:00Z
 originalUrl: "https://www.medpagetoday.com/ophthalmology/generalophthalmology/105765"
 webUrl: "https://www.medpagetoday.com/ophthalmology/generalophthalmology/105765"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.medpagetoday.net/media/images/105xxx/105765.jpg"
@@ -91,6 +92,6 @@ related:
       domain: yourstory.com
     quality: 19
 
-secured: "zTCU8CMIk90tYP4QlQNh/7kvVlGaYZFF7CdVVY5dubs7TAnqa6IjhiEEF6+YVcZ7Pbq8F0va1iiHsx2cR97ozCIPFnHTFM1R8qpkrlQSn3zRhsZksyPZbDDxKl+EgFpqicPWa8w2lvCPbrg/hYL5UcNXJgcx81QdALmpGy1YJQ/S54KTxquLFz8H1BGdKZZ9WwRxbc+e0MzcVR8xDuVtdXh05d4q2GfbEfBZ1cMsw3d9vZXCfbD79d4jq0XxKQKqRaQnmszuNfSj7wLp33EI1zRjpalIPBemV6f6RZWcT11Qs0Uphq34/gIzrLV1inip5SMBQf0hbzKLKYirges3jX/ST9MPQccGwGbhDavpx3E=;gR2XumEPWV1VjRSIWjv+yg=="
+secured: "uzWtq5tTezXKmRPqD1rtGtM7Xo0WLptfpaqJ0tr87FBZ9WTN7+5pk77/Qu/pGmL+/IYnqCBmsLQRogXOLicJCv8Td98/2f/N3b7w8T8WeoRa9aTLp/zxyvmXiCRAhASXms6haj9ckEhcpmUw+A8gDYaC0hxjh17Zc0MMVseHsgMEzU7odB37lKaZ80XI817MPGfhGrDDVEcOZsdG6SgGgzR2hHD6wWhErXIfphHCzXt5KI96qnKZnQz9DDBvw4eZJa5Hds1FZv8WiEoMp3yrLxPby89bEEY67OE/fUyS1Yn7zSnNnStUN0j5b1aHe9B4p6TSU3DVBjGqZKhgzpAwrfgswPVignVaMYlmUO7ytsROhAs99IcIAbeah5bkWffHwvnP+ySQzZHNsjjaTrqLAxjGiErJhvr6LKrJ0CDhG+YjmD8Fwx+7AsMuawYR2+qBjSiY5JSRN54djMkPBCNyI0f6RayJ2lOKgrZOd+oXHeSQULVtjKXiyAXBjWd70dVS7wPC2ZOIzS6jQSyetYcVxQ==;CBURCiMh6yHn9T8lezjmoA=="
 ---
 

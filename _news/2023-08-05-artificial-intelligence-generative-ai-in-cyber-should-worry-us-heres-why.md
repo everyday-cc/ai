@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-i
 ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
 type: article
-quality: 82
+quality: 84
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 related:
   - title: "A Practical Guide To AI In Cyber-Physical Environments"
@@ -71,6 +72,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
+    excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
+    publishedDateTime: 2023-08-04T18:45:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/04/cyber-connective-corporation-provides-a-solution-to-ai-problem/70531183007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
 secured: "WqFxLmt9RVSsZj4CsjO2amejpKi+pG3a0Bcojky9gZLRWHJxDIiU30dxY20+dwFW+puaHXnPaT413gZ0duh4ztXJtiJ5S42Mfyng5DxeuOg4tKZSoh4jsf50SHcMW+q4zOuAI3hcKMbcDccvGQeJHVjKwDOKiCedGpd89JJawH9ERfuGUpsV24Y+II7UrKD3m9sc3EFya3NPqrrSaZduJL4zTXV7vm59a3Ml0/tuYIslOMxqS8UnmJY87jQYfAoaqPlHLC195/Hkp0SgU5dOA4kAzusQoNUgejtVFDgXaZiAqCXpr0TO3m06yOKiYOVLXtE2U9jcrs7T78rB61UWSZ3g5fNhr9VuDJH7OndR4ON2qHf/YGMZWu6CI7tAKyKLF7Fn3NB+BLvI7a411bFSrPXDoTEe3RqBUR41Vtp0pl8X5EiKEf4PTuV97KYbvpWgFG65zf4fn4Jrz5X+8uX8QIjfUE0n9fBh5Hp1N3bAgObPSqVoxqk3L+rpak8CWcdltVxedWMsO2LXTjh++/7+FA==;208PYnNSVWuE9IsQSoWc3Q=="
 ---
