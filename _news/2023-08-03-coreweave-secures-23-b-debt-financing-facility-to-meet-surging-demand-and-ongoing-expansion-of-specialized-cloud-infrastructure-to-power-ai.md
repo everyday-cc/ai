@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gen-AI HPC infrastructure provider CoreWeave scores $2.3 billion financing deal"
+    excerpt: "CoreWeave, a specialized, AI-focused cloud provider offering high performance compute services, has landed a whopping $2.3 billion in debt financing from several private equity firms."
+    publishedDateTime: 2023-08-03T22:13:00Z
+    webUrl: "https://www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.html"
+    ampWebUrl: "https://www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 55
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/data_center_corridor_server_room_with_abstract_overlay_of_networked_connections_by_sdecoret_gettyimages-1197646065_2400x1600-100857776-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CoreWeave secures $2.3 billion in new financing for GPU cloud, data centers"
     excerpt: "CoreWeave, a specialized cloud provider of large-scale GPU-accelerated workloads, announced that it has secured a $2.3 billion debt facility."
     publishedDateTime: 2023-08-03T13:00:00Z

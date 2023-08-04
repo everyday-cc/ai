@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-03T16:04:00Z
 originalUrl: "https://venturebeat.com/ai/hailo-unveils-new-edge-ai-accelerators/"
 webUrl: "https://venturebeat.com/ai/hailo-unveils-new-edge-ai-accelerators/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-1-e1691073023165.jpg?w=1200&strip=all"
@@ -43,6 +44,6 @@ related:
         height: 210
         isCached: true
 
-secured: "TZX5dKTI8yaDkzQ1IRht+VDPPaqejnAykvzUcit2Cga7MhQ23+vgTSGZxkp0aIIJ1IxFL3edDyLsKBc+TMESUuJMqTd58aG7PPhvkRRtVu7HNq1igTCSWqoiGsQE5mHETn6PAsmO+IgLdz2HIPzYBc9RiSKfaKudsKx53qLwRvYeL2jKUTNUAeODcsR8KVJth1r4SAzlI1qPvR1QhAYjjK7rKqnrLtiwIeJvzVEbTEdPlykzYT2Rlt9OY8P642QRK02rVh1XUascI3hfgcOd9bbq1/15ZfVxwZbRtk3Dy8TU6nOA2XbvHTesvH/+or344h0auqjtY/iJQ7s4hXDAtwV9A7nt/Jbh8zDXixnR4ak=;sApvqpWoYtDm09FfYk+vig=="
+secured: "39++eVOzJSJH8aRzwlPijXwYsY2TtaEabQce2wJjBpSozLWtjDBHbVWPqbrrKxkZVsuIDlUIZBdMgLyijHNxb91bHhmb3hqI8zmT72j1H/d3szMDVaf/Ou/wUh26SKqrz2nuatrjBxzweNpsLLXDCBsEDUmqUIvvWyBGpolwMTWecJx3lJ65lHXE1BTy21pmL4de0jzY8lmxga5u08F2nZIXaTcsu+E3wSeZHFqlqO3XFMge2OxAdbL9hInc7roLXcE1pVVgk9B19XQ1x7yPG1m/HYdAc7ZeE+r2tIR3OEwcCzME6K4HulTa/SAnIzaDRk6u5qhzu0FFe5q2UldUjzHquGAvyESXvhFGKHJb+hUZJS3HpZL2r5wk5z9b/G6jmQ21nQTDEZQZur+EPMBTDqYyGngftwvsEyxCz9yIG4dJNHiTk/RvDIYhf01Tl9XiqBK/d7VrrtfWkkZ/fWhun/nvCxZmrbEVyrRSzJJaS4WlRbSQbH/p5ps0Io4dNPlAPY8tcZEsP404JuVFvJqKUQ==;a1gq8C4wje96Jb6Nycv4Ng=="
 ---
 

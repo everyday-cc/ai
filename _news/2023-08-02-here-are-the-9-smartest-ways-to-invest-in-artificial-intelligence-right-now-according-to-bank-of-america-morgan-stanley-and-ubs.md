@@ -87,20 +87,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial intelligence loves America"
-    excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-30T06:03:00Z
-    webUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "mVlJ1N9FiOFeQ09jJJuq0D17tmgiSx/UAT/DenfpjWpxHbHyS5MNiVqVHL8OdKEipHjhgisYMk+/w4OcWiSZ1zZwa0lGJXiTUf9/py/fW/uvk1o4hPPt8wBY/2A0bCI8Fv7tRYrPA8JWkr/F2U9vke9nNzgzXubxNxtAKkd9EYHKviGxj5u8dv6cxNhWx84Nw6VxTa1PFHFHRWVBtIJyltJKdGLF3IYb+8sQfua38PrmASemKf1d9cEpUyxy+oPFKIvRp9gRFxl7ihG/NRRv1bm2cdtkEQVGHO3lmWifj81MrywnzOi2aYP9Z7/aOzrD8XFWivgtHMZgS4GFiUTgdbOCHsaZ11ZMCFnzThDFhjsTojNEwVWT2to/fi45xodXUHu2aIomNl3ZcWUHMLnoRenU/vlXBxOV7wVCMuLNoUWLETpy8OPx69UVMt9c38EnXkDWNrNgOqGU/IMfV1/xcQ6qLTZjtnqVx+J2Ng0QO8oWRwRLTf7kWTSySKsL8CcuRJ3dXGWXAjSWouGo0BAxWg==;qBw2FODjbJp69c8TAdy0fQ=="
 ---

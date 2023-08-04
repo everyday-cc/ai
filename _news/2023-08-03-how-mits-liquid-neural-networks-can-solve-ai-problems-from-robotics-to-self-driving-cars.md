@@ -1,23 +1,34 @@
 ---
 category: news
-title: "How MIT's Liquid Neural Networks can Solve AI problems from Robotics to Self-Driving Cars"
-excerpt: "In the current artificial intelligence (AI) landscape, the buzz around large language models (LLMs) has led to a race toward creating increasingly larger neural networks. However, not every application can support the computational and memory demands of very large deep learning models."
-publishedDateTime: 2023-08-03T14:25:00Z
-originalUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"
-webUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"
+title: "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars"
+excerpt: "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle."
+publishedDateTime: 2023-08-03T05:43:00Z
+originalUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
+webUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
 type: article
-quality: 40
-heat: 40
-published: false
+quality: 92
+heat: 98
+published: true
 
 provider:
-  name: acm.org
-  domain: acm.org
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
-secured: "8EMJ7qAvuIj6FaUgj8Sf6j0z2eUn32SqltrWI+rFi2tpFlAlDPK8y6VxMOtIKRefRG4BUocfeaAsldKZDJPoK40QI7FK+YJ9R8XMBrMBTSGUd6yW2ho080I/lZ5gbpDca3NgLPcJIRfGp6lExiX6WJK9mJk42GMUKUmgXgo5iHyy5+mJ/HtYD6thkkBaqdxMwpRskOgL3WrmQhV8XvX4UbG11s0+TSsAttPlafLXU8/LS+yh4cnPHIy4wOJdeWDndy2Jqcmdi1s2p1OQ3GpbJJAztUbkwVn6uPqtY5pNjFknY387Djh9ZEtKmrc8uKPPactrjG++z9LgGpX1dBMg/vhZS8WHfEoMe+p9g+uej9Vb6KfOw4l4/cw/X2UWrXuTVNnXYziSSEtP9krxM5tVM0oA2J7YItPBU5oR4UQcWkeKk8TkAPZehp57m8iEdjLosmcJ5tq2UJlozJMfXZbSGjIyKN9fW1QKQcIT7Lz+qTxZKlVZk+MInLTzKhaV8VHTcdUI8RpLJV74J0N9sO7GxQ==;o557wId0Q1mwjY1vTZQGQg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all"
+    width: 858
+    height: 686
+    isCached: true
+
+secured: "/pAvRMNg6T9McWkl1g9PzoMSL5fl7S242UtEj7Q4Wtg95+3nFkfoD+AT3ayI6OAEnF3ex0UXwwqS6YCiByH1FrNqjMvZGexkvRMZZhgueE4rPi9jAoXr1roCco+64jSKd1BgiFuqMIGimQYpiJ66NPBSu9fcLxvAQ+P9sfLD6AE94eg6RYnnRC5oOAaNo1egw86wLiHnvSHC5gyUDX0mQW9+0JW3Ca+qisMC72iFOsHnU8H/rqEaCUqSix+sYmo6Si1evsCxl8Ma0HdjY9OnNQ3D/U5s3LbQFOyG0sCLU4keUchg9l46TNZNRuzg8294SEzoahv3OpkFa8H27o+rc1dWjKEXDxIwGOZ4HRMKjWU=;UPV0174Msstfyz1Bul2ATw=="
 ---
 

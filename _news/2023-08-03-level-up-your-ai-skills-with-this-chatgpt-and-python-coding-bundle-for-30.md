@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-wit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
 type: article
 quality: 85
-heat: 167
+heat: 169
 published: true
 
 provider:

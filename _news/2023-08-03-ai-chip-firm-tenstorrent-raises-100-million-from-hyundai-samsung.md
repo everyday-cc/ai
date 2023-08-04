@@ -2,26 +2,30 @@
 category: news
 title: "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung"
 excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
-publishedDateTime: 2023-08-02T23:42:00Z
-originalUrl: "https://www.aol.com/news/ai-chip-firm-tenstorrent-raises-234211423.html"
-webUrl: "https://www.aol.com/news/ai-chip-firm-tenstorrent-raises-234211423.html"
+publishedDateTime: 2023-08-02T22:41:00Z
+originalUrl: "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/"
+webUrl: "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/"
 type: article
-quality: 54
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/be5a26815b63d27664ae3f61775d0255"
-    width: 800
-    height: 564
+  - url: "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -281,6 +285,6 @@ related:
       domain: crunchbase.com
     quality: 34
 
-secured: "OQ0uV738fi4vw2RJ/PnaxXfCFVNYU2CTIWhT6qpz+cKE7ynMBRCosCxok8AHbFHF7A1yJgxrhK88Up1iyqktZeEUIOr8CdWbSp9ufwunNJDrWaFipvNBM8SiX1GpV37GzTjt7GD+M377Ptvh/kC4I+keCm11Y4+PM0Vy5aXPsqsS1PiK3VO7uiX7XAOafTGlQqpgt5xZfy+2AfFvruk5wQnp6p8TtXtxxc1F3bIYl0/i9ciN9/zdwj0ODA/B93HcMtBuHpyga2sOT6/abSEekdsWjh+EnTtB6cPp1Lf+aPB0YrVy8YV4VnWH5zHkviXIv58+5QGKSkf1j0wEdDkGikxWUtdHAZFVI39s1b84TkAinDID9T27RfmF+sZTspkytjTpah7oLyGtft3kvyXsQRqKQa0/duoRiqkBbC1z6Cq654c6mv+wOT4aMm9q6tNblGscwlD8oSzdlYm5ftRH8I9nE2tAiDW8Fy4heytVeuFjpLUlZgm0vhJFJTmnHRq052HNLfKuZHuQYQEZQtiD8w==;Kv9AKNEe0Can2FQtJAht6Q=="
+secured: "Ef2M2i4TzC5LebJPW54PSRYAdS9aWmq2cmd8YyujQOtwtNmBf1xyASgHrXHBdp5ERZhSJiH652C2KI3hA6XSYfiYh0dUMxZx+w1wGujAM8fRFmfQobY4Z4mhwIa/AVv6fgfpQFv91lVUkx5CvP0014p6fnG9P5OhZHNWhF8rcLinCD0UXYx6z+LXL2qx5q9aIf/h6S77uarM/9z2aabP/MU3XvG3MrLzkuBr1D2uctoY57NWFd9cWi2g+gFrAw2J9n1NqfZw7crGYyTqOrfzg9j2KSHVjQnVrD0kDNMrcIgmSj421MpySccvIMGpPRSljZvenmHhf5q1TP3Osuftf8p9wxcFA41ro/pIvby1TDk=;TGXEQcuRRsrqkEuonfN57g=="
 ---
 

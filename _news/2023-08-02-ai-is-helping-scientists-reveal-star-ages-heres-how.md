@@ -56,22 +56,6 @@ related:
         width: 640
         height: 452
         isCached: true
-  - title: "How AI-based hiring processes are helping recruiters"
-    excerpt: "Predictive analytics can also help recruiters make data-driven decisions, optimise recruitment strategies, and identify potential attrition risks. Machine learning algorithms continually learn and improve from recruitment data, enhancing the precision of candidate recommendations."
-    publishedDateTime: 2023-07-30T06:35:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-based-hiring-processes-are-helping-recruiters-3192525/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design147.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How AI is helping satellites avoid hitting each other in space"
     excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
     publishedDateTime: 2023-07-31T08:53:00Z

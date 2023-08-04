@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/09/image/jpeg/zJQEuHMS5v67BKugegCEa7K59vq1AI7lMk8IRyXa.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Artificial intelligence loves America"
-    excerpt: "It's called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-07-30T06:03:00Z
-    webUrl: "https://richmond.com/artificial-intelligence-loves-america/article_709b1847-5f68-54ca-950e-3d91008eeb7d.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "LoFFU6nMLysvALjhihEKUprUASi21ayN5ZGDsao+pn0DwQU9y5+9QPcb5cpSbRsgJ/kitQ82hk3HQUp5JTQwJrlhuIu34IjNz988Y/t8BN7wYG2pT4E6ZKGAZLeGBwAQjdRZanYesBxKDpl9ffvOqXU7rdtxQVSpUvYMveAYRg3PlK0K06yXNoxayYkC1qPUg6u73FWKTiyxFosZqcTFCb0/9sJ+gXtZeFrONBOqOufzlSTMMI0ewwOlji1WBwsx3h0RCapSvtiykgNpzfjnD5PSUbO/TBEqkG5tvI5bp23gOo3wbpVAgRF/2NCDYqHwwkww5HrnNo8vvIJCzILu33XEcbU2xAJcEzarg7npH18=;JV1UdB3P8jRoO1xVMqAl4w=="

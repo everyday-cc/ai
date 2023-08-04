@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 336
+heat: 326
 published: true
 
 provider:
@@ -259,20 +259,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance"
-    excerpt: "During the recent Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure,"
-    publishedDateTime: 2023-07-30T05:52:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/azure-boost-remote-storage/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 45
-    images:
-      - url: "https://res.infoq.com/news/2023/07/azure-boost-remote-storage/en/headerimage/generatedHeaderImage-1690147793884.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"

@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-03T19:01:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/08/03/9859321.htm"
 webUrl: "https://it.tmcnet.com/news/2023/08/03/9859321.htm"
 type: article
-quality: 7
+quality: 25
 heat: -1
 published: false
 
@@ -15,9 +15,14 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
+    width: 400
+    height: 210
+    isCached: true
 
 related:
   - title: "How foundation models and data stores unlock the business potential of generative AI"
@@ -147,6 +152,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face"
+    excerpt: "Effort aims to widen access to NASA earth science data for geospatial intelligence and accelerate climate-related discoveries"
+    publishedDateTime: 2023-08-03T04:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9858664.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
     excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"
     publishedDateTime: 2023-08-02T20:17:00Z
@@ -198,6 +217,6 @@ related:
       domain: newsobserver.com
     quality: 0
 
-secured: "U1vhuRgwnEWlvnWzXKBkQik4P/xdDh6Y2GLD/I7vbQil+CrhJWYXyyQOzm+iZ0c6cFfmP7bdeLL8umm/pVozrbHf4FoMjzGaah3xj1K4OWuwopaXAcs9I6PzA6GdQ1NrUwhDTEhVkLd5pLtzCbgg3e5YLuPnl71Y6qceT+hj25I3PsIuKo9ek7tg5cBTimpPvxj4gQnkkZTy8kleI4nnRTX0V21r2CzOiT005qUuraVannyQy8FzD6lOGpDxdITL94NoNJbS4ZiNSLsSQji49lkqaO+0gZp2i1FX+sfh5hIfXEhHggJ03Bb+xacrGKTXG4SbFFiebySmbBfpQwjND6Pr96PCEkgcjSZdKoQEM6DV/vhn9Ya16pnURiXLuk0oF5TA24M8LMyAdNQSfVQiE06VyM4/YC1EeWsVcBZjICJ1u9A1wCB8K4fTnnA6BlVuK9aNGEOfgVGbJmjPY0n6gJO5B2dXR0aZiRKd+C3qmk7QMZuFtRemOPgGvEj454qyiMfA0gzdrQaZ4NRV/oLNbA==;AqUDV3fHTF1TpMrvhPIlWw=="
+secured: "gzuGA07PoIGjFOfQze+zknZVHczY/OYr3bwuBrLfScCwzcZRtiEkuKAtYuNKH1oKfwSXmkcC6GGFXVOhy2pWkivIM5UsBbJMDEJK8H1e+72ZvdAp3AgR86VvEVZM8wIKbNJvMuKzmUeRnPBI1EFcrBlWaB4WNzBQzZZIH3UVihdpgctBboh4DUkCmyEzPEouflSDzQPcrwCeAKBQlLZc7iBoMOr73vxCJKoH5pD2he7WlAc4pDbo1YX4P+IeZUly9FmBLcK2/wyc2b6npXVD1u2E4jI2NQrj7T8TriLEdjixL67kS1bQCCsJsfC5UxPHaTZe8QAH/q3KWdWY/IibjA9zDChdnVfHLODYdWMB+OE=;vR7k607usIDMOuDj36br1w=="
 ---
 
