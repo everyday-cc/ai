@@ -56,6 +56,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 4
+  - title: "Financial Inclusion Focused Leading Indonesian Fintech JULO Launches 5-Minutes Instant Credit Facility - JULO Turbo"
+    excerpt: "JULO is a leading fintech company that is revolutionizing access to ?nancial products for millions of emerging consumers in Indonesia. The company is one of the first to develop a digital data-driven credit underwriting and risk assessment platform to process consumer credit applications and determine their creditworthiness using its mobile app."
+    publishedDateTime: 2023-08-03T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/03/9859563.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PHAmOB1TkZwZqGjw8wVNUB04uEXQJ/9t/orrAiZ4xk1UhkVYQLONTAWsb47/BBtq2MGiIbycmXEZgzKX2qERFG0ngg5sGxbykIlz6ta2uTciz4QR3J7ADQckoS22t00T0bSX3InbKCXyKKn7a+U73UcyhSLJNvJjEPCvKNMvaSdCKLl0nS2M1iclMHpGku4gIrcwcj2hJLP3JlZXWMjGgWdkJ6jJq9IaENA2xJBTY2lTODUQMI1UyK5xsvGXlDQLgPehmvFNG3e7o7bU0Ie0hvGhm9w2l9jBWx2a3WXxfoVcZMsNnG9+sD3DHxU39q12GBj8IMCagX9yiJ4zrvAJfv/s34RHCsP+pj/BC6q4RIfUPZ/p4V/7/wCh0VBmf27x+dO3icB/Ri6PGaZagpKdfshxLtGr47TmvccaeWcbNZi59934zjsm2B+1QIq6Ihvefabs1GAaabtyt5j8lRN6dbpTrd4QMpZlww+9SWmDhaD2ZDIJhZFf3Xfhf9BQj5gPXBO4CcCTxr1oCgwXt4KZDg==;XTHo3eoc3zHVZIkWyqmixw=="
 ---

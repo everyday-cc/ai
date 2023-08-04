@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-27-benchmarking-deep-learning-methods-for-more-accurate-plant-phenotyping.md",
+      "title": "Benchmarking deep-learning methods for more accurate plant-phenotyping",
+      "excerpt": "This imposes a certain bottleneck on crop-breeding programs. Currently, most machine learning approaches adhere to the supervised learning framework with labeled datasets, which can be costly and ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-benchmarking-deep-learning-methods-accurate-plant-phenotyping.html",
+      "originalUrl": "https://phys.org/news/2023-04-benchmarking-deep-learning-methods-accurate-plant-phenotyping.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-deliver-your-first-ml-use-case-in-812-weeks.md",
       "title": "Deliver your first ML use case in 8–12 weeks",
       "excerpt": "Do you need help to move your organization’s Machine Learning (ML) journey from pilot to production? You’re not alone. Most executives think ML can apply to any business decision, but on average only half of the ML projects make it to production. This post describes how to implement your first ML use",
@@ -1340,49 +1374,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-researchers-build-neural-networks-with-actual-neurons.md",
-      "title": "Researchers Build Neural Networks With Actual Neurons",
-      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
-      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

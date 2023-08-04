@@ -2,6 +2,135 @@
   "page": 184,
   "value": [
     {
+      "path": "_news/2023-04-06-speech-and-voice-recognition-market-to-be-worth-6752-billion-by-2030-exclusive-report-by-meticulous-research.md",
+      "title": "Speech and Voice Recognition Market to be Worth $67.52 Billion by 2030 - Exclusive Report by Meticulous Research®",
+      "excerpt": "‘Speech and Voice Recognition Market by Function (Speech, Voice Recognition), Technology (AI and Non-AI), Deployment Mode (Cloud-based, On-premise), End User (Consumer Electronics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ai-machine-learning-predicts-alzheimers-disease-risk.md",
+      "title": "AI Machine Learning Predicts Alzheimer’s Disease Risk",
+      "excerpt": "The AI machine learning model revealed that age ranks first among all features in the age 40+ group and that the genetic effects reflected in the polygenic risk scores become more important than age for individuals aged 65 and older for predicting Alzheimer’s disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic77878%5D.jpg?itok=A8DBJyRM",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
+      "publishedDateTime": "2023-04-06T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031.md",
+      "title": "AI in fintech Market overview, With the Best Scope, Trends, Benefits, Opportunities to 2031",
+      "excerpt": "Apr 06, 2023 (Alliance News via COMTEX) -- United State – Global AI in fintech Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-why-artificial-intelligence-is-not-as-intelligent-as-we-think-it-is.md",
       "title": "Why Artificial Intelligence Is Not As Intelligent As We Think It Is",
       "excerpt": "AI is just a bunch of data and algorithms that are written by really smart ‘humans’ and Artificial Intelligence is only limited to the intelligence of those algorithms.",
@@ -893,117 +1022,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-ai-vision-leader-chooch-launches-imagechat.md",
-      "title": "AI Vision Leader Chooch Launches ImageChat™",
-      "excerpt": "By leveraging both AI Vision and large language models, ImageChat significantly improves data reliability and accuracy, making it particularly useful for use cases that require object detection and detailed reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-march-2023-riskalyze-fintech-five.md",
-      "title": "March 2023 Riskalyze Fintech Five",
-      "excerpt": "The Advent of ChatGPT has advisors buzzing, with 33% saying in a recent survey that AI is the \"most disruptive technology trend\" facing our industry today. Fintech providers are rushing to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
-      "originalUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WealthManagement.com",
-        "domain": "wealthmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-qualcomms-cloud-ai-100-bests-nvidias-artificial-intelligence-chip-in-some-test-data.md",
-      "title": "Qualcomm’s ‘Cloud AI 100’ Bests Nvidia’s Artificial Intelligence Chip in Some Test Data",
-      "excerpt": "Cards with Cloud AI 100 chips in a data center server. Image from Qualcomm video Artificial intelligence chips from San Diego’s Qualcomm beat those from Nvidia in two out of three measures of ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "originalUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofsandiego.com/wp-content/uploads/2023/04/Cloud-AI-100-Server.jpg",
-          "width": 1125,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "publishedDateTime": "2023-04-05T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times of San Diego",
-        "domain": "timesofsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

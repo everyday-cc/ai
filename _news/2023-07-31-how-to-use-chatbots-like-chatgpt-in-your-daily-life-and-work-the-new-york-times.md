@@ -292,17 +292,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "We’re using AI chatbots wrong. Here’s how to direct them."
-    excerpt: "After testing dozens of AI products, Brian Chen concluded that most of us are using the tech in a suboptimal way, largely because companies gave us poor directions."
-    publishedDateTime: 2023-07-30T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/were-using-ai-chatbots-wrong-heres-how-to-direct-them/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-01T15:55:00Z

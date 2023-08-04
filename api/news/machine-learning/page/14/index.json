@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-03-the-moratorium-on-neural-networks-is-a-continuation-of-us-sanctions-against-russia-and-an-adventure-similar-to-the-world-quarantine.md",
+      "title": "The moratorium on neural networks is a continuation of US sanctions against Russia and an adventure similar to the world quarantine.",
+      "excerpt": "I continue to deeply study the opinions of published experts about the moratorium on expanding the introduction of artificial intelligence in the world. I come to the conclusion that these opinions are not convincing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.securitylab.ru/blog/personal/RamilGarifullin/352735.php",
+      "originalUrl": "https://www.securitylab.ru/blog/personal/RamilGarifullin/352735.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-02T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "securitylab",
+        "domain": "securitylab.ru",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
       "title": "A brief history of artificial intelligence",
       "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",

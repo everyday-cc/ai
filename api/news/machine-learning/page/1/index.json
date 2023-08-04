@@ -106,6 +106,59 @@
       ]
     },
     {
+      "path": "_news/2023-08-03-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
+      "title": "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars",
+      "excerpt": "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all",
+          "width": 858,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning.md",
       "title": "Transforming Healthcare: The Pioneering Path of Sumedh Datar in Computer Vision and Deep Learning",
       "excerpt": "Introduction: In the rapidly developing science of machine learning, Deep Learning has emerged as a transformational area of study, captivating the attention of researchers and developers worldwide. Its exceptional pattern recognition capabilities have made it particularly valuable in computer vision applications.",
@@ -740,20 +793,20 @@
     },
     {
       "path": "_news/2023-07-28-machine-learning-artificial-neural-networks-localize-extrasystoles.md",
-      "title": "Machine learning: artificial neural networks localize extrasystoles",
-      "excerpt": "Neural Networks Learn from 1.8 Million ECGs In Artificial Intelligence in Medicine, researchers from IBT and from the company of EPIQure in Karlsruhe report how they use deep learning to localize ...",
+      "title": "Machine Learning: Artificial Neural Networks Localize Extrasystoles",
+      "excerpt": "Up to a certain number, ventricular extrasystoles are normal. Ventricular tachycardias, however, may impair cardiac action and even be life-threatening in case of existing cardiac insufficiency. Ventricular tachycardias may be treated by catheter ablation: The origin of the extrasystoles is ablated by high-frequency current via a special catheter.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/997044",
-      "originalUrl": "https://www.eurekalert.org/news-releases/997044",
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235994",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ca1b31a0-667c-4b71-9c2a-45bedef70d76/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/60263_kit_logo_en_farbe_positiv.jpg",
+          "width": 1181,
+          "height": 547,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -763,11 +816,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T16:59:00-07:00",
+      "publishedDateTime": "2023-07-28T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1308,58 +1361,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential.md",
-      "title": "Liquid Networks: Unleashing AI Efficiency, Causality, And Adaptive Potential",
-      "excerpt": "To engage the community in the AI conversation, on June 27 2023, CSAIL co-hosted a symposium in collaboration with John Werner’s Imagination in Action on AI frontiers and Implic",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "originalUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "publishedDateTime": "2023-07-19T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

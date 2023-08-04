@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Karachi Airport Gets Facial Recognition System"
+    excerpt: "The authorities at Karachi airport have taken significant steps to enhance security and prevent criminals from fleeing the country. The installation of"
+    publishedDateTime: 2023-08-04T06:59:00Z
+    webUrl: "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/"
+    ampWebUrl: "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 74
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2022/12/Facial-Recognition.jpg"
+        width: 1000
+        height: 560
+        isCached: true
   - title: "IIT-Madras to introduce facial recognition attendance system, app coordinating parent visits as part of suicide prevention initiative"
     excerpt: "In the forthcoming academic year starting August, IIT Madras will introduce two practices as part of its suicide prevention initiative — a face recognition attendance management system to identify students absent for prolonged periods of time and an app that will let parents have regular interactions with their children."
     publishedDateTime: 2023-08-02T05:14:00Z

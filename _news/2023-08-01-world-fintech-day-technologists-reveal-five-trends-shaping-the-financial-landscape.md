@@ -57,6 +57,15 @@ related:
       name: Macau Business
       domain: macaubusiness.com
     quality: 0
+  - title: "Financial Inclusion Focused Leading Indonesian Fintech JULO Launches 5-Minutes Instant Credit Facility - JULO Turbo"
+    excerpt: "JULO is a leading fintech company that is revolutionizing access to ?nancial products for millions of emerging consumers in Indonesia. The company is one of the first to develop a digital data-driven credit underwriting and risk assessment platform to process consumer credit applications and determine their creditworthiness using its mobile app."
+    publishedDateTime: 2023-08-03T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/03/9859563.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "IwREVkf80C4vxmpgkxSoPqkayV3RlwlKD70NCZnkWxzGf59h5lGWIBmi6OlGM+25TeCJiSb9mzD3M9mxQZv+03uXQVEMKVaW3AtVcH5Pxk0JsM2/JQqzSn4qDy7xR1JSiQa+gBYqnJ82UOLKpLm8g+4gt+VG+JO+E/tpuq1kNi3rE/z61tjw3Y4OH3HpkcUw4gnuvmIou1kylq8jmvCVRYh7ikJiIfiJKlkceAhnHtsZBbgtZa+Cjp3i66npQArl4lsQoMeSSDM0+dkwSuymPvE0HQ7+HMKj59QRqGdHGM6zOSMPw2XiOY/9cp/4LtBd6sy8JUbEvO0JofDA9Zb3T9OBMMyiM2ZvIU/odn+ifxqzq5YCPl5fkFQdIqBLfL6ZsClJznTz4RpS55Q+Jf3K32CVaqQeWGDx6+gTvmHTKcXj/mF+vylH+Dx965LyIwSASZvAppdHpC9tnIzibKkv5uigTPBtdnhFHNEgfl0uKXhU/TI40cYLa+rczsz3e2VwaB0PiONKd4oL1iWQb/nfEg==;fLuG/8WuALSyQbyKNme5wg=="
 ---

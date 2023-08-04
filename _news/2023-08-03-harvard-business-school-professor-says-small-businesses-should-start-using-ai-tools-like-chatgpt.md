@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "4 Industries Where AI is Changing How We Do Business"
+    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
+    publishedDateTime: 2023-08-04T06:18:00Z
+    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Everyday AI: How artificial intelligence is shaping sports"
     excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
     publishedDateTime: 2023-08-01T17:47:00Z

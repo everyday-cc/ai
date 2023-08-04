@@ -43,6 +43,22 @@ related:
         width: 980
         height: 556
         isCached: true
+  - title: "Karachi Airport Gets Facial Recognition System"
+    excerpt: "The authorities at Karachi airport have taken significant steps to enhance security and prevent criminals from fleeing the country. The installation of"
+    publishedDateTime: 2023-08-04T06:59:00Z
+    webUrl: "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/"
+    ampWebUrl: "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 74
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2022/12/Facial-Recognition.jpg"
+        width: 1000
+        height: 560
+        isCached: true
 
 secured: "qlJXysdQWftss3Zad8BPwWcbtnD/zDwgd+51L49eG+zMkvBhM/mOdCmHQRTiEEv1/2SiexY2LBy1RA65AqxqsSWI9rfuRJ2mpB+Th7b9+yHYxaq46sa7Q4nuKXajE7Bv94I34528Ymt+Aky52rAOdqrhZsWk3b13fBaEBCqkR1XM4JW/FVHQzdOQY4BeQ4WRxTKIoYSZiNq3Nf6FPPEZ3r0DCJYM/2uwUTUeOzsQlT48aKaxOPsqCdvGjzql0UtDw+WsbaomjInfEPY162Y/QVqxBIKgCjPH3pV1tsyIFRl84cL9q9vQhLHnsrX4MhyS+/RZYw8yC1zKQ8/mivUAkEmtHfXdAS41Z+0vlCu1lXY=;Jgye4Ib3K3Dy4h4A8xiKFQ=="
 ---

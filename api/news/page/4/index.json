@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-01-how-ai-may-be-used-to-create-custom-disinformation-ahead-of-2024.md",
+      "title": "How AI May Be Used to Create Custom Disinformation Ahead of 2024",
+      "excerpt": "Generative AI won't just flood the internet with more lies—it may also create convincing disinformation that's targeted at groups or even individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-ai-custom-disinformation/",
+      "originalUrl": "https://www.wired.com/story/generative-ai-custom-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64c83a397bdca8cda5f9f36b/191:100/w_1280,c_limit/head_reflection_ai_disinfo_sec_GettyImages-1250060818.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-what-socrates-can-teach-us-about-ai.md",
+      "title": "What Socrates Can Teach Us About AI",
+      "excerpt": "In his Apology, Plato tells the story of how Socrates’s friend Chaerephon goes to visit the oracle at Delphi. Chaerephon asks the oracle whether there is anyone wiser than Socrates. The priestess responds that there isn't: Socrates is the wisest of them all.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6299631/what-socrates-can-teach-us-about-ai/",
+      "originalUrl": "https://time.com/6299631/what-socrates-can-teach-us-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/08/socrates-artificial-intelligence.jpg?quality&#x3D;85",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-ai-and-college-admission-dont-autocomplete-your-application.md",
+      "title": "AI And College Admission: Don’t Autocomplete Your Application",
+      "excerpt": "Artificial intelligence has the potential, if used wisely, to serve as a powerful guide to traversing the path to college.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
+      "originalUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c85a0699b262e39549763d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
+      "publishedDateTime": "2023-08-01T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-google-assistant-is-being-supercharged-with-ai.md",
       "title": "Google Assistant Is Being 'Supercharged' With AI",
       "excerpt": "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\"",
@@ -1045,151 +1199,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.md",
-      "title": "Entertainment companies hiring AI specialists amid Hollywood strike",
-      "excerpt": "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike",
-      "originalUrl": "https://www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.my9nj.com/www.my9nj.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp",
-      "cdnAmpWebUrl": "https://www-my9nj-com.cdn.ampproject.org/c/s/www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp",
-      "publishedDateTime": "2023-07-31T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWOR",
-        "domain": "my9nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-can-generative-ai-save-journalism-actions-for-b2b-marketers.md",
-      "title": "Can Generative AI Save Journalism – Actions For B2B Marketers",
-      "excerpt": "GenAI has an almost insatiable appetite for ingesting source data in striving for breadth of topics that it can address as well as the natural language of prompts and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7cf6e2d4a46f86369db65/0x0.png?format=png&width=1200",
-          "width": 1050,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
-      "publishedDateTime": "2023-07-31T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-tech-forbes-ai-newsletter-july-29th.md",
-      "title": "Several Companies Face Shakeups In Leadership And Big Changes Coming For Tech - Forbes AI Newsletter July 29th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7c17e7a930dbd6169db63/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
-      "publishedDateTime": "2023-07-31T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

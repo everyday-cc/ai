@@ -230,6 +230,20 @@ related:
         width: 708
         height: 416
         isCached: true
+  - title: "Hyundai Motor Group Announces Partnership with Canada’s Tenstorrent AI Chip Company"
+    excerpt: "Hyundai Motor revealed it joined forces with a Canadian AI chip manufacturing startup, Tenstorrent. The South Korean automaker said it has invested in the Toronto-based artificial intelligence semiconductor company so"
+    publishedDateTime: 2023-08-04T06:46:00Z
+    webUrl: "https://www.econotimes.com/Hyundai-Motor-Group-Announces-Partnership-with-Canadas-Tenstorrent-AI-Chip-Company-1660584"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://f1.econotimes.com/2023/08/gqscobi7ey_th_1024x0.jpeg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Samsung, Hyundai, Kia back AI chip manufacturer Tenstorrent in $100-million USD round"
     excerpt: "Tenstorrent, which builds computers meant to train and run AI models, has closed a $100-million funding round as it looks to advance product development in a time of accelerated AI adoption."
     publishedDateTime: 2023-08-03T20:00:00Z

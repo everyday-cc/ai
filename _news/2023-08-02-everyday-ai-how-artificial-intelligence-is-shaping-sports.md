@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "4 Industries Where AI is Changing How We Do Business"
+    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
+    publishedDateTime: 2023-08-04T06:18:00Z
+    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Harvard Business School Professor Says Small Businesses Should Start Using AI Tools Like ChatGPT"
     excerpt: "With the rise of AI tools such as OpenAI's ChatGPT, small businesses have a remarkable opportunity to harness its potential. This advice comes from Karim Lakhani, a distinguished professor at Harvard Business School with over three decades of technology research under his belt."
     publishedDateTime: 2023-08-03T09:42:00Z

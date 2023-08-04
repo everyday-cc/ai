@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -121,6 +121,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/d/e1/de164193-1cd4-5cfd-a4f7-adf60b113404/64cbc928c291d.image.jpg?crop=1260%2C662%2C0%2C89&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "4 Industries Where AI is Changing How We Do Business"
+    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
+    publishedDateTime: 2023-08-04T06:18:00Z
+    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Everyday AI: How artificial intelligence is shaping sports"
     excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
