@@ -2,9 +2,9 @@
 category: news
 title: "AI chip firm Tenstorrent raises $100 mln from Hyundai, Samsung"
 excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
-publishedDateTime: 2023-08-02T22:41:00Z
-originalUrl: "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/"
-webUrl: "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/"
+publishedDateTime: 2023-08-02T22:30:00Z
+originalUrl: "https://www.reuters.com/article/tenstorrent-ai-idUSL1N39J23E"
+webUrl: "https://www.reuters.com/article/tenstorrent-ai-idUSL1N39J23E"
 type: article
 quality: 84
 heat: -1
@@ -299,6 +299,6 @@ related:
       domain: crunchbase.com
     quality: 34
 
-secured: "WJpgiFg7nHf8Px8XTizdoqnKW+d58UZHtI/AX2RgtziODAZ+ZAk/Tj4a1mFHtUnPgsai1CXyMjhIVeOpIvvanCft8ssJW+pVGC3WuhiHAhSIrK97uT7K3FOz4TNEigmEnrdynjpaIYghaafheJnaKAGJPlou40NGgZLWps5ZrSqq6lvTEFOwb0fExCOLQnGXzthcSQ1ynFjiurtqbgVqpZq0SfSFh9pIuJrXeyZ/6MVM99UYzB8UoNryDPS891xsu8ihX2Emvmlenf/curc/V0LDyBIca0zH2IdkpbTENlpUieFIAMKi7SWYb54QRbfyWhbfr69Y5xE9XlKDTs9ttM/wveuh1nPWbyl8t4N4lFmOqsPxkSF0jiRMdx72mdvZWvIdxU+wKM2piSOGuvzGsqAbdHSUkZBxaWEJkT0POE7NTTSiARmFXjf7bC6Nc5ESTs3yvciMdjNcagVZpXaMSNpjKSX1hf3IFg8dgNqvPc62pcLQy/4+rPxde/bo8HI6IQbv/xJ3JUGrxUKi3WvNrw==;2GAR7V40ldHF2WaRMr9nIQ=="
+secured: "OsVJ+cg3lJ+V8nCIpcYQr3gQt3EDzRiYmLRGE+HZi2IyWOJ998G4f4SfhXlNK22zhVhoVgzOcPEMADvSATooI3nP01RnxG+Pw2D4rKnC3iQKJFg/KlKAQe9dAE8ARyelqMGHfz2yx63NeCVTW2wi08gTEaCUOXppadlQFKMImyAwmwmWa3k6s3LVuadBAW1wAhQeTAenTZM5PHXEE8dU757/VFRdCogJdIc1gqzOFqq7KMjReN5+WGBjbOlhOWiW0at0Yu95wWsr7lI0H9Ljf8uejCXBp5Q2ETUsbX5Gl1AHlxF2EOosONk1tDWangwhzea85nr85PUzGx5pQRUyvv4Ul0m4ZklP5ro4Q8KYSmk=;eJfaOYhzxdZF10oI3CqCLQ=="
 ---
 

@@ -288,6 +288,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with AI chatbots and it doesn't take long for them to spout falsehoods. It's now a problem for every business, organization and high school student."
+    publishedDateTime: 2023-08-03T14:21:00Z
+    webUrl: "https://www.aol.com/chatbots-sometimes-things-not-everyone-085600233.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 38
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/6mrWWVfXMSYWCLmK7Et1Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/470a4915dd52e31c809a4e29003e6c2a"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
     publishedDateTime: 2023-07-31T15:28:00Z

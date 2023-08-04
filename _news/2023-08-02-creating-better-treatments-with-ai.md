@@ -162,6 +162,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Column: Why AI extinction risk is a business reality"
+    excerpt: "The findings come just weeks after dozens of AI industry leaders, academics, and even some celebrities signed a statement warning of an \"extinction\" risk from AI."
+    publishedDateTime: 2023-08-04T09:00:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/08/04/why-ai-extinction-risk-is-a-business-reality.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "How Will Artificial Intelligence Change the the News Business?"
     excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
     publishedDateTime: 2023-08-01T13:00:00Z

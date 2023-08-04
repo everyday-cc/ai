@@ -162,6 +162,15 @@ related:
       name: scientific-computing
       domain: scientific-computing.com
     quality: 19
+  - title: "Column: Why AI extinction risk is a business reality"
+    excerpt: "The findings come just weeks after dozens of AI industry leaders, academics, and even some celebrities signed a statement warning of an \"extinction\" risk from AI."
+    publishedDateTime: 2023-08-04T09:00:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/08/04/why-ai-extinction-risk-is-a-business-reality.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "How Will Artificial Intelligence Change the the News Business?"
     excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
     publishedDateTime: 2023-08-01T13:00:00Z
@@ -172,6 +181,6 @@ related:
       domain: nymag.com
     quality: 17
 
-secured: "pQoENZL27mQHV1dABt3mpZEV9Z8yMyTXU3GHYHiMnmk9gRE50Q73AXZeXhcC/CdpPT1rSip+3jtPQkmnZZmEfrFblKq5WSJ4+bFkItfr4yz779sIvLWI/1wTgIVVw2s+DKqgPr2JW6C74k9fr5PREuhuFt2q5ygYDyEtS97gwX9x72bttp6VICudQuIck6MtaJ2tmLoqrvlT+mMsvOEi6p5DXAO6Y835t7Qn42Tkp/FcNnlyOyMxCHu46Wo+92fk0Fd7G2qHfXSQpu+dGLIwabHyIMW3dAE/lzay0BndqJ8eBRsjM8Tb6aAVOi/26UnbIPPv6DpHDmUy0ObTa7+Fxlz+V40AwJyxwkFI0YmA/Do=;MEh4ewcMBT03QrHhwHKLcw=="
+secured: "HpAg4zW+0iTvccSip8O5DbV8bY+95zriM7rMYi5P4JawapYcpqNkKbKGlxZSNJXwEqATFx/HAo1XWUjiOvY+3WZYulY8Ft9z/eKE/boihe3HvUSSDszqFgPyGjEdLJBuISxpWejT70Kp3y97B+c8P/Zaq3XE+fDZXH2E2brXSxDMfFODETYLtBwfMMSuPeFMmLgp8H/CsvSMD3JMkOcEx2+zXTOGsscUfBUCpAy8Si0VVhfxWEbxDhD0vCyFSHM67vsiCjjQM9Jv6IEu8d6L/GZ3C1MVbeV09dhqqGOYCJ9fIVgKkHebc/ungHFUE1c87muHwyLkfbHON1wsTAq4lZlX8ajGZfOtTBVllzR3xf62h41y/3R9iAm+y4Py12HhhH3THwVlxGkFkjO80CZCmyDrS/ZYHWH8W53ZkYpynx7/OxtYDvDrlNMEo7sxbYwfxf2DOKQyV2xUGMu0pH7MbsFi3W4BKzEyLymnvwJpSnlJ8Gg2w/YMqe5zw2H9QbZYO2Kqmw/P3FMwyaXxE8evZw==;gHd/GsBgbH3jmyOu4cKH/A=="
 ---
 

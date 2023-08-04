@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Improves Protein Design"
+    excerpt: "A research team has used deep learning methods to support de novo protein design, resulting in a 10-fold increase in success rates for a protein binding with its target."
+    publishedDateTime: 2023-08-04T08:13:00Z
+    webUrl: "https://www.technologynetworks.com/proteomics/news/deep-learning-improves-protein-design-377259"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/377259/deep-learning-improves-protein-design-377259-640x360.jpg?cb=20230804"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Deep learning for new protein design"
     excerpt: "Coventry is the co-author of a study published May 2023 in the journal Nature Communications. In it, his team used deep learning methods to augment existing energy-based physical models in \"de novo\" (from scratch) computational protein design, resulting in ..."
     publishedDateTime: 2023-08-03T19:57:00Z

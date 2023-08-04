@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-new-text-to-mu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Meta launches suite of generative AI music tools rivaling Google’s MusicLM"
+    excerpt: "According to the tech giant, as it continues to develop new controls for the Ai music tools it believes MusicGen can become a new type of instrument."
+    publishedDateTime: 2023-08-04T09:20:00Z
+    webUrl: "https://cointelegraph.com/news/meta-launches-suite-of-generative-ai-music-tools-rivaling-google-s-musiclm"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNjg5YjhiYTctNDU1My00NzZkLWIyMDAtZmZlYTUyMzNjZDFkLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Meta Launches Music AI Tool That Generates Instant Songs From Text Prompts"
     excerpt: "The company’s AudioCraft consists of three different models that serve as competition to a similar tool released by Google in May."
     publishedDateTime: 2023-08-02T23:46:00Z

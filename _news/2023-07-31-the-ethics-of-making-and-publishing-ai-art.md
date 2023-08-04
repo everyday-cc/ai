@@ -7,7 +7,7 @@ originalUrl: "https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-
 webUrl: "https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Tackling challenges of retail sweethearting with AI and machine learning"
+    excerpt: "Loss from pilferage ranges from 1% -5% of annual revenue, depending on the level of control retailers have over their outlets."
+    publishedDateTime: 2023-08-01T08:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/tackling-challenges-retail-sweethearting-ai-and-machine-learning"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 53
 
 secured: "dbrhK75qvDqFYz5oUM9LakSS+8v00MxMDEVYo+He7VmQuUMUDlj0ETpsw4t+62UOHlzrMuGOXY3F/ypieWzknsVHOgQe/QN8RR5Z3/6ojuQnL/5B2XxDqqZapMHBO8p1BY+m5poSZUYDa/MudT/yVhGaMT8GeJgKnk2rh8s5WuEcUJo1r6OAzEfhWXjoGDPKfnFpI9NBzRo57KQ0xVDy4PQfxlB3PwrSsDUrRTMqniD+3Gkg8IjI3kldPrVrOS5dy5a4p/g8HWxbeByiS6RGdVn5qGX2Ssxw/0ERCrJNqfuLxp+ERx57XBCzsujR26ovKGx+xxEBCnZxj0uoyJkZEM7ahQciYeosGTNJCwvVgR4=;uJvaDt3r02CqtXcAEWB4yg=="
 ---

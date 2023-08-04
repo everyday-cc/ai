@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Wealthtech TIFIN, JPMorgan Introduce TIFIN.AI to Support Thematic AI-powered Fintech Solutions"
-    excerpt: "TIFIN.AI ushers in a new phase of fintech innovation “in wealth management across advice and products through the use of AI capabilities across use cases that include client portfolio insights for advisors, alternative investing, wealth management in the workplace, and insurance among others.”"
-    publishedDateTime: 2023-07-30T15:48:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210805-wealthtech-tifin-jpmorgan-introduce-tifin-ai-to-support-thematic-ai-powered-fintech-solutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/04/Sunset-Beach-Ocean-Waves-Fintech.jpeg"
-        width: 1082
-        height: 1280
-        isCached: true
   - title: "Fintech Innovations To Watch Out For In 2023"
     excerpt: "Welcome to the exciting world of fintech , where innovation continues to shape the future of finance. As we enter 2023, the fintech landscape is poi"
     publishedDateTime: 2023-07-30T18:54:00Z

@@ -170,6 +170,15 @@ related:
       name: scientific-computing
       domain: scientific-computing.com
     quality: 19
+  - title: "Column: Why AI extinction risk is a business reality"
+    excerpt: "The findings come just weeks after dozens of AI industry leaders, academics, and even some celebrities signed a statement warning of an \"extinction\" risk from AI."
+    publishedDateTime: 2023-08-04T09:00:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/08/04/why-ai-extinction-risk-is-a-business-reality.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "2fGHRl/C60LitUjCmtv4x+AFfy0O4JnSg3uQYQ5KgEQO8CZvE17VARWO76JlX81gliFsCwk6c17vp6inr3wjEqsujvjRkGghpDyfFZlEsEDSPODrJUi753v1gYCMC5If1Ng8mlDuGrmrnN8GeHKUKlZHahAu2dW6xrpHJ+lcboZP6JNk+JD/bLeuIITqMt1aEMrFhTgM96lIFY8nkgXGJB1KdXgG73rEHdD8j8/n7nLN+kmX4XXAhHNE2OLvnoM+ZuX7TB5NcfaLjt6qdCRLNr9s/gAjyxvOAiKtCBqaGxP6K/6+ZgFeJqsTDhP1O3ug9XlUKeyWNQ8aijymEKPcYK/lQW52tZWxVhLXaLPTVZJCTz8LnM2fARDX+qb08xdOKnZuXBnuzT5RM7ThHlVCsG1zBwkZJaN0M8HhcGxDIqSDRX9CKBnuR0kaBvgysCms8WVq00RftQm0K7MSGeUXtGBb3a6R9kivwS3QG/8dqFpGW8tT8xKpMuVip37rU3Rz7AFGNMc3fVf1Sw0pdSoapQ==;0PIFORZYf1KSpNKvHPl7GA=="
 ---

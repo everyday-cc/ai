@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Toyota, Pony.Ai to Set up Robotaxi JV With $139 Million Investment"
+title: "Toyota, Pony.Ai to set up robotaxi JV with $139 million investment"
 excerpt: "BEIJING (Reuters) -Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis."
-publishedDateTime: 2023-08-04T06:37:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-04/toyota-chinas-pony-ai-to-set-up-jv-with-139-million-investment"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-08-04/toyota-chinas-pony-ai-to-set-up-jv-with-139-million-investment"
+publishedDateTime: 2023-08-04T09:37:00Z
+originalUrl: "https://www.aol.com/news/toyota-pony-ai-set-robotaxi-063702352.html"
+webUrl: "https://www.aol.com/news/toyota-pony-ai-set-robotaxi-063702352.html"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_reuters_29/604cb3e2f2782414509103e7b40aef72"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "Toyota, Pony.Ai to set up robotaxi JV with $139 mln investment"
@@ -36,7 +38,21 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
+    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that"
+    publishedDateTime: 2023-08-04T09:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/08/04/toyota-pony-ai-plan-to/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ7307B-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "3czpX89BL4HyGX01GTFibA2Sb+PBm+dhxbTOXVWxfeT4I7tAZHz08u4Yh+9GNX3rph7zzLQl++MSmMyFhAcCIWKnKgfhWn8LE4doieLKS9iMKB1ySfaKFW864IAcuhGudxeumhrIwlKziEMz7R08QBoQOCFEpEzKZrAVSJisPUbJEZ6+rBThD/20zLo3/BRYIKkSqC/jd7yvhOsnE5k5cwQj/DbAdNwUG7JLwaBHjpbgs4Z3+dA0IUGXoXy6WxD7KABUDVZ4Ak50mGBaOn/GGTMeknu4ZnKXrfFDvPo9aZJ3P4BMKsT7/NKAE9qew6UR/IOeq56XifjZFN/4TO+8ibJ5wtFyXW06tubKWQYXjVpc5inXD/HH+dBu+orgbZ+QWYJbDewnct/jEgOAgV72W4kop93hEkZKgpJh327vfOApkjYM6IA9VTuKPbkO+aYimxkkuOJ3gzckqd65S2oySr6K2pXa6qJjg0f5d4GCL/1PthmiWJ4nvgrz8tYxUvpTQL37hrPjPM0X41yK4tIuIA==;Mzj+iLiDTKRfFk89JmQJjQ=="
+secured: "tHknBTQxxu1Bg3GpAaI70wLiXyy6jwDcd4ETulE66aXtqkKVNVfe7sqRIhGerOdh4fIyZye9CWpNIqrB1m8RiNMTNHPrEE1Epzp4B1yYkXUcN2QpxEGfJrO1MPhy0+3zPZL1+369fylc+QmBSXjZ0p0o8Vi+5jV3n9CIaoPssKvWz2Vhfwf+Vm3XA0R7/02Tt4SZA4kEpNaeQ3Xc8VI93LwFNZE0umG3w6OeWC5BbDDcDfKnjj5G0gTYOY9643UGHEqCtdbw8DF6z8a8dla6s5sNaxupoIoM6sUgzjAFfXSDlbUXBwpYPfKOYYOvn/9WxqH1OZpVwROT7eCcGdRvhknMqEWLnfq0GccxtWp85UM=;P/XRNC9NAMh0Rp3A79LU6Q=="
 ---
 

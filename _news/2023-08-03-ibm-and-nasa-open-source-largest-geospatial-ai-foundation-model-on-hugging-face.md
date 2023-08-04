@@ -34,20 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
-  - title: "How AI is fundamentally altering the business landscape"
-    excerpt: "Forward-thinking companies are right to focus on AI now — they just have to be cognizant of the risks along with the potential rewards."
-    publishedDateTime: 2023-07-30T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-fundamentally-altering-the-business-landscape/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_city_changed_by_technology._Colorful_futuristic_tech_1a64d083-9521-41bf-b01c-370b45655451.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
     excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
     publishedDateTime: 2023-08-03T07:01:00Z
@@ -95,6 +81,22 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
+    excerpt: "Datadog adds observability for Large Language Models and generative AI application components SAN FRANCISCO, /PRNewswire/ -- Datadog, Inc. (NASDAQ:DDOG), the monitoring and security platform for cloud"
+    publishedDateTime: 2023-08-03T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33554896/datadogs-platform-expands-to-support-monitoring-and-troubleshooting-of-generative-ai-applications"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33554896"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33554896"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Artificial Intelligence and the Broadband Business: A Black Box"
     excerpt: "Artificial intelligence is not new. What is new is that AI routines, seemingly suddenly, can interact in plain language. They can write, read and create or modify images. As long as AI was a math tool, most people did not notice."
@@ -151,20 +153,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIDatabaseintro.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
-    excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
-    publishedDateTime: 2023-08-03T17:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
-        width: 400
-        height: 210
         isCached: true
   - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
     excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"

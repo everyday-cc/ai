@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Spotlight On Crypto Innovations In Fintech"
+    excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"
+    publishedDateTime: 2023-08-04T08:44:00Z
+    webUrl: "https://menafn.com/1106782362/Spotlight-On-Crypto-Innovations-In-Fintech"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/04/C_efd5aimage_story.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
     excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
     publishedDateTime: 2023-08-01T09:40:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a
 webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-9306.png"
         width: 708
         height: 399
+        isCached: true
+  - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
+    excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
+    publishedDateTime: 2023-08-04T08:07:00Z
+    webUrl: "https://www.techopedia.com/google-deepminds-achievements-and-breakthroughs-in-ai-research"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 56
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/brain_02.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
     excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."

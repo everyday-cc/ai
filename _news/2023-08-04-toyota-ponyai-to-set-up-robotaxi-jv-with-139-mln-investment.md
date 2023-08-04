@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-
 webUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,16 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota, Pony.Ai to Set up Robotaxi JV With $139 Million Investment"
-    excerpt: "BEIJING (Reuters) -Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis."
-    publishedDateTime: 2023-08-04T06:37:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-08-04/toyota-chinas-pony-ai-to-set-up-jv-with-139-million-investment"
+  - title: "Toyota, Pony.ai plan to mass produce robotaxis in China"
+    excerpt: "Toyota and partner Pony.ai are planning to mass produce robotaxis in China, setting up a venture this year which will build cars that"
+    publishedDateTime: 2023-08-04T09:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/08/04/toyota-pony-ai-plan-to/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ7307B-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Toyota, Pony.Ai to set up robotaxi JV with $139 million investment"
+    excerpt: "BEIJING (Reuters) -Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis."
+    publishedDateTime: 2023-08-04T09:37:00Z
+    webUrl: "https://www.aol.com/news/toyota-pony-ai-set-robotaxi-063702352.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/604cb3e2f2782414509103e7b40aef72"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "MUP+VoPMYW2QICKx5gmZ41i7f6117FTw2y2DYh90XvVmvf+tA7dzZnEX9VGuhWv+0ynnpNXKdBUyWPVyYnNpMe41XczJj5r4LgdpwUwrgURghAONYecRNRE33+TdCfNEplgKauHLZMModmeXZARZy9w1780VZcQfoW5RzW6suYTc9G6uJCakTztMhKCtwyWul24uvwm0l5c/ueRNcnKTHNRTk2pAdm8tBJdWkYxhTkVtobpIxb4DZWj3Yat+J9ma0s3CD81RopIIMbut+NEmnmmS48QPz4Dk8Mr8A/kQbbWyr7wIg3grrIHOqkRgJtpKW1q5tdsIDakB6lMH2jCABSqCOOfUM7SR30R35q9S08c=;ZxkJg4qrj3HsSk7vI+bK1Q=="
+secured: "XfQOX6ieuqlPlqjwI+DXTjCWX2pOgrTeENnWPaKM/bCQqNf7LDA4JhDB1+tTfR2dSFqENhOUE1ABFB8um0fhanvT3MNST5ZDafeILQ4MLklSqnjGLeohnq3BdX8cyfASrhEMBs3SbGTz1Ao08ywua5AZ82I6ovAVOKi90oEIkiFisu/MYP4HH+ViPgdFsZNDiBoRLIBl7bh88YXR7LEwcEzFQ299bY3zjrxHycUy0s53tRBS/egCGxSz+CD9uYnX4CuQT/bYdrt7DYKXhxPVPUhahhkZ/yhpGgx/jtz6iVAMWOOndquNRSo1nOuSisAGIijruhB4BLtOK6reQ+hLDm/XS3KIZWoDz1BHKTHgCycjXfw/ZL8jCmDDb+pcj0z3JmuWYqo9UNQ3XTVcGPwoOLfjqJgjYFBFifwwoqBAmaMvyYAdJlmKZDnd5im4ZGS6os+vtkPEnOvuo7UBD2SAwH7k/U3+cuy16Z8a/T9Adjvw5n5hFsRowjY6gCP6TWYg4ULQB2DRQaHNatKFgiHpqQ==;/p7S7+N8PyghsE5YWaWjIQ=="
 ---
 

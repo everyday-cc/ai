@@ -3,13 +3,13 @@ category: news
 title: "AI companies aren’t afraid of regulation – we want it to be international and inclusive"
 excerpt: "If our industry is to avoid superficial ethics-washing, historically excluded communities must be brought into the conversation, says Dorothy Chou, head of public affairs at Google DeepMind"
 publishedDateTime: 2023-08-04T06:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
-webUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive?ref=upstract.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
 type: article
-quality: 51
-heat: 61
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -41,6 +40,6 @@ related:
       domain: realclearmarkets.com
     quality: 17
 
-secured: "YIk/qWrHoLPOpZDzkjwZBP5QXaRoN71RmSSvYngdLM15TaEipIkd+mXXYj+VK9l1rYUIp1P55ImhdUzsDtHHsH3mCvyV5C7l6BmzBUS/GFGXcgxIYH6Tmt9PSLuX4PJw8yT0Ywazd+g3NHYIqOkOutScYqU9ll+s0qB5PWwcgk6jAq5Dack345ekrmNX+Rw2FLd+eJTY+WCjB9C1l/Xgvuuo30fzr2Iw2QcDRq7P57H+c+NoNSfahRfJWZ6BxXii03FDeBs1fURbpLZfN8HmgxiszT6RDTpnslIANJsP0vWX9ZKT6txmMqDW578lrhyiYTU4hytHAqcdJBaF6vp2KuoSELl11TvetJK8SopHnlw=;fStwqtxmgZwtMCjLYMUIew=="
+secured: "Nwk7eQWHVfuZ6S+iGRNDFpv4XEq/8gbsMXPKWY2VYBv7LRqJ9hxSXAsTHAmmS29EJNMKxcXBTdXkm57Ad8fr70msKaHiBoqsn4/nPUzVJ0Bq8+ZET7s8xQOFgVYwtOCgchJrmZ397hL2T8srRGv6rHcGmBRVOIR8XfC1do7e8Ycknb8T4+nepDBzlVjMnkM19FTzPIl3SH0QXdD1xhcHRIJ0bflEt4xjDx6/rztALGbyTNy8ubMyX6Mx5klEgiS62a9SFYtmtfZ84MeVcYAmETT1bjc4xeDuBuEpYuUPGJ0nHBkLKsdZpitu7lhlp3+mf1hyOdJSB1vlu92a6VwS//Wlq/zEfiNRwHCbWSzaEUg=;xk5GZy5ZykTMx3D0UgzSHQ=="
 ---
 
