@@ -2,6 +2,151 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-01-buy-alert-3-robotics-stocks-nearing-super-attractive-entry-points.md",
+      "title": "Buy Alert: 3 Robotics Stocks Nearing Super Attractive Entry Points",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Before artificial intelligence (AI) became a household word, there was",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-high-potential-robotics-investments-that-look-super-attractive-1032497309",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-high-potential-robotics-investments-that-look-super-attractive-1032497309",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-ad-verification-company-doubleverify-to-acquire-ai-firm-scibids-in-125-million-deal.md",
+      "title": "Ad verification company DoubleVerify to acquire AI firm Scibids in $125 million deal",
+      "excerpt": "Scibids uses AI to create customizable algorithms that marketers can use to optimize their ad campaigns and marketing budgets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/doubleverify-acquires-european-ai-firm-scibids-125-million-2023-7",
+      "originalUrl": "https://www.businessinsider.com/doubleverify-acquires-european-ai-firm-scibids-125-million-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/635ab992513e8f0019c97443?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires.md",
+      "title": "Torch Startup Says Its Outdoor Sensors Can Help Snuff Out Wildfires",
+      "excerpt": "The California company is taking preorders for its first batch of 100,000 detectors. They plan to begin shipments in the fourth quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c810098eb0ed467b49763d/0x0.jpg?format=jpg&crop=1009,1009,x0,y165,safe&width=1200",
+          "width": 1009,
+          "height": 1009,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/amp/",
+      "publishedDateTime": "2023-07-31T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-cfos-how-can-you-evaluate-budget-requests-for-cloud-spending.md",
       "title": "CFOs: How Can You Evaluate Budget Requests For Cloud Spending?",
       "excerpt": "With more cloud spending comes more decisions for CFOs on what budget requests to approve from internal teams.",
@@ -62,7 +207,7 @@
       "originalUrl": "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -156,7 +301,7 @@
       "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-31-2023/card/read-this-before-you-pick-your-favorite-artificial-intelligence-stocks-YDcS2C0rg20vcZlkrMLT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -812,7 +957,7 @@
       "originalUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1064,146 +1209,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
-      "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
-      "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
-      "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-how-researchers-train-machine-learning-model-in-outer-space-on-satellite.md",
-      "title": "How Researchers Train Machine Learning Model in Outer Space on Satellite",
-      "excerpt": "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
-      "originalUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cryptopolitan",
-        "domain": "cryptopolitan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
-      "title": "How is machine learning different from deep learning?",
-      "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "publishedDateTime": "2023-07-30T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

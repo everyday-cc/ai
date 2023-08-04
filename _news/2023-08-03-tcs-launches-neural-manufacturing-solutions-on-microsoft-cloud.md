@@ -43,6 +43,22 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions"
+    excerpt: "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\""
+    publishedDateTime: 2023-08-04T17:19:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 100
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg"
+        width: 800
+        height: 506
+        isCached: true
   - title: "Microsoft Doubles Down On Generative AI, Announcing Copilot Pricing And New Generative AI Skills"
     excerpt: "Microsoft announced new pricing and features for its Copilot along with Bing search enterprise. A look at Microsoft's AI strategy and its competitive outlook."
     publishedDateTime: 2023-08-01T15:55:00Z
@@ -74,20 +90,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2023/03/arseny-togulev-MECKPoKJYjM-unsplash-e1679482039960.jpg"
         width: 7753
         height: 4353
-        isCached: true
-  - title: "AWS, Google and Microsoft are in an AI arms race. Banks are watching."
-    excerpt: "Cloud giants are making major investments in generative AI and large language models. Their financial services clients are mostly in test-and-learn mode."
-    publishedDateTime: 2023-07-31T01:01:00Z
-    webUrl: "https://www.americanbanker.com/news/aws-google-and-microsoft-are-in-an-ai-arms-race-banks-are-watching"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 73
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/8b4861b/2147483647/strip/true/crop/1400x735+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F73%2F93%2Fb4f2333c4c9683b20a87af71fae0%2Fcloud-vendors.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
     excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"

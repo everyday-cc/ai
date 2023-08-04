@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
+    excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
+    publishedDateTime: 2023-08-04T17:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/04/9859806.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
   - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
     excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
     publishedDateTime: 2023-07-31T23:29:00Z

@@ -2,6 +2,152 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-07-20-a-bull-market-is-coming-2-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-forever.md",
+      "title": "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever",
+      "excerpt": "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740240/bull-market-6.jpg",
+          "width": 2101,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names.md",
+      "title": "Corporate earnings season heating up, TSMC outlook adding concerns to AI and chip names",
+      "excerpt": "- Industrials: Saab [SAABB.SE] +3.5% (Q2 results), Electrolux [ELUXB.SE] -15.0% (earnings; starts preparations for a potential divestment of Zanussi and other non-core brands during the coming years which could be valued at SEK10B in total), Volvo Cars [VOLCARB.SE] -1.0% (Q2 results), Alfa Laval [ALFA.SE] +6.0% (Q2 results).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "originalUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editorial.fxstreet.com/images/Markets/Equities/DowJones/DowJones_frontbuilding_Small.jpg",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
+      "publishedDateTime": "2023-07-20T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-asset-and-wealth-managementembracing-ai-and-consolidation-to-win.md",
+      "title": "Asset And Wealth Management—Embracing AI And Consolidation To Win",
+      "excerpt": "AI and consolidations are reshaping the asset and wealth management industries as firms seek cost efficiencies and strive for market competitiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b889794b23d6863cde7b97/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "publishedDateTime": "2023-07-20T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-pooping-only-every-3-or-more-days-linked-with-cognitive-decline-research-finds.md",
       "title": "Pooping only every 3 or more days linked with cognitive decline, research finds",
       "excerpt": "Being chronically constipated, defined by the authors as having a bowel movement only every three or more days, has been linked with a 73% higher risk of subjective cognitive decline, according to ...",
@@ -1033,152 +1179,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-red-teaming-101-what-is-red-teaming.md",
-      "title": "Red teaming 101: What is red teaming?",
-      "excerpt": "Red teaming is the process of testing your cybersecurity effectiveness through the removal of defender bias by applying an adversarial lens to your organization.\nThe post Red teaming 101: What is red teaming? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
-      "originalUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T09:47:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-what-can-ubiquitous-radio-waves-do-for-healthcare.md",
-      "title": "What Can Ubiquitous Radio Waves Do For Healthcare?",
-      "excerpt": "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
-      "publishedDateTime": "2023-07-19T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data.md",
-      "title": "Use a generative AI foundation model for summarization and question answering using your own data",
-      "excerpt": "Large language models (LLMs) can be used to analyze complex documents and provide summaries and answers to questions. The post Domain-adaptation Fine-tuning of Foundation Models in Amazon SageMaker JumpStart on Financial data describes how to fine-tune an LLM using your own dataset. Once you have a solid",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/19/use-generative-ai-foundation-model-summarization-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T09:27:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

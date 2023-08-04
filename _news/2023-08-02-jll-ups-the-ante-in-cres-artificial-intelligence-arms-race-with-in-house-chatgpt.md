@@ -96,6 +96,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
+    excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
+    publishedDateTime: 2023-08-04T15:38:00Z
+    webUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Meta AI personas might be the most important ChatGPT rival yet, and you should be worried"
     excerpt: "Meta is working on ChatGPT-like generative AI bots for Facebook, Instagram, and WhatsApp - here's why that's both good and bad news."
     publishedDateTime: 2023-08-01T14:24:00Z

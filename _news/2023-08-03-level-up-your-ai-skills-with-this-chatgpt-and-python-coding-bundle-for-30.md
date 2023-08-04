@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-wit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
 type: article
 quality: 85
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2251011855.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
+    excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
+    publishedDateTime: 2023-08-04T15:38:00Z
+    webUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
   - title: "JLL Ups The Ante In CRE’s Artificial Intelligence ‘Arms Race’ With In-House ChatGPT"
     excerpt: "JLL is the first major commercial real estate brokerage to launch its own large language model artificial intelligence product, announcing Tuesday the firm deployed “JLL GPT” to its brokers around the world."

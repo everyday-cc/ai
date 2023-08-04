@@ -209,6 +209,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 64
+  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
+    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
+    publishedDateTime: 2023-07-31T13:36:00Z
+    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/02dd963ba26bae47a3c8f315e9289a81"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Visit Fort Wayne gets recognition from Destinations International"
     excerpt: "Visit Fort Wayne, Fort Wayne and Allen County’s official tourism destination marketing and management organization – Convention and Visitors Bureau – received a seal from an industry accreditation program."
     publishedDateTime: 2023-08-01T18:31:00Z

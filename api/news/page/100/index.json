@@ -2,6 +2,127 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-06-01-china-begins-digging-a-10000-meter-deep-hole-into-the-earth.md",
+      "title": "China Begins Digging a 10,000-Meter-Deep Hole Into the Earth",
+      "excerpt": "Chinese scientists are embarking on their own real-life journey to the center of the earth by drilling the deepest-ever hole the country has attempted at 10,000 meters or 32,808 feet. The project ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
+      "originalUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-aws-announces-general-availability-of-amazon-security-lake.md",
+      "title": "AWS Announces General Availability of Amazon Security Lake",
+      "excerpt": "Amazon Web Services, Inc. (AWS) has announced the general availability of Amazon Security Lake, a service that automatically",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/aws-announces-general-availability-of-amazon-security-lake/",
+      "originalUrl": "https://www.datanami.com/this-just-in/aws-announces-general-availability-of-amazon-security-lake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-opinion-weve-reached-a-turning-point-with-ai-expert-says.md",
+      "title": "Opinion: We’ve reached a turning point with AI, expert says",
+      "excerpt": "Russell has called for rebuilding AI on a different foundation to ensure our control over the technology — but that ... There are a few other big areas of work in AI. There’s robotics, which is both how do you make a physical robot that can actually ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell",
+      "originalUrl": "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html",
+      "publishedDateTime": "2023-05-31T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-we-asked-an-ai-chatbot-to-analyze-the-results-of-our-ai-survey.md",
       "title": "We asked an AI chatbot to analyze the results of our AI survey",
       "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots ... people will start learning less and rely on the bot.” “AI will have ...",
@@ -1028,152 +1149,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-the-ethics-of-communication-between-ai-and-humans.md",
-      "title": "The Ethics Of Communication Between AI And Humans",
-      "excerpt": "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/",
-      "publishedDateTime": "2023-05-31T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-cathie-wood-says-software-stocks-will-ride-ai-wave-next-these-three-could-rival-nvidia.md",
-      "title": "Cathie Wood Says Software Stocks Will Ride AI Wave Next — These Three Could Rival Nvidia",
-      "excerpt": "Wood defended the decision to dump Nvidia stock before the company soared to a $1 trillion valuation and said Ark is “onto the next thing.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2023/05/31/cathie-wood-says-software-stocks-will-ride-ai-wave-next---these-three-could-rival-nvidia/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/05/31/cathie-wood-says-software-stocks-will-ride-ai-wave-next---these-three-could-rival-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-leaders-its-time-to-cut-through-the-ai-clutter.md",
-      "title": "Leaders, It’s Time To Cut Through The AI Clutter",
-      "excerpt": "With so much noise surrounding AI, it’s vital for anyone looking at the role that AI can play in their business to cut through the clutter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/amp/",
-      "publishedDateTime": "2023-05-31T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

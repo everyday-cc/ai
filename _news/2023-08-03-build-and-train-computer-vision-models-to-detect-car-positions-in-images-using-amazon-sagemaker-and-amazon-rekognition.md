@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-comp
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/"
 type: article
 quality: 127
-heat: 327
+heat: 337
 published: true
 
 provider:
@@ -211,6 +211,20 @@ related:
       - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
         width: 2560
         height: 1280
+        isCached: true
+  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
+    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
+    publishedDateTime: 2023-07-31T13:36:00Z
+    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/02dd963ba26bae47a3c8f315e9289a81"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Visit Fort Wayne gets recognition from Destinations International"
     excerpt: "Visit Fort Wayne, Fort Wayne and Allen County’s official tourism destination marketing and management organization – Convention and Visitors Bureau – received a seal from an industry accreditation program."

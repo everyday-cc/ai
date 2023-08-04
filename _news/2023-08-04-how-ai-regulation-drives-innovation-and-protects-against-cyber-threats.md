@@ -46,7 +46,32 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why"
+    excerpt: "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\""
+    publishedDateTime: 2023-08-04T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+  - title: "Fed report highlights emerging cyber threats, including generative AI"
+    excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
+    publishedDateTime: 2023-08-04T17:15:00Z
+    webUrl: "https://www.complianceweek.com/risk-management/fed-report-highlights-emerging-cyber-threats-including-generative-ai/33392.article"
+    type: article
+    provider:
+      name: Compliance Week
+      domain: complianceweek.com
+    quality: 39
+    images:
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/5/9/8/17598_federalreserve_861377.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
-secured: "3lpEz2ZBKODTe+2fYfz5TN+8M9qJYpwskN5pE2LF+KLNy+DMJls6d+HynDTtRtbFkivvzjsN+BIFQg160O/Gc+9HHfuXFLjjNsJbm/ywV2Px6iIN/TlPO3eBPXl9QVvJlZjmj7hjGd5wdkEYS2XuqPQGS4W6UKKDe6BjOfy8wLaZrCxB0d//tv5eb59CJybtXysxMaTFFlyoKIQfWcBZj9B0TMl+nVCP6Lp4djs45TXXLLE3SLMa8XTB44zYOZKuJT8UwlVFNV0yhub6GFfbTqPwYkfBrUfRe1mq5B+8UoZjUH/j98zbmawRQ6J/5bE0Y3Ky6+9HwWDmRq0rANKscOklG4EycY3I4zjUWYQhnXc=;FCEt0tpaM9OBtC3CS7ppFw=="
+secured: "hsTwQKJKFQ04j/G+QfvY1lK1yIfzUm5VyVrceRVSBYFbhVIK1dpdnBjBQKtaN5ZATFIez+NAFj1WLQpifnBO57g+yBcati+jPmHr4k+rE3lhfk4mCE3DDplcQaaP/4i1xPe9H9MuuLvXquWeXcEDzlhoC6i7VhX/uPZpPGFI8V7BlRnX7uuxbW5V0qMOmTKs7dJUhBOO9BLnoUQame4FQu7RuIsoGw5v3jwILeHVuCmkqmO8YfS71mdaZCO0jY2BHbw8vyRIlNQ/m73rXf/5PgYMkia6SPkvA0w7AshT+3sfO9OGQ3P6OGus/iDtT99yht1bzeyPdLE/YLWOk0g9rlR6ohVNLbCYZfbgfVJaL8fEokYscT/f8PDbPLaAAkon40aEA4oePEQEVGFvaGvQmhnC+laimBFAGnaQkMcXnkONg0VUJHKInep+n3wdZ6MA5r8Tlt6IOh56DYe/wG/lA8A7CjXXqDkzW6zaK8JFlENfanJ/doqvZNFzvCe8I2Mctf2dc/YCo7iXODnSADozzA==;HCsGM76JUAz7l8hTLcPiMA=="
 ---
 

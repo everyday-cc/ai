@@ -41,6 +41,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "LAZR Stock Alert: Luminar’s AI Push Will Revolutionize Self-Driving Cars"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For decades, self-driving cars were a popular trope seen only in science"
+    publishedDateTime: 2023-08-04T16:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lazr-stock-alert-luminars-ai-push-will-revolutionize-self-driving-cars-1032518905"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "RTG6wlRcRUHCZBT3dcYGDcuBOCdrScx96Uk6rpa1rHrBu7ro3PXntBwif7L9+MfjVabsAA/QswvM4fMRZqmWaQ/+xbp1eEiQhyhfc2nuIfnNJAVJdUcmzAcRAKnh3K8k/R9MjOqXVYgMhctJ0xdGr95ekAP7MnWth5tmfL1BQTfV+yVHmiUEFT4PJ04pURHA7mfxvI9/xiRG4fa2soYd52bvWtUz+toUbgE5wHE5bM7Z8jWHpWHvX9c6csT6Ee60PStAeULh8lQqnFwOTK6G8vYDDif4Toi9afOWtfycWD3MThd3/0TIEXLdh4c5b0dfy77d4IY9qJJAn+MTLn2Z/dUcO0WX1v4g39i9t/oqOQ8=;ysZqft62fvIS4SwusADn+g=="
 ---

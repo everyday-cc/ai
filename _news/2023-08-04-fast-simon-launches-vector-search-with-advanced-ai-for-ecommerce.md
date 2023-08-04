@@ -2,9 +2,9 @@
 category: news
 title: "Fast Simon Launches Vector Search With Advanced AI for eCommerce"
 excerpt: "For more information about Vector Search, visit the Fast Simon blog."
-publishedDateTime: 2023-08-04T14:30:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fast-simon-launches-vector-search-with-advanced-ai-/2023/08/04/9859736.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fast-simon-launches-vector-search-with-advanced-ai-/2023/08/04/9859736.htm"
+publishedDateTime: 2023-08-04T13:20:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/04/9859736.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/04/9859736.htm"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "u2kOR+rNb8NQBZrnlkQueRIhL6enuIOOq8x16oRZwzAa9YQzQh+O9Fr62jypPLCY4I2S4BPSBJ2afJQXmtdd//mOqS7SOm2TXCxrlwdQCTBJ6FxNQgW+N4bSVcx7ZBmpfeC0+UeN6qQ557o2F39LdfMfL+lU50JKS4DxfsD2PtcneoNtTRIuytxz0h/X7c66/PiQ5+PvhQuUzqTtsBsBcYVI9WY8ibaUYxUmXsp4OTlcAh2nQUil0QbeHGY1WlJE2mn3CxbLugJIOIF3wbIg5Fe8w6jyFrACFQrWjf8Q3tLJAzisu9JqeWt1cDOPeoYWzIVqOK44RRVCUjQI6KAoAsgIXy9oK+EbG/ZFkkDm7Os=;AbmnFZFU0oW69kJyQNLI5w=="
+secured: "PZIenZfUTJT9jUDxTp761tAy0faVGtcCMnCSmFH9P0XCQ+ZMGoJWnH/YYoIER0tfnvEYedxo67WPispHOk5TRVFBDif1QJm1Q7L7Eu6fw+3MxPfp5P6WAq7YcnYFf7J+2QzHC6USlih81/XH22MqktoIIwLntWhrAo8qVTLQ6NCtzDxfJoff+Ng15P1o0OIKXLBX10mYCg+4OQWMjwuczaTcVbU9RdPFAuGN6CnPEvHsyUA6rIdc4VEMzC6e0kpX3ots6e+iW6rmmzGSkjzuQ8G6y0XyaQNOM7rwzN8LbkPMHSrMXLWptdEb6pxS1pYvoPivRkrxgP6+0fk7Y70/z1hgMRVA4wlGpk0jOfNx1xk=;rPGji1b+0Q3zPYcdyjhxug=="
 ---
 

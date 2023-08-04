@@ -75,6 +75,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "When It Comes to Eye Care, AI Couldn't See Straight"
+    excerpt: "However, the chatbot in the cardiac care study did make something up, which is known as \"hallucinating\" in AI circles, when it responded that the cholesterol-lowering drug inclisiran (Leqvio) is commercially unavailable. In fact, the FDA approved it in 2021 and it's readily available."
+    publishedDateTime: 2023-08-04T16:37:00Z
+    webUrl: "https://www.medpagetoday.com/ophthalmology/generalophthalmology/105765"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/105xxx/105765.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "8kTqou6HZCIOurB6JBICBcRNVqZ5lEKhnoVpD8dI5r7vVHCSoqyd0IwyWvjW68K2OenlFneuxvSB7HnV4PG1rxY0Lmx/jViNQfMsFOprOBSmNJH8JkDa8NwObSa6MX3NsezlOC7qW4KDqtsO4z930TsxtwyGW7d1owMHJQ+acrxu1S0rJih4UCiGaNiop+/G3r+EyOEOi+acFsR+gkiDsWLOdvpDas+ZqD6mgMHhDSUGCLFsUB/dUESlq8CYb+M9IBt7lchrpHaLz9J5PakatA6j/Mul2mF7lydZ4pBN9IleJEEp4L6OMvQXo3zU3Kph78fryPU7KxHyUBqQD3OH+kKq6j9ggz1OyFKihiPqz2dHe4CXvppWDi3VsePGEJMVXh/p6GGqQFxlR0TGwwcL6UR9i9tZoa1kbjoHgJfBHE1PbMj06bFwPOZr4g5DeQna4g71FeTTB1ondX/fJuOaHpQHccRhMyN7vUNDtRKyG0D0iY6IylI02crxVgrgSkpHT4clbiq6CLmxESDMSWGvGQ==;vwwJSm0tl1pjEfkdf2b2FA=="
 ---

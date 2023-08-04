@@ -2,6 +2,160 @@
   "page": 168,
   "value": [
     {
+      "path": "_news/2023-04-21-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "These are true artificial intelligence stocks and include those ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "Microsoft AI",
+        "IBM AI",
+        "Machine Learning",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023.md",
+      "title": "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023",
+      "excerpt": "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects.md",
+      "title": "Google Creates New Unit Called “Google DeepMind” To Focus On AI Projects",
+      "excerpt": "Google has announced the merger of DeepMind and Google Brain team from the Google Research team to boost AI development efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
+      "originalUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techreport.com/wp-content/uploads/2023/04/rajeshwar-bachu-K4txLik7pnY-unsplash-1-scaled.jpg",
+          "width": 2560,
+          "height": 1840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-the-best-shows-on-amazon-prime-right-now-april-2023.md",
       "title": "The best shows on Amazon Prime right now (April 2023)",
       "excerpt": "Follow her on Twitter @christinetechCA. If you’ve been searching for some of the greatest horror movies you can stream, Amazon Prime Video has got you covered. Home to hundreds of chilling ...",
@@ -1047,144 +1201,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-googles-big-ai-push-will-combine-brain-and-deepmind-into-one-team.md",
-      "title": "Google’s big AI push will combine Brain and DeepMind into one team",
-      "excerpt": "DeepMind, the artificial intelligence company acquired by Alphabet in 2014, is merging with Google’s Brain team to form Google DeepMind. In a post shared by Alphabet and Google CEO Sundar Pichai ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger",
-      "originalUrl": "https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/2OKsk6E6aqZhadK6mskCDEIXAU0=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24598872/64410a99d52cf88103c4b88c_GDM_16_9.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-amazon-announces-general-availability-of-codecatalyst-aws-developer-tools.md",
-      "title": "Amazon announces general availability of CodeCatalyst AWS developer tools",
-      "excerpt": "Invent 2022, where it was described by Amazon as a tool for professional developers to jumpstart applications on AWS using DevOps best practices. It gives them all the tools they need to provision cloud instances and infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "originalUrl": "https://siliconangle.com/2023/04/20/amazon-announces-general-availability-codecatalyst-aws-developer-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/keyboard-gafbae8400_1280.jpg",
-          "width": 1280,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-is-artificial-intelligence-becoming-smarter-than-humans.md",
-      "title": "Is artificial intelligence becoming smarter than humans?",
-      "excerpt": "More than 1,000 scientists, engineers, many of them leaders in the Big Tech industry, recently signed an open letter calling for a pause in the development of the newest artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
-      "originalUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/daytonatimes.com/content/tncms/assets/v3/editorial/7/bd/7bdf133c-df9a-11ed-9675-b32d9f78d52b/64416be8a3611.image.png?resize=400%2C231",
-          "width": 400,
-          "height": 231,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daytona Times",
-        "domain": "daytonatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

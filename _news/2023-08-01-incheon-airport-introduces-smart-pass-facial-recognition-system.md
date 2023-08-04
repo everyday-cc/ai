@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Home Office secretly backs facial recognition technology to curb shoplifting"
-    excerpt: "The covert strategy was agreed during a closed-door meeting on 8 March between policing minister Chris Philp, senior Home Office officials and the private firm Facewatch, whose facial recognition ..."
-    publishedDateTime: 2023-07-31T00:12:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=1c29402495e90ad755aa3d1fb004f3f1"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Vendor claims 3-year ROI on retail facial recognition deployment"
     excerpt: "A new case study from RecFaces shows that such systems can identify thieves and reduce theft-related losses by 50 percent."
     publishedDateTime: 2023-08-01T20:35:00Z

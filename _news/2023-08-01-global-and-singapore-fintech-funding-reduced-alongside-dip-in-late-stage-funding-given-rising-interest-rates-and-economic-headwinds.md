@@ -79,6 +79,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 4
+  - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
+    excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
+    publishedDateTime: 2023-08-04T17:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/04/9859806.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
   - title: "Financial Inclusion Focused Leading Indonesian Fintech JULO Launches 5-Minutes Instant Credit Facility - JULO Turbo"
     excerpt: "JULO is a leading fintech company that is revolutionizing access to ?nancial products for millions of emerging consumers in Indonesia. The company is one of the first to develop a digital data-driven credit underwriting and risk assessment platform to process consumer credit applications and determine their creditworthiness using its mobile app."
     publishedDateTime: 2023-08-03T00:00:00Z

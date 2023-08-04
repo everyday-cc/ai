@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-03-tsa-to-expand-facial-recognition.md",
+      "title": "TSA to Expand Facial Recognition",
+      "excerpt": "Based on the success and early results of its pilot program, the Transportation Security Administration (TSA) plans to roll out facial recognition at security checkpoints in 400 more airports in the coming years, Fast Company reported. It’s a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.travelpulse.com/news/airlines-airports/tsa-to-expand-facial-recognition",
+      "originalUrl": "https://www.travelpulse.com/news/airlines-airports/tsa-to-expand-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TravelPulse",
+        "domain": "travelpulse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-musicians-revolt-against-facial-recognition-technology.md",
+      "title": "Musicians revolt against facial recognition technology",
+      "excerpt": "We want to be the only ones recognised More than 100 musicians including Rage Against the Machine co-founders Tom Morello and Zack de la Rocha, along with Boots Riley and Speedy Ortiz are boycotting concert venues that use facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
+      "originalUrl": "https://www.fudzilla.com/news/57187-musicians-revolt-against-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/29057690f30ed9115cad1f6cd7d69353_L.jpg",
+          "width": 620,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-rage-against-the-machine-refuses-to-play-venues-with-facial-recognition.md",
       "title": "Rage Against the Machine Refuses to Play Venues With Facial Recognition",
       "excerpt": "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ...",
@@ -1295,93 +1372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-facial-recognition-cameras-to-boost-security.md",
-      "title": "Facial recognition cameras to boost security",
-      "excerpt": "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
-      "originalUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg",
-          "width": 750,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fiji Times",
-        "domain": "fijitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-best-handwriting-recognition-apps.md",
-      "title": "Best Handwriting Recognition Apps",
-      "excerpt": "Handwriting recognition software allows computers and mobile devices to replace traditional notepads. The best handwriting recognition apps can instantly upload your notes to the cloud for secure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080320/1554238700-scaled.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

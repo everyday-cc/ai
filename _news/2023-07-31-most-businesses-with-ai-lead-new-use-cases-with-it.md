@@ -106,7 +106,7 @@ related:
     provider:
       name: USNI
       domain: usni.org
-    quality: 39
+    quality: 43
     images:
       - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
         width: 600

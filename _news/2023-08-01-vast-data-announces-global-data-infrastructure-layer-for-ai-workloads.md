@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Institute for Artificial Intelligence"
-    excerpt: "Atri Rudra has been named the first Katherine Johnson Chair in Artificial Intelligence, which was established by a generous gift from computer science alums D. Sivakumar, PhD ’96, and Uma Mahadevan, PhD ’98. Students placed near the top of an ..."
-    publishedDateTime: 2023-07-31T00:00:00Z
-    webUrl: "https://www.buffalo.edu/ai-data-science.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 39
-    images:
-      - url: "https://www.buffalo.edu/etc/designs/ubcms/clientlibs-main/images/ub-social.png.img.512.auto.png/1615975612658.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Tla0Nxu/U9tauRAXnpcJLll9nKZbpXdbYxbLf21Om43U0+sjQnZmtaaxsolJGXJV6/O14ZIaF565cIn6mTPns89WCOMsvPxjK1j//xG9VZD/iEQa3lNUZmZxDSoW7hkIC7RoMnLSWat7FXbfDQSdgQ0MqKHPwN2c6pym7Zve+m987zrTRG/sgqJWgHm2ZlA+bLrYtlQq+ZQRtJhfPh3I20mTKLDcicSzunwIyex6mF3mOIN2Vmjssm8vQNg91QXqHQHutEHd8ABRqwgNtlYEROCNPnXSM5HLjc1n3VFH8UWhypNVHL2M3l9bqfCwo+ByWj/EOJsqna7hcU5auFAw+541hU5tE4pU9mtiXRO5cF3BjCcbsfZAYMmvXEfp7R300uwVEwDXzAYB403BLrtpiFFARxZaVNW/uEacSwbqb5KKrDVEVRbKUpd8Ub6a8q2lKFDV4nE24e6n7HRfmmB2/BqVBDImMdNNsi8X89MTBeqVs4Sb/ZOMlDgPXJGp8KwrOfayJZuM2ByCUSoXrguHhg==;pEtV67JeQSx0VNvBUAMEYg=="
 ---

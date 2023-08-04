@@ -2,6 +2,135 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-06-29-chatgpt-alternatives-exploring-the-top-6-ai-powered-chatbot-options.md",
+      "title": "ChatGPT Alternatives: Exploring the Top 6 AI-Powered Chatbot Options",
+      "excerpt": "As AI-powered chatbots continue to enhance customer interactions, ChatGPT alternatives and substitutes open up a world of possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html",
+      "originalUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technotification.com/wp-content/uploads/2023/06/qDycEZYiu4ByWEZfuRKe34-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html/amp",
+      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html/amp",
+      "publishedDateTime": "2023-06-28T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technotification.com",
+        "domain": "technotification.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-ai-industrial-robotics-vietnam.md",
+      "title": "AI Industrial Robotics - Vietnam",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$31.12m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.62%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-natural-language-processing-vietnam.md",
+      "title": "Natural Language Processing - Vietnam",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$51.03m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.21%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/vietnam",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/vietnam",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-want-to-get-richer-2-top-ai-stocks-to-buy-right-now.md",
       "title": "Want to Get Richer? 2 Top AI Stocks to Buy Right Now",
       "excerpt": "Detailed price information for Taiwan Semiconductor ADR (TSM-N) from The Globe and Mail including charting and trades.",
@@ -984,135 +1113,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-cvpr-reveals-top-five-trends-in-computer-vision.md",
-      "title": "CVPR Reveals Top Five Trends in Computer Vision",
-      "excerpt": "Top paper categories included 3D computer vision; image and video generation; and understanding humans in video. Create an autonomous ecosystem. With advances in autonomous vehicles making their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33049624/cvpr-reveals-top-five-trends-in-computer-vision",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33049624/cvpr-reveals-top-five-trends-in-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-natural-language-processing-asean.md",
-      "title": "Natural Language Processing - ASEAN",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.71bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.61%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/asean",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/asean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-making-new-layers-and-models-via-subclassing.md",
-      "title": "Making new layers and models via subclassing",
-      "excerpt": "One of the central abstractions in Keras is the Layer class. A layer encapsulates both a state (the layer's \"weights\") and a transformation from inputs to outputs (a \"call\", the layer's forward pass). Here's a densely-connected layer. It has a state: the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing",
-      "originalUrl": "https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Smartphone App Uses Artificial Intelligence to Detect Stroke Signs"
+    excerpt: "Researchers created a smartphone app with the help of artificial intelligence to recognize stroke signs such as facial asymmetry, arm weakness, and speech changes."
+    publishedDateTime: 2023-08-04T16:43:00Z
+    webUrl: "https://www.medindia.net/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://www.medindia.net/health-images/smartphones-to-diagnose-infections.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "When AI Goes to War"
     excerpt: "That’s the future Lt. Gen. Richard G. Moore Jr., deputy chief of staff for plans and programs of the US Air Force, was considering when he made widely reported comments about ethics in AI warfare at a Hudson Institute event last week. While America’s ..."
     publishedDateTime: 2023-07-31T18:29:00Z

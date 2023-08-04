@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-14-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-13T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integrating-microsoft-text-analytics-for-health.md",
       "title": "Accuity Announces Proprietary Intelligence-Infused Clinical Documentation Review Technology Integrating Microsoft Text Analytics for Health",
       "excerpt": "A leap in revenue cycle management, Accuity's innovation is one of the first to analyze medical records through a physician's lens ensuring each chart's coding accurately captures the patient's clinic",
@@ -1295,49 +1348,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
-      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
-      "excerpt": "SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award. Soul Machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33079784/soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33079784",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33079784",
-      "publishedDateTime": "2023-06-30T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

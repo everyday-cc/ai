@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-movement-quadriplegia.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-movement-quadriplegia.amp"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,54 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot."
-    excerpt: "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday."
-    publishedDateTime: 2023-07-31T00:45:00Z
-    webUrl: "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp"
+  - title: "Quadriplegic Patient Feels Touch for First Time in Years After “Neural Bypass”"
+    excerpt: "In a landmark clinical trial, researchers at Northwell Health’s Feinstein Institutes for Medical Research have restored a quadriplegic man’s ability to move and feel by implementing a revolutionary double neural bypass technology."
+    publishedDateTime: 2023-08-02T15:31:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/quadriplegic-patient-feels-touch-for-first-time-in-years-after-neural-bypass-377178"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 20
     images:
-      - url: "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/377178/quadriplegic-patient-feels-touch-for-first-time-in-years-after-neural-bypass-377178-640x360.jpg?cb=20230802"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Patty the Pedestrian vs. Sandy the Self-Driving Car (with Devon in the Driver’s Seat)"
-    excerpt: "Five years after the driver of Uber’s autonomous car killed a pedestrian, the driver pleaded guilty to one count of reckless endangerment and- sentenced to three years of supervised probation, no prison time."
-    publishedDateTime: 2023-08-03T15:00:00Z
-    webUrl: "https://www.acsh.org/news/2023/08/03/patty-pedestrian-vs-sandy-self-driving-car-devon-driver’s-seat-17236"
-    type: article
-    provider:
-      name: Acsh.org
-      domain: acsh.org
-    quality: 17
-    images:
-      - url: "https://www.acsh.org/sites/default/files/images/self-driving-gb4b394dbe_1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Safety driver in Uber self-driving fatal crash case pleads guilty"
-    excerpt: "The safety driver behind the wheel of an Uber robotaxi prototype that killed a pedestrian in 2018 has been sentenced."
-    publishedDateTime: 2023-08-01T12:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1116675_safety-driver-in-uber-self-driving-fatal-crash-case-pleads-guilty"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 4
-  - title: "Backup driver for self-driving Uber that killed Arizona pedestrian pleads guilty"
-    excerpt: "Rafaela Vasquez pleads guilty to endangerment in the first deadly crash involving a fully autonomous car"
-    publishedDateTime: 2023-08-01T11:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/01/uber-self-driving-arizona-deadly-crash"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
 
 secured: "qno6iWFd0uSisB0HkZtssNn+Q/Inz7NLrRMM8bWbuSQ/ECn2/S+Vgm8zg+YEbk/dkSP2ZYPAWup9FJRcjGshxLNTsOyYGDbQCh0nemPuIuhJro4A6T2w964DatvUoPwXviw4Ie5BuO3Okv2DOOkZR3HWUQpFUVcpeWmfS07d6Oa8/bZO6/ECeQTDe5ZIiERYZWw+jOJtSXbYupXQEqXr8aVNSjGdg2sXewhXzHj7y0OZUgOYPaRWHS/sr4FhTkFE9GOsgErpV+gN1pMjlLF4Twgt10NIsIxcmHEnflhYxbECGspnOFJysB1AJZg6ZrjlEHJl1dGUiP469p7WUBosdrFOxHeVS4S8FJXrv7C0NUj4dLL0zqQ+M0IpP4qg7Nsm5fneTXweQfS5x+tQm1Kz/vtVoZUtC60l/gB2fEKWd3NXE8cbYSgdx5s9OEGIYnx0r3HbQ9hjcslqFAKoBDn1LW1c/1ZWaUrXDrbbrKXPOnFWD0r5f//sNpO9ANyi3VwODBO9h71m2M1lknOvSNmvgw==;PbONeclStTIHqUQytHOfNw=="
 ---

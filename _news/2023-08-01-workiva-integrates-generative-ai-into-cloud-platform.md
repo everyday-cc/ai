@@ -69,6 +69,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Generative AI needs humans in the loop for widespread adoption"
+    excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
+    publishedDateTime: 2023-08-03T05:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Generative-AI-needs-humans-in-the-loop-for-widespread-adoption"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "aataZIq6xniJA10NXHcPtvP12Uzvn3MGLv24FtSW+niQxV0o7dKIrrm8CWTK88f0TS1ow2S4TxBzQI83vzSxFLgXN+A7v5FFXk7uUNsXPiIlvEuP+azG/gF9w6iSCvAMI4YuuVNWfP0yDnpMvQbC4KEv0R7V0aoasH3KeDaJ76zcuH5DNdV0pDRLbbH8jQvVlYJLIkSYlzegN9dgDGZFl0I/HOe1yXRPVRqZnYxyoUvLRT+w3LZw0axxdFKCwPwfKwUMEFVbY8KqOvBSYioFa1EL36/QkMsFm29Yjgc5lS7R59/cT5Joi53psOrVb7wj6scljZcaKjx/V6jnRBrQ64qq7l6wUOFzYTzRvqJJpSehJOHKdkGXfK6XCtK9XM5tyoVtA1PmRAM5u5cVTfvQwYDO7eDMUykKKIJ+650uQqx2ekpN1pY7XeMqIZ2UPQVW9L4JooIxD5skL+KEw47PWHsmJQCigViJ4lWUZkjyStQjR7R3DYIkn6e4L2cbBEX3ptrJzr55rxdM00aALhXSxQ==;i5EgnTu6W8r8RumrRIu3IQ=="
 ---

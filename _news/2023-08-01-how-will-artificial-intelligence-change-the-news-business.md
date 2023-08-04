@@ -97,6 +97,20 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 47
+  - title: "Report to Congress on Advances in Artificial Intelligence"
+    excerpt: "The following is the Aug. 4, 2023, Congressional Research Service report, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress. From the report Artificial intelligence (AI)—a term generally thought of as computerized systems that work and react in ways commonly thought to require intelligence—can encompass a range of technologies,"
+    publishedDateTime: 2023-08-04T14:29:00Z
+    webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
+    type: article
+    provider:
+      name: USNI
+      domain: usni.org
+    quality: 43
+    images:
+      - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Most businesses with AI lead new use cases with it"
     excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
     publishedDateTime: 2023-07-31T09:45:00Z
@@ -110,20 +124,6 @@ related:
       - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
         width: 1075
         height: 550
-        isCached: true
-  - title: "Report to Congress on Advances in Artificial Intelligence"
-    excerpt: "The following is the Aug. 4, 2023, Congressional Research Service report, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress. From the report Artificial intelligence (AI)—a term generally thought of as computerized systems that work and react in ways commonly thought to require intelligence—can encompass a range of technologies,"
-    publishedDateTime: 2023-08-04T14:29:00Z
-    webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
-    type: article
-    provider:
-      name: USNI
-      domain: usni.org
-    quality: 39
-    images:
-      - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
-        width: 600
-        height: 600
         isCached: true
   - title: "3 ways AI can save small businesses time, stress"
     excerpt: "Generative AI is creating an extraordinary amount of buzz, and it's catching the interest of people wondering how to take advantage of what it has to offer. If you're a"

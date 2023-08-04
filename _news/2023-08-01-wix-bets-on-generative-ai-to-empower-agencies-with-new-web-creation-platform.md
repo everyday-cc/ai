@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.businessrecord.com/wp-content/uploads/2022/11/BR_web_311x311.jpeg"
         width: 311
         height: 311
+        isCached: true
+  - title: "Generative AI needs humans in the loop for widespread adoption"
+    excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
+    publishedDateTime: 2023-08-03T05:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Generative-AI-needs-humans-in-the-loop-for-widespread-adoption"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg"
+        width: 1200
+        height: 400
         isCached: true
 
 secured: "9W9vC6fcAnSiJ9UGBiniMGv0HXF63k/wIt5PmUDDuO3kvIF8lCmNtNrJBlDPxN/eugTQCjjv1FDbqcjSnaLBhAaBIa+Nb2LQCE++ODyFGyMdPx3/r1r/LhPNZSe32NEE8b7R3IR4md7BrMZGhLIUi8K6iRJYryQmQlGD1Sodo2dOQ5mn0qKlE6HW++ntVpEIDrSBhekFqvJBO52BGoiP6u41wHbbAUYmbCi2curcisLZkEkrXeFKAjWRlyR9zQculrJrY0knrfQd3+qNYsp04JgbSQJLvSEnHHYelwjB+9MVA0J0EDcHyEmelj3ixNv1FDpgGaGuyWfMo8a7sPezGZWnBlZf1IFbiSh1Q/yiiP6luS20j0sWa9tDs8EODnMnQgnDxyCs+9CJm7VO238uJK/i5+61tv2Yi1DiboQCALo/v39507l7Ip9lBFGN2m6dQ3YQSLpXc3017yRAGXjikccpz9v/1BT/3tRp/+XIO/f2XZLeskJR5Ggil15dq9/VUomcd+Q8z85UE2B09qVPYQ==;CS0qMgtsqV5N3hBiyTdGzg=="

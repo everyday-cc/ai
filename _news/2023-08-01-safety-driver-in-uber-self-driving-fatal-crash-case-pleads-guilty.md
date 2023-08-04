@@ -19,37 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot."
-    excerpt: "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday."
-    publishedDateTime: 2023-07-31T00:45:00Z
-    webUrl: "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp"
+  - title: "Uber driver in 1st-ever deadly self-driving crash sentenced to 3 years’ probation"
+    excerpt: "An Uber driver in the US who was involved in the first-ever fatal autonomous crash in 2018 has pleaded guilty to one count of"
+    publishedDateTime: 2023-08-01T04:42:00Z
+    webUrl: "https://glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation"
+    ampWebUrl: "https://glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
     images:
-      - url: "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://glamsham.com/wp-content/uploads/2023/08/WhatsApp_Image_2023-06-28_at_11.07.13.jpeg"
+        width: 1024
+        height: 678
         isCached: true
-  - title: "For the first time researchers restore feeling and lasting movement in man living with quadriplegia"
-    excerpt: "In a first-of-its-kind clinical trial, bioelectronic medicine researchers, engineers and surgeons at Northwell Health's The Feinstein Institutes for Medical Research have successfully implanted microchips into the brain of a man living with paralysis,"
-    publishedDateTime: 2023-08-01T14:22:00Z
-    webUrl: "https://medicalxpress.com/news/2023-08-movement-quadriplegia.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-08-movement-quadriplegia.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-movement-quadriplegia.amp"
+  - title: "Patty the Pedestrian vs. Sandy the Self-Driving Car"
+    excerpt: "Five years after the driver of Uber’s autonomous car killed a pedestrian, the driver pleaded guilty to one count of reckless endangerment and was sentenced to no prison time, just three years of supervised probation."
+    publishedDateTime: 2023-08-04T17:30:00Z
+    webUrl: "https://www.acsh.org/news/2023/08/03/patty-pedestrian-vs-sandy-self-driving-car-17236"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
+      name: Acsh.org
+      domain: acsh.org
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/for-the-first-time-bio.jpg"
-        width: 2048
-        height: 1568
+      - url: "https://www.acsh.org/sites/default/files/images/self-driving-gb4b394dbe_1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Patty the Pedestrian vs. Sandy the Self-Driving Car (with Devon in the Driver’s Seat)"
     excerpt: "Five years after the driver of Uber’s autonomous car killed a pedestrian, the driver pleaded guilty to one count of reckless endangerment and- sentenced to three years of supervised probation, no prison time."

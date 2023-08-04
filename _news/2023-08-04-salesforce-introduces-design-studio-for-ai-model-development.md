@@ -34,6 +34,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 48
+  - title: "Salesforce Goes BYOM for AI"
+    excerpt: "Salesforce today launched Einstein Studio, a bring-your-own-model (BYOM) AI development tool that allows customers to bring AI models they have already"
+    publishedDateTime: 2023-08-04T16:19:00Z
+    webUrl: "https://www.datanami.com/2023/08/04/salesforce-goes-byom-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/Cloud_shutterstock_Joe-Techapanupreeda.jpg"
+        width: 1000
+        height: 664
+        isCached: true
   - title: "Salesforce introducing “Bring Your Own Model” for Einstein Studio"
     excerpt: "Salesforce hopes to make it easier for companies to train AI models. The initiative is called Bring Your Own Model. Einstein Studio allows customers to"
     publishedDateTime: 2023-08-04T14:13:00Z
@@ -49,6 +63,6 @@ related:
         height: 2152
         isCached: true
 
-secured: "ek9E75WO8smkZgNp96D6DdYLs4XlfEkRA4ZZ4gRBJlWuTkcDbCCQguWnPN9Rzk2FhXuPfKKOFbA4EnagQeosXxpUeD+3B5CBHv5HCjUhO8IVsuK0Vunho4/bG5hmcbnKBQuK5CGgWksKOJ/uEQ+zqIYWYAm5E8VH2Gg/8v+5IdZ6oJbEj3LW7sasRkPZRl9IA8+bKcxjFodSN5Xoy9JhFncSxDJ+L8PAKUSNsUOrE0qUyTKI1VvSeMfhV7LNxYEBQAsNc7EJL9A8S8zZDolxX8647wijtSr5mJHHeUijQlIm+q+OZ9AEMg30pU5rpW6/PZyTS3xLRW91Ud5cwvf9Qcu6HfN6AgEG4pHpfub/jjU=;TF/lTxiwXI8/R4ohOG5yuA=="
+secured: "0K9xh5kd3WNDUkhQnj8aX66sTTCpDugdh56xb1UI2BTmou0Z15HNfqf7Fs7SceH04E33wSvnZdxc1MyXk3nSqU5PKKp0JCvQcwhcfuAwwqH0VrGico3pOOeiXIV+wfHGj6bA/w9l0u+teOktS7M9AHKmZu14D5M8BO593uiE92PcjWicAgrItkLYb8ioop438kIj7movndYJjwcNz/ZRbVNQoJYsjNXxO2gwgArhy//ffi60Jx/74lbaPenEWMq4JdzHzJUFZ6RJebo/+LNnrND344FD3D0mZQ76zNSQUVgM1MK0IstDxHjAxTtdpJtrbdwWXb1y6exkoHPROtGEQX4rJQ7PR6r19xQuC1oNQfksJoIalA64JH0gosStdawOCAcfHwXcPCbvAK0qcfvJuyj0qcIKU0jCZ9q06Ro92Cp5RzAsqCAcYtKmFxKLOq3DfaYOxOR3edC+TeLdLFy9nkOeId5SFpgK28phZdQEVff8vVvLaG4gA3zziuRzLwMj46ajqLId6C1+Q5Hsu/OI0w==;vuepgOuIyC10BAkQqc8dAA=="
 ---
 

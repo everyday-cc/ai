@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-t
 webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "When It Comes to Eye Care, AI Couldn't See Straight"
+    excerpt: "However, the chatbot in the cardiac care study did make something up, which is known as \"hallucinating\" in AI circles, when it responded that the cholesterol-lowering drug inclisiran (Leqvio) is commercially unavailable. In fact, the FDA approved it in 2021 and it's readily available."
+    publishedDateTime: 2023-08-04T16:37:00Z
+    webUrl: "https://www.medpagetoday.com/ophthalmology/generalophthalmology/105765"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/105xxx/105765.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Top 8 Bizarre AI Predictions That Could Change the Future"
     excerpt: "Dive into the realm of AI's oddest forecasts, unveiling the top 8 strangest predictions, from AI-powered politics to digitally eternal life."

@@ -60,6 +60,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
+    publishedDateTime: 2023-08-03T15:02:00Z
+    webUrl: "https://techcrunch.com/2023/08/02/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/08/02/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/02/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "How chatbots can provide a better customer experience"
     excerpt: "Users are frustrated by limited chatbots that insufficiently resolve queries or deliver unsatisfactory outcomes. Learn how AI can help.\nThe post How chatbots can provide a better customer experience appeared first on IBM Blog.\n"
     publishedDateTime: 2023-08-02T12:01:00Z

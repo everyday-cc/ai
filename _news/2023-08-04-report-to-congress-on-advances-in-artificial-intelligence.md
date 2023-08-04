@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-04T14:29:00Z
 originalUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
 webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
@@ -205,6 +207,6 @@ related:
       domain: nymag.com
     quality: 17
 
-secured: "2TsSWrPiVlgXacX4uhyu0AiA8+IaFZYhTFBeZtkEFBLttWGtv0Ld3tpJj8hUAyR/PyM4X4ax6/CUgKZsuOz/WM7/3Sa2FX/aImpQTZAorciPEY6M6NiWOnyfkpux+AnFBTb5w3S6gvt85IzniqgoWRLMgKReZzVGB0CoCnV5C2R+g/B8vJqUB/igkSrfZ45TyrtbN3e0R/vG3X4FRWjaj5fFIhqBqtccIwXC0OC7c1xkjLrw4feqMVfY3t2mEU8Z7Cq12qPsgl0Qb39AOFsMYodepNcXZhfBDK0z8/iQSKZ4bQd4Ke4nmf81v7LbIUbzULGoCk2ViHFZCtBqlePEA6rsX8oBt3s8PAdjKjE9Jas=;GNUQV3w3KHWSN63O0BG20Q=="
+secured: "NO326IsjPYFga6SDUao7Y8s93d71UEfUkHyv0rdT1mIEma2wLo46jnAjoSCNotx+dK+Al2H2TnY//3KtXyjYKlsq+4JHF2XXWQSN6D4B9U9ptfqPpTykSRqQPFp6GUZI0hLnFSQTj0po2IvaCAvRi64drBZoaAVUC2nLOSyxyq0wZahnpRZkHKkDyIIcr95gywwTZHNVoH7xYRGfsJogs+/nvIovTyqzItu/rOU6RCBQPnHYH4mKPqKSQpu5pOfcdSslyxz0c4KWba5ROMW6qXttbxL0oXa/q9bCHioRgTv8VwnoRldBVEaDzMKRA7B18Yw3FzEbH90omca94ZA7AHpJ43oH4vFsgCHCrWN4EbO4B/kjOXztMRobu/VC+fd1Wv9ncBi7HEmk3TEYNceE9dOV/0ZvWApktGjgfyBwACeIr9dhi4KzvRLZWSMFQ3M7vvYFzqhtp1vLGa2MnEkoaHlO6id7mu8yaHyWLCVGlGnSDt+sO9a5sYXPnas9AzDs4CJzW911hHjLIhg1PLR8Xg==;cohKyy1Z6f4xiFhNNwJoWA=="
 ---
 

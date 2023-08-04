@@ -2,6 +2,155 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-02-transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning.md",
+      "title": "Transforming Healthcare: The Pioneering Path of Sumedh Datar in Computer Vision and Deep Learning",
+      "excerpt": "Introduction: In the rapidly developing science of machine learning, Deep Learning has emerged as a transformational area of study, captivating the attention of researchers and developers worldwide. Its exceptional pattern recognition capabilities have made it particularly valuable in computer vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
+      "originalUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/08/bb6b4281-0874-40fa-a336-2042bf87d8f2-1000x600.jpeg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters.md",
+      "title": "Inworld AI raises new round at $500M valuation for AI game characters",
+      "excerpt": "Hollywood’s portrayals of AI-controlled Terminator robots once seemed like pure science fiction ... You take engines and you start replicating, taking humans that are working on a factory line, and you replicate them with conveyor belts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
+      "originalUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/inworld.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish.md",
+      "title": "While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish",
+      "excerpt": "AMD stock is down 2% in early trading August 2 after disappointing guidance and a to-be-executed Generative AI strategy",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca454a57cf68536b69db6b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/",
+      "publishedDateTime": "2023-08-02T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-amd-to-develop-slower-ai-gpus-for-chinese-market-to-comply-with-us-restrictions.md",
       "title": "AMD to develop slower AI GPUs for Chinese market to comply with US restrictions",
       "excerpt": "In September last year, the US further tightened export sanctions against China by introducing rules that prohibited Nvidia and AMD from selling their high-performance AI-focused GPUs/accelerators",
@@ -105,7 +254,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 453,
+      "heat": 463,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -202,7 +351,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -404,7 +553,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/02/a-practical-guide-to-ai-in-cyber-physical-environments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -888,7 +1037,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1032,7 +1181,7 @@
       "originalUrl": "https://www.zdnet.com/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1071,162 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-googles-robots-are-getting-smart-so-how-long-until-we-get-pampered.md",
-      "title": "Google’s Robots Are Getting Smart, So How Long Until We Get Pampered?",
-      "excerpt": "It’s ironic that generative AI is regarded as a novelty because walking, talking robots are now credibly achievable due to similar underlying advances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/",
-      "originalUrl": "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c64ea13e9ca5472f03e7a2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theodorecasey/2023/08/01/googles-robots-are-getting-smart-so-how-long-until-we-get-pampered/amp/",
-      "publishedDateTime": "2023-08-01T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-coreweave-came-out-of-nowhere-now-its-poised-to-make-billions-off-of-ai-with-its-gpu-cloud.md",
-      "title": "CoreWeave ‘came out of nowhere.’ Now it’s poised to make billions off of AI with its GPU cloud",
-      "excerpt": "A few months ago, few had heard of CoreWeave, a GPU cloud startup. Thanks to the generative AI boom, that has completely changed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/coreweave-came-out-of-nowhere-now-its-poised-to-make-billions-off-of-ai-with-its-gpu-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/coreweave-came-out-of-nowhere-now-its-poised-to-make-billions-off-of-ai-with-its-gpu-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/Untitled-design-2023-08-01T110706.729.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-the-debate-around-ai-ethics-in-australia-is-falling-far-behind.md",
-      "title": "The Debate Around AI Ethics in Australia is Falling Far Behind",
-      "excerpt": "In Australia and elsewhere, the debate around AI and ethics rages. Meanwhile, AI apps with questionable ethics are being released daily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/",
-      "originalUrl": "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-ai-australia.jpeg",
-          "width": 1400,
-          "height": 954,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

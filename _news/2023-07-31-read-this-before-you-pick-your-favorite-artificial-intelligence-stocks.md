@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-3
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-31-2023/card/read-this-before-you-pick-your-favorite-artificial-intelligence-stocks-YDcS2C0rg20vcZlkrMLT"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 876
         isCached: true
+  - title: "1 Cheap AI Stock to Buy Hand Over Fist Before It Doubles"
+    excerpt: "The booming demand for chips to power artificial intelligence (AI) applications has sent Nvidia 's (NASDAQ: NVDA) stock soaring in 2023, with shares of the graphics card specialist jumping 206% this year. But that also means that Nvidia's stock now trades at an extremely expensive multiple."
+    publishedDateTime: 2023-08-03T09:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-cheap-ai-stock-to-buy-hand-over-fist-before-it-doubles"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Your Ultimate AI Glossary"
     excerpt: "Software for self-driving cars uses deep learning to identify stop signs, lane markers, and traffic lights, through object recognition: This is achieved by showing the AI tool many examples of what a certain object looks like (e.g., a stop sign), and ..."
     publishedDateTime: 2023-07-31T22:45:00Z

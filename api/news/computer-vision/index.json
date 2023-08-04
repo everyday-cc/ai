@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-04-raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired.md",
+      "title": "Raz Mobility has a new smartphone designed for the visually impaired",
+      "excerpt": "Raz Mobility is out to change that with the introduction of the SmartVision 3, a smartphone designed specifically for the visually impaired. As the name implies, this isn't Raz's first foray into an accessible smartphone. But it is probably the best.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "originalUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1ab271bffab5edcd63a787c75eae6853cd8d3a94/2023/08/04/07c56efe-b115-4769-aedf-5530258489f8/smartvision3-phone.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "publishedDateTime": "2023-08-04T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-karachi-airport-gets-facial-recognition-system.md",
+      "title": "Karachi Airport Gets Facial Recognition System",
+      "excerpt": "The authorities at Karachi airport have taken significant steps to enhance security and prevent criminals from fleeing the country. The installation of",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/",
+      "originalUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2022/12/Facial-Recognition.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI",
+      "publishedDateTime": "2023-08-03T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition.md",
       "title": "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition",
       "excerpt": "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform",
@@ -10,7 +105,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 327,
+      "heat": 337,
       "tags": null,
       "images": [
         {
@@ -286,7 +381,7 @@
       "originalUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -877,40 +972,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-26-should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.md",
-      "title": "Should police use facial-recognition technology? Ann Arbor to vote on issue",
-      "excerpt": "Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
-      "originalUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
@@ -961,6 +1022,49 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.md",
+      "title": "Should police use facial-recognition technology? Ann Arbor to vote on issue",
+      "excerpt": "ANN ARBOR, MI — Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html",
+      "originalUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4HBWD7NCY5AI3JU3J3R3MTAIBU.jpeg",
+          "width": 3000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
+      "publishedDateTime": "2023-07-25T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1271,92 +1375,6 @@
       "provider": {
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-the-movement-to-limit-face-recognition-tech-might-finally-get-a-win.md",
-      "title": "The movement to limit face recognition tech might finally get a win",
-      "excerpt": "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America. If it fails, it'll be a blow to a once-promising movement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/massachusetts-facial-recognition.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
-      "publishedDateTime": "2023-07-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-individual-whale-dolphin-id-using-facial-recognition-tech.md",
-      "title": "Individual whale, dolphin ID using facial recognition tech",
-      "excerpt": "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology (HIMB) Ph.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.html",
-      "originalUrl": "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/individual-whale-dolph.jpg",
-          "width": 676,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp",
-      "publishedDateTime": "2023-07-19T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,160 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2023-05-13-how-this-safe-browsing-feature-is-using-ai-to-stay-ahead-of-scammers.md",
+      "title": "How this safe browsing feature is using AI to stay ahead of scammers",
+      "excerpt": "Kurt \"The CyberGuy\" Knutsson shares steps on how to enable Android's Safe Browsing feature, so you can feel more secure when browsing the internet on your phone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers",
+      "originalUrl": "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f44d3f-4879-4357-aa2e-a9418b634a84/f9e8ca78-fc06-4391-ad1c-2a735f711145/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp",
+      "publishedDateTime": "2023-05-12T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-forbes-magazines-new-majority-owner-is-a-28-year-old-billionaire-who-made-his-money-in-self-driving-car-tech.md",
+      "title": "Forbes magazine’s new majority owner is a 28-year-old billionaire who made his money in self-driving car tech",
+      "excerpt": "The Forbes family will not, though Steve Forbes will remain involved. Russell is the chief executive officer of Luminar Technologies Inc., which provides antonymous driving technology to the automotive industry. The company, which has a $2.1 billion market ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
+      "originalUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1248342207-e1683937269697.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
+      "publishedDateTime": "2023-05-12T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-what-does-ai-mean-for-your-money.md",
+      "title": "What Does AI Mean For Your Money?",
+      "excerpt": "AI – is grabbing headlines at the moment, with some commentators assessing its likely impact on daily life as being on the same scale as the Industrial Revolution or the development of the internet. Still in its relative infancy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
+      "originalUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/05/rsz_pexels-thisisengineering-3861969.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-gxo-direct-to-rely-on-machine-learning-to-drive-labor-efficiencies.md",
       "title": "GXO Direct To Rely On Machine Learning To Drive Labor Efficiencies",
       "excerpt": "GXO Direct has invested in a machine learning labor management system from Blue Yonder to help drive labor productivity at their warehouses. Traditionally, industrial engineers were widely used to set fair labor standards.",
@@ -1082,160 +1236,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-speech-recognition-software-market-till-2030.md",
-      "title": "Speech Recognition Software Market Till 2030",
-      "excerpt": "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-an-upcoming-dating-app-promises-to-create-an-ai-version-of-you-to-chat-with-potential-matches.md",
-      "title": "An upcoming dating app promises to create an AI version of you to chat with potential matches",
-      "excerpt": "Can AI put an end to ghosting on dating apps? The team behind Dispo is building a new dating app called Teaser AI to do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5",
-      "originalUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6452b825dcb78700180cc3a4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dispo-makers-building-dating-app-ai-teaser-without-david-dobrik-2023-5?amp",
-      "publishedDateTime": "2023-05-12T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-artificial-intelligence-is-changing-business.md",
-      "title": "How Artificial Intelligence Is Changing Business",
-      "excerpt": "Artificial intelligence (AI) has been changing every type of business worldwide. The phrase derives from computer-based operating systems being able to imitate or replicate exact human-like activities. There are also many different types of artificial intelligence, but let’s go over some of the types relating to a business environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645907002b0d8e64282796dd/0x0.jpg?format=jpg&crop=6833,3840,x1162,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-artificial-intelligence-is-changing-business/amp/",
-      "publishedDateTime": "2023-05-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

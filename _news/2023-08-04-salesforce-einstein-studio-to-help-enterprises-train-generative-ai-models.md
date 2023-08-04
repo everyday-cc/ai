@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce Goes BYOM for AI"
+    excerpt: "Salesforce today launched Einstein Studio, a bring-your-own-model (BYOM) AI development tool that allows customers to bring AI models they have already"
+    publishedDateTime: 2023-08-04T16:19:00Z
+    webUrl: "https://www.datanami.com/2023/08/04/salesforce-goes-byom-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/Cloud_shutterstock_Joe-Techapanupreeda.jpg"
+        width: 1000
+        height: 664
+        isCached: true
   - title: "Salesforce introduces design studio for AI model development"
     excerpt: "A control panel enables data scientists and engineers to govern how their data is exposed to chosen AI platforms for training. Einstein Studio uses built-in Data Cloud functions for data modeling, data harmonization, unification and various data quality-related transforms, Auradkar said."
     publishedDateTime: 2023-08-04T14:10:00Z

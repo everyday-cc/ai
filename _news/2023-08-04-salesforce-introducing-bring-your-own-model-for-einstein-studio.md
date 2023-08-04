@@ -34,6 +34,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 48
+  - title: "Salesforce Goes BYOM for AI"
+    excerpt: "Salesforce today launched Einstein Studio, a bring-your-own-model (BYOM) AI development tool that allows customers to bring AI models they have already"
+    publishedDateTime: 2023-08-04T16:19:00Z
+    webUrl: "https://www.datanami.com/2023/08/04/salesforce-goes-byom-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/Cloud_shutterstock_Joe-Techapanupreeda.jpg"
+        width: 1000
+        height: 664
+        isCached: true
   - title: "Salesforce introduces design studio for AI model development"
     excerpt: "A control panel enables data scientists and engineers to govern how their data is exposed to chosen AI platforms for training. Einstein Studio uses built-in Data Cloud functions for data modeling, data harmonization, unification and various data quality-related transforms, Auradkar said."
     publishedDateTime: 2023-08-04T14:10:00Z
@@ -49,6 +63,6 @@ related:
         height: 614
         isCached: true
 
-secured: "qgEONw/XbRp72+H6i7AigaZhkWYa3XsZMA+QQVRgUPME4F1KS3PdWY8HPwsLX+Um9M1aoN5nowokUSSnrRPCM58PSEvLnyhTykvsrGCmapynhh7Jt3j0x96+YI1N/KVBhBrXy0YWmy74bEM8SCRNXrpbP05+8OzrBAafoEriWcBPJ+U8J/UrTbVinJcO8QU/D+97KN9b7kHW5vHdjfcBR6x4BdX33/2pixhWJ6CRnuaGU1qt5HRLpN1ZYGCH2WW0b1uG9QuYMvFz0KbtIqM6+N2vQzNMwt9s50mXhLI5fYYMvJgfWwIopJccvbzw1xOK3yZZ9p/Wj37W3G+yTnyFTc9+B69KBn1sw27aX4hsFH8=;h3HGtFwtVHMGM0NcLaT5ww=="
+secured: "UDmbAh7h1hqbLKBHnu6Q6MBOXGGkGMdzi9YOIO+046gIvNcMusc/pmPeBat1mD2ShoXLVrJahkFOrxRRLmJ/yfPlhIpLJa4PwjWtYLYyAcC58tw07RDkiqhEMWLNbsgayu8PS8u6s7tQUUSYkFDJ7JMB1fw14tI0oc13yM+5A06g0JZlYgA3e+TOn8KGCuZKpJM7BluFOPUGRrecfhhFvIjCeWUkKX0U0r5/xcM7SpDtrG5RKOUfQRU2nSXRgUD+vA5hfz+M4OObvjgc3uDRx2U6rIMRdzGId2Fs/Ap6xBA+WWO6jEMnqcmeXjlEJjvqv7nbYPlsSGyBRP0JVl0ZWjdagZGEZvOz+3nXIZMKX+FUkZErtoEpc8s/9BUUWXMVbDeJeq2oQfsvvztLvDcjjqwPQpkcdRHqvmiE0MZz/Xy09H3rjJzbMHFCnySMR+ksZdt3d0EgfqG0OiUEDjbLIaEEdgBbikMmaMoh31OvZ82NwOhmeKNv8m4fq3tgZMdi459hWriiBmeXkuu2wtAGOw==;NWcyjU+29Q4ZgTWtQKQRtA=="
 ---
 
