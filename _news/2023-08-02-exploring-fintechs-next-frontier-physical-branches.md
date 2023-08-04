@@ -3,8 +3,8 @@ category: news
 title: "Exploring Fintech's Next Frontier - Physical Branches"
 excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
 publishedDateTime: 2023-08-02T05:45:00Z
-originalUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---physical-branches"
-webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---physical-branches"
+originalUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---quotphysical-branchesquot"
+webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---quotphysical-branchesquot"
 type: article
 quality: 4
 heat: -1
@@ -120,6 +120,6 @@ related:
         height: 2304
         isCached: true
 
-secured: "DFtuPFfffE0an+iH3YTk4FxAdovBJ0cg1K2s+QYSyfX3RdvQhdR/YGW8tSLTZ+oiGCpemxbyk+M70FLdktkkJvig1q12YTyBFkAXTQxEU7VAqaVLiILa8eDzuWoE8uUno6PY0zLttbvDz/QG5erok5oUD3ynsXdb5mgKEHaErmhnxRZS6u6h3ZCJvlZJDtLEgsWmN1DyUJ3CrGcAKy07YwpUQV17HRvOvu/JKt/H5wfuGmibF8gefRM5rxPs9JEl9lugIcrfWzPCZ4N/YSgEfneBd7YgSJJc92ruEM6r9g+Do0JXMWIXjCsedUgoyACRbBwXQDan3gkuQwkaGL1oPWh4cxll7eeaZlSpAWCEDrM=;WhqtPCAO3sUw1sDA20e1qw=="
+secured: "qr3raHOS7sO5ROH9IzeHjiWbdi46vPdt5aKsFN1d/QTphzv7tEJW7yGOaqa3mKErGoF3HI01Rq/ev+qPfMEFPtzeQSucLPYghbnLfaM8DdEiUubi7gOpI6RcJeAtKVXMh9giFaM9OrFmKEtR3l7XfInYXBJvTNVgKXZwsvu6lVUaHTTilru93Li5RC4+cYEhWzdfkYwa5++nj22JJI3RfCtKmqc+3hjNzJMq+ETPe3KMWER7ujNxjiI7grLWUacwTiPJSr34fYVxkLh9uvXtLKaLhTuPGvXl8UcYDJ1ECWVzbmFXPZl77DrSk0IBgahD/8/aWFojOWHFPwaPCNhzzQXqqBAm0//1F4qplOxEQ/97t6UKKYF37yrclJSG5q7785I5w0580ORQFnwDnqkDjVDkCu5psxcFKcbgTpS3avRJqFCGonP1ER+TBfg6PhLNdNFMSx3HGV1a4p2tWW/47BAG/8V9u/YV4BTyVubBAaq+5SlT2jrBjzGBSn4a4NfauT9Dh9OVQhZCbzi82X/qPA==;36r2usmyaALFYxEcqixybg=="
 ---
 

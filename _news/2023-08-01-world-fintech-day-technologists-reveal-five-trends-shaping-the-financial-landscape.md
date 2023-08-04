@@ -53,6 +53,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
+    excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
+    publishedDateTime: 2023-08-04T12:23:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 19
   - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
     excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
     publishedDateTime: 2023-08-03T11:45:00Z

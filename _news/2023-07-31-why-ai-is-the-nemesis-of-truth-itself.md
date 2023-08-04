@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Might Save The World, But It Has To Be Tested Again And Again"
+    excerpt: "As more people grow concerned about the issues surrounding artificial intelligence, fear has shifted the discussion from promise to a potential pause."
+    publishedDateTime: 2023-08-04T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/ai-might-save-the-world-but-it-has-to-be-tested-again-and-again/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "0rUfzQvwmHkUBwd1AUrNFYKCfEQdqTFlKreH8IHjlWxXYvBE8nlCor9LzwUHC8u+NOG4rk7xzJmMTghYkHgONcbZWd1BXZVo1sbAN8O+5bVy2JeUP0V1D8YZ0ErCAqwoybn+smHVib+jTX+cX/avlikX746w5n4AhNMWgKiZN0PZoMXOvrGjgfHaO7AvIG2UUZ3UesTz/2zJOyCxJLr+OFqbUBnuUh/MNAKi8oSFOjVFG5BmoMzzNEzQwdCdgMmXEK3owLq+hhMvZuralICWoVC03Slj+enNqEJob7Aeym3To+Y3WKw/4Cww59AOiUqgR7BirersI8r7IQVXbi+ovtfh6NlF04asiqPbBscyBn8p2HKtWFtCQFLKVb8vn/OaSCTxwdtaGiCkh1fJv+2pbHHfFNCopw7tIGp26eRr4ypc58EgZSyJz8ZibbG8t7L+oKdmoB0KLuzGSp0k4ET9XL030UhWJ2SfHzx2eRIVmrcrIvEVW4x2aiiG7wU7mmgKAZG9sVzRGoJr5OJq83998A==;yw4UInqavggdXa6udXAJhQ=="
 ---

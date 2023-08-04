@@ -26,47 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "⅓ of Americans see AI and robotics providing future care"
-    excerpt: "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts."
-    publishedDateTime: 2023-07-31T21:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
+  - title: "Read This Before You Pick Your Favorite Artificial Intelligence Stocks"
+    excerpt: "Investors have piled into some of the biggest tech stocks in the market, wagering that they will benefit from the artificial intelligence boom. That has sent shares, and valuations, of tech behemoths sharply higher this year."
+    publishedDateTime: 2023-07-31T16:36:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-31-2023/card/read-this-before-you-pick-your-favorite-artificial-intelligence-stocks-YDcS2C0rg20vcZlkrMLT"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "VSBLTY'S AI TECHNOLOGY PROTECTS ONE OF AMERICA'S LARGEST SYNAGOGUES"
-    excerpt: "Intelligent Perimeter Security Shield Deployed Around the SynagoguePHILADELPHIA, Aug. 3, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies Corp."
-    publishedDateTime: 2023-08-03T11:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg"
-        width: 400
-        height: 283
+      - url: "https://images.wsj.net/im-826694?width=600"
+        width: 600
+        height: 800
         isCached: true
-  - title: "Here are the 9 smartest ways to invest in artificial intelligence right now, according to Bank of America, Morgan Stanley, and UBS"
-    excerpt: "Artificial intelligence stocks have more upside, according to Bank of America, Morgan Stanley, and UBS. Here's how they recommend investing in AI now."
-    publishedDateTime: 2023-08-02T09:30:00Z
-    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-bofa-morgan-stanley-ubs-2023-8"
+  - title: "Your Ultimate AI Glossary"
+    excerpt: "Software for self-driving cars uses deep learning to identify stop signs, lane markers, and traffic lights, through object recognition: This is achieved by showing the AI tool many examples of what a certain object looks like (e.g., a stop sign), and ..."
+    publishedDateTime: 2023-07-31T22:45:00Z
+    webUrl: "https://lifehacker.com/your-ultimate-ai-glossary-1850575803"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 39
     images:
-      - url: "https://i.insider.com/64c95657048ff200190f443d?width=1200&format=jpeg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/17819428178cc57b394b1f183c469cef.png"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "etm66F9wpmiyVrY5Cl2jqyD8bDYQ0MfFvmIp5TkxgpqduAMOBx2Fk3VbCGC3FAo7mmpU9S4zq1SNo1M9C2s072NLeOScCmI4KpGVa7s3P87nv2PHeqQenil2xZK4VRzcevmZW1RY3iIW+cQoNNb/+sYmssnm41f63DL1CjybmixnLueXyfYQfarCW+fyS+64vprzHhVAvXGMhgoc6NH0XDNVOOAibojaJ26Mo+Rt/tEjFzRvi4G4gygSoYQa3GV4hNGnSlj4C4aZc2KN+I8d8dgkG2aqTjM5l0WEVPFbewUAJ7cv9ujarH5GmEh27ND7LoxSBygTep5fpIjDVA+9y5Pu2pl/ZOr+3S5C8wuu9oq/2rWdL+h6g/ODT8zKqih29isOMSp/Ytry3Dk+oFItrxGJrbpbsxV9eqUAMnsaYqYQ+elYRsL2r5Sgr755JGOjzDODHFP5A0MS+3NBucttqYQQJz35GnF94i0mVwLxVH8FoEaLOuvIDX64xwLl/f8lVI6gM0KlcExBv+8XhraZhw==;/Ajw7rySKUvFK24hRa3gIg=="

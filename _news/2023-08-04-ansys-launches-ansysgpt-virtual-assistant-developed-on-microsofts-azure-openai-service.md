@@ -335,6 +335,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 32
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+    publishedDateTime: 2023-08-04T12:42:00Z
+    webUrl: "https://www.inferse.com/668303/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
   - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
     excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
     publishedDateTime: 2023-08-01T09:54:00Z
@@ -354,6 +363,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "gw2iIB1nsYYGmso2dAhORdzTRjFJp/QfmirKySUmoFoTXU0WA5SjnigwYX8o3a7REgRQPMyk9ZeCI1pbjF3C5ejc5GwbLyamkiviRtM1R8/gZ6G0cABDcOMOW0sYnYwZEwCbC0PS8fuwFOiDAzeeP4E7rsDH1zoZGRJutT7Pgi0sL/ONRCn2jfuhX50TSwFmP7pJk7yd8QQbNGwEDo9qCHQY0fqG6x/RnRwGZc5MSOBvMuCz1MspwKLeffSWr42fMK8o+EGiQmkWIvIxwYsCa+SE2f5hBuRheTvX4nYF0z+MQgI41gXgNZjg2zT0y/blA1rCY7eLn4CWl+X7ddxOVDpyk5jwbcFCaF9cXkzf9ho=;Ez18/+Mee0hD0GYnNEmvDw=="
+secured: "5Lqqq1HUyYfJlRod1nptZv9dUjrnNNLOvCOVRjp7xPHehdDK4t0R/12f8LnIDDb2fhpv+PRuS/ajsdczeGi6havACUy0cT/ery3q7QYcLTdgsF0K+H27V+JHef+rJcLmKbWaXqbMdu6dpGlmrGp+qhaYEn+WQdNkU8SjFI8BKJrcWnc4NHpCSHrokKGEDqXc2GiTBsecLragTEGQbCl7v6liFSCYNp86ZOIbdCc6Pf0l2wVn1g26+kr8OFS7obKgzH7uLykiFtHrHyKEYx+kKqCsTd2uT78jhhNY56YwiPAKpno3HCDMF2c2uTGeIjzvaruBhpxi4F8zI1KKzN1Hb+Uvy4Mn9BsDyTa1wNWoq3NqNI+WW37n8vNMacOf41SKP77nfY9q03ZqyGYK2OoTin1XNgR9STRomHHb/fKL9am0TvXLsxroSAoOlHxuWVVUW5gGMCgsQ9cOeAhya2jPiCYMKeks8Ot2YS7IU7rUZEHW3JBrtx47ow/NDeZXFdiDDeX9H6Ak8YeD75vOm0++qA==;4klPGrgd5sS/UTxy3MYnBQ=="
 ---
 

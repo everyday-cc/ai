@@ -60,6 +60,15 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "AWS Turbocharges Foundation Models With Smart AI Agents"
+    excerpt: "Goodson discusses AWS's recently announced AI capability that adds key functionality to its foundation models."
+    publishedDateTime: 2023-08-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/08/04/aws-turbocharges-foundation-models-with-smart-ai-agents/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
   - title: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023"
     excerpt: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023 - Amazon Web Services (AWS) and Accel, a prominent venture capital firm, have joined forces to launch"
     publishedDateTime: 2023-08-01T03:47:00Z

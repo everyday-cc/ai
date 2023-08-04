@@ -69,6 +69,15 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Working with robots: how AI is revolutionising productivity and the Australian jobs landscape"
+    excerpt: "Midjourney imagines a robot tasked with sorting through ... that essentially do the work of junior lawyers. If AI is doing your job pretty well – such as research and proofreading – where does one start in the legal field and learn the nuances and ..."
+    publishedDateTime: 2023-08-04T13:32:00Z
+    webUrl: "https://www.couriermail.com.au/lifestyle/qweekend/working-with-robots-how-ai-is-revolutionising-productivity-and-the-australian-jobs-landscape/news-story/8ec1359c236e271084e3c959b211d176"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 23
   - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
     excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
     publishedDateTime: 2023-07-31T11:51:00Z
@@ -102,6 +111,6 @@ related:
         height: 448
         isCached: true
 
-secured: "Ep4K6dMtRDkS9V1gv+7zwcgV5gynkPOTZXnBvI2cUnp/JcgXApfR4hw6Ie6gz4+ikzPvu9H6ygrrAf2Jc20EkjI3goLB1YJ87x41gyCstCdRToO6zbSjBM1xB6qvzCcjrWkjeP23MU9ik+H0hx4hDrcnHWBNos1aPRK19JrA7y7rVH1+NNXqCuvPNL3Txb2TcHYzcrpjKh4FzgM32QZLTNuuXWWUh/42hY+nk7bdDCL1X2rAXdKgRJEzFg4YRCxpJRKHNRaY9XkeJ0y9uegj8OI5Fq+Qvtm5ofLiRiIzguObwKqzryh3bkc5JcqJYHBqznl+sI/XTeS7E+dd6B0DjblKXmK8vTX6E5oHQd3dB90=;NkuvDXJJOEi3JHvcaXIu/g=="
+secured: "NtYkaF13WxTcoHnp+6+DkOJhyKleo49icLTevAQRVLBjiORwdWb8md2pyQltXukwvBxDlBNaLUu0Bwinig6lia2iTXbONp+xGE27indckbGblnXfUGKibx9ICzrwWr15HMvLreTwfa3odjG1qzDU2qybqhKUAQPI0VAlZjXCkbLNSIDONFyFkCfG/Ju/7voP3haET6R8lBCoEz62CdBlMan+OnvmVKhXWyhp3ymmGi7DgtEzz2ebJYqCQ70ie2SrwgPHUp5jTdkZ1VIhc5tWlX3rsZJd2T8D/rkXf3ESOSX9XDfGVfskPXINkOM0gEO8RvdMLhJUnqtmPtlwQ0yG3PeVUrMLOsNbWpzGQRIwQ6gz2qTBQM65FcO5b/ycNh/Zz3OJLSxFgmgnAYSgQyBwf0g1uq4bRZ4nFWHgZYO5xtsu7JVZfxT8jaCXUuM9aVCHbqO97Fr+zMB4NaLeKObcQGdpAqK8l4X3xWhr40cRy8QISBAwEs7v/GZnWWmYIrYroo+d+8d/JND/U2Hm4l3cpw==;7VmMZgi7p86I3EoqgoL8Ag=="
 ---
 

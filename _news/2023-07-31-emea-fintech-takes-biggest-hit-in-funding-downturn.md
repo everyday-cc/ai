@@ -114,7 +114,7 @@ related:
   - title: "Exploring Fintech's Next Frontier - Physical Branches"
     excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
     publishedDateTime: 2023-08-02T05:45:00Z
-    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---physical-branches"
+    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---quotphysical-branchesquot"
     type: article
     provider:
       name: Finextra

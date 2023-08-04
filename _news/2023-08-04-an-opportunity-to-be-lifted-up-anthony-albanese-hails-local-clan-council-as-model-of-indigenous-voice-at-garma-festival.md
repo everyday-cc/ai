@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Voice, treaty … and T-shirts: why Anthony Albanese is struggling to sidestep the referendum scare campaign"
+    excerpt: "The prime minister began his week with a joke about his Midnight Oil T-shirt – but it got less and less funny as the days went by"
+    publishedDateTime: 2023-08-04T14:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/b0f4b97f3a145f3499996a4f96c935beb18ec7e3/0_539_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=f546607436ac554a005db12d4fbcecbc"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Anthony Albanese grilled over Voice in fiery Question Time clash"
     excerpt: "Prime Minister Anthony Albanese has been peppered with questions about his claim the Voice to parliament referendum was not about a treaty."
     publishedDateTime: 2023-08-01T04:14:00Z
@@ -74,6 +90,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Defiant Albanese tries to reset ailing Voice"
+    excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
+    publishedDateTime: 2023-08-04T12:30:00Z
+    webUrl: "https://www.afr.com/politics/federal/defiant-albanese-tries-to-reset-ailing-voice-20230804-p5dtwy"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
   - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
     excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
     publishedDateTime: 2023-08-03T10:12:00Z
@@ -94,6 +119,15 @@ related:
       name: The Daily Telegraph
       domain: dailytelegraph.com.au
     quality: 3
+  - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
+    excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
+    publishedDateTime: 2023-08-04T12:30:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/garma-festival-anthony-albanese-pleads-with-voice-supporters-to-convince-dubious-australians/news-story/0436b5392ac380b5b26f7aacec872a46"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
 
 secured: "A40D3Zm1L4NGAmSISp3Un5BzmnVtlyOQJcfjTB4Bldt8bJA+QT44azajRcM5+vhSZ5CRK6tgrPAqS29HIpykDTI0UPhg3VZXVHcKsQ4u+Ki3WBjxzpJQtf7HNzEsWWVFgQj0scXa6NgWjISjmmaCAEluS9GvXMjQ2PswwTo587lvbPnXe0Ba6nKR2kq5CGHKyW8rWGXuRQJhUF8zk/Pr553h1PjXTFW/nWgDsY2E4GjKpMGKWAZ/Ez/CY+UN7vuYSqjxOc6vi5SZO1XxADtQPXVy0i/eRTdNBOo29Hmzc5gLsAAJI7C9rlsyn6epvfTLUKyZxCGLUNQklkjFu97KpnOE/67tcWUkNbjP5PJQvnfPqJ/hL77w6UodxyESDgynCP+CQcqmkbrKrEZx1toz+YJxInA4mPf5/Lfrfz74g/kxt7asPbG5X5xZel+/cY+2jrrzVdl0NKt/uHz+FzGScA4uzBx7GS9OtUKKs/6/SP7KfYh60DDi1jGRrGrHqPwfm/H7vqB3JDEskuOgAbBcRg==;nddIJG1jyfBjDNRR48JMkg=="
 ---

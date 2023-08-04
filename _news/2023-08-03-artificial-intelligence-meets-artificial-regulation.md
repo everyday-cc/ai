@@ -20,8 +20,8 @@ topics:
 related:
   - title: "AI companies aren’t afraid of regulation – we want it to be international and inclusive"
     excerpt: "If our industry is to avoid superficial ethics-washing, historically excluded communities must be brought into the conversation, says Dorothy Chou, head of public affairs at Google DeepMind"
-    publishedDateTime: 2023-08-04T06:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive?ref=upstract.com"
+    publishedDateTime: 2023-08-04T12:26:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
     type: article

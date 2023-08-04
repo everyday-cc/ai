@@ -95,6 +95,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Optimize data preparation with new features in AWS SageMaker Data Wrangler"
+    excerpt: "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker"
+    publishedDateTime: 2023-08-04T15:25:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/optimize-data-prepration.jpg"
+        width: 1016
+        height: 507
+        isCached: true
   - title: "Warning over using face recognition to catch shoplifters"
     excerpt: "The Home Office declined to comment on the use of face recognition to catch shoplifters ... Ministers plan to introduce a new crime and justice bill in the upcoming King's Speech - although planning for the legislation is still in its early stages."
     publishedDateTime: 2023-08-01T21:50:00Z
@@ -111,10 +125,28 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
+    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"
+    publishedDateTime: 2023-08-04T13:28:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-amazon-sagemaker-and-salesforce-data-cloud-integration-to-power-your-salesforce-apps-with-ai-ml/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
   - title: "Build a personalized avatar with generative AI using Amazon SageMaker"
     excerpt: "Generative AI has become a common tool for enhancing and accelerating the creative process across various industries, including entertainment, advertising, and graphic design. It enables more personalized experiences for audiences and improves the overall quality of the final products. One significant"
     publishedDateTime: 2023-08-02T18:34:51Z
     webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-personalized-avatar-with-generative-ai-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+  - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
+    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
+    publishedDateTime: 2023-08-04T13:27:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ai-using-amazon-sagemaker-with-salesforce-data-cloud/"
     type: article
     provider:
       name: AWS
@@ -241,6 +273,6 @@ related:
         height: 250
         isCached: true
 
-secured: "casrXlCqRZvhMVlftAQRgFsmjfPThsRo0AYQfaq7iw++QGOYFBvQq7eYxQK2Fs8My3+54FuEd7SsFIuwNGrpjCLDxDpaNQx/Ia6wfRJOXzNibS17GrCh6FKmJgkOQQ1Ds3OVvgPNe/vGGjPVsq7eFADVEma5v8d3LsSrUz3PZAnXAMNlQ8QD/TduNuDAd9FXo94BAFA4Q0o8xZvwP3MOYq21QyC2Y8cu/sT/MCaB7pSTunh0PTzu83x8shCr5OQH+Vun07m9Jto9Vv79v5KNq9z0jSusj4a7vF4nOF4A6ty40tvT+nkL/XPBBdcVPcYX0J/6vt1YzCYekBLC0cMkDEvdvnAW+aawufkZd81iYEM=;BjVepZ+bezrFrJgRWFg/qw=="
+secured: "MdPOZOrgNWb1Dfm49ZZCgTGErV/bPNT9BMvBBGY0riKIcPL+UDT/F4CvfWV0ZYKrfJdDOsQgv1h+V6k/5GJnsTd352kwQfWvn0BNs2gUeQXDi1+tJam6ue4AHNfqwpFNOLTlKCEBvORywI5G8WmFJQowhFeGSvk7X8GUtdpi7MWigiOBqFGBQpPFe8O3DxV6af8N0sWg/GWhqtwc0mvsCK3hm8JtOi16Y2XyComn+/1aN5jQumYC8mR13yEY8jN/JgBqu2AQ23ifOBBZcftPjs1Kc2+m3Vt5+n9U/4/Jk7WdZzVd4/I9fVGquRTwct7KnuJ3TThYQbv7rU+OfGaqZqKrd9GdtDX2r3Fq0tTj1cqVJ7V8dCsx668bFVlOfWKQzChhdCA/Sy18cJ1uDRcZbBGPlx5lGaQjCYgBs9X1ZfHkCs0k/6IhiiYAqhWtjHLv2zKwr0ZzCcrRFGA9W7Ewhna0giiUZTY69SJ84pThh9ZbwcdqHPrKWDTXusCzBoJxnO0y8YoLD6bqh/AjJzXn4g==;5J2XTdth57/b5vZ6UH/igA=="
 ---
 

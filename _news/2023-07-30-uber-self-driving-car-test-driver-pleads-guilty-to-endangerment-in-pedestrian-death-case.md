@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Uber self-driving car test driver pleads guilty to endangerment in pedestrian death case"
-excerpt: "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of supervised probation Friday,"
-publishedDateTime: 2023-07-29T21:26:00Z
-originalUrl: "https://www.aol.com/uber-self-driving-car-test-182754151.html"
-webUrl: "https://www.aol.com/uber-self-driving-car-test-182754151.html"
+excerpt: "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of ..."
+publishedDateTime: 2023-07-29T22:12:00Z
+originalUrl: "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html"
+webUrl: "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/65a0a6c83971954f3aaa019c4816e37c"
-    width: 960
-    height: 540
-    isCached: true
-
-secured: "/iHRukEtH1kPEcbV0X+zNUS64DzFBJSnGYUVSaKdSwhZ3OcTBHJMsqLV8x8xMU9fQrtecWwEzRZ1p4xLXhDKfjITeLnjtCpA6nI8y8GqkzzZ9jGFkbqdY9Nh6PQ4jct/7r5LTofbbVzrhay/SB2bcygbI0CIiDt/sQHnnTnK2ddhEeRw0/mFiOkb0u/BGMrqD8nsErepS4JZrxUAuuuWiWPhX6RTY7kBDjvBA2zTBKg7bXQMtUWYU2/XBNXviacWtyT6N8lFRYoR7Bb/KNb6PwFlj5ApECSrqbyUBaDbOYxBaNhfbb9OfVUJoapXETYyjYcXRFEtxCtCRAI4lLNbG//DgRDitYe8xLhtBNanXo4=;kBgYK9YJp6d7rsfqA1rEfA=="
+secured: "fyqiLe2iRD4dNb2Bnt5r9lH/RD4U4ACmzvopRKld2bavinghit6jcqyrRN+MfIyf3wDYrxY8jGr57PoWIFB76Wlajsd7j6Qxhu5g09+GcNRcpN+o+VMdvNX0JA4ik/rpUpYJAaJHTqp5GQnJ4OCxOjIBZ311ubBC3DtmJaJ221irgSuC1J5cSxwiOjbx93F/uFyj6q9oojo+ysM0kCnPBIr0RHOmLf0djxn/dAT0sTKAKhAH42glSCI6697FqpCO/IarNaY3UWapR5zTgleOyvGy6yY2h8pwsuT3MiwrTM+LjYNvyFQ2WNmg26r4hfs0hbW6EdaNOV23rKBQqE6WkDbogaDQPrJ4IChqS6xzRJ8=;wbGSMWlhi4TYD0rpvM6X9g=="
 ---
 

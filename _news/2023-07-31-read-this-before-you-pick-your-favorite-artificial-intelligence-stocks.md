@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-3
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-31-2023/card/read-this-before-you-pick-your-favorite-artificial-intelligence-stocks-YDcS2C0rg20vcZlkrMLT"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How you can future-proof your career in the era of AI"
+    excerpt: "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe."
+    publishedDateTime: 2023-07-31T17:26:00Z
+    webUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.html"
+    ampWebUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-future-proof-career-era-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-you-can-future-pro.jpg"
+        width: 1280
+        height: 876
+        isCached: true
   - title: "Your Ultimate AI Glossary"
     excerpt: "Software for self-driving cars uses deep learning to identify stop signs, lane markers, and traffic lights, through object recognition: This is achieved by showing the AI tool many examples of what a certain object looks like (e.g., a stop sign), and ..."
     publishedDateTime: 2023-07-31T22:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/tromzo-secures-8m-to-lead-the-charge-in
 webUrl: "https://venturebeat.com/ai/tromzo-secures-8m-to-lead-the-charge-in-ai-powered-cloud-security-solutions/"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,26 @@ provider:
 topics:
   - AI
   - AI in Security
+
+related:
+  - title: "IBM Cloud security: How to clean up unused access policies"
+    excerpt: "How to find inactive access policies and clean them up to enhance security for your IBM Cloud environment.\nThe post IBM Cloud security: How to clean up unused access policies appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-04T13:07:42Z
+    webUrl: "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "5 things to know: IBM Cloud’s mission to accelerate innovation for clients"
+    excerpt: "Five ways IBM Cloud is helping clients make the right workload-placement decisions based on resiliency, performance, security, compliance and TCO.\nThe post 5 things to know: IBM Cloud’s mission to accelerate innovation for clients appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-01T14:08:47Z
+    webUrl: "https://www.ibm.com/blog/5-things-to-know-ibm-clouds-mission-to-accelerate-innovation-for-clients/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 80
 
 secured: "jqQ0fiekf4sVZ8eChQA7kdTbDutVBsYUgbVjsr7KFdxc5MZN6pGziWwB59zSfXhHQgOhA7vQugx4JjCkyg7FIuqItcIzNNiNyp4GTd9Vu/VxftcPMt2azdAdZbcUOX1iXicC7ccqEANpwzrQv8OYKiSdhqYBdkOiCt4nfJzVG+AnnY37RF937oFt7Ls5n8mCmuY2deDi+iJvXpLM6Nl+iUf3bak8Q+m8tXzt8w1K7TnsHkz5oDu8L98OwEX3vqazgyubeZNeIt0P6aDW1SsTpdyFBEKMxvYkYEwJLSkdmJoF9Vt+7exx4AYVv6R3QzdurKgRiDzy7nq2n/Opmn6b6cbdS47SjRJwf5wFYozj4o6QhhWLkwk4BzZsr5KbGSDcIGoYZX5ICA2kYpOjg2EZqjNclbvLKVw/C0yGN09U4bpmRsMfDZLw68/cTmLQOAItumRB2FjBV9g3y7GfbcPl3EpVYWufuWNVGIvZP/ZIhaYExsXKmT0COJdb2qXMNyE3fAMSNGuJaiEEjLTvVhVurg==;tRTgFpl/dlmr6giyhSA1eA=="
 ---

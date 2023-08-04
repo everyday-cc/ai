@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6301288/the-ai-jokes-that-give-me-nightmares/"
 webUrl: "https://time.com/6301288/the-ai-jokes-that-give-me-nightmares/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
       domain: wtkr.com
     quality: 17
 
-secured: "uMzD2GbVrj7rBS+VXG9exyPIY1ehLJI1i1Rv2CniKHalIhgY1pFB0suvI5ghQnnBW8Gx4kt/FT5Z2YTbI3Zt+a5ye7tmOFrjR/UD9+Ffh66HBP9m32OjfGzKgZ3nffifKyUWFeipEty9QSF7s5QRRMev9g5d7lnOykThKYUw3PnzM8EfEF9U4v/sTu5pn74K1tcqX01IXf5MRV4TZRTITzxDUpbAM6UaCZ1/NV6Hq2iVfVp+Pui7IgMzw6SlNPa5ATEF9FsdkbPGifo9W+KYA1NJJ1zdOyiNfbe9ZR4Vqy6uQanxb9oVppnr5IgLuaJVUFP7tR+Oq8aAotuQ9L13Q+rGbNIQWx9DurIAW1UhO+s=;aN9Rdv1dEYlrq/Bvn3HIQA=="
+secured: "5zg36tMBWeYZFajW66r+pPYK644wEnKPf1RkNDh/4jsAmxC22VhQqTmq6CCHBgJeBoTfBSgcbYRvrMX2Yg9mO7QNlUNqHWFgUV0yPabl13a6mb4obtt+bH4nNbWxRtC/CNUmn7fi4okChkBftRxh8Vw7TcGBtkW3odtJQe6n5opJv+8yZiLOKdYwMzNIHaqA43e1tK+9zVvqoW3AVz2R7aa0i8hC0t2wFDGIAqPQIWr5QjtTPbh51mZsxKqYEkgmsqvs+ruuIhhxcrm/eV+PTn9wOEjmS2qUDB5OwFBALeqwanuVCWBupD3z9vAu3+Tq1sP6OfWQwQ4jy+BBLkM1b1RwYXpqYDF5VJFPIl1CHtf4cIWbZ+ik4xI/rjhrWbiGvMEbg7Mxw//VWWgqh8nks09OEq8QkLUxYvnq7m4jdaL3eK7Hi53pgbfDEz2ADVP6SmyeYZm3yiH9qkayE6gdjZt2q3ta0paaOvI4+4miU9rvo6ElNrUB1lPLw+c0r5cKc/ifA3YjGoru3OTN1j9+wQ==;8C2Ru/b3ld2R+wEZmaLMHQ=="
 ---
 

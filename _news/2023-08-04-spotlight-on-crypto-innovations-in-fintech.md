@@ -39,6 +39,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
+    excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
+    publishedDateTime: 2023-08-04T12:23:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 19
   - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
     excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
     publishedDateTime: 2023-08-01T09:40:00Z

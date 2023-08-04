@@ -93,6 +93,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Optimize data preparation with new features in AWS SageMaker Data Wrangler"
+    excerpt: "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker"
+    publishedDateTime: 2023-08-04T15:25:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/optimize-data-prepration.jpg"
+        width: 1016
+        height: 507
+        isCached: true
   - title: "Warning over using face recognition to catch shoplifters"
     excerpt: "The Home Office declined to comment on the use of face recognition to catch shoplifters ... Ministers plan to introduce a new crime and justice bill in the upcoming King's Speech - although planning for the legislation is still in its early stages."
     publishedDateTime: 2023-08-01T21:50:00Z
@@ -109,6 +123,24 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
+    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"
+    publishedDateTime: 2023-08-04T13:28:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-amazon-sagemaker-and-salesforce-data-cloud-integration-to-power-your-salesforce-apps-with-ai-ml/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+  - title: "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud"
+    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. We’re excited to announce Amazon SageMaker and Salesforce Data Cloud integration. With this capability, businesses can access their Salesforce data securely with a zero-copy approach using SageMaker and use SageMaker"
+    publishedDateTime: 2023-08-04T13:27:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ai-using-amazon-sagemaker-with-salesforce-data-cloud/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "How organizations can successfully measure an application health monitoring process"
     excerpt: "Application health monitoring is a diagnostic process to identify application health issues and create a resolution plan before they become greater issues.\nThe post How organizations can successfully measure an application health monitoring process appeared first on IBM Blog.\n"
     publishedDateTime: 2023-08-03T13:52:50Z

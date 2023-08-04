@@ -88,6 +88,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How to Use AI to Create Writing and Business Efficiencies"
+    excerpt: "Author and CEO Maddy Osman shows how to use AI to organize your thoughts, detect AI writing and generate job descriptions."
+    publishedDateTime: 2023-08-04T12:00:00Z
+    webUrl: "https://www.newsweek.com/ai-writing-business-efficiencies-1816500"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 47
   - title: "Most businesses with AI lead new use cases with it"
     excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
     publishedDateTime: 2023-07-31T09:45:00Z
@@ -101,6 +110,20 @@ related:
       - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
         width: 1075
         height: 550
+        isCached: true
+  - title: "Report to Congress on Advances in Artificial Intelligence"
+    excerpt: "The following is the Aug. 4, 2023, Congressional Research Service report, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress. From the report Artificial intelligence (AI)—a term generally thought of as computerized systems that work and react in ways commonly thought to require intelligence—can encompass a range of technologies,"
+    publishedDateTime: 2023-08-04T14:29:00Z
+    webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
+    type: article
+    provider:
+      name: USNI
+      domain: usni.org
+    quality: 39
+    images:
+      - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
+        width: 600
+        height: 600
         isCached: true
   - title: "How Will Artificial Intelligence Change the News Business?"
     excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"

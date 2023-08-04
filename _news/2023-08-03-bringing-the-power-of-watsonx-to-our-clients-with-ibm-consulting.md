@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/bringing-the-power-of-watsonx-to-our-clie
 webUrl: "https://www.ibm.com/blog/bringing-the-power-of-watsonx-to-our-clients-with-ibm-consulting/"
 type: article
 quality: 97
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "5 things to know: IBM Cloud’s mission to accelerate innovation for clients"
-    excerpt: "Five ways IBM Cloud is helping clients make the right workload-placement decisions based on resiliency, performance, security, compliance and TCO.\nThe post 5 things to know: IBM Cloud’s mission to accelerate innovation for clients appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-01T14:08:47Z
-    webUrl: "https://www.ibm.com/blog/5-things-to-know-ibm-clouds-mission-to-accelerate-innovation-for-clients/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 80
 
 secured: "vvsRQTivooOKWcdVl4fKYn7PbmPE2rzxif/G5q8drnkDAi8xKSHlyM1/UsE2e2+SgIjuSwhWNHdxuEEM9ygULIv0M3MhgKn3Qy9zt+fRwH/dyu1YQLV9Bo70izB0AZt9oUTh8d10Bd0VYMSAhxzCjaevqSUOCCxQBwvqDTLShHtJck4F8dBNOwxVALhw5G0G4fiqtpSfufD9FnIwjFYqNGEydpjAmeg33p/MBkco4n78VAl9D3Ioa9SVxacyTnLTvMcgLif0bKgnbRK/0gfWgLl5FvMmvVMURadqFSZPRJoFJ92lm9Zirq1u2UXJTz5zJjkyDsLY15qzSfcPK9KDRxdpQkbDElb1UhAunc8tgz0=;qx+JymI8t7wovX3AAjJM6A=="
 ---

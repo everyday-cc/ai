@@ -39,6 +39,22 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "How you can future-proof your career in the era of AI"
+    excerpt: "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe."
+    publishedDateTime: 2023-07-31T17:26:00Z
+    webUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.html"
+    ampWebUrl: "https://phys.org/news/2023-07-future-proof-career-era-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-future-proof-career-era-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-you-can-future-pro.jpg"
+        width: 1280
+        height: 876
+        isCached: true
 
 secured: "US0x2n3S6Y8XMuvx1jPu07p3T7E5cENvE/840ybWjUJS8PHzHM8aPXS1pzqH9bS75W9S1bB1ICUbAUAX2wwd2snfXHekL2oygPxFqFv/dW2tTt+jZEo8cz6OllUc2eWw9iYNNgEqdpKy41PMm9FPHGT1Gt8L/98ghG+Vk+fy8QGckGmsRjUG4D7Bys3XWyzGV4lCDiHq+ckO9XIYo5i/SU2Pcitx29K9I1jIeIKeE3BLnsEKQOQopgbgLt0t7wNH7Y1sgpGc/SoBjXbQdmNLUZPkiNC0OM45CbdTbQxoIYKH6dsF4hVlfBDOhFBnJYMSPcLAcWE5yrDWJakTnx/2DAM9JLYs5BbDJLKcGW6LHco=;1lY6lHizMqRZZMYbYqNRZA=="
 ---

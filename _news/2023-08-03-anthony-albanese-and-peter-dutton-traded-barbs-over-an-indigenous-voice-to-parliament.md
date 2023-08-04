@@ -37,6 +37,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Voice, treaty … and T-shirts: why Anthony Albanese is struggling to sidestep the referendum scare campaign"
+    excerpt: "The prime minister began his week with a joke about his Midnight Oil T-shirt – but it got less and less funny as the days went by"
+    publishedDateTime: 2023-08-04T14:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/aug/05/anthony-albanese-treaty-t-shirt-midnight-oil-indigenous-voice-to-parliament-referendum-no-campaign"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/b0f4b97f3a145f3499996a4f96c935beb18ec7e3/0_539_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=f546607436ac554a005db12d4fbcecbc"
+        width: 620
+        height: 372
+        isCached: true
   - title: "‘An opportunity to be lifted up’: Anthony Albanese hails local clan council as model of Indigenous voice at Garma festival"
     excerpt: "The event began with a solemn and loving tribute to beloved late Gumatj leader Yunupingu"
     publishedDateTime: 2023-08-04T07:48:00Z
@@ -80,6 +96,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Defiant Albanese tries to reset ailing Voice"
+    excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
+    publishedDateTime: 2023-08-04T12:30:00Z
+    webUrl: "https://www.afr.com/politics/federal/defiant-albanese-tries-to-reset-ailing-voice-20230804-p5dtwy"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
   - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
     excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
     publishedDateTime: 2023-08-02T04:28:00Z
@@ -89,6 +114,15 @@ related:
       name: The Daily Telegraph
       domain: dailytelegraph.com.au
     quality: 3
+  - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
+    excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
+    publishedDateTime: 2023-08-04T12:30:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/garma-festival-anthony-albanese-pleads-with-voice-supporters-to-convince-dubious-australians/news-story/0436b5392ac380b5b26f7aacec872a46"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
 
 secured: "lXt/HwRUIdvLe7pNl2fNSihmLXgsaug0RijfGGfT8p6TnylfIlsAl3a+Qrxgm5MxAA0SS4OEhWMj1kzPxQJEXbw/CtW6FJIA0AeP3QRlk8RKLM7AgWuoT2npY1Vq35dEjCqlPVudgKq+ww7hNanSorOH28nlUTeX+dXCxp8Tynaaayj4PIzoQ+6OQgQdHdzjxqesgTKOQRhgZ6xS/omlbTGvGeU4G2wBgu5zIvflLsI62sLyyaXKhD5RohW2igN0hRqUyX6xfnSyw2ErHTDkOnfhQfdZOnwHUiTtrvpvXgh0VMXd2tlgiXltTf4b/aa12Il22paiZPe4mSlvSvGWvgwO6Nb00WF1yGMokMOOuXyRjTrO69knZtqNe/LHfdOxBFfPmdMAhSWRmljPtHxKZm9+toz+BSI7qFzTeKHYoKKSBimcNqFWoexohEU/kU/rsN4xPgHKcqxaowe5IKAd+Oxv5Qt9OAVnA6ePx2/vWL2dwMcT6E8pLfw5tS4AFhtKDDjPY5vLZ7Mjn4Pz6wDFAQ==;knt1YKxBjEFZYC6J6w7kbQ=="
 ---

@@ -22,15 +22,24 @@ topics:
   - IBM AI
 
 related:
-  - title: "Bringing the power of watsonx to our clients with IBM Consulting"
-    excerpt: "Talent, customer service and application modernization are three of the most high-impact use cases for generative AI that matter for business.\nThe post Bringing the power of watsonx to our clients with IBM Consulting appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-03T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/bringing-the-power-of-watsonx-to-our-clients-with-ibm-consulting/"
+  - title: "IBM Cloud security: How to clean up unused access policies"
+    excerpt: "How to find inactive access policies and clean them up to enhance security for your IBM Cloud environment.\nThe post IBM Cloud security: How to clean up unused access policies appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-04T13:07:42Z
+    webUrl: "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 97
+    quality: 99
+  - title: "Tromzo secures $8M to lead the charge in AI-powered cloud security solutions"
+    excerpt: "Tromzo, a cybersecurity startup, today announced an additional $8 million in an oversubscribed seed round led by Venture Guides to secure cloud applications."
+    publishedDateTime: 2023-08-03T19:49:00Z
+    webUrl: "https://venturebeat.com/ai/tromzo-secures-8m-to-lead-the-charge-in-ai-powered-cloud-security-solutions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
 
 secured: "uF4R1PSlc/1Q6nN16C17VOz6rlvb4RZLHOAOeZmGpwS6O/8K6qvzM+8ppOY+OzI/jfQiry3FABETbziqag+ClhHjleT+V6TuD2wBLgyk2F3LLHIkEZrv6qghar/l934VDYJUV7ZNt6OqzQ9RSMuI62IYwQuIdtAV82LqOehH8LJVr5xf5GLkARTRcFZQRzpNgn+Gx6yB5lbIhwsPrpQpQShLfGPX5AI5xnLO9DErKoqo2hLPcJCzA1EpN149Sr7sA56C1+wrDxBRw5Xm7c8CYq7aVxBw8XHIFq5HzKteJUaKTWgyxOlxNh3oSnC+O3epudN/GSCK2Tmbz2wUxFpZVV3qc7gQ/e+6mUqYU+hjVbU=;knSGCzoSK4XPEjmP+aPnjw=="
 ---

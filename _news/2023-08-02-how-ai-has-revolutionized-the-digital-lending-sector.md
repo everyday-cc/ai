@@ -73,6 +73,15 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Working with robots: how AI is revolutionising productivity and the Australian jobs landscape"
+    excerpt: "Midjourney imagines a robot tasked with sorting through ... that essentially do the work of junior lawyers. If AI is doing your job pretty well – such as research and proofreading – where does one start in the legal field and learn the nuances and ..."
+    publishedDateTime: 2023-08-04T13:32:00Z
+    webUrl: "https://www.couriermail.com.au/lifestyle/qweekend/working-with-robots-how-ai-is-revolutionising-productivity-and-the-australian-jobs-landscape/news-story/8ec1359c236e271084e3c959b211d176"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 23
   - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
     excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
     publishedDateTime: 2023-07-31T11:51:00Z

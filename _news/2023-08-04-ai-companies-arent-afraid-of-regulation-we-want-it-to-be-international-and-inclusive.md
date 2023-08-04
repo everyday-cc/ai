@@ -2,9 +2,9 @@
 category: news
 title: "AI companies aren’t afraid of regulation – we want it to be international and inclusive"
 excerpt: "If our industry is to avoid superficial ethics-washing, historically excluded communities must be brought into the conversation, says Dorothy Chou, head of public affairs at Google DeepMind"
-publishedDateTime: 2023-08-04T06:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive?ref=upstract.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive?ref=upstract.com"
+publishedDateTime: 2023-08-04T12:26:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
+webUrl: "https://www.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/04/ai-companies-regulation-international-inclusive"
 type: article
@@ -40,6 +40,6 @@ related:
       domain: realclearmarkets.com
     quality: 17
 
-secured: "/MRe1jbNhpZQPEIs4xfdIxFWJ6O7GcZUotpT2WkBJNZJh02c4IySuDACkNCzulZ0niEPJH4n9+Fk/YO5yN3At5bDIvqbLFR3756Vf7AQ22RQFt8aqmaA3fzBztZwnzVrXN8rJ8uG5GND4ovRvwOcngj6q82CZc5de+DnvctYF6vZ6sBVx/+aIoEAB+cQNLhXLwGSm2vGZ5bj8pcxenwFCCG9792QhlwHNKaQL1DH/HVFATD8Gq7FloPckN7cUHcMSr7mHGPWgWUfnw0inUO5XkCc9HfPlb3xPCsLiQhAN39WlAocuaf99ysYysSLdMzOdKSwX0r4K+ZTrYHg/jTtCW+SP1Az/qRS47teANkXXgNNzukGHj+1t+LCycbvVDEeq4I6JU1592JxBNn7br8cKat5CMbWkd+23yi4rfcasXAvc+3OAUpJIQ0Ej5epypQ+ttHrqkp554oBdMOAmBqbngelpnWnemrtL/fevSbY5Y2kkLrrS6V9iVGwQVxQgqTN9aNztZaPl1bCLDVg2sLOPg==;52iY2W5hf2RuXlb6fnDI6Q=="
+secured: "GT7aLmIEH9jG624mpCdbGeByQprC43OewN9n6kd5eH0ByUdPZuS/InDIWUlj1IcWwCCQjsh92Fv/nX/qbvcAOb9dfZUdrQPF8eldYQ1wQwsHr6Qo4wZnwXPViRp9FoNYtTIbNv5/ugqJIEV0ueTnFGAeOsJO+dNocPsSs3py2anYhcpEQtE8RxjfTyn/32FomgU8eoJBAhIbHhYxOUhFqjI9VAKkIzHBe3H224BMFyWnTURUBog/LW7ymyP+A/CO01QXcUcHZZvxHRSKyS/VXZASp8RblI5S4hb4xckAefOygnQrIF05z9Rwcr9xh07MTH+qnsjXntTbaB/1/LVO3xyWTlxmLKQmB5Ya2YCm8fI=;xpqK2zJOBXjN9kd2ucVSxQ=="
 ---
 

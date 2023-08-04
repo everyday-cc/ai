@@ -27,6 +27,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 17
+  - title: "The Download: China’s digital currency ambitions, and US AI rules"
+    excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for China’s digital currency? China’s digital yuan was seemingly born out of a desire to centralize a tech giant-dominated payment system."
+    publishedDateTime: 2023-08-04T12:12:00Z
+    webUrl: "https://www.technologyreview.com/2023/08/04/1077214/the-download-china-currency-ambitions-us-ai-rules/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "/CCNhMuRMuQ6yRFT8/oqo2oIsamZIXfnE0N9N0TmAb5uPlw7kNYGe8mLtB94awbS3yipNrKn2aReZXeAxk8GZ+RNF5GWU3g1yXjTE+5a4Zm28j+3Qx6sjOnO44gHIOREpJ5KEQxeQLL90DyGJWI0vGFczWHT0dX1jb14lU0irzK5LKzWOoQn8LBrLiWwHztDB049MFraNDhsWf5M3GazlA1KABqhm93dUlDqO+MNq6z7OQ7MiagidKDqHxJPr/qCu9qRHODG1i2Ih5pu1y5+6VZiTwWT0H5WWwgRM1Z67YZy8ZpPF3U0jkKd1VXE+ToEGzLxE6ooUpZlcZrFMDyQLq2Znkn26F6xBFu9xpGN8tOyjg3MBFz7mGxsQtSZY5m6SZTVbxP0WbsU/Y4U+fnJXFpmajfFkJhlGSEuOyTy5kG2bwsVGUz1cKngxvV7GKX+kYNowkfQiYxh8Yvi5+U0QnKa7Ys1KHT2v83tNWdbQ91ak/OQHtiGdyRj5rva3vSYlSVw0nGDFo1187ErCr/6yA==;OYixpaGC2T20Y1JlIODIqg=="
 ---

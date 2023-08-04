@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/environment/newest-firefighter-artificial-intel
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "AI Might Save The World, But It Has To Be Tested Again And Again"
+    excerpt: "As more people grow concerned about the issues surrounding artificial intelligence, fear has shifted the discussion from promise to a potential pause."
+    publishedDateTime: 2023-08-04T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/ai-might-save-the-world-but-it-has-to-be-tested-again-and-again/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "kGQmRXqDpxUEktc/klu3sSJtze97+bPzqXDIRyCXl/xrhHo6HwwBRma0Mwj1fbCDE4MhG2atb6Y2Bgf75YkoZ9VUj0AmPSf5qcHvsvmP/F3MhLDj9YFtAz/ZNRxmuUtdVZiybkgFbOeyVS1uOJbog8RC0dwkQYIn6CaMfOfIRVAJl4ZTIEfIN3yI8hZNyhVSjHwGJMn2o3XDrLUyHcnwtejqjpdKfmOU4/91rci5ehy8oxma7NU+xi8PBv0VwkYkxGYDbYze8yZystt00cjhgK4EN1MRjrMtew6cj413joqRPRoBaHSjPmXbHGcY1VBa8ySsBXFn0aSaLZgxfM33kT5OH7EFWvDi+GkiKjMheqiU9mdd/WPgn+zglOZ33D4m4sH6eiUCJj+UsFEgf2WAt0B5UP5Wa9tavKVQisz4ZdZg6yb1UDXYWao5FgQIAP+8R9mguPfe8hvWjc/g4/c36Bm2gsGYhubMoKZchiczC8q6M3cJ93So6GWWHSKqm693DnnN8MgYyQSpH599p88n5g==;bxqpbieWkQfmptkODAdclw=="
 ---

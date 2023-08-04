@@ -335,6 +335,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 32
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+    publishedDateTime: 2023-08-04T12:42:00Z
+    webUrl: "https://www.inferse.com/668303/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
   - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
     excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
     publishedDateTime: 2023-08-01T09:54:00Z
@@ -354,6 +363,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "6QIbJioGhY78XhQ85WTME5WXOlvcG3dzuxK/sg8oPO7MZU1zglHzCOwqDxJ3MXXMybAHgkeyKvCD1L6OtBwZfzt3iACzBhQ9+OB8kjbgBCNS4k2cFtr7JF48CdC/gGvW0z0pUlNTzpN6/lAdHNKxwlygMEN6sE6XKTfMcoqTJXgWBnptK5duRa8GiHeXbQl/3CZ55P7csMiSKqpdqDVj7GJOq16sPuuSQb1c3SUJnGj8GjsIOXC2Z18aTNP1SKsm1Ime3RrZQvl1EG7pkvedGLIairhmLPagKHB100LPQ1/4ccEW3PaBx5t4JQg0NCWPUHZuzwe0HenFSla1A0z9iuLBKae/CHPhn8+Mwjtxx9Y=;qJisImWJHopc54iFU6evJQ=="
+secured: "dL5r4Zbuo0n+H9hEYQbOJbXRAidqXkFvJljNE2gj5oeG7pZc4pLEJmBDfL/cTaGr6vTgQrOVGS9s2RszNbJpG0OtiKEP1z2ghzRXD2pwwAvJP2b9Co+BWNjmHHxJvU/bnFH7SLTWwA4cctyouXk0ZcfTmdQqgXF/7OhLy/LwDGjSTaObYS9mLBOJKlOoV2ujxqIuqlQFjL4GaC38kCIC4amo2H6TQ0KeWuT8D3CoVjl8BM4G4AIw6jbwrP0/hIJnB423av4l2LmVQRToekq8gz5/B2zwpokjQyq9YsgOuZ+siUdSLN44rmkyUu2DolrtC5Sv9Qkjx05qIhHOSHbi3L05tCB/4an7NYXk6+CvIXAV4m0Ub4QkgzjCjaB+vWXLYvr0GOeg15por3fyMRS84qS2qKHpCpiFr+NsamhTQyaImfiC91OMj/VTVgg+gh0o9LH/Lc4rPfA+IfDX6kNyOgNKq6TCsAsQXYSj3qUeoqTGrApQH/cWxSaMJD2LuXXtlzIKXUV48Lw0/4coliwQxg==;s1WQGU58fB2OYTT73J+oGQ=="
 ---
 

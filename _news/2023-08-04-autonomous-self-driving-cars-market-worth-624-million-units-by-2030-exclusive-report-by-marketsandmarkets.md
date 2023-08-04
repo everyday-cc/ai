@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33563920"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33563920"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Healthcare IT Market is Expected to Reach $974.5 Billion | MarketsandMarkets."
+    excerpt: "In the near future, the Healthcare IT industry is poised to undergo a transformative evolution, revolutionizing the way healthcare services are delivered and managed. Powered"
+    publishedDateTime: 2023-08-04T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33576139/healthcare-it-market-is-expected-to-reach-974-5-billion-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33576139"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33576139"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "inaQ0UZO8MTNhi2ruL6ii3uJgUyjStK62hPW3FkIquw6RBLUzy8vKfuU4RkwqoVYTsT1QxZo6Sbao2Q05Nv2XZu1K7Bm6I8o+7vO2oEjHliyta1/8NkNuQrsF02rYm+4VwryXu5ugWe2Blt8hZoOBqJy99Z4C3s4Ghb81JCKu1U6sgeFssp4vy4654kUk7Ze9oKSyvtlk3kUfZj6kcOmh5JBIxV+m72l3bKN+QfxJn6ZWyYxDFUVCzyKTakUxUGfx3pOFnLZnhdo1Oe1O743UcpvomynhLN6yOLmUKxHZfM4gEG56xWTr6bi8NybiwEs37HvM9Ll5/I8dO/rVX/FOyb76szT3RSe1mTiFouzdcY=;ArmRKeGp98K9dQ0CGV/MOQ=="
 ---
