@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving taxi service coming to Texas with driverless cars"
+    excerpt: "Have you ever wanted to hop in a driverless car? Waymo, a self-driving taxi company, has announced its expansion to Texas bringing its fleet of autonomous vehicles."
+    publishedDateTime: 2023-08-04T02:31:00Z
+    webUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars"
+    ampWebUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/08/932/470/waymo.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "China at forefront of developing, rolling out driverless taxis: expert"
     excerpt: "Provided by Xinhua Over the past four months 116 self-driving taxis have completed over 15 million test trips with more than 95 percent positive pa"
     publishedDateTime: 2023-08-02T18:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 32
+  - title: "Regulating Artificial Intelligence and the Limits of the Law"
+    excerpt: "This is a book which deserves to be widely read.' Jacob Turner, author of Robot Rules: Regulating Artificial Intelligence 'An accessible introduction to some of the most important legal questions raised by artificial intelligence, and solutions implemented ..."
+    publishedDateTime: 2023-07-31T09:58:00Z
+    webUrl: "https://www.cambridge.org/cg/universitypress/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=AR"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 19
 
 secured: "QAmkwG7yxDOWI2AFp/gyzqQdKWD2PnaoxX6FAKGBrKJy39mhzdwlZoJQn2r0medSA2X0rq/aszN/Ud62wSqtynJtHHnEfI5yYLjMx8w24QwBcOF8Nb/6bRguUz0qsTB6r4GQri5wENhTz1G/crkQJD5yc9h0smK1IM/eYQiGonNE/p2HKCSnllKBhdwMlzYVeu0KGP9Ht6KpbJjeO20DmLN/H4w4/oI59TCrXFyQr6bvSc3wei0KrfipussGy0fa5yYESTaN5xZf3vSNL5zy9yyQdcwYm5XrjSUDcELhPnFscTrl9qEfKrZuOOShFcvz6v6ZUBwPH3hTd3Ap+9oFD/a0oKAQQLWINaNcZAAUl/dPl9dqgcfg0KZnDKbE7JDvX0GPCHC24US5qAIt8CGbTwqUXF7z8A8nicJxmKltueHMVgNbt9ObT2vkQ/fd+/eWf/2/L83tCriwAyJE0nEuEMwLU1pEQ3B6t5Oji42ewxdCKripKDvkHs9SNdw858Sp1sDAjKJAnohLe883R3lGXQ==;csMh4u+oQSYfZELeCALSEQ=="
 ---

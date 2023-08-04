@@ -56,6 +56,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 32
+  - title: "Regulating Artificial Intelligence and the Limits of the Law"
+    excerpt: "This is a book which deserves to be widely read.' Jacob Turner, author of Robot Rules: Regulating Artificial Intelligence 'An accessible introduction to some of the most important legal questions raised by artificial intelligence, and solutions implemented ..."
+    publishedDateTime: 2023-07-31T09:58:00Z
+    webUrl: "https://www.cambridge.org/cg/universitypress/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=AR"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 19
 
 secured: "Urn2VT/ZUQT6vKBsx7aVinGfcretXbezKD87tAvF9bGAyJ4RPbZyYq0EvWv2A1b2Yh56et10iL4U1Dlvv2Zz5nqLXK6OxwSbAX1GwtsdMIQkspGIpM+pu4tBsircU3z+4S8HF9s+gdmllDNdNSYG/cX6FWGbePhJfYhVLPmk+eNj7Mkvai97gfjj0MEUQzGbvxiybrwQy0rzWuZRexNUxQ0Uu4ifxBX5JoTcQhpWSJp0cBw1+hxERY0wrEQx55W3Yfhc3G/32Ui54zD4Y2RohQnmK0oh6ubggtlukYPo+UQ2cW8oqKnQbyyKeifep+poVd4vWYxlq8j8oyLDtw0pDKvwjVTqL2RNA6JDeq6t8eG2vT1HAG+DXmBPs7sO32ZlNUieb+ePR5R8tb2aRhHwCwkiCtb+MX7tJ7KeBtn1P0lMrGZTXBPMhIx4k2IWBf7LZ5oPSmypzZdkaIeBhd4hZeKW8QJMrPCTKpRJ+tRC2MY+f4R0xKd3JvZnPTycTLOu+FaaVTfDH8IheHCVprf6Vg==;fM7vrfv7KIlV6xD+u9gYrQ=="
 ---

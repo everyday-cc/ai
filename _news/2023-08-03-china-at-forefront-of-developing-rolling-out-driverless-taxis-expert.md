@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving taxi service coming to Texas with driverless cars"
+    excerpt: "Have you ever wanted to hop in a driverless car? Waymo, a self-driving taxi company, has announced its expansion to Texas bringing its fleet of autonomous vehicles."
+    publishedDateTime: 2023-08-04T02:31:00Z
+    webUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars"
+    ampWebUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/08/932/470/waymo.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "JBPhqv1DQVIljC6j+6RNN/2pNNEgwSs3vteD+/w6tSYguzuHLtAs3WYBRzTeUbxvL7SjA16R7Tgb5qhuF5VMiwTfZjxgVuvCq2W/1dUU51dD5fmI4FUZUatz3rETN4wJsTIyiYO9mjLpMS2fi/l5EeujgK8QAUZD7dV+jvbYZNXGndOQuhcvPaphOSifdScFR2EvSoc6gLbA458gUZPy9rBsqv+HK9sNA6t1618c1RmwnTJB8sj15LQ9O4rybL48FsW4dlSuCgELjB767SkqU4+wcP7BG1VyGBfHh7N/bWWLkKNKgdKJ/NvFR3ECKtUH+QlUyKDbtTwYyGP5ndaX+q+EryEnfkQx2FMo5pDUW3E=;rid6fAupNqdR6ZW9BwZG+A=="
 ---

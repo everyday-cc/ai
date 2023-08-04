@@ -163,7 +163,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
         width: 400

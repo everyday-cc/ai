@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-03T17:15:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
@@ -217,6 +218,6 @@ related:
       domain: newsobserver.com
     quality: 0
 
-secured: "CQhpYBScQHrgnpQLGoehSpDP9YwyhLZ1WmYc85LSlwj5x7w1LTq52TXbaethw2i1FbHv++y8EViy/uuqHW71z71K4Gz29ZXHZMq9bUJfro0D0RJc9fHX9zOhsaXSkKYFQ45WrpZLtYip2BLBxwdeWOUKWMtIDuQBdIgHyELrOjC+jWx27QoiWgK1dS3YPooEgAKj3RjWBzxPXpR2V/3RMJa3DxkVC5h9mnL942gw/Z18knn2rTdepuFo6r032G2vDdJ0Qcz8CrwZ1Pqa8CxiAl2tjR5eWe1laWQaRoodIqq7DrU/AfTcI66wm5JQQZrsH1HKYKEfPYdJHUnUauzI2g/12UqdYwQQzFTfdIjH4qs=;y4yBadV7YDnDpwQ0i8Xobw=="
+secured: "22JOM+7TGzOzUGQWe5veCo8NBQlndTK2IVakNXu15aO/Q3k3AcDj3IuIacADxf89ubdM2gg1yFIo3HAMgv+AfHhCM+JdgRVGhoJB/hHV8eC3tkpotF9dZr6ygNksope82oGOfq20r9hinGc5bCP5M9C2L3+69cYiV9lU26BKiFPPtL1a4Sd2YkDOwhgy4H5Yy9rzmwgkSp6h5Qz0ibDR7ZpL5cYajshkGXtmWvh6RGvGqLBmnvsFefhhYHM/fjvWihf32qlDDW2IiFJZJ0bIucwddTVcf+6nyR+ShGlmXIpBnVGlaj5Lza9XUQ5sVX6/4BLZbT3IkyU7KxvwnCMhA41MEuBlTcNZ2XZDHkrT7cXmwvK+F4vPpxy6bQUxOXkLt1tYmNNkOHrbl/bm6NaU/pA0hZVXsVA4EOB/RQ0TMt9Zfpz+TgRwh90SWqivEz4yh3cwZ6rBPF5brXl2A370tLMcjFJJ5i2zqgNUIEA7iwHTHLZiyvIDvOH5VVJqWycKASCeoRakIZwl8gPPRqQ4Dw==;iea9GHtP7JgJQeUI3ZbT7g=="
 ---
 

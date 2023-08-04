@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
-excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
-publishedDateTime: 2023-08-03T10:12:00Z
-originalUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6"
-webUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6"
-ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
-cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
+title: "Fighting for his Voice, Albanese heads back to Garma"
+excerpt: "With the Yes campaign in trouble – sidetracked by debate over treaty – can Anthony Albanese rescue the Voice from Arnhem Land?"
+publishedDateTime: 2023-08-04T02:47:00Z
+originalUrl: "https://www.afr.com/politics/federal/fighting-for-his-voice-albanese-heads-back-to-garma-20230803-p5dtm3"
+webUrl: "https://www.afr.com/politics/federal/fighting-for-his-voice-albanese-heads-back-to-garma-20230803-p5dtm3"
 type: article
-quality: 17
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Australian
-  domain: theaustralian.com.au
+  name: The Australian Financial Review
+  domain: afr.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://static.ffx.io/images/$zoom_0.2757%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_50%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8a847a50441526f5a3a8e25a088d83e6700febd3"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Anthony Albanese grilled over Voice in fiery Question Time clash"
@@ -32,20 +36,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
-  - title: "Fighting for his Voice, Albanese heads back to Garma"
-    excerpt: "With the Yes campaign in trouble – sidetracked by debate over treaty – can Anthony Albanese rescue the Voice from Arnhem Land?"
-    publishedDateTime: 2023-08-04T02:47:00Z
-    webUrl: "https://www.afr.com/politics/federal/fighting-for-his-voice-albanese-heads-back-to-garma-20230803-p5dtm3"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2757%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_50%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8a847a50441526f5a3a8e25a088d83e6700febd3"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Anthony Albanese stops spruiking Indigenous Voice on Twitter with over month-long silence on key policy platform"
     excerpt: "Anthony Albanese has been silent on the Indigenous Voice to Parliament on Twitter for over a month, as polls suggest support for the proposed body is in decline."
     publishedDateTime: 2023-08-03T06:08:00Z
@@ -78,6 +68,17 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
+    excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
+    publishedDateTime: 2023-08-03T10:12:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-and-peter-dutton-traded-barbs-over-an-indigenous-voice-to-parliament/news-story/4e31ac43bbe6c9afeb0eca02a3031ce6?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
   - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
     excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
     publishedDateTime: 2023-08-02T04:28:00Z
@@ -88,6 +89,6 @@ related:
       domain: dailytelegraph.com.au
     quality: 3
 
-secured: "lXt/HwRUIdvLe7pNl2fNSihmLXgsaug0RijfGGfT8p6TnylfIlsAl3a+Qrxgm5MxAA0SS4OEhWMj1kzPxQJEXbw/CtW6FJIA0AeP3QRlk8RKLM7AgWuoT2npY1Vq35dEjCqlPVudgKq+ww7hNanSorOH28nlUTeX+dXCxp8Tynaaayj4PIzoQ+6OQgQdHdzjxqesgTKOQRhgZ6xS/omlbTGvGeU4G2wBgu5zIvflLsI62sLyyaXKhD5RohW2igN0hRqUyX6xfnSyw2ErHTDkOnfhQfdZOnwHUiTtrvpvXgh0VMXd2tlgiXltTf4b/aa12Il22paiZPe4mSlvSvGWvgwO6Nb00WF1yGMokMOOuXyRjTrO69knZtqNe/LHfdOxBFfPmdMAhSWRmljPtHxKZm9+toz+BSI7qFzTeKHYoKKSBimcNqFWoexohEU/kU/rsN4xPgHKcqxaowe5IKAd+Oxv5Qt9OAVnA6ePx2/vWL2dwMcT6E8pLfw5tS4AFhtKDDjPY5vLZ7Mjn4Pz6wDFAQ==;knt1YKxBjEFZYC6J6w7kbQ=="
+secured: "vQic7ISf6QkIs4+Fli0AMhgU0/ceOkM+0LYV3mrPj24ekShcqz5sDtNsZyktHkYyQk68oEg7cC80WAAl8ycG4u0PdBm3e/1MrgAQWNeAJmhNAX6MGQRoqFsekZ8UpmUOGkKMKFMwR60hnrOGAPszFJEhTEFWVmFyVK726uvgwGCc/Ik/5/aWEv9RQZMR9gHM9lcql1cqXwnFbCrm6WsCOi3wrT97drytRjvSLh0EfFldfLRH/zynMg4rUvWKz+nzcezRXYEBc7hKicp8vcYmYn1vwHrfPS3Wd+i2UWm0RoyQCB+OIp7wWv5ALnxVaF1Xoa124UOnXVT+zV3smprRfB3Wg3wODwJYAFFTUM3fjw4=;cEhADkqvQUa6Z5QM8C6YoA=="
 ---
 

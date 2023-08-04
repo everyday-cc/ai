@@ -38,6 +38,20 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "Fighting for his Voice, Albanese heads back to Garma"
+    excerpt: "With the Yes campaign in trouble – sidetracked by debate over treaty – can Anthony Albanese rescue the Voice from Arnhem Land?"
+    publishedDateTime: 2023-08-04T02:47:00Z
+    webUrl: "https://www.afr.com/politics/federal/fighting-for-his-voice-albanese-heads-back-to-garma-20230803-p5dtm3"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2757%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_50%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8a847a50441526f5a3a8e25a088d83e6700febd3"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Albanese's 'Voice, Treaty, Truth' t-shirt at Midnight Oil concert sparks fierce debate about Voice during Question Time"
     excerpt: "The saga surrounding Prime Minister Anthony Albanese's t-shirt choice at a Midnight Oil concert last year sent both sides of politics into a laughing frenzy during Question Time on Monday."
     publishedDateTime: 2023-07-31T08:13:00Z
