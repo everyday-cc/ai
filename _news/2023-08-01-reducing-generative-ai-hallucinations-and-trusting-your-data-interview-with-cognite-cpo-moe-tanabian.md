@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What’s wrong with tech giants riding the AI wave"
-    excerpt: "Rising on optimism over their AI prospects, more than on actual AI revenue, investors are betting that the giants will rule for a long time. The average age of the tech top five is edging back up towards 40, with no newcomers. And their size is unprecedented."
-    publishedDateTime: 2023-07-30T12:01:00Z
-    webUrl: "https://www.ft.com/content/31dc322a-b2a1-4ef3-9a9d-d7268d58fac5?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Using AI to Build Stronger Connections with Customers"
     excerpt: "As companies learn to use generative AI to create value, there’s a risk that they take the wrong approach when applying the technology to the customer experience. In fact, research shows AI can help boost customer satisfaction when it’s used to offer customers more personalized solutions or to help human employees provide better service than they would without the technological assist."
     publishedDateTime: 2023-08-01T12:15:00Z

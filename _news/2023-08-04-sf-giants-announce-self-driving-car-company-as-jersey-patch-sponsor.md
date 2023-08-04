@@ -1,31 +1,31 @@
 ---
 category: news
 title: "SF Giants announce self-driving car company as jersey patch sponsor"
-excerpt: "For the first time in the team’s 140-year history, the Giants will have a sponsor on their jersey. Cruise, described as “driverless ridehail service” in a press release on the official MLB website, now has a patch with the company’s logo on the shoulder of each jersey."
-publishedDateTime: 2023-08-04T03:48:00Z
-originalUrl: "https://www.thereporter.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/"
-webUrl: "https://www.thereporter.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/"
-ampWebUrl: "https://www.thereporter.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/amp/"
-cdnAmpWebUrl: "https://www-thereporter-com.cdn.ampproject.org/c/s/www.thereporter.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/amp/"
+excerpt: "Cruise, described as “driverless ridehail service” in a press release on the official MLB website, now has a patch with the company’s logo on the shoulder of each jersey. The partnership will last until 2025. Cruise is a subsidiary of General Motors, has also been described as providing a robotaxi service."
+publishedDateTime: 2023-08-04T03:31:00Z
+originalUrl: "https://www.eastbaytimes.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/"
+webUrl: "https://www.eastbaytimes.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/"
+ampWebUrl: "https://www.eastbaytimes.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/08/03/sf-giants-announce-self-driving-car-company-as-jersey-patch-sponsor/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: The Reporter
-  domain: thereporter.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thereporter.com/wp-content/uploads/2023/08/BNG-L-GIANTS-0804-2-e1691093694709.jpg?w=1024&h=566"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/08/BNG-L-GIANTS-0804-2-e1691093694709.jpg?w=1024&h=566"
     width: 1024
     height: 565
     isCached: true
 
-secured: "rEJy/T4YsD35/r5Vu9YTsGZc9wzazza8Lmmf/ZLPDD8/lqprJSpIaQd2zBKWHgDIkg9RfLNBMDDX5tyHJMZKrO8Kl4ZAXTOVZb8JfXVI7ICKEossSSqtsngR8jhvSfArSxl34oHSN9IiQFpdJpK6iiabWg7HJOwlidQ7Dy5nLXgOngFQSyFAygo1WtpjgyKwWoecyFTONXnzPUxAcNw44Sj91e10HtFYk0bYai+G9OxAbZN0apil+kh9u7vIMvfC+GCqp4tATte+MmQFcUs2Kk9we+3XZL4gQ3lL66gy8cWioGKPG0+zHqROi5tu1H33A+GUKVBtKOxKjUYpIwZZkNmloNUeKcIKTL7bnZP9Vic=;576a7MnDt4dMY4W8+IWD6w=="
+secured: "TeA0j0hSuOytmTBkoRQ26bTw3CEXCY0MqjxhKwXJ/eIVIPPn+dG/ezByXbcKj5azA0Y28ZTMi7XZ3Z3M+AWVQf/dm/WwwsD/DW+2nRXfDtiObJ3vHcOpsQYRVvfh78ppUnauwIambzRrUDhoCvV6bmRHdNPh/nzFqSfz7rjeUtPiugoIwjgOy0zhBzacMx6skLeLlz4yBGfgpvW3hs9xsCKwv1f7ZI/RaN0+UhJQRzlhXRSwsvKFcQ5ytYb9C1t4k9mCjoRq/lEaN2o60nWtbWR6+vLr0dtbICktc4svyyq+PKXGoe+PUQN6NttQqgZNNHfQ/nn+VbQSDVvXmR6V3TJjF7zg3c6Fcv/abTiCUHA=;nTcO+s8LJjpRefBAbBAoUg=="
 ---
 

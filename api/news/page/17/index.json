@@ -2,57 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2023-07-24-generative-ai-is-coming-for-the-visual-effects-industry-what-the-technology-means-for-the-future-of-animation.md",
-      "title": "Generative AI is coming for the visual effects industry: What the technology means for the future of animation",
-      "excerpt": "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7",
-      "originalUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp",
-      "publishedDateTime": "2023-07-24T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-24-ai-in-fintech-market-future-outlook-in-depth-insights-and-forecast-2023-2030-with-major-players-like-microsoft-google-salesforcecom.md",
       "title": "AI in Fintech Market Future Outlook, In-depth Insights and Forecast 2023-2030 with Major Players like Microsoft, Google, Salesforce.com",
       "excerpt": "The Global AI in Fintech Market is poised for significant growth between 2023 and 2030, with a positive outlook for 2022 and beyond. As key players in the industry adopt effective strategies ...",
@@ -1211,6 +1160,57 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped.md",
+      "title": "Is Financial Inclusion A Friction Point As Synergies Between AI And Crypto Are Hyped?",
+      "excerpt": "The intersection of Web3 and artificial intelligence has emerged as a hot topic. However, as Congress and the White House focus on risks, what about equity and inclusion?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bb4cfc812bf57af59a6bb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
+      "publishedDateTime": "2023-07-22T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

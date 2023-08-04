@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-07-31-several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-tech-forbes-ai-newsletter-july-29th.md",
-      "title": "Several Companies Face Shakeups In Leadership And Big Changes Coming For Tech - Forbes AI Newsletter July 29th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7c17e7a930dbd6169db63/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
-      "publishedDateTime": "2023-07-31T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-31-ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops.md",
       "title": "AIS Attains AI and Machine Learning on Microsoft Azure and DevOps",
       "excerpt": "AIS announces its attainment of AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations.",
@@ -451,7 +400,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1220,6 +1169,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-uber-self-driving-car-test-driver-pleads-guilty-to-endangerment-in-pedestrian-death-case.md",
+      "title": "Uber self-driving car test driver pleads guilty to endangerment in pedestrian death case",
+      "excerpt": "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of supervised probation Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/uber-self-driving-car-test-182754151.html",
+      "originalUrl": "https://www.aol.com/uber-self-driving-car-test-182754151.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/65a0a6c83971954f3aaa019c4816e37c",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

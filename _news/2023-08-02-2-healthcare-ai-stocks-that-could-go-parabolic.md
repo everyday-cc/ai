@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-t
 webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
 type: article
 quality: 84
-heat: 136
+heat: 134
 published: true
 
 provider:

@@ -2,49 +2,6 @@
   "page": 73,
   "value": [
     {
-      "path": "_news/2023-06-18-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services.md",
-      "title": "Fintech Paro Raises $25M via Series C to Build Enterprise Platform for Finance, Accounting Services",
-      "excerpt": "Paro, a Chicago-based startup disrupting the way companies access on-demand finance and accounting expertise, raises $25 million via Series C.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2014/04/Chicago-City-Skyscraper.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "publishedDateTime": "2023-06-18T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-18-how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise.md",
       "title": "How to navigate the AI jungle with pragmatic steps for enterprise",
       "excerpt": "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight.",
@@ -1215,6 +1172,57 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-regulating-ai-isnt-impossible-its-a-leadership-commitment.md",
+      "title": "Regulating AI Isn’t Impossible. It’s A Leadership Commitment.",
+      "excerpt": "The EU's AI Act is just one early step in a long, ongoing process, and we're nowhere near a systemized regulatory framework. But it’s a start, and that’s what leaders do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648cd5fb58d4466d39b1e992/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/",
+      "publishedDateTime": "2023-06-16T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

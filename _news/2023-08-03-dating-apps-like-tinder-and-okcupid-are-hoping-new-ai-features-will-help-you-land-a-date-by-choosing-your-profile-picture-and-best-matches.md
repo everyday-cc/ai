@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Using AI to help sales teams be more effective in their workflow"
+    excerpt: "In a recent Outreach study, 95% of companies said they are prioritizing investment sales tech. That makes sense. The role of sales in the buyer's journey is getting harder, and it's critical for sellers to implement strategies that show they understand the buyer and speak to them as trusted sources."
+    publishedDateTime: 2023-08-02T09:22:00Z
+    webUrl: "https://diginomica.com/using-ai-help-sales-teams-be-more-effective-their-workflow"
+    ampWebUrl: "https://diginomica.com/using-ai-help-sales-teams-be-more-effective-their-workflow?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/using-ai-help-sales-teams-be-more-effective-their-workflow?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-08/success-617130_640.jpg"
+        width: 640
+        height: 452
+        isCached: true
   - title: "Here’s a thought: Tinder tests AI tool to help users select best-looking photos"
     excerpt: "App says it will be launching a number of artificial intelligence initiatives to make dating more rewarding"
     publishedDateTime: 2023-08-03T16:32:00Z

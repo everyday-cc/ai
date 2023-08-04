@@ -2,58 +2,6 @@
   "page": 169,
   "value": [
     {
-      "path": "_news/2023-04-20-rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage.md",
-      "title": "RTX 4070 review: An ideal GPU for anyone who skipped the graphics card shortage",
-      "excerpt": "Nvidia's GeForce RTX 4070 is here. It's the company's first launch in over a year of a graphics card that could charitably be described as \"mainstream,\" both in performance and in price. It costs $600.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/IMG_0984-800x533.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
-      "publishedDateTime": "2023-04-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-20-whats-agi-and-why-are-ai-experts-skeptical.md",
       "title": "What’s AGI, and Why Are AI Experts Skeptical?",
       "excerpt": "Advanced robots are far from capable of interacting ... that birthed ChatGPT is played out and future strides in artificial intelligence will require new ideas. WIRED is where tomorrow is realized.",
@@ -1179,6 +1127,57 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
+      "title": "Reddit will start charging some users for API access -- bad news for AI companies",
+      "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "originalUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/52aff004391e33410e3a1b98a157bd0bb2d02fec/2023/04/19/813b1d72-00fb-445f-91f7-30e993dd8ee1/gettyimages-1244227518.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "publishedDateTime": "2023-04-19T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-18-artificial-intelligence-wheelchair-aims-to-put-users-in-control.md",
-      "title": "Artificial intelligence wheelchair aims to put users in control",
-      "excerpt": "More than a billion people around the globe need assistive technology to go about everyday tasks independently. A new artificial intelligence (AI) wheelchair is taking assistive technology a step further and giving people their freedom back.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-61.jpg",
-          "width": 448,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
-      "publishedDateTime": "2023-07-17T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration.md",
       "title": "Seeing The Future: Artificial Intelligence For Age-Related Macular Degeneration",
       "excerpt": "With recent advances in artificial intelligence (AI) and machine learning, healthcare providers can now effectively screen patients for age-related macular degeneration. iHealthScreen develops AI and machine learning-based diagnostic systems for ...",
@@ -835,15 +791,24 @@
     {
       "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -851,8 +816,8 @@
       "publishedDateTime": "2023-07-13T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1293,6 +1258,49 @@
       "provider": {
         "name": "Global Times",
         "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-driverless-taxis-to-start-paid-service-in-beijing.md",
+      "title": "Driverless taxis to start paid service in Beijing",
+      "excerpt": "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
+      "originalUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/07/11/2170762.jpeg",
+          "width": 1198,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-08-01-ai-and-college-admission-dont-autocomplete-your-application.md",
-      "title": "AI And College Admission: Don’t Autocomplete Your Application",
-      "excerpt": "Artificial intelligence has the potential, if used wisely, to serve as a powerful guide to traversing the path to college.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
-      "originalUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c85a0699b262e39549763d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brennanbarnard/2023/08/01/ai-and-college-admission-dont-autocomplete-your-application/amp/",
-      "publishedDateTime": "2023-08-01T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-01-google-assistant-is-being-supercharged-with-ai.md",
       "title": "Google Assistant Is Being 'Supercharged' With AI",
       "excerpt": "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\"",
@@ -1167,6 +1116,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/31/can-generative-ai-save-journalism--actions-for-b2b-marketers/amp/",
       "publishedDateTime": "2023-07-31T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-tech-forbes-ai-newsletter-july-29th.md",
+      "title": "Several Companies Face Shakeups In Leadership And Big Changes Coming For Tech - Forbes AI Newsletter July 29th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7c17e7a930dbd6169db63/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/31/several-companies-face-shakeups-in-leadership-and-big-changes-coming-for-techforbes-ai-newsletter-july-29th/amp/",
+      "publishedDateTime": "2023-07-31T07:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

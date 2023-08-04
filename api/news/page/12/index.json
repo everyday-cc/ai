@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-07-26-how-to-invest-in-mistral-ai-in-2023.md",
-      "title": "How to Invest in Mistral AI in 2023",
-      "excerpt": "Mistral AI was founded in May 2023, and the company raised $113 million just four weeks later with an estimated valuation of $260 million, a sign of how much confidence venture capital investors have in the founders and how much potential they see in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/",
-      "originalUrl": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-26-graft-is-building-an-ai-development-platform-for-the-masses.md",
       "title": "Graft is building an AI development platform for the masses",
       "excerpt": "Graft is attempting to take the complexity out of building AI applications with a templatized approach to development.",
@@ -1181,6 +1129,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-ai-could-deliver-bioweapons-capabilities-to-bad-actors-safety-chief-warns-grave-threat.md",
+      "title": "AI could deliver bioweapons capabilities to bad actors, safety chief warns: ‘Grave threat’",
+      "excerpt": "The CEO of an artificial intelligence safety and research company warned the Senate that AI could spread the capacity to build bioweapons if left unchecked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat",
+      "originalUrl": "https://www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-bioweapons-capabilities-bad-actors-safety-chief-warns-grave-threat.amp",
+      "publishedDateTime": "2023-07-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

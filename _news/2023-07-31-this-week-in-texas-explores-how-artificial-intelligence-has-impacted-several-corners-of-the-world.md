@@ -8,8 +8,8 @@ webUrl: "https://abc13.com/this-week-in-texas-artificial-intelligence-technology
 ampWebUrl: "https://abc13.com/amp/this-week-in-texas-artificial-intelligence-technology-advancements-houston-mayor/13574030/"
 cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/this-week-in-texas-artificial-intelligence-technology-advancements-houston-mayor/13574030/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/13574251_THISWEEK-730-IMG.jpg"

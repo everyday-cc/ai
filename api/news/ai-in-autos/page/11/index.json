@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-05-06-how-artificial-intelligence-could-fundamentally-change-certain-types-of-work.md",
-      "title": "How artificial intelligence could fundamentally change certain types of work",
-      "excerpt": "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "originalUrl": "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
-      "publishedDateTime": "2023-05-05T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-06-we-were-right-about-artificial-intelligence.md",
       "title": "We Were Right About Artificial Intelligence",
       "excerpt": "A number of recent surveys revealed that Americans are scared of artificial intelligence. 75% of us think it can be abused and needs to be regulated. However, only 30% of us believe the government would be an effective regulator of artificial intelligence.",
@@ -1320,6 +1277,49 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/32092770",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092770",
       "publishedDateTime": "2023-04-28T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Madison Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Fetch, Madison's unicorn tech startup and the nation's leading rewards app, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092422/madison-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32092422",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092422",
+      "publishedDateTime": "2023-04-28T12:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

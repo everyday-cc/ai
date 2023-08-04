@@ -2,58 +2,6 @@
   "page": 115,
   "value": [
     {
-      "path": "_news/2023-05-22-todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist.md",
-      "title": "Today's AI boom will amplify social problems if we don't act now, says AI ethicist",
-      "excerpt": "AI systems trained on internet data are in danger of reinforcing negative bias and causing societal harm. Salesforce's Kathy Baxter explains how to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
-      "originalUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1052e43673c58630ef01e4edf1a0eb50a72c1c2c/2023/05/21/8ff5fae9-93d2-4635-81c0-23e5d09956f6/kathy-baxter-salesforce.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
-      "publishedDateTime": "2023-05-21T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-05-22-how-does-ai-add-value-to-sales-intelligence.md",
       "title": "How Does AI add Value To Sales Intelligence?",
       "excerpt": "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:",
@@ -1208,6 +1156,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-to-see-one-of-ais-greatest-dangers-look-to-the-military.md",
+      "title": "To See One of A.I.’s Greatest Dangers, Look to the Military",
+      "excerpt": "Anyone can read what you share. By Peter Coy Rogue artificial intelligence versus humankind is a common theme in science fiction. It could happen, I suppose. But a more imminent threat is human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

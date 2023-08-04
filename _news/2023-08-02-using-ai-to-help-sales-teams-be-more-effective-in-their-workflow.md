@@ -27,77 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is helping hire, promote and train workers"
-    excerpt: "As artificial intelligence becomes more prevalent in business, HR departments are at the forefront of capitalizing on its potential. A majority of HR leaders are already using AI for a variety of ..."
-    publishedDateTime: 2023-07-30T11:28:00Z
-    webUrl: "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html"
+  - title: "Tinder tests AI photo selection feature to help users build profiles"
+    excerpt: "Tinder is testing an AI photo selection feature that looks at a user’s photo album and selects the five most authentic ones for their profile."
+    publishedDateTime: 2023-08-02T15:46:00Z
+    webUrl: "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/"
+    ampWebUrl: "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107274356-1689869031421-gettyimages-1204762097-p_ab_technology153.jpeg?v=1690643722"
-        width: 2289
-        height: 1309
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "How AI is helping satellites avoid hitting each other in space"
-    excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
-    publishedDateTime: 2023-07-31T08:53:00Z
-    webUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space"
-    ampWebUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
+  - title: "Dating apps like Tinder and OkCupid are hoping new AI features will help you land a date by choosing your profile picture and best matches"
+    excerpt: "Bernard Kim, the CEO of Match Group, said AI will help its dating app users enhance their profiles."
+    publishedDateTime: 2023-08-03T16:30:00Z
+    webUrl: "https://www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8?amp"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "First-of-its-kind AI brain implant surgery helped a man regain feeling in his hand"
-    excerpt: "Just four months after the groundbreaking surgery, the patient was able to feel the touch of his sister's hand."
-    publishedDateTime: 2023-08-01T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/double-neural-bypass-surgery-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 53
     images:
-      - url: "https://www.popsci.com/uploads/2023/08/01/09-keithimplants.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "AI is helping scientists reveal star ages. Here's how"
-    excerpt: "The algorithm bases a star's age on its lithium abundance and temperature. It may one day be expanded to include other properties too."
-    publishedDateTime: 2023-08-02T12:01:00Z
-    webUrl: "https://www.space.com/star-ages-ai-cosmic-chemical-data"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/riZwMvxSAuKw4qVoTnAH9G-1200-80.jpg"
+      - url: "https://i.insider.com/64cbb89a0f3dff0019562d2f?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "How Silicon Valley is helping the Pentagon in the AI arms race"
-    excerpt: "The US military is opening up to defence and weapons start-ups as evolving technology begins to transform modern warfare"
-    publishedDateTime: 2023-07-31T04:00:00Z
-    webUrl: "https://www.ft.com/content/2ed278cc-6c3f-4569-b73c-64ad378f3ea8"
+  - title: "Here’s a thought: Tinder tests AI tool to help users select best-looking photos"
+    excerpt: "App says it will be launching a number of artificial intelligence initiatives to make dating more rewarding"
+    publishedDateTime: 2023-08-03T16:32:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/b6625f16acf95fa6d766fd02c5ec1674db5bceee/0_490_7360_4414/master/7360.jpg?width=620&quality=85&auto=format&fit=max&s=4ce98fce1b3fa55ed399618ad4b5ec8e"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "njPhP36PfRQMjsVJT9zMfDQKtZ3HgCXogJyhplcBnNchmKESQ0J98jcQ8/WFuWn0rFLMHUtnm0iRFafd+N3ZnL1K2JA1bm3LT1vS5XYn8aG4nYfQsaQ32IH9uxCde3Uq6k1BlqlohrpTlTk3IUu41pipR6TXu/AAOViFULRJ22DKcTUCFq60gobfgxAMzk1ixgutBCjANEucfQ6Qb1aEFSF58zAq/zWKv3nHqe8lZkssCvSmFdkaM4RowKP18Amlj/xQL0lg5onLt+6iapCNQaXoqczUx6L7uwPUuXvrzT0hT+HqHZz+2sglWNasT80fOQkK33w/jlMQyvWReAH1Ts53Z4e+jRXdeA2AMzNb4xU=;8BFENsKUSjuCsHNLUvuL3w=="
 ---
