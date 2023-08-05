@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-br
 cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://pharmaphorum.com/sites/default/files/2023-08/KristinaLng1.jpg.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "AI can detect breast cancer as well as radiologists, study finds"
+    excerpt: "Artificial intelligence can detect breast ... need to be trained and tested more before they could be deployed in health-care settings. Still, the findings are “breathtaking,” wrote Nereo ..."
+    publishedDateTime: 2023-08-02T19:18:00Z
+    webUrl: "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2X6AMM5WNIJ2NURH3XPXFSZQDA.JPG&w=1440"
+        width: 1440
+        height: 848
         isCached: true
 
 secured: "jpoGXs1d/YLJFzAN6fyhAZhORNqLSNE2w5/PtQziMijExmAN01rrEPmf4z6uCzD8WgB+xMqGSV1eIPucX6wIIKaDSLHZls7WCmxpFL4pf4VSwWwTpcD1FwlNS5N1HY8eNDQkN1dk4IDwGdmB3VBPr+vGoXZvTEfoG/7Bp4xDNS7AnM258nXn03icrgfjGLfGMEzPKpR9Vxzokpb1z6R54M786N+Z+jCWl9UsYx5m1XrjPoYy3VCtJfHTmVSJy/YIFdKzMu6/YK85eKydbqYBn7CbE2Xk25lkmxrcRAaHeaDxJE/fijvBkoquZq00zEmliakBuIHoHnklWtudqjBjhlR0lJAoBPb7KVAfj+4erAk=;1ZIrEFuR+PgXEcNqZEeuoA=="

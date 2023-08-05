@@ -284,6 +284,20 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "RISC-V AI Startup Tenstorrent Gets Another $100M Infusion From Samsung And Hyundai"
+    excerpt: "Jim Keller is a man who should need no introduction to an audience of tech nerds. He was part of the team that developed the legendary DEC Alpha"
+    publishedDateTime: 2023-08-04T21:55:00Z
+    webUrl: "https://www.inferse.com/669362/risc-v-ai-startup-tenstorrent-gets-another-100m-infusion-from-samsung-and-hyundai/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4973.png"
+        width: 708
+        height: 416
+        isCached: true
 
 secured: "OZ7Kg4wEfPKtUll0PjrRtxGvk6RyK66mb5JqzBOk66fa/+3GYO8e1aEc2Ba59+MrYZIo8Ie+YmvHNuhH7BxLVsc3HOSK7VhIhHXNhtrBJaX/yXtTIuebJrN/tFv9ywiODc8DIq4BOuE7F7HDvnnWi1FXwfsEVWsXn6d4fPBtbUAjNcJH+w0MVqGX3ep05KhmDLxKJHbA0ddc2ua2s8HdYZoQMFCJkd72p2NlZrqz7QL47QziGKrclo6HIxoz6Y5Zk3KKG5LO7iC6/QX+EYPSQQyE+7keoGMfp1A7MVe/9XvaxudLH1qIJTussdA0orydDeLnGlb/W5ViqPjLdXSA8W/9onNB//q64RQcrpidQ7hIypvz/23tETpRoxk4CKn8/DwYsP++j3sG+IGgwOlcwpLGpZn0bJUGPjI0HbO8FDbeK8oIJRseOF/WmNnMcqp2IVwAnf5jZqmaBfO6Gye3MkdxrqrjPX5RVAkeNZM+8eRJUVTTt1qN+N0o0Q/XkaeEnTMH1XwFFWYAznY7XwEsvA==;i0yj1PTxa3t7eMXMyjE7pg=="
 ---

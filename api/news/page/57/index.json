@@ -2,6 +2,153 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-06-29-making-new-layers-and-models-via-subclassing.md",
+      "title": "Making new layers and models via subclassing",
+      "excerpt": "One of the central abstractions in Keras is the Layer class. A layer encapsulates both a state (the layer's \"weights\") and a transformation from inputs to outputs (a \"call\", the layer's forward pass). Here's a densely-connected layer. It has a state: the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing",
+      "originalUrl": "https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-robotics-in-agriculture-solinftec-robot-that-reduces-up-to-90-of-herbicides-will-have-a-website-for-a-waiting-list.md",
+      "title": "Robotics in agriculture: Solinftec robot that reduces up to 90% of herbicides will have a website for a waiting list",
+      "excerpt": "Bearing in mind the projection of the product, the website should increase the scale of orders for the next 3 years\", said Leonardo Carvalho, CGSO at Solinftec. \"We will be the first agtech offering robotics in large-scale agriculture in an innovative way\",",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-robotics-agriculture-solinftec-robot-that-reduces-up-90-/2023/06/28/9841181.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2143305/Robot_Solix_SPRAYER_by_Solinftec.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-forget-ai-and-self-driving-cars-2-of-the-sp-500s-5-best-performing-stocks-this-year-are-cruise-lines.md",
+      "title": "Forget AI and self-driving cars - 2 of the S&P 500's 5 best-performing stocks this year are cruise lines",
+      "excerpt": "Two of the five best performers in the S&P 500 this year have nothing to do with artificial intelligence, self-driving cars, or any other revolutionary technologies. They ferry people around the ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/649c06f2ec2dd400195fb9da?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/cruise-lines-royal-caribbean-carnival-spx-tech-stocks-ai-travel-2023-6?amp",
+      "publishedDateTime": "2023-06-28T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-how-generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-hr-software.md",
       "title": "How generative AI is already changing the workplace: Oracle just added it to HR software",
       "excerpt": "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says.",
@@ -1052,161 +1199,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-nvidia-leads-premarket-slump-in-chipmaker-sharesas-white-house-reportedly-mulls-fresh-curbs-on-ai-chips.md",
-      "title": "Nvidia Leads Premarket Slump In Chipmaker Shares—As White House Reportedly Mulls Fresh Curbs On AI Chips",
-      "excerpt": "The Biden administration is planning to expand its curbs on the export of AI chips to China and other nations, the Wall Street Journal reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
-      "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c0fafd13ced24caec5d4f/0x0.jpg?format=jpg&crop=3000,1688,x0,y178,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
-      "publishedDateTime": "2023-06-28T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-how-to-prepare-for-the-financial-and-environmental-costs-of-ai.md",
-      "title": "How To Prepare For The Financial And Environmental Costs Of AI",
-      "excerpt": "Companies and financial institutions should be thinking about how to build a technology infrastructure capable of supporting increasingly powerful AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649adede9c80aa9106126502/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
-      "publishedDateTime": "2023-06-28T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-heres-the-only-ai-stock-on-the-market-with-a-dividend-yield-of-5.md",
-      "title": "Here's the Only AI Stock on the Market With a Dividend Yield of 5%",
-      "excerpt": "In 2011, IBM Watson made headlines by beating Jeopardy! champions Ken Jennings and Brad Rutter. IBM continues to invest heavily in AI development today. The company recently announced several new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/28/heres-the-only-ai-stock-on-the-market-with-a-divid/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/28/heres-the-only-ai-stock-on-the-market-with-a-divid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737427/artificial-intelligence-investing-algorithms.jpg",
-          "width": 8660,
-          "height": 5773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

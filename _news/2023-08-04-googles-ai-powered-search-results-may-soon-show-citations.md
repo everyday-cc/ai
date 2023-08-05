@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/news/googles-ai-powered-search-results-m
 webUrl: "https://www.tomsguide.com/news/googles-ai-powered-search-results-may-soon-show-citations"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google just improved its SGE AI-powered search experience"
-    excerpt: "Google's SGE generative AI Search experience just got better, as responses are faster and include photos and videos."
-    publishedDateTime: 2023-08-03T14:10:00Z
-    webUrl: "https://bgr.com/tech/google-just-improved-its-sge-ai-powered-search-experience/"
+  - title: "This AI-Powered Supermarket Can Watch How You Shop to Suggest Products"
+    excerpt: "“This allows the AI module to deliver engaging information tailored to the interests of customers by observing behaviors, like bending down toward a shop display or picking up a product, and providing content that includes the best customer service and product appeal for that individual,” Fujitsu says."
+    publishedDateTime: 2023-08-04T19:22:00Z
+    webUrl: "https://www.pcmag.com/news/this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/google-io-2023-ai-68.jpg?quality=82&strip=all"
-        width: 1600
-        height: 893
+      - url: "https://i.pcmag.com/imagery/articles/05fkqLqzNlKYU3lmdddgwld-1.fit_lim.size_1200x630.v1691170472.jpg"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "ljx6O5c/mr3s5eHnEpUWkq4siPBj1aUfTlE1iTKZyzrvJWbr8zq1d5HfDQjTTzfYa5s2A5XSZ0k3t385KV3MVPuD6SkMEqawMwiHBBjamrQ0Auh4d5H7McRwqIQj3h9gAvNzAX17mBFQbnhrTrhk0lxPA3l+693V7cmEw9ObF00Kh5KKOTb4mskcBYCaIPp46JYoY3+jj89JxRn1IANMYxpMnGc7tVfbBE7V/oWFxb2mq+gupl3M8fQJhxRHavqF1r19kStqpydGNX4H+VbKZeRroCRodlhzM/bsNEQaHb+MljxbUxoHS5eIzxeZAWuV+FUnEQd/TImaUTPMeJJ8JRuLQTYmVTzElyql9gMoErFGw+fNw4E/+QJc/65PqemlsIPZc7iMy+rgoqlxiukVOSKfH3n1sgaDy/dZwMP2ye6X+4P1+ovB1YU9L7kz07o4ADW2P4KZXJPzRudc3beiZUE4UvycnLkK87QJjXjQ16pJMK2DDA7uvqaSOqCP1EFlM+F/Hut2hXuH6qSFWGP1Gg==;NGJ/L38qprUiaeFgMZJM0A=="

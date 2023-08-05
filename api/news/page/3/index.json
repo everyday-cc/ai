@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-03-samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent.md",
+      "title": "Samsung, Hyundai Lead $100M Funding Into AI Hardware Startup Tenstorrent",
+      "excerpt": "By Liza Lin Canadian tech hardware startup Tenstorrent raised $100 million from investors including Hyundai Motor Group and Samsung Electronics to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf",
+      "originalUrl": "https://www.marketwatch.com/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf",
+      "publishedDateTime": "2023-08-02T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-will-artificial-intelligence-change-how-entertainment-is-made-the-ethical-life-podcast.md",
+      "title": "Will artificial intelligence change how entertainment is made? | The Ethical Life podcast",
+      "excerpt": "The hosts discuss how worried we should be about computers taking over more of what we watch and read, and whether live performances and sports will benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html",
+      "originalUrl": "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c9/3c9b495b-dca5-51ea-826b-8d6102fff53a/64ca79fb1255f.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-opinion-from-principles-to-laws-consumer-protection-can-galvanize-ai-regulation.md",
+      "title": "OPINION: From principles to laws: Consumer protection can galvanize AI regulation",
+      "excerpt": "Government is the least trusted sector of society, according to research from the American College Maguire Center for Ethics(here). Focusing on consumers as a primary area of concern is a great place to start. AI use is already widespread. Consumers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB",
+      "originalUrl": "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20230802&t=2&i=1640692714&r=LYNXMPEJ710W2&w=800",
+          "width": 728,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-a-new-fund-for-women-creating-ai-startups-in-asia-pacific.md",
       "title": "A new fund for women creating AI startups in Asia Pacific",
       "excerpt": "The Google for Startups Women Founders Fund will provide equity-free funding and Google support to women-led AI startups in India, Japan and Korea.",
@@ -62,7 +209,7 @@
       "originalUrl": "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -105,7 +252,7 @@
       "originalUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -500,51 +647,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning.md",
-      "title": "Transforming Healthcare: The Pioneering Path of Sumedh Datar in Computer Vision and Deep Learning",
-      "excerpt": "Introduction: In the rapidly developing science of machine learning, Deep Learning has emerged as a transformational area of study, captivating the attention of researchers and developers worldwide. Its exceptional pattern recognition capabilities have made it particularly valuable in computer vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
-      "originalUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/08/bb6b4281-0874-40fa-a336-2042bf87d8f2-1000x600.jpeg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1087,21 +1189,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-02-bridging-the-ai-language-problem-why-artificial-intelligence-tools-do-not-work-in-many-languages.md",
-      "title": "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages",
-      "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that.",
+      "path": "_news/2023-08-02-from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare.md",
+      "title": "From smart stethoscopes to predicting bed demand: how AI can support healthcare",
+      "excerpt": "demonstrates the potential usefulness of artificial intelligence in healthcare. A separate trial found that AI in breast cancer screening is safe and can almost halve the workload of radiologists.",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
+      "webUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "originalUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://images.indianexpress.com/2023/08/AI-Language.png",
-          "width": 1200,
-          "height": 667,
+          "url": "https://i.guim.co.uk/img/media/8c619bbefc5c6ae95070c6b0fee447a064b66fc0/0_25_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=7043142e02085e81ced6e6dcbcc6a8db",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1109,14 +1211,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "publishedDateTime": "2023-08-02T01:01:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "publishedDateTime": "2023-08-02T02:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1125,93 +1236,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-amd-projects-strong-year-end-performance-with-ai-chip-launch.md",
-      "title": "AMD Projects Strong Year-end Performance With AI Chip Launch",
-      "excerpt": "The strong projection will be driven by the planned launch of artificial-intelligence chips that could compete with Nvidia semiconductors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lbfgquscrtshxtew_1690959468.jpeg",
-          "width": 768,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html",
-      "publishedDateTime": "2023-08-02T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-amd-aims-to-ramp-up-ai-chip-production-for-release-by-q4-raises-q3-forecast-to-57-billion.md",
-      "title": "AMD Aims to Ramp Up AI Chip Production for Release by Q4, Raises Q3 Forecast to $5.7 Billion",
-      "excerpt": "Large cloud players like Microsoft and Google plan to ramp up spending on data centres in the second half of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233",
-      "originalUrl": "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/amd_reuters_1690952669799.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/amd-q2-earnings-ai-chip-q4-mi300-artificial-intelligence-semiconductor-q3-forecast-4261233/amp",
-      "publishedDateTime": "2023-08-01T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI"
       ]
     }

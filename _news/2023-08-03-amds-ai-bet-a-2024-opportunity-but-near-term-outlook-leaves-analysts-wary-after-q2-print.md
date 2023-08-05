@@ -29,61 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: AMD’s AI era to begin near year’s end, but it’s looking more like a 2024 story"
-    excerpt: "When another analyst asked if she was expecting GPU sales of around $500 million this year ... to speed up compute power required for handling AI training and machine learning, but sales to other customers will likely occur in the first half of 2024."
-    publishedDateTime: 2023-08-01T00:00:00Z
-    webUrl: "https://www.marketwatch.com/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
+  - title: "AMD Shares Fall as Analysts Worry AI Chip Targets May Be Ambitious"
+    excerpt: "AMD's stock had risen 4% in extended trading on Tuesday after the company said customer interest was \"very high\" for its upcoming MI300 AI chip, which will ramp up in the fourth quarter. Low commission rates start at $0 for U.S. listed stocks & ETFs*."
+    publishedDateTime: 2023-08-02T19:24:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://images.mktw.net/im-828019/horizontal"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "Opinion: Adaptability Separates the New AI from the Old"
-    excerpt: "There are many definitions of artificial intelligence, and it’s been embedded in software for years, but recent advances carry new potential to personalize education, tutor students and automate aspects of school operation."
-    publishedDateTime: 2023-08-04T23:10:00Z
-    webUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old"
-    ampWebUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
+  - title: "Global Stocks Slump, Fitch U.S. Downgrade, AMD AI Ramp, Starbucks Sales, CVS Health On Deck - 5 Things To Know"
+    excerpt: "CEO Lisa Su said AMD is working with \"top-tier cloud providers, large enterprises and numerous leading AI companies\" as it ramps up production of its MI300 accelerators, the chip it unveiled earlier this spring, adding that \"our AI engagements increased ..."
+    publishedDateTime: 2023-08-02T09:52:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/stocks-slump-fitch-u-s-downgrade-amd-starbucks-cvs-health"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/648c9b2/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe5%2Fdf%2F7562d8cb9c79b70ffba3ca95f729%2Fshutterstock-529299211.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
-    excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
-    publishedDateTime: 2023-08-05T10:00:00Z
-    webUrl: "https://www.sentinelsource.com/opinion/op-ed/guest-opinion-if-artificial-intelligence-takes-your-job-it-should-pay-you/article_32b24ce9-0f61-564d-98e0-57438d9a70e9.html"
-    type: article
-    provider:
-      name: The Keene Sentinel
-      domain: sentinelsource.com
-    quality: 35
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/7819b5a8-f0c2-11ec-85c6-cff09f7b972a.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Opinion: Stop worrying about AI and start paying attention more"
-    excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
-    publishedDateTime: 2023-08-02T11:54:00Z
-    webUrl: "https://www.statesman.com/story/opinion/columns/your-voice/2023/08/02/opinion-stop-worrying-about-ai-and-start-paying-attention-more/70498026007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 17
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 16
 
 secured: "0VoVD+LzSOz+45NN+/fYxxwJAvOiGf7BYHzneCU2YAn8DIZphmI7Wy9kCsyFR0swZGiB0Z2IcT4RvXMd0i/ZFhOxBtw0Zs/oSTvRCtV7X3PxvJgnpFiLcL8rXWbunxtb34AQTDW5U6UHG0OinF0I/onCWp0oLQqOT3GOTQ3zw6n4YJORfC3nBJIV6vToQpMe5yR/vRpHfpvHa0o9D1HqFJaF3k4IBre6t+LPY2mD0L6oiwduPv+yOkcsI0GzXXwq5ydJiVkD5oGGP2YnWRX9orOw6+Wv5ujFut1qfgMO32kN3/EUhjUb6Zbq925jOP1BzTf/ElYVfmBO8pDefFKX+MIwH2ku5KLf4dKJD6mgAFw=;RmVYubVKOkyivszUw4RymA=="
 ---

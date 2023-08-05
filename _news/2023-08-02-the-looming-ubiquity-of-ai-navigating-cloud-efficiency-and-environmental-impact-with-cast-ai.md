@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 754
         isCached: true
-  - title: "Generative AI: The Action You Need To Know Most About Is Getting The Least Attention"
-    excerpt: "It turns out that the most important changes in Generative AI plus ads are happening where you might not be looking."
-    publishedDateTime: 2023-07-31T23:43:00Z
-    webUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/"
-    ampWebUrl: "https://www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/07/31/generative-ai-the-action-you-need-to-know-most-about-is-getting-the-least-attention/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7f3022455739b3f69db67/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 733
-        isCached: true
   - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
     excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
     publishedDateTime: 2023-08-04T13:00:00Z

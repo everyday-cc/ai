@@ -10,7 +10,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-next-level-growth-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -104,6 +104,49 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions.md",
+      "title": "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions",
+      "excerpt": "We're trying to set a good example,” Connecticut state Sen. James Maroney said during a floor debate in May. Connecticut plans to inventory all of its government systems using artificial intelligence by the end of 2023,",
+      "sourceUrl": null,
+      "webUrl": "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/",
+      "originalUrl": "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/CSZ6b5XouU_0YqQIKInkJmymDOc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3SEVXZAWAYDWUWIGNE2GW45O6I.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp",
+      "publishedDateTime": "2023-08-04T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHIO",
+        "domain": "whio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -167,7 +210,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -361,6 +404,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products.md",
+      "title": "This AI-Powered Supermarket Can Watch How You Shop to Suggest Products",
+      "excerpt": "“This allows the AI module to deliver engaging information tailored to the interests of customers by observing behaviors, like bending down toward a shop display or picking up a product, and providing content that includes the best customer service and product appeal for that individual,” Fujitsu says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products",
+      "originalUrl": "https://www.pcmag.com/news/this-ai-powered-supermarket-can-watch-how-you-shop-to-suggest-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05fkqLqzNlKYU3lmdddgwld-1.fit_lim.size_1200x630.v1691170472.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1119,108 +1213,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th.md",
-      "title": "This Week In XR: Capital For Inworld AI, Omni VR Treadmill, Hologate VR, Siggraph’s 50th",
-      "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Zak Penn, filmmaker and screenwriter of Ready Player One and, soon, Ready Player Two . We can be found on Spotify, iTunes, and YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cc435e995b76bb73960eaa/0x0.jpg?format=jpg&crop=1443,811,x301,y95,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/amp/",
-      "publishedDateTime": "2023-08-03T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-cloud-data-systems-and-edge-ai-make-a-major-impact-on-todays-data-science.md",
-      "title": "Cloud Data Systems and Edge AI Make a Major Impact on Today’s Data Science",
-      "excerpt": "Gartner outlines the top trends in machine learning and data science, including the impact of generative AI. Learn more about the top trends with our article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr-gartner-machine-learning-data-science-trends.jpg",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
-    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
-    publishedDateTime: 2023-07-31T23:38:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tim Cook confirms that Apple has been working on generative AI for years"
     excerpt: "Apple spent $22.61 billion on research and development through 2023, and CEO Tim Cook confirmed beyond a shadow of a doubt that part of that expenditure is because the company is working on generative AI."
     publishedDateTime: 2023-08-03T21:05:00Z

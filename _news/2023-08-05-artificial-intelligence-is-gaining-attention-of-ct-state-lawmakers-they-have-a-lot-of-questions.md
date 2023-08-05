@@ -1,0 +1,47 @@
+---
+category: news
+title: "Artificial intelligence is gaining attention of CT state lawmakers; they have a lot of questions"
+excerpt: "HARTFORD, Conn. (AP) — As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
+publishedDateTime: 2023-08-05T16:00:00Z
+originalUrl: "https://www.courant.com/2023/08/05/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/"
+webUrl: "https://www.courant.com/2023/08/05/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: Hartford Courant
+  domain: courant.com
+
+topics:
+  - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.courant.com/wp-content/uploads/2023/05/HC_news_State_Capitol_May_02.jpg?w=1024&#038;h=749"
+    width: 1024
+    height: 749
+    isCached: true
+
+related:
+  - title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
+    excerpt: "We're trying to set a good example,” Connecticut state Sen. James Maroney said during a floor debate in May. Connecticut plans to inventory all of its government systems using artificial intelligence by the end of 2023,"
+    publishedDateTime: 2023-08-05T03:19:00Z
+    webUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/"
+    ampWebUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp"
+    cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp"
+    type: article
+    provider:
+      name: WHIO
+      domain: whio.com
+    quality: 62
+    images:
+      - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/CSZ6b5XouU_0YqQIKInkJmymDOc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3SEVXZAWAYDWUWIGNE2GW45O6I.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+
+secured: "7yHWgpfMmapz7k4jl1blsRYd+N3z0VlhsU7nVP6vnlStvGND/p5eFNrIGHJKqKiO8DvIxLeN0IyxPVbiyrbotl9J0XlRKLdvDmSeqHrsyI+oeNZ0R5qgDxzKXpR0hleenOKVgnIfFZkyZqX4uqGc1gR6gyj8VHxHmK0q2OkkHNOfU/hwGB5Cy9JuKY+EpwCBT+Axk8tOzBlvH4sNR3RZFzH0R7yvZ4/zP6U4o4Rm/hcHJ13NreaeZ+brQHzHLHDM3juEYXEy5GBu1TNxB0F205OoERwey8J+9HLwej6qveYEcwy7G7DTxh4oEaWYVaq4eLzAAFFlwtdPr7bcr3ersi6tzNuPwxGHlMMBzwSSRsQ=;qAAv2zoUWRQ0NA6bIt/oHg=="
+---
+

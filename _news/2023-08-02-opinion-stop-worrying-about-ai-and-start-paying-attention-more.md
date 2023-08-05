@@ -18,35 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: AMD’s AI era to begin near year’s end, but it’s looking more like a 2024 story"
-    excerpt: "When another analyst asked if she was expecting GPU sales of around $500 million this year ... to speed up compute power required for handling AI training and machine learning, but sales to other customers will likely occur in the first half of 2024."
-    publishedDateTime: 2023-08-01T00:00:00Z
-    webUrl: "https://www.marketwatch.com/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
+  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
+    excerpt: "Government is the least trusted sector of society, according to research from the American College Maguire Center for Ethics(here). Focusing on consumers as a primary area of concern is a great place to start. AI use is already widespread. Consumers ..."
+    publishedDateTime: 2023-08-02T20:14:00Z
+    webUrl: "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
+      name: Reuters
+      domain: reuters.com
+    quality: 64
     images:
-      - url: "https://images.mktw.net/im-828019/horizontal"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "AMD's AI Bet A 2024 Opportunity, But Near-Term Outlook Leaves Analysts Wary After Q2 Print"
-    excerpt: "AMD Uniquely Positioned: Morgan Stanley: Analyst Moore sees AMD as uniquely positioned with strong AI opportunity that begins in earnest only in 2024. The second quarter should be a significant relief for investors, who were bracing for margin impact from rival Intel Corp 's (NASDAQ:INTC) aggressive pricing and promotion, he said."
-    publishedDateTime: 2023-08-02T17:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-bet-a-2024-opportunity-but-near-term-outlook-leaves-analysts-wary-after-q2-print-1032508034"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/amd_shutter2.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230802&t=2&i=1640692714&r=LYNXMPEJ710W2&w=800"
+        width: 728
+        height: 485
         isCached: true
   - title: "Opinion: Adaptability Separates the New AI from the Old"
     excerpt: "There are many definitions of artificial intelligence, and it’s been embedded in software for years, but recent advances carry new potential to personalize education, tutor students and automate aspects of school operation."
@@ -64,6 +48,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
+    excerpt: "In recent years, numerous principles, handbooks, codes, and guides have been released on how governments and organizations can tackle widespread AI risks. An online resource from AI Ethicists has an impressive list of more than 70 AI principles from governmental,"
+    publishedDateTime: 2023-08-03T19:20:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/opinion-principles-laws-consumer-protection-can-galvanize-ai-regulation-2023-08-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 44
   - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
     excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
     publishedDateTime: 2023-08-05T10:00:00Z
@@ -78,6 +71,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Xiao-I Corporation: Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China"
+    excerpt: "SHANGHAI, CHINA / ACCESSWIRE / August 2, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, is excited to anno"
+    publishedDateTime: 2023-08-02T16:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59741520-xiao-i-corporation-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
 
 secured: "zo4uv9NLt3BcP67ZP5kOY24OT96pKbQ67/0zWRXbqSZXQF6x2n8s3uwuYQMWHHSrvqsEkSLyFco6Ik0RBl5cwuRKmelo5iUakJaTTUWZUBtVkY0LJk0MW6ap44DsX7OvRuIWq4m4/YUZ5vuTaaW3snZedv+U01Efsyzh8Pzr1HetUPOGmF4Wbw84ys9JHNWWYyzg7VVqxOPT/jvduLZvEqphlgHqiojtzCEo9m5rQEf/EtYYyLPqQiYYEhXC8O51enlqu/cAx7Xl9/0STfkW3799NWyodzZoaPb0MhTQt2BxPu7cSxx2+LmTea8RB/V5gpFWE2DHvoDufRhCLbJ16yxh/QNbJFhZVoKSpbm+HQNrrNKvEOONxC0YbIQ7OBcoAKQQdwALP6PalV/4Jh/tiHrWLZaQdEzKkCWF7xs9na/oxdU1nobigvPbDtfXqUFTc0G+N0M6SvTBhvQy2n8vVb/vceqy540GGKRxWJv5czsyHyxJiMNaZvUOgzQ3Rwt/J4I5sFg0zbCNRV4Cq0q1Lw==;3sr73MTGMAzL84qHLPe51Q=="
 ---

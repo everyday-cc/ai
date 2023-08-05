@@ -9,8 +9,8 @@ ampWebUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBW
 cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: WHIO
@@ -25,6 +25,22 @@ images:
     width: 1440
     height: 810
     isCached: true
+
+related:
+  - title: "Artificial intelligence is gaining attention of CT state lawmakers; they have a lot of questions"
+    excerpt: "HARTFORD, Conn. (AP) — As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
+    publishedDateTime: 2023-08-05T16:00:00Z
+    webUrl: "https://www.courant.com/2023/08/05/artificial-intelligence-is-gaining-state-lawmakers-attention-and-they-have-a-lot-of-questions/"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 41
+    images:
+      - url: "https://www.courant.com/wp-content/uploads/2023/05/HC_news_State_Capitol_May_02.jpg?w=1024&#038;h=749"
+        width: 1024
+        height: 749
+        isCached: true
 
 secured: "9ipSIpre2Zy0uvvg6ZZRuvxD6OCBz3lcJZgLP3/7ARK34QPZu3p7tCOmS/vzrdU6xdPQ11XPC7CVUbetOSA0/ewkZ2kiVgD0DrlwyN+oUIT7zwA2FXXGUVYr114zNnqKhpLjfkJ5XjcGh827UV19ANxzltpWkzVe5g8l1BHs3eT62wp+fBU1EqOcnqZTncDYheX9EduT0k/MsfO2jxOQ7uNLbAIaQ2yYRECQDYRAip5+jb0FvVnUFO93u2JnBGPz1mEFVpY6KNdKoXZZmL4BLYb9/zSxhZlJU+b69kPKAibsGPPL1zuNF25gUo0BW204cTaR8hiBp1zkOb5VpcMWxs2EO9VQK3lQS3Gaqk6wX2Q=;BIeKSuW7505d7BJUlQ567A=="
 ---

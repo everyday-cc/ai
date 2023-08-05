@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-nex
 webUrl: "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-next-level-growth-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 82
 published: true
 
 provider:

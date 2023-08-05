@@ -285,6 +285,20 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 34
+  - title: "RISC-V AI Startup Tenstorrent Gets Another $100M Infusion From Samsung And Hyundai"
+    excerpt: "Jim Keller is a man who should need no introduction to an audience of tech nerds. He was part of the team that developed the legendary DEC Alpha"
+    publishedDateTime: 2023-08-04T21:55:00Z
+    webUrl: "https://www.inferse.com/669362/risc-v-ai-startup-tenstorrent-gets-another-100m-infusion-from-samsung-and-hyundai/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4973.png"
+        width: 708
+        height: 416
+        isCached: true
 
 secured: "VpjVmg9S0+XHz/poP6hCs0OIn1moLwf71E1TQfK3f6J+BRGGREaCjX2t0tLuEx4UEdUPLp0ZUGfmtx4b4THUyE6fh2tcYezsRHKRRES86riXDzw2GLT3rDAqPzyj30aUfl/aQzzWdpuYEJ057t6HojAcQZLfEylpRHFlnYERz5g619rn6qY6nOUhopRLb5zVj/gm3MqlKeTL+trUj4a+aC3J5uf326Pkn9nMGzC3S6sSIMPB2OgXAVwd62C7Clerz19OkSpniyYJcyfS3TZOwGqVdsZpaHZyO0BXOxvmWlyt9gVoiuO8PBzuTQBIsy4ZU8Asz5t+f9ZiLm4gSebHofqL7av3rvMlIxJ1l3+Izk0=;J3gUKqN2AyGWjI5HVG7Z+g=="
 ---

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
-    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
-    publishedDateTime: 2023-07-31T23:38:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI needs humans in the loop for widespread adoption"
     excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
     publishedDateTime: 2023-08-03T05:00:00Z

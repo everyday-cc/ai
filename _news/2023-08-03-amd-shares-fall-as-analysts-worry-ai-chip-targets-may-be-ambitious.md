@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-08-02/amd-sh
 webUrl: "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "AMD's AI Bet A 2024 Opportunity, But Near-Term Outlook Leaves Analysts Wary After Q2 Print"
+    excerpt: "AMD Uniquely Positioned: Morgan Stanley: Analyst Moore sees AMD as uniquely positioned with strong AI opportunity that begins in earnest only in 2024. The second quarter should be a significant relief for investors, who were bracing for margin impact from rival Intel Corp 's (NASDAQ:INTC) aggressive pricing and promotion, he said."
+    publishedDateTime: 2023-08-02T17:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-bet-a-2024-opportunity-but-near-term-outlook-leaves-analysts-wary-after-q2-print-1032508034"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/amd_shutter2.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Global Stocks Slump, Fitch U.S. Downgrade, AMD AI Ramp, Starbucks Sales, CVS Health On Deck - 5 Things To Know"
     excerpt: "CEO Lisa Su said AMD is working with \"top-tier cloud providers, large enterprises and numerous leading AI companies\" as it ramps up production of its MI300 accelerators, the chip it unveiled earlier this spring, adding that \"our AI engagements increased ..."
     publishedDateTime: 2023-08-02T09:52:00Z

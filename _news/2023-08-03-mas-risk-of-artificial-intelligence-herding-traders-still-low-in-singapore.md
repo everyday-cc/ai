@@ -44,15 +44,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 4
-  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
-    excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
-    publishedDateTime: 2023-07-31T23:29:00Z
-    webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 0
 
 secured: "YnMFitvd30LZoCSnaY9RFXXL4ggIDwBW/gRuOUP4UOpu2rZ83VbfHmRoRWdekubdGzyImoWZ7SQ8v1xtnCBmeUNFH5Yv7S7c8YrjkQRWbIi/LseuirjrANtDJu9zRdjfzJo2AKlxp7lmsl+XwuGQ/9t4nsDyxqHimysedjr7khBD9NdiCXryiAfL+BjI+kzl+qYUZ6D1Z2pCm+AJ2JwB91pZbA6BbCM6llVHBqT7wfRju1qENV9/y0629EpbgpmGEb/fu51VWFEao0eA8MhlUNHsY7GrsadYvORZHREmk6CFSc7vwRaVvKttEsUIZyU9TUE6gmApQcq5Glzpx4ohhJ2Qb/rZBUxTU4bXoYL0Xbg=;LEPeAOdoJM997HpK82JmlA=="
 ---

@@ -53,20 +53,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
-  - title: "Google will use generative AI to ‘supercharge’ its Assistant"
-    excerpt: "In an internal memo to the Assistant team, Google announced that it is starting to work on integrating AI chat into the Assistant."
-    publishedDateTime: 2023-08-01T00:13:00Z
-    webUrl: "https://bgr.com/tech/google-will-use-generative-ai-to-supercharge-its-assistant/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/07/google-assistant.jpeg?quality=82&strip=all"
-        width: 512
-        height: 269
-        isCached: true
   - title: "Leaked internal Google email reveals Assistant is getting a 'supercharged' AI upgrade"
     excerpt: "An internal Google email has revealed the company is pivoting toward upgrading Google Assistant with a special artificial intelligence."
     publishedDateTime: 2023-08-02T14:58:00Z

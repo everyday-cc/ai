@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-fund
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
 type: article
 quality: 86
-heat: 276
+heat: 286
 published: true
 
 provider:
@@ -288,6 +288,20 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 34
+  - title: "RISC-V AI Startup Tenstorrent Gets Another $100M Infusion From Samsung And Hyundai"
+    excerpt: "Jim Keller is a man who should need no introduction to an audience of tech nerds. He was part of the team that developed the legendary DEC Alpha"
+    publishedDateTime: 2023-08-04T21:55:00Z
+    webUrl: "https://www.inferse.com/669362/risc-v-ai-startup-tenstorrent-gets-another-100m-infusion-from-samsung-and-hyundai/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4973.png"
+        width: 708
+        height: 416
+        isCached: true
 
 secured: "63DQoILMq1ZB2NkkUSNXqzFfOe0YZMj4RjTJgLe9//XQT+x9zMTX2v0tugD54AVawdJpgssEuf4KutJHy2HafDw87gLlfaVPbot8Y4Ux5pPqSPUG3TxsUh2m39Zg5ZbmHALIbXQtGkQnguA0dl1P0eRmoT4AM2PJnDlWbXm4vTzxjFvY8MCliFkMn6lrhyukA5C7J0qgfdoyR5HDwm9WHHxZjsS68J3jIXkWu2sf9dShQ3dum/wWoudXIA0dwdY7aQAR54/weu9iQcoUfM3SYITgkfJs8lfCKTeTzg+k1tHjWeIMaXmJaEQCcyeBjv/bBIDC3am2+ZdmQua0yuDKeMPMzxC/ClXCXXUyP5YU7wA=;c0ix4KQfGtFG/bst+Tg9rA=="
 ---
