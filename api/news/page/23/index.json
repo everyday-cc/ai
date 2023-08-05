@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-07-20-ibm-reports-earnings-beat-but-misses-on-revenue.md",
+      "title": "IBM reports earnings beat, but misses on revenue",
+      "excerpt": "IBM's data and artificial intelligence products showed the fastest expansion, growing 10% from a year earlier, the company said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107228185-1681935493510-gettyimages-1246298489-DAVOS_WEF_2023.jpeg?v=1689805644",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "publishedDateTime": "2023-07-19T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-individual-whale-dolphin-id-using-facial-recognition-tech.md",
       "title": "Individual whale, dolphin ID using facial recognition tech",
       "excerpt": "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology (HIMB) Ph.",
@@ -1137,49 +1189,6 @@
         "Facebook AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-project-manager-computer-vision.md",
-      "title": "Project Manager Computer Vision",
-      "excerpt": "As a Project Leader Computer Vision in the Intelligent Imaging research group, you will lead a variety of projects. Some of the projects focus on research and developing new knowledge and technology. You will also carry out projects in which that knowledge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tno.nl/en/careers/vacancies/2023/07/project-manager-computer-vision/",
-      "originalUrl": "https://www.tno.nl/en/careers/vacancies/2023/07/project-manager-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tno.nl/publish/library/32/vakgebied-computer-science.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TNO",
-        "domain": "www.tno.nl",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

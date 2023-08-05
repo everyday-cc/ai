@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/career/start-up-in-the-a
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/start-up-in-the-age-of-ai-4-essential-tips-for-scaling-up-for-the-new-entrepreneur/cid/1956733"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 558
     height: 372
     isCached: true
-
-related:
-  - title: "Leadership In The Age Of AI: Why Human Traits Still Matter"
-    excerpt: "AI won’t make you a better leader. However, here are four non-AI qualities that can improve your leadership trajectory."
-    publishedDateTime: 2023-07-31T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/31/leadership-in-the-age-of-ai-why-human-traits-still-matter/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "IQjEIya3dV/bGwPUHKUugFH+Izo8AzcSuGhR2pD0UzwKBXbBP0V6mDyGoZ6BIpYpETANEqVmz/eOCf3KALyFOOAcb5ZPI7BAuq3FDuxybqA7C/Vu4JCG89Eabag1PIded/p83bmZVNGYD1lBbGOEfcciLm43zMJAKNNYhSX3S3Zh5xwOIUBZVpQ3amQ9WndOrJXDcRUb0JRX1/xiMCVo+cI01ZD1Fmz85SDW0Mlbu3SJH7SMCPFuYe/f02sphpwRJiMMOV575B5BLBMqtDnyO+pRNJrQfZfk0OMQWzMhvBfYGixU2Efck7J78t5cczJ3Vem9YG2APo6aB3sES3L25cqC8pY3YEs+MERRTUF1FNs=;HXh5nzqn0r+Vi+zvV1lTfA=="
 ---

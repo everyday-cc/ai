@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://www-images.christianitytoday.com/images/135578.jpg?h=675&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Five things you really need to know about AI"
+    excerpt: "Watch the \"Five things you really need to know about AI\" video at BBC Ideas. Explore other related content via our curated \"The Open University\" playlist."
+    publishedDateTime: 2023-08-04T09:48:00Z
+    webUrl: "https://www.bbc.co.uk/ideas/videos/five-things-you-really-need-to-know-about-ai/p0g43t7c?playlist=made-in-partnership-with-the-open-university&autoplay=true"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/960x540/p0g4t28f.png"
+        width: 960
+        height: 540
         isCached: true
   - title: "Five Things You Need to Know to Start Your Day"
     excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"

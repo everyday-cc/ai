@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-
 webUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/"
 type: article
 quality: 133
-heat: 463
+heat: 473
 published: true
 
 provider:
@@ -326,6 +326,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
         width: 700
         height: 492
+        isCached: true
+  - title: "Q & A: How A.I. and machine learning are transforming the lending industry"
+    excerpt: "The key to more predictive models is more data and technology that can deliver more meaningful insights. This is where machine learning and advanced analytics come into play."
+    publishedDateTime: 2023-08-04T21:12:00Z
+    webUrl: "https://www.digitaljournal.com/business/q-a-how-a-i-and-machine-learning-are-transforming-the-lending-industry/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/12/Artificial-Intelligence-AFP-1K-01.jpg"
+        width: 1024
+        height: 684
         isCached: true
   - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
     excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"

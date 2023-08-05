@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Big Tech rebounds and preps for transformative AI investments"
+    excerpt: "Meta's and Google's ad businesses rebounded. Microsoft's cloud computing business continued to expand. So did Amazon's e-commerce business. Apple, with a 1% decline, was the only big tech company whose revenue dropped."
+    publishedDateTime: 2023-08-05T03:19:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-preps-for-transformative-ai-investments/articleshow/102440250.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/msid-102440386,width-1070,height-580,imgsize-2872767,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
 
 secured: "fuFU+Xi4Z82jbzkv2JIxOZRZxTbT8KAcUo5dzBROB7fJMrOIwSkGz+LhBYUmw3PkV4CtBIq3TZ8rXVyl7twn8dq8bwB3Imz5YzSpk8m6C6CiEFmjR6PqEMckDY0maKBDJq7gCskp9gBAnYSSudnNA7Dk9LNMFvQQU2jgP1Y9P2Ma+WoozbPwRtefEHNMv6Iox1TePWDiyP5abcjxXq0/w8OZWbvwhg1MR3pH5ySUQFBumkGcz+xjJsRnkfiPX7rB5eqsPCPQLaaaAwnu2rvS3fZRljlhW535o8iIoVY9MaHDMBy0st7NgtJJXkV5vaDdPRGWy4c13pwma99XjvXoM8+VVSdJy2eN5zhWV3o7gmU=;HWRnVPs4+7Dp4O/Go9Ghwg=="
 ---

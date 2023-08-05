@@ -2,6 +2,57 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2023-05-13-google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe.md",
+      "title": "Google told me Bard has gotten better. But even the AI doesn't believe ...",
+      "excerpt": "Even after Google I/O, Bard seems to be holding on to some of its old quirks, even denying its upgrade to PaLM 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "originalUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3002560b7b92127860a6d1747749f19b9714d7c1/2023/05/10/bb010820-3937-4ed0-8468-2d013125672d/google-bard-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
+      "publishedDateTime": "2023-05-13T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-acceleration-service-for-android-beta.md",
       "title": "Acceleration Service for Android (Beta)",
       "excerpt": "The use of specialized processors such as GPUs, NPUs or DSPs for hardware acceleration can dramatically improve inference performance (up to 10x faster inference in some cases) and the user experience of your ML-enabled Android application. However, given ...",
@@ -1156,58 +1207,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "CHICAGO, /PRNewswire/ --The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with other developing technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-worth-64-billion-by-2028---exclusive-report-by-marketsandmarketstm-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-worth-64-billion-by-2028---exclusive-report-by-marketsandmarketstm-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

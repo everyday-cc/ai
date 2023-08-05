@@ -2,6 +2,57 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-06-12-ibm-tech-now-june-12-2023.md",
+      "title": "IBM Tech Now: June 12, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at the 2023 X-Force Definitive Guide to Ransomware and the Center of Excellence for Generative AI.\nThe post IBM Tech Now: June 12, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-june-12-2023/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-june-12-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/IBM_Tech_Now_thumbnail_078a-1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T12:11:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-going-big-on-ai-123rf-launches-artificial-intelligence-powered-search-and-image-generation-simultaneously.md",
       "title": "Going Big on AI, 123RF Launches Artificial Intelligence Powered Search and Image Generation Simultaneously",
       "excerpt": "Revolutionizing Stock Content Discovery with Innovative, User-centric Search and Image Generation Technology. 123RF, a global pioneer in the stock content industry, is announcing the introduction of i",
@@ -1138,58 +1189,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-openai-deepmind-and-anthropic-to-give-uk-early-access-to-foundational-models-for-ai-safety-research.md",
-      "title": "OpenAI, DeepMind and Anthropic to give UK early access to foundational models for AI safety research",
-      "excerpt": "“We’re working with the frontier labs — Google DeepMind, OpenAI and Anthropic,” added Sunak. “And I’m pleased to announce they’ve committed to give early or priority access to models ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/",
-      "originalUrl": "https://techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1281361359.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/",
-      "publishedDateTime": "2023-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

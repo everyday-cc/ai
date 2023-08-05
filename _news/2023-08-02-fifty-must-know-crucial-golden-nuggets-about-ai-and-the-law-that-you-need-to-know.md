@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Five things you really need to know about AI"
+    excerpt: "Watch the \"Five things you really need to know about AI\" video at BBC Ideas. Explore other related content via our curated \"The Open University\" playlist."
+    publishedDateTime: 2023-08-04T09:48:00Z
+    webUrl: "https://www.bbc.co.uk/ideas/videos/five-things-you-really-need-to-know-about-ai/p0g43t7c?playlist=made-in-partnership-with-the-open-university&autoplay=true"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/960x540/p0g4t28f.png"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Five Things You Need to Know to Start Your Day"
     excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"
     publishedDateTime: 2023-08-01T10:30:00Z

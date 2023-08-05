@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Amazon investors eye revenue, cloud growth and retail margins ahead of earnings"
-    excerpt: "Amazon on Monday said it hit record delivery speeds in the United States in the second-quarter while continuing to cut costs, as investors look for signs of growth in its e-commerce business when it reports its Q2 financials on Thursday."
-    publishedDateTime: 2023-07-31T11:43:00Z
-    webUrl: "https://www.reuters.com/technology/amazon-investors-eye-revenue-cloud-growth-retail-margins-ahead-earnings-2023-07-31/"
+  - title: "How an AI marketing start-up took investors for a ride"
+    excerpt: "Inside Metigy, an artificial intelligence house of cards, where staff, went for months without pay even as investors believed everything was rosy."
+    publishedDateTime: 2023-08-04T06:42:00Z
+    webUrl: "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-investors-for-a-ride-20230803-p5dtot"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 54
     images:
-      - url: "https://www.reuters.com/resizer/S2HdjKr9zHQ87joJ9nWyA3r1JNE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XEFIQSSR7VKC5P7E44NYL5UJWQ.jpg"
+      - url: "https://static.ffx.io/images/$zoom_0.2182%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_550%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/430cb768d1deedb8d7845c53904a1ddc5d9fac76"
         width: 1200
         height: 628
         isCached: true

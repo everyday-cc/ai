@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6301288/the-ai-jokes-that-give-me-nightmares/"
 webUrl: "https://time.com/6301288/the-ai-jokes-that-give-me-nightmares/"
 type: article
 quality: 67
-heat: 81
+heat: 77
 published: true
 
 provider:

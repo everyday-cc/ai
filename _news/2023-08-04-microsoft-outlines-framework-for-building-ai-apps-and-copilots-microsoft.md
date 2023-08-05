@@ -308,20 +308,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 42
-  - title: "Meta Has A.I. Google Has A.I. Microsoft Has A.I. Amazon Has a Plan."
-    excerpt: "Bloomberg, for instance, built BloombergGPT, a bot for financial information, on a Bedrock precursor called SageMaker. To do it, the company took four decades of unstructured financial data and analytics, loaded them into AWS, added some other training ..."
-    publishedDateTime: 2023-07-31T13:00:00Z
-    webUrl: "https://slate.com/technology/2023/07/the-cloud-giant-isnt-trying-to-win-the-race-it-wants-to-own-the-road.html"
-    type: article
-    provider:
-      name: Slate
-      domain: slate.com
-    quality: 41
-    images:
-      - url: "https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
-        width: 1560
-        height: 1040
-        isCached: true
   - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
     excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
     publishedDateTime: 2023-08-03T20:11:00Z

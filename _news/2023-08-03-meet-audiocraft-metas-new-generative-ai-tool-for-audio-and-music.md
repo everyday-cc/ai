@@ -7,7 +7,7 @@ originalUrl: "https://www.musicbusinessworldwide.com/meet-audiocraft-metas-new-g
 webUrl: "https://www.musicbusinessworldwide.com/meet-audiocraft-metas-new-generative-ai-tool-for-audio-and-music/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Music Startup AudioShake Is Expanding Content Localization"
-    excerpt: "AI music startup AudioShake is making quality dubbing and content localization viable for content creators at all levels."
-    publishedDateTime: 2023-07-31T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/"
-    ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/07/31/how-ai-music-startup-audioshake-is-expanding-content-localization/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c48d91821236b6e642dc54/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Meta expands its AI music experiments with AudioCraft"
     excerpt: "Meta released MusicGen, a musical AI model that could use text prompts to create 12-second samples. It turns out this was just the start of the tech giant’s a"
     publishedDateTime: 2023-08-03T09:15:00Z

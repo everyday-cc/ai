@@ -86,6 +86,17 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "Albanese hopes return to Garma reboots voice case"
+    excerpt: "After a torrid week of parliamentary debate about the voice referendum, Anthony Albanese has returned to the Garma Festival, emphasising what local Indigenous communities can achieve when their people are empowered."
+    publishedDateTime: 2023-08-04T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "Defiant Albanese tries to reset ailing Voice"
     excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
     publishedDateTime: 2023-08-04T12:30:00Z

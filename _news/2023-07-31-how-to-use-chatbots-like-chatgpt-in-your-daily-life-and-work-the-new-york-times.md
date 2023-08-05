@@ -336,6 +336,20 @@ related:
         width: 700
         height: 492
         isCached: true
+  - title: "Q & A: How A.I. and machine learning are transforming the lending industry"
+    excerpt: "The key to more predictive models is more data and technology that can deliver more meaningful insights. This is where machine learning and advanced analytics come into play."
+    publishedDateTime: 2023-08-04T21:12:00Z
+    webUrl: "https://www.digitaljournal.com/business/q-a-how-a-i-and-machine-learning-are-transforming-the-lending-industry/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/12/Artificial-Intelligence-AFP-1K-01.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-01T15:55:00Z

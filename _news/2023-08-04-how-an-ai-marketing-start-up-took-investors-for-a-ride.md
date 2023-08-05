@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-i
 webUrl: "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-investors-for-a-ride-20230803-p5dtot"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Amazon Advertising Fuels Another Growth Spurt, But Investors Only Have Eyes For AI"
+    excerpt: "Amazon crushed its quarterly earnings report on Thursday evening, increasing its market cap by more than $100 billion overnight – and it did so with a major assist from its"
+    publishedDateTime: 2023-08-04T12:04:00Z
+    webUrl: "https://www.adexchanger.com/commerce/amazon-advertising-fuels-another-growth-spurt-but-investors-only-have-eyes-for-ai/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 13
 
 secured: "Z+WlRwK7FQsBIETCFu7kZTt4+0LvS+Y0FSN7IDPtfFq500v1fImEr9FMLcHRwFjDkvuBvgrteZdXEN5iyEMHg9QnBr5h7at5LRqFEAN4VKDIDwdK7D3Q3CccTuydvnp1aWBnnqOvEV70yvOA5jgWgMf3NF/w381C8C8EoT+G2wLRTPDftLbsyO++cG21tIuHxK12Ix4djJ4sW9aELjizpdIdl5Y1zQec1YWhMM3133vZ30vWz7WCupYh4bNCK+IxsEPTcWVagBIeYdmB1efnXy9eny3T+Vn2SkyC9v1anCEp80GqgzVRAmIsPJ6vnct9w5dGxE5aSzM2zDZMJvNcRZhai7/Db0EW4kh/hUrI52Q=;M8HmofHu6+58Sto8VuWN+w=="
 ---

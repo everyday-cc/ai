@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-mak
 webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Google & DeepMind Move Steps Toward Generalist Biomedical AI System"
+    excerpt: "Despite significant progress in Artificial Intelligent (AI) system, most of the existing state-of-the-art (SOTA) systems are unimodal single task systems, which poses a challenge in developing medical AI systems as medical tasks are inherently multimodal with rich modalities spanning text,"
+    publishedDateTime: 2023-08-05T04:28:00Z
+    webUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/"
+    ampWebUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
   - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
     excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."

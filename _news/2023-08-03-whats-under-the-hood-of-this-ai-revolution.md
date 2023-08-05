@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 23
-  - title: "How is AI powered video conferencing revolutionizing the virtual communication?"
-    excerpt: "AI is being used in video conferencing in several ways to improve users’ experiences. These evolutions bring different worlds together with the click of a button. As technology continues to evolve, artificial intelligence has made great strides in video conferencing technologies."
-    publishedDateTime: 2023-07-31T11:51:00Z
-    webUrl: "https://www.devdiscourse.com/article/business/2542411-how-is-ai-powered-video-conferencing-revolutionizing-the-virtual-communication"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 15
   - title: "Research Solutions Acquires ResoluteAI to Transform AI-Powered Innovation Workflows"
     excerpt: "Research Solutions, Inc. (NASDAQ: RSSS), a trusted partner providing cloud-based workflow solutions to accelerate research for R&D-driven organizations, today announced its acquisition of ResoluteAI,"
     publishedDateTime: 2023-07-31T14:27:00Z

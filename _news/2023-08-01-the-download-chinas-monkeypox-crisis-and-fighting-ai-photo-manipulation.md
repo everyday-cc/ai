@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "The Download: labeling AI, and Twitter’s transformation"
-    excerpt: "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The White House wants big AI companies to disclose when content has been created using artificial intelligence, and very soon the EU will require some tech platforms to label AI-generated content."
-    publishedDateTime: 2023-07-31T12:09:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/31/1076978/the-download-labeling-ai-and-twitters-transformation/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "The Download: China’s digital currency ambitions, and US AI rules"
     excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for China’s digital currency? China’s digital yuan was seemingly born out of a desire to centralize a tech giant-dominated payment system."
     publishedDateTime: 2023-08-04T12:12:00Z

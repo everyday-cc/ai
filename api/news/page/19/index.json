@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-07-22-2-ai-stocks-that-could-help-make-you-a-fortune.md",
+      "title": "2 AI Stocks That Could Help Make You a Fortune",
+      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence.md",
       "title": "AI And The Economy: Which Companies And Industries Will Avoid Artificial Intelligence",
       "excerpt": "AI implementation will be very slow in sectors with high stakes, litigiousness, high unionization, and high regulation. The opposite industries will move the fastest.",
@@ -1157,40 +1209,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-revolutionizing-fintech-the-role-of-ai-in-democratizing-investment-opportunities.md",
-      "title": "Revolutionizing Fintech: The Role of AI in Democratizing Investment Opportunities",
-      "excerpt": "With the integration of AI in fintech, individual investors can access high-quality researched-back data and investment recommendations to make better-informed decisions. AI platforms are using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200",
-      "originalUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
-      "publishedDateTime": "2023-07-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

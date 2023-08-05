@@ -98,20 +98,6 @@ related:
         width: 3000
         height: 2250
         isCached: true
-  - title: "The Potential of AI as a Virtual Assistant"
-    excerpt: "Instead of seeing it as a replacement it can be used to assist in daily tasks. Generally, an AI assistant understands natural language voice commands and completes tasks for the user. A virtual assistant can complete tasks like taking dictation,"
-    publishedDateTime: 2023-07-31T11:52:00Z
-    webUrl: "https://za.investing.com/news/the-potential-of-ai-as-a-virtual-assistant-2826307"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "IDC-Teradata Study: Data Ethics, IT Complexity, and the Future of Generative AI in Global Enterprises"
     excerpt: "Executives at large enterprises across the globe are facing unprecedented pressures around adopting generative artificial"
     publishedDateTime: 2023-08-01T15:00:00Z

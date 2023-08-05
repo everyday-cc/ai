@@ -2,6 +2,40 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-07-21-revolutionizing-fintech-the-role-of-ai-in-democratizing-investment-opportunities.md",
+      "title": "Revolutionizing Fintech: The Role of AI in Democratizing Investment Opportunities",
+      "excerpt": "With the integration of AI in fintech, individual investors can access high-quality researched-back data and investment recommendations to make better-informed decisions. AI platforms are using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200",
+      "originalUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp",
+      "publishedDateTime": "2023-07-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-no-i-didnt-imagine-it-the-npc-craze-really-offers-money-for-robotic-gibberish.md",
       "title": "No, I didn’t imagine it – the ‘NPC’ craze really offers money for robotic gibberish",
       "excerpt": "People online pretend to be jerky video-game characters – and some make tons of money doing it. What on earth?",
@@ -1173,40 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
-      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
-      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

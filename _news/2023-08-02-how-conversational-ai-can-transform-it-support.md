@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-su
 webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-102351717,imgsize-131332,width-1200,height=765,overlay-ettelecom/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Big Tech rebounds and preps for transformative AI investments"
+    excerpt: "Meta's and Google's ad businesses rebounded. Microsoft's cloud computing business continued to expand. So did Amazon's e-commerce business. Apple, with a 1% decline, was the only big tech company whose revenue dropped."
+    publishedDateTime: 2023-08-05T03:19:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-preps-for-transformative-ai-investments/articleshow/102440250.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/msid-102440386,width-1070,height-580,imgsize-2872767,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
         isCached: true
 
 secured: "o5oQbfHzBpyFvePpsIDxr/qhK8yVjn6DI50GWLsaxtuwcjJ3PlRWS52aHdQU7k1znJO5mgQ/mGkcNUohJ4zCqH83Akfkhb2xfsWakzP0FlMZSWnPdjpoKGtyQGmXUEHdnj3Fw83baJxmuqIVNIbuEXgXgtNaZf9rreK+ZaMwfFJvYlNy0HdiBsdxxSnJsGuXdu9ZIV3SqseHpsogBxfZCdXrL6/PwbJJrIC3iLGfZwW5F01JyyzQT65pVJng3cgu82uCb/Rj8WBPGCCa++39d4sAZGa2p73iZi3BTIAKDtKqvotQZ+SF/qbMujbEVCwR2owYziGJl/iFoJAoJyQ5OFs9lkcviaIGU0FDSgrTOZ4=;YR///3VLXDQm0MNypVXvsw=="

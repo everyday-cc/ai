@@ -69,6 +69,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Albanese hopes return to Garma reboots voice case"
+    excerpt: "After a torrid week of parliamentary debate about the voice referendum, Anthony Albanese has returned to the Garma Festival, emphasising what local Indigenous communities can achieve when their people are empowered."
+    publishedDateTime: 2023-08-04T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/editorials/albanese-hopes-return-to-garma-reboots-voice-case/news-story/f22010983362b48332009528dccabcf1?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "Anthony Albanese stops spruiking Indigenous Voice on Twitter with over month-long silence on key policy platform"
     excerpt: "Anthony Albanese has been silent on the Indigenous Voice to Parliament on Twitter for over a month, as polls suggest support for the proposed body is in decline."
     publishedDateTime: 2023-08-03T06:08:00Z

@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Five things you really need to know about AI"
+    excerpt: "Watch the \"Five things you really need to know about AI\" video at BBC Ideas. Explore other related content via our curated \"The Open University\" playlist."
+    publishedDateTime: 2023-08-04T09:48:00Z
+    webUrl: "https://www.bbc.co.uk/ideas/videos/five-things-you-really-need-to-know-about-ai/p0g43t7c?playlist=made-in-partnership-with-the-open-university&autoplay=true"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/960x540/p0g4t28f.png"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Everyday AI: How artificial intelligence is shaping sports"
     excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
     publishedDateTime: 2023-08-01T17:47:00Z

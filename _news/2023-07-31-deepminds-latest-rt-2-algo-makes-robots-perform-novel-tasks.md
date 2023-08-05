@@ -53,6 +53,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google & DeepMind Move Steps Toward Generalist Biomedical AI System"
+    excerpt: "Despite significant progress in Artificial Intelligent (AI) system, most of the existing state-of-the-art (SOTA) systems are unimodal single task systems, which poses a challenge in developing medical AI systems as medical tasks are inherently multimodal with rich modalities spanning text,"
+    publishedDateTime: 2023-08-05T04:28:00Z
+    webUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/"
+    ampWebUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
     excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
     publishedDateTime: 2023-08-02T14:00:00Z

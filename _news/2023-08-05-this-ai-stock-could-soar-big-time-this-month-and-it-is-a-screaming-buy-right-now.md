@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar
 webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/08/03/1600x900/USA-STOCKS-AI-0_1691037086808_1691037117004.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Giving AI direct control over anything is a bad idea – here’s how it could do us real harm"
-    excerpt: "In short, an AI system does not have to be put in charge of nuclear weapons to represent a serious threat to humanity. But while we’re on this topic, if an AI system was powerful and intelligent enough, it could find a way of faking an attack on a country with nuclear weapons, triggering a human-initiated retaliation."
-    publishedDateTime: 2023-07-31T11:44:00Z
-    webUrl: "https://theconversation.com/giving-ai-direct-control-over-anything-is-a-bad-idea-heres-how-it-could-do-us-real-harm-210168"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 27
-    images:
-      - url: "https://images.theconversation.com/files/539296/original/file-20230725-12656-ch2u51.jpg?ixlib=rb-1.1.0&rect=539%2C269%2C7640%2C3813&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
         isCached: true
 
 secured: "cmpaqZxHS7hf6GzHa6DYc9GOuBKwfXqWrAK7srbiWw5Eq7rWXFlcdAeYqXSMwPausoosiPG1hnJvoCgKZlJOdF+fNnC5sbvfpYONqAxM5RyZIhBzC1AZDEFq0oiB6OlLueBJmY+/Ify7ilxdFfxqcFjDHnHBo6NCQ70FR1/I1laGyIrqdM1zO9g9gsBUgGRLxDW297XTWCh8ycJE4RdH2/F8ng/C7fUgO9oojLIxK5PbzZZUM70qnQipoSDG4aYk6pC/65OIc6Gh+yxcJbtH7z5Ve8tb0sZ4BmUUmUGeXi4OLgTFFR07h34jldx2ehyFgL37euj8KqogYusmcDmAmLAeB9/nrx1blnt8m4/HiRA=;Qww4aaVbhRmoMgaJvqKWPw=="
