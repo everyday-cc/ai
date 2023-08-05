@@ -285,15 +285,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 34
-  - title: "Jim Keller’s AI Chip Unicorn Locks Up $100M From Strategic Investors"
-    excerpt: "AI chip startup Tenstorrent closed a $100 million strategic financing from the likes of Hyundai and Samsung in what the company is calling an “up-round.” The Toronto-based company previously reached unicorn status after its $200 million-plus raise in 2021."
-    publishedDateTime: 2023-08-03T17:27:00Z
-    webUrl: "https://news.crunchbase.com/news/tenstorrent-jim-keller-ai-chip-startup-funding-hyundai-kia/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 34
 
 secured: "VpjVmg9S0+XHz/poP6hCs0OIn1moLwf71E1TQfK3f6J+BRGGREaCjX2t0tLuEx4UEdUPLp0ZUGfmtx4b4THUyE6fh2tcYezsRHKRRES86riXDzw2GLT3rDAqPzyj30aUfl/aQzzWdpuYEJ057t6HojAcQZLfEylpRHFlnYERz5g619rn6qY6nOUhopRLb5zVj/gm3MqlKeTL+trUj4a+aC3J5uf326Pkn9nMGzC3S6sSIMPB2OgXAVwd62C7Clerz19OkSpniyYJcyfS3TZOwGqVdsZpaHZyO0BXOxvmWlyt9gVoiuO8PBzuTQBIsy4ZU8Asz5t+f9ZiLm4gSebHofqL7av3rvMlIxJ1l3+Izk0=;J3gUKqN2AyGWjI5HVG7Z+g=="
 ---

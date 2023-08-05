@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-fund
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent-ba2a3fdf"
 type: article
 quality: 86
-heat: 286
+heat: 276
 published: true
 
 provider:
@@ -287,15 +287,6 @@ related:
     provider:
       name: Business Times
       domain: businesstimes.com.sg
-    quality: 34
-  - title: "Jim Keller’s AI Chip Unicorn Locks Up $100M From Strategic Investors"
-    excerpt: "AI chip startup Tenstorrent closed a $100 million strategic financing from the likes of Hyundai and Samsung in what the company is calling an “up-round.” The Toronto-based company previously reached unicorn status after its $200 million-plus raise in 2021."
-    publishedDateTime: 2023-08-03T17:27:00Z
-    webUrl: "https://news.crunchbase.com/news/tenstorrent-jim-keller-ai-chip-startup-funding-hyundai-kia/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
     quality: 34
 
 secured: "63DQoILMq1ZB2NkkUSNXqzFfOe0YZMj4RjTJgLe9//XQT+x9zMTX2v0tugD54AVawdJpgssEuf4KutJHy2HafDw87gLlfaVPbot8Y4Ux5pPqSPUG3TxsUh2m39Zg5ZbmHALIbXQtGkQnguA0dl1P0eRmoT4AM2PJnDlWbXm4vTzxjFvY8MCliFkMn6lrhyukA5C7J0qgfdoyR5HDwm9WHHxZjsS68J3jIXkWu2sf9dShQ3dum/wWoudXIA0dwdY7aQAR54/weu9iQcoUfM3SYITgkfJs8lfCKTeTzg+k1tHjWeIMaXmJaEQCcyeBjv/bBIDC3am2+ZdmQua0yuDKeMPMzxC/ClXCXXUyP5YU7wA=;c0ix4KQfGtFG/bst+Tg9rA=="

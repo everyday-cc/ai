@@ -109,20 +109,6 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "Home Office lobbied for facial recognition in shops to tackle shoplifting, report"
-    excerpt: "Recently published documents have revealed the UK government has been actively pressurising the Information Commissioner's Office (ICO) to endorse the rollout of facial recognition technology in high street shops and supermarkets to tackle 'retail crime'."
-    publishedDateTime: 2023-07-31T07:26:00Z
-    webUrl: "https://www.computing.co.uk/news/4121156/home-office-lobbied-facial-recognition-shops-tackle-shoplifting-report"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 34
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/302014b/e4858223-4780-4d82-9ee1-a70f0bca491b/24/live-facial-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
     excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
     publishedDateTime: 2023-07-31T15:00:00Z

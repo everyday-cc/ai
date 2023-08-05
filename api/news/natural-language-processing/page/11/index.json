@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-18-not-too-much-to-ask-harvard-undergrad-workers-rally-for-a-union-after-university-denies-recognition.md",
+      "title": "‘Not Too Much to Ask’: Harvard Undergrad Workers Rally for a Union After University Denies Recognition",
+      "excerpt": "Without voluntary recognition, HUWU will have to gain majority ... Sanders ’24 mentioned Curran’s reply during a speech at the rally, the crowd responded with boos. “Shame on Paul!",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
+      "originalUrl": "https://www.thecrimson.com/article/2023/4/18/huwu-recognition-denied/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/04/17/230704_1363158.jpeg.2000x1333_q95_crop-smart_upscale.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T20:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Harvard Crimson",
+        "domain": "thecrimson.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-covenant-varsity-firm-partner-on-ai-language-translation-device.md",
       "title": "Covenant varsity, firm partner on AI, language translation device",
       "excerpt": "According to him, the goal of automatic translation of free-text and documents from foreign languages into African languages (or between any two languages) is one of the oldest pursuits of AI ...",
@@ -1244,58 +1287,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost.md",
-      "title": "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost",
-      "excerpt": "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

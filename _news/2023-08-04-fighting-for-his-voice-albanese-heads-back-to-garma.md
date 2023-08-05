@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Albanese's 'Voice, Treaty, Truth' t-shirt at Midnight Oil concert sparks fierce debate about Voice during Question Time"
-    excerpt: "The saga surrounding Prime Minister Anthony Albanese's t-shirt choice at a Midnight Oil concert last year sent both sides of politics into a laughing frenzy during Question Time on Monday."
-    publishedDateTime: 2023-07-31T08:13:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/politics/albaneses-voice-treaty-truth-tshirt-at-midnight-oil-concert-sparks-fierce-debate-about-voice-during-question-time/news-story/75d2a8be52b35f762f1a826bea5ea33f"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/albaneses-voice-treaty-truth-tshirt-at-midnight-oil-concert-sparks-fierce-debate-about-voice-during-question-time/news-story/75d2a8be52b35f762f1a826bea5ea33f?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/albaneses-voice-treaty-truth-tshirt-at-midnight-oil-concert-sparks-fierce-debate-about-voice-during-question-time/news-story/75d2a8be52b35f762f1a826bea5ea33f?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 20
-    images:
-      - url: "https://content.api.news/v3/images/bin/8eb364418c4257c4b1c8d59d6ae3d0f8"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Albanese's inability to handle public pressure over his Voice proposal will cause him to lose the referendum, and ultimately the prime ministership"
     excerpt: "Anthony Albanese left the Garma Festival last August without a pub-ready case to support his vision of an Indigenous Voice to Parliament."
     publishedDateTime: 2023-08-04T20:00:00Z

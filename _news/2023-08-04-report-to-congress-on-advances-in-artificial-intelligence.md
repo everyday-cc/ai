@@ -27,176 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "Betting On AI Is Big Business"
-    excerpt: "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?"
-    publishedDateTime: 2023-07-31T08:51:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
+  - title: "Meta unveils new text-to-music AI tools to compete with Google's"
+    excerpt: "EnCodec is an audio codec comprised of neural networks that compress audio and reconstruct the input signal. As part of the announcement, Meta released the most improved version of Encodec that allows for higher-quality music generations with fewer artifacts, according to the release."
+    publishedDateTime: 2023-08-03T20:39:00Z
+    webUrl: "https://www.zdnet.com/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/bfe856c9bcc0b2902226cee85375e8a69b5481e8/2023/08/03/fe614ab3-0f0a-47d1-b4aa-53d01d34d452/gettyimages-844347442.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 562
+        height: 675
         isCached: true
-  - title: "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI"
-    excerpt: "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more."
-    publishedDateTime: 2023-07-31T16:16:00Z
-    webUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
+  - title: "Meta Releases AudioCraft AI Tool to Create Music From Text"
+    excerpt: "The AI tool is bundled with three models, AudioGen, EnCodec and MusicGen, and works for music, sound, compression and generation, Meta said. MusicGen is trained using company-owned and specifically licensed music, it added. Low commission rates start at $0 ..."
+    publishedDateTime: 2023-08-02T15:11:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-02/meta-releases-audiocraft-ai-tool-to-create-music-from-text"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators"
-    excerpt: "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs."
-    publishedDateTime: 2023-08-03T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c99016bea27fc14269db67/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 395
-        isCached: true
-  - title: "How AI is helping satellites avoid hitting each other in space"
-    excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
-    publishedDateTime: 2023-07-31T08:53:00Z
-    webUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space"
-    ampWebUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "How to Use AI to Create Writing and Business Efficiencies"
-    excerpt: "Author and CEO Maddy Osman shows how to use AI to organize your thoughts, detect AI writing and generate job descriptions."
-    publishedDateTime: 2023-08-04T12:00:00Z
-    webUrl: "https://www.newsweek.com/ai-writing-business-efficiencies-1816500"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 47
-  - title: "Most businesses with AI lead new use cases with it"
-    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
-    publishedDateTime: 2023-07-31T09:45:00Z
-    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
+  - title: "Meta launches suite of generative AI music tools rivaling Google’s MusicLM"
+    excerpt: "According to the tech giant, as it continues to develop new controls for the Ai music tools it believes MusicGen can become a new type of instrument."
+    publishedDateTime: 2023-08-04T09:20:00Z
+    webUrl: "https://cointelegraph.com/news/meta-launches-suite-of-generative-ai-music-tools-rivaling-google-s-musiclm"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
-        width: 1075
-        height: 550
-        isCached: true
-  - title: "How Will Artificial Intelligence Change the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-news-business.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 37
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/b6a/b30/800ca33462d64e132280295777c0e1bdcd-GettyImages-205-moshed-07-31-13-48-45.1x.rsocial.w1200.png"
-        width: 1200
-        height: 630
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNjg5YjhiYTctNDU1My00NzZkLWIyMDAtZmZlYTUyMzNjZDFkLmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "3 ways AI can save small businesses time, stress"
-    excerpt: "Generative AI is creating an extraordinary amount of buzz, and it's catching the interest of people wondering how to take advantage of what it has to offer. If you're a"
-    publishedDateTime: 2023-08-03T15:29:00Z
-    webUrl: "https://www.chronicleonline.com/news/business/3-ways-ai-can-save-small-businesses-time-stress/article_1f782d41-a073-5a3f-a32f-eb7a77556256.html"
+  - title: "Meta Launches Music AI Tool That Generates Instant Songs From Text Prompts"
+    excerpt: "The company’s AudioCraft consists of three different models that serve as competition to a similar tool released by Google in May."
+    publishedDateTime: 2023-08-02T23:46:00Z
+    webUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/#!"
     type: article
     provider:
-      name: Citrus County Chronicle Online
-      domain: chronicleonline.com
-    quality: 37
+      name: Billboard
+      domain: billboard.com
+    quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/d/e1/de164193-1cd4-5cfd-a4f7-adf60b113404/64cbc928c291d.image.jpg?crop=1260%2C662%2C0%2C89&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "4 Industries Where AI is Changing How We Do Business"
-    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
-    publishedDateTime: 2023-08-04T06:18:00Z
-    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
+      - url: "https://www.billboard.com/wp-content/uploads/2022/09/meta-phone-feb-2022-billboard-1548.jpg?w=1024"
         width: 1024
-        height: 576
+        height: 677
         isCached: true
-  - title: "Harvard Business School Professor Says Small Businesses Should Start Using AI Tools Like ChatGPT"
-    excerpt: "With the rise of AI tools such as OpenAI's ChatGPT, small businesses have a remarkable opportunity to harness its potential. This advice comes from Karim Lakhani, a distinguished professor at Harvard Business School with over three decades of technology research under his belt."
-    publishedDateTime: 2023-08-03T09:42:00Z
-    webUrl: "https://www.techtimes.com/articles/294636/20230803/harvard-business-school-professor-small-businesses-ai-tools.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 26
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/433236/harvard-business-school-professor-says-small-businesses-should-start-using-ai-tools-like-chatgpt.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
-    quality: 19
-  - title: "Column: Why AI extinction risk is a business reality"
-    excerpt: "The findings come just weeks after dozens of AI industry leaders, academics, and even some celebrities signed a statement warning of an \"extinction\" risk from AI."
-    publishedDateTime: 2023-08-04T09:00:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/08/04/why-ai-extinction-risk-is-a-business-reality.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "How Will Artificial Intelligence Change the the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-the-news-business-3-theories.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 17
 
 secured: "NO326IsjPYFga6SDUao7Y8s93d71UEfUkHyv0rdT1mIEma2wLo46jnAjoSCNotx+dK+Al2H2TnY//3KtXyjYKlsq+4JHF2XXWQSN6D4B9U9ptfqPpTykSRqQPFp6GUZI0hLnFSQTj0po2IvaCAvRi64drBZoaAVUC2nLOSyxyq0wZahnpRZkHKkDyIIcr95gywwTZHNVoH7xYRGfsJogs+/nvIovTyqzItu/rOU6RCBQPnHYH4mKPqKSQpu5pOfcdSslyxz0c4KWba5ROMW6qXttbxL0oXa/q9bCHioRgTv8VwnoRldBVEaDzMKRA7B18Yw3FzEbH90omca94ZA7AHpJ43oH4vFsgCHCrWN4EbO4B/kjOXztMRobu/VC+fd1Wv9ncBi7HEmk3TEYNceE9dOV/0ZvWApktGjgfyBwACeIr9dhi4KzvRLZWSMFQ3M7vvYFzqhtp1vLGa2MnEkoaHlO6id7mu8yaHyWLCVGlGnSDt+sO9a5sYXPnas9AzDs4CJzW911hHjLIhg1PLR8Xg==;cohKyy1Z6f4xiFhNNwJoWA=="
 ---

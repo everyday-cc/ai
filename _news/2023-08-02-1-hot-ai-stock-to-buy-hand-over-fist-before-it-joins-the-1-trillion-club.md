@@ -22,6 +22,17 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "Artificial Intelligence (AI) Software Revenue Is Zipping Toward $14 Trillion: 2 AI Growth Stocks to Buy Now"
+    excerpt: "Artificial intelligence (AI) promises to improve productivity in many different industries, potentially doubling the output of the average knowledge worker by the end of the decade. Meanwhile, the falling cost of training AI models is making the technology ..."
+    publishedDateTime: 2023-08-05T01:44:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/DDOG/pressreleases/19091202/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 14
+
 secured: "DgHg8LcEmw42VLiOKnvJ+o9sndciNC5H4VwCqdvrO+NhDYZhZpAxfq49Kc9WFzPMpkuYTOgFsyecn4EQ2LmKNR2dE/QeZ12CAU5LGhacfcSctIc5hGBmH00sHlzF7sbfNUn1nN//R24xJV+rPoFAicBfyX9WyQGIVPAO01AyVcdeU0l1uMii9NFlWd4GbI+H8AW/rhnwx73wHPboSR25bGLQy53MdKpdja5i+JYvcjjw6fUyK9S5nhcacuq1d/QIdSMMjr8VfzaaCHHTaP8LbsMnIzNGuBGs8L5z2n1q8zU+4T4m1Dxyro2mL0bH6VK2RTIJ03bENU8B8MPKHh6kgpyWRlCieqfxiryEPL3WKye6y1H3SlfHI4gNb40HPqQVR+mBodvBixLRBwAOQThddAUWJ3YWbolkrGJ2SdKyAMBOF317sDAfV1HD/E/WXDOiOlMFQk6lilGhkFIArM6/16xmpATBCP5zvrNK5Oy39I4Oa23DHK/UtcaKLXXx+JNfVRe9zz8gRnL7zc/SK9Vxrw==;gpKx8cXq6dZjT3g5zNBlZg=="
 ---
 

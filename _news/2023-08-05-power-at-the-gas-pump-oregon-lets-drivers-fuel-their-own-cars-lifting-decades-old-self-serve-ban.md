@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Power at the gas pump: Oregon lets drivers fuel their own cars, lifting decades-old self-serve ban"
-excerpt: "For the first time in 72 years, Oregon motorists can grab a fuel nozzle and pump gas into their cars without an attendant, since a decades-old ban on self-serve gas stations has been revoked. Gov. Tina Kotek signed a bill on Friday allowing people across the state to choose between having an attendant pump gas or doing it themselves."
-publishedDateTime: 2023-08-04T21:38:00Z
-originalUrl: "https://www.aol.com/news/power-gas-pump-oregon-lets-183737524.html"
-webUrl: "https://www.aol.com/news/power-gas-pump-oregon-lets-183737524.html"
+excerpt: "When Oregon prohibited self-service in 1951, lawmakers cited safety concerns ... trying to fill up random bottles and jugs, and driving off with the pump still in the vehicle,” Venable said. Others wonder if motorists who are now clamoring to pump ..."
+publishedDateTime: 2023-08-05T01:32:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/power-gas-pump-oregon-lets-drivers-fuel-cars-102026436"
+webUrl: "https://abcnews.go.com/US/wireStory/power-gas-pump-oregon-lets-drivers-fuel-cars-102026436"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/power-gas-pump-oregon-lets-drivers-fuel-cars-102026436"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/power-gas-pump-oregon-lets-drivers-fuel-cars-102026436"
 type: article
-quality: 10
-heat: 10
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/uav4.ibOeP7j9UP4bjFMSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODM-/https://media.zenfs.com/en/aol_associated_press_484/55efc38075fd8ae6027fb54016b244b7"
-    width: 1200
-    height: 783
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
-secured: "Ac67tBVqcKkOpOrEd995iAbQU8qR6HUXw6D5fb2hVy3d4kyv4SnOUiWBm3Tj3ghrDDICiZXj5jL2b/91CaZJPj9RVCUKyzhx0cm8ENNuSBpAZq3p6NaYTvnj77/bShJ7zJiulxIVnG82x2mOo4++58mf6+XlksWMLjR2DX53TmHOTS6YP6o+9AqncXuIoGxPbtKyGgrQgEvK/EVdnR5fCWxnI+KpgfqSW4s/+VJe/WOwfGfcxOdO1CF85+oYqegFQfDdMM19pxQCkLHX68UFPcCjfLdsyN4wEr/V/ZLVr80x2+f2QKw7QQRTTeJh2XWOtlwCbaoHMpdUhfaZcNmlfRhATbL+jZQ5wk7CMin+QMg=;ajwWxOz06Pq8VLrLYrUKpQ=="
+secured: "orblxkLDnEqCDHCAyjl0FMEcFQFMOqPsTcWIMQLnj+nnLP3Fo4iiRc+N20nbb8qtCeZD1vnheUAc7qj3wcSFiIMZHd9KlvyRS259J6//OlfWLwpp3DOdtqP3cMeFfqYwWrlERgQm998vXNl8fenczDgk/ePL4OM9XKcC4XDRKH/KC2Rkr4Yprat90b57YxMD7PQoqpnIp8pBl05RIM4S+0SXrjqcXi9cTO/xng13arvFBCMIoNZxEn2zHeP8wVHz3gXY4kv8GgJzz6/gf4f9sunE3J+chwdKfyksofEI0eW/aDWZ2i5q4sRKmmUGJjJAvTDfOFOyAPGbl0+iMoqvms2HaKkGygE4x8ef0qAzQOA=;9QubW4zhcHYTPc+NIMxV9g=="
 ---
 

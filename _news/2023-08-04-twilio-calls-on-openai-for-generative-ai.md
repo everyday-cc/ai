@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/twilio-calls-on-openai-for-generative-a
 webUrl: "https://venturebeat.com/ai/twilio-calls-on-openai-for-generative-ai/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Drops Huge Clue About GPT-5"
-    excerpt: "OpenAI has applied for new trademark for \"GPT-5,\" giving us a glimpse of its successor to its blockbuster large language model GPT-4."
-    publishedDateTime: 2023-08-02T15:46:00Z
-    webUrl: "https://futurism.com/the-byte/openai-trademark-gpt-5"
+  - title: "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators"
+    excerpt: "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs."
+    publishedDateTime: 2023-08-03T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://wp-assets.futurism.com/2023/08/openai-trademark-gpt-5.jpg"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c99016bea27fc14269db67/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 395
         isCached: true
   - title: "OpenAI Files Trademark Application for GPT-5"
     excerpt: "natural language processing, generation, understanding, and analysis. The application also includes software for machine-learning-based language and speech processing, translation of text or speech from one language to another, sharing datasets for machine ..."
@@ -56,15 +58,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "State of play: Generative AI for climate"
-    excerpt: "State of play: Verse is just one example, focused on the specific issue of the complexity of clean power PPAs. Vancouver-based startup Good Chemistry uses advanced computing and generative AI to enable researchers to discover and develop new materials."
-    publishedDateTime: 2023-08-01T15:22:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/08/01/state-of-play-generative-ai-for-climate"
+  - title: "3 ways AI can save small businesses time, stress"
+    excerpt: "Generative AI is creating an extraordinary amount of buzz, and it's catching the interest of people wondering how to take advantage of what it has to offer. If you're a"
+    publishedDateTime: 2023-08-03T15:29:00Z
+    webUrl: "https://www.chronicleonline.com/news/business/3-ways-ai-can-save-small-businesses-time-stress/article_1f782d41-a073-5a3f-a32f-eb7a77556256.html"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
+      name: Citrus County Chronicle Online
+      domain: chronicleonline.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/d/e1/de164193-1cd4-5cfd-a4f7-adf60b113404/64cbc928c291d.image.jpg?crop=1260%2C662%2C0%2C89&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lXjMoFIxO4o/2z4bweOdER2ABe1uwed8KGHCh03v2tSmV60LDFfkx1mNDe9OYz8YSAcR8IsITWZaI80fhucamcCnmSExQGMUNGL6dnD3n0DOWygntmulsXO7PN8B05G+Q31jYKk8gY+b6zMaenh7vD6+uwctJAqgGPJ28PUacZ7aBVZuYGIjczJ01pISU7fSyQAad0ksq4Nywn77rlu78D2eXSbL9ex87bP0aIyDWbRv6BKukHU020KLuX7r4pVWVygrG2cf5+B7ExhbaBJgJUqSdRhZstevxqXA2qrV5OL8pUj668Tl/KyySYWQEudy+0+bC363MEOoQOctdsrsnovAz+luJbrxq1MqMuoZAvbXZUxXe8HgY5Ap7TmO6OmWbftODPS1f8SAFZYhTsStn1vAEy5+MynCAJqhuf3+YlkQBpZs7K1nVpDifi6MAdW0BqHz2oNtN/rFduUbzWoizTAiRBVxSyYmfkn7l2BUTYusdC1JBrLdFCq1rBdxBEeBEf03Eiroe8eH7ZkTDfJ52Q==;dHBZhtSALIQOSjH08NsdIA=="
 ---

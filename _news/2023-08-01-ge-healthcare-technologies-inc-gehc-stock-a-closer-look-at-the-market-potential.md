@@ -39,20 +39,6 @@ related:
         width: 640
         height: 424
         isCached: true
-  - title: "International Business Machines Corporation (IBM) Stock: A Look at the Analyst Recommendations"
-    excerpt: "International Business Machines Corporation (NYSE: IBM) has a higher price-to-earnings ratio of 69.94x compared to its average ratio. compared to its average ratio and a 36-month beta value of 0.85. Analysts have mixed views on the stock,"
-    publishedDateTime: 2023-07-31T07:19:00Z
-    webUrl: "https://newsheater.com/2023/07/31/international-business-machines-corporation-ibm-stock-a-look-at-the-analyst-recommendations/"
-    type: article
-    provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 12
-    images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-54.png"
-        width: 640
-        height: 430
-        isCached: true
 
 secured: "R3Dn8npuZiEixGf6zRpMksdIwYxtDZy0czWYpe27TXkXDK2f+kuVeAnOYeggaxcqRos9WL8epMAZbCAMHFIkoi75ak/zkdyd/dG9D+Il5x/j+nikdAqnXXgzym9fhAnqfmcWEJQlZF40a0at5JrG+9q5nTECX0UFb4pYB8JskwWmi2FUycQlJQQ/vHP01SbvpiXuRuFl45ku17P4FnAyUeGFWptNQtViWGrLHorDZ3VwjIoml590Q0CSc+31QQ9u6C9tHD3LSRs4RcZ0jT017law2wane+E9F7nJXkR+4I/AdDDlnPOOw1os0OJHnMtTKH5XsV5EZ5ESklJPyRWPqaaVi5zyWtlblpf73KWuajQ=;0pfWHII839qyF0mnWk6IKg=="
 ---

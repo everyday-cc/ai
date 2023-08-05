@@ -55,20 +55,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Emea fintech takes biggest hit in funding downturn"
-    excerpt: "The European fintech industry bore the brunt of a global drop in fintech funding during the first half of 2023, declining by more than half over the peceding period."
-    publishedDateTime: 2023-07-31T08:44:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Vanquis acquires money-saving FinTech Snoop"
     excerpt: "Vanquis Banking Group has announced its acquisition of money-saving FinTech Snoop. Snoop’s app generates personalised insights aimed at helping its users to better understand and manage their finances while also using AI to analyse Open Banking data to further assist users in realising cost savings on their household bills."
     publishedDateTime: 2023-08-02T09:01:00Z

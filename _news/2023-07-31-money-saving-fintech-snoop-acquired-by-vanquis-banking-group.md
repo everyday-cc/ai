@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Emea fintech takes biggest hit in funding downturn"
-    excerpt: "The European fintech industry bore the brunt of a global drop in fintech funding during the first half of 2023, declining by more than half over the peceding period."
-    publishedDateTime: 2023-07-31T08:44:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42714/emea-fintech-takes-biggest-hit-in-funding-downturn"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Top 10 fintech lenders by total funding"
     excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."

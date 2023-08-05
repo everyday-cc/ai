@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt.md",
+      "title": "Datasaur raises USD 4M to assist businesses in developing their own ChatGPT",
+      "excerpt": "Datasaur Inc., announced that it has completed a USD 4 million seed funding round, bringing its total amount raised to date to USD 7.9 million.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Datasaur-raises-USD-4M-to-assist-businesses-in-developing-their-own-ChatGPT.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/amp/",
+      "publishedDateTime": "2023-08-04T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1376,58 +1419,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-how-can-we-get-language-models-to-learn-more.md",
-      "title": "How Can We Get Language Models To Learn More?",
-      "excerpt": "Jacob Andreas is an assistant professor at CSAIL, EECS MIT and computer scientist known for his contributions to natural language processing and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/",
-      "originalUrl": "https://www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/24/6331719775112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/amp/",
-      "publishedDateTime": "2023-07-24T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

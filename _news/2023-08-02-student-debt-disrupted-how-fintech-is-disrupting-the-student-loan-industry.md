@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/finance/student-debt-disrupted-how-fi
 webUrl: "https://www.entrepreneur.com/finance/student-debt-disrupted-how-fintech-is-disrupting-the/456829"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "How Fintech and Virtual Staging are Revolutionizing the Real Estate Industry"
-    excerpt: "Fintech has disrupted various sectors, and real estate is no exception. In the context of the property market, Fintech has introduced innovative solutions that streamline financial transactions and enhance the overall experience for all stakeholders."
-    publishedDateTime: 2023-07-31T08:13:00Z
-    webUrl: "https://www.finextra.com/blogposting/24653/how-fintech-and-virtual-staging-are-revolutionizing-the-real-estate-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 1
 
 secured: "0w7cMpI9FVZrFuef+qNsG6loay1iGIM6AUPiIjyqK4XIYdAQhZJUqNhFzdjV5PcP6CAe1HQoOsXt5GRqr8BLiYsl27y3BVEgM3ROKlKqQjUndtaMxdDJzkNhgy++mOkflwXqgx94R8itEHG7jsMhPQd3PcLyNaVQpZpDwOrgOGmHvxAAbm2HB/Q1CEj6sWxU9joW7Q09cmlCxOD2XlXYx/cg0TfuAaZtrcI/kyOazxYJNisP7mXZyOZztgEFzwI0n3twkbNfks/aXTwdGJ/aVDhAVt3KeAQwc7udXuCJ8jQf0B1a7MHNVGGo5r92K/I+YmntxrEKMoC04G09u4GjEWMFK66YRldJ9w5zSHoRmv8=;SxgqT7TvLtCP7Fael5G60A=="
 ---

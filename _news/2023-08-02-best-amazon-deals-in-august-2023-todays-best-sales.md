@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots 2023: Smarter, More Adaptable & More Robust"
+    excerpt: "This year’s crop of new packaging robotics equipment and software leans into AI technology, higher payloads, greater flexibility, more."
+    publishedDateTime: 2023-08-04T23:07:00Z
+    webUrl: "https://www.packworld.com/machinery/robotics/article/22869401/innovations-in-packaging-robotics-address-labor-crisis"
+    type: article
+    provider:
+      name: Packaging World
+      domain: packworld.com
+    quality: 39
+    images:
+      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/08/Packaging_Robotics_Intro.64cd845d097a9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Amazon promo codes for August 2023"
     excerpt: "Amazon Prime is Amazon’s subscription service which gives you access to loads of great benefits. Firstly, there’s free same-day, one-day, and two-day shipping. You can also enjoy services like ..."
     publishedDateTime: 2023-08-01T04:43:00Z

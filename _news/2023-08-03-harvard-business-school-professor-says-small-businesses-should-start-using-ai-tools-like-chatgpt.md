@@ -25,176 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Betting On AI Is Big Business"
-    excerpt: "We have already seen the Nasdaq composite jump by over 35% due to the big blitz of generative AI, which makes me wonder if are in an AI bubble?"
-    publishedDateTime: 2023-07-31T08:51:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/betting-on-ai-is-big-business/amp/"
+  - title: "Datasaur raises USD 4M to assist businesses in developing their own ChatGPT"
+    excerpt: "Datasaur Inc., announced that it has completed a USD 4 million seed funding round, bringing its total amount raised to date to USD 7.9 million."
+    publishedDateTime: 2023-08-04T11:05:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c76f74821236b6e642dc7d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
-  - title: "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI"
-    excerpt: "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more."
-    publishedDateTime: 2023-07-31T16:16:00Z
-    webUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators"
-    excerpt: "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs."
-    publishedDateTime: 2023-08-03T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c99016bea27fc14269db67/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 395
-        isCached: true
-  - title: "How AI is helping satellites avoid hitting each other in space"
-    excerpt: "Professor Dr Chiara Manfletti is Director and COO of start-up Neuraspace, which is using AI and machine learning to protect space’s circular economy by predicting and preventing collisions. In effect, it is a space traffic management system (STM), though the comparison with terrestrial air traffic management is far from exact."
-    publishedDateTime: 2023-07-31T08:53:00Z
-    webUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space"
-    ampWebUrl: "https://diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-helping-satellites-avoid-hitting-each-other-space?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: enterprisetalk
+      domain: enterprisetalk.com
     quality: 57
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-07/076EC4E9-9F36-4F7F-A8FE-286353A1AB29.jpeg"
-        width: 640
-        height: 360
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Datasaur-raises-USD-4M-to-assist-businesses-in-developing-their-own-ChatGPT.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "How to Use AI to Create Writing and Business Efficiencies"
-    excerpt: "Author and CEO Maddy Osman shows how to use AI to organize your thoughts, detect AI writing and generate job descriptions."
-    publishedDateTime: 2023-08-04T12:00:00Z
-    webUrl: "https://www.newsweek.com/ai-writing-business-efficiencies-1816500"
+  - title: "Datasaur raises $4M to help every company train its own ChatGPT"
+    excerpt: "Natural language processing startup Datasaur Inc. said today it has closed on a $4 million seed funding round that brings its total amount raised to date to $7.9 million."
+    publishedDateTime: 2023-08-03T13:59:00Z
+    webUrl: "https://siliconangle.com/2023/08/03/datasaur-raises-4m-help-every-company-train-chatgpt/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 47
-  - title: "Report to Congress on Advances in Artificial Intelligence"
-    excerpt: "The following is the Aug. 4, 2023, Congressional Research Service report, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress. From the report Artificial intelligence (AI)—a term generally thought of as computerized systems that work and react in ways commonly thought to require intelligence—can encompass a range of technologies,"
-    publishedDateTime: 2023-08-04T14:29:00Z
-    webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
-    type: article
-    provider:
-      name: USNI
-      domain: usni.org
-    quality: 43
-    images:
-      - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Most businesses with AI lead new use cases with it"
-    excerpt: "A massive 55% of organisations that have previously deployed AI always consider AI for every new use case that they are evaluating, according to a new Gartner survey. More than half of organisations (52%) report that risk factors are a critical consideration when evaluating new AI use cases."
-    publishedDateTime: 2023-07-31T09:45:00Z
-    webUrl: "https://it-online.co.za/2023/07/31/most-businesses-with-ai-lead-new-use-cases-with-it/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/07/ai-brain.jpg"
-        width: 1075
-        height: 550
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/63861b9b2225b579982f5188_playground-image-800x351.png"
+        width: 800
+        height: 351
         isCached: true
-  - title: "How Will Artificial Intelligence Change the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-news-business.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 37
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/b6a/b30/800ca33462d64e132280295777c0e1bdcd-GettyImages-205-moshed-07-31-13-48-45.1x.rsocial.w1200.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "3 ways AI can save small businesses time, stress"
-    excerpt: "Generative AI is creating an extraordinary amount of buzz, and it's catching the interest of people wondering how to take advantage of what it has to offer. If you're a"
-    publishedDateTime: 2023-08-03T15:29:00Z
-    webUrl: "https://www.chronicleonline.com/news/business/3-ways-ai-can-save-small-businesses-time-stress/article_1f782d41-a073-5a3f-a32f-eb7a77556256.html"
-    type: article
-    provider:
-      name: Citrus County Chronicle Online
-      domain: chronicleonline.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/d/e1/de164193-1cd4-5cfd-a4f7-adf60b113404/64cbc928c291d.image.jpg?crop=1260%2C662%2C0%2C89&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "4 Industries Where AI is Changing How We Do Business"
-    excerpt: "When it comes to AI disruption, these industries are ahead of the curve -- and previewing what's next elsewhere in the economy."
-    publishedDateTime: 2023-08-04T06:18:00Z
-    webUrl: "https://www.inc.com/joel-comm/4-industries-where-ai-is-changing-how-we-do-business.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1202232039_532969_bkzhsz.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
-    quality: 19
-  - title: "Column: Why AI extinction risk is a business reality"
-    excerpt: "The findings come just weeks after dozens of AI industry leaders, academics, and even some celebrities signed a statement warning of an \"extinction\" risk from AI."
-    publishedDateTime: 2023-08-04T09:00:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/08/04/why-ai-extinction-risk-is-a-business-reality.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "How Will Artificial Intelligence Change the the News Business?"
-    excerpt: "Semafor reported that the next significant meeting between news organizations and AI firms might occur in court: Barry Diller’s IAC, along with “a handful of key publishers,” including the Times, News Corp,"
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/08/how-ai-will-change-the-the-news-business-3-theories.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 17
 
 secured: "uUHlOqiLxoYmotZvvresUQBiHIiwl09gI92sS6fwvgHlNrvtUGkr3aVSTWFmR3zI5AGNtJSjhmlE4ED5DDuZ+D9Ob1lFl9Oa8wW+EBRWFu+QBnGtBN5UB+rtvfoN6V67/yPBxi1aCr0/2uzES9cCIr6O9o5YGbc26Ni71VbBcOwRRqajyyruCmm2Gak0O38DGtLSkxH9qKtHApYhe1D6yUofEDvm1imgw0tSnoY6nUsyaPc0r65TnVHpynb19rdg7yET6s1KMxxD0FjDKLAIkyj68HHF9ihYPT8TxaJhzbVL8Ju9KdbDaiEj0go4oSdWiYRoUHCIwRFDZHoTqDGjggIk05nej+7iGfPO+AI+WhkJh07C6donrWvhiszFOIyM/GS13patvS5nGrhVqhYBM2qOVNtZppuGgkoiXu6m/aMcla2J92f/F6Z2gc9fxZurFOFo8Mw9ACT710rFfhu8mMEAlJls0WvrpyNAnAU0ZqI7sffm0cp9kBjNU3QwDl+utNAlStGYGJXsZiD+nE/tZQ==;xZ8cuSSnK1EtDGOuI0lxfA=="
 ---

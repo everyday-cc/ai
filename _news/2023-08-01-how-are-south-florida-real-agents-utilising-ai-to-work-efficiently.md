@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1095926-how-are-south-florida-real-ag
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1095926-how-are-south-florida-real-agents-utilising-ai-to-work-efficiently"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 700
     height: 400
     isCached: true
+
+related:
+  - title: "How to Use AI to Create Writing and Business Efficiencies"
+    excerpt: "Author and CEO Maddy Osman shows how to use AI to organize your thoughts, detect AI writing and generate job descriptions."
+    publishedDateTime: 2023-08-04T12:00:00Z
+    webUrl: "https://www.newsweek.com/ai-writing-business-efficiencies-1816500"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 47
 
 secured: "GzNMvVu+0a+qRkRcVX4G3qSbzDuyCDgXt0t1dwFz9szzGhi41bmUHi7YAs1EMCFI32xS0zUV1Koah/07g9K1SOoENqdfzGQuqHChOuBdmI6/+pmr1ODMyx+PBLSVh1qFZWUh0yP5SAR3DSU43aB9BoWH5qPrC55WIlJoUCyVCdBda1KWdyvysgb1ucrDk14wDCVoFv6JtBplIIwLR8s7xRsGae0Oc9XUOkkx8cm6/q3oa8tLWjTqoLBWsvpoXrzHvAtyXcl9it6a2F13IseGj2q6xI6qY5xfxfM1zpK+5IpkPLbOWYESIYHSaScQJw1vPqnODBl1Bxd5Ltmi/Tz5nWlMGIvcaeAXlwQioDryEWZ6j8jbX/xrQ48N7Dolo88JYX5pedDMOP50dEEKgz15KVRR9XyAD9QfqZmZi9n6EzPIEYLaLmnSct+FCMqUpZQLdRwudiYk3Y7lccIs+EMrA9jA46qwu1gcP7RyM9buVM3grNiIKcmTr8qCdEchGPQ32tZs20Imrziq5g8AVqwd9Q==;EGtX/jvcGHyIfQEb1o9Ugw=="
 ---

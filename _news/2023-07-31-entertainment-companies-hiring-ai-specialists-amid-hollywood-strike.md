@@ -9,8 +9,8 @@ ampWebUrl: "https://www.my9nj.com/news/entertainment-companies-hiring-ai-special
 cdnAmpWebUrl: "https://www-my9nj-com.cdn.ampproject.org/c/s/www.my9nj.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WWOR
@@ -40,20 +40,6 @@ related:
       - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
         width: 542
         height: 384
-        isCached: true
-  - title: "Hollywood is searching for AI specialists, offering handsome salaries, despite the strikes"
-    excerpt: "As per The Hollywood Reporter, the advert for the job at Netflix states: \"Our business is driven by Machine Learning/Artificial Intelligence, which fuels innovation in content creation and acquisition, personalization, payment processing, and other revenue-centric initiatives\"."
-    publishedDateTime: 2023-07-31T08:22:00Z
-    webUrl: "https://www.gamereactor.eu/hollywood-is-searching-for-ai-specialists-offering-handsome-salaries-despite-the-strikes-1290393/"
-    type: article
-    provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 29
-    images:
-      - url: "https://www.gamereactor.eu/media/39/_4073943b.png"
-        width: 866
-        height: 488
         isCached: true
 
 secured: "qGJ7x/7CpeX/fe2UkY+pn0RA9z561WWF1yZ08NpejfjmoXVF0i2x0MS6z25kEmaFusD+2BHPd+Hp3LqKHPQQXt4vA6z3vGaBgdhIp54Iscqa2saPR+/5kyflEYcxNse7EY79yHqwEU406WZaTp1KVun1xZRiQzTrSJpSFOUOzogQUuqtsmN14b/g1c6zjTWnkNr78OBoWmifR3FWaIBJS1IGH0UgT2Jb64FpoGqzudRmweaQOcZMXGSIMYOYAskEKbAwp5wB6kJISwXfHEiwRoY2QHaFu4uGHdyGjm05g9/bE13LRzXGJ4HDYjh0lXp/JNO7974rF+5AJ56eNjMK/BCeTQucYpUlur0DswQbc2v6FVg4Yh5A3q4CFsGCIECUsD+ab71CdyMGp4OuPfTx4KbzZh88H07pE00Q643IoiWQ1A1gXd/UedTZfRkS9wnAztidm8/PXEWcvMqsGRR2j5mKM+yLfELWvK05stHdtqX101CWjeeO9fweySaQbVX8oGXGtqsyF2tlnSFdV+e/iQ==;U/VrJWKe19i3ocZ0Ap/WVQ=="

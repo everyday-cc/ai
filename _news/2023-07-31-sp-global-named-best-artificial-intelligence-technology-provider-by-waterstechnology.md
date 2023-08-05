@@ -23,21 +23,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "A Group Of Seven Technology Leaders Agree To AI Safeguards"
-    excerpt: "This article discusses Amazon, Google, Inflection, Meta, Microsoft & OpenAI's voluntary commitment to AI Safeguards & discusses the USA WhiteHouse AI legislation status."
-    publishedDateTime: 2023-07-31T08:18:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/"
+  - title: "VSBLTY'S AI TECHNOLOGY PROTECTS ONE OF AMERICA'S LARGEST SYNAGOGUES"
+    excerpt: "Intelligent Perimeter Security Shield Deployed Around the SynagoguePHILADELPHIA, Aug. 3, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies Corp."
+    publishedDateTime: 2023-08-03T11:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c76de0561a39fa1d6b2a39/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg"
+        width: 400
+        height: 283
         isCached: true
 
 secured: "MTVhBTMx7nohmTpX+wSfSzMSh7ZbbzpcGfJ/H6fyJj4nCvic2V+h6eg8tuDrF9dDJGX0iVfYQRnFzkdv9kRCiO0ELfiza9IjlD0JG78+fkQ4bm3CPaTyvHlnx64OjKvE0RJ8ut6Ev5Rx1M3Xs7dqFrVJnRm4qPio/pnmnTW/h+0gJTajFFEEvvSQzVjPDijL52zY4AAhU3Gbn1jBj61be2IjYVZvB+tUNit2OOSfhJgm6BuRPZUynP0zgBOO2Hl2SlCmEK6E9yCiGMPomm9H5mAm5+FZ3QHZfG1CsTD7r+z/T2DmJdWzqqTM0lqcNkbvIaecvs6PI2aKYmFifXc4toJTLRLRCi/801qO7G3qfdQsrAI5L4J2+VWbvluiuSRC9de9BXPGBXdYMTGJxuzSksNOUnmMXwleisB4DrzbVASS1iJyOfMkbVOXaaQpCRDFhb08fDOp3dDKG6K7dd8GzH2uJkFR+RjO6DHOeQ0/uuMVAvpPg360iTVvyCHd815lT3NmdAVVF2zQfTaGr4groQ==;Shqy6hw8DFUz4iUjLvIrGg=="

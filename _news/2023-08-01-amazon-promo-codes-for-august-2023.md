@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Robots 2023: Smarter, More Adaptable & More Robust"
+    excerpt: "This year’s crop of new packaging robotics equipment and software leans into AI technology, higher payloads, greater flexibility, more."
+    publishedDateTime: 2023-08-04T23:07:00Z
+    webUrl: "https://www.packworld.com/machinery/robotics/article/22869401/innovations-in-packaging-robotics-address-labor-crisis"
+    type: article
+    provider:
+      name: Packaging World
+      domain: packworld.com
+    quality: 39
+    images:
+      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/08/Packaging_Robotics_Intro.64cd845d097a9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 631
+        isCached: true
 
 secured: "qKY/GR3j3zVxXeoanVNVn4Yu/MuQaNawApNmZi+AnCnsi+VijHlQoqNdKPaYQyjpDxAfdDSw6sQcIOfm+2134VTI2KnzYayPs2i9xxSkuhFtgpOMyRn0lQCFmpT9V+QsvrWH+tUaj3rS5H838BtlF8oAICHFkwH/hzfdCmctw4ScXoRmUBdwDPNHNizX+Is3X0eSIZbNIj1lHaFazcSNT3L6BNimhJ61/ruHCo+LGGMyqTy5MKJav3PQ3r1Ctd/ReIOkX0t20ckfuYicw4PQ6s/V1AoHoj5mpngPuNcHgITmAlIXE9XY01lm4v35j1dWKJvfUdv/INXgr6ZBIFTtur43jJf0+Q1GkoHlIfaBRQc=;hBPnF05VkgW1EP+etHQ1nw=="
 ---

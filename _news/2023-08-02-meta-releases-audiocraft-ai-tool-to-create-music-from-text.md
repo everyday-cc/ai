@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report to Congress on Advances in Artificial Intelligence"
+    excerpt: "The following is the Aug. 4, 2023, Congressional Research Service report, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress. From the report Artificial intelligence (AI)—a term generally thought of as computerized systems that work and react in ways commonly thought to require intelligence—can encompass a range of technologies,"
+    publishedDateTime: 2023-08-04T14:29:00Z
+    webUrl: "https://news.usni.org/2023/08/04/report-to-congress-on-advances-in-artificial-intelligence"
+    type: article
+    provider:
+      name: USNI
+      domain: usni.org
+    quality: 43
+    images:
+      - url: "https://news.usni.org/wp-content/uploads/2020/08/Artificial-intelligence-155161_1280.png"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Meta launches suite of generative AI music tools rivaling Google’s MusicLM"
     excerpt: "According to the tech giant, as it continues to develop new controls for the Ai music tools it believes MusicGen can become a new type of instrument."
     publishedDateTime: 2023-08-04T09:20:00Z
