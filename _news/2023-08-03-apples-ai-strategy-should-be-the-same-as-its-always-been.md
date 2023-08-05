@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3704151/apples-ai-strategy-sho
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704151/apples-ai-strategy-should-be-the-same-as-its-always-been.amp.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "10 Keys To A Winning AI Strategy"
-    excerpt: "David Yunger is CEO of AI strategy and innovation firm Vaital. The world has forever changed. Seemingly overnight, for the first time in human history, computers can outperform humans—at the highest measures of human intellectual achievement. • In the 90th percentile of America’s best and brightest attorneys on the Bar Exam."
-    publishedDateTime: 2023-07-31T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/10-keys-to-a-winning-ai-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "CkHbyDDIoYkxzGni/tUEFX+8KmATDyZgrI1PN24fR23HzWqiFe9iZ8D/ZKS4Oat3AzGPdf2Ef1h7nZmaRZL/b1o30kSxixSfiogDjHF1AbeCeiREfku1Rbx4WovRFjrLUxfLmhVlMn/rV+ywm4V6Tvzm7oqMHVFtyWvylqwQeh/3UFTi9IKbfTGMIzCpCHI+YM/RsWjver88AMG/Q5nsb8XznOGz4dlPMP64BDlbgvb0MSfvJjEYCauI51T5YWjGpPz5MP7Sqi0HdEy+ntBHOSQEcqehtVY5hgP4pBt2UM7vldijqQtHaCATQKaAXX+DF++ziMRyvwgFu97JzxVvQKtcHHlYFzJTfMK5smVBfjA=;iujq1eMH6wFKERrV2cz6ow=="
 ---

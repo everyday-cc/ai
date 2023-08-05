@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "An Indigenous voice to parliament is ‘our last best chance’"
+    excerpt: "I acknowledge my Yunupingu brothers, sisters and the Gumatj clan, and the Yolngu of Arnhem Land, Prime Minister and Minister for Aboriginal Affairs and all distinguished people here today."
+    publishedDateTime: 2023-08-05T06:37:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/an-indigenous-voice-to-parliament-is-our-last-best-chance/news-story/f28faf87593fe08422cdab77069b4275"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/an-indigenous-voice-to-parliament-is-our-last-best-chance/news-story/f28faf87593fe08422cdab77069b4275?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/an-indigenous-voice-to-parliament-is-our-last-best-chance/news-story/f28faf87593fe08422cdab77069b4275?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "‘No aspect of our national life is beyond the Indigenous voice to parliament’"
     excerpt: "Welcome to the column where you provide the content. Indigenous artist and member of Anthony Albanese’s referendum advisory group Sally Scales says the AUKUS nuclear submarine project has the potential to impact Indigenous communities,"
     publishedDateTime: 2023-08-04T02:44:00Z
@@ -59,15 +70,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Innes Willox says most of his members are not advocating for the Indigenous voice to parliament"
-    excerpt: "The head of a leading employer group says most company leaders have not come to a position on the Indigenous voice to parliament, despite the Albanese government claiming corporate Australia is behind its Yes campaign."
-    publishedDateTime: 2023-08-02T09:54:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/innes-willox-says-most-of-his-members-are-not-advocating-for-the-indigenous-voice-to-parliament/news-story/86b1da9eeff369347bb69fee8d8bc374"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "DAwf94YPa5Ud1NbVV1abPufNRqTZ+vnI4AFJ9tMwpx4rBCcwZZpeCNLNBcH1TT6lL/OL3QuLP+IiYowDEKvFDyuyM3XeAGK0Fku2pFlaLb1qbJj5rvS9KT49vyxXBmVgDtC68aAMAfa+qCJJ5p/4i+CQA3IxRze23UtoGW2q3nkDGS95My1QJIgozSuGWUJhHm5Pf0CkpZQPNUutUUAN2RQEVoUdVQSOLGB2DOzh4msEpF3sK2lgqeWNjTdBHBTCtGf6r0nVC0hS1J+OkJpeRxj6SWo+zPyq9gINLljrUvFwCRp5UKwgwf+lQCkJ3RVC5YDiU8mx0NrughKlmd8lp4QsmtDTSqtGyXguW4c9Uk0BqLpeA7hl4xyHUPiaAE8M+PEaXOfbt35Gig9UwxdL4PnRPm5QysBLudejnjbgcNHCNEE2xpJcxr2j53meR1/9pr+sgl5D2En8poKpq7Y/IBX/ZCaCP+nWoAmZ5l5/jo2wEiTaQfAgy9749elm7+G/RQv/RNjvZdWYC/6JLtwLxg==;AJCeiiVYBZ8qx2gmrlf8RQ=="
 ---

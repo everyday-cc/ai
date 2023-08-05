@@ -221,20 +221,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Wanted sex offender caught on facial recognition camera at King Charles coronation"
-    excerpt: "A wanted sex offender was sent back to jail after being caught by a facial recognition camera at the coronation of King Charles. The 33-old-man, who has not been named, was picked up by one of the cameras operating in a van near Buckingham Palace on 6 May."
-    publishedDateTime: 2023-07-31T13:36:00Z
-    webUrl: "https://www.aol.com/wanted-sex-offender-caught-facial-103620880.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 33
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/02dd963ba26bae47a3c8f315e9289a81"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple could use motion tracking to boost Siri's voice recognition"
     excerpt: "Apple has filed a patent application, called Keyword Detection Using Motion Sensing, that could enhance Siri's voice recognition capabilities"
     publishedDateTime: 2023-08-04T10:36:00Z

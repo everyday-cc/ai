@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/now-enjoy-immersive-co
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,34 +27,91 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog"
-    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
-    publishedDateTime: 2023-08-01T01:52:00Z
-    webUrl: "https://www.inferse.com/658612/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
+  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
+    publishedDateTime: 2023-08-03T14:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-11039.png"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
+    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
+    publishedDateTime: 2023-07-31T15:10:00Z
+    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-to-push-on-public-sector-generative-ai/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 53
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
         width: 1920
-        height: 960
+        height: 1024
         isCached: true
-  - title: "Spatial Audio brings an immersive meeting experience to Microsoft Teams, but it won't work on Bluetooth devices"
-    excerpt: "Native Bluetooth devices do not support stereo during a call, therefore spatial audio is available. New Bluetooth standard LE Audio capable devices may support stereo in calls. For these devices, spatial audio will be supported."
-    publishedDateTime: 2023-08-02T15:35:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/spatial-audio-brings-an-immersive-meeting-experience-to-microsoft-teams-but-it-wont-work-on-bluetooth-devices"
+  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
+    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
+    publishedDateTime: 2023-07-31T21:25:00Z
+    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-on-public-sector-generative-ai/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 19
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 53
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EixGUD9Zoz5ub48rHda2Bo-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
+        width: 1920
+        height: 1024
         isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T08:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
+    images:
+      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
+  - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
+    excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
+    publishedDateTime: 2023-08-01T09:54:00Z
+    webUrl: "https://www.govconwire.com/2023/08/leidos-microsoft-partner-to-advance-cloud-ai-tech-development-steve-hull-quoted/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 28
+  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
+    publishedDateTime: 2023-08-03T19:12:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 19
 
 secured: "ZQ2wSmgmMs2NXT/ciSLkmgwo7yPba9K7wRBnF2td4IQ7aaQqq+mH9deLjvJFxkq88oifyGCcwHY1sDCjj6fQ+bkIH8rudD8LBJPHdpalvPIZB1J1pPoWeuo7bwoF7WrxL40GgOPL7hklsutSD8ix3rMgUXmvmqENuIWnE8l84SVTtpTGThNzTjjdSAdNdXuinV9H535iaojNGaC2FTHaMTxiDvrH4kSaS9fOUBa7bidGrKpWZ0DkRifIdC5iPaEOCpLdBFWHSapcEUw/EQOWqVWLjpCse2VJbptRwznMnb/+Ec8seENk1zTGUwlOJvU+rkELTc94Jh0yGZqm+R6yWeFGpNIDtmyOp8kSSwHCZHjUMCjMjJ5rre1FQqwp6BNKSkS69/JI49gMF8YI8i5Bz3WI4TC2bdZr6XZg2EsQkq7ejNYjVVzR4F11RmMwLwa+9+Xpeafuzf6mhHIg7nvNsIYV2d44kPW3yBYqE+uP1yvlIdylNuMu+iNe0i8/awoe26/TjwMwDwvUpbIKP2rGsw==;5Ih+umKd9Qc+01eOn9uEfQ=="
 ---

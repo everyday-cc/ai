@@ -40,6 +40,22 @@ related:
         width: 936
         height: 420
         isCached: true
+  - title: "Microsoft Doubles Down On Generative AI, Announcing Copilot Pricing And New Generative AI Skills"
+    excerpt: "Microsoft announced new pricing and features for its Copilot along with Bing search enterprise. A look at Microsoft's AI strategy and its competitive outlook."
+    publishedDateTime: 2023-08-01T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91b9ff21e65c88869db65/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Google Assistant is getting a big reboot around generative AI"
     excerpt: "Axios has more details about Google's plan to reboot the Google Assistant into something based around generative AI. As was previously reported, the Google Assistant team is getting reorganized around Google's new LLM (large language model) ChatGPT-clone,"
     publishedDateTime: 2023-08-01T19:44:00Z
@@ -55,22 +71,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Why AI’s Creative Intelligence Will Change Advertising In 2024"
-    excerpt: "AI is perfectly placed to change many aspects of the digital advertising industry, and this is especially the case in the realm of ad creativity."
-    publishedDateTime: 2023-07-31T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/31/why-ais-creative-intelligence-will-change-advertising-in-2024/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/608881c0e49450ab722af606/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
     excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
@@ -109,6 +109,20 @@ related:
         width: 2640
         height: 1486
         isCached: true
+  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
+    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
+    publishedDateTime: 2023-08-05T03:07:00Z
+    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Working with Generative AI Just Got Faster!"
     excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
     publishedDateTime: 2023-08-02T11:42:00Z
@@ -122,20 +136,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "6 Ways Generative AI Is Changing Content Management"
-    excerpt: "A look at the potentially transformative power of generative AI in revolutionizing content management digital experience software."
-    publishedDateTime: 2023-07-31T13:26:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/6-ways-generative-ai-is-changing-content-management/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/c1054bf843b240a484f408f6f568952d.ashx"
-        width: 640
-        height: 480
         isCached: true
   - title: "Learn how to use AI in your projects with Generative AI Studio"
     excerpt: "Watch the introductory video below to learn more about what you can expect from Google’s Generative AI Studio and see the language tool in action. Let’s start with the basics: what is Generative AI? It is a type of artificial intelligence that can ..."
@@ -164,20 +164,6 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Smart-Manufacturing-And-Hit-470991649.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Unleashing the Power of Generative AI in Fintech: A Groundbreaking Interview with Sam Edge, Global Head of Fintech for Startups at AWS"
-    excerpt: "Sam, please introduce yourself, and tell a bit about your professional background. I’m the Global Head of Fintech for Startups at Amazon Web Services (AWS), where I lead a team of former founders and investors to support the world’s best and brightest fintech startups and venture capital funds building in the cloud."
-    publishedDateTime: 2023-07-31T14:19:00Z
-    webUrl: "https://financialit.net/content/unleashing-power-generative-ai-fintech-groundbreaking-interview-sam-edge-global-head-fintech"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/sam_edge_31.png"
-        width: 2292
-        height: 2293
         isCached: true
   - title: "Icertis Brings Generative AI to Enterprise Contracting with Delivery of First Contract Intelligence Copilots"
     excerpt: "PRNewswire Bellevue Washington [US] August 1 Icertishas deliveredIcertis Contract Intelligence ICI Copilots the first generative AI applications for enterprise contract management Built on IcertisExpl"

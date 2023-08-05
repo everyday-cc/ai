@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 601
         height: 333
         isCached: true
+  - title: "Blackbaud Invests in Generative AI Startup for Social Impact"
+    excerpt: "CHARLESTON, S.C., July 31, 2023 /PRNewswire/ -- Blackbaud (NASDAQ: BLKB), the leading provider of software for powering social impact, today announced a strategic investment in Momentum, a leading AI-focused Blackbaud partner, graduate of Blackbaud's Social Good Startup tech accelerator program, and winner of Blackbaud's 2022 startup showcase."
+    publishedDateTime: 2023-07-31T15:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "PoS7HBccaDQoJFAOkiuUC3h8fn67BngWuL8WrMA10nFSpQli8EITY2jSx8hw5xnbF4Kzr1tLr9BpoEb1bGsYy/iJkNdP7IWWwbY2/Jih81V/o8uXCb9eEHC3+5p/7z3cKe9DgtP9VOPphZLpsiiVreTowQrIGyRN3eFpsc+J1BKec8YrsxS2iYtx2IINCYcp+mKPbWHz4Kf3UVUThnseNti+tD9GAFl+Pi6CBAo6Kt+rvIdtIuimuZK//EqJrwgQ30BUq7ZyYpzk5wfFueHTn9Moy3fhd6P41D2sWdnwfeJTgVyXIyteK25lBBpPr/xrPEShCNRZ8DT3BFSSiDPXxcgmZHBDZKh7j30MKskiaRo=;IArtSV0fgyhGlWl6lUKQFw=="
 ---

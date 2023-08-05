@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How much healthcare jobs will be automated by AI"
-    excerpt: "AI could automate up to 30% of hours worked at US jobs by 2030, but healthcare professions are expected to remain stable because of demand, McKinsey & Co. reported."
-    publishedDateTime: 2023-07-31T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-much-healthcare-jobs-will-be-automated-by-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Why Using a Polite Tone with AI Matters"
     excerpt: "It should, says Microsoft’s Kurtis Beavers, a director on the design team for Microsoft Copilot. It’s not that your AI chatbot feels appreciative when you say please and thank you. But using basic etiquette when interacting with AI, Beavers tells WorkLab, helps generate respectful, collaborative outputs."
     publishedDateTime: 2023-08-02T22:37:00Z

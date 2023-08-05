@@ -82,15 +82,6 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 23
-  - title: "Research Solutions Acquires ResoluteAI to Transform AI-Powered Innovation Workflows"
-    excerpt: "Research Solutions, Inc. (NASDAQ: RSSS), a trusted partner providing cloud-based workflow solutions to accelerate research for R&D-driven organizations, today announced its acquisition of ResoluteAI,"
-    publishedDateTime: 2023-07-31T14:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/31/9856374.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
   - title: "Sleep Wellness Revolution: Exploring the Success of Sleep Aid Devices Market Shows Steady Expansion at 6.9% CAGR by 2032 | FMI Report"
     excerpt: "The Sleep Aid Devices Market has witnessed substantial growth in recent years as the prevalence of sleep disorders and insomnia continues to rise. Sleep deprivation and poor sleep quality have become significant health concerns,"
     publishedDateTime: 2023-08-02T05:45:00Z

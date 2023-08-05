@@ -18,47 +18,66 @@ topics:
   - AI
 
 related:
-  - title: "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country"
-    excerpt: "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups."
-    publishedDateTime: 2023-07-31T13:59:00Z
-    webUrl: "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/"
-    ampWebUrl: "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/"
+  - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
+    excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa."
+    publishedDateTime: 2023-07-31T15:44:00Z
+    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4"
+    ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 83
+      name: Zawya
+      domain: zawya.com
+    quality: 66
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.africa-newsroom.com/files/large/4c4926520fbb131"
+        width: 929
+        height: 419
         isCached: true
-  - title: "AWS and Accel join forces to launch accelerator program for Generative AI start-ups"
-    excerpt: "Start-ups will gain peer support from AI and ML founders and an opportunity to scale generative AI apps on Amazon SageMaker JumpStart. Generative AI start-ups that have an MVP ready and those ..."
-    publishedDateTime: 2023-07-31T13:19:00Z
-    webUrl: "https://www.businesstoday.in/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
-    ampWebUrl: "https://www.businesstoday.in/amp/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/entrepreneurship/start-up/story/aws-and-accel-join-forces-to-launch-accelerator-program-for-generative-ai-start-ups-392088-2023-07-31"
+  - title: "Flapmax Partners Intel: Driving AI Innovation in Africa"
+    excerpt: "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel."
+    publishedDateTime: 2023-08-01T11:52:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
+    ampWebUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 68
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
     images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202307/ezgif-sixteen_nine_647.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/resizedgg.jpg"
+        width: 800
+        height: 530
         isCached: true
-  - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
-    excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
-    publishedDateTime: 2023-07-31T15:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856504.htm"
+  - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
+    excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the"
+    publishedDateTime: 2023-08-02T11:26:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/291106/Flapmax-Partners-with-Intel-to-Accelerate-Artificial-Intelligence-(AI)-Innovation-in-Africa"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 42
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-02-10391201.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Flapmax, Intel Partner to Advance Africa’s AI Innovation"
+    excerpt: "Kindly share this postFlapmax and Intel, two US technology companies, are collaborating to promote AI innovation to drive economic development in Africa. Flapmax, an AI business, announced the alliance details this week."
+    publishedDateTime: 2023-08-02T23:16:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/flapmax-intel-partner-to-advance-africas-ai-innovation/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/02/Robotics-and-AI-image.jpg?resize=601%2C333&#038;ssl=1"
+        width: 601
+        height: 333
+        isCached: true
 
 secured: "RYSK6AB8XF8FrbvT2HAWCcEWuotikRHi+Zgkpx36VX0KyZePcOjH0XteAFR3dRPopybMB16ZaH0Ryd+shPTK6R2MRE13/vA1SyOE+EwK35pcLYMGQEelQAmXlpTaUCcOUz6JKGeM3TyJZeLgBorZsNHpMnKofXWNPHEy/72Asn3EXfXygWoBl9adDkIxY/nrR5yp82ciGa22Ghb7DkIT0GwVQlS2j39kLazilbdiv+PweXnO292uw76Av0UTl9QFGeDHqqFTX9+0/gd7xOI025dD5jj7Fckd2mAxDpWDf6fhbHU+8v4iNdpOBrHT6tpNlINDfwOtF6Q2MJ4bAsNBGl0rNmFxNxQiW+vzmYglG+8=;mj7uMidNYDSWeG3VqFJTLw=="
 ---

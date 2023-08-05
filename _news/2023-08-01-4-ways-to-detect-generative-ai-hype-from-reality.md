@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."
-    publishedDateTime: 2023-07-31T15:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856445.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "65UourC6uD87bWNkfQV83NiqKcp5CzKNW7sfMZaoNXWYrXKqVwOrMZ8jsxAM6WAX2v++aDDPUc/91kR9+ZIgUXQuJGkX8IlgiywiThKCFbnnM8daUCzVLc0/vMqJ7ubr3TLkG8XsZkvRRvmgWpz97gKyIWUfNhhy6BKaQpXAEGGztGNeDhFrMF52hpjLr66s5lg58hI44G+cm7CSS+9nh6UgqDogICFZ/LMZfa3/ecRmfDFRJdWuLETtZ5JTE1CHN6qeIKToSxNtfDgI222f6k9uLaettNE81C8kdHwmKncWBws0knWVyb6qILwGm1UavLOH3RuA+cUBHH4LNbfNkhOKpe4Hd+Zsbw5ZS7PsZjLiGi/lZE/WQJAuAS9Vtrm90MZp43p6jNymhFg1KO29M5NIHIPaaq0bdlbsaCD3DMg/b6tQitSLHW757JX4qaRojzU96FrcrRNKsRAJOXIdnecBFziZKrU93AUCOZ1EMOgIsXNCgM5Ciq3nKZwoDl1eoNwV38Ov7s4665FIQes59Q==;zM5udbWKYMmi38AO6AkLCw=="
 ---

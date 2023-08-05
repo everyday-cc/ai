@@ -54,6 +54,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google's new AI model allows robots to finish tasks on their own"
+    excerpt: "Google's Deepmind AI division calls it a vision-language-action (VLA) model that learns by scouring the web and parsing through heaps of robotic data."
+    publishedDateTime: 2023-08-01T12:20:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 76
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
+        width: 710
+        height: 435
+        isCached: true
   - title: "Google & DeepMind Move Steps Toward Generalist Biomedical AI System"
     excerpt: "Despite significant progress in Artificial Intelligent (AI) system, most of the existing state-of-the-art (SOTA) systems are unimodal single task systems, which poses a challenge in developing medical AI systems as medical tasks are inherently multimodal with rich modalities spanning text,"
     publishedDateTime: 2023-08-05T04:28:00Z

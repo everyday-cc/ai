@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/658612/nvidia-collaborates-with-microsoft-
 webUrl: "https://www.inferse.com/658612/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1920
     height: 960
     isCached: true
-
-related:
-  - title: "Now enjoy immersive conference calls with Microsoft's spatial audio feature for Teams desktop app"
-    excerpt: "Microsoft has integrated spatial audio into its Teams desktop application to enhance virtual communication. The feature enables participants' voices to be perceived from distinct virtual locations on the screen,"
-    publishedDateTime: 2023-08-02T04:55:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/articleshow/102337174.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25306,msid-102337735/microsoft-teams-adds-spatial-audio-feature-image-source-google.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Spatial Audio brings an immersive meeting experience to Microsoft Teams, but it won't work on Bluetooth devices"
-    excerpt: "Native Bluetooth devices do not support stereo during a call, therefore spatial audio is available. New Bluetooth standard LE Audio capable devices may support stereo in calls. For these devices, spatial audio will be supported."
-    publishedDateTime: 2023-08-02T15:35:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/spatial-audio-brings-an-immersive-meeting-experience-to-microsoft-teams-but-it-wont-work-on-bluetooth-devices"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 19
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EixGUD9Zoz5ub48rHda2Bo-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "aCmfnaNFppydB9jHsO2Px/NNe7/zQuoLG/1cnYuij2diMhrS9h5dlrdALo4US4LidjAT5IMv0OdHg52mrtllHu2vmgkr6RhTadXr/dxrIf8yefpPyZE7Eu1jHEwwngHKWojFiZFks8XyWlCufToJFbesvlPV1pg1uauAVz5ZHBT4DNW7a0bZ/A55bCKutQB7RbQLMS8t02yVmjtE4OuVt+EuwWD0lhKLFu9343TvAb6+SvX6K6J2CRXWTm08TPElrzSLdKvHLg4kGFYk112Jxb5Xtq+UNbdxAJ5Keh8PpXWRE0G/YuOitmkTsH+4Myc3OmGmwtg6LTHvhsPy4ku2MjnQ4p9ZBH04mF8pcW8BbMIxThlsIgD2KsS65i1bwb4hBS7BuGmDwCNKuXQXnXVjheENUIS48akRXngoRZonigDLNdF73o5p7VJ5MXTGlV7CmXYbrmYJujqCp+VwreidmC7X0+07w0jhX4v2XWVYsBOLSl6MPkY9B6E497qoZKv4eQ64hY1+Nv0/CWz2wHrIog==;eE8Qa5WpkcS+IUg6x5ingA=="
 ---

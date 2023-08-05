@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-app
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/01dF4zPEl3tLC1J9C3IOICJ/hero-image.fill.size_1200x675.v1690273666.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How much healthcare jobs will be automated by AI"
-    excerpt: "AI could automate up to 30% of hours worked at US jobs by 2030, but healthcare professions are expected to remain stable because of demand, McKinsey & Co. reported."
-    publishedDateTime: 2023-07-31T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-much-healthcare-jobs-will-be-automated-by-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "AI apps drive computing power, chip demand"
     excerpt: "The terms artificial intelligence (AI), machine learning and natural language processing were rapidly thrust into the limelight following the launch of ChatGPT late last year as the platform, and to a lesser degree similar AI programmes, took the world by storm, increasing productivity and enhancing creativity across various industries."

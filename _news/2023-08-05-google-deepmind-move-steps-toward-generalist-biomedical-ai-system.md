@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google's new AI model allows robots to finish tasks on their own"
+    excerpt: "Google's Deepmind AI division calls it a vision-language-action (VLA) model that learns by scouring the web and parsing through heaps of robotic data."
+    publishedDateTime: 2023-08-01T12:20:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 76
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
+        width: 710
+        height: 435
+        isCached: true
   - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
     excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
     publishedDateTime: 2023-08-02T14:00:00Z
@@ -100,6 +116,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "mJPAJyteqpBS5c2Hz2pu6Bz3M2DVYYCAO0f8o3q87Yq2ROgGaKJHNiKThMNfNB1YAiEyaI2w83kJYZeX+zPXq86uuxjkV+GYZrHV51KCm8CDxlfgE9HHEEdMnsoMiwVuVGKQ9KZsiA7KCoJv53+4BFKdDfIjI7vM9IcfBcgawi84Z2sdwIafnGUQ3YOND4+EqXccoiBhTRQ3YE2FLGClhG2ykhCivkp1j14NBFpszX1FPz68Wpat9cfIRfeXLybWetYkANEynyOIk6zUZASBMqmzMiK1xuEPpyzNzVeh5BCLOR58znFpEEeAsFj9cLKWgnXxBkneosYMM+bKlXiObFACFMEAEjL7ZTb4OtLWhzU=;vqygCN9ZyNThgTp/8Z5ucg=="
+secured: "X7J4O7M4jeTaG8ZCP+qN/iQ2Dm2rswHRbpXAZiykv2n5YYmpPQrgIrbfGPvzjbRxIAou9htTk+ozH49j/1OSjzSqyX+AcXP0jzk+mJng3ezQ56WVYaM0ds4JfVi0Ga804r+ry1BtYRLchuQ0OOcyZvrKwmlQfuU75n5AJbb0edtqGv2+7Xjrn65Q1yZcQYwJxa4YqXEobXsC8abIMaE41SMwU+6NrsqPeH57K96Z8CzoERBVAHDjhlZtBkYTO5RVATA4XwXkGsTCtgSxpsi+Igfq5o9qCPUDSuV/qK9NbTZiIxvhDa7QlLwo3dnHv2Huozv8Y1E1AY5GI30diN0E7rW1/amSDHiTxuJr5NsIbu14GiyivHLyQgmNes0kPELBrJpSVxiGWPfpddqYLNjxxCeTcPHc0jGIkBUrhxMSFliACHd0vYuvLfBIYlBGpc141paVWz+8XBtzBoHw8Z69O/KvpPIzQVhgVVHNyh0Ne/NGzwsVoQqGqFtjowdcbedhXBJ44rUo8oFfzCuxp+vMpQ==;ZyxmAv7wySoT1KuKvVK9yA=="
 ---
 

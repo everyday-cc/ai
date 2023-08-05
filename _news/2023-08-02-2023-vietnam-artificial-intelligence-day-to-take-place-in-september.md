@@ -7,7 +7,7 @@ originalUrl: "https://www.azernews.az/region/213059.html"
 webUrl: "https://www.azernews.az/region/213059.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vietnam Artificial Intelligence Day 2023 to take place in September"
-    excerpt: "The Vietnam Artificial Intelligence Day 2023 (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on September 21-22."
-    publishedDateTime: 2023-07-31T14:01:00Z
-    webUrl: "https://en.qdnd.vn/economy/news/vietnam-artificial-intelligence-day-2023-to-take-place-in-september-554902"
-    type: article
-    provider:
-      name: en.qdnd
-      domain: qdnd.vn
-    quality: 39
-    images:
-      - url: "https://file3.qdnd.vn/data/images/3/2023/07/31/maihuong_ta/310723mut81.jpg"
-        width: 600
-        height: 313
-        isCached: true
   - title: "AI in Vietnam: Opportunities and Challenges"
     excerpt: "AI in Vietnam is very popular. However, as foreign firms seek to capitalize on this trend, they should be mindful of certain challenges."
     publishedDateTime: 2023-08-02T10:51:00Z

@@ -28,37 +28,93 @@ images:
     isCached: true
 
 related:
-  - title: "Google's RT-2 AI Model: A Step Closer To Robots That Can Learn Like Humans"
-    excerpt: "The advent of models such as the RT-2 is a testament to how advancements in AI are swiftly influencing robotics."
-    publishedDateTime: 2023-07-31T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/"
+  - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
+    excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
+    publishedDateTime: 2023-07-31T21:13:00Z
+    webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7609beb8e510cf216a828/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 666
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "This Google AI Model can translate commands into real-life action"
-    excerpt: "Google created an AI model that can perform real-life action. Know how it works. , Technology & Science News, Times Now"
-    publishedDateTime: 2023-07-31T14:55:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/this-google-ai-model-can-translate-commands-into-real-life-action-article-102284914/amp"
+  - title: "New DeepMind AI model can control robotic actions it was never trained to do"
+    excerpt: "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines."
+    publishedDateTime: 2023-08-01T16:58:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 76
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
     images:
-      - url: "https://static.tnn.in/thumb/msid-102284914,updatedat-1690815394245,width-1280,height-720,resizemode-75/102284914.jpg"
-        width: 1278
-        height: 720
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google & DeepMind Move Steps Toward Generalist Biomedical AI System"
+    excerpt: "Despite significant progress in Artificial Intelligent (AI) system, most of the existing state-of-the-art (SOTA) systems are unimodal single task systems, which poses a challenge in developing medical AI systems as medical tasks are inherently multimodal with rich modalities spanning text,"
+    publishedDateTime: 2023-08-05T04:28:00Z
+    webUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/"
+    ampWebUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
+  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
+    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
+    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
+    excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
+    publishedDateTime: 2023-08-04T08:07:00Z
+    webUrl: "https://www.techopedia.com/google-deepminds-achievements-and-breakthroughs-in-ai-research"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 56
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/brain_02.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
+    excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."
+    publishedDateTime: 2023-07-31T16:21:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-latest-rt-2-algorithm-makes-robots-perform-novel-tasks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "eRv0Shmfa6uUaR0fpKXXzaqO/J81CzPqm3WWeywcmOYxXcGDTFY0tu3iO7PTiYcwRmHbwqppnddFF6NkI3oJrMKXUnRQ4GsJArXbcu1Ligxpz6TweATkSl+w8jz2MKqiqf1ptHvUbk4U0L/8HKb5UPFdBmusHXUAfF0brjDAq4oqRQBlLymXDPVEhS2pV8zDKpy2wctJ6zhFP3zkqlwj01O2w6LapUwd4OqYlOQ96O7FC05GcL0kJSX9MD7e0oEWbJHM1o9TIrNzXBw7u95xr2pI4OYAX4qekdmVGmpoDYwBa7GKG9k4ZbIn02iNhdwHVd+rpRV7Nklm4CJE8PvoF9kNn3akFaBrPZKYXHaCNo9Yu46iFQcqnSFv9A6qfZWCQLMj/5WSn1lDNQmaeqTkBnLYbuZb2xIkRAZtdWxD8BYCyK2bTPkPHrNje596lnkEFcHFJOFoSBlnX89XTmU0JzIBzmpvFFx49SbpoToBxlbgZicuMN2w2amwF6S7ARIUOG+eyellNVgi9lmWfFqVrg==;hLh20ZmRZWw+ZJasT4o8tQ=="

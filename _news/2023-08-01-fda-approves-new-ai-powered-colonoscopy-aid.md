@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Artificial intelligence solution that can detect lesions during colonoscopies cleared by FDA"
-    excerpt: "The US Food and Drug Administration (FDA) has today (July 31) given clearance via its 510(k) process to one of the artificial intelligence solutions cleared for colonoscopy."
-    publishedDateTime: 2023-07-31T13:56:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Headlines/Clinical-Development/FDA-clears-colonoscopy-artificial-intelligence-solution2"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 26
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/fda-clears-colonoscopy-artificial-intelligence-solution2/16618512-1-eng-GB/FDA-clears-colonoscopy-artificial-intelligence-solution.jpg"
-        width: 1500
-        height: 1125
-        isCached: true
-
 secured: "MwE3F89Uvdk3OviOkyvCKwv+khcyogZjosOmeceAh2NdNAgICosqSzNspZXnPRiYCRKVmsgUIdLLqKRfm7d0GfZxkOGEcQWtFzX0SN4irsSvmogprRcmZIFN9ioI1sgMJDUBDHw6VtcdvrhHdVune/X1c4+UorXY+jkdZEMfi4/5/1EG4+eRzUBKmx9BX8xPfx5AmcBHZDCSWj0W1reLbjf1+5GOydQ7phUmt8dk+CymO1TSpz89PbozWbvmarpXqzdYPNzeslanfolMyuYDlgsPBe46eWApxBXjZYLUyECtYM/lGyqCqv/clNbiDhhaRbTf8b6mQMNURpiSPmgNXgR7odzu8Vc+kRESRfj62l0=;esIzr0MoANNJ3uBjiR3P9A=="
 ---
 

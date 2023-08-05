@@ -44,22 +44,6 @@ related:
         width: 898
         height: 599
         isCached: true
-  - title: "AWS, Accel announce programme to support generative AI startups"
-    excerpt: "ML Elevate will provide generative AI startups access to AI models and tools, business and technical mentorship, curated resources, the AWS Activate programme, and up to $200,000 in AWS Credits."
-    publishedDateTime: 2023-07-31T14:30:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/articleshow/102284478.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-accel-announce-programme-to-support-generative-ai-startups/amp_articleshow/102284478.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15856,msid-102284662/aws-accel.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Abu Dhabi’s MBZUAI launches new robotics and computer science departments"
     excerpt: "It has also launched master’s and PhD programmes in the two highly sought-after new-age science courses Abu Dhabi's MBZUAI launches new robotics and computer science departments Abu Dhabi, MBZUAI, Mohamed bin Zayed University of Artificial Intelligence,"
     publishedDateTime: 2023-08-03T07:42:00Z

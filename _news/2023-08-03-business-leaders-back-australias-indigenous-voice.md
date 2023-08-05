@@ -40,22 +40,6 @@ related:
         height: 954
         isCached: true
   - title: "News Corp using AI to produce 3,000 Australian local news stories a week"
-    excerpt: "The Data Local team uses AI technology to generate stories on weather, fuel prices and traffic reports for hyper-local mastheads"
-    publishedDateTime: 2023-07-31T14:05:00Z
-    webUrl: "https://www.theguardian.com/media/2023/aug/01/news-corp-ai-chat-gpt-stories"
-    ampWebUrl: "https://amp.theguardian.com/media/2023/aug/01/news-corp-ai-chat-gpt-stories"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/aug/01/news-corp-ai-chat-gpt-stories"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/a0e5854ed24c8f131239f83e03b611f6b888eb32/0_0_2112_1052/master/2112.jpg?width=620&quality=85&auto=format&fit=max&s=0d6b1b3ca45a934fd0015f86b92581e8"
-        width: 620
-        height: 309
-        isCached: true
-  - title: "News Corp using AI to produce 3,000 Australian local news stories a week"
     excerpt: "The Data Local team uses AI technology to generate stories on weather, fuel prices and traffic reports for hyperlocal mastheads"
     publishedDateTime: 2023-07-31T20:40:00Z
     webUrl: "https://www.theguardian.com/media/2023/aug/01/news-corp-ai-chat-gpt-stories?ref=astrofeather.com"

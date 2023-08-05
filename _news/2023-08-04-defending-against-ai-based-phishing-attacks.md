@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
 type: article
 quality: 89
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4e8e2311ff534c2f500d13b5866595f42de1b76b/2023/07/31/cba57098-e30c-49bf-afdc-a1e3fcce6426/gettyimages-1252972863.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Artificial intelligence is leveling up the fight against infectious diseases"
-    excerpt: "Artificial intelligence is a new addition to the infectious disease researcher's toolbox. Yet in merely half a decade, AI has accelerated progress on some of the most urgent issues in medical science and public health."
-    publishedDateTime: 2023-07-31T15:02:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 69
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-63.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Let’s stop worrying about AI and start paying attention more"
     excerpt: "Paying attention requires effort. Looking away is easier, but then we become isolated and lonely. That’s where we are now, through no fault of"

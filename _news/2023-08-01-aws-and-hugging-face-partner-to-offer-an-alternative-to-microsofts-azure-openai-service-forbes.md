@@ -7,8 +7,8 @@ originalUrl: "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-off
 webUrl: "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 153
+published: true
 
 provider:
   name: Inferse
@@ -26,70 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AIS Attains AI and Machine Learning on Microsoft Azure and DevOps"
-    excerpt: "AIS announces its attainment of AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations."
-    publishedDateTime: 2023-07-31T14:08:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 106
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/07/AIS-Attains-AI-and-Machine-Learning-on-Microsoft-Azure-and-DevOps.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "Microsoft shuts down Windows’ Cortana voice assistant as it chases AI ambitions"
-    excerpt: "Cortana began life on Microsoft’s ill-fated Windows Phone platform in the early 2010s, where it served the same general function as Apple’s Siri and Google Now: a hands-free way to interact with your phone that also attempted to have a \"cute\" \"personality.\""
-    publishedDateTime: 2023-08-04T17:19:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 100
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-800x506.jpg"
-        width: 800
-        height: 506
-        isCached: true
-  - title: "Microsoft Doubles Down On Generative AI, Announcing Copilot Pricing And New Generative AI Skills"
-    excerpt: "Microsoft announced new pricing and features for its Copilot along with Bing search enterprise. A look at Microsoft's AI strategy and its competitive outlook."
-    publishedDateTime: 2023-08-01T15:55:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91b9ff21e65c88869db65/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft, Duke Health partner on AI efforts, create innovation lab"
-    excerpt: "Duke Health is embarking on a five-year, innovative partnership with Microsoft aimed at responsibly and ethically harnessing the potential of generative artificial intelligence (AI) and cloud technology to redefine the health care landscape."
-    publishedDateTime: 2023-08-03T10:28:00Z
-    webUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/"
-    ampWebUrl: "https://wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/08/03/microsoft-duke-health-partner-on-ai-efforts-create-innovation-lab/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 74
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/03/arseny-togulev-MECKPoKJYjM-unsplash-e1679482039960.jpg"
-        width: 7753
-        height: 4353
-        isCached: true
   - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
     excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
     publishedDateTime: 2023-08-01T21:16:00Z
@@ -120,22 +56,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
-    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
-    publishedDateTime: 2023-08-03T14:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Leidos and Microsoft partner for public sector AI transformation"
     excerpt: "Leidos and Microsoft have formed a strategic collaboration to expedite the implementation of artificial intelligence (AI) solutions for the public sector. The"
     publishedDateTime: 2023-07-31T16:06:00Z
@@ -149,20 +69,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Ledios-Partnership-Hero-image.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Duke Health, Microsoft to Collaborate on AI Innovation"
-    excerpt: "The two organizations, members of the Coalition for Health AI, have forged a five-year partnership built around the new Duke Health AI Innovation Lab and Center of Excellence."
-    publishedDateTime: 2023-08-01T20:34:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/duke-health-microsoft-collaborate-ai-innovation"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_2289658777.jpg"
-        width: 2732
-        height: 1200
         isCached: true
   - title: "New features released for Microsoft Azure Operator Nexus"
     excerpt: "New features have been released for Azure Operator Nexus, Microsoft’s hybrid cloud platform for telecommunications firms, as it also becomes generally available following a period of public preview. “Earlier this year at MWC Barcelona,"
@@ -178,76 +84,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Leidos Announces AI Collaboration With Microsoft"
-    excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
-    publishedDateTime: 2023-08-04T10:41:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/leidos-announces-ai-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 54
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/07/artificial-intelligence-4478109_1920.jpg"
-        width: 1920
-        height: 784
-        isCached: true
-  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
-    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
-    publishedDateTime: 2023-07-31T15:10:00Z
-    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-to-push-on-public-sector-generative-ai/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 53
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
-        width: 1920
-        height: 1024
-        isCached: true
-  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
-    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
-    publishedDateTime: 2023-07-31T21:25:00Z
-    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-on-public-sector-generative-ai/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 53
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
-        width: 1920
-        height: 1024
-        isCached: true
-  - title: "Duke Health, Microsoft Launch Generative Artificial Intelligence Partnership"
-    excerpt: "The new collaboration between Microsoft and Duke Health will focus on how generative AI and cloud technology can advance health equity and improve care."
-    publishedDateTime: 2023-08-02T17:30:00Z
-    webUrl: "https://healthitanalytics.com/news/duke-health-microsoft-launch-generative-artificial-intelligence-partnership"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 53
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-845751048.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T08:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Microsoft Partner Chief Dezen: Partners Will Get More Generative AI Resources"
     excerpt: "Dezen – who also serves as Redmond, Wash.-based Microsoft’s corporate vice president for the Global Partner Solutions (GPS) group – told CRN that the vendor is investing in its rechristened Microsoft AI Cloud Partner Program and other resources for partners around generative AI."
     publishedDateTime: 2023-08-03T13:59:00Z
@@ -261,20 +97,6 @@ related:
       - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
-    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
-    publishedDateTime: 2023-08-05T03:07:00Z
-    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 50
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
-        width: 768
-        height: 432
         isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"
@@ -301,42 +123,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 42
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T20:11:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
+  - title: "Google Hires 5 Key Execs From AWS, Microsoft: Here’s Who"
+    excerpt: "AWS and Microsoft executives hired by Google recently include former Presidents, AI and ML leaders aimed at driving Google Cloud customer and sales momentum."
+    publishedDateTime: 2023-08-02T18:30:00Z
+    webUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 32
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
-    publishedDateTime: 2023-08-04T12:42:00Z
-    webUrl: "https://www.inferse.com/668303/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
-  - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
-    excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
-    publishedDateTime: 2023-08-01T09:54:00Z
-    webUrl: "https://www.govconwire.com/2023/08/leidos-microsoft-partner-to-advance-cloud-ai-tech-development-steve-hull-quoted/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 28
-  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
-    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
-    publishedDateTime: 2023-08-03T19:12:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 19
+      name: CRN
+      domain: crn.com
+    quality: 36
 
 secured: "3j1QenO6AWs+UxHs4+BmC467GoqKybSiuV+/xghnQ0MdUqlgxs0Ngvwb3yXzFm1ejeFAUBFZMrZ7jd0XC3Tj9W9bZ8mpsQA5EEUa5I9YS1LqyzHi90vQ8+aDL6p/+BypjAIWjk8vaMEUlbZdPSHqkdmzlwBX9M0uGNLfQZgZy2HRnKIMooVx/Kv+87Npw+Hx0ShZjX+xDHIb21RpvS1eh9QuU9AtQiaD1pwj4iVCu4MlaXGGZp3Js4lV93q8B58unVNq7pnIMyjVCNoGwl2+rEpSQ415R8/+BuEGTb1e7phTyvyiMFQD3my3TeQ9QpZaRHxFV3ezlfaa5XgD2OKaPWlyZY3Ho9RoiU/cBvRtzSezCY3VY/bxwIEuLAnmT5FqCKiKUpS114q/A15Kir+Q5gpIzmyZfASHG6EkJqMJ5VbTKon+8GlR0ULjafEoZbnx0fICkdWRYsI2gslESzHyd7OkD2ry78x7cPjj2yjdaqL0tI7U3D6JqiuLRV3fISr6lHGImNZnTUlTiAM3wG7lpw==;wiMqdP1pNPbk5Q2aXmIOLw=="
 ---

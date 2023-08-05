@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-04T21:12:00Z
 originalUrl: "https://www.digitaljournal.com/business/q-a-how-a-i-and-machine-learning-are-transforming-the-lending-industry/article"
 webUrl: "https://www.digitaljournal.com/business/q-a-how-a-i-and-machine-learning-are-transforming-the-lending-industry/article"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/12/Artificial-Intelligence-AFP-1K-01.jpg"

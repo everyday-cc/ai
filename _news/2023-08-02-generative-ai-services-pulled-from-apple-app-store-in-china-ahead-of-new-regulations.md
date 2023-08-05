@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "Built-in AI software, Dell Optimizer, learns and responds to the way people work, improving performance across applications, network connectivity and audio. The latest feature allows mobile workstation users leveraging GenAI models to improve performance for the application in-use while minimizing impact to battery runtime."
-    publishedDateTime: 2023-07-31T15:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/31/9856445.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "DTTsjivZrK7sv1aUVf8v5V8atQQoUaTxcu0aArKp72YcX/JRrdN8X+KXI+bJcfRIBOm4A/UfbTQRLxOmty0Hc11oQX6jcwkig3LUi3WW7Z5NGJg23ANGXvPJETL02lyq12KWNXVKbbIf3WWLa8CJWbfMpWvQwy5INsC9L0kdCSZoYci8lUPaTowmENIH8Xk5EfqdQkgs7hUxXCHIc0V5V61Nant1yXOz8UGbvXL7nVVpwtT3Etdnz24QpZUBgcyb8FKMusJZNqEtljessctd05TPkInewD8OG9kLi9JBDOyawwwf41Pe19iIY9PItjHSfcVPCeuhigiN/vV/vMB9Xsao8n4GHYKfSsAqcnQXrV0=;f4PJ94uXBE3mnpcZomHL1Q=="
 ---

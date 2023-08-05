@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence is leveling up the fight against infectious diseases"
-    excerpt: "Artificial intelligence is a new addition to the infectious disease researcher's toolbox. Yet in merely half a decade, AI has accelerated progress on some of the most urgent issues in medical science and public health."
-    publishedDateTime: 2023-07-31T15:02:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-infectious-diseases.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 69
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-63.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Jericho Security secures $3M to counter AI-powered phishing attacks"
     excerpt: "Jericho assists enterprises in defending against social engineering phishing attacks by leveraging AI to create sophisticated simulations and educational content for employees. In the company’s own words, it “uses AI to fight AI,” acting as a white hat for organizations."
     publishedDateTime: 2023-08-03T16:00:00Z

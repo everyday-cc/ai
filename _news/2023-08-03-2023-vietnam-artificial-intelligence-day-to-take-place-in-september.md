@@ -19,20 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Vietnam Artificial Intelligence Day 2023 to take place in September"
-    excerpt: "The Vietnam Artificial Intelligence Day 2023 (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on September 21-22."
-    publishedDateTime: 2023-07-31T14:01:00Z
-    webUrl: "https://en.qdnd.vn/economy/news/vietnam-artificial-intelligence-day-2023-to-take-place-in-september-554902"
-    type: article
-    provider:
-      name: en.qdnd
-      domain: qdnd.vn
-    quality: 39
-    images:
-      - url: "https://file3.qdnd.vn/data/images/3/2023/07/31/maihuong_ta/310723mut81.jpg"
-        width: 600
-        height: 313
-        isCached: true
   - title: "2023 Vietnam Artificial Intelligence Day to take place in September"
     excerpt: "Vietnam Artificial Intelligence Day (AI4VN), a leading science and technology event in Vietnam, will take place in Ho Chi Minh City on September 21-22, Azernews reports, citing OANA."
     publishedDateTime: 2023-08-02T15:35:00Z
