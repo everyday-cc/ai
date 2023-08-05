@@ -67,6 +67,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 60
+  - title: "Capitalizing on cutting-edge technologies: Investing in blockchain and AI"
+    excerpt: "In today’s fast-paced and interconnected world, the emergence of disruptive technologies has become a catalyst for change across various industries. The financial industry too is experiencing a seismic shift as emerging technologies redefine traditional"
+    publishedDateTime: 2023-08-05T09:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Machine Learning, Blockchain Technology could Help Counter Spread of Fake News"
     excerpt: "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news, according to new research."
     publishedDateTime: 2023-08-02T17:16:00Z

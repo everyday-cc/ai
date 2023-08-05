@@ -24,29 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup to automate yard operations"
-    excerpt: "Terminal Industries, after $17 million in seed funding from trucking titans such as Ryder and Lineage Logistics, is looking to optimize processes in yards, terminals, and"
-    publishedDateTime: 2023-08-03T14:06:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21270820/terminal-industries"
+  - title: "Gen AI to Increase US Production — With Caveats"
+    excerpt: "Discover how businesses use generative AI and automation and how they will affect the future of work, based on McKinsey's report."
+    publishedDateTime: 2023-08-01T17:18:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-and-the-future-of-work/"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 37
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2023/08/16x9/dreamstime_m_190693991.64cba8b9ac1ab.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "National Beat: IBM's startup shopping spree, AI jobs and new startups to watch"
-    excerpt: "In the latest National Beat, we're looking at the top cities for AI jobs, the founder of Whole Foods' next gig, and new startups to watch."
-    publishedDateTime: 2023-07-31T18:30:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2023/07/31/national-beat-ai-jobs-startups.html"
+  - title: "Creating better treatments with AI"
+    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
+    publishedDateTime: 2023-08-02T08:12:00Z
+    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
+      name: scientific-computing
+      domain: scientific-computing.com
+    quality: 19
 
 secured: "4Jx2135hA5F7+1R/dluflYRhEP+gdaZW99AHM/xZXtkKTuZxyBu4p0ueHMirohzjLcnUi+NNLKJno6pgUwTNrDD92TYZt9gffHWZvj3DDecfkaJalxz7bCQfwBuckk+Us67eCfWi+c9w0nixD3mrc3CvfV9C4KC5mXeuH+Otmq+RsvK56wtptdtcmIu3U9Mv506TaqUtwSLc6Thc3HWl03S/PZb5jE2QklINI6PCL6XdP/wSE+pciNt9QCpZa6R5Hdtscq/PImjGTeP0QNstUCgbJaqhrpXxi0JQcet9wqJVjroGaJxZ09uVTLkXNIRIuxSvN1PBqE3W80uiDwUQepLstZonXvCyWXfRilonfBw=;yNL3FlilXidfVLnrSKZe2w=="
 ---

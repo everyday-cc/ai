@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
-    excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa."
-    publishedDateTime: 2023-07-31T15:44:00Z
-    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4"
-    ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 66
-    images:
-      - url: "https://www.africa-newsroom.com/files/large/4c4926520fbb131"
-        width: 929
-        height: 419
-        isCached: true
   - title: "Flapmax Partners Intel: Driving AI Innovation in Africa"
     excerpt: "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel."
     publishedDateTime: 2023-08-01T11:52:00Z
@@ -71,15 +55,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Blackbaud Invests in Generative AI Startup for Social Impact"
-    excerpt: "CHARLESTON, S.C., July 31, 2023 /PRNewswire/ -- Blackbaud (NASDAQ: BLKB), the leading provider of software for powering social impact, today announced a strategic investment in Momentum, a leading AI-focused Blackbaud partner, graduate of Blackbaud's Social Good Startup tech accelerator program, and winner of Blackbaud's 2022 startup showcase."
-    publishedDateTime: 2023-07-31T15:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-blackbaud-invests-generative-ai-startup-social-impact-/2023/07/31/9856518.htm"
+  - title: "Russia To Assist Africa In Artificial Intelligence Development"
+    excerpt: "The panel session, titled “Artificial Intelligence: A New Driver for African Region Development,” was held within the framework of the second Russia-Africa Summit. The session was organized by Sber, as reported by the news publisher TechGPT on their Telegram channel."
+    publishedDateTime: 2023-08-01T09:51:00Z
+    webUrl: "https://leadership.ng/russia-to-assist-africa-in-artificial-intelligence-development/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: LEADERSHIP Newspaper
+      domain: leadership.ng
+    quality: 37
+    images:
+      - url: "https://leadership.ng/wp-content/uploads/2023/08/Russia-Africa.png"
+        width: 627
+        height: 419
+        isCached: true
 
 secured: "HQWR/ryRqTMGMTdCV7ndU/Gn+KbXEK3VxiT1DH/ATtMPy3SMqR6M6/rnZnOPS77Ud0D/9rEfxxdS0IUnJ7+l5gO57boaokoHLV642QogeNn8QbsBCA/DzkYjQehDw5h3okb26tRpTO2VXxZZySjfKtiShiXh8k1wvdOyUa87TVduIiTCXHMBfWprVF+N/xAFU/zM7CZ7KkMcnM+AoxC9mH268cXPzK0edccy7WrVmuFomzj0Y2p3HnzA5kxdM9wQ90awDg9LOnoe7XU5ebysJ5YytbtcxYJmhx1fBhzLiGMoLTdDlWM6TxdPMqei+Iafxk0AjDGgZ1X1GO2T72P9/m1Omv7ueI2IKwT8QnbHsCE=;8XQ9M3AhG8nWUYEXDdptlA=="
 ---

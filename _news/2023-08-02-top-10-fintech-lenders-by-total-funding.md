@@ -25,45 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
-    excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
-    publishedDateTime: 2023-07-31T15:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
+  - title: "Two fintech veterans join FairPlay AI's advisory team"
+    excerpt: "Consumer lending and finance experts Kevin Moss and Sarah Elliott come on board as new advisors for FairPlay to support the company's rapid"
+    publishedDateTime: 2023-08-01T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/two-fintech-veterans-join-fairplay-ai-s-advisory-team-1032501045"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg"
-        width: 1280
-        height: 1080
-        isCached: true
-  - title: "Vanquis acquires money-saving FinTech Snoop"
-    excerpt: "Vanquis Banking Group has announced its acquisition of money-saving FinTech Snoop. Snoop’s app generates personalised insights aimed at helping its users to better understand and manage their finances while also using AI to analyse Open Banking data to further assist users in realising cost savings on their household bills."
-    publishedDateTime: 2023-08-02T09:01:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Vanquis_acquires_moneysaving_FinTech_Snoop.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/man-stacking-silver-coins-graph-money-investment-m.jpg"
-        width: 4096
-        height: 2304
-        isCached: true
-  - title: "Exploring Fintech's Next Frontier - Physical Branches"
-    excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
-    publishedDateTime: 2023-08-02T05:45:00Z
-    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---quotphysical-branchesquot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "jhsUclQduVgWqAM7vEhpnzUkIBkYQWsokXCQDus/85R8nHTbbARzCo9rcgi2IgHtTWysTm1jPNDRM4HdMA4kP9fmSihMz7ML5d5snN3mk3qURAnv5HUUQ7BcAw68z0Z9IDQ9pc4I9yF53eBPcU0uWWSVdE6NAYZkOLPVv3Uzxhych7+HhhPhvO34jVWVeZrPVHfiTV5X6ZTMj6QOiK2ScVwBlLZQ4YlECDFxlKN+ctTVZQzBEDE83dEQvQ2wDyFuco46dG3o/tk0Izq3AnNJG3Ks7K9LRkuMiZcKGCv841NXcrj5LKPgiYI4iN4SsbLXDk/Q8i7Yd1oYmK9W11xejrSqEzKZxLFqITyYkw47GOes7uILwiiXWdo+sXXuSlw94LQur49OptgAN2gff09ghvv2nSyL/TZN3kx4k2vHuGV3CQNbS/euo0U9sSuK3/sGu48VbcDOJOmp9cJabqpxSFk+kvh35mLBH5l8XYhPG/egOmj/LXyxg3MqUHfirZb4CttoxdnCJ8bW5KviSNnEbg==;Dx8cWPWBWmmJWItfAc9MCw=="
 ---

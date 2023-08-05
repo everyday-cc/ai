@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Blackbaud teams with startup that uses AI to increase relationships, donations"
-    excerpt: "Blackbaud Inc. has become an investor in a company that uses automated intelligence to help charitable organizations reach more donors and improve their fundraising efforts."
-    publishedDateTime: 2023-08-01T21:00:00Z
-    webUrl: "https://www.postandcourier.com/business/blackbaud-teams-with-startup-that-uses-ai-to-increase-relationships-donations/article_fb76b41c-2fd9-11ee-8a2e-6b5404feb7ca.html"
-    type: article
-    provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/2e/a2e3e6da-2d68-11ee-bd0e-3fca5d14dbd9/6424abb14c1a7.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hlN8cNurR0qPI4SGHykJS58DeIQN6tayPF6+DgutKRbJt1Fhw3+ikzu+ncQ9T5EEYdezJep6n7PP48Fc7a3RGQ1wyMOhT2Mc8L6xJ6f6VqsTg5bpiIwSTfuOA/9pISzQvhbmPi98Q/LmcKQ8XWZzMNQ3OlTlTw0nCVveFVJYeHIcezTaHI+3ynfxq0aa4D35TctcC70Awh5qQn98kBJYUCgdCnqaw2EbnMx4o1vY9QAtWjix7qpAogjQJYUKqZz0ZrPjFtxi/UFc36K5KR8YcEc3puCmF1dQxeQPeRLGLQNQnWUN/4/FAw7287Zuso0D4hbWh7rSi+pxJ+kz/1iRaw4JPtyGRoh97CYrs1tbVe7USujIuO0WQwN+39AippaVKb3INMhaTPF80MZwLp8ToqdHdyH3cjD2H6yZrueXMjXl49kBxqfHa61iu0RCDH7cFdMww+/pBkM4y4iRMoOvikIRmMEWA+Tz0pqPuzsyT2MTv7s3nIpSzZwbxiDtQMjC4iddzY67iTNOGQALbKucIg==;v2AWG86TuhPMSj4yvreVgA=="
 ---

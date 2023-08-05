@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/4-ways-money-off-ai-210004112.html"
 webUrl: "https://www.aol.com/finance/4-ways-money-off-ai-210004112.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,86 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "4 ways to detect generative AI hype from reality"
-    excerpt: "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims."
-    publishedDateTime: 2023-07-31T17:24:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google Assistant is about to get supercharged by generative AI, says new report"
-    excerpt: "\"We've also seen the profound potential of generative AI to transform people's lives and see a huge opportunity to explore what a supercharged Assistant, powered by the latest LLM technology, would look like,\" said Google VP Peeyush Ranjan and Director of Product Duke Dukellis in the e-mail."
-    publishedDateTime: 2023-08-01T14:53:00Z
-    webUrl: "https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/c8aef6052625489293039233897e8894049b1231/2022/12/19/d5fb7b9b-c0fe-4bdc-a3f8-a1256845858c/google-nest-audio.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI services pulled from Apple App Store in China ahead of new regulations"
-    excerpt: "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license."
-    publishedDateTime: 2023-08-01T19:05:00Z
-    webUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/"
-    ampWebUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Smartphone App Uses Artificial Intelligence to Detect Stroke Signs"
-    excerpt: "Researchers created a smartphone app with the help of artificial intelligence to recognize stroke signs such as facial asymmetry, arm weakness, and speech changes."
-    publishedDateTime: 2023-08-04T16:43:00Z
-    webUrl: "https://www.medindia.net/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 57
-    images:
-      - url: "https://www.medindia.net/health-images/smartphones-to-diagnose-infections.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
-    publishedDateTime: 2023-08-03T09:35:00Z
-    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "FOhZGrN9Wwwagi5v3lY46mEWUIbzuT+rUgdBlqnqCYj7qZytaRAKVHRMKoGI12f6kANau+IlSU0vYv27zt6s6hJD5eVNCyf2h14Gj6z1pqDz3y4luwoNXCpEUpixK89z1STAt5R50EkQNM7IZazN9Dz1hp3gqfFP9p5r9EQX43iUyDr1VzeMv34lj28KxbQL+4XozYYIzlT3fYOlhcVsNJcFr/0y9ESse+WbHMnRGQdyEpvi/S9UxarL56IPWCsGqaKMhPQ+eex1P9TZBZvTJuCDsbz3yAWBKxZCm4HDv0ywPHl2s8U3AnjHHd1WEtkyf+5Hdq6fzxJY/Bq+fBwc2mdnHQf7zbDGW2Bap2cI0Gk=;78LviQi29iTXeFvCrZ4D4g=="
 ---

@@ -18,20 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Introduces New DLP Challenges"
-    excerpt: "Generative AI, such as OpenAI's ChatGPT, has been making headlines in the tech world recently. These AI models are trained"
-    publishedDateTime: 2023-08-04T11:46:00Z
-    webUrl: "https://www.techbooky.com/generative-ai-introduces-new-dlp-challenges/"
+  - title: "Analysts predict AI will create opportunities in optical communications"
+    excerpt: "Industry analysts LightCounting and Dell’Oro have both released their latest reports regarding data centre optics, and both point to artificial intelligence (AI) being a driving force when it comes to revenue and spend in data centre communications."
+    publishedDateTime: 2023-08-02T11:32:00Z
+    webUrl: "https://www.fibre-systems.com/article/analysts-predict-ai-will-create-opportunities-optical-communications"
     type: article
     provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/08/generative-ai.webp?fit=1000%2C563&ssl=1"
-        width: 1000
-        height: 563
-        isCached: true
+      name: fibre-systems.com
+      domain: fibre-systems.com
+    quality: 19
+  - title: "Media Alert: BrainChip Presents Market Opportunities of Edge AI at Oppenheimer Technology, Internet & Communications Conference"
+    excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, will detail advantages, benefits and opportunities of Edge AI to investors at Oppenheimer & Co Inc.'s 26 th Annual Technology, Internet & Communications Conference August 8-9."
+    publishedDateTime: 2023-08-03T15:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/08/03/9859136.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "a7meqSYmKimP05Z4kOQevwvttEPsF4ADYttOUn+E+irE36T6C0gkbt9O7tt4q948AW5DLMq1axLI3TSpgQbVxxUQIme0H50iG55kIeWlAaPcr6XDht7Ixpupo+IUaxkEq0sdD5KHHzpCm81E5xcWsDS/UKhPz0rJ9oxfCcA6cUFiLs5yYkyfEoLwgYE5/xzduGR+bweKa/y610kPHzva2oRU6j6WdQ9/MgOlt5KrRweRKTcBsdT1Q4ClnVLH7rWHwRP5XNVe5iwJUdEKmIvtHll3B8kNrWz2it2RyJdlSGYmR9mAaiLOILOypQnMAssHp0AXuJIV7TH/QrWcphsZEKDfZ86tlZdliWkbR86dlWI=;KtkVVlJfXzWNnSigmrDh0A=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-
 webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Assistant is about to get supercharged by generative AI, says new report"
+    excerpt: "\"We've also seen the profound potential of generative AI to transform people's lives and see a huge opportunity to explore what a supercharged Assistant, powered by the latest LLM technology, would look like,\" said Google VP Peeyush Ranjan and Director of Product Duke Dukellis in the e-mail."
+    publishedDateTime: 2023-08-01T14:53:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/c8aef6052625489293039233897e8894049b1231/2022/12/19/d5fb7b9b-c0fe-4bdc-a3f8-a1256845858c/google-nest-audio.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google is looking to 'supercharge' Assistant with AI"
     excerpt: "The ongoing race to expand generative AI technology is reaching digital assistants — one of many people's first introductions to an AI companion. Such is the case with Google, which is working on a revamp for its Assistant that will include generative AI-powered technology, according in an internal email obtained by Axios ."
     publishedDateTime: 2023-08-01T12:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar
 webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
 type: article
 quality: 64
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "1 Cheap AI Stock to Buy Hand Over Fist Before It Doubles"
+    excerpt: "The booming demand for chips to power artificial intelligence (AI) applications has sent Nvidia 's (NASDAQ: NVDA) stock soaring in 2023, with shares of the graphics card specialist jumping 206% this year. But that also means that Nvidia's stock now trades at an extremely expensive multiple."
+    publishedDateTime: 2023-08-03T09:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-cheap-ai-stock-to-buy-hand-over-fist-before-it-doubles"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Giving AI direct control over anything is a bad idea – here’s how it could do us real harm"
     excerpt: "In short, an AI system does not have to be put in charge of nuclear weapons to represent a serious threat to humanity. But while we're on this topic, if an AI system was powerful and intelligent enough, it could find a way of faking an attack on a country with nuclear weapons, triggering a human-initiated retaliation."
     publishedDateTime: 2023-08-03T04:39:00Z

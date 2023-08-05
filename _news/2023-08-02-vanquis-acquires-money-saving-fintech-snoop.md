@@ -7,7 +7,7 @@ originalUrl: "https://www.fstech.co.uk/fst/Vanquis_acquires_moneysaving_FinTech_
 webUrl: "https://www.fstech.co.uk/fst/Vanquis_acquires_moneysaving_FinTech_Snoop.php"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group"
-    excerpt: "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited."
-    publishedDateTime: 2023-07-31T15:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
+  - title: "World Fintech Day: Technologists reveal five trends shaping the financial landscape"
+    excerpt: "On World Fintech Day 2023, fintech experts showcase five transformative trends revolutionizing money interactions and financial services. These trends span from blockchain innovations to AI-powered solutions,"
+    publishedDateTime: 2023-08-01T09:40:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape/102308442"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 18
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg"
-        width: 1280
-        height: 1080
-        isCached: true
-  - title: "Top 10 fintech lenders by total funding"
-    excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."
-    publishedDateTime: 2023-08-02T14:48:00Z
-    webUrl: "https://fintechmagazine.com/top10/top-10-fintech-lenders-by-total-funding-2023"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/e5ff8462968500ba2f1acc4b4bdf26b8:4deb0bcbf7d5145d2e79f83787481200/fintech-top10-lenders-1.jpg.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102308442,imgsize-28638,width-1200,height=765,overlay-etcio/next-gen-technologies/world-fintech-day-technologists-reveal-five-trends-shaping-the-financial-landscape.jpg"
         width: 1200
-        height: 630
+        height: 765
         isCached: true
   - title: "Exploring Fintech's Next Frontier - Physical Branches"
     excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."

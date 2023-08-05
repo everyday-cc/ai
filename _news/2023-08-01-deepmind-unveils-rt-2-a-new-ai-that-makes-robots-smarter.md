@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-mak
 webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://www.techopedia.com/wp-content/uploads/2023/08/brain_02.png"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
-    excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."
-    publishedDateTime: 2023-07-31T16:21:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-latest-rt-2-algorithm-makes-robots-perform-novel-tasks/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "9egqleoZuQmouESt3WHCyc8jGLevA1VJHELkxDelnWEnlfibCY07viRthzQ8oRZA89OI4+NzGRSJpbU3TReEhkIcHLcR9hS99wlf7ktn+K53B8wAC5fsUFs+yVO/BTSPTIkfMBy++MOCzrb3kgQLzwHAVOzimBzi4ZD6BgHWFzgCtDxnZwu10u0MNqoAl+p9bRukD69Ehl+jxxgfC0tM3vmoAwO7GivAFyVikYZ2tJDdh+79zmsjm+WIz25G8Y1MqtIotr571yDRx4ER+QOxdC4PaooSS+rdbx4UAF6YSJKXSakjZxyftW26KBS3tc4cvXc9CTInAs9rGda62tRU84UwTpxzBS63bcx95Rw4eviUnq/+V3tQUg4xOEXfFp658+IFwwlXqHT/oHJpViYMyX3u851xIOJUo7l9tFb6GvE1ah7RVKrvR4lgeSDGu8NICPIIuvxp+w3XIuPuEomfrIOvn/bQEu4PqAellADk/aFy8ltlyvZJ7cC6yKDm7G0qgyybrJDRRTq/H5Shxrmvow==;vmKDUSIdIZ4tBptCk6CtKQ=="

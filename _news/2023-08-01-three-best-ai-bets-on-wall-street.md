@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/three-best-ai-bets-wall-street-3707189"
 webUrl: "https://www.ibtimes.com/three-best-ai-bets-wall-street-3707189"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI"
-    excerpt: "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more."
-    publishedDateTime: 2023-07-31T16:16:00Z
-    webUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/"
+  - title: "The best AI tools for global SEO expansion"
+    excerpt: "By adapting your code to support text expansion, multiple languages, and different text orientations, you create a seamless user experience. Here’s how to make your website a welcoming space for global customers using AI translation tools and engines."
+    publishedDateTime: 2023-08-02T12:09:00Z
+    webUrl: "https://searchengineland.com/ai-tools-global-seo-expansion-430091"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 19
 
 secured: "irvffPJ3BjLD4kLzmXbPyzhTPhCW/hHB5DK+DcyEQPYnApPgeUuX+8Rqv7DVYaJmQt1bRWZ5R6llIE6VAkeFmDzkHZFuKL2T8guLKP0dKt6ztrmfmefsrQ2a0Eh94hjAf10hArRvCSlrPesqAunwEIJsCCGQyOMAcC67lHb4rN1v/MK/0s64zvt+FOWjveWeiUDh8Ud/omOuZm8pnwKHpZCs/IHr9OKQx9C9H5yZ/fzQnPh6gYdQkK99RTvco5yJWQpejk0LQyO6uPNxA6XO4D91kqOqxoPvcaZVcmZvQQOnxdh5UkaIKFOI7VVNWDCnmhDP2FWZgkrwqWTFmfVREWV9hgKS5uDT1n5uDG8kc8g=;Tqhhz0Oi/u3NPCYOaplt2g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/opinions/article/ai-mlb-mascots-18270811.php
 webUrl: "https://www.chron.com/opinions/article/ai-mlb-mascots-18270811.php"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "eBay Turns To AI On Its Attempt Of Tech-Led Business Reimagination"
-    excerpt: "Despite its earnings beat, eBay Inc (NASDAQ: EBAY) shares tanked 10.5% upon the release of second quarter results last week while its main competitor and e-commerce giant, Amazon.com Inc (NASDAQ: AMZN"
-    publishedDateTime: 2023-07-31T16:55:00Z
-    webUrl: "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33475213"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33475213"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/16544.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI reimagined all 30 MLB mascots, and the results are interesting"
     excerpt: "AI could've taken this in the direction of a more animated character to resemble hall of fame greats to suit up for the Braves over the past century. Could've developed Hammerin'"
     publishedDateTime: 2023-08-01T21:19:00Z

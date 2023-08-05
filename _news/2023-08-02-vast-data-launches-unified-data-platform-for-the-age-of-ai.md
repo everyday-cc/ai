@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-uni
 webUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vast Data Unveils The Vast Data Platform: A Transformative Data Platform Built For Deep Learning Ai"
+    excerpt: "Dubai, United Arab Emirates– VAST Data, the data platform company for the AI era, has unveiled the full vision for the company by introducing a t"
+    publishedDateTime: 2023-08-02T17:37:00Z
+    webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/02/M_afcc2image_story.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Vast Data announces global data infrastructure layer for AI workloads"
     excerpt: "The secret sauce behind the Vast Data Platform is its novel components, which consist of a unified and global datastore, a new kind of semantic database layer and a specialized AI computing engine."
     publishedDateTime: 2023-08-01T16:08:00Z

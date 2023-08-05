@@ -7,7 +7,7 @@ originalUrl: "https://www.businessrecord.com/workiva-integrates-generative-ai-in
 webUrl: "https://www.businessrecord.com/workiva-integrates-generative-ai-into-cloud-platform/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,73 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
-    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
-    publishedDateTime: 2023-07-31T23:38:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
+  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
+    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
+    publishedDateTime: 2023-08-02T19:47:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Gen AI to Increase US Production — With Caveats"
-    excerpt: "Discover how businesses use generative AI and automation and how they will affect the future of work, based on McKinsey's report."
-    publishedDateTime: 2023-08-01T17:18:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-and-the-future-of-work/"
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 34
+  - title: "State of play: Generative AI for climate"
+    excerpt: "State of play: Verse is just one example, focused on the specific issue of the complexity of clean power PPAs. Vancouver-based startup Good Chemistry uses advanced computing and generative AI to enable researchers to discover and develop new materials."
+    publishedDateTime: 2023-08-01T15:22:00Z
+    webUrl: "https://www.axios.com/pro/climate-deals/2023/08/01/state-of-play-generative-ai-for-climate"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Vast Data Unveils The Vast Data Platform: A Transformative Data Platform Built For Deep Learning Ai"
-    excerpt: "Dubai, United Arab Emirates– VAST Data, the data platform company for the AI era, has unveiled the full vision for the company by introducing a t"
-    publishedDateTime: 2023-08-02T17:37:00Z
-    webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/02/M_afcc2image_story.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Generative AI needs humans in the loop for widespread adoption"
-    excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
-    publishedDateTime: 2023-08-03T05:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Generative-AI-needs-humans-in-the-loop-for-widespread-adoption"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
-    quality: 19
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "aataZIq6xniJA10NXHcPtvP12Uzvn3MGLv24FtSW+niQxV0o7dKIrrm8CWTK88f0TS1ow2S4TxBzQI83vzSxFLgXN+A7v5FFXk7uUNsXPiIlvEuP+azG/gF9w6iSCvAMI4YuuVNWfP0yDnpMvQbC4KEv0R7V0aoasH3KeDaJ76zcuH5DNdV0pDRLbbH8jQvVlYJLIkSYlzegN9dgDGZFl0I/HOe1yXRPVRqZnYxyoUvLRT+w3LZw0axxdFKCwPwfKwUMEFVbY8KqOvBSYioFa1EL36/QkMsFm29Yjgc5lS7R59/cT5Joi53psOrVb7wj6scljZcaKjx/V6jnRBrQ64qq7l6wUOFzYTzRvqJJpSehJOHKdkGXfK6XCtK9XM5tyoVtA1PmRAM5u5cVTfvQwYDO7eDMUykKKIJ+650uQqx2ekpN1pY7XeMqIZ2UPQVW9L4JooIxD5skL+KEw47PWHsmJQCigViJ4lWUZkjyStQjR7R3DYIkn6e4L2cbBEX3ptrJzr55rxdM00aALhXSxQ==;i5EgnTu6W8r8RumrRIu3IQ=="
 ---

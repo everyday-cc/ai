@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/pro/climate-deals/2023/08/01/state-of-play-g
 webUrl: "https://www.axios.com/pro/climate-deals/2023/08/01/state-of-play-generative-ai-for-climate"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Workiva integrates generative AI into cloud platform"
+    excerpt: "Workiva announced today it has integrated generative artificial intelligence across its business reporting platform. According to a news release, generative AI gives users the ability to “author, edit,"
+    publishedDateTime: 2023-08-01T15:53:00Z
+    webUrl: "https://www.businessrecord.com/workiva-integrates-generative-ai-into-cloud-platform/"
+    type: article
+    provider:
+      name: businessrecord
+      domain: businessrecord.com
+    quality: 39
+    images:
+      - url: "https://www.businessrecord.com/wp-content/uploads/2022/11/BR_web_311x311.jpeg"
+        width: 311
+        height: 311
+        isCached: true
+  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
+    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
+    publishedDateTime: 2023-08-02T19:47:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 34
 
 secured: "8Jp22SmttLT1vo3oQVtSVjpKlydnjxeMIncnxhyILbMMH/q2xN5PdpEwozuC39PqLyYHPRF64AgTrDwvI/7LHp+VLpGNbx1+7oDJ+yZlMWwdBQukLHRo2P+ME2O+UorPV/1DQJbH9LCIN4UebSDZ5lCgdQcCk0Zppg2hEAbSLY0HR+Ye85JxLKRHdXjlI0MryjG9qAQGaL49FoE7EjUIZK+EgW5SJoK2177IN9a/7PyVnEiJRz9LMglJspq1kKWZsIhPsB6hgKMav1+1TJ+SBks1OTt9IVFri0La+TNjgK6hKQnygalwLRcjjqTnUz/245GygLeHF8yaAGdMWsIZg//QnztvNyC+wsm1sYuWsx7aybE3Ozu0Li+k8h2Bv68VYLuthWD4enHnd9XRokCPePDzELorklLS6/3mHeEvy29t0fZej0R0cD3GgWkytctHiptgzH5Zf5/pcf45N7yhnOJ18Ei8z5QnRcC/WbihaUfO4BqKk+af3qNvtmKpNVZNp5yQ+GYoTFAlQKEpMSFIEw==;WpxN2dQi9dGTFV2MJcErZQ=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
-    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
-    publishedDateTime: 2023-08-02T19:47:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 34
-
 secured: "BeqEFbPlGu2vv4TbypHAlCDklnODbU+Gl0yOVaOKwsMUV4pJZu+cZvjdk96KOtbkI7+rAIB148C17YLlxuiw9g9IT6x5r6ulBb7SXIP4ogH8SnWRQiKTS44LatC7QximGCRDIMZLFDBS6Zdnulni2FEHTu8Rda6WOj7507DLy11D3z2ijJnOelwPHLotRSMvebiErnRorzycCMnAXAqL9wfYiJE3ZgH4FQ8MBDPRuIaoFx3Y5LDeneo8RydO++1MSD+miuzjuhhUbE90disWpWPTYaXaAmlEwkhZYoHGRAjR/1LJFLoNbvwpvQ/pSb/8DvjkMITWGQVWPF9h3CA9lJGcebmraetFnM42nclTD9o=;mO8fZ0sjpKidJG8DW65lpA=="
 ---
 

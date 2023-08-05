@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "City of North Las Vegas to use AI-powered translation software during public meetings"
-    excerpt: "According to city officials, the software captures the speaker's comments in real-time and send the translation to a participant's mobile device."
-    publishedDateTime: 2023-07-31T16:50:00Z
-    webUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-to-use-ai-powered-translation-software-during-public-meetings"
-    type: article
-    provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 12
-
 secured: "k5aVHoVPOynYtwVp56kHiIJHBq6yQYrD5OZUGvru6Hhrx4o24A/ZBDY0a7qPy6DJb3Pna5kCmHv56A0Lz+P9nME2WiYL5rOnCgkWAXXv6QInL8f/kAUDZHB6Ln75q1XeiRJ1Id/tMD6jpwGvYTYI4FilmLX0lSmNHoiFAt07AyNWBX09O6TGH7oGvtLxOUR56UPFHjGi0Wh6wa+YNr3JUH3qeQf/fnCW62AhjLCgS/R5KgUK8DyBF42zq64bi1r7UdiRXxLjjcDNwIBl9cb9uxAAxW1rcUtDoBqEDJTAm1GuGd0T5Gb0kPLIRz1qgD/MGipyZVgJteWOHXgNQj4FWH4AWKwuk8tN/rWNFBU7WSY=;y9ekxXZBHRZ1c4RpRYhLeg=="
 ---
 

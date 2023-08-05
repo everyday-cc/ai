@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
-    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
-    publishedDateTime: 2023-07-31T15:10:00Z
-    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-to-push-on-public-sector-generative-ai/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 53
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
-        width: 1920
-        height: 1024
-        isCached: true
   - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
     excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
     publishedDateTime: 2023-08-03T08:22:00Z

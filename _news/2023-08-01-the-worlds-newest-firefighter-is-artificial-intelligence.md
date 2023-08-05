@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/environment/newest-firefighter-artificial-intel
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/newest-firefighter-artificial-intelligence/?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Is the Nemesis of Truth Itself"
-    excerpt: "AI isn’t going to take over the world. It probably won't even to take your job. The real threat is far more insidious—the AI boom heralds the erosion of truth and fact, and it's already happening."
-    publishedDateTime: 2023-07-31T15:42:00Z
-    webUrl: "https://www.pcmag.com/opinions/why-ai-is-the-nemesis-of-truth-itself"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00iwhhHqOZixX36fLPsrrfU-1.fit_lim.size_1200x630.v1690403210.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "AI Might Save The World, But It Has To Be Tested Again And Again"
     excerpt: "As more people grow concerned about the issues surrounding artificial intelligence, fear has shifted the discussion from promise to a potential pause."
     publishedDateTime: 2023-08-04T13:31:00Z

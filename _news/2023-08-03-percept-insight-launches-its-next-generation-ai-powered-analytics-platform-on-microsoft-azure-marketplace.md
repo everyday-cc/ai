@@ -43,20 +43,6 @@ related:
         isCached: true
   - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
     excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
-    publishedDateTime: 2023-07-31T15:10:00Z
-    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-to-push-on-public-sector-generative-ai/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 53
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
-        width: 1920
-        height: 1024
-        isCached: true
-  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
-    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
     publishedDateTime: 2023-07-31T21:25:00Z
     webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-on-public-sector-generative-ai/"
     type: article

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Vast Data Unveils The Vast Data Platform: A Transformative Data Platform Built For Deep Learning Ai"
+    excerpt: "Dubai, United Arab Emirates– VAST Data, the data platform company for the AI era, has unveiled the full vision for the company by introducing a t"
+    publishedDateTime: 2023-08-02T17:37:00Z
+    webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/02/M_afcc2image_story.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "Tla0Nxu/U9tauRAXnpcJLll9nKZbpXdbYxbLf21Om43U0+sjQnZmtaaxsolJGXJV6/O14ZIaF565cIn6mTPns89WCOMsvPxjK1j//xG9VZD/iEQa3lNUZmZxDSoW7hkIC7RoMnLSWat7FXbfDQSdgQ0MqKHPwN2c6pym7Zve+m987zrTRG/sgqJWgHm2ZlA+bLrYtlQq+ZQRtJhfPh3I20mTKLDcicSzunwIyex6mF3mOIN2Vmjssm8vQNg91QXqHQHutEHd8ABRqwgNtlYEROCNPnXSM5HLjc1n3VFH8UWhypNVHL2M3l9bqfCwo+ByWj/EOJsqna7hcU5auFAw+541hU5tE4pU9mtiXRO5cF3BjCcbsfZAYMmvXEfp7R300uwVEwDXzAYB403BLrtpiFFARxZaVNW/uEacSwbqb5KKrDVEVRbKUpd8Ub6a8q2lKFDV4nE24e6n7HRfmmB2/BqVBDImMdNNsi8X89MTBeqVs4Sb/ZOMlDgPXJGp8KwrOfayJZuM2ByCUSoXrguHhg==;pEtV67JeQSx0VNvBUAMEYg=="
 ---

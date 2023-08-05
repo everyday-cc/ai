@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-about-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 123
+published: true
 
 provider:
   name: ZDNet
@@ -30,81 +30,56 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways to detect generative AI hype from reality"
-    excerpt: "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims."
-    publishedDateTime: 2023-07-31T17:24:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
+  - title: "Google Assistant Is Being 'Supercharged' With AI"
+    excerpt: "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\""
+    publishedDateTime: 2023-08-01T09:43:00Z
+    webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/02vXTOE3J7UPq5x8pKT4ons-1.fit_lim.size_1200x630.v1690882843.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Generative AI services pulled from Apple App Store in China ahead of new regulations"
-    excerpt: "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license."
-    publishedDateTime: 2023-08-01T19:05:00Z
-    webUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/"
-    ampWebUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
+  - title: "Google is looking to 'supercharge' Assistant with AI"
+    excerpt: "The ongoing race to expand generative AI technology is reaching digital assistants — one of many people's first introductions to an AI companion. Such is the case with Google, which is working on a revamp for its Assistant that will include generative AI-powered technology, according in an internal email obtained by Axios ."
+    publishedDateTime: 2023-08-01T12:10:00Z
+    webUrl: "https://www.engadget.com/google-is-looking-to-supercharge-assistant-with-ai-113516175.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Smartphone App Uses Artificial Intelligence to Detect Stroke Signs"
-    excerpt: "Researchers created a smartphone app with the help of artificial intelligence to recognize stroke signs such as facial asymmetry, arm weakness, and speech changes."
-    publishedDateTime: 2023-08-04T16:43:00Z
-    webUrl: "https://www.medindia.net/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
+      name: Engadget
+      domain: engadget.com
+    quality: 47
+  - title: "Google will use generative AI to ‘supercharge’ its Assistant"
+    excerpt: "In an internal memo to the Assistant team, Google announced that it is starting to work on integrating AI chat into the Assistant."
+    publishedDateTime: 2023-08-01T00:13:00Z
+    webUrl: "https://bgr.com/tech/google-will-use-generative-ai-to-supercharge-its-assistant/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 57
-    images:
-      - url: "https://www.medindia.net/health-images/smartphones-to-diagnose-infections.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "4 Ways To Make Money Off AI-Generated Art"
-    excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"
-    publishedDateTime: 2023-08-01T00:00:00Z
-    webUrl: "https://www.aol.com/finance/4-ways-money-off-ai-210004112.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
+      name: BGR
+      domain: bgr.com
     quality: 37
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/C6hxRQ_vw8YbdvlKrH74Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5c0485666c27336018e48776dba7f014"
-        width: 1200
-        height: 675
+      - url: "https://bgr.com/wp-content/uploads/2023/07/google-assistant.jpeg?quality=82&strip=all"
+        width: 512
+        height: 269
         isCached: true
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
-    publishedDateTime: 2023-08-03T09:35:00Z
-    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
+  - title: "Leaked internal Google email reveals Assistant is getting a 'supercharged' AI upgrade"
+    excerpt: "An internal Google email has revealed the company is pivoting toward upgrading Google Assistant with a special artificial intelligence."
+    publishedDateTime: 2023-08-02T14:58:00Z
+    webUrl: "https://www.tweaktown.com/news/92658/leaked-internal-google-email-reveals-assistant-is-getting-supercharged-ai-upgrade/index.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: TweakTown
+      domain: tweaktown.com
     quality: 32
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
-        width: 1200
-        height: 900
+      - url: "https://static.tweaktown.com/news/9/2/92658_22222_google-assistant-to-be-completely-upgraded-with-special-ai_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "yszb/Ta7mvDo74c6Nt5HeKIyT0UmfUjlOnRIcJrfh5gB+eGLMQpLKtpF0ORTY0E9SyLbOYiXhzRzjx93s/GwelEu7Us0xT8UsVHSPhOT7jiIgFF7EW6BY8MnvcB1d2T7uiq5VAACSrr0nPlXqIJOZ9dFyxI2BxswJnrHHu8zetuprhGhO7daWd20oCTzbeg4yXuV7Mh2MpUUIixpV0mzOFBDPd2N2y4Ey06yaVOksQgGCl/u1Let2FouC79vhsRlIMBOgnrIBDSN6EkVTvIbvHiLhWRh7T3yl8jah9Ko/Y8pmKGcpLLgxFqMLuXNOcayLlbT6+xN5N/KQpj1hOiBrRn4sxgU0bTPWgAD/VPNeFo=;SDvu6tmrUK7FtRMT2f9cBw=="

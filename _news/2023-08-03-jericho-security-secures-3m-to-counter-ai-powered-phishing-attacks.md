@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 695
         isCached: true
-  - title: "Instagram reportedly developing new AI features, including an AI-generated image detector"
-    excerpt: "These new generative AI features could not only enhance users' Instagram experience but also help fight misinformation."
-    publishedDateTime: 2023-07-31T15:55:00Z
-    webUrl: "https://www.zdnet.com/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-reportedly-developing-new-ai-features-including-an-ai-generated-image-detector/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4e8e2311ff534c2f500d13b5866595f42de1b76b/2023/07/31/cba57098-e30c-49bf-afdc-a1e3fcce6426/gettyimages-1252972863.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Let’s stop worrying about AI and start paying attention more"
     excerpt: "Paying attention requires effort. Looking away is easier, but then we become isolated and lonely. That’s where we are now, through no fault of"
     publishedDateTime: 2023-08-03T06:30:00Z

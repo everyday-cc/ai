@@ -1,0 +1,31 @@
+---
+category: news
+title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
+excerpt: "We're trying to set a good example,” Connecticut state Sen. James Maroney said during a floor debate in May. Connecticut plans to inventory all of its government systems using artificial intelligence by the end of 2023,"
+publishedDateTime: 2023-08-05T03:19:00Z
+originalUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/"
+webUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/"
+ampWebUrl: "https://www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp"
+cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/technology/artificial/UIWGLGFAY5BLDZSQQMBWOW52FY/?outputType=amp"
+type: article
+quality: 62
+heat: 62
+published: false
+
+provider:
+  name: WHIO
+  domain: whio.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/CSZ6b5XouU_0YqQIKInkJmymDOc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3SEVXZAWAYDWUWIGNE2GW45O6I.jpg"
+    width: 1440
+    height: 810
+    isCached: true
+
+secured: "9ipSIpre2Zy0uvvg6ZZRuvxD6OCBz3lcJZgLP3/7ARK34QPZu3p7tCOmS/vzrdU6xdPQ11XPC7CVUbetOSA0/ewkZ2kiVgD0DrlwyN+oUIT7zwA2FXXGUVYr114zNnqKhpLjfkJ5XjcGh827UV19ANxzltpWkzVe5g8l1BHs3eT62wp+fBU1EqOcnqZTncDYheX9EduT0k/MsfO2jxOQ7uNLbAIaQ2yYRECQDYRAip5+jb0FvVnUFO93u2JnBGPz1mEFVpY6KNdKoXZZmL4BLYb9/zSxhZlJU+b69kPKAibsGPPL1zuNF25gUo0BW204cTaR8hiBp1zkOb5VpcMWxs2EO9VQK3lQS3Gaqk6wX2Q=;BIeKSuW7505d7BJUlQ567A=="
+---
+

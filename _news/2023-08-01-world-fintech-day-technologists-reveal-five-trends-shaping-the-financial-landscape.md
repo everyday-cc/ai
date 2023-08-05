@@ -25,79 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Startup Finda Raises $37M in Series C"
-    excerpt: "South Korean FinTech Finda, which operates as a prominent loan comparison platform in the nation, has successfully closed a $37m Series C funding round. Finda has secured $37m in this funding round, with significant investment coming from JB Financial Group and 500 Global,"
-    publishedDateTime: 2023-07-31T16:11:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/fintech-startup-finda-raises-37m-series-c"
+  - title: "Vanquis acquires money-saving FinTech Snoop"
+    excerpt: "Vanquis Banking Group has announced its acquisition of money-saving FinTech Snoop. Snoop’s app generates personalised insights aimed at helping its users to better understand and manage their finances while also using AI to analyse Open Banking data to further assist users in realising cost savings on their household bills."
+    publishedDateTime: 2023-08-02T09:01:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Vanquis_acquires_moneysaving_FinTech_Snoop.php"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/finda_0.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Spotlight On Crypto Innovations In Fintech"
-    excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"
-    publishedDateTime: 2023-08-04T08:44:00Z
-    webUrl: "https://menafn.com/1106782362/Spotlight-On-Crypto-Innovations-In-Fintech"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
+      name: fstech
+      domain: fstech.co.uk
     quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/04/C_efd5aimage_story.jpg"
-        width: 960
-        height: 540
+      - url: "https://www.fstech.co.uk/fst/images/man-stacking-silver-coins-graph-money-investment-m.jpg"
+        width: 4096
+        height: 2304
         isCached: true
-  - title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
-    excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
-    publishedDateTime: 2023-08-04T12:23:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
+  - title: "Exploring Fintech's Next Frontier - Physical Branches"
+    excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
+    publishedDateTime: 2023-08-02T05:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---quotphysical-branchesquot"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 19
-  - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
-    excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
-    publishedDateTime: 2023-08-03T11:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/210911-fintech-firms-stavvy-and-brace-to-enhance-servicing-innovation/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: Finextra
+      domain: finextra.com
     quality: 4
-  - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
-    excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
-    publishedDateTime: 2023-08-04T17:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/04/9859806.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-  - title: "Global and Singapore fintech funding reduced, alongside dip in late stage funding, given rising interest rates and economic headwinds"
-    excerpt: "Within the crypto space globally, Singapore has gained prominence among investors and startups as a strong forerunner. This comes as the nation has in place regulations such as the Payment Services Act and Digital Token Payment Act and is in the process of issuing regulations related to stablecoin issuance."
-    publishedDateTime: 2023-07-31T23:29:00Z
-    webUrl: "https://www.macaubusiness.com/global-and-singapore-fintech-funding-reduced-alongside-dip-in-late-stage-funding-given-rising-interest-rates-and-economic-headwinds/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 0
-  - title: "Financial Inclusion Focused Leading Indonesian Fintech JULO Launches 5-Minutes Instant Credit Facility - JULO Turbo"
-    excerpt: "JULO is a leading fintech company that is revolutionizing access to ?nancial products for millions of emerging consumers in Indonesia. The company is one of the first to develop a digital data-driven credit underwriting and risk assessment platform to process consumer credit applications and determine their creditworthiness using its mobile app."
-    publishedDateTime: 2023-08-03T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/03/9859563.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "IwREVkf80C4vxmpgkxSoPqkayV3RlwlKD70NCZnkWxzGf59h5lGWIBmi6OlGM+25TeCJiSb9mzD3M9mxQZv+03uXQVEMKVaW3AtVcH5Pxk0JsM2/JQqzSn4qDy7xR1JSiQa+gBYqnJ82UOLKpLm8g+4gt+VG+JO+E/tpuq1kNi3rE/z61tjw3Y4OH3HpkcUw4gnuvmIou1kylq8jmvCVRYh7ikJiIfiJKlkceAhnHtsZBbgtZa+Cjp3i66npQArl4lsQoMeSSDM0+dkwSuymPvE0HQ7+HMKj59QRqGdHGM6zOSMPw2XiOY/9cp/4LtBd6sy8JUbEvO0JofDA9Zb3T9OBMMyiM2ZvIU/odn+ifxqzq5YCPl5fkFQdIqBLfL6ZsClJznTz4RpS55Q+Jf3K32CVaqQeWGDx6+gTvmHTKcXj/mF+vylH+Dx965LyIwSASZvAppdHpC9tnIzibKkv5uigTPBtdnhFHNEgfl0uKXhU/TI40cYLa+rczsz3e2VwaB0PiONKd4oL1iWQb/nfEg==;fLuG/8WuALSyQbyKNme5wg=="
 ---

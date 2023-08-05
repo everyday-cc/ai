@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
 type: article
 quality: 87
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,81 +30,67 @@ images:
     isCached: true
 
 related:
-  - title: "Google Assistant is about to get supercharged by generative AI, says new report"
-    excerpt: "\"We've also seen the profound potential of generative AI to transform people's lives and see a huge opportunity to explore what a supercharged Assistant, powered by the latest LLM technology, would look like,\" said Google VP Peeyush Ranjan and Director of Product Duke Dukellis in the e-mail."
-    publishedDateTime: 2023-08-01T14:53:00Z
-    webUrl: "https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
+  - title: "FOMO-Driven Generative AI Acquisition-Spree Has Begun"
+    excerpt: "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector."
+    publishedDateTime: 2023-08-05T09:23:00Z
+    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/"
+    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/c8aef6052625489293039233897e8894049b1231/2022/12/19/d5fb7b9b-c0fe-4bdc-a3f8-a1256845858c/google-nest-audio.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ce136208f2d9cb9a364b30/0x0.jpg?format=jpg&crop=1600,900,x197,y0,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI services pulled from Apple App Store in China ahead of new regulations"
-    excerpt: "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license."
-    publishedDateTime: 2023-08-01T19:05:00Z
-    webUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/"
-    ampWebUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
+  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
+    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
+    publishedDateTime: 2023-07-31T23:38:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Smartphone App Uses Artificial Intelligence to Detect Stroke Signs"
-    excerpt: "Researchers created a smartphone app with the help of artificial intelligence to recognize stroke signs such as facial asymmetry, arm weakness, and speech changes."
-    publishedDateTime: 2023-08-04T16:43:00Z
-    webUrl: "https://www.medindia.net/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/smartphone-app-uses-artificial-intelligence-to-detect-stroke-signs-212956-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 57
-    images:
-      - url: "https://www.medindia.net/health-images/smartphones-to-diagnose-infections.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "4 Ways To Make Money Off AI-Generated Art"
-    excerpt: "AI-generated art is one of the newest ways that creative side hustlers are using to create passive income. Some AI-generated art pages can pull tens of thousands of dollars a month. Check Out:"
-    publishedDateTime: 2023-08-01T00:00:00Z
-    webUrl: "https://www.aol.com/finance/4-ways-money-off-ai-210004112.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/C6hxRQ_vw8YbdvlKrH74Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5c0485666c27336018e48776dba7f014"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
-    publishedDateTime: 2023-08-03T09:35:00Z
-    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
+  - title: "Tim Cook confirms that Apple has been working on generative AI for years"
+    excerpt: "Apple spent $22.61 billion on research and development through 2023, and CEO Tim Cook confirmed beyond a shadow of a doubt that part of that expenditure is because the company is working on generative AI."
+    publishedDateTime: 2023-08-03T21:05:00Z
+    webUrl: "https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years"
+    ampWebUrl: "https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 56
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+      - url: "https://photos5.appleinsider.com/gallery/55736-113232-SiriGPT-xl.jpg"
+        width: 1312
+        height: 738
+        isCached: true
+  - title: "Generative AI needs humans in the loop for widespread adoption"
+    excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
+    publishedDateTime: 2023-08-03T05:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Generative-AI-needs-humans-in-the-loop-for-widespread-adoption"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg"
         width: 1200
-        height: 900
+        height: 400
         isCached: true
 
 secured: "65UourC6uD87bWNkfQV83NiqKcp5CzKNW7sfMZaoNXWYrXKqVwOrMZ8jsxAM6WAX2v++aDDPUc/91kR9+ZIgUXQuJGkX8IlgiywiThKCFbnnM8daUCzVLc0/vMqJ7ubr3TLkG8XsZkvRRvmgWpz97gKyIWUfNhhy6BKaQpXAEGGztGNeDhFrMF52hpjLr66s5lg58hI44G+cm7CSS+9nh6UgqDogICFZ/LMZfa3/ecRmfDFRJdWuLETtZ5JTE1CHN6qeIKToSxNtfDgI222f6k9uLaettNE81C8kdHwmKncWBws0knWVyb6qILwGm1UavLOH3RuA+cUBHH4LNbfNkhOKpe4Hd+Zsbw5ZS7PsZjLiGi/lZE/WQJAuAS9Vtrm90MZp43p6jNymhFg1KO29M5NIHIPaaq0bdlbsaCD3DMg/b6tQitSLHW757JX4qaRojzU96FrcrRNKsRAJOXIdnecBFziZKrU93AUCOZ1EMOgIsXNCgM5Ciq3nKZwoDl1eoNwV38Ov7s4665FIQes59Q==;zM5udbWKYMmi38AO6AkLCw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-ap
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years/amp/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,70 @@ images:
     width: 1312
     height: 738
     isCached: true
+
+related:
+  - title: "FOMO-Driven Generative AI Acquisition-Spree Has Begun"
+    excerpt: "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector."
+    publishedDateTime: 2023-08-05T09:23:00Z
+    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/"
+    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ce136208f2d9cb9a364b30/0x0.jpg?format=jpg&crop=1600,900,x197,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "4 ways to detect generative AI hype from reality"
+    excerpt: "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims."
+    publishedDateTime: 2023-07-31T17:24:00Z
+    webUrl: "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
+    excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
+    publishedDateTime: 2023-07-31T23:38:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c84598d37b2a8fd249763f/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI needs humans in the loop for widespread adoption"
+    excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
+    publishedDateTime: 2023-08-03T05:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Generative-AI-needs-humans-in-the-loop-for-widespread-adoption"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "/6ALcMjwkLAC5qErIDbgHsY4NYVtdoxQsL2uQKdEfuXTTrtNu97iG4E5zBmjVeCxVj/7J5DU0R7b1A1h3bOtWT/VCJpVPATXKTZMq8tAUZf+0Wy0wEbN736WkxE7SU/6MfeGpKJSvHML38O4fDCxWPEKhzS8T34CB4kKd/787drlsbPvIUgNzUnfv4qaiQwfJzI/bBo9Z2gQM9GKbVt4H8afuq1/ALW6LC/aAzRjs5Z5dVHJ09TczZM0pJ5CHV+i0P1ag8FzYPHtjAJDSn5cHOFeRe8ZSgt2h4QMRzpYzgqC+JOuDNQxkHh9lY0efYGgRAlflGrxf9JN/WK4ntaHzfamj6kd2b98tq71/+KOCivuVtac13ST+3vnQF8Nmn/IVVZzQyGbrf3p8hjThxf4mRv38C8cqCiQ6r/xeTM44B5jHLY9nbqarK1Xb8KgTyadrrrgyE00XKv3ZuEz8MoVEFO7AUNGtHSsfOuBRg4yFT2Ci9mkthRZ20gbtLZqKuDyCLqRC3m8TYRuyhJR1BLKGw==;Psk3QgpcRUDctS+x1pcF4Q=="
 ---

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AIS Earns Eleventh Microsoft Advanced Specialization with AI and Machine Learning, Reinforcing Leadership in Azure OpenAI"
-excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, proudly announces its attainment of the AI and Machine Learning on Microsoft Azure and DevOps with GitHub on Microsoft Azure advanced specializations,"
-publishedDateTime: 2023-07-28T14:05:00Z
-originalUrl: "https://www.kentuckytoday.com/news/business/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure/article_fc81ac42-2822-5fac-a781-432ab8b786be.html"
-webUrl: "https://www.kentuckytoday.com/news/business/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure/article_fc81ac42-2822-5fac-a781-432ab8b786be.html"
+excerpt: "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud, proudly"
+publishedDateTime: 2023-07-28T16:40:00Z
+originalUrl: "https://www.01net.it/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai/"
+webUrl: "https://www.01net.it/ais-earns-eleventh-microsoft-advanced-specialization-with-ai-and-machine-learning-reinforcing-leadership-in-azure-openai/"
 type: article
 
 provider:
-  name: Kentucky Today
-  domain: kentuckytoday.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "5Oa2T3qTryMMQzpYiIgbCKuu71911sjyp+slw4fAI3CpbJpOBQok2wwnZy1LkHwMK/OvgE5xT+knQ75c3bCs3RwR6rY6JJC4uZwAwemeWx7GQLUzzersz3lVy+JZDzXynLDQMe9CJn0XRVbIi/6M8HfTFa1at/nn9AiHYSwCa8ttxD1zMKEHsNl9OJOzaE9qwOXKE4OKB8//uCuqNeA+uxWLF25s0t2nvnhzKD1ScetqqIa7aX/qW69gbLrvWNet+FAfZLtTdCCHm8SOWL/llYhZKv24D6YY3hRw9u7+Ksbc4mcSfhrMg+EyrHEQtZ+rIwpusAcwStTpUNQekJABcifDKqOkc8qb60RZ6tpOGvA=;pSo0QtbyCFCzvUynthHh5A=="
+secured: "dQh+DWg2sJe3S6oLoRfrDu82Z721wt/rkf2kgUx+njo5B/PUE+u3WlX3tGiY6d/rtWopV1tFUbBKTcyrtc9zrSamNK3U4pz4mynnsYog2++9XBg8UhWEI8sDaEiYKSMmz9s/pwUfSeZp2fHJlFmJ9HxU/437qJNKONuYIyMdZClFmpU4opZF3pERbzZfAng4rtm03b6VgAMQMHCoUYF3AhlqrrbSPq2qT8ZlQ7LMEx+Lgk5/rzF+77pZXrAClRO0JT9jIoAw8Qzkp5lX9lT4RN4WKaj5ti1kD+6w/SbCLKWlyaPmRtXCKU7nwkk1P62mqgKxe83yF+L5jSkxv9SSwK9feTjprfqBTTGixIQTsUt1FuWsNNVubboH1bk49gZDW1pMM18dO1QIwzl++mmph1yroZxji1EdWsPyoenfDeYYbmmlt2ElYqHce3Ha92yxNI0bbWC98SVpfasD3q/YM2wlsQfjEb+lovAZaEIpVEJTfKcWWSoz92NIXX7lBAZaSJmGhGwQy9/0kYMpDLNwEQ==;Tw8/EAbNdSSjgXbY/JIi+w=="
 ---
 

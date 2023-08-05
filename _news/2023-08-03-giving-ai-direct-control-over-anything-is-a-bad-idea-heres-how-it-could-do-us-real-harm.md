@@ -41,6 +41,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "1 Cheap AI Stock to Buy Hand Over Fist Before It Doubles"
+    excerpt: "The booming demand for chips to power artificial intelligence (AI) applications has sent Nvidia 's (NASDAQ: NVDA) stock soaring in 2023, with shares of the graphics card specialist jumping 206% this year. But that also means that Nvidia's stock now trades at an extremely expensive multiple."
+    publishedDateTime: 2023-08-03T09:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-cheap-ai-stock-to-buy-hand-over-fist-before-it-doubles"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "EftZMWxlq5Vd9ap/xFfv5fZkMlY5leojSIn2Oog7xk/W2WTRCwhyCKxFPD59PvaAEN29s61vP41knys0MAf//ycZFjGYR3dsysI+k6jEntq3WMpCOJs9HWalybEPcdgE9j00QvwsWb+gRjKVuBEqdc0nLtzwyUtbclvFnjuu4Gk4/E/lYlPRknr5ppS9NJzd5bOyK+pXwzZrWeiB3Hu18rtMueZ4y3cxoerEFjvVwxlQoP6PooKw4rx4UpwchNmMAlMDSlZiBeOQBG395ABUVit7cM5qY0koDngGVseZHzzXUqqrIo3cZmQ8sComVFJcDCd8KwxjNI5uMBhou8ci79lw/4XvwQseJDOf+heJVinM8dTPbqgRkmDlu3tYniYIlTM9/JvHUYc78jbjcPBihlnQ3qOzxS4b7uLvxp1G7z0OHd61R0XSp4twJsL7BwO8rZ3nybgbO1MT1JJl2yAPA8EU7bcGFaXvRJAezdlcRD+ZKUnWjzt7C6c9MUE+xYRpCEElGrH03zImJcKjf24wjw==;X71Bsq4TaprXoVi8QeoUsw=="
 ---

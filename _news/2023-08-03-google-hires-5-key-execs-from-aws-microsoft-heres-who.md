@@ -64,20 +64,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Leidos and Microsoft partner for public sector AI transformation"
-    excerpt: "Leidos and Microsoft have formed a strategic collaboration to expedite the implementation of artificial intelligence (AI) solutions for the public sector. The"
-    publishedDateTime: 2023-07-31T16:06:00Z
-    webUrl: "https://www.onmsft.com/news/leidos-and-microsoft-partner-for-public-sector-ai-transformation/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Ledios-Partnership-Hero-image.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "New features released for Microsoft Azure Operator Nexus"
     excerpt: "New features have been released for Azure Operator Nexus, Microsoft’s hybrid cloud platform for telecommunications firms, as it also becomes generally available following a period of public preview. “Earlier this year at MWC Barcelona,"
     publishedDateTime: 2023-08-02T15:26:00Z

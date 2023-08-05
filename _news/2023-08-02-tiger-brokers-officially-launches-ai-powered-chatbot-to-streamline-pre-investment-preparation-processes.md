@@ -346,20 +346,6 @@ related:
         width: 700
         height: 492
         isCached: true
-  - title: "How to Use Chatbots, like ChatGPT, in Your Daily Life and Work – The New York Times"
-    excerpt: "What other chatbot skills can you discover?Think of a task that takes up a lot of your daily brainpower, like a tedious chore from work, or coming up with a"
-    publishedDateTime: 2023-07-31T15:28:00Z
-    webUrl: "https://www.inferse.com/657346/how-to-use-chatbots-like-chatgpt-in-your-daily-life-and-work-the-new-york-times/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-10420.png"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-01T15:55:00Z

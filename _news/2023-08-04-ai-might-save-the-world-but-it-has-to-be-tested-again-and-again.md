@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why AI Is the Nemesis of Truth Itself"
-    excerpt: "AI isn’t going to take over the world. It probably won't even to take your job. The real threat is far more insidious—the AI boom heralds the erosion of truth and fact, and it's already happening."
-    publishedDateTime: 2023-07-31T15:42:00Z
-    webUrl: "https://www.pcmag.com/opinions/why-ai-is-the-nemesis-of-truth-itself"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00iwhhHqOZixX36fLPsrrfU-1.fit_lim.size_1200x630.v1690403210.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "mEXLipbrBsUtI1T9MG89GQs0vkqXITpZVeBM340veaQ1wrMUySdxoimXdTICZcw/xMEjjP0IeBmtTmKxTJdYKcJU1jqzRDFKHXviCui1pzcrDro47QOllupq9hDntf/VEyF7b83YSP1bXZjYJYBwOOX9esfrLoBzhSMmO/x35ejUHhyDnK/7h2TxU2nolVlpyHnAn+jvMiUpcfGob1a2d1TYKy/iZZX3CkkDYqrZaIOeR0jJq+4xy1PU+ZghFIMAc2F8BgNPVN8lzdoNzmo8BtlnqJzAexgSNnxd3sOMbAR2Oso5YNFzVn8kqojxODSTKvotYT9Ir9FMxN+TEXErAg8ZRt/kl4VXw/jWR8H+75UvfZyMhWzXh+vb1y/ewk+igjz/Jahk6cYgSYjGFIF/YjYPyYXyWHLsLaBObYpfIcn4Fqpozo1vgOiE3rNDYgxRgPPf5ITlcJ6x8/hdqVxfEIbeYLLA80FCnMioL30gX3zw1zzeFqwdtbtLMvJGOGn4Yz4LK5QKYdm9NYy7Fix3DQ==;8hGWuzSp0hI5Pr9Cef7Gag=="
 ---

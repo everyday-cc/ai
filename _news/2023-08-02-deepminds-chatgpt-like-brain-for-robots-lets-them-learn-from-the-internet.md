@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind’s Latest RT-2 Algo Makes Robots Perform Novel Tasks"
-    excerpt: "Google's DeepMind unit has introduced RT-2, the first ever vision-language-action (VLA) model that is more efficient in robot control than any model before."
-    publishedDateTime: 2023-07-31T16:21:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-latest-rt-2-algorithm-makes-robots-perform-novel-tasks/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ghBGoKMmxcmbePrtlJG/2Cx8UeANhWSisvhUy909dMEPPAku9n3CD1UhKMtflbekcaK+ne+AaHunI7+gSWaQ49PdiyUZ90YueD2poo3GysaDlb/no9HHVeATXeGybnCLaUsJFPK4ZwWeuJAFljHC9iOcK/Lo3+sgwr1Y8L8lYh77wHqIRJcZHmVgMuZRlDvzpiq1aPoEZZKkiQi+g2B1AN16K9bJHnF+L7O7+cozEtbh4S4C/gcOFGz8jlWKTDkPtLOPFsz1/NIsO6dRBZQ5qAnCbwIvjC14rn10Yp1/GxOFO4ecreXHQYhirrbzfwkDl6yDIQuyuy5iEjElE9aF35b2Tg4x90FzTrWYLLXVDrE=;22a+RefS0/t9+P8N9JXUXg=="
 ---

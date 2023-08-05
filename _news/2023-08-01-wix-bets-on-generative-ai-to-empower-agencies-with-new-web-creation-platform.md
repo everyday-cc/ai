@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/31/wix-bets-on-generative-ai-to-empower-agencies-with-new-web-creation-platform/amp/"
 type: article
 quality: 84
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,47 +30,53 @@ images:
     isCached: true
 
 related:
-  - title: "Gen AI to Increase US Production — With Caveats"
-    excerpt: "Discover how businesses use generative AI and automation and how they will affect the future of work, based on McKinsey's report."
-    publishedDateTime: 2023-08-01T17:18:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-and-the-future-of-work/"
+  - title: "FOMO-Driven Generative AI Acquisition-Spree Has Begun"
+    excerpt: "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector."
+    publishedDateTime: 2023-08-05T09:23:00Z
+    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/"
+    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ce136208f2d9cb9a364b30/0x0.jpg?format=jpg&crop=1600,900,x197,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Vast Data Unveils The Vast Data Platform: A Transformative Data Platform Built For Deep Learning Ai"
-    excerpt: "Dubai, United Arab Emirates– VAST Data, the data platform company for the AI era, has unveiled the full vision for the company by introducing a t"
-    publishedDateTime: 2023-08-02T17:37:00Z
-    webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
+  - title: "4 ways to detect generative AI hype from reality"
+    excerpt: "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims."
+    publishedDateTime: 2023-07-31T17:24:00Z
+    webUrl: "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 40
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/02/M_afcc2image_story.jpg"
-        width: 960
-        height: 540
+      - url: "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Workiva integrates generative AI into cloud platform"
-    excerpt: "Workiva announced today it has integrated generative artificial intelligence across its business reporting platform. According to a news release, generative AI gives users the ability to “author, edit,"
-    publishedDateTime: 2023-08-01T15:53:00Z
-    webUrl: "https://www.businessrecord.com/workiva-integrates-generative-ai-into-cloud-platform/"
+  - title: "Tim Cook confirms that Apple has been working on generative AI for years"
+    excerpt: "Apple spent $22.61 billion on research and development through 2023, and CEO Tim Cook confirmed beyond a shadow of a doubt that part of that expenditure is because the company is working on generative AI."
+    publishedDateTime: 2023-08-03T21:05:00Z
+    webUrl: "https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years"
+    ampWebUrl: "https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years/amp/"
     type: article
     provider:
-      name: businessrecord
-      domain: businessrecord.com
-    quality: 39
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 56
     images:
-      - url: "https://www.businessrecord.com/wp-content/uploads/2022/11/BR_web_311x311.jpeg"
-        width: 311
-        height: 311
+      - url: "https://photos5.appleinsider.com/gallery/55736-113232-SiriGPT-xl.jpg"
+        width: 1312
+        height: 738
         isCached: true
   - title: "Generative AI needs humans in the loop for widespread adoption"
     excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
@@ -86,15 +92,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
-    quality: 19
 
 secured: "9W9vC6fcAnSiJ9UGBiniMGv0HXF63k/wIt5PmUDDuO3kvIF8lCmNtNrJBlDPxN/eugTQCjjv1FDbqcjSnaLBhAaBIa+Nb2LQCE++ODyFGyMdPx3/r1r/LhPNZSe32NEE8b7R3IR4md7BrMZGhLIUi8K6iRJYryQmQlGD1Sodo2dOQ5mn0qKlE6HW++ntVpEIDrSBhekFqvJBO52BGoiP6u41wHbbAUYmbCi2curcisLZkEkrXeFKAjWRlyR9zQculrJrY0knrfQd3+qNYsp04JgbSQJLvSEnHHYelwjB+9MVA0J0EDcHyEmelj3ixNv1FDpgGaGuyWfMo8a7sPezGZWnBlZf1IFbiSh1Q/yiiP6luS20j0sWa9tDs8EODnMnQgnDxyCs+9CJm7VO238uJK/i5+61tv2Yi1DiboQCALo/v39507l7Ip9lBFGN2m6dQ3YQSLpXc3017yRAGXjikccpz9v/1BT/3tRp/+XIO/f2XZLeskJR5Ggil15dq9/VUomcd+Q8z85UE2B09qVPYQ==;CS0qMgtsqV5N3hBiyTdGzg=="
 ---
