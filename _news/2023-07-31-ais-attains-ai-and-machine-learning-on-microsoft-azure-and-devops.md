@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-le
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ais-attains-ai-and-machine-learning-on-microsoft-azure-and-devops/amp/"
 type: article
 quality: 106
-heat: 336
+heat: 346
 published: true
 
 provider:
@@ -261,6 +261,20 @@ related:
       - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
+    excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
+    publishedDateTime: 2023-08-05T03:07:00Z
+    webUrl: "https://menafn.com/1106786821/Abb-And-Microsoft-Collaborate-To-Bring-Generative-Ai-To-Industrial-Applications"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/04/INS_a3cd3image_story.jpg"
+        width: 768
+        height: 432
         isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"

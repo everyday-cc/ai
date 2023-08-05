@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-31T10:53:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/vanquis-banking-group-acquires-money-saving-fintech-snoop/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/07/Vanquis-Bank.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Top 10 fintech lenders by total funding"
     excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."
     publishedDateTime: 2023-08-02T14:48:00Z

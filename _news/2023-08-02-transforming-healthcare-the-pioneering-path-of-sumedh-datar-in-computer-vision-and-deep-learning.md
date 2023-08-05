@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/transforming-healthcare-the-pioneering-pat
 webUrl: "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unveiling The Future Of Healthcare With Advanced Health Information Technology System"
-    excerpt: "Welcome to a world where cutting-edge technology is transforming the way we receive healthcare! In this blog post, we delve into the realm of advanced health information technology systems and unveil how they are revolutionizing the future of healthcare."
-    publishedDateTime: 2023-07-31T10:28:00Z
-    webUrl: "https://techbullion.com/unveiling-the-future-of-healthcare-with-advanced-health-information-technology-system/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/Medical.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Exploiting nonlinear scattering medium for optical encryption, computation, and machine learning"
     excerpt: "Professor CHOI Wonshik’s team from the IBS Center for Molecular Spectroscopy and Dynamics (IBS CMSD) reveals a breakthrough approach for utilizing nonlinear scattering media. Instead of conventional linear scattering matrices,"
     publishedDateTime: 2023-08-01T00:00:00Z

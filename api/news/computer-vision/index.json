@@ -62,7 +62,7 @@
       "originalUrl": "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -280,6 +280,58 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-warning-over-using-face-recognition-to-catch-shoplifters.md",
+      "title": "Warning over using face recognition to catch shoplifters",
+      "excerpt": "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-politics-66372601",
+      "originalUrl": "https://www.bbc.com/news/uk-politics-66372601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-politics-66372601.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp",
+      "publishedDateTime": "2023-08-01T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -931,19 +983,19 @@
     {
       "path": "_news/2023-07-27-alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud.md",
       "title": "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud",
-      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software and se",
+      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/article_5e51d6b8-1cf7-54c6-bf41-a328344ab539.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/article_5e51d6b8-1cf7-54c6-bf41-a328344ab539.html",
+      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
+      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2023/08/Jamarco-Jones.png?w=2000&#038;ssl=1",
+          "width": 677,
+          "height": 395,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -953,11 +1005,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T10:13:00-07:00",
+      "publishedDateTime": "2023-07-26T11:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
+        "name": "WKRN-TV",
+        "domain": "wkrn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1352,40 +1404,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-tonix-pharmaceuticals-holding-corp.md",
-      "title": "TONIX PHARMACEUTICALS HOLDING CORP",
-      "excerpt": "The findings reported today show that tianeptine and estianeptine improve memory and cognition as measured in the rat Novel Object Recognition (NOR) test. The finding that estianeptine is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -25,114 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "New Controversy Over Facial Recognition In Retail Stores"
-    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
-    publishedDateTime: 2023-07-31T10:06:00Z
-    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/"
-    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
-    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
-    publishedDateTime: 2023-07-31T10:06:00Z
-    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/"
-    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 90
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Warning over using face recognition to catch shoplifters"
-    excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
-    publishedDateTime: 2023-08-01T16:12:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66372601"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Incheon airport introduces Smart pass facial recognition system"
-    excerpt: "An Incheon airport official demonstrates the use of the facial recognition Smart pass service at a departure gate of Terminal 2, Incheon International Airport, Friday. The paperle"
-    publishedDateTime: 2023-08-01T09:04:00Z
-    webUrl: "https://www.globaltimes.cn/page/202308/1295457.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-08-01/477f6da7-41ff-4da5-8cda-2ae36846d4a3_s.jpeg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Vendor claims 3-year ROI on retail facial recognition deployment"
-    excerpt: "A new case study from RecFaces shows that such systems can identify thieves and reduce theft-related losses by 50 percent."
-    publishedDateTime: 2023-08-01T20:35:00Z
-    webUrl: "https://www.biometricupdate.com/202308/vendor-claims-3-year-roi-on-retail-facial-recognition-deployment"
+  - title: "Bar for UK crimes prosecuted with live facial recognition could get much lower"
+    excerpt: "Pledges by the UK government that its use of biometric data in law enforcement would be limited to the most serious crimes are beginning to sound hollow."
+    publishedDateTime: 2023-08-01T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202308/bar-for-uk-crimes-prosecuted-with-live-facial-recognition-could-get-much-lower"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 54
+    quality: 35
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
-        width: 1000
-        height: 667
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg"
+        width: 1312
+        height: 1325
         isCached: true
-  - title: "UK stores cracking down on shoplifting with facial recognition technology"
-    excerpt: "A handful of UK-based retailers are incorporating facial recognition technology to crack down on shoplifting.  UK police are employing pre-existing live fa"
-    publishedDateTime: 2023-08-01T09:17:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/enda-brady-uk-correspondent-on-uk-stores-cracking-down-on-shoplifting-with-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 38
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/eh3h5jhx/facial-recognition-technology-123rf.jpg?rmode=crop&rnd=133353968984530000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
-  - title: "Ryanair in Legal Dispute Over Facial Recognition Use"
-    excerpt: "Irish budget airline Ryanair is facing legal action over its use of facial recognition, which digital advocacy group NOYB says violates customers' data protection rights. Facial recognition systems require people's biometric data - a category,"
-    publishedDateTime: 2023-08-01T01:07:00Z
-    webUrl: "https://www.mrweb.com/drno/news35415.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 34
-  - title: "Facewatch caught in more controversy after closed-door meeting with UK Home Office"
-    excerpt: "Facewatch, which has been facing backlash for deploying facial recognition in retail stores across the UK, may be facing another public relations problem."
-    publishedDateTime: 2023-07-31T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202307/facewatch-caught-in-more-controversy-after-closed-door-meeting-with-uk-home-office"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
 
 secured: "5EOcKMvUeFOzE5VRYQBoOnp9mxxgcAhbbl2CpRJvdYc5IgL/wW5LGhU7kkL1EPVGHjaTyKAUB5nS1tIYcijz2gpSRvAMA6+QjJhi9+Xi0DSzMZ8tcMzhR1XLUItKx4BN88ELV67kzg/qOFStykdrIe/f+ZquflMcb1ujBMIPzAITUnMbUOLeJjORTO7aBFcFRliOEepjx+UyXQ1KGNJ1Nl3vNltTO8u4BdNbq8LiS0bsWwCBzs7hE6AiqCGxYrcjTY83dapC8p4J56Eu4hfNcOt1mRbxeCUPLd5hcDapi9HwElJRRi1NfJR5Y4B4oD/AKRfc5AgrEa4+E8/yG5VGiI0L74gcdA//AZ1wCa3P5NIiqsADtwRHnZscswS7tQCc4LfekHYxhadssena+XKr7XinVIcQfuE/13l3wS+1Xyb1MaXsOC8FVRdX9acO66HHMeJFf/qDBFBEB84rsFgGZjUqfpoZ5xkbicS6o7ERo74oVSRbLR8OxJFbaW/A4aqkNA12+jXJH2J6NRN8I4FJ6w==;fqGHzJoTWDSeLopNEPIVkQ=="
 ---

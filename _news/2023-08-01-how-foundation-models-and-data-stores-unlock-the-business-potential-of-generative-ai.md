@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unl
 webUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/"
 type: article
 quality: 92
-heat: 252
+heat: 242
 published: true
 
 provider:
@@ -64,22 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
-  - title: "The potential future of open-source generative AI"
-    excerpt: "Tom Goldstein, computer science professor at the University of Maryland, explains the pros and cons of open-source generative AI models and why open approaches are unlikely to proliferate."
-    publishedDateTime: 2023-07-31T09:52:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-potential-future-of-open-source-generative-ai/amp/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/07/GettyImages-1258688179.jpg?w=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
     excerpt: "Datadog adds observability for Large Language Models and generative AI application components SAN FRANCISCO, /PRNewswire/ -- Datadog, Inc. (NASDAQ:DDOG), the monitoring and security platform for cloud"
     publishedDateTime: 2023-08-03T17:00:00Z

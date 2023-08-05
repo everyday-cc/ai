@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/software-development/ai-in-a-minor-mindgrub-t
 webUrl: "https://technical.ly/software-development/ai-in-a-minor-mindgrub-technologies-baltimore-symphony-orchestra/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1000
     height: 800
     isCached: true
-
-related:
-  - title: "Baltimore marketing firm C-360 Agency invests in AI to write marketing strategies"
-    excerpt: "C-360 founder Michael DeMos believes that embracing AI technologies is necessary to make sure his Sparks marketing firm doesn't fall behind industry trends."
-    publishedDateTime: 2023-07-31T10:57:00Z
-    webUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2023/07/31/baltimore-c-360.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 29
 
 secured: "qbGDkexWzfOuXaLstxJQF42/Ef6Iif2amyxDTnHxkFAFGA1zzHQZNciDylfabv6mRzbvFio/m6tf6HQHGHvfb5R6Rz6OjESLzxuR1kSnKdyw0+1EF8782JB5EuKfgRk1if0LD/wuS5TwCM5cUmFqAw93rhJcl8QVrL8zsepXZTYQ3GYLb3HNY/hIr/XgZWTYQ9rwIoshCkMoEec7ND5QGECNb/UwyLxEKfCOQBYioLyv8kcYoETLQk5dg+Uvupsi7+axm22BAx/VprrU4aoDo13ispx8v4w4vUM8JloLZ8s6NEAtul959Hxho0auVyD3KdOGQMypHSUJuD+uYtHVIKhZkrL6TeZCcRzAc/4/ZO0=;Bh3pUtl4WYQNVBNIsN3ykg=="
 ---

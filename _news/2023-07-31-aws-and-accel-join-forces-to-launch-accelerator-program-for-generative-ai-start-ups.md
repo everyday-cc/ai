@@ -43,20 +43,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "AWS and Accel announce ML Elevate 2023 to Support Indian GenAI Startups"
-    excerpt: "Amazon Web Services (AWS) and venture capital firm Accel has announced ML Elevate 2023, a six-week accelerator programme aimed at empowering Indian startups that are building generative AI applications."
-    publishedDateTime: 2023-07-31T09:28:00Z
-    webUrl: "https://analyticsindiamag.com/aws-and-accel-announce-ml-elevate-2023-to-support-indian-genai-startups/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/ML-Elevate-2023.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Flapmax Partners with Intel to Accelerate AI Innovation in Africa"
     excerpt: "FAST Accelerator program to empower local startups and small/medium-sized enterprises (SMEs)"
     publishedDateTime: 2023-07-31T15:03:00Z

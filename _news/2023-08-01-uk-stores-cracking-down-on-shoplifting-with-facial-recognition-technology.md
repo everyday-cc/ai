@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Controversy Over Facial Recognition In Retail Stores"
-    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
-    publishedDateTime: 2023-07-31T10:06:00Z
-    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/"
-    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "U.K. Home Office Controversy Raises New Concerns Over Facial Recognition Software In Retail Stores"
-    excerpt: "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?"
-    publishedDateTime: 2023-07-31T10:06:00Z
-    webUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/"
-    ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/uk-home-office-controversy-raises-new-concerns-over-facial-recognition-software-in-retail-stores/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 90
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Warning over using face recognition to catch shoplifters"
     excerpt: "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer."
     publishedDateTime: 2023-08-01T16:12:00Z
@@ -73,66 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Incheon airport introduces Smart pass facial recognition system"
-    excerpt: "An Incheon airport official demonstrates the use of the facial recognition Smart pass service at a departure gate of Terminal 2, Incheon International Airport, Friday. The paperle"
-    publishedDateTime: 2023-08-01T09:04:00Z
-    webUrl: "https://www.globaltimes.cn/page/202308/1295457.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-08-01/477f6da7-41ff-4da5-8cda-2ae36846d4a3_s.jpeg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Vendor claims 3-year ROI on retail facial recognition deployment"
-    excerpt: "A new case study from RecFaces shows that such systems can identify thieves and reduce theft-related losses by 50 percent."
-    publishedDateTime: 2023-08-01T20:35:00Z
-    webUrl: "https://www.biometricupdate.com/202308/vendor-claims-3-year-roi-on-retail-facial-recognition-deployment"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Ryanair in Legal Dispute Over Facial Recognition Use"
-    excerpt: "Irish budget airline Ryanair is facing legal action over its use of facial recognition, which digital advocacy group NOYB says violates customers' data protection rights. Facial recognition systems require people's biometric data - a category,"
-    publishedDateTime: 2023-08-01T01:07:00Z
-    webUrl: "https://www.mrweb.com/drno/news35415.htm"
-    type: article
-    provider:
-      name: MrWeb
-      domain: mrweb.com
-    quality: 34
-  - title: "UK police may soon employ controversial live facial recognition tech. Here's why they should proceed with caution"
-    excerpt: "The technology has already been used at high-profile events but concerns about privacy, accuracy and bias remain."
-    publishedDateTime: 2023-07-31T15:00:00Z
-    webUrl: "https://www.sciencefocus.com/news/police-live-facial-recognition-caution/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 18
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/07/Facial-recognition-cameras-analysing-a-group-of-people-d8d12c2.jpg?quality=90&crop=5px,147px,1190px,512px&resize=940,400"
-        width: 940
-        height: 400
-        isCached: true
-  - title: "Facewatch caught in more controversy after closed-door meeting with UK Home Office"
-    excerpt: "Facewatch, which has been facing backlash for deploying facial recognition in retail stores across the UK, may be facing another public relations problem."
-    publishedDateTime: 2023-07-31T17:49:00Z
-    webUrl: "https://www.biometricupdate.com/202307/facewatch-caught-in-more-controversy-after-closed-door-meeting-with-uk-home-office"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
 
 secured: "716zoeR4l4ai+WSVd10xKQxvEoppg0YZjTUQ+10kE0dek1S3gwWEN9TdeUGWYNozc5GSJiOe2i4wldcthm09bTAl/k7XftRFphC67rCBlNjaQLg3ij35ta2G6WXIpdpM4bvLI7Nr8WI2PpgdJjTGHCSqBwgYEOW5MJaJRaSBTZzsw14nZ/EYm3+iet92RiKIakAhuXIOZMOeWsnp6HILOBN52dIu86CXXmapZ+bph1fbEsACP7lmkrEoxYNMyGiCG3aBvq3wk8rRVUkC7QPNlknW144JT7vkBiTHiUvXZH1WM0RpAUNgwEH4WNdQBxV3WWxqw/bXOzp3ssWBS9SJeraY7vEZjHO/Wn9UQkKLakyLRPJOjcnQ0iyQgKm2HbCNAJL25TURVnoZUlDvH9c/1mgEtVai7NFQAqJxAm+6DCt5csfNB/0IfUnsHJU+KLkz7B3lqyfcCrYesBCLq4E2CB4ZLBONAeEiU7Cz/oKzG059nLywunfMEkOpIkuvHuQ1OmW8IHS1wwhcVGYVDwQFzw==;EKU6rmBuOgFGDvj0yepcvA=="
 ---
