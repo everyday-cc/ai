@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global and Singapore fintech funding in 1H2023 dropped, but payments and AI remain resilient sectors: KPMG"
-    excerpt: "In Singapore, 84 deals in mergers and acquisitions (M&A), private equity (PE), and venture capital (VC) accounted for the US$934 million raised, a drop from the 117 deals in 2H2022. However, the report notes that this year’s figure is still “well above” the 1H2019 funding slump of US$344 million across 70 deals."
-    publishedDateTime: 2023-08-01T04:07:00Z
-    webUrl: "https://www.theedgesingapore.com/news/fintech/global-and-singapore-fintech-funding-1h2023-dropped-payments-and-ai-remain-resilient"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/fintech/global-and-singapore-fintech-funding-1h2023-dropped-payments-and-ai-remain-resilient"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/fintech/global-and-singapore-fintech-funding-1h2023-dropped-payments-and-ai-remain-resilient"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 21
   - title: "Singapore fintech funding at 3-year low, but experts say recovery near"
     excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
     publishedDateTime: 2023-08-01T12:00:00Z

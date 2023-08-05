@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This artificial intelligence and automation developer bundle is on sale for under £50"
-    excerpt: "If you buy a product featured here, we may earn an affiliate commission or other compensation. TL;DR: The 2023 Ultimate Artificial Intelligence and Automation Developer Bundle is on sale for £46.69, saving you 74% on list price. Want to get in on this new ..."
-    publishedDateTime: 2023-08-01T04:18:00Z
-    webUrl: "https://mashable.com/uk/deals/best-ai-course-bundle"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 62
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/01dF4zPEl3tLC1J9C3IOICJ/hero-image.fill.size_1200x675.v1690273666.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Using a Polite Tone with AI Matters"
     excerpt: "It should, says Microsoft’s Kurtis Beavers, a director on the design team for Microsoft Copilot. It’s not that your AI chatbot feels appreciative when you say please and thank you. But using basic etiquette when interacting with AI, Beavers tells WorkLab, helps generate respectful, collaborative outputs."
     publishedDateTime: 2023-08-02T22:37:00Z

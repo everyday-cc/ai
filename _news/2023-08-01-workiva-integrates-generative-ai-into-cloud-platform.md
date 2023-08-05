@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
-    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
-    publishedDateTime: 2023-08-02T19:47:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 34
   - title: "State of play: Generative AI for climate"
     excerpt: "State of play: Verse is just one example, focused on the specific issue of the complexity of clean power PPAs. Vancouver-based startup Good Chemistry uses advanced computing and generative AI to enable researchers to discover and develop new materials."
     publishedDateTime: 2023-08-01T15:22:00Z

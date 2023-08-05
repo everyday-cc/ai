@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-app
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "This artificial intelligence and automation developer bundle is on sale for under £50"
-    excerpt: "If you buy a product featured here, we may earn an affiliate commission or other compensation. TL;DR: The 2023 Ultimate Artificial Intelligence and Automation Developer Bundle is on sale for £46.69, saving you 74% on list price. Want to get in on this new ..."
-    publishedDateTime: 2023-08-01T04:18:00Z
-    webUrl: "https://mashable.com/uk/deals/best-ai-course-bundle"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 62
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/01dF4zPEl3tLC1J9C3IOICJ/hero-image.fill.size_1200x675.v1690273666.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI apps drive computing power, chip demand"
     excerpt: "The terms artificial intelligence (AI), machine learning and natural language processing were rapidly thrust into the limelight following the launch of ChatGPT late last year as the platform, and to a lesser degree similar AI programmes, took the world by storm, increasing productivity and enhancing creativity across various industries."
     publishedDateTime: 2023-08-03T16:49:00Z

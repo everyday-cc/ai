@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-i
 ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 related:
   - title: "A Practical Guide To AI In Cyber-Physical Environments"

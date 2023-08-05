@@ -43,20 +43,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "UT researchers awarded funding from new UT Austin-Amazon Science Hub"
-    excerpt: "Six UT faculty and students received inaugural funding from the UT Austin-Amazon Science Hub for their research on artificial intelligence and machine learning. Created in April, the Science Hub is a five-year collaborative effort between the University and Amazon to support research in topics ranging from machine learning to networking and communications."
-    publishedDateTime: 2023-08-01T01:51:00Z
-    webUrl: "https://thedailytexan.com/2023/07/31/ut-researchers-awarded-funding-from-new-ut-austin-amazon-science-hub/"
-    type: article
-    provider:
-      name: Daily Texan
-      domain: thedailytexan.com
-    quality: 24
-    images:
-      - url: "https://thedailytexan.com/wp-content/uploads/2023/07/7-31-23_Amazon_Rong-Hua-Wang-.jpeg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Waymo announces Austin as its fourth major city"
     excerpt: "Waymo, the self-driving technology company under Google’s parent company Alphabet, has officially announced Austin as its fourth major ride-hail city."
     publishedDateTime: 2023-08-04T15:13:00Z

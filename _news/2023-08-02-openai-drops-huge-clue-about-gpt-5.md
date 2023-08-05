@@ -7,7 +7,7 @@ originalUrl: "https://futurism.com/the-byte/openai-trademark-gpt-5"
 webUrl: "https://futurism.com/the-byte/openai-trademark-gpt-5"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "GPT-4 vs. GPT-3.5: 5 Key Differences Explained"
-    excerpt: "Spread the loveAs technology advances, so do the capabilities of artificial intelligence (AI) models like GPT-3 and its predecessor GPT-2. Now, with the anticipated release of GPT-4, many are eagerly anticipating the next level of AI language processing power."
-    publishedDateTime: 2023-08-01T02:19:00Z
-    webUrl: "https://www.thetechedvocate.org/gpt-4-vs-gpt-3-5-5-key-differences-explained/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 39
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/06/GPT-4-vs-GPT-3-5-What-is-Different.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "8SeAz5CDJXMHH10dn8PgWfoQZlXci6XBfPJzHxS9BCv6/JMqi4HIRvY+Tp6I+PYiAYvaN+wPVCfxfdyfL0QF7NTIyC/bTUuMJ1MzRF36chF4kp2R5X8cPW9bc1jwT2HnJtjiOqLnfifxZP7WZvJj6ERdS03XLJBSY2OQ36YwGSD/jjmrP5JgwHumxc0Ryn+ycaOCenKAByH87hEHJeil16Ggf0+pMFXnzQUIuP6hFX5CU49RWMSvvN0Vb/gCF2QABH6ZTJG7Efef9sYf2qrLJZ82TD/e1UjIshblEy8JZD/CqhafrlxJnOR984rbkkKMsmA++o5/kHFuzzEmddAL7zwKfMujbu33WTqSeCcLJUc=;R7MCkHyKDf3ZAzrW5AoH0Q=="
 ---

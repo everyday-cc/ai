@@ -67,7 +67,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 86
   - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
     excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
     publishedDateTime: 2023-08-04T18:45:00Z

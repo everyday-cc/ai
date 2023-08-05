@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-will-ai-impact-your-ind
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence M&A performed in the power industry in Q2 2023"
-    excerpt: "In the global power industry, there were 2 M&A deals announced in Q2 2023, worth a total value of $12.5m, according to GlobalData's Deals Database."
-    publishedDateTime: 2023-08-01T02:06:00Z
-    webUrl: "https://www.power-technology.com/uncategorized/ma-activity-artificial-intelligence-power-industry/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 37
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2017/09/Report_desktop-1.png"
-        width: 388
-        height: 544
-        isCached: true
   - title: "Can AI really change the payments industry?"
     excerpt: "AI-powered payment reconciliation can automatically match incoming payments with outstanding invoices, reducing the need for human intervention and speed up reconciliation times. This will hopefully lead to some of the £50 billion or more in late payments owed to UK businesses being reduced."
     publishedDateTime: 2023-08-01T11:41:00Z

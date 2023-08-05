@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Uber driver in 1st-ever deadly self-driving crash sentenced to 3 years’ probation"
-    excerpt: "An Uber driver in the US who was involved in the first-ever fatal autonomous crash in 2018 has pleaded guilty to one count of"
-    publishedDateTime: 2023-08-01T04:42:00Z
-    webUrl: "https://glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation"
-    ampWebUrl: "https://glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/uber-driver-in-1st-ever-deadly-self-driving-crash-sentenced-to-3-years-probation?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/08/WhatsApp_Image_2023-06-28_at_11.07.13.jpeg"
-        width: 1024
-        height: 678
-        isCached: true
   - title: "Patty the Pedestrian vs. Sandy the Self-Driving Car"
     excerpt: "Five years after the driver of Uber’s autonomous car killed a pedestrian, the driver pleaded guilty to one count of reckless endangerment and was sentenced to no prison time, just three years of supervised probation."
     publishedDateTime: 2023-08-04T17:30:00Z

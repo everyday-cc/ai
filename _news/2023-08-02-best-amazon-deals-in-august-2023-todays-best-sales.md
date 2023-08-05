@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Amazon promo codes for August 2023"
-    excerpt: "Amazon Prime is Amazon’s subscription service which gives you access to loads of great benefits. Firstly, there’s free same-day, one-day, and two-day shipping. You can also enjoy services like ..."
-    publishedDateTime: 2023-08-01T04:43:00Z
-    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kYQT2Yb9WkTYgHGhpZqEeb-1200-80.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "tYC4SMv2RK9R33uVOhwJcT+lBKliNKwXfaH9+TAtrGT9HIDX3hb4/vs29J03zpDpw5lv8GFyOFrHDXgqe4lYQbyf3SZFC1MOXgtAEbY0wSN70LsmvtTBewF+myCik3s/PsYFFGLxQ0MNRwjFfuc+MQe4pLjU3tng+jPXLzCkP5pCcael2KbxLDwewEFheNC3auTc18pHWtCdjRYbLWRN9zcLqY4YQ4spxVPv3zWKao6kknPAPogon2Omp2lP+83A31KQWyIxXRj3lDBuzlETT759rzl/ZIo+kWb5tF30/2vPEt8UTCYBp56fcMkYjLtxCjRmPmtxoiwC1Hj/AUJnaL7bt6Su4bH5CFn7+Gr/Kek=;wBKlWAycsW1gekCgcs4CMw=="
 ---

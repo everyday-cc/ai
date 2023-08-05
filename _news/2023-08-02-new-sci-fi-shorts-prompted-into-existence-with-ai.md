@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-short
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 674
     isCached: true
+
+related:
+  - title: "Lessons from finance’s experience with artificial intelligence"
+    excerpt: "PREMIUM Ai and machine-learning funds seemed like the final step in the march of the robots.(REUTERS) This rule appears to hold for artificial intelligence (ai) and machine learning, which were first employed by hedge funds decades ago,"
+    publishedDateTime: 2023-08-05T19:47:00Z
+    webUrl: "https://www.hindustantimes.com/business/lessons-from-finance-s-experience-with-artificial-intelligence-101691260940066.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 36
 
 secured: "oeEEnnhMu/KIKrqGgqXemm1iOKgNFfhvHd5m00bXMhKauM1GfTL0lQxSau5xuwZciHnwxXqNMy6adOBEwLiCakZhKkt/bUGusWf9DeepjjTi3A6MT/C5PduaPt4g0Vst9AG7P82paqk/NZWY6gwXRfT9iUUBfagVPtS2jY+dWK6j0y3w+zA7tmPEIqHqWuUkt2C76h6Illj0mnO9Itlgjz7BuJqLTZNaykU53jCRKk2CuwQOnu1E0vmZ/eTjB0aA/+6Z+KUrJGqIJDAUpv2vl8nz3IBceRlCBC+mA0Pcbq30QbK0Nhg5sTbbaXE+F6qOxjNCHAAk3xDNBFAOJnTviiDeTxzcopXrZpWoKXUk78Lu2sVWYyOie4kqV3EXrTHVBJd3jez9e6Qg1RzkJu5CEBVSGVb4Y6i95CkCY47SDTRfbtNh+sRHBg6J1LUnwIeBaDTGffr2adUU8aXTyj4q64Mpk8VVDYqF/5RvfPDbQYa3xyvkfioKY7MCiCCaJeQo+2s9z3Q/YEJXy94ua3yC6g==;VsKS8XvjSeqzK7tgKVQMYw=="
 ---

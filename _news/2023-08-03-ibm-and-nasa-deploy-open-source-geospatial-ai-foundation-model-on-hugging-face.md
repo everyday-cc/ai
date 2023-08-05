@@ -47,6 +47,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 89
+  - title: "4 ways generative AI makes founders more interesting to journalists"
+    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
+    publishedDateTime: 2023-08-05T21:29:00Z
+    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "New threats, same rules for finance generative AI"
     excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
     publishedDateTime: 2023-08-02T20:39:00Z

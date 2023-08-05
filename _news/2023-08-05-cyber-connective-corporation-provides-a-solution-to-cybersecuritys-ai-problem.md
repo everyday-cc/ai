@@ -60,7 +60,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 86
   - title: "Fed report highlights emerging cyber threats, including generative AI"
     excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
     publishedDateTime: 2023-08-04T17:15:00Z

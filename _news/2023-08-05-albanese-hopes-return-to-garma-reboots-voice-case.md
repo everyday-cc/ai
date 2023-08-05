@@ -69,17 +69,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Anthony Albanese grilled over Voice in fiery Question Time clash"
-    excerpt: "Prime Minister Anthony Albanese has been peppered with questions about his claim the Voice to parliament referendum was not about a treaty."
-    publishedDateTime: 2023-08-01T04:14:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-grilled-over-voice-in-fiery-question-time-clash/news-story/f6c9ab3040abd99caa333f4a006d0038"
-    ampWebUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-grilled-over-voice-in-fiery-question-time-clash/news-story/f6c9ab3040abd99caa333f4a006d0038?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/anthony-albanese-grilled-over-voice-in-fiery-question-time-clash/news-story/f6c9ab3040abd99caa333f4a006d0038?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
   - title: "Anthony Albanese stops spruiking Indigenous Voice on Twitter with over month-long silence on key policy platform"
     excerpt: "Anthony Albanese has been silent on the Indigenous Voice to Parliament on Twitter for over a month, as polls suggest support for the proposed body is in decline."
     publishedDateTime: 2023-08-03T06:08:00Z

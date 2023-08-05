@@ -94,20 +94,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023"
-    excerpt: "Amazon Web Services and Accel Collaborate to Propel Generative AI Startups with ML Elevate 2023 - Amazon Web Services (AWS) and Accel, a prominent venture capital firm, have joined forces to launch"
-    publishedDateTime: 2023-08-01T03:47:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/amazon-web-services-and-accel-collaborate-to-propel-generative-ai-startups-with-ml-elevate-2023-nid-224435-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 59
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/P9712mxY.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
     excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
     publishedDateTime: 2023-08-05T03:07:00Z
