@@ -25,7 +25,7 @@ images:
     isCached: true
 
 related:
-  - title: "How MIT's Liquid Neural Networks can Solve AI problems from Robotics to Self-Driving Cars"
+  - title: "How MIT's Liquid Neural Networks Can Solve AI Problems from Robotics to Self-Driving Cars"
     excerpt: "In the current artificial intelligence (AI) landscape, the buzz around large language models (LLMs) has led to a race toward creating increasingly larger neural networks. However, not every application can support the computational and memory demands of very large deep learning models."
     publishedDateTime: 2023-08-03T14:25:00Z
     webUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"

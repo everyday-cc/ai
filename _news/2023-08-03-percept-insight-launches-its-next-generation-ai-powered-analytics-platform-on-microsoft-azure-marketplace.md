@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Leidos teams up with Microsoft to push on generative AI in public sector"
-    excerpt: "According to Leidos, the new partnership will focus in the near term on generative AI solutions to support organizational efficiency, enhanced productivity and cross-domain applications."
-    publishedDateTime: 2023-07-31T21:25:00Z
-    webUrl: "https://fedscoop.com/leidos-teams-up-with-microsoft-on-public-sector-generative-ai/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 53
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/leidos-rsa-2019.jpg"
-        width: 1920
-        height: 1024
-        isCached: true
   - title: "Now enjoy immersive conference calls with Microsoft's spatial audio feature for Teams desktop app"
     excerpt: "Microsoft has integrated spatial audio into its Teams desktop application to enhance virtual communication. The feature enables participants' voices to be perceived from distinct virtual locations on the screen,"
     publishedDateTime: 2023-08-02T04:55:00Z

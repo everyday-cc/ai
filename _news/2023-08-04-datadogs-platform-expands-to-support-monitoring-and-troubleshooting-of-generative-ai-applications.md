@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
-excerpt: "Datadog adds observability for Large Language Models and generative AI application components SAN FRANCISCO, /PRNewswire/ -- Datadog, Inc. (NASDAQ:DDOG), the monitoring and security platform for cloud"
-publishedDateTime: 2023-08-03T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33554896/datadogs-platform-expands-to-support-monitoring-and-troubleshooting-of-generative-ai-applications"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33554896/datadogs-platform-expands-to-support-monitoring-and-troubleshooting-of-generative-ai-applications"
-ampWebUrl: "https://www.benzinga.com/amp/content/33554896"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33554896"
+excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
+publishedDateTime: 2023-08-03T17:15:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
 type: article
-quality: 45
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "How foundation models and data stores unlock the business potential of generative AI"
@@ -170,6 +162,6 @@ related:
       domain: newsobserver.com
     quality: 0
 
-secured: "QVfhIfXhFb5Af0ZybRtn8rFLuB35x3pznNrmIx9u6p80AFV95Ii49zhDkPgJGT0pQ2L+BLACxQ36qFWnWPe2fUu7y4HyR6yIUEKZXfqqNRH6vK+Qyshhppn3w+4ZIkQCqhrQ4FDDAhRoBhFuZdDxim4NQmdm6Y5hPtvA1AVpxw53i6JvRXNO5JHb3KZDUyxfD6kPOlsMqTtD4ZfNsRfJ85wIOb9LaxhPDLH2+Roh6aIA/Md24V/HMMqJNpWUajMw1tIIJ3axBkN0VXFJlaNDQxtf8vNGPOOa0KmvA9wgtnMEnktfIJgGHSQpOLEGtQYEdP/mJdljegiRCH/dCgl1/ezJemt2WgWlen+IHGD3eU8=;4zKd0XjA3GGijiE0pg6zOQ=="
+secured: "bHulnQHDWDOYqZhwPRjx8MnVvtdjfnjkEwSfShbL7LCxJr7J5E8T3TnA1zhHpRoZL4dJaetgkX+xZzxw8Z5isJY4ttf2F5iq//kF2x3YiOFJBwD9I9r1rz7n8YoGq+xMFugp0zxBrUbRT8bJ/o3IcjNoZ8VzvPv+jLZDWG+wVK1UnzQsl48Lt1fyzScDT5+jVZVuP9Xm7HlPOb9SDe9UGYZa7Z6mLIO0PW2vQ27mYfydK86IVbLR+319s3tR1uZdLRprbwhkaA1EbMDHw6geowCcZEPV2vq0KiYG7DhpWrJawylrAIKCEANgx+9sL0XAlaTzlWw8PvfGEJguuEC35KpfJR/O3vOLi9bmNTvVy3htYl46oxkwhtK8UyWJe7yc9/SY2rFmvNzUisQ+Hzd5LwV/0YtWFDy1AfbU4ka28IGt4LYfjdyNCutxIcFTFx6Dr+Nq5yR3YENydjDqEnDg0hPqzeYNEiRvYu1OAT4H+AUQkWHgQMigmonAajZbB7CCMjc2BZCWeb6bYdVT5fwvtg==;EPeKbhH0z3Mgld4KJ9YKcg=="
 ---
 

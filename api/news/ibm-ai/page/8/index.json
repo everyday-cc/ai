@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-02-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
+      "title": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions",
+      "excerpt": "SAP to Embed IBM Watson Artificial Intelligence into SAP® Solutions May 02, 2023 (PRNewswire via COMTEX) -- PR Newswire WALLDORF, Germany and ARMONK,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-2023-05-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-what-policymakers-need-to-know-about-foundation-models.md",
       "title": "What policymakers need to know about foundation models",
       "excerpt": "The newest wave of AI is attributable to what are called foundation models. The benefits are high, but so are the concerns. Here's what policymakers can do.\nThe post What policymakers need to know about foundation models appeared first on IBM Blog.\n",
@@ -1354,49 +1397,6 @@
       "topics": [
         "IBM AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging.md",
-      "title": "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging",
-      "excerpt": "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/IBM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/MKTBEAT/2c9ea2ecb9a1f662191408e9070aa946/med_20230410074443_back-from-the-dead-ibms-watson-ai-is-alive-and-re-.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

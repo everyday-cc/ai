@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-07-28-ryanair-challenged-by-noyb-over-invasive-facial-recognition.md",
+      "title": "Ryanair challenged by Noyb over ‘invasive’ facial recognition",
+      "excerpt": "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr",
+      "originalUrl": "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/07/AdobeStock_288121812_Editorial_Use_Only.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-start-your-ai-journey-for-just-30-during-our-back-to-school-sale.md",
+      "title": "Start your AI journey for just $30 during our Back-to-School Sale",
+      "excerpt": "Bring your skills into modern times. Now through 8/13, you can get The 2023 Ultimate AI ChatGPT & Python Programming Bundle for an extra $10 off at just $29.97 during our Back-to-School Sale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/2011056/2011056.html",
+      "originalUrl": "https://www.pcworld.com/article/2011056/2011056.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/07/PCWorld-The-2023-Ultimate-AI-ChatGPT-Python-Programming-Bundle.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-lg-v30-closer-look-security-features-including-facial-and-voice-recognition.md",
+      "title": "LG V30 closer look: Security features, including facial and voice recognition",
+      "excerpt": "The voice recognition feature is pretty cool, and like the others, it works quite well. Once you turn it on though, you'll be greeted with a message about how it's not quite secure, as someone ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
+      "originalUrl": "https://www.neowin.net/news/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2017/08/1504061717_img_2491_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-v30-closer-look-security-features-including-facial-and-voice-recognition/",
+      "publishedDateTime": "2023-07-28T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-the-future-of-art-generative-ai-web3-and-the-immersive-internet.md",
       "title": "The Future Of Art: Generative AI, Web3 And The Immersive Internet",
       "excerpt": "The generative AI, the metaverse and Web3 technology are set to revolutionize the art world, offering new opportunities for artists and collectors.",
@@ -1083,137 +1230,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws.md",
-      "title": "Amazon grows generative AI efforts with Bedrock expansion for AWS",
-      "excerpt": "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
-      "originalUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all",
-          "width": 1114,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-how-to-invest-in-artificial-intelligence.md",
-      "title": "How to Invest in Artificial Intelligence",
-      "excerpt": "Here are some of the best AI ETFs to consider: Global X Robotics & Artificial Intelligence ETF (BOTZ): This fund invests in companies that are likely to benefit from the growth in robotics and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
-      "originalUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-h100-gpu-instance-pricing-on-aws-grin-and-bear-it.md",
-      "title": "H100 GPU Instance Pricing On AWS: Grin And Bear It",
-      "excerpt": "It is funny what courses were the most fun and most useful when we look back at college. Both microeconomics and macroeconomics stand out, as does poetry writing, philosophy, and religious studies despite the focus on engineering and American literature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/",
-      "originalUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/07/aws-ec2-ultrascluster-logo.jpg",
-          "width": 1090,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/amp/",
-      "publishedDateTime": "2023-07-27T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

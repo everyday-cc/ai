@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-colle
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Twilio calls on OpenAI for generative AI"
-    excerpt: "Twilio partners with gen AI leader OpenAI to bring GPT-4 to Twilio Engage, which helps build customized and targeted marketing campaigns."
-    publishedDateTime: 2023-08-03T20:12:00Z
-    webUrl: "https://venturebeat.com/ai/twilio-calls-on-openai-for-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/06/Clo6QGQXEAAm0q1.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "OpenAI Files Trademark Application for GPT-5"
     excerpt: "natural language processing, generation, understanding, and analysis. The application also includes software for machine-learning-based language and speech processing, translation of text or speech from one language to another, sharing datasets for machine ..."
     publishedDateTime: 2023-08-01T23:38:00Z

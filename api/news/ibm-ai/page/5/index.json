@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-15-the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonxdata.md",
+      "title": "The disruptive potential of open data lakehouse architectures and IBM watsonx.data",
+      "excerpt": "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "originalUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
       "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
       "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
@@ -1350,57 +1392,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-31T05:55:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-join-us-at-prestocon-day-a-free-virtual-community-event.md",
-      "title": "Join us at PrestoCon Day, a free virtual community event",
-      "excerpt": "Learn how companies are using Presto to power their data lakehouses at scale by attending the free virtual PrestoCon Day conference.\nThe post Join us at PrestoCon Day, a free virtual community event appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/join-us-at-prestocon-day-a-free-virtual-community-event/",
-      "originalUrl": "https://www.ibm.com/blog/join-us-at-prestocon-day-a-free-virtual-community-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/wjd_20220214_557.l_2x1.jpg",
-          "width": 1312,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

@@ -2,6 +2,161 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-07-12-3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai.md",
+      "title": "3 ways the IBM and Adobe partnership will accelerate content supply chains with generative AI",
+      "excerpt": "We&#8217;re delighted about the recent unveiling of IBM and Adobe&#8217;s dynamic partnership to help brands accelerate their content supply chains using generative AI. Our longstanding partnership with Adobe allows us to offer an unparalleled range of services to meet the evolving needs of the marketing",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-12.23.43-PM.png",
+          "width": 2064,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T09:30:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-if-artificial-intelligences-boost-to-productivity-disappoints-heres-how-to-invest.md",
+      "title": "If artificial intelligence's boost to productivity disappoints, here's how to invest",
+      "excerpt": "\"AI stocks are priced today for a rapidly fading world of 2% bond yields, low costs of capital, easy globalization, and friendly inflation.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cb50994fce90018f7b6f7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-artificial-intelligence-investing-productivity-boom-economy-bofa-2023-7?amp",
+      "publishedDateTime": "2023-07-12T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-chipotle-debuts-new-guacamole-making-robot-autocado.md",
+      "title": "Chipotle Debuts New Guacamole-Making Robot, Autocado",
+      "excerpt": "The prototype, which was developed with food automation lab Vebu, is currently being tested at the Chipotle Cultivate Center in Irvine, California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
+      "originalUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b35e30d9fe4a9f625b9409/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
+      "publishedDateTime": "2023-07-12T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-introducing-notebooklm.md",
       "title": "Introducing NotebookLM",
       "excerpt": "We’re rolling out NotebookLM, an experimental offering from Google Labs to summarize information, complex ideas and brainstorm new connections.",
@@ -1043,144 +1198,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-cedar-rapids-airport-testing-facial-recognition-technology.md",
-      "title": "Cedar Rapids airport testing facial recognition technology",
-      "excerpt": "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
-      "originalUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=767D8083-B298-4C59-86CF-FA5BEF92D3A4&type=preview&q=75&width=1200&height=800",
-          "width": 800,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
-      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
-      "publishedDateTime": "2023-07-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "thegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs.md",
-      "title": "IBM may use its own AI chip in cloud service to lower costs",
-      "excerpt": "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
-      "originalUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg",
-          "width": 640,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
-      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
-      "publishedDateTime": "2023-07-12T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom Lead",
-        "domain": "telecomlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-mission-impossible-dead-reckoning-part-one-treats-ai-as-the-threat-that-it-is.md",
-      "title": "'Mission: Impossible — Dead Reckoning Part One' Treats AI As The Threat That It Is",
-      "excerpt": "The latest epic in the Tom Cruise-led action franchise rightly challenges the phenomenon of artificial intelligence and how it impacts our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
-      "originalUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64adae5f2200006c00a7b10e.jpg?cache=AlTKxYFwSH&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
-      "publishedDateTime": "2023-07-12T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

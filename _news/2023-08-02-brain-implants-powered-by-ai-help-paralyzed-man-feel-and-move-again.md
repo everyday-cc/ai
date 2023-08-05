@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help
 webUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "A.I. brain implant helps paralyzed man move, feel again"
-    excerpt: "There was a time that I didn’t know if I was even going to live, or if I wanted to, frankly. And now, I can feel the touch of someone holding my hand. It’s overwhelming,\" said Keith Thomas, the patient who received the revolutionary treatment."
-    publishedDateTime: 2023-07-31T21:00:00Z
-    webUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again"
-    ampWebUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/07/932/470/AI-chip-image.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "First-of-its-kind AI brain implant surgery helped a man regain feeling in his hand"
     excerpt: "Just four months after the groundbreaking surgery, the patient was able to feel the touch of his sister's hand."
     publishedDateTime: 2023-08-01T20:00:00Z

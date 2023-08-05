@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
+      "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
+      "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
+      "publishedDateTime": "2023-07-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
+      "title": "Artificial intelligence, the airplane of the brain?",
+      "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
+      "originalUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/0q5qXMcy-sM7hl5Nwu7g0W0QvlU=/1200x0/filters:focal(1262x338:1272x348)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VLDX7LS4JRGWFHYN6XXC5HPQNM.jpg",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
+      "publishedDateTime": "2023-07-30T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-how-artificial-intelligence-is-helping-hire-promote-and-train-workers.md",
+      "title": "How artificial intelligence is helping hire, promote and train workers",
+      "excerpt": "As artificial intelligence becomes more prevalent in business, HR departments are at the forefront of capitalizing on its potential. A majority of HR leaders are already using AI for a variety of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107274356-1689869031421-gettyimages-1204762097-p_ab_technology153.jpeg?v=1690643722",
+          "width": 2289,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
+      "publishedDateTime": "2023-07-30T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-outcry-against-ai-companies-grows-over-who-controls-internets-content.md",
       "title": "Outcry Against AI Companies Grows Over Who Controls Internet’s Content",
       "excerpt": "Authors, artists and internet publishers demand compensation for the alleged use of their work to train generative-AI systems sweeping the globe.",
@@ -1071,152 +1219,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-heres-why-this-ai-chipmaker-continues-to-outflank-the-competition.md",
-      "title": "Here's why this AI chipmaker continues to outflank the competition",
-      "excerpt": "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics-allbi-is-on-board.md",
-      "title": "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board",
-      "excerpt": "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/0Qs0EITqVZabcNzobJLcG7NxPF53/1690518197013-0.jpg",
-          "width": 800,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-should-we-fear-artificial-intelligence-connor-leahy-touches-on-human-skepticism-of-ai.md",
-      "title": "Should we fear artificial intelligence? Connor Leahy touches on human skepticism of AI",
-      "excerpt": "Connor Leahy advises whether humans should be fearful of artificial intelligence or not and where AI is expected to be in the future",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6332012077112",
-      "originalUrl": "https://www.foxnews.com/video/6332012077112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/67966eca-b940-449d-954a-d45c32b77f10/f2388e83-5696-4028-a187-6917e4ba26e7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

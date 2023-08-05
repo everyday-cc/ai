@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
+    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
+    publishedDateTime: 2023-08-05T13:00:00Z
+    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "DTTsjivZrK7sv1aUVf8v5V8atQQoUaTxcu0aArKp72YcX/JRrdN8X+KXI+bJcfRIBOm4A/UfbTQRLxOmty0Hc11oQX6jcwkig3LUi3WW7Z5NGJg23ANGXvPJETL02lyq12KWNXVKbbIf3WWLa8CJWbfMpWvQwy5INsC9L0kdCSZoYci8lUPaTowmENIH8Xk5EfqdQkgs7hUxXCHIc0V5V61Nant1yXOz8UGbvXL7nVVpwtT3Etdnz24QpZUBgcyb8FKMusJZNqEtljessctd05TPkInewD8OG9kLi9JBDOyawwwf41Pe19iIY9PItjHSfcVPCeuhigiN/vV/vMB9Xsao8n4GHYKfSsAqcnQXrV0=;f4PJ94uXBE3mnpcZomHL1Q=="
 ---

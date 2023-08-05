@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-gen
 ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64ce136208f2d9cb9a364b30/0x0.jpg?format=jpg&crop=1600,900,x197,y0,safe&width=1200"

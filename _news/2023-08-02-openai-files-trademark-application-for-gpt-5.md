@@ -41,20 +41,6 @@ related:
         width: 640
         height: 395
         isCached: true
-  - title: "Twilio calls on OpenAI for generative AI"
-    excerpt: "Twilio partners with gen AI leader OpenAI to bring GPT-4 to Twilio Engage, which helps build customized and targeted marketing campaigns."
-    publishedDateTime: 2023-08-03T20:12:00Z
-    webUrl: "https://venturebeat.com/ai/twilio-calls-on-openai-for-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/06/Clo6QGQXEAAm0q1.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "3 ways AI can save small businesses time, stress"
     excerpt: "Generative AI is creating an extraordinary amount of buzz, and it's catching the interest of people wondering how to take advantage of what it has to offer. If you're a"
     publishedDateTime: 2023-08-03T15:29:00Z

@@ -39,22 +39,6 @@ related:
         width: 1500
         height: 960
         isCached: true
-  - title: "Fighting fake news: Research offers solutions through machine learning, blockchain"
-    excerpt: "Time is of the essence as a deluge of updates spreads across the internet and social media feeds. Members of the public are eager to find information they can trust."
-    publishedDateTime: 2023-07-31T21:03:00Z
-    webUrl: "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-fake-news-solutions-machine-blockchain.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 68
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg"
-        width: 1920
-        height: 1439
-        isCached: true
   - title: "Capitalizing on cutting-edge technologies: Investing in blockchain and AI"
     excerpt: "In today’s fast-paced and interconnected world, the emergence of disruptive technologies has become a catalyst for change across various industries. The financial industry too is experiencing a seismic shift as emerging technologies redefine traditional"
     publishedDateTime: 2023-08-05T09:15:00Z

@@ -2,6 +2,143 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-05-25-ai-startup-figure-raises-70-mn-to-build-humanoid-robots.md",
+      "title": "AI startup Figure raises $70 mn to build humanoid robots",
+      "excerpt": "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round. Figure will use the VC ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521",
+      "originalUrl": "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2015/11/Robot.jpg",
+          "width": 639,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1",
+      "cdnAmpWebUrl": "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1",
+      "publishedDateTime": "2023-05-24T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-uber-announces-deal-with-waymo-on-self-driving-cars.md",
+      "title": "Uber announces deal with Waymo on self-driving cars",
+      "excerpt": "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo",
+      "originalUrl": "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-05-24/1073568_094330_updates.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo",
+      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo",
+      "publishedDateTime": "2023-05-24T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News International",
+        "domain": "thenews.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists.md",
+      "title": "The First Rule Of Regulating AI Is To Demonstrate A Problem Exists",
+      "excerpt": "AI doomers put the metaphorical cart before the horse, jumping to a foregone policy conclusion without providing supporting evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists/",
+      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e38ca9abfaa52e8a62c3b/0x0.jpg?format=jpg&crop=2985,1661,x0,y271,safe&width=1200",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists/amp/",
+      "publishedDateTime": "2023-05-24T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-a-google-deepmind-ai-language-model-is-now-making-descriptions-for-youtube-shorts.md",
       "title": "A Google DeepMind AI language model is now making descriptions for YouTube Shorts",
       "excerpt": "Google just combined DeepMind and Google Brain into one big AI team, and on Wednesday, the new Google DeepMind shared details on how one of its visual language models (VLM) is being used to ...",
@@ -1021,153 +1158,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-dells-project-helix-is-a-wide-reaching-generative-ai-service.md",
-      "title": "Dell’s Project Helix is a wide-reaching generative AI service",
-      "excerpt": "Project Helix is an early look at an upcoming Dell product that will assist organizations in running generative AI. It spans the lifecycle of the AI creation process, including infrastructure provisioning, modeling, training, fine-tuning, application development and deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/dell-technologies-world-project-helix-generative-ai-deployment/",
-      "originalUrl": "https://www.techrepublic.com/article/dell-technologies-world-project-helix-generative-ai-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2019/08/AdobeStock_109099922-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-the-new-era-of-big-data.md",
-      "title": "The New Era Of Big Data",
-      "excerpt": "TC Energy leveraged the image processing ML technology Amazon Rekognition from Amazon Web Services (AWS) to classify and label the digitized records and then deployed the AI service Textract to transform the handwritten letters into machine-readable words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646cba1470047fbdce5f411d/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
-      "publishedDateTime": "2023-05-24T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-to-build-humanoid-robots.md",
-      "title": "AI Startup Figure Raises $70 Million to Build Humanoid Robots",
-      "excerpt": "AI Startup Figure Raises $70 Million to Build Humanoid Robots By Krystal Hu (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2023-05-24/ai-startup-figure-raises-70-million-to-build-humanoid-robots",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-05-24/ai-startup-figure-raises-70-million-to-build-humanoid-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

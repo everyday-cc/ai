@@ -2,6 +2,143 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-06-29-digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets.md",
+      "title": "Digital twin vs digital thread: Two complementary ways to digitally replicate assets",
+      "excerpt": "As digital transformation accelerates in manufacturing and engineering, two concepts have gained significant traction: digital twins and digital threads.\nThe post Digital twin vs digital thread: Two complementary ways to digitally replicate assets appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets/",
+      "originalUrl": "https://www.ibm.com/blog/digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T06:13:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era.md",
+      "title": "Why Startups Need An Old-School Approach To Talent Development In The AI Era",
+      "excerpt": "It was an era that took computers from room-sized systems that seemed to consume punch cards to something smaller and more usable. We were on the verge of enormous change, introducing computers into business processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c36af10ee767e81facb6d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
+      "publishedDateTime": "2023-06-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone.md",
+      "title": "Wordly Wins Virtual Events Innovation Award and Passes 2 Million AI Translation User Milestone",
+      "excerpt": "Wordly, the leading provider of AI translation for meetings and ... the Wordly translation platform provides real-time translation into 30+ languages for in-person and virtual meetings and events.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33056781",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33056781",
+      "publishedDateTime": "2023-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
       "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
       "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
@@ -1002,144 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-us-planning-for-new-restrictions-on-ai-chip-exports-to-china.md",
-      "title": "US Planning for New Restrictions on AI Chip Exports to China",
-      "excerpt": "US may halt shipments of chips made by Nvidia, Advanced Micro Devices (AMD), and other chip companies to customers in China as early as July.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/29/us-planning-for-new-restrictions-on-ai-chip-exports-to-china/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/29/us-planning-for-new-restrictions-on-ai-chip-exports-to-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-29-084046.png",
-          "width": 901,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-computer-vision-south-america.md",
-      "title": "Computer Vision - South America",
-      "excerpt": "Value in the Computer Vision market is projected to reach US$523.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.09%, resulting in a market volume of US$1,318 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/south-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-natural-language-processing-south-america.md",
-      "title": "Natural Language Processing - South America",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.56bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.60%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

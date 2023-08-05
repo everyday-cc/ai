@@ -69,22 +69,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
-  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
-    excerpt: "Datadog adds observability for Large Language Models and generative AI application components SAN FRANCISCO, /PRNewswire/ -- Datadog, Inc. (NASDAQ:DDOG), the monitoring and security platform for cloud"
-    publishedDateTime: 2023-08-03T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33554896/datadogs-platform-expands-to-support-monitoring-and-troubleshooting-of-generative-ai-applications"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33554896"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33554896"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "IDC-Teradata Study: Data Ethics, IT Complexity, and the Future of Generative AI in Global Enterprises"
     excerpt: "Executives at large enterprises across the globe are facing unprecedented pressures around adopting generative artificial"
     publishedDateTime: 2023-08-01T15:00:00Z
@@ -159,6 +143,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 18
+  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
+    excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
+    publishedDateTime: 2023-08-03T17:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
   - title: "TribalScale Partners With Senso AI to Unleash Generative AI Technology for Enhanced Software Customization"
     excerpt: "The strategic partnership will equip businesses with a formidable competitive edge by integrating Generative AI into their customized software solutions, paving the way for groundbreaking innovations and cutting-edge user experiences."
     publishedDateTime: 2023-08-01T14:23:00Z

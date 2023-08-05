@@ -1,6 +1,6 @@
 ---
 category: news
-title: "How MIT's Liquid Neural Networks can Solve AI problems from Robotics to Self-Driving Cars"
+title: "How MIT's Liquid Neural Networks Can Solve AI Problems from Robotics to Self-Driving Cars"
 excerpt: "In the current artificial intelligence (AI) landscape, the buzz around large language models (LLMs) has led to a race toward creating increasingly larger neural networks. However, not every application can support the computational and memory demands of very large deep learning models."
 publishedDateTime: 2023-08-03T14:25:00Z
 originalUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"
@@ -35,6 +35,6 @@ related:
         height: 667
         isCached: true
 
-secured: "LHnCjKxMBXKGqplFra45zTYGvSk+gAauVPKTpH17wudo56mBK60Alxtcl7dgb2s4JnjPZppYmAGNHfFBLY4fMLMNwMQlaMhbiSSuGgpX+Rw4uy1ZTTY/dXVsUhh1sq4Cp2ubGrYNc3w/s1JYZkwBJbEhHmHNDxVxArepJ3+UNPZ3Aj/3zSMPeve1f2RVlFSC7y25e9bBEvbsfk55XCSGfMmhJISC9W5Txqg3wyt7Yn6ETZkDslkhFPvxhdJPwTlP6DnxUF2n8DlNB8xOIu9/+J+EvCd2BtLLTejXFOj9hBeK44NNr3xjjQokOUyiuewVTKHM/xMfZRubSBr7VQRwQHjRYgK9xTKwoA4g1pI/dzVfrbwbnDdXHVtN+S0GAKzOEuxzlDO588OedjInDQjF3yv+5SJREMkkiBHW0IdFORNBlxdAHjHN6Z3LPRuaosOdBZmRXHK1AFdy2tvfcb0MuSgILguOQpg7hutzdJ6G39VWOEybZTsOueFIiHxS9P3p+PDrzx5EbloJfTkLR0bUEw==;rCSJEBJZgtf2KvYiJkRPzg=="
+secured: "TjH5TijmEVNSZKxjdXs6k/otMy9H9BhwlZFSAnaDRcnNd10gpMSKIwjsSwYO/SLrm+B+7rcHs8XyAHfpMx1wHs3pEilPCmWpYoqy0IAEipt8sTOPKHfOJ9wDm8wBFmt9H4dxCZ5TE8lb9U2UvkE+NyNYq2R1cSOWPXKUBzN1ueyXgJP0kpgaKkOx1VrabMkJu882QM0pQyjUn2ImymfeGUZUstHXdISBoLpHkOp5L/exbX3BEoJuDC8bGto6CgnwtD8b3pN1h/NheERrm0vDWv4FM/d7j5uRAUURob/zDvhmqnzoyCtIQBD8R6p//laQYyC7/5LDjWKqI+phYKspe5b4au7dxHWrk2AyXktJvs/vhgSqG0RUQ5vgZ3b8Y3pxkLNDgDaJXbGldQ/K6aRP8FOLTvg5pAcXJfpjCMOHp7w9al/vTyDPUkgaviIfm+gSZvJXhoEyZz9MivjC16nnRXkJ0b5Kmj3RxsQUR8Wlv67nHqqhIjyKoytqbknycxMwFa/bTnEEt3SE6+a2/clk7w==;+wIXURVqv+ku8k2pERO2Aw=="
 ---
 

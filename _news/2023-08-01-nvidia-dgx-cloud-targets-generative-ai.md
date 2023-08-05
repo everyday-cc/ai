@@ -59,20 +59,6 @@ related:
         width: 800
         height: 553
         isCached: true
-  - title: "Dell, Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage-e1670972874249.jpg?fit=750%2C501&#038;strip=all"
-        width: 750
-        height: 501
-        isCached: true
   - title: "AMD's AI And Expansion Plans Hold Great Promise Of Catching Up To Nvidia"
     excerpt: "With intense PC market weakness that refuses to fade, Advanced Micro Devices Inc (NASDAQ: AMD) delivered better-than-expected results on Tuesday as the chip maker continues aspiring to challenge the AI chip leader,"
     publishedDateTime: 2023-08-02T16:10:00Z
@@ -117,15 +103,6 @@ related:
         width: 800
         height: 538
         isCached: true
-  - title: "Dell and Nvidia join forces for next-gen generative AI solutions"
-    excerpt: "Dell is announcing new validated designs with Nvidia for helping enterprises deploy Generative AI workloads into production on-premises."
-    publishedDateTime: 2023-07-31T19:14:00Z
-    webUrl: "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Why the AI World is Looking Up to NVIDIA"
     excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."
     publishedDateTime: 2023-08-03T07:06:00Z

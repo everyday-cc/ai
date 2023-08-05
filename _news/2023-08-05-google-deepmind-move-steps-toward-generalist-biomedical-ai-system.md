@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
-    excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
-    publishedDateTime: 2023-07-31T21:13:00Z
-    webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "New DeepMind AI model can control robotic actions it was never trained to do"
     excerpt: "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines."
     publishedDateTime: 2023-08-01T16:58:00Z
@@ -70,22 +56,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
         width: 710
         height: 435
-        isCached: true
-  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
-    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
-    publishedDateTime: 2023-08-02T14:00:00Z
-    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
-    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 72
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
     excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."

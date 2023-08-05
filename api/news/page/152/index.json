@@ -2,6 +2,160 @@
   "page": 152,
   "value": [
     {
+      "path": "_news/2023-05-02-godfather-of-ai-exits-google-concerned-about-multiple-ethical-problems.md",
+      "title": "'Godfather of AI' exits Google, concerned about multiple ethical problems",
+      "excerpt": "Hinton worries unregulated AI could lead to waves of misinformation, lost jobs, and problems with fully automated weapons. It’s no secret that Google has been ramping up AI development to put out products that can compete with the likes of ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-ai-concerns-3319098/",
+      "originalUrl": "https://www.androidauthority.com/google-ai-concerns-3319098/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Logo-Lights.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
+      "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
+      "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-maturity-2023-may?amp",
+      "publishedDateTime": "2023-05-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-ai-platform-to-analyze-creative-advertising-raises-51m-from-investors-including-a16z.md",
+      "title": "AI platform to analyze creative advertising raises $5.1M from investors, including a16z",
+      "excerpt": "In this increasingly AI-driven era, creative and media teams will probably need to employ the technology to up their game on analyzing their creative assets and A/B testing — or someone else will simply beat them to the punch.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/",
+      "originalUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-22.44.09.png?resize=1200,824",
+          "width": 1199,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/amp/",
+      "publishedDateTime": "2023-05-01T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-white-house-wants-to-know-how-ai-monitoring-is-impacting-your-work.md",
       "title": "White House Wants to Know How AI Monitoring is Impacting Your Work",
       "excerpt": "The Biden Administration is reportedly looking for feedback from workers to see how AI tools are being in the workplace.",
@@ -1048,144 +1202,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns.md",
-      "title": "Next big wave in tech investing? Watch out for AI ‘technology unicorns’",
-      "excerpt": "Venture capital pros expect generative AI to be “highly” or “moderately disruptive” over the next five years with more than 70% believe a wave of AI-inspired “technology unicorns” is on the horizon. Check out the results of a new survey from Pitchbook.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "originalUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/cash-dollars-investing.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "publishedDateTime": "2023-05-01T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-can-self-driving-ships-revolutionize-water-travel-and-fix-supply-chains.md",
-      "title": "Can Self-Driving Ships Revolutionize Water Travel And Fix Supply Chains?",
-      "excerpt": "Current autonomous systems aren’t necessarily whizzes at perceiving obstacles or overcoming navigation challenges — Tesla’s Full Self-Driving feature, which despite the name requires some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
-      "originalUrl": "https://www.inverse.com/science/autonomous-self-driving-ships",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/image/2023/5/1/ab512dfb-acb4-4004-b5f2-79289fedab47-c26b7f51-d378-4944-8bc0-f7216d76cb2e-thecusp_autonomoustravel_header.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inverse",
-        "domain": "inverse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-best-fintech-app-development-companies-in-the-usa.md",
-      "title": "Best Fintech App Development Companies in the USA",
-      "excerpt": "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

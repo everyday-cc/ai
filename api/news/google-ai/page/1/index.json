@@ -106,6 +106,102 @@
       ]
     },
     {
+      "path": "_news/2023-08-02-deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet.md",
+      "title": "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet",
+      "excerpt": "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/",
+      "originalUrl": "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1",
+      "publishedDateTime": "2023-08-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-new-deepmind-ai-model-can-control-robotic-actions-it-was-never-trained-to-do.md",
+      "title": "New DeepMind AI model can control robotic actions it was never trained to do",
+      "excerpt": "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data",
+      "originalUrl": "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter.md",
       "title": "Deepmind unveils RT-2, a new AI that makes robots smarter",
       "excerpt": "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training.",
@@ -1384,102 +1480,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-leonardo-da-vinci-inside-a-genius-mind.md",
-      "title": "Leonardo da Vinci: Inside a genius mind",
-      "excerpt": "28 institutions from around the world  join forces to showcase Leonardo da Vinci's unparalleled legacy, blending art, science, and AI innovation",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/leonardo-da-vinci-inside-a-genius-mind/amp/",
-      "publishedDateTime": "2023-07-03T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-tensorflow-decision-forests-tutorials.md",
-      "title": "TensorFlow Decision Forests tutorials",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

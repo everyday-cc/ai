@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-05-fomo-driven-generative-ai-acquisition-spree-has-begun.md",
+      "title": "FOMO-Driven Generative AI Acquisition-Spree Has Begun",
+      "excerpt": "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/",
+      "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ce136208f2d9cb9a364b30/0x0.jpg?format=jpg&crop=1600,900,x197,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/",
+      "publishedDateTime": "2023-08-05T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-ibm-cloud-security-how-to-clean-up-unused-access-policies.md",
       "title": "IBM Cloud security: How to clean up unused access policies",
       "excerpt": "How to find inactive access policies and clean them up to enhance security for your IBM Cloud environment.\nThe post IBM Cloud security: How to clean up unused access policies appeared first on IBM Blog.\n",
@@ -1274,49 +1327,6 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ibm-the-og-ai-spark-excitement-for-watsons-new-skills.md",
-      "title": "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills",
-      "excerpt": "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
-      "originalUrl": "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33309833",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833",
-      "publishedDateTime": "2023-07-20T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

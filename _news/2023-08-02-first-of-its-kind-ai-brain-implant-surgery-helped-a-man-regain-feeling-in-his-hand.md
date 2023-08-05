@@ -41,22 +41,6 @@ related:
         width: 875
         height: 556
         isCached: true
-  - title: "A.I. brain implant helps paralyzed man move, feel again"
-    excerpt: "There was a time that I didn’t know if I was even going to live, or if I wanted to, frankly. And now, I can feel the touch of someone holding my hand. It’s overwhelming,\" said Keith Thomas, the patient who received the revolutionary treatment."
-    publishedDateTime: 2023-07-31T21:00:00Z
-    webUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again"
-    ampWebUrl: "https://www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/a-i-brain-implant-helps-paralyzed-man-move-feel-again.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/07/932/470/AI-chip-image.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "AI Brain Implant Helps Patient Regain Both Feeling and Movement"
     excerpt: "AI brain implant has enabled a patient to regain both feeling and movement, offering hope for those living with paralysis."
     publishedDateTime: 2023-08-03T12:33:00Z

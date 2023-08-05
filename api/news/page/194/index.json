@@ -2,6 +2,162 @@
   "page": 194,
   "value": [
     {
+      "path": "_news/2023-03-28-best-artificial-intelligence-ai-stocks-and-shares-for-2023.md",
+      "title": "Best Artificial Intelligence (AI) Stocks and Shares for 2023",
+      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-can-large-language-models-enhance-efficiency-in-industrial-robotics.md",
+      "title": "Can Large Language Models Enhance Efficiency In Industrial Robotics?",
+      "excerpt": "Industrial robotics have revolutionized modern manufacturing processes ... Large language models are a cutting-edge artificial intelligence technology that can understand and respond to human language at times almost indistinguishable from human conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62261169ca448e166b4fa271/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/amp/",
+      "publishedDateTime": "2023-03-28T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-generative-ai-set-to-affect-300-million-jobs-across-major-economies.md",
+      "title": "Generative AI set to affect 300 million jobs across major economies",
+      "excerpt": "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 percent over a 10-year period.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/empty-office-800x563.jpg",
+          "width": 800,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/",
+      "publishedDateTime": "2023-03-28T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data.md",
       "title": "Machine Learning Operations (MLOps) Market Outlook and Forecast to 2030 with Top Countries Data",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"Machine Learning Operations (MLOps) Market\" study describes how the technology industry is evolving and how major and emerging players ...",
@@ -1087,154 +1243,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-the-dream-of-placing-blocks-on-chip-designs-with-ai.md",
-      "title": "The Dream Of Placing Blocks On Chip Designs With AI",
-      "excerpt": "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/",
-      "originalUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg",
-          "width": 1999,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/",
-      "publishedDateTime": "2023-03-27T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-artificial-intelligence-glossary-neural-networks-and-other-terms-explained.md",
-      "title": "Artificial Intelligence Glossary: Neural Networks and Other Terms Explained",
-      "excerpt": "Neural network: A mathematical system, modeled on the human brain, that learns skills by finding statistical patterns in data. It consists of layers of artificial neurons: The first layer receives the input data, and the last layer outputs the results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "originalUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/27/pageoneplus/27OnTechAI-Part1-STILL/27OnTechAI-Part1-STILL-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "publishedDateTime": "2023-03-27T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry.md",
-      "title": "Uppercentile Spearheads AI Ethics Charter Initiative for Healthcare, Seeks Input from the Industry",
-      "excerpt": "Mar 27, 2023 (Prodigy PressWire via COMTEX) -- Uppercentile, an emerging player in healthcare solutions, announces its initiative to develop a template AI Ethics Charter for hospitals and healthcare professionals, aimed at ensuring responsible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

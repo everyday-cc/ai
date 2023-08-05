@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-05-3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now.md",
+      "title": "3 Cheap Autonomous Driving Stocks That Smart Investors Will Snap Up Now",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An interesting phenomenon has occurred when it comes to autonomous driving.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now-1032519182",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now-1032519182",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2021/08/self-driving-300x202.jpg",
+          "width": 300,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts.md",
       "title": "Cyngn-Arauco Deal Tackles Labor Shortage With Driverless Forklifts",
       "excerpt": "Tech company Cyngn has stuck a major deal to help logistics giant Arauco deal with labor shortages by providing forklifts that drive themselves.",
@@ -1334,58 +1386,6 @@
         "name": "Cyprus Mail",
         "domain": "cyprus-mail.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-23-tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free.md",
-      "title": "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free",
-      "excerpt": "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-22T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

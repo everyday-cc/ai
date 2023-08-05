@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Reducing Generative AI Hallucinations and Trusting Your Data: Interview With Cognite CPO Moe Tanabian"
-    excerpt: "What should tech professionals who are concerned about AI hallucinations have in mind when determining whether to use generative AI products?"
-    publishedDateTime: 2023-07-31T20:58:00Z
-    webUrl: "https://www.techrepublic.com/article/interview-moe-tanabian-data-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062223-featuredimage-lenovo-extending-ai-ready-infrastructure.jpeg"
-        width: 1400
-        height: 788
-        isCached: true
   - title: "Using AI to Build Stronger Connections with Customers"
     excerpt: "As companies learn to use generative AI to create value, there’s a risk that they take the wrong approach when applying the technology to the customer experience. In fact, research shows AI can help boost customer satisfaction when it’s used to offer customers more personalized solutions or to help human employees provide better service than they would without the technological assist."
     publishedDateTime: 2023-08-01T12:15:00Z

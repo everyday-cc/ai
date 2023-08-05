@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-31-cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai.md",
+      "title": "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI",
+      "excerpt": "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/",
+      "publishedDateTime": "2023-07-31T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-dobot-robotics-signs-letter-of-intent-with-venhub.md",
+      "title": "DoBot Robotics signs letter of intent with VenHub",
+      "excerpt": "DoBot Robotics has signed a Letter of Intent with VenHub, a company developing a modular retail platform built on expendable containers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "originalUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/dobot-collab-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-money-saving-fintech-snoop-acquired-by-vanquis-banking-group.md",
+      "title": "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group",
+      "excerpt": "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg",
+          "width": 1280,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
+      "publishedDateTime": "2023-07-31T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa.md",
       "title": "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa",
       "excerpt": "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa.",
@@ -1076,154 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
-      "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
-      "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 450,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
-      "publishedDateTime": "2023-07-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
-      "title": "Artificial intelligence, the airplane of the brain?",
-      "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
-      "sourceUrl": null,
-      "webUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
-      "originalUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.english.elpais.com/resizer/0q5qXMcy-sM7hl5Nwu7g0W0QvlU=/1200x0/filters:focal(1262x338:1272x348)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VLDX7LS4JRGWFHYN6XXC5HPQNM.jpg",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
-      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
-      "publishedDateTime": "2023-07-30T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El País in English",
-        "domain": "elpais.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-how-artificial-intelligence-is-helping-hire-promote-and-train-workers.md",
-      "title": "How artificial intelligence is helping hire, promote and train workers",
-      "excerpt": "As artificial intelligence becomes more prevalent in business, HR departments are at the forefront of capitalizing on its potential. A majority of HR leaders are already using AI for a variety of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107274356-1689869031421-gettyimages-1204762097-p_ab_technology153.jpeg?v=1690643722",
-          "width": 2289,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "publishedDateTime": "2023-07-30T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
