@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-mak
 webUrl: "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: VentureBeat
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's RT-2 makes robot control a matter of AI chat"
-    excerpt: "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words."
-    publishedDateTime: 2023-07-31T05:08:00Z
-    webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New DeepMind AI model can control robotic actions it was never trained to do"
     excerpt: "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines."
     publishedDateTime: 2023-08-01T16:58:00Z

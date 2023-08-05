@@ -2,6 +2,83 @@
   "page": 171,
   "value": [
     {
+      "path": "_news/2023-04-19-im-a-victim-of-flawed-facial-recognition-technology-this-ca-bill-must-be-stopped-opinion.md",
+      "title": "I’m a victim of flawed facial recognition technology. This CA bill must be stopped | Opinion",
+      "excerpt": "A demonstration of facial recognition technology from the artificial intelligence company SenseTime in Shanghai, on April 17, 2018. In a major ethical leap for the tech world, Chinese start-ups ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
+      "originalUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-dangpt-a-blockchain-based-ai-language-model-that-pushes-the-boundaries-of-artificial-intelligence.md",
+      "title": "DanGPT: A Blockchain-based AI-Language Model That Pushes the Boundaries of Artificial Intelligence",
+      "excerpt": "DanGPT, the daring twin of ChatGPT, has arrived to shatter the boundaries of artificial intelligence. With its cutting-edge technology, DanGPT offers an uncensored and unfiltered chatbot experience that pushes the limits of what AI can do.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.blockchainwire.io/uploads/Etkaan/editor_image/ecc5c1da-28c9-4580-8166-fb70d8dc582c.jpeg",
+          "width": 1500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
       "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
       "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
@@ -1020,92 +1097,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined.md",
-      "title": "Opioid Prescriptions' Relationship to Cognitive Function in Later Life Examined",
-      "excerpt": "According to a study, prescription opioid use could have a negative effect on cognitive function in older adults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372292/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292-640x360.jpg?cb=20230419",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech.md",
-      "title": "SCBX forges new collaboration with Stanford HAI to drive innovation in AI and fintech",
-      "excerpt": "With the aim of becoming the leading regional financial technology group, SCBX is firmly committed to staying at the forefront of the latest developments in AI and fintech with the ultimate goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/thailand/pr/2551739/scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech",
-      "originalUrl": "https://www.bangkokpost.com/thailand/pr/2551739/scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/media/content/20230418/c1_2551739_700.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

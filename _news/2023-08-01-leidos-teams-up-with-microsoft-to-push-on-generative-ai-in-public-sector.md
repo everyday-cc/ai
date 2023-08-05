@@ -163,20 +163,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Vontobel Deepens Microsoft Partnership to Deploy AI for Productivity"
-    excerpt: "Vontobel taps Microsoft to support its employees in their daily work through the use of artificial intelligence (AI) technology"
-    publishedDateTime: 2023-07-31T06:40:00Z
-    webUrl: "https://fintechnews.ch/aifintech/vontobel-deepens-microsoft-partnership-to-deploy-ai-for-productivity/62899/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 54
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/07/Vontobel-Deepens-Microsoft-Partnership-to-Deploy-AI-for-Enhanced-Productivity.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Duke Health, Microsoft to Collaborate on AI Innovation"
     excerpt: "The two organizations, members of the Coalition for Health AI, have forged a five-year partnership built around the new Duke Health AI Innovation Lab and Center of Excellence."
     publishedDateTime: 2023-08-01T20:34:00Z

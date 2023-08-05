@@ -2,6 +2,110 @@
   "page": 173,
   "value": [
     {
+      "path": "_news/2023-04-18-elon-musk-plans-truthgpt-ai-to-rival-openai-deepmind.md",
+      "title": "Elon Musk plans 'TruthGPT' A.I. to rival OpenAI, DeepMind",
+      "excerpt": "Tesla, SpaceX and Twitter CEO Elon Musk called for regulation of AI during a taped interview that aired on Fox News Channel's \"Tucker Carlson Tonight.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107183730-1674656520668-gettyimages-1246506636-TESLA_MUSK_COURT.jpeg?v=1681820167",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/18/musk-calls-plans-truthgpt-ai-to-rival-openai-deepmind.html",
+      "publishedDateTime": "2023-04-18T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-19-ways-ai-may-soon-revolutionize-the-healthcare-industry.md",
+      "title": "19 Ways AI May Soon Revolutionize The Healthcare Industry",
+      "excerpt": "From managing administrative tasks to analyzing big data to help diagnose disease, AI may soon be enhancing and accelerating cutting-edge patient care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643d9fea07da9e511fae41f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/amp/",
+      "publishedDateTime": "2023-04-18T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-nexcobot-collaborates-with-ecosystem-partners-to-build-first-x86-functional-safety-robot-control-solution.md",
       "title": "NexCOBOT collaborates with ecosystem partners to build first x86 functional safety robot control solution",
       "excerpt": "NexCOBOT and its ecosystem partners, will announce the launch of a new functional safety robot control solution in Hannover Messe 2023. NexCOBOT's PC-based robot control platform-SCB100 ...",
@@ -1016,110 +1120,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-google-may-add-new-ai-features-to-search-the-new-york-times-reports.md",
-      "title": "Google may add new AI features to search, The New York Times reports",
-      "excerpt": "Internal Google messages reveal changes in response to the rapidly-moving field of artificial intelligence in search engines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-search-artificial-intelligence-samsung/",
-      "originalUrl": "https://www.techrepublic.com/article/google-search-artificial-intelligence-samsung/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32223-google-logo-googleplex-770x513.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/google-search-artificial-intelligence-samsung/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-search-artificial-intelligence-samsung/amp/",
-      "publishedDateTime": "2023-04-17T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector.md",
-      "title": "Overcome the machine learning cold start challenge in fraud detection using Amazon Fraud Detector",
-      "excerpt": "As more businesses increase their online presence to serve their customers better, new fraud patterns are constantly emerging. In today’s ever-evolving digital landscape, where fraudsters are becoming more sophisticated in their tactics, detecting and preventing such fraudulent activities has become",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/17/machine-learning-cold-start-fraud-detector.jpg",
-          "width": 1151,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T13:16:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

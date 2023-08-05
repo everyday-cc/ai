@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 1080
         isCached: true
-  - title: "3 AI-powered companies redefining FinTech in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-31T06:14:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-ai-powered-companies-redefining-fintech-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/ibs_AI-List.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Vanquis Banking Group acquires money-saving FinTech Snoop"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-31T10:53:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintech-unicorn---glowing---finextra.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Vanquis buys fintech firm Snoop"
-    excerpt: "Vanquis Banking Group said on Monday that it has bought money-saving fintech Snoop for an undisclosed sum."
-    publishedDateTime: 2023-07-31T06:51:00Z
-    webUrl: "https://www.sharecast.com/news/news-and-announcements/vanquis-buys-fintech-firm-snoop--14182144.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 24
-    images:
-      - url: "https://img3.s3wfg.com/web/img/images_uploaded/8/f/dl-money-cash-great-british-pounds-sterling-gbp-finance-spending-consumer-footfall-retail-bills-gas-energy-pb.jpg"
-        width: 620
-        height: 350
         isCached: true
   - title: "Top 10 fintech lenders by total funding"
     excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."

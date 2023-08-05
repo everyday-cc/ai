@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/what-europes-ai-regula
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/what-europes-ai-regulation-moment-will-mean-for-the-world-71690830388008.html"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Europe's AI regulation moment will mean for the world"
-    excerpt: "This means it can better address the foundational Large Language Models that emerged in early 2023, such as ChatGPT, Bard and others.In 2024, as the EUs AI Act and the Councils AI Convention are finalised,"
-    publishedDateTime: 2023-07-31T06:44:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2542194-what-europes-ai-regulation-moment-will-mean-for-the-world"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 19
   - title: "Artificial intelligence could mean more litigation for restaurant employers"
     excerpt: "Relying on a computer brain to sift through resumes for the ideal candidate could raise challenges about the criteria that"
     publishedDateTime: 2023-07-31T18:49:00Z

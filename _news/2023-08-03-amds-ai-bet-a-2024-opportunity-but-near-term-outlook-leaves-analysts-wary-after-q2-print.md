@@ -45,6 +45,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "Opinion: Adaptability Separates the New AI from the Old"
+    excerpt: "There are many definitions of artificial intelligence, and it’s been embedded in software for years, but recent advances carry new potential to personalize education, tutor students and automate aspects of school operation."
+    publishedDateTime: 2023-08-04T23:10:00Z
+    webUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old"
+    ampWebUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/648c9b2/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe5%2Fdf%2F7562d8cb9c79b70ffba3ca95f729%2Fshutterstock-529299211.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Opinion: Stop worrying about AI and start paying attention more"
     excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
     publishedDateTime: 2023-08-02T11:54:00Z

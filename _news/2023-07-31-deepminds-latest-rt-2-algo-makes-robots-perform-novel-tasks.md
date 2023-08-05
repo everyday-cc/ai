@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's RT-2 makes robot control a matter of AI chat"
-    excerpt: "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words."
-    publishedDateTime: 2023-07-31T05:08:00Z
-    webUrl: "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deepmind unveils RT-2, a new AI that makes robots smarter"
     excerpt: "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training."
     publishedDateTime: 2023-07-31T21:13:00Z

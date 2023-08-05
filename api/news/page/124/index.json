@@ -2,6 +2,101 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2023-05-16-with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-labor-as-a-service.md",
+      "title": "With new Phoenix robot, Sanctuary AI looks to usher in ‘labor as a service’",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-a-new-era-of-labor-as-a-service/",
+      "originalUrl": "https://www.geekwire.com/2023/with-new-phoenix-robot-sanctuary-ai-looks-to-usher-in-a-new-era-of-labor-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/with-new-phoenix-robot-sanctuary.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-hpe-ezmeral-software-streamlines-data-analytics-and-aiml-initiatives.md",
+      "title": "HPE Ezmeral Software streamlines data, analytics and AI/ML initiatives",
+      "excerpt": "Hewlett Packard Enterprise is overhauling its Ezmeral software portfolio and simplifying data organization, management and analytics for organizations advancing their artificial intelligence (AI) and machine learning (ML) workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
+      "originalUrl": "https://venturebeat.com/ai/hpe-ezmeral-software-streamlines-data-analytics-and-ai-ml-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work.md",
       "title": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work",
       "excerpt": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work May 16, 2023 (PRNewswire via COMTEX) -- PR Newswire VANCOUVER, BC, May",
@@ -1118,101 +1213,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand.md",
-      "title": "Bluesky Digital Assets Corp., Announces Intent to Repurpose its GPU Assets Based on AI Demand",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Toronto, Ontario, May 15, 2023 (Newsfile Corp via COMTEX) -- Toronto, Ontario--(Newsfile Corp. - May 15, 2023) - Bluesky Digital Assets Corp., (CSE: BTC) (OTCQB: BTCWF ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-worlds-first-self-driving-bus-rolls-out-in-scotland.md",
-      "title": "World’s first self-driving bus rolls out in Scotland",
-      "excerpt": "The world’s first self-driving bus rolled out in Scotland carrying passengers on a regularly scheduled route. NBC News’ Matt Bradley reports on the future of public transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
-      "originalUrl": "https://www.nbcnews.com/now/video/world-s-first-self-driving-bus-rolls-out-in-scotland-174465605630",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684202953745_now_staytuned_scotland_230515_1920x1080-uvfure.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174465605630",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174465605630",
-      "publishedDateTime": "2023-05-15T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

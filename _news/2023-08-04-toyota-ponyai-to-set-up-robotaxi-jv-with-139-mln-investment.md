@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-
 webUrl: "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/"
 type: article
 quality: 67
-heat: 100
+heat: 103
 published: true
 
 provider:

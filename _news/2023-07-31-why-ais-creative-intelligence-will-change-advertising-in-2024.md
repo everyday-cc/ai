@@ -60,6 +60,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
+    excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
+    publishedDateTime: 2023-08-04T22:03:00Z
+    webUrl: "https://venturebeat.com/security/protecting-data-in-the-era-of-generative-ai-nightfall-ai-launches-innovative-security-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vector_art_of_a_double_helix_spiral_made_of_glowing__0635169d-fcb5-425e-b8b1-27d569da5f8d.png?w=1200&strip=all"
+        width: 858
+        height: 686
+        isCached: true
   - title: "AWS Turbocharges Foundation Models With Smart AI Agents"
     excerpt: "Goodson discusses AWS's recently announced AI capability that adds key functionality to its foundation models."
     publishedDateTime: 2023-08-04T13:00:00Z

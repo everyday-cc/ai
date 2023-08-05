@@ -2,6 +2,92 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-07-24-tonix-pharmaceuticals-holding-corp.md",
+      "title": "TONIX PHARMACEUTICALS HOLDING CORP",
+      "excerpt": "The findings reported today show that tianeptine and estianeptine improve memory and cognition as measured in the rat Novel Object Recognition (NOR) test. The finding that estianeptine is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-how-can-we-get-language-models-to-learn-more.md",
+      "title": "How Can We Get Language Models To Learn More?",
+      "excerpt": "Jacob Andreas is an assistant professor at CSAIL, EECS MIT and computer scientist known for his contributions to natural language processing and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/",
+      "originalUrl": "https://www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/24/6331719775112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6331719775112/how-can-we-get-language-models-to-learn-more/amp/",
+      "publishedDateTime": "2023-07-24T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-mdbio-the-doctors-brandtm-publishes-new-article-about-artificial-intelligence-in-healthcare.md",
       "title": "MDbio – The Doctors BrandTM Publishes New Article About Artificial Intelligence in Healthcare",
       "excerpt": "Beverly Hills, California, July 24, 2023 (GLOBE NEWSWIRE) -- MDbio – The Doctors BrandTM published a new article about artificial intelligence in healthcare and what the future of this ...",
@@ -1106,109 +1192,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-for-execs-how-to-cut-through-the-noise-and-deliver-results.md",
-      "title": "AI for execs: How to cut through the noise and deliver results",
-      "excerpt": "Where are your key business pain points and inefficiencies? Ultimately, the best approach is to start with the problem rather than the exciting new AI solution. We recommend taking new technologies as building blocks to create enterprise-ready solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noise-and-deliver-results/",
-      "originalUrl": "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noise-and-deliver-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_an_executive_leading_a_successful_business_meeting._col_75a8f6d4-f73f-4ecb-809e-159525094e5b.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-hype-fright-and-ethics-in-implementing-ai.md",
-      "title": "Hype, Fright And Ethics In Implementing AI",
-      "excerpt": "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bd914505a8958614d98958/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/",
-      "publishedDateTime": "2023-07-23T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/gartner-machine-learning-data
 webUrl: "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/"
 type: article
 quality: 65
-heat: 78
+heat: 81
 published: true
 
 provider:

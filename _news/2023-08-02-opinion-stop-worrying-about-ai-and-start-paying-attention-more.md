@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Opinion: Adaptability Separates the New AI from the Old"
+    excerpt: "There are many definitions of artificial intelligence, and it’s been embedded in software for years, but recent advances carry new potential to personalize education, tutor students and automate aspects of school operation."
+    publishedDateTime: 2023-08-04T23:10:00Z
+    webUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old"
+    ampWebUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/648c9b2/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe5%2Fdf%2F7562d8cb9c79b70ffba3ca95f729%2Fshutterstock-529299211.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "zo4uv9NLt3BcP67ZP5kOY24OT96pKbQ67/0zWRXbqSZXQF6x2n8s3uwuYQMWHHSrvqsEkSLyFco6Ik0RBl5cwuRKmelo5iUakJaTTUWZUBtVkY0LJk0MW6ap44DsX7OvRuIWq4m4/YUZ5vuTaaW3snZedv+U01Efsyzh8Pzr1HetUPOGmF4Wbw84ys9JHNWWYyzg7VVqxOPT/jvduLZvEqphlgHqiojtzCEo9m5rQEf/EtYYyLPqQiYYEhXC8O51enlqu/cAx7Xl9/0STfkW3799NWyodzZoaPb0MhTQt2BxPu7cSxx2+LmTea8RB/V5gpFWE2DHvoDufRhCLbJ16yxh/QNbJFhZVoKSpbm+HQNrrNKvEOONxC0YbIQ7OBcoAKQQdwALP6PalV/4Jh/tiHrWLZaQdEzKkCWF7xs9na/oxdU1nobigvPbDtfXqUFTc0G+N0M6SvTBhvQy2n8vVb/vceqy540GGKRxWJv5czsyHyxJiMNaZvUOgzQ3Rwt/J4I5sFg0zbCNRV4Cq0q1Lw==;3sr73MTGMAzL84qHLPe51Q=="
 ---
