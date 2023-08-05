@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/08/04/a-little-known-data-center-service
 webUrl: "https://www.cnbc.com/2023/08/04/a-little-known-data-center-servicer-could-see-ai-tailwinds-bofa-says.html"
 type: article
 quality: 80
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -30,19 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "⅓ of Americans see AI and robotics providing future care"
-    excerpt: "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts."
-    publishedDateTime: 2023-07-31T21:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html"
+  - title: "AI bots could soon become your new customer service agent"
+    excerpt: "If you thought getting through an automated voice system was annoying, you could soon try getting through an AI bot."
+    publishedDateTime: 2023-08-04T20:00:00Z
+    webUrl: "https://www.zdnet.com/article/ai-bots-could-soon-become-your-new-customer-service-agent/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-bots-could-soon-become-your-new-customer-service-agent/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://www.zdnet.com/a/img/resize/574ad552295b7fe72b2a95f25478449eaaa86df0/2023/08/04/8f693c73-034a-4be4-b8ef-216ddeaa6485/gettyimages-1502919517.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "RVA could become AI, tech hub"
+    excerpt: "The Richmond Technology Council — branded as rvatech — is a member-driven association of companies actively trying to grow Richmond's tech-based economy. The group is applying for a federal grant that worth between $50 to $70 million that would establish Richmond as one of about 20 tech hubs around the country."
+    publishedDateTime: 2023-08-03T05:15:00Z
+    webUrl: "https://richmond.com/rva-could-become-ai-tech-hub/article_9797a965-b606-5c75-94f9-ad0bf0791f0d.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "5W8WLozBpn0iuhYfq1FdzwsD8FlP+STtHRSPTYnDHyeFA2vUeden7YZIZrb1h20MV/s7g72wbeX73UKZnDjHOzDZ/z5hSR4zhtD4T2e4+Rls3YTwkrRO470vpP9UpuGlE8CSud4uoPuLwT66NL5V/SKpvwJV4QHIhOdHab+84SuKo5CvhyFwjC9C2cu+GQTYjbNHiBFJ83IWiuF9lEc08WPB01tKX0xDa2lV9OWwO1iD3/W05Wh+shr4vx7BEGUxhy08++KEYY5MrB61bjS3XxkQ3zOhkkRQ/c7eVCJ6c6VugWmB/H6iDeHrnTEt7EbtEFel4/iZ+NBo43W3sOYUKV7Q38b90C7Qvr7OlqTG+jWKk7FKuDaEo+rm+rp9X7oA+wZlMeDLKzDRgp7TjjxfZI0ktwS91P5c/dwLZNHHx3SlQ6RNBT8KKBRRcveWTNcqROLCovpKNVGg42UdFJa/ymy9YmdFxr7v1aBFie3gHFL6E+wASUTwZwGzrdmpW5u0FvOYusGOE4oNDJROD58cRQ==;xT1MKBFpryETNhAxbzjt6w=="

@@ -1,33 +1,23 @@
 ---
 category: news
-title: "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars"
-excerpt: "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle."
-publishedDateTime: 2023-08-03T05:43:00Z
-originalUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
-webUrl: "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/"
+title: "How MIT's Liquid Neural Networks can Solve AI problems from Robotics to Self-Driving Cars"
+excerpt: "In the current artificial intelligence (AI) landscape, the buzz around large language models (LLMs) has led to a race toward creating increasingly larger neural networks. However, not every application can support the computational and memory demands of very large deep learning models."
+publishedDateTime: 2023-08-03T14:25:00Z
+originalUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"
+webUrl: "https://cacm.acm.org/news/275198-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/fulltext"
 type: article
-quality: 107
-heat: 124
-published: true
+quality: 42
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: acm.org
+  domain: acm.org
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
   - AI in Robotics
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all"
-    width: 858
-    height: 686
-    isCached: true
 
 related:
   - title: "Liquid neural networks: how a worm solves AI’s problems"
@@ -45,6 +35,6 @@ related:
         height: 667
         isCached: true
 
-secured: "Tc+Ui/Xpyf68fompsvu0QHq9BBWcg9/a/1GoiN6XEkbo6/cvURLIcj0VmHi+xpmHcBBQztYFtuEtXEuA6U9JFvj+UcHxMvhvfq7a/RHq3+4b87/prlsJVDW9p2r3Y35Pwb6lmmJo5OHqyGUHye5W7vzb6Ut0rpYKzUGZmfN2zeWW0veEjAdSA12uM/X+MMrI/15damjnXgnJGkVVnzLpajHKj+UZ47fe54PsOBGe3kPsYLe5zYdjVd1VhkaZR1YqqnBKMHf2ui3jtLK6Jc3ODodVILFuJFrAWFLNdizAGdWVOfD3J8M4P2mwJ/5ZDQZ+oF0vIzY5BkZE4vW8gjdfjqFYvQAb5xNFI9D5yaQGrW8=;f7YS4N3+zWjsmQ4fv8rAsg=="
+secured: "LHnCjKxMBXKGqplFra45zTYGvSk+gAauVPKTpH17wudo56mBK60Alxtcl7dgb2s4JnjPZppYmAGNHfFBLY4fMLMNwMQlaMhbiSSuGgpX+Rw4uy1ZTTY/dXVsUhh1sq4Cp2ubGrYNc3w/s1JYZkwBJbEhHmHNDxVxArepJ3+UNPZ3Aj/3zSMPeve1f2RVlFSC7y25e9bBEvbsfk55XCSGfMmhJISC9W5Txqg3wyt7Yn6ETZkDslkhFPvxhdJPwTlP6DnxUF2n8DlNB8xOIu9/+J+EvCd2BtLLTejXFOj9hBeK44NNr3xjjQokOUyiuewVTKHM/xMfZRubSBr7VQRwQHjRYgK9xTKwoA4g1pI/dzVfrbwbnDdXHVtN+S0GAKzOEuxzlDO588OedjInDQjF3yv+5SJREMkkiBHW0IdFORNBlxdAHjHN6Z3LPRuaosOdBZmRXHK1AFdy2tvfcb0MuSgILguOQpg7hutzdJ6G39VWOEybZTsOueFIiHxS9P3p+PDrzx5EbloJfTkLR0bUEw==;rCSJEBJZgtf2KvYiJkRPzg=="
 ---
 

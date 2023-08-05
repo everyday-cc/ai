@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-year
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/648c9b2/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe5%2Fdf%2F7562d8cb9c79b70ffba3ca95f729%2Fshutterstock-529299211.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
+    excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
+    publishedDateTime: 2023-08-05T10:00:00Z
+    webUrl: "https://www.sentinelsource.com/opinion/op-ed/guest-opinion-if-artificial-intelligence-takes-your-job-it-should-pay-you/article_32b24ce9-0f61-564d-98e0-57438d9a70e9.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 35
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/7819b5a8-f0c2-11ec-85c6-cff09f7b972a.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Opinion: Stop worrying about AI and start paying attention more"
     excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."

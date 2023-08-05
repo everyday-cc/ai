@@ -61,6 +61,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Guest Opinion: If artificial intelligence takes your job, it should pay you"
+    excerpt: "Actors love residuals. Don’t worry, this is not some annoying Hollywood thing like quinoa or crystal healing. I actually do like quinoa — sorry. Anyway, what are residuals?"
+    publishedDateTime: 2023-08-05T10:00:00Z
+    webUrl: "https://www.sentinelsource.com/opinion/op-ed/guest-opinion-if-artificial-intelligence-takes-your-job-it-should-pay-you/article_32b24ce9-0f61-564d-98e0-57438d9a70e9.html"
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 35
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/7819b5a8-f0c2-11ec-85c6-cff09f7b972a.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Opinion: Stop worrying about AI and start paying attention more"
     excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
     publishedDateTime: 2023-08-02T11:54:00Z

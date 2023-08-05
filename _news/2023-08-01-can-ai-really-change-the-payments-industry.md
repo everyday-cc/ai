@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "How will AI impact your industry? Pew Research has answers"
+    excerpt: "As seen by the results, the industries with the least amount of exposure are those that require a physical actual human, such as a barber or a dishwasher, or that require skills that cannot be recreated by AI, such as interpersonal communication needed to be a sales manager or chief executive."
+    publishedDateTime: 2023-08-04T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fbfc2acf029df715a70a2814a1ee5221d3edbb3a/2023/08/04/0c25e0c8-cd05-452c-be00-15fed3498805/gettyimages-1451024169.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How artificial intelligence M&A performed in the power industry in Q2 2023"
     excerpt: "In the global power industry, there were 2 M&A deals announced in Q2 2023, worth a total value of $12.5m, according to GlobalData's Deals Database."
     publishedDateTime: 2023-08-01T02:06:00Z

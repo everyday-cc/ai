@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-t
 webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Top 8 Bizarre AI Predictions That Could Change the Future"
-    excerpt: "Dive into the realm of AI's oddest forecasts, unveiling the top 8 strangest predictions, from AI-powered politics to digitally eternal life."
-    publishedDateTime: 2023-07-31T17:44:00Z
-    webUrl: "https://yourstory.com/2023/07/strangest-predictions-artificial-intelligence"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 19
 
 secured: "1aAL8WwtzSBo7ZnpCFXT3WmawLmDTtz0VkG79Ax5qwSj1CkVZH1VD7vxvNZtjJ3KAd9uUanUUIdoZSH1wP7QTPY/WGcfDgowDRl4Eg97Fa8L22pFmKWxiOmJ+sAO4EjiJ2Yu5Y1laN9lijqXb1thfe3IXHs1Lf3OESo/xKy4GLRkQZy4eShvr2sgz7Wck4IAZTKTmbusgQ0MQYai1f8kcEGRFJ55lJ0gLMe/1o5kzRFlJ24RTx4C0In80RdsVKwAhGWVdQmQ/bmd3oaLl6SBfLE3tYyed5jr5ToV/x9pEMNs64SdHdOjRECTeyfW4w1aaRb0MEty6a3DuJWbG11+S6Lc7xLiYsRycZNaqoyFOyY=;thJkj8PMinCtqxG/bQJbUA=="
 ---

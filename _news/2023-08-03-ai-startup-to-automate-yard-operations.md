@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "National Beat: IBM's startup shopping spree, AI jobs and new startups to watch"
-    excerpt: "In the latest National Beat, we're looking at the top cities for AI jobs, the founder of Whole Foods' next gig, and new startups to watch."
-    publishedDateTime: 2023-07-31T18:30:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2023/07/31/national-beat-ai-jobs-startups.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
-
 secured: "PyU0VKSAw3tA4xAbkkjmMkgb4pR5AVwiNVYunYWMzYccYbHRaJhf3eqTiy11Heeu4YA1CMpXdoAEXtSbPJKShVqxQiRZ1S85T4Qr1Q2G+w+2ydIfA6+8mTW7TjQgGYuqS+wOMi8mVeDyDEaHyYYvlwEkj7x5TA9e3nXtttC3cIxFBxiM7bXnj1FfxQSyxAot5Ryig1Vp5TKuLqNyCgDlWQk2KFPv2OZP+em9JrCp9xbeRew/Kf88jbKH+vuXf4VI1KqznTLx7TVvTBo1m1dZZWZuV+A8hvQpDv0t6UX0cR50SnjFiep0v9poU1anABoaYeWkzWlNscc4MylJI1E4iyFLFKqLAzjwN/CsQQZ+P/kyDe09JnDjrl6WAFL0PmoJ+EmQ6mlIEFr/cdxSFQ6RyIJXmCZipiAJ3jUTqx5wZLYRL00kWlEq8oFyv54ZjVJ3+ac9UXVPOBYImptcMFE9vcO8eIrNC/7j/GgQTfAVksbg4PFOAGZww837oefNXTYSA/u2ueaI0AAYLCOJdfWJmA==;W/y6MXF9Aiu9ltxwEy7Z4w=="
 ---
 

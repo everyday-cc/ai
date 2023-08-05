@@ -2,6 +2,162 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-06-10-the-next-threat-from-generative-ai-disinformation-campaigns.md",
+      "title": "The Next Threat From Generative AI: Disinformation Campaigns",
+      "excerpt": "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
+      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
+      "publishedDateTime": "2023-06-09T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-10-3-bipartisan-bills-aiming-to-regulate-ai-hit-congress-this-week-heres-what-we-know.md",
+      "title": "3 bipartisan bills aiming to regulate AI hit Congress this week: Here's what we know",
+      "excerpt": "Two bills in the Senate and one in the House were introduced to further regulate AI and ensure the US remains at the forefront of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
+      "originalUrl": "https://www.zdnet.com/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a142c2f98b62d1d057e988f9cfb3200138c0d767/2023/06/09/19d82152-24a3-4883-b04b-e1a34492c3cc/gettyimages-1491432797.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
+      "publishedDateTime": "2023-06-09T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-10-has-qualcomm-already-beaten-apple-to-the-punch-in-smartphone-ai.md",
+      "title": "Has Qualcomm Already Beaten Apple to the Punch in Smartphone AI?",
+      "excerpt": "But that training process happens once. Inference occurs countless times, as users may prompt an AI algorithm to process work for many years -- consuming lots more electricity on powerful cloud-based chips in the process. This is why on-device inference is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/735629/smartphone-city-connectivity.jpg",
+          "width": 4896,
+          "height": 3264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-10-ron-desantis-angers-maga-with-ai-generated-trump-attack-ad-images.md",
       "title": "Ron DeSantis Angers MAGA With AI-Generated Trump Attack Ad Images",
       "excerpt": "On Thursday, Trump supporter Laura Loomer tagged Elon Musk —who hosted DeSantis last month on Twitter Spaces as he announced his candidacy to become president in 2024—as part of a tweet request to understand why Trump supporters receive a \"community note\" when posting about DeSantis, but the DeSantis War Room video did not.",
@@ -1036,159 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-picture-perfect-the-hidden-consequences-of-ai-beauty-filters.md",
-      "title": "Picture Perfect: The Hidden Consequences Of AI Beauty Filters",
-      "excerpt": "AI beauty filters can provide a quick fix for the perfect selfie, but at what cost? Uncover the potential dangers and pitfalls of these popular digital tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/09/picture-perfect-the-hidden-consequences-of-ai-beauty-filters/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/09/picture-perfect-the-hidden-consequences-of-ai-beauty-filters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6482c11f3213371b8449995a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/09/picture-perfect-the-hidden-consequences-of-ai-beauty-filters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/09/picture-perfect-the-hidden-consequences-of-ai-beauty-filters/amp/",
-      "publishedDateTime": "2023-06-08T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-fear-at-10-senators-concerns-spike-on-impact-of-artificial-intelligence-to-change-votes-in-2024.md",
-      "title": "Fear at 10:’ Senators’ concerns spike on impact of artificial intelligence ‘to change votes’ in 2024",
-      "excerpt": "Presidential campaigns are already using content generated by artificial intelligence. Some senators said they're concerned how the development will impact the 2024 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/fear-10-senators-concerns-spike-impact-artificial-intelligence-change-votes-2024",
-      "originalUrl": "https://www.foxnews.com/us/fear-10-senators-concerns-spike-impact-artificial-intelligence-change-votes-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc4ded6e-bf81-46ca-96ea-f4e0563e13fa/b5874455-b514-4152-b1ee-4cc6fa41f2e9/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/fear-10-senators-concerns-spike-impact-artificial-intelligence-change-votes-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/fear-10-senators-concerns-spike-impact-artificial-intelligence-change-votes-2024.amp",
-      "publishedDateTime": "2023-06-08T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-leonardo-dicaprio-ashton-kutcher-lead-stars-jumping-on-ai-wagon-with-reported-million-dollar-investments.md",
-      "title": "Leonardo DiCaprio, Ashton Kutcher lead stars jumping on AI wagon with reported million-dollar investments",
-      "excerpt": "Some of the biggest A-list celebrities are investing their time and money into artificial intelligence, particularly startups, including Leonardo DiCaprio and Robert Downey Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/leonardo-dicaprio-ashton-kutcher-lead-stars-ai-wagon-reported-million-dollar-investments",
-      "originalUrl": "https://www.foxnews.com/entertainment/leonardo-dicaprio-ashton-kutcher-lead-stars-ai-wagon-reported-million-dollar-investments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/1200/675/GettyImages-1492014621-copy.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/leonardo-dicaprio-ashton-kutcher-lead-stars-ai-wagon-reported-million-dollar-investments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/leonardo-dicaprio-ashton-kutcher-lead-stars-ai-wagon-reported-million-dollar-investments.amp",
-      "publishedDateTime": "2023-06-08T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

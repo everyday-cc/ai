@@ -179,24 +179,6 @@ related:
         width: 1023
         height: 507
         isCached: true
-  - title: "Is your model good? A deep dive into Amazon SageMaker Canvas advanced metrics"
-    excerpt: "If you are a business analyst, understanding customer behavior is probably one of the most important things you care about. Understanding the reasons and mechanisms behind customer purchase decisions can facilitate revenue growth. However, the loss of customers (commonly referred to as customer churn)"
-    publishedDateTime: 2023-07-31T18:45:03Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/is-your-model-good-a-deep-dive-into-amazon-sagemaker-canvas-advanced-metrics/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 66
-  - title: "Build protein folding workflows to accelerate drug discovery on Amazon SageMaker"
-    excerpt: "Drug development is a complex and long process that involves screening thousands of drug candidates and using computational or experimental methods to evaluate leads. According to McKinsey, a single drug can take 10 years and cost an average of $2.6 billion to go through disease target identification,"
-    publishedDateTime: 2023-07-31T18:49:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 64
   - title: "AI Transformer Models Enable Machine Vision Object Detection"
     excerpt: "A system-level view of machine vision will be essential to move the technology forward."
     publishedDateTime: 2023-08-03T07:06:00Z

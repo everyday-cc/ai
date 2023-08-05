@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways to detect generative AI hype from reality"
-    excerpt: "Every IT vendor is banging the drum for generative AI. Here's how to make sure the technology you use is in rhythm with your company's wider aims."
-    publishedDateTime: 2023-07-31T17:24:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-to-detect-generative-ai-hype-from-reality/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a252daff5cb958db54d5ce0f3eed8c722c87bd3e/2023/07/31/2d626a5b-2621-4fe7-b14e-9e3d416e5822/gettyimages-1353710557.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Wix Bets On Generative AI To Empower Agencies With New Web Creation Platform"
     excerpt: "Web development company Wix has unveiled Wix Studio, a new platform targeting agencies and freelancers that aims to transform website creation through generative AI."
     publishedDateTime: 2023-07-31T23:38:00Z
@@ -94,6 +78,6 @@ related:
         height: 400
         isCached: true
 
-secured: "WJiOeHkORfKJpuKPArwhJ4W7XpbSWSWRyLvtYvjcaf6pkmQ1j0wvtRPrufDiCx4y6zueID0TU/ga37xrgle9SiofHc6ZCL0kUelF+BKRD/o/g83urXXROV+E4XZIny1HFZWq8+hEgz6jIvuPfMOy6fULETiBHbwENU1+gIF/WnAyFKgPlangN39ckbjCorva4VJZ6kZBqCxSMemAGfWpqacZ7cxym0yJSbHy27lN2u6mpITFjt+rKyDa1jI1nRLekQubplvSZ+XDYMgrbwEqO/ABAnRSZQYUrwDxSfZ3HABpcX6WzLapCup5nFc/Ngk6iDNBTXUXBKSOtqBv9ynOAKEiLP1YlTk6gzlqMICvUAo=;uaNq9ZGYj+ODVT+ZnQm99Q=="
+secured: "tp046RuFi9oyJOdS3JbFWjQ2PjvnuArIEFgZCd/3VXw6qZi/CxpCM7eOV7QWzgT6qhuO0gNNAQPgELojG5M/hUBtlnDqYhT+q3bznxHSnR3AFa2UVzaBvcSholSa32Tux59UomL+dl2d/0VpkAEWS5KX8uxZp2dqCv+PgqDR0MXCd/x0zs2qIKAzbaA4Tg1PQJ6G5zPKhAB7KM8rl6aKqB+Wtget0nu7Yz/kkkRaBFzq+0iGF+EmIdEvVlrt2g2xZrl/YlwzAOv1QzS+G0pxG8409f7g+t0Q2qsg9l/Lg9eoK897FauBRyagadayuRV+6VeRXvi95zMS8czdnhCi3LgepXUuciKR0eN9vY82vIx7pgqxLNxAnMcy8VAQr2bnRHRuVeFi4wvrCPVnBK+bzSQtMf6UrqW2czCvzvGpBLpb0fG6SPw/PJoUTWMnt+suSHspxpWlRuiy82wqpM4lPWqn4EYECbs2Z0a9SPkPjfGcM6HLQBQGGi1Bd0cuUVgHoiqzr0C5ZAtxgzW4xA/dSg==;CCKQlt7EBB6HPIhY0zhN4Q=="
 ---
 

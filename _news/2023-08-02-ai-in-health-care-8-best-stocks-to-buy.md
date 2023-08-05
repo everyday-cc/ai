@@ -82,15 +82,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Top 8 Bizarre AI Predictions That Could Change the Future"
-    excerpt: "Dive into the realm of AI's oddest forecasts, unveiling the top 8 strangest predictions, from AI-powered politics to digitally eternal life."
-    publishedDateTime: 2023-07-31T17:44:00Z
-    webUrl: "https://yourstory.com/2023/07/strangest-predictions-artificial-intelligence"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 19
 
 secured: "4xBRsOXyJv1RA82OxJAVGdAcoy80WLC4xJ29lrYYbgZIGhVDMO7HcTVo82wvKmnr6YsdTrMAoWPTQbRrxLJCtPVykJbQI6lhKHyBalErzc3UPt6uXyxIG5lys96w9OUyTJ9984WtcMjAlzv72qUxECRli71as7YA7arlIqFCQlrKO1fxleciWintjseD6ZCTEUGIyX14OSHhK/ezbN5v0e03YqawszvSjUTh9aXTm6FISANimw22Y3WSlRoH57zyqoap5KKv91Z8Qu4vyASrc9/NKln+jKE2isQhVqOzOG9ZUd6c3yYjl0Im4t8asLWV9nHhADalAu/aRzJtpZ4nqZO8yubAGv/URsfs/cWaXGk=;BWEeXIEQVNMXqY3dzDikPA=="
 ---

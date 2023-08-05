@@ -105,7 +105,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 327,
+      "heat": 307,
       "tags": null,
       "images": [
         {
@@ -983,19 +983,19 @@
     {
       "path": "_news/2023-07-27-alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud.md",
       "title": "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud",
-      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software ...",
+      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software and se",
       "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
-      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
+      "webUrl": "https://www.kentuckytoday.com/news/business/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/article_5e51d6b8-1cf7-54c6-bf41-a328344ab539.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/article_5e51d6b8-1cf7-54c6-bf41-a328344ab539.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2023/08/Jamarco-Jones.png?w=2000&#038;ssl=1",
-          "width": 677,
-          "height": 395,
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1005,11 +1005,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T11:16:00-07:00",
+      "publishedDateTime": "2023-07-26T10:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WKRN-TV",
-        "domain": "wkrn.com",
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
         "images": null,
         "publishers": null,
         "authors": null
