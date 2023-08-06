@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Study shows AI could help detect more cancers from mammograms"
+    excerpt: "Previous studies have looked at using AI to diagnose breast cancer in mammograms, but they were retrospective, meaning the screenings had already been examined by radiologists. The study’s co-author said it’s too early to start implementing AI in ..."
+    publishedDateTime: 2023-08-02T21:43:00Z
+    webUrl: "https://thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/"
+    ampWebUrl: "https://thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2019/10/ca_mammograms_102919getty.jpg?w=1280"
+        width: 1280
+        height: 782
+        isCached: true
   - title: "Breast cancer screening with artificial intelligence-supported mammography safe"
     excerpt: "Sweden: The use of artificial intelligence (AI) in mammography screening is safe, an interim analysis of a prospective, randomised controlled trial has shown. The trial, led by researchers"
     publishedDateTime: 2023-08-03T14:30:00Z

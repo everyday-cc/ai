@@ -55,15 +55,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "How to install Stable Diffusion SDXL 1.0 text-to-image Ai art generator locally"
-    excerpt: "These models signify the next level of natural language processing capabilities, designed specifically to empower developers and researchers. SDXL 1.0 has one of the largest parameter counts of any open access image model, built on an innovative new ..."
-    publishedDateTime: 2023-08-01T10:57:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-install-sdxl-locally/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 15
 
 secured: "av16UmFXjWn9++RnYn4PpFJRYEhp3ZUjyVZ7L8ZCGcMqU0qJ0kNQwdG3vfS4nNB0See8ff2xgbIGGzzXD5A6F3py4u6HF4jr/ws+inusMSjzGw8zokuoSiUOXKdeXqhA4Asr60oro2Ix6DegX4BvVcHzfrH7Z4yjelMfhhn/G6prMly5vyKfncqQRxEMsAueP/JGMXmljcoS0jgDZL0hgU+PlDv0mRTkvkOpmGrh5jCf78EgDTYc0Ik5THm6B5fFhogZXOM7Ps/B2Y1Pe2Vr/jKLvnjXKS8M/c5UgQLM7FvSEpFqx0Ymloo/4NszAlM/sqJD6mQqOEe75f+rphCbB8IXBeYzWGhlaNGJWPOZdwH4KzxP+fReiCtogeF5TV6kdUONe06tgQtb50MSnlMenw5yTQtzXtv/mxQMeq5cYVXmtm5a7QPRE+U3D+31JhaJQLtHPYxsMawfHFOoZf5oBtr6Fx3ER6lWnzubPZeV4KQZUXrwPAHGlotKzB08hLfIuzgu3SMAyqs6awtIWkme/g==;rgFMZ2DeffYN/5zZeBGibA=="
 ---

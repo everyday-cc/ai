@@ -89,15 +89,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"
-    publishedDateTime: 2023-08-01T10:30:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-01/five-things-you-need-to-know-to-start-your-day"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 32
 
 secured: "Jm1ErsWoKaV7UZUrGSlew/1OFb/4jerH19TcI0Hulxv9tkyFSDhJ9hUK/fKHlq9q2Vmika7jjyP+AqEDfBsbYW1wKa0fPe0tUf+6nR5iX4sM0laABDWciu2hb8t39mZ284K8f5/1Tz7/nzGkV+LMHpxUewKQh6l1391eDCuo+ZirP9nJVkV4nubj7GYJDwlE8a//xZOin12kRLqJ/cYo7qdk/OynXTi6+dAQH2hzXApk5GSMhEQywmfxgKm4Hy64BELYdvtL7o6XDQYE9VhQghgyxJVrd47wrzCVIRje6+2hmRpssK3f/GHzQBK8skaLSHjrEVERKVgischi/C6PuHqJ0RM4JmoYDXACJyWKjaLhfjSSed3Bsd95rhNd0TFpRFUL/TbIpx9Obg/iIIQD6IuRFAV3sroPE7DrfLZP6BYOBrYh0o+2UJUnj14I4gGUQhj9Mp7WUIJLbvFSPxij8++QDOc/Z4Cj2f//jTAYLGpmO5QCZmslSeQcsVbCQePqla8lAa6ivP146+BhBd6Nxg==;8rWaOELrbm9p4C+pxg7K7w=="
 ---

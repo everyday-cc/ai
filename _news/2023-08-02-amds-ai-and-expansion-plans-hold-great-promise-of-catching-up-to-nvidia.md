@@ -59,22 +59,6 @@ related:
         width: 800
         height: 553
         isCached: true
-  - title: "NVIDIA DGX Cloud targets generative AI"
-    excerpt: "DGX Cloud also incorporates NVIDIA AI Enterprise, the software layer of the NVIDIA AI platform, which includes over 100 pretrained models, optimized frameworks and accelerated data science software libraries. These add-ins give developers an additional jump-start to their AI projects, Boyle notes."
-    publishedDateTime: 2023-08-01T10:01:00Z
-    webUrl: "https://www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.html"
-    ampWebUrl: "https://www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3703669/nvidia-dgx-cloud-targets-generative-ai.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AMD forecasts AI chip launch timeline to challenge Nvidia"
     excerpt: "AMD forecast a strong fourth quarter and expects to have artificial intelligence hardware that can challenge Nvidia chips by that quarter. “Our AI engagements increased by more than seven times in the quarter as multiple customers initiated or expanded programs supporting future deployments of Instinct accelerators at scale,"
     publishedDateTime: 2023-08-01T23:04:00Z

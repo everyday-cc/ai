@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recog
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI"
 type: article
 quality: 74
-heat: 96
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://propakistani.pk/wp-content/uploads/2020/10/cctv.jpg"
         width: 1000
         height: 560
-        isCached: true
-  - title: "Incheon airport introduces Smart pass facial recognition system"
-    excerpt: "An Incheon airport official demonstrates the use of the facial recognition Smart pass service at a departure gate of Terminal 2, Incheon International Airport, Friday. The paperle"
-    publishedDateTime: 2023-08-01T09:04:00Z
-    webUrl: "https://www.globaltimes.cn/page/202308/1295457.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-08-01/477f6da7-41ff-4da5-8cda-2ae36846d4a3_s.jpeg"
-        width: 500
-        height: 300
         isCached: true
 
 secured: "eFJSvqW9SBl8xgTB0iULkDDaLEVdlCO3jfmligOiJCuCwuFwd90Wpz3peLTOeFhy+SAR2Ljd5TWMoy6YIb8FMU5mXmiEr/ZC6gz1gCibqY88yyeYnORCRWSCrE+YrQiZIh7CKPqWJGYHv9FmqCEB1CAewVHXsk8uyWmNlRn32IfgRAeQlOIidvz9nAaA4JltkqtlsGSm6bsHyHyrU82McvSGC+/BcOh7Wxi2DeN5hnXahrZ8TxTI2nrlT2S91J/oAlL5qy6rr5VDiK1sDIp1amPRy5LHlNV2LeTnACEH1mmjKTmOZngNmxfRSYy5ISkx+ppl3WKEilRxY+/+4E3dgt+24vbwPg7MZV1OMDgeXCM=;a69UawfR6mlHn8+u8CrOow=="

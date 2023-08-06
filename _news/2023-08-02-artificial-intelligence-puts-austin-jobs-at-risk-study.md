@@ -29,20 +29,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 49
-  - title: "Riders will be able to book a self-driving Waymo in Austin, Texas this fall"
-    excerpt: "Waymo has announced that it has finished its testing phase and will open up self-driving rides to the public in Austin, Texas this fall."
-    publishedDateTime: 2023-08-04T00:35:00Z
-    webUrl: "https://bgr.com/business/riders-will-be-able-to-book-a-self-driving-waymo-in-austin-texas-this-fall/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/08/Waymo-austin.jpeg?quality=82&strip=all"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Waymo announces Austin as its fourth major city"
     excerpt: "Waymo, the self-driving technology company under Google’s parent company Alphabet, has officially announced Austin as its fourth major ride-hail city."
     publishedDateTime: 2023-08-04T15:13:00Z

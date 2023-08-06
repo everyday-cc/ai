@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/08/230801172011.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/08/230801172011.htm"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: Science Daily
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning, Blockchain Could Combat the Spread of Fake News, New Study Says"
-    excerpt: "Researchers proposed solutions to combat the spread of fake news using a combination of machine learning and blockchain technology."
-    publishedDateTime: 2023-08-01T09:35:00Z
-    webUrl: "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 69
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/432894/machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.jpg"
-        width: 1500
-        height: 960
-        isCached: true
   - title: "Capitalizing on cutting-edge technologies: Investing in blockchain and AI"
     excerpt: "In today’s fast-paced and interconnected world, the emergence of disruptive technologies has become a catalyst for change across various industries. The financial industry too is experiencing a seismic shift as emerging technologies redefine traditional"
     publishedDateTime: 2023-08-05T09:15:00Z
@@ -87,6 +71,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 5
+  - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Looking To Leverage Blockchain Technology's Capabilities To Ease Cross-Border Money Transfers"
+    excerpt: "FEXD is working to develop a global financial technology ecosystem comprising a network of mobile money platforms, technologies, applica"
+    publishedDateTime: 2023-08-02T19:09:00Z
+    webUrl: "https://menafn.com/1106771672/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Looking-To-Leverage-Blockchain-Technologys-Capabilities-To-Ease-Cross-Border-Money-Transfers"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "jzOTnvUD1mZ+g0QXSK7PlBl7E4ReI37j1sUNUE40QVqrNsPISSMQffLhqpLttmmP+9w6I+tq2fhYLVXdUMP21Q2t9UgkTToKvYO9sHA5eke8cM8cIHp3/arnTDqfegRp+ttz80hDLU4fIPyCVPt6/IFxm2gwx0fvJ+ZO+6zaDq4jtYXoWsRtbLEYHzTSzsmk83DiRrQdrn+MkovGJbZPLCzZOn6jZrHDvSfgnfX1ghHbo/zG6oqGR2JKfyQJeQnqoFCZTUinhdcwAWGfjdMcRPXOkjR7Pk0zt2Qg1yS/7YNxXLNegVZcscUF3uSmB3u9yN0qvV2WNZ0FvgOkzZgIIwfTZ5qUp+emT49sS6O76Do=;9Co78SwRrC2skPewdTtXPg=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Anthony Albanese ‘won’t focus on hypotheticals’ as Voice date nears"
-excerpt: "Prime Minister Anthony Albanese has warned no other forms of recognition of Indigenous people will be on the table if the Voice referendum fails."
-publishedDateTime: 2023-08-06T00:07:00Z
-originalUrl: "https://www.news.com.au/national/politics/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
-webUrl: "https://www.news.com.au/national/politics/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
+excerpt: "Mr Albanese said the Voice is the only form of recognition that will suffice, because it is what Indigenous people asked for. Picture: Tamati Smith/Getty Images Mr Albanese also confirmed he would announce the date Australians will head to the polls within ..."
+publishedDateTime: 2023-08-06T02:03:00Z
+originalUrl: "https://www.adelaidenow.com.au/business/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
+webUrl: "https://www.adelaidenow.com.au/business/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Couriermail
-  domain: news.com.au
+  name: Adelaide Now
+  domain: adelaidenow.com.au
 
 topics:
   - Natural Language Processing
@@ -94,45 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Albanese warns no other Indigenous recognition on the table after referendum"
-    excerpt: "Anthony Albanese has warned people wanting either symbolic recognition or something that goes further than the Voice that the referendum will be the only constitutional change for Indigenous people he pursues."
-    publishedDateTime: 2023-08-06T00:20:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/albanese-warns-no-other-indigenous-recognition-on-the-table-after-referendum-c-11500990"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 21
-    images:
-      - url: "https://images.thewest.com.au/publication/C-11500990/9aed6f1c93eb162e2d2d4eea522508d42c9d5cfe-16x9-x0y209w4000h2250.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Defiant Albanese tries to reset ailing Voice"
-    excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
-    publishedDateTime: 2023-08-04T12:30:00Z
-    webUrl: "https://www.afr.com/politics/federal/defiant-albanese-tries-to-reset-ailing-voice-20230804-p5dtwy"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
-  - title: "Anthony Albanese will not announce Voice referendum date at Garma Festival but says he won't 'kick the can down the road'"
-    excerpt: "Prime Minister Anthony Albanese will not delay a vote on an Indigenous Voice to Parliament despite support for the proposal falling in opinion polls."
-    publishedDateTime: 2023-08-04T20:23:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-will-not-announce-voice-referendum-date-at-garma-festival-but-says-he-wont-kick-the-can-down-the-road/news-story/2bd01531bb538ee92de83cc6b3263e44?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 19
-    images:
-      - url: "https://content.api.news/v3/images/bin/a4ed728404629fb71a10b3152cbcdaa2"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Anthony Albanese says he offered Scott Morrison 'support' on the Voice in 2019 as he flags possible dates for referendum"
     excerpt: "Prime Minister Anthony Albanese has flagged an imminent announcement on the referendum date as he reveals he offered Scott Morrison “support” on the Voice shortly after the 2019 election."
     publishedDateTime: 2023-08-05T23:52:00Z
@@ -176,15 +137,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
-    excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
-    publishedDateTime: 2023-08-02T04:28:00Z
-    webUrl: "https://www.dailytelegraph.com.au/business/work/leaders/anthony-albanese-fires-up-on-housing-in-question-time-grilling/news-story/0361059ce2d6fe05929c3c0700fb43a2"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 3
   - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
     excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
     publishedDateTime: 2023-08-04T12:30:00Z
@@ -195,6 +147,6 @@ related:
       domain: news.com.au
     quality: 0
 
-secured: "viuR8zLEINpihvy05VdmF7TLbnr+hRxlYZBFoovLhLynGY08ZrKGwhXEM+pYC1JgiWljcxEtq3dMxk5em+1op9AKzNMS1tKxBqmZ1cKqcXoa6lHNOq4Wj1XpTgrMjzawt07ITUNbK3SHWx84A80nE7XRrat0qqYmlOnj5uoOqcbwZSEkxr/P09exSNNNMF3gfPtnGo/Evy0m+4IYvk0yQrEW8M9pBBrTDY/dNBPwktMiTenezf9JkamEydyHziU8wZRSypSy84Qlcm0N2pHhQ0t3D1MTaT+tSB2wlbxq5HHHT2n1eS0dVoZgAHIL8LoYrpBI0jZJLDEms/opV9st/WVDxZ9G+5i9ocifAdEogG0=;vHMDDBoA6JltkPfCw4r/PA=="
+secured: "wE0D50G9y9ubvbqfwv6RTmsbUp4jW2kwhRKTlW8sQS9UG7C3co1w1uX8kYaAuTFoDae6lTUjS1fN2zv5rbXmnAZzoTxK+a4zzfshxEMKPoHQfPd+PPdexLiGxiAPqXBfh1hxbLcIfmO9kxpQISRoG+cgJwY5+P/hx6Kbh17ZQU4sWB2T0eiW3tfHNfqCpkja/5NrJ/r+MKBwxMty3Wx7dXLr4GdDkjHkhtKa17nPX4ClEIN9fi8awnPlZMnm7wB0jnWJtS8jHQdFm1K1IMQZSLo/PqL5iyqMQrgmckU6oPVxbep9I0iDyNG2e+JKo0rZqzfj8AvePvsGDtb+JWDhqQOfAX1ogjW/+kE/mv/nGWZ2PHf/Y84zsQ5kDW0/Sx0Vt2zYBhkx4U70Y6SJMj9b6wbGt6HVb9kMhgOnx5nHwVvAT/J50Lzf5BkMHyV49x0LgbCRxfwBi5r5WCljDeg5gZsD6i7FULmx3MrlWLCc3H+QENwF0CsVjwG2KUEh2MIXDZFjkzKsjvsL7JHddAS7Hw==;7RMAG/4o+SGewqPmeybLMA=="
 ---
 

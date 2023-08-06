@@ -55,20 +55,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Russia To Assist Africa In Artificial Intelligence Development"
-    excerpt: "The panel session, titled “Artificial Intelligence: A New Driver for African Region Development,” was held within the framework of the second Russia-Africa Summit. The session was organized by Sber, as reported by the news publisher TechGPT on their Telegram channel."
-    publishedDateTime: 2023-08-01T09:51:00Z
-    webUrl: "https://leadership.ng/russia-to-assist-africa-in-artificial-intelligence-development/"
-    type: article
-    provider:
-      name: LEADERSHIP Newspaper
-      domain: leadership.ng
-    quality: 37
-    images:
-      - url: "https://leadership.ng/wp-content/uploads/2023/08/Russia-Africa.png"
-        width: 627
-        height: 419
-        isCached: true
 
 secured: "HQWR/ryRqTMGMTdCV7ndU/Gn+KbXEK3VxiT1DH/ATtMPy3SMqR6M6/rnZnOPS77Ud0D/9rEfxxdS0IUnJ7+l5gO57boaokoHLV642QogeNn8QbsBCA/DzkYjQehDw5h3okb26tRpTO2VXxZZySjfKtiShiXh8k1wvdOyUa87TVduIiTCXHMBfWprVF+N/xAFU/zM7CZ7KkMcnM+AoxC9mH268cXPzK0edccy7WrVmuFomzj0Y2p3HnzA5kxdM9wQ90awDg9LOnoe7XU5ebysJ5YytbtcxYJmhx1fBhzLiGMoLTdDlWM6TxdPMqei+Iafxk0AjDGgZ1X1GO2T72P9/m1Omv7ueI2IKwT8QnbHsCE=;8XQ9M3AhG8nWUYEXDdptlA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/02/Robotics-and-AI-image.jpg?resize=601%2C333&#038;ssl=1"
         width: 601
         height: 333
-        isCached: true
-  - title: "Russia To Assist Africa In Artificial Intelligence Development"
-    excerpt: "The panel session, titled “Artificial Intelligence: A New Driver for African Region Development,” was held within the framework of the second Russia-Africa Summit. The session was organized by Sber, as reported by the news publisher TechGPT on their Telegram channel."
-    publishedDateTime: 2023-08-01T09:51:00Z
-    webUrl: "https://leadership.ng/russia-to-assist-africa-in-artificial-intelligence-development/"
-    type: article
-    provider:
-      name: LEADERSHIP Newspaper
-      domain: leadership.ng
-    quality: 37
-    images:
-      - url: "https://leadership.ng/wp-content/uploads/2023/08/Russia-Africa.png"
-        width: 627
-        height: 419
         isCached: true
 
 secured: "8nR1r13/gtNvoNLD8akfxvHBzKv326L4v/6IE42Oonoo91VG2224sz5LoyyQDMvaYmwAFFRyL0xjIV6NZ1hP40aQ01lUNHmn3JtFRq02HEef2V1d8UAEO9TT3BNxyrEu7E6QeUfvNPueW5SyuZw09xFtPWF82fMfSxbNMqpbPEmYHJymrBYIqQUhtIzlMkQL+c0hJ423mQ4DEop+1Hvjusk8fW3K6T5GxrazUSE8XrPWevk/x5KSR8O2j6L0j7uZOR7b653xQzjC8xobEvOoXrVzjk4Kb+l61xBsne2oIkp9wgwskEiRKB0ABIv23MmLlZcvg4rTHu+t9cRcd+ORQpca1LCDh3Q1iH7+eVwlows=;MyerYca+LsmngYGtK5wUaw=="

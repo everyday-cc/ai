@@ -148,15 +148,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 36
-  - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
-    excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
-    publishedDateTime: 2023-08-01T09:54:00Z
-    webUrl: "https://www.govconwire.com/2023/08/leidos-microsoft-partner-to-advance-cloud-ai-tech-development-steve-hull-quoted/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 28
   - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
     excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
     publishedDateTime: 2023-08-03T19:12:00Z

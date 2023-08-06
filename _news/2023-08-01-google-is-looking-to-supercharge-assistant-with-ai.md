@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Assistant Is Being 'Supercharged' With AI"
-    excerpt: "Work has already begun on injecting AI into the mobile version of Assistant, but unfortunately, the addition of AI to the virtual assistant is also resulting in some job losses. Google confirms in the email that \"we are also eliminating a small number of roles within the team.\""
-    publishedDateTime: 2023-08-01T09:43:00Z
-    webUrl: "https://www.pcmag.com/news/google-assistant-is-being-supercharged-with-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02vXTOE3J7UPq5x8pKT4ons-1.fit_lim.size_1200x630.v1690882843.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Leaked internal Google email reveals Assistant is getting a 'supercharged' AI upgrade"
     excerpt: "An internal Google email has revealed the company is pivoting toward upgrading Google Assistant with a special artificial intelligence."
     publishedDateTime: 2023-08-02T14:58:00Z

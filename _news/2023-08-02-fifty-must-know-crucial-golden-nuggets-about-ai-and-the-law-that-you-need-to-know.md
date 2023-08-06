@@ -87,15 +87,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "The US stock rally energizes some bulls, China’s economic slowdown continues, and how geopolitical tensions and AI are transforming global trade. — Kristine Aquino"
-    publishedDateTime: 2023-08-01T10:30:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-08-01/five-things-you-need-to-know-to-start-your-day"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 32
   - title: "Everyday AI: How artificial intelligence is shaping sports"
     excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
     publishedDateTime: 2023-08-01T17:47:00Z

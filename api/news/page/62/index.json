@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-06-27-deepmind-claims-its-next-chatbot-will-rival-chatgpt.md",
+      "title": "DeepMind claims its next chatbot will rival ChatGPT",
+      "excerpt": "ChatGPT might’ve captured the world’s attention. But DeepMind, the Google-owned research lab, claims that its next large language model will rival — or even best — OpenAI’s. According to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-google-deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/amp/",
+      "publishedDateTime": "2023-06-26T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-samsung-to-mass-produce-hbm-chips-for-ai-competing-with-sk-hynix.md",
       "title": "Samsung to mass produce HBM chips for AI, competing with SK Hynix",
       "excerpt": "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market.",
@@ -1140,48 +1192,6 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-geologists-use-artificial-intelligence-to-predict-landslides.md",
-      "title": "Geologists use artificial intelligence to predict landslides",
-      "excerpt": "A new technique developed by UCLA geologists that uses artificial intelligence to better predict where and why landslides may occur could bolster efforts to protect lives and property in some of the world's most disaster-prone areas.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.html",
-      "originalUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ucla-geologists-are-us.jpg",
-          "width": 1920,
-          "height": 1082,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp",
-      "publishedDateTime": "2023-06-26T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

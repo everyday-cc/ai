@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning, Blockchain Could Combat the Spread of Fake News, New Study Says"
-    excerpt: "Researchers proposed solutions to combat the spread of fake news using a combination of machine learning and blockchain technology."
-    publishedDateTime: 2023-08-01T09:35:00Z
-    webUrl: "https://www.techtimes.com/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294522/20230801/machine-learning-blockchain-combat-spread-fake-news-new-study.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 69
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/432894/machine-learning-blockchain-could-combat-the-spread-of-fake-news-new-study-says.jpg"
-        width: 1500
-        height: 960
-        isCached: true
   - title: "Machine learning, blockchain technology could help counter spread of fake news"
     excerpt: "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,"
     publishedDateTime: 2023-08-01T22:21:00Z
@@ -83,6 +67,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 5
+  - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Looking To Leverage Blockchain Technology's Capabilities To Ease Cross-Border Money Transfers"
+    excerpt: "FEXD is working to develop a global financial technology ecosystem comprising a network of mobile money platforms, technologies, applica"
+    publishedDateTime: 2023-08-02T19:09:00Z
+    webUrl: "https://menafn.com/1106771672/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Looking-To-Leverage-Blockchain-Technologys-Capabilities-To-Ease-Cross-Border-Money-Transfers"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "SIohmBdAtR7pmD03HKjTmHW2u3JHCzwTQhcw2hF6onQSc5L9Rr6s8s+rG3gt71SxC3DIKEZ/akdydYUNBza+jGdbw9mbMosJWT/tvQgNNvuhiTN49i/Uzdvgq5Scybz+4/lh1NFRCT1hk4Dj5/1SWpjKaeitpltvHmvuGLmoaTV/HSeUQHzuRfx5IkTqPaRpVl8LLsbf1zOpXmKDmcUUAfq4/D0NNAbwU+p7hy2ltX80ujFSpqeeWCxVNt611Cl2IZrcSquxLlbutiV3c6TDnGUjkVMbDB4RMJiXS/kXc1pojthHMiZJkkm+gC3TEINi6QFzQEI8mpdUxOuBGIrKSQx1nGyfVQOS86gMHM9X7B1y+7pN8vxTn4qmHEOfL1n42MWbWenZ3307rWYMWVaja4EKlfY0s5qnyKCUiKD/XACEmklrtgsTT+iezKIAJJO5vVrkz58rba0zoCd4H+u7226DKGCBHFJeKVjafvPZ1eDBjcaYipDZ2qCkUytRaY+A4Vf5U0wMfhX9ogt3KfHYPA==;1cY2JuBXQkKYk9eWAAi3BQ=="
 ---

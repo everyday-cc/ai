@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-07-08-un-ai-for-good-summit-explores-how-generative-ai-poses-risks-and-fosters-connections.md",
+      "title": "UN AI for Good Summit Explores How Generative AI Poses Risks and Fosters Connections",
+      "excerpt": "Panelists at the UN AI for Good summit discussed regulation, international cooperation, and the growth of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/un-ai-for-good-summit/",
+      "originalUrl": "https://www.techrepublic.com/article/un-ai-for-good-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tr5423-what-is-generative-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
       "title": "Human-looking robots take questions at a Geneva news conference",
       "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
@@ -1129,49 +1181,6 @@
       "topics": [
         "IBM AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-as-writers-actors-fight-for-ai-protections-artificial-intelligence-screenplay-competition-opens-quickly-closes.md",
-      "title": "As Writers & Actors Fight For AI Protections, Artificial Intelligence Screenplay Competition Opens & Quickly Closes",
-      "excerpt": "Scriptapalooza, a screenplay competition company, launched, and then quickly closed its Artificial Intelligence Screenplay Competition after a furor from writers. It comes as the writers are ...",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
-      "originalUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1512881796.jpg?w=1024",
-          "width": 1024,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
-      "publishedDateTime": "2023-07-07T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

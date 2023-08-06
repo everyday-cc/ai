@@ -2,6 +2,40 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-07-02-better-artificial-intelligence-stock-amd-vs-amazon.md",
+      "title": "Better Artificial Intelligence Stock: AMD vs. Amazon",
+      "excerpt": "The artificial intelligence (AI) market has captured Wall ... Amazon Web Service (AWS), which is testing it for potential use. Amazon has concerned investors recently, with AWS reporting slowing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amd-vs.-amazon",
+      "originalUrl": "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amd-vs.-amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-crypto-miners-seek-a-new-life-in-ai-boom-after-an-implosion-in-mining.md",
       "title": "Crypto Miners Seek a New Life in AI Boom After an Implosion in Mining",
       "excerpt": "Demand for high-end chips allows cryptocurrency companies to repurpose idle equipment.",
@@ -1116,57 +1150,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-what-will-ai-do-to-your-job-take-a-look-at-what-its-already-doing-to-coders.md",
-      "title": "What Will AI Do to Your Job? Take a Look at What It’s Already Doing to Coders",
-      "excerpt": "Artificial-intelligence software is eating the software industry, as companies turn to generative AI tools to save money on programmers. It’s a sign of what’s to come for many white-collar workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-jobs-replace-tech-workers-8f3dc92",
-      "originalUrl": "https://www.wsj.com/articles/ai-jobs-replace-tech-workers-8f3dc92",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-807791/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

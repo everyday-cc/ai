@@ -7,8 +7,8 @@ originalUrl: "https://www.jdsupra.com/legalnews/the-no-robot-bosses-act-aims-to-
 webUrl: "https://www.jdsupra.com/legalnews/the-no-robot-bosses-act-aims-to-4374708/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: JD Supra
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 Jobs That Artificial Intelligence May Replace Soon"
-    excerpt: "With the emergence of artificial intelligence, it has changed the shape of the world. Anyone can't survive without bumping into artificial intelligence. It will reshape the whole world in coming years."
-    publishedDateTime: 2023-08-01T09:40:00Z
-    webUrl: "https://www.techjuice.pk/10-jobs-that-artificial-intelligence-may-replace-soon/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 39
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/08/images-16.jpeg"
-        width: 739
-        height: 415
-        isCached: true
   - title: "AI companies try to self-regulate"
     excerpt: "The group has only four members so far: Microsoft, OpenAI, Google and Anthropic — companies building the biggest and most powerful AI platforms. But it could be very important to AI policy: one of its core objectives is to be a conduit between the exploding AI industry and policymakers."
     publishedDateTime: 2023-08-02T20:56:00Z

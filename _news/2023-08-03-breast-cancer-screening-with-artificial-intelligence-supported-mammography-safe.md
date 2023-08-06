@@ -42,6 +42,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Study shows AI could help detect more cancers from mammograms"
+    excerpt: "Previous studies have looked at using AI to diagnose breast cancer in mammograms, but they were retrospective, meaning the screenings had already been examined by radiologists. The study’s co-author said it’s too early to start implementing AI in ..."
+    publishedDateTime: 2023-08-02T21:43:00Z
+    webUrl: "https://thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/"
+    ampWebUrl: "https://thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2019/10/ca_mammograms_102919getty.jpg?w=1280"
+        width: 1280
+        height: 782
+        isCached: true
   - title: "AI shows its value in mammography screening"
     excerpt: "A study has shown that artificial intelligence can be safely used to support mammography to spot breast cancers and may spot more tumours than the current standard approach. The Swedish trial published in The Lancet Oncology found that one expert reader using ScreenPoint's Transpara AI to look at mammograms was at least as good,"
     publishedDateTime: 2023-08-02T07:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-reve
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "How to install Stable Diffusion SDXL 1.0 text-to-image Ai art generator locally"
-    excerpt: "These models signify the next level of natural language processing capabilities, designed specifically to empower developers and researchers. SDXL 1.0 has one of the largest parameter counts of any open access image model, built on an innovative new ..."
-    publishedDateTime: 2023-08-01T10:57:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-install-sdxl-locally/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 15
 
 secured: "AIaZgXVzNRotLApJS/40K2lSAcNALy+lI/wYlV5lTYKbw6Ce31EKvSIBPp84htfqbo4+Tu9RaFa1iAvt7I/7xwlbNYt+rbIJzIYxAOrgyaxGFZPZL8GUq4xvMbR/hGD6Hgs1p6ai287x2BCxt2JTB+IOWJajJJPZ6TLna1ifDkQHDn7+ioo8V1x3RjBwOOEVknebJVaPqi2NeNsxCjHnVozCBq05JU3zBsutUTMPqo+pFzZgLqquUPuRutylk2JzjbVDHJBuBswRBDS/awFVJV6rTzIzh/zbH3CdO69IMyy5wa+WeKTGXHPxg1x1luTItRd6HcPMni38T2jKzwfENlQnzn+KWHf0H/iEEB+9YXU=;GCEcBZcdXpNKUpEgJ5oDpQ=="
 ---
