@@ -135,6 +135,15 @@ related:
       name: autobodynews
       domain: autobodynews.com
     quality: 4
+  - title: "Congress urged to help get more self-driving vehicles on US roads"
+    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
+    publishedDateTime: 2023-08-06T09:19:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 4
 
 secured: "TeA0j0hSuOytmTBkoRQ26bTw3CEXCY0MqjxhKwXJ/eIVIPPn+dG/ezByXbcKj5azA0Y28ZTMi7XZ3Z3M+AWVQf/dm/WwwsD/DW+2nRXfDtiObJ3vHcOpsQYRVvfh78ppUnauwIambzRrUDhoCvV6bmRHdNPh/nzFqSfz7rjeUtPiugoIwjgOy0zhBzacMx6skLeLlz4yBGfgpvW3hs9xsCKwv1f7ZI/RaN0+UhJQRzlhXRSwsvKFcQ5ytYb9C1t4k9mCjoRq/lEaN2o60nWtbWR6+vLr0dtbICktc4svyyq+PKXGoe+PUQN6NttQqgZNNHfQ/nn+VbQSDVvXmR6V3TJjF7zg3c6Fcv/abTiCUHA=;nTcO+s8LJjpRefBAbBAoUg=="
 ---

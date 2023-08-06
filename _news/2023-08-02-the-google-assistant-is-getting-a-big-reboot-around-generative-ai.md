@@ -46,22 +46,6 @@ related:
         width: 936
         height: 420
         isCached: true
-  - title: "Microsoft Doubles Down On Generative AI, Announcing Copilot Pricing And New Generative AI Skills"
-    excerpt: "Microsoft announced new pricing and features for its Copilot along with Bing search enterprise. A look at Microsoft's AI strategy and its competitive outlook."
-    publishedDateTime: 2023-08-01T15:55:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/08/01/microsoft-doubles-down-on-generative-ai-announcing-copilot-pricing-and-new-generative-ai-skills/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c91b9ff21e65c88869db65/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
     excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
     publishedDateTime: 2023-08-04T22:03:00Z

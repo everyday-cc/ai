@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/amazon-earnings-preview-cloud-looms-19
 webUrl: "https://www.aol.com/finance/amazon-earnings-preview-cloud-looms-195332749.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1199
     height: 800
     isCached: true
-
-related:
-  - title: "Qualcomm Earnings Preview: Poised To Outperform Despite Chip Excess Concerns, Analyst Predicts"
-    excerpt: "Chatterjee maintained his \"favorable view\" of Qualcomm, despite concerns of chip excess and a potential decrease in chip prices that could hurt gross margins, adding that the company’s performance is set to outperform investor expectations."
-    publishedDateTime: 2023-08-01T16:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qualcomm-earnings-preview-poised-to-outperform-despite-chip-excess-concerns-analyst-predicts-1032501831"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/qualcomm_shutter5.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "Ht/X0ya9OkGJ1PQOVJTfifBuD4MA5ICe0EXDc9xcG2CI6JuCMKj4d5oHfnORgjjN5CjD0usYYJfOgge17Wm/AZ7xzb9kYQ6AQqSN7seQKf9U1/xuVyKKWyjkqfvxPOLOuxiPDPOl2jno1gIZy8+dhiYSVedKwGD3qxFY1ATLnLeb/2c5GApovwpPrWSYkDDf4QdYcsP/8NUjj4W3jz2KNgukAXKm+q3GHNQ9AaswPghky/JnrbN81rXKczztOu7Wj2HpICUzg9U2b6dxEewWHy3mmFYWyR9tpPZlMTcn3xiJNsuhbVZwMnZ633tpIGbts0+RFcSv6MZI4Y7BAVB9W/MvtQx1zTh9IQwHNk4hQGFeoF37xrHmsEwMv0YFbvxXBjxNr5RPE8dkOyZmPU7RW835ICYzJI//SMxAymcXAjTSTKJH7F3rutAr0g04hfL0UB2neGsoydgRGMMfY6e/NrAmarzecjn9vBjulcvlFCKDtunHS5nd/YmkyViPbE1Lmc2gy4UBsZYq0HrCGdEQJw==;QCAFIVxK5l7zbBg3PHb48Q=="
 ---

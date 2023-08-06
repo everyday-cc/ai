@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-reve
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "Boyd Innovation Will Cool Next-Generation AI Processors"
-    excerpt: "Boyd will cool next-gen AI with innovative liquid cooling technology that will reduce data center energy use, in collaboration with NVIDIA and others."
-    publishedDateTime: 2023-08-01T15:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230801975816/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "AIaZgXVzNRotLApJS/40K2lSAcNALy+lI/wYlV5lTYKbw6Ce31EKvSIBPp84htfqbo4+Tu9RaFa1iAvt7I/7xwlbNYt+rbIJzIYxAOrgyaxGFZPZL8GUq4xvMbR/hGD6Hgs1p6ai287x2BCxt2JTB+IOWJajJJPZ6TLna1ifDkQHDn7+ioo8V1x3RjBwOOEVknebJVaPqi2NeNsxCjHnVozCBq05JU3zBsutUTMPqo+pFzZgLqquUPuRutylk2JzjbVDHJBuBswRBDS/awFVJV6rTzIzh/zbH3CdO69IMyy5wa+WeKTGXHPxg1x1luTItRd6HcPMni38T2jKzwfENlQnzn+KWHf0H/iEEB+9YXU=;GCEcBZcdXpNKUpEgJ5oDpQ=="
 ---

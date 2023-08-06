@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Workiva integrates generative AI into cloud platform"
-    excerpt: "Workiva announced today it has integrated generative artificial intelligence across its business reporting platform. According to a news release, generative AI gives users the ability to “author, edit,"
-    publishedDateTime: 2023-08-01T15:53:00Z
-    webUrl: "https://www.businessrecord.com/workiva-integrates-generative-ai-into-cloud-platform/"
-    type: article
-    provider:
-      name: businessrecord
-      domain: businessrecord.com
-    quality: 39
-    images:
-      - url: "https://www.businessrecord.com/wp-content/uploads/2022/11/BR_web_311x311.jpeg"
-        width: 311
-        height: 311
-        isCached: true
   - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
     excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
     publishedDateTime: 2023-08-02T19:47:00Z

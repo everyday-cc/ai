@@ -1,10 +1,10 @@
 ---
 category: news
 title: "That ad you see? It may have come from a robot, kind of."
-excerpt: "Ever wonder where a business logo, catchphrase or ad copy comes from?  These days, it may start with a web-based artificial intelligence machine like ChatGPT or DALLE E.  Ever since ChatGPT burst onto the scene last November,"
+excerpt: "The ad business may evoke images of “Mad Men,” the hit show depicting boozy, smoke-filled brainstorming sessions between admen and clients looking to sell their products in the 1960s. Today’s admen — and women — probably substitute Red Bull and artisanal coffee for the booze and cigarettes. And there’s still plenty of brainstorming."
 publishedDateTime: 2023-08-05T14:01:00Z
-originalUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php?IPID=Times-Union-HP-business-package"
-webUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php?IPID=Times-Union-HP-business-package"
+originalUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
+webUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "DDjbjZOUq8gPVJu+VVs/nUyX42ESVh5/i/WbHVh7aDj/PHqYHp/NAb0zBnfCgYh/CIYNwIjBCpFtol8J6vas+EtMbTnndEtFSJI1FHJRmIx+DVW0MphMl+X+hTVHHlFsZloM5apPV4WaQPL2BgIBozn0iTunUq3uBtfN/8N0k047v4VH4x7QQkQOUrDThbV6n4aqjLomoOx8dlvmef4jOYunuqxkbQ4hWt+hHQtAGEAnTbvbad9eJTKfvDu1dMDV1+5VK5gB04wS1rYJqrvbtIx1ndAes4upYPKZjwPzxkCum57C3Ukl76CbFkxI4vlHs4qEy0W++Un7dJmONZv5OWUPVhDWHXGyHGKeV31jV98=;RHTP7xKovmz4w3wDZOmXMg=="
+secured: "QPc/MUCrZ/xl14jd7VNX2iSknbRNeoOcCE2hFrG4tkz7eAzEBv39DGyHvH3kUjjpPQsOn6VVmEBQu/9yXQdgN7Eg8ZA7pDA40d+XNKVALLfcyWj5rPg19rIid5b8lPQbrAnlqeOLEuZXRnd5sGD9X/j1CKQM26EijPEDhZQ1A5pj9EUxrVw0u6qLGGQC0r8prW3GQcYQq9OHTMJvUOkpSkkKIMLrYnebkCIMb6Q9F1oGgetMNjGmG0Lq/N5hjS/+dOjijIOb4l8MT9vouwh6Uqzy2yvWWQ5av53DbSrwa5VVioyHyRmvaPJ2tUdA2M/ykFFZve914fyLsgqrHjts4EPUTB503vTn9neIkVpnSZ4=;BTEO4PYbdlh6zwnoIV4IOA=="
 ---
 

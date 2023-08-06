@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-t
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -134,6 +134,15 @@ related:
     provider:
       name: autobodynews
       domain: autobodynews.com
+    quality: 4
+  - title: "Congress urged to help get more self-driving vehicles on US roads"
+    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
+    publishedDateTime: 2023-08-06T09:19:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
     quality: 4
 
 secured: "h11BHu3XbYsrA4XCDtCZlostXBE6s3YjyMK6tmnX0klk7w5s26V5qOiXjeo4B4O+kCebgoclWwPvn3um4ptPpohmZYv8ovETHlBwi++bpiAQdEgLuhSv+NMjPsQsKTNV3YiIK64K6x+Ctz3/S6GZmZ1b65RPDoSmacQ6nDhTthoh+xu52ZHv4lvN2el9mdGEBbGHu4TKQdH16rWkfYUgksl09/QrA5wgxE2poQwDf1cxSZIiUhuHIOsdgquDlTIPGEbXbaBBIPyqTx1WuCMhvYaNbfU/EDNGrUR3KifRhGdZyHttuLM8J61rcvys68zCXGUB8Xggy368bBJYE1akd/xJfoc6k7SCmfu5BxTdT7O+S0ecbWVhyVgZcnZ0hfMh1rfM0NCjwRDG1ApB7HP/pxTdGSX4CTpEo0mXTkf1DyejNpWu7IzzcP9Ga1QOKXVHHwcALubiGFY4TrhBvWkmCs11o0HnklFnALdcrzMyXTY9kWS6iQ7cppc6MH2c7y11MIrEkHXKlRRi+NGammBgOA==;frCKuS42JnF5PA92L4O/Bg=="

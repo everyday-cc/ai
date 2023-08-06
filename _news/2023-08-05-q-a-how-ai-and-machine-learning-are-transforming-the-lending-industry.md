@@ -101,38 +101,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Chatbots can make things up. Can we fix AI’s hallucination problem?"
-    excerpt: "Builders of AI systems known as large language models say they're working to make them more truthful. But some experts say the problem isn't fixable."
-    publishedDateTime: 2023-08-01T15:35:00Z
-    webUrl: "https://www.pbs.org/newshour/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/chatbots-can-make-things-up-can-we-fix-ais-hallucination-problem"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 59
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/2023-06-16T114756Z_523881915_RC2AK1A00IA9_RTRMADP_3_BILL-GATES-CHINA-XI-AI-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods"
-    publishedDateTime: 2023-08-01T16:16:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chatbots-make-things-thinks-ais-hallucination-problem-fixable-101890920"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 58
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_ac4672c5b06e6f91050aa46ee731bcf4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
     publishedDateTime: 2023-08-06T06:45:00Z
@@ -288,20 +256,6 @@ related:
         isCached: true
   - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
-    publishedDateTime: 2023-08-01T15:55:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/chatbot-ai-hallucination-20230801-paezzln4ofh4zo553ejs6egjb4-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 28
-    images:
-      - url: "https://www.baltimoresun.com/resizer/BtfcsvUS69ehIVbbDiT8NKv8w_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AEHE5CRKO5GB4BZQPXUBL2Y4RE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
     publishedDateTime: 2023-08-02T02:00:00Z
     webUrl: "https://www.sent-trib.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
     type: article
@@ -325,20 +279,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 23
-  - title: "Tue. 10:18 a.m.: Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout"
-    publishedDateTime: 2023-08-01T16:08:00Z
-    webUrl: "https://www.tribtoday.com/news/latest-news/2023/08/tue-1018-a-m-chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-    type: article
-    provider:
-      name: Tribune Chronicle
-      domain: tribtoday.com
-    quality: 20
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2023/08/01101716/AP23212720406679-750x500.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Meta to launch AI chatbots with personalities to retain users"
     excerpt: "The multinational technology company are developing variations of chatbots with different personalities and functions in a bid to improve user retention."
     publishedDateTime: 2023-08-02T17:56:00Z

@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boyd Innovation Will Cool Next-Generation AI Processors"
-    excerpt: "Boyd will cool next-gen AI with innovative liquid cooling technology that will reduce data center energy use, in collaboration with NVIDIA and others."
-    publishedDateTime: 2023-08-01T15:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230801975816/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "av16UmFXjWn9++RnYn4PpFJRYEhp3ZUjyVZ7L8ZCGcMqU0qJ0kNQwdG3vfS4nNB0See8ff2xgbIGGzzXD5A6F3py4u6HF4jr/ws+inusMSjzGw8zokuoSiUOXKdeXqhA4Asr60oro2Ix6DegX4BvVcHzfrH7Z4yjelMfhhn/G6prMly5vyKfncqQRxEMsAueP/JGMXmljcoS0jgDZL0hgU+PlDv0mRTkvkOpmGrh5jCf78EgDTYc0Ik5THm6B5fFhogZXOM7Ps/B2Y1Pe2Vr/jKLvnjXKS8M/c5UgQLM7FvSEpFqx0Ymloo/4NszAlM/sqJD6mQqOEe75f+rphCbB8IXBeYzWGhlaNGJWPOZdwH4KzxP+fReiCtogeF5TV6kdUONe06tgQtb50MSnlMenw5yTQtzXtv/mxQMeq5cYVXmtm5a7QPRE+U3D+31JhaJQLtHPYxsMawfHFOoZf5oBtr6Fx3ER6lWnzubPZeV4KQZUXrwPAHGlotKzB08hLfIuzgu3SMAyqs6awtIWkme/g==;rgFMZ2DeffYN/5zZeBGibA=="
 ---

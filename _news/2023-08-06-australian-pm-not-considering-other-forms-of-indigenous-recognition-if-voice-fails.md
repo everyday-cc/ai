@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Debate Around AI Ethics in Australia is Falling Far Behind"
-    excerpt: "In Australia and elsewhere, the debate around AI and ethics rages. Meanwhile, AI apps with questionable ethics are being released daily."
-    publishedDateTime: 2023-08-01T16:16:00Z
-    webUrl: "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/"
+  - title: "The Voice was supposed to unify Australians. Where has the optimism gone?"
+    excerpt: "When Anthony Albanese confirmed at the Garma Festival 12 months ago that his new government would go ahead with a referendum on Indigenous recognition and an Indigenous Voice, the Arnhem Land air seemed full of optimism."
+    publishedDateTime: 2023-08-04T19:00:00Z
+    webUrl: "https://www.abc.net.au/news/2023-08-05/voice-garma-festival-albanese-things-are-not-going-well/102690280"
+    ampWebUrl: "https://amp.abc.net.au/article/102690280"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102690280"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 43
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-ai-australia.jpeg"
-        width: 1400
-        height: 954
+      - url: "https://live-production.wcms.abc-cdn.net.au/d46150a199c20d5353125e9a2c00ea8f?impolicy=wcms_crop_resize&cropH=3280&cropW=4920&xPos=8&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
         isCached: true
   - title: "Business leaders back Australia's Indigenous Voice"
     excerpt: "Australia biggest companies have thrown their support behind the Indigenous Voice to Parliament The Business Council of Australia"
@@ -52,6 +54,20 @@ related:
       - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Nine Out Of 10 LGBT Australians Say They Will Vote Yes For Indigenous Voice: Survey"
+    excerpt: "Twenty-two LGBTQI groups from across Australia have joined forces to advocate for the Indigenous Voice to Parliament, marking a significant milestone almost six years after the national postal survey on marriage equality."
+    publishedDateTime: 2023-08-02T22:46:00Z
+    webUrl: "https://www.starobserver.com.au/news/nine-out-of-10-lgbt-australians-says-they-will-vote-yes-voice-survey/225368"
+    type: article
+    provider:
+      name: Star Observer
+      domain: starobserver.com.au
+    quality: 18
+    images:
+      - url: "https://www.starobserver.com.au/wp-content/uploads/2023/08/Blaq.jpg"
+        width: 1000
+        height: 480
         isCached: true
 
 secured: "1JaSgVEttr9o6cwMBrM2BvhE8kCSRQiuVrHGFPUwcTRTXV/2u7FeOJGtONnlFgiRXvioj48Pvhgh8sYOrROxc1DfFxkxyPCZgymZUmPlbn6QebPXEGjR1JRqgeWtRUhs97BTBmNoAGhb2nnZaa0Z9htBg6DTJIyab/hpWi5K79og9LI+vCO5vtHwBAX4/uIs8R3omDw2sLlzja5QZeRDISNS9o0cL09EVceYNhXfdHt5fV9sv0UcH5gHYtiTqlvqvvliOT+Qsz4spvXFvzTAIC5hnBJUOun9YCmvFXPL4jvo2RJRdPw/JlcWZ/96bPZVLumD71+4k3te0SY94WCLEE+i2qAzQfb20Ep2LCSynsc=;pPN/TD/MEdwFmgauPWzmMQ=="

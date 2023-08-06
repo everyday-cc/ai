@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Vast Data announces global data infrastructure layer for AI workloads"
-    excerpt: "The secret sauce behind the Vast Data Platform is its novel components, which consist of a unified and global datastore, a new kind of semantic database layer and a specialized AI computing engine."
-    publishedDateTime: 2023-08-01T16:08:00Z
-    webUrl: "https://siliconangle.com/2023/08/01/vast-data-announces-global-data-infrastructure-layer-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
-        width: 2000
-        height: 1143
-        isCached: true
 
 secured: "UMWLZW85EWxvXRlvb15BUV2hvxb+OMf+5APzQV+Favn1kg+/GUlMzUTBowbXPRBRxKkXyfy9q5xk6iaZPVL/J6qUWHie8orF0A4X+69FfucyHHPMbv2hxA53URIWPOCK52pih8IDkDRuVGXc3Xb8VyynlH/Mcy9F+gVb+EeMYowLdZW7U/WdiJYkM6XoTX+JDY5J5nT6nSNu7s2ZyevUu0ijoCHb6SipIBPofsv2cD/SW2PvD+AmIM4ntsLCaOsAewiqUZwdORogxmSr1BJqePgS+0UW+/KaSBFEaKskbjUCRIIxIIfRNy0RWi9YTmcqqhplG9HPqxYnI1NN2V/Ar2WNA8EIThAYEmv3aDVLhmY=;+zMN3WBVbyr7LMKeZtLrRw=="
 ---

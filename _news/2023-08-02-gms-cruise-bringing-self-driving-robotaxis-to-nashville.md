@@ -134,6 +134,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Congress urged to help get more self-driving vehicles on US roads"
+    excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
+    publishedDateTime: 2023-08-06T09:19:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2023/07/26/congress-self-driving-vehicles/70463526007/"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 4
 
 secured: "7/sYJeVnucCPsHtGNbVfobfQtWzTAZcEuxrY9gUBwaDt23dYyEHR58KDKifiWElqlvOKcrMMuevk8KA4BPpzi0qVOm7swYZmDbkBO6oWS4cLDdTL9OJrrFjMQbSXDoQqcvwNzf9ZQU458i/gONiQzlnN/LXO+9tiuujwEDSMsjtMZVuzY+VlGuHcqcGXn30z79OoRayOif3WAWtG/N+ShzIK5DzhQhORX7G0vspTUdTgU00i/K1U+KeL9EFsDDnitaUgdjWX/FAEN1t7awWZRKLUwA1g+Q3ls+cUXDDyLGdGjZHc3aodEu714xoaawZyyxLzNLV9ayXJ4M+u98tp1g368XaqC5IQ/Ok3k2NH2nc=;4AaOLZAXnzHus434ebGNFg=="
 ---

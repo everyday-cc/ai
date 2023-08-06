@@ -33,7 +33,7 @@ related:
     provider:
       name: The Grand Junction Daily Sentinel
       domain: gjsentinel.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/custom/image/b32d0574-1b24-11ec-a31e-77e4d5ecaec6.jpg?resize=600%2C315"
         width: 600

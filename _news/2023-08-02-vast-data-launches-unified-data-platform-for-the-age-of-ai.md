@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-uni
 webUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-08/02/M_afcc2image_story.jpg"
         width: 960
         height: 540
-        isCached: true
-  - title: "Vast Data announces global data infrastructure layer for AI workloads"
-    excerpt: "The secret sauce behind the Vast Data Platform is its novel components, which consist of a unified and global datastore, a new kind of semantic database layer and a specialized AI computing engine."
-    publishedDateTime: 2023-08-01T16:08:00Z
-    webUrl: "https://siliconangle.com/2023/08/01/vast-data-announces-global-data-infrastructure-layer-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
-        width: 2000
-        height: 1143
         isCached: true
 
 secured: "+y/AWfY68BA+U4fBR4WcBfs+AWPh5kC/Dlm8pS5zP/dA26q8FFp36e4tiU6xSYLSQCdcwSSR+kn6/HzVxmre8zOuLtyYvDB1coVwuqT4ApyIExftFkp9752vUfrceCLljtCHhUqDDahwDtqjnOzPxIkjrygcpmsJXEWgo2ST66gtTrjK+iWpEUYn2eanW5rrLvrvR8szUMQdqjbJIyyDryYKrim4Js87DyASvBIYaX4eSo/HyfZYbpEuy2d47HBR/gaQH8lZ307yvlTT27BSD7Z9fxZkkJPk3Wltti84E8F6b/k66ow69XTC9tyfbarTqCf1grEAaxMreFS8uY6vFYQ+XxILavZcq2EtSQCsJcHtrfyqfu36+KLdGTedKy4kcIiRMuyPW6X080f6+C/jZ1g4AC5sLJ16T7STElguqAoQw1/oUprjJxek3xVqT4aQWr0iSMKG5hhBe/ZZRQKHKgY2tkePO2ZRZxOMjTgeNFStDs6EbWyFVXaWUPXTzVldCRxrZhgxTBaDK3tm0ivvhg==;Ss0POz/+/9WjaWy/IsPKRw=="

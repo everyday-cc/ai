@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2023/08/04/google-deepmind-move-steps-towar
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/04/google-deepmind-move-steps-toward-generalist-biomedical-ai-system/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: syncedreview
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New DeepMind AI model can control robotic actions it was never trained to do"
-    excerpt: "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines."
-    publishedDateTime: 2023-08-01T16:58:00Z
-    webUrl: "https://thenextweb.com/news/google-deepmind-new-ai-model-rt2-controls-robots-untrained-tasks-using-web-data"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-2.jpg&signature=3cea29e2e2c17420da10e9330fa21a57"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
     excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
     publishedDateTime: 2023-08-04T08:07:00Z

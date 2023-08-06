@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-06T06:14:00Z
 originalUrl: "https://www.gjsentinel.com/lifestyle/nothing-artificial-about-genuine-intelligence/article_02993792-32d7-11ee-b9a2-431e0770887f.html"
 webUrl: "https://www.gjsentinel.com/lifestyle/nothing-artificial-about-genuine-intelligence/article_02993792-32d7-11ee-b9a2-431e0770887f.html"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/custom/image/b32d0574-1b24-11ec-a31e-77e4d5ecaec6.jpg?resize=600%2C315"

@@ -41,6 +41,34 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "Australian PM not considering other forms of Indigenous recognition if Voice fails"
+    excerpt: "Australian Prime Minister Anthony Albanese has warned no other forms of Indigenous recognition will be on the table if the Voice referendum fails."
+    publishedDateTime: 2023-08-06T07:54:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/495260/australian-pm-not-considering-other-forms-of-indigenous-recognition-if-voice-fails"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H1s3xc0Y--/t_tohu-badge-facebook/v1690346471/4L599NE_MicrosoftTeams_image_5_png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Business leaders back Australia's Indigenous Voice"
+    excerpt: "Australia biggest companies have thrown their support behind the Indigenous Voice to Parliament The Business Council of Australia"
+    publishedDateTime: 2023-08-03T03:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919728/business-leaders-back-australias-indigenous-voice"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "1X4eetG03gmam0Aja1Z6eMxvE6MET9a4Ke9jcleNZmABXZvf9QHKyBaldrSJbAK6sUy5m4F0Neg5Tq3WsyRxCWevzYxBVtWd+h2K4vFz6JA0UQV0DFDXLHUJe8zMIHgaG185tuAKmIyoVO1foRr9GaI8A6J2A+HI0P7a4SGzRlta0O46hDIkY+rs+/niwlCwjqiSyphz1HPTCwBIhOFYAUOEftBADDgGM225kq9j0z1m+RWsqiNFRs7xvsjANw0UpkE0fnVIfCNcnkEXcDJxtNtP56ihOdCxDV/KERj1Jdc+tYz6n+/uJf7jVrxgnDsU9JsK+PJNJL58d5pBquM4Wo9v4vXnfdg7e8NBSTQ6mSnh/tJBZ5IKPcAVmtwaWMNpmbf/XG9wCBOlT9lxXVzMZ7gkUchCZ9P6fhPRH6r6PflPCAwRpaZBexZOl03Gewd0uTkqwSgB3cKenLkshzUpXvXBlIlazi34t5hBE3b58DcIdsZLNaxYKeUnlASmbOJ7dzEb4S5AHycbdVhgC62REQ==;By+LCbUXR4uWNpnah3LNyQ=="
 ---

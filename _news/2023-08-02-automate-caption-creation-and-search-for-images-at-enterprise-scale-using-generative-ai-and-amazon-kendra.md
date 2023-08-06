@@ -57,34 +57,6 @@ related:
         width: 982
         height: 630
         isCached: true
-  - title: "Exploring summarization options for Healthcare with Amazon SageMaker"
-    excerpt: "In today’s rapidly evolving healthcare landscape, doctors are faced with vast amounts of clinical data from various sources, such as caregiver notes, electronic health records, and imaging reports. This wealth of information, while essential for patient care, can also be overwhelming and time-consuming"
-    publishedDateTime: 2023-08-01T16:18:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-summarization-options-for-healthcare-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/exploring-summarization.jpg"
-        width: 1017
-        height: 505
-        isCached: true
-  - title: "Unlocking creativity: How generative AI and Amazon SageMaker help businesses produce ad creatives for marketing campaigns with AWS"
-    excerpt: "Advertising agencies can use generative AI and text-to-image foundation models to create innovative ad creatives and content. In this post, we demonstrate how you can generate new images from existing base images using Amazon SageMaker, a fully managed service to build, train, and deploy ML models for"
-    publishedDateTime: 2023-08-01T16:07:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-creativity-how-generative-ai-and-amazon-sagemaker-help-businesses-produce-ad-creatives-for-marketing-campaigns-with-aws/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/01/unlocking-creativity.jpg"
-        width: 1022
-        height: 511
-        isCached: true
   - title: "SageMaker Distribution is now available on Amazon SageMaker Studio"
     excerpt: "SageMaker Distribution is a pre-built Docker image containing many popular packages for machine learning (ML), data science, and data visualization. This includes deep learning frameworks like PyTorch, TensorFlow, and Keras; popular Python packages like NumPy, scikit-learn, and pandas; and IDEs like"
     publishedDateTime: 2023-08-02T16:43:38Z
