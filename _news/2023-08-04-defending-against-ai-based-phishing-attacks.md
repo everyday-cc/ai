@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/defending-against-ai-based-phishing-attacks/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/jerichosecurity.png"
         width: 533
         height: 316
+        isCached: true
+  - title: "Weaponizing artificial intelligence and the gospel"
+    excerpt: "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.”"
+    publishedDateTime: 2023-08-02T05:15:00Z
+    webUrl: "https://www.timesleader.net/weaponizing-artificial-intelligence-and-the-gospel/article_447a9b9f-1a7c-5e90-8567-e0f6e9aad243.html"
+    type: article
+    provider:
+      name: Times Leader
+      domain: timesleader.net
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/timesleader.net/content/tncms/custom/image/a70f5850-43b1-11e6-afa7-b39419830601.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "2bY9AGkTLWNani6I8BvNsIUYf9ZToJxBQc/yjcUBi4vB8Cnx+GSDyMWqFBLvobH4RaA1nmulKMtGbsAw5Mdpvlepit5N9s4r8PI4kAdj1slnZVI8y/Mg4rsBSF5XSMqTc/1wloX2VNblbyzRLk7nbq8Elf6F4YXznmSgsTU/M1nP4EZcvPsktjKr6tVGObBn4XwGow5i+Ujay/9BipbK443jy2Wd5MS/IwHK4IZJ6k/V2r2CnAvFdwo6ykHRP8C7Inysjnh+ZjOxhUGPzs5T2nGAUpkTgpQBfPO4Is0Met3dLd50GsKVWfrXsbvMyMm4y6P16opLF4uVOf6XLaXPsewtcS6xS4ck9lePPGF86scfKIboA3uLgV5fEH46b/R34SzicKT3NcUt2tOSIwk7HdioW5oFpT+pBoF19o1/M34iq+pWirBuPp8b2MavsSZ6nMudrhPAV+RvGP0HUISURJauHYuZ8HswhZ0vysc0wwA4KTSdZZ/+9IfKTCCMqZP7UVth5IwPcV9pGoG8GLZI/A==;wa9zOBwpnojtwaSYoGyM4w=="

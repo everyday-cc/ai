@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/youtube-rolls-out-ai-featur
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "YouTube Is Letting AI Write Video Summaries"
-    excerpt: "YouTube is experimenting with allowing an AI to generate summaries for videos. As Android Police reports, the experiment was mentioned in a YouTube support post from 2019, which regularly gets updated as new features are tested. The latest update, dated July 31, is explained as follows:"
-    publishedDateTime: 2023-08-01T13:40:00Z
-    webUrl: "https://www.pcmag.com/news/youtube-is-letting-ai-write-video-summaries"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/039pYfEp75BJWT7mBKjej5z-1.fit_lim.size_1200x630.v1690896925.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "qAkLBDQYrkKPovu/j7k9cr1vKSPBM8j3k7pTtqrd9gN9TSKihWm9eBpeusgLMauEgXJLYgWRkSCpVbFKSzLd59aoWtkx+rJ7ORGkRO60jq4hUQ0rUWNJZlm5+zw5+2++uXTg04oWL8C2mnXc4eAAuMYf2DP/kelxYOsX1zuEi+c7KOEMpj1e1C8PBLUrc5ffYiA4Mww0FEb4G2LnoDWjCkoh/N+4DZ2YIawz2CuYQ59kncVlN+oOPW82qqV1VOkqxycbHAPBrfsi0brfM80i0ToLanFYgtF2z44Vvqtbyc2ZewjNWr7Hm3oej+PaK/piC2uZIVj9m3/Xln7fvKllQT89kgZZ8t19Y1MRMvSTHH8=;v4z2Sdya8ZxhA6jC/KRm5w=="
 ---

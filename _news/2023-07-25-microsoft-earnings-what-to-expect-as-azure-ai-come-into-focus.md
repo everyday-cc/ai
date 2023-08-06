@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "97kdtpyZUsNLFHF7vpOJ5zl2hlKPcv1GNlkl6hsoigBu0yYq9/qnWysuD5s5+a8adLbymaO5Ojzo7RmksW0/RqE/EPRh79yJXwelfcQV2LfWPAZuLOkhV2uUmeCiEWLNCKp7c6oSJzGCnmo52l9NfTXdYCuG1ODmoWLu5uNrVebJ13Fn4mJYtXLafLKNI2x+08e5y1QXCaJulQdsDWTitLdhXZeqI6sT+PZtwaBqEts0Y+oZoLEa3Bq95LzvwwG60R5kSz/yxbDfs/bGTFaeG7mT3DL26ukri91y07WaSyrcde2gW7OP/Hwu1ll2WqRZl+6D5veSajDry7+2GgfM93sFCr3AxDShP8OxlzGp+zg=;+MUWkjseUSVUS4ITntXBKg=="
+secured: "t8+OfyUd5ghSdK2lN1RrmFnDpOQHo8L972Uo67648hVVHo2+B51Ex8B39oX0VqHvEIvG3bVi3hddqQ1akaOgF+FHBCXnmSKhUU3NrpsVsQO+9Jr/eTFlcyNEswm/UdNMA8vq5BtnMSwdWGGI6pzVrfQUJrhs7bjp5/ocFA3tZ6gXwAMY+XXi6XLxmhzAd/Q7Ibb7m6PadXMhARYs+3WDWD/WK265EHVhAxnol0Qb7tYKCI4GPQBuxS9cz2KBJDMM9Hc11plmb3dD/d/eXS/IeMCDMB0TIvRWffVaVPbgiyNmse4DLI/hNPfmjSchX+MwZdKZ1v6VS7/8GvjWcl2uYET1eiQvjhtkI9jtzwtY1LA=;NplScap0wBdhQiVXnvzpaw=="
 ---
 

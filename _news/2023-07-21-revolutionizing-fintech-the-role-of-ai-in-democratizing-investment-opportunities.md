@@ -3,8 +3,8 @@ category: news
 title: "Revolutionizing Fintech: The Role of AI in Democratizing Investment Opportunities"
 excerpt: "With the integration of AI in fintech, individual investors can access high-quality researched-back data and investment recommendations to make better-informed decisions. AI platforms are using ..."
 publishedDateTime: 2023-07-21T14:30:00Z
-originalUrl: "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200"
-webUrl: "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities?time=1689964200"
+originalUrl: "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities"
+webUrl: "https://www.nasdaq.com/articles/revolutionizing-fintech:-the-role-of-ai-in-democratizing-investment-opportunities"
 ampWebUrl: "https://www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/revolutionizing-fintech%3A-the-role-of-ai-in-democratizing-investment-opportunities?amp"
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "dSzhzi1IMPPeAOHrbUTYs51Q791J5UWkPGvK5YSdBACHUVO8CfONHWOCqtDESExR5TqbGkVKtepeGw8lDffPXyhyantGv4ywd6ZAjHyRDIe8wzkNjCn3p02rvdgefFmJ5LnLlMuBfWxEKdbzSseqwXW4zQqUHO+yEZTON/PQsunNWmz9DdJrzsURT1DmCB1RSa94tlY+uEFJT4krYlImLKor0EsO4uAbx7ihvzlpULyk2Ze3wYGP6/ASTsT9/ZSfzR/dMlonz6XrasfmMFym8qDCf+GOA6frw6Wq6bkW/t3yevuxbF1P41aJTGDGtNcnSZfTbPmzKvNKGqOTpfiqa+SHTCyDq9+PB05UwszFO/M=;62yvpNwc9+JghsmJDST0UA=="
+secured: "zDO3KkDq5XmTPSnM49u+sOvD7lketxpJDLtmRu10ccBwE6PmWtEHmxSBhA3A8pj5WIO1wtmS7x7pavGyHpPc0GGuPLPmo0NwQnr0GRHY3tHLDR72gLase68uFfFfkCVcm8bHniDqP6ZhWeu7wk6SnvMPjdpJaUkZKuQ+0KEDGWUKuhT3jRKtf+HGnGE2BRzYcH1xGcSyu+lDpGVQGt3oW4zNVQcOO7wh6WZL/nfUbVkatQoUOaZ+20eQL5d2z4MRYPTRczPZzDLQII1YB1kW3qaM5ROzKupU2htvF0hekgaXM9WghtiVcNMLAblCzDF55KgC2MxrEs3r98zXomOdY7wkwHWJmP6bBTldujcENyg=;ARydEv3kTzYQOErT4/muDw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-wit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
 type: article
 quality: 85
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -113,20 +113,6 @@ related:
       - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F08%2F64c99c83f0157-dall-e-2023-08-01-17-59-38-artificial-intelligence.png&width=1200&sign=IU5Q1EYy6Xs8X1liECQmfQEQa1SMYXF9jiNRr6PZvAo"
         width: 1024
         height: 698
-        isCached: true
-  - title: "Meta AI personas might be the most important ChatGPT rival yet, and you should be worried"
-    excerpt: "Meta is working on ChatGPT-like generative AI bots for Facebook, Instagram, and WhatsApp - here's why that's both good and bad news."
-    publishedDateTime: 2023-08-01T14:24:00Z
-    webUrl: "https://bgr.com/tech/meta-ai-personas-might-be-the-most-important-chatgpt-rival-yet-and-you-should-be-worried/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 28
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/07/rsz_gettyimages-1514363181.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1259
         isCached: true
   - title: "Explaining the ‘T’ in ChatGPT"
     excerpt: "One letter is key in explaining how Artificial Intelligence models work. ChatGPT stands for ‘Chat Generative Pretrained Transformer’, and the word ‘Transformer’ is at the core of how these systems work,"

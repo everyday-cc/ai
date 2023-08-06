@@ -126,6 +126,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
+    publishedDateTime: 2023-08-06T06:45:00Z
+    webUrl: "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html"
+    ampWebUrl: "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html"
+    cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html"
+    type: article
+    provider:
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 58
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/c/d8/cd8e6d4c-1029-53a9-a446-cd5951db10f6/64c8cb7facd53.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Meta readies AI chatbots for artificial companionship—and user retention"
     excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
     publishedDateTime: 2023-08-01T19:10:00Z
@@ -348,15 +364,6 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 16
-  - title: "AI images on Instagram; Meta chatbot plans create privacy and misinformation fears"
-    excerpt: "“Once users interact with a chatbot, it really exposes much more of their data to the company, so that the company can do anything they want with that data,” said Ravit Dotan, an AI ethics adviser and co-founder of the Collaborative AI Responsibility lab at the University of Pittsburgh."
-    publishedDateTime: 2023-08-01T13:11:00Z
-    webUrl: "https://9to5mac.com/2023/08/01/ai-images-for-instagram/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 13
 
 secured: "k0k6suqVEnrcTM5hfTdOj8uy8K5k2LGXvr0lfks5Ny1ZeI8NuzfhLds1dWXWIQMmNmFOmuHyw3Rp5cGbGJXamKo+wgPadebf3rSBTunPh/vVVM0aeWT1NJL3heLSHMEU+qkLwG5LPgiZUxXFruNPElYuEXGPpuRQ/ilStnXmbhdaOxBpe6toDKO76GFbfULg8jMQOl6mPAj5jUSlYQZnAsjMP+FPsDSVBhmH9c90wRBt6oDPZ4yHMYpR07qPqy+3vP7qOysFklwXNDYOA4shiofk+1Iy6U/Smpvr4pSDtM4DHi0TUMbrl+8s1g7NZWLy6Jg3tScfhE444ejitEyMkUCuiRRN/EHZxCpXG3lnOMJJNvvX6RVW/o4Kt65nrZqwVVEmHQ9M3IZz44Oza2LqFP1Zy+RVB6zsWidCveFN37ft6KCOZLCaShBCYJ/cdhq8me2B56weQVMK4eQW1V9HhCEtVj4H/opskTtmTdMtvCTp3myI1UFoAL5XpAmUYXONS8mSCC/5Q+ITKCL8b1nX3w==;5EIX0wJn7dTGx35StfiamA=="
 ---

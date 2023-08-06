@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
-    excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."
-    publishedDateTime: 2023-08-01T13:43:00Z
-    webUrl: "https://www.unilad.com/news/us-news/new-york/brain-implant-restore-feeling-movement-paralyzed-man-210777-20230801"
-    type: article
-    provider:
-      name: unilad
-      domain: unilad.com
-    quality: 34
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt84393f55ee50af05/64c9018a3130b00af1193413/brain-implant-quadriplegic-mans-hands.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "vHzeRGXzhYPDfpxalsEdvFoQpEOfZ8GpzNDqqMm3Yl7KXS3Y17uwvDDORHjKrCDoxNCeV17MtFgWwzyuSSrpFATDEYJnwXfWjo7Jp2omz32XtTrR1GnLwG+qPrTrTAPxMiYoM2X8cCMUcYvV0Nqus7Anc7jKi2uzkJhDuZmakbu00FD4g6eTRtmnCjE7GQIyY7pBluLhgWm47AI0Qt0bK/TAftfXUXBEoKa1UJv0laXD2AfBHrcIDxFzCl2GxRb8/DXqSbcab7qfCKHKz+rMNiRJvKE6Xi1hkHPMJydCIAvCtFD7JYs3Awm170+jCX4sH+2hdrBJmmRGJADNSvHWktay650E0iT8b9ZyK9H1S+U/Ntjqh/WXeT7je+cSDI4l4AuEY6XW6JJoDEybCnNqiiN93kRWJ578aGkBDzJntltuKEOWdCDUzREOsg4WxzSGFgTMfPXKP/8RUFLHWEJH37jTBrQKMu9oLTWR7Y1tz5SOI1UjEeUa1N6LECOGR3LWD9XuSNoVLwTsyySqzDQIYQ==;1S3ASYeTTg9psLXMZ04IAg=="
 ---

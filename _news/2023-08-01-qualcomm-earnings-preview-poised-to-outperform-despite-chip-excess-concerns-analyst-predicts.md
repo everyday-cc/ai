@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/qualcomm-earnings-
 webUrl: "https://markets.businessinsider.com/news/stocks/qualcomm-earnings-preview-poised-to-outperform-despite-chip-excess-concerns-analyst-predicts-1032501831"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s AWS Q2 Earnings Preview: Cloud Sales, Profit And AI"
-    excerpt: "AWS earnings in Q2 2023 will highlight cloud sales growth, operating income, generative AI and Amazon’s profitability."
-    publishedDateTime: 2023-08-01T14:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cloud-sales-profit-and-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/027c-16e3747ed8c6-ae36c1f05f3d-1000/aws-sign-summit.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-  - title: "Amazon's Q2 Earnings Impress: Focus On AI And Margin Improvement Praised By Analysts"
-    excerpt: "Shares of Amazon.com, Inc. (NASDAQ: AMZN) climbed in early trading on Friday, after the company reported blowout profits for the second quarter."
-    publishedDateTime: 2023-08-04T15:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-s-q2-earnings-impress-focus-on-ai-and-margin-improvement-praised-by-analysts-1032518724"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/08/04/amazon_shutter.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Amazon earnings preview: Cloud looms as investors also eye retail, ads, and AI"
     excerpt: "For its part, Microsoft Azure clocked a decline in its revenue growth ... according to RBC Capital Markets' Brad Erickson. Instead, AI will feature heavily, especially given Amazon's (still-mostly-theoretical) competitive advantage with large enterprise ..."
     publishedDateTime: 2023-08-02T20:04:00Z

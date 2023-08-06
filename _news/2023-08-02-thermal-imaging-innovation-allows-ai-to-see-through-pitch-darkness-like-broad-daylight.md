@@ -25,22 +25,6 @@ images:
     height: 852
     isCached: true
 
-related:
-  - title: "Purdue thermal imaging innovation allows AI to see through pitch darkness like broad daylight"
-    excerpt: "Traditional thermal imaging is a fully passive sensing method that collects invisible heat radiation originating from all objects in a scene. It can sense through darkness, inclement weather and solar glare. But Jacob said fundamental challenges hinder its use today."
-    publishedDateTime: 2023-08-01T15:03:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2023/Q3/purdue-thermal-imaging-innovation-allows-ai-to-see-through-pitch-darkness-like-broad-daylight.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 28
-    images:
-      - url: "https://www.purdue.edu/uns/images/2023/jacob-hadarOG.jpg"
-        width: 800
-        height: 450
-        isCached: true
-
 secured: "vLARjz4O00OYg28eNxiel9sSnatFgB1Dip0541W7PokW0dbx1k1xNJIieOhuZI41a00YZjkBT0AaOs2S0pS14Ocz5PHc7DDPHRxvbPobD7YCdrKg3caebtDOwfz5lnh4ykx+vUVfrB0wM1v+HiwetZopa1CGh/FAAY/dO2S2MzRQsHORhQ1EeFSvMwu/Yj4+CtWsBjAMUow2Hh4zr8DJAwX0UPn4MuE/fRnaR+SG8H2Bdr85SDn/8nZ9mi0du6MNBWs2YgZi8krjEVDvgISur4pAaKSf+cXUWnEA/W13WQ2WVQdTAtxoZ9r4DmumuBvDLfrWMMO8HhD24enM4Bbzy1/GBr9DW3Nrr/TKIzYb4WY10gK30jG1w9MZa+s8f9jJT92p9W8YRRKoEBvwm1eEVSgPKg0gzeo6dz7zPnjtSiLABY2yHe9UA52FmHC2XOALJakJuQxsYgkMhJw60SFvQM+QfJtdYZA+aLXj/tJk2/WUGE4WMEeYL0jOIY/JVe21y423LkKKGpYXMXtDS1IpbQ==;oexZoZnZwITY4ZPj1WqvHA=="
 ---
 

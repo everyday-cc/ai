@@ -39,6 +39,20 @@ related:
         width: 1400
         height: 954
         isCached: true
+  - title: "Australian PM not considering other forms of Indigenous recognition if Voice fails"
+    excerpt: "Australian Prime Minister Anthony Albanese has warned no other forms of Indigenous recognition will be on the table if the Voice referendum fails."
+    publishedDateTime: 2023-08-06T07:54:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/495260/australian-pm-not-considering-other-forms-of-indigenous-recognition-if-voice-fails"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H1s3xc0Y--/t_tohu-badge-facebook/v1690346471/4L599NE_MicrosoftTeams_image_5_png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oottBDzphi3pliaRDB7DGvv6VZHtG1VPYVQu4v+lpM+d4vRSD8Sdd0wSv9tcAHxL7dsSlMkQiuIkIt5Mkop6zYwxh/YBGQ9F+uxrSKrRwQkuLoFcTSdqJKLxbxq8r0/ycY3bPCVTx+0GCjhdLhGjWYmuDNXeed5MPBQ27XT8ywleUwPJVF0+pBTF8k7lHkkwZz502k7QDU0hlMcF4bWJDA1MuzVGd+EBiHZYh0Vdnj/toJzQ4SC+j4FR+vtv5TA2Kelcah8PeH7oT3xmt1NEjhMk1Gg/gFhPkZ3e41HdZdD8aFvRlx65Tkr1T8xdDDn97Yybe76HOh2KarKYbZXswi3XC8RaTYjah7uxyVO0Zfo=;zGydBfJJK+VjU5pMSt/aOQ=="
 ---

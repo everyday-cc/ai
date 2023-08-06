@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused
 webUrl: "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "5 things to know: IBM Cloud’s mission to accelerate innovation for clients"
-    excerpt: "Five ways IBM Cloud is helping clients make the right workload-placement decisions based on resiliency, performance, security, compliance and TCO.\nThe post 5 things to know: IBM Cloud’s mission to accelerate innovation for clients appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-01T14:08:47Z
-    webUrl: "https://www.ibm.com/blog/5-things-to-know-ibm-clouds-mission-to-accelerate-innovation-for-clients/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 80
   - title: "Tromzo secures $8M to lead the charge in AI-powered cloud security solutions"
     excerpt: "Tromzo, a cybersecurity startup, today announced an additional $8 million in an oversubscribed seed round led by Venture Guides to secure cloud applications."
     publishedDateTime: 2023-08-03T19:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospat
 webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM and NASA open-source foundation AI model for analyzing satellite data"
+    excerpt: "IBM and NASA jointly trained their model on a geospatial dataset called Harmonized Landsat Sentinel-2. The dataset includes images of the Earth’s surface that were taken by NASA’s Landsat-8 satellite. It also contains measurements from Sentinel-2, a satellite constellation operated by the European Space Agency."
+    publishedDateTime: 2023-08-03T19:38:00Z
+    webUrl: "https://siliconangle.com/2023/08/03/ibm-nasa-open-source-foundation-ai-model-analyzing-satellite-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
 
 secured: "2q68QuexNJL6R4aF/VHvTLHevV1fz6+xjkVAd/ZxYZrev15rWN99RAbDD1T1pAqMj9dtT6+dll4JA/OmogEj8EEpYqtQGAYBkgaPxT6RR6PikKtZLUqZtgYI7eCIscGN4RlbLyiWiI8ReEh0Az5m0iV/PQtDHwWR9o9HPp2iD5n5CbjhncZMl+WQhxKmZh6uhMPWL2vIQivM5RVkYjmnwUem2lJaWNVRCRtg2P0BAm/a+C+uILztV0e5IA46FHfNfwgKoSiy6jjeUHhY7X0aBAFQF3MugVTsLaOw0FIW95pPOD9Wo2pwVwrJXdLSbd4pYIgTMXyB7fQBzXciCxr1rs5yuUQzEKxcAtaIzIoPOkyfU1fNjS7/rajrMBAgD+wDDfrmNGFCX53m68m1ynPVMjambjK84V9IHi9oQlJhhD1rwHBb/T7oaYdvxL2O9ZjYnH5rcHRue/SSit8OleYHTNrJtf3Ct4uQEZZWNPMtI7nGP24crTo+p21Xjuad06n6kTpQidWq5euQ/lS2OusTWg==;d0N807arPiB6Rs8nsHVnlg=="
 ---

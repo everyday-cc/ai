@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hrzone.com/lead/future/artificial-intelligence-in-hr-mea
 cdnAmpWebUrl: "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/lead/future/artificial-intelligence-in-hr-means-liberation-not-limitation?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 2448
     height: 1224
     isCached: true
+
+related:
+  - title: "AI-powered computer vision accelerates innovation"
+    excerpt: "Advances in computer vision and machine learning are helping companies get medical devices and drugs to market in a more reliable and safe way, and sometimes at a reduced cost. Pharmaceutical ..."
+    publishedDateTime: 2023-08-02T08:33:00Z
+    webUrl: "https://pharmaphorum.com/digital/ai-powered-computer-vision-accelerates-innovation"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/sites/default/files/2023-07/AI-powered-computer-vision.jpg"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "+geI1iSwScKlPaqTsQW2NIbSeITjdrUPww8PYEH5tZr6saUn1tvFgIEdTcddun1qySsmlsrkpL3JWwLnykqYbNNExPYo2c5FCdXwJgKv0yyyv3MHCq14nQj4LH1qlGoxfUabylDmVgQ8lwprWENx+m/qlhzBsy8HEdCkvj+0hW6o6Xe7YMd6qyfjUVkTxDsHhyfB1FFTMvN0IdzfKZWR0L+Lv49stzSX+obfECNsZyIKjMN7Q6iGK6M13JUlprKJT6FyszLk94QtdYn941mC1Grlp27Oge3ZM1qx1/BR5b06V5j+RYK13Hm9a9BKvScKZvhRXjcrFlBmo1m8XWJbG+6EsECLHV65ZzhnQtRruR4=;7rQpdY+cOAmvQtFJmnf2DA=="
 ---

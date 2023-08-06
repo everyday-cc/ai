@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/what-ethics-look-like-post-ai
 webUrl: "https://www.techrepublic.com/article/what-ethics-look-like-post-ai-world/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Australian PM not considering other forms of Indigenous recognition if Voice fails"
+    excerpt: "Australian Prime Minister Anthony Albanese has warned no other forms of Indigenous recognition will be on the table if the Voice referendum fails."
+    publishedDateTime: 2023-08-06T07:54:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/495260/australian-pm-not-considering-other-forms-of-indigenous-recognition-if-voice-fails"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--H1s3xc0Y--/t_tohu-badge-facebook/v1690346471/4L599NE_MicrosoftTeams_image_5_png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Business leaders back Australia's Indigenous Voice"
     excerpt: "Australia biggest companies have thrown their support behind the Indigenous Voice to Parliament The Business Council of Australia"
     publishedDateTime: 2023-08-03T03:32:00Z

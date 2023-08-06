@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Anthony Albanese ‘won’t focus on hypotheticals’ as Voice date nears"
-excerpt: "Mr Albanese said the Voice is the only form of recognition that will suffice, because it is what Indigenous people asked for. Picture: Tamati Smith/Getty Images Mr Albanese also confirmed he would announce the date Australians will head to the polls within ..."
-publishedDateTime: 2023-08-06T02:03:00Z
-originalUrl: "https://www.adelaidenow.com.au/business/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
-webUrl: "https://www.adelaidenow.com.au/business/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
+excerpt: "Prime Minister Anthony Albanese has warned no other forms of recognition of Indigenous people will be on the table if the Voice referendum fails."
+publishedDateTime: 2023-08-06T02:00:00Z
+originalUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
+webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Adelaide Now
-  domain: adelaidenow.com.au
+  name: Couriermail
+  domain: news.com.au
 
 topics:
   - Natural Language Processing
@@ -147,6 +147,6 @@ related:
       domain: news.com.au
     quality: 0
 
-secured: "wE0D50G9y9ubvbqfwv6RTmsbUp4jW2kwhRKTlW8sQS9UG7C3co1w1uX8kYaAuTFoDae6lTUjS1fN2zv5rbXmnAZzoTxK+a4zzfshxEMKPoHQfPd+PPdexLiGxiAPqXBfh1hxbLcIfmO9kxpQISRoG+cgJwY5+P/hx6Kbh17ZQU4sWB2T0eiW3tfHNfqCpkja/5NrJ/r+MKBwxMty3Wx7dXLr4GdDkjHkhtKa17nPX4ClEIN9fi8awnPlZMnm7wB0jnWJtS8jHQdFm1K1IMQZSLo/PqL5iyqMQrgmckU6oPVxbep9I0iDyNG2e+JKo0rZqzfj8AvePvsGDtb+JWDhqQOfAX1ogjW/+kE/mv/nGWZ2PHf/Y84zsQ5kDW0/Sx0Vt2zYBhkx4U70Y6SJMj9b6wbGt6HVb9kMhgOnx5nHwVvAT/J50Lzf5BkMHyV49x0LgbCRxfwBi5r5WCljDeg5gZsD6i7FULmx3MrlWLCc3H+QENwF0CsVjwG2KUEh2MIXDZFjkzKsjvsL7JHddAS7Hw==;7RMAG/4o+SGewqPmeybLMA=="
+secured: "JCFqjbdxSzSMi4CXzhlZ0pDdJL1TtWzW1VvUkER+ecJTFPhjZ9fEwi2ncGFGhIBotL/UBZig/kSxEoIKFfsGbrZimR8IE2ZkI6i3AYWuuFsDO2yFzqSzMkCFqIXToelhfukbLqYQUnUqchgP7lab2IYEmb/T7j+rJxBB6A5OZDGluWc3ZtqTtlEhaR3p0xGQ4ksjy3jsOgS/tzN0YAJWHaO+yJm7UuGb4yoerVcEuzUaxxi6fCNHVLgYkS70QADVakVLwLODgm3aPFEUhqrvSMppp3uu+kNbZOVE1ugeyaqqcKZYjoPhxIYZ4EUajJG2Ri1yS2XoG2RU60W5pHTL1FoJk4zmT2NO4w2N+V9A1Ng=;h2yp5BPXevEynlICBDSz4A=="
 ---
 

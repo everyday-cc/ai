@@ -41,22 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Citizen Services AI Market is anticipated to reach USD 215.3 Billion at a CAGR of 46.80% CAGR by 2032 - Report by Market Research Future (MRFR)"
-    excerpt: "Citizen Services AI Market Analysis: According to the research report published by Market Research Future (MRFR),\" Citizen Services AI Market Research Report"
-    publishedDateTime: 2023-08-01T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33496547/citizen-services-ai-market-is-anticipated-to-reach-usd-215-3-billion-at-a-cagr-of-46-80-cagr-by-20"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33496547"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33496547"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "HUmG7dJkQLu6rubk1fO2hg/aX0PBID6kLL12LJteyRl+PPo34zTUe5OKsvNEa9eoeRDUS+uRA2t+9IrbsQBZkkf/ArjMftFnHpW7qi8qbdTPH4fqE9aEM3mO6og1/cIpVmYO3WGD8HwPz6hRsDnK/ojl/vrXXQO3674VHU3/VZGZgv6NMxh147MNWhgD3MlgobispDO2upS586h2b1gwdHsgnJjhSvgUbs0/SNvZcG6emLWzwhNanZNjSTCEHz26VIB3ZkQeo1Fh6bPuS1rWcwY4OZ7PHRcL4/qlQZdZ0QAk4MXajvPR55OIVISAHexjbkh4p6jerhR2QobQ3XUfL8aqc1mooGIwIe7zSHr6Vp8=;A8n2c/auEOoNK48FBm6obw=="
 ---

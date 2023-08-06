@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Using AI to accurately quantify the amount of entanglement in a system"
-    excerpt: "An international team of physicists has found that deep-learning AI technology can accurately quantify the amount of entanglement in a given system—prior research has shown that the degree of \"quantumness\" of a given system can be described by a single number."
-    publishedDateTime: 2023-08-01T13:27:00Z
-    webUrl: "https://phys.org/news/2023-08-ai-accurately-quantify-amount-entanglement.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
 
 secured: "Ol8vqr9bsEbJeGHt9eU7eUqxNrB+LDH7LGvK9lJJCr3ySSnnpe0vees8cf3Qexy0/OAvD/jMTYy4PwNTqrMhXZ3izRLqadx5I8sPstv5ItZJzfG0jsqvXXH/0jC8wpGfBWSGVQe+4oys9kibvLB0Ryhr90yRVaLKwwxPT7Hyr5OysQFpNNnSv695PCskdFHgcGXPYj6MYGVYGMo9h8NzLBvHk5YrKDQlXz/XQtsrhT3VSLxZCtgYFzmHriYoVSnO1n5uULaEfr9mWM8ECMK3BiZeBuYwZ9VR+gzB+jyNiMusWX+nOdJTP662iUEfPVku3Mhn1EF3EeOVRnWl67P+PYCnqJDB/zzXytsdyPo2T2Z7+3BcY7pjSP2M1/U4cpWtqIGI6xV03XqU6JPjZZqJpck0yf1yEm3UwUJ76U22OXQ1G+KSgQvDzJroE/YTpDONnPj/QzjDsOoVyaDXAb0yTE3csTrBf/2l3bX5I5xhDt1K5S0CZmKwrE3bKXq9+omJ+BtnYMVBRWnZMWe6DPWeLA==;wP0B9Zztm+AaRn1s8w0Y0w=="
 ---

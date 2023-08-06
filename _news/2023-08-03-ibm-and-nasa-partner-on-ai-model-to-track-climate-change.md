@@ -67,6 +67,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM and NASA open-source foundation AI model for analyzing satellite data"
+    excerpt: "IBM and NASA jointly trained their model on a geospatial dataset called Harmonized Landsat Sentinel-2. The dataset includes images of the Earth’s surface that were taken by NASA’s Landsat-8 satellite. It also contains measurements from Sentinel-2, a satellite constellation operated by the European Space Agency."
+    publishedDateTime: 2023-08-03T19:38:00Z
+    webUrl: "https://siliconangle.com/2023/08/03/ibm-nasa-open-source-foundation-ai-model-analyzing-satellite-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
 
 secured: "9tX+deRvVdvx52nH4dUD7RVWBQZFuwa5lXza+r0Cfqd3r9yNv8vRu3OdMHiHWzvF1lQiGyVaLbkDmj1vdxaADsnha22OqxsYEOUMXje6SV8/uAgdRzrcukJqtxjzDD7JtcXunEmgMNIM4fRxFsGoKcv16Z1eRDac0q/iXxcRmAq0l+QuM/rHxXWzZ3VwgT1aSRmT9u0GTo7sIY96cL5QJ+3Y2xoxkcKROkB/Cxwrqz3f7jg8PX8sEuMJxjHYneH0KBS1CELWBD2beJYWaQjxWeIOMMIVOdl+zYY1rBcp06BOdqkpShXuLpuWdz7+888G3VunnIE8Fib2GxfPpa3+KqVwqPINVhTkM8twjGrWwJla35SEOTmyuCVxQ0YSDVhEulqGtmNrn2E14N7LG7IWjHPi4s/ibQDFSPWVdYpNOQNUhAEoxrRhQ0NtAWB4TV0iwf/J8kINT5eUXPD/6ADw+fFdl9AoVcBiEPagmdoehPdoxQTF6pg55mqPRIxsupgBytHPQuRtactcSDk+DfT0og==;w1+55f4TiXxqGODO3PVzNQ=="
 ---

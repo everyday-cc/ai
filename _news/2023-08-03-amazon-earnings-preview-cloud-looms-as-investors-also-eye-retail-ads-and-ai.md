@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s AWS Q2 Earnings Preview: Cloud Sales, Profit And AI"
-    excerpt: "AWS earnings in Q2 2023 will highlight cloud sales growth, operating income, generative AI and Amazon’s profitability."
-    publishedDateTime: 2023-08-01T14:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-s-aws-q2-earnings-preview-cloud-sales-profit-and-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/027c-16e3747ed8c6-ae36c1f05f3d-1000/aws-sign-summit.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-  - title: "Amazon's Q2 Earnings Impress: Focus On AI And Margin Improvement Praised By Analysts"
-    excerpt: "Shares of Amazon.com, Inc. (NASDAQ: AMZN) climbed in early trading on Friday, after the company reported blowout profits for the second quarter."
-    publishedDateTime: 2023-08-04T15:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-s-q2-earnings-impress-focus-on-ai-and-margin-improvement-praised-by-analysts-1032518724"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/08/04/amazon_shutter.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Qualcomm Earnings Preview: Poised To Outperform Despite Chip Excess Concerns, Analyst Predicts"
     excerpt: "Chatterjee maintained his \"favorable view\" of Qualcomm, despite concerns of chip excess and a potential decrease in chip prices that could hurt gross margins, adding that the company’s performance is set to outperform investor expectations."
     publishedDateTime: 2023-08-01T16:29:00Z

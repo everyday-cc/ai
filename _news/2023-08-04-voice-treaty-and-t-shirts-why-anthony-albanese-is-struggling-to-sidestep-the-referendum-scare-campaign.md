@@ -134,13 +134,13 @@ related:
         height: 382
         isCached: true
   - title: "Anthony Albanese ‘won’t focus on hypotheticals’ as Voice date nears"
-    excerpt: "Mr Albanese said the Voice is the only form of recognition that will suffice, because it is what Indigenous people asked for. Picture: Tamati Smith/Getty Images Mr Albanese also confirmed he would announce the date Australians will head to the polls within ..."
-    publishedDateTime: 2023-08-06T02:03:00Z
-    webUrl: "https://www.adelaidenow.com.au/business/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
+    excerpt: "Prime Minister Anthony Albanese has warned no other forms of recognition of Indigenous people will be on the table if the Voice referendum fails."
+    publishedDateTime: 2023-08-06T02:00:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
     type: article
     provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
+      name: Couriermail
+      domain: news.com.au
     quality: 4
   - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
     excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."

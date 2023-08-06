@@ -2,92 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2023-07-10-galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-trial-in-psc.md",
-      "title": "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC",
-      "excerpt": "OnKai's AI models redefine the methodologies and economics of clinical trials TEL AVIV, Israel, July 10, 2023 /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (NASDAQ:GLMD) (\"Galmed\" or the \"Company\"), a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33164058",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33164058",
-      "publishedDateTime": "2023-07-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-transforming-it-operations-and-application-modernization-with-artificial-intelligence.md",
-      "title": "Transforming IT operations and application modernization with artificial intelligence",
-      "excerpt": "Many organizations have embraced the hybrid cloud for its flexibility, scalability and capacity to accelerate market deployment. Hybrid cloud enables businesses worldwide to promote data security and accessibility for various projects and analysis. However, managing multiple hybrid clouds can be a complex",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/",
-      "originalUrl": "https://www.ibm.com/blog/transforming-it-operations-and-application-modernization-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 372,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-10-what-is-web3-and-how-does-blockchain-enable-it.md",
       "title": "What is Web3 and how does blockchain enable it?",
       "excerpt": "Web3is a vision and technology effort&#8212;coupled with economic incentives&#8212;to rebalance economic power in the web across service providers, application developers and consumers. This effort envisages a decentralized, more balanced world. Trust and power are distributed across service providers",
@@ -1157,6 +1071,101 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-09-liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training.md",
+      "title": "Liquid Neural Networks, A New Idea That Allows AI To Learn Even After Training",
+      "excerpt": "Daniela Rus currently serves as the Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. She has made significant contributions to areas such as autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
+      "originalUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/09/6330833102112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
+      "publishedDateTime": "2023-07-09T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-09-amazon-prime-day-2023-is-next-weeksign-up-today-to-shop-the-best-deals.md",
+      "title": "Amazon Prime Day 2023 is next week—sign up today to shop the best deals",
+      "excerpt": "The two-day sales event is exclusive to Amazon Prime members. Right now, you can give Prime a test run for free. Newcomers can sign up for a 30-day free trial of Prime and pay the monthly fee of $ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/05/amazon-prime-day-2023-sale/70384131007/",
+      "originalUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/05/amazon-prime-day-2023-sale/70384131007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/06/21/USAT/e1c97bb3-7b4c-4b7e-82fa-c3b393033ade-2023_PrimeDay_Hero_V1_Color3.png?auto=webp&crop=2987,1681,x12,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

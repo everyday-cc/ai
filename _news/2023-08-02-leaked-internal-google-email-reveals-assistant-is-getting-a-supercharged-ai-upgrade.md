@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/92658/leaked-internal-google-email-
 webUrl: "https://www.tweaktown.com/news/92658/leaked-internal-google-email-reveals-assistant-is-getting-supercharged-ai-upgrade/index.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1500
     height: 843
     isCached: true
-
-related:
-  - title: "Google Assistant is about to get supercharged by generative AI, says new report"
-    excerpt: "\"We've also seen the profound potential of generative AI to transform people's lives and see a huge opportunity to explore what a supercharged Assistant, powered by the latest LLM technology, would look like,\" said Google VP Peeyush Ranjan and Director of Product Duke Dukellis in the e-mail."
-    publishedDateTime: 2023-08-01T14:53:00Z
-    webUrl: "https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/c8aef6052625489293039233897e8894049b1231/2022/12/19/d5fb7b9b-c0fe-4bdc-a3f8-a1256845858c/google-nest-audio.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "TCipS+RsgGjS8vsqHxUF3k1dgrA5fhwf4FYFeR+gv4ydKgLoHLCkWHdAiNby9aZrg2vEGoevrYEK4FCT/nXxg9aY7Q4Tm+rtDnRr3E79+qSwbVgH++2iPmlAOan9zeAySL4Zc1XBZMeoQIAXU9H+hWKIdEyYPbflBnD/Z94wxSA6Nt3XmKlux4Ka5+TjeiZDXikToMAHRl6RkCMscfWTrEhihtOS3/SnQXSXZ8QLVDjU1mnYDS834UFzvvE38FPzFX8ULn6ZgY+i8mMa0f98vph8R/ENb0b/3RDC1xHny74KypZ6VkiBQ5r+nuvODgQImAx+Ra3i5ues/mdLGE4gRysWCti5TQXZ7HLEaGa9FpM=;kC9DSVwIQrOR0Ujbips8zA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help
 webUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/08/paralyzed-man-regains-movement-and-feeling-with-brain-implants-and-ai.png?fit=1200%2C900&#038;ssl=1"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Brain implant partially restores feeling and movement in quadriplegic man's hands"
-    excerpt: "Brain implant partially restores feeling and movement in quadriplegic Keith Thomas' hands at Northwell Health's Feinstein Institutes for Medical Research."
-    publishedDateTime: 2023-08-01T13:43:00Z
-    webUrl: "https://www.unilad.com/news/us-news/new-york/brain-implant-restore-feeling-movement-paralyzed-man-210777-20230801"
-    type: article
-    provider:
-      name: unilad
-      domain: unilad.com
-    quality: 34
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt84393f55ee50af05/64c9018a3130b00af1193413/brain-implant-quadriplegic-mans-hands.png"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "7Ct3Xrwmq64+rJTUExzDyoPAaNj9UWbDPmNitIGLvJykRJKc6ILtCXdlgLnY5rbqI6cTWgBVjOLEgVS3TrTQFVVzpnNaIHOWaUy+Y7D5gNp4yjbHUS8o3mptsMZlHN+7B7x0752zuXcXkdmK/Rmcf15P6oyXFKBi0M2kffd2L5Lb69qXvIdlvxav6L7I4Z39Dn4ARCFBLl4fd9863zaVuYTySUpfYkC84pwzWwbLYqu4FtrD8fojVA1f69Q3eqb28uqndmAeVY4ZpHaXOJC8tBVemiru8ycBnvkYPBKr/CKD6WYh60anmHfl0OrQgW85ZAupKV6RZYv2VF3IvYYEO421w12bMotnC0BVwwU2A4I=;pjoYvPKbW5ddpFMjAmXI2w=="
