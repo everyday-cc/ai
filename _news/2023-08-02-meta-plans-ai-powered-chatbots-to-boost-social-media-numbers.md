@@ -234,20 +234,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Meta’s next AI play are chatbots called personas"
-    excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
-    publishedDateTime: 2023-08-01T08:09:00Z
-    webUrl: "https://htxt.co.za/2023/08/01/metas-next-ai-play-are-chatbots-called-personas/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 39
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/08/chat-g30db832ed_1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI's hallucination problem: Chatbots tend to make things up"
     excerpt: "Described as hallucination, confabulation or just plain making things up, it’s now a problem for every business, organization and high school student trying to get a “generative AI” system to compose documents and get work done."
     publishedDateTime: 2023-08-02T02:22:00Z

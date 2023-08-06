@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-26-how-ai-is-revolutionising-banking-services-in-rural-areas.md",
+      "title": "How AI is revolutionising banking services in rural areas",
+      "excerpt": "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
+      "publishedDateTime": "2023-07-26T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-microsoft-shares-down-as-azure-cloud-services-business-slows-down.md",
+      "title": "Microsoft shares down as Azure cloud-services business slows down",
+      "excerpt": "Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4% in late trading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/",
+      "originalUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/22.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-microsoft-shares-down-as-azure-cloud-services-business-slows-down-3187540/lite/",
+      "publishedDateTime": "2023-07-26T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-ai-leaders-create-industry-watchdog-as-government-scrutiny-grows.md",
       "title": "AI Leaders Create Industry Watchdog as Government Scrutiny Grows",
       "excerpt": "A group of tech companies including Google and OpenAI are creating an industry body to ensure that AI models are safe.",
@@ -1106,111 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-07-25T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ge-healthcare-ceo-on-advances-in-alzheimers-treatment-a-breakthrough-moment-for-patients.md",
-      "title": "GE HealthCare CEO on advances in Alzheimer's treatment: 'A breakthrough moment for patients'",
-      "excerpt": "GE HealthCare CEO Peter Arduini discussed his company's role in Alzheimer's treatment with CNBC's Jim Cramer on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107253594-1686246162711-gettyimages-1418953592-vcg111398371069.jpeg?v=1690327099",
-          "width": 5310,
-          "height": 3540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
-      "publishedDateTime": "2023-07-25T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

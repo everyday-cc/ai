@@ -7,7 +7,7 @@ originalUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/ca
 webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/campaign-finance-traffic-sag-wga/hollywood-ai-jobs"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 542
     height: 384
     isCached: true
+
+related:
+  - title: "As actors and writers push back on automation, Hollywood is in the midst of an AI hiring boom"
+    excerpt: "With the technology improving and the venture capital flowing, stakeholders across the entertainment world are looking to add artificial intelligence to the production pipeline in a bid to lower"
+    publishedDateTime: 2023-08-06T00:50:00Z
+    webUrl: "https://www.twincities.com/2023/08/05/as-actors-and-writers-push-back-on-automation-hollywood-is-in-the-midst-of-an-ai-hiring-boom/"
+    ampWebUrl: "https://www.twincities.com/2023/08/05/as-actors-and-writers-push-back-on-automation-hollywood-is-in-the-midst-of-an-ai-hiring-boom/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/08/05/as-actors-and-writers-push-back-on-automation-hollywood-is-in-the-midst-of-an-ai-hiring-boom/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 48
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2023/08/STP-Z-AISTRIKE-02.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Strict curbs on artificial intelligence would hurt striking writers and actors"
+    excerpt: "Hollywood actors and writers are striking an industry in crisis. The dilemmas all face are a dress rehearsal for how Americans will cope with the growing gig economy and artificial intelligence."
+    publishedDateTime: 2023-08-01T19:03:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/aug/1/strict-curbs-on-artificial-intelligence-would-hurt/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 13
 
 secured: "rK+fjJiRmzqDo483kc05a63qwNCXwSPC/6pKroeJ7F5feBaDod9vMhhPdkALkYleFCyWgTNXsfPM4vTyIzw+A3AOhcDO85/TTrdi5X4r71F/Al80t3CtMloJagw0UXfI0iNc/cbavv/47LZoSimojbk21Ua6XAxspYpqq4ZCRhwie2eFGLdZ8/861of5TuuUKXgzEw/rUZHsGdYFWJ5taV+Hlgos24jrncnIrfn0LFLBO4YA86eysNhUaMiLU9SUgtF5S4DHX/h1fAZHZd54wwnQ+gBYd+kZr2v98BRyZ9gX+GtjD0wMJNLhjxVozioYajcDmQFP7dE+wu8aqK1BF0WvQ7nj+xMaAqOZwFrx7pY=;Xrw78BSWgBCzTNdNXnJSkg=="
 ---

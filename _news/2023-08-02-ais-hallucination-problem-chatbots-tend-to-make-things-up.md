@@ -240,20 +240,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Meta’s next AI play are chatbots called personas"
-    excerpt: "Meta could roll out a range of AI chatbots that it calls personas in a bid to drive engagement on its various platforms."
-    publishedDateTime: 2023-08-01T08:09:00Z
-    webUrl: "https://htxt.co.za/2023/08/01/metas-next-ai-play-are-chatbots-called-personas/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 39
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/08/chat-g30db832ed_1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Meta To Launch AI Chatbots With Distinct Personas"
     excerpt: "Facebook’s parent company ... The open-source LLM is free for commercial and research use, opening the door to many more applications of AI in business and marketing tools. With Meta AI chatbots offering a wide range of engagement experiences, marketers ..."
     publishedDateTime: 2023-08-02T04:55:00Z

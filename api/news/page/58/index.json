@@ -2,6 +2,101 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-06-28-five-microsoft-ai-advances-that-business-leaders-should-know-about.md",
+      "title": "Five Microsoft AI Advances That Business Leaders Should Know About",
+      "excerpt": "Microsoft announced developer tools, analytics solutions, Windows and Edge upgrades to help companies add generative AI into applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 586,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c227727a2d87aa15d41a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
+      "publishedDateTime": "2023-06-28T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics.md",
+      "title": "Achieve competitive advantage in precision medicine with IBM and Amazon Omics",
+      "excerpt": "A deeper understanding of biology has the potential to transform how healthcare is delivered, how people are screened, how clinical conditions are treated and monitored. The exponential growth of biomedical datasets over the recent years has resulted in the identification of a great number of molecular",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
+      "originalUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-staying-authentic-while-using-ai-in-your-marketing-strategy.md",
       "title": "Staying Authentic While Using AI In Your Marketing Strategy",
       "excerpt": "Before diving into all that AI has to offer, consider the importance of staying authentic and maintaining a distinguished brand.",
@@ -1068,101 +1163,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
-      "title": "Artificial Intelligence: Risks, Ethics and Future",
-      "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
-      "originalUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
-      "publishedDateTime": "2023-06-27T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ai-is-catching-on-with-api-developers.md",
-      "title": "AI is catching on with API developers",
-      "excerpt": "Some 60% of API developers use generative AI to help them code, according to a Postman survey of more than 40,000 developers and API professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/01/shutterstock_1850095465-100936239-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
-      "publishedDateTime": "2023-06-27T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

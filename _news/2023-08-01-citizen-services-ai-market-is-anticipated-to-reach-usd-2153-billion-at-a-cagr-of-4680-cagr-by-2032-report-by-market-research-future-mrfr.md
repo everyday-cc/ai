@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33496547"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33496547"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Analytics Market size worth $ 8.85 Billion, Globally, by 2030 at 25.5% CAGR: Verified Market Research®"
-    excerpt: "The Global Speech Analytics Market is projected to grow at a CAGR of 25.5% from 2023 to 2030, according to a new report published by"
-    publishedDateTime: 2023-08-01T14:14:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/speech-analytics-market-size-worth--8-85-billion-globally-by-2030-at-25-5-cagr-verified-market-research-301890137.html"
+  - title: "Automotive Artificial Intelligence Market is estimated to reach US$ 14.3 Billion by 2030 | DataM Intelligence"
+    excerpt: "The Global Automotive Artificial Intelligence Market reached USD 2.2 billion in 2023 and is expected to reach USD 14.3 billion by 2030 and is expected to grow with a CAGR of"
+    publishedDateTime: 2023-08-03T13:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/g33550175/automotive-artificial-intelligence-market-is-estimated-to-reach-us-14-3-billion-by-2030-datam-inte"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33550175"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33550175"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 5
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
     images:
-      - url: "https://mma.prnewswire.com/media/2015407/VMR_Logo.jpg?p=facebook"
-        width: 2635
-        height: 1380
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Natural Language Processing Market Poised To Reach USD 112.28 Billion In Revenue By 2030"
+    excerpt: "The Natural Language Processing Market Report 2023 provides an in-depth analysis of the current state of the natural language processing market, incl"
+    publishedDateTime: 2023-08-03T06:27:00Z
+    webUrl: "https://menafn.com/1106776622/Natural-Language-Processing-Market-Poised-To-Reach-USD-11228-Billion-In-Revenue-By-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?364852"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "fO+gtJT2U/PTep0uSPBeFW1n3BTiKbVFgVesYKCikjMMjqqP7zF2UBkihNjC5iOJZ2xBV7zCKSf7KutbsTWUyxD348tlmpL9ghVDXP/cNb9LYqBU3Z/zcAwLiIMV7hoElcdmZkDhPE5BcMav1EAHRE+rgYVf1HeKlYNz/Y0d54Ygz84ctNnGwZUzcn9PaTHup7zAeZaecsJRN2HMHviB0NjINzIe6CRREwxDqHEjCRo99VW0BTS5pLWiOaC71yiOrg7MQ4HwXVFYwjYmDk4BZf9ervcgaR6ce0GkNJnTm6slspLDXFkdkTdRMQNqHlcz9pIcs2VeFMD0wObiw9BR5f7VJhMTAnxMezHC/bLgiYA=;60MOwxZ3MPxBnBzXh6Crdw=="

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes"
-    excerpt: "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,"
-    publishedDateTime: 2023-08-01T07:43:00Z
-    webUrl: "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 73
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png"
-        width: 1000
-        height: 715
-        isCached: true
   - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
     excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
     publishedDateTime: 2023-08-01T21:16:00Z
@@ -56,19 +42,21 @@ related:
         width: 974
         height: 648
         isCached: true
-  - title: "Ansys launches AnsysGPT virtual assistant developed on Microsoft’s Azure OpenAI service"
-    excerpt: "Simulation solutions provider Ansys has launched a beta release of its new artificial intelligence-powered virtual assistant, AnsysGPT, developed on the Microsoft Azure OpenAI Service. The service will support users of Ansys solutions and is trained to answer questions on physics,"
-    publishedDateTime: 2023-08-04T10:13:00Z
-    webUrl: "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-virtual-assistant-developed-on-microsofts-azure-openai-service"
+  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
+    publishedDateTime: 2023-08-03T14:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 61
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4522/Unsplash_ThisisEngineering-RAEng_web-2.jpg"
-        width: 975
-        height: 548
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "New features released for Microsoft Azure Operator Nexus"
     excerpt: "New features have been released for Azure Operator Nexus, Microsoft’s hybrid cloud platform for telecommunications firms, as it also becomes generally available following a period of public preview. “Earlier this year at MWC Barcelona,"
@@ -84,6 +72,20 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "FMU grant to transform healthcare with the use of AI"
+    excerpt: "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI."
+    publishedDateTime: 2023-08-02T17:17:00Z
+    webUrl: "https://scnow.com/news/local/fmu-grant-to-transform-healthcare-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html"
+    type: article
+    provider:
+      name: SCNow
+      domain: scnow.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Partner Chief Dezen: Partners Will Get More Generative AI Resources"
     excerpt: "Dezen – who also serves as Redmond, Wash.-based Microsoft’s corporate vice president for the Global Partner Solutions (GPS) group – told CRN that the vendor is investing in its rechristened Microsoft AI Cloud Partner Program and other resources for partners around generative AI."
     publishedDateTime: 2023-08-03T13:59:00Z
@@ -98,6 +100,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Now enjoy immersive conference calls with Microsoft's spatial audio feature for Teams desktop app"
+    excerpt: "Microsoft has integrated spatial audio into its Teams desktop application to enhance virtual communication. The feature enables participants' voices to be perceived from distinct virtual locations on the screen,"
+    publishedDateTime: 2023-08-02T04:55:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/articleshow/102337174.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25306,msid-102337735/microsoft-teams-adds-spatial-audio-feature-image-source-google.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
     publishedDateTime: 2023-08-02T08:57:00Z
@@ -109,6 +127,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 42
+  - title: "FMU grant to transform health care with the use of AI"
+    excerpt: "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI."
+    publishedDateTime: 2023-08-02T17:17:00Z
+    webUrl: "https://scnow.com/news/local/fmu-grant-to-transform-health-care-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html"
+    type: article
+    provider:
+      name: SCNow
+      domain: scnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Google Hires 5 Key Execs From AWS, Microsoft: Here’s Who"
     excerpt: "AWS and Microsoft executives hired by Google recently include former Presidents, AI and ML leaders aimed at driving Google Cloud customer and sales momentum."
     publishedDateTime: 2023-08-02T18:30:00Z
@@ -118,6 +150,24 @@ related:
       name: CRN
       domain: crn.com
     quality: 36
+  - title: "Leidos, Microsoft Partner to Advance Cloud, AI Tech Development; Steve Hull Quoted"
+    excerpt: "Leidos (NYSE: LDOS) and Microsoft (Nasdaq: MSFT) will accelerate the development and delivery of artificial intelligence and cloud computing platforms to support public sector customers’ missions under a strategic collaboration agreement."
+    publishedDateTime: 2023-08-01T09:54:00Z
+    webUrl: "https://www.govconwire.com/2023/08/leidos-microsoft-partner-to-advance-cloud-ai-tech-development-steve-hull-quoted/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 28
+  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
+    publishedDateTime: 2023-08-03T19:12:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 19
 
 secured: "zsJZDqgiDixF26rp3yt87b4eVVLnfksDeL+2HGK90SXkRJwA5P193J8HcaCvbLAZEZH+PfbKewR9DCKM29ihw5GRPKNGVQ296KVPtbFwlhFsB6K/42D62qI7ja5eCe1efFrrUmhQtrJNIQ/pPKabzCOxrlL6k8T6FYd4MDwRN2yzsG4YFc+vZXN4H7WUeolRG4U441IKObQ+IXFhIM9T0KOpJ/T1sYFnOKQueigwO/7kd4feQnipNv9cwBUeyNlWksYmaRQmAf+cziumtXMzqq0aiU69MCqvyz5KaOCgtL+qVnl5KpNXFrXqQkOCSk3iM/xZnALka2SsYx9uRBnHdsuyTj/9azzQ1uBKWznMtVQ=;02ORaCVh9Z0Rq167k5AXTA=="
 ---

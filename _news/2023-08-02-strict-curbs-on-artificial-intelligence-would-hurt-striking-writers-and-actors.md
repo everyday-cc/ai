@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtontimes.com/news/2023/aug/1/strict-curbs-on-ar
 webUrl: "https://www.washingtontimes.com/news/2023/aug/1/strict-curbs-on-artificial-intelligence-would-hurt/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,38 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "As actors and writers push back on automation, Hollywood is in the midst of an AI hiring boom"
+    excerpt: "With the technology improving and the venture capital flowing, stakeholders across the entertainment world are looking to add artificial intelligence to the production pipeline in a bid to lower"
+    publishedDateTime: 2023-08-06T00:50:00Z
+    webUrl: "https://www.twincities.com/2023/08/05/as-actors-and-writers-push-back-on-automation-hollywood-is-in-the-midst-of-an-ai-hiring-boom/"
+    ampWebUrl: "https://www.twincities.com/2023/08/05/as-actors-and-writers-push-back-on-automation-hollywood-is-in-the-midst-of-an-ai-hiring-boom/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/08/05/as-actors-and-writers-push-back-on-automation-hollywood-is-in-the-midst-of-an-ai-hiring-boom/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 48
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2023/08/STP-Z-AISTRIKE-02.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Hollywood goes on AI hiring boon, despite WGA and SAG-AFTRA strikes"
+    excerpt: "Hollywood studios are rushing to hire AI professionals, despite ongoing strikes and layoffs. What could this mean for the industry’s future?"
+    publishedDateTime: 2023-08-02T19:00:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/campaign-finance-traffic-sag-wga/hollywood-ai-jobs"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 39
+    images:
+      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
+        width: 542
+        height: 384
+        isCached: true
 
 secured: "YLMAdBeH3w71x55tji6fbaxkxfn6hWNRCSRiDuWAPR6M5g0mk7FRTVv9CATBKAFft8p/MC4a6d3xCUayCPq4sTdeiEDveqOkD7AKLTxZ0RPITCgWYZTjJMNcKJOS/uIuV0NqCKBaHjggixavaC9PW5rnfYqOPeifUFofDASvqGwNgt4/Q5oRzvcwsdM54FejCaXIBr4k9vJ7WPj9QTXZKek2u909kpzCjFOEiMPb2lAARdLNzDLNwNr/HlkU4oQThuJla1Qnny+AI+GdZXSTNTML6HSqnEqfXfLxVMmTQ2SkmunF6Og0HVQhkx+PaQMGLj4Lx6Scauj6sOOsYeFMYYnMKGFDpTYmlkS0/QbI/rHdE1p3XML+gEv9BwIG/dpSI4JhZIlZHDt0QQ8WyF+X44mGE21urejnIgM8C2I/LpurujN9jdyY4kkrIcBaPzk8WXfDcBLzM3/Sb3u+GJBLBiSapNark+CHrfJ4TY1x3R+M/l/BnFD9yyTmqIEa4a3ugIYjhpzVvMRzKoPKuihsdQ==;Wn6QX3HrWVhIdwUVOxmayw=="
 ---

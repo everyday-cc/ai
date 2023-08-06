@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Dell wants you to use your business data with new AI solutions"
-    excerpt: "Dell is expanding Project Helix by adding generative AI solutions. The offerings come for the biggest part in partnership with Nvidia. Dell is introducing"
-    publishedDateTime: 2023-08-01T08:38:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/109486/dell-wants-to-make-your-business-data-useful-with-new-ai-solutions/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/08/AI-business.jpg"
-        width: 1000
-        height: 526
-        isCached: true
 
 secured: "Rf+dMHoDZRqL7hpVpqkLX1ilDuZDxpV9OFEpqbRxFZmurKav2rPlg37WJWExnwryeHT7T5R5Fe8KXMMPMwd50dgJEc6YvMXCcuTJC/7KG6QHx7yC0VpbAROOVwfYHDReqzar7WKwkLwiOgnvg6yecQrmxyQimePJihcIUMM5MatuEHbk7K+yZg18KBpDz8MIgfZoJGLTM3iJsxEbk6ZN8dAdqcRIKdB5JFxukYQ2iex1RrhOoPn8ipnty69Ne51ehj1tdL391Sx6L87Tw16TBqTWaNgUb21WARp29c3L1lO+Mnjuk8EE2e+ECM9O/+23y2PBp2nBk+KM79TSakdqsS0DktDeTZqTIt8gOCtAWFI=;wc9Lbo34wBMwM4m8j7yMmQ=="
 ---

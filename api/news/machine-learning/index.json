@@ -62,7 +62,7 @@
       "originalUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -199,6 +199,59 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
+      "title": "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars",
+      "excerpt": "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all",
+          "width": 858,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1344,40 +1397,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-future-ai-algorithms-have-potential-to-learn-like-humans-say-researchers.md",
-      "title": "Future AI algorithms have potential to learn like humans, say researchers",
-      "excerpt": "Memories can be as tricky to hold onto for machines as they can be for humans. To help understand why artificial agents develop holes in their own cognitive processes, electrical engineers at The Ohio State University have analyzed how much a process called “continual learning” impacts their overall performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/996196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/996196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

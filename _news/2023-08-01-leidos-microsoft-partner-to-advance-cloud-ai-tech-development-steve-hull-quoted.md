@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
+    excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
+    publishedDateTime: 2023-08-01T21:16:00Z
+    webUrl: "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/"
+    ampWebUrl: "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 65
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280"
+        width: 974
+        height: 648
+        isCached: true
   - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
     excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
     publishedDateTime: 2023-08-03T14:38:00Z
@@ -35,19 +51,47 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T08:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
+  - title: "New features released for Microsoft Azure Operator Nexus"
+    excerpt: "New features have been released for Azure Operator Nexus, Microsoft’s hybrid cloud platform for telecommunications firms, as it also becomes generally available following a period of public preview. “Earlier this year at MWC Barcelona,"
+    publishedDateTime: 2023-08-02T15:26:00Z
+    webUrl: "https://www.technologyrecord.com/article/new-features-released-for-microsoft-azure-operator-nexus"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
     images:
-      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
-        width: 630
-        height: 473
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4518/AzureOperatorNexusWeb.jpg"
+        width: 975
+        height: 548
+        isCached: true
+  - title: "FMU grant to transform healthcare with the use of AI"
+    excerpt: "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI."
+    publishedDateTime: 2023-08-02T17:17:00Z
+    webUrl: "https://scnow.com/news/local/fmu-grant-to-transform-healthcare-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html"
+    type: article
+    provider:
+      name: SCNow
+      domain: scnow.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Microsoft Partner Chief Dezen: Partners Will Get More Generative AI Resources"
+    excerpt: "Dezen – who also serves as Redmond, Wash.-based Microsoft’s corporate vice president for the Global Partner Solutions (GPS) group – told CRN that the vendor is investing in its rechristened Microsoft AI Cloud Partner Program and other resources for partners around generative AI."
+    publishedDateTime: 2023-08-03T13:59:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-partner-chief-dezen-partners-will-get-more-generative-ai-resources"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
+    images:
+      - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Now enjoy immersive conference calls with Microsoft's spatial audio feature for Teams desktop app"
     excerpt: "Microsoft has integrated spatial audio into its Teams desktop application to enhance virtual communication. The feature enables participants' voices to be perceived from distinct virtual locations on the screen,"
@@ -65,15 +109,54 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T20:11:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777028/KPMG-and-Microsoft-enter-landmark-agreement-to-put-AI-at-the-forefront-of-professional-services"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 32
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_56_06b2169c_image_story.jpg"
+        width: 1024
+        height: 1536
+        isCached: true
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
+    publishedDateTime: 2023-08-02T08:57:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 42
+  - title: "FMU grant to transform health care with the use of AI"
+    excerpt: "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI."
+    publishedDateTime: 2023-08-02T17:17:00Z
+    webUrl: "https://scnow.com/news/local/fmu-grant-to-transform-health-care-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html"
+    type: article
+    provider:
+      name: SCNow
+      domain: scnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Google Hires 5 Key Execs From AWS, Microsoft: Here’s Who"
+    excerpt: "AWS and Microsoft executives hired by Google recently include former Presidents, AI and ML leaders aimed at driving Google Cloud customer and sales momentum."
+    publishedDateTime: 2023-08-02T18:30:00Z
+    webUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 36
   - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
     excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
     publishedDateTime: 2023-08-03T19:12:00Z

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-02-from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare.md",
+      "title": "From smart stethoscopes to predicting bed demand: how AI can support healthcare",
+      "excerpt": "demonstrates the potential usefulness of artificial intelligence in healthcare. A separate trial found that AI in breast cancer screening is safe and can almost halve the workload of radiologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "originalUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8c619bbefc5c6ae95070c6b0fee447a064b66fc0/0_25_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=7043142e02085e81ced6e6dcbcc6a8db",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "publishedDateTime": "2023-08-02T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-bridging-the-ai-language-problem-why-artificial-intelligence-tools-do-not-work-in-many-languages.md",
       "title": "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages",
       "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that.",
@@ -317,6 +369,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-duke-health-partners-with-microsoft-to-expand-use-of-ai-in-health-care-study-responsible-use.md",
+      "title": "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use",
+      "excerpt": "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
+      "originalUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280",
+          "width": 974,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
+      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/",
+      "publishedDateTime": "2023-08-01T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbs17.com",
+        "domain": "cbs17.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -732,7 +828,7 @@
       "originalUrl": "https://www.zdnet.com/article/youtube-rolls-out-ai-feature-to-help-you-decide-what-to-watch-next/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1117,108 +1213,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report.md",
-      "title": "Google Assistant is about to get supercharged by generative AI, says new report",
-      "excerpt": "\"We've also seen the profound potential of generative AI to transform people's lives and see a huge opportunity to explore what a supercharged Assistant, powered by the latest LLM technology, would look like,\" said Google VP Peeyush Ranjan and Director of Product Duke Dukellis in the e-mail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/",
-      "originalUrl": "https://www.zdnet.com/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c8aef6052625489293039233897e8894049b1231/2022/12/19/d5fb7b9b-c0fe-4bdc-a3f8-a1256845858c/google-nest-audio.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/",
-      "publishedDateTime": "2023-08-01T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-new-vectors-for-ai-data-any-source-is-the-special-sauce.md",
-      "title": "New Vectors For AI Data, Any Source Is The Special Sauce",
-      "excerpt": "We no longer just have database specialists – today we also have data movement specialists. Airbyte is one such firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c8d3e5c3d7c3298969db63/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/amp/",
-      "publishedDateTime": "2023-08-01T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

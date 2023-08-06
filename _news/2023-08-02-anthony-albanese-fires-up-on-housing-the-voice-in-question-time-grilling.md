@@ -94,6 +94,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Albanese warns no other Indigenous recognition on the table after referendum"
+    excerpt: "Anthony Albanese has warned people wanting either symbolic recognition or something that goes further than the Voice that the referendum will be the only constitutional change for Indigenous people he pursues."
+    publishedDateTime: 2023-08-06T00:20:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/albanese-warns-no-other-indigenous-recognition-on-the-table-after-referendum-c-11500990"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 21
+    images:
+      - url: "https://images.thewest.com.au/publication/C-11500990/9aed6f1c93eb162e2d2d4eea522508d42c9d5cfe-16x9-x0y209w4000h2250.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Defiant Albanese tries to reset ailing Voice"
     excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
     publishedDateTime: 2023-08-04T12:30:00Z
@@ -146,6 +160,31 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 17
+  - title: "A 'Voice'... without 'Treaty' or 'Truth': Why Anthony Albanese isn't talking about what happens if 'Yes' wins the referendum"
+    excerpt: "Anthony Albanese has been calling for First Nations recognition and reconciliation under the collective slogan of 'Voice, Treaty, Truth' his entire adult life. In 1986, as a 23-year-old Labor activist on the rise, he signed off on a letter demanding ..."
+    publishedDateTime: 2023-08-06T00:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12367867/Why-Albo-scared-using-word-treaty-Voice.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12367867/amp/Why-Albo-scared-using-word-treaty-Voice.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12367867/amp/Why-Albo-scared-using-word-treaty-Voice.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 17
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/08/04/08/73955145-0-image-a-26_1691132515704.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Anthony Albanese ‘won’t focus on hypotheticals’ as Voice date nears"
+    excerpt: "Prime Minister Anthony Albanese has warned no other forms of recognition of Indigenous people will be on the table if the Voice referendum fails."
+    publishedDateTime: 2023-08-06T00:07:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-wont-focus-on-hypotheticals-as-voice-date-nears/news-story/8bbb7d5caf4d5c9dc4111e52946f3bb0"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
   - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
     excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
     publishedDateTime: 2023-08-04T12:30:00Z

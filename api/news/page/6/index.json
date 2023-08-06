@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-01-torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires.md",
+      "title": "Torch Startup Says Its Outdoor Sensors Can Help Snuff Out Wildfires",
+      "excerpt": "The California company is taking preorders for its first batch of 100,000 detectors. They plan to begin shipments in the fourth quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c810098eb0ed467b49763d/0x0.jpg?format=jpg&crop=1009,1009,x0,y165,safe&width=1200",
+          "width": 1009,
+          "height": 1009,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/07/31/torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires/amp/",
+      "publishedDateTime": "2023-07-31T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-cfos-how-can-you-evaluate-budget-requests-for-cloud-spending.md",
+      "title": "CFOs: How Can You Evaluate Budget Requests For Cloud Spending?",
+      "excerpt": "With more cloud spending comes more decisions for CFOs on what budget requests to approve from internal teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e3d8278b45126c8a62c39/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/07/31/cfos-how-can-you-evaluate-budget-requests-for-cloud-spending/amp/",
+      "publishedDateTime": "2023-07-31T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-5-questions-about-generative-ai-in-healthcare.md",
       "title": "5 Questions about Generative AI in Healthcare",
       "excerpt": "Two healthcare and life sciences attorneys dive deeper into what the recent growth of generative artificial intelligence tools means for providers and patients.",
@@ -1108,92 +1211,6 @@
         "AI",
         "AI in Robotics",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-how-researchers-train-machine-learning-model-in-outer-space-on-satellite.md",
-      "title": "How Researchers Train Machine Learning Model in Outer Space on Satellite",
-      "excerpt": "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
-      "originalUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cryptopolitan",
-        "domain": "cryptopolitan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
-      "title": "How is machine learning different from deep learning?",
-      "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "publishedDateTime": "2023-07-30T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

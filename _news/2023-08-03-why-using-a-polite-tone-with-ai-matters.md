@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/worklab/why-using-a-polite-tone-wi
 webUrl: "https://www.microsoft.com/en-us/worklab/why-using-a-polite-tone-with-ai-matters"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Low code AI with Power Apps and Power Automate"
-    excerpt: "Microsoft's AI Builder introduces low-code generative AI capabilities to Power Apps and Power Automate. Let's see how the preview features stack up."
-    publishedDateTime: 2023-08-01T08:59:00Z
-    webUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.html"
-    ampWebUrl: "https://www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703131/low-code-ai-with-power-apps-and-power-automate.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI apps drive computing power, chip demand"
-    excerpt: "The terms artificial intelligence (AI), machine learning and natural language processing were rapidly thrust into the limelight following the launch of ChatGPT late last year as the platform, and to a lesser degree similar AI programmes, took the world by storm, increasing productivity and enhancing creativity across various industries."
-    publishedDateTime: 2023-08-03T16:49:00Z
-    webUrl: "https://www.theasset.com/article/49701/ai-apps-drive-computing-power-chip-demand"
-    type: article
-    provider:
-      name: The Asset
-      domain: theasset.com
-    quality: 54
-    images:
-      - url: "https://www.theasset.com/storage/Image/2023/Aug/1691044487chatgpc.jpg"
-        width: 2001
-        height: 1333
-        isCached: true
 
 secured: "6z5vYEJvjbeBEzjcspWe8n1qXp4MJbswG9M9sOaHw1KQPHGnw0erPNtd//KEPCe4W1wCj2BjS4JXAvmOILjjJIAO+q6a8X5haBoW88bsR8GyTnVoXRbpBza8IjvqzP/6ZGBpZH28/s7Xc5pKnxauyIrLRO7NpRvx5xWkOTy1rnSaVKxH81PIUF0eExcXpADW1Ul3bgk2R53jFq+FZc606Mk8eHsaR7jWgQ+OB8tTEUgGya2ITyHLJgDw7uHWSDM9unA4J2GkyVCrOAg0enoAw5xE7zjUJ8oXH4kX5Do/QkmfWArjo1aYpFlGBk2V+PUI34oZ1nGpmZ5ZsRgQkbF1cHDOgTcfJn4fCXK64Vqpuys=;cLEsa/W6tUp7uLFV5Pj9Cw=="
 ---

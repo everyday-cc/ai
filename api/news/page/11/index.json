@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-27-digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition.md",
+      "title": "Digital rights group NOYB challenges Ryanair's use of facial recognition",
+      "excerpt": "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
+      "publishedDateTime": "2023-07-27T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-medical-students-recognize-ais-potential-in-medicine-call-for-ethical-education.md",
+      "title": "Medical students recognize AI's potential in medicine, call for ethical education",
+      "excerpt": "A team of researchers assessed medical students' understanding, perceptions, and educational preferences related to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_754798_16904645865162642.jpg",
+          "width": 2000,
+          "height": 1064,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-six-eam-trends-pushing-the-oil-and-gas-industries-forward.md",
       "title": "Six EAM trends pushing the oil and gas industries forward",
       "excerpt": "As EAM technology continues to evolve, new trends emerge, promising to transform the way oil and gas companies approach asset performance management.\nThe post Six EAM trends pushing the oil and gas industries forward appeared first on IBM Blog.\n",
@@ -1071,100 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco.md",
-      "title": "Can artificial intelligence bring a new tech boom to San Francisco?",
-      "excerpt": "As San Francisco struggles with empty storefronts, homelessness and theft, there is new hope that a tech boom driven by artificial intelligence will help revitalize the city. CNBC’s Deirdre Bosa shares more on Scale AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690412846568_nn_dbo_can_ai_save_san_francisco_230726_1920x1080-0lpxtm.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189352005970",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189352005970",
-      "publishedDateTime": "2023-07-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb.md",
-      "title": "Lenovo Unveils New ThinkSystem Storage Offerings Targeted At AI And SMB",
-      "excerpt": "Lenovo introduces new ThinkSystem storage products: the DG-series, a QLC-based array blending capacity and performance, and a new DM model for SMB market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1961fe0a59bc2a216a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
-      "publishedDateTime": "2023-07-26T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,102 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
+      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
+      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "publishedDateTime": "2023-05-20T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
+      "title": "TSA testing facial recognition at more airports, raising privacy concerns",
+      "excerpt": "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html",
+      "originalUrl": "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines.md",
       "title": "AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines",
       "excerpt": "The leaders of the Group of Seven nations say we need to develop an international framework \"to achieve the common vision and goal of trustworthy AI.\"",
@@ -1122,91 +1218,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-how-to-build-and-scale-ai-projects-in-2023-and-beyond.md",
-      "title": "How to build and scale AI projects in 2023 and beyond",
-      "excerpt": "The artificial intelligence (AI) industry has made significant strides in recent years, making it a vital component of business growth and innovation. The increasing adoption of AI across industries has created a significant demand",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-improved-cpu-throttling-measurement.md",
-      "title": "Improved CPU throttling measurement",
-      "excerpt": "IBM Turbonomic now offers a significant improvement in the way that we measure the level of CPU throttling.\nThe post Improved CPU throttling measurement appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
-      "originalUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/donedsc07769retocada.lr_-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:08:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

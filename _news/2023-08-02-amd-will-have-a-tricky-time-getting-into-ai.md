@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "What Meta, Amazon, Google, Apple and AMD Are Saying About AI"
+    excerpt: "Forget crypto, forget the metaverse, artificial intelligence is the Next Big Thing, and tech giants are not shy about embracing it."
+    publishedDateTime: 2023-08-06T00:39:00Z
+    webUrl: "https://decrypt.co/151463/ai-apple-google-meta-amazon-amd-artificial-intelligence-strategy"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 39
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/Big-Five-shutterstock_2189442211-16x9-1-gID_7.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "IIW85DcfBMUaXtnDcWovwobBTyg3hXhVeGDZ/RtzYin/410xzjwEPcExCzQe9zss7UzJ+2k18kl/tiZhFHgSy74j9c5cVUtT/SFb01lx1DG22r70uwr8Bp9DTxrJQrIAYzU+Nk8pa75NTwRJMC6bHMmwz2VR16vctAfHt1p50CoMe0Ja/EePUhyP65ocot8Cmdo76omZi50HA9ttftPqs3lUzdLBh1pIVQOsrWo05V9CEXRLkDvFqEXQwQ69N1/9KJ0GpxbAd4P5i0ASmg9nLKkq6GRUXiJPSUZ4U2eI8+EqkXvy4zZ+kFr+C4dF9KxrF50UXThwbAguAvqfuY8pMKAQLYtvNKSoBuubBOqLoWs=;Df6wEKARDwvXq/D94Tc0Gw=="
 ---
