@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smar
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/"
 type: article
 quality: 89
-heat: 104
+heat: 103
 published: true
 
 provider:

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
-excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
-publishedDateTime: 2023-08-04T12:30:00Z
-originalUrl: "https://www.news.com.au/finance/work/leaders/garma-festival-anthony-albanese-pleads-with-voice-supporters-to-convince-dubious-australians/news-story/0436b5392ac380b5b26f7aacec872a46"
-webUrl: "https://www.news.com.au/finance/work/leaders/garma-festival-anthony-albanese-pleads-with-voice-supporters-to-convince-dubious-australians/news-story/0436b5392ac380b5b26f7aacec872a46"
+title: "Anthony Albanese says he offered Scott Morrison 'support' on the Voice in 2019 as he flags possible dates for referendum"
+excerpt: "Prime Minister Anthony Albanese has flagged an imminent announcement on the referendum date as he reveals he offered Scott Morrison “support” on the Voice shortly after the 2019 election."
+publishedDateTime: 2023-08-05T23:52:00Z
+originalUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666"
+webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666"
+ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
+cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Couriermail
-  domain: news.com.au
+  name: Sky News Australia
+  domain: skynews.com.au
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://content.api.news/v3/images/bin/bb28d0074528ac37ee861bffc639e01f"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Anthony Albanese ‘confident’ Voice referendum will deliver on Yes vote"
@@ -119,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Anthony Albanese says he offered Scott Morrison 'support' on the Voice in 2019 as he flags possible dates for referendum"
-    excerpt: "Prime Minister Anthony Albanese has flagged an imminent announcement on the referendum date as he reveals he offered Scott Morrison “support” on the Voice shortly after the 2019 election."
-    publishedDateTime: 2023-08-05T23:52:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 19
-    images:
-      - url: "https://content.api.news/v3/images/bin/bb28d0074528ac37ee861bffc639e01f"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
     excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
     publishedDateTime: 2023-08-03T10:12:00Z
@@ -155,7 +147,16 @@ related:
       name: The Daily Telegraph
       domain: dailytelegraph.com.au
     quality: 3
+  - title: "Garma festival: Anthony Albanese pleads with Voice supporters to ‘convince’ dubious Australians"
+    excerpt: "Aboriginal and Torres Strait Islander readers are warned this story contains images and mentions of a deceased person."
+    publishedDateTime: 2023-08-04T12:30:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/garma-festival-anthony-albanese-pleads-with-voice-supporters-to-convince-dubious-australians/news-story/0436b5392ac380b5b26f7aacec872a46"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
 
-secured: "b7Ez9t8u/qyXjMgCFcrrQKo49kDoXZe74wiP9qNvtuksDNZBtYETt7NLbSkVB8+6+OfBlolzu2BoCyJxrzk4JEigPsKuFRuLlndYIXozo3FHND3jncqWb+6QJ4yT16UnrN9MargfpFlaKN7wLBkrayJdn+gMQSCbT8UZlrajoZUuVj1wcjNXv1oYLYWVbik+f/eqrrMELH4ITMOhT2qBQkG8yo6xttNXOJJ/EEU4o3qUc3XAsYYe4heqzZORSM2649fqnpTvUoNbGkb0dNJ6X8RuGmp3GkBAMXE8plVY27Pdpxb7gSkSiwyk4Tu2/O2hz6esw825bNPUjpfnlfBGzeP+yhGHON+Y6cQkwr3fLKGyQxa6is6RwyzuQVKoKEQ3tJIZSPr/PtoTJRJrAsXjTY3PJyCGsvygCkPC5LWQSgQ2H3Eg7DQf9Sq8pBE9hytdnbwxvX+Yw9Mjceg3MKmjZk97diCgh02GHyjGj5+dEq5/YPzgx/Fgyr82NWjUCF5VXq9B9MxSCCglUlCVfy/xTA==;biiaxsYsGn4Cy+GWVZd5XQ=="
+secured: "zu+QbwHWPFXjJUMtlhgft+4wkYeTxIuZrKc8Dn+YUnsgnu5KAGtiN2uoVbTc9pX7YdF56QLtY/EJP8YMfbG0bWpcsH1ZcQxG2hC3WrUSPt0L06IDbouEUqnZJ91nc4xa+m91Qjyp/1q+dfC1NvyGONt3WjnHg8g+CvkxZFq+WL8cmE8+y0ZeQhTlRojVUtMkp88rkkcFSW1rM3/1GXL8FebKBOcZlC4cyMQKclTOh/B2EtaiyW+yTvv2iPSG7qC0LCTN9K8XVSvBZk/bQ0LIqV5iKVP8+fq+yOoqC/FN4VMPwhjHbwYVKYTEDURompetW+5sRxBHpY5aAoqjfvANQr4/NsprqQ0OkbSjsZ0jKZM=;VQ6gw7tQxWbKRzZQjkqX2w=="
 ---
 

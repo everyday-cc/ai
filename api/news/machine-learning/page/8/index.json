@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-05-18-mitigating-dark-web-risks-the-role-of-ai-and-machine-learning.md",
-      "title": "Mitigating Dark Web Risks: The Role Of AI And Machine Learning",
-      "excerpt": "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6464d9377c567a5a9746245d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2023-05-18T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-18-ai-nothing-artificial-about-googles-ethical-conflicts.md",
       "title": "AI: Nothing artificial about Google's ethical conflicts",
       "excerpt": "Googles ethical issues are expanding alongside its generative AI with pioneer Geoffrey Hinton resigning so he can talk about the dangers",
@@ -1438,6 +1386,59 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-latest-deep-learning-chip-market-trends-2023-2030.md",
+      "title": "Latest \"Deep Learning Chip Market\" Trends 2023-2030",
+      "excerpt": "(The Expresswire) -- \"Deep Learning Chip Market\" Insights 2023 By Types ( Graphics Processing Units (GPUs), Central Processing Units",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

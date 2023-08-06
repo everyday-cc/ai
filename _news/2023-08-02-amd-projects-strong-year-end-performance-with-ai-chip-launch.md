@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/international-busine
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Reports Solid Earnings and ‘Strong Progress’ on AI Chips. The Stock Is Rising."
-    excerpt: "Advanced Micro Devices could have a bumpy couple of quarters, but there is a long-term reason to be optimistic about the stock: the potential for its artificial intelligence chips. Already a subscriber? Sign In"
-    publishedDateTime: 2023-08-01T05:30:00Z
-    webUrl: "https://www.barrons.com/articles/amd-earnings-stock-price-bdc77862"
-    ampWebUrl: "https://www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 68
-    images:
-      - url: "https://images.barrons.com/im-826572/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AMD's New AI Chip Could Send its Stock Soaring. Here's Why."
     excerpt: "AMD's quarterly results were lackluster, as total revenue fell 18% year over year. Management noted that the company's new AI chip remains on track for delivery in the fall. AMD is planning to ramp its AI business on the back of colossal demand for AI ..."
     publishedDateTime: 2023-08-02T15:16:00Z

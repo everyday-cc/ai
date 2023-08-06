@@ -39,22 +39,6 @@ related:
         width: 768
         height: 437
         isCached: true
-  - title: "AMD Reports Solid Earnings and ‘Strong Progress’ on AI Chips. The Stock Is Rising."
-    excerpt: "Advanced Micro Devices could have a bumpy couple of quarters, but there is a long-term reason to be optimistic about the stock: the potential for its artificial intelligence chips. Already a subscriber? Sign In"
-    publishedDateTime: 2023-08-01T05:30:00Z
-    webUrl: "https://www.barrons.com/articles/amd-earnings-stock-price-bdc77862"
-    ampWebUrl: "https://www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-earnings-stock-price-bdc77862"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 68
-    images:
-      - url: "https://images.barrons.com/im-826572/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AMD bets on AI chips amid 94pc profit plunge"
     excerpt: "AMD aims to ramp up production of its AI accelerator chips and plans to design specific semiconductors to bypass US export issues with China."
     publishedDateTime: 2023-08-02T10:38:00Z

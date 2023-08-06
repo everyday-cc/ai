@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Govt’s DGT partners with Amazon Web Services to upskill students in AI, ML for better employability"
-    excerpt: "DGT said students enrolled in the institutions under the DGT will benefit under the tie-up. DGT implements long-term institutional skill training in the country through its network of about 15,000 Industrial Training Institutes (ITIs) and 33 National Skill Training Institutes (NSTIs)."
-    publishedDateTime: 2023-08-01T06:50:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/span-data-rich-text-placeholderadd-title-contenteditablefalse-stylepointer-eventsnoneuser-selectnone-webkit-user-selectnone-moz-user-selectnone-ms-user-selectnonespan-8/3194982/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 77
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/startup-pexels.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Skill Development Ministry partners with AWS India"
     excerpt: "The Directorate General of Training under Ministry for Skill Development and Entrepreneurship (MSDE) is collaborating with Amazon Web Services India to upskill students in emerging technologies. The free online programmes in cloud computing,"
     publishedDateTime: 2023-08-01T21:50:00Z

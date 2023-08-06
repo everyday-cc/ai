@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/can-we-regulate-ai-without-stifling-in
 webUrl: "https://thenextweb.com/news/can-we-regulate-ai-without-stifling-innovation-heres-what-experts-think"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AI-powered computer vision accelerates innovation"
+    excerpt: "Advances in computer vision and machine learning are helping companies get medical devices and drugs to market in a more reliable and safe way, and sometimes at a reduced cost. Pharmaceutical ..."
+    publishedDateTime: 2023-08-02T08:33:00Z
+    webUrl: "https://pharmaphorum.com/digital/ai-powered-computer-vision-accelerates-innovation"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/sites/default/files/2023-07/AI-powered-computer-vision.jpg"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "NpsnbrPZnlrg2j0xDmk/3Zntr2Cy2IFnC+RQBTTJeQcv2xKELmYU2ykWJnl2zq/fMosyiiyKCMxXlGQbVjcnjnAZfNAPdd2+znih9EbLwXAyJu6GivLFEgQVdVoG1QSCdWlEBMNd1mWMr9A3lyH6KiXmZewxxS24Uh6H2MwfGL4MfLWLEuuh1/Vri1qP8/8roJ4dt93rLK0yp9JRZS35pR/8biJTKupba6Yuol/UfK83u7GnxJxyGKDd5gN+OZ7I2QBpDhGgRAiwtTH1BneYFsA1zhdr03H/KBH8RztNWsjNFpBVIPUynIjKIRGuj+8JU+5gS0h9oE+v/lkz2M7BuWE6QeXZ91lx9lCj2QVtY2ruzwNRUrd9yp24t2QiZCBRlyNwYYq25T+sQaSD7H7gGcXBCLjPBaVEwwzAcHbQzNi8rbrHr34MmK5pwV/8WXvnsgV650lRAPz38JWJTdglPvpvKxGav1HsmX3FSjdTKIeHigQx4/UV1GcM1LQ7+dvlsIg9yxOTSva82miuOHtvhQ==;ZwhpNnaFCNnjbB6JykOwvg=="
 ---

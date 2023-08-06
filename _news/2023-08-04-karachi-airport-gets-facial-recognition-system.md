@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recog
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI"
 type: article
 quality: 74
-heat: 94
+heat: 96
 published: true
 
 provider:

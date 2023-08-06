@@ -124,20 +124,6 @@ related:
         width: 1024
         height: 698
         isCached: true
-  - title: "The best ChatGPT alternatives (according to ChatGPT) – Digital Trends"
-    excerpt: "ChatGPT has quickly become the darling of generative AI, but it’s hardly the only player in the game. In addition to all the other AI tools out there that do things like image generation, there’s also a number of direct competitors with ChatGPT — or so I assumed."
-    publishedDateTime: 2023-08-01T05:45:00Z
-    webUrl: "https://www.inferse.com/659040/the-best-chatgpt-alternatives-according-to-chatgpt-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 24
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-11248.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Explaining the ‘T’ in ChatGPT"
     excerpt: "One letter is key in explaining how Artificial Intelligence models work. ChatGPT stands for ‘Chat Generative Pretrained Transformer’, and the word ‘Transformer’ is at the core of how these systems work,"
     publishedDateTime: 2023-08-02T04:00:00Z

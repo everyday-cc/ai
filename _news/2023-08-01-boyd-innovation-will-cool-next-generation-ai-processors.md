@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "Stability AI launches SDXL 1.0 text-to-image generation models"
-    excerpt: "Stability AI has announced the launch of its next-generation SDXL 1.0 text-to-image generation model. Making it available for anyone"
-    publishedDateTime: 2023-08-01T05:55:00Z
-    webUrl: "https://www.geeky-gadgets.com/stability-ai-sdxl/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Stability-AI-SDXL.jpg"
-        width: 700
-        height: 446
-        isCached: true
   - title: "How to install Stable Diffusion SDXL 1.0 text-to-image Ai art generator locally"
     excerpt: "These models signify the next level of natural language processing capabilities, designed specifically to empower developers and researchers. SDXL 1.0 has one of the largest parameter counts of any open access image model, built on an innovative new ..."
     publishedDateTime: 2023-08-01T10:57:00Z

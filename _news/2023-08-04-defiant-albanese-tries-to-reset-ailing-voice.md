@@ -110,6 +110,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese says he offered Scott Morrison 'support' on the Voice in 2019 as he flags possible dates for referendum"
+    excerpt: "Prime Minister Anthony Albanese has flagged an imminent announcement on the referendum date as he reveals he offered Scott Morrison “support” on the Voice shortly after the 2019 election."
+    publishedDateTime: 2023-08-05T23:52:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 19
+    images:
+      - url: "https://content.api.news/v3/images/bin/bb28d0074528ac37ee861bffc639e01f"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Anthony Albanese and Peter Dutton traded barbs over an Indigenous voice to parliament"
     excerpt: "Peter Dutton has accused Anthony Albanese of “deliberately and willingly” withholding information on an Indigenous voice to parliament, as he attempts to ratchet up the No case by demanding detail on the voice,"
     publishedDateTime: 2023-08-03T10:12:00Z

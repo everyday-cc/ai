@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/hear-elvis-si
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

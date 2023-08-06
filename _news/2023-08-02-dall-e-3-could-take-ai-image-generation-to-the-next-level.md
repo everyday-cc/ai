@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-reve
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64cbf57aad78267fea960ea8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 836
-        isCached: true
-  - title: "Stability AI launches SDXL 1.0 text-to-image generation models"
-    excerpt: "Stability AI has announced the launch of its next-generation SDXL 1.0 text-to-image generation model. Making it available for anyone"
-    publishedDateTime: 2023-08-01T05:55:00Z
-    webUrl: "https://www.geeky-gadgets.com/stability-ai-sdxl/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Stability-AI-SDXL.jpg"
-        width: 700
-        height: 446
         isCached: true
   - title: "Boyd Innovation Will Cool Next-Generation AI Processors"
     excerpt: "Boyd will cool next-gen AI with innovative liquid cooling technology that will reduce data center energy use, in collaboration with NVIDIA and others."

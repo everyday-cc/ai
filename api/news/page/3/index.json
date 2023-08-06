@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-08-03-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
-      "title": "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars",
-      "excerpt": "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
-      "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all",
-          "width": 858,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent.md",
       "title": "Samsung, Hyundai Lead $100M Funding Into AI Hardware Startup Tenstorrent",
       "excerpt": "By Liza Lin Canadian tech hardware startup Tenstorrent raised $100 million from investors including Hyundai Motor Group and Samsung Electronics to",
@@ -1238,6 +1185,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare.md",
+      "title": "From smart stethoscopes to predicting bed demand: how AI can support healthcare",
+      "excerpt": "demonstrates the potential usefulness of artificial intelligence in healthcare. A separate trial found that AI in breast cancer screening is safe and can almost halve the workload of radiologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "originalUrl": "https://www.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8c619bbefc5c6ae95070c6b0fee447a064b66fc0/0_25_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=7043142e02085e81ced6e6dcbcc6a8db",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/02/from-smart-stethoscopes-to-predicting-bed-demand-how-ai-can-support-healthcare",
+      "publishedDateTime": "2023-08-02T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

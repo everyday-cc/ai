@@ -121,6 +121,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese says he offered Scott Morrison 'support' on the Voice in 2019 as he flags possible dates for referendum"
+    excerpt: "Prime Minister Anthony Albanese has flagged an imminent announcement on the referendum date as he reveals he offered Scott Morrison “support” on the Voice shortly after the 2019 election."
+    publishedDateTime: 2023-08-05T23:52:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-says-he-offered-scott-morrison-support-on-the-voice-in-2019-as-he-flags-possible-dates-for-referendum/news-story/b4aeefc01f923854bd21a58f34af2666?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 19
+    images:
+      - url: "https://content.api.news/v3/images/bin/bb28d0074528ac37ee861bffc639e01f"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
     excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
     publishedDateTime: 2023-08-02T04:28:00Z

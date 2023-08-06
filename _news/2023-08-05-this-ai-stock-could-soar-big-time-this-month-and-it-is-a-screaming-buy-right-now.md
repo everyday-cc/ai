@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar
 webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
 type: article
 quality: 64
-heat: 84
+heat: 88
 published: true
 
 provider:

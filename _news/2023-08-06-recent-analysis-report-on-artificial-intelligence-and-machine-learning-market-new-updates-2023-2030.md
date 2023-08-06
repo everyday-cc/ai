@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-05T21:51:00Z
 originalUrl: "https://menafn.com/1106788791/Recent-Analysis-Report-On-Artificial-Intelligence-And-Machine-Learning-Market-New-Updates-2023-2030"
 webUrl: "https://menafn.com/1106788791/Recent-Analysis-Report-On-Artificial-Intelligence-And-Machine-Learning-Market-New-Updates-2023-2030"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?545557"
