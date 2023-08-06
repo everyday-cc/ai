@@ -28,17 +28,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 49
-  - title: "Artificial intelligence puts Austin jobs at risk: study"
-    excerpt: "Study shows Austin as the No. 23 city where AI threatens employment the most, with over 100,000 jobs considered at risk."
-    publishedDateTime: 2023-08-02T03:28:00Z
-    webUrl: "https://www.fox7austin.com/news/artificial-intelligence-puts-austin-jobs-at-risk-study"
-    ampWebUrl: "https://www.fox7austin.com/news/artificial-intelligence-puts-austin-jobs-at-risk-study.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/artificial-intelligence-puts-austin-jobs-at-risk-study.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 37
 
 secured: "mXv9JRjR56g0kkV89zGKGUZ+zUw8uAfKudtcMc6J+GzBGjfxgFVzJOmNTkmOKcb7+H9jLVbgOe+O2BmPZI5GuXfCnWVU624LA9n90Ew5AcLUwOvo9V5RtN0cC/4gyoKabfFnh9XiHh5cHAFMQ1H39GCn0OADmmHULro5rqDC2wdd+AE0r6ZnVqC/6zpgHcIWOdV21w4poWv5pE8zVLBDX7RB1KsusRmUJLKFk5UOkvrj+e+EnV9KLHOy0rWj6Cxxj08QPwzm4zAB9KZgl58hI6qbz4JgmqXyYvuItf7vW9bR3s3As/FzTB9w5PEIslEq3fWx1/UT5qHE1XSLx6I4K4d2sTIYTOY2o3Y2L304hWQTXaTiELGbnlUZHttWAtzD0f5DSXYlZoLhOxLjn+IlX04lCD5d+TVuVeVeAAet2P6UlihOufbXbk9IOGIVdW4oTcUkEgo61vYQMsQBoeaGq89vdWUJWS2QNsq0Tl7CBA3OX4MBoR5p7bQFlgOSYHXZeOIzQLYrkpV9S5EadSNJtA==;nECl5FZMjaQHS4BJp1HRBw=="
 ---

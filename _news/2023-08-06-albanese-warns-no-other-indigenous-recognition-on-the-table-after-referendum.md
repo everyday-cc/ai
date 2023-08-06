@@ -41,6 +41,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Albanese warns just one shot at Voice"
+    excerpt: "Prime Minister Anthony Albanese has warned Australians have just one chance to vote for constitutional recognition and a Voice, amid polls indicating a further slide in support. Whistleblowers have accused consulting giant KPMG of billing the federal government for hours never worked,"
+    publishedDateTime: 2023-08-06T21:06:00Z
+    webUrl: "https://www.thesaturdaypaper.com.au/post/max-opray/2023/08/07/albanese-warns-just-one-shot-voice"
+    type: article
+    provider:
+      name: The Saturday Paper
+      domain: thesaturdaypaper.com.au
+    quality: 24
+    images:
+      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/post4.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Defiant Albanese tries to reset ailing Voice"
     excerpt: "The prime minister will reject calls to defer the Voice to parliament referendum and appeal to voters to rally behind him to help Indigenous Australians escape disadvantage."
     publishedDateTime: 2023-08-04T12:30:00Z
@@ -80,15 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
-    excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
-    publishedDateTime: 2023-08-02T04:28:00Z
-    webUrl: "https://www.dailytelegraph.com.au/business/work/leaders/anthony-albanese-fires-up-on-housing-in-question-time-grilling/news-story/0361059ce2d6fe05929c3c0700fb43a2"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 3
 
 secured: "fq5+70hgum5eSaL5fOoLaXr14mroCZckHxnp4wQxdzLG93q0nZjQSpPTDj30FFYelshaXoOQ8Q85XAXhDtUJm1Zq5O+8U2Wc+fhibeZt/ho+h5UQ41Pv66WIooouquGAUg0F+1D+6jdOCVQ5gK5ogJ5oL2NocLazzpv5IK5/IhM6J+YrBRyMubGp6wBnjLIfuoJ90sFft/wLEQklbriR9s2srKRlOMlrlKdkqHde8xONLukBq4T5rr8Dhcu5U8EwDn3isoLmaY5asXOz0ZB33mA+drsSbadsGw5iS0iz3SjS7OCDQy25eDCLjyGrG914IbPeER2bZCH+E6GiWlNyp99yz4GNK2G+fX91Um2g3l3WqQJQjT8X4KvFbanhmMOgwBmoc+OlGOZMwtSVgw6gLAkZr12d/81Z7MstBi1IrvMu1tTV+Q98z5r9NW3hjESc96nGzPBQej5afuevHSbM4K3xAzvOQRGWud/NDyTKWUPdu3OgTqA3m1n9B7bW3hiP145NNmBMtSDY/8F4AJjklA==;cPspFRpAu4n7XTclNrIT+g=="
 ---

@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence puts Austin jobs at risk: study"
-    excerpt: "Study shows Austin as the No. 23 city where AI threatens employment the most, with over 100,000 jobs considered at risk."
-    publishedDateTime: 2023-08-02T03:28:00Z
-    webUrl: "https://www.fox7austin.com/news/artificial-intelligence-puts-austin-jobs-at-risk-study"
-    ampWebUrl: "https://www.fox7austin.com/news/artificial-intelligence-puts-austin-jobs-at-risk-study.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/artificial-intelligence-puts-austin-jobs-at-risk-study.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 37
   - title: "Waymo announces Austin as its fourth major city"
     excerpt: "Waymo, the self-driving technology company under Google’s parent company Alphabet, has officially announced Austin as its fourth major ride-hail city."
     publishedDateTime: 2023-08-04T15:13:00Z

@@ -25,93 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "New Microsoft Azure AD CTS feature can be abused for lateral movement"
-    excerpt: "Microsoft's new Azure Active Directory Cross-Tenant Synchronization (CTS) feature, introduced in June 2023, has created a new potential attack surface that might allow threat actors to more easily spread laterally to other Azure tenants."
-    publishedDateTime: 2023-08-03T22:55:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
+  - title: "National youth robotics competition aims to empower and inspire next generation"
+    excerpt: "A new to Windsor national robotics competition for youth took place this weekend at the University of Windsor."
+    publishedDateTime: 2023-08-06T21:54:00Z
+    webUrl: "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188"
+    ampWebUrl: "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 74
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 85
     images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure-headpic.jpg"
-        width: 1600
-        height: 800
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/6/2740875/_jcr_content/renditions/videothumbnail.1691358876188.jpg"
+        width: 1020
+        height: 574
         isCached: true
-  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
-    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
-    publishedDateTime: 2023-08-03T14:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+  - title: "A Computer Vision Teleoperation System Adaptable To Various Robots"
+    excerpt: "NVIDIA and UC San Diego researchers have created AnyTeleop, a computer vision-powered teleoperation system for diverse applications."
+    publishedDateTime: 2023-08-02T11:52:00Z
+    webUrl: "https://www.electronicsforu.com/news/a-computer-vision-teleoperation-system-adaptable-to-various-robots"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 56
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/08/a-computer-vision-base.jpg"
+        width: 800
+        height: 463
         isCached: true
-  - title: "New features released for Microsoft Azure Operator Nexus"
-    excerpt: "New features have been released for Azure Operator Nexus, Microsoft’s hybrid cloud platform for telecommunications firms, as it also becomes generally available following a period of public preview. “Earlier this year at MWC Barcelona,"
-    publishedDateTime: 2023-08-02T15:26:00Z
-    webUrl: "https://www.technologyrecord.com/article/new-features-released-for-microsoft-azure-operator-nexus"
+  - title: "AI-powered computer vision accelerates innovation"
+    excerpt: "Advances in computer vision and machine learning are helping companies get medical devices and drugs to market in a more reliable and safe way, and sometimes at a reduced cost. Pharmaceutical ..."
+    publishedDateTime: 2023-08-02T08:33:00Z
+    webUrl: "https://pharmaphorum.com/digital/ai-powered-computer-vision-accelerates-innovation"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
+      name: pharmaphorum
+      domain: pharmaphorum.com
     quality: 54
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4518/AzureOperatorNexusWeb.jpg"
-        width: 975
-        height: 548
+      - url: "https://pharmaphorum.com/sites/default/files/2023-07/AI-powered-computer-vision.jpg"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "Now enjoy immersive conference calls with Microsoft's spatial audio feature for Teams desktop app"
-    excerpt: "Microsoft has integrated spatial audio into its Teams desktop application to enhance virtual communication. The feature enables participants' voices to be perceived from distinct virtual locations on the screen,"
-    publishedDateTime: 2023-08-02T04:55:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/articleshow/102337174.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25306,msid-102337735/microsoft-teams-adds-spatial-audio-feature-image-source-google.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"
-    publishedDateTime: 2023-08-03T09:35:00Z
-    webUrl: "https://menafn.com/1106777028/KPMG-and-Microsoft-enter-landmark-agreement-to-put-AI-at-the-forefront-of-professional-services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 44
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/pr_56_06b2169c_image_story.jpg"
-        width: 1024
-        height: 1536
-        isCached: true
-  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
-    publishedDateTime: 2023-08-02T08:57:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 42
   - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
     excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
     publishedDateTime: 2023-08-03T20:11:00Z
@@ -121,24 +78,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 32
-  - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
-    excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
-    publishedDateTime: 2023-08-03T19:12:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/tcs-rolls-out-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102403204.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 19
-  - title: "Beware of overly permissive Azure AD cross-tenant synchronization policies"
-    excerpt: "A new proof of concept shows that attackers can use Azure AD CTS to leap to Microsoft and non-Microsoft application across tenants."
-    publishedDateTime: 2023-08-02T18:21:00Z
-    webUrl: "https://www.csoonline.com/article/648486/beware-of-overly-permissive-azure-ad-cross-tenant-synchronization-policies.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 17
 
 secured: "McZJ6S++L5WhD7g/XOKiiKS30JmvvXB+3lYaSWj+eHEur0doGAkcPfCAMT0/YUHQkMKDwQD6l0ZJLIGs2iaQs3r2czK+hI+8w71UEryY7mxi/POkTP4TwVkUnYsB4hWkoDKC6TTOkC/pTgDHxv0FifTmOzhKUwX7NNY4J2KDxfKMOlxKFJnV4+9NGe9vP102qqH3MF00NEwcr6q2J24hyb6YxJVBBA1hF05iMQQEgFUYMs0wsngPAUqU3z/YVC5G6ldHxIoNk8Wv05FkkhuAslOgvXts/kqdH5zJ8SoPLI7bed48yBxOkgY1TIrhiI6NIlexu3+LXWNZ9xabBmGQmrkTSFEYPdvNuNQc4hNYRtV0g2xOSnMApU4fVCUznnW1zHt3lKDccFmz39kQ+7CbtP//u6Y56EYvtFfEvbY8YQR4wmedizcAYxKlFXS88DEv4xdaWs+k36lqTMJNIkKTkyVsLZmiFSNOc5HylRmDU3l08ah+1/HlCBiN/OuFUTZMiEpcCihxRvwe1q/YXpSOHA==;pge9mSFESAsySG+zj5a4HA=="
 ---

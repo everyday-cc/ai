@@ -33,6 +33,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Banking as a Platform Can Help Traditional Banks Regain Competitive Edge Against Neobanking Fintech Platforms: Juniper Research"
+    excerpt: "BaaP (Banking-as-a-Platform) is an operational business model that puts banks at the forefront of consumers, Juniper Research explains."
+    publishedDateTime: 2023-08-06T18:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211112-banking-as-a-platform-can-help-traditional-banks-regain-competitive-edge-against-neobanking-fintech-platforms-juniper-research/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 6
 
 secured: "haIvvwy35yqUt6BA9IEX0T8IJ/09+Zz2qnR59dwJpHyb0vsqm+/eA9Bk2zkmV3fBaK10f7KXcTzffIulMP/SUBVG+5uYD5Fu1rkVbEZ3QJT2cG9q4WNUkcUuB8OOPKIlcF77MYAmLIzNIWCLxdMgMvJgE0K87NCi3qcxjS6zD56diU9HhcZfkwuAEUh4fl+k3knNIvY5jmOqdEN1Xv+CkBh8iy+Rcnn7jT/GSnRrsIBME77XjaE1pS+9h1su1y+SDD0pYV2amc73fe2s2DM8i9hIA1uFSXqPq7LMLvfuj6Zep6sHNtDw4WyxI0pMIV/Y2z2F81sIcrFrEgMblncC/k+Ni1SYmyvHv8AOt2j9mDA=;vwABAYRV/qF6NYMqBkpecw=="
 ---

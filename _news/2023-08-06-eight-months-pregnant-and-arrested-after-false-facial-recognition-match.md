@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-f
 webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
+    excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
+    publishedDateTime: 2023-08-06T19:41:00Z
+    webUrl: "https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
     excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
     publishedDateTime: 2023-08-06T16:52:00Z

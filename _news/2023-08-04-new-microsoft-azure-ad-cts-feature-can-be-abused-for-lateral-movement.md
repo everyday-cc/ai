@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-a
 cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 134
 published: true
 
 provider:
@@ -57,36 +57,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T08:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
-        width: 630
-        height: 473
-        isCached: true
-  - title: "Now enjoy immersive conference calls with Microsoft's spatial audio feature for Teams desktop app"
-    excerpt: "Microsoft has integrated spatial audio into its Teams desktop application to enhance virtual communication. The feature enables participants' voices to be perceived from distinct virtual locations on the screen,"
-    publishedDateTime: 2023-08-02T04:55:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/articleshow/102337174.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-enjoy-immersive-conference-calls-with-microsofts-spatial-audio-feature-for-teams-desktop-app/amp_articleshow/102337174.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25306,msid-102337735/microsoft-teams-adds-spatial-audio-feature-image-source-google.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"
     publishedDateTime: 2023-08-03T09:35:00Z
@@ -112,15 +82,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 42
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T20:11:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 32
   - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
     excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
     publishedDateTime: 2023-08-03T19:12:00Z

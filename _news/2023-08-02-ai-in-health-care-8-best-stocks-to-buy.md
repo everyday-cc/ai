@@ -54,6 +54,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "3 Millionaire-Making AI Stocks That Are Flying Under the Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have exploded to the upside in recent months. It isn’t too"
+    publishedDateTime: 2023-08-06T18:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-making-ai-stocks-that-are-flying-under-the-radar-1032520445"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "When It Comes to Eye Care, AI Couldn't See Straight"
     excerpt: "However, the chatbot in the cardiac care study did make something up, which is known as \"hallucinating\" in AI circles, when it responded that the cholesterol-lowering drug inclisiran (Leqvio) is commercially unavailable. In fact, the FDA approved it in 2021 and it's readily available."
     publishedDateTime: 2023-08-04T16:37:00Z

@@ -75,20 +75,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Temasek Pulls Back on 2023 Fintech Investment Amid Challenging Global Outlook"
-    excerpt: "Temasek adopted a conservative approach amidst global uncertainties, and slowed its investment and divestment pace, including in fintech."
-    publishedDateTime: 2023-08-02T04:30:00Z
-    webUrl: "https://fintechnews.sg/76981/funding/temasek-pulls-back-on-2023-fintech-investment-amid-challenging-global-outlook/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 21
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/08/Temasek-Fintech-Investment-Sectors-Suffer-Blows-Amid-Global-Challenges.png?x37864"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Exploring Fintech's Next Frontier - Physical Branches"
     excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
     publishedDateTime: 2023-08-02T05:45:00Z

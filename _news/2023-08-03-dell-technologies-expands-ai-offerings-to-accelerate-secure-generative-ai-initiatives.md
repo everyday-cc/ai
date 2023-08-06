@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Introduces New DLP Challenges"
-    excerpt: "Generative AI, such as OpenAI's ChatGPT, has been making headlines in the tech world recently. These AI models are trained"
-    publishedDateTime: 2023-08-04T11:46:00Z
-    webUrl: "https://www.techbooky.com/generative-ai-introduces-new-dlp-challenges/"
+  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
+    excerpt: "Datadog adds observability for Large Language Models and generative AI application components SAN FRANCISCO, /PRNewswire/ -- Datadog, Inc. (NASDAQ:DDOG), the monitoring and security platform for cloud"
+    publishedDateTime: 2023-08-03T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33554896/datadogs-platform-expands-to-support-monitoring-and-troubleshooting-of-generative-ai-applications"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33554896"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33554896"
     type: article
     provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/08/generative-ai.webp?fit=1000%2C563&ssl=1"
-        width: 1000
-        height: 563
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Gravitational Wave Astronomy in Artificial Intelligence Era: Opportunities, Challenges and Future"
-    excerpt: "The groundbreaking detection of gravitational wave event GW150914 has ushered in a transformative era for multi-messenger astronomy. As the sensitivity of ground-based observatories like LIGO-Virgo-KAGRA is enhanced,"
-    publishedDateTime: 2023-08-03T07:13:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/59097/gravitational-wave-astronomy-in-artificial-intelligence-era-opportunities-challenges-and-future"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 4
 
 secured: "nETIlsZl2jnz8lA/jE7XbwsbSp12eYWfrgV0UhJwUKd2xXqoIOlVjvWQ4FBVDHks5a1htm7bZIr4BAAa/uYJdaWtZCr3IS98DMzIr5Zv2e8H+ouJLcdL2ApCkrMNrPtZfX+ciQ8oBopHPyZx1f6GlS/00QGMtmyMOYxBIoDZ/t8JQPDQsB3X2311OMvoYImyT7asjDXlLxfwDCJVk6w/79HYA9BBvXNKPab5HR4685owFjXuWLKmw5yQtT2PRvLLHJjlPZSx5XpECPke9Y8YOavoiZ9M1A7pS4ND2ilQfCUR4aYgKQ0ZM0NFKbHMeaD6wUM8XDWKohmWAehCsvmgXU+n74LHILB4afffIuWLpjY=;RHr2/2QzqBy+zfpFPz8mCw=="
 ---

@@ -33,6 +33,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
+    excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
+    publishedDateTime: 2023-08-06T19:41:00Z
+    webUrl: "https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "iSItAnSQND8hp+vlfm2DwFRWFdq1HJF9l580Sh4dksfmrQm6UBwP/pCoo1Z7VvBwUehcbqFtjbahJW2+TawGC/kvgsUcs3AjiBzTpeZgd4dHF4T95ktC4gW8iRJEf01C7Ddj/12fzgOztw+EJTrD6K0bKDWY1XzJ8ppLRels2QtPM3i/fD0FG1Ikq/0hVII1rOww3n/9tmbuM8yDqgEvi8DXA5brLDlcOyFfZdQR5iaj78x7tRpoe8P+tTlKlIgH1DUQbIUj9enLQ3x03q1Q9ZxbEyHASUn8LOLGmyuqLnLMsPfApQhZ+i9P73Xq+0G6hNN28c0iDu7FgvBbJ/WR+2vXxfNaV1AFf5TJqpwxExo=;vU8s2G1seCn/wr9gxF7wxg=="
 ---

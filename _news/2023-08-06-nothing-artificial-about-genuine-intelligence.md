@@ -7,7 +7,7 @@ originalUrl: "https://www.gjsentinel.com/lifestyle/nothing-artificial-about-genu
 webUrl: "https://www.gjsentinel.com/lifestyle/nothing-artificial-about-genuine-intelligence/article_02993792-32d7-11ee-b9a2-431e0770887f.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial vs human intelligence: An existential race is underway"
+    excerpt: "Whether AI exterminates human civilization will depend on the extent to which we allow such technology to enslave us"
+    publishedDateTime: 2023-08-06T21:56:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway-11691316946562.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway/amp-11691316946562.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway/amp-11691316946562.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/06/600x338/2-0-1248141005-hires-0_1679614534170_1691317292330.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial General Intelligence (AGI): Definition, How It Works, and Examples"
     excerpt: "Researchers from Microsoft and OpenAI claim that GPT-4 could be an early but incomplete example of AGI. As AGI has not yet been fully achieved, future examples of its application might include situations that require a high level of cognitive function ..."
     publishedDateTime: 2023-08-02T15:46:00Z

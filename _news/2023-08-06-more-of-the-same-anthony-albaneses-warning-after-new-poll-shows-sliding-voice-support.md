@@ -41,6 +41,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Albanese warns just one shot at Voice"
+    excerpt: "Prime Minister Anthony Albanese has warned Australians have just one chance to vote for constitutional recognition and a Voice, amid polls indicating a further slide in support. Whistleblowers have accused consulting giant KPMG of billing the federal government for hours never worked,"
+    publishedDateTime: 2023-08-06T21:06:00Z
+    webUrl: "https://www.thesaturdaypaper.com.au/post/max-opray/2023/08/07/albanese-warns-just-one-shot-voice"
+    type: article
+    provider:
+      name: The Saturday Paper
+      domain: thesaturdaypaper.com.au
+    quality: 24
+    images:
+      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/post4.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Albanese warns no other Indigenous recognition on the table after referendum"
     excerpt: "Anthony Albanese has warned people wanting either symbolic recognition or something that goes further than the Voice that the referendum will be the only constitutional change for Indigenous people he pursues."
     publishedDateTime: 2023-08-06T00:20:00Z
@@ -80,15 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Anthony Albanese fires up on housing, the Voice in question time grilling"
-    excerpt: "“And more than anything, he wanted to see constitutional recognition through a voice made a reality. “Later this year we have the chance to do that; recognition, listening and better results.” Anthony Albanese called on Peter Dutton to come to Garma ..."
-    publishedDateTime: 2023-08-02T04:28:00Z
-    webUrl: "https://www.dailytelegraph.com.au/business/work/leaders/anthony-albanese-fires-up-on-housing-in-question-time-grilling/news-story/0361059ce2d6fe05929c3c0700fb43a2"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 3
 
 secured: "iM0FV9NVz354gIQ+PCe4tXrtUiFSXSrGikIRnKri7kH3jPEbrCZ8UerUkXFAoicRHUY6LfUOmAGgBGdT54NJ+4ZDLBPPo6r9sN87Kj/tIL+pZXmdytitgBEzF0Mi4GdjWooDoYIKw240V6Oy9WpSqk09V1l411pSOpFTkNDB0fUU3JjejiBlVLXeltN9nWC7P1tRIg0QKk+Y4XwAinyqlBxEPtBM2YYRrbeAPAwb+8dwVeqImhwKUpUYAIKojf9+Jia8w+irpyG52zdSYqNLcElpmPF32+lX3sDUY/ztgTm36qJsIpjtaCUR+TpJ84RKgh84pDjzQyia4A2bqvBce+tWoxlRo6jkroTdeZZgxH8=;OVT7mo6m9RSYwjVsWd3nFQ=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial vs human intelligence: An existential race is underway"
+    excerpt: "Whether AI exterminates human civilization will depend on the extent to which we allow such technology to enslave us"
+    publishedDateTime: 2023-08-06T21:56:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway-11691316946562.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway/amp-11691316946562.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/artificial-vs-human-intelligence-an-existential-race-is-underway/amp-11691316946562.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/08/06/600x338/2-0-1248141005-hires-0_1679614534170_1691317292330.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Nothing artificial about genuine intelligence"
     excerpt: "I get some of my best cardio from pearl clutching and outrage, so naturally I read everything I can get my hands on about artificial intelligence, especially ChatGPT."
     publishedDateTime: 2023-08-06T06:14:00Z

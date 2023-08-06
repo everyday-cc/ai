@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/92666/will-the-ai-boom-see-companie
 webUrl: "https://www.tweaktown.com/news/92666/will-the-ai-boom-see-companies-buy-gaming-gpus-to-meet-demand/index.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,62 @@ images:
     isCached: true
 
 related:
-  - title: "Here We Go Again: AI Developers Are Buying Gaming GPUs in Bulk"
-    excerpt: "The revelation of a sizable GPU purchase appeared on the social network formerly known as Twitter this week by George Hotz, whose profile says they are the president of an AI company. The post says AMD is a real pleasure to work with when purchasing GPUs in bulk."
-    publishedDateTime: 2023-08-02T17:00:00Z
-    webUrl: "https://www.extremetech.com/computing/here-we-go-again-ai-developers-are-buying-gaming-gpus-in-bulk"
+  - title: "AI boom could lead to a new GPU shortage, but Nvidia says the current problem is just packaging"
+    excerpt: "Recent statements from AI companies indicate that the AI boom is increasing the demand for GPUs to the point where some report shortages. Nvidia claims its"
+    publishedDateTime: 2023-08-06T21:06:00Z
+    webUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
+      name: TechSpot
+      domain: techspot.com
+    quality: 72
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-06-image.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "Nvidia GPU shortage is ‘top gossip’ of Silicon Valley"
+    excerpt: "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here As compute-hungry generative AI shows no signs of slowing down, which companies are getting access to Nvidia’s hard-to-come-by,"
+    publishedDateTime: 2023-08-03T16:30:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-gpu-shortage-is-top-gossip-of-silicon-valley/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Untitled-design-2023-08-03T102846.408.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Nvidia RTX 40-series production reportedly slowing down after AI GPU boom"
+    excerpt: "Nvidia is reportedly winding down production of its RTX 40-series graphics cards, following a boom in AI product demand."
+    publishedDateTime: 2023-08-03T11:41:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-rtx-40-series-production-ai-gpu-boom-2235345/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 53
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/15/RTX-4080-Founders-Edition-power.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Nvidia allegedly halts RTX 40 series GPU production"
+    excerpt: "Nvidia has paused gaming GPU production, according to leaks, and is stopping distributors from passing existing RTX 4000 models to retailers."
+    publishedDateTime: 2023-08-03T10:38:00Z
+    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4000-gpu-production"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 39
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/nvidia-rtx-4000-gpu-production.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "IYmzTm4V1Blnxd8krmkwKAqYTmDqgQkMB0f6w7ScfNSgIDQzX/QEXpCmb/3zTcKI7x+Eo1SF1OAu/A7WqrIxDF/LmsTnK5gCOA+U50RDiMPPtPqlKjdlzHOEJglEs2PN9LGQ8lb0mHtOKcEDuk0yV3C74WbhNadXUgNJDn9y07sNUkM2AjwT73LwYt6n3457Xn1Dj7lJoI3p2UbZ+tf+bxRGNS3PVL2eqElStPgeZ0/NfCE1zcMiOyS6K110VS6uEL/DDZMxYZgqMlVGTGiHKJTKuvVBJpy2ny7kl1atCInS46vLpGYXHu4EnQXRjjQKtH9CHWGaTI2LXT/21Lct4zlq3scBFGsVtFjv6vzVECY=;jeedKrQAgeA26y9GBWDIGw=="
 ---

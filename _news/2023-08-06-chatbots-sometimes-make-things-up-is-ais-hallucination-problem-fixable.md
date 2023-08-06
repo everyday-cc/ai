@@ -95,22 +95,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "The Chatbots Pick Up on Your Feelings"
-    excerpt: "Interest in artificial intelligence (AI) has exploded recently ... This quantification of language is key to advancing scientific understanding of psychological therapy, support, and mental health symptom assessment. Psychological descriptions of emotion ..."
-    publishedDateTime: 2023-08-02T14:20:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-07/headshot300.png.jpg?itok=xQYvQoqh"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "A chatbot willing to take on questions of all kinds is the latest representation of Jesus for the AI age"
     excerpt: "Jesus has been portrayed in many different ways: from a prophet who alerts his audience to the world's imminent end to a philosopher who reflects on the nature of life."
     publishedDateTime: 2023-08-02T15:40:00Z
@@ -126,31 +110,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-chatbot-willing-to-t.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "AI's hallucination problem: Chatbots tend to make things up"
-    excerpt: "Described as hallucination, confabulation or just plain making things up, it’s now a problem for every business, organization and high school student trying to get a “generative AI” system to compose documents and get work done."
-    publishedDateTime: 2023-08-02T02:22:00Z
-    webUrl: "https://www.fox5ny.com/news/ais-hallucination-problem-chatbots-tend-to-make-things-up"
-    ampWebUrl: "https://www.fox5ny.com/news/ais-hallucination-problem-chatbots-tend-to-make-things-up.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/ais-hallucination-problem-chatbots-tend-to-make-things-up.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
-  - title: "Meta To Launch AI Chatbots With Distinct Personas"
-    excerpt: "Facebook’s parent company ... The open-source LLM is free for commercial and research use, opening the door to many more applications of AI in business and marketing tools. With Meta AI chatbots offering a wide range of engagement experiences, marketers ..."
-    publishedDateTime: 2023-08-02T04:55:00Z
-    webUrl: "https://www.searchenginejournal.com/meta-to-launch-ai-chatbots-personas/492994/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/meta-ai-chatbots-personas-launching-soon-64c941790ef06-sej.jpg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Meta to launch AI-powered chatbots with ‘personas’ in September"
     excerpt: "Mark Zuckerberg is set to enter the AI space and join the AI hype by launching chatbots on Facebook’s social media platforms."
@@ -219,20 +178,6 @@ related:
         width: 700
         height: 492
         isCached: true
-  - title: "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
-    publishedDateTime: 2023-08-02T02:00:00Z
-    webUrl: "https://www.sent-trib.com/2023/08/01/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-    type: article
-    provider:
-      name: Sentinel-Tribune
-      domain: sent-trib.com
-    quality: 26
-    images:
-      - url: "https://www.sent-trib.com/wp-content/uploads/2023/08/131708624_web1_131708624-782391250f5244beb50da79c07cda4df.jpg"
-        width: 1068
-        height: 712
-        isCached: true
   - title: "Tiger Brokers officially launches AI-powered chatbot to streamline pre-investment preparation processes"
     excerpt: "Tiger Brokers has officially launched TigerGPT, its artificial intelligence (AI)-powered investment assistant, to help investors with their investing decisions. The launch follows a successful beta testing period since April 2023."
     publishedDateTime: 2023-08-02T06:05:00Z
@@ -253,6 +198,24 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 19
+  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
+    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
+    publishedDateTime: 2023-08-06T19:00:00Z
+    webUrl: "https://www.adn.com/nation-world/2023/08/06/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 18
+  - title: "The Chatbots Pick Up on Your Feelings"
+    excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
+    publishedDateTime: 2023-08-02T14:20:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 4
 
 secured: "+NOLmsJ+NE+X6J5yble/3F2jiyTNPCQ8D5leNsMMEhnL8cb4PGj49OZFktf3JzPLUTWwJnjIcV92ezTnUfWDW1AjxuYdk+O49Cn0paNDkR2ds6/x1zywbVBZs73DJn3hUe2esbJxIjsne9yzywz1bOdBqHZHI3etEz6ht1nbdyUt9yv/HAARccR/9sKDAy3WU8zCdfm+/qEPXRQhXqSu4oD410+qlqNhS5tM4FsNKN91dzqsCC8e6JBb5NbVkjVi940P4ChOACpqWzI2gvfoNh9TGrsJGb/8JtfGUKKAwZgGazpAyxW6qORp13hkQ60S8k5ERRg2wsvMKX9rzh7EyF3yxMiLA3VAmhE2LvFveBA=;v6BF7fgXrmMmlIQFuXrZ2A=="
 ---

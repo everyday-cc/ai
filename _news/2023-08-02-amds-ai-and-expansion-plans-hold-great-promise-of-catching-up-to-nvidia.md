@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "AMD forecasts challenger to Nvidia AI chip for 4th quarter, eyes China AI market"
-    excerpt: "Advanced Micro Devices on Tuesday forecast a strong fourth quarter driven by the planned launch of artificial-intelligence chips that could compete with Nvidia chips, with the company's CEO saying it sees an \"opportunity\" to sell its AI chips in China."
-    publishedDateTime: 2023-08-02T01:09:00Z
-    webUrl: "https://www.aol.com/amd-forecasts-challenger-nvidia-ai-201734953.html"
-    ampWebUrl: "https://www.aol.com/amphtml/amd-forecasts-challenger-nvidia-ai-201734953.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/amd-forecasts-challenger-nvidia-ai-201734953.html"
+  - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
+    excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
+    publishedDateTime: 2023-08-06T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/843f04a444e5fa21a05f5df69eaa1702"
-        width: 800
-        height: 553
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Why the AI World is Looking Up to NVIDIA"
     excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."

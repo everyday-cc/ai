@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/a-computer-vision-teleoperati
 webUrl: "https://www.electronicsforu.com/news/a-computer-vision-teleoperation-system-adaptable-to-various-robots"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,61 @@ images:
     width: 800
     height: 463
     isCached: true
+
+related:
+  - title: "National youth robotics competition aims to empower and inspire next generation"
+    excerpt: "A new to Windsor national robotics competition for youth took place this weekend at the University of Windsor."
+    publishedDateTime: 2023-08-06T21:54:00Z
+    webUrl: "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188"
+    ampWebUrl: "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 85
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/6/2740875/_jcr_content/renditions/videothumbnail.1691358876188.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "AI-powered computer vision accelerates innovation"
+    excerpt: "Advances in computer vision and machine learning are helping companies get medical devices and drugs to market in a more reliable and safe way, and sometimes at a reduced cost. Pharmaceutical ..."
+    publishedDateTime: 2023-08-02T08:33:00Z
+    webUrl: "https://pharmaphorum.com/digital/ai-powered-computer-vision-accelerates-innovation"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/sites/default/files/2023-07/AI-powered-computer-vision.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T08:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
+    images:
+      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
 
 secured: "JL8wna1huR3aIPxTQ6aR2ElU1y4ZNyQC6Q4H8Feg4FUe4kcoEeTohiFLHcRzUsg+BqlzFiTM5TD59nCtEZIFxDWZi2ggPslnizbbR/2g8xUJHw1zrh6LHlhQTezYRiWM9pqPtQX2pMBPL8BRvj8uMzqZpr3u3romULLcpVly5LPUCY/8N/enSZ0P2BgJulazr3WrDveN+nunYQWDe7ai8NEOLndn/Xh3UpI3TK3PEnnxoL3HtP4kkM2f+8OMky0auxQXbDMsia5HkAoW77GcFtlIkfXXA2moYScFBtWMtwcL487nvmDiZa6BGpN3Sxusi0h6FKGtad04tvopKt/+nMLdzmjQSr0mkuypNdUnV9rcEG36LASLd2ws/dlUCuVMGYHjYZVBwvAcUXRMBs6PETz0lRC0NS1Xyz3D7yPH2UrucufadwZXoS93Kn03CG1THWWkNE9zFHdpLRjuv2JL5L/2Ll6UYYgKVBWWaD/qbjshx3X734L159XXXa4v7P1GFe7tA2xC1WwSkNtCH2OR6g==;sj10EGmNMKp/n/O4EJ6dag=="
 ---

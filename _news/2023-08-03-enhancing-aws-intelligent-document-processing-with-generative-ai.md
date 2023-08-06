@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intell
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "AWS and Accel Announce Accelerator Program for Generative AI Startups in India"
-    excerpt: "Amazon Web Services (AWS) and venture capital firm Accel have jointly announced ML Elevate 2023, a 6-week accelerator program aimed at empowering star"
-    publishedDateTime: 2023-08-02T04:59:00Z
-    webUrl: "https://www.indianweb2.com/2023/08/aws-and-accel-announce-accelerator.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 50
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuWf8p4faTqGgICWbuiJ0HcNgruglRQiYRcrE2gMZPxVvWKVSYpJWQcJXXiXbhG1ppVHRUsV1xC9T29_BPe2WtFuLJscaHrUw-ZprJHChGa7gdSDHoq0_aHbnisT-CAy9pQPTW7pn2snF_t5G6SbtXa4TVMv55E8BCycFmwWX1ePyO1XMTDm_vi0eHD4o/s16000/ML_Elevate.webp"
-        width: 2640
-        height: 1486
-        isCached: true
   - title: "Abb And Microsoft Collaborate To Bring Generative Ai To Industrial Applications"
     excerpt: "ABB is working with Microsoft on the integration of generative AI capabilities into industrial digital solutions for safer,"
     publishedDateTime: 2023-08-05T03:07:00Z

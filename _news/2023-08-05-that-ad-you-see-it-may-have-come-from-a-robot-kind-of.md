@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-05T14:01:00Z
 originalUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
 webUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/33/74/57/24103928/3/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
-
-secured: "HdSaSAIBuefWeZKIpZ7GeyOUIUSWrNykEIIahtLnbU6j+6CqLSq8hSy7Jy59lNaJs4XdbCoDN93+3RojGoBl1HerR7S38BRTdN6ehAlxjIL5zMcwxW3YrikXjYBchxD6GVz1W74Ay0flswMWrZJqpIlsS/gkaF1z/onjQVSeHwyiLSO4TCrMIqhvPLmUlRGV+T6aEJc6nmIYQ0u4mGPZGCCvDHCCYST/8n0wlHzlkVK7Z7waRIy8COYq9a6uEuIoB3b8vqCc+mGkMfMYKXYZyCJaVfniDVLVwxTlA8GF9e+52yiaaQGATdfZqx4DCytAYEnsbujEzt3IR2B6q2t/IQELnCP5orJBoI6xtBibdQo=;MpuIaSTTofKN7quFdKaGsg=="
+secured: "sW2siRPpOwjF1/Or0YgdbDRC9u/HKSpqflKkSD2bef3MGfGHiU0MYQUzAcMKt9Gs8vZt9Y5gcwknIKaYjx8cyvNHf5Qvy1a7ZGcV+GT0kFrsb33KSLNT8IQ111zpX+1XmChNjsQPmMa6IGSBVnb3b6LY3KxS5hct6SK3zMnXNwmnkKYAEswmwketWI9jWQecWSd90Jf9ymR/Ijn2ZQ3+0iDHfJ6pmBXkizfcs/QkoXxt4jFS+4UkFcOrJPZMaMlu8NOUniU2zXeb4Mev/iT02J5eFqVi1G2Q1XUe5Ibxm29aYpY/QhU58lkkk8Ho9zhIY4nwoYKh3id+x1L/FTTcQa8y6ZjCFgscTUSUX6tCB3X35jijXnqdqdMm/rSa9g64LpAxHt+qOs95T9+32Ss+OyHFTUedFQHEsRgY1c801iNCWEWHeOJbqyoKeh8kW4RBX/PoIm1BL5DWDH/GlGI5NeEDS0kvqhzf/IunPSZlCuS0Vs5NBVwYPYaxvWiyAWvwqgXWYUtAVo8T8CLyCWgaVg==;LV4OO9j6ceauabwHylrJGQ=="
 ---
 
