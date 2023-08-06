@@ -125,15 +125,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-02T00:24:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 0
   - title: "Peter Barcak, CEO at Credolab: Fintech Professional Comments on Future of Lending, Power of Behavioral Data"
     excerpt: "We recently connected w/ Peter Barcak, Founder & CEO of credolab, which claims to be today's largest developer of bank-grade digital scorecards."
     publishedDateTime: 2023-08-03T13:45:00Z

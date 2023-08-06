@@ -40,6 +40,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Saudi Arabia's Ai Powerhouse, Mozn, Recognized As One Of The World's Top Fintechs For 2023"
+    excerpt: "Mozn was chosen as a Top Global FinTech Company in the Digital Business Solution category from 1500 global competitors as per the report by Stati"
+    publishedDateTime: 2023-08-06T17:06:00Z
+    webUrl: "https://menafn.com/1106793115/Saudi-Arabias-Ai-Powerhouse-Mozn-Recognized-As-One-Of-The-Worlds-Top-Fintechs-For-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/06/M_a7345image_story.jpg"
+        width: 1368
+        height: 912
+        isCached: true
 
 secured: "rYeBBSd0DNIw9gPqP+ocHdl7bRyhy6OdgvKo6kKj9glmm7r6YVJxz1lSsyXpMMMHVT84AoWwdOIbZ068tcce++j/GUMNOMMdCMPMfF9VJnOmPbN0Zm/5kl5NPHLEMfAKmqj0/4MBSCjqia04kBM6nogaEDYNWd+dXBjxGtQeRMW7thQaDWutXw9Hz6LECAs8I1NmeCwEcImH/kuGUBOLNHXTbnQc1NY5p/seKWksDwJlACaHq5RoeM0AF4W9SP3H3k1H4ZOCXn3VKUtmg68qxv+U7SoKjjLsi87k7xrNapliFCleox0eeU913Dzlta5spOhP/5+79+HQxmNp03EhM674d0EU9fYngpTYjeh8NTU=;abM90RpX6tsnbsrKTVvWpg=="
 ---

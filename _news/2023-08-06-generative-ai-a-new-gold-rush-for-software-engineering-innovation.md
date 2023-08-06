@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-softw
 webUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,6 @@ related:
         height: 767
         isCached: true
 
-secured: "3SPFVhbaoUVPEYYmbnWWbyhUz31wamVK7j4iqZBdkrns4W+KYP6nmatRPZAGS4m2kG2/Ane8X09K4evVKDOG8NpwOz2C18CPXtbpZzRQmOPhI1eRDnrmx9xA4oSiomEVtnGOVBcK/+5FnzJJXvHUJoATbfWm4OdWQ0OdDHhaf9wqnHBxSN2UXHJpfMM+qQqSRt/tsPx+Ux/erh69H19gfnKflusnD5QDLbW90wgH4Y8E/hoblMJjucah4851+rHiCV9Zp1LKnd8WxxMnj93LTiD/a4OxqDfk0TwBMvoVG3RVnPIrTjjfspHK8Q037k9WxTAep8sPYrRPppfIp9pL5TABwDieF5Gp0pYGvVF2oRw=;UmLluECiVjAnIoaUqOYSag=="
+secured: "3XDmqJKsIphVEBnXt9r3S79IecITgStixUYjtSnAdeoXICkKGFU2U/N36SXL4T+i4YeyRhdYe2qpCdLES9h/SF9dXdRBk/8fk7r1/bnaA3QMzRsxGlv6CZps+i3QYgYhw3QhGjB2PnQcAxuEj8n+zV3uUir4WpRs+EFm64Z3+YiPa2ahGPL5q0EsGpVFYKcdHTIxN0q8JRFSKIT34Jmp5Vg5SsVVz1NM/zA0Zq1nZ7eTZzXJQZjgBVFsmPAWADz19C2cteOrVcpBAtP5DDEY7nMVMjy4KWoFeb2IAPUAJ/ATCh8LNKnL5TqBBcxOgwz0ex5gkzyZtJ1tn7OSTjsF4KNHx0aUPR4NuXVTKEd73GI5CeqssEe3WghDNq1LiZLaAmlEUVfbSb/jab7hsbdQLoUaC8q+YXe0Z6sX4XUGdZh66jBbAOII4K1gTBRhRIJ+6eK/9J11q8W9qRV68FajKppswmSbJJdvkyQuVGcbTu/jN1i4OhfNLWRlP0Jw6h3RtSP+QReB8TO7x8I/A6JxJA==;YQBYPnLAtAV5gkU+TDj1xw=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The Chatbots Pick Up on Your Feelings"
-excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
+excerpt: "Interest in artificial intelligence (AI) has exploded recently ... This quantification of language is key to advancing scientific understanding of psychological therapy, support, and mental health symptom assessment. Psychological descriptions of emotion ..."
 publishedDateTime: 2023-08-02T14:20:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
-webUrl: "https://www.psychologytoday.com/za/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
+webUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings?amp"
 type: article
 quality: 44
 heat: -1
@@ -254,6 +254,6 @@ related:
       domain: ibtimes.co.uk
     quality: 19
 
-secured: "DBfcSelKJi7thZezM3pv1r96YECQMi1u9lCNU0MKkHO5IHHlgG+yE4KPsXsKeDf7/lTwP9MV4TzHJ8hafiMYGK86ZB0jjxwEmOEtf4D0U2l8/W6EPlGnT9ot01T+O5oQ7dwsm4lBvitjKPp3pJryIwBjyH9DRz5tsapzE9Vw+clgz8cvjqr0P8U9XyZtM8PgYlugtnHDWKKjjdGv/ELGqg8MiJggNijcR5ygjIWFJwIYi9Fhh/EDXQD/pKBOQytehYFcV1ivb18J367WIS2YqrYsfbBRbBO0yPkFHdzjZ4i1ZoVEgCWlBU6iguA4c6Tek4ASHPZKKU+Htz0pFkdLV/NXIoLe8V5mZ3Pp7aUovDs=;k569fvMfotQD18ZUVCOELA=="
+secured: "Jqxw3+2YzAGIiOUM3SYPdEMLmQIJBc09DilVy7kkbHEaTpL2kRhuPFmCuz+VPRPDRtpmgL/2nUb5CzAjlLGJVQa+aofI298Mbn5lt907/etOPhL0obsvNnycBS6E3e8ZoJ+hlYZoi8rmGgss4/qKt9dgFtKHCVdRfVdW6WdwJPKkNjBaORPPTkmHNDaMhlU7rFuP/x5my7PDjx+TAKJCsF4lmhBJj6SO8YpPtAWkPwjcQ27FwPTc4sLPOFpzQvdMLE2pWbwB0oTheUjkhU1Bd3SLexVHsDB2YSq7hBLj0JFVrLeeXS0SQg6JyDj7XuFJQGT3GmsauZRi4tLt5i/2EtagQEQFfsTvhHHcuKCpe3Q=;pR11JlKF8fiylRpt/z7n9A=="
 ---
 

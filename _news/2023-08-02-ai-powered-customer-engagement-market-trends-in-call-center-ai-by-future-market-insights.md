@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Claims Big Uptake In ‘AI Engagements’ As Server, PC Chip Slowdown Persists"
-    excerpt: "AMD said AI engagements with customers have grown 'significantly' against a continued slowdown in sales for its server and PC chips in the second quarter."
-    publishedDateTime: 2023-08-01T23:14:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/amd-claims-big-uptake-in-ai-engagements-as-server-pc-chip-slowdown-persists"
+  - title: "Entertainment industry on high alert as AI power grows"
+    excerpt: "As Artificial intelligence (AI) advances, the entertainment industry faces new risks, generating fears and uncertainties for practitioners and potentially"
+    publishedDateTime: 2023-08-04T02:30:00Z
+    webUrl: "https://businessday.ng/arts-and-life/article/entertainment-industry-on-high-alert-as-ai-power-grows/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 50
+      name: businessday
+      domain: businessday.ng
+    quality: 37
     images:
-      - url: "https://www.crn.com/resources/0284-18a27b110caf-0639bbb6969e-1000/lisa-su-amd.jpeg"
-        width: 610
-        height: 458
+      - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/04/Nigerian-musicians.jpg?fit=700%2C400&ssl=1"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "Mi/v6Eaovio9nDo0uiAaoxlmwTDEStZcT+MZBl+KHUqBJHtdcdYaTIkUwF8BHFWvikZGkeTNd+IsS8nBfXt1TYgffxrYaK6wHhsZzfGgincMeuckyMHCiJCJ/HDIL81tz2iAJXiblPXimsIUB6HI8eS+9SB6USZ//sn7hFKUWSVjl4UGvtUUm74+eaCXgo2UbXg4l2eub/L6Jg5OeTFM5y8YCHhKA5mniFMMC6D9GYW2ke33/72gZC/XK+4ENsN/RTqBzYKvWFPNS7IX5b10VjsxzkrZiX3ju4NAyytwL7LXpIegTklbybKhzVgrYSQVxAc6uRIN3czJLXswLZZvhK0QWvzqEEoukOkol3NaThE=;ezaOvxqpVbO6i1GPPbMrZg=="

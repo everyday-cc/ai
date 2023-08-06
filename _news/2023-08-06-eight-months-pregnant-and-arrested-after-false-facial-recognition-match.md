@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-f
 webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The New York Times
@@ -27,6 +27,17 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
+    excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
+    publishedDateTime: 2023-08-06T16:52:00Z
+    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2023/08/06/woman-files-lawsuit-claims-faulty-dpd-facial-recognition-hit-prompted-her-false-arrest/70523848007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 25
 
 secured: "AgxxkPGzBVJYHuF6ApxNJj9f2k/2Dxr0Im6rLoMmrWztNLlcCtPg+oJrxxR1aHQ16JsTeVJq5YegfSN+LroLuSh9UP+lxDis2tRndDuJpAeiQ5ksXdjqdZ1wKa7jg+nHbBOHHJ3xTjVyx4HaVTxm1jvT2DSLBCcJ3pnd4rl6Oe7PJJIX+ySjW1hdNwCEARM888kDMfPLUpndssAin7ocQGHQZj39le8OhUOs839h3ndeVlSrcRNcpcXBUfAMdbdVjXRbA6lwF5aLOChGvU3gs4oylQD8iyehyevo0uAw5qn7r1H8/MhqfbKuC9koxwVH+W0abIDepGpiNAmPZTgBBbwFAvq8iCK3yEwdAPf2j5qUjE5k2/8Su6M/iSqU/KvYNZA0tv5hXYSXWcAzmq+xYJgAEsN2nLaCp6oUKw66HeigyXuzj3cCDqMORBRdzGyu/Yv1f2vacbRaTeE0m2CL2g2KYvqjLk9fZwSMIPSF5oWUxZMDFce1kLGCEQiY18Wy/I0mfildSQx8QuQvWwOcDg==;EFk3IvDmamV54Ljr7S87kw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-found
 webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -28,38 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
-    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
-    publishedDateTime: 2023-08-02T19:47:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
+  - title: "5 Critical Steps IT Leaders Must Take To Govern Generative AI"
+    excerpt: "Generative AI adoption is only exacerbating governance challenges inside organizations. Here’s how IT leaders can exercise safe and responsible adoption."
+    publishedDateTime: 2023-08-03T20:35:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 34
-  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
-    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
-    publishedDateTime: 2023-08-03T09:35:00Z
-    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cbf57aad78267fea960ea8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 900
+        height: 836
         isCached: true
-  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
-    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
-    publishedDateTime: 2023-08-05T13:00:00Z
-    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "dRcCjeBq94AX2mOFSVRHUNI6nhmycF+pEcugEC9I5Scs61gW5u+o1QUnG0CfF+zbJyxseKOu9wYNCTHVe1CxGwK/qp146JGq4n81neVPM7lfdevI653g0UbE05hjPne13B6F2Idg22nMJZ5mKawyCgWxJ/R9Sj1N3BqmAlrqjfLZu1s0gJDmrer0ulzYhLxwQkv2E4/qE+3CP1OWSHyQJeedCR9Ef394wubcAoFL/TsCiL1hvIt4Al9XziDm8FgtRmmS2fJtYBf/19hogrzINO3tpYT45Q3bpF70shXzq+IhgrITYzJ8K5DpdDKHf6eRvRKpwGLKTT0ITGjs3AoDppggiFYh5wyOiv2iIzDW5TI=;PwSMRfGFI3AxUSTD4+mEhQ=="
 ---

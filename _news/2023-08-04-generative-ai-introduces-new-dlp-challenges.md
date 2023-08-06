@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
+    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Gravitational Wave Astronomy in Artificial Intelligence Era: Opportunities, Challenges and Future"
     excerpt: "The groundbreaking detection of gravitational wave event GW150914 has ushered in a transformative era for multi-messenger astronomy. As the sensitivity of ground-based observatories like LIGO-Virgo-KAGRA is enhanced,"
     publishedDateTime: 2023-08-03T07:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-colle
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Files Trademark Application for GPT-5"
-    excerpt: "natural language processing, generation, understanding, and analysis. The application also includes software for machine-learning-based language and speech processing, translation of text or speech from one language to another, sharing datasets for machine ..."
-    publishedDateTime: 2023-08-01T23:38:00Z
-    webUrl: "https://www.searchenginejournal.com/openai-files-trademark-application-gpt-5/493040/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/openai-opco-llc-files-trademark-application-for-gpt-5-64c9936f68974-sej.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "3 ways AI can save small businesses time, stress"
     excerpt: "Generative AI is creating an extraordinary amount of buzz, and it's catching the interest of people wondering how to take advantage of what it has to offer. If you're a"
     publishedDateTime: 2023-08-03T15:29:00Z

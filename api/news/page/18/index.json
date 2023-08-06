@@ -2,6 +2,154 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-07-24-the-markets-fomo-driven-rally-is-unsustainable-and-most-ai-stocks-are-still-bottoming-cio-says.md",
+      "title": "The market's FOMO-driven rally is unsustainable and most AI stocks are still bottoming, CIO says",
+      "excerpt": "\"We tell investors who have a case of FOMO that only a small part of the train has left the station, as most stocks are still bottoming.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64be8ed4bea34400195fe3bc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "publishedDateTime": "2023-07-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 381,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-24T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ai-driven-personalisation-a-new-era-in-ghanaian-banking-services.md",
+      "title": "AI-driven personalisation : A new era in Ghanaian banking services",
+      "excerpt": "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients. Creditably,",
+      "sourceUrl": null,
+      "webUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
+      "originalUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thebftonline.com/wp-content/uploads/2023/07/By-Nana-Kofi-BOBBIE-SARFO.jpg?fit=1100%2C1540&ssl=1",
+          "width": 1100,
+          "height": 1540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp",
+      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp",
+      "publishedDateTime": "2023-07-24T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business",
+        "domain": "thebftonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility.md",
       "title": "AI-Driven Innovations Unveiled: Bolstering Security, Customer Experience, And Visibility",
       "excerpt": "Splunk's makes AI pivot, enhancing security & productivity. New offerings include automated threat analysis & observability advancements, solidifying its leadership.",
@@ -1066,160 +1214,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-how-ai-will-impact-the-developer-experience.md",
-      "title": "How AI will impact the developer experience",
-      "excerpt": "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
-      "originalUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
-      "publishedDateTime": "2023-07-24T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity.md",
-      "title": "Utopia Or Dystopia? It’s Up To Us To Teach AI To Reflect The Best Of Humanity",
-      "excerpt": "Sairah Ashman explores what can brands do now to help mould a more utopian relationship with technology in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6621bee8922112c6a0e95/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
-      "publishedDateTime": "2023-07-24T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-heart-scan-aims-to-catch-blockages-years-before-symptoms-unbelievable-breakthrough.md",
-      "title": "AI heart scan aims to catch blockages years before symptoms: ‘Unbelievable breakthrough’",
-      "excerpt": "Fountain Life offers an AI coronary artery scan that purports to detect heart attack risk 3, 5 or even 10 years before symptoms begin. The CEO explains the company's goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough",
-      "originalUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1270b920-6004-489e-9357-34043ffe143e/fa9a71ee-1096-41d7-8ee5-3128e8437f89/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
-      "publishedDateTime": "2023-07-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

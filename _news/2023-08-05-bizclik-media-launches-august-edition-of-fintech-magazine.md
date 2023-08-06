@@ -116,15 +116,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 4
-  - title: "Singapore fintech funding dives 41% to 3-year low, but expected to start recovering next year"
-    excerpt: "SINGAPORE fintech funding sank to a three-year low in the first half of 2023 as rising interest rates and economic headwinds continued to dent investor sentiment, but experts believe a recovery is on the horizon."
-    publishedDateTime: 2023-08-02T00:24:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/singapore-fintech-funding-dives-41-3-year-low-expected-start-recovering-next"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 0
   - title: "Financial Inclusion Focused Leading Indonesian Fintech JULO Launches 5-Minutes Instant Credit Facility - JULO Turbo"
     excerpt: "JULO is a leading fintech company that is revolutionizing access to ?nancial products for millions of emerging consumers in Indonesia. The company is one of the first to develop a digital data-driven credit underwriting and risk assessment platform to process consumer credit applications and determine their creditworthiness using its mobile app."
     publishedDateTime: 2023-08-03T00:00:00Z

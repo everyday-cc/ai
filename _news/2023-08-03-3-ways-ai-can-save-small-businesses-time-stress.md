@@ -40,20 +40,6 @@ related:
         width: 640
         height: 395
         isCached: true
-  - title: "OpenAI Files Trademark Application for GPT-5"
-    excerpt: "natural language processing, generation, understanding, and analysis. The application also includes software for machine-learning-based language and speech processing, translation of text or speech from one language to another, sharing datasets for machine ..."
-    publishedDateTime: 2023-08-01T23:38:00Z
-    webUrl: "https://www.searchenginejournal.com/openai-files-trademark-application-gpt-5/493040/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/openai-opco-llc-files-trademark-application-for-gpt-5-64c9936f68974-sej.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "P13nT0nioxg3qXovDRJuQ5sB/EvMAUJ/x6xHxVx7vCSCM7oieaiL6bDm7Fe42F9j2Wo56vHWYwqkqUSnEzSzSwTROfEcCRa/aj93pbEkCnkxrHwzQ2DkDH3JoSyCtanXXlxpw/e/t1yAp+AEFBd2tSueivzDFMZr4QzcTnX//8qL5YV0wDtJsBMy2v0llL3jsAM5zsZmDtNDwxTxXRYPml6f7h5FWT4jL2MjJnedfP1sRLBL9DF7vfuQieN9285tQ2MQB9iQnL3+GhUVmHeotEsfg3AmA+AhKwVShckwxBypIJDUVgkjP964rLl6pYwoG0wDVsaG5JGmZLU6Tuud1UxNc2PRKzmUu0n56UZNZ4E=;X0R9wTkeEa82J9wlCGVvIg=="
 ---

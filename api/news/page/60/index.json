@@ -2,6 +2,145 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-06-28-will-the-us-governments-latest-cyber-policy-actually-improve-us-security.md",
+      "title": "Will The U.S. Government’s Latest Cyber Policy Actually Improve U.S. Security?",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into EO 13984, which risks creating new problems for IaaS vendors without actually improving cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b18aa9dbdc4ceaf3c85e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 720,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
+      "publishedDateTime": "2023-06-27T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-primer-and-carahsoft-partner-to-provide-ai-and-natural-language-processing-applications-to-the-public-sector.md",
+      "title": "Primer and Carahsoft Partner to Provide AI and Natural Language Processing Applications to the Public Sector",
+      "excerpt": "Primer, The Trusted AI Partner for Government Agencies, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider ®, today announced a partnership. Under the agreement, Carahsoft will serve as Primer’s Master Government Aggregator ®,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-primer-carahsoft-partner-provide-ai-natural-language-processing-/2023/06/27/9840066.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-primer-carahsoft-partner-provide-ai-natural-language-processing-/2023/06/27/9840066.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-will-ibms-ai-investments-actually-pay-off.md",
+      "title": "Will IBM's AI Investments Actually Pay Off?",
+      "excerpt": "Chief Commercial Officer Rob Thomas outlined how far IBM's Watson systems have come in the last three years: We've been investing [in the WatsonX generative AI platform] for 3 years. And if you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/27/will-ibms-ai-investments-actually-pay-off/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/27/will-ibms-ai-investments-actually-pay-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/737699/robot-with-laptop-counting-coins-by-a-window-with-skyscraper-view.jpg",
+          "width": 2256,
+          "height": 1329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-deepmind-ceo-says-that-googles-next-ai-system-called-gemini-will-outshine-chatgpt.md",
       "title": "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT",
       "excerpt": "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research",
@@ -1029,125 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-quralis-and-unlearn-announce-collaboration-to-accelerate-and-optimize-als-clinical-trials-with-generative-artificial-intelligence-technologies.md",
-      "title": "QurAlis and Unlearn Announce Collaboration to Accelerate and Optimize ALS Clinical Trials With Generative Artificial Intelligence Technologies",
-      "excerpt": "Collaboration will leverage Unlearn's AI-powered digital twins in QurAlis' clinical trials for their leading ALS therapies CAMBRIDGE, Mass. and SAN FRANCISCO,  /PRNewswire/ -- QurAlis Corporation, a clinical-stage biotechnology company developing breakthrough precision medicines for amyotrophic lateral sclerosis (ALS) and other neurodegenerative diseases with genetically validated targets,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/27/9839450.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/27/9839450.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-auddia-announces-breakthrough-in-ai-and-natural-language-processing-technology-for-podcasts.md",
-      "title": "Auddia Announces Breakthrough in AI and Natural Language Processing Technology for Podcasts",
-      "excerpt": "Auddia Engineers Have Successfully Combined Natural Language Processing and the Company’s AI Audio-classification Algorithm to Create a New AI Model. The New Model can be Applie",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/27/9839435.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/27/9839435.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-driven-consumer-experience-how-not-to-cross-the-line.md",
-      "title": "AI-Driven Consumer Experience: How Not To Cross The Line",
-      "excerpt": "Although AI-powered solutions often come with the promise of accelerating company processes, the power of these tools may be overestimated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/",
-      "publishedDateTime": "2023-06-27T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

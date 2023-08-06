@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/international-busine
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_427135554_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "AMD makes ‘strong progress’ on AI chips and its stock rises"
-    excerpt: "Wall Street’s estimates, but its stock rose after the company beat expectations and made optimistic sounds about its artificial intelligence portfolio. The company reported second-quarter earnings before certain costs such as stock compensation of 58 cents per share,"
-    publishedDateTime: 2023-08-02T00:42:00Z
-    webUrl: "https://siliconangle.com/2023/08/01/amd-makes-strong-progress-ai-chips-stock-rises/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
         isCached: true
 
 secured: "Bs8a6bjkcbaLbZcWX4ENgkvg++pgrdkyeRqWwfFUS3Q5g/a8x+AHMGXR3MjfpQpf69M2bkJaBoa1OrNO40CK1GLgAWFeqTuoQVdy9GiNHskMi69TK4F9QPlMFchRGZNAIRw+sdSMNiPtDB8SiS3TiepXYixtBqURARcu4JX3md0QjhUQDT3vHuDUYf/yuzSgm9yXxfBj4uer5VNjvfrncMml5wOpVMcHkdJ2PxSjXh5Ckyb+piriPVExX77jzs48HwMg81JB1NP+6RgT+BtvueCT/ikaIP2My4+g+40zscZYbINsnJfKLHU/jd62Fw0gNzdeWwEW7MhXbp5iDaL/279eUfE7wNHeigqTkRUpNZdG93039WgFDiv85eR9B0r9i1dBWZP7yPyvtdL+O054LlqP/trdWOIpWDaPrpF6ybNqzzSPSf/XTUSxpFD6Y8ZCl5utlOsa3njirOQxiVSNWUdL1WU7Mithl0of5HPnyJaXntWpAnvjbnoADg2JsZxzKn9AKG9xUHrNHKA6ciwS+Q==;rklEmLjmXXxkQLfjsRx/8g=="

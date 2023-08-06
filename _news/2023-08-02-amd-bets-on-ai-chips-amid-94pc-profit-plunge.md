@@ -50,20 +50,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 64
-  - title: "AMD makes ‘strong progress’ on AI chips and its stock rises"
-    excerpt: "Wall Street’s estimates, but its stock rose after the company beat expectations and made optimistic sounds about its artificial intelligence portfolio. The company reported second-quarter earnings before certain costs such as stock compensation of 58 cents per share,"
-    publishedDateTime: 2023-08-02T00:42:00Z
-    webUrl: "https://siliconangle.com/2023/08/01/amd-makes-strong-progress-ai-chips-stock-rises/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
-        isCached: true
 
 secured: "OVhhZB+UDmNHDWZxdL3keJ5UVSoOzh4ZndnaJKAQHbE7e7kg6ANPvT6PpTiiE2fvoyEixJpxoIhKmfKng5djMMhJUizOUXAKfoZtu5rUM3XqgOCKjJ9M+GcREZKRL5rNidu5JMg3jIQCSBL0B3WO6LTb3DAOIPymaxQ4185HdeQhQlgw8oPFRNtN/3kd6Wkj8sPkJ12+UC/bkYxSC5EAqy79UdoSk8nHli262YrbuRY+okgZbmBP9904lIpZsmpOpM/YqhnegQXpDoP/5XD79O/yyHQ1bkTWCr01+XfHiIdHGY2VpfUMNgi7B5kuD6cljHg7crHVomTIK5X/O2kqFr5Usr0yghzA3ihwjhljV8g=;vx+gj0VM6QtHEJzxg5Clvw=="
 ---

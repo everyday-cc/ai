@@ -53,20 +53,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AMD makes ‘strong progress’ on AI chips and its stock rises"
-    excerpt: "Wall Street’s estimates, but its stock rose after the company beat expectations and made optimistic sounds about its artificial intelligence portfolio. The company reported second-quarter earnings before certain costs such as stock compensation of 58 cents per share,"
-    publishedDateTime: 2023-08-02T00:42:00Z
-    webUrl: "https://siliconangle.com/2023/08/01/amd-makes-strong-progress-ai-chips-stock-rises/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
-        isCached: true
 
 secured: "8xkvxV038OLUwXv9rMNB+2yuFCmwemZRYDSbNeFVkOBkWc1OlugIiDErCj+ydfYFPL2dxSW3ImhEeM5tFDxZR00O9/QARE/Bi27IDGX64nWny8kcc1rAXljDjoOZ10A95v0wq+a4HDfwBfPtprMhn0pJHi4hUZ/Y8xi/3RB0teoMUTRqU1I01p5pC0gRqvD7wH6jwdxZg7cSgaMBL9r2qTWFi7mCEjaMDp+ChRYKI8JpmdWoqhN3milcXPyUmss5K3Po8ilqWRGDGpjbYLAatHQUGuj3PihkSPQ7Vjs6RUnsachGtvz5TPPY86sBWhQt0VREnYH7ag3MZKG1KAQlVNDeduvaCbmNodhq0U514ELlwoUdfw45jnYANZJWnH4bPqp6K/uHv3iMH4UxjjELr8i8RGTcToGQV9eQ0RjW6tlXOMjBqKNnLhG1haMW3BEToElsCbgS2LQGXmMmvaqIlAfd5ObhnSQCOVOUHjZZxOYhLaVgEwD8OXjYnv0K6xm1z5bC+sZ8tjBlDQ5pBv1z1w==;4e/71n7lxshzT4FC5GTUfQ=="
 ---

@@ -25,38 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways generative AI makes founders more interesting to journalists"
-    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
-    publishedDateTime: 2023-08-05T21:29:00Z
-    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
+  - title: "Generative AI Introduces New DLP Challenges"
+    excerpt: "Generative AI, such as OpenAI's ChatGPT, has been making headlines in the tech world recently. These AI models are trained"
+    publishedDateTime: 2023-08-04T11:46:00Z
+    webUrl: "https://www.techbooky.com/generative-ai-introduces-new-dlp-challenges/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
-        width: 1200
-        height: 750
+      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/08/generative-ai.webp?fit=1000%2C563&ssl=1"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
-    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
-    publishedDateTime: 2023-08-02T19:47:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
+  - title: "Gravitational Wave Astronomy in Artificial Intelligence Era: Opportunities, Challenges and Future"
+    excerpt: "The groundbreaking detection of gravitational wave event GW150914 has ushered in a transformative era for multi-messenger astronomy. As the sensitivity of ground-based observatories like LIGO-Virgo-KAGRA is enhanced,"
+    publishedDateTime: 2023-08-03T07:13:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/59097/gravitational-wave-astronomy-in-artificial-intelligence-era-opportunities-challenges-and-future"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 34
-  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
-    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
-    publishedDateTime: 2023-08-05T13:00:00Z
-    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 4
 
 secured: "nETIlsZl2jnz8lA/jE7XbwsbSp12eYWfrgV0UhJwUKd2xXqoIOlVjvWQ4FBVDHks5a1htm7bZIr4BAAa/uYJdaWtZCr3IS98DMzIr5Zv2e8H+ouJLcdL2ApCkrMNrPtZfX+ciQ8oBopHPyZx1f6GlS/00QGMtmyMOYxBIoDZ/t8JQPDQsB3X2311OMvoYImyT7asjDXlLxfwDCJVk6w/79HYA9BBvXNKPab5HR4685owFjXuWLKmw5yQtT2PRvLLHJjlPZSx5XpECPke9Y8YOavoiZ9M1A7pS4ND2ilQfCUR4aYgKQ0ZM0NFKbHMeaD6wUM8XDWKohmWAehCsvmgXU+n74LHILB4afffIuWLpjY=;RHr2/2QzqBy+zfpFPz8mCw=="
 ---

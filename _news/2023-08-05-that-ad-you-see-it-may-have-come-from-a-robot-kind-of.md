@@ -1,10 +1,10 @@
 ---
 category: news
 title: "That ad you see? It may have come from a robot, kind of."
-excerpt: "Ever wonder where a business logo, catchphrase or ad copy comes from?  These days, it may start with a web-based artificial intelligence machine like ChatGPT or DALLE E.  Ever since ChatGPT burst onto the scene last November,"
+excerpt: "The ad business may evoke images of “Mad Men,” the hit show depicting boozy, smoke-filled brainstorming sessions between admen and clients looking to sell their products in the 1960s. Today’s admen — and women — probably substitute Red Bull and artisanal coffee for the booze and cigarettes. And there’s still plenty of brainstorming."
 publishedDateTime: 2023-08-05T14:01:00Z
-originalUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php?IPID=Times-Union-HP-business-package"
-webUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php?IPID=Times-Union-HP-business-package"
+originalUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
+webUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "154fFeBDGGgYAE5kfbJKz/gsbosH38T/aZ/cWwfFW06UR4XA+La97aQZYzjqyxiATTgcthT8e49QhMJez+f6RoJM5gF1SFfN4LoOj+sgmHXAlKgYL2I2oeUn3EW2VRZz8ECEe5dVNsxiTnLxrBWckkUgKLOn7HfDxskaT0dc+gE1A/Ham4JasnQX4IvVqnkrpRr1l1uhDOqukGM0zYG2NRRX+1jG6q9biIhbFiuCCfGSuADxXdH78x9/27iAAd+lMc3AthUJ5T996x37T2u19u5AjmB1T9dkOeazV6AbcCwzI86kH4/+lB/bDQMHeNH2OBn1Om6RE4/Cvtqe/k8gs61wwcwShmDo31kHStcOhBk=;hhaeWT/MDoSU/P3NOyMxHg=="
+secured: "HdSaSAIBuefWeZKIpZ7GeyOUIUSWrNykEIIahtLnbU6j+6CqLSq8hSy7Jy59lNaJs4XdbCoDN93+3RojGoBl1HerR7S38BRTdN6ehAlxjIL5zMcwxW3YrikXjYBchxD6GVz1W74Ay0flswMWrZJqpIlsS/gkaF1z/onjQVSeHwyiLSO4TCrMIqhvPLmUlRGV+T6aEJc6nmIYQ0u4mGPZGCCvDHCCYST/8n0wlHzlkVK7Z7waRIy8COYq9a6uEuIoB3b8vqCc+mGkMfMYKXYZyCJaVfniDVLVwxTlA8GF9e+52yiaaQGATdfZqx4DCytAYEnsbujEzt3IR2B6q2t/IQELnCP5orJBoI6xtBibdQo=;MpuIaSTTofKN7quFdKaGsg=="
 ---
 
