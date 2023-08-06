@@ -134,15 +134,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GM’s Cruise Bringing Self-Driving Robotaxis to Nashville"
-    excerpt: "Cruise CEO Kyle Vogt said the company will expand its robotaxi service to Nashville, TN. The launch of the driverless service in the city is part of the GM subsidiary’s efforts to accelerate its commercial operations."
-    publishedDateTime: 2023-08-01T18:31:00Z
-    webUrl: "https://www.autobodynews.com/gm-s-cruise-bringing-self-driving-robotaxis-to-nashville.html"
-    type: article
-    provider:
-      name: autobodynews
-      domain: autobodynews.com
-    quality: 4
 
 secured: "7Q7yJwsX1A/4rinLB+UWcCo6wg7q8KTx0XGqLVUUdn+lDkNzlhPFb0x0I99PWp+Ro1iOH8ycXzFBL6DmVntdAiLrDkMkW8j5zYqJQSArxqIm1kKYofbQfqzwUJPLKx8m7atlzH/L2Q2mA1X1gQbmQ+2eUsuvZA/4oyoINOaWZSi0kpUqdNn5hPBfM2g4VkB7WDvS5lAO1U1mqpl2DWYAmmjUkHp4FPADfK25X7t7B7fdh6I8CCkPH0n9WAZFtIZJU1PWmsKZZIfNBcofL0FDbuA5LOxZEaI5zd2U98DDUlWP5rdcx5ptH7R5zDJP+C5fecRw7zOMRp8Eh4NuahKLhSeMjnHOMeVtnRC9kH8XRLJfzQdtR0nl4XCP5gqDfa32ttEE4ck6jDBMAEPeisqO8OENDjfEpUfKejCHUhlJEbtQgGxbCapcMOviHx05yo5UGnms8CfFcs5tRymLvUppOfkvfw5GbQkz3NqspkOVMIV4yUANOEM6ZtmC+UA6txrGMxY4IiH6s5dnsU64QZXJUw==;d2/HhbM1Rq1K6tTP42P1Wg=="
 ---

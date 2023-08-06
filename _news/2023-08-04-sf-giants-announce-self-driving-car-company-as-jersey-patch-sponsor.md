@@ -126,15 +126,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GM’s Cruise Bringing Self-Driving Robotaxis to Nashville"
-    excerpt: "Cruise CEO Kyle Vogt said the company will expand its robotaxi service to Nashville, TN. The launch of the driverless service in the city is part of the GM subsidiary’s efforts to accelerate its commercial operations."
-    publishedDateTime: 2023-08-01T18:31:00Z
-    webUrl: "https://www.autobodynews.com/gm-s-cruise-bringing-self-driving-robotaxis-to-nashville.html"
-    type: article
-    provider:
-      name: autobodynews
-      domain: autobodynews.com
-    quality: 4
   - title: "Congress urged to help get more self-driving vehicles on US roads"
     excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
     publishedDateTime: 2023-08-06T09:19:00Z
@@ -145,6 +136,6 @@ related:
       domain: tennessean.com
     quality: 4
 
-secured: "TeA0j0hSuOytmTBkoRQ26bTw3CEXCY0MqjxhKwXJ/eIVIPPn+dG/ezByXbcKj5azA0Y28ZTMi7XZ3Z3M+AWVQf/dm/WwwsD/DW+2nRXfDtiObJ3vHcOpsQYRVvfh78ppUnauwIambzRrUDhoCvV6bmRHdNPh/nzFqSfz7rjeUtPiugoIwjgOy0zhBzacMx6skLeLlz4yBGfgpvW3hs9xsCKwv1f7ZI/RaN0+UhJQRzlhXRSwsvKFcQ5ytYb9C1t4k9mCjoRq/lEaN2o60nWtbWR6+vLr0dtbICktc4svyyq+PKXGoe+PUQN6NttQqgZNNHfQ/nn+VbQSDVvXmR6V3TJjF7zg3c6Fcv/abTiCUHA=;nTcO+s8LJjpRefBAbBAoUg=="
+secured: "T4F9WUqxcCU3U7FAYpyzsbi4xhJbo7X9qWpFnDJwQ0vvnSUnWl5ponK3CuPt6bbwJmA0iUGhGgW0xbvHst5dCgoaUIxxEcBbKS09EOSweHVpDchAzRrhzCLAzxSxvI3/UsmzaSbLv2cNNsaInXtXZvQ9j1hyY2LZfcaLNMnUvSq/m8PkM9qG+0Wmro5bPSrixxNjOUfgNZrrqmZfIisGxL5K7OqIOh8reW08UYuVJwyUZumkVZ+32eodeEfgVrJE72IaJXObvHBkv9VlRh1wyOnPxcK04zten/0YXbkSiNtRFwKh+doY1ltVQkY5Vmo79NM1rl6ejQcT0LQdVgRk8FDYvfs6/1zrsGmfuMbmH/g/F2WC3MM9LFVwUX7h+mUnEPCSkmIH5zMgl4OyBVaYvPfK2ycG6E9f+bG9JvgXJf2rz/iznjbK9hRY5WTdv+ntydBkjDUkM3aFRjjm3XgquOkukAkR+Uml1NiDtmeZJAxXmKFeWHxD+dpYr3giKVOD2KXJFUVCMtN9dRr56bUjtw==;k5LtxVe9rAfIQEvL9z4eMw=="
 ---
 

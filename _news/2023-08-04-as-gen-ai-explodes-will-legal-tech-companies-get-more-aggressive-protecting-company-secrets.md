@@ -141,20 +141,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Icertis Brings Generative AI to Enterprise Contracting with Delivery of First Contract Intelligence Copilots"
-    excerpt: "PRNewswire Bellevue Washington [US] August 1 Icertishas deliveredIcertis Contract Intelligence ICI Copilots the first generative AI applications for enterprise contract management Built on IcertisExpl"
-    publishedDateTime: 2023-08-01T17:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273917243/icertis-brings-generative-ai-to-enterprise-contracting-with-delivery-of-first-contract-intelligence-copilots"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 20
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ZDdhZTFiZDEtZWY.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
     excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
     publishedDateTime: 2023-08-03T15:27:00Z

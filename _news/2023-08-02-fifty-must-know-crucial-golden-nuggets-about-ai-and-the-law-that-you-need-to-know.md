@@ -87,15 +87,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Everyday AI: How artificial intelligence is shaping sports"
-    excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
-    publishedDateTime: 2023-08-01T17:47:00Z
-    webUrl: "https://techxplore.com/news/2023-08-everyday-ai-artificial-intelligence-sports.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 32
 
 secured: "QAmkwG7yxDOWI2AFp/gyzqQdKWD2PnaoxX6FAKGBrKJy39mhzdwlZoJQn2r0medSA2X0rq/aszN/Ud62wSqtynJtHHnEfI5yYLjMx8w24QwBcOF8Nb/6bRguUz0qsTB6r4GQri5wENhTz1G/crkQJD5yc9h0smK1IM/eYQiGonNE/p2HKCSnllKBhdwMlzYVeu0KGP9Ht6KpbJjeO20DmLN/H4w4/oI59TCrXFyQr6bvSc3wei0KrfipussGy0fa5yYESTaN5xZf3vSNL5zy9yyQdcwYm5XrjSUDcELhPnFscTrl9qEfKrZuOOShFcvz6v6ZUBwPH3hTd3Ap+9oFD/a0oKAQQLWINaNcZAAUl/dPl9dqgcfg0KZnDKbE7JDvX0GPCHC24US5qAIt8CGbTwqUXF7z8A8nicJxmKltueHMVgNbt9ObT2vkQ/fd+/eWf/2/L83tCriwAyJE0nEuEMwLU1pEQ3B6t5Oji42ewxdCKripKDvkHs9SNdw858Sp1sDAjKJAnohLe883R3lGXQ==;csMh4u+oQSYfZELeCALSEQ=="
 ---

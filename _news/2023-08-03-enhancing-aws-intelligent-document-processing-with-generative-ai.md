@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intell
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-Smart-Manufacturing-And-Hit-470991649.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Icertis Brings Generative AI to Enterprise Contracting with Delivery of First Contract Intelligence Copilots"
-    excerpt: "PRNewswire Bellevue Washington [US] August 1 Icertishas deliveredIcertis Contract Intelligence ICI Copilots the first generative AI applications for enterprise contract management Built on IcertisExpl"
-    publishedDateTime: 2023-08-01T17:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273917243/icertis-brings-generative-ai-to-enterprise-contracting-with-delivery-of-first-contract-intelligence-copilots"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 20
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ZDdhZTFiZDEtZWY.jpg"
-        width: 630
-        height: 473
         isCached: true
   - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
     excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."

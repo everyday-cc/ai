@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Bryan Cranston slams artificial intelligence during SAG-AFTRA rally: 'We ask you to hear us'"
-excerpt: "The \"Asteroid City\" star criticized the use of artificial intelligence in the film and television industries during an appearance at the SAG-AFTRA \"Rock the City For a Fair Contract\" rally in Times Square, New York, on Tuesday amid the ongoing Hollywood ..."
-publishedDateTime: 2023-08-06T09:15:00Z
-originalUrl: "https://www.dispatch.com/story/entertainment/celebrities/2023/07/25/bryan-cranston-sag-aftra-rock-the-city-rally-speech/70464165007/"
-webUrl: "https://www.dispatch.com/story/entertainment/celebrities/2023/07/25/bryan-cranston-sag-aftra-rock-the-city-rally-speech/70464165007/"
+excerpt: "The \"Asteroid City\" star criticized the use of artificial intelligence in the film and television industries ... we tell you we will not be having our jobs taken away and given to robots. We will not have you take away our right to work and earn a decent ..."
+publishedDateTime: 2023-08-06T09:18:00Z
+originalUrl: "https://www.tennessean.com/story/entertainment/celebrities/2023/07/25/bryan-cranston-sag-aftra-rock-the-city-rally-speech/70464165007/"
+webUrl: "https://www.tennessean.com/story/entertainment/celebrities/2023/07/25/bryan-cranston-sag-aftra-rock-the-city-rally-speech/70464165007/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Columbus Dispatch
-  domain: dispatch.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 678
     isCached: true
 
-secured: "yhRwnWlMJ6fi5HhX967CrHJaDWj3pfAKVUVg0X+cVhinlrXcU91rj7vPq8YNz7ussC6W4C1ydVlhlfq1H8YpWPgQiv0DdXXrzUtBeZdfrpMXX6lOV+35DRcFADWjGZQ2r6AyDZ9RBc2uT2WOHL9t4BZG++B06PYiqaaXNLRlRubyyyVBOOpP+ADL/AqhxFjy+/o7U44aWk9Vwbtxk8m1gLPTOrfclPd23iAWO5AB4QXT0ER2zFGf/EqGZMHVsTCUAtJs/aRu9Quz7lwhv/TI7NVEuFFUY04ruXAzkKG0QkoaQjDMKzS3XwBj4wRrG64YIhr9oIFEQcQvYwaZQCb3HAyDPxZN/xrCoWqXyHSm0oY=;ctm/E88HMO5FFEecjtaIfQ=="
+secured: "IOPWKij3WCpGIsB92vRlRuq8lWQqZJmhdM+d2CUe9z/INys/RxqtawXNj22jFsbYdcJ0UyAVcoV/eYpWB7SOgKTqqsKgxtUSwBAMcO7a4RfDw894X9aTY6lMmh+MwEtU91tbRXjTL9w0SWGUvuME6ww+HlGLWA9l9Eh3DC3MVFoaFQ9Iv/GO1FRWUEZyxet/rCF0+M7Q82IZQZsciJBqWnirQWxWT2lpDtUWIUQZ2nxUZe8wUvUyXR6lqebMGtBdcIj8k48i8zImPEB+N96bwMXYeFQhG+PwzVcc5yeUxk0d9vZk5xolbe9gEOI5vpiZMi4cXDpcpurf1Xdrzbv1X/IPeJG+RwCizQXBcnO86Eo=;lMFxajzhMweUO8LMu/c5yQ=="
 ---
 

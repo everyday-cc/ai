@@ -1,20 +1,32 @@
 ---
 category: news
 title: "Microsoft earnings: What to expect as Azure, AI come into focus"
-excerpt: "no more than a modest [deceleration] in Azure growth with encouraging commentary for FY24, and quantification of AI tailwinds in FY24 and beyond,\" Raymond James analyst Andrew Marok wrote recently."
-publishedDateTime: 2023-07-25T12:55:00Z
-originalUrl: "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus"
-webUrl: "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus"
+excerpt: "As Microsoft gears up to report earnings in the present, it's becoming ever harder for Wall Street not to get swept up by the future."
+publishedDateTime: 2023-07-25T12:22:00Z
+originalUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
+webUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
+ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "/mG54lK66eMMXAgWHwpTwiD2UBpUJBpaq6PiaA5VX1jFUPC7JnHE6SauNirLF8h2uRSHg/23L1r/cyhGQ1mGC44cp0hvjDu6u07JuOLxwq7niKNfqOfIpvJJBOAQi76ooiX0eIsj/prgI+u69TU9lS2THwEafyXegQFkoAeICKHonZ9R3TnhNJ8LzXE6M6ktmahmTPr9XN8//I6jEC2CvRPGZKfIGbk9leK0fMlx4Iuof7St0AxThFQUJGq4LBvrGrRwEDjD69bEUeI7nG5ZqVN694d+sYoyc5aC7rlc3c4tFWu2J+/5pLvWAGsDunLtRX9C5QLI+kt/EPOqoiDdqeUHzHlG0onj/mJrfhWirew=;9y0/D+sm0do8Sb7NeYbNjw=="
+images:
+  - url: "https://images.mktw.net/im-823051/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "fbl6fQECifYhgNimBtph24rrbulhRJaqb7Zn9v7fCfksUjOidSQ3mc6JRpTjIjscU5MCvQWxiC6Buus0zJeOFtKbuvFttfahxG2qMXbsPOV1MEq7/CfIOhdQL2iu+he44td7gKho8YIF/WryZ0YvzXhsSMkJibhqs8E8lb3GAkBYpoClKXrNnl2cAWicYgZw2sor/IgA9twYCQYEkR9XeS3KOaQdkTDcmIj/0IZkMbFvJ6Cw/xuQLXpdzs8VF92/lNelwsB0Kj0+snOgPQdpbg4ENgjvrXsNOLY/UEDR941gtOQFh9Ih9m5/yRkywfpuScxnluZKRZS4iGPVGNBc20JoXJ4Mfv3v5NgGNSWep70=;vQCLeuypSpZ2NcNkWarL7w=="
 ---
 

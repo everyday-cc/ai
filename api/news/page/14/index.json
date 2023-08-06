@@ -2,6 +2,95 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-26-a-comprehensive-analysis-including-a-macro-overview-of-the-ai-in-fintech-market-with-a-forecasted-95-cagr-forecasted-from-2023-to-2030.md",
+      "title": "A comprehensive analysis including a macro overview of the AI in Fintech market with a forecasted 9.5% CAGR Forecasted from 2023 to 2030",
+      "excerpt": "The \"AI in Fintech Market\" report draws on various inferences to analyze the challenges within the industry. The final draught highlights the industry's typical problems as well as the businesses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33375252/a-comprehensive-analysis-including-a-macro-overview-of-the-ai-in-fintech-market-with-a-forecasted-9",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33375252/a-comprehensive-analysis-including-a-macro-overview-of-the-ai-in-fintech-market-with-a-forecasted-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33375252",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33375252",
+      "publishedDateTime": "2023-07-26T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
+      "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
+      "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "originalUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-this-bluetooth-controlled-robotic-arm-kit-helps-ease-you-into-the-world-of-robotics-and-is-now-over-90-off.md",
       "title": "This Bluetooth-controlled robotic arm kit helps ease you into the world of robotics and is now over $90 off",
       "excerpt": "Dive into emerging robotic technologies with a variety of hands-on tools. By Stack Commerce | Published Jul 26, 2023 9:00 AM EDT We may earn revenue from the products available on this page and ...",
@@ -1096,92 +1185,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-alphabet-cfo-ruth-porat-takes-on-new-role-overseeing-its-investments-and-new-initiatives.md",
-      "title": "Alphabet CFO Ruth Porat takes on new role overseeing its investments and new initiatives",
-      "excerpt": "Alphabet Inc. finance chief Ruth Porat is taking on a new role at the company, overseeing its investment strategy and various initiatives in its Other Bets portfolio, such as Nest, Verily, Waymo and X.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
-      "originalUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/RuthPorat2016.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028.md",
-      "title": "AI in Fintech Market Size, Trends, Demand, Growth and Analysis 2023-2028",
-      "excerpt": "IMARC Group, a leading market research company, has released a report titled AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028.According to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33383147",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33383147",
-      "publishedDateTime": "2023-07-25T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

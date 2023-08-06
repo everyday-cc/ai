@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-su
 webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
 type: article
 quality: 119
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -101,6 +101,15 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "Big Tech rebounds and preps for transformative AI investments"
+    excerpt: "A YEAR ago, the tech industry’s prospects looked bleak. Google’s profit dropped. Shares of Facebook’s parent company, Meta, were in free fall. Business growth at Amazon had slowed to its lowest level in two decades."
+    publishedDateTime: 2023-08-06T09:37:00Z
+    webUrl: "https://www.businesstimes.com.sg/working-life/big-tech-rebounds-and-preps-transformative-ai-investments"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 21
 
 secured: "o5oQbfHzBpyFvePpsIDxr/qhK8yVjn6DI50GWLsaxtuwcjJ3PlRWS52aHdQU7k1znJO5mgQ/mGkcNUohJ4zCqH83Akfkhb2xfsWakzP0FlMZSWnPdjpoKGtyQGmXUEHdnj3Fw83baJxmuqIVNIbuEXgXgtNaZf9rreK+ZaMwfFJvYlNy0HdiBsdxxSnJsGuXdu9ZIV3SqseHpsogBxfZCdXrL6/PwbJJrIC3iLGfZwW5F01JyyzQT65pVJng3cgu82uCb/Rj8WBPGCCa++39d4sAZGa2p73iZi3BTIAKDtKqvotQZ+SF/qbMujbEVCwR2owYziGJl/iFoJAoJyQ5OFs9lkcviaIGU0FDSgrTOZ4=;YR///3VLXDQm0MNypVXvsw=="
 ---

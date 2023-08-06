@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106776726/Azerbaijan-Saudi-Arabia-Mull-Use-Of-
 webUrl: "https://menafn.com/1106776726/Azerbaijan-Saudi-Arabia-Mull-Use-Of-Artificial-Intelligence-In-Customs-System"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1000
     height: 666
     isCached: true
+
+related:
+  - title: "Saudi Arabia’s AI powerhouse, Mozn, recognized as one of the world’s top fintechs for 2023"
+    excerpt: "today announced that it has been recognized as one of the Top 200 FinTech Companies globally, and one of the Top 25 in the “Digital Business Solutions” category by Statista, a leading statistics firm. Mozn's Flagship product FOCAL is an AI-powered risk ..."
+    publishedDateTime: 2023-08-06T11:39:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-recognized-as-one-of-the-worlds-top-fintechs-for-2023-rwao4oa8"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-recognized-as-one-of-the-worlds-top-fintechs-for-2023-rwao4oa8?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-recognized-as-one-of-the-worlds-top-fintechs-for-2023-rwao4oa8?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 49
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjEzODQ4NmQtMGVmNy00/0/mozn-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "rYeBBSd0DNIw9gPqP+ocHdl7bRyhy6OdgvKo6kKj9glmm7r6YVJxz1lSsyXpMMMHVT84AoWwdOIbZ068tcce++j/GUMNOMMdCMPMfF9VJnOmPbN0Zm/5kl5NPHLEMfAKmqj0/4MBSCjqia04kBM6nogaEDYNWd+dXBjxGtQeRMW7thQaDWutXw9Hz6LECAs8I1NmeCwEcImH/kuGUBOLNHXTbnQc1NY5p/seKWksDwJlACaHq5RoeM0AF4W9SP3H3k1H4ZOCXn3VKUtmg68qxv+U7SoKjjLsi87k7xrNapliFCleox0eeU913Dzlta5spOhP/5+79+HQxmNp03EhM674d0EU9fYngpTYjeh8NTU=;abM90RpX6tsnbsrKTVvWpg=="
 ---

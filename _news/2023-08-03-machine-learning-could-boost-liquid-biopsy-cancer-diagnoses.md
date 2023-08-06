@@ -3,8 +3,8 @@ category: news
 title: "Machine Learning Could Boost Liquid Biopsy Cancer Diagnoses"
 excerpt: "Short pieces of DNA floating in the bloodstream of cancer patients can help doctors diagnose specific types of cancer and choose the most effective treatment."
 publishedDateTime: 2023-08-03T09:33:00Z
-originalUrl: "https://www.technologynetworks.com/cancer-research/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
-webUrl: "https://www.technologynetworks.com/cancer-research/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
+originalUrl: "https://www.technologynetworks.com/tn/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
+webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "CQpRa1SfJjiWbjf+gMbHUVaMscbsNwTZi5r7tgoSNm7ItZZM71Jn1lNRnhFB/RWj5N9DUuYTgY/YS3XAxdKit9lKqj62Pk2iufBj2DRKw6eJn2BtvNXleH2r/cJhmkKu/j6Hy4w04IBN/VU12RtYGMl80RYcwcP/fcRtFlBMyOIkCYF4B4Vbll6Aml9V5a+JstxmnvfTXfjF7UU8CVaYRH7aneCS8WcocqzX3CR+JYCiXadh3C0Gba/GUrTYbej0aWjQhA5ociadQG++hF66M1vUpl7oU3YLUw8TEafcZUxLLBSpCgP3EaSLefn5PQuukAZc9O9CLynCnKjl2dhnkX6fJz8Lfmgf5d8nMnCvSo0q3IWhcRD5IS5MCXZ6tkKErjp/e8CvYT3WzDYMjFHvxfp9JJza+9twyiE/8bGWTW7YK6T4faJMV9T/qQPxCZwmlMgBG8P5y9OAuS3puFFOmPO7q/sO+KMk2yLu3vW7LXD6uWyyfLPEX8Wde7c4glAVp/qL4f15FlJ/z6NOJzObew==;CVsiMWJ566wBmvMEoGla8A=="
+secured: "A3fHo1Mx6Madl45vkdkwdIHZOzpQ/HFpy7M8Ntab6XeFKIqryB3ks4KX7xDaIIuNNwbR3tX/IdWTSw19K40XG71NWCBN7MXnlUSNvFnKn/y6eIBVixYqTn519MfqYQeNqP2fT8kK0bFfljPK8QfFDAulfa1LutA7n4wCjVwQHhkzsBDjp1QGevcMvNGSmIgTMA5zq6BAYrl/Rw4GZNWcuJvdI7ixvGUU6dUQ0L6BtxQvsdjKbgCAiCm+20F8E9ZNSSyEsbUxDUOdcjVHLABlsMbCL7377KVubIxx2rFGIqh6YQ81PFzguKI88ihuii5BmhKnx1AvRbCzpnltYQF0ylE8niIGxN7WbArAXNrKsZA=;x5BxvjPmaIG2Olj6s7gTsw=="
 ---
 

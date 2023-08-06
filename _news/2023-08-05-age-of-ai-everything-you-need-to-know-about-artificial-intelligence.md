@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Everyday AI: How artificial intelligence is shaping sports"
-    excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
-    publishedDateTime: 2023-08-01T17:47:00Z
-    webUrl: "https://techxplore.com/news/2023-08-everyday-ai-artificial-intelligence-sports.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 32
 
 secured: "QeRn+4aja6B581/eY5dD0nRc5mRnq5V0NZD7TO38VnRpHjieBJfDyRbYk7S5AMQPU7E+9hdNIPSZH+PWyZ7f5A7bOkT7y/p7L+Bexu9NqXx1HACgcd2ZSUKYouVk2YT3fKQPN9Ee2evVhPw8xqc2YQM+9lBvRH5pz2H65s/ZFnqDQMyXK3WqGC2G1aeZs4SVT9SpRQBRG9dNtUUJQSLTb5fdorn6wDhIUDX3E9O7rDvFywcSq+wEW/xUmtvqxpTqA9mQ29z5STZk/4yDQKYaW+C3waWNKsch3ruyRhSN93/BChMEjZrCTFXRMBbVwRfw4kijh30nwIHNRJhfzkPT0X2/DTXgtWfO9P79fjObKnc=;iweGpTVZLvb6/mzhkP/hrQ=="
 ---

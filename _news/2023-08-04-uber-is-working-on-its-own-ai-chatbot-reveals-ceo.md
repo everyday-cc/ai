@@ -122,15 +122,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 48
-  - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
-    excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
-    publishedDateTime: 2023-08-01T17:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-01/uber-is-developing-an-ai-powered-chatbot-to-integrate-into-app"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "The Chatbots Pick Up on Your Feelings"
     excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
     publishedDateTime: 2023-08-02T14:20:00Z
@@ -298,15 +289,6 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 16
-  - title: "Meta reportedly working on AI-powered chatbots with distinct personalities, possible roll-out in September"
-    excerpt: "These upcoming chatbots are said to exhibit distinct personalities, mimicking them to provide human-like conversations to users. Launched as soon as next month, these AI-powered chatbots could find their way into Meta’s Instagram or Facebook,"
-    publishedDateTime: 2023-08-01T17:53:00Z
-    webUrl: "https://thetechportal.com/2023/08/01/meta-reportedly-working-on-ai-powered-chatbots-with-distinct-personalities-possible-roll-out-in-september/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 1
 
 secured: "vAN8T67zxINHAmZhCFC1tVCMfNNH3VuZRe4H4C1MqOnVCiJjiVw09MCO2/GuiLoYT5asiBBGslJJnamPpZW3bMU7WxxizWr9SOS2zjkdoRUUUv+G8yTa1kQKGB0Fh3CcwxJP3wo7dlOBc2lyv8c7AUuUm7hxrwN+1Mr/Mjr0YnEtRXShkhi43pqjwIPfH+Q+YDKSM0nEj5IFwEb99mbZZFEQkj/LzwV2BLKX/KUEI5yzvRFiCd8omQqaaPIRUEbKsuL2oQmo/yGdcSCrDAG0/5O1+FOkoekPTKdEF1Iu71+SSrHfEFOU2dniJy4Uoq2kZLPhSQJ4x7wQueAxZkMCaWHtkvcXxfuPZKEAn1ZqnE0Dbt4HwGjq7ae/a7vAY44iRLJrS6PgCJdWoWxmgs/TY3hR9T6U6KLM2+G6Qn3sOKHTsxKaMYS3SItJpfs7r35i7gCMEMFrA+6g545XpZfoDeGvu4JuoJZgySQm+ns9/Bhn5/Jbtn467tOsBUcqfg7ZiE8buitFJHxNLM+RtN0eeQ==;E5lp9yMJZGgfkG2W7ZmFVA=="
 ---

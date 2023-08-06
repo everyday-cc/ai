@@ -2,6 +2,101 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-06-14-8-ways-google-lens-can-help-make-your-life-easier.md",
+      "title": "8 ways Google Lens can help make your life easier",
+      "excerpt": "Lens makes it easy to search what you see and explore the world around you — including the new ability to search for skin conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-lens/google-lens-features/",
+      "originalUrl": "https://blog.google/products/google-lens/google-lens-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_update_hero.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/google-lens/google-lens-features/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-lens/google-lens-features/amp/",
+      "publishedDateTime": "2023-06-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-alibaba-reveals-progress-with-large-language-model-research-as-chinese-big-tech-firms-continue-to-push-for-chatgpt-rival.md",
+      "title": "Alibaba reveals progress with large language model research as Chinese Big Tech firms continue to push for ChatGPT rival",
+      "excerpt": "The new DAMO Academy model is an enhancement from previous vision-LLMs as it can tackle two challenges in video understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3223829/alibaba-reveals-progress-large-language-model-research-chinese-big-tech-firms-continue-push-chatgpt",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3223829/alibaba-reveals-progress-large-language-model-research-chinese-big-tech-firms-continue-push-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-with-chatgpt-defense-investors-are-learning-to-speak-ai.md",
       "title": "With ChatGPT, Defense Investors Are Learning To Speak AI",
       "excerpt": "With AI exploding into the public consciousness, companies that once struggled to explain their machine-learning, national security tools can operate with the confidence that their value proposition is now more intuitively understood by the both the ...",
@@ -1142,100 +1237,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amds-new-chip-fails-to-impress-investors-its-still-an-ai-winner-analyst-says.md",
-      "title": "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says.",
-      "excerpt": "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
-      "originalUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-574599/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
-      "publishedDateTime": "2023-06-14T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief.md",
-      "title": "AI discrimination is a bigger risk than human extinction – EU chief",
-      "excerpt": "Commissioner says existential threat unlikely, but ‘guardrails’ needed for decision affecting livelihoods",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ed7d6122dae2ae5743e39dcebd623cd20d0a633a/0_595_5315_3189/master/5315.jpg?width=620&quality=85&auto=format&fit=max&s=0bb181e3b0d8b64b069d8b5391390825",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
-      "publishedDateTime": "2023-06-14T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

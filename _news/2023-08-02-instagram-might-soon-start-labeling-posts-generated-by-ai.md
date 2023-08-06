@@ -7,7 +7,7 @@ originalUrl: "https://www.techjuice.pk/instagram-might-soon-start-labeling-posts
 webUrl: "https://www.techjuice.pk/instagram-might-soon-start-labeling-posts-generated-by-ai/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Bets Big on AI to Revive Facebook and Instagram"
-    excerpt: "With new chatbots and image editing tools, the social giant is gunning to rise again like a phoenix—with AI as the wind beneath its wings."
-    publishedDateTime: 2023-08-01T18:56:00Z
-    webUrl: "https://decrypt.co/150882/meta-ai-instagram-facebook-chatbot-personalities"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 41
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_10988146041-gID_7.jpg"
-        width: 1000
-        height: 512
-        isCached: true
   - title: "New Instagram Star Turns out to Be an Artificial Intelligence Creation, According to DeepTech"
     excerpt: "Milla Sofia, a 19-year-old model from Finland, has become the new center of attention in the world of social media, as reported by DeepTech, a media organization covering news in the field of artificial intelligence and information technologies."
     publishedDateTime: 2023-08-02T11:00:00Z

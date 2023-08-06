@@ -2,6 +2,104 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-07-10-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
+      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
+      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
+      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg?v=532947bbe7449b367b963713a282edbc",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
+      "publishedDateTime": "2023-07-09T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-will-change-your-work-significantly-heres-how-to-respond.md",
+      "title": "AI Will Change Your Work Significantly: Here’s How To Respond",
+      "excerpt": "AI will shift things fundamentally—including the content of work, the work available and who’s doing it. You’ll need to be aware, ready and responsive to what’s coming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
+      "originalUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64aa095b9866235e854c321c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
+      "publishedDateTime": "2023-07-09T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-ai-revolution-2-artificial-intelligence-stocks-billionaires-are-buying-hand-over-fist.md",
       "title": "AI Revolution: 2 Artificial Intelligence Stocks Billionaires Are Buying Hand Over Fist",
       "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More The next generation of AI technology has ...",
@@ -1042,100 +1140,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
-      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
-      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
-      "originalUrl": "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/d2/1d27fc8e-60ba-53ca-bcbf-72c1919a5f60/64ad0793dc5e8.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-08T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-best-artificial-intelligence-ai-stock-c3ai-vs-sentinelone.md",
-      "title": "Best Artificial Intelligence (AI) Stock: C3.ai vs. SentinelOne",
-      "excerpt": "Fool.com contributor Parkev Tatevosian compares two leading artificial intelligence stocks to determine which is the better buy. *Stock prices used were the afternoon prices of July 5, 2023. The video was published on July 7, 2023. Parkev Tatevosian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/08/best-artificial-intelligence-ai-stock-c3ai-vs-sent/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/08/best-artificial-intelligence-ai-stock-c3ai-vs-sent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/738947/c3ai-vs-sentinel-one.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-08T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

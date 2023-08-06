@@ -81,15 +81,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Everyday AI: How artificial intelligence is shaping sports"
-    excerpt: "The hush of anticipation. The pop of a perfectly centered racquet hitting the ball. The sharp squeak of shoes scuffing against the court. These are the unmistakable sounds of a tennis match. We know them well."
-    publishedDateTime: 2023-08-01T17:47:00Z
-    webUrl: "https://techxplore.com/news/2023-08-everyday-ai-artificial-intelligence-sports.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 32
 
 secured: "Qtke6vsX/uT0XnjEe7K6PMPc1i2cVyWU7dgiXXUgoJWlxqMEOW5sDvqbK8NmubWTND6jM3RKEU85zPHnU7XsBK603A7+XrWbwr2+3ewXBR1kWpceo3yd/NrneNgY2OEQS+L4iY1tl7/RBTwlFyruH2eI+swy64+4BxilHXqvCvVxoFl1FUNsGQZkTTJHp03aCQAIveXpXgk1x+ZYYapK4ASRCsD0gDtS6e2TF87WDo+G14uKBz2pXjFWiGnwAqKt9NVs1YGsIV2k53cbpR63hPXCpPa6RarlcPISN41NEJRlJW+/mQujT/AzfX/nde3zr6cn/9inHEIFdNXiidRKISln4q2lo9TfPEjRNFKGV64=;eER8528N1+TJmk7DNqVEJg=="
 ---

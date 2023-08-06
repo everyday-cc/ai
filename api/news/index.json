@@ -243,6 +243,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-05-ai-robots-can-now-do-manicures-and-other-beauty-treatments.md",
+      "title": "AI robots can now do manicures and other beauty treatments",
+      "excerpt": "The global market for artificial intelligence robots in beauty and cosmetics is currently a multi-billion-dollar business that sees machines undertake tasks once reserved only for humans.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ai-robots-can-now-do-manicures-and-other-beauty-treatments",
+      "originalUrl": "https://interestingengineering.com/innovation/ai-robots-can-now-do-manicures-and-other-beauty-treatments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/05/image/jpeg/OqkNCRMjPeLfR44ByEo4he2Mlu9OcEhDBWxNgMUT.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-2-semiconductor-stocks-set-for-next-level-growth-thanks-to-ai.md",
       "title": "2 Semiconductor Stocks Set for Next-Level Growth Thanks to AI",
       "excerpt": "Nvidia will benefit from AI, to be sure, but that's no secret to stock market investors. Advanced AI chips wouldn't be possible without ASML's lithography machines. Artificial intelligence (AI) has been powering strong gains for the stock market this ...",
@@ -451,7 +494,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1169,49 +1212,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt.md",
-      "title": "Datasaur raises USD 4M to assist businesses in developing their own ChatGPT",
-      "excerpt": "Datasaur Inc., announced that it has completed a USD 4 million seed funding round, bringing its total amount raised to date to USD 7.9 million.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Datasaur-raises-USD-4M-to-assist-businesses-in-developing-their-own-ChatGPT.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/datasaur-raises-usd-4m-to-assist-businesses-in-developing-their-own-chatgpt/amp/",
-      "publishedDateTime": "2023-08-04T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

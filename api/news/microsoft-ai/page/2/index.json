@@ -207,25 +207,43 @@
     {
       "path": "_news/2023-07-25-microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus.md",
       "title": "Microsoft earnings: What to expect as Azure, AI come into focus",
-      "excerpt": "no more than a modest [deceleration] in Azure growth with encouraging commentary for FY24, and quantification of AI tailwinds in FY24 and beyond,\" Raymond James analyst Andrew Marok wrote recently.",
+      "excerpt": "As Microsoft gears up to report earnings in the present, it's becoming ever harder for Wall Street not to get swept up by the future.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230725145/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus",
+      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-823051/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T05:55:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "publishedDateTime": "2023-07-25T05:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

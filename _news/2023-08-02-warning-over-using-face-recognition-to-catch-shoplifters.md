@@ -152,6 +152,22 @@ related:
         width: 1023
         height: 507
         isCached: true
+  - title: "Apple patent hints at Siri getting motion based voice recognition"
+    excerpt: "Dubbed 'Keyword Detection Using Motion Sensing', the patent makes use of motion sensors like accelerometers and gyroscope to detect voice commands."
+    publishedDateTime: 2023-08-06T10:49:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/apple-patent-hints-at-siri-getting-motion-based-voice-recognition-8879287/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.indianexpress.com/2023/08/Apple-Siri-Express-Photo.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "AI Transformer Models Enable Machine Vision Object Detection"
     excerpt: "A system-level view of machine vision will be essential to move the technology forward."
     publishedDateTime: 2023-08-03T07:06:00Z
@@ -165,20 +181,6 @@ related:
       - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_356181933-07-22-scaled.jpeg?fit=2560%2C1280&ssl=1"
         width: 2560
         height: 1280
-        isCached: true
-  - title: "Visit Fort Wayne gets recognition from Destinations International"
-    excerpt: "Visit Fort Wayne, Fort Wayne and Allen County’s official tourism destination marketing and management organization – Convention and Visitors Bureau – received a seal from an industry accreditation program."
-    publishedDateTime: 2023-08-01T18:31:00Z
-    webUrl: "https://www.journalgazette.net/local/visit-fort-wayne-gets-recognition-from-destinations-international/article_fb6cdca8-30a1-11ee-bdd4-6b99e99aad3c.html"
-    type: article
-    provider:
-      name: journalgazette
-      domain: journalgazette.net
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journalgazette.net/content/tncms/assets/v3/editorial/f/b6/fb6cdca8-30a1-11ee-bdd4-6b99e99aad3c/64c974beeb8bb.preview.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Apple could use motion tracking to boost Siri's voice recognition"
     excerpt: "Apple has filed a patent application, called Keyword Detection Using Motion Sensing, that could enhance Siri's voice recognition capabilities"

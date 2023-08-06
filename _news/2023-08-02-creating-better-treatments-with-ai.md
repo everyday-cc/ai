@@ -19,31 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Gen AI to Increase US Production — With Caveats"
-    excerpt: "Discover how businesses use generative AI and automation and how they will affect the future of work, based on McKinsey's report."
-    publishedDateTime: 2023-08-01T17:18:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-and-the-future-of-work/"
+  - title: "AI robots can now do manicures and other beauty treatments"
+    excerpt: "The global market for artificial intelligence robots in beauty and cosmetics is currently a multi-billion-dollar business that sees machines undertake tasks once reserved only for humans."
+    publishedDateTime: 2023-08-05T15:14:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-robots-can-now-do-manicures-and-other-beauty-treatments"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/05/image/jpeg/OqkNCRMjPeLfR44ByEo4he2Mlu9OcEhDBWxNgMUT.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Blackbaud teams with startup that uses AI to increase relationships, donations"
-    excerpt: "Blackbaud Inc. has become an investor in a company that uses automated intelligence to help charitable organizations reach more donors and improve their fundraising efforts."
-    publishedDateTime: 2023-08-01T21:00:00Z
-    webUrl: "https://www.postandcourier.com/business/blackbaud-teams-with-startup-that-uses-ai-to-increase-relationships-donations/article_fb76b41c-2fd9-11ee-8a2e-6b5404feb7ca.html"
+  - title: "Some companies using AI to speed up beauty treatments"
+    excerpt: "Your next manicure could be done by a robot. Companies are rolling out artificial intelligence to speed up some beauty treatments. Anna Werner reports for CBS New York."
+    publishedDateTime: 2023-08-02T22:15:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/some-companies-using-ai-to-speed-up-beauty-treatments/"
     type: article
     provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 33
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/2e/a2e3e6da-2d68-11ee-bd0e-3fca5d14dbd9/6424abb14c1a7.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/02/dad34463-8050-43d8-8754-9ffa5f59969b/thumbnail/1200x630/887e9e0ca077fb4469900bc966978768/snapshot-6.jpg?v=523df724471d66f84598615fede8d33f"
         width: 1200
         height: 630
         isCached: true

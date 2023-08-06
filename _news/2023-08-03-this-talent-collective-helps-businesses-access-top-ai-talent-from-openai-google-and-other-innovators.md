@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-colle
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The future of AI in businesses"
-    excerpt: "Artificial Intelligence has been the topic of conversations since it first hit the public market. Now there’s been concern over AI’s ethics in school and"
-    publishedDateTime: 2023-08-01T17:18:00Z
-    webUrl: "https://www.wwlp.com/massappeal/the-future-of-ai-in-businesses/"
-    type: article
-    provider:
-      name: WWLP-22News
-      domain: wwlp.com
-    quality: 19
 
 secured: "tAH1jSPgAsadjkpVecaf3NjC6wuYaTvnY7Ch2DSVcay+UWmhwoMY0EIibhuqOoxSx8bW4ApfPSPd9xjIyXqsC64uG3FDW4ow/Y006SYntttSUwOrZ50ghUmYTw89bVaWoSVzrelez53BxgOACFbdOKMKLEXOKCJOGbrUPsHfGSC9jafepLZjOHovWWGN+hlLP2B1oG4l5nk8iGJijEcQ/t6JkbQDtGHQwSI7n4kJSRrO8z89LfdPZ8wnZ3HKewNB3FUqlNfRSz87mFS50izgkNFVSPoZuXLYO6zzIcdKIzz/3xj1thcfKsFTwIhV+xDr4HfyOJuX6kOioZBQWah4vFiRiuqMySUaHw2b37Ki8sklO3LbBm8ljcJwoYffXm7ypMzmzQmoUYlOeiUiVbxicLmbreN456nsZDeZifYgFDxvfVcFtBWeTu/kV8gIb7KGF5xPNNzdUUuN/JfZwT9gCHSEnTQz/4EQasnrIQRWUMhZRnKXWpfka1QfxoUzmXt+taItLtNCb7qQYDXmFA/aig==;Rpu04orhiSD1qZuU8x3+dA=="
 ---

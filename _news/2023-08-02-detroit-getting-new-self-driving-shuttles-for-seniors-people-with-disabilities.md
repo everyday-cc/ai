@@ -126,15 +126,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GM’s Cruise Bringing Self-Driving Robotaxis to Nashville"
-    excerpt: "Cruise CEO Kyle Vogt said the company will expand its robotaxi service to Nashville, TN. The launch of the driverless service in the city is part of the GM subsidiary’s efforts to accelerate its commercial operations."
-    publishedDateTime: 2023-08-01T18:31:00Z
-    webUrl: "https://www.autobodynews.com/gm-s-cruise-bringing-self-driving-robotaxis-to-nashville.html"
-    type: article
-    provider:
-      name: autobodynews
-      domain: autobodynews.com
-    quality: 4
   - title: "Congress urged to help get more self-driving vehicles on US roads"
     excerpt: "Advocates for auto companies and consumer technology firms on Wednesday urged a congressional subcommittee to adopt legislation to advance the development of self-driving cars, saying the U.S. will fall behind competitors, especially China, if the federal ..."
     publishedDateTime: 2023-08-06T09:19:00Z

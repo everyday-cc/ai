@@ -121,15 +121,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 48
-  - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
-    excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
-    publishedDateTime: 2023-08-01T17:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-01/uber-is-developing-an-ai-powered-chatbot-to-integrate-into-app"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Uber is working on its own AI chatbot, reveals CEO"
     excerpt: "Uber CEO Dara Khosrowshahi told Bloomberg this week that the company is working on its own AI chatbot, with no specific details disclosed. Also: Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     publishedDateTime: 2023-08-03T18:29:00Z
@@ -295,15 +286,6 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 16
-  - title: "Meta reportedly working on AI-powered chatbots with distinct personalities, possible roll-out in September"
-    excerpt: "These upcoming chatbots are said to exhibit distinct personalities, mimicking them to provide human-like conversations to users. Launched as soon as next month, these AI-powered chatbots could find their way into Meta’s Instagram or Facebook,"
-    publishedDateTime: 2023-08-01T17:53:00Z
-    webUrl: "https://thetechportal.com/2023/08/01/meta-reportedly-working-on-ai-powered-chatbots-with-distinct-personalities-possible-roll-out-in-september/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 1
 
 secured: "/P/w6x3+cBwRpqSy7wIvjdWRAHmhex4Edtv0q5f0lwc2pBRE26jwQ/zKCIowcGnzv6LZGo95mFDRgxlXDHKxPYkC6mbmlLWp+0GCaO73kVtUDLkK4msc+OSL+OcAPrrxFlkfnAeACH7xIdbrz85ILu580kCVqZd5fqqZDy4w8bztuHfTk4i26mnhdHDOOfV4PeUlJyaLqJTXgj1+ijaxSdSF/LlVrJ2hpRR9HlTcR30sdLyLxJbTaGS2jgAOVs0F01HFUedOUwS/IqnOSOKoBEqgApaUb2MkxELezfG73vKu6+F2tIwAT+0pEvIV95iLtDY+KrtjuPkEYBvKR5WheBQhDAPE8Xx2VTbWaVw0u/JuBVQSrJZR8WZdlfnKmswHKrcSVJMeXUReJDAKLwJD0t32iljQQvcgnMTVYNIuOzyZBbkPDGI+v7FBlmlPz+XnZjFKKfhIFQi3uGQAstz6NBiq0neHh3w1jtI1fer3ePoGqtiDvOLW5h4+YRIhu7IX852zRa0riVIVqNLZMyeQbA==;00//A8gDudzu5i3m855Vog=="
 ---

@@ -97,6 +97,15 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "Big Tech rebounds and preps for transformative AI investments"
+    excerpt: "A YEAR ago, the tech industry’s prospects looked bleak. Google’s profit dropped. Shares of Facebook’s parent company, Meta, were in free fall. Business growth at Amazon had slowed to its lowest level in two decades."
+    publishedDateTime: 2023-08-06T09:37:00Z
+    webUrl: "https://www.businesstimes.com.sg/working-life/big-tech-rebounds-and-preps-transformative-ai-investments"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 21
 
 secured: "FGAEgkryFGwBRiFERUFx97b9A2BYREr/CgekSZzrxBGQRMYcJmq10X7Q1yhrcoOWDl9sY/vUbk3w3MTn8ZKu7AEgDOUJseP7mKRsO2k2v/igZs5FI+DmXHbwhqVa925G3nM3ZjIMYTvlZ1qsJGpApzSWHF5aAxQxrknkCPj3jted0Xwu4n4uO/KkxhhO504MQW6P6AogEBMYhdfJdqf1y9QOX9OD7MDHb/JsCmdcu+c707LMDEFi3KAGh2QY5ShbA+Qav2nbc1LSvdahiH3pLj+JsGL7+Z7Qw2lCK3D81fjFurs9fTvkSk9wmALFW4T6CKAmFiWKtmB3PxLYXCoE1anfNwYcbEszY6D5t/4QXE8=;WgoZhYEHsytKybSkP3O8sQ=="
 ---

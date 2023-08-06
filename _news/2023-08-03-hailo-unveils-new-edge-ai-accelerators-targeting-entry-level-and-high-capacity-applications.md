@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/hailo-unveils-new-edge-ai-accelerators/
 webUrl: "https://venturebeat.com/ai/hailo-unveils-new-edge-ai-accelerators/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: VentureBeat
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hailo introduces new edge AI accelerators aimed at high-volume and entry-level applications"
+    excerpt: "Tel Aviv-based Hailo, today revealed the addition of two new products to its Hailo-8 product lineup: The Hailo-8L and the Hailo-8 Century."
+    publishedDateTime: 2023-08-06T09:44:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hailo-introduces-new-edge-ai-accelerators-aimed-at-high-volume-and-entry-level-applications/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hailo-introduces-new-edge-ai-accelerators-aimed-at-high-volume-and-entry-level-applications/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hailo-introduces-new-edge-ai-accelerators-aimed-at-high-volume-and-entry-level-applications/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 47
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Hailo-introduces-new-edge-AI-accelerators-aimed-at-high-volume-and-entry-level-applications.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Semiconductor Industry Is Pulling AI Across A Diversity Of End Uses And Applications"
     excerpt: "As Evgeni noted, “The TinyML ecosystem is a perfect radar screen, because we have over 100 member companies and 15,000 people working all over the world. Five years ago, this was a proof of concept, but five years from now we will see AI technology in the hands of consumers to help them solve all kinds of problems.”"
     publishedDateTime: 2023-08-03T07:04:00Z

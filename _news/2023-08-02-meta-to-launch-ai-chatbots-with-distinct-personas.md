@@ -125,15 +125,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 48
-  - title: "Uber Is Developing an AI-Powered Chatbot to Integrate Into App"
-    excerpt: "Uber Technologies Inc. is developing an artificial intelligence-powered chatbot to integrate into its app, joining the long list of companies that are turning to the language tool to improve customer service,"
-    publishedDateTime: 2023-08-01T17:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-08-01/uber-is-developing-an-ai-powered-chatbot-to-integrate-into-app"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Uber is working on its own AI chatbot, reveals CEO"
     excerpt: "Uber CEO Dara Khosrowshahi told Bloomberg this week that the company is working on its own AI chatbot, with no specific details disclosed. Also: Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     publishedDateTime: 2023-08-03T18:29:00Z
@@ -296,15 +287,6 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 16
-  - title: "Meta reportedly working on AI-powered chatbots with distinct personalities, possible roll-out in September"
-    excerpt: "These upcoming chatbots are said to exhibit distinct personalities, mimicking them to provide human-like conversations to users. Launched as soon as next month, these AI-powered chatbots could find their way into Meta’s Instagram or Facebook,"
-    publishedDateTime: 2023-08-01T17:53:00Z
-    webUrl: "https://thetechportal.com/2023/08/01/meta-reportedly-working-on-ai-powered-chatbots-with-distinct-personalities-possible-roll-out-in-september/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 1
 
 secured: "4ltezrnhzTZJMhw9TylFf0XZkASzBGGysUHaUTFdRWxVi0pbcPLAh2HJ0oYI9TJuBHppLwA8mXVk+SS/KcIFYhF1A+/l7wtki+3g/8mwJt/EyQ3r0tWcKkmzh2XbLrYSRu0uwp4NJLz0XxdVcdj0s2Ub1JSRnI+VxUxvYH+3D5VGHC29lLwVEyAPurvIxKPU8qntuXjS0vLxmyU9w+HAKjGHv/ZfTVqXUKrNDfXEGcOZk65LdWfhxrj8jiJIqkh8k+gECnUGi0b8Be5ZKkCpqBRRyfiU1DKd9DLb+nhw/2fOXkJe00thSo8rQfMv6UvDB+D1QNWkJS1zmzNjFYEaiO47WMDaHc6GVdScMA/3wxk=;Fed8J4mcYdCAFrQ0i0yI5w=="
 ---

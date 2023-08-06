@@ -2,6 +2,110 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2023-05-10-introducing-project-gameface-a-hands-free-ai-powered-gaming-mouse.md",
+      "title": "Introducing Project Gameface: A hands-free, AI-powered gaming mouse",
+      "excerpt": "Project Gameface, a new open-source hands-free gaming mouse has the potential to make gaming more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-project-gameface/",
+      "originalUrl": "https://blog.google/technology/ai/google-project-gameface/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gameface_hero_1_1.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-project-gameface/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-project-gameface/amp/",
+      "publishedDateTime": "2023-05-10T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-deepmind-cofounder-warns-governments-seriously-need-to-find-solutions-for-people-who-lose-their-jobs-to-ai.md",
+      "title": "DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I.",
+      "excerpt": "Mustafa Suleyman, who cofounded the London-based lab DeepMind, later sold to Google in 2014, told the GIC Bridge Forum event in San Francisco on Tuesday that policymakers needed to step up and provide some form of aid such as universal basic income (UBI).",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
+      "originalUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-961707246-e1683733321936.jpg?w=840",
+          "width": 840,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
+      "publishedDateTime": "2023-05-10T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development.md",
       "title": "Google expands TensorFlow open-source tooling for accelerated machine learning development",
       "excerpt": "Google enhances TensorFlow with deep learning capabilities and parallelism techniques for developer choice in machine language tooling.",
@@ -1124,92 +1228,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-natural-language-processing-market-to-be-2624-billion-by-2030-exclusive-report-by-meticulous-research.md",
-      "title": "Natural Language Processing Market to be $262.4 Billion by 2030 - Exclusive Report by Meticulous Research®",
-      "excerpt": "Redding, California, May 10, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, ‘Natural Language Processing Market by Component, Organization Size, Application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32318935/natural-language-processing-market-to-be-262-4-billion-by-2030-exclusive-report-by-meticulous-rese",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32318935/natural-language-processing-market-to-be-262-4-billion-by-2030-exclusive-report-by-meticulous-rese",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-reduce-amazon-sagemaker-inference-cost-with-aws-graviton.md",
-      "title": "Reduce Amazon SageMaker inference cost with AWS Graviton",
-      "excerpt": "Amazon SageMaker provides a broad selection of machine learning (ML) infrastructure and model deployment options to help meet your ML inference needs. It’s a fully-managed service and integrates with MLOps tools so you can work to scale your model deployment, reduce inference costs, manage models more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/reduce-sagemaker-costs-graviton.jpg",
-          "width": 1066,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T07:42:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

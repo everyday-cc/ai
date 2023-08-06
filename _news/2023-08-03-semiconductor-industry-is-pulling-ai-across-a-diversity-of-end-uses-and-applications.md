@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hailo introduces new edge AI accelerators aimed at high-volume and entry-level applications"
+    excerpt: "Tel Aviv-based Hailo, today revealed the addition of two new products to its Hailo-8 product lineup: The Hailo-8L and the Hailo-8 Century."
+    publishedDateTime: 2023-08-06T09:44:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hailo-introduces-new-edge-ai-accelerators-aimed-at-high-volume-and-entry-level-applications/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hailo-introduces-new-edge-ai-accelerators-aimed-at-high-volume-and-entry-level-applications/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hailo-introduces-new-edge-ai-accelerators-aimed-at-high-volume-and-entry-level-applications/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 47
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/08/Hailo-introduces-new-edge-AI-accelerators-aimed-at-high-volume-and-entry-level-applications.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "79Ck8oGjLr/KItEqidnjn/HnV3aDdSj/hkDuoYcvX5kyjDP9kteDW8im/SigykI+ez+6++yLVaPimNyCfkHcsLy1dFcnj86B/jzLVBvxsIpjyg+Opp6rPGZSzTc822Yn6+JQHYKzDUbZlrfxgMzaoXPMlXtUNcw3WbPaF4T1fdBuC7qfsssI1l03HJUnFoa4FV1EA6fwLDvaFwDfyqqWggpjsHmv/Bt2emPt9bABwIOxMJWHbwOydoWVUjRTxzy0/O3un0j1/kddteFYmoEXhdEZPItHjXqjGJGqZjejGMkvKkumHOgYVoEPzHSa1w2xh53mfPrDs+LkI7XUiG9+e95B0A+ntaiXG3gyThFrbpk=;7r9mS8Q6XSUflERdNoOWiw=="
 ---
