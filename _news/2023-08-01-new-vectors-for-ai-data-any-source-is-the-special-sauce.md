@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/01/new-vectors-for-ai-data-any-source-is-the-special-sauce/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 640
     height: 463
     isCached: true
+
+related:
+  - title: "IBM and NASA open-source foundation AI model for analyzing satellite data"
+    excerpt: "IBM and NASA jointly trained their model on a geospatial dataset called Harmonized Landsat Sentinel-2. The dataset includes images of the Earth’s surface that were taken by NASA’s Landsat-8 satellite. It also contains measurements from Sentinel-2, a satellite constellation operated by the European Space Agency."
+    publishedDateTime: 2023-08-03T19:38:00Z
+    webUrl: "https://siliconangle.com/2023/08/03/ibm-nasa-open-source-foundation-ai-model-analyzing-satellite-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
 
 secured: "bSf/FUjJHSBoNOFgLOV7wvx5/hmreszZccR44/KcFNFNKlyqlQ/pdCpLFKrM5GJgSePIlpG5+Gf3q37z1fF4fixLLJS5JbSPl+izFj9EWEPzidKik+FNt8j/oezO5U0saUIiGuKm/6psuRgyw8dkBq2HKb8lrrX0KeECZukc9vgPcivT75KyqJ7+hDqn2I9e46Le3Vrrjlg0CuMnEji24gLVTXPrAiQrGSNfE8QjbUeExQE605lC3ez6pHqGRwUMX3JdWECfGqVlLajdYFxNryTxoN5j6g1lfUumIKKUqyeIezlLdg5Hn6qpX7lZxteuEZ1588LZ4+Bm3kK0u0AMPeRi8KvxCUoxb1Tt/6WQToc=;Dc0gnaWOJgTRPcr4LPQyKw=="
 ---

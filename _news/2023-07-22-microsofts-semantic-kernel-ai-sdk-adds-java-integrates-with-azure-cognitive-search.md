@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search"
 excerpt: "Microsoft has been busy updating its Semantic Kernel ... Weaviate, Chroma, along with Azure Cognitive Search and Services. Additionally, we are developing a document chunking service and enhancing the VS Code extension for Semantic Kernel."
-publishedDateTime: 2023-07-21T22:09:00Z
-originalUrl: "https://visualstudiomagazine.com/Articles/2023/07/21/semantic-kernel-updates.aspx?p=1"
-webUrl: "https://visualstudiomagazine.com/Articles/2023/07/21/semantic-kernel-updates.aspx?p=1"
+publishedDateTime: 2023-07-21T22:08:00Z
+originalUrl: "https://visualstudiomagazine.com/articles/2023/07/21/semantic-kernel-updates.aspx"
+webUrl: "https://visualstudiomagazine.com/articles/2023/07/21/semantic-kernel-updates.aspx"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "X+NzxOb1UkK6g2wBzBAk3X1mE4kwQqVnb6uzM8rZ03wC8sIwlj+64mT9ogn/RHv7vrgaBH8Xr/KKGitQKXxFAy1eYTY5cdsKe4mPbDT1/tam6Ki60fKwq7JwF2qO70yZ+MGhSLx/W8uQXgMXbG7Okn2sIBK+lq8ax9mufBHrLDI9hdNX3uxAWjjANod23a26Hu1Yso8MPbE3ZLbOH1T7tp+gHAWDvXe5AR9IQXxcHjJ3ImNHAk+Qqo/a0Zx9ZxVY1Tdzbbam5Q9ZSc1+atN/AQs7NK7e3En2E73l4KIbFJJrxLqu6H58VYkBvmlBW1aZTOgU++/NacZdp6RzUE2a2TxMVz+Vipr8bioDEzD4vbo=;mIx9U6nY29/IFTyf7xxkBQ=="
+secured: "GOO+niecXkETVQYDqZjHflZgi4iWpv2H0Mm7sOrbj6qOUMXGWSvSqOwkEipuh5yxwBMdA4hAyoDk0SuD9bIbR1XfAdpy75HwgM7bmKAd5VwRiCZCBn8E9DQudRlEfGuw2Rn9duXSKvvAN+u6x+NjcllV08TNdXVgBaUs9q3LJDplBnvh2XQOwlPU22J/jvl8yNFSoWcdgFh1/VoDWAU64euas8YabLsP9G5nrgMGQFncFIidqtJd2hrJ+lfD9PVtVo0yMSsyWLXgpkfWskMLQio4MTUiWZxnuM5oxQxG+Fw6gT2u82oOjoPx5/W0Fjwg8jzphhcKLP4dLHNd6ScusejlSMSUITSAzdYYoVhlInU=;RLDQ2P2uZJVtAvzVphvoSg=="
 ---
 

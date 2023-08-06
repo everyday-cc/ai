@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-24-tonix-pharmaceuticals-holding-corp.md",
+      "title": "TONIX PHARMACEUTICALS HOLDING CORP",
+      "excerpt": "The findings reported today show that tianeptine and estianeptine improve memory and cognition as measured in the rat Novel Object Recognition (NOR) test. The finding that estianeptine is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-07/59647452-tonix-pharmaceuticals-holding-corp-tonix-pharmaceuticals-announces-data-supporting-the-memory-and-cognition-enhancing-effects-of-racemic-tianeptine-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock.md",
       "title": "How face recognition rules in the US got stuck in political gridlock",
       "excerpt": "A national effort to ban police use of face recognition is facing a sobering reality: compromise",
@@ -1266,49 +1300,6 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-how-to-enable-face-recognition-on-galaxy-z-flip-4.md",
-      "title": "How To Enable Face Recognition on Galaxy Z Flip 4",
-      "excerpt": "The facial recognition security feature of your Samsung Galaxy Z Flip 4 allows for device unlocks just by looking at the phone display. This can also be used by certain apps to verify your identity.",
-      "sourceUrl": null,
-      "webUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
-      "originalUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedroidguy.com/wp-content/uploads/2022/11/How-To-Enable-Face-Recognition-on-Galaxy-Z-Flip-4.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Droid Guy",
-        "domain": "thedroidguy.com",
         "images": null,
         "publishers": null,
         "authors": null

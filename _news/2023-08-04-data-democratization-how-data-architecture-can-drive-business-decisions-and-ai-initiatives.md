@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/data-democratization-how-data-architectur
 webUrl: "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: IBM
@@ -23,162 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "How foundation models and data stores unlock the business potential of generative AI"
-    excerpt: "Together with data stores, foundation models make it possible to create and customize generative AI tools for organizations across industries\nThe post How foundation models and data stores unlock the business potential of generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
-  - title: "4 ways generative AI makes founders more interesting to journalists"
-    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
-    publishedDateTime: 2023-08-05T21:29:00Z
-    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
-    excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
-    publishedDateTime: 2023-08-03T07:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all"
-        width: 1200
-        height: 840
-        isCached: true
-  - title: "New threats, same rules for finance generative AI"
-    excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
-    publishedDateTime: 2023-08-02T20:39:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/new-threats-same-rules-for-finance-generative-ai/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "How Generative AI – A Technology Catalyst – Is Revolutionizing Healthcare"
-    excerpt: "The implications and potential for these types of technology to be embedded within a diverse set of business models is huge. Nowhere is this truer than in healthcare."
-    publishedDateTime: 2023-08-01T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/billfrist/2023/08/01/how-generative-ai--a-technology-catalyst--is-revolutionizing-healthcare/"
+  - title: "How AI Regulation Drives Innovation And Protects Against Cyber Threats"
+    excerpt: "The changes that come with today's newest technology have positioned society to determine whether AI is a contributor or a threat."
+    publishedDateTime: 2023-08-04T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 63
-  - title: "IDC-Teradata Study: Data Ethics, IT Complexity, and the Future of Generative AI in Global Enterprises"
-    excerpt: "Executives at large enterprises across the globe are facing unprecedented pressures around adopting generative artificial"
-    publishedDateTime: 2023-08-01T15:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/idc-teradata-study-data-ethics-it-complexity-and-the-future-of-generative-ai-in-global-enterprises/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+    quality: 87
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Generative AI Impact on the Database"
-    excerpt: "Once you're able to see through the 'AI whitewashing,' a strong case for generative AI in the database space can be made."
-    publishedDateTime: 2023-08-02T17:53:00Z
-    webUrl: "https://redmondmag.com/articles/2023/08/02/generative-ai-impact-on-the-database.aspx"
+  - title: "Xiao-I Corporation: Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China"
+    excerpt: "SHANGHAI, CHINA / ACCESSWIRE / August 2, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, is excited to anno"
+    publishedDateTime: 2023-08-02T16:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59741520-xiao-i-corporation-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china-200.htm"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIDatabaseintro.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face"
-    excerpt: "Effort aims to widen access to NASA earth science data for geospatial intelligence and accelerate climate-related discoveries"
-    publishedDateTime: 2023-08-03T04:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9858664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
-  - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
-    excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"
-    publishedDateTime: 2023-08-02T20:17:00Z
-    webUrl: "https://www.datanami.com/this-just-in/digitates-new-generative-ai-capability-unlocks-innovation-and-delivers-greater-agility-across-enterprises/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "How Generative AI may impact the data analytics ecosystem"
-    excerpt: "Moreover, while large language models are excelling at tasks such as summarization and translation, deductive reasoning remains a formidable challenge. As AI continues to evolve, striking a balance between its capabilities and limitations is crucial."
-    publishedDateTime: 2023-08-01T11:52:00Z
-    webUrl: "https://www.geeky-gadgets.com/generative-ai-data-analytics-01-08-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "The future of AI in businesses"
-    excerpt: "Artificial Intelligence has been the topic of conversations since it first hit the public market. Now there’s been concern over AI’s ethics in school and"
-    publishedDateTime: 2023-08-01T17:18:00Z
-    webUrl: "https://www.wwlp.com/massappeal/the-future-of-ai-in-businesses/"
-    type: article
-    provider:
-      name: WWLP-22News
-      domain: wwlp.com
-    quality: 19
-  - title: "IBM and NASA open-source foundation AI model for analyzing satellite data"
-    excerpt: "IBM and NASA jointly trained their model on a geospatial dataset called Harmonized Landsat Sentinel-2. The dataset includes images of the Earth’s surface that were taken by NASA’s Landsat-8 satellite. It also contains measurements from Sentinel-2, a satellite constellation operated by the European Space Agency."
-    publishedDateTime: 2023-08-03T19:38:00Z
-    webUrl: "https://siliconangle.com/2023/08/03/ibm-nasa-open-source-foundation-ai-model-analyzing-satellite-data/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
-  - title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
-    excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
-    publishedDateTime: 2023-08-03T17:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
-  - title: "TribalScale Partners With Senso AI to Unleash Generative AI Technology for Enhanced Software Customization"
-    excerpt: "The strategic partnership will equip businesses with a formidable competitive edge by integrating Generative AI into their customized software solutions, paving the way for groundbreaking innovations and cutting-edge user experiences."
-    publishedDateTime: 2023-08-01T14:23:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article277847578.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 0
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
 
 secured: "c8NCYDGZsBF/wPRjwub/rmBCBf5RW2rikuoH4MaJp8n8rb9xuOL063BBruMvc7Rwf1fg9/tfEUxzIX4rg8+9te7FNn8glfqSAuFb5JmOaIP1iAnro5Kd4eKPrxZNW99GIZxMlYvBQbz8F7cHgxYjOCM7ySm4Il+DIx+p/cOqgXCB9cflYfyHOqslTyLL+hdty/hXlRfzagQeUlOErnDg4hTmr0AXRlkS3a2roPzNcALsdCYSTjf5bOUKKBKCUlFAG6IRO/Vpog2xTINHX2A+FToNp6ZoL9EeKXGlVYtmDSJf+0clVs0KJEhvs3dz+IstsGLSLJxG27iaptO34pQPa+kY2kt6EXKulgaRmWXunik=;8Lelu92lTLdzDls8IInv2A=="
 ---

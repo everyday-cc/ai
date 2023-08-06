@@ -71,15 +71,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Xiao-I Corporation: Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China"
-    excerpt: "SHANGHAI, CHINA / ACCESSWIRE / August 2, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, is excited to anno"
-    publishedDateTime: 2023-08-02T16:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59741520-xiao-i-corporation-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 11
 
 secured: "zo4uv9NLt3BcP67ZP5kOY24OT96pKbQ67/0zWRXbqSZXQF6x2n8s3uwuYQMWHHSrvqsEkSLyFco6Ik0RBl5cwuRKmelo5iUakJaTTUWZUBtVkY0LJk0MW6ap44DsX7OvRuIWq4m4/YUZ5vuTaaW3snZedv+U01Efsyzh8Pzr1HetUPOGmF4Wbw84ys9JHNWWYyzg7VVqxOPT/jvduLZvEqphlgHqiojtzCEo9m5rQEf/EtYYyLPqQiYYEhXC8O51enlqu/cAx7Xl9/0STfkW3799NWyodzZoaPb0MhTQt2BxPu7cSxx2+LmTea8RB/V5gpFWE2DHvoDufRhCLbJ16yxh/QNbJFhZVoKSpbm+HQNrrNKvEOONxC0YbIQ7OBcoAKQQdwALP6PalV/4Jh/tiHrWLZaQdEzKkCWF7xs9na/oxdU1nobigvPbDtfXqUFTc0G+N0M6SvTBhvQy2n8vVb/vceqy540GGKRxWJv5czsyHyxJiMNaZvUOgzQ3Rwt/J4I5sFg0zbCNRV4Cq0q1Lw==;3sr73MTGMAzL84qHLPe51Q=="
 ---

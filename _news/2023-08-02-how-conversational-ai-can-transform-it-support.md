@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-su
 webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
 type: article
 quality: 119
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
     quality: 39
     images:
       - url: "https://img.etimg.com/thumb/msid-102440386,width-1070,height-580,imgsize-2872767,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
+  - title: "Big Tech rebounds and prepares for transformative AI investments"
+    excerpt: "Companies are hoping that artificial intelligence will be the answer to their problems and a way to refresh aging product lines that haven't changed all that much in recent years"
+    publishedDateTime: 2023-08-06T03:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-prepares-for-transformative-ai-investments/articleshow/102464444.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/msid-102464652,width-1070,height-580,imgsize-59912,overlay-ettech/photo.jpg"
         width: 1070
         height: 580
         isCached: true

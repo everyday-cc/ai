@@ -38,15 +38,6 @@ related:
         width: 1000
         height: 512
         isCached: true
-  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
-    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
-    publishedDateTime: 2023-08-01T12:40:00Z
-    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 17
   - title: "New Instagram Star Turns out to Be an Artificial Intelligence Creation, According to DeepTech"
     excerpt: "Milla Sofia, a 19-year-old model from Finland, has become the new center of attention in the world of social media, as reported by DeepTech, a media organization covering news in the field of artificial intelligence and information technologies."
     publishedDateTime: 2023-08-02T11:00:00Z

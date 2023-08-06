@@ -44,15 +44,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using AI to Build Stronger Connections with Customers"
-    excerpt: "As companies learn to use generative AI to create value, there’s a risk that they take the wrong approach when applying the technology to the customer experience. In fact, research shows AI can help boost customer satisfaction when it’s used to offer customers more personalized solutions or to help human employees provide better service than they would without the technological assist."
-    publishedDateTime: 2023-08-01T12:15:00Z
-    webUrl: "https://hbr.org/2023/08/using-ai-to-build-stronger-connections-with-customers"
+  - title: "TribalScale Partners With Senso AI to Unleash Generative AI Technology for Enhanced Software Customization"
+    excerpt: "The strategic partnership will equip businesses with a formidable competitive edge by integrating Generative AI into their customized software solutions, paving the way for groundbreaking innovations and cutting-edge user experiences."
+    publishedDateTime: 2023-08-01T14:23:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article277847578.html"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 0
 
 secured: "Wbj8JMmKHC5r3a/NBdBpm8+BjXObW8w7dBZmnLiY4vnlWMukNaS+bk4lhRVzzLzIEI24iJBcFZQ6Lek1NShLJMJ/v3KtAjuuDZqcdBaktMAst+a66R5OxzMgv8AxGmJsOeRJ6LyCYCqNm6sphTSW6HjMUAjXrbDY6XMZZXdf4/V6Q6gJfw4FCxfJ263fH1bow9VoA7bdxVmh2SxoE1OozhlXxK+m4r15MTuFxCMDCJG1GL44eaZcq/VnqCjWyTUYuab8W0VeqI9gx3E36vF9oGShFP96G3O2drgJBBaGlKV9b9BGG+rUyhlEUnZDe85ZkgUzpfdOZSchaSkwmDQrc/zKbRllwkTbabqY4hrSvwPlugYkmoJlqRFJXsvJGy7ZwC4tg3WlhX5wBF8nMDuS+0Iabq/zIAowQskMfT7OUJNEua0wp0il8d9Y9Ih4L7ItuxQhBD6q10f0vchzIH4H4C3cZaQ31G3DyGJieMSErO7Wm7IBSBBHoWx363vb7uRfzC5wrQghbW+0xv0xRvUOOQ==;u4D1OPQXLOmgoGGsXswlrQ=="
 ---

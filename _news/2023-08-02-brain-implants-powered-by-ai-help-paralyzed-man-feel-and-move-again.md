@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help
 webUrl: "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-powered brain implant restores a paralyzed man’s ability to feel and move"
-    excerpt: "For the first time, brain microchips help a patient with paralysis regain his ability to feel the touch of other people and move his arms at will."
-    publishedDateTime: 2023-08-01T12:16:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-implant-for-paralysis"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 16
 
 secured: "7Ct3Xrwmq64+rJTUExzDyoPAaNj9UWbDPmNitIGLvJykRJKc6ILtCXdlgLnY5rbqI6cTWgBVjOLEgVS3TrTQFVVzpnNaIHOWaUy+Y7D5gNp4yjbHUS8o3mptsMZlHN+7B7x0752zuXcXkdmK/Rmcf15P6oyXFKBi0M2kffd2L5Lb69qXvIdlvxav6L7I4Z39Dn4ARCFBLl4fd9863zaVuYTySUpfYkC84pwzWwbLYqu4FtrD8fojVA1f69Q3eqb28uqndmAeVY4ZpHaXOJC8tBVemiru8ycBnvkYPBKr/CKD6WYh60anmHfl0OrQgW85ZAupKV6RZYv2VF3IvYYEO421w12bMotnC0BVwwU2A4I=;pjoYvPKbW5ddpFMjAmXI2w=="
 ---

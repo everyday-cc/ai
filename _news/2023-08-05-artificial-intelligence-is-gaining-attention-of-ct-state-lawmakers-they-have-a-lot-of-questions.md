@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence gains state lawmakers’ attention"
+    excerpt: "HARTFORD, Conn. >> As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
+    publishedDateTime: 2023-08-05T21:22:00Z
+    webUrl: "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 74
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14071682-e35665bc86274e58855471163d80553f.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Artificial intelligence is gaining state lawmakers' attention, and they have a lot of questions"
     excerpt: "We're trying to set a good example,” Connecticut state Sen. James Maroney said during a floor debate in May. Connecticut plans to inventory all of its government systems using artificial intelligence by the end of 2023,"
     publishedDateTime: 2023-08-05T03:19:00Z

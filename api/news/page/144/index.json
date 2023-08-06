@@ -2,6 +2,57 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2023-05-05-ai-writing-is-the-opposite-of-thought-leadership.md",
+      "title": "AI Writing Is The Opposite Of Thought Leadership",
+      "excerpt": "If you're reading any of these articles on AI (or any of the thousands of posts per day on Reddit and other lower-brow places where even more AI discussion takes place), you might",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
+      "originalUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6454e9dad1607eda429c02fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
+      "publishedDateTime": "2023-05-05T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-ai-for-business-leaders-especially-skeptics.md",
       "title": "AI For Business Leaders, Especially Skeptics",
       "excerpt": "Business leaders can take these easy steps to help their companies start benefitting from artificial intelligence.",
@@ -1161,49 +1212,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-opinion-california-wrong-to-expand-facial-recognition-use.md",
-      "title": "Opinion: California Wrong to Expand Facial Recognition Use",
-      "excerpt": "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
-      "originalUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf6e9f9/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F77%2F5763ddd14e65eb9c7594500441fc%2Fshutterstock-1270097047.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
-      "publishedDateTime": "2023-05-04T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

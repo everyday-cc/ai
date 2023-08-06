@@ -7,7 +7,7 @@ originalUrl: "https://www.businessghana.com/site/news/technology/291106/Flapmax-
 webUrl: "https://www.businessghana.com/site/news/technology/291106/Flapmax-Partners-with-Intel-to-Accelerate-Artificial-Intelligence-(AI)-Innovation-in-Africa"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flapmax Partners Intel: Driving AI Innovation in Africa"
-    excerpt: "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel."
-    publishedDateTime: 2023-08-01T11:52:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
-    ampWebUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/resizedgg.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "Flapmax, Intel Partner to Advance Africa’s AI Innovation"
     excerpt: "Kindly share this postFlapmax and Intel, two US technology companies, are collaborating to promote AI innovation to drive economic development in Africa. Flapmax, an AI business, announced the alliance details this week."
     publishedDateTime: 2023-08-02T23:16:00Z

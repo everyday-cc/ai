@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face"
+    excerpt: "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models."
+    publishedDateTime: 2023-08-03T07:01:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "IBM and NASA partner on AI model to track climate change"
     excerpt: "With scientists needing to work through massive amounts of data in tracking climate change, IBM and NASA have created an AI model to assist."
     publishedDateTime: 2023-08-03T07:42:00Z
@@ -38,6 +52,20 @@ related:
       - url: "http://htxt.co.za/wp-content/uploads/2023/08/ibm-geospatial-foundation-model-header.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face"
+    excerpt: "Effort aims to widen access to NASA earth science data for geospatial intelligence and accelerate climate-related discoveries"
+    publishedDateTime: 2023-08-03T04:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9858664.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "N1CEho6dYvgtjHq9KBV2U+F+HOTyIORqXoF86fYOsbjGj99nz5ORIMUv9oHFsX/W919Vokx8pUmmlFU/RyZlADcrb2xve7iQDplji2CGQbsuW+2lzB9u/tGo/c+tdn7Y6hU1CJLV7tJ9sguFFOnDyBqvW+cu9nTGe8b9kQZRusa67Hs+AZDY8PHOxqBCdsT/2Cuspr1kKzhl0sz8Y3weYayrHdiq4Ku1o425G0S0DFNmI/SqL43LOcxX8ugdskoyGTQI8c90W9bs8J63vUanmV40MdRIon3QzWNkgKqHy8ZNF4xMDPqOsrb+ms2VJg9p/caEul4wKxMPHDF39xlHLNHAOjNg+75J1G5hpPUicIQu/kaB3KE7UdEVp71/6C9p1hFdYAr8b3u1kHpmGS4qKr+bbvXTpZAzmvTAyNsKPWBRP6NAFGYxrbOGvQSMhwalU4GLQ0gNW0tFew7iYZLtcHvWPTbpK7uROftb+/kS8rcLL/VpzVsFwzCCPS1fNZiHgnnQArHUnTIHOL8rU7Yx/Q==;C7Qbq0ZjaPmNrJ15hBdrhw=="

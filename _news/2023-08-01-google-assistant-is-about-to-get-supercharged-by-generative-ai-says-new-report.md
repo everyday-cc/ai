@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-about-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-about-to-get-supercharged-by-generative-ai-says-new-report/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google is looking to 'supercharge' Assistant with AI"
-    excerpt: "The ongoing race to expand generative AI technology is reaching digital assistants — one of many people's first introductions to an AI companion. Such is the case with Google, which is working on a revamp for its Assistant that will include generative AI-powered technology, according in an internal email obtained by Axios ."
-    publishedDateTime: 2023-08-01T12:10:00Z
-    webUrl: "https://www.engadget.com/google-is-looking-to-supercharge-assistant-with-ai-113516175.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "Leaked internal Google email reveals Assistant is getting a 'supercharged' AI upgrade"
     excerpt: "An internal Google email has revealed the company is pivoting toward upgrading Google Assistant with a special artificial intelligence."
     publishedDateTime: 2023-08-02T14:58:00Z

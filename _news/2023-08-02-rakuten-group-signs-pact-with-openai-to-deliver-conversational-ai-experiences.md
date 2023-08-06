@@ -83,6 +83,20 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "Big Tech rebounds and prepares for transformative AI investments"
+    excerpt: "Companies are hoping that artificial intelligence will be the answer to their problems and a way to refresh aging product lines that haven't changed all that much in recent years"
+    publishedDateTime: 2023-08-06T03:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-prepares-for-transformative-ai-investments/articleshow/102464444.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://img.etimg.com/thumb/msid-102464652,width-1070,height-580,imgsize-59912,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
 
 secured: "fuFU+Xi4Z82jbzkv2JIxOZRZxTbT8KAcUo5dzBROB7fJMrOIwSkGz+LhBYUmw3PkV4CtBIq3TZ8rXVyl7twn8dq8bwB3Imz5YzSpk8m6C6CiEFmjR6PqEMckDY0maKBDJq7gCskp9gBAnYSSudnNA7Dk9LNMFvQQU2jgP1Y9P2Ma+WoozbPwRtefEHNMv6Iox1TePWDiyP5abcjxXq0/w8OZWbvwhg1MR3pH5ySUQFBumkGcz+xjJsRnkfiPX7rB5eqsPCPQLaaaAwnu2rvS3fZRljlhW535o8iIoVY9MaHDMBy0st7NgtJJXkV5vaDdPRGWy4c13pwma99XjvXoM8+VVSdJy2eN5zhWV3o7gmU=;HWRnVPs4+7Dp4O/Go9Ghwg=="
 ---

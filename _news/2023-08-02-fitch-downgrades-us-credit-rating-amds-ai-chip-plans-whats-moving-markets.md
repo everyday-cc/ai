@@ -36,15 +36,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 133
-  - title: "3 ways IBM and Adobe are transforming content supply chains with generative AI"
-    excerpt: "We&#8217;re delighted about the recent expansion of IBM and Adobe&#8217;s dynamic partnership to help brands transform their content supply chains using generative AI. Our longstanding partnership with Adobe spanning both technology and consulting allows us to offer an unparalleled range of services"
-    publishedDateTime: 2023-08-01T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/3-ways-ibm-and-adobe-are-transforming-content-supply-chains-with-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
     publishedDateTime: 2023-08-03T15:02:00Z
@@ -185,20 +176,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-chatbot-willing-to-t.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "Meta To Launch AI Chatbots on Its Platforms Next Month"
-    excerpt: "Meta, although relatively quieter on the AI front than some of its big tech rivals, might just have a big surprise in store."
-    publishedDateTime: 2023-08-01T11:32:00Z
-    webUrl: "https://tech.co/news/meta-launch-ai-chatbots"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/03/10073649/AdobeStock_482385584_Editorial_Use_Only-min-scaled-e1678814941370.jpeg"
-        width: 1920
-        height: 960
         isCached: true
   - title: "AI's hallucination problem: Chatbots tend to make things up"
     excerpt: "Described as hallucination, confabulation or just plain making things up, it’s now a problem for every business, organization and high school student trying to get a “generative AI” system to compose documents and get work done."

@@ -2,6 +2,50 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-07-08-how-much-should-we-fear-artificial-intelligence.md",
+      "title": "How much should we fear artificial intelligence?",
+      "excerpt": "How much should we fear artificial intelligence? on facebook (opens in a new window) How much should we fear artificial intelligence? on linkedin (opens in a new window)",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
+      "originalUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F5b8ca4e1-e9cb-4b66-8c72-4a322a16ee90?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-un-ai-for-good-summit-explores-how-generative-ai-poses-risks-and-fosters-connections.md",
       "title": "UN AI for Good Summit Explores How Generative AI Poses Risks and Fosters Connections",
       "excerpt": "Panelists at the UN AI for Good summit discussed regulation, international cooperation, and the growth of generative AI.",
@@ -1129,58 +1173,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-data-security-why-a-proactive-stance-is-best.md",
-      "title": "Data security: Why a proactive stance is best",
-      "excerpt": "Threats to your data are everywhere. But with a proactive approach to data security, organizations can fight them.\nThe post Data security: Why a proactive stance is best appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
-      "originalUrl": "https://www.ibm.com/blog/data-security-why-a-proactive-stance-is-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/c8b7f5c7-c9f9-4595-904efee58de463ef-scaled-e1688662320284.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

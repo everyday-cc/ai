@@ -54,6 +54,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "The future of AI in businesses"
+    excerpt: "Artificial Intelligence has been the topic of conversations since it first hit the public market. Now there’s been concern over AI’s ethics in school and"
+    publishedDateTime: 2023-08-01T17:18:00Z
+    webUrl: "https://www.wwlp.com/massappeal/the-future-of-ai-in-businesses/"
+    type: article
+    provider:
+      name: WWLP-22News
+      domain: wwlp.com
+    quality: 19
 
 secured: "P13nT0nioxg3qXovDRJuQ5sB/EvMAUJ/x6xHxVx7vCSCM7oieaiL6bDm7Fe42F9j2Wo56vHWYwqkqUSnEzSzSwTROfEcCRa/aj93pbEkCnkxrHwzQ2DkDH3JoSyCtanXXlxpw/e/t1yAp+AEFBd2tSueivzDFMZr4QzcTnX//8qL5YV0wDtJsBMy2v0llL3jsAM5zsZmDtNDwxTxXRYPml6f7h5FWT4jL2MjJnedfP1sRLBL9DF7vfuQieN9285tQ2MQB9iQnL3+GhUVmHeotEsfg3AmA+AhKwVShckwxBypIJDUVgkjP964rLl6pYwoG0wDVsaG5JGmZLU6Tuud1UxNc2PRKzmUu0n56UZNZ4E=;X0R9wTkeEa82J9wlCGVvIg=="
 ---

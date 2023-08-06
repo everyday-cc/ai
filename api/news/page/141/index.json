@@ -2,6 +2,57 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2023-05-08-hollywoods-screenwriters-are-right-to-fear-ai.md",
+      "title": "Hollywood’s Screenwriters Are Right to Fear AI",
+      "excerpt": "The Writers Guild of America’s demands for guardrails on artificial intelligence are a smart move—and the stakes are higher than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
+      "originalUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/645594d6da92561daff9397d/master/pass/Hollywood%E2%80%99s-Screenwriters-Are-Right-to-Fear-AI-Culture-GettyImages-108903032.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/amp",
+      "publishedDateTime": "2023-05-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-how-4-startups-are-using-ai-to-solve-climate-change-challenges.md",
       "title": "How 4 startups are using AI to solve climate change challenges",
       "excerpt": "These startups are using AI to decarbonize buildings, create sustainable agriculture, protect biodiversity, and remove carbon from the atmosphere.",
@@ -1154,59 +1205,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
-      "title": "A mayday call for artificial intelligence",
-      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-07T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

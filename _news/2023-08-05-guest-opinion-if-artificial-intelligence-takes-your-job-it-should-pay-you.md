@@ -72,15 +72,6 @@ related:
       name: Austin American-Statesman
       domain: statesman.com
     quality: 17
-  - title: "Xiao-I Corporation: Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China"
-    excerpt: "SHANGHAI, CHINA / ACCESSWIRE / August 2, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, is excited to anno"
-    publishedDateTime: 2023-08-02T16:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59741520-xiao-i-corporation-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 11
 
 secured: "m6vrJZNVMJa2J4D8vmLxSKfeaNGFrbXPI0DuQ6jcxeK2j3uH6wvZYxrBA4bMg1mxAT9p3kP2PyvDalX9YSIKqTVCKIUZdOCmUPGaWXdSy9F9v4DLGiJSdC2bd4SKr8fS4KCZDdkzkxzHEHK1Ug+kVXInfH2MM4OYOAwiEG2b/SuI7iU29xG9DC9VyeVdxUmmR6A8lAUPodqX9LCgxhH1xplBZGHSJSCGyuf7Wy8o2fhobZGEmFoY5R5OG1HEx/da7GyhSP5ZX3HGtSNNzfwQu1fDb7XyGo1+IAMGqIolRnUned+5ZnUqz10SIP3lPzhMWXSJ/79P2kCc9I+HAKdFT3fD7oPyPeHhi0InSjyGD5g=;KAj3oG0MhDAFSHiFEzQDzw=="
 ---

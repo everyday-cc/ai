@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook, Instagram and other Meta apps may soon get AI-powered ‘personas’"
-    excerpt: "San Francisco: Meta (formerly Facebook) will reportedly launch an artificial intelligence (AI)-powered “personas” in its services — which include Facebook and Instagram — as soon as next month, giving users a new way to search, get recommendations, and otherwise engage with its products and also to boost engagement with its social media platforms."
-    publishedDateTime: 2023-08-01T12:40:00Z
-    webUrl: "https://telanganatoday.com/facebook-instagram-and-other-meta-apps-may-soon-get-ai-powered-personas"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 17
 
 secured: "wwIchpEuoUwV0t5MsjXjjXx6oadrut7oELYQequIgDbJY6+HdXD+R27qqaPFFqcEXmc21nKEkuLaBzNBE2iWJGMXvWX3aRzcT2TcKb0OHYNxP4LsJqEQIglJmsM2+X/e/wWPjiw35BrbKXxFymUNLz7oz5MuSfE84srMRSfzuguJPRYmmRxlHeGbDvvAYgWqEb42BTaosPwcjSVDcqG9eQMvJ3gckNmY7NQmQuDJtejNNrRu99fYJWdXDH7fT6zoKgK87Vw+pZB7WedW6+k8nYvcm/dvMk/2gZXO7TjxCDcAdRtsWJkzyYymqMAn8jAKalmutJ0QhKUK2KtEsAog199+8vS1lLeiTTMQEvVkRak=;BQPCfKnfYEdA5qqfukG7RA=="
 ---

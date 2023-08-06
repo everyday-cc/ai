@@ -97,15 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-powered brain implant restores a paralyzed man’s ability to feel and move"
-    excerpt: "For the first time, brain microchips help a patient with paralysis regain his ability to feel the touch of other people and move his arms at will."
-    publishedDateTime: 2023-08-01T12:16:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-implant-for-paralysis"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 16
 
 secured: "uo5up0Dso2yhWxybqd1UxAOztKjP3YhZLmB2LKfT3cijWhShyv2/lIdoqlfyQF9VPE93duOamW8WN9zBsCz0Tmsa8VBlbXOphB/PKuu+lmUfGUQ7eCneJO9hGNnrfnI6wYxMZD7+Zhsltwzzsf4HpCaw2VJKGQmn4lKBYE9ZiXKZ83n6C0oHDt9UUokRLJvPfwx7ZrlBB/S4373DiX19oecFTRZLfSXBwMUHroE+Ab3Ydl4CDdh9+ffX4uOlh+w1oZbwGpnjkPQQxa+qOmUgZXRfiwQ3x5xWwTx5lIdlX7j7xFTjoPFrprPx1WC3NB4nMJYIOt55Fd7DIqoHsH5+UCoZbkHxSpsXtiyMXQcCo34=;S65miL1OSozyowrU86qexg=="
 ---

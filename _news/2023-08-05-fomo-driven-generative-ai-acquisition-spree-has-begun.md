@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 type: article
 quality: 91
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "New threats, same rules for finance generative AI"
+    excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
+    publishedDateTime: 2023-08-02T20:39:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/new-threats-same-rules-for-finance-generative-ai/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Tim Cook confirms that Apple has been working on generative AI for years"
     excerpt: "Apple spent $22.61 billion on research and development through 2023, and CEO Tim Cook confirmed beyond a shadow of a doubt that part of that expenditure is because the company is working on generative AI."
     publishedDateTime: 2023-08-03T21:05:00Z
@@ -47,6 +56,20 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/55736-113232-SiriGPT-xl.jpg"
         width: 1312
         height: 738
+        isCached: true
+  - title: "Generative AI Impact on the Database"
+    excerpt: "Once you're able to see through the 'AI whitewashing,' a strong case for generative AI in the database space can be made."
+    publishedDateTime: 2023-08-02T17:53:00Z
+    webUrl: "https://redmondmag.com/articles/2023/08/02/generative-ai-impact-on-the-database.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIDatabaseintro.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Generative AI needs humans in the loop for widespread adoption"
     excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."

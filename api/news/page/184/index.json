@@ -2,6 +2,40 @@
   "page": 184,
   "value": [
     {
+      "path": "_news/2023-04-08-cobalt-speech-and-language-extending-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
+      "title": "Cobalt Speech And Language Extending Limited-Time Application For A Free Trial Speech Recognition Technology",
+      "excerpt": "Cobalt Speech and Language extending limited time free-trial offer. TYNGSBORO, MASSACHUSETTS, UNITED STATES, April 7, 2023/einpresswire.co",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "originalUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-08-introducing-the-neo-ai-a-pet-robot-of-openai-is-going-to-revolutionize-the-defi-space.md",
       "title": "Introducing the NEO AI - A Pet Robot of OpenAI is Going to Revolutionize the DeFi Space.",
       "excerpt": "In the latest development, NEO AI emerges as the pet robot of Open AI, revolutionizing the DeFi space. The platform aims to revolutionize the field of AI solutions and create a lasting impact on the DeFi ecosystem.",
@@ -959,40 +993,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-moscow-enhances-the-options-of-the-integrated-artificial-intelligence-service-for-diagnostic-radiology-by-almost-30-per-cent.md",
-      "title": "Moscow enhances the options of the integrated artificial intelligence service for diagnostic radiology by almost 30 per cent",
-      "excerpt": "The capabilities of the integrated artificial intelligence service have been enhanced in Moscow: a neural network can now simultaneously detect up to nine pathologies using CT scans. The algorithm was launched last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

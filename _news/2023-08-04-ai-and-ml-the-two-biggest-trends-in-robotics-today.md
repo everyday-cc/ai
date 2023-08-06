@@ -7,7 +7,7 @@ originalUrl: "https://www.packworld.com/machinery/robotics/article/22866396/ai-a
 webUrl: "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends"
 type: article
 quality: 86
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 551
     isCached: true
+
+related:
+  - title: "Ethics and Artificial Intelligence"
+    excerpt: "IPEC's Ethics and Artificial Intelligence research area focuses on the emerging, competing, and contradictory connections between politics, culture, and economy that result in questions of power, justice, and access related to artificial intelligence."
+    publishedDateTime: 2023-08-01T22:34:00Z
+    webUrl: "https://www.mtu.edu/ipec/research/areas/ethics-ai-research/"
+    type: article
+    provider:
+      name: Michigan Technological University
+      domain: mtu.edu
+    quality: 54
+    images:
+      - url: "https://www.mtu.edu/ipec/research/areas/ethics-ai-research/images/google-deepmind-snqm29dhfok-unsplash-banner1200.jpg"
+        width: 1200
+        height: 540
+        isCached: true
 
 secured: "v6CfKD9N3GFP4S0VRR47MwE/0bl0lZIyPrnE2gAceJB2tKQ9dY6GkylRkiIGJZpxZcQQ/70B5o9W6vOhJPPNRe+BsDpDILWkRW1T9h2KU4YKEJAj6b8VP5IwNf4lmw9YBH5SnKNRe4WWggr77ME5W9Sirq4xgl6YGkZIuQqsqC0g6RKf3XHa96ztmNTBALA0OMWztlZqjpqIE+t3hOLm2hJunaIb8YybstKQEUn3fvuAFJVXPuZZmrOhqFejef93RxYcnYXagi2xA06NhvZNF/apX1ooUsDWf9y3A0oMFHGDz8Fjn2KjHfPwgNtRZMKXP+8Gf6igwvgF9A5ydUF4l4Pea92ZXOy+PZEZurJvPtFL3krFE7/+FttBPX93WV7DiiNqrDYtOF8aB1Bp+VcepmzfCpzZj6TiVh20p+qTETT7Dm0TXzcc9iUL2mZFi1nDzN/cgKFWLoMR2sKtg8/mku8CznuOVPNEMZsLPdR8yzA0p1WHSqTuNpF4In/OYkwThbpQmECVOEZCkxGB6SYdyQ==;CUSucbjI0+qAr/a/bUcajw=="
 ---

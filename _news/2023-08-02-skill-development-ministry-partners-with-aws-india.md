@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Skill Development Ministry Partners with AWS India to Upskill Students in AI, Data and Cloud"
-    excerpt: "The Directorate General of Training under Ministry for Skill Development and Entrepreneurship (MSDE) is collaborating with Amazon Web Services India to upskill students in emerging technologies., Education News,"
-    publishedDateTime: 2023-08-01T12:17:00Z
-    webUrl: "https://www.timesnownews.com/education/skill-development-ministry-partners-with-aws-india-to-upskill-students-in-ai-data-and-cloud-article-102316923"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 23
   - title: "Skill development ministry partners with AWS India to upskill students in AI, data and cloud"
     excerpt: "The Directorate General of Training under Ministry for Skill Development and Entrepreneurship (MSDE) is collaborating with Amazon Web Services India to upskill students in emerging technologies. The free online programmes in cloud computing,"
     publishedDateTime: 2023-08-01T19:18:00Z

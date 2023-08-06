@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New threats, same rules for finance generative AI"
+    excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
+    publishedDateTime: 2023-08-02T20:39:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/new-threats-same-rules-for-finance-generative-ai/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Tim Cook confirms that Apple has been working on generative AI for years"
     excerpt: "Apple spent $22.61 billion on research and development through 2023, and CEO Tim Cook confirmed beyond a shadow of a doubt that part of that expenditure is because the company is working on generative AI."
     publishedDateTime: 2023-08-03T21:05:00Z
@@ -56,6 +65,20 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/55736-113232-SiriGPT-xl.jpg"
         width: 1312
         height: 738
+        isCached: true
+  - title: "Generative AI Impact on the Database"
+    excerpt: "Once you're able to see through the 'AI whitewashing,' a strong case for generative AI in the database space can be made."
+    publishedDateTime: 2023-08-02T17:53:00Z
+    webUrl: "https://redmondmag.com/articles/2023/08/02/generative-ai-impact-on-the-database.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIDatabaseintro.jpg"
+        width: 647
+        height: 450
         isCached: true
 
 secured: "RGzmxa0uQZ31uWHDBezXtGQM/asrIdHE7RMMCbQvi5iKSzhbgfnRuYKk2pfJ+x5IZz8BcNCOzdigkMLkE8Qkbg9kwNJsXKYCg5M5q9Lnw5lHxvdra4KhpKDnOyRnwZOHPU9H+Ufwgvyy3NAJEnowRgtngmCK6hFCH32mV7bvqGSyqroY5SCcVca6h0u+7MEYBB8eTVKGGFlXhAMSU/GnzwzRMosfyM0Fr3/HnJzhBBJ6F58RiC5Bg0ka6/dIeRmzpiQFdj7TN3mGAZwMv4Zt1iu5AUAja9xLUwa+pEPBUJ4+N2DP3A8vFIIVAEz8HNhrLqbM5td/iZjVYM2pi0poSC5lfrne82z/vzrUEvEYktTIUS8+TzR9MWkmIHKsB72hHg9v9XwES229UEQa6QLQnexFn8mwqLLxJDtSpmef2s1Yy1YtquGspHWaMUpv9lu4pku8agkkyMnxQL0NpC36lP/CZNqIHrbaLtnIb0z3bA5Hey81DKPMpkZ7xkWB/kKLL1ZZHu6S2/LJMZWfiyIMJg==;mqetZUMJlL7/bRpNqoD/IQ=="

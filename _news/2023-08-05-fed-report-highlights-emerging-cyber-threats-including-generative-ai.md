@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Regulation Drives Innovation And Protects Against Cyber Threats"
-    excerpt: "The changes that come with today's newest technology have positioned society to determine whether AI is a contributor or a threat."
-    publishedDateTime: 2023-08-04T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/04/how-ai-regulation-drives-innovation-and-protects-against-cyber-threats/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c790a88b9d213444ff5b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why"
     excerpt: "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\""
     publishedDateTime: 2023-08-04T17:22:00Z

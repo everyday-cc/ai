@@ -2,6 +2,57 @@
   "page": 179,
   "value": [
     {
+      "path": "_news/2023-04-14-cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers.md",
+      "title": "CIOs, Meet Your New Colleagues: Chief Data, Analytics and AI Officers",
+      "excerpt": "Collaboration is key as more companies hive off duties held by IT officers and create positions to better use data and manage emerging tech like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers-af6b58b9",
+      "originalUrl": "https://www.wsj.com/articles/cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers-af6b58b9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-763258/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-dissident-artist-ai-weiwei-recreated-a-monet-masterpiece-entirely-in-lego.md",
       "title": "Dissident artist Ai Weiwei recreated a Monet masterpiece entirely in Lego",
       "excerpt": "Artist and activist Ai Weiwei is examining design, history, and what humans choose to value in his exhibition “Making Sense” at London’s Design Museum (Opens in a new tab).",
@@ -1111,48 +1162,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
-      "title": "5 takeaways from the early days of IBM Partner Plus",
-      "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
-      "originalUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

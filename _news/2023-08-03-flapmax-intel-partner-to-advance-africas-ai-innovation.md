@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flapmax Partners Intel: Driving AI Innovation in Africa"
-    excerpt: "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel."
-    publishedDateTime: 2023-08-01T11:52:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
-    ampWebUrl: "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/resizedgg.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
     excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the"
     publishedDateTime: 2023-08-02T11:26:00Z

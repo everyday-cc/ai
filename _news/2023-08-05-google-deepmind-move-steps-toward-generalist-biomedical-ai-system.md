@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google's new AI model allows robots to finish tasks on their own"
-    excerpt: "Google's Deepmind AI division calls it a vision-language-action (VLA) model that learns by scouring the web and parsing through heaps of robotic data."
-    publishedDateTime: 2023-08-01T12:20:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-new-ai-model-allows-robots-to-finish-tasks-on-their-own-11075541.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 76
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/Deepming-710x435.png"
-        width: 710
-        height: 435
-        isCached: true
   - title: "Google DeepMind’s Achievements and Breakthroughs in AI Research: Top 5"
     excerpt: "DeepMind has stood at the forefront of AI research working on high-profile projects, including AlphaGo and AlphaFold."
     publishedDateTime: 2023-08-04T08:07:00Z

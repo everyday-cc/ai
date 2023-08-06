@@ -2,6 +2,58 @@
   "page": 162,
   "value": [
     {
+      "path": "_news/2023-04-26-exclusive-swiss-startup-unveils-world-first-ai-translation-service.md",
+      "title": "Exclusive: Swiss startup unveils ‘world-first’ AI translation service",
+      "excerpt": "Interprefy claims to have created the world’s first advanced automated speech translation service for online and live events.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "originalUrl": "https://thenextweb.com/news/interprefy-startup-unveils-worlds-first-advanced-automated-speech-translation-service-for-online-and-live-eventsinterprefy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2FUntitled-design-10.jpg&signature=d0273374d0073cb706cb6f2cdea4ca35",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-another-microsoft-365-outage-affects-search-functionality-in-services.md",
       "title": "Another Microsoft 365 outage affects search functionality in services",
       "excerpt": "Microsoft is trying to come up with short- and long-term fixes after users were unable to use the search functionality in multiple Microsoft 365 services, the company said in a Tweet on Monday.",
@@ -1200,57 +1252,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid.md",
-      "title": "GOP releases 100% AI-generated ad to fearmonger over Biden’s reelection bid",
-      "excerpt": "On the screen flashes a dark, AI-generated image of Biden and Vice President Kamala Harris, smiling and waving in front of a sea of American flags. From there, a series of AI-generated scenes show the faked future that the RNC imagines that this election result would bring,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-800x362.png",
-          "width": 800,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
-      "publishedDateTime": "2023-04-25T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
