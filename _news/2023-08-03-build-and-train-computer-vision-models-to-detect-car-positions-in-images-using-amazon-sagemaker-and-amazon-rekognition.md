@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-comp
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition/"
 type: article
 quality: 127
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -71,22 +71,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/optimize-data-prepration.jpg"
         width: 1016
         height: 507
-        isCached: true
-  - title: "Warning over using face recognition to catch shoplifters"
-    excerpt: "The Home Office declined to comment on the use of face recognition to catch shoplifters ... Ministers plan to introduce a new crime and justice bill in the upcoming King's Speech - although planning for the legislation is still in its early stages."
-    publishedDateTime: 2023-08-01T21:50:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66372601.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 91
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Use the Amazon SageMaker and Salesforce Data Cloud integration to power your Salesforce apps with AI/ML"
     excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the second post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker allows businesses"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/international-busine
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/image_2023-06-14_084033192.png"
         width: 687
         height: 371
-        isCached: true
-  - title: "AMD Q2 Beats Estimates As Server, PC Chip Demand Improves; Chipmaker Signals Strong Engagement Ahead Of AI Launch"
-    excerpt: "AMD shares have rallied over 80% year-to-date, outperforming the QQQ and the SOXX. The company noted strong demand for its EPYC server chips and Ryzen 7000 CPU processors in the second quarter. Advanced Micro Devices,"
-    publishedDateTime: 2023-08-01T20:54:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33506515/amd-q2-beats-estimates-as-server-pc-chip-demand-improves-chipmaker-signals-strong-engagement-ahead-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33506515"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33506515"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Freudenberg,,North,Rhine–westphalia_-_germany,-,22,05,2020:,An,Amd,Sign.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "Bs8a6bjkcbaLbZcWX4ENgkvg++pgrdkyeRqWwfFUS3Q5g/a8x+AHMGXR3MjfpQpf69M2bkJaBoa1OrNO40CK1GLgAWFeqTuoQVdy9GiNHskMi69TK4F9QPlMFchRGZNAIRw+sdSMNiPtDB8SiS3TiepXYixtBqURARcu4JX3md0QjhUQDT3vHuDUYf/yuzSgm9yXxfBj4uer5VNjvfrncMml5wOpVMcHkdJ2PxSjXh5Ckyb+piriPVExX77jzs48HwMg81JB1NP+6RgT+BtvueCT/ikaIP2My4+g+40zscZYbINsnJfKLHU/jd62Fw0gNzdeWwEW7MhXbp5iDaL/279eUfE7wNHeigqTkRUpNZdG93039WgFDiv85eR9B0r9i1dBWZP7yPyvtdL+O054LlqP/trdWOIpWDaPrpF6ybNqzzSPSf/XTUSxpFD6Y8ZCl5utlOsa3njirOQxiVSNWUdL1WU7Mithl0of5HPnyJaXntWpAnvjbnoADg2JsZxzKn9AKG9xUHrNHKA6ciwS+Q==;rklEmLjmXXxkQLfjsRx/8g=="

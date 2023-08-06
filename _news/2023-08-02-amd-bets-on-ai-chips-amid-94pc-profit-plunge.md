@@ -64,22 +64,6 @@ related:
         width: 687
         height: 371
         isCached: true
-  - title: "AMD Q2 Beats Estimates As Server, PC Chip Demand Improves; Chipmaker Signals Strong Engagement Ahead Of AI Launch"
-    excerpt: "AMD shares have rallied over 80% year-to-date, outperforming the QQQ and the SOXX. The company noted strong demand for its EPYC server chips and Ryzen 7000 CPU processors in the second quarter. Advanced Micro Devices,"
-    publishedDateTime: 2023-08-01T20:54:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/08/33506515/amd-q2-beats-estimates-as-server-pc-chip-demand-improves-chipmaker-signals-strong-engagement-ahead-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33506515"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33506515"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Freudenberg,,North,Rhine–westphalia_-_germany,-,22,05,2020:,An,Amd,Sign.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "OVhhZB+UDmNHDWZxdL3keJ5UVSoOzh4ZndnaJKAQHbE7e7kg6ANPvT6PpTiiE2fvoyEixJpxoIhKmfKng5djMMhJUizOUXAKfoZtu5rUM3XqgOCKjJ9M+GcREZKRL5rNidu5JMg3jIQCSBL0B3WO6LTb3DAOIPymaxQ4185HdeQhQlgw8oPFRNtN/3kd6Wkj8sPkJ12+UC/bkYxSC5EAqy79UdoSk8nHli262YrbuRY+okgZbmBP9904lIpZsmpOpM/YqhnegQXpDoP/5XD79O/yyHQ1bkTWCr01+XfHiIdHGY2VpfUMNgi7B5kuD6cljHg7crHVomTIK5X/O2kqFr5Usr0yghzA3ihwjhljV8g=;vx+gj0VM6QtHEJzxg5Clvw=="
 ---

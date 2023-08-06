@@ -3,11 +3,11 @@ category: news
 title: "Machine Learning Could Boost Liquid Biopsy Cancer Diagnoses"
 excerpt: "Short pieces of DNA floating in the bloodstream of cancer patients can help doctors diagnose specific types of cancer and choose the most effective treatment."
 publishedDateTime: 2023-08-03T09:33:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
-webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
+originalUrl: "https://www.technologynetworks.com/cancer-research/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
+webUrl: "https://www.technologynetworks.com/cancer-research/news/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/377224/machine-learning-could-boost-liquid-biopsy-cancer-diagnoses-377224-640x360.jpg?cb=20230803"
-    width: 640
-    height: 360
-    isCached: true
-
-secured: "A3fHo1Mx6Madl45vkdkwdIHZOzpQ/HFpy7M8Ntab6XeFKIqryB3ks4KX7xDaIIuNNwbR3tX/IdWTSw19K40XG71NWCBN7MXnlUSNvFnKn/y6eIBVixYqTn519MfqYQeNqP2fT8kK0bFfljPK8QfFDAulfa1LutA7n4wCjVwQHhkzsBDjp1QGevcMvNGSmIgTMA5zq6BAYrl/Rw4GZNWcuJvdI7ixvGUU6dUQ0L6BtxQvsdjKbgCAiCm+20F8E9ZNSSyEsbUxDUOdcjVHLABlsMbCL7377KVubIxx2rFGIqh6YQ81PFzguKI88ihuii5BmhKnx1AvRbCzpnltYQF0ylE8niIGxN7WbArAXNrKsZA=;x5BxvjPmaIG2Olj6s7gTsw=="
+secured: "khTqiyotFSLXoBd3h6yW+cqViNShhM3UEbKaujr4SIyk6X+DVNDKM70dAU6tTD46iUNU0pT2722W8Q3aZM12sFeNqW9M5S13MU+mNSejnW9FInf31S1qdlctwnKiUK4M6+8LafWLQdIpOILPfCFLvWLioOxUb8bj4ir1VIJ6q4tmvCJOUQ01xf6JgF3jZ6qezakgDjqTh52hrzeWT8/rUHBfiIJwlipQ5hQr7/zuuBwGg/aDW9/tBI46ZEyCpEZYwrf9DzfuUgxxG+Pn1DXlNRBBxRqey7d+VMtUxQJVsk0axSxURFlpqsj/65oJXwI6aOsiMwESnr9mXz9+G2Jmmxff5NtgZ2UvfocqDzPOHI4oihLwfSpt1ano78g7fzmXN7yuQ4eIPI+pJlEdvMsB55KTfZ5jCUPTc8efa6WCFIW9YR1/578p2b8C0xAgAq6cIBIalbG3OYGmdKxJZmc19+CwNB8SSqykX9Hx11dDWVcON3VGoxR/hSsYWKbVSohjWE2R0X+EAeFGU5/36fkATg==;2QpmNKBpAghW2l9vq0ccAg=="
 ---
 

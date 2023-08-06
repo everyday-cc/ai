@@ -143,6 +143,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Fintech firm Enkash expects business to grow by 36% to Rs 250 crore this fiscal"
+    excerpt: "Ascent Capital-backed Enkash founder Hemant Vishnoi said the company focuses on spends management of small and medium enterprises that have over Rs 10 crore annual turnover and expects the customer base to double in the current fiscal."
+    publishedDateTime: 2023-08-06T12:57:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/fintech-firm-enkash-expects-business-to-grow-by-36-to-rs-250-crore-this-fiscal/articleshow/102476139.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "ZfbCrmQco2JVk/PVu5szN69wyLSK4Me7uyHrEr+1+GD8Ku1l3oLzUsdIvmkci0feiSbPmT9ijcP35ifZ2oGkqTHkNlbZysvj8My/BDqwwpluhkHj7EMsZ6236T1m9ujA0B7kdj209qiFlE8L6KFSpiJyY3jkApJsV9x9/4eTAbwC69i9fwvUxE1ZCuGQaRAAzODs66Rhajag+t6Eydg6opnlF8TFJ3r7Z9+lQyGlY3wXTGUzuj5Cq4OTIuKWPU7K/PunB4HU78dDkETPzAjuemL+dpc7ycnmTiqrxrWu0VJ4SYWtEfwFj/aNRCDgvfRFXeybJriTO+aI3vS9NpzcGjilw1Xv5F4ZgwlgvSJklIk=;KI7aiv6FbjmAbCBeF9fynA=="
 ---

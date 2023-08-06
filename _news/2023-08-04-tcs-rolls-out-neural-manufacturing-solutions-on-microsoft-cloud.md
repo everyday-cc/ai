@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Duke Health partners with Microsoft to expand use of AI in health care, study responsible use"
-    excerpt: "Artificial intelligence can do everything from writing a social media post to scouring a medical journal, and it’s becoming more common in the health care field. On"
-    publishedDateTime: 2023-08-01T21:16:00Z
-    webUrl: "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/"
-    ampWebUrl: "https://www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/duke-health-partners-microsoft-expand-use-artificial-intelligence-health-care-study-responsible-ai-use/amp/"
+  - title: "New Microsoft Azure AD CTS feature can be abused for lateral movement"
+    excerpt: "Microsoft's new Azure Active Directory Cross-Tenant Synchronization (CTS) feature, introduced in June 2023, has created a new potential attack surface that might allow threat actors to more easily spread laterally to other Azure tenants."
+    publishedDateTime: 2023-08-03T22:55:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
     type: article
     provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 65
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
     images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/03/duke-health.001-e1685671071333.jpeg?w=1280"
-        width: 974
-        height: 648
+      - url: "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure-headpic.jpg"
+        width: 1600
+        height: 800
         isCached: true
   - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
     excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
@@ -65,33 +65,19 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "FMU grant to transform healthcare with the use of AI"
-    excerpt: "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI."
-    publishedDateTime: 2023-08-02T17:17:00Z
-    webUrl: "https://scnow.com/news/local/fmu-grant-to-transform-healthcare-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html"
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T08:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
     type: article
     provider:
-      name: SCNow
-      domain: scnow.com
-    quality: 54
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Microsoft Partner Chief Dezen: Partners Will Get More Generative AI Resources"
-    excerpt: "Dezen – who also serves as Redmond, Wash.-based Microsoft’s corporate vice president for the Global Partner Solutions (GPS) group – told CRN that the vendor is investing in its rechristened Microsoft AI Cloud Partner Program and other resources for partners around generative AI."
-    publishedDateTime: 2023-08-03T13:59:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-partner-chief-dezen-partners-will-get-more-generative-ai-resources"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
-    images:
-      - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
-        width: 400
-        height: 400
+      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
+        width: 630
+        height: 473
         isCached: true
   - title: "Now enjoy immersive conference calls with Microsoft's spatial audio feature for Teams desktop app"
     excerpt: "Microsoft has integrated spatial audio into its Teams desktop application to enhance virtual communication. The feature enables participants' voices to be perceived from distinct virtual locations on the screen,"
@@ -134,29 +120,24 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 42
-  - title: "FMU grant to transform health care with the use of AI"
-    excerpt: "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI."
-    publishedDateTime: 2023-08-02T17:17:00Z
-    webUrl: "https://scnow.com/news/local/fmu-grant-to-transform-health-care-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html"
+  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
+    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
+    publishedDateTime: 2023-08-03T20:11:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
     type: article
     provider:
-      name: SCNow
-      domain: scnow.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Google Hires 5 Key Execs From AWS, Microsoft: Here’s Who"
-    excerpt: "AWS and Microsoft executives hired by Google recently include former Presidents, AI and ML leaders aimed at driving Google Cloud customer and sales momentum."
-    publishedDateTime: 2023-08-02T18:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
+  - title: "Beware of overly permissive Azure AD cross-tenant synchronization policies"
+    excerpt: "A new proof of concept shows that attackers can use Azure AD CTS to leap to Microsoft and non-Microsoft application across tenants."
+    publishedDateTime: 2023-08-02T18:21:00Z
+    webUrl: "https://www.csoonline.com/article/648486/beware-of-overly-permissive-azure-ad-cross-tenant-synchronization-policies.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 36
+      name: CSOonline
+      domain: csoonline.com
+    quality: 17
 
 secured: "njO+XwTA+MiX80D/IIsdMfXzjVqQh+c3rPr7Iqp81490GPEzp/m9iTyr44MW+MI/ZX2jFSlIJDHW8q+e4YuYwUIffKUom9Wd4SanuUgUwbebgl9LN5kM5TD9As3OtTAjx8snCrMl4055OpI3DzD4HCRsOR1tZeEL4ZU2uJ8SgEA5iLoCT+1vSLhyUwXSZwyPI3TSiJVPMWjIDrvi73pyD+JouFFTw1GK60P3eOpheIMpJ3/b+Pw/l4eoF28Y5P9IiYR/cE5PUL2Eio74Czhgata9B+1uUISuEyWAH5tl8K8fUcYx8lysT85sf5qOhMlKP4kcYJosvY/PwsLhsT6K0ko+6O5XclBakhsnlZikwhEsl14pT96QUgn2TUoBwtFKKUp+BDNMj4gkyISt8NAdIID8cRRTvX4PPt7IvjYeSO/Kcip8nkU7d1KTRsvioC7z162wG+J8H2aqBV6Jfqknsh3XTyyMuna2RYLZHoxs9/1uh2iBopp316P9y5HANuBAiNNutsqRKW0MmV+KtwVLpg==;8EHCnOE4aqBaomC+fM2v/A=="
 ---

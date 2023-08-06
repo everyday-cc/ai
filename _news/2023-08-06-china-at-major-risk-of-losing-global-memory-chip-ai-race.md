@@ -7,7 +7,7 @@ originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1107276"
 webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1107276"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,21 +26,14 @@ images:
 
 related:
   - title: "China at major risk of losing global memory chip, AI race: Report"
-    excerpt: "China may lag behind in the global memory chip and artificial intelligence (AI) race amid Beijing's restriction on US-based Micron Technology and export sanctions by Joe Biden administration on American companies on sharing tech with China, the media ..."
-    publishedDateTime: 2023-08-06T09:27:00Z
-    webUrl: "https://www.indiatvnews.com/business/news/china-at-major-risk-of-losing-global-memory-chip-ai-race-joe-biden-american-companies-chatgpt-2023-08-06-885133"
-    ampWebUrl: "https://www.indiatvnews.com/amp/business/news/china-at-major-risk-of-losing-global-memory-chip-ai-race-joe-biden-american-companies-chatgpt-2023-08-06-885133"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/china-at-major-risk-of-losing-global-memory-chip-ai-race-joe-biden-american-companies-chatgpt-2023-08-06-885133"
+    excerpt: "Micron: According to the report, China was recently seen as catching up quickly with global suppliers in the field of advanced 3D NAND flash and DRAM memory chips, but not anymore."
+    publishedDateTime: 2023-08-06T13:12:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/china-at-major-risk-of-losing-global-memory-chip-ai-race-report/102476501"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/16902834951017512_europe_chips_04825.jpg"
-        width: 360
-        height: 239
-        isCached: true
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "8QcjhbaR9FK1OPoGvcBDVb229F/++Lp4jSeeL2ERETzwwAzzLiojTMuYT72Nkfnr2oAbF5er5nLDG4rVwLZbKZ3o77DkzUxcyXq3fbj++kai49l6QWaMXKmvAW8X45UNxUD2AfIuAeMvOBU/0s1XCBNVrgpN+7ebFmIxuI8Md60eJMiZxgPVUYfE7kwx+0gx+0bObMEb74K9VT07o0qPf7hcZyzsny71CbHF28Eb5nyeLhsB2FHr9iVUgjH82mFbv/N71SzEJ673jdjlV3dC8SZbK6GNwv8iEJvZhmTZBugVZnoUogYgySXCOeHUHWvvxv3T7ReK2/tqYLhTzRdnuASyrFAsAzfY4iVsEXhD6jQ=;uX5kdJ1HzYWvezA81tqn0Q=="
 ---

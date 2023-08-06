@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-found
 webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
+    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
+    publishedDateTime: 2023-08-05T13:00:00Z
+    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "dRcCjeBq94AX2mOFSVRHUNI6nhmycF+pEcugEC9I5Scs61gW5u+o1QUnG0CfF+zbJyxseKOu9wYNCTHVe1CxGwK/qp146JGq4n81neVPM7lfdevI653g0UbE05hjPne13B6F2Idg22nMJZ5mKawyCgWxJ/R9Sj1N3BqmAlrqjfLZu1s0gJDmrer0ulzYhLxwQkv2E4/qE+3CP1OWSHyQJeedCR9Ef394wubcAoFL/TsCiL1hvIt4Al9XziDm8FgtRmmS2fJtYBf/19hogrzINO3tpYT45Q3bpF70shXzq+IhgrITYzJ8K5DpdDKHf6eRvRKpwGLKTT0ITGjs3AoDppggiFYh5wyOiv2iIzDW5TI=;PwSMRfGFI3AxUSTD4+mEhQ=="
 ---

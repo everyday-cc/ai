@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "7 healthcare AI updates"
-    excerpt: "Here are seven updates on artificial intelligence developments in healthcare for ASC leaders reported by Becker's since June 5: 1. The FDA issued 510(k) clearance for the Magentiq-Colo, created by Israel-based technology company Magentiq-Eye."
-    publishedDateTime: 2023-08-01T20:55:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/7-healthcare-ai-updates.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "When It Comes to Eye Care, AI Couldn't See Straight"
     excerpt: "However, the chatbot in the cardiac care study did make something up, which is known as \"hallucinating\" in AI circles, when it responded that the cholesterol-lowering drug inclisiran (Leqvio) is commercially unavailable. In fact, the FDA approved it in 2021 and it's readily available."
     publishedDateTime: 2023-08-04T16:37:00Z

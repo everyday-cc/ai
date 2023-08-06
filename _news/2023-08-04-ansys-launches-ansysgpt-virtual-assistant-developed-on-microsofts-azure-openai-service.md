@@ -7,8 +7,8 @@ originalUrl: "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-v
 webUrl: "https://www.technologyrecord.com/article/ansys-launches-ansysgpt-virtual-assistant-developed-on-microsofts-azure-openai-service"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: 61
+published: false
 
 provider:
   name: technologyrecord.com
@@ -23,31 +23,6 @@ images:
     width: 975
     height: 548
     isCached: true
-
-related:
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T08:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919912/percept-insight-launches-its-next-generation-ai-powered-analytics-platform-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 52
-    images:
-      - url: "https://cdn.bignewsnetwork.com/OTA2M2Y4MWUtMjJ.jpg"
-        width: 630
-        height: 473
-        isCached: true
-  - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
-    excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
-    publishedDateTime: 2023-08-03T20:11:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230803/4105031.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 32
 
 secured: "5Lqqq1HUyYfJlRod1nptZv9dUjrnNNLOvCOVRjp7xPHehdDK4t0R/12f8LnIDDb2fhpv+PRuS/ajsdczeGi6havACUy0cT/ery3q7QYcLTdgsF0K+H27V+JHef+rJcLmKbWaXqbMdu6dpGlmrGp+qhaYEn+WQdNkU8SjFI8BKJrcWnc4NHpCSHrokKGEDqXc2GiTBsecLragTEGQbCl7v6liFSCYNp86ZOIbdCc6Pf0l2wVn1g26+kr8OFS7obKgzH7uLykiFtHrHyKEYx+kKqCsTd2uT78jhhNY56YwiPAKpno3HCDMF2c2uTGeIjzvaruBhpxi4F8zI1KKzN1Hb+Uvy4Mn9BsDyTa1wNWoq3NqNI+WW37n8vNMacOf41SKP77nfY9q03ZqyGYK2OoTin1XNgR9STRomHHb/fKL9am0TvXLsxroSAoOlHxuWVVUW5gGMCgsQ9cOeAhya2jPiCYMKeks8Ot2YS7IU7rUZEHW3JBrtx47ow/NDeZXFdiDDeX9H6Ak8YeD75vOm0++qA==;4klPGrgd5sS/UTxy3MYnBQ=="
 ---

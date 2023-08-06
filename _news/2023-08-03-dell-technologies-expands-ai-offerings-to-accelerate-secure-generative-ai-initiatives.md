@@ -48,6 +48,15 @@ related:
       name: Healthcare Dive
       domain: healthcaredive.com
     quality: 34
+  - title: "Apple seeks to bolster expertise in generative AI on mobile devices"
+    excerpt: "All the jobs were advertised between April and July and indicated that Apple was working on “ambitious long-term research ... Facebook owner Meta, but planned to grow further, the person said. In 2020, Apple paid almost $200mn for Seattle-based AI ..."
+    publishedDateTime: 2023-08-05T13:00:00Z
+    webUrl: "https://www.ft.com/content/d74477b6-8355-42a9-ae37-7c835880ef9e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "nETIlsZl2jnz8lA/jE7XbwsbSp12eYWfrgV0UhJwUKd2xXqoIOlVjvWQ4FBVDHks5a1htm7bZIr4BAAa/uYJdaWtZCr3IS98DMzIr5Zv2e8H+ouJLcdL2ApCkrMNrPtZfX+ciQ8oBopHPyZx1f6GlS/00QGMtmyMOYxBIoDZ/t8JQPDQsB3X2311OMvoYImyT7asjDXlLxfwDCJVk6w/79HYA9BBvXNKPab5HR4685owFjXuWLKmw5yQtT2PRvLLHJjlPZSx5XpECPke9Y8YOavoiZ9M1A7pS4ND2ilQfCUR4aYgKQ0ZM0NFKbHMeaD6wUM8XDWKohmWAehCsvmgXU+n74LHILB4afffIuWLpjY=;RHr2/2QzqBy+zfpFPz8mCw=="
 ---

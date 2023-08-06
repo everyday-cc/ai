@@ -19,35 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI services pulled from Apple App Store in China ahead of new regulations"
-    excerpt: "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license."
-    publishedDateTime: 2023-08-01T19:05:00Z
-    webUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/"
-    ampWebUrl: "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/"
+  - title: "4 ways generative AI makes founders more interesting to journalists"
+    excerpt: "Gutted newsrooms could stymie one of the greatest engines of startup growth. While generative AI will enhance the capabilities of many publications, they’re also creeping onto news sites in ways we can’t foresee while journalists are laid off."
+    publishedDateTime: 2023-08-05T21:29:00Z
+    webUrl: "https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 80
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1249090879.jpg?resize=1200,750"
         width: 1200
-        height: 800
+        height: 750
         isCached: true
-  - title: "Generative AI Introduces New DLP Challenges"
-    excerpt: "Generative AI, such as OpenAI's ChatGPT, has been making headlines in the tech world recently. These AI models are trained"
-    publishedDateTime: 2023-08-04T11:46:00Z
-    webUrl: "https://www.techbooky.com/generative-ai-introduces-new-dlp-challenges/"
+  - title: "Codoxo Launches Generative AI for Healthcare Payment Integrity"
+    excerpt: "Codoxo is investing deeply in groundbreaking AI applications to create a more affordable and efficient healthcare system. Our generative AI tackles the industry’s most complex and relatively untouched frontier of healthcare claims,"
+    publishedDateTime: 2023-08-02T19:47:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20230802-codoxo-launches-generative-ai-for-healthcare-payment-integrity/"
     type: article
     provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 34
+  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
+    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/08/generative-ai.webp?fit=1000%2C563&ssl=1"
-        width: 1000
-        height: 563
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "x1LynDV0QB3Oyt+faKPD+L7cXOE6rqCt3NZpaL6XUgn2nSmASs69y6sb/D9cZBZpIANEbB9Ezj8pp1ogKFBUEulTZ8bER6DykMxMNcV9TwP5ZbAEQr2qra2MxZE4d7Xv0zlwE6QmzrAvQi1RzPnPQ9C1e8WH5k6zgPuxSjDsOz2osExPYUu6c+d8lhwjr4g/mw1087Azge6AaY3K+PA0l+9Ls1jUgTi7MlYQN60zSnDWSPvF+VoEu5im+XTS+Ls6fv5YXKCPbp2hTTc6SNuUx7UVR8z8jBij8OBi+34pM1Qxh1uCFCj6/eXM+B2z3C93X5De6CpVvF/xMXSAEEh0Io2xO24O0BT1PE8PlGlQGsY=;FFJkNwc7vOMRBTlMCOHKAQ=="

@@ -3,8 +3,8 @@ category: news
 title: "Experience: scammers used AI to fake my daughter’s kidnap"
 excerpt: "No part of me questioned whether this was real - I had to save my baby"
 publishedDateTime: 2023-08-04T08:00:00Z
-originalUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
-webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
+originalUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
+webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
 type: article
@@ -44,7 +44,16 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Lessons from finance’s experience with artificial intelligence"
+    excerpt: "PREMIUM Ai and machine-learning funds seemed like the final step in the march of the robots.(REUTERS) This rule appears to hold for artificial intelligence (ai) and machine learning, which were first employed by hedge funds decades ago,"
+    publishedDateTime: 2023-08-05T19:47:00Z
+    webUrl: "https://www.hindustantimes.com/business/lessons-from-finance-s-experience-with-artificial-intelligence-101691260940066.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 36
 
-secured: "G1JASEPza5CvQA9dzPmzvJbLwYABEQ5bw2d2JJ6CZCfkqcmU6rHeKUXDpEcbn1Ouk7AYHO0iwLJyAeRDwP40rzqqft9QcyFHFuH2R9vFPy/dd/1MduNlP3JMvwh219induwBi4/cBQcjV5cfWt+hCCfbuv8q7TTwuUAr5EztOuswFPV+g7F0pGjCcNfErKXI7dtRPr/rUopidL+81vumR3fIVIxVexfv0OqsVw2oBJU3UZYg++4mpzuNizMPVEG8s93fDrLpQ14EBZ14UVhieJYMrZj2xWCKaXsP33EUOsBeltx31ua2YrwZp4xNOgbM3+yHI0IlcrdwWD5XC4eIWJ86EMa80VTNZh+C+/bMjpnveAZPEwRIo7rC3FeQQsabm60JD7b2ifO3yVMPX2J94XCrmirZZBsKB3Fy7kn1hwWGqRY4mNe3tfCZ9jP4m2zONYu/EjmOn7P5qFXlw20rYEKnBNeL8nX74J0cUrCn80ea2InJXarB0wdti2e2JX97K3J8IddaYQjVeZZHrncX9g==;O+R6MP6iBVTirvSDt8DApQ=="
+secured: "A31xM+37QBv92uuSuvl3kU4zUC3ULuilMAg0tnEtEbcf+iCR4YfN5xBRUOBngLvcqnfccJCH1GrjlU8JrWhGlvAZ01WhmWr0Y5nxr2bPnuCs313uSBEtAH3SHNAOHRGLj7G29YipeU7MqK85smbbjOeagCGY9bTi7lZ/nOQJPnSZ6qCL7wx8VBEQFFoAAaqcp9QSaaLrm7h8Om7opNxcJqwA1wvytyfauUhWQEthcpxcDXX7f4pswpID0xKsk99TqSQn0CjCd4iV0WuKpo/OBXEqGLOlyWuzI+c0TY8qJ2GRTFA4Gee82uVvZF2CwIAZXHwIs4t7vJEmkIgJqI6BgjiXj5Bsi23h2K5tzKCpHgY=;WTFbcBjay9Ozl0e8fdM1ZA=="
 ---
 

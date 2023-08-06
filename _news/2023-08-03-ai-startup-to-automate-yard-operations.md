@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blackbaud teams with startup that uses AI to increase relationships, donations"
-    excerpt: "Blackbaud Inc. has become an investor in a company that uses automated intelligence to help charitable organizations reach more donors and improve their fundraising efforts."
-    publishedDateTime: 2023-08-01T21:00:00Z
-    webUrl: "https://www.postandcourier.com/business/blackbaud-teams-with-startup-that-uses-ai-to-increase-relationships-donations/article_fb76b41c-2fd9-11ee-8a2e-6b5404feb7ca.html"
-    type: article
-    provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/2e/a2e3e6da-2d68-11ee-bd0e-3fca5d14dbd9/6424abb14c1a7.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-Powered Spend Management: Brex and Rho Harness AI Startups to Revolutionize Financial Operations"
     excerpt: "Brex and Rho, two spend management companies, are turning to AI startups to help power their new products as the spend management space heats up. Both companies are leveraging AI to automate and simplify tasks like expense tracking,"
     publishedDateTime: 2023-08-02T08:34:00Z

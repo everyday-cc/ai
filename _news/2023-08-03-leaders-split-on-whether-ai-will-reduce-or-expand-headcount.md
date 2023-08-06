@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "SF teachers, students split on AI classroom adoption"
+    excerpt: "The emerging technology has made incredible strides at a breakneck pace, predicting sports playoffs, passing the bar and even outperforming Univiersity of California students on standardized tests."
+    publishedDateTime: 2023-08-06T12:00:00Z
+    webUrl: "https://www.sfexaminer.com/news/education/sf-teachers-students-split-on-ai-adoption-in-classrooms/article_b16c5190-32ec-11ee-8184-fb14b7ef1b70.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 19
+
 secured: "rYL/m3MoHaGp5WdrNEQBXNBurbWT1+lLhGMbrq1N4Mxcxfw2SrU1KGsUIx4BblXjzQXP1s3tBZyA+BJq8+NrIdSXu5ffod7QJAbsa4xkUthZLDk9SpZxdU8v1usd/W0xqzaCv5fgFpmWKPijfnG96CzHp7UDDjxqYf/1SMylD5CwZt5xF4QgPHSHvZOGvwvRXkKgJjdYsE0UH7tTza11Oi3m6cQ/FPDvUDgKoOsbyewk76YpIKpTEDWYWPD8b69Lr8kFlKyTw919gPci2LQtmk9iLONR3yDt/cXoq48/pCBcEFiMtDshjDkGwNC4f+B6m8twLSUx5BtJ+CBzzxxexjT28HCrptpWQgT54mcIXLkKibe0RxniuMNpFoBfQGYk/UhsjW3DsjzPXdyz2wu+8WCw+YA1y9wWaideeXuAQXXtmMYXAgPEtulPdVGj3+NDIa1HrWWIWjRiyfsdQcvHu3CCWqEP/ESoZJ8v9DrfqcnPwOfF8bu2JvVMhIs+yXFhmtacNzgoCUGfwsA0bKOeEQ==;Y4cfVsulgbzMj/0U3hvC7g=="
 ---
 

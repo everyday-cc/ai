@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Meta plans AI-powered chatbots to boost social media numbers"
-    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
-    publishedDateTime: 2023-08-01T19:10:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/facebook_bot_hero_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "How chatbots can provide a better customer experience"
     excerpt: "Users are frustrated by limited chatbots that insufficiently resolve queries or deliver unsatisfactory outcomes. Learn how AI can help.\nThe post How chatbots can provide a better customer experience appeared first on IBM Blog.\n"
     publishedDateTime: 2023-08-02T12:01:00Z
@@ -115,15 +99,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Meta readies AI chatbots for artificial companionship—and user retention"
-    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
-    publishedDateTime: 2023-08-01T19:10:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 48
   - title: "Uber is working on its own AI chatbot, reveals CEO"
     excerpt: "Uber CEO Dara Khosrowshahi told Bloomberg this week that the company is working on its own AI chatbot, with no specific details disclosed. Also: Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     publishedDateTime: 2023-08-03T18:29:00Z
@@ -277,15 +252,6 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 19
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
-    publishedDateTime: 2023-08-01T21:49:00Z
-    webUrl: "https://lasvegassun.com/news/2023/aug/01/chatbots-sometimes-make-things-up-is-ais-hallucina/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 16
 
 secured: "wrjg6BnWydb6v/EOZ3HKj6gM09DmqHudMfeNLss0V51qSntnasrGl8utmNPGfS67B7yE8drvklOjdf+Wdqo6/YdnuEHxwFYJ5C/fPFLAq3B6VTwUJoG/xliHyLhnVBvXtpJ5K5VzSYz2v+EBZmX8nBdQi3uaw5ykPmVJCkn+BI0FWFWzZeh9rF+aacB1KnuLE/jZJV5K3oXG6Cbq8gm04ZzoGOYcNF6aPm44iXaZK+rnXWE+EJAs8AKiJUkrGovh8TLjQONGZLanM+B3/oSR1tbbcg4JZFYPpMo6SXJ6OyWQEK/OpvD4svsz//A66ZVgc/u/aUs4wwCeQ4qXzmXzbMIoZwZSyv62NIsSoTNFqpn/0jfHmvCf3xWIAqTEhRXEUNXi6H6u2pYpT0m2QHxd8Dn9zPfyxHwiDrfMN8x78wg5ajQPUPS4asHS61WK6D4WXQy7gif4mUFuN2X+0OtkWXHlLbLqiEy2MsMrcift3gqcmD6M29hts+pokz1IE9jvUm8Avxz+YVQ4kisaFYf3cA==;B3c7QJzX49O/kr6sLaIP4A=="
 ---

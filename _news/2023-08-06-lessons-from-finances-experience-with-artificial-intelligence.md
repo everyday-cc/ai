@@ -20,21 +20,35 @@ topics:
   - AI in Finance
 
 related:
-  - title: "New Sci-Fi Shorts Prompted Into Existence With AI"
-    excerpt: "1000 Miles and the other emerging cinematic AI shorts demonstrate the disruptive potential of AI-enabled content production. Anyone can now make the greatest game or movie or comic book universe of all time, with no art or coding skills, no actors, nor studio or distrubutor."
-    publishedDateTime: 2023-08-01T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/amp/"
+  - title: "Woman's AI bionic arm is fitted after Tube near-death experience"
+    excerpt: "A woman has had an AI bionic arm fitted nine months after receiving life-changing injuries at a Tube station. Sarah de Lagarde was run over by two London Underground trains at High Barnet Station in September 2022, with her arm and leg needing to be amputated."
+    publishedDateTime: 2023-08-03T07:31:00Z
+    webUrl: "https://www.bbc.com/news/av/uk-england-london-66372057"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c95eda3ffd0e8d3bc6f9a3/0x0.jpg?format=jpg&crop=1386,779,x122,y116,safe&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D822/production/_130603355_p0g40jxs.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Experience: scammers used AI to fake my daughter’s kidnap"
+    excerpt: "No part of me questioned whether this was real - I had to save my baby"
+    publishedDateTime: 2023-08-04T08:00:00Z
+    webUrl: "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8577d10c56ad1547410b78513c9eb79635a4d369/0_270_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=f605c29b644e24da2d51b8fcf9ddc591"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "kZItQS/aH4UaD/gKY1Mj3shXrVRYGEdFTu6w7Xd5vtYwprxmbl7Wfmlx99TeSDZWvzrS5yKERnVtPM3EVV5RVyKnzI5nRNNjWLyoBQyr87cv2N3XX7T6/xd59qmSVfzVZKYz2RIWyOcv5lxc6U0nRmZL1HdgSFI9C9LGzt/G6ImcvdIn21BwltORX0Q+aeCCYqi1U3jnLbYDwflh81vLtc5AGsQqnSK7/lEEEAA2L61AmK4FsxqIGA9a2JYTqFaFwBZcsHl12jZQLSWKf6lhNENvV6DEJGuZF/NcQieFTLKnp8IXUf3xtDN1rIp7k/kwyZewwgH4KprKqHRRxiNsDNWp7YXrM4BC1Gcah25MYvU=;NeneFmSdX/48DxzsKW6WWw=="

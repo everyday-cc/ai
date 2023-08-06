@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Plat
 webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "VAST Data launches unified data platform for the age of AI"
-    excerpt: "VAST Data launches novel unfied data platform to help organizations better manage data and accelerate AI initiatives of the future."
-    publishedDateTime: 2023-08-01T20:04:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/"
+  - title: "Study Warns That Doctors Are Not Prepared for AI Transformation of Medicine"
+    excerpt: "AI is becoming an integral part of medical decision-making, but physicians need to enhance their understanding of these tools for optimal use. Expert recommendations call for targeted training and a hands-on learning approach."
+    publishedDateTime: 2023-08-06T14:36:00Z
+    webUrl: "https://scitechdaily.com/study-warns-that-doctors-are-not-prepared-for-ai-transformation-of-medicine/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/VAST-Data-Platform-e1690911973261.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
 
 secured: "UMWLZW85EWxvXRlvb15BUV2hvxb+OMf+5APzQV+Favn1kg+/GUlMzUTBowbXPRBRxKkXyfy9q5xk6iaZPVL/J6qUWHie8orF0A4X+69FfucyHHPMbv2hxA53URIWPOCK52pih8IDkDRuVGXc3Xb8VyynlH/Mcy9F+gVb+EeMYowLdZW7U/WdiJYkM6XoTX+JDY5J5nT6nSNu7s2ZyevUu0ijoCHb6SipIBPofsv2cD/SW2PvD+AmIM4ntsLCaOsAewiqUZwdORogxmSr1BJqePgS+0UW+/KaSBFEaKskbjUCRIIxIIfRNy0RWi9YTmcqqhplG9HPqxYnI1NN2V/Ar2WNA8EIThAYEmv3aDVLhmY=;+zMN3WBVbyr7LMKeZtLrRw=="
 ---

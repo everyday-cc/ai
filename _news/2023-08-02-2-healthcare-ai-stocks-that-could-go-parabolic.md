@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-t
 webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.wsj.net/im-827019/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "7 healthcare AI updates"
-    excerpt: "Here are seven updates on artificial intelligence developments in healthcare for ASC leaders reported by Becker's since June 5: 1. The FDA issued 510(k) clearance for the Magentiq-Colo, created by Israel-based technology company Magentiq-Eye."
-    publishedDateTime: 2023-08-01T20:55:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/7-healthcare-ai-updates.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "AI in Health Care: 8 Best Stocks to Buy"
     excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "China at major risk of losing global memory chip, AI race: Report"
-excerpt: "China may lag behind in the global memory chip and artificial intelligence (AI) race amid Beijing's restriction on US-based Micron Technology and export sanctions by Joe Biden administration on American companies on sharing tech with China, the media ..."
-publishedDateTime: 2023-08-06T09:27:00Z
-originalUrl: "https://www.indiatvnews.com/business/news/china-at-major-risk-of-losing-global-memory-chip-ai-race-joe-biden-american-companies-chatgpt-2023-08-06-885133"
-webUrl: "https://www.indiatvnews.com/business/news/china-at-major-risk-of-losing-global-memory-chip-ai-race-joe-biden-american-companies-chatgpt-2023-08-06-885133"
-ampWebUrl: "https://www.indiatvnews.com/amp/business/news/china-at-major-risk-of-losing-global-memory-chip-ai-race-joe-biden-american-companies-chatgpt-2023-08-06-885133"
-cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/china-at-major-risk-of-losing-global-memory-chip-ai-race-joe-biden-american-companies-chatgpt-2023-08-06-885133"
+excerpt: "Micron: According to the report, China was recently seen as catching up quickly with global suppliers in the field of advanced 3D NAND flash and DRAM memory chips, but not anymore."
+publishedDateTime: 2023-08-06T13:12:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/china-at-major-risk-of-losing-global-memory-chip-ai-race-report/102476501"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/china-at-major-risk-of-losing-global-memory-chip-ai-race-report/102476501"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: India TV
-  domain: indiatvnews.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/16902834951017512_europe_chips_04825.jpg"
-    width: 360
-    height: 239
-    isCached: true
 
 related:
   - title: "China at major risk of losing global memory chip, AI race"
@@ -42,6 +34,6 @@ related:
         height: 459
         isCached: true
 
-secured: "dIk3xTvGGbyIv35m4mUnmLGpmqIJvCZTO/laYO+wKR5V03s7x7jX8meNGZlnMjFS9IwBB6stUI4S6UKvdhXWDZfYTjh6P5yjQOGHzG8W7N6eaUQVlqXVVb5GU2h+xGaXORwC4K49dJ0EbvTG5puBJA6cEenT5YhFXs3+APOXwWElJ7mBolJcdPO0L03IyF8Ylri3gbSal8zjh+cUnBDWqCQmUzqgznhj16dKYLczylPKeNRZvWbAk+16rEhTlUOibraV4rSMrGm7+DPHXsZpFEtlB4qfFFJGPEJTfZvmreG5q3uDEE8zAtCYUqhjoztZ0mkiPvk8sXGL1fDXdt2Bnp1VwLpwc4IUc+/neYIvC9c=;NHa9YWM8nD4xJFwwLr+Kdw=="
+secured: "uQrCaq21KU4e+L6zB8DALjcISzfHz5HpqcEU6OfpMQBeVf06B64xJc2bZxsgG8rgib2Ada+t2Ewof3WeAwCT6QqlshVHiWa1D7wdYtjKUCn2LEu0I11YkoU9kSLBDinZs5fPfOLFEUYWmY8EsMPGORqo5SaCAtCJE7dy80SYCaD+Wyvr+QyAaPn2ajuj+okKCsSnZsi1o3hyI9rk5RFK46dPhyffUQGP9nn3KPeSlYVVisMS3gjk1OpAyYshVAHzZBOz87Ncy95z7Mm6rUbf47b4e7LNp67RxpR62Jm/M8/KuOw5Be/SXOg79/jbUE9FHBSQngBj1G7e5Q4B+pzQqPR/UGMkdk5iVtCikpXHhzo=;/7z8WErZZDUPVRJX4thF/Q=="
 ---
 

@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Another robot will take your order now. White Castle joins 7 other fast-food restaurants using AI at the drive-thru &mdash; see the full list."
+    excerpt: "He didn't disclose the test location. Last year, fast-casual chain Panera Bread began testing AI-powered drive-thru tech at two upstate New York restaurants. An automated bot named \"Tori\" created by the startup OpenCity takes orders from drive-thru customers."
+    publishedDateTime: 2023-08-06T11:45:00Z
+    webUrl: "https://www.businessinsider.in/retail/news/another-robot-will-take-your-order-now-white-castle-joins-7-other-fast-food-restaurants-using-ai-at-the-drive-thru-ampmdash-see-the-full-list-/slidelist/102474704.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 0
+
 secured: "CiBd3W3Po+RxTHvQ9Q9I3E/5t9fYyptxpZ/+ta902aAxIYvxdobtnvGiN7xfpQ+3E/WgRMKEUeMdVvm01UTAiBN1rpEhZoLBWnYEGx4ZMzx9Yc20y9WSrYvyEgRNBldDtYL2mmA/XON744Pg+svN+nzQxDvamEvRU5B9Si9verEXCP08vwynSmi91Ar0MzhZq2N0NfWrUUV7CGeqOISH9M9DWLx901iqmVdI8fmnqERndAHhPhheYvrmze/wkF63DGBmISFa1aFqE9hxSKt9at67tLVqoIVyqXBR+vrrmzXHRezKTN51iSviu3iSWd6C4XagVP+aC+BU+IYjtSq6CfNyoXgpPSf6eEgJm3DC4oc=;iJfdhywxiuJlbuAJmFUkuQ=="
 ---
 

@@ -1,29 +1,32 @@
 ---
 category: news
-title: "China EVs: Why BMW, Volkswagen, Mercedes-Benz are revving up L3 autonomous driving tech investments"
-excerpt: "BMW has joined fellow rivals in announcing the development of an L3 autonomous driving system for China, with plans launch it later this year or early 2024. Electric cars with safe and reliable autonomous driving systems will enjoy an advantage over their competitors,"
-publishedDateTime: 2023-08-01T05:34:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/01/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-up-l3-autonomous-driving-tech-investments"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/01/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-up-l3-autonomous-driving-tech-investments"
+title: "China EVs: why BMW, Volkswagen, Mercedes-Benz are revving up L3 autonomous driving tech investments"
+excerpt: "The most complex component in self-driving is lidar or light ­detection ... Li Zhenyu, vice-president of Baidu, China’s top artificial intelligence firm that also develops autonomous driving ..."
+publishedDateTime: 2023-08-01T06:42:00Z
+originalUrl: "https://www.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments"
+webUrl: "https://www.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments"
+ampWebUrl: "https://amp.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments"
 type: article
-quality: 10
-heat: 10
-published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: scmp.com
+  domain: scmp.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/08/01/2207419.jpg"
-    width: 1240
-    height: 697
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/30/32ee7e3b-2e72-477c-8147-ae48fce808b5_f5edd727.jpg?itok=I6-8bxAA&v=1690712542"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "DaFyOPsjtxpDTA3R2KjjhJPyKuNszc3DxjXM0iyeGmGqaPfZKth2mHTkVFVHq+qgr4ew01Vhozr+V5ZB9DvR5GNAGohAwu4dTy/IT/ZGnQ+OTrOCDAHHXOYoCOxrUxu1XmxOZrFJn5w3rWJnS938xcLg09v5WG8yxvobIiyxLILSE8JsPRZinUBg+/t3Fcet1bVJRQ+nuCq7SQjZYhQP7I1tR5TGW2XHGx+uH1N+shE97ScnZKZ/5XEt4WW3EhFEbZufedN4ZIx6F8Pfg9tENARIUp5zqcJ5ISE1djnHiMe5yfMto48/klG9ebOE9hkFg2b88F6ohNkv+mFVH+rlZSYAacfefY4J5vvrKaR01nY=;zIslTl0IJxS3bAoSfBxfwA=="
+secured: "7vgX7QPxOSC5bQPKEULH6Jb55I889zPYejBfM239/QB3aqLsS0WZz0+47XgIn6ppAV76rTyiHsPeqBNChtU0N7jnruhYWNE224U7bTeshRBQLbzxxwmjqmV6thuyUzLnFoRx3AHhT6CMYFhj6031iuecltC66r6hvN9CSHLkedxFKxbEPg1ytBTrzkXWVp+NnGqvk3wGXmDaTbfVSaLpdEvb+jrethBya1qvanWNa6aW4ee17S5pQD0RkmUGvThMptx3MIU1Cn5STp82qNsds3896Ht+vxEEEOGzG2o9OYa78sJbTSeYlE9RGj0jyEfQJsp/8fsebxscBbMq/vdkmHaQNmw9qp1RZsgxv6JbCTg=;JQAnpsyuA1mFC/uqLxfZMw=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "AMD’s revenue slid 18% in Q2 but ‘AI engagements increased’ big time"
-    excerpt: "AMD's guidance came in a tad below Street estimates on Tuesday. But CEO Lisa Su made positive remarks on the company's AI push."
-    publishedDateTime: 2023-08-01T22:29:00Z
-    webUrl: "https://invezz.com/news/2023/08/01/amd-q2-revenue-down-positive-ai-commentary/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 19
 
 secured: "Mi/v6Eaovio9nDo0uiAaoxlmwTDEStZcT+MZBl+KHUqBJHtdcdYaTIkUwF8BHFWvikZGkeTNd+IsS8nBfXt1TYgffxrYaK6wHhsZzfGgincMeuckyMHCiJCJ/HDIL81tz2iAJXiblPXimsIUB6HI8eS+9SB6USZ//sn7hFKUWSVjl4UGvtUUm74+eaCXgo2UbXg4l2eub/L6Jg5OeTFM5y8YCHhKA5mniFMMC6D9GYW2ke33/72gZC/XK+4ENsN/RTqBzYKvWFPNS7IX5b10VjsxzkrZiX3ju4NAyytwL7LXpIegTklbybKhzVgrYSQVxAc6uRIN3czJLXswLZZvhK0QWvzqEEoukOkol3NaThE=;ezaOvxqpVbO6i1GPPbMrZg=="
 ---

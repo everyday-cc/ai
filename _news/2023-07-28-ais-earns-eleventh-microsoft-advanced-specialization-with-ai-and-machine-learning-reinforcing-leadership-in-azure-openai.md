@@ -16,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "aleJkCmvg8mxfgEWPgNPR9QahyzlnO53wSUYRdSp5WLB+rZlTbKop6ASyHd/kCyOohORVN39zwxZozXE3wCF5I5CFG+QJoSBA+FFtJnRon/Vs6P+T3UivFdM+43BwQwmq118m84pVtNIjfuV2f0JxyR48aTd2Z2rWAmayAObx6eJ23zt73Y7wZaamiRa1GW2IaiLdP63CupD2QmX4SrXWMrCQbeDvgpcrPERwHWm1vIh35AWE0FlW+R6zuQMOQWy/X6zN+Ot9IDJExP+dfqpOeAhecBePKlKX5yXYEMvXMx4gxu/rSqthQqn/HbfSzJH5RRByFEo/evFvkk5RtUaZN4HRhj9S02nHFni9RCy9F4=;wiXW2QQBTamZyssXupDbbA=="
+secured: "qbEIjBGK5aF+4K5QQT0BtHrlnHAXxDCip7/FRh64oXdUUD5xpsHuU2WQFOMy9z2e2OtBFmDCtUyS0NRdlpu4w1oKSaKzxtogThN26HfjX3OQNsgaM4vNj1mwD6yDYKeZp4338OzJGXV2XfuMHHfLbRvc5BKt3NXrayv+mByTGdVXnn6hH1C601owQtrkPBGR3BEjSZKgGe5vw+VAQDNXb3fmVOs6QJntF9Z91W1dxABSjwtd+UeTgMNx3TCOPwJyZSVPeQtOaeaLJiKCY8Bm9DQgeu4FrDZu6qNSykZVKudpCXnshv+wqqSTzEuh6ov6fBCYFuex1PVIbC3qXwv4zLvfo9Yvi3kiKjVnLrpgRj0=;pI1NbgvnCVAiYdSQK8H18Q=="
 ---
 

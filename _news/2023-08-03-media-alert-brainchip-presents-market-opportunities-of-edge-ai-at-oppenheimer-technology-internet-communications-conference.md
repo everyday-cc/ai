@@ -28,15 +28,6 @@ related:
       name: fibre-systems.com
       domain: fibre-systems.com
     quality: 19
-  - title: "Gravitational Wave Astronomy in Artificial Intelligence Era: Opportunities, Challenges and Future"
-    excerpt: "The groundbreaking detection of gravitational wave event GW150914 has ushered in a transformative era for multi-messenger astronomy. As the sensitivity of ground-based observatories like LIGO-Virgo-KAGRA is enhanced,"
-    publishedDateTime: 2023-08-03T07:13:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/59097/gravitational-wave-astronomy-in-artificial-intelligence-era-opportunities-challenges-and-future"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 4
 
 secured: "CmCjsHGqhCrhIQiXbRCkB/9DrbJXkGukHJXjZVaE5FaGfADJ5PHEOq+g66NKvxS0OLwmdQ0d1CuXuQrjBVIqA4h2sBwcazCwI3r93YhC/PaPZIzxTiDg6gPL5SA5+lAtlgNkKRY7zD86uVDgOL7cvUKLJqfWiQ2ukiKy0SsGEsBpXBYo9v/O+HSxEpKFeQ7MnWwMgELrFud3PlN/cRNIJxb9axpz33m/8zoNgkFqAUJUlRdLcqnGdiVlK/pnFr7qvA4p57AcjYk8v/yQyVbMm7i5/xwBXoIqSJ1ZBcZv0o5vIs/yh79lvYFkL5zSplLS4BJbMIZ6AfppH2HzvbSYOhqb270o6epcmCoV+Yvhz9Q=;9Flwtm8WAtaWt/wTrhhWaA=="
 ---

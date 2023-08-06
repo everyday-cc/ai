@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Strict curbs on artificial intelligence would hurt striking writers and actors"
-    excerpt: "Hollywood actors and writers are striking an industry in crisis. The dilemmas all face are a dress rehearsal for how Americans will cope with the growing gig economy and artificial intelligence."
-    publishedDateTime: 2023-08-01T19:03:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/aug/1/strict-curbs-on-artificial-intelligence-would-hurt/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 13
 
 secured: "WJ+2gJEeI/8XILN8y9FkZIbqo0IqeI1KoDnCjHHEe+pRA/CIw14i1OF00S9m35uYg10F83zfIefHWFke2JofUuyEPOgyg3/Mo12znz/7bnjDwVqUQHputEWLy+ej0ysPZ5Riun1gUBMp13B7HETQ8XFugdb05iBTA8hKf7NH4voS+tTR0gWpYbK1qqAPYZbLUi6hzg4l5R1VFJWbTK7I8RjpaYAbSR4OiJsLcFG5gytcWRMvnyRfvPrJJrm80Lo5rj3am/++KBw9ZHr2EBArNbXtgVTftlpL7GOoGa4rlaM8XjI9iYlBE2gy8VKhqZhmaeN050YD40DgPabirdlgXizSkMMcxwHB/GW9s1jdY26hGGlyudStnUB/XRmJeO+3dzUx0CgwLv5I6f7MbzBMA4Z0chqBTQrE0ffqouy4UlvBlnVm8pqsQZN3m7srlZbRk6BRSe8IhqYliMluEjQXz3l4VA/EwZsr1WxxyHZNVFZVC474avoQjCA5v9dFHNewxMDCgr+8MIKg1Z0YOVPAEQ==;Rgd0UvDNCfg1XmkQnE2YGA=="
 ---

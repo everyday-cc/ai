@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Meta plans AI-powered chatbots to boost social media numbers"
-    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
-    publishedDateTime: 2023-08-01T19:10:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/facebook_bot_hero_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "How chatbots can provide a better customer experience"
     excerpt: "Users are frustrated by limited chatbots that insufficiently resolve queries or deliver unsatisfactory outcomes. Learn how AI can help.\nThe post How chatbots can provide a better customer experience appeared first on IBM Blog.\n"
     publishedDateTime: 2023-08-02T12:01:00Z
@@ -113,15 +97,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Meta readies AI chatbots for artificial companionship—and user retention"
-    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
-    publishedDateTime: 2023-08-01T19:10:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 48
   - title: "The Chatbots Pick Up on Your Feelings"
     excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
     publishedDateTime: 2023-08-02T14:20:00Z
@@ -280,15 +255,6 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 19
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
-    publishedDateTime: 2023-08-01T21:49:00Z
-    webUrl: "https://lasvegassun.com/news/2023/aug/01/chatbots-sometimes-make-things-up-is-ais-hallucina/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 16
 
 secured: "vAN8T67zxINHAmZhCFC1tVCMfNNH3VuZRe4H4C1MqOnVCiJjiVw09MCO2/GuiLoYT5asiBBGslJJnamPpZW3bMU7WxxizWr9SOS2zjkdoRUUUv+G8yTa1kQKGB0Fh3CcwxJP3wo7dlOBc2lyv8c7AUuUm7hxrwN+1Mr/Mjr0YnEtRXShkhi43pqjwIPfH+Q+YDKSM0nEj5IFwEb99mbZZFEQkj/LzwV2BLKX/KUEI5yzvRFiCd8omQqaaPIRUEbKsuL2oQmo/yGdcSCrDAG0/5O1+FOkoekPTKdEF1Iu71+SSrHfEFOU2dniJy4Uoq2kZLPhSQJ4x7wQueAxZkMCaWHtkvcXxfuPZKEAn1ZqnE0Dbt4HwGjq7ae/a7vAY44iRLJrS6PgCJdWoWxmgs/TY3hR9T6U6KLM2+G6Qn3sOKHTsxKaMYS3SItJpfs7r35i7gCMEMFrA+6g545XpZfoDeGvu4JuoJZgySQm+ns9/Bhn5/Jbtn467tOsBUcqfg7ZiE8buitFJHxNLM+RtN0eeQ==;E5lp9yMJZGgfkG2W7ZmFVA=="
 ---

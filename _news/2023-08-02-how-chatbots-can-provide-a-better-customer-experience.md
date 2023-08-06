@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Meta plans AI-powered chatbots to boost social media numbers"
-    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
-    publishedDateTime: 2023-08-01T19:10:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/facebook_bot_hero_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "How chatbots improve human resource operations"
     excerpt: "Today’s HR departments struggle to efficiently manage operations and routine tasks. Learn how conversational AI can improve HR operations.\nThe post How chatbots improve human resource operations appeared first on IBM Blog.\n"
     publishedDateTime: 2023-08-02T12:02:00Z
@@ -104,15 +88,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Meta readies AI chatbots for artificial companionship—and user retention"
-    excerpt: "The move to introduce chatbots to Meta platforms comes amid growing competition from social media platforms like TikTok and a rising interest in AI technology. Meta has also made big investments into generative AI recently, including the release of a new large language model, Llama 2, which could power its upcoming chatbots."
-    publishedDateTime: 2023-08-01T19:10:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/meta-readies-ai-chatbots-for-artificial-companionship-and-user-retention/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 48
   - title: "Uber is working on its own AI chatbot, reveals CEO"
     excerpt: "Uber CEO Dara Khosrowshahi told Bloomberg this week that the company is working on its own AI chatbot, with no specific details disclosed. Also: Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     publishedDateTime: 2023-08-03T18:29:00Z
@@ -280,15 +255,6 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 19
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn't take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
-    publishedDateTime: 2023-08-01T21:49:00Z
-    webUrl: "https://lasvegassun.com/news/2023/aug/01/chatbots-sometimes-make-things-up-is-ais-hallucina/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 16
 
 secured: "A4jI31RmRdimJ7H71IGhb5Buwwe8uAfPZZ+BMD2K3gP3hnka8+JTomPyHwJlMF3R9buE87pbW5ZdbafHOqintjXQHy0ypZ3Z44nsBiL9DeJ9ER6JnVUXb4DHK6y++6hAZsgJH3s5TZopq96x6ERxhgEaHyomb/4CdBQyo7d+TTPHX6xTQKvncwievcFDxHwZauNvKTLCNzgws8AQFhT7KsTB5Te1dn+AzoSTUGHtL9s6sQnSPyLuGaRjDRuL/3NyqGegb4w+9tWZvFgNyc0gVx0SziOHS0P1S2reOFKi2ZenGWjmsMqKXQvhyXbJMQ56wCs6SFUVRQhB7VszNp53bgOfJbnrcwHUxfFqooxIIzk=;pj0Tr31K545tijsVRX7gEg=="
 ---

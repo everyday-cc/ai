@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/amp/"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2023/03/arseny-togulev-MECKPoKJYjM-unsplash-e1679482039960.jpg"
         width: 7753
         height: 4353
-        isCached: true
-  - title: "Duke Health, Microsoft to Collaborate on AI Innovation"
-    excerpt: "The two organizations, members of the Coalition for Health AI, have forged a five-year partnership built around the new Duke Health AI Innovation Lab and Center of Excellence."
-    publishedDateTime: 2023-08-01T20:34:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/duke-health-microsoft-collaborate-ai-innovation"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_2289658777.jpg"
-        width: 2732
-        height: 1200
         isCached: true
   - title: "Leidos Announces AI Collaboration With Microsoft"
     excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."

@@ -32,22 +32,6 @@ related:
         width: 936
         height: 420
         isCached: true
-  - title: "The Google Assistant is getting a big reboot around generative AI"
-    excerpt: "Axios has more details about Google's plan to reboot the Google Assistant into something based around generative AI. As was previously reported, the Google Assistant team is getting reorganized around Google's new LLM (large language model) ChatGPT-clone,"
-    publishedDateTime: 2023-08-01T19:44:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/the-google-assistant-is-getting-a-big-reboot-around-generative-ai/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 91
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/hey-google-800x532.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
     excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
     publishedDateTime: 2023-08-04T22:03:00Z

@@ -143,6 +143,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 0
+  - title: "Fintech firm Enkash expects business to grow by 36% to Rs 250 crore this fiscal"
+    excerpt: "Ascent Capital-backed Enkash founder Hemant Vishnoi said the company focuses on spends management of small and medium enterprises that have over Rs 10 crore annual turnover and expects the customer base to double in the current fiscal."
+    publishedDateTime: 2023-08-06T12:57:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/fintech-firm-enkash-expects-business-to-grow-by-36-to-rs-250-crore-this-fiscal/articleshow/102476139.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "xqLyTngNqYp2Kh1LGsI2LZhTn+chwVrRjuyKCKU3VaY8rW8L4Sb8XLDfLKsSA8zhU9im3swzkyag4GaHVYYrbXxwR3pBtUQlb9oxc+iZZTXU+hd4P4UpsRd1nWwfMSKTbocez3pRBTpXU/fNFlMgJAG2RSMyO3+tXl1OBDXnDgxPb4XZNu1Z7j8z/DUkE6ZC3f8AnhYbxrz+4xPgo2bB66VTTDkhuFYYWIh2iiwOxn42LiwrNoSQR3+TRrkh2u8vAglvuz1LxV+R3vuTxzVevivFNHSnBI+q2fBos4cUEpBYD3r496bo8/We0ORufpSwmQ6uOmwxgOw6qo2uP5ioEqoTrbrlDmermbF7pvGr+oZMffWjemKC7EagW+30180tevpZ4kaLX/AyBKttz7LRt0CpL9OWug2hmf4IWTcZlrFVb5axUt8LhfSu9wBWn/WFjIKex10PU/JE6ikhU8RupqqrS0U7uMqJE0LWn0+aj+eGlLPh1s4WAiXX1XQ3OeMJtB6xNb0/AujRdV9Sxlc1/g==;SaM8mazG/s1VQtv1ES2e7A=="
 ---
