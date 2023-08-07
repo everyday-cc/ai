@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/data-democratization-how-data-architectur
 webUrl: "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Xiao-I Corporation: Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China"
-    excerpt: "SHANGHAI, CHINA / ACCESSWIRE / August 2, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, is excited to anno"
-    publishedDateTime: 2023-08-02T16:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59741520-xiao-i-corporation-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 11
 
 secured: "c8NCYDGZsBF/wPRjwub/rmBCBf5RW2rikuoH4MaJp8n8rb9xuOL063BBruMvc7Rwf1fg9/tfEUxzIX4rg8+9te7FNn8glfqSAuFb5JmOaIP1iAnro5Kd4eKPrxZNW99GIZxMlYvBQbz8F7cHgxYjOCM7ySm4Il+DIx+p/cOqgXCB9cflYfyHOqslTyLL+hdty/hXlRfzagQeUlOErnDg4hTmr0AXRlkS3a2roPzNcALsdCYSTjf5bOUKKBKCUlFAG6IRO/Vpog2xTINHX2A+FToNp6ZoL9EeKXGlVYtmDSJf+0clVs0KJEhvs3dz+IstsGLSLJxG27iaptO34pQPa+kY2kt6EXKulgaRmWXunik=;8Lelu92lTLdzDls8IInv2A=="
 ---

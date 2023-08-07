@@ -2,6 +2,110 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-05-25-ai-could-grow-so-powerful-it-replaces-experienced-professionals-within-10-years-sam-altman-warns.md",
+      "title": "AI could grow so powerful it replaces experienced professionals within 10 years, Sam Altman warns",
+      "excerpt": "Tech leaders, such as OpenAI's Sam Altman and Google's Sundar Pichai, posted essays this week, arguing in favor of regulating artificial intelligence as the tech becomes smarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
+      "originalUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add1ff58-28cd-4879-ab08-64d30b2db0e9/69b5d999-1496-431d-b86e-8ac249a316cc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-security-hole-at-the-heart-of-chatgpt-and-bing.md",
+      "title": "The Security Hole at the Heart of ChatGPT and Bing",
+      "excerpt": "Indirect prompt-injection attacks can leave people vulnerable to scams and data theft when they use the AI chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
+      "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646ea845f2de86183cf5b400/master/pass/The-Security-Hole-at-the-Heart-of-ChatGPT-and-Bing-Security-GettyImages-1264516882.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-will-definitely-replace-me-americans-fear-artificial-intelligence-will-steal-their-jobs.md",
       "title": "‘Will definitely replace me’: Americans fear artificial intelligence will steal their jobs",
       "excerpt": "People in Texas sounded off on AI job displacement, with half of people who spoke to Fox News convinced that the tech will rob them of work.",
@@ -1069,91 +1173,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-uipath-reports-first-quarter-fiscal-2024-financial-results.md",
-      "title": "UiPath Reports First Quarter Fiscal 2024 Financial Results",
-      "excerpt": "UiPath, Inc. (NYSE: PATH), a leading enterprise automation software company, today announced financial results for its first quarter fiscal 2024 ended April 30, 2023. “First quarter fiscal 2024 result",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/uipath-reports-first-quarter-fiscal-2024-financial-results/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/uipath-reports-first-quarter-fiscal-2024-financial-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed.md",
-      "title": "Former Google CEO Warns AI Could Cause People To Be ‘Harmed Or Killed’",
-      "excerpt": "Eric Schmidt, who served as Google’s chief executive from 2001 to 2011, said artificial intelligence poses “existential risks.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/",
-      "originalUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2c501dfd9a2eb25f411d/0x0.jpg?format=jpg&crop=3958,2226,x0,y98,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/",
-      "publishedDateTime": "2023-05-24T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

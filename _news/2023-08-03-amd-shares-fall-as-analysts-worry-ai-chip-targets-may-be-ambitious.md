@@ -39,29 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AMD Keeps the AI Dream Alive Enough"
-    excerpt: "But rival AMD overtook Intel in market value last year, thanks in part to an expensive bet on chip design. WSJ’s Asa Fitch explains the companies’ battle for the brains of your computer."
-    publishedDateTime: 2023-08-02T15:33:00Z
-    webUrl: "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-828111/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AMD's New AI Chip Could Send its Stock Soaring. Here's Why."
-    excerpt: "AMD's quarterly results were lackluster, as total revenue fell 18% year over year. Management noted that the company's new AI chip remains on track for delivery in the fall. AMD is planning to ramp its AI business on the back of colossal demand for AI ..."
-    publishedDateTime: 2023-08-02T15:16:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
   - title: "China at major risk of losing global memory chip, AI race"
     excerpt: "China may lag behind in the global memory chip and artificial intelligence (AI) race amid Beijing's restriction on US-based Micron Technology and export sanctions by Joe Biden administration on American companies on sharing tech with China,"
     publishedDateTime: 2023-08-06T09:27:00Z
@@ -75,6 +52,20 @@ related:
       - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/arun_060823_chip.jpg"
         width: 740
         height: 459
+        isCached: true
+  - title: "China at Major Risk of Losing Global Memory Chip, AI Race Due to Chip Trade Restrictions"
+    excerpt: "Chip trade restrictions are hampering the efforts of big Chinese tech firms like Alibaba Group, Tencent and JD.com to develop generative AI models."
+    publishedDateTime: 2023-08-07T08:07:00Z
+    webUrl: "https://www.ibtimes.sg/china-major-risk-losing-global-memory-chip-ai-race-due-chip-trade-restrictions-71221"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 45
+    images:
+      - url: "https://data.ibtimes.sg/en/full/68810/chip-war.png"
+        width: 737
+        height: 478
         isCached: true
   - title: "AMD Shares Dip Despite Excitement for Q4 MI300 AI Chip Launch; China Market Challenge Remains"
     excerpt: "Amid a 6% stock decline, Advanced Micro Devices (AMD) champions robust customer interest in its AI-targeted MI300 chip, signaling a potential shakeup in the high-stakes AI semiconductor market, despite certain China-related export challenges. In extended ..."

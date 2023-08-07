@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI to Fuel Contact Center Market to 16% Growth"
-    excerpt: "Gartner predicts a 16% growth in conversational AI thanks to the booming contact center tech market, the advent of virtual assistants and as-a-service models."
-    publishedDateTime: 2023-08-02T16:19:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-to-fuel-16-contact-center-market-growth/"
+  - title: "Google just improved its SGE AI-powered search experience"
+    excerpt: "Google's SGE generative AI Search experience just got better, as responses are faster and include photos and videos."
+    publishedDateTime: 2023-08-03T14:10:00Z
+    webUrl: "https://bgr.com/tech/google-just-improved-its-sge-ai-powered-search-experience/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr00802223-featuredimage-ai-to-fuel-16-contact-center-market-growth.jpeg"
-        width: 1400
-        height: 785
+      - url: "https://bgr.com/wp-content/uploads/2023/05/google-io-2023-ai-68.jpg?quality=82&strip=all"
+        width: 1600
+        height: 893
         isCached: true
 
 secured: "IgZnSG2+3IojVvyztAWiv6FYa5geohzCtLenUcuD3Ud3xBrYSmjG35HPr7CuVhzl3yQw4f3cdX5tj4Fi9fGEGAwyISzhpix9bkxsI/9UEUa/5HcSqr5/pUWq1iPlkaYMkTsNna0lxg+rqx6r2874E6IuP96RYDUGTNSX9l4r33zj56/2eMXJs47Yc/JBc+Ll/pllyTn3ToVtxFaKalXypX+4nH6X447rE9nLs1zoJN9FJzpMPZqSBOG1KYkGfKurKbDaj/tULUvTcbh9OLsKK+lIOtnWGef3Dr1hzkCq6nHqkLz4A3qu5TXWCqU29nwHD7K96JOHWmqVgtexnSYN4g4wwlxG+pswAGD0ufx+/0QtU9yeoo0nZBN5+V4vnLfB19h6LaElGbEn8cc5nnPl54VcYFkF6fdzGE5gguhden9nIiku6RBsaEVVYSjgD1WXtLTpXsRmT4wEhUwiNJqAKRt9Z1e/TUB8nKvzaQvbW93Va+4vyE0f3PPBQiCjQHDIYfgmLrLanlS06GfiTpEUpA==;OumYl4/Nguy9BsLs4lL1ZA=="

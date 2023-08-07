@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Has Finally Become Transformative"
-    excerpt: "After a decade’s worth of innovation, new models can change the world the way the internet did."
-    publishedDateTime: 2023-08-02T15:46:00Z
-    webUrl: "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-827870/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Vast Data Unveils The Vast Data Platform: A Transformative Data Platform Built For Deep Learning Ai"
     excerpt: "Dubai, United Arab Emirates– VAST Data, the data platform company for the AI era, has unveiled the full vision for the company by introducing a t"
     publishedDateTime: 2023-08-02T17:37:00Z
@@ -85,6 +71,15 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 17
+  - title: "Banking as a Platform Can Help Traditional Banks Regain Competitive Edge Against Neobanking Fintech Platforms: Juniper Research"
+    excerpt: "BaaP (Banking-as-a-Platform) is an operational business model that puts banks at the forefront of consumers, Juniper Research explains."
+    publishedDateTime: 2023-08-06T18:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211112-banking-as-a-platform-can-help-traditional-banks-regain-competitive-edge-against-neobanking-fintech-platforms-juniper-research/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 6
 
 secured: "FGAEgkryFGwBRiFERUFx97b9A2BYREr/CgekSZzrxBGQRMYcJmq10X7Q1yhrcoOWDl9sY/vUbk3w3MTn8ZKu7AEgDOUJseP7mKRsO2k2v/igZs5FI+DmXHbwhqVa925G3nM3ZjIMYTvlZ1qsJGpApzSWHF5aAxQxrknkCPj3jted0Xwu4n4uO/KkxhhO504MQW6P6AogEBMYhdfJdqf1y9QOX9OD7MDHb/JsCmdcu+c707LMDEFi3KAGh2QY5ShbA+Qav2nbc1LSvdahiH3pLj+JsGL7+Z7Qw2lCK3D81fjFurs9fTvkSk9wmALFW4T6CKAmFiWKtmB3PxLYXCoE1anfNwYcbEszY6D5t/4QXE8=;WgoZhYEHsytKybSkP3O8sQ=="
 ---

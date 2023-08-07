@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rising Cyberthreats Spur Local Businesses to Embrace AI and Cloud Security"
+    excerpt: "With the cybersecurity landscape continually evolving, it is more important than ever for local businesses to keep pace with the changes. The increasing prevalence of threats like phishing, business email compromise (BEC),"
+    publishedDateTime: 2023-08-07T09:25:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/rising-cyberthreats-spur-local-businesses-to-embrace-ai-and-cloud-security/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 54
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/08/Cybersecurity-2023-696x461.png"
+        width: 696
+        height: 461
+        isCached: true
   - title: "Fed report highlights emerging cyber threats, including generative AI"
     excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
     publishedDateTime: 2023-08-04T17:15:00Z

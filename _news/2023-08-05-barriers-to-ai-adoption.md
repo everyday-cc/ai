@@ -22,54 +22,59 @@ topics:
   - AI
 
 related:
-  - title: "Tinder tests AI photo selection feature to help users build profiles"
-    excerpt: "Tinder is testing an AI photo selection feature that looks at a user’s photo album and selects the five most authentic ones for their profile."
-    publishedDateTime: 2023-08-02T15:46:00Z
-    webUrl: "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/"
-    ampWebUrl: "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/"
+  - title: "My Top AI Stock to Buy Right Now"
+    excerpt: "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ..."
+    publishedDateTime: 2023-08-06T11:16:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674"
-        width: 1200
-        height: 674
+      - url: "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Dating apps like Tinder and OkCupid are hoping new AI features will help you land a date by choosing your profile picture and best matches"
-    excerpt: "Bernard Kim, the CEO of Match Group, said AI will help its dating app users enhance their profiles."
-    publishedDateTime: 2023-08-03T16:30:00Z
-    webUrl: "https://www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-is-coming-for-tinder-and-other-dating-apps-2023-8?amp"
+  - title: "This AI Stock Could Soar Big-Time This Month, and It Is a Screaming Buy Right Now"
+    excerpt: "Marvell Technology's near-term results aren't going to be pretty, but it is witnessing solid growth in demand for its chips from AI applications. Marvell expects its AI-related sales to double over the next couple of fiscal years. The stock's valuation and ..."
+    publishedDateTime: 2023-08-04T21:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
     images:
-      - url: "https://i.insider.com/64cbb89a0f3dff0019562d2f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://g.foolcdn.com/editorial/images/742334/people-gathered-around-a-white-board-with-a-chart.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Here’s a thought: Tinder tests AI tool to help users select best-looking photos"
-    excerpt: "App says it will be launching a number of artificial intelligence initiatives to make dating more rewarding"
-    publishedDateTime: 2023-08-03T16:32:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/03/heres-a-thought-tinder-tests-ai-tool-to-help-users-select-best-looking-photos"
+  - title: "Are AI partners a threat to women's rights?"
+    excerpt: "Chatbot apps like Replika, Character.AI and Soulmate are part of the fast-growing generative AI companion market, where users customise everything about their virtual partners, from appearance and personality to sexual desires."
+    publishedDateTime: 2023-08-07T05:16:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/articleshow/102489423.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/b6625f16acf95fa6d766fd02c5ec1674db5bceee/0_490_7360_4414/master/7360.jpg?width=620&quality=85&auto=format&fit=max&s=4ce98fce1b3fa55ed399618ad4b5ec8e"
-        width: 620
-        height: 372
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62088,msid-102489662/companion-chatbots.jpg"
+        width: 600
+        height: 450
         isCached: true
+  - title: "1 Cheap AI Stock to Buy Hand Over Fist Before It Doubles"
+    excerpt: "The booming demand for chips to power artificial intelligence (AI) applications has sent Nvidia 's (NASDAQ: NVDA) stock soaring in 2023, with shares of the graphics card specialist jumping 206% this year. But that also means that Nvidia's stock now trades at an extremely expensive multiple."
+    publishedDateTime: 2023-08-03T09:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-cheap-ai-stock-to-buy-hand-over-fist-before-it-doubles"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "47c1LiExdwSzQbDG9I+Zi5cyqK1JeExOMY3xFsF8sB/MEoLe3YcmVpdvndpBKOKKIEOctd6mQ+1rWKKV2wlDqzy7JSha8ldIXk2gRhGb6BMInXc/VmXgX+5W0PN9KpsADz8LqAPUdj3X9jiqAmKtl6/wuyULXMkBj8Qcyf/Iv2gVMTs/2Dvww0QguzB3IitDmOCP9W4XGL01pfItWdLcanNWSA2z0KgruBqE3j50Rn0vy0WhKOFFAc++jx5DshytrGu19SnBgISa56i45dzic1hg8kUoPUO3FJ5u2I+9LUYAQcelAX9DWAOlyW0Mi1R0CsPjVawNB5YCcBNfg7pnLcsIvMtG5euj9nyrbVRqUYHA4YwynwH60f8vECH65FJwu3F2ecrpQaP0YnC7760qVeMNM9U5+y+pwgiudqMXRP6mOnRF/hEM6ugcXG08qOA1ngMD7pqWh6TZycBauJNhuGk3bmW1sbXzz2rCw25tc3cXbrABpfBDojWnvgW6G9YSF/xzYSJS8TwtNKv0DGlnTA==;xvAFo1Pb7a6kIv4AQ9mhkg=="
 ---

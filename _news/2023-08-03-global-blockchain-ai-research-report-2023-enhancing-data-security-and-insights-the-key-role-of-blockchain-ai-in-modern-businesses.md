@@ -20,40 +20,15 @@ topics:
   - AI in Security
 
 related:
-  - title: "Capitalizing on cutting-edge technologies: Investing in blockchain and AI"
-    excerpt: "In today’s fast-paced and interconnected world, the emergence of disruptive technologies has become a catalyst for change across various industries. The financial industry too is experiencing a seismic shift as emerging technologies redefine traditional"
-    publishedDateTime: 2023-08-05T09:15:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
+  - title: "The Orion blockchain database: Empowering multi-party data governance"
+    excerpt: "Orion sets itself apart from other centralized blockchain databases by empowering numerous parties to govern access to shared data.\nThe post The Orion blockchain database: Empowering multi-party data governance appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-08-07T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/the-orion-blockchain-database-empowering-multi-party-data-governance/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "Machine Learning, Blockchain Technology could Help Counter Spread of Fake News"
-    excerpt: "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news, according to new research."
-    publishedDateTime: 2023-08-02T17:16:00Z
-    webUrl: "https://cacm.acm.org/news/275181-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 30
-  - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Looking To Leverage Blockchain Technology's Capabilities To Ease Cross-Border Money Transfers"
-    excerpt: "FEXD is working to develop a global financial technology ecosystem comprising a network of mobile money platforms, technologies, applica"
-    publishedDateTime: 2023-08-02T19:09:00Z
-    webUrl: "https://menafn.com/1106771672/Fintech-Ecosystem-Development-Corp-Nasdaq-Fexd-Looking-To-Leverage-Blockchain-Technologys-Capabilities-To-Ease-Cross-Border-Money-Transfers"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "CJTKnBDkbk8emQv+Zv0gjN4nCmZOjUNOdETSZ2y7n1vl2nKhz8dwREoQUQX6CEpwC8Il2fcevMMDSJe0w9P4MkQuDf4p0Xq/ozWx3S1uaX7mnGrl0evLeBNnckCn7AKQAc7nc2t8a1cDiaYikCvbvx9TaEdGzdNxDg84YG5ZBue/X56gFsji1OM2IaZCjeErJz4GRqP2qGtH+ySB5HMNipsOjH+atq/GPViQ74lWnPP2I2VTVq/AahqLrrGxefm0WH6IiJLl1A2cv+qdv8dOz5FjaqXTnslPOCh1sh3rqIVFTDsArTDXvYBeam5OFvMMi3ughH/ZIW2/X0OofMZPKqO54i2+hKyU0SlIxqd5xTQ=;KDRZ33xIgcrW9xanoKDdGw=="
 ---

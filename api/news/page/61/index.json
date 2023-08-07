@@ -2,6 +2,108 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-06-27-snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference.md",
+      "title": "Snowflake launches LLM-driven Document AI and more at annual conference",
+      "excerpt": "At its annual conference today, Snowflake debuted Document AI, a new LLM-powered offering to extract insights from unstructured documents.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/snowflake-circuuits-code-e1687808581398.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes.md",
+      "title": "Can AI Reinvent Song Creation Without Cutting Out Humans? Music Sample Platform Splice Says ‘Yes’",
+      "excerpt": "One of the hottest sample libraries in the music biz is introducing AI that opens new avenues for song creation while keeping human-created loops at the forefront.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
+      "originalUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499e4a91cfff1423c225776/0x0.jpg?format=jpg&crop=1722,876,x102,y53,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
+      "publishedDateTime": "2023-06-27T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-faros-ai-raises-20m-to-bring-visibility-to-software-engineering-teams.md",
       "title": "Faros AI raises $20M to bring visibility to software engineering teams",
       "excerpt": "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round.",
@@ -1057,83 +1159,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-an-existential-risk-to-humanity.md",
-      "title": "Artificial Intelligence: An Existential Risk To Humanity",
-      "excerpt": "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "originalUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1",
-      "publishedDateTime": "2023-06-27T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-safe-intubation-thanks-to-artificial-intelligence-and-robotics.md",
-      "title": "Safe intubation thanks to artificial intelligence and robotics",
-      "excerpt": "“Our device, intuBot, combines artificial intelligence and robotics. With a camera and state-of-the-art image recognition, we safely insert the endoscope into the trachea at the touch of a button,” explains CEO and co-founder Philippe Ganz. What’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
-      "originalUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETH Zurich",
-        "domain": "ethz.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

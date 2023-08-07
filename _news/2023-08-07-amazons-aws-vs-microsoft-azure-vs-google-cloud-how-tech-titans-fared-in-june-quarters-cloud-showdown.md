@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33593955"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -45,7 +45,7 @@ related:
   - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
     excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
     publishedDateTime: 2023-08-03T14:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms?trk=public_post_comment-text"
     ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
     cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
     type: article
@@ -57,20 +57,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "New features released for Microsoft Azure Operator Nexus"
-    excerpt: "New features have been released for Azure Operator Nexus, Microsoft’s hybrid cloud platform for telecommunications firms, as it also becomes generally available following a period of public preview. “Earlier this year at MWC Barcelona,"
-    publishedDateTime: 2023-08-02T15:26:00Z
-    webUrl: "https://www.technologyrecord.com/article/new-features-released-for-microsoft-azure-operator-nexus"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4518/AzureOperatorNexusWeb.jpg"
-        width: 975
-        height: 548
         isCached: true
   - title: "Google Hires 5 Key Execs From AWS, Microsoft: Here’s Who"
     excerpt: "AWS and Microsoft executives hired by Google recently include former Presidents, AI and ML leaders aimed at driving Google Cloud customer and sales momentum."

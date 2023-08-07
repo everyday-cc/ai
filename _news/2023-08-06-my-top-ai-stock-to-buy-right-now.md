@@ -68,20 +68,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "AI in Health Care: 8 Best Stocks to Buy"
-    excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
-    publishedDateTime: 2023-08-02T15:23:00Z
-    webUrl: "https://wtop.com/news/2023/07/ai-in-health-care-8-best-stocks-to-buy/"
+  - title: "Barriers To AI Adoption"
+    excerpt: "Despite its evident potential, some businesses and industry leaders are maintaining a cautious distance from AI, hesitating to embrace its advantages to their"
+    publishedDateTime: 2023-08-04T18:03:00Z
+    webUrl: "https://www.forbes.com/sites/paulnoble/2023/08/04/barriers-to-ai-adoption/"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 41
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-        width: 512
-        height: 512
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "2t5u/6PXmQgrhbCx0riPf4EtdgiLzIbUgG4xk3NKAhFYlA4S/T/xE+TLJJmnYOmMQFh2nCti4MePRHfwvQ0qhqfkGWeeiWg8SRJQJd7YDvtRCmjzpwEVk+1jB/9tsgAW+CUL90xhJ5YLmd9fKzUuvoItj1XPRkZtWVE/DNvXPs0MEKdo79A8iNmTf722XmyQkQ6aT8XsHvLa8ca4+UsS857/bymyR1QheOUE0aikWx6ubZCrHUgqncJ4F7c3kp8wSHIcnU9563lLYB3ItdN+S6QumiVSCyAmi154iItHv7/HW7G92AwhEuDtOtI1opWWk0z67nLvRcF7CsURnaqndCBX+h4qpCEWAjPURPPseUY=;VrE7l233FPjdeAvviN0KqQ=="
 ---

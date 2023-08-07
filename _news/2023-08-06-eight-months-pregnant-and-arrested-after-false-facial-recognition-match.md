@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-f
 webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
 type: article
 quality: 69
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "All Cases of Mistaken Facial Recognition Arrests Have Targeted Black Individuals"
+    excerpt: "For a long time, different groups that care about people’s rights, technology experts, and people who work to bring about social change have warned about how facial recognition technology could worsen existing racial inequalities in law enforcement."
+    publishedDateTime: 2023-08-07T08:11:00Z
+    webUrl: "https://techstory.in/all-cases-of-mistaken-facial-recognition-arrests-have-targeted-black-individuals/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/08/facial-recognition-crop.jpg"
+        width: 800
+        height: 492
+        isCached: true
   - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
     excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
     publishedDateTime: 2023-08-06T19:41:00Z
@@ -96,16 +110,16 @@ related:
       domain: detroitnews.com
     quality: 25
   - title: "Woman falsely arrested while eight months pregnant due to faulty facial recognition tech sues Detroit"
-    excerpt: "Porcha Woodruff, 32, filed suit on Thursday in the Eastern District of Michigan, against the city and Detective LaShauntia Oliver for false arrest and imprisonment, civil rights violations, malicious prosecution,"
-    publishedDateTime: 2023-08-07T01:34:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-detroit-woman-porcha-woodruff-falsely-arrested-8-months-pregnant-lawsuit-20230807-tyhdiof7lbddphcssyvikazjme-story.html"
+    excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."
+    publishedDateTime: 2023-08-07T08:34:00Z
+    webUrl: "https://www.aol.com/lifestyle/woman-falsely-arrested-while-eight-013400761.html"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: AOL
+      domain: aol.com
     quality: 24
     images:
-      - url: "https://www.nydailynews.com/resizer/pBiVEeNqgKX3nwfbn2lEXzbY3lU=/1200x630/filters:format(jpg):quality(70):focal(276x176:286x186)/cloudfront-us-east-1.images.arcpublishing.com/tronc/RSF2LNI7YJG6TJSBOV73XIXRGE.jpg"
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
         isCached: true

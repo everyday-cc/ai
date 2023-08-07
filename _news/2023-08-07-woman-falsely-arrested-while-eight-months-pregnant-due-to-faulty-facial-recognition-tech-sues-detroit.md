@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Woman falsely arrested while eight months pregnant due to faulty facial recognition tech sues Detroit"
-excerpt: "Porcha Woodruff, 32, filed suit on Thursday in the Eastern District of Michigan, against the city and Detective LaShauntia Oliver for false arrest and imprisonment, civil rights violations, malicious prosecution,"
-publishedDateTime: 2023-08-07T01:34:00Z
-originalUrl: "https://www.nydailynews.com/news/national/ny-detroit-woman-porcha-woodruff-falsely-arrested-8-months-pregnant-lawsuit-20230807-tyhdiof7lbddphcssyvikazjme-story.html"
-webUrl: "https://www.nydailynews.com/news/national/ny-detroit-woman-porcha-woodruff-falsely-arrested-8-months-pregnant-lawsuit-20230807-tyhdiof7lbddphcssyvikazjme-story.html"
+excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."
+publishedDateTime: 2023-08-07T08:34:00Z
+originalUrl: "https://www.aol.com/lifestyle/woman-falsely-arrested-while-eight-013400761.html"
+webUrl: "https://www.aol.com/lifestyle/woman-falsely-arrested-while-eight-013400761.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: New York Daily News
-  domain: nydailynews.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.nydailynews.com/resizer/pBiVEeNqgKX3nwfbn2lEXzbY3lU=/1200x630/filters:format(jpg):quality(70):focal(276x176:286x186)/cloudfront-us-east-1.images.arcpublishing.com/tronc/RSF2LNI7YJG6TJSBOV73XIXRGE.jpg"
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
     width: 1200
     height: 630
     isCached: true
@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "All Cases of Mistaken Facial Recognition Arrests Have Targeted Black Individuals"
+    excerpt: "For a long time, different groups that care about people’s rights, technology experts, and people who work to bring about social change have warned about how facial recognition technology could worsen existing racial inequalities in law enforcement."
+    publishedDateTime: 2023-08-07T08:11:00Z
+    webUrl: "https://techstory.in/all-cases-of-mistaken-facial-recognition-arrests-have-targeted-black-individuals/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/08/facial-recognition-crop.jpg"
+        width: 800
+        height: 492
+        isCached: true
   - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
     excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
     publishedDateTime: 2023-08-06T19:41:00Z
@@ -122,6 +136,6 @@ related:
         height: 382
         isCached: true
 
-secured: "xNykato+7t5iSQ46KndWFN+zMuUWe5v15kOp2z+6dWwzhmnC10zXKhfV3j2yDWk+VFe2w5MF8snMYnyaHXJF+feHBubnDYCZb/19sEEmFk6VacFhMMvY5WL0tvf9ZH/yVEPVfBM6DWaMXMLQya6iKmo1NOHEWDvWf15Qh2PQGN/6Pkmmy1zTnuWodmmYepyjxF7tfOEJOAbVRXqvtCUyiuQdMlIH5EeIk54/lAOaMwG6w9MRd0hIy2CzlwtEV1zkH0Dt5gEs0pMMakMSZxc++bkM2QhiJlcxe3nTaFQUdwhtneTHVMxNmNgDVz/750pysEc9zpBNtzFTHZCwm65ey1FiMhMR/NoREYpjMvWc5TE=;qy7CqXDlCW+n9F7vmXMTNw=="
+secured: "ER5fdPws6kqy9ySJvS/lLw7Kyz6Mxnap/6ox+5samG2oG89XGs+kQY2t8NuTMKvrZtRr/KtUsMbXPt3+EbnwARvtS4CPjIVwXSTh69RPLK4ZJKbGtiVB+Tb+1QNx/sMRDDgWkHCI/YboSuDDhmsWgVlsyL7tSpG/qAPLRSojQL1/5YNmlOtXRRa8Im5Kc0aM22up6raSdWa6KNnYak9P4zHIbfiOVKTmjd80HyxDAx/BtKGomft81eNrCSx2HTt2ZOgVOl/auFlNgpc71QmQynloe1drMsgSZnWkkX2OFOuCqF963+WpfMP1LeRTgnkpIe2vk6xj6CX01YtCU+HQAjHlD4lKzN/ndhIkt17jgOw=;kTuto44Ld+hUSlyfkPB7yQ=="
 ---
 

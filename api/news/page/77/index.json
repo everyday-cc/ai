@@ -2,6 +2,92 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-06-16-empowering-individuals-with-disabilities-through-ai-technology.md",
+      "title": "Empowering Individuals With Disabilities Through AI Technology",
+      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. The WHO estimates that more than 2.5 billion disabled people will need one or more assistive technologies in 2030. Yet almost a billion of them can’t access these products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b358071553ed0ad9b88a1/0x0.jpg?format=jpg&width=1200",
+          "width": 983,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
+      "publishedDateTime": "2023-06-16T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-unicorns-are-hard-to-come-by-unless-youre-an-ai-startup.md",
+      "title": "Unicorns are hard to come by, unless you're an AI startup",
+      "excerpt": "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
+      "originalUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-global-artificial-intelligence-in-accounting-market-latest-trends-and-developments-research-2023-2030.md",
       "title": "Global Artificial Intelligence in Accounting Market: Latest Trends and Developments Research 2023-2030",
       "excerpt": "No. of Report Pages: [100] | \"Global Artificial Intelligence in Accounting Market Outlook and Top Companies Growth",
@@ -1089,110 +1175,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-2030-artificial-neural-networks-market-size-industry-report-2023.md",
-      "title": "2030, Artificial Neural Networks Market Size | Industry Report 2023",
-      "excerpt": "“Global Artificial Neural Networks market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of this market is estimated to reach USD million in 2029.” The Artificial Neural Networks Market Shown: Exploring the Key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2030-artificial-neural-networks-market-size-industry-report-2023-2023-06-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2030-artificial-neural-networks-market-size-industry-report-2023-2023-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-global-object-recognition-imaging-systems-market-2029-360-market-update.md",
-      "title": "Global Object Recognition Imaging Systems Market 2029 | 360 Market Update",
-      "excerpt": "New Research Study âObject Recognition Imaging Systems Market 2023 Size, Share, Types [, QR/ Barcode Recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2029-360-market-update-2023-06-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2029-360-market-update-2023-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

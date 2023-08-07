@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cut
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/capitalizing-on-cutting-edge-technologies-investing-in-blockchain-and-ai/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 30
-  - title: "Global Blockchain AI Research Report 2023: Enhancing Data Security and Insights - The Key Role of Blockchain AI in Modern Businesses"
-    excerpt: "The \"Blockchain AI Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. The global blockchain ai market grew from $0.39 billion in 2022"
-    publishedDateTime: 2023-08-02T17:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33527992/global-blockchain-ai-research-report-2023-enhancing-data-security-and-insights-the-key-role-of-blo"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
   - title: "Fintech Ecosystem Development Corp. (Nasdaq: Fexd) Looking To Leverage Blockchain Technology's Capabilities To Ease Cross-Border Money Transfers"
     excerpt: "FEXD is working to develop a global financial technology ecosystem comprising a network of mobile money platforms, technologies, applica"
     publishedDateTime: 2023-08-02T19:09:00Z

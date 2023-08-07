@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-02-ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says.md",
+      "title": "AI-supported screenings increase breast cancer detection by 20%, study says",
+      "excerpt": "The group whose scans were assisted by AI found 20% more cancers than the group without AI assistance. However, this doesn’t mean hospitals will let a computer determine whether a patient has cancer any time soon. The authors of the study say there is still a lot more research to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/",
+      "originalUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/EwLmyaUJXfmKZSOY6C5VE2_9X5k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/B42NVLP4QJBGJK6TDXVWZBW36M.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp",
+      "publishedDateTime": "2023-08-02T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDBJ",
+        "domain": "wdbj7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-brain-implants-powered-by-ai-help-paralyzed-man-feel-and-move-again.md",
+      "title": "Brain implants powered by AI help paralyzed man feel and move again",
+      "excerpt": "New York resident Thomas was involved in a diving accident on July 18, 2020, that injured his spine's C4 and C5 vertebrae, resulting in a total",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html",
+      "originalUrl": "https://www.techspot.com/news/99639-brain-implants-powered-ai-help-paralyzed-man-feel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-02-image-10.jpg",
+          "width": 875,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-investing-in-ai-with-john-cassidy.md",
       "title": "Investing In AI, With John Cassidy",
       "excerpt": "John Cassidy is a Partner at Kindred Capital, a UK-based venture capital firm. Before he became an investment professional, he co-founded CCG.ai, a precision oncology company which he sold to Dante Labs in 2019.",
@@ -565,6 +660,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-02-how-to-detect-fake-news-with-natural-language-processing.md",
+      "title": "How to detect fake news with natural language processing",
+      "excerpt": "The sheer volume of information produced every day makes it difficult to distinguish between real and fake news, but advances in natural language processing (NLP) present a possible solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002",
+      "originalUrl": "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981373.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations.md",
       "title": "How AI-powered chatbots are transforming marketing and sales operations",
       "excerpt": "Discover how some marketing teams are embracing AI technology with Watson Assistant to drive more powerful marketing campaigns.\nThe post How AI-powered chatbots are transforming marketing and sales operations appeared first on IBM Blog.\n",
@@ -807,49 +945,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-how-to-detect-fake-news-with-natural-language-processing.md",
-      "title": "How to detect fake news with natural language processing",
-      "excerpt": "Discover how natural language processing (NLP) can be used to effectively detect fake news. Learn about the key techniques, examples and tools that NLP offers in the battle against misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/detect-fake-news-with-natural-language-processing",
-      "originalUrl": "https://cointelegraph.com/news/detect-fake-news-with-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMGI3M2E5NTMtYTRlMy00NjBlLTk4YjUtZTE3ZTkwM2E4MDNlLmpwZw==.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1142,101 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-dall-e-3-could-take-ai-image-generation-to-the-next-level.md",
-      "title": "DALL-E 3 could take AI image generation to the next level",
-      "excerpt": "An anonymous leaker who claims to have been a part of an alpha test of Dall-E 3 for several months details features of the new version of the AI image generator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/",
-      "originalUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/DALL-E-2-Image-on-OpenAI.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/dall-e-3-testing-leaked-revealing-interesting-new-text-features/?amp",
-      "publishedDateTime": "2023-08-01T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news.md",
-      "title": "Machine learning, blockchain technology could help counter spread of fake news",
-      "excerpt": "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

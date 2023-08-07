@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech groups and banks linking up for new payment partnerships"
+    excerpt: "Vietnam’s payment fintech landscape is witnessing a surge in partnerships between foreign giants like Apple Pay and local banks, while local payment apps are teaming up with international firms, signalling promising growth prospects for the digital payment sector."
+    publishedDateTime: 2023-08-07T08:17:00Z
+    webUrl: "https://vir.com.vn/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-104151.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/082023/07/15/in_social/fintech-groups-and-banks-linking-up-for-new-payment-partnerships-20230807150649.jpg?randTime=1691402506"
+        width: 600
+        height: 385
+        isCached: true
   - title: "Spotlight On Crypto Innovations In Fintech"
     excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"
     publishedDateTime: 2023-08-04T08:44:00Z

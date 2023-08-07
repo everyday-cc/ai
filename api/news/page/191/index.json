@@ -2,6 +2,83 @@
   "page": 191,
   "value": [
     {
+      "path": "_news/2023-04-04-generative-ai-in-fintech-market-size-to-exceed-us-62-bn-by-2032-report-by-marketus.md",
+      "title": "Generative AI In Fintech Market Size To Exceed US$ 6.2 Bn By 2032: Report By Market.Us",
+      "excerpt": "New York, April 03, 2023 (GLOBE NEWSWIRE) -- Market.us forecasts that the generative ai in fintech market will exceed USD 6,256 million by 2032, rising from USD 865 million in 2022. Furthermore ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105938077/Generative-AI-In-Fintech-Market-Size-To-Exceed-US-62-Bn-By-2032-Report-By-MarketUs",
+      "originalUrl": "https://menafn.com/1105938077/Generative-AI-In-Fintech-Market-Size-To-Exceed-US-62-Bn-By-2032-Report-By-MarketUs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-the-worlds-largest-ai-fund-has-surged-23-this-year-beating-even-the-red-hot-nasdaq-index.md",
+      "title": "The world's largest AI fund has surged 23% this year, beating even the red-hot Nasdaq index",
+      "excerpt": "The rise of ChatGPT has spurred a renewed spike in investor interest in the artificial intelligence sector. That's led the world's largest AI fund, the Global X Robotics & Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/botz-globalx-robotics-ai-artificial-intelligence-etf-return-outperformance-nasdaq-2023-4",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/botz-globalx-robotics-ai-artificial-intelligence-etf-return-outperformance-nasdaq-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-life-of-an-architect-podcast-ep-122-architecture-and-artificial-intelligence.md",
       "title": "Life of an Architect Podcast Ep. 122: Architecture and Artificial Intelligence",
       "excerpt": "Even though artificial intelligence can conceptually trace its roots back to the 1950s, the reality is AI and machine learning went mainstream not too long ago. As recently as November 2022, anyone with a computer and Internet access can dip their toes in the AI waters for not much more than the time needed to understand how to make it work.",
@@ -890,93 +967,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
-      "title": "A brief history of artificial intelligence",
-      "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms.md",
-      "title": "AI Ethicists Slam 'AI Pause' Letter for Ignoring Current Harms",
-      "excerpt": "The open letter co-signed by Elon Musk ignores 'actual harms' caused by AI today, ethicists argue in a rebuttal, including worker exploitation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
-      "originalUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00dshhhhQuoonyFJJ4ekz3q-1.fit_lim.size_1200x630.v1680368067.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

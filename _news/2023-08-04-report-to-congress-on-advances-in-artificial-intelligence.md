@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta Releases AudioCraft AI Tool to Create Music From Text"
-    excerpt: "The AI tool is bundled with three models, AudioGen, EnCodec and MusicGen, and works for music, sound, compression and generation, Meta said. MusicGen is trained using company-owned and specifically licensed music, it added. Low commission rates start at $0 ..."
-    publishedDateTime: 2023-08-02T15:11:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-02/meta-releases-audiocraft-ai-tool-to-create-music-from-text"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Meta launches suite of generative AI music tools rivaling Google’s MusicLM"
     excerpt: "According to the tech giant, as it continues to develop new controls for the Ai music tools it believes MusicGen can become a new type of instrument."
     publishedDateTime: 2023-08-04T09:20:00Z

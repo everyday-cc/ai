@@ -41,20 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial General Intelligence (AGI): Definition, How It Works, and Examples"
-    excerpt: "Researchers from Microsoft and OpenAI claim that GPT-4 could be an early but incomplete example of AGI. As AGI has not yet been fully achieved, future examples of its application might include situations that require a high level of cognitive function ..."
-    publishedDateTime: 2023-08-02T15:46:00Z
-    webUrl: "https://www.investopedia.com/artificial-general-intelligence-7563858"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 21
-    images:
-      - url: "https://www.investopedia.com/thmb/jTVURmirGRaIjtC5arMgmPjs_Ko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1182697690-a64eb3dda4df4432b01ea931dfce5b3e.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "lGYJDi12lRDIl0rEj8f1z3s7/YPkLivV9uaLKZOxCNIc8YIT0JfemQAxqhSTP0S064xEfKRC7Ya/i8MwRXZVI6LU97UCx5hIRgxBBOGML8jQSFUgV+61VjoHVqQXCnaW6QsdQ0aPmRUt8VwDYPnemHi2rHgwGRVyyAkC7vrJlWSdLK4LLbC8pGEuiv/yBmFuvWmSU/djOfxL3h44/OecTDOTvk0+iMjMW8ANAHk3fxIpFnVPOV1D0qobazcl+sL/1dxb/3XDxukSyGv1PIjqt1Nby23hvTNiRjuF46HOSKPU4CerRP7Pau4FNybhhpDAo1IegR0OWNqHrnePZPBsXDg4Xc6S6AWmE7nbnDay3TA=;m/aRK3C1CzR6hPzWgtXPeg=="
 ---

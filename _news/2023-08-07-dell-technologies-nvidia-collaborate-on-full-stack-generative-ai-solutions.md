@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technolog
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD's AI And Expansion Plans Hold Great Promise Of Catching Up To Nvidia"
-    excerpt: "With intense PC market weakness that refuses to fade, Advanced Micro Devices Inc (NASDAQ: AMD) delivered better-than-expected results on Tuesday as the chip maker continues aspiring to challenge the AI chip leader,"
-    publishedDateTime: 2023-08-02T16:10:00Z
-    webUrl: "https://www.benzinga.com/23/08/33525836/amds-ai-and-expansion-plans-hold-great-promise-of-catching-up-to-nvidia"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33525836"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33525836"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-futuristic-innovation-technology-remix_0.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why the AI World is Looking Up to NVIDIA"
     excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."
     publishedDateTime: 2023-08-03T07:06:00Z

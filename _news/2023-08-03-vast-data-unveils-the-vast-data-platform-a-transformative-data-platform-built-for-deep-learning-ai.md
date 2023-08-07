@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Plat
 webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Has Finally Become Transformative"
-    excerpt: "After a decade’s worth of innovation, new models can change the world the way the internet did."
-    publishedDateTime: 2023-08-02T15:46:00Z
-    webUrl: "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-827870/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Big Tech rebounds and preps for transformative AI investments"
     excerpt: "Meta's and Google's ad businesses rebounded. Microsoft's cloud computing business continued to expand. So did Amazon's e-commerce business. Apple, with a 1% decline, was the only big tech company whose revenue dropped."
     publishedDateTime: 2023-08-05T03:19:00Z
@@ -85,6 +71,15 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 17
+  - title: "Banking as a Platform Can Help Traditional Banks Regain Competitive Edge Against Neobanking Fintech Platforms: Juniper Research"
+    excerpt: "BaaP (Banking-as-a-Platform) is an operational business model that puts banks at the forefront of consumers, Juniper Research explains."
+    publishedDateTime: 2023-08-06T18:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/08/211112-banking-as-a-platform-can-help-traditional-banks-regain-competitive-edge-against-neobanking-fintech-platforms-juniper-research/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 6
 
 secured: "UMWLZW85EWxvXRlvb15BUV2hvxb+OMf+5APzQV+Favn1kg+/GUlMzUTBowbXPRBRxKkXyfy9q5xk6iaZPVL/J6qUWHie8orF0A4X+69FfucyHHPMbv2hxA53URIWPOCK52pih8IDkDRuVGXc3Xb8VyynlH/Mcy9F+gVb+EeMYowLdZW7U/WdiJYkM6XoTX+JDY5J5nT6nSNu7s2ZyevUu0ijoCHb6SipIBPofsv2cD/SW2PvD+AmIM4ntsLCaOsAewiqUZwdORogxmSr1BJqePgS+0UW+/KaSBFEaKskbjUCRIIxIIfRNy0RWi9YTmcqqhplG9HPqxYnI1NN2V/Ar2WNA8EIThAYEmv3aDVLhmY=;+zMN3WBVbyr7LMKeZtLrRw=="
 ---

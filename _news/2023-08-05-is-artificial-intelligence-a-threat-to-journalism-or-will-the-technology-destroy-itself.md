@@ -3,8 +3,8 @@ category: news
 title: "Is artificial intelligence a threat to journalism or will the technology destroy itself?"
 excerpt: "Hitching a struggling media industry to the wagon of AI won’t serve our interests in the long run"
 publishedDateTime: 2023-08-05T09:17:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?CHitching"
-webUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?CHitching"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?ref=bentinside.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?ref=bentinside.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "JOkAuDXJnQn6AHpQGeOUytT7HNVTLHKxIRZMBAIMelQT7cIkV7N+HCuwF2XYUxLrnzdWX3F96IZ2XZC3wVSE+ZykbPqq0X4UDaJwUvWSzxJKvIj7wahMMSa5Bxnff3s5FQWt4VC/3nN4x0v3g7ve/+Kw4UYXcrITJL6GogG3esaRULVcgKFDcCN59pQ1pnjXS7AFiEAtCq0+/idIA+5GoQFkLfKvsvnyvBGIhMVL7iJODzRBZS09+8YayQoYw6RJ/64lR392Gxh/pvDokUH/G4FCbOurCA+na71y7EFuxfAqvSXtHSA1247SaWIF8Ww17b0AGxRu8D7Z/QbNqk6ZGyCQ+80Cra9kmCkj/2wwoC8=;AjnI7K3Zx13aFbwi1gSw5w=="
+secured: "4P2u8kLFudomNfqVf4H7I4r0D6E6M5Yq2QR4nSOvBMC3nf8xJ0I8REJi+UzT27SB8V1phI45lnlAB3jmtX6/FverYnP/t/lWc5UYsrNuRdEeXe6NfyfZYwTYdiE3oU7syq/fwRBpdITFCvwrpFxz9Oub6cukg08GyPqvIrqhjptKdZkywbXPFq3h9AyPsVGVKrtW/VRdnxhmWKLcMah+ytsE0HlDE0A3bamYkQKqShJihnn6zJOJmJQ4KAiKGwH9fvU5tUKBVARU/ig+veoFUO4KtAJ50YbcAqdOAuZ/O88grHZGvIhRuTFNEvzFF+4MnDuPKccsXWAQ7yE6nnNqMaksxS1dYoMG0dfaX2e/cKk=;UMSx5PjFumeX7UTlmVScpQ=="
 ---
 

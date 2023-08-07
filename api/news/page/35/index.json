@@ -2,6 +2,110 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-07-13-how-will-ai-impact-the-future-of-your-work.md",
+      "title": "How Will AI Impact the Future of Your Work?",
+      "excerpt": "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-musk-believes-china-is-on-team-humanity-when-it-comes-to-ai.md",
+      "title": "Musk Believes China Is on ‘Team Humanity’ When It Comes to AI",
+      "excerpt": "Elon Musk said he believes that China is “on Team Humanity” and would be willing to work with the international community on common guidelines for artificial intelligence — a technology he described as “a civilizational risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iENBQmN8PKBI/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards.md",
       "title": "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards",
       "excerpt": "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw",
@@ -1065,94 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibm-launches-new-watsonx-foundation-models-for-enterprise.md",
-      "title": "IBM Launches New WatsonX Foundation Models for Enterprise",
-      "excerpt": "With the launch of watsonx.ai and watsonx.data, IBM is kicking off a platform-based approach to generative AI workbenches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg",
-          "width": 1400,
-          "height": 884,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-trianz-launches-extrica-data-mesh-platform-on-aws-marketplace-accelerating-governed-data-access-and-usage-of-analytics-ai-for-global-enterprises.md",
-      "title": "Trianz Launches Extrica Data Mesh Platform on AWS Marketplace, Accelerating Governed Data Access and Usage of Analytics & AI for Global Enterprises",
-      "excerpt": "Digital transformation software and technology services firm Trianz is thrilled to announce the launch of its configurable data mesh platform Extrica on the AWS Marketplace, offering global enterprises advanced data management capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/07/12/9847325.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/07/12/9847325.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

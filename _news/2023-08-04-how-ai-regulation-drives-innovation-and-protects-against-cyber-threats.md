@@ -39,15 +39,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 89
-  - title: "Xiao-I Corporation: Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China"
-    excerpt: "SHANGHAI, CHINA / ACCESSWIRE / August 2, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, is excited to anno"
-    publishedDateTime: 2023-08-02T16:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59741520-xiao-i-corporation-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 11
 
 secured: "hsTwQKJKFQ04j/G+QfvY1lK1yIfzUm5VyVrceRVSBYFbhVIK1dpdnBjBQKtaN5ZATFIez+NAFj1WLQpifnBO57g+yBcati+jPmHr4k+rE3lhfk4mCE3DDplcQaaP/4i1xPe9H9MuuLvXquWeXcEDzlhoC6i7VhX/uPZpPGFI8V7BlRnX7uuxbW5V0qMOmTKs7dJUhBOO9BLnoUQame4FQu7RuIsoGw5v3jwILeHVuCmkqmO8YfS71mdaZCO0jY2BHbw8vyRIlNQ/m73rXf/5PgYMkia6SPkvA0w7AshT+3sfO9OGQ3P6OGus/iDtT99yht1bzeyPdLE/YLWOk0g9rlR6ohVNLbCYZfbgfVJaL8fEokYscT/f8PDbPLaAAkon40aEA4oePEQEVGFvaGvQmhnC+laimBFAGnaQkMcXnkONg0VUJHKInep+n3wdZ6MA5r8Tlt6IOh56DYe/wG/lA8A7CjXXqDkzW6zaK8JFlENfanJ/doqvZNFzvCe8I2Mctf2dc/YCo7iXODnSADozzA==;HCsGM76JUAz7l8hTLcPiMA=="
 ---

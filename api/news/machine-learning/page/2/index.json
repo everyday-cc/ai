@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-21-5-deep-learning-courses-for-high-salary-jobs.md",
-      "title": "5 Deep Learning Courses for High Salary Jobs",
-      "excerpt": "In this article, we will look at 5 Deep Learning Courses for High Salary Jobs. We have also discussed the innovations and intelligence of deep learning and companies that are making huge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2015/08/artificial-intelligence-503592_1280.jpg?auto=format&expires=1722124800&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-deep-learning-courses-for-high-salary-jobs-1170138/?amp=1",
-      "publishedDateTime": "2023-07-21T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-21-looking-back-reinventing-marketing-mix-modeling-with-machine-learning.md",
       "title": "Looking Back: Reinventing Marketing Mix Modeling With Machine Learning",
       "excerpt": "In today’s marketing world, we’re seeing the renaissance of a practical solution that was a notable innovation in its time. That solution is marketing mix modeling or MMM. MMM is a powerful tool for understanding marketing effectiveness and planning marketing strategies.",
@@ -1282,6 +1239,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-09-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu.md",
+      "title": "AI, machine learning being considered for inclusion in college curricula: CM Sukhu",
+      "excerpt": "Read more about AI, machine learning being considered for inclusion in college curricula: CM Sukhu on Devdiscourse",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu",
+      "originalUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_12_1951489.png?width=1280",
+          "width": 1280,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2516691-ai-machine-learning-being-considered-for-inclusion-in-college-curricula-cm-sukhu?amp",
+      "publishedDateTime": "2023-07-09T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-supported screenings increase breast cancer detection by 20%, study says"
-    excerpt: "The group whose scans were assisted by AI found 20% more cancers than the group without AI assistance. However, this doesn’t mean hospitals will let a computer determine whether a patient has cancer any time soon. The authors of the study say there is still a lot more research to do."
-    publishedDateTime: 2023-08-02T16:58:00Z
-    webUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/"
-    ampWebUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 57
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/EwLmyaUJXfmKZSOY6C5VE2_9X5k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/B42NVLP4QJBGJK6TDXVWZBW36M.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Study shows AI could help detect more cancers from mammograms"
     excerpt: "Previous studies have looked at using AI to diagnose breast cancer in mammograms, but they were retrospective, meaning the screenings had already been examined by radiologists. The study’s co-author said it’s too early to start implementing AI in ..."
     publishedDateTime: 2023-08-02T21:43:00Z

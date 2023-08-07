@@ -44,15 +44,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 30
-  - title: "Global Blockchain AI Research Report 2023: Enhancing Data Security and Insights - The Key Role of Blockchain AI in Modern Businesses"
-    excerpt: "The \"Blockchain AI Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. The global blockchain ai market grew from $0.39 billion in 2022"
-    publishedDateTime: 2023-08-02T17:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n33527992/global-blockchain-ai-research-report-2023-enhancing-data-security-and-insights-the-key-role-of-blo"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "A9xGjUq6+7ZagPP9U2o61Ebtt/feWXl4gDM1Nh697XeC6qbE7lyNVNh+NbqYj/3YC/VOmNMDGuLlT04WH5R+umrEZ4Np7hKtirhJOlSe4jU6esrH4Sea67gOwOLKFphG0pJqThEVvPfgZ30I+p3qWlQleySu9MY5vxKKGOBtKEy9cIYSNfuzJRxsrFwhCoxAi2UPKNCEtwmtKUxt6e/1kjdn9oflQ7sMx9r+KMQjVidbdO/db+Xi5YAkPM9rR5RzXS7RLaT9Xp9E1G2OqsrNjRxvNXmMJbAfrjvGTJMWSJh0NfvXYcqjXFxK5j6LV1ZAJRIqFvoQssi29bKlmjkUHz/0iQzKHgoNG7BPeVlQM1c=;bGN6ZV8Nh9C0Kig3PjaQhw=="
 ---

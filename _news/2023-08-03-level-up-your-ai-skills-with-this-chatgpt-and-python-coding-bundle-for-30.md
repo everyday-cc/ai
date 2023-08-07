@@ -47,20 +47,20 @@ related:
         height: 844
         isCached: true
   - title: "Why doctors aren't prepared for use of ChatGPT in medicine"
-    excerpt: "Like every other industry, physicians will soon see AI tools in their clinical practice New York: While artificial intelligence systems like ChatGPT ... sepsis from an uncontrolled infection or which therapy has the highest probability of preventing ..."
-    publishedDateTime: 2023-08-07T07:48:00Z
-    webUrl: "https://gulfnews.com/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
-    ampWebUrl: "https://gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
+    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
+    publishedDateTime: 2023-08-07T07:02:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
+    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
+      name: The Tribune
+      domain: tribuneindia.com
     quality: 44
     images:
-      - url: "https://imagevars.gulfnews.com/2023/05/18/ChatGPT-is-coming-to-smartphones_18830603b59_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/8/2023_8$largeimg_1326812644.jpg"
+        width: 318
+        height: 306
         isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."

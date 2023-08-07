@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Why doctors aren't prepared for use of ChatGPT in medicine"
-excerpt: "Like every other industry, physicians will soon see AI tools in their clinical practice New York: While artificial intelligence systems like ChatGPT ... sepsis from an uncontrolled infection or which therapy has the highest probability of preventing ..."
-publishedDateTime: 2023-08-07T07:48:00Z
-originalUrl: "https://gulfnews.com/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
-webUrl: "https://gulfnews.com/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
-ampWebUrl: "https://gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
+excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
+publishedDateTime: 2023-08-07T07:02:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
+webUrl: "https://www.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
+ampWebUrl: "https://m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
+cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://imagevars.gulfnews.com/2023/05/18/ChatGPT-is-coming-to-smartphones_18830603b59_medium.jpg"
-    width: 540
-    height: 405
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/8/2023_8$largeimg_1326812644.jpg"
+    width: 318
+    height: 306
     isCached: true
 
 related:
@@ -116,6 +116,6 @@ related:
         height: 843
         isCached: true
 
-secured: "uYhwioxvCVsO5Z5g2nifXJSDn1AutpappXO79gv49sboMs/Y4UysokF9HRsfSWmshoMiVo5AX6DfOTTUla+kgbJ+9EbqeATdu11G2uRCO5xO7DCCKruWedi+gzmmDb7jr1KBxJU/b0pFHQkW5JeRyydGYIF5oKZS2g7lb69S+SF0Q8sQSpVbyPFo/iaAzfi7wC+iv2CVFX70EMYXFDbEoVxCSwbInisD9onwmokM/f0XEW7sDvHwVJgm9LGCL0W8PdurIjUf4DYsOYVA34aTpnpXYRSFk5STGBMMJ90grM19nLoYHvjV+P7OMnM9Gy/Yt9DwqZm+7BLnYtuveYC68sJLGQ8eaYyZN/TOV4pjcdU=;av0B2iEQ5KM4+pW9LiRiBQ=="
+secured: "HdPcFJdG3toqujoiMDY6G4D4CoZuxrDvT3iPNaBRLSJIuEjnmjRa/wznjoXywyVHEybVLOHqvpInQdOjX0KpR4Lw7zu8Zf3V2teQ+jNROeGAxg+sA+7SccO87VzKbFVLARDpxGc+LTfO9/slyzdpG7kExf/HQoe8DDPzR2isI98lyrUetWhCsRpZevQ+MGdt0Ub1+1C6YN2h02CkSm9wbIVJMynKghRT6AkQrpwTKHGbceWL3ymFsfTnPjmvHmTxR8sz3UX4qOZ4r4Dt9itahMWUXAfsMQMOdXA/3V+U4R96P6UBVqXKlCztF7ubydx6+i0Pl46i6yqJBYeXpaCNMw/SKpTPSCFszbFIZODPIH0=;k6zKAg5buZo0kg9EEI6a4Q=="
 ---
 

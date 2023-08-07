@@ -57,20 +57,6 @@ related:
         width: 982
         height: 630
         isCached: true
-  - title: "SageMaker Distribution is now available on Amazon SageMaker Studio"
-    excerpt: "SageMaker Distribution is a pre-built Docker image containing many popular packages for machine learning (ML), data science, and data visualization. This includes deep learning frameworks like PyTorch, TensorFlow, and Keras; popular Python packages like NumPy, scikit-learn, and pandas; and IDEs like"
-    publishedDateTime: 2023-08-02T16:43:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-studio/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/27/featured-images-ML-14803.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Optimize data preparation with new features in AWS SageMaker Data Wrangler"
     excerpt: "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker"
     publishedDateTime: 2023-08-04T15:25:07Z
@@ -121,20 +107,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 76
-  - title: "Automate caption creation and search for images at enterprise scale using generative AI and Amazon Kendra"
-    excerpt: "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories"
-    publishedDateTime: 2023-08-02T16:41:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-caption-creation-and-search-for-images-at-enterprise-scale-using-generative-ai-and-amazon-kendra/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/12/ML-14376-dog.png"
-        width: 441
-        height: 295
-        isCached: true
   - title: "Apple patent hints at Siri getting motion based voice recognition"
     excerpt: "Dubbed 'Keyword Detection Using Motion Sensing', the patent makes use of motion sensors like accelerometers and gyroscope to detect voice commands."
     publishedDateTime: 2023-08-06T10:49:00Z
