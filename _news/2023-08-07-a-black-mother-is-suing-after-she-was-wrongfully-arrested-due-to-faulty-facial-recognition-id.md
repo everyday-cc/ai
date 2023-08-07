@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
-    excerpt: "Porsha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."
-    publishedDateTime: 2023-08-06T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police"
     excerpt: "After being charged with the two crimes, Porcha Woodruff was released on a $100,000 personal bond. A month later, the case against her was dismissed."
     publishedDateTime: 2023-08-07T06:28:00Z
@@ -55,6 +41,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
+    excerpt: "Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."
+    publishedDateTime: 2023-08-06T09:00:00Z
+    webUrl: "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "Detroit woman sues city over false carjacking arrest while 8 months pregnant due to bogus facial recognition"
     excerpt: "I was scared, that was the main thing” Woodruff told The Post Sunday evening after realizing cops weren’t joking. “What is going on?”"
     publishedDateTime: 2023-08-07T01:41:00Z
@@ -192,6 +187,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Xkw4j9CEZlOahfgJzsWd63We0iuE4nBXhs+96SHLsg5tIMe7yir6NbhQlhnYuAX8xQOqw7l7vV6OJohLYKJBQGK5nlTxKpacP5ye2hUALFX3PM5vlEqzM6B7+OPq/r/6iQDlQIhpVFX4goox/PazrWkt7/bbkUlt4/+y7hetgU7/P9MPo1nhmrQcaTlYS4MLpcAX4YRhmV59YsLm19ca70Gv7tSYr98SPWP/gl/L2hYCZ8GeLdKQ+B0tSzCXmmQAZ1HTjm2DF4e/N0oTTq8yu6XINMcPQrE6jBiTd5bqGp57X2wnLE5RSqq6hKPkg5Xolh5/OAVhI3h9hWAACzjrFrHp/RVdkY+OyJMPxtW7oAE=;Jlcj5YLLlWmi/TwWKPVvjg=="
+secured: "bXPzMFM78D8sU3yTTUgqWoU3V1+5ObmwP6O3ipvUQwLdcDo8YqPs7cqTnuIMOfM9P2J28ew+tj/5AVufSDuzMFSQR/ZZ2HRHuqGDlZ2VJHfhmkaoJ+tsodkHPXe0+aAUHosZEVJZMUXAIqJZHr8Y9LynG9Z8fUdK3LbHy24qtOLuOJBgSbDRg7bth/+2WT2wzA/r6SobbavKAnmytV8ms9I0Lo6UYw+HUQ1fhXqYNP4fWMEWOqRjYnXZ/QO8IDJWTq/Fn5q5GVFPIgtFECj4r7aJheX8suu3J98UReCFHQ0d5ohqYF5vjUWgi6ItlOsyYm51DhRONR4MFnWBJ7qDpcCSlpA3P9W9AzOxOTaHINbTr8dCr527UmOilzJlozxdyM0KvYLCg4J03GJ91PF8lQBTVI2GN2RJ8JGjX64CLKxiCdKrc+2i1/prlWtiEe3uuDLDkAJikmT+wRIJsCPqaN1euHJl6WfzjtAnQjd3nZc2wbFOuH8vasFruFvz2qPMIPRIqnquSHz8yZJDe6+N1g==;s4VFZ+kmbps0hmsMuztBbA=="
 ---
 

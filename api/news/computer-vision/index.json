@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-08-06-eight-months-pregnant-and-arrested-after-false-facial-recognition-match.md",
-      "title": "Eight Months Pregnant and Arrested After False Facial Recognition Match",
-      "excerpt": "Porsha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.",
+      "path": "_news/2023-08-07-pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police.md",
+      "title": "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police",
+      "excerpt": "After being charged with the two crimes, Porcha Woodruff was released on a $100,000 personal bond. A month later, the case against her was dismissed.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html",
-      "originalUrl": "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html",
+      "webUrl": "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620",
+      "originalUrl": "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://c.ndtvimg.com/2022-11/pnmgprs_pregnant-woman-generic-650_625x300_10_November_22.jpg",
+          "width": 650,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T02:00:00-07:00",
+      "ampWebUrl": "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1",
+      "publishedDateTime": "2023-08-06T23:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -210,7 +201,7 @@
       "originalUrl": "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1088,19 +1079,19 @@
     {
       "path": "_news/2023-07-27-alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud.md",
       "title": "alwaysAI, a Leader in Computer Vision, Announces Integration with Autodesk Construction Cloud",
-      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software and se",
+      "excerpt": "SAN DIEGO, July 26, 2023 (GLOBE NEWSWIRE) -- alwaysAI, a leading computer vision solutions provider, today announced a new integration with Autodesk Construction Cloud®, a portfolio of software ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/article_5e51d6b8-1cf7-54c6-bf41-a328344ab539.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/article_5e51d6b8-1cf7-54c6-bf41-a328344ab539.html",
+      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
+      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8879916/alwaysai-a-leader-in-computer-vision-announces-integration-with-autodesk-construction-cloud/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://www.wkrn.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png",
+          "width": 396,
+          "height": 202,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1110,11 +1101,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T10:13:00-07:00",
+      "publishedDateTime": "2023-07-26T11:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
+        "name": "WKRN-TV",
+        "domain": "wkrn.com",
         "images": null,
         "publishers": null,
         "authors": null

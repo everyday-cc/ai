@@ -41,6 +41,20 @@ related:
         width: 980
         height: 653
         isCached: true
+  - title: "AI chip developer gets $100 million from Samsung and Hyundai"
+    excerpt: "The investments come as the AI chip market is currently dominated by Nvidia, who has the most powerful chips available to developers, and companies like Tenstorrent are seeking to take a share."
+    publishedDateTime: 2023-08-03T10:54:00Z
+    webUrl: "https://cointelegraph.com/news/ai-chip-developer-gets-100-million-from-samsung-and-hyundai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvZWI0NTZkZmQtNjJmMi00YWMzLWFiYjUtODdlODgwNzI2Y2Q2LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "8QcjhbaR9FK1OPoGvcBDVb229F/++Lp4jSeeL2ERETzwwAzzLiojTMuYT72Nkfnr2oAbF5er5nLDG4rVwLZbKZ3o77DkzUxcyXq3fbj++kai49l6QWaMXKmvAW8X45UNxUD2AfIuAeMvOBU/0s1XCBNVrgpN+7ebFmIxuI8Md60eJMiZxgPVUYfE7kwx+0gx+0bObMEb74K9VT07o0qPf7hcZyzsny71CbHF28Eb5nyeLhsB2FHr9iVUgjH82mFbv/N71SzEJ673jdjlV3dC8SZbK6GNwv8iEJvZhmTZBugVZnoUogYgySXCOeHUHWvvxv3T7ReK2/tqYLhTzRdnuASyrFAsAzfY4iVsEXhD6jQ=;uX5kdJ1HzYWvezA81tqn0Q=="
 ---

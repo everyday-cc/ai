@@ -2,9 +2,9 @@
 category: news
 title: "Is artificial intelligence a threat to journalism or will the technology destroy itself?"
 excerpt: "Hitching a struggling media industry to the wagon of AI won’t serve our interests in the long run"
-publishedDateTime: 2023-08-05T09:17:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?ref=bentinside.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?ref=bentinside.com"
+publishedDateTime: 2023-08-05T03:00:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?ref=axtonliu.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails?ref=axtonliu.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/aug/05/is-mutant-news-headed-our-way-or-will-ai-chatbots-eat-their-own-tails"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "4P2u8kLFudomNfqVf4H7I4r0D6E6M5Yq2QR4nSOvBMC3nf8xJ0I8REJi+UzT27SB8V1phI45lnlAB3jmtX6/FverYnP/t/lWc5UYsrNuRdEeXe6NfyfZYwTYdiE3oU7syq/fwRBpdITFCvwrpFxz9Oub6cukg08GyPqvIrqhjptKdZkywbXPFq3h9AyPsVGVKrtW/VRdnxhmWKLcMah+ytsE0HlDE0A3bamYkQKqShJihnn6zJOJmJQ4KAiKGwH9fvU5tUKBVARU/ig+veoFUO4KtAJ50YbcAqdOAuZ/O88grHZGvIhRuTFNEvzFF+4MnDuPKccsXWAQ7yE6nnNqMaksxS1dYoMG0dfaX2e/cKk=;UMSx5PjFumeX7UTlmVScpQ=="
+secured: "QArr6Vm3aKuAojEG53qNkxujExOmniGfoJePEymI8GnGYKhSgSnZJUEpCs5K5TuDgGLxchZAt9H7P5sWpjWWOSkB+dboBK3muBb6X+HpiJWTk496DZ/4A5K8fklbNoKBwIouWxMI3TXoLFd5Fei0a3JoEV1iiHYp/tvbU2VfNcl5iyGqb7lXJTFXg0Ae+0Xfm2ci8/Y/yf3PsNk/0OKE9Q+azy0JS6lwD+CyZgNGcusp6tQwFNSdwArv/zxboXh/TQtfZE0Hba2ghcErypnw9jgWW/Ag1crRLIl+yBfwI8XX9nD7hYODa0XtFAQrIdfgPmyO2uDrpXtXHUL7ELiNH8EVe27xjWnjw6aVWRRAHCQ=;+33ox+pORVwHuoGiAi2QYA=="
 ---
 

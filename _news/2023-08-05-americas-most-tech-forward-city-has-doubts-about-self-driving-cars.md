@@ -37,34 +37,6 @@ related:
         width: 400
         height: 283
         isCached: true
-  - title: "Artificial intelligence loves America"
-    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
-    publishedDateTime: 2023-08-07T15:05:00Z
-    webUrl: "https://www.oleantimesherald.com/commentary/artificial-intelligence-loves-america/article_c64fc17a-3533-11ee-83c2-330c429f88db.html"
-    type: article
-    provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/e/3b/e3bcc9bb-5568-58f6-a9bd-748d03513bfc/5f203daf17add.image.jpg?resize=400%2C614"
-        width: 400
-        height: 614
-        isCached: true
-  - title: "Nearly Half of America Is Worried AI Will Affect Their Job"
-    excerpt: "A large segment of Americans are concerned that artificial intelligence (AI) is going to force them out a job, a new poll by the Los Angeles Times reveals. All up, almost half of all Americans are worried about the consequences of AI,"
-    publishedDateTime: 2023-08-07T05:39:00Z
-    webUrl: "https://www.thedailybeast.com/almost-half-of-americans-are-worried-ai-will-affect-their-job-los-angeles-times-poll-says"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_59/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691375354/2023-07-30T143444Z_2001999282_RC2GX1ALRU97_RTRMADP_3_USA-STOCKS-AI_ikdfyr"
-        width: 1480
-        height: 833
-        isCached: true
 
 secured: "6BWtD5x9bQ7K5NFNVXp3ZTJk5UG77WrTc4NIMwieeUiiU7EzqIlqCg5Ojli4Jx23rVOgUsruDMNWkKZ9ein9ihiSnP8dOhe0GfM+pOol7xs3YLAlmnW8OdDrqd/vb1c7YF4yDHWpR3Tmjp01mYNrHWKW9D6v1F+E8bYZOkFTiUYb7WU8GdrIi+67QJXteq85Ejqtw+H1HuNRvRdeT81kCMdPmmsVGDfrvCUqsgeQH3UjmL3T3rWiUxOH8gzn9tarXTvcnZDw6wgM9XflU+7SmCSk0/GNIJha3s0jEpqJ8lZjxdnLueXBLQ+6k2oiVqcxERzMdLYi/kT/VYEPIQ2TSoSwubv7hX74LlbIRFBbt5bANW6CgfdDa0EAEWO2rqHHfmw4uNXZjgPhp9KhG5FJcsBSKEuvQUeu3H6de9kFpEsLRlC14nCovXSUukwXWHkqoXZCY45iQqZ8N6gI1FyrmJsvlIaWD1iQea/MA/1q0TF+6dJra/PzRa1WEZJLxd8zJIijUj0BHtoduhpj3ZHPyQ==;nZP1EGtokrIz1URM7OKYKw=="
 ---

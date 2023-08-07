@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Wizards of the Coast’s Dungeons & Dragons tells artists not to use AI"
+    excerpt: "Dungeons & Dragons, owned by Renton-based Wizards of the Coast, told artists to stop using the technology after social media questioning."
+    publishedDateTime: 2023-08-07T17:25:00Z
+    webUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wizards-of-the-coasts-dungeons-dragons-tells-artists-not-to-use-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Dungeons & Dragons says its illustrators can't use AI after they discovered the tech was used for work featured in an upcoming book"
     excerpt: "Dungeons & Dragons said they are updating their guidance around AI after discovering an artist had used the tech to generate work for a book."
     publishedDateTime: 2023-08-07T11:49:00Z

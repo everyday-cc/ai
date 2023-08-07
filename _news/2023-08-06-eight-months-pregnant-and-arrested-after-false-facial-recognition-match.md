@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
-excerpt: "Porsha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."
+excerpt: "Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."
 publishedDateTime: 2023-08-06T09:00:00Z
-originalUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
-webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
+originalUrl: "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html"
+webUrl: "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html"
 type: article
-quality: 69
-heat: 192
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: The New York Times
@@ -21,12 +21,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg"
-    width: 1050
-    height: 550
-    isCached: true
 
 related:
   - title: "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police"
@@ -196,6 +190,6 @@ related:
         height: 382
         isCached: true
 
-secured: "AgxxkPGzBVJYHuF6ApxNJj9f2k/2Dxr0Im6rLoMmrWztNLlcCtPg+oJrxxR1aHQ16JsTeVJq5YegfSN+LroLuSh9UP+lxDis2tRndDuJpAeiQ5ksXdjqdZ1wKa7jg+nHbBOHHJ3xTjVyx4HaVTxm1jvT2DSLBCcJ3pnd4rl6Oe7PJJIX+ySjW1hdNwCEARM888kDMfPLUpndssAin7ocQGHQZj39le8OhUOs839h3ndeVlSrcRNcpcXBUfAMdbdVjXRbA6lwF5aLOChGvU3gs4oylQD8iyehyevo0uAw5qn7r1H8/MhqfbKuC9koxwVH+W0abIDepGpiNAmPZTgBBbwFAvq8iCK3yEwdAPf2j5qUjE5k2/8Su6M/iSqU/KvYNZA0tv5hXYSXWcAzmq+xYJgAEsN2nLaCp6oUKw66HeigyXuzj3cCDqMORBRdzGyu/Yv1f2vacbRaTeE0m2CL2g2KYvqjLk9fZwSMIPSF5oWUxZMDFce1kLGCEQiY18Wy/I0mfildSQx8QuQvWwOcDg==;EFk3IvDmamV54Ljr7S87kw=="
+secured: "KgE+zJSCQBeGRQAcZbLSLBZTIZR4MWdgmxRXMLzWDgraAfqO6HCa12anM7ABle3Zu2tcOdieoD13+eVw70hSPRhypDCv5RIkRz96Orl3b23VfAt89UZZI8pZNowIU80Qji31VxHVdWYgjQXv4TrxfT2IldUJpOhyerfLHNt7x9FYyYMffu+3v+OalEgmxDVYjvOM8sk5fUIMLMX4foKtS+T11Thl/nJ9edsiSgHhV3QeHNjf/IYLwG4mMgx5K/xQxxf/t5Ao7CpYfT/BOeWrJt8dv1aOIX5SoeiogELbcKXynxZWG13BZTeICgQLT/ZBM762A6cnvXvWDEscdV2d9uRK+I/XEP8ekVgHqd+8bh87FM5is8YKeBExZAkYc+eaL9i9Yn0qvhnGAY0V2mhxublTx/V8XmuCBaPailAJTmdj7KEHor0cL3Lm8yhuMtsOQrACExcHeowkaUli5rpjB+htYEx6JGacC0kPaSMmp/1ekKKGUPwBHZt8lOrx/9s9ogs4VknMg95Ag+21gPcBvA==;gJORke8o+G7I+UPNm0s0Ow=="
 ---
 

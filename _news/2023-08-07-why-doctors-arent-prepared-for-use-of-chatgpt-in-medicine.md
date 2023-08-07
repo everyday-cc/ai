@@ -2,9 +2,9 @@
 category: news
 title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
 excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-publishedDateTime: 2023-08-07T14:30:00Z
-originalUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-12/"
-webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-12/"
+publishedDateTime: 2023-08-07T16:48:00Z
+originalUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-16/"
+webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-16/"
 type: article
 quality: 24
 heat: -1
@@ -56,6 +56,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/388ef5b23f2b31507664828048664414fd83b420/2023/08/02/0e0126de-cddc-499f-be65-fbd68c709020/stack-social-chatgpt-ai-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Three Decision-Centric Questions To Clarify ChatGPT Hype And Guide Your AI Strategy"
+    excerpt: "How can companies cut through AI hyperbole and disillusionment to find ways to improve business decision-making productivity today?"
+    publishedDateTime: 2023-08-07T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
@@ -128,6 +144,6 @@ related:
         height: 750
         isCached: true
 
-secured: "8GJSS5YA2eu4EPSvrsmm7YWEQDbCkM5kbjVxVdM7IYJin/Py3JMbH1xZjOrWbRnQ/EI8pmy4RsVSRtkN4aBnxbyFNDXiXXxSYyztnZ6sKxFs4O5mwpK8hhDoIgl/QizT/zWqqKoYe1CuRsp2qmOhHFywfsuP0Ac3o6fojg2AmAf95trkm+Ppw3sO56Qn2P+cjRE/0xEzAFRINI/8ymGG2bAKWjtgrDCIJLi4HkbjT2RyrX+kajpIe64xc9DiZ8usdjjZhQ/qPuhRxiIB16a8lxpOFtZUj0asOE8aOZRoDUOMrCFQNy2IuukE1lRRspO3wt4uRMcQOILatSz1MvZCJ6IOCcQEq/jOycA3HyOkIc4=;YwSD/R8tMk862qUhS9SxPg=="
+secured: "lWYBjVQN50Y01fiNJqOv6z6aiccsEmNVry3UFC1QPO51FpPu8nhX/7fdQjF/8FfvbkEqWhMUmCpoDKa4lGU6wqEUyr157O1p1Xdak0qTCM/WWKBx9j3IDG1h67PZPo0L5JqjQFz22yvYmXMtxMnnAbjas8qe5os4lt/uLQfM93ZkqQ6lojdi8TjJs/9BmXGn3OMFKHv6fPhCy/BvDvIx7secPnZb0tTmk+qp4EMdzjYre6aTvvBwkpNGL/AV5K9vpHDAkD8T4yzT8SohUTiTuxAbaqwN1t4pYSkNy8tvWAZG/7ACAf7PKiz0hrQiZKdR582u5FY3XJLFcN+J1YxP/QZ4PnsoYiBi8TexXpWGcJA=;uEFUmEUJTfsMs3NPyUynww=="
 ---
 

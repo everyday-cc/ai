@@ -7,8 +7,8 @@ originalUrl: "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-i
 webUrl: "https://www.afr.com/technology/how-an-ai-marketing-start-up-took-investors-for-a-ride-20230803-p5dtot"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Australian Financial Review
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Every start-up is an AI company now. Bubble fears are growing."
+    excerpt: "A February report helped kick off the AI boom by stating that ChatGPT had 100 million users. In reality, consumer interest in chatbots might not be that strong."
+    publishedDateTime: 2023-08-05T11:59:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/05/ai-hype-bubble-chatgpt/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TKYYAU7X46B5Y5QV7AFGC33LMU_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Amazon Advertising Fuels Another Growth Spurt, But Investors Only Have Eyes For AI"
     excerpt: "Amazon crushed its quarterly earnings report on Thursday evening, increasing its market cap by more than $100 billion overnight – and it did so with a major assist from its"
     publishedDateTime: 2023-08-04T12:04:00Z

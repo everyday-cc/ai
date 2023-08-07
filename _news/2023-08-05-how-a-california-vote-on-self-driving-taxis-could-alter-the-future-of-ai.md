@@ -3,8 +3,8 @@ category: news
 title: "How a California vote on self-driving taxis could alter the future of AI"
 excerpt: "A CA state board is set to vote on whether to allow tech companies Waymo and Cruise to launch a massive expansion of driverless taxi fleets in San Francisco."
 publishedDateTime: 2023-08-05T07:00:00Z
-originalUrl: "https://www.aol.com/california-vote-self-driving-taxis-000019253.html"
-webUrl: "https://www.aol.com/california-vote-self-driving-taxis-000019253.html"
+originalUrl: "https://www.aol.com/news/california-vote-self-driving-taxis-000019253.html"
+webUrl: "https://www.aol.com/news/california-vote-self-driving-taxis-000019253.html"
 type: article
 quality: 38
 heat: 38
@@ -24,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "b5cbUQkKai0b0djYfA61NkG3xOKnGreym0OjR+3/RPh0iD0LsBK47WYAv/Dbbq5wwmr0P0RzQhjpT1fnNxzy8nHUyL+pEMCzoFFZ/3Q+l6V1r2IoEBX0/h9CG59+I3yH6nsvBr9eDq0/TbO0+1Vug5bcBcF8nwUBS7XvKxOm5fRDaCAUJT7Y/FG8kQTpxYW1t7cXPIrnIsgo5RKfnIVWbem+a/n6DOILHk9yZj0p1eRkXxsKAWzOCxvouqIQDZtmDFSUubIPUCL7XJqA+5W93VNndRHhbRisoI4ySMW7LuDM7a9WglR0543RcuOI1wcr6zCc3iMC7hpthVMALQDXwHM+tGfepxn+YMXoOfXU49A=;hLNesUDsfLpTrL1oYxe0Ng=="
+secured: "879+FQJTdUY1KT83CANnUYjnKXGPgciM5gOd8/H/25jLYahU3qAkrfcAL9bGsVeAopQrTc7bcZpXn5GQibz+9HzZTG3h29FfNjD3KYfxlV7UWd+JRS2IhI+oqu80MDksb2RBmrk5o5UslZyeGbRt+/aJ1F5ZhRjhfrG5+tdC6l+RCl/dNj1Pa9Xj1FazIvzOXErq7K2RbQQy905X3n26QtiprmIowazzvVEgsuUi1pBDjHqBo25qLVESnD843L33Q1Ih5ZAKyDezuw9ez+bRk0BxpfqrvzjvsjIT+SrAGA258VYIhDxIrGcl5T1Kvq5rEBs8+M0sS/lexWzjAL3mMumSqlXJ1U+nOh2rUJkopzI=;sRbCyGescdbaQq/kvbuybA=="
 ---
 

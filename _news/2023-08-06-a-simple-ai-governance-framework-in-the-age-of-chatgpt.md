@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/388ef5b23f2b31507664828048664414fd83b420/2023/08/02/0e0126de-cddc-499f-be65-fbd68c709020/stack-social-chatgpt-ai-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Three Decision-Centric Questions To Clarify ChatGPT Hype And Guide Your AI Strategy"
+    excerpt: "How can companies cut through AI hyperbole and disillusionment to find ways to improve business decision-making productivity today?"
+    publishedDateTime: 2023-08-07T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriklarson/2023/08/07/three-decision-centric-questions-to-clarify-chatgpt-hype-and-guide-your-ai-strategy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61ddecd6cca3ad80acd3caeb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
@@ -118,8 +134,8 @@ related:
         isCached: true
   - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
     excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-    publishedDateTime: 2023-08-07T14:30:00Z
-    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-12/"
+    publishedDateTime: 2023-08-07T16:48:00Z
+    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-16/"
     type: article
     provider:
       name: Canindia.com

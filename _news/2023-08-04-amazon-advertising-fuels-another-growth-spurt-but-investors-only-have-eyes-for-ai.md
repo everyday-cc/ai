@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Every start-up is an AI company now. Bubble fears are growing."
+    excerpt: "A February report helped kick off the AI boom by stating that ChatGPT had 100 million users. In reality, consumer interest in chatbots might not be that strong."
+    publishedDateTime: 2023-08-05T11:59:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/08/05/ai-hype-bubble-chatgpt/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TKYYAU7X46B5Y5QV7AFGC33LMU_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "jAPza5SnlJtnEC3ByWwPWnm/pUzvkqEZOM3bH1aO/hNuTS/OrVjUEzQnyatwBrbo52LMYlOVU9OMPBHVsLqKSpaBxmHUlPam57UCUYmZjt4GergnYelTGtuTIRUchK4gAxP1KjKReyQeW1hLBItypbFeCLMIkUADl0ewOEMo2mve1cMmkzfLKwjabPGnZyIduUCs8QC7TJ9bODIuwdwb05KSRAgQrNLZ/xm4t6dRXkyOPZm6Sn+Kck8i6KV/0NHW9bfPKzOOqfTGqvjtCc89wdv3Ka14plOSz+SuiheRSu7RJQ+ZgDrIGjvSbikM5B6Mh8ujEdboiayXeQ+HiYu0L9GnTjkX1pwGe3Ym8pxeJBCZ75GCYNRYVJNo+OY5g3yNKqqrGgQjmdorTCvUvS23qNXEROqpWLNgh6uGSWjRDpH3s1LU7tZTjKqDB6jz+BNq6nXERZUHH9OcPjSmejZHvQLffjrtZl64yayYCGswmzS86PSMmVxOpPel5jgq31PMhpaWl2HCYmoXT3TLRzx6lA==;FsaT+6jJIpCeIwGIlHM86g=="
 ---

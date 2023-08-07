@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-fal
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 176
+published: true
 
 provider:
   name: NDTV
@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Eight Months Pregnant and Arrested After False Facial Recognition Match"
-    excerpt: "Porsha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."
+    excerpt: "Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology."
     publishedDateTime: 2023-08-06T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html"
+    webUrl: "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html"
     type: article
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
+    quality: 49
   - title: "Detroit woman sues city over false carjacking arrest while 8 months pregnant due to bogus facial recognition"
     excerpt: "I was scared, that was the main thing” Woodruff told The Post Sunday evening after realizing cops weren’t joking. “What is going on?”"
     publishedDateTime: 2023-08-07T01:41:00Z

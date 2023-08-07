@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mb
 webUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-08/03/KT_4fda4image_story.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
+    publishedDateTime: 2023-08-07T17:37:00Z
+    webUrl: "https://www.businessghana.com/site/news/General/291437/Abu-Dhabi&"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 56
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-07-16502801.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "UAE’s Leading University Introduces Robotics and Computer Science Programs"
     excerpt: "The Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi has introduced two new departments focusing on robotics and computer"

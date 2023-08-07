@@ -51,6 +51,22 @@ related:
         width: 7753
         height: 4353
         isCached: true
+  - title: "Microsoft announces Bing AI coming to Safari and Chrome"
+    excerpt: "Marking six months since the launch of its ChatGPT-like AI app, Microsoft has announced that it is bringing the technology to browsers such as Safari, \"soon.\""
+    publishedDateTime: 2023-08-07T17:03:00Z
+    webUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome"
+    ampWebUrl: "https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/55775-113306-000-lead-Bing-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Leidos Announces AI Collaboration With Microsoft"
     excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
     publishedDateTime: 2023-08-04T10:41:00Z
@@ -65,6 +81,29 @@ related:
         width: 1920
         height: 784
         isCached: true
+  - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
+    excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""
+    publishedDateTime: 2023-08-07T16:37:00Z
+    webUrl: "https://bgr.com/tech/microsoft-says-ai-powered-bing-chat-will-come-to-more-mobile-browsers-soon-but-itll-be-worse/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 42
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/bing-chat-gpt-4-free-visual-results.jpg?quality=82&strip=all"
+        width: 1600
+        height: 879
+        isCached: true
+  - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
+    excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
+    publishedDateTime: 2023-08-07T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hclsoftware-collaborates-with-microsoft-accelerate-ai-fueled-offerings-/2023/08/07/9860278.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
 
 secured: "7gZ+1RoXJdXNC/krV+uT3uiyAdnNA1/sqYpZatRvTJ22ZwaBtn4ogubel6qjg3iZl9uN2XcMwBMR7FUBMG631B4dRXX5puovtwYK67vVo/w5+LclUzCyhduoPjCLeQWd8VuZO34qweTtzExnDzKNi5d9a6P3ZCMknxHba7JNc/F8qNuwpIAO3Sjd62ZezUJL7uzjyXaZElJwPkbQAPtoUMLdnOImVoxxk7Dw0WgDbULuIS2SwSY/hMihJzhniTBhPFgXLUjTntT65RUxw2FY88OYQNpoRirpPEzGgM0aWq/wvfVzA2IDl1KCsyuEo+t62EgyDmyIpqwo1Akd2wEd5wsdQz1co/TXmXu+nDQcf4Q=;xIUffhM3LpUHGt/IuSW2oQ=="
 ---

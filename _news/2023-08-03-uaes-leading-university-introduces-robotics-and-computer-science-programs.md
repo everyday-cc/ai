@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Abu Dhabi's artificial intelligence university establishes dedicated robotics & computer science ..."
+    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate"
+    publishedDateTime: 2023-08-07T17:37:00Z
+    webUrl: "https://www.businessghana.com/site/news/General/291437/Abu-Dhabi&"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 56
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-07-16502801.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "C0VMC/61nL3Q86gBbH0Ft2kcZT5C0jBWIdcVOaC4px7L+yGWuHu3nj9ir5QvstKP0n5jiOmGjHs4681/qOIu1e+6iKiC6uPt5MrKMCeOCBsJH4KZxjtFVv0Gyc9vjy2LWS3ui4v2uOD5iepPBKAI7WLTWYGy9VFuaWm8MQcFQqS9O0JHAvoptw2poukGfbOJzijhCcj7t6DS1hI0pkieUrfnhtZ33byEMcVxqBuN00noOltK/YxoHsiK5YKXG3eOjolQoqAtenVMFwUOzPeUhanh7j76W3r0LXN7qCGrEGvRHCHsFin+1aPa695xp/kj698ySjVxNGIOPgyT1DVRYWHAmGWWCNKOQpHKjCQSIgFxRHlm7D/d0WPBT0WxPEs3SX/WwBPHvaa74j1+zALJ69TmHZRimFcL70G1lyQ3j/GWXDWl5dH4Qu7MSbU+tLL71FRlmydsoHuolySDxgchlSVQ3nqIoEFMCPIGqtNC/qMwVFuXAGRiTkeFtOW9sEBFRNHIjU+VwXBqIjywmaSuzg==;hGtWXBDV4U/UiCUs5Ii76Q=="
 ---

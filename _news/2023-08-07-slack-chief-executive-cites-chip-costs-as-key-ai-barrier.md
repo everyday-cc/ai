@@ -39,6 +39,20 @@ related:
         width: 2001
         height: 1333
         isCached: true
+  - title: "AI as the next computing platform"
+    excerpt: "The games industry requires hundreds, if not thousands, of projects every year, so the prospect of radically cutting the time and cost of creative brainstorming and prototyping is, ahem, game-changing. Add to that the increasing ability to use generative AI in software development, and the time from concept to code goes from months to days."
+    publishedDateTime: 2023-08-07T14:00:00Z
+    webUrl: "https://siliconangle.com/2023/08/07/ai-next-computing-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/aibrain-geralt-pixabay.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "cLJHFp/X4em5IVnOOrw+l4Nk3g51QXafdCj3RLVRwUu2+dMZbL+5YQpNZ3hHM/mXXJSf8tliLCjozswBLPk5Th8x3Mw2wzpcfxsTzu7Tt8u/ny+YKhuOBwdYMgxPOoEM1VeiPDltfjfm650qqkjbTzO2BAsKVj1mM2gtYbQ9h7tYU5djLfPJc8VzsD/I7mlhCdnKqC+g+28TqvukhwUmiwmcAidLIJRKpPV4snIbPi0k2SiT6JZ6ulNYwINNxmZN90dh4Ruw0IDi3KhcRzUA3yfKu9HvqGztMJ0vRcN0SuiwImeBpxHzxSLEUiIj3Q4lyDSWdOreYHT7FDq36rGLsCIN/q9a4Sw8RJwvr86TYEU=;8asm/HT8X6SNp+UzEDsCvA=="
 ---

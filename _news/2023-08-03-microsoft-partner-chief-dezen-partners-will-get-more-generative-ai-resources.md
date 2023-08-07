@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/microsoft-partner-chief-dezen-partn
 webUrl: "https://www.crn.com/news/cloud/microsoft-partner-chief-dezen-partners-will-get-more-generative-ai-resources"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm"
+    excerpt: "Defense firms are vigorously pursuing use of artificial intelligence in their product offerings, but the challenges are different from those of civilian AI applications."
+    publishedDateTime: 2023-08-07T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/"
+    ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 96
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1169365df6e8e3e034c63/0x0.jpg?format=jpg&width=1200"
+        width: 1054
+        height: 720
+        isCached: true
+  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
+    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777028/KPMG-and-Microsoft-enter-landmark-agreement-to-put-AI-at-the-forefront-of-professional-services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_56_06b2169c_image_story.jpg"
+        width: 1024
+        height: 1536
+        isCached: true
+  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
+    publishedDateTime: 2023-08-03T14:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "5whi05LykXpGUpaKnljCuOrSL5gZHd4CtHkBKfTKVOEll3GOrpatE6xgiPUdslSUq/hF7Cq00GGngP706tr07l4vWgdeOCfKcgmPovpAU6NyzfLqtVdmzvyKJbAAVq/j3O1oJ26BQoBMkrMzntXfDQBDjJ5LC6eg4sM6gxEC6zOiIvKc1FRytsbPr+ThcfVkDRRgxybezcuh0nAlqcHJT0w6YOrxMyHlkCgiZkPu7x4ZLj4dltnOj3XbtZe4cCJf81AKtG4tUZW4hkrrRCd3vK/fA7T0V6qne8FVbRQgojc7FvdOGXnNwLSxCfbqKu4IX0fk2vMIr7S7HTorAhgHOhPOHcPOgWDWkoMTOTIsBSk=;8eXJZ53iVHpuKbR8G+33Ew=="
 ---

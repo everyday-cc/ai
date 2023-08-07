@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 994
         isCached: true
+  - title: "Discovery in nanomachines within living organisms -- cytochromes P450 (CYP450s) unleashed as living soft robots"
+    excerpt: "A new study suggests that Cytochromes P450 (CYP450s) enzymes can sense and respond to stimuli, acting like soft robots in living systems."
+    publishedDateTime: 2023-08-07T16:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/08/230807121907.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 29
 
 secured: "0MB69JqDwzFya7ODI+/CXXAGiH++cA7ZBdVGh18Uk8P3TAJl7Oy5OBbqq8y2OzrbSg5vJLBjAq9l3S4wi4pkDYUz7fp4tnmhSozCKy0QZKrTyj0YkzXmY/5VBeT9pSZ8sywMNHjnhn/taOEAnsx1kEFaG6OEwkKqJ1a8zxpX7GbN0u56CFcdX/RDf/kuF9yqGXV/bA0OYS91CRj0UT2oSOF6gcm/HqoAacellF2H4pvTk/QgxqrD2s9ZqpmJ25Cpo1Xft8LY70bTkKjbkQUK5vq8mCPuxgeLn0/pD3LlX/RKFSpyeGro5KyTzVtIs6qzAN6ovqTvrMyUbus678I4kGOj4BsUDFenyoRSYG1dHwo=;yClUCgot0jVRxxLXLOptfw=="
 ---

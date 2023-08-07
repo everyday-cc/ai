@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-new-text-to-mu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-new-text-to-music-ai-tools-to-compete-with-googles/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNjg5YjhiYTctNDU1My00NzZkLWIyMDAtZmZlYTUyMzNjZDFkLmpwZw==.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Meta Launches Music AI Tool That Generates Instant Songs From Text Prompts"
-    excerpt: "The company’s AudioCraft consists of three different models that serve as competition to a similar tool released by Google in May."
-    publishedDateTime: 2023-08-02T23:46:00Z
-    webUrl: "https://www.billboard.com/pro/meta-releases-text-to-music-ai-tools/#!"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 35
-    images:
-      - url: "https://www.billboard.com/wp-content/uploads/2022/09/meta-phone-feb-2022-billboard-1548.jpg?w=1024"
-        width: 1024
-        height: 677
         isCached: true
 
 secured: "W8qXfzEjt3kJredCcKST8ZQEemoGhHjSGSlR/t5jurRiQTMTEdtM1I/aqAtS3diWjXkdYG2yD0pHSsls8G2wudGWAr8jqJfl3j+f6ig2gZOGcYVE9b5OLcOUHPRNUf7SEPJhusNvZL3hUGcoh9aHVG/VTSveYjIZQXt5KbBgXhcEMrJ/U3rlTnUyYrWtMNlbPrVs6V/GljDcWIZaDEd70tVR593QVTRQBorqt+hKaMsE4QNZDPULj421XeLxZ403tPc0pK8Ev2XPAInewayJhtFHNZHVEsdocBGm/eO2sRzofmvPyOV0uaDJyVSJuIKwDTh08ASbY9Q8jRduWYAk00Tmeqr/72ObnTkeEUJyAZ48xwsPpMZCZa4Oyc115iiyvWtns0NsUn+0oQ+uDuQl1zhrsAKCBRxzHb9xO3/FxLa+K8iQ1sKPwyqKPaUkLqm9ZZPvrJuHEF2F/Y9ES0yznj1/4RfQ49kr3dhvIeLgs97Z77Js6wYEBFSenOelnKVjKZ2BuG7Rg2o3VS5JjbbVtA==;wNb9jwtYFdI8gCH6y6KROA=="

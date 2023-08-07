@@ -26,22 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "New Microsoft Azure AD CTS feature can be abused for lateral movement"
-    excerpt: "Microsoft's new Azure Active Directory Cross-Tenant Synchronization (CTS) feature, introduced in June 2023, has created a new potential attack surface that might allow threat actors to more easily spread laterally to other Azure tenants."
-    publishedDateTime: 2023-08-03T22:55:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/"
+  - title: "Leidos-Microsoft Partnership Is Latest Sign AI Is Taking The Defense Industry By Storm"
+    excerpt: "Defense firms are vigorously pursuing use of artificial intelligence in their product offerings, but the challenges are different from those of civilian AI applications."
+    publishedDateTime: 2023-08-07T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/"
+    ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/08/07/leidos-microsoft-partnership-is-latest-sign-ai-is-taking-the-defense-industry-by-storm/amp/"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 96
     images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure-headpic.jpg"
-        width: 1600
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1169365df6e8e3e034c63/0x0.jpg?format=jpg&width=1200"
+        width: 1054
+        height: 720
         isCached: true
+  - title: "Microsoft Partner Chief Dezen: Partners Will Get More Generative AI Resources"
+    excerpt: "Dezen – who also serves as Redmond, Wash.-based Microsoft’s corporate vice president for the Global Partner Solutions (GPS) group – told CRN that the vendor is investing in its rechristened Microsoft AI Cloud Partner Program and other resources for partners around generative AI."
+    publishedDateTime: 2023-08-03T13:59:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-partner-chief-dezen-partners-will-get-more-generative-ai-resources"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
+    images:
+      - url: "https://www.crn.com/resources/0281-17f6ac5e9da9-0186022b231c-1000/microsoft-corporation-dezen-nicole.jpeg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
+    excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
+    publishedDateTime: 2023-08-03T14:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "zsJZDqgiDixF26rp3yt87b4eVVLnfksDeL+2HGK90SXkRJwA5P193J8HcaCvbLAZEZH+PfbKewR9DCKM29ihw5GRPKNGVQ296KVPtbFwlhFsB6K/42D62qI7ja5eCe1efFrrUmhQtrJNIQ/pPKabzCOxrlL6k8T6FYd4MDwRN2yzsG4YFc+vZXN4H7WUeolRG4U441IKObQ+IXFhIM9T0KOpJ/T1sYFnOKQueigwO/7kd4feQnipNv9cwBUeyNlWksYmaRQmAf+cziumtXMzqq0aiU69MCqvyz5KaOCgtL+qVnl5KpNXFrXqQkOCSk3iM/xZnALka2SsYx9uRBnHdsuyTj/9azzQ1uBKWznMtVQ=;02ORaCVh9Z0Rq167k5AXTA=="
 ---
