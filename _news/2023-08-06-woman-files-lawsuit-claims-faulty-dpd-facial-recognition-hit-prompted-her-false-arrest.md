@@ -33,6 +33,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police"
+    excerpt: "After being charged with the two crimes, Porcha Woodruff was released on a $100,000 personal bond. A month later, the case against her was dismissed."
+    publishedDateTime: 2023-08-07T06:28:00Z
+    webUrl: "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620"
+    ampWebUrl: "https://www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/pregnant-us-woman-arrested-after-false-facial-recognition-match-sues-police-4275620/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 56
+    images:
+      - url: "https://c.ndtvimg.com/2022-11/pnmgprs_pregnant-woman-generic-650_625x300_10_November_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Detroit woman sues city over false carjacking arrest while 8 months pregnant due to bogus facial recognition"
     excerpt: "I was scared, that was the main thing” Woodruff told The Post Sunday evening after realizing cops weren’t joking. “What is going on?”"
     publishedDateTime: 2023-08-07T01:41:00Z

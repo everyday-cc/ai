@@ -24,6 +24,19 @@ images:
     height: 735
     isCached: true
 
+related:
+  - title: "Back-Office Outsourcing Philippines: Cynergy BPO — Propelling Fintech Innovation with Advanced Tech & Superior CX"
+    excerpt: "The dawn of financial technology, or fintech, has ignited a revolutionary transformation in financial services, redefining interactions, service delivery, and customer experience (CX). Amidst this technological tidal wave,"
+    publishedDateTime: 2023-08-07T04:51:00Z
+    webUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/"
+    ampWebUrl: "https://www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/spotlight/2023/08/07/538155/back-office-outsourcing-philippines-cynergy-bpo-propelling-fintech-innovation-with-advanced-tech-superior-cx/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 3
+
 secured: "fdDb3Btrf3bnjptT/f11oe34Hk++2o5afiU4lHMZ0nmkM0tbXB7fxp26OmDXNwNq2/6eOHZDIAY0NeJj2NvMAyskizJ2eTomGGFM7WCrxyhSHgrjpLdxrhL842tsuL6ofdsyKHCHd323Xrhiwo1Do3nErAkT00knkGjXLqKiZA82zN83n5L59LLPJM2rQKgVLZ5D9xxFEIhzAexaMQfuRumHSVmJKPFu7efQTniTcknMpeIPY+iz3x/MO0FH0ZkS6/8mUoLx42DVRJjyGeGwJsGuZY/Z0kLeLj/1yZHVg4kc7GszjbPfqhLAFFayaX8+co4xPDFeMksRWi65gaUjRoTq54Ye6pNxY61mTSDlvRavYB2BK/xW++MTmR16zCFN9Ydpi6ZMNN9TZ0Ifro9ct+q9joyOGd6nJ8npLGbIfSvdmu3Zj+kVXePIt2Xh1czcHXkmv9ktOkQ6IxH5jJaEceZZjILF1tuvzrPnsWpFqa2pojdWRRx9NPSVpm0ygRRTXyGc8S732XijvsewB/kwWA==;3fGmtIZZa7JTptKpw6ZKIg=="
 ---
 

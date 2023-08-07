@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -46,21 +46,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
-    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
-    publishedDateTime: 2023-08-02T14:00:00Z
-    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
-    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+  - title: "Why doctors aren't prepared for use of ChatGPT in medicine"
+    excerpt: "Like every other industry, physicians will soon see AI tools in their clinical practice New York: While artificial intelligence systems like ChatGPT ... sepsis from an uncontrolled infection or which therapy has the highest probability of preventing ..."
+    publishedDateTime: 2023-08-07T07:48:00Z
+    webUrl: "https://gulfnews.com/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
+    ampWebUrl: "https://gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 72
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
-        width: 1068
-        height: 601
+      - url: "https://imagevars.gulfnews.com/2023/05/18/ChatGPT-is-coming-to-smartphones_18830603b59_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
@@ -118,21 +118,7 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
-    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
-    publishedDateTime: 2023-08-02T14:49:00Z
-    webUrl: "https://www.inferse.com/662644/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 28
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1687.png"
-        width: 800
-        height: 400
-        isCached: true
 
-secured: "f21k1WxtAsfbqWVelCkEcy1oeGP8NF1gXrKADfIX94z87LCSupIlvwX0m4yJRxPlkOSL6XxSqBH30b39zxslHibqJPm79FRCaKlRM8exSF5tOq41kknqdP2DFPmxk7mVRLVlgJMkosBl7cnGgPlmyChXlrIpK3GUGRR95UB5O8BCRszl1L+DxdX/nun6g8s67UIaRuAiydb8jJgYgFU1takMr3UUkyduhPaobEBRqWGjgQ4gn8JpKJiNI0Xu7e3lS4KMQnyj3o+/+eWQL+xipglkUxJGgTCESM5MMo2bBIQAAQR/7SekQrh44LBq8l5r5chcLkel+KEPGcQraR04yzSOovEaKICC6VJyL3Ondbw=;/rRJyoyhF6HRtNX40QTTjQ=="
+secured: "wKYqOGL4wxPgr2iuwdxEUJmarj/EHqBc1FxstxXod0wPvywv1f1OsJP2WZTI5xaX/n3t22ce5q4HNacFkJU8WsNDbhQU+q4O03o42v2JocPqSfck0mBQJZR+MBsyg7uFdRLHiQiYwrfEn7o38KdGao17U/e0TqIBrsNigK95wLZER5MEgPq+UPGgY0/emfo5DA//3LQgAemNkQKRiKG4jiy+Gdi7NisDEObpedHHfGzfouekhz8xS4KGNelmMeVAqguUmgPFJEee+55PrjaX+i7eJNlH/O+QhXSNAzXSaL9r5ttZERb8M/+d/wf4oylaJxOhwEmTQ630+9G+oxEdivrAFM1ii58cgnxQebk0E1D8QGKYRjsJFcQOvrHukG6SYhAu7vS+krbbggJz+FLoKbsR07oQoEcKfhtwG2ObaL6wo+pPi0xr8F2c4CZfNaRJQKoRWAaxE/NnOM9ght3gJe8h2d2xF8uzcTrgf4rwch+8Iu++7P9uucss5St6UQSBOaf04Dl/awFHSONTlRhA4w==;i03v68AURSHZEghNYkPpHg=="
 ---
 

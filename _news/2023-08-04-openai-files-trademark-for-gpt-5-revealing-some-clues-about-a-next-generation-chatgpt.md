@@ -57,21 +57,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
-    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
-    publishedDateTime: 2023-08-02T14:00:00Z
-    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
-    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+  - title: "Why doctors aren't prepared for use of ChatGPT in medicine"
+    excerpt: "Like every other industry, physicians will soon see AI tools in their clinical practice New York: While artificial intelligence systems like ChatGPT ... sepsis from an uncontrolled infection or which therapy has the highest probability of preventing ..."
+    publishedDateTime: 2023-08-07T07:48:00Z
+    webUrl: "https://gulfnews.com/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
+    ampWebUrl: "https://gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-1.1691394476869"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 72
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
-        width: 1068
-        height: 601
+      - url: "https://imagevars.gulfnews.com/2023/05/18/ChatGPT-is-coming-to-smartphones_18830603b59_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
@@ -114,20 +114,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
         width: 700
         height: 492
-        isCached: true
-  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
-    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
-    publishedDateTime: 2023-08-02T14:49:00Z
-    webUrl: "https://www.inferse.com/662644/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 28
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1687.png"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "fRYyFkg0GGv4g454uvQAH4JwNBS6XkUFqF7FsUEfP8nWylzN/3wTE9NEwt+SUCgBewQRjV2U/eG2evDHNfzy0HAuBYBmGYGTwrd9tI8nk42W8PnuFjba2yQRnL/bNf0GBb3+T7RYA5jeu0t7ZCfNePQ6a+5l02tNRdvwzvwhdj43rZNwwBXml/+znecFNHJeADEOUFiCG3hJEdBpzSj5dggdpmVRv+DrC684eA/iLsDZgoVgXU2JQOL4pAOy/FLu8JWueKm2b9ucPFshY5fRw2TaMxZhXA1T9YGe307EHhV8L89HK1Gm6rSijwo/R2vjyTBWo0EIQCQa1y1MLpGu2MG7yoUxeA9FtJN956x3u2+VSCEs0kF7ofCuY9B7LmkS68XH669ITPTFWXnw5DDkOuLooZhRNDhgDDsLLpFKXkhaVTXqhRKt2N2jIYYEuAGq3imPf05a5p8bIdBD/e323pjk6qT76a+PldGdeqTOSmCo9fRNFR4zcEDIIEq7uVNdCj2ux7dWwf1eL50NpyMjXg==;U0QXT2pYOk9Qo3I5SSwy3Q=="

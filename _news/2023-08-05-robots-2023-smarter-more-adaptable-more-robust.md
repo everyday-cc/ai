@@ -7,7 +7,7 @@ originalUrl: "https://www.packworld.com/machinery/robotics/article/22869401/inno
 webUrl: "https://www.packworld.com/machinery/robotics/article/22869401/innovations-in-packaging-robotics-address-labor-crisis"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 631
     isCached: true
-
-related:
-  - title: "Best Amazon deals in August 2023: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
-    publishedDateTime: 2023-08-02T14:36:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "+lmpoYZlUwvaGs/+D9UZYx+uCY1L4x9hsv0FmJLs9lCTeWaZpCsfI/5FkW533qUtoPI5kI/4d2gC18BcryG5LZ4Z+XwnjvpEVpVhxkWZ5unq2pmAJwRIKXllrzZGSa4iKQrp9w4Rt0JLg0/n/p85bOAIMq5npUmNRWQVpRjP+JhUCqIN1jlwFahCrRcc2itG0llDRe4C2kPlKnfds7llQy1Jm9aASr63CeVKToFpmGHrXEPBIZrLNZk++C2Ixwp2r5ZZlavyQ6qIEqXi4ui2+sOnWtaMoPYU75nyyv8PCr8E184qbM+Y4NDOL3ISWd26DB25jNcKkDQT/Xf7G2F0qHAAnQW8Mf/1Dk5P6+tAYeE=;csWXVIFyLWmZPyrls0P+LA=="
 ---

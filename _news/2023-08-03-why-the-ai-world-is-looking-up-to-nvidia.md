@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish"
-    excerpt: "AMD stock is down 2% in early trading August 2 after disappointing guidance and a to-be-executed Generative AI strategy"
-    publishedDateTime: 2023-08-02T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ca454a57cf68536b69db6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
     excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
     publishedDateTime: 2023-08-06T21:15:00Z
@@ -74,19 +58,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD's Lisa Su: AI production capacity has received sufficient assurance"
-    excerpt: "AMD CEO Lisa Su's Asia tour in July to secure its supply chain became the focal point for analysts during the company's 2Q23 financial earnings call. In particular, discussions on the production capacity of AI chips and customer meetings allowed Lisa Su to talk freely about AI."
-    publishedDateTime: 2023-08-04T06:03:00Z
-    webUrl: "https://www.digitimes.com/news/a20230804PD204/amd-lisa-su-ai-chips-mi300-ai-gpu.html"
+  - title: "Dell Technologies Expands AI Offerings to Accelerate Secure Generative AI Initiatives"
+    excerpt: "News summary <br /> <br /> • Dell Generative AI Solutions include a new suite of Dell products and services, in collaboration with NVIDIA, t"
+    publishedDateTime: 2023-08-03T09:35:00Z
+    webUrl: "https://menafn.com/1106777107/Dell-Technologies-Expands-AI-Offerings-to-Accelerate-Secure-Generative-AI-Initiatives"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://img.digitimes.com/newsshow/20230804pd204_files/1_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://menafn.com/updates/pr/2023-08/03/pr_15512_477ff5da_image_story.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "Ue6Jn2LaRX6RUO/cI1Bp5Uw3akb19uVI0H/TEoyIfjU1An/c4ZkWlb9oJ7TihIBmzB7AfKziw12f8dnEk6CQnb7I2/rGQj2oR/3NSE1xA+ciivChXmorLLn2MnI+CB5bKkCKrIl1ppjHKTyDO0y6nmplCEhoOxHCNjRLEDMaHJ1wNeTzfVAFjMpa5mqdFqpHT5OGhV6NBi+0g2gIwl6My+cVHgzy23r43eRM4qQ6Ny5UN7LQ2BXb8aSjfPaVVxKhONLlCCFcvEYTkmOTL6mOtu8C+og1a58+gVgReAB0RA8tB/yYpb5fZpLZdjTtoRmdnqoSROtL5mxVXsCyMOgdAgxfGGWM538reUTmJt2I1KAHV63gjeJNYiKbTW2GCuadUg7Ad3yM8GSJrE6gpuv7XB6PBvNqULWNxC4WNrLIS6w6AX+EkIRgvWLf24iDWIMiTKAy+ZuVjwkPybGiWlBXFPDeq5MJb0QlV0tfNCA2L/C+WZSyNvSJBDMDa9u74geGBiEjU+dzViATFgyj5LrJFg==;mMWB3oGT9X6fVQQnywxsPQ=="

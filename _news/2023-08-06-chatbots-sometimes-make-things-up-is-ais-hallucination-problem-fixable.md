@@ -9,7 +9,7 @@ ampWebUrl: "https://www.normantranscript.com/region/chatbots-sometimes-make-thin
 cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       name: Alaska Dispatch News
       domain: adn.com
     quality: 18
-  - title: "The Chatbots Pick Up on Your Feelings"
-    excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
-    publishedDateTime: 2023-08-02T14:20:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 4
 
 secured: "+NOLmsJ+NE+X6J5yble/3F2jiyTNPCQ8D5leNsMMEhnL8cb4PGj49OZFktf3JzPLUTWwJnjIcV92ezTnUfWDW1AjxuYdk+O49Cn0paNDkR2ds6/x1zywbVBZs73DJn3hUe2esbJxIjsne9yzywz1bOdBqHZHI3etEz6ht1nbdyUt9yv/HAARccR/9sKDAy3WU8zCdfm+/qEPXRQhXqSu4oD410+qlqNhS5tM4FsNKN91dzqsCC8e6JBb5NbVkjVi940P4ChOACpqWzI2gvfoNh9TGrsJGb/8JtfGUKKAwZgGazpAyxW6qORp13hkQ60S8k5ERRg2wsvMKX9rzh7EyF3yxMiLA3VAmhE2LvFveBA=;v6BF7fgXrmMmlIQFuXrZ2A=="
 ---

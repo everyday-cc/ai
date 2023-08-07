@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Top 10 fintech lenders by total funding"
-    excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."
-    publishedDateTime: 2023-08-02T14:48:00Z
-    webUrl: "https://fintechmagazine.com/top10/top-10-fintech-lenders-by-total-funding-2023"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/e5ff8462968500ba2f1acc4b4bdf26b8:4deb0bcbf7d5145d2e79f83787481200/fintech-top10-lenders-1.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Spotlight On Crypto Innovations In Fintech"
     excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"
     publishedDateTime: 2023-08-04T08:44:00Z

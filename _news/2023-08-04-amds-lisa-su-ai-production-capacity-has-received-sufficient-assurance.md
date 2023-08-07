@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230804PD204/amd-lisa-su-ai-chips
 webUrl: "https://www.digitimes.com/news/a20230804PD204/amd-lisa-su-ai-chips-mi300-ai-gpu.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,70 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish"
-    excerpt: "AMD stock is down 2% in early trading August 2 after disappointing guidance and a to-be-executed Generative AI strategy"
-    publishedDateTime: 2023-08-02T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ca454a57cf68536b69db6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions"
-    excerpt: "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation."
-    publishedDateTime: 2023-08-06T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "AMD's AI And Expansion Plans Hold Great Promise Of Catching Up To Nvidia"
-    excerpt: "With intense PC market weakness that refuses to fade, Advanced Micro Devices Inc (NASDAQ: AMD) delivered better-than-expected results on Tuesday as the chip maker continues aspiring to challenge the AI chip leader,"
-    publishedDateTime: 2023-08-02T16:10:00Z
-    webUrl: "https://www.benzinga.com/23/08/33525836/amds-ai-and-expansion-plans-hold-great-promise-of-catching-up-to-nvidia"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33525836"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33525836"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-futuristic-innovation-technology-remix_0.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why the AI World is Looking Up to NVIDIA"
-    excerpt: "The demand for high-performance GPUs, especially the NVIDIA H100s, has skyrocketed due to the AI boom, and now everyone wants it."
-    publishedDateTime: 2023-08-03T07:06:00Z
-    webUrl: "https://analyticsindiamag.com/why-the-ai-world-is-looking-up-to-nvidia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/nvidia-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "0KjEHRd/1f+qcEJVzQGaT0Hyoa58Gp+FTMcRjm0qd1V5Y87QRxgcZZamAU/kP8IJrIlkU3HK8PTrFRV5KF4VhQ7wyC8l362kdoVQo9lFmqtnHezjIEI5Oj8XTsgiB6ABOGiFEJToprF2eOxEPDAHFs937ThqlmrSTCgt0Dzrod44b6L7UGAg/81byqDZ6yF2WybAhD8FTKRZ2c2U7IH0kwLXXetQHTK2Z6+FGe3CLUq1ExeUB0xWgN9pdwtYBWo3zA/fwmuGau+kCmjieVyE9n+GfosgPHlgxAA0PpVFtHzsG0nqErciZ0TUVtak4NZFVVAni8RW1pRGzwIuvfGTgoK7PJin/u8J3v1L6cqMkQV29qu36NZS1bHDd/2ykoEYlq7kxw8IN+sYMcyBFHz6uXLCV9xX42uJdUqDp4NY9eEzZvQ5uNxRluGoSeISWV4n6Ml4d/xWhfv6bVQhDTugyNeePUWNuOEV4bamo59n5IsNqz46HU2A2hscu3kXvwBtH9HGAIb82yK7dNO1J3tzew==;yKBs7/sV9CU2ynaVhnFb3Q=="
 ---

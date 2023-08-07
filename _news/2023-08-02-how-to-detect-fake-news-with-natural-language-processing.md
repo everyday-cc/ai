@@ -1,26 +1,26 @@
 ---
 category: news
 title: "How to detect fake news with natural language processing"
-excerpt: "The sheer volume of information produced every day makes it difficult to distinguish between real and fake news, but advances in natural language processing (NLP) present a possible solution."
-publishedDateTime: 2023-08-02T12:51:00Z
-originalUrl: "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002"
-webUrl: "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002"
+excerpt: "Discover how natural language processing (NLP) can be used to effectively detect fake news. Learn about the key techniques, examples and tools that NLP offers in the battle against misinformation."
+publishedDateTime: 2023-08-02T11:07:00Z
+originalUrl: "https://cointelegraph.com/news/detect-fake-news-with-natural-language-processing"
+webUrl: "https://cointelegraph.com/news/detect-fake-news-with-natural-language-processing"
 type: article
 
 provider:
-  name: Investing
-  domain: investing.com
+  name: CoinTelegraph
+  domain: cointelegraph.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981373.jpg"
-    width: 800
-    height: 533
+  - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMGI3M2E5NTMtYTRlMy00NjBlLTk4YjUtZTE3ZTkwM2E4MDNlLmpwZw==.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
-secured: "ZtUKnFnbaKKKFbPqAvsysM6j6ZPvLwspPp70bi/XiQ4McvIR9Rer7IY5V2VXV0yhyCgHZWp0i4K9kVJnWcTk8D8n+WGFsPWWuyIehsRt1ss1ygDseRp6WSwF83as3xcZyAhD/6y/dcPsQ23TNWAA/bWdLETqYv3Wyf5ZQRfW7S3jaMUxliRqr7hy391yhT/LOjOxhasV1+PAKe5RrwQ1JAW+/rPTf9sMwb867tH0CqEbztecCuqTOZwd8cTDIakOFBylujIG30TiUWfmR1RR7kZNcWLxqIw7cBPhDWHStrfPuWvHWVwt5YPq9JVt/8EVbBPyMdXZyR6Mb3CcyMtN6i1sLQAB/0suV9d2EsjEYxA=;WCTqZ7lY0EmQh0NbnUbBZw=="
+secured: "bKs14GcujXn+ZD9ZdqAxqbnQtYrh5iXny9LKnhTd+DP+reNNU5nA7ePzoBQX7tgSBDsky7hBvM5Q4e0aHJYsEMvL+4OpFg7sF2Rg1lYoyGSp+1/6r3D8lhnIkW/S9enMhmEx2olMm2ejsF0PVr2fYwy+bFGv3Gr+Zk580NyHNJ2MzShmfLleSuO19rikrN1sRxLGKh5hMuXUJqKkY9/R0p9xfGbPOX69BPMWt0801L8Jyu4fUefv1qkdXhSR2VsmVVf/GsQ5rlpekMe6eAndkGmDx8223aabeCcLqc15J5+7fr/0mD1Zegh6sF4MgzdR6OmmYPnopG+/hLlAcL239UQAHNeTLz/Hx0+mlSUZR54=;6VjS2ehuRdilXK5fXF4Qjw=="
 ---
 

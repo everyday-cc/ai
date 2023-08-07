@@ -43,6 +43,34 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Artificial intelligence gaining state lawmakers' attention, and they have a lot of questions"
+    excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they're often focusing first on their own state governments before imposing restrictions on the private sector."
+    publishedDateTime: 2023-08-07T07:13:00Z
+    webUrl: "https://www.semissourian.com/story/3005148.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 43
+    images:
+      - url: "https://www.semissourian.com/photos/38/77/10/3877109-B.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Artificial intelligence is gaining US lawmakers' attention, and they have a lot of questions"
+    excerpt: "As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they're often focusing first on their own state governments before imposing restrictions on the private sector."
+    publishedDateTime: 2023-08-07T07:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/08/07/artificial-intelligence-is-gaining-us-lawmakers039-attention-and-they-have-a-lot-of-questions"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 43
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/07/2218066.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Artificial intelligence is gaining attention of CT state lawmakers; they have a lot of questions"
     excerpt: "HARTFORD, Conn. (AP) — As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector."
     publishedDateTime: 2023-08-05T16:00:00Z

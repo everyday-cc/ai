@@ -203,15 +203,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Alaska lawmakers must consider regulating facial recognition"
-    excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
-    publishedDateTime: 2023-08-02T14:00:00Z
-    webUrl: "https://www.newsminer.com/opinion/alaska-lawmakers-must-consider-regulating-facial-recognition/article_f9f3581c-30dc-11ee-975d-03edac35dd66.html"
-    type: article
-    provider:
-      name: Fairbanks Daily News-Miner
-      domain: newsminer.com
-    quality: 19
 
 secured: "zQZEWdtqC2ar/xrPioJUxSbfz2BCLCWQfaTALr4A3Axb/nLWhzuTuEqaIhvsxQ4WtlsuslcyTLeoWs45lG/58u143gL9u7yh+uFrp29QIb2NVdboTb4IeX6njh3oKaARUUJEm/MNZr4jt8081yZnpwiSi4NjPefOgpBkjX1tEOR9odBq3qGPw25W0etMwMEjLCdCZlcC0Gal8h11CtAEdIrbq0BxbcLmU2deA1CmhXLC7iUsyWzlNqMK0r0tQeVIZEC+O4sCzUFyyuA7uqgbpKZMwOX7ZjfHtoiXdQ9tBtkp9aZ5jMvcJd8ZFke12iBQO/K0AbrrU3ue7hHsUoUMUalrSh1LuT0RzE/XZ6P6eNs=;I4LMBl18Eoh5HyqKzSyk5w=="
 ---

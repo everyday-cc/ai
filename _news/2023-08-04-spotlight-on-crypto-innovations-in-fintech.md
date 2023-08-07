@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Top 10 fintech lenders by total funding"
-    excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."
-    publishedDateTime: 2023-08-02T14:48:00Z
-    webUrl: "https://fintechmagazine.com/top10/top-10-fintech-lenders-by-total-funding-2023"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/e5ff8462968500ba2f1acc4b4bdf26b8:4deb0bcbf7d5145d2e79f83787481200/fintech-top10-lenders-1.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Future of Fintech in the Middle East 2023"
     excerpt: "Middle Eastern ambitions drive the Digital Gulf In 2020, a research paper was released titled ‘Statistical models and stochastic optimisation in financial technology and investment science’ by Tze L."
     publishedDateTime: 2023-08-05T00:00:00Z

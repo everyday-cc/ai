@@ -189,15 +189,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Alaska lawmakers must consider regulating facial recognition"
-    excerpt: "The time-saving will come from prepare-at-home boarding passes, the introduction of tag stations to replace kiosks, and using a machine, says Alaskan Airlines, to replace kiosks, and using a machine"
-    publishedDateTime: 2023-08-02T14:00:00Z
-    webUrl: "https://www.newsminer.com/opinion/alaska-lawmakers-must-consider-regulating-facial-recognition/article_f9f3581c-30dc-11ee-975d-03edac35dd66.html"
-    type: article
-    provider:
-      name: Fairbanks Daily News-Miner
-      domain: newsminer.com
-    quality: 19
   - title: "Speech And Voice Recognition Market To Surpass 53.94 Billion By 2030 Drives Due To Revolutionizing The Human-Technology Interaction"
     excerpt: "According to SkyQuest, the speech and voice recognition market is poised to be driven by a significant technological advancements and the increasing adoption of advanced electronic devices. One of the key drivers of market growth is the rising use of voice-activated biometrics for security purposes."
     publishedDateTime: 2023-08-02T17:19:00Z

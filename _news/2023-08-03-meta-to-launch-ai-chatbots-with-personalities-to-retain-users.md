@@ -69,15 +69,6 @@ related:
       name: Alaska Dispatch News
       domain: adn.com
     quality: 18
-  - title: "The Chatbots Pick Up on Your Feelings"
-    excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
-    publishedDateTime: 2023-08-02T14:20:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 4
 
 secured: "So3x4jxR99EFepXveB8N/PF05+xOmZ7aW2PjuhNwx4aCrIulOC4p4HRZyLe6AVi+A8vXVhkeru38LZfuI4gMYXNY4hbkN+SrcmHYU/ljqYoSlDD2ppkfbjV1/UNLTPX6yxW2C+qoIlFu09jWbbM5irYgd3seoQ2P2NQqtyBAW/HUmQBeg6cI4FoCD3cAkRQd9TLBWU4kaMFbo/pPr9uD4LT17yHZJLgBpzhoZXBtTon2IDOxK5AIAt0ycl4W95BzbwfRGS9/qVQnRVb+e+d5FFiGIQcWzJydA2f6w/uEvjeCrYe8Nsdg1R5/2yzHN/quSFE1vPsuNL8+RwR3wjYJK54GFT0zg18ey/aDh0BkYWA=;l/ZhQ5FMvznoOYGiEFrFJg=="
 ---
