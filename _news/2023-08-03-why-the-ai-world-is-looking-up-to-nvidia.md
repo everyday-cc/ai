@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD may take advantage of Nvidia shortfalls with AI hardware"
-    excerpt: "AMD plans to release its MI300 chip this calendar year, which should provide competition against Nvidia's H100 GPU. Because of the huge demand for AI"
-    publishedDateTime: 2023-08-02T11:04:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109564/amd-may-take-advantage-of-nvidia-shortfalls-with-ai-hardware/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/amd-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "AMD's Lisa Su: AI production capacity has received sufficient assurance"
     excerpt: "AMD CEO Lisa Su's Asia tour in July to secure its supply chain became the focal point for analysts during the company's 2Q23 financial earnings call. In particular, discussions on the production capacity of AI chips and customer meetings allowed Lisa Su to talk freely about AI."
     publishedDateTime: 2023-08-04T06:03:00Z
@@ -102,15 +88,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AMD plans to launch flagship AI chip by year-end, why it may be ‘bad news’ for Nvidia"
-    excerpt: "AMD plans to increase the production of its flagship MI300 series of artificial intelligence (AI) chips in the fourth quarter of 2023. At its launch, Amazon looked to be a likely early user; the company's public cloud computing platform,"
-    publishedDateTime: 2023-08-02T12:42:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/amd-plans-to-launch-flagship-ai-chip-by-year-end-why-it-may-be-bad-news-for-nvidia/articleshow/102354840.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 27
 
 secured: "Ue6Jn2LaRX6RUO/cI1Bp5Uw3akb19uVI0H/TEoyIfjU1An/c4ZkWlb9oJ7TihIBmzB7AfKziw12f8dnEk6CQnb7I2/rGQj2oR/3NSE1xA+ciivChXmorLLn2MnI+CB5bKkCKrIl1ppjHKTyDO0y6nmplCEhoOxHCNjRLEDMaHJ1wNeTzfVAFjMpa5mqdFqpHT5OGhV6NBi+0g2gIwl6My+cVHgzy23r43eRM4qQ6Ny5UN7LQ2BXb8aSjfPaVVxKhONLlCCFcvEYTkmOTL6mOtu8C+og1a58+gVgReAB0RA8tB/yYpb5fZpLZdjTtoRmdnqoSROtL5mxVXsCyMOgdAgxfGGWM538reUTmJt2I1KAHV63gjeJNYiKbTW2GCuadUg7Ad3yM8GSJrE6gpuv7XB6PBvNqULWNxC4WNrLIS6w6AX+EkIRgvWLf24iDWIMiTKAy+ZuVjwkPybGiWlBXFPDeq5MJb0QlV0tfNCA2L/C+WZSyNvSJBDMDa9u74geGBiEjU+dzViATFgyj5LrJFg==;mMWB3oGT9X6fVQQnywxsPQ=="
 ---

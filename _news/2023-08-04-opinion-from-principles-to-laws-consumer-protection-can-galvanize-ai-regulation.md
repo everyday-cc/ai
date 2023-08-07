@@ -67,15 +67,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Opinion: Stop worrying about AI and start paying attention more"
-    excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
-    publishedDateTime: 2023-08-02T11:54:00Z
-    webUrl: "https://www.statesman.com/story/opinion/columns/your-voice/2023/08/02/opinion-stop-worrying-about-ai-and-start-paying-attention-more/70498026007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 17
 
 secured: "+xgvOo2jWvgvaCIPUHV4AEGKhWUlF5tQryh1cfjYRxTB9g8P4P7a5INO9GbYm32PXytjbYbf80bhxK5SqqwcE7DGiuARAgXn0mNCkQZ0LAnemoUMsg6e675Ve+O22I2pkyQw7xy5TmuvUKm5Pf5X1qf5mqVj4Wfy/34q/QW6JBarycaO1+aumj9lMhQtjf76zDzrPw0NanEULSwR5Uc1bw5zWoqWpFPjh/uQIHfIMSgT7tbWZKvGCaWQIxRBRLwgEax47g+mMupC1oqcyCazraLDxnRLQkap5Pi8d2vA30z0vokR3/8L07F272sBe9FJmqZMh4IQsNuRbv9QJAB0l/sseGL2OcQ7QMPpL+ZUrPF+CFUtBb5OknL1hrPCsz7Y7/DWm3+TZRKLCTxUeFAsTHQe+IoOKcRkAE9LbcdH+4ISgXuXRohHnloKph3/l9J0ejQyvsZzOGgyYojUlRrpelOikIS6sc8ed7etpU5go1ZprFXXLr4kDhfM5rxnJ8xHOVzCNoCtJSfwV69eDJiRDg==;YF/4/LQ9cQAX0TijkDnJVA=="
 ---

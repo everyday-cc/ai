@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

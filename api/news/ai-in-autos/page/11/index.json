@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
+      "title": "A mayday call for artificial intelligence",
+      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-07T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-how-will-we-know-when-artificial-intelligence-has-become-sentient.md",
       "title": "How Will We Know When Artificial Intelligence Has Become Sentient?",
       "excerpt": "Artificial intelligence research has accelerated in recent years, and people are interacting with AI more frequently. In-home AI assistants and self-driving cars were once things out of science ...",
@@ -1277,49 +1330,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-28T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Addison Selected as Host Site for a Fourth Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32092893",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092893",
-      "publishedDateTime": "2023-04-28T12:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

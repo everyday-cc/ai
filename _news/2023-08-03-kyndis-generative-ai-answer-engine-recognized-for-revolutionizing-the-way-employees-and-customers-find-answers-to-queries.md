@@ -70,20 +70,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "Working with Generative AI Just Got Faster!"
-    excerpt: "Listen to this story Open source models (Falcon, Llama, Stable Diffusion, and GPT J) are not easy to work with, it gets even more complicated when you have to test all of them to fit your requirements and specific use cases,"
-    publishedDateTime: 2023-08-02T11:42:00Z
-    webUrl: "https://analyticsindiamag.com/working-with-generative-ai-just-got-faster/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
     excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"
     publishedDateTime: 2023-08-03T21:01:00Z

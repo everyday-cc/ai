@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
-    excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the"
-    publishedDateTime: 2023-08-02T11:26:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/291106/Flapmax-Partners-with-Intel-to-Accelerate-Artificial-Intelligence-(AI)-Innovation-in-Africa"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 42
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-02-10391201.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Top 10 fintech lenders by total funding"
     excerpt: "Discover the top 10 fintech lenders revolutionising lending with AI and data, offering fast, affordable options for businesses and individuals."
     publishedDateTime: 2023-08-02T14:48:00Z

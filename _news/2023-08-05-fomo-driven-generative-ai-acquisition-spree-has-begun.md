@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 type: article
 quality: 91
-heat: 134
+heat: 131
 published: true
 
 provider:

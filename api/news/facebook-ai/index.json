@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-02-conversational-ai-to-fuel-contact-center-market-to-16-growth.md",
+      "title": "Conversational AI to Fuel Contact Center Market to 16% Growth",
+      "excerpt": "Gartner predicts a 16% growth in conversational AI thanks to the booming contact center tech market, the advent of virtual assistants and as-a-service models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-to-fuel-16-contact-center-market-growth/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-to-fuel-16-contact-center-market-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr00802223-featuredimage-ai-to-fuel-16-contact-center-market-growth.jpeg",
+          "width": 1400,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-how-ai-may-be-used-to-create-custom-disinformation-ahead-of-2024.md",
       "title": "How AI May Be Used to Create Custom Disinformation Ahead of 2024",
       "excerpt": "Generative AI won't just flood the internet with more lies—it may also create convincing disinformation that's targeted at groups or even individuals.",
@@ -1394,58 +1446,6 @@
       "ampWebUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
       "publishedDateTime": "2023-07-14T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
-      "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
-      "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7",
-      "originalUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b072df29e5fd00190eeee9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp",
-      "publishedDateTime": "2023-07-14T02:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/opinion/column/artificial-intelligence-fi
 webUrl: "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/6e/a6e81a8b-1fe4-5a66-b6da-c63d33b537f0/64ca79fa15187.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
         width: 1196
         height: 628
-        isCached: true
-  - title: "How will artificial intelligence change how entertainment is made?"
-    excerpt: "Links to stories discussed during the podcast: The Robot Did It: The biggest twist in the new mystery story “written” by artificial intelligence? It’s pretty good!, by Laura Miller, Slate About the hosts: Scott Rada is social media manager with Lee ..."
-    publishedDateTime: 2023-08-02T12:01:00Z
-    webUrl: "https://www.stltoday.com/how-will-artificial-intelligence-change-how-entertainment-is-made/audio_53746f7c-8a76-583e-84de-dca99369cd2b.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/37/53746f7c-8a76-583e-84de-dca99369cd2b/64ca94c6cd896.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "xWjvaFQK3S99SDa8zxhVvVjuFa1j8kPouPnZkgij0i2ZbJlJYeB2uRxmEsLb64jZ0TuxHusMIJQ3HsnL1E8NhQfbWQziDsh5dCa5M3AitChNx9+kuMWiqpAoWIKeLncT4uVL2lo8Qr9RH1z4bOEcS1KZaLKsOSMLWqFtjyxPKiLMTUSlhY+3CRjFX12iGK7HFKJc3ha/iHBs8obqkbD2VEgwqP5Pt8stKSsowT1UAm8C1d3IN8ZS+kTalbibet8is1pyoQecIdY+KdqyEY1yjPnuQAe4D3K9gH2UQ+V5676KOE7885Bpagn8Luq+sPPOaWEmJf1SBPYM3a5eyH5WeRbOt6qEhRCXvLbDrGZdDsxpgENpiqN8eb1Bhtkxi2DG4OqBtBp+NrzRuPOeEImSASnzIM3GfcfqXnBrO+ex+MEwgkbqz4xvRJPfwio5FALlvoIG+QU/p6Qqz4z5vRC5Bu6ZIe66sfPqx64XbRLn8pw0NWNlP0243Ump859XF1CF726O4rJXmxVmPh9sQVn24g==;H8HS9wM9SlUR+enVMBxh4g=="

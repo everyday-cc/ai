@@ -2,6 +2,255 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-02-ai-has-finally-become-transformative.md",
+      "title": "AI Has Finally Become Transformative",
+      "excerpt": "After a decade’s worth of innovation, new models can change the world the way the internet did.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641",
+      "originalUrl": "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-827870/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-tinder-tests-ai-photo-selection-feature-to-help-users-build-profiles.md",
+      "title": "Tinder tests AI photo selection feature to help users build profiles",
+      "excerpt": "Tinder is testing an AI photo selection feature that looks at a user’s photo album and selects the five most authentic ones for their profile.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/",
+      "originalUrl": "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/amp/",
+      "publishedDateTime": "2023-08-02T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-amd-keeps-the-ai-dream-alive-enough.md",
+      "title": "AMD Keeps the AI Dream Alive Enough",
+      "excerpt": "But rival AMD overtook Intel in market value last year, thanks in part to an expensive bet on chip design. WSJ’s Asa Fitch explains the companies’ battle for the brains of your computer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84",
+      "originalUrl": "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-828111/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-amds-new-ai-chip-could-send-its-stock-soaring-heres-why.md",
+      "title": "AMD's New AI Chip Could Send its Stock Soaring. Here's Why.",
+      "excerpt": "AMD's quarterly results were lackluster, as total revenue fell 18% year over year. Management noted that the company's new AI chip remains on track for delivery in the fall. AMD is planning to ramp its AI business on the back of colossal demand for AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
+      "originalUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation.md",
+      "title": "Empowering AI To Serve Humanity: Outcome-Driven, Ethical Innovation",
+      "excerpt": "Ethical innovation in AI is a business objective and moral duty. Jobs-to-be-Done empowers businesses to ethically innovate and put human needs at the forefront.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfc025b0bb86b726143287/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/08/02/empowering-ai-to-serve-humanity-outcome-driven-ethical-innovation/amp/",
+      "publishedDateTime": "2023-08-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.md",
       "title": "Fox News Artificial Intelligence Newsletter: Restaurant robot backlash, AI regulation",
       "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
@@ -151,49 +400,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-02-deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet.md",
-      "title": "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet",
-      "excerpt": "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/",
-      "originalUrl": "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1",
-      "publishedDateTime": "2023-08-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-02-while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish.md",
       "title": "While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish",
       "excerpt": "AMD stock is down 2% in early trading August 2 after disappointing guidance and a to-be-executed Generative AI strategy",
@@ -202,7 +408,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -294,6 +500,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-how-to-detect-fake-news-with-natural-language-processing.md",
+      "title": "How to detect fake news with natural language processing",
+      "excerpt": "The sheer volume of information produced every day makes it difficult to distinguish between real and fake news, but advances in natural language processing (NLP) present a possible solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002",
+      "originalUrl": "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981373.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -972,264 +1221,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-amd-revenues-fall-18-to-536b-as-pc-market-recovers-and-ai-rises.md",
-      "title": "AMD revenues fall 18% to $5.36B as PC market recovers and AI rises",
-      "excerpt": "Advanced Micro Devices reported that revenue in its second quarter was $5.36 billion, down 18% from a year earlier as the client PC market continues to climb back during the economic downturn. But investors took the report as good news,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/amd-earnings/",
-      "originalUrl": "https://venturebeat.com/games/amd-earnings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/lisa-su-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care.md",
-      "title": "Artificial Intelligence In Women’s Health: The Pros, The Cons, And The Guardrails Needed To Improve Care",
-      "excerpt": "At that point, artificial intelligence (AI) was still a relatively young development in society: one that wouldn’t enter healthcare for another 20 years. Now, artificial intelligence - or the combination of computer science and datasets to stimulate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
-      "originalUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b77d90b34fc46d155b79a2/0x0.jpg?format=jpg&crop=1208,679,x0,y55,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-vast-data-launches-unified-data-platform-for-the-age-of-ai.md",
-      "title": "VAST Data launches unified data platform for the age of AI",
-      "excerpt": "VAST Data launches novel unfied data platform to help organizations better manage data and accelerate AI initiatives of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/VAST-Data-Platform-e1690911973261.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-new-sci-fi-shorts-prompted-into-existence-with-ai.md",
-      "title": "New Sci-Fi Shorts Prompted Into Existence With AI",
-      "excerpt": "1000 Miles and the other emerging cinematic AI shorts demonstrate the disruptive potential of AI-enabled content production. Anyone can now make the greatest game or movie or comic book universe of all time, with no art or coding skills, no actors, nor studio or distrubutor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c95eda3ffd0e8d3bc6f9a3/0x0.jpg?format=jpg&crop=1386,779,x122,y116,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/amp/",
-      "publishedDateTime": "2023-08-01T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations.md",
-      "title": "Generative AI services pulled from Apple App Store in China ahead of new regulations",
-      "excerpt": "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/",
-      "originalUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-641244694.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations/amp/",
-      "publishedDateTime": "2023-08-01T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

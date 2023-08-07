@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How conversational AI can transform IT support"
-    excerpt: "There are two prominent problems in the IT support process: repetitiveness and availability. Here's how conversational AI can help address both.\nThe post How conversational AI can transform IT support appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-02T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/dsc09921.blog-lead-space-40x21-1-630x330.jpg"
-        width: 630
-        height: 330
-        isCached: true
-  - title: "Conversational AI to Fuel Contact Center Market to 16% Growth"
-    excerpt: "Gartner predicts a 16% growth in conversational AI thanks to the booming contact center tech market, the advent of virtual assistants and as-a-service models."
-    publishedDateTime: 2023-08-02T16:19:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-to-fuel-16-contact-center-market-growth/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr00802223-featuredimage-ai-to-fuel-16-contact-center-market-growth.jpeg"
-        width: 1400
-        height: 785
-        isCached: true
   - title: "AI Has Finally Become Transformative"
     excerpt: "After a decade’s worth of innovation, new models can change the world the way the internet did."
     publishedDateTime: 2023-08-02T15:46:00Z
@@ -67,21 +39,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Rakuten Group signs pact with OpenAI to deliver conversational AI experiences"
-    excerpt: "Rakuten claims to have more than 70 services and 1.7 billion members worldwide. It operates Japan’s largest online shopping mall and offers a diverse portfolio of services spanning e-commerce, fintech,"
-    publishedDateTime: 2023-08-02T11:08:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences/102351717"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences/102351717"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences/102351717"
+  - title: "Vast Data Unveils The Vast Data Platform: A Transformative Data Platform Built For Deep Learning Ai"
+    excerpt: "Dubai, United Arab Emirates– VAST Data, the data platform company for the AI era, has unveiled the full vision for the company by introducing a t"
+    publishedDateTime: 2023-08-02T17:37:00Z
+    webUrl: "https://menafn.com/1106770686/Vast-Data-Unveils-The-Vast-Data-Platform-A-Transformative-Data-Platform-Built-For-Deep-Learning-Ai"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 56
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102351717,imgsize-131332,width-1200,height=765,overlay-ettelecom/internet/rakuten-group-signs-pact-with-openai-to-deliver-conversational-ai-experiences.jpg"
-        width: 1200
-        height: 765
+      - url: "https://menafn.com/updates/pr/2023-08/02/M_afcc2image_story.jpg"
+        width: 960
+        height: 540
         isCached: true
   - title: "Big Tech rebounds and prepares for transformative AI investments"
     excerpt: "Companies are hoping that artificial intelligence will be the answer to their problems and a way to refresh aging product lines that haven't changed all that much in recent years"
@@ -97,20 +67,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "4 Ways Conversational AI Improves Customer Experience"
-    excerpt: "In a race to secure their position in the competitive future, businesses embracing conversational AI can supercharge sales."
-    publishedDateTime: 2023-08-04T20:33:00Z
-    webUrl: "https://www.inc.com/srini-pagidyala/4-ways-conversational-ai-improves-customer-experience.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1489392590_533027_gb7ysh.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Big Tech rebounds and preps for transformative AI investments"
     excerpt: "A YEAR ago, the tech industry’s prospects looked bleak. Google’s profit dropped. Shares of Facebook’s parent company, Meta, were in free fall. Business growth at Amazon had slowed to its lowest level in two decades."
     publishedDateTime: 2023-08-06T09:37:00Z
@@ -120,6 +76,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 21
+  - title: "Study Warns That Doctors Are Not Prepared for AI Transformation of Medicine"
+    excerpt: "AI is becoming an integral part of medical decision-making, but physicians need to enhance their understanding of these tools for optimal use. Expert recommendations call for targeted training and a hands-on learning approach."
+    publishedDateTime: 2023-08-06T14:36:00Z
+    webUrl: "https://scitechdaily.com/study-warns-that-doctors-are-not-prepared-for-ai-transformation-of-medicine/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
 
 secured: "FGAEgkryFGwBRiFERUFx97b9A2BYREr/CgekSZzrxBGQRMYcJmq10X7Q1yhrcoOWDl9sY/vUbk3w3MTn8ZKu7AEgDOUJseP7mKRsO2k2v/igZs5FI+DmXHbwhqVa925G3nM3ZjIMYTvlZ1qsJGpApzSWHF5aAxQxrknkCPj3jted0Xwu4n4uO/KkxhhO504MQW6P6AogEBMYhdfJdqf1y9QOX9OD7MDHb/JsCmdcu+c707LMDEFi3KAGh2QY5ShbA+Qav2nbc1LSvdahiH3pLj+JsGL7+Z7Qw2lCK3D81fjFurs9fTvkSk9wmALFW4T6CKAmFiWKtmB3PxLYXCoE1anfNwYcbEszY6D5t/4QXE8=;WgoZhYEHsytKybSkP3O8sQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-r
 webUrl: "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Opinion: Stop worrying about AI and start paying attention more"
-    excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
-    publishedDateTime: 2023-08-02T11:54:00Z
-    webUrl: "https://www.statesman.com/story/opinion/columns/your-voice/2023/08/02/opinion-stop-worrying-about-ai-and-start-paying-attention-more/70498026007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 17
 
 secured: "QaTWPu1h39qPlpm9fKe9HuiuoK04QvSP/iJOCZtLk1oa3LysuPjNDt/iLW62gAEFmC5gz0UO1zabtewZXfxUN0puopSvWZFDeQLZ/TRZPMZTb6SpkSbPpEYtF8zArL4X9pHFRUi3VvRBBNrWirs4ZvLfsTxy47enwz8RIvrv8HgFG7CsCFgAhrFrh7xMB2AqcIGcnsEcFqkB8ErDpV0pR5y9NwLP8Y4mv8sO90DpRjEipMM1O4vnUhJ0rVpEq9JhcPQrR1zOpK+d9fkVLGVG8YVhij2d+S1Rr5fWz0s3Oj//M+IMl1JyLYkstIcFbdJl4HiSBUIJAfwncw2M4Zx4MwFT84VzKiwYEQQbTpqDG82rkUSM7vqROjg203BKlJjs1LD9AuceY8HOea+vetgBUpGxjTlhb1rBd85gngi6Iowy/9myXjrv2X033RcAMQUfICYoqdf5XxXh9xovrrUswJQy3CczLLq6CKD4kaetdvqAyrvd9KgXfcvE3DB4Cp+D3hIXCF8WxVq7JmkvdVPukQ==;6IGwUdKAaJ0khIyeA6IiQA=="
 ---

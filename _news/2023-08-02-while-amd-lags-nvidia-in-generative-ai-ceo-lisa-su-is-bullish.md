@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AMD may take advantage of Nvidia shortfalls with AI hardware"
-    excerpt: "AMD plans to release its MI300 chip this calendar year, which should provide competition against Nvidia's H100 GPU. Because of the huge demand for AI"
-    publishedDateTime: 2023-08-02T11:04:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109564/amd-may-take-advantage-of-nvidia-shortfalls-with-ai-hardware/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/amd-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "AMD's Lisa Su: AI production capacity has received sufficient assurance"
     excerpt: "AMD CEO Lisa Su's Asia tour in July to secure its supply chain became the focal point for analysts during the company's 2Q23 financial earnings call. In particular, discussions on the production capacity of AI chips and customer meetings allowed Lisa Su to talk freely about AI."
     publishedDateTime: 2023-08-04T06:03:00Z
@@ -105,15 +91,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AMD plans to launch flagship AI chip by year-end, why it may be ‘bad news’ for Nvidia"
-    excerpt: "AMD plans to increase the production of its flagship MI300 series of artificial intelligence (AI) chips in the fourth quarter of 2023. At its launch, Amazon looked to be a likely early user; the company's public cloud computing platform,"
-    publishedDateTime: 2023-08-02T12:42:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/amd-plans-to-launch-flagship-ai-chip-by-year-end-why-it-may-be-bad-news-for-nvidia/articleshow/102354840.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 27
 
 secured: "urzwYRhbnbBnsFdl8EFMWHnDJKihDVxjbxDefpqnl8oPL6X/etuFULziL8k2AT1EUN7zYWpXEgIH0TYjixMoUDllNYNJLU5KkPgm8HiKBobYuo0YnFJdw3eFNg2ULJX79TXNdr6lMZpNPHqyIUrlJx8r9v431fOI5+1R9VSP5A33UisXbPT74ZbyM2/CqYlS4bZq+0MKKrM/dZZsi4DEnwOeuc+CfMmaHAMT47uVZFfHhuL0OXKs5jt2YgK5jHGZ6aCDwfB36EN4FeicJ3plZO4iudnep7g2kY/ApxuzHa5Li2PVPtePn21aHwCQhHryibVwanIzB/j/PTm6HgsuPCEqsE2IvfVIl/fO2BAFC/s=;SfM/Xj1Ygo5gLM25nrsQ9A=="
 ---

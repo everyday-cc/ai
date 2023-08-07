@@ -43,6 +43,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Are AI partners a threat to women's rights?"
+    excerpt: "Chatbot apps like Replika, Character.AI and Soulmate are part of the fast-growing generative AI companion market, where users customise everything about their virtual partners, from appearance and personality to sexual desires."
+    publishedDateTime: 2023-08-07T05:16:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/articleshow/102489423.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/are-ai-partners-a-threat-to-womens-rights/amp_articleshow/102489423.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62088,msid-102489662/companion-chatbots.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "1 Cheap AI Stock to Buy Hand Over Fist Before It Doubles"
     excerpt: "The booming demand for chips to power artificial intelligence (AI) applications has sent Nvidia 's (NASDAQ: NVDA) stock soaring in 2023, with shares of the graphics card specialist jumping 206% this year. But that also means that Nvidia's stock now trades at an extremely expensive multiple."
     publishedDateTime: 2023-08-03T09:15:00Z
@@ -52,15 +68,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "1 Hot AI Stock to Buy Hand Over Fist Before It Joins the $1 Trillion Club"
-    excerpt: "For instance, content recommended by AI on Facebook feeds has led to a 7% jump in the time ... according to Grand View Research. So the stage seems set for Meta to sustain a healthy pace of long-term growth, which should get it back into the $1 trillion ..."
-    publishedDateTime: 2023-08-02T12:15:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/02/hot-ai-stock-to-buy-hand-over-fist-trillion-meta/"
+  - title: "AI in Health Care: 8 Best Stocks to Buy"
+    excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
+    publishedDateTime: 2023-08-02T15:23:00Z
+    webUrl: "https://wtop.com/news/2023/07/ai-in-health-care-8-best-stocks-to-buy/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 48
+      name: WTOP News
+      domain: wtop.com
+    quality: 41
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "cmpaqZxHS7hf6GzHa6DYc9GOuBKwfXqWrAK7srbiWw5Eq7rWXFlcdAeYqXSMwPausoosiPG1hnJvoCgKZlJOdF+fNnC5sbvfpYONqAxM5RyZIhBzC1AZDEFq0oiB6OlLueBJmY+/Ify7ilxdFfxqcFjDHnHBo6NCQ70FR1/I1laGyIrqdM1zO9g9gsBUgGRLxDW297XTWCh8ycJE4RdH2/F8ng/C7fUgO9oojLIxK5PbzZZUM70qnQipoSDG4aYk6pC/65OIc6Gh+yxcJbtH7z5Ve8tb0sZ4BmUUmUGeXi4OLgTFFR07h34jldx2ehyFgL37euj8KqogYusmcDmAmLAeB9/nrx1blnt8m4/HiRA=;Qww4aaVbhRmoMgaJvqKWPw=="
 ---

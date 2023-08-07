@@ -2,6 +2,245 @@
   "page": 139,
   "value": [
     {
+      "path": "_news/2023-05-09-at-ibm-think-partners-are-front-and-center.md",
+      "title": "At IBM Think, partners are front and center",
+      "excerpt": "If you&#8217;ve followed IBM over the past few years, you know how critical the IBM Ecosystem is to our growth strategy. It&#8217;s why we gave partners access to the same training and enablement as IBMers last year, launched a new partner program in January, and continue investing in and growing the",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/at-ibm-think-partners-are-front-and-center/",
+      "originalUrl": "https://www.ibm.com/blog/at-ibm-think-partners-are-front-and-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/AdobeStock_93219397.lr_-630x330.jpeg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-here-are-10-ai-powered-tools-to-help-boost-your-productivity-at-work.md",
+      "title": "Here are 10 AI-powered tools to help boost your productivity at work",
+      "excerpt": "AI readers like Wordtune Read might be able to help you get ... Insider's Aaron Mok tried the tool for a week and found it gave him a boost of motivation to start rote tasks like responding to emails. It also helped him quickly transition into a focused ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/640a41b79ef79f0018286f61?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tools-make-your-job-easier-boost-productivity-work-chatgpt-2023-5?amp",
+      "publishedDateTime": "2023-05-09T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
+      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
+      "excerpt": "SymphonyAI will integrate Microsoft Azure Cognitive Services including Azure OpenAI Service and Azure Cognitive Search, and Azure Applied AI Services, along with Azure API Management and Azure infrastructure, in additional forthcoming vertical use cases ...",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/05/09/9809924.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-clothing-entrepreneurs-cant-wait-to-fire-themselves-as-models-and-hire-the-ai-kind-instead.md",
+      "title": "Clothing Entrepreneurs Can’t Wait To Fire Themselves As Models And Hire The AI Kind Instead",
+      "excerpt": "Despite the public roasting Levi’s took for flirting with AI, smaller clothing sellers who model their own products online maintain a growing interest in replacing themselves with the computer-generated kind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/05/09/small-businesses-using-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/05/09/small-businesses-using-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645977d7537aa8e5f3be84e9/0x0.jpg?format=jpg&crop=2162,1216,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ibm-unveils-new-watsonx-ai-and-data-platform.md",
+      "title": "IBM unveils new watsonx, AI and data platform",
+      "excerpt": "The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show Jeopardy. IBM at the time said Watson could “learn” and process human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ibm-unveils-new-watsonx-ai-data-platform-2023-05-09/",
+      "originalUrl": "https://www.reuters.com/technology/ibm-unveils-new-watsonx-ai-data-platform-2023-05-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/g9v_1xdEnug8tuWS4CGWjADBJPk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IMXSROYHCZKDZB4FPIZK7DZJPM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-making-intelligent-noise-ai-in-the-music-industry.md",
       "title": "Making Intelligent Noise: AI In The Music Industry",
       "excerpt": "As AI continues to expand, so do its applications, which now span all aspects of the industry from A&R to audio engineering to live performance.",
@@ -936,256 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-you-can-earn-up-to-25-an-hour-training-ai-to-write-better-in-other-languages.md",
-      "title": "You can earn up to $25 an hour training AI to write better in other languages",
-      "excerpt": "If you're a writer with an interest in AI and other languages, there's a job available for you. Scale AI, a data-labeling company, has job listings for writers to train generative AI models to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645a535ec726bc00196a8d95?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-training-jobs-data-labeling-language-improvement-pay-25-hour-2023-5?amp",
-      "publishedDateTime": "2023-05-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-artificial-intelligence-robotics-market-global-analysis-2023-2030.md",
-      "title": "Artificial Intelligence Robotics Market Global Analysis 2023-2030",
-      "excerpt": "Highlights with Short Brief of Artificial Intelligence Robotics Market: Artificial Intelligence Robotics Marketsize, segment (mainly coveringMajorType (, Service Robots, Industrial Robots, ,),End Users (, Military and Defense, Law Enforcement, Healthcare ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-global-analysis-2023-2030-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-global-analysis-2023-2030-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability.md",
-      "title": "The AI era of risk management is a win for financial inclusivity and stability",
-      "excerpt": "The applicant takes a selfie and a picture of a document that confirms their employment and income status, which is then matched using Amazon Rekognition to verify their identity and immediately release the funding. This is particularly important for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
-      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/nvidia-art-5-hero.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-apple-co-founder-says-ai-may-make-scams-harder-to-spot.md",
-      "title": "Apple co-founder says AI may make scams harder to spot",
-      "excerpt": "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65496150",
-      "originalUrl": "https://www.bbc.com/news/technology-65496150",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/5834/production/_129608522_gettyimages-1423387395.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-65496150.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65496150.amp",
-      "publishedDateTime": "2023-05-08T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-hype-will-drive-datacenter-gpu-prices-sky-high.md",
-      "title": "AI Hype Will Drive Datacenter GPU Prices Sky High",
-      "excerpt": "Like many HPC and AI system builders, we are impatient to see what the “Antares” Instinct MI300A hybrid CPU-GPU system on chip from AMD might look like in",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
-      "originalUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/05/llnl-el-capitan-mountain-logo.jpg",
-          "width": 1905,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
-      "publishedDateTime": "2023-05-08T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

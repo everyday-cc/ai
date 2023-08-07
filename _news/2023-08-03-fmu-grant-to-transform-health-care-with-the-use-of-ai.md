@@ -39,15 +39,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "MBA Grads With Startup Ambitions Attracted to Health Care, AI"
-    excerpt: "The class of 2023 from two of the nation's most prominent business schools founded nearly 100 startups, according to data released by an international software design and development firm. The data from Symphony revealed that the Stanford MBA class of 2023 founded 23 companies,"
-    publishedDateTime: 2023-08-02T12:01:00Z
-    webUrl: "https://www.technewsworld.com/story/mba-grads-with-startup-ambitions-attracted-to-health-care-ai-178502.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
 
 secured: "m5UEMYXspg199eDw5cJatG/6/jZ9jMIsh+aUiWP4hEanWAB3ZOibM1jn5fyT3qncvpEQJOl8YmfJ2YtY96lpIhPa1l7shniegjCECX+c+kOqAUi5lzKBXSB1pfebISWJZrGa8o//D4+Z0tzCtIe48T+EWZYai2H4/j62L0OtPl6Jpmv6xMg2hhqlnznbD+GCKHR8Ge7tIN/g1PStSGp2BrL02dV155vFB2q/jRFzvXhXuFGi67gYzzcNmCMjm5BQx1mvfxj7m7iqy53iwfNJ/DAktpRi3Cd9XEt6QgH8B4diGLwWaHV9KawMkKthTuB23fNucMuOqGJv5ZyWs47WoBtB00DbXGLTVv2YnLTl11E=;M2fJtctEybYBLkm2X/u41Q=="
 ---

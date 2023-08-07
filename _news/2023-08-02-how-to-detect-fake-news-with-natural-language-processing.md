@@ -6,9 +6,6 @@ publishedDateTime: 2023-08-02T12:51:00Z
 originalUrl: "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002"
 webUrl: "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Investing
@@ -24,6 +21,6 @@ images:
     height: 533
     isCached: true
 
-secured: "nCmtSFz2kWvTePzXzSxpjOTOHdQU1nbPem/SboM0Hcz6lE9kXglXYyYXHv5jEJcmBP8U8XP/0sLNq+8qj9fXxo+XpMk1357u8Sv5gekf27/tgMTFw+ggDxkcYxXxSDVm/6kXL5KxeKOzL1Z4L6e2wGBQl/M+4o2mhaoZ93uFllojeacxJaB6bf9VXQw7Nx/4CWqGBoxvgKGAtw/RgKmvg+SJH7lHU73IF3zH8+6sSJPNExp5nDokYTD6m4hJVr+aqkvNtz63M8Y9S2Qx0YzOCWJ3S8EvmJV52ptbgJ1kwut310enoJji+RJTjNnLTCaJfv/5/kV+JGzYVGATwL0gUBT9IyObPo53JmMJMzuCLYM=;uvlN4684btu0b2aMKAYVmg=="
+secured: "ZtUKnFnbaKKKFbPqAvsysM6j6ZPvLwspPp70bi/XiQ4McvIR9Rer7IY5V2VXV0yhyCgHZWp0i4K9kVJnWcTk8D8n+WGFsPWWuyIehsRt1ss1ygDseRp6WSwF83as3xcZyAhD/6y/dcPsQ23TNWAA/bWdLETqYv3Wyf5ZQRfW7S3jaMUxliRqr7hy391yhT/LOjOxhasV1+PAKe5RrwQ1JAW+/rPTf9sMwb867tH0CqEbztecCuqTOZwd8cTDIakOFBylujIG30TiUWfmR1RR7kZNcWLxqIw7cBPhDWHStrfPuWvHWVwt5YPq9JVt/8EVbBPyMdXZyR6Mb3CcyMtN6i1sLQAB/0suV9d2EsjEYxA=;WCTqZ7lY0EmQh0NbnUbBZw=="
 ---
 

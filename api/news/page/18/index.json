@@ -2,6 +2,247 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-07-24-say-it-with-ai-how-learning-happens-through-language.md",
+      "title": "Say It With AI! How Learning Happens Through Language",
+      "excerpt": "That last principal, language, played a central role in Andreas explaining many types of new learning systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/24/say-it-with-ai-how-learning-happens-through-language/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/24/say-it-with-ai-how-learning-happens-through-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bd9c504b8aa825a8d98952/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/24/say-it-with-ai-how-learning-happens-through-language/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/24/say-it-with-ai-how-learning-happens-through-language/amp/",
+      "publishedDateTime": "2023-07-24T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-fox-sports-fifa-womens-world-cup-broadcasts-to-include-ai-powered-highlights-feature.md",
+      "title": "Fox Sports' FIFA Women’s World Cup broadcasts to include AI-powered highlights feature",
+      "excerpt": "Fox Sports is implementing Amazon Web Services’ Catch Up With Highlights feature into its FIFA Women’s World Cup broadcasts. The AWS tool uses AI to identify video and audio cues of important moments in the match for real-time generation of a reel that can be viewed by users of the Fox Sports app on mobile devices and connected TVs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessjournal.com/Daily/Issues/2023/07/24/Technology/fifa-womens-world-cup-fox-sports-aws.aspx",
+      "originalUrl": "https://www.sportsbusinessjournal.com/Daily/Issues/2023/07/24/Technology/fifa-womens-world-cup-fox-sports-aws.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-machine-learning-helps-this-company-deliver-a-better-online-shopping-experience.md",
+      "title": "Machine learning helps this company deliver a better online shopping experience",
+      "excerpt": "Buying products online can feel like a gamble. Wayfair uses machine learning to ensure the odds are in your favor, and the technology boosts internal productivity, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/06205202a6bf24c5b8b76a98b813236a5c243b4a/2023/07/24/f1b2733e-76ec-4595-a90f-b45790534b96/gettyimages-590775955.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-helps-this-company-deliver-a-better-online-shopping-experience/",
+      "publishedDateTime": "2023-07-24T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-what-is-it-operations-analytics.md",
+      "title": "What is IT operations analytics?",
+      "excerpt": "IT operations analytics (ITOA) is the data-driven process by which organizations collect, store and analyze data produced by their IT services.\nThe post What is IT operations analytics? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/it-operations-analytics/",
+      "originalUrl": "https://www.ibm.com/blog/it-operations-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/donedsc07661retocada.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T08:59:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-singapore-looks-for-generative-ai-use-cases-with-sandbox-options.md",
+      "title": "Singapore looks for generative AI use cases with sandbox options",
+      "excerpt": "Two sandboxes, including one for government applications, will run on Google Cloud's generative artificial intelligence toolsets and offered free for three months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/895aeaf4aa2aa3b3e3c2f8296b0e3d1868404385/2023/07/24/55c31eb6-f32d-4ad9-96b6-3e85306d46d7/cloudgettyimages-1251913187.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/",
+      "publishedDateTime": "2023-07-24T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-healthcare-artificial-intelligence-ai-market-2023-is-set-to-fly-high-in-upcoming-year.md",
       "title": "Healthcare Artificial Intelligence (AI) Market 2023 Is Set To Fly High In Upcoming Year",
       "excerpt": "healthcare artificial intelligence (ai) market [ 118 Report Pages] Insights 2023 by Types (, Hardware, Software, Services, , ) , Applications (, Academic and Research Laboratories, Hospital and ...",
@@ -962,256 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock.md",
-      "title": "How face recognition rules in the US got stuck in political gridlock",
-      "excerpt": "A national effort to ban police use of face recognition is facing a sobering reality: compromise",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/",
-      "publishedDateTime": "2023-07-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach.md",
-      "title": "The Potential And Pitfalls Of AI In Healthcare: A Measured Approach",
-      "excerpt": "It is critical that healthcare professionals and hospital executives maintain a measured approach toward AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64999aa003d4598ee35d4178/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/",
-      "publishedDateTime": "2023-07-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security.md",
-      "title": "For a short time only: Time-based restrictions for enhanced cloud security",
-      "excerpt": "Learn how to apply time-based restrictions on IBM Cloud with Terraform.\nThe post For a short time only: Time-based restrictions for enhanced cloud security appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
-      "originalUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/91584999.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T03:26:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-will-artificial-intelligence-replace-human-insurance-brokers.md",
-      "title": "Will Artificial Intelligence Replace Human Insurance Brokers?",
-      "excerpt": "I firmly believe that AI is not here to replace human insurance brokers; rather, it is here to enhance their abilities and transform the way we work together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/",
-      "originalUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64be4ff608d1f9a072d98952/0x0.jpg?format=jpg&width=1200",
-          "width": 1070,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/amp/",
-      "publishedDateTime": "2023-07-24T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-5g-ai-and-iot-the-dream-team-for-modern-manufacturing.md",
-      "title": "5G, AI And IoT: The Dream Team For Modern Manufacturing",
-      "excerpt": "The Internet of Things has dramatically improved output for manufacturers over the last decade. IoT enables systems to support connected assets, critical for smart manufacturing and connected logistics; it's no surprise then that Statista predicts there will be 22 billion connected IoT devices by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2d0991429c251da8aa488/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
-      "publishedDateTime": "2023-07-24T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -63,15 +63,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 44
-  - title: "Opinion: Stop worrying about AI and start paying attention more"
-    excerpt: "I rarely lecture for more than about 10 minutes, which is a normal attention span. After that, minds start to wander. So, after 10 minutes I divide students into small groups and give them questions to answer for a grade they will share. I monitor groups ..."
-    publishedDateTime: 2023-08-02T11:54:00Z
-    webUrl: "https://www.statesman.com/story/opinion/columns/your-voice/2023/08/02/opinion-stop-worrying-about-ai-and-start-paying-attention-more/70498026007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 17
 
 secured: "m6vrJZNVMJa2J4D8vmLxSKfeaNGFrbXPI0DuQ6jcxeK2j3uH6wvZYxrBA4bMg1mxAT9p3kP2PyvDalX9YSIKqTVCKIUZdOCmUPGaWXdSy9F9v4DLGiJSdC2bd4SKr8fS4KCZDdkzkxzHEHK1Ug+kVXInfH2MM4OYOAwiEG2b/SuI7iU29xG9DC9VyeVdxUmmR6A8lAUPodqX9LCgxhH1xplBZGHSJSCGyuf7Wy8o2fhobZGEmFoY5R5OG1HEx/da7GyhSP5ZX3HGtSNNzfwQu1fDb7XyGo1+IAMGqIolRnUned+5ZnUqz10SIP3lPzhMWXSJ/79P2kCc9I+HAKdFT3fD7oPyPeHhi0InSjyGD5g=;KAj3oG0MhDAFSHiFEzQDzw=="
 ---

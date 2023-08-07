@@ -87,29 +87,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AMD may take advantage of Nvidia shortfalls with AI hardware"
-    excerpt: "AMD plans to release its MI300 chip this calendar year, which should provide competition against Nvidia's H100 GPU. Because of the huge demand for AI"
-    publishedDateTime: 2023-08-02T11:04:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109564/amd-may-take-advantage-of-nvidia-shortfalls-with-ai-hardware/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/amd-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-  - title: "AMD plans to launch flagship AI chip by year-end, why it may be ‘bad news’ for Nvidia"
-    excerpt: "AMD plans to increase the production of its flagship MI300 series of artificial intelligence (AI) chips in the fourth quarter of 2023. At its launch, Amazon looked to be a likely early user; the company's public cloud computing platform,"
-    publishedDateTime: 2023-08-02T12:42:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/amd-plans-to-launch-flagship-ai-chip-by-year-end-why-it-may-be-bad-news-for-nvidia/articleshow/102354840.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 27
 
 secured: "0KjEHRd/1f+qcEJVzQGaT0Hyoa58Gp+FTMcRjm0qd1V5Y87QRxgcZZamAU/kP8IJrIlkU3HK8PTrFRV5KF4VhQ7wyC8l362kdoVQo9lFmqtnHezjIEI5Oj8XTsgiB6ABOGiFEJToprF2eOxEPDAHFs937ThqlmrSTCgt0Dzrod44b6L7UGAg/81byqDZ6yF2WybAhD8FTKRZ2c2U7IH0kwLXXetQHTK2Z6+FGe3CLUq1ExeUB0xWgN9pdwtYBWo3zA/fwmuGau+kCmjieVyE9n+GfosgPHlgxAA0PpVFtHzsG0nqErciZ0TUVtak4NZFVVAni8RW1pRGzwIuvfGTgoK7PJin/u8J3v1L6cqMkQV29qu36NZS1bHDd/2ykoEYlq7kxw8IN+sYMcyBFHz6uXLCV9xX42uJdUqDp4NY9eEzZvQ5uNxRluGoSeISWV4n6Ml4d/xWhfv6bVQhDTugyNeePUWNuOEV4bamo59n5IsNqz46HU2A2hscu3kXvwBtH9HGAIb82yK7dNO1J3tzew==;yKBs7/sV9CU2ynaVhnFb3Q=="
 ---

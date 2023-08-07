@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/ai-robots-can-now-do
 webUrl: "https://interestingengineering.com/innovation/ai-robots-can-now-do-manicures-and-other-beauty-treatments"
 type: article
 quality: 54
-heat: 64
+heat: 65
 published: false
 
 provider:

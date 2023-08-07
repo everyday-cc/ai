@@ -41,20 +41,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "A Computer Vision Teleoperation System Adaptable To Various Robots"
-    excerpt: "NVIDIA and UC San Diego researchers have created AnyTeleop, a computer vision-powered teleoperation system for diverse applications."
-    publishedDateTime: 2023-08-02T11:52:00Z
-    webUrl: "https://www.electronicsforu.com/news/a-computer-vision-teleoperation-system-adaptable-to-various-robots"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 56
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/08/a-computer-vision-base.jpg"
-        width: 800
-        height: 463
-        isCached: true
   - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
     excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
     publishedDateTime: 2023-08-03T20:11:00Z

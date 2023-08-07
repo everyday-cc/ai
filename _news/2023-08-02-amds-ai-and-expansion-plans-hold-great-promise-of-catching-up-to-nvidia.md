@@ -73,20 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AMD may take advantage of Nvidia shortfalls with AI hardware"
-    excerpt: "AMD plans to release its MI300 chip this calendar year, which should provide competition against Nvidia's H100 GPU. Because of the huge demand for AI"
-    publishedDateTime: 2023-08-02T11:04:00Z
-    webUrl: "https://www.techzine.eu/news/devices/109564/amd-may-take-advantage-of-nvidia-shortfalls-with-ai-hardware/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/amd-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "AMD's Lisa Su: AI production capacity has received sufficient assurance"
     excerpt: "AMD CEO Lisa Su's Asia tour in July to secure its supply chain became the focal point for analysts during the company's 2Q23 financial earnings call. In particular, discussions on the production capacity of AI chips and customer meetings allowed Lisa Su to talk freely about AI."
     publishedDateTime: 2023-08-04T06:03:00Z
@@ -101,15 +87,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AMD plans to launch flagship AI chip by year-end, why it may be ‘bad news’ for Nvidia"
-    excerpt: "AMD plans to increase the production of its flagship MI300 series of artificial intelligence (AI) chips in the fourth quarter of 2023. At its launch, Amazon looked to be a likely early user; the company's public cloud computing platform,"
-    publishedDateTime: 2023-08-02T12:42:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/amd-plans-to-launch-flagship-ai-chip-by-year-end-why-it-may-be-bad-news-for-nvidia/articleshow/102354840.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 27
 
 secured: "8E4JaX4blxOtIYwFY+ul7JImbUAjmSNvhvWXggBP5P/T9l/oO7pT+4WtfDU3eRoXKWgnKj6yuy9CxeRQdAMFG3ui1xHswBW48hwCsRI6bvubQO9ly7feuRXH0ZuL80OaFuFs/K5pbfVWGsQj/+6uqKsvWvNhFzH0Q10ZCzRxPKnz02hg/veU+GmoKKMNUCR+7JPmMfdGkFB7Py1YliXAdyJnqkGpBORu0Ke/FKLo5tDMpZsPzCEBfbM7QLVxRgXN2GKYvNXDUcjKZ2Bl8AbYOxYqSt0Up0mauf7NlM7A9ivlsq2tRE9ZB+CtZSQVdk2kMRhMbkNA5iPJCecMOQ0y0e6Zd8ES80AyIWy2wdH/evo=;qXK54m/1NtpjxFgNHQ4kQw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-m
 webUrl: "https://www.crn.com/news/cloud/google-hires-5-key-execs-from-aws-microsoft-here-s-who"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+
+related:
+  - title: "AWS vs Google Cloud vs Microsoft Azure: Hyperscalers’ Growth Galores"
+    excerpt: "Examining the latest quarterly results, Azure shines brightly in the generative AI arena, boasting impressive 26 percent growth which translates to $ 55 billion revenue, backed by their cutting-edge A"
+    publishedDateTime: 2023-08-07T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/azure.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Fj3WcWJzVCb/WG3SOUXnqQKcs9Ph25Zm11ZwqWtH/mnzBxOg3awqyLLUqp2q+lkH3fZuR7MbtHxI8c8akf7or3lDn1veNlD2wCiiDZI1O63WyK+G+Wx6zUTz3W81ssfhNzIRtrmj9Ttr3BSy9n7XOZnuJ5JSdyt8q5MwG7f42ots6e/42uI5GERyZHkrgnymS3I5GJMbsNY4Pyd8wQaLiPAdpGGAX2n+RiqTie/L6LhiDBO1uevzpFp9w5PoWCXTA7ubrZ1XqiBqfB5Lp6TcccogekyHqJUeyUizh405R8pjVLGFryiVNc6L6mLoQao3Ojs//4y1uE8WQiWhLuq6NraAl2zq6FdfT+QlfcY6snutUW8ONI4oLcLhwX7Wn/f4lBsUVcoHGT0NOmUSDRy9MUDtqAivR0KFXl016eHnlHjupNhra7gSbFaotQTQVIGkF307t9c8xAevSfkqtFCl5dxm7bclTM8W84GK5hmPGD1bQU39HLWgFrQxttGbEtOVbtNp5HGvqMWgd2tBuUmS1g==;6O4O9rKg16/xyZr852LlKA=="
 ---

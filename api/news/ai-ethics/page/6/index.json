@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-12-the-future-of-ai-has-begun-to-look-rather-too-human.md",
+      "title": "The future of AI has begun to look rather too human",
+      "excerpt": "The advancements in Large Language Models (LLMs) have led to the creation of AI chatbots that can provide personalized fitness plans and even answer questions as historical figures. However, this raises questions about the potential for AI to become indistinguishable from humans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society-11683828995918.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society-11683828995918.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/05/11/600x338/AI_1683829938873_1683829939068.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-future-of-ai-from-chatbots-to-digital-afterlife-what-lies-ahead-for-human-existence-and-society/amp-11683828995918.html",
+      "publishedDateTime": "2023-05-11T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-generative-ai-landscape-current-and-future-trends.md",
       "title": "Generative AI Landscape: Current and Future Trends",
       "excerpt": "The generative AI landscape is expanding rapidly, and offers great benefits even as it presents enormous challenges.",
@@ -1389,59 +1432,6 @@
         "IBM AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-microsoft-has-a-new-way-to-keep-chatgpt-ethical-but-will-it-work.md",
-      "title": "Microsoft has a new way to keep ChatGPT ethical, but will it work?",
-      "excerpt": "Microsoft caught a lot of flak when it shut down its artificial intelligence (AI) Ethics & Society team in March 2023. It wasn’t a good look given the near-simultaneous scandals engulfing AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/",
-      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/02/bing-chat-human-featured.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-chatgpt-ethics-team-responsible-ai/?amp",
-      "publishedDateTime": "2023-05-02T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-07-aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores.md",
+      "title": "AWS vs Google Cloud vs Microsoft Azure: Hyperscalers’ Growth Galores",
+      "excerpt": "Examining the latest quarterly results, Azure shines brightly in the generative AI arena, boasting impressive 26 percent growth which translates to $ 55 billion revenue, backed by their cutting-edge A",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores/",
+      "originalUrl": "https://analyticsindiamag.com/aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/azure.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-fomo-driven-generative-ai-acquisition-spree-has-begun.md",
       "title": "FOMO-Driven Generative AI Acquisition-Spree Has Begun",
       "excerpt": "The market frenzy in Generative AI acquisitions has begun. Let's try to predict which corporations will be active first in the Generative AI sector.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1436,50 +1480,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-microsoft-reports-201b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift.md",
-      "title": "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'",
-      "excerpt": "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent Meta in selling the latest artificial intelligenc",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
-      "publishedDateTime": "2023-07-25T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

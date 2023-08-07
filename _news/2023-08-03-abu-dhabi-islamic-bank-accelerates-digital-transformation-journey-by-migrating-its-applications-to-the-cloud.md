@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106770488/Abu-Dhabi-Islamic-Bank-accelerates-d
 webUrl: "https://menafn.com/1106770488/Abu-Dhabi-Islamic-Bank-accelerates-digital-transformation-journey-by-migrating-its-applications-to-the-Cloud"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 827
     height: 1147
     isCached: true
-
-related:
-  - title: "Abu Dhabi Islamic Bank accelerates digital transformation journey by migrating its applications to the Cloud"
-    excerpt: "Abu Dhabi Islamic Bank (ADIB), a leading Islamic financial institution, announced today the successful migration of a high percentage of its application"
-    publishedDateTime: 2023-08-02T11:06:00Z
-    webUrl: "https://www.albawaba.com/business/pr/abu-dhabi-islamic-bank-accelerates-digital-transformation-journey-migrating-its"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/abu-dhabi-islamic-bank-accelerates-digital-transformation-journey-migrating-its"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-islamic-bank-accelerates-digital-transformation-journey-migrating-its"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 42
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-08/New%20HQ%20%281%29.jpg?itok=lRtiyNnN"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "dJy2i0Iy7BiN93m/HUmIP13she98ED17xKAfXM/r/Gn5kyixTAA96ZYMAaaeYOa4G5sSeJamNdgVQ5RNbqEUP6CJDuL40aa+VujdYl2zURCf7DBPPcE0m4XeLJ5etraAGFVLVeF1Mjsk2za1DRZilcssCEFGDSdHb3FbG2+ojGEeYyYLMOeTpX9aaSWIFX6Zb0VDG4GN19CAjyIIk0yNF+R9uWLEvmEjrYJeqV3hYiCXJwTnYGbjx0fH+VsPEKW5QUVn1q0te7gxKUdlGzV5kW/9rQoJSym7fPzdkSE16za6P4+diwvuOOvjI62jnlE+Kc/Tfqi3loVLrFfvV9EReJtDmiCqqOg7rz5z2TrXI8mBjnBErcd68x/kCCIG1UNmUTwK/t5f0fjj0Cfgqy87w+CSy6Gd50iz2JzOLrWdMAP5e8NfGnb7VeedqSB0qoCvArfqONVbPjPDaqFJG+2mz5Gvar37fH2t+txNWNFRKlB1vxzRkJtCumWvAswyfhwOicyzJ71LH0DbMvhKHbOBZA==;OA4Qdz1NtGBLLZ46bvpPGw=="
 ---

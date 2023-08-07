@@ -23,48 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "2 Healthcare AI Stocks That Could Go Parabolic"
-    excerpt: "In May, Recursion increased its AI-powered capability by agreeing to buy two AI-focused drug discovery start-ups, Cyclica and Valance, for a total of $87.5 million. GE Healthcare's shares are up nearly 40% to start the year. The recent spinoff from ..."
-    publishedDateTime: 2023-08-02T11:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
+  - title: "3 Cheap Autonomous Driving Stocks That Smart Investors Will Snap Up Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An interesting phenomenon has occurred when it comes to autonomous driving."
+    publishedDateTime: 2023-08-04T19:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now-1032519182"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://g.foolcdn.com/editorial/images/741875/research-scientists-drugs-pharma-biotech.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://investorplace.com/wp-content/uploads/2021/08/self-driving-300x202.jpg"
+        width: 300
+        height: 202
         isCached: true
-  - title: "AI in Health Care: 8 Best Stocks to Buy"
-    excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
-    publishedDateTime: 2023-08-02T15:23:00Z
-    webUrl: "https://wtop.com/news/2023/07/ai-in-health-care-8-best-stocks-to-buy/"
+  - title: "3 Cheap Machine Learning Stocks That Smart Investors Will Snap Up Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning stocks represent publicly traded firms specializing in a"
+    publishedDateTime: 2023-08-03T18:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-cheap-machine-learning-stocks-that-smart-investors-will-snap-up-now-1032514106"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 41
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "When It Comes to Eye Care, AI Couldn't See Straight"
-    excerpt: "However, the chatbot in the cardiac care study did make something up, which is known as \"hallucinating\" in AI circles, when it responded that the cholesterol-lowering drug inclisiran (Leqvio) is commercially unavailable. In fact, the FDA approved it in 2021 and it's readily available."
-    publishedDateTime: 2023-08-04T16:37:00Z
-    webUrl: "https://www.medpagetoday.com/ophthalmology/generalophthalmology/105765"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 41
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/105xxx/105765.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "+TEydGOCQClx788C5QbUhezxhI83sOaNu6znFzBwFpiv5qvOrs77OkEkeXgskH164cHFx+/OZCRuC1VMO3hnAHASTRooOEPBmopQx7Pppt2Gg5LmvDoyCAKnBFGaz5a97s7cad/Y38XP1d3ZiRNalzsy0v49t8GVAEp8NAQGDD9w3+u5bEo+R6dYtH99a/MMMdWrYgSCfdnm48FRuJbXu+8kARnq2vrAfzT4/jen9PbYD36SPTgl6EB/H9owuih/Fi9nhEWEY8Q9aiPE9VfOXKh7MY/2yYvhe8gCAyPn/glzszixSagWCd1MhNpP2375wYebXGWBQy1KGW9KAvNjadNf9M3NrgstOsabyPBDfB0=;pG7lwNgNh2wKE0mIuLWPsA=="
 ---

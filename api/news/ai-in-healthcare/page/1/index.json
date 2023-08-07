@@ -90,49 +90,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-03-fmu-grant-to-transform-healthcare-with-the-use-of-ai.md",
-      "title": "FMU grant to transform healthcare with the use of AI",
-      "excerpt": "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://scnow.com/news/local/fmu-grant-to-transform-healthcare-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html",
-      "originalUrl": "https://scnow.com/news/local/fmu-grant-to-transform-healthcare-with-the-use-of-ai/article_79ffb8f4-3158-11ee-bc61-ff3770bda83a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/custom/image/dc6f5c96-f052-11e5-b058-234ab0ad62fe.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SCNow",
-        "domain": "scnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-02-brain-implants-powered-by-ai-help-paralyzed-man-feel-and-move-again.md",
       "title": "Brain implants powered by AI help paralyzed man feel and move again",
       "excerpt": "New York resident Thomas was involved in a diving accident on July 18, 2020, that injured his spine's C4 and C5 vertebrae, resulting in a total",
@@ -1464,6 +1421,58 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
+      "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
+      "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 940,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
+      "publishedDateTime": "2023-07-19T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

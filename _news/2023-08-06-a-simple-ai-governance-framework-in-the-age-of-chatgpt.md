@@ -1,0 +1,138 @@
+---
+category: news
+title: "A Simple AI Governance Framework In The Age Of ChatGPT"
+excerpt: "Since ChatGPT and its artificially intelligent peers have burst on the scene, I’ve been fielding a lot of questions about its impact on the way we will be working."
+publishedDateTime: 2023-08-06T10:00:00Z
+originalUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/"
+webUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/"
+ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
+type: article
+quality: 87
+heat: 157
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64c80c9d8f3a72efd6775ac5/0x0.jpg?format=jpg&width=1200"
+    width: 1104
+    height: 844
+    isCached: true
+
+related:
+  - title: "Level up your AI skills with this ChatGPT and Python coding bundle for $30"
+    excerpt: "Start your coding education during this back-to-school sale and get the 2023 Ultimate AI ChatGPT and Python Programming Bundle for only $30 until August 13."
+    publishedDateTime: 2023-08-03T09:00:00Z
+    webUrl: "https://www.zdnet.com/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/388ef5b23f2b31507664828048664414fd83b420/2023/08/02/0e0126de-cddc-499f-be65-fbd68c709020/stack-social-chatgpt-ai-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
+    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
+    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
+    excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
+    publishedDateTime: 2023-08-03T14:42:00Z
+    webUrl: "https://www.law.com/americanlawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/08/OpenAI-GPT-4-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
+    excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
+    publishedDateTime: 2023-08-03T17:21:00Z
+    webUrl: "https://www.law.com/texaslawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/08/OpenAI-GPT-4-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The insane hardware powering ChatGPT artificial intelligence"
+    excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."
+    publishedDateTime: 2023-08-04T11:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/hardware-powering-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
+        width: 700
+        height: 492
+        isCached: true
+  - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
+    excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
+    publishedDateTime: 2023-08-04T15:38:00Z
+    webUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
+    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
+    publishedDateTime: 2023-08-02T14:49:00Z
+    webUrl: "https://www.inferse.com/662644/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1687.png"
+        width: 800
+        height: 400
+        isCached: true
+
+secured: "f21k1WxtAsfbqWVelCkEcy1oeGP8NF1gXrKADfIX94z87LCSupIlvwX0m4yJRxPlkOSL6XxSqBH30b39zxslHibqJPm79FRCaKlRM8exSF5tOq41kknqdP2DFPmxk7mVRLVlgJMkosBl7cnGgPlmyChXlrIpK3GUGRR95UB5O8BCRszl1L+DxdX/nun6g8s67UIaRuAiydb8jJgYgFU1takMr3UUkyduhPaobEBRqWGjgQ4gn8JpKJiNI0Xu7e3lS4KMQnyj3o+/+eWQL+xipglkUxJGgTCESM5MMo2bBIQAAQR/7SekQrh44LBq8l5r5chcLkel+KEPGcQraR04yzSOovEaKICC6VJyL3Ondbw=;/rRJyoyhF6HRtNX40QTTjQ=="
+---
+

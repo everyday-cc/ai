@@ -8,8 +8,8 @@ webUrl: "https://www.financialexpress.com/business/blockchain-how-can-multimodal
 ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-06T233356.340.jpg"

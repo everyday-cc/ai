@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-06-chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable.md",
+      "title": "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?",
+      "excerpt": "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,",
+      "sourceUrl": null,
+      "webUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html",
+      "originalUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/c/d8/cd8e6d4c-1029-53a9-a446-cd5951db10f6/64c8cb7facd53.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html",
+      "cdnAmpWebUrl": "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html",
+      "publishedDateTime": "2023-08-05T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-06-voice-would-fail-at-first-hurdle-if-not-enshrined-in-constitution-albanese-says.md",
       "title": "Voice would ‘fail at first hurdle’ if not enshrined in constitution, Albanese says",
       "excerpt": "Speaking at the Garma festival in the Northern Territory the prime minister issued a plea for support for a yes vote, saying there will not be another opportunity any time soon",
@@ -190,6 +233,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-how-to-detect-fake-news-with-natural-language-processing.md",
+      "title": "How to detect fake news with natural language processing",
+      "excerpt": "The sheer volume of information produced every day makes it difficult to distinguish between real and fake news, but advances in natural language processing (NLP) present a possible solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002",
+      "originalUrl": "https://www.investing.com/news/cryptocurrency-news/how-to-detect-fake-news-with-natural-language-processing-3142002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981373.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1344,83 +1430,6 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/33373365",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33373365",
       "publishedDateTime": "2023-07-25T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-statistical-natural-language-processing-market-analysis-examining-trends-and-forecasting-revenue-growth-with-an-estimated-cagr-74-from-2023-2030.md",
-      "title": "Statistical Natural Language Processing Market Analysis: Examining Trends and Forecasting Revenue Growth with an estimated CAGR 7.4% from 2023-2030",
-      "excerpt": "The \"Statistical Natural Language Processing Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand and supply aspects of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33356981/statistical-natural-language-processing-market-analysis-examining-trends-and-forecasting-revenue-gr",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33356981/statistical-natural-language-processing-market-analysis-examining-trends-and-forecasting-revenue-gr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-48-and-forecast-2023-2030.md",
-      "title": "Speech & Voice Recognition Market Scope: Market Size, Share, and Valuation with projected CAGR 4.8% and Forecast 2023 - 2030",
-      "excerpt": "This &ldquo;Speech & Voice Recognition Market\" highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33359004/speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-4-8-and-f",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33359004/speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-4-8-and-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T15:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

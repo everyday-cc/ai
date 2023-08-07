@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-wit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
 type: article
 quality: 85
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "A Simple AI Governance Framework In The Age Of ChatGPT"
+    excerpt: "Since ChatGPT and its artificially intelligent peers have burst on the scene, I’ve been fielding a lot of questions about its impact on the way we will be working."
+    publishedDateTime: 2023-08-06T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c80c9d8f3a72efd6775ac5/0x0.jpg?format=jpg&width=1200"
+        width: 1104
+        height: 844
+        isCached: true
+  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
+    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
+    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
     publishedDateTime: 2023-08-03T14:42:00Z
@@ -58,19 +90,19 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Minnesota colleges grappling with ethics and potential benefits of ChatGPT"
-    excerpt: "As the fall semester approaches, academics are weighing the pros and cons of the artificial intelligence tool in the classroom."
-    publishedDateTime: 2023-08-06T22:18:00Z
-    webUrl: "https://www.startribune.com/minnesota-colleges-grappling-with-ethics-and-potential-benefits-of-chatgpt-artificial-intelligence/600295274/"
+  - title: "The insane hardware powering ChatGPT artificial intelligence"
+    excerpt: "In the realm of artificial intelligence, ChatGPT stands as a testament to the power of modern hardware. This AI chatbot, a product of collaboration between OpenAI and Microsoft, is powered by an impressive array of NVIDIA V100 and A100 GPU clusters."
+    publishedDateTime: 2023-08-04T11:43:00Z
+    webUrl: "https://www.geeky-gadgets.com/hardware-powering-chatgpt/"
     type: article
     provider:
-      name: Star Tribune
-      domain: startribune.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 37
     images:
-      - url: "https://chorus.stimg.co/24531959/merlin_70262489.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/The-insane-hardware-powering-ChatGPT-artificial-intelligence.jpg"
+        width: 700
+        height: 492
         isCached: true
   - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
     excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
@@ -85,6 +117,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
         width: 1500
         height: 843
+        isCached: true
+  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
+    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
+    publishedDateTime: 2023-08-02T14:49:00Z
+    webUrl: "https://www.inferse.com/662644/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1687.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "GuDbX2cOZwnUDinXxZSycmSHq8t61i7vN5+un8CwQxE/e4pQ1v9f99yTuXh9GX1ghpHXVr+ajEb4uaCuce1aX2KxkyU40TM531tAmZTPizNV8y87BPp935ADe2eNtiLn1QpsfkZqIx3erNT05r09MqTl2b9Y2u4XY9/uLnmmhJ81M1ISU7NXwco3muIz9F9IcD5Za3vNkKctl7isslIsb1RyCRX1CBzLgBeh6iGa8sR4VZAUZDkOvYNxebTi/kPmdWYS4ST/alqexIyIyV3Fx8HHrvBzqiaG+Uo1PK+jBsEBxaEdf2r051hVbRn2BFNIzDCuhoHfLATbZakb31TLqRL3IwTe7G0+trdOFOAHgTn5ADOBcAs0q0tq6gzuqH8oyqnT3f3LTt5GaA+Dx2tCbdZIZY6h98u2CjXH82Re9DQIof0o4T8FYYf/zE4xn2ePW9e2bOQOpRF5m5LXrsdNvDsKDKb131OtiMP82JaRaOINsPAqDSK/MpdLMgqPY8Bqnv216d3wxV/KCDRz36d3MQ==;JuKZqn+q3tHQpwlIeY9BPQ=="

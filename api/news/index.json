@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-08-07-feature-my-perfect-girlfriend-are-ai-partners-a-threat-to-womens-rights.md",
+      "title": "FEATURE-My perfect girlfriend: Are AI partners a threat to women's rights?",
+      "excerpt": "“Many of the personas are customisable ... for example, you can customise them to be more submissive or more compliant,” said Shannon Vallor, a professor in AI ethics at the University of Edinburgh. “And it’s arguably an invitation to abuse in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/global-tech-women-idUSL8N38P498",
+      "originalUrl": "https://www.reuters.com/article/global-tech-women-idUSL8N38P498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores.md",
+      "title": "AWS vs Google Cloud vs Microsoft Azure: Hyperscalers’ Growth Galores",
+      "excerpt": "Examining the latest quarterly results, Azure shines brightly in the generative AI arena, boasting impressive 26 percent growth which translates to $ 55 billion revenue, backed by their cutting-edge A",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores/",
+      "originalUrl": "https://analyticsindiamag.com/aws-vs-google-cloud-vs-microsoft-azure-hyperscalers-growth-galores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/azure.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation.md",
       "title": "National youth robotics competition aims to empower and inspire next generation",
       "excerpt": "A new to Windsor national robotics competition for youth took place this weekend at the University of Windsor.",
@@ -10,7 +106,7 @@
       "originalUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -53,7 +149,7 @@
       "originalUrl": "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -105,7 +201,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -145,6 +241,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-a-simple-ai-governance-framework-in-the-age-of-chatgpt.md",
+      "title": "A Simple AI Governance Framework In The Age Of ChatGPT",
+      "excerpt": "Since ChatGPT and its artificially intelligent peers have burst on the scene, I’ve been fielding a lot of questions about its impact on the way we will be working.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c80c9d8f3a72efd6775ac5/0x0.jpg?format=jpg&width=1200",
+          "width": 1104,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/",
+      "publishedDateTime": "2023-08-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -197,6 +344,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable.md",
+      "title": "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?",
+      "excerpt": "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,",
+      "sourceUrl": null,
+      "webUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html",
+      "originalUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/c/d8/cd8e6d4c-1029-53a9-a446-cd5951db10f6/64c8cb7facd53.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html",
+      "cdnAmpWebUrl": "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html",
+      "publishedDateTime": "2023-08-05T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -304,7 +494,7 @@
       "originalUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -347,7 +537,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/05/semiconductor-stocks-next-level-growth-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -399,7 +589,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -589,7 +779,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -731,6 +921,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now.md",
+      "title": "3 Cheap Autonomous Driving Stocks That Smart Investors Will Snap Up Now",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips An interesting phenomenon has occurred when it comes to autonomous driving.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now-1032519182",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-cheap-autonomous-driving-stocks-that-smart-investors-will-snap-up-now-1032519182",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2021/08/self-driving-300x202.jpg",
+          "width": 300,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -983,248 +1225,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails.md",
-      "title": "Another major university is supporting generative AI use but with serious guardrails",
-      "excerpt": "The University of Hong Kong will provide its teachers and students free access to various generative AI tools, along with some rules to follow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
-      "originalUrl": "https://www.zdnet.com/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dd252c79001f6b9eed07dc403a825de269a8767/2023/08/04/a9b37745-740f-4b1b-b8be-1194639df0d2/gettyimages-1495485230.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
-      "publishedDateTime": "2023-08-04T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-thanks-to-ai-elvis-likes-big-butts-and-he-cannot-lieheres-how-its-possible.md",
-      "title": "Thanks to AI, “Elvis” likes big butts and he cannot lie—here’s how it’s possible",
-      "excerpt": "To get more insight into the musical voice cloning process with so-vits-svc-fork (an altered version of the original so-vits-svc), we tracked down Michael van Voorst, the creator of the Elvis voice AI model that Ballard used in his \"Baby Got Back\" video. He walked us through the steps necessary to create an AI mash-up.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/rockstar_hero_6-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/amp/",
-      "publishedDateTime": "2023-08-04T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-index-your-alfresco-content-using-the-new-amazon-kendra-alfresco-connector.md",
-      "title": "Index your Alfresco content using the new Amazon Kendra Alfresco connector",
-      "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-alfresco-content-using-the-new-amazon-kendra-alfresco-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-alfresco-content-using-the-new-amazon-kendra-alfresco-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/index-alfresco-kendra.jpg",
-          "width": 1021,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T08:22:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-ai-and-ml-the-two-biggest-trends-in-robotics-today.md",
-      "title": "AI and ML: The two biggest trends in robotics today",
-      "excerpt": "AI and ML applications for packaging robotics are growing rapidly, helping robots perform tasks more efficiently and eliminating the need for manual programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2023/08/DLR_Packaging_Robotics.64caac0985d15.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-ibm-cloud-security-how-to-clean-up-unused-access-policies.md",
-      "title": "IBM Cloud security: How to clean up unused access policies",
-      "excerpt": "How to find inactive access policies and clean them up to enhance security for your IBM Cloud environment.\nThe post IBM Cloud security: How to clean up unused access policies appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-security-how-to-clean-up-unused-access-policies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T06:07:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

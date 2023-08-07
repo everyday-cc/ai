@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
-      "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
-      "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
-      "originalUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/05/932/470/breast-xray-GettyImages-1238822565.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
-      "publishedDateTime": "2023-05-05T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-05-idvv-announces-artificial-intelligence-ai-client-in-medical-sector.md",
       "title": "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector",
       "excerpt": "LAS VEGAS, NV / ACCESSWIRE / May 5, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced that its AI division WITech has",
@@ -1425,6 +1382,59 @@
         "AI in Healthcare",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm.md",
+      "title": "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM",
+      "excerpt": "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

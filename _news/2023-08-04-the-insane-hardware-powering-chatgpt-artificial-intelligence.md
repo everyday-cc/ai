@@ -24,170 +24,110 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-powered chatbots are transforming marketing and sales operations"
-    excerpt: "Discover how some marketing teams are embracing AI technology with Watson Assistant to drive more powerful marketing campaigns.\nThe post How AI-powered chatbots are transforming marketing and sales operations appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-02T12:03:00Z
-    webUrl: "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/"
+  - title: "A Simple AI Governance Framework In The Age Of ChatGPT"
+    excerpt: "Since ChatGPT and its artificially intelligent peers have burst on the scene, I’ve been fielding a lot of questions about its impact on the way we will be working."
+    publishedDateTime: 2023-08-06T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 133
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
-    publishedDateTime: 2023-08-03T15:02:00Z
-    webUrl: "https://techcrunch.com/2023/08/02/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/08/02/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/02/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c80c9d8f3a72efd6775ac5/0x0.jpg?format=jpg&width=1200"
+        width: 1104
+        height: 844
         isCached: true
-  - title: "How chatbots can provide a better customer experience"
-    excerpt: "Users are frustrated by limited chatbots that insufficiently resolve queries or deliver unsatisfactory outcomes. Learn how AI can help.\nThe post How chatbots can provide a better customer experience appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-02T12:01:00Z
-    webUrl: "https://www.ibm.com/blog/how-chatbots-can-provide-a-better-customer-experience/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "How chatbots improve human resource operations"
-    excerpt: "Today’s HR departments struggle to efficiently manage operations and routine tasks. Learn how conversational AI can improve HR operations.\nThe post How chatbots improve human resource operations appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-02T12:02:00Z
-    webUrl: "https://www.ibm.com/blog/how-chatbots-improve-human-resource-operations/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
-    publishedDateTime: 2023-08-06T06:45:00Z
-    webUrl: "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html"
-    ampWebUrl: "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html"
-    cdnAmpWebUrl: "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html"
-    type: article
-    provider:
-      name: The Norman Transcript
-      domain: normantranscript.com
-    quality: 58
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/c/d8/cd8e6d4c-1029-53a9-a446-cd5951db10f6/64c8cb7facd53.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Uber is working on its own AI chatbot, reveals CEO"
-    excerpt: "Uber CEO Dara Khosrowshahi told Bloomberg this week that the company is working on its own AI chatbot, with no specific details disclosed. Also: Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
-    publishedDateTime: 2023-08-03T18:29:00Z
-    webUrl: "https://www.zdnet.com/article/uber-is-working-on-its-own-ai-project-reveals-ceo/"
+  - title: "Level up your AI skills with this ChatGPT and Python coding bundle for $30"
+    excerpt: "Start your coding education during this back-to-school sale and get the 2023 Ultimate AI ChatGPT and Python Programming Bundle for only $30 until August 13."
+    publishedDateTime: 2023-08-03T09:00:00Z
+    webUrl: "https://www.zdnet.com/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 47
-  - title: "A chatbot willing to take on questions of all kinds is the latest representation of Jesus for the AI age"
-    excerpt: "Jesus has been portrayed in many different ways: from a prophet who alerts his audience to the world's imminent end to a philosopher who reflects on the nature of life."
-    publishedDateTime: 2023-08-02T15:40:00Z
-    webUrl: "https://phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.html"
-    ampWebUrl: "https://phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-chatbot-kinds-latest-representation-jesus.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 40
+    quality: 85
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-chatbot-willing-to-t.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "Meta to launch AI-powered chatbots with ‘personas’ in September"
-    excerpt: "Mark Zuckerberg is set to enter the AI space and join the AI hype by launching chatbots on Facebook’s social media platforms."
-    publishedDateTime: 2023-08-02T16:00:00Z
-    webUrl: "https://interestingengineering.com/culture/meta-to-launch-ai-powered-chatbots-with-personas-in-september"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/02/image/jpeg/rSwWIUGKDTC2O3OKOcQkGK2GYmQqaw8CgzywDm8i.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination fixable?"
-    excerpt: "Described as hallucination, confabulation or just plain making things up, it's now a problem for every entity or person trying to get AI to do work"
-    publishedDateTime: 2023-08-03T17:31:00Z
-    webUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/"
-    ampWebUrl: "https://www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "Q & A: How A.I. and machine learning are transforming the lending industry"
-    excerpt: "The key to more predictive models is more data and technology that can deliver more meaningful insights. This is where machine learning and advanced analytics come into play."
-    publishedDateTime: 2023-08-04T21:12:00Z
-    webUrl: "https://www.digitaljournal.com/business/q-a-how-a-i-and-machine-learning-are-transforming-the-lending-industry/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/12/Artificial-Intelligence-AFP-1K-01.jpg"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with AI chatbots and it doesn't take long for them to spout falsehoods. It's now a problem for every business, organization and high school student."
-    publishedDateTime: 2023-08-03T14:21:00Z
-    webUrl: "https://www.aol.com/chatbots-sometimes-things-not-everyone-085600233.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 38
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6mrWWVfXMSYWCLmK7Et1Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/470a4915dd52e31c809a4e29003e6c2a"
+      - url: "https://www.zdnet.com/a/img/resize/388ef5b23f2b31507664828048664414fd83b420/2023/08/02/0e0126de-cddc-499f-be65-fbd68c709020/stack-social-chatgpt-ai-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Meta to launch AI chatbots with personalities to retain users"
-    excerpt: "The multinational technology company are developing variations of chatbots with different personalities and functions in a bid to improve user retention."
-    publishedDateTime: 2023-08-02T17:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/meta-launch-ai-chatbots-personalities-retain-users-1718184"
+  - title: "DeepMind’s ChatGPT-Like Brain for Robots Lets Them Learn From the Internet"
+    excerpt: "General-purpose robots that can help humans with whatever may come up won’t be achievable until robots can learn on the go."
+    publishedDateTime: 2023-08-02T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/"
+    ampWebUrl: "https://singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/02/deepminds-chatgpt-like-brain-for-robots-lets-them-learn-from-the-internet/?amp=1"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 19
-  - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
-    excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods."
-    publishedDateTime: 2023-08-06T19:00:00Z
-    webUrl: "https://www.adn.com/nation-world/2023/08/06/chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable/"
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/08/RT-2-DeepMind-robot.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
+    excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
+    publishedDateTime: 2023-08-03T14:42:00Z
+    webUrl: "https://www.law.com/americanlawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
     type: article
     provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 18
-  - title: "The Chatbots Pick Up on Your Feelings"
-    excerpt: "Chatbots such as OpenAI’s ChatGPT, Microsoft’s Bing, and Google’s Bard are based on large language models (LLMs) that are trained on massive amounts of human-generated data from the internet. The LLMs are often called foundational models because they have learned the statistical patterns of human language by being trained without human supervision to predict the next token (a short word or a chunk of a longer word) on a webpage."
-    publishedDateTime: 2023-08-02T14:20:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/pathways-of-progress/202307/the-chatbots-pick-up-on-your-feelings"
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/08/OpenAI-GPT-4-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
+    excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
+    publishedDateTime: 2023-08-03T17:21:00Z
+    webUrl: "https://www.law.com/texaslawyer/2023/08/03/big-law-nixing-chatgpt-for-legal-work-seeks-secure-ai-solution/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 4
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/08/OpenAI-GPT-4-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
+    excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
+    publishedDateTime: 2023-08-04T15:38:00Z
+    webUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
+    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
+    publishedDateTime: 2023-08-02T14:49:00Z
+    webUrl: "https://www.inferse.com/662644/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1687.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "wrjg6BnWydb6v/EOZ3HKj6gM09DmqHudMfeNLss0V51qSntnasrGl8utmNPGfS67B7yE8drvklOjdf+Wdqo6/YdnuEHxwFYJ5C/fPFLAq3B6VTwUJoG/xliHyLhnVBvXtpJ5K5VzSYz2v+EBZmX8nBdQi3uaw5ykPmVJCkn+BI0FWFWzZeh9rF+aacB1KnuLE/jZJV5K3oXG6Cbq8gm04ZzoGOYcNF6aPm44iXaZK+rnXWE+EJAs8AKiJUkrGovh8TLjQONGZLanM+B3/oSR1tbbcg4JZFYPpMo6SXJ6OyWQEK/OpvD4svsz//A66ZVgc/u/aUs4wwCeQ4qXzmXzbMIoZwZSyv62NIsSoTNFqpn/0jfHmvCf3xWIAqTEhRXEUNXi6H6u2pYpT0m2QHxd8Dn9zPfyxHwiDrfMN8x78wg5ajQPUPS4asHS61WK6D4WXQy7gif4mUFuN2X+0OtkWXHlLbLqiEy2MsMrcift3gqcmD6M29hts+pokz1IE9jvUm8Avxz+YVQ4kisaFYf3cA==;B3c7QJzX49O/kr6sLaIP4A=="
 ---
