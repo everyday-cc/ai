@@ -1,26 +1,23 @@
 ---
 category: news
-title: "San Francisco Drives Tech; Will It Drive Away Robot Taxis?"
-excerpt: "and the hub of next-generation services like artificial intelligence, but when it comes to self-driving cars, city officials are clear: not so fast. The question comes to a head later this week, when a state agency decides whether to allow robot car ..."
-publishedDateTime: 2023-08-07T10:31:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2023-08-07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
-webUrl: "https://money.usnews.com/investing/news/articles/2023-08-07/san-francisco-drives-tech-will-it-drive-away-robot-taxis"
+title: "San Francisco drives tech; will it drive away robot taxis?"
+excerpt: "SAN FRANCISCO (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... allow robot car providers Alphabet Inc’s Waymo and General Motors’ Cruise to expand ..."
+publishedDateTime: 2023-08-07T11:07:00Z
+originalUrl: "https://www.aol.com/news/san-francisco-drives-tech-drive-101320740.html"
+webUrl: "https://www.aol.com/news/san-francisco-drives-tech-drive-101320740.html"
 type: article
-quality: 49
-heat: 49
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 related:
   - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
@@ -38,6 +35,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "OWL36RMd3Uk/9jxriMyuQ5Wlu9fHv9tW5ZYx6Ac56tjrb2YXBKmLQXTqAlJeO00bJe+B4eWfdBGancIn1clZCUBERW0gfI5CYYZaoN1twZbU17aMZUSmEWgV6qyZvdijEPGXVJE7RbymBznWgiUc9x3t0fTsB0HN5HAaAdM/a813Fi0DMqPKoH/wEdVVdrxS6M2yOCd1J/VP1qybfXcRU9yOtzAudSwzkCUQGKFYRSCr7Yzw9O0HNnYdynLRvDDfU/m5thdKUI9/XfYnFY2CN3Ux8MhtdUTpDNYnWjQqQIAzfj/+jQvVLWF4M/lsmIm3lQ0F3iz7M1kx6nlsEHwjFoQisRAcFu+vPp/H5+kgIz6PCbpQueIOEAQeGTA39L5aJBRXiGNouiVPSiexEIHs1nG8Pm3bHgnhHi98ekHt0YbJTaFcAXrblipfOM3ZT/D1+AG6G7kiWz6cPknAzqIkTnHD/n+q8rfP9OGY3de1UlSnRS4ZD3GjkKY0umZ37+oAqiyFalhwh2iv+Ut7G+fliA==;nC+sciOTb53ztLeRbulqQw=="
+secured: "xUOV4vYj9hS8n5bkAw1XKVlCKkSkjtpGG53HTCMQFbSS3j5q5eQNhVXXvWJThEQeJD6vGhTMxSwvjVBWvRz7cQSarK5t2whiH1pnznlvH5z1hpwqyvSZFr9mD4bXu90ZLblZXE/KEjVSi5fp7cinSuJ7+cjmR8QVC33r2aP3LxeJwR7RJUMcUFVM3i+hGu1VNlFm1aMt/hbOZnQQSQlOi0x/U8UkkguhnEgawvKEjj9Fk4ULoflc2aFJ3sefRUpd8z1x8XopEcaVkN6sB4ZQa+0rOIq0UTYPgZv4DgxSw9wBavA7Yk7TCCSGwDKPkqIoHLbjO0hwyRlGW11eio6oxRShsyV94+sfVDs1iV4zqv/Qiz2ZvnhlWtZbBzk5NmfAo88/x7FyOSgZ6HgmNFSAh6Ae7Fi8r8sA3klzsafgsDfXOjEyis8oR6CMmKaspSF6gGw0EMrAT/zfd7lrZqNA6iuKdOrd33KGN3ZhdCMRKJx9cDduKuDjyiHvv4txNsRJRmLS5ddP57Ie2hflJnSc3w==;gKzSOfjJdkaF/4n4L1qAzQ=="
 ---
 

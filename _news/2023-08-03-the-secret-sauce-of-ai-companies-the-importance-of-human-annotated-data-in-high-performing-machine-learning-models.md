@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 73
-  - title: "Don’t risk your rep: The importance of ethics and compliance in generative AI"
-    excerpt: "Putting your trust in someone means believing in both their good intentions and their ability. Or, to put it another way: “Trust is about character and competence,” says Justin Tauber, Strategic Innovation and Responsible AI Lead at Salesforce ANZ."
-    publishedDateTime: 2023-08-02T23:00:00Z
-    webUrl: "https://www.smartcompany.com.au/partner-content/articles/dont-risk-your-rep-the-importance-of-ethics-and-compliance-in-generative-ai/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 51
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/Saesforces-article-3-1466x710-1.png?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "r+Bhlou9h0/08ETfENhbOH9hFijsBVx0hlNLcfci6/Z2DSSsWHxkuULV5HOo1Ih4n9WonTSJWz5gFUXfH1BD4YV28LmhNKmSYN75sRJORRtYxfa3Il5/t5huPDhEXg6XCcdkFU0ELVxjMgEyx4tw1Y6GoYRvEgVqGAiKYidkES4U+84ZDficRV44jfEyQboW5ywZMVvwL3JEvZDnBzKJKKtitokUNpPEzAlUhatTPJ26j0V8nZO/9lZ/O5t9nTF/wdRCXFKyGYMeA+b0FwJ2iVY2JTApQET7niCwbC/nQNujBmOf6vIPMj173unrTnlF3jHDHIFyRcyV/DkjdNK19oHwBCS5zC1foz13tsljRG+wnL8GJ88zCpeQ/CMpJttCVMVRvgJp7b72MS9BtDWbqw0ZT7uSOFpLAB6eKPOOOXaCIdlYVCdZ1jT14RmtqTocQ4INWj5hmWkZ9Y8xkFMxsU0kodATM7o/tuBK3+oLMdgJZa4HJXdGFsO0nIRmxFy7xT0HMesQpBp2Qp3Aj3gSNg==;geH4BHNfZxvs6LD4NOpHSQ=="
 ---

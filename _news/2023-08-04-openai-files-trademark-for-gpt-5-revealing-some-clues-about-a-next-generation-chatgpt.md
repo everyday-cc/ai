@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why doctors aren't prepared for use of ChatGPT in medicine"
-    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-    publishedDateTime: 2023-08-07T07:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 44
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/8/2023_8$largeimg_1326812644.jpg"
-        width: 318
-        height: 306
-        isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
     publishedDateTime: 2023-08-03T14:42:00Z
@@ -128,6 +112,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/chatgpt.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
+    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
+    publishedDateTime: 2023-08-07T14:30:00Z
+    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-12/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 24
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
         isCached: true
 
 secured: "fRYyFkg0GGv4g454uvQAH4JwNBS6XkUFqF7FsUEfP8nWylzN/3wTE9NEwt+SUCgBewQRjV2U/eG2evDHNfzy0HAuBYBmGYGTwrd9tI8nk42W8PnuFjba2yQRnL/bNf0GBb3+T7RYA5jeu0t7ZCfNePQ6a+5l02tNRdvwzvwhdj43rZNwwBXml/+znecFNHJeADEOUFiCG3hJEdBpzSj5dggdpmVRv+DrC684eA/iLsDZgoVgXU2JQOL4pAOy/FLu8JWueKm2b9ucPFshY5fRw2TaMxZhXA1T9YGe307EHhV8L89HK1Gm6rSijwo/R2vjyTBWo0EIQCQa1y1MLpGu2MG7yoUxeA9FtJN956x3u2+VSCEs0kF7ofCuY9B7LmkS68XH669ITPTFWXnw5DDkOuLooZhRNDhgDDsLLpFKXkhaVTXqhRKt2N2jIYYEuAGq3imPf05a5p8bIdBD/e323pjk6qT76a+PldGdeqTOSmCo9fRNFR4zcEDIIEq7uVNdCj2ux7dWwf1eL50NpyMjXg==;U0QXT2pYOk9Qo3I5SSwy3Q=="

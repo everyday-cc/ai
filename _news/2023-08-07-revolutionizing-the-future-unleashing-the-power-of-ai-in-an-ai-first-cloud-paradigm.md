@@ -78,20 +78,6 @@ related:
         width: 653
         height: 435
         isCached: true
-  - title: "The AI Revolution is Canceled"
-    excerpt: "C&E published a magazine cover story with the ominous headline: “Artificial Intelligence Could Alter Campaigning As We Know It.” The piece focused on how pollsters will be […]"
-    publishedDateTime: 2023-08-02T19:31:00Z
-    webUrl: "https://campaignsandelections.com/campaigntech/the-ai-revolution-is-canceled/"
-    type: article
-    provider:
-      name: Campaigns and Elections
-      domain: campaignsandelections.com
-    quality: 39
-    images:
-      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Working with robots: how AI is revolutionising productivity and the Australian jobs landscape"
     excerpt: "Midjourney imagines a robot tasked with sorting through ... that essentially do the work of junior lawyers. If AI is doing your job pretty well – such as research and proofreading – where does one start in the legal field and learn the nuances and ..."
     publishedDateTime: 2023-08-04T13:32:00Z

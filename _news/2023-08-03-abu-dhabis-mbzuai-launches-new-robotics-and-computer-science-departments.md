@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mb
 webUrl: "https://www.arabianbusiness.com/industries/education/abu-dhabis-mbzuai-launches-new-robotics-and-computer-science-departments"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-08/03/KT_4fda4image_story.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Mbzuai Launches Dedicated Robotics And Computer Science Graduate Programs To Meet Surging Global Market Demand"
-    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four as"
-    publishedDateTime: 2023-08-02T19:25:00Z
-    webUrl: "https://menafn.com/1106772490/Mbzuai-Launches-Dedicated-Robotics-And-Computer-Science-Graduate-Programs-To-Meet-Surging-Global-Market-Demand"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/02/M_b6a3bimage_story.jpg"
-        width: 1270
-        height: 846
         isCached: true
   - title: "UAE’s Leading University Introduces Robotics and Computer Science Programs"
     excerpt: "The Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi has introduced two new departments focusing on robotics and computer"

@@ -89,6 +89,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Black woman matched by facial recognition alleges police misconduct in lawsuit"
+    excerpt: "Another person in the United States is alleging a wrongful arrest based on a false match by facial recognition software used by police."
+    publishedDateTime: 2023-08-07T15:18:00Z
+    webUrl: "https://www.biometricupdate.com/202308/black-woman-matched-by-facial-recognition-alleges-police-misconduct-in-lawsuit"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/07111707/black-woman-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Detroit police arrest pregnant Black woman after false facial recognition match"
+    excerpt: "Turns out, Woodruff was the victim of a false facial recognition match, making her at least the third person to be arrested by Detroit police based on the faulty technology, The New York Times first reported . All three were Black, and Woodruff was the first known woman."
+    publishedDateTime: 2023-08-07T15:08:00Z
+    webUrl: "https://www.metrotimes.com/news/detroit-police-arrest-pregnant-black-woman-after-false-facial-recognition-match-33818003"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 35
+    images:
+      - url: "https://media2.metrotimes.com/metrotimes/imager/u/slideshow/33818008/facial_recognition_photo_neavling.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "All Cases of Mistaken Facial Recognition Arrests Have Targeted Black Individuals"
     excerpt: "For a long time, different groups that care about people’s rights, technology experts, and people who work to bring about social change have warned about how facial recognition technology could worsen existing racial inequalities in law enforcement."
     publishedDateTime: 2023-08-07T08:11:00Z
@@ -102,6 +130,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2023/08/facial-recognition-crop.jpg"
         width: 800
         height: 492
+        isCached: true
+  - title: "A Black Mother Is Suing After She Was Wrongfully Arrested Due to Faulty Facial Recognition ID"
+    excerpt: "A woman is suing the city of Detroit after she was wrongfully arrested for robbery and carjacking over faulty facial recognition technology. Porcha Woodruff was eight months pregnant and getting her two children ready for school when six police officers showed up at her home in February to take her into custody."
+    publishedDateTime: 2023-08-07T15:18:00Z
+    webUrl: "https://www.democracynow.org/2023/8/7/headlines/a_black_mother_is_suing_after_she_was_wrongfully_arrested_due_to_faulty_facial_recognition_id"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 28
+    images:
+      - url: "https://www.democracynow.org/images/headlines/26/68426/full_hd/HD17-Porcha-Woodruff-CREDIT.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
     excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
@@ -134,6 +176,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pregnant Woman’s False Arrest in Detroit Shows “Racism Gets Embedded” in Facial Recognition Technology"
+    excerpt: "A shocking story of wrongful arrest in Detroit has renewed scrutiny of how facial recognition software is being deployed by police departments, despite major flaws in the technology. Porcha Woodruff was arrested in February when police showed up at her house accusing her of robbery and carjacking."
+    publishedDateTime: 2023-08-07T14:43:00Z
+    webUrl: "https://www.democracynow.org/2023/8/7/facial_recognition_dorothy_roberts"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 23
+    images:
+      - url: "https://www.democracynow.org/images/story/28/68428/full_hd/BooksplitV2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "yOm/KrbPoojI7IrEFBqBjRu7+WRmHzfCsZppb7AXgDkN5gwP1+aI2uFzWwcLmck89RiC2snBmAj15GIsyJ8C0d2gRd+nBR2gGaJnay2qUNGtUkUdboNaJnrG23cjwW0wUu9OzyBplvvk1xyDh7TaSzJaNS4wkPtZuFNArDk0OcJj6MUeWRnMqYlqy9ART5otvwLJ9Y6248hcFuApAlDXABuU2u+xubEMfVivfPQCCAJpfm5HkNsEBoSNLK9cyo7sVdAcrFy2e/uihy8ryR95fvw7+7Vp48CIjHv+whOGsd+BTVwqZzTVgf+kkrDgmRLdjeORQTfkaPhsol2bIOuw1ytChaXvovWXlyyXG/l2e04Um87NJhLBIunb7TkVj5t/+tzvfZg+9Y7tlcmdxeYKAi20NEoTryMPRMrfEk0WYG8APR7g5E+ogS0fbfiy4SNeP6QaUSbUt61iVBiT6rUIlCPCx3PGMYdMrQGpvodfwngOCQGogHyZjyEVXItmq2QLYL/XSVuEaRtyM5cDygzOIA==;5kpQx/frpRd4vCihQY7rtA=="

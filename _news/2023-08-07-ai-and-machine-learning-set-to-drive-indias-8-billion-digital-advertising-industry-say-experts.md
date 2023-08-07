@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/ai/ai-and-machine-learning-set-to-drive-ind
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-and-machine-learning-set-to-drive-indias-8-billion-digital-advertising-industry-say-experts/amp-11691378452164.html"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Mint
@@ -25,6 +25,17 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Understanding The Impact And Driving Factors Of Conversation AI"
+    excerpt: "The advent of conversation AI signifies a major leap in the evolution of data management and interaction. It democratizes data access and has the potential to optimize an array of processes across diverse sectors. It not only simplifies data analysis but also fosters a more engaged approach to data exploration."
+    publishedDateTime: 2023-08-07T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/understanding-the-impact-and-driving-factors-of-conversation-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "ZMdCwVuEUKV8hFK73HMpOBqDn5Rd/3QmFXhRn6MCTC1UtQ4t6I9iZw7OhHI52UUMjsXrED9BwQGSpAjnc387xjpCxvr15Zj6dqrw/4N5ROOIiun23Eb3XZyeEAlrDqqI7xnN1M6wNkZWcOEn2a9KkoFA2FyAr6kAxxsFIuSVYgsqu7f3uKdxMTGnfA9Xm3qpdXC5k5615oj9sRC1HUIX+DIX2g6jewA1wEW/eAAtR6Dj+RmH+INX3z1jK2+spb0O6GFUzeGxkFzeI7syeJR5VjSDk3XjJNTap/Id1G+N3huL2YKbmgyYB2g9jP4ABlPjU+NHk+yi9dRkZhy+7H9xrN3WHpnW2QhO53Rdohu0go0=;TiAamp9xusxyf3fosjiBwA=="
 ---

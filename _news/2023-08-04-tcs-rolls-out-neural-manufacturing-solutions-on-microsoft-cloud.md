@@ -52,19 +52,12 @@ related:
   - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
     excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
     publishedDateTime: 2023-08-03T14:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms?trk=public_post_comment-text"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
-        width: 600
-        height: 450
-        isCached: true
+    quality: 19
 
 secured: "njO+XwTA+MiX80D/IIsdMfXzjVqQh+c3rPr7Iqp81490GPEzp/m9iTyr44MW+MI/ZX2jFSlIJDHW8q+e4YuYwUIffKUom9Wd4SanuUgUwbebgl9LN5kM5TD9As3OtTAjx8snCrMl4055OpI3DzD4HCRsOR1tZeEL4ZU2uJ8SgEA5iLoCT+1vSLhyUwXSZwyPI3TSiJVPMWjIDrvi73pyD+JouFFTw1GK60P3eOpheIMpJ3/b+Pw/l4eoF28Y5P9IiYR/cE5PUL2Eio74Czhgata9B+1uUISuEyWAH5tl8K8fUcYx8lysT85sf5qOhMlKP4kcYJosvY/PwsLhsT6K0ko+6O5XclBakhsnlZikwhEsl14pT96QUgn2TUoBwtFKKUp+BDNMj4gkyISt8NAdIID8cRRTvX4PPt7IvjYeSO/Kcip8nkU7d1KTRsvioC7z162wG+J8H2aqBV6Jfqknsh3XTyyMuna2RYLZHoxs9/1uh2iBopp316P9y5HANuBAiNNutsqRKW0MmV+KtwVLpg==;8EHCnOE4aqBaomC+fM2v/A=="
 ---

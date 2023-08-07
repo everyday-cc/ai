@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New threats, same rules for finance generative AI"
-    excerpt: "The potential for generative artificial intelligence to further automate customer service has been embraced by the financial sector."
-    publishedDateTime: 2023-08-02T20:39:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/new-threats-same-rules-for-finance-generative-ai/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "Generative AI needs humans in the loop for widespread adoption"
     excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
     publishedDateTime: 2023-08-03T05:00:00Z

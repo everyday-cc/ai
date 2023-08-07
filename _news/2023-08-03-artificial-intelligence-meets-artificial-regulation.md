@@ -34,20 +34,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI companies try to self-regulate"
-    excerpt: "The group has only four members so far: Microsoft, OpenAI, Google and Anthropic — companies building the biggest and most powerful AI platforms. But it could be very important to AI policy: one of its core objectives is to be a conduit between the exploding AI industry and policymakers."
-    publishedDateTime: 2023-08-02T20:56:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/08/02/ai-companies-try-to-self-regulate-00109502"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/89/61/2af5cdf64beba1228a853f5fdf34/https-delivery-gettyimages.com/downloads/1258676664"
-        width: 6018
-        height: 4012
-        isCached: true
 
 secured: "T44yMZaK2ipEonPmqFukxx9JZiMLzexboRVLoTt4ROJpIw+C66/d5NjmGPXmCOpi5B3YRi6pcNnsG6i+YES25DYdK/URwNoXn25Y4WxcCG9i04WaHlQ9Y3yM6yc6hqb0u30PcuAKltKjGN/tREiwAjZ6qiKl2CIQ2W55r0MlR3bxBP8o58wRTR6zYFgcaa/RdG3glq62Cg9yI0ThEo3nN1i6yXtX7RS4tsqpXSJjOpMXN6J5/oM74ySWLaDliD+R+/pH5+n7cKyaBuaYE/NhhSP8uL8IuD97HABA2ilguuqPepc84eIzkNh41YVrYmG4Ge6tDTuhiiSap//hUxIeVf68iDU/+b8f78Y5mGbAtHVG5HHeVnI8xSMWRtyYKAE+Vik8xQ/U3JjBIgtgDAOM61XEbwR+wMUZ4uTDHOzdE1/6s7FZAP5OJqH0mHDhCGbnDruSTKexdT/Lg6l1F0pCEIfNIw+soYCFhIxV5CUFR0Lgb6F5OHQPlvpYQgWA6wu701sG83CcMum5VW+iYC+H5Q==;aV660jKoKOTq/MhxeTCuAg=="
 ---

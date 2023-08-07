@@ -46,34 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung"
-    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
-    publishedDateTime: 2023-08-02T22:41:00Z
-    webUrl: "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI chip firm Tenstorrent raises $100 mln from Hyundai, Samsung"
-    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
-    publishedDateTime: 2023-08-02T22:41:00Z
-    webUrl: "https://www.reuters.com/article/tenstorrent-ai-idUSKBN2ZD1Y0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Hyundai Motor invests $50m in Canadian AI chip startup Tenstorrent"
     excerpt: "Hyundai Motor Group said Thursday it has invested $50 million in Canadian artificial intelligence semiconductor startup Tenstorrent in a move to secure key technology for future mobility. Tenstorrent recently closed a $100 million strategic funding round,"
     publishedDateTime: 2023-08-03T04:51:00Z

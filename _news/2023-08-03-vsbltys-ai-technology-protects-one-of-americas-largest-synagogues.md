@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-techno
 webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-08-07T15:05:00Z
+    webUrl: "https://www.oleantimesherald.com/commentary/artificial-intelligence-loves-america/article_c64fc17a-3533-11ee-83c2-330c429f88db.html"
+    type: article
+    provider:
+      name: Olean Times Herald
+      domain: oleantimesherald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/e/3b/e3bcc9bb-5568-58f6-a9bd-748d03513bfc/5f203daf17add.image.jpg?resize=400%2C614"
+        width: 400
+        height: 614
+        isCached: true
   - title: "Nearly Half of America Is Worried AI Will Affect Their Job"
     excerpt: "A large segment of Americans are concerned that artificial intelligence (AI) is going to force them out a job, a new poll by the Los Angeles Times reveals. All up, almost half of all Americans are worried about the consequences of AI,"
     publishedDateTime: 2023-08-07T05:39:00Z

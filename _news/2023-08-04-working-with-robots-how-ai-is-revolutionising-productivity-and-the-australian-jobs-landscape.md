@@ -81,20 +81,6 @@ related:
         width: 653
         height: 435
         isCached: true
-  - title: "The AI Revolution is Canceled"
-    excerpt: "C&E published a magazine cover story with the ominous headline: “Artificial Intelligence Could Alter Campaigning As We Know It.” The piece focused on how pollsters will be […]"
-    publishedDateTime: 2023-08-02T19:31:00Z
-    webUrl: "https://campaignsandelections.com/campaigntech/the-ai-revolution-is-canceled/"
-    type: article
-    provider:
-      name: Campaigns and Elections
-      domain: campaignsandelections.com
-    quality: 39
-    images:
-      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
-        width: 1024
-        height: 684
-        isCached: true
 
 secured: "95l3mrJuSX6eqUxo4oKuQN/NPzba5wahsILoWoU2bshkwVy1Nygew6Ieu5PqP5V+h0avVUyIpfdbs3hTm/u3lt8hV37h9tKugvcfpQ8fbv4ADYPwUVhTzkgGYhYRB1kTiVYOUAVUHw+2fM/Lgbyuk9CA7oMWjXKFiOM8n1AD2Ds0posk8Dw8xxGngUdOQSwxT2V7kJLss/N79diTtsMXXrSNYLPhgt81+z/535ejPP1X0Rqx8/miA84cv6+Bd5wd7j7aOfa+vntKkYbDLslkA3Xc1gWjRPq6WbTi8vbBup1HyJ+OOrETJAy0le8/Cgu9vtHYvprOIVAIqCiwO6mvjvn6SeuOzaEHb5rLzopLGL2cf+6j1xbaeCjHdsFAbBxA6NtQSi5VU3N7YlSAdHBpeH8oh1AEXbHP3n7kxF2ebeOtAHclEe3I9ACqOhU4WRlv/ZtDvNrzEkA78vb2zMTxp0D2V4QVg9la5sWXmcHg4invss2sQ+er90ZPjScD0ipe6Q9C0AF0L/nvJ63lo4mtOA==;Sh/dyzLZESaOdavxZFBTDA=="
 ---

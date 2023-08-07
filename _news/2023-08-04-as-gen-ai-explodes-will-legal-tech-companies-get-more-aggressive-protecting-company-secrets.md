@@ -32,6 +32,22 @@ related:
         width: 936
         height: 420
         isCached: true
+  - title: "The Future Of Programming In A Generative AI World"
+    excerpt: "Generative AI is revolutionizing programming, making coding more accessible and productive, but ethical considerations and human expertise remain crucial."
+    publishedDateTime: 2023-08-07T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/08/07/the-future-of-programming-in-a-generative-ai-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c60efbf4e8ba5b40ade19b/0x0.jpg?format=jpg&width=1200"
+        width: 600
+        height: 420
+        isCached: true
   - title: "Protecting data in the era of generative AI: Nightfall AI launches innovative security platform"
     excerpt: "Nightfall AI's platform is the first data loss prevention (DLP) platform that scales across the three top threat vectors CISOs need the most help securing when generative AI and ChatGPT are in use across their organizations."
     publishedDateTime: 2023-08-04T22:03:00Z
@@ -83,6 +99,24 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Dell announces generative AI solutions"
+    excerpt: "The company is offering a range of generative AI solutions across its hardware, software, and services offerings."
+    publishedDateTime: 2023-08-07T12:34:00Z
+    webUrl: "https://www.networkworld.com/article/3704209/dell-announces-generative-ai-solutions.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
+  - title: "5 Steps For Creating a Breakout Generative AI Startup"
+    excerpt: "You can also use open-source frameworks that streamline the process of building generative AI apps. One is LangChain. It allows for integrating many LLMs (Large Language Models) -- even those that are free -- as well as providing access to data sources, such as Google and Wikipedia. You can even connect with popular apps like Notion."
+    publishedDateTime: 2023-08-03T12:02:00Z
+    webUrl: "https://www.inc.com/tom-taulli/5-steps-for-creating-a-breakout-generative-ai-startup.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
   - title: "Kyndi's Generative AI Answer Engine Recognized for Revolutionizing the Way Employees and Customers Find Answers to Queries"
     excerpt: "Unlike chatbots, ChatGPT, and traditional search engine tools, Kyndi's Answer Engine is an enterprise-class solution that generates precise answers from trusted enterprise content, eliminating hallucinations while providing transparency in the results by allowing users to trace back to the sources of the answers."
     publishedDateTime: 2023-08-03T15:27:00Z

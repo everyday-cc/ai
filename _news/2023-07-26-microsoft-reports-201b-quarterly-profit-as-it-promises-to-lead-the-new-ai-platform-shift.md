@@ -1,17 +1,15 @@
 ---
 category: news
-title: "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'"
-excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent Meta in selling the latest artificial intelligenc"
-publishedDateTime: 2023-07-25T22:06:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137"
-webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137"
+title: "Microsoft reports $20.1B quarterly profit as it promises to lead ‘the new AI platform shift’"
+excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent Meta in selling the latest artificial intelligence technology."
+publishedDateTime: 2023-07-25T21:39:00Z
+originalUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
+webUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
 type: article
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Facebook AI
@@ -19,11 +17,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://dims.apnews.com/dims4/default/e689315/2147483647/strip/true/crop/5746x3232+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F0a%2Feb2e787a786196238fff24045b93%2Fd06df0f9eae04dd183aabbaaef444388"
+    width: 1440
+    height: 810
     isCached: true
 
-secured: "esZLKNYNUQAijqyJqOLmLbyO8i6BV8r+sJSvMu3J0/8BL+tnbe5YbbuNH0btKssCWWE85b/K3/ewo8jDAbZA/HhoY3xG91NtT+1Pejv10EwQFHj/aqMNAJMUj3u8qDgIV1WbbUqR3U68QVQOl6l56E3+NA6kCxqrtX/ufbuwwsIbkNzbp+Mxm6phpiE7ytN8T/uA5gYfaZ8bOftikBErHYBIyLZtWLRDF+XAXpmTa1q/L0Xhiet+RHqYPLGSmQKo+6E+0C4o2RwmEudq3P1I7Kej9FO2Tk46M8OYpsP7ppybdf57CFLKy2cLyU25ed6V+lxMebCrkm6HefedpnAJKPiWry/d5yXATJvyiU37Pbk=;chNqJ0xDLYLS+H6wsvEoaA=="
+secured: "cyAn7mbq+CdokO68ObapdOB4eCk/S8U9WJsMV25OelVATpz7yqTBe8JYutUL3OtHFRb+AFPlYJmQOQ6txOaVc8wLRauFZrKc0HtC5iswixH90qKI5aRA5aOFEATzlFDHo4On+CR5rEpbWbyE7E0+ZFGMFdwlfkDKI64kvxIC0WNugDNi0JZ7EX/BEUSmw2KLoF1BnN2jsZNRcHDcdto6447MLB2wc/YvBaRd71Ng8WcvV9K5shl0RRimWplebNPUwFgzanOlApXLg/1B9ShIqsj4OORp171W+ouzgYbsn7Amfkf5JJ/MH1+Aq7cSQ4eCzEQej6ZWOCblV8gFDrujwr+A6YwDunAnwa4bDrUhkkg=;sudWlBkm/C+1njA4pD6fNQ=="
 ---
 

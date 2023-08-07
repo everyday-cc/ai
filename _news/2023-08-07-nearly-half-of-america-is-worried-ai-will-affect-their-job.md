@@ -38,6 +38,20 @@ related:
         width: 400
         height: 283
         isCached: true
+  - title: "Artificial intelligence loves America"
+    excerpt: "It’s called artificial intelligence because it was created not by nature but by humans, this gift of ours to robots, computers and other specially designed machines, and some of our"
+    publishedDateTime: 2023-08-07T15:05:00Z
+    webUrl: "https://www.oleantimesherald.com/commentary/artificial-intelligence-loves-america/article_c64fc17a-3533-11ee-83c2-330c429f88db.html"
+    type: article
+    provider:
+      name: Olean Times Herald
+      domain: oleantimesherald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/e/3b/e3bcc9bb-5568-58f6-a9bd-748d03513bfc/5f203daf17add.image.jpg?resize=400%2C614"
+        width: 400
+        height: 614
+        isCached: true
   - title: "America’s Most Tech-Forward City Has Doubts About Self-Driving Cars"
     excerpt: "SAN FRANCISCO—This city’s inhabitants embraced computers, the Internet and cellphones before the rest of the world caught on. They are not so sure about self-driving cars."
     publishedDateTime: 2023-08-05T01:03:00Z

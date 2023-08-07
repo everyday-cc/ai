@@ -42,34 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung"
-    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
-    publishedDateTime: 2023-08-02T22:41:00Z
-    webUrl: "https://www.reuters.com/technology/ai-chip-firm-tenstorrent-raises-100-mln-hyundai-samsung-2023-08-02/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI chip firm Tenstorrent raises $100 mln from Hyundai, Samsung"
-    excerpt: "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,"
-    publishedDateTime: 2023-08-02T22:41:00Z
-    webUrl: "https://www.reuters.com/article/tenstorrent-ai-idUSKBN2ZD1Y0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Confidence In AI Startup Tenstorrent Spurs $100M Funding Round By Hyundai And Samsung"
     excerpt: "New key partners like Hyundai Motor Group and Samsung Catalyst Fund obviously feel that Tenstorrent is an innovative bet worth making."
     publishedDateTime: 2023-08-02T23:30:00Z

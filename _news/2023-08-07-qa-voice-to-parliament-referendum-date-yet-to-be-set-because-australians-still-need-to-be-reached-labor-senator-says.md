@@ -71,20 +71,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Nine Out Of 10 LGBT Australians Say They Will Vote Yes For Indigenous Voice: Survey"
-    excerpt: "Twenty-two LGBTQI groups from across Australia have joined forces to advocate for the Indigenous Voice to Parliament, marking a significant milestone almost six years after the national postal survey on marriage equality."
-    publishedDateTime: 2023-08-02T22:46:00Z
-    webUrl: "https://www.starobserver.com.au/news/nine-out-of-10-lgbt-australians-says-they-will-vote-yes-voice-survey/225368"
-    type: article
-    provider:
-      name: Star Observer
-      domain: starobserver.com.au
-    quality: 18
-    images:
-      - url: "https://www.starobserver.com.au/wp-content/uploads/2023/08/Blaq.jpg"
-        width: 1000
-        height: 480
-        isCached: true
 
 secured: "xfCFYqONl6ZsaSmnsdQsJ3+4qYvBpbNcQ2he3oHR7OGeC0R9glTd4aus85RzSr32YPZDB1E9HNyJWkNPiz8VIyCoTkWqXdxkMzcIwUaCZxTED0Rxf+bm8/VMTnB99KsLz7Uf9ySHzgxVhe4ET8NrcPDe/0TDaIJ5O6IAP/K5F8Gd4MvVvYFmhvE74uQTtmCNb3lQsmd8FGNnjNOAsmzULpsV69PtCre9pHHURx4DefmYqtr1goD+QB7ueZ3B/jHmgCnkGo7K6L9oStRDKAn8b5C9DpECnpw+i8zg0Vetq7z9AyQUwQMNX2QWz46BFpq/YRcEweE7c4NlZbbgUoCghGxEthdJSXiUhb/ZHmB5aWw=;IomVuv33dA7ao6jgVYWqug=="
 ---

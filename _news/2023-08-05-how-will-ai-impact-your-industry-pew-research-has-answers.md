@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-will-ai-impact-your-ind
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-will-ai-impact-your-industry-pew-research-has-answers/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The AI Industry Faces a Shortage of Powerful Chips"
+    excerpt: "The AI industry is facing an acute shortage of GPU chips which are instrumental for training and developing AI models."
+    publishedDateTime: 2023-08-07T13:42:00Z
+    webUrl: "https://techreport.com/news/the-ai-industry-faces-a-shortage-of-powerful-chips/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_1395644348.jpg"
+        width: 1000
+        height: 615
+        isCached: true
 
 secured: "si6hvWbSFAJM1j6bsQO+edTuirDaDa6n2+6mSrQsWL+yHhTAjV2V35KuoXbkiPyGOUqpbrIrOTAJf6hJPiYWeRd3i1WrPE1ymzN9qXThHe1SM2lc5KKV/kchhX/JdW8UUvjQZF2btM+iuFPLVFHVyvh08yglh/X7x8uuOMA2inzmpn4g4oQ7bcf0HD1F+wjtFqwlg5D6yO8K2lwzBqvwnwTtMTrIbeTAxKyOyjHBbIJnBArfp4T2wgr4l0Bgd5Xq2raFYkU6VnG9bic8sX7Aqw2k3ZHxpK94uQvf64qRVlw58zRWlOULI/p7IeNgLWPRtPl/nrLCpeNFey8wM6L0cZjBOjopRqhNecOqKxA5Ps4bHQv9yYaCW+11FO+3k+KcugMVksqox8G/Ej4L7PwYpUpzqT0kPb1Q5Pp4+cEYAfCQbvPSWXdR+hjQw2L2wvnuoI8d0CBqYpVUHxEuXJjQ02w7+zOR8+Kz+2gk4oKK52Txs9cUxuKD4YxnmNRg7T+s/Gps+arEJFL+z3vMAW5mcg==;dpFA+oMlLZHVZSJjiwGvKQ=="
 ---

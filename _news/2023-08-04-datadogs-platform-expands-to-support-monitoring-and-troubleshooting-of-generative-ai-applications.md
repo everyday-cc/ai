@@ -1,31 +1,34 @@
 ---
 category: news
 title: "Datadog's Platform Expands to Support Monitoring and Troubleshooting of Generative AI Applications"
-excerpt: "Datadog adds observability for Large Language Models and generative AI application components SAN FRANCISCO, /PRNewswire/ -- Datadog, Inc. (NASDAQ:DDOG), the monitoring and security platform for cloud"
-publishedDateTime: 2023-08-03T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n33554896/datadogs-platform-expands-to-support-monitoring-and-troubleshooting-of-generative-ai-applications"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n33554896/datadogs-platform-expands-to-support-monitoring-and-troubleshooting-of-generative-ai-applications"
-ampWebUrl: "https://www.benzinga.com/amp/content/33554896"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33554896"
+excerpt: "SAN FRANCISCO, Aug. 3, 2023 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced new capabilities that help customers monitor and troubleshoot issues in their generative AI-based applications."
+publishedDateTime: 2023-08-03T17:15:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/03/9859321.htm"
 type: article
-quality: 45
-heat: 45
+quality: 5
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+related:
+  - title: "Datadog launches AI helper Bits and new model monitoring solution"
+    excerpt: "Datadog uses OpenAI’s LLMs to power Bits’ capabilities. The assistant can coordinate a response by assembling on-call teams in Slack."
+    publishedDateTime: 2023-08-03T18:52:00Z
+    webUrl: "https://venturebeat.com/ai/datadog-launches-ai-helper-bits-and-new-model-monitoring-solution/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
-secured: "y8pg+zZb31uo0JmfEliUOPpIqhQGBR9QM+ypTsbOfoVMXIqtUGFDY9kprhRTGwyiz5IOxpJ56sLHi3rHF5cSa6mBmv1THmfDEWD+wVCn71Tk2lYSoxBNS9bBr13HoHmupq2ajq0JyCGpFbwvFpoi6n+I2IrWPp+oc8oi/QquKG5QO2RIBgStPTLBBLT84yFs9qfBhfEZvHKZKW1lMFW4JiT7HlRthCha/m7jSTiN5FLT+K8WZUzo3hyZDfmVrfi/3Wxn2b1kZgu5aULdkIu6TYedpSFIgazzGriexz2V2GqGJ9fV0L0ktc+B5zl7ZkRj+eE72hISgxs+K+poDIjMKFFGvz67zmNxzYKouBhMdfc=;31+RxOjE0dt5dVRzlGmlgQ=="
+secured: "XKsSLNX9gRTfAfPOS4ld/dfYeipwQsX93WV76OKJcetB/DiWlyqvArMz4s6tMQ8OGOEO5/9H9KKwn8uRgQemkRzspYzz/LC32UnyU/Bq5+TY/9lNbgdGKPdsqEhUY70ZpnHjEVm36/L4aVMDZG5bhr1OjibeofyMxaO1XTwU1NPRNZTqMdfob7xqcJYmmPPOPjpu0lMcvmkf8Vmzi40ZaHryWQNhaNSYNOvckIDf0/bDlNSrgPOnYvH1Nwik2KpRS9zVPT9an9PDoxe2ZjWFhQFcJvv4dmxXuFBZMOq15KK4465ZJ7hPIHeZVSPmy+sOrPs114+d94LHRiOnkSwH8JTePYtGd6cx2PReXUqvsf8vZDBLtczKDijS+6eFI4HydXfZGr2ejSj0m4QuKSiyCCHPsv3jDQpwzdlgAJbfx55EygujLaQdHuciMzj10SYA5bWuwl3FDJHEN73nXxsi59pTCT1dzLzod7L1paGF61GHg5Ye9UWfdqmLfEW60wQcFw3UoZx6QYPMmxanZHpwWA==;OTVBxplKcmOjU8Z8Ba3LEg=="
 ---
 

@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mbzuai Launches Dedicated Robotics And Computer Science Graduate Programs To Meet Surging Global Market Demand"
-    excerpt: "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four as"
-    publishedDateTime: 2023-08-02T19:25:00Z
-    webUrl: "https://menafn.com/1106772490/Mbzuai-Launches-Dedicated-Robotics-And-Computer-Science-Graduate-Programs-To-Meet-Surging-Global-Market-Demand"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/updates/pr/2023-08/02/M_b6a3bimage_story.jpg"
-        width: 1270
-        height: 846
-        isCached: true
 
 secured: "C0VMC/61nL3Q86gBbH0Ft2kcZT5C0jBWIdcVOaC4px7L+yGWuHu3nj9ir5QvstKP0n5jiOmGjHs4681/qOIu1e+6iKiC6uPt5MrKMCeOCBsJH4KZxjtFVv0Gyc9vjy2LWS3ui4v2uOD5iepPBKAI7WLTWYGy9VFuaWm8MQcFQqS9O0JHAvoptw2poukGfbOJzijhCcj7t6DS1hI0pkieUrfnhtZ33byEMcVxqBuN00noOltK/YxoHsiK5YKXG3eOjolQoqAtenVMFwUOzPeUhanh7j76W3r0LXN7qCGrEGvRHCHsFin+1aPa695xp/kj698ySjVxNGIOPgyT1DVRYWHAmGWWCNKOQpHKjCQSIgFxRHlm7D/d0WPBT0WxPEs3SX/WwBPHvaa74j1+zALJ69TmHZRimFcL70G1lyQ3j/GWXDWl5dH4Qu7MSbU+tLL71FRlmydsoHuolySDxgchlSVQ3nqIoEFMCPIGqtNC/qMwVFuXAGRiTkeFtOW9sEBFRNHIjU+VwXBqIjywmaSuzg==;hGtWXBDV4U/UiCUs5Ii76Q=="
 ---

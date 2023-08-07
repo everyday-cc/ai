@@ -80,6 +80,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "What can you do when AI lies about you?"
+    excerpt: "Sometimes, AI creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse."
+    publishedDateTime: 2023-08-07T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/what-can-you-do-when-ai-lies-about-you/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "41tX5RRLBM6SXxFIT2qfR9HrVlPZQAJlyICz0srL9TvNS3BHqTbQCgdHCcy923IFDeB/mNWknk0OdlBcphq57YwvBGYNgtuSkY6fx99iSYzGeK/pSYlAitA6l8j9EOMNkEt+cYcq8S64df9pE32zwfUkbhlsSbv+1pUFWiQYJI+zy+BNYZGF+2FhMVI2xhnVI5wYwtS3AyFiEmiqV8oQg2rL1+t26Ifa1yjWlsqm9jwyjV35vXYjE8H/50MoOPjHh2/prE+RQgOKgAazNA5oqetV4XiFuJzdSje0BCcpxO3LPyxksWz5mgaQgvUfCq57Y1R26QzvxCahdAqEp3V4NfUu7x3ZIeDI23km8VaOfMg=;PzJhzDY/dIdC5K/nRoeJ9A=="
 ---

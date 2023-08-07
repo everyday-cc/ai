@@ -3,12 +3,10 @@ category: news
 title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
 excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
 publishedDateTime: 2023-08-03T14:38:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms?trk=public_post_comment-text"
-webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms?trk=public_post_comment-text"
-ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+originalUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "Amazon's AWS Vs Microsoft Azure Vs Google Cloud: How Tech Titans Fared In June Quarter's Cloud Showdown"
@@ -67,6 +59,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "dwc6bQgmjEbzjDbjnpNxTLS1v9fj63YFq9Pgpk1RLjAWzHrog+zPutoMoBYovSgX/cTvSQzm1vu5JW+P3WyJRI1iCM4JHcv0rDnVw6EzCEH//J/q/nsECtccw4OTeJLcSMPUyMJhmc5CEEFVM2vU1o4JuBXcXmFf0LCJwNa3x1J2Nb446nt0fSaJKv/hBb4YJwVoM/MRVSQWPJVvTn9kHCfl6E+J+XQ7GCPNKC+wD/nx0sJT2CzMB8ncIOLs0+WxvoAKX0QD0KprIAerWOw4gHS7T1gt6BtaJqZRJmzgE5VYN97nJn89QWDitpROZB4D1s14CKW5jj2fDUC27GUEYYm+tcaUu6U751p8vufYYl2jecAB3RKvLvS2nmangiF/JBmF9W/L12GLJWMMRQWELTpvS+j8X4W+iXaenyWynaF+OzulwP9AJqc6oNeLBzEGWVn1Tzjk6gTnwuQB++LvmPe/8GzHaz0xAAEqBHLiy22pTPdWxR+MHdTXTTHgJtpzQkN2lA64rQsZJJUXl9kuAQ==;imk+pNaFtG6EbCfke8NFMg=="
+secured: "b2JrAmeKKM1EX3kvxpkFQYYte1aX5HhGBPgZ+XDM3/YGLSqqeshdgux9MD1iYNyO442uR03cI+LmoM6I+lCbey8n2rVYbLuG/A8cESCclCEXPyIpkkYIXwZVj7e3ntmYWr9tKhTFthaQryKaPqJ5aXV5S68mFJzq9B2bZujQO0dIQv2UKPn1TfdGpa0acdsfPfwtY9qOPmfBCh9LhxshoZ7wlFIoOFB2563HXYhGXb2mRkO/hWxyOyDvvW2sGm+PIqGuc/DIzrXp9ykElCR2AGSxQtS+IVGmTfvKCvwTZhbjaEkKrmaJAaKX1xvHstTw2o0SFGXgTkWgMOlLRNbPTxDABHqRivr9NvvVsPnDXaA=;Nt2vkcVGjB/7IMI4HDkM/A=="
 ---
 

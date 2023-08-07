@@ -50,6 +50,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Your Customers Deserve A Better Experience—And AI Can Help"
+    excerpt: "It’s all about reimagining the entire customer journey and modifying it with an “AI infusion” to create optimal hybrid intelligence."
+    publishedDateTime: 2023-08-07T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "kZItQS/aH4UaD/gKY1Mj3shXrVRYGEdFTu6w7Xd5vtYwprxmbl7Wfmlx99TeSDZWvzrS5yKERnVtPM3EVV5RVyKnzI5nRNNjWLyoBQyr87cv2N3XX7T6/xd59qmSVfzVZKYz2RIWyOcv5lxc6U0nRmZL1HdgSFI9C9LGzt/G6ImcvdIn21BwltORX0Q+aeCCYqi1U3jnLbYDwflh81vLtc5AGsQqnSK7/lEEEAA2L61AmK4FsxqIGA9a2JYTqFaFwBZcsHl12jZQLSWKf6lhNENvV6DEJGuZF/NcQieFTLKnp8IXUf3xtDN1rIp7k/kwyZewwgH4KprKqHRRxiNsDNWp7YXrM4BC1Gcah25MYvU=;NeneFmSdX/48DxzsKW6WWw=="
 ---

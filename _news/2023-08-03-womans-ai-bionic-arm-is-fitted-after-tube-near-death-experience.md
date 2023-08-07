@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/uk-england-london-66372057"
 webUrl: "https://www.bbc.com/news/av/uk-england-london-66372057"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Your Customers Deserve A Better Experience—And AI Can Help"
+    excerpt: "It’s all about reimagining the entire customer journey and modifying it with an “AI infusion” to create optimal hybrid intelligence."
+    publishedDateTime: 2023-08-07T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/your-customers-deserve-a-better-experience-and-ai-can-help/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Lessons from finance’s experience with artificial intelligence"
     excerpt: "PREMIUM Ai and machine-learning funds seemed like the final step in the march of the robots.(REUTERS) This rule appears to hold for artificial intelligence (ai) and machine learning, which were first employed by hedge funds decades ago,"
     publishedDateTime: 2023-08-05T19:47:00Z

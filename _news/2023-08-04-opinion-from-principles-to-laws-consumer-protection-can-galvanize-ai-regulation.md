@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
-    excerpt: "Government is the least trusted sector of society, according to research from the American College Maguire Center for Ethics(here). Focusing on consumers as a primary area of concern is a great place to start. AI use is already widespread. Consumers ..."
-    publishedDateTime: 2023-08-02T20:14:00Z
-    webUrl: "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230802&t=2&i=1640692714&r=LYNXMPEJ710W2&w=800"
-        width: 728
-        height: 485
-        isCached: true
   - title: "Opinion: Adaptability Separates the New AI from the Old"
     excerpt: "There are many definitions of artificial intelligence, and it’s been embedded in software for years, but recent advances carry new potential to personalize education, tutor students and automate aspects of school operation."
     publishedDateTime: 2023-08-04T23:10:00Z
@@ -67,6 +53,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Artificial intelligence could replace doctors. It's time to prepare. (Opinion)"
+    excerpt: "In the past few weeks, much has been written about the uses of artificial intelligence and its potential to take the place not only of factory workers but also of highly specialized professionals, such as lawyers and engineers."
+    publishedDateTime: 2023-08-04T23:56:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/artificial-intelligence-doctors-physicians-ai-tech-18278240.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 15
 
 secured: "+xgvOo2jWvgvaCIPUHV4AEGKhWUlF5tQryh1cfjYRxTB9g8P4P7a5INO9GbYm32PXytjbYbf80bhxK5SqqwcE7DGiuARAgXn0mNCkQZ0LAnemoUMsg6e675Ve+O22I2pkyQw7xy5TmuvUKm5Pf5X1qf5mqVj4Wfy/34q/QW6JBarycaO1+aumj9lMhQtjf76zDzrPw0NanEULSwR5Uc1bw5zWoqWpFPjh/uQIHfIMSgT7tbWZKvGCaWQIxRBRLwgEax47g+mMupC1oqcyCazraLDxnRLQkap5Pi8d2vA30z0vokR3/8L07F272sBe9FJmqZMh4IQsNuRbv9QJAB0l/sseGL2OcQ7QMPpL+ZUrPF+CFUtBb5OknL1hrPCsz7Y7/DWm3+TZRKLCTxUeFAsTHQe+IoOKcRkAE9LbcdH+4ISgXuXRohHnloKph3/l9J0ejQyvsZzOGgyYojUlRrpelOikIS6sc8ed7etpU5go1ZprFXXLr4kDhfM5rxnJ8xHOVzCNoCtJSfwV69eDJiRDg==;YF/4/LQ9cQAX0TijkDnJVA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 158
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/388ef5b23f2b31507664828048664414fd83b420/2023/08/02/0e0126de-cddc-499f-be65-fbd68c709020/stack-social-chatgpt-ai-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Why doctors aren't prepared for use of ChatGPT in medicine"
-    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-    publishedDateTime: 2023-08-07T07:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 44
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/8/2023_8$largeimg_1326812644.jpg"
-        width: 318
-        height: 306
         isCached: true
   - title: "Big Law, Nixing ChatGPT for Legal Work, Seeks Secure AI Solution"
     excerpt: "Generative AI can be like an overeager intern who wants to make you happy,” said Kate Orr, global head of practice innovation at Orrick."
@@ -131,6 +115,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/08/chatgpt.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
+    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
+    publishedDateTime: 2023-08-07T14:30:00Z
+    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-12/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 24
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
         isCached: true
 
 secured: "wKYqOGL4wxPgr2iuwdxEUJmarj/EHqBc1FxstxXod0wPvywv1f1OsJP2WZTI5xaX/n3t22ce5q4HNacFkJU8WsNDbhQU+q4O03o42v2JocPqSfck0mBQJZR+MBsyg7uFdRLHiQiYwrfEn7o38KdGao17U/e0TqIBrsNigK95wLZER5MEgPq+UPGgY0/emfo5DA//3LQgAemNkQKRiKG4jiy+Gdi7NisDEObpedHHfGzfouekhz8xS4KGNelmMeVAqguUmgPFJEee+55PrjaX+i7eJNlH/O+QhXSNAzXSaL9r5ttZERb8M/+d/wf4oylaJxOhwEmTQ630+9G+oxEdivrAFM1ii58cgnxQebk0E1D8QGKYRjsJFcQOvrHukG6SYhAu7vS+krbbggJz+FLoKbsR07oQoEcKfhtwG2ObaL6wo+pPi0xr8F2c4CZfNaRJQKoRWAaxE/NnOM9ght3gJe8h2d2xF8uzcTrgf4rwch+8Iu++7P9uucss5St6UQSBOaf04Dl/awFHSONTlRhA4w==;i03v68AURSHZEghNYkPpHg=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/k-12/opinion-adaptability-separate
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-adaptability-separates-the-new-ai-from-the-old?_amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Government Technology
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
-    excerpt: "Government is the least trusted sector of society, according to research from the American College Maguire Center for Ethics(here). Focusing on consumers as a primary area of concern is a great place to start. AI use is already widespread. Consumers ..."
-    publishedDateTime: 2023-08-02T20:14:00Z
-    webUrl: "https://www.reuters.com/article/bc-finreg-consumer-protection-ai-regulat-idUSKBN2ZD1NB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230802&t=2&i=1640692714&r=LYNXMPEJ710W2&w=800"
-        width: 728
-        height: 485
-        isCached: true
   - title: "OPINION: From principles to laws: Consumer protection can galvanize AI regulation"
     excerpt: "In recent years, numerous principles, handbooks, codes, and guides have been released on how governments and organizations can tackle widespread AI risks. An online resource from AI Ethicists has an impressive list of more than 70 AI principles from governmental,"
     publishedDateTime: 2023-08-03T19:20:00Z
@@ -64,6 +50,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Artificial intelligence could replace doctors. It's time to prepare. (Opinion)"
+    excerpt: "In the past few weeks, much has been written about the uses of artificial intelligence and its potential to take the place not only of factory workers but also of highly specialized professionals, such as lawyers and engineers."
+    publishedDateTime: 2023-08-04T23:56:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/artificial-intelligence-doctors-physicians-ai-tech-18278240.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 15
 
 secured: "8BzCHyEPPGfR5XTizPTCwnrGdWDxqJUBz2HoXsUfVmoIp6AHwOGn7Z5qY5RWrpKZu1AeqMPKiDvO17nLJsbsxK3emXS/y3/f+9Zjy6/NRxOonOhjDLkHqErXwwt7j9x6zfLoTyAj+01fANRmU1Pq5eBbDvh29hY96ozEvi+oqsvA90eZydOQA5KiAJBqBHywmhWy840uEXtsKX2c342n96VQIaDloKzSjKsiV+C62KhSzl1htpJyohAFWNxE5aOyTq9fL/V8t5QXMwI/z/qR9ls3tPn3dT6cwzxI0Cuuo98cTX5w5WV/ZazET4tEfjOwwgTevZa5szqLWuHBiQC5lKmYCDzDmH8msmvn+l1r4Ys=;Z7AnhIECnwkYRWq/ltWD5g=="
 ---

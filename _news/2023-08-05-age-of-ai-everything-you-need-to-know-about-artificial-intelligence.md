@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "What can you do when AI lies about you?"
+    excerpt: "Sometimes, AI creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse."
+    publishedDateTime: 2023-08-07T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/what-can-you-do-when-ai-lies-about-you/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "QeRn+4aja6B581/eY5dD0nRc5mRnq5V0NZD7TO38VnRpHjieBJfDyRbYk7S5AMQPU7E+9hdNIPSZH+PWyZ7f5A7bOkT7y/p7L+Bexu9NqXx1HACgcd2ZSUKYouVk2YT3fKQPN9Ee2evVhPw8xqc2YQM+9lBvRH5pz2H65s/ZFnqDQMyXK3WqGC2G1aeZs4SVT9SpRQBRG9dNtUUJQSLTb5fdorn6wDhIUDX3E9O7rDvFywcSq+wEW/xUmtvqxpTqA9mQ29z5STZk/4yDQKYaW+C3waWNKsch3ruyRhSN93/BChMEjZrCTFXRMBbVwRfw4kijh30nwIHNRJhfzkPT0X2/DTXgtWfO9P79fjObKnc=;iweGpTVZLvb6/mzhkP/hrQ=="
 ---

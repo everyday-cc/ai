@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Don’t risk your rep: The importance of ethics and compliance in generative AI"
-    excerpt: "Putting your trust in someone means believing in both their good intentions and their ability. Or, to put it another way: “Trust is about character and competence,” says Justin Tauber, Strategic Innovation and Responsible AI Lead at Salesforce ANZ."
-    publishedDateTime: 2023-08-02T23:00:00Z
-    webUrl: "https://www.smartcompany.com.au/partner-content/articles/dont-risk-your-rep-the-importance-of-ethics-and-compliance-in-generative-ai/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 51
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/07/Saesforces-article-3-1466x710-1.png?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6sCUyvCyUrVxSfDVsXdWAYjxafh2xU4+dTr5sOITztoQRrR003N4NaOKSmQ/AjrtDr5z3ZA0f/bQcUAJ4VMnfe1+Cc4LmCORzaajZ9D/txFnhIEf8RDmkKj1jW/DgBc45A+OcbBZBosOQ8hSldLiSWUoXXvU07ZvUEi8GzBnCAY5FcNSooHXFKdzTVrrd/mPO39lLlZhP6Sl4r3QYbln/3MSjUSTQWzXpmgj7Xp6zxa1oIg+g5kWSoongwjsq96WWOrlCVW9Z73fFAJorrXZ0PG77ylMEX3KGNxrzoj7HrsRjgdYo8Zyi1ClS8PjfQ42BkeYQUauO1HCaYZDqaC9m3n8g+jxq/eAEzDRjv0e2R3l77uIfawaTh7tMQcO67goU0rJAa6RQeN4tfzMxT2EIjB0G/jbe6WGNTaSysO9kh0hCjC26YjwNlwqjRICTwnuZ3cvW1AIMzpnfR1giNW1hg5hP+ZrFgTzywBBqzyXxnJXRt+65ylIkn+2CwV3eQArueSghnugxYbmaKhaOqWwug==;NVSEmiObZdrUC8XswWP8lg=="
 ---

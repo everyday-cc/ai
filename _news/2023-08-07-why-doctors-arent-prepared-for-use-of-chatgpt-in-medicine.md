@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Why doctors aren't prepared for use of ChatGPT in medicine"
+title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
 excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
-publishedDateTime: 2023-08-07T07:02:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-webUrl: "https://www.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-ampWebUrl: "https://m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
-cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-532960"
+publishedDateTime: 2023-08-07T14:30:00Z
+originalUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-12/"
+webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-12/"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/8/2023_8$largeimg_1326812644.jpg"
-    width: 318
-    height: 306
+  - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+    width: 696
+    height: 436
     isCached: true
 
 related:
@@ -130,6 +128,6 @@ related:
         height: 750
         isCached: true
 
-secured: "HdPcFJdG3toqujoiMDY6G4D4CoZuxrDvT3iPNaBRLSJIuEjnmjRa/wznjoXywyVHEybVLOHqvpInQdOjX0KpR4Lw7zu8Zf3V2teQ+jNROeGAxg+sA+7SccO87VzKbFVLARDpxGc+LTfO9/slyzdpG7kExf/HQoe8DDPzR2isI98lyrUetWhCsRpZevQ+MGdt0Ub1+1C6YN2h02CkSm9wbIVJMynKghRT6AkQrpwTKHGbceWL3ymFsfTnPjmvHmTxR8sz3UX4qOZ4r4Dt9itahMWUXAfsMQMOdXA/3V+U4R96P6UBVqXKlCztF7ubydx6+i0Pl46i6yqJBYeXpaCNMw/SKpTPSCFszbFIZODPIH0=;k6zKAg5buZo0kg9EEI6a4Q=="
+secured: "8GJSS5YA2eu4EPSvrsmm7YWEQDbCkM5kbjVxVdM7IYJin/Py3JMbH1xZjOrWbRnQ/EI8pmy4RsVSRtkN4aBnxbyFNDXiXXxSYyztnZ6sKxFs4O5mwpK8hhDoIgl/QizT/zWqqKoYe1CuRsp2qmOhHFywfsuP0Ac3o6fojg2AmAf95trkm+Ppw3sO56Qn2P+cjRE/0xEzAFRINI/8ymGG2bAKWjtgrDCIJLi4HkbjT2RyrX+kajpIe64xc9DiZ8usdjjZhQ/qPuhRxiIB16a8lxpOFtZUj0asOE8aOZRoDUOMrCFQNy2IuukE1lRRspO3wt4uRMcQOILatSz1MvZCJ6IOCcQEq/jOycA3HyOkIc4=;YwSD/R8tMk862qUhS9SxPg=="
 ---
 

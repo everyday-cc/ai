@@ -45,19 +45,12 @@ related:
   - title: "TCS launches neural manufacturing solutions on Microsoft Cloud"
     excerpt: "TCS Microsoft Business Unit (MBU) works with customers worldwide to accelerate their cloud transformation journey and is composed of 50,000 Microsoft-certified associates."
     publishedDateTime: 2023-08-03T14:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms?trk=public_post_comment-text"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/amp_articleshow/102398160.cms"
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tcs-launches-neural-manufacturing-solutions-on-microsoft-cloud/articleshow/102398160.cms"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60941,msid-102398297/tcs-microsoft.jpg"
-        width: 600
-        height: 450
-        isCached: true
+    quality: 19
   - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
     excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
     publishedDateTime: 2023-08-03T19:12:00Z
@@ -68,6 +61,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "k41ZH42CTWxKbuOXg54r/6WmfP/5ZnwsvMk+pTUVxatf12AIHpxtMfPERU9ZPQHaIVTjLJ5H98WIHPdeAykSp++V8aeVs+w6A7yXJCr1duhNmIQCxj+sP2dosMHWq/FZ6ECYTOWvICgwegfs5vNNskyZTwl6yNiKSfNLWY4HgwCvouzibIz4Mcom9fGVANfA9azJ5wEsm8uBcxm2CvdOgiNHZ0fdVyF/NarkcN9niaarewUx+gQhhlr9LnxzhbEbckYa5YZWjAy8LSsuIhjiac8zxeLpnVG128+KdeihlDAJ9cHe524fclqD3J0mMXsw2G3qp3wDUk5ctADedibTWwe/y3Tq9lOZc/gBFWmtAdg=;kJ0EGfNd1CaFiirkM70HKQ=="
+secured: "M/hOW/low0gHiDtmp/nPOxwZLv9zirX7zXPMv3A7ZLSZ//HAoXvGg0prk0KwJGVtUHmhZsozXAGcDSJF2Qx1utdpIeUgZ9bgybJXeOJs+1i3+QzGZIFY84YG8cKpJ3A6go+jbJYz4/W8k4gzTTtpj0I8HhrTieabvfmYY3d1rIEgkV2XAU6boP3fWyTduCO1MI/6OtKo1Dcjpr52I1wSwgtE0FPjX+nEdVxysm+2MghnaNd+MRG/OlWescn0aOPLP720YqN3/KVs4cWB+z1fYD/QjoUKdZf5x/PJaFXQGOISfsvUC9jtKWKXvhPX0kywl1CGCit5s2Q7aMqzik8fc5oKE7O+ELhR+heGePYqSZNZ6XLFIyjBxiMgisYtD48yGBr67mpCp7Di7/eJ+Xxnop/F7852Vq7NLnd3yA2sRueTHR+lk9gnr/ZFIpJpCG3Mjxfmh7n5Zc5qNQ9nnBXimqcBK239UFcqjZqkob4Rv0fWCW3d+j/GeiupfeG7L1cZy8u+5BgQOzs3Dvix5jtlKw==;N9jjFSlJqA03NRpKPosf0A=="
 ---
 
