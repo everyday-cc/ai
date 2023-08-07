@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.gannett-cdn.com/authoring/authoring-images/2023/07/25/USAT/70464208007-afp-afp-33-py-7-pp.jpg?auto=webp&crop=2648,1496,x0,y134&format=pjpg&width=1200"

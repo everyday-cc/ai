@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/ai-robots-can-now-do
 webUrl: "https://interestingengineering.com/innovation/ai-robots-can-now-do-manicures-and-other-beauty-treatments"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Interesting Engineering
@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
-    quality: 19
 
 secured: "AYoOMcpf9RAMdRVvujemRK+2HiwAk6RYfSZa6i+BCBlbOObc6wK1nwwxujdQro4TTIJoGa+kTzRzQDGJp+dqN/fxGGLKOpQGnQkiU/ezhu1jXwtJTDF3vUWmTtEaSdSw4S/7R+BoMm5lrPf9vuiSO299AyDuC1qTAjVw3kTM1Jrf1r162MyYQ5HvO1CEAnn2+KF1g9lHg3fyfOF//hZIAXSl5sACGGezGzf7Ml10CQwbqwqxmt8u9WVT997tbLuCRwkjsE+70Ets8G52GJ7OIzhTcjZhAeSNnew4xF+oR5z9pXbwKOMzJc3pacoePPuyHnlqRe+7aG7nshTss8XPXe6soKGayInvkOAX5Ow4EpQ=;orKYMxr88Xuea8bCXalegw=="
 ---

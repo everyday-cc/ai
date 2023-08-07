@@ -2,58 +2,6 @@
   "page": 101,
   "value": [
     {
-      "path": "_news/2023-06-01-wolters-kluwer-at-187-how-an-information-company-adapts-to-ai.md",
-      "title": "Wolters Kluwer At 187: How An Information Company Adapts To AI",
-      "excerpt": "It’s widely known that to succeed with AI, a company needs to have some distinctive information. Wolters Kluwer, the Netherlands-based professional information, software solutions and services company that does business in over 180 countries today,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/05/31/wolters-kluwer-at-187-how-an-information-company-adapts-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/05/31/wolters-kluwer-at-187-how-an-information-company-adapts-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6477c3769cd242118c0e1090/0x0.jpg?format=jpg&width=1200",
-          "width": 1100,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/05/31/wolters-kluwer-at-187-how-an-information-company-adapts-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/05/31/wolters-kluwer-at-187-how-an-information-company-adapts-to-ai/amp/",
-      "publishedDateTime": "2023-05-31T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-resonate-offers-ai-neural-network-for-predictive-modeling.md",
       "title": "Resonate Offers AI Neural Network For Predictive Modeling",
       "excerpt": "Resonate has introduced an AI neural network designed to help brands transform data into updated consumer attributes. The new network, rAI, fuels predictive models designed to dynamically generate ...",
@@ -1181,6 +1129,57 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-the-cry-wolf-moment-of-ai-hype-is-unhelpful.md",
+      "title": "The Cry Wolf Moment Of AI Hype Is Unhelpful",
+      "excerpt": "AI increasingly represents a significant cybersecurity threat as an asset for criminals and hostile states. But cybersecurity is a mature industry with plenty of experts well equipped to handle the challenge. There is no reason to shut down AI because of cybersecurity fears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/",
+      "originalUrl": "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64775cf577dadfd9427b69d7/0x0.jpg?format=jpg&crop=3980,1867,x0,y390,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/amp/",
+      "publishedDateTime": "2023-05-31T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

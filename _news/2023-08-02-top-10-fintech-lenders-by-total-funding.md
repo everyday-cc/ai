@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/top10/top-10-fintech-lenders-by-total-
 webUrl: "https://fintechmagazine.com/top10/top-10-fintech-lenders-by-total-funding-2023"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Vanquis acquires money-saving FinTech Snoop"
-    excerpt: "Vanquis Banking Group has announced its acquisition of money-saving FinTech Snoop. Snoop’s app generates personalised insights aimed at helping its users to better understand and manage their finances while also using AI to analyse Open Banking data to further assist users in realising cost savings on their household bills."
-    publishedDateTime: 2023-08-02T09:01:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Vanquis_acquires_moneysaving_FinTech_Snoop.php"
+  - title: "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN"
+    excerpt: "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI."
+    publishedDateTime: 2023-08-05T16:32:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33585861"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861"
     type: article
     provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://www.fstech.co.uk/fst/images/man-stacking-silver-coins-graph-money-investment-m.jpg"
-        width: 4096
-        height: 2304
+      - url: "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa"
+    excerpt: "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the"
+    publishedDateTime: 2023-08-02T11:26:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/291106/Flapmax-Partners-with-Intel-to-Accelerate-Artificial-Intelligence-(AI)-Innovation-in-Africa"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 42
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-08-02-10391201.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Spotlight On Crypto Innovations In Fintech"
     excerpt: "Welcome to our exploration of“Spotlight on Crypto Innovations in Fintech.” In this spotlight, we delve into the dynamic intersection of cryptocu"
@@ -67,15 +83,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
-    excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
-    publishedDateTime: 2023-08-04T12:23:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 19
   - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
     excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
     publishedDateTime: 2023-08-03T11:45:00Z
@@ -85,51 +92,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 4
-  - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
-    excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
-    publishedDateTime: 2023-08-04T16:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/04/9859806.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-  - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
-    excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
-    publishedDateTime: 2023-08-04T17:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/04/9859806.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-  - title: "Financial Inclusion Focused Leading Indonesian Fintech JULO Launches 5-Minutes Instant Credit Facility - JULO Turbo"
-    excerpt: "JULO is a leading fintech company that is revolutionizing access to ?nancial products for millions of emerging consumers in Indonesia. The company is one of the first to develop a digital data-driven credit underwriting and risk assessment platform to process consumer credit applications and determine their creditworthiness using its mobile app."
-    publishedDateTime: 2023-08-03T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/03/9859563.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Peter Barcak, CEO at Credolab: Fintech Professional Comments on Future of Lending, Power of Behavioral Data"
-    excerpt: "We recently connected w/ Peter Barcak, Founder & CEO of credolab, which claims to be today's largest developer of bank-grade digital scorecards."
-    publishedDateTime: 2023-08-03T13:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/210609-peter-barcak-ceo-at-credolab-fintech-professional-comments-on-future-of-lending-power-of-behavioral-data/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
-  - title: "Fintech firm Enkash expects business to grow by 36% to Rs 250 crore this fiscal"
-    excerpt: "Ascent Capital-backed Enkash founder Hemant Vishnoi said the company focuses on spends management of small and medium enterprises that have over Rs 10 crore annual turnover and expects the customer base to double in the current fiscal."
-    publishedDateTime: 2023-08-06T12:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/fintech-firm-enkash-expects-business-to-grow-by-36-to-rs-250-crore-this-fiscal/articleshow/102476139.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "jhsUclQduVgWqAM7vEhpnzUkIBkYQWsokXCQDus/85R8nHTbbARzCo9rcgi2IgHtTWysTm1jPNDRM4HdMA4kP9fmSihMz7ML5d5snN3mk3qURAnv5HUUQ7BcAw68z0Z9IDQ9pc4I9yF53eBPcU0uWWSVdE6NAYZkOLPVv3Uzxhych7+HhhPhvO34jVWVeZrPVHfiTV5X6ZTMj6QOiK2ScVwBlLZQ4YlECDFxlKN+ctTVZQzBEDE83dEQvQ2wDyFuco46dG3o/tk0Izq3AnNJG3Ks7K9LRkuMiZcKGCv841NXcrj5LKPgiYI4iN4SsbLXDk/Q8i7Yd1oYmK9W11xejrSqEzKZxLFqITyYkw47GOes7uILwiiXWdo+sXXuSlw94LQur49OptgAN2gff09ghvv2nSyL/TZN3kx4k2vHuGV3CQNbS/euo0U9sSuK3/sGu48VbcDOJOmp9cJabqpxSFk+kvh35mLBH5l8XYhPG/egOmj/LXyxg3MqUHfirZb4CttoxdnCJ8bW5KviSNnEbg==;Dx8cWPWBWmmJWItfAc9MCw=="
 ---

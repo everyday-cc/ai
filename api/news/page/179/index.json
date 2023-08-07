@@ -2,49 +2,6 @@
   "page": 179,
   "value": [
     {
-      "path": "_news/2023-04-14-amazon-ceo-andy-jassys-5-boldest-remarks-on-layoffs-chips-and-ai.md",
-      "title": "Amazon CEO Andy Jassy's 5 boldest remarks on layoffs, chips And AI",
-      "excerpt": "From AWS facing \"short-term headwinds\" to customers looking at \"cost-optimizing\" versus cutting cloud costs, Amazon CEO Andy Jassy has some very bold statements regarding his vision for Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelweb.co.uk/news/4112176/amazon-ceo-andy-jassys-boldest-remarks-layoffs-chips-ai",
-      "originalUrl": "https://www.channelweb.co.uk/news/4112176/amazon-ceo-andy-jassys-boldest-remarks-layoffs-chips-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.chitra.live/api/v1/wps/e51f18a/4cd0c816-f7c1-4459-bff4-b86a6c5a0b90/6/Andy-Jassy-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "channelweb.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-14-op-ed-heres-where-investors-should-be-looking-when-betting-on-the-artificial-intelligence-boom.md",
       "title": "Op-ed: Here’s where investors should be looking when betting on the artificial intelligence boom",
       "excerpt": "The rise of ChatGPT has sparked another national conversation about artificial intelligence. Depending on your viewpoint, the bot is either the key to making a host of companies and their workers more efficient, or it's a slippery slope toward robots ...",
@@ -1181,6 +1138,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-ceo-andy-jassy-says-really-good-ai-models-take-billions-of-dollars-to-train.md",
+      "title": "Amazon CEO Andy Jassy says 'really good' A.I. models take 'billions of dollars' to train",
+      "excerpt": "Amazon Web Services is launching the Bedrock service for generative artificial intelligence in limited ... The most formidable competition for Amazon's AWS business comes from Microsoft, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106953080-1646863596820-jas.jpg?v=1681389001",
+          "width": 3000,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+      "publishedDateTime": "2023-04-13T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

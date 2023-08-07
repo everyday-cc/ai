@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD bets on AI chips amid 94pc profit plunge"
+    excerpt: "AMD aims to ramp up production of its AI accelerator chips and plans to design specific semiconductors to bypass US export issues with China."
+    publishedDateTime: 2023-08-02T10:38:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/amd-ai-accelerator-chips-semiconductors-china"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_427135554_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AMD will have a tricky time getting into AI"
     excerpt: "Has to face competition and high expectations AMD’s plans to launch its first graphics chips targeted to the AI market will have a tough time meeting big expectations and because it showed up a little late to market."
     publishedDateTime: 2023-08-02T10:13:00Z

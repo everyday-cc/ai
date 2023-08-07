@@ -561,60 +561,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-03-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
-      "title": "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars",
-      "excerpt": "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
-      "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all",
-          "width": 858,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-samsung-hyundai-lead-100m-funding-into-ai-hardware-startup-tenstorrent.md",
       "title": "Samsung, Hyundai Lead $100M Funding Into AI Hardware Startup Tenstorrent",
       "excerpt": "By Liza Lin Canadian tech hardware startup Tenstorrent raised $100 million from investors including Hyundai Motor Group and Samsung Electronics to",
@@ -814,49 +760,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-03-amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious.md",
-      "title": "AMD Shares Fall as Analysts Worry AI Chip Targets May Be Ambitious",
-      "excerpt": "AMD's stock had risen 4% in extended trading on Tuesday after the company said customer interest was \"very high\" for its upcoming MI300 AI chip, which will ramp up in the fourth quarter. Low commission rates start at $0 for U.S. listed stocks & ETFs*.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-fmu-grant-to-transform-healthcare-with-the-use-of-ai.md",
       "title": "FMU grant to transform healthcare with the use of AI",
       "excerpt": "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI.",
@@ -908,7 +811,7 @@
       "originalUrl": "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1158,7 +1061,7 @@
       "originalUrl": "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1182,6 +1085,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-amds-new-ai-chip-could-send-its-stock-soaring-heres-why.md",
+      "title": "AMD's New AI Chip Could Send its Stock Soaring. Here's Why.",
+      "excerpt": "AMD's quarterly results were lackluster, as total revenue fell 18% year over year. Management noted that the company's new AI chip remains on track for delivery in the fall. AMD is planning to ramp its AI business on the back of colossal demand for AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
+      "originalUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1251,6 +1197,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.md",
+      "title": "Fox News Artificial Intelligence Newsletter: Restaurant robot backlash, AI regulation",
+      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.amp",
+      "publishedDateTime": "2023-08-02T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-07-03-nvidia-and-amd-weapons-of-ai-chip-war.md",
-      "title": "Nvidia and AMD: Weapons of AI Chip War",
-      "excerpt": "The 20th-century geopolitics were centered around oil; the 21st century’s geopolitical dominance is determined by technological supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-weapons-of-ai-chip-war-1032423409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/07/larx-kla-amat.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 995,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
       "title": "Build accelerated AI apps for NPUs with Olive",
       "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
@@ -1502,6 +1449,50 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-bank-of-america-sees-these-3-names-benefiting-from-the-ai-networking-chip-war.md",
+      "title": "Bank of America sees these 3 names benefiting from the A.I. networking chip war",
+      "excerpt": "but investors may also want to keep an eye on networking chip stocks Marvell and Broadcom , according to Bank of America. Networking semiconductors play a critical role in the graphics processing units underpinning many generative AI models, and these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

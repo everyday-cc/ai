@@ -73,20 +73,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "AI shows its value in mammography screening"
-    excerpt: "A study has shown that artificial intelligence can be safely used to support mammography to spot breast cancers and may spot more tumours than the current standard approach. The Swedish trial published in The Lancet Oncology found that one expert reader using ScreenPoint's Transpara AI to look at mammograms was at least as good,"
-    publishedDateTime: 2023-08-02T07:49:00Z
-    webUrl: "https://pharmaphorum.com/news/ai-shows-its-value-mammography-screening"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2023-08/KristinaLng1.jpg.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "3RVUPG1oMoN1DgTfh9vDv/l8QEso+UniTCMh/5vXkVMFAS2QOBNlBh0dvcfZbk6csbjOXhvOgwNka9IsdaQCjkwJ3o2O09fgO2J79ECU3C4v85oRln4W+WMbXJ5ToY6dk6G9q0FsWS1j2QAMzl+pO2R0Q8oaKXF0NmqeTBA5//NegEp5db9fGFwHefSLaX/jAzZZ/e1wceKU+H3vZ9NBqFYbWSSab/plaEznofBeFNBr1N0gyGyUtZnDsACnUZpGvSrmYIIiQvu5UwK+/M5T9w9zaND493DyhHNQlpEQ2lsRtxO0OQfZfJQqfqgFWfpVgFFdxt2DsJ4HVLE6/3wsLeJ3RSliZIWFGYAhyyeln1w=;UtsNUqzNwAgDpu3YpoD9Uw=="
 ---

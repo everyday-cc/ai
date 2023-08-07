@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/news/self-driving-taxi-service-coming-t
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/08/Waymo-austin.jpeg?quality=82&strip=all"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Detroit getting new self-driving shuttles for seniors & people with disabilities"
-    excerpt: "Beginning soon, seniors and those with disabilities will have a new way to get around Detroit. Detroit City Council recently approved funding for a new self-driving shuttle service."
-    publishedDateTime: 2023-08-02T08:48:00Z
-    webUrl: "https://www.wxyz.com/news/detroit-getting-new-self-driving-shuttles-for-seniors-people-with-disabilities"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 19
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3011fc2/2147483647/strip/true/crop/874x459+0+53/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F50%2F7c%2F9b7b210344f5a0c1e375b00833ca%2Fscreen-shot-2023-05-19-at-12-25-59-pm.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI Powered, Self-Driving Taxis Begin Service in the UAE"
     excerpt: "This is the driverless vehicle currently ferrying passengers around in two cities, part of an international autonomous tech company WeRide. They’ve been offering the rides for free, an attempt to"

@@ -106,58 +106,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-05-this-ai-stock-could-soar-big-time-this-month-and-it-is-a-screaming-buy-right-now.md",
-      "title": "This AI Stock Could Soar Big-Time This Month, and It Is a Screaming Buy Right Now",
-      "excerpt": "Marvell Technology's near-term results aren't going to be pretty, but it is witnessing solid growth in demand for its chips from AI applications. Marvell expects its AI-related sales to double over the next couple of fiscal years. The stock's valuation and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/742334/people-gathered-around-a-white-board-with-a-chart.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-hailo-unveils-new-edge-ai-accelerators-targeting-entry-level-and-high-capacity-applications.md",
       "title": "Hailo unveils new edge AI accelerators, targeting entry-level and high-capacity applications",
       "excerpt": "Tel Aviv-based Hailo today announced the expansion of its Hailo-8 product lineup with two new offerings: Hailo-8L and Hailo-8 Century.",
@@ -263,49 +211,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-03-amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious.md",
-      "title": "AMD Shares Fall as Analysts Worry AI Chip Targets May Be Ambitious",
-      "excerpt": "AMD's stock had risen 4% in extended trading on Tuesday after the company said customer interest was \"very high\" for its upcoming MI300 AI chip, which will ramp up in the fourth quarter. Low commission rates start at $0 for U.S. listed stocks & ETFs*.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-08-02-amd-keeps-the-ai-dream-alive-enough.md",
       "title": "AMD Keeps the AI Dream Alive Enough",
       "excerpt": "But rival AMD overtook Intel in market value last year, thanks in part to an expensive bet on chip design. WSJ’s Asa Fitch explains the companies’ battle for the brains of your computer.",
@@ -314,7 +219,7 @@
       "originalUrl": "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -338,6 +243,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-amds-new-ai-chip-could-send-its-stock-soaring-heres-why.md",
+      "title": "AMD's New AI Chip Could Send its Stock Soaring. Here's Why.",
+      "excerpt": "AMD's quarterly results were lackluster, as total revenue fell 18% year over year. Management noted that the company's new AI chip remains on track for delivery in the fall. AMD is planning to ramp its AI business on the back of colossal demand for AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
+      "originalUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1481,6 +1429,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead.md",
+      "title": "Samsung extends cut in memory chip production, will focus on high-end AI chips instead",
+      "excerpt": "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
+      "originalUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
+      "publishedDateTime": "2023-07-27T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

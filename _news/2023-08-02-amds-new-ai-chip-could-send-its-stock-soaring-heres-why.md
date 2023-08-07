@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-s
 webUrl: "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Motley Fool
@@ -23,35 +23,28 @@ topics:
   - AI
 
 related:
-  - title: "AMD Projects Strong Year-end Performance With AI Chip Launch"
-    excerpt: "The strong projection will be driven by the planned launch of artificial-intelligence chips that could compete with Nvidia semiconductors."
-    publishedDateTime: 2023-08-02T07:20:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/amd-projects-strong-year-end-performance-with-ai-chip-launch-articleshow.html"
+  - title: "AMD Shares Fall as Analysts Worry AI Chip Targets May Be Ambitious"
+    excerpt: "AMD's stock had risen 4% in extended trading on Tuesday after the company said customer interest was \"very high\" for its upcoming MI300 AI chip, which will ramp up in the fourth quarter. Low commission rates start at $0 for U.S. listed stocks & ETFs*."
+    publishedDateTime: 2023-08-02T19:24:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-02/amd-shares-fall-as-analysts-worry-ai-chip-targets-may-be-ambitious"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 74
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lbfgquscrtshxtew_1690959468.jpeg"
-        width: 768
-        height: 437
-        isCached: true
-  - title: "AMD bets on AI chips amid 94pc profit plunge"
-    excerpt: "AMD aims to ramp up production of its AI accelerator chips and plans to design specific semiconductors to bypass US export issues with China."
-    publishedDateTime: 2023-08-02T10:38:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/amd-ai-accelerator-chips-semiconductors-china"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
+  - title: "This AI Stock Could Soar Big-Time This Month, and It Is a Screaming Buy Right Now"
+    excerpt: "Marvell Technology's near-term results aren't going to be pretty, but it is witnessing solid growth in demand for its chips from AI applications. Marvell expects its AI-related sales to double over the next couple of fiscal years. The stock's valuation and ..."
+    publishedDateTime: 2023-08-04T21:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_427135554_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
+      - url: "https://g.foolcdn.com/editorial/images/742334/people-gathered-around-a-white-board-with-a-chart.jpg"
+        width: 2121
+        height: 1414
         isCached: true
 
 secured: "8xkvxV038OLUwXv9rMNB+2yuFCmwemZRYDSbNeFVkOBkWc1OlugIiDErCj+ydfYFPL2dxSW3ImhEeM5tFDxZR00O9/QARE/Bi27IDGX64nWny8kcc1rAXljDjoOZ10A95v0wq+a4HDfwBfPtprMhn0pJHi4hUZ/Y8xi/3RB0teoMUTRqU1I01p5pC0gRqvD7wH6jwdxZg7cSgaMBL9r2qTWFi7mCEjaMDp+ChRYKI8JpmdWoqhN3milcXPyUmss5K3Po8ilqWRGDGpjbYLAatHQUGuj3PihkSPQ7Vjs6RUnsachGtvz5TPPY86sBWhQt0VREnYH7ag3MZKG1KAQlVNDeduvaCbmNodhq0U514ELlwoUdfw45jnYANZJWnH4bPqp6K/uHv3iMH4UxjjELr8i8RGTcToGQV9eQ0RjW6tlXOMjBqKNnLhG1haMW3BEToElsCbgS2LQGXmMmvaqIlAfd5ObhnSQCOVOUHjZZxOYhLaVgEwD8OXjYnv0K6xm1z5bC+sZ8tjBlDQ5pBv1z1w==;4e/71n7lxshzT4FC5GTUfQ=="

@@ -2,40 +2,6 @@
   "page": 57,
   "value": [
     {
-      "path": "_news/2023-06-29-an-early-predictor-of-cognitive-decline-in-parkinsons-disease.md",
-      "title": "An early predictor of cognitive decline in Parkinson’s disease",
-      "excerpt": "EPFL neuroscientists say that early hallucinations disease indicate a greater risk of cognitive decline when there is a diagnosis of Parkinson's.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/993928",
-      "originalUrl": "https://www.eurekalert.org/news-releases/993928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-speech-recognition-south-africa.md",
       "title": "Speech Recognition - South Africa",
       "excerpt": "Value in the Speech Recognition market is projected to reach US$63.24m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 20.54%, resulting in a market volume of US$233 ...",
@@ -1146,6 +1112,57 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-28T09:35:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-energy-and-carbon-emission-tools-for-your-business-applications-with-ibm-turbonomic.md",
+      "title": "New energy and carbon emission tools for your business applications with IBM Turbonomic",
+      "excerpt": "IBM Turbonomic now offers new energy and carbon emission reports to help IT teams identify and reduce energy consumption.\nThe post New energy and carbon emission tools for your business applications with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/new-energy-and-carbon-emission-tools-for-your-business-applications-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/new-energy-and-carbon-emission-tools-for-your-business-applications-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Energy-Consumption.png",
+          "width": 1078,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T08:49:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

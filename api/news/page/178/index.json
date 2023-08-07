@@ -2,49 +2,6 @@
   "page": 178,
   "value": [
     {
-      "path": "_news/2023-04-15-2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb.md",
-      "title": "2023-2029 \"AI In Computer Vision Market\" Share, With 86+ Pages By IRB",
-      "excerpt": "AI In Computer Vision Market ” Report Insights with 86 + pages of analysis on business strategy taken up byÂemerging industry players, geographical scope, market segments, product landscape and cost structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-15-spacex-launches-startups-first-cell-tower-in-space.md",
       "title": "SpaceX Launches Startup's First 'Cell Tower in Space'",
       "excerpt": "With a SpaceX rocket launch late Friday, a Spanish company called Sateliot took its first step toward helping you get text messaging abilities in mountains, rural areas and other parts of the world where conventional mobile networks fail.",
@@ -1146,6 +1103,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-ceo-andy-jassys-5-boldest-remarks-on-layoffs-chips-and-ai.md",
+      "title": "Amazon CEO Andy Jassy's 5 boldest remarks on layoffs, chips And AI",
+      "excerpt": "From AWS facing \"short-term headwinds\" to customers looking at \"cost-optimizing\" versus cutting cloud costs, Amazon CEO Andy Jassy has some very bold statements regarding his vision for Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelweb.co.uk/news/4112176/amazon-ceo-andy-jassys-boldest-remarks-layoffs-chips-ai",
+      "originalUrl": "https://www.channelweb.co.uk/news/4112176/amazon-ceo-andy-jassys-boldest-remarks-layoffs-chips-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.chitra.live/api/v1/wps/e51f18a/4cd0c816-f7c1-4459-bff4-b86a6c5a0b90/6/Andy-Jassy-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "channelweb.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

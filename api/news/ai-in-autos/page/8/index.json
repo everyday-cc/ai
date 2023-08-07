@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-06-05-how-self-driving-cars-will-change-the-roads.md",
-      "title": "How Self-Driving Cars Will Change the Roads",
-      "excerpt": "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/self-driving-cars/",
-      "originalUrl": "https://www.rd.com/article/self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-03-tesla-boosts-referral-program-to-help-sales-1000-off-and-3-months-of-free-full-self-driving.md",
       "title": "Tesla boosts referral program to help sales, $1000 off and 3 months of free Full Self-Driving",
       "excerpt": "Tesla is boosting its referral program to help sales at the end of the quarter with $1,000 off and 3 months of free Full Self-Driving for Model S and Model X, and more credits for Model 3 and Model Y.",
@@ -1283,6 +1240,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-is-alphabet-a-buy.md",
+      "title": "Is Alphabet a Buy?",
+      "excerpt": "Alphabet 's (NASDAQ: GOOGL) (NASDAQ: GOOG) big reliance on digital advertising can be a boon in robust economic times, but a headwind in weaker ones. The company's revenue was up",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/17435804/is-alphabet-a-buy/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/17435804/is-alphabet-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

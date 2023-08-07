@@ -72,17 +72,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
-    publishedDateTime: 2023-08-02T08:57:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 42
   - title: "TCS rolls out neural manufacturing solutions on Microsoft Cloud"
     excerpt: "Tata Consultancy Services has launched a suite of TCS Neural Manufacturing solutions on Microsoft's Cloud for Manufacturing, designed to futureproof manufacturing operations, drive differentiation, and optimise value chains."
     publishedDateTime: 2023-08-03T19:12:00Z

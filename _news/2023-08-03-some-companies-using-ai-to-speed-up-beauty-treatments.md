@@ -38,15 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Creating better treatments with AI"
-    excerpt: "Causaly, an AI platform for drug discovery and biomedical research, recently raised $60 million. Another AI drug discovery specialist, Recursion, has seen its own valuation surge after a $50 million investment from Nvidia."
-    publishedDateTime: 2023-08-02T08:12:00Z
-    webUrl: "https://www.scientific-computing.com/article/creating-better-treatments-ai"
-    type: article
-    provider:
-      name: scientific-computing
-      domain: scientific-computing.com
-    quality: 19
 
 secured: "IPkEBL8YCAtW0rAVnhwB7Yb+N0iUJKuZcnazzfHjNA9koyV+lf8Jghp9CnDS9tPxwYCt+SjHCAw+TE/tBxT2aiCMdTlzgEYDtpxr4RiIsq2xqRuWwgLmgJUJs5GGV4i9wXwH/pE25igT1+1gdSAiWSYxMEEMEIG91YwmOLNTIeNDW+pRMD0ZrZ6SkwA3MQsrc6BnktG6sHepYbODdyCEf1XPBRT0ToluKzACa7aihD7sPZmtFa5pB8PgyWbPjn32kforywPjUnmN3tQHV2Sc3zOCPbfgIkrt/kWBjAY1NIJnp55rfsZZjwmz/tixN3j69dI5ocEyaH5q4I5oRVu98v3GSnWPfPWpfQ1jkDU6ScRVVn6iUSmLYj8VsxknZSPDIqXq7yFfMd8jlAZq0j63i52V5xKr2NMRSEhRDzS1txjmxaEOngeevLWzM24mlo//Bc9oMTnaxBxt2xlsgWrmQK7XZE9U5LQz5weo64VvZhk70BKBrjXQ3TbUHnEII6f3pyHhkvMlSB3pl005mkwZMQ==;MuzzandsL20bHaDKPZIkQA=="
 ---

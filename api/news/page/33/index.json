@@ -2,49 +2,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2023-07-14-artificial-intelligence-learning-check-how-ai-can-help-you-crack-govt-exams-2023.md",
-      "title": "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023",
-      "excerpt": "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "originalUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com//images/2022/May/2752022/Archana-Shandilya.jpeg",
-          "width": 630,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "publishedDateTime": "2023-07-13T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-natural-language-processing-gcc.md",
       "title": "Natural Language Processing - GCC",
       "excerpt": "Value in the Natural Language Processing market is projected to reach US$226.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.25%, resulting in a market volume ...",
@@ -1134,6 +1091,40 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-allen-institute-for-neural-dynamics-launches-first-ever-crowdsourced-neuroscience-experiment.md",
+      "title": "Allen Institute for Neural Dynamics launches first-ever crowdsourced neuroscience experiment",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
+      "originalUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
+      "publishedDateTime": "2023-07-13T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

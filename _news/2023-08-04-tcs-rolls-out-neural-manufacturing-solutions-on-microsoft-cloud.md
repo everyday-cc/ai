@@ -79,17 +79,6 @@ related:
         width: 1024
         height: 1536
         isCached: true
-  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory"
-    publishedDateTime: 2023-08-02T08:57:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services-oee96v7s?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 42
   - title: "Beware of overly permissive Azure AD cross-tenant synchronization policies"
     excerpt: "A new proof of concept shows that attackers can use Azure AD CTS to leap to Microsoft and non-Microsoft application across tenants."
     publishedDateTime: 2023-08-02T18:21:00Z

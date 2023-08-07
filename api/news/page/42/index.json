@@ -2,58 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2023-07-08-ai-humanoid-robots-hold-un-press-conference-say-they-could-be-more-efficient-and-effective-world-leaders.md",
-      "title": "AI humanoid robots hold UN press conference, say they could be more efficient and effective world leaders",
-      "excerpt": "A panel of robots told reporters in Switzerland Friday that they could be more efficient leaders than human beings, among other statements. The nine artificial intelligence-enabled humanoid social ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders",
-      "originalUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab421626-796a-4036-a71a-454279579e88/97ad3371-db6b-4b78-ba18-e473a9df7d37/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders.amp",
-      "publishedDateTime": "2023-07-08T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-08-ai-industrial-robotics-denmark.md",
       "title": "AI Industrial Robotics - Denmark",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ...",
@@ -1170,6 +1118,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-robots-at-an-ai-forum-say-they-wont-steal-jobs-rebel-against-humans.md",
+      "title": "Robots at an AI forum say they won't steal jobs, rebel against humans",
+      "excerpt": "The nine humanoid robots gathered at the 'AI for Good' conference in Geneva, where organisers are seeking to make the case for Artificial Intelligence and the robots it is powering to help resolve some of the world's biggest challenges such as disease and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
+      "originalUrl": "https://www.telegraphindia.com/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Jul/1688740466_reuters.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/robots-at-an-artificial-intelligence-forum-say-they-wont-steal-jobs-rebel-against-humans/cid/1950563",
+      "publishedDateTime": "2023-07-07T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

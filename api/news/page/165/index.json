@@ -2,40 +2,6 @@
   "page": 165,
   "value": [
     {
-      "path": "_news/2023-04-25-baidu-announces-15-billion-fund-for-self-driving-cars-to-rival-tesla.md",
-      "title": "Baidu announces $1.5 billion fund for self-driving cars to rival Tesla",
-      "excerpt": "Chine internet giant Baidu has announced a 10 billion RMB ($1.5 billion) Apollo Fund to invest in 100 autonomous driving projects in the next three years. It also announced the release of Apollo 1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://businesstech.co.za/news/motoring/200336/baidu-announces-1-5-billion-fund-for-self-driving-cars-to-rival-tesla/amp/",
-      "originalUrl": "https://businesstech.co.za/news/motoring/200336/baidu-announces-1-5-billion-fund-for-self-driving-cars-to-rival-tesla/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesstech.co.za",
-        "domain": "businesstech.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-25-how-travel-businesses-can-leverage-generative-ai-solutions.md",
       "title": "How travel businesses can leverage generative AI solutions",
       "excerpt": "Find out how generative AI tools can help travel businesses personalise the customer experience, transform venues, and more.",
@@ -1227,6 +1193,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-how-students-use-ai-to-design-solutions-for-their-community.md",
+      "title": "How Students Use AI to Design Solutions for Their Community",
+      "excerpt": "Youth voice is vital in the development and implementation of artificial intelligence (AI) tools. Youth today are significant users of technology and",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
+      "originalUrl": "https://www.edsurge.com/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/15302/16smallcropped-1682083494.jpg?auto=compress%2Cformat&w=640&h=259&fit=crop",
+          "width": 640,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-04-24-how-students-use-ai-to-design-solutions-for-their-community",
+      "publishedDateTime": "2023-04-24T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

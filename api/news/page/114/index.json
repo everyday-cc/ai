@@ -2,49 +2,6 @@
   "page": 114,
   "value": [
     {
-      "path": "_news/2023-05-24-white-house-unveils-new-efforts-to-guide-federal-research-of-ai.md",
-      "title": "White House unveils new efforts to guide federal research of AI",
-      "excerpt": "FILE – President Joe Biden speaks in the East Room of the White House, May 17, 2023, in Washington. The White House has announced new efforts to guide federally backed research on artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
-      "originalUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/05/646d4436e3d464.95529234.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
-      "publishedDateTime": "2023-05-23T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-24-meta-unveils-open-source-speech-ai-recognition-of-over-4000-spoken-languages.md",
       "title": "Meta Unveils Open-Source Speech AI: Recognition of Over 4,000 Spoken Languages",
       "excerpt": "In the domain of Artificial Intelligence (AI) innovation, a notable development has emerged. Meta, formerly known as Facebook, recently introduced an open-source speech recognition AI. This AI tool is remarkable as it significantly advances global communication by its ability to recognize over 4,",
@@ -1193,6 +1150,58 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-azure-cosmos-db-joins-the-ai-toolchain.md",
+      "title": "Azure Cosmos DB joins the AI toolchain",
+      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
+      "originalUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "publishedDateTime": "2023-05-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

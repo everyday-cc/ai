@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-br
 cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/08/02/ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says/?outputType=amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://medicaldialogues.in/h-upload/2020/06/30/131048-digital-mammography.jpg"
         width: 1500
         height: 900
-        isCached: true
-  - title: "AI shows its value in mammography screening"
-    excerpt: "A study has shown that artificial intelligence can be safely used to support mammography to spot breast cancers and may spot more tumours than the current standard approach. The Swedish trial published in The Lancet Oncology found that one expert reader using ScreenPoint's Transpara AI to look at mammograms was at least as good,"
-    publishedDateTime: 2023-08-02T07:49:00Z
-    webUrl: "https://pharmaphorum.com/news/ai-shows-its-value-mammography-screening"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2023-08/KristinaLng1.jpg.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "AI can detect breast cancer as well as radiologists, study finds"
     excerpt: "Artificial intelligence can detect breast ... need to be trained and tested more before they could be deployed in health-care settings. Still, the findings are “breathtaking,” wrote Nereo ..."

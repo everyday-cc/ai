@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/08/a-computer-vision-base.jpg"
         width: 800
         height: 463
-        isCached: true
-  - title: "AI-powered computer vision accelerates innovation"
-    excerpt: "Advances in computer vision and machine learning are helping companies get medical devices and drugs to market in a more reliable and safe way, and sometimes at a reduced cost. Pharmaceutical ..."
-    publishedDateTime: 2023-08-02T08:33:00Z
-    webUrl: "https://pharmaphorum.com/digital/ai-powered-computer-vision-accelerates-innovation"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 54
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2023-07/AI-powered-computer-vision.jpg"
-        width: 1600
-        height: 899
         isCached: true
   - title: "Percept Insight launches its next generation AI-powered analytics platform on Microsoft Azure Marketplace"
     excerpt: "Percept Insight, a leading provider of AI-powered conversational analytics solutions, today announced the launch of its next-generation AI-powered analytics platform on the renowned Microsoft Azure Marketplace in collaboration with G7 CR Technologies,"
