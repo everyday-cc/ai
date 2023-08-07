@@ -70,22 +70,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "Fitch downgrades U.S. credit rating, AMD's AI chip plans - what's moving markets"
-    excerpt: "U.S. stock futures fall after Fitch lowers its U.S. credit rating, flagging worries over Washington's ability to resolve pressing fiscal issues in the wake of a t"
-    publishedDateTime: 2023-08-02T09:55:00Z
-    webUrl: "https://www.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359"
-    ampWebUrl: "https://m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 69
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB2G0QI_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Uber is working on its own AI chatbot, reveals CEO"
     excerpt: "Uber CEO Dara Khosrowshahi told Bloomberg this week that the company is working on its own AI chatbot, with no specific details disclosed. Also: Samsung, Hyundai back AI startup Tenstorrent: Everyone wants competition to Nvidia, says CEO Keller"
     publishedDateTime: 2023-08-03T18:29:00Z

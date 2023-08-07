@@ -56,20 +56,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Google Scientist Uses ChatGPT 4 to Trick AI Guardian"
-    excerpt: "A DeepMind scientist has demonstrated how ChatGPT 4 can be used to bypass LLM security procedures, demonstrating the same with AI-Guardian."
-    publishedDateTime: 2023-08-02T10:08:00Z
-    webUrl: "https://techreport.com/news/google-scientist-uses-chatgpt-4-to-trick-ai-guardian/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2251011855.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Minnesota colleges grappling with ethics and potential benefits of ChatGPT"
     excerpt: "As the fall semester approaches, academics are weighing the pros and cons of the artificial intelligence tool in the classroom."
     publishedDateTime: 2023-08-06T22:18:00Z

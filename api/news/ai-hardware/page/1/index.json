@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-06-my-top-ai-stock-to-buy-right-now.md",
+      "title": "My Top AI Stock to Buy Right Now",
+      "excerpt": "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-2-semiconductor-stocks-set-for-next-level-growth-thanks-to-ai.md",
       "title": "2 Semiconductor Stocks Set for Next-Level Growth Thanks to AI",
       "excerpt": "Nvidia will benefit from AI, to be sure, but that's no secret to stock market investors. Advanced AI chips wouldn't be possible without ASML's lithography machines. Artificial intelligence (AI) has been powering strong gains for the stock market this ...",
@@ -219,7 +271,7 @@
       "originalUrl": "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -271,7 +323,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1429,58 +1481,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead.md",
-      "title": "Samsung extends cut in memory chip production, will focus on high-end AI chips instead",
-      "excerpt": "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
-      "originalUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
-      "publishedDateTime": "2023-07-27T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

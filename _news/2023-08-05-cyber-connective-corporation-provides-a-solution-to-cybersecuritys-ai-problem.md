@@ -18,33 +18,52 @@ topics:
   - AI
 
 related:
-  - title: "A Practical Guide To AI In Cyber-Physical Environments"
-    excerpt: "With the mainstream adoption of AI, comes the need for more regulation and the need to optimize cyber-physical environments."
-    publishedDateTime: 2023-08-02T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/02/a-practical-guide-to-ai-in-cyber-physical-environments/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/02/a-practical-guide-to-ai-in-cyber-physical-environments/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/02/a-practical-guide-to-ai-in-cyber-physical-environments/amp/"
+  - title: "This Cybersecurity Startup Uses AI To Counter Emerging Threats"
+    excerpt: "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology."
+    publishedDateTime: 2023-08-04T00:42:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef097576a7deb00066b416f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 549
         isCached: true
-  - title: "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why"
-    excerpt: "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\""
-    publishedDateTime: 2023-08-04T17:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
+  - title: "Jericho Security uses AI to fight AI in new frontier of cybersecurity"
+    excerpt: "Jericho Security announced it has raised $3 million in pre-seed funding to build solutions using machine learning capabilities to \"fight AI with AI.\""
+    publishedDateTime: 2023-08-03T16:00:00Z
+    webUrl: "https://venturebeat.com/security/jericho-security-uses-ai-to-fight-ai-in-new-frontier-of-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_Good_hacker_versus_a_bad_hacker_shown_in_the_style_o_254df582-0504-4e2e-8feb-d3806c5f8d82.png?w=1200&strip=all"
+        width: 1200
+        height: 960
+        isCached: true
+  - title: "Technologists Are The New Superheroes On Corporate Boards In The Age Of AI, Blockchain And CyberSecurity"
+    excerpt: "As tech-driven disruptions and cyber threats reshape industries at an unprecedented pace, the need for technical expertise on corporate boards has never been more"
+    publishedDateTime: 2023-08-04T19:29:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/04/technologists-are-the-new-superheroes-on-corporate-boards-in-the-age-of-ai-blockchain-and-cybersecurity/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 70
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd4a39912a743867716411/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fed report highlights emerging cyber threats, including generative AI"
     excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
     publishedDateTime: 2023-08-04T17:15:00Z

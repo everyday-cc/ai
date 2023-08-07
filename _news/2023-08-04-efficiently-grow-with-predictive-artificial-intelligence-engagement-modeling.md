@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Learn how to use AI in your projects with Generative AI Studio"
-    excerpt: "Watch the introductory video below to learn more about what you can expect from Google’s Generative AI Studio and see the language tool in action. Let’s start with the basics: what is Generative AI? It is a type of artificial intelligence that can ..."
-    publishedDateTime: 2023-08-02T09:43:00Z
-    webUrl: "https://www.geeky-gadgets.com/generative-ai-studio/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-use-Generative-AI.jpg"
-        width: 700
-        height: 459
-        isCached: true
   - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
     excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."
     publishedDateTime: 2023-08-03T19:56:00Z

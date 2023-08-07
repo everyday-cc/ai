@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "A Bull Market Is Coming: 1 Magnificent Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist and Hold Forever"
-    excerpt: "The company was among the first the recognize the potential implications of generative AI, making a $13 billion investment in OpenAI soon after the start-up released ChatGPT. Since then, Microsoft has infused AI into a broad cross-section of its products ..."
-    publishedDateTime: 2023-08-05T11:46:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/05/a-bull-market-is-coming-1-artificial-intelligence/"
+  - title: "My Top AI Stock to Buy Right Now"
+    excerpt: "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ..."
+    publishedDateTime: 2023-08-06T11:16:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 58
+    quality: 69
     images:
-      - url: "https://g.foolcdn.com/editorial/images/742510/a-person-studying-stock-charts-and-graphs-on-multiple-computer-monitors.jpg"
-        width: 2119
-        height: 1415
+      - url: "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "This AI Stock Could Soar Big-Time This Month, and It Is a Screaming Buy Right Now"
+    excerpt: "Marvell Technology's near-term results aren't going to be pretty, but it is witnessing solid growth in demand for its chips from AI applications. Marvell expects its AI-related sales to double over the next couple of fiscal years. The stock's valuation and ..."
+    publishedDateTime: 2023-08-04T21:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/742334/people-gathered-around-a-white-board-with-a-chart.jpg"
+        width: 2121
+        height: 1414
         isCached: true
   - title: "1 Hot AI Stock to Buy Hand Over Fist Before It Joins the $1 Trillion Club"
     excerpt: "For instance, content recommended by AI on Facebook feeds has led to a 7% jump in the time ... according to Grand View Research. So the stage seems set for Meta to sustain a healthy pace of long-term growth, which should get it back into the $1 trillion ..."

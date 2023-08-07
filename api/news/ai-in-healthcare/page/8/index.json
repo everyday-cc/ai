@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
+      "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
+      "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
+      "originalUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/05/932/470/breast-xray-GettyImages-1238822565.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
+      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
+      "publishedDateTime": "2023-05-05T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-idvv-announces-artificial-intelligence-ai-client-in-medical-sector.md",
+      "title": "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / May 5, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced that its AI division WITech has",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-healthcare-natural-language-processing-market-2023-insight-and-global-trends.md",
       "title": "Healthcare Natural Language Processing Market 2023 Insight and Global Trends",
       "excerpt": "The Healthcare Natural Language Processing Market Scope and Overview Report for 2023 presents a detailed analysis of",
@@ -1339,111 +1425,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm.md",
-      "title": "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM",
-      "excerpt": "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-as-suicide-rates-spike-new-ai-platform-could-fill-the-gap-in-mental-health-care-say-boston-researchers.md",
-      "title": "As suicide rates spike, new AI platform could ‘fill the gap’ in mental health care, say Boston researchers",
-      "excerpt": "As the need for mental health care escalates amid provider shortages, medical technology companies like OM1 have turned to AI to help improve patient care. But some experts have worries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
-      "originalUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f44ceb74-a323-483a-8fa8-420fc7256f1f/1d1fe446-186d-4f3d-aefd-5fd6380944db/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
-      "publishedDateTime": "2023-04-24T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

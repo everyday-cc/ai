@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-22-face-recognition-the-key-to-safe-future.md",
+      "title": "Face Recognition – The Key to Safe Future",
+      "excerpt": "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-parental-disclosure-requirements-for-sex-ed-gender-identity-clear-ohio-house.md",
       "title": "Parental disclosure requirements for sex ed, gender identity clear Ohio House",
       "excerpt": "A bill requiring Ohio's public schools to notify parents of changes in their children's gender identity, as well as almost all sexuality-related lessons, has cleared the state House.",
@@ -1343,49 +1395,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-nigerian-fg-to-install-facial-recognition-technology-at-airports.md",
-      "title": "Nigerian FG to install facial recognition technology at airports",
-      "excerpt": "The initial project phase includes Lagos and Abuja international airports, but will be extended to other airports, including Port Harcourt, Enugu and Kano.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda",
-      "originalUrl": "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/06/Louw-Cilliers-06June2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda",
-      "publishedDateTime": "2023-06-06T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null

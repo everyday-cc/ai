@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-colle
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/d/e1/de164193-1cd4-5cfd-a4f7-adf60b113404/64cbc928c291d.image.jpg?crop=1260%2C662%2C0%2C89&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rakuten, OpenAI Partner to Create Conversational AI Experiences for Customers & Companies"
+    excerpt: "Additionally, the Rakuten Group will bring Rakuten AI experiences into ChatGPT products by leveraging the OpenAI plugin architecture, enabling businesses to use natural language for interacting with AI agents that conduct research, analyze data, optimize inventory, pricing, automate business processes and more."
+    publishedDateTime: 2023-08-07T02:05:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32938-rakuten-openai-partner-to-create-conversational-ai-experiences-for-customers-companies"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 30
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3e2e125cd1432536421d9fb1f67f3c8f.jpg?t=20230807_013039"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "tAH1jSPgAsadjkpVecaf3NjC6wuYaTvnY7Ch2DSVcay+UWmhwoMY0EIibhuqOoxSx8bW4ApfPSPd9xjIyXqsC64uG3FDW4ow/Y006SYntttSUwOrZ50ghUmYTw89bVaWoSVzrelez53BxgOACFbdOKMKLEXOKCJOGbrUPsHfGSC9jafepLZjOHovWWGN+hlLP2B1oG4l5nk8iGJijEcQ/t6JkbQDtGHQwSI7n4kJSRrO8z89LfdPZ8wnZ3HKewNB3FUqlNfRSz87mFS50izgkNFVSPoZuXLYO6zzIcdKIzz/3xj1thcfKsFTwIhV+xDr4HfyOJuX6kOioZBQWah4vFiRiuqMySUaHw2b37Ki8sklO3LbBm8ljcJwoYffXm7ypMzmzQmoUYlOeiUiVbxicLmbreN456nsZDeZifYgFDxvfVcFtBWeTu/kV8gIb7KGF5xPNNzdUUuN/JfZwT9gCHSEnTQz/4EQasnrIQRWUMhZRnKXWpfka1QfxoUzmXt+taItLtNCb7qQYDXmFA/aig==;Rpu04orhiSD1qZuU8x3+dA=="

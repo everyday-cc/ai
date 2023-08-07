@@ -363,7 +363,7 @@
       "originalUrl": "https://www.zdnet.com/article/level-up-your-ai-skills-with-this-chatgpt-and-python-coding-bundle-for-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -558,6 +558,59 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars.md",
+      "title": "How MIT’s Liquid Neural Networks can solve AI problems from robotics to self-driving cars",
+      "excerpt": "Liquid neural networks can spur new innovations in AI and are particularly exciting in areas where traditional deep learning models struggle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/ai/how-mits-liquid-neural-networks-can-solve-ai-problems-from-robotics-to-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all",
+          "width": 858,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1010,7 +1063,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1061,7 +1114,7 @@
       "originalUrl": "https://www.wsj.com/articles/amd-keeps-the-ai-dream-alive-enough-36f95a84",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1113,7 +1166,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1197,58 +1250,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.md",
-      "title": "Fox News Artificial Intelligence Newsletter: Restaurant robot backlash, AI regulation",
-      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-restaurant-robot-backlash-ai-regulation.amp",
-      "publishedDateTime": "2023-08-02T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

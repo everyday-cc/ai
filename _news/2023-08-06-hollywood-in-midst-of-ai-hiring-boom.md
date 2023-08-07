@@ -55,20 +55,6 @@ related:
         width: 542
         height: 384
         isCached: true
-  - title: "As actors and writers push back on automation, Hollywood is in the midst of an AI hiring boom"
-    excerpt: "Sony is pursuing hires related to AI ethics. And Amazon Prime Video and CBS both are looking to fill AI-related roles of their own, as the Hollywood Reporter recently reported. With the technology ..."
-    publishedDateTime: 2023-08-02T10:00:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/business/story/2023-08-02/actors-strike-writers-strike-ai-hires-automation-hollywood"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 28
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6fd61df/2147483647/strip/true/crop/4896x2570+0+382/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F3b%2F25b389c84ec28faac599a561ad28%2F1323292-me-0718-sag-aftra-strike-wjs-005.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WJ+2gJEeI/8XILN8y9FkZIbqo0IqeI1KoDnCjHHEe+pRA/CIw14i1OF00S9m35uYg10F83zfIefHWFke2JofUuyEPOgyg3/Mo12znz/7bnjDwVqUQHputEWLy+ej0ysPZ5Riun1gUBMp13B7HETQ8XFugdb05iBTA8hKf7NH4voS+tTR0gWpYbK1qqAPYZbLUi6hzg4l5R1VFJWbTK7I8RjpaYAbSR4OiJsLcFG5gytcWRMvnyRfvPrJJrm80Lo5rj3am/++KBw9ZHr2EBArNbXtgVTftlpL7GOoGa4rlaM8XjI9iYlBE2gy8VKhqZhmaeN050YD40DgPabirdlgXizSkMMcxwHB/GW9s1jdY26hGGlyudStnUB/XRmJeO+3dzUx0CgwLv5I6f7MbzBMA4Z0chqBTQrE0ffqouy4UlvBlnVm8pqsQZN3m7srlZbRk6BRSe8IhqYliMluEjQXz3l4VA/EwZsr1WxxyHZNVFZVC474avoQjCA5v9dFHNewxMDCgr+8MIKg1Z0YOVPAEQ==;Rgd0UvDNCfg1XmkQnE2YGA=="
 ---

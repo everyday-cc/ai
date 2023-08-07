@@ -60,6 +60,29 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "Fed report highlights emerging cyber threats, including generative AI"
+    excerpt: "The Federal Reserve listed the proliferation of generative artificial intelligence tools among areas of emerging cybersecurity threats for banks to monitor as part of its annual resilience report."
+    publishedDateTime: 2023-08-04T17:15:00Z
+    webUrl: "https://www.complianceweek.com/risk-management/fed-report-highlights-emerging-cyber-threats-including-generative-ai/33392.article"
+    type: article
+    provider:
+      name: Compliance Week
+      domain: complianceweek.com
+    quality: 39
+    images:
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/5/9/8/17598_federalreserve_861377.jpg"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "Cyber Connective Corporation provides a solution to cybersecurity's AI problem"
+    excerpt: "Tech companies need to recognize how crucial incorporating AI is for strengthening their overall performance and security."
+    publishedDateTime: 2023-08-04T18:45:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/08/04/cyber-connective-corporation-provides-a-solution-to-ai-problem/70531183007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
 secured: "rCAVdnnw5lvhuB/f/gJojLI6wfDw9qoc1Ye0+y5ELFyB+Zs+RKEgmioAXVo+eK1aRpeszQtXDT1z3lRtnlxv6xrwR9dRw1SpCHknaZMAGmwD9+WWtvxgUXiA8ShvaYgneLxP3RMbXfUMhEjpkK+sZZO65H99Rdu64tVdWsFr3Bn27MmT3M0e7jF/5vScsD2ku1p4ALTXlVxoehkadMJkSyqygHQ/jdiGNDkMHJ9rnPxnp6n3dr6flN7SyoItXNua51w2Gd7FmZY9+GQyi/z2JiQeUlztmfaJhZtfCJageYjL1nUxU+g5at0wOGwKom6/aiKehnQF8FKvDwtNEy/dB9QX+bwr5BTPqj9/yV7qNpE=;wH8qup0M8weq/1SJ4rh1lQ=="
 ---

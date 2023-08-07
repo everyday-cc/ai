@@ -2,6 +2,91 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-07-18-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
+      "title": "IBM has been talking up AI, but here's what investors should really focus on in earnings",
+      "excerpt": "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-why-overinvesting-in-generative-ai-could-be-a-trap.md",
+      "title": "Why Overinvesting In Generative AI Could Be A Trap",
+      "excerpt": "Generative AI is the hottest property in corporate innovation ... relatively cheap experiments to test your hypotheses before not after you commit resources. The typical startup is forced to de-risk a business model because it starts with relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/",
+      "originalUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b5a8b0d0939b4ab7248079/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/",
+      "publishedDateTime": "2023-07-17T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-miko-the-ai-robot-teaches-kids-through-conversation-very-personalized-experience.md",
       "title": "Miko, the AI robot, teaches kids through conversation: 'Very personalized experience'",
       "excerpt": "Miko is an artificial intelligence-powered robot that was designed specifically ... the parent can give it some context so that Miko would start engaging in more conversations around those topics ...",
@@ -1051,109 +1136,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ai-and-government-transforming-public-services-for-the-digital-age.md",
-      "title": "AI And Government: Transforming Public Services For The Digital Age",
-      "excerpt": "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "publishedDateTime": "2023-07-17T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai.md",
-      "title": "How New Rules And Regulations Can Help Create An Ethical Corporate Workspace With The Growth Of AI",
-      "excerpt": "As the growth of AI continues, it is important to ensure that companies prioritize ethical considerations and that technology is utilized diligently and transparently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "publishedDateTime": "2023-07-17T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

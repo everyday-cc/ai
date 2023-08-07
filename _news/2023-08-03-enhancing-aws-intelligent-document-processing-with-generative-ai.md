@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intell
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Why-Schools-Should-Not-Ban-Generative-AI.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Learn how to use AI in your projects with Generative AI Studio"
-    excerpt: "Watch the introductory video below to learn more about what you can expect from Google’s Generative AI Studio and see the language tool in action. Let’s start with the basics: what is Generative AI? It is a type of artificial intelligence that can ..."
-    publishedDateTime: 2023-08-02T09:43:00Z
-    webUrl: "https://www.geeky-gadgets.com/generative-ai-studio/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/08/Learn-how-to-use-Generative-AI.jpg"
-        width: 700
-        height: 459
         isCached: true
   - title: "Efficiently grow with predictive artificial intelligence engagement modeling"
     excerpt: "In an industry first, Alkami is now leveraging artificial intelligence (AI) predictive modeling to help financial institutions identify highly engaged"

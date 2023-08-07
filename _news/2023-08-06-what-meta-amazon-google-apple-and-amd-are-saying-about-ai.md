@@ -39,34 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AMD bets on AI chips amid 94pc profit plunge"
-    excerpt: "AMD aims to ramp up production of its AI accelerator chips and plans to design specific semiconductors to bypass US export issues with China."
-    publishedDateTime: 2023-08-02T10:38:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/amd-ai-accelerator-chips-semiconductors-china"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/AdobeStock_427135554_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AMD will have a tricky time getting into AI"
-    excerpt: "Has to face competition and high expectations AMD’s plans to launch its first graphics chips targeted to the AI market will have a tough time meeting big expectations and because it showed up a little late to market."
-    publishedDateTime: 2023-08-02T10:13:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57350-amd-will-have-a-tricky-time-getting-into-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/4dfca5806c5b684219f3ad74480b8745_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "6EplFrE5uJ0BoUJHxlvAPqDprm3Ysr0TQY88ksh7yHiYbiLObm9dQGlzPafrCrh/Ug3/s5toT4bTC+CQNjd8BAMgBA4xZAo5kb33V5/FF+CVZOpk/y8u0nQ3xhwmIXGt/H9YgLlsC8k5+AajkuL+outpTq67HqTYvVnYjsCV8GgKiNgBfJMU8T3OIaerv2z/75t9RDIJUjNAoCvDTgz0PNGO8UV8YjZBR8it9tvGXwdMTUzJRGd0LWy4WG0+/pZ198cxkcUDTBETmWyh7aKGieEvilwK+zoxg0nFjB1KuD+IlZNPrY8ArOrngDGhvmyZR/v8QJP8HCfW7Pbl0lpwDdECcQi6Vh7P6oil05JUT8s=;VHutLAaalTqWjkl04Bg/NQ=="
 ---

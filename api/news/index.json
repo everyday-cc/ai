@@ -97,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2023-08-06-generative-ai-a-new-gold-rush-for-software-engineering-innovation.md",
-      "title": "Generative AI: A new Gold Rush for software engineering innovation",
-      "excerpt": "Generative AI for the enterprise is a phenomenal opportunity for visionary founders to build the FAANG companies of tomorrow.",
+      "path": "_news/2023-08-06-my-top-ai-stock-to-buy-right-now.md",
+      "title": "My Top AI Stock to Buy Right Now",
+      "excerpt": "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/",
+      "webUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_gold_coming_out_of_a_computer._Colorful_futuristic_tech_307cbdc3-afba-4658-a4cc-48761ed98c3b.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg",
+          "width": 2121,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,14 +121,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T08:20:00-07:00",
+      "publishedDateTime": "2023-08-06T04:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -144,6 +144,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -334,57 +335,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-a-bull-market-is-coming-1-magnificent-artificial-intelligence-ai-growth-stock-to-buy-hand-over-fist-and-hold-forever.md",
-      "title": "A Bull Market Is Coming: 1 Magnificent Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist and Hold Forever",
-      "excerpt": "The company was among the first the recognize the potential implications of generative AI, making a $13 billion investment in OpenAI soon after the start-up released ChatGPT. Since then, Microsoft has infused AI into a broad cross-section of its products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/05/a-bull-market-is-coming-1-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/05/a-bull-market-is-coming-1-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/742510/a-person-studying-stock-charts-and-graphs-on-multiple-computer-monitors.jpg",
-          "width": 2119,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-05T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -639,7 +589,7 @@
       "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -833,6 +783,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why.md",
+      "title": "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why",
+      "excerpt": "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
+      "publishedDateTime": "2023-08-04T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     },
     {

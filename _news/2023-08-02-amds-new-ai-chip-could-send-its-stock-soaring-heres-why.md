@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-s
 webUrl: "https://www.fool.com/investing/2023/08/02/amds-new-ai-chip-stock-soaring/?n=@"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -32,20 +32,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "This AI Stock Could Soar Big-Time This Month, and It Is a Screaming Buy Right Now"
-    excerpt: "Marvell Technology's near-term results aren't going to be pretty, but it is witnessing solid growth in demand for its chips from AI applications. Marvell expects its AI-related sales to double over the next couple of fiscal years. The stock's valuation and ..."
-    publishedDateTime: 2023-08-04T21:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/04/this-ai-stock-could-soar-big-time-this-month-and-i/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/742334/people-gathered-around-a-white-board-with-a-chart.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
 
 secured: "8xkvxV038OLUwXv9rMNB+2yuFCmwemZRYDSbNeFVkOBkWc1OlugIiDErCj+ydfYFPL2dxSW3ImhEeM5tFDxZR00O9/QARE/Bi27IDGX64nWny8kcc1rAXljDjoOZ10A95v0wq+a4HDfwBfPtprMhn0pJHi4hUZ/Y8xi/3RB0teoMUTRqU1I01p5pC0gRqvD7wH6jwdxZg7cSgaMBL9r2qTWFi7mCEjaMDp+ChRYKI8JpmdWoqhN3milcXPyUmss5K3Po8ilqWRGDGpjbYLAatHQUGuj3PihkSPQ7Vjs6RUnsachGtvz5TPPY86sBWhQt0VREnYH7ag3MZKG1KAQlVNDeduvaCbmNodhq0U514ELlwoUdfw45jnYANZJWnH4bPqp6K/uHv3iMH4UxjjELr8i8RGTcToGQV9eQ0RjW6tlXOMjBqKNnLhG1haMW3BEToElsCbgS2LQGXmMmvaqIlAfd5ObhnSQCOVOUHjZZxOYhLaVgEwD8OXjYnv0K6xm1z5bC+sZ8tjBlDQ5pBv1z1w==;4e/71n7lxshzT4FC5GTUfQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-softw
 webUrl: "https://venturebeat.com/ai/generative-ai-a-new-gold-rush-for-software-engineering-innovation/"
 type: article
 quality: 67
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,31 +28,17 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: Cognizant to invest $1 billion over next three years"
-    excerpt: "Cognizant to invest $1B in generative AI over 3 yrs. Expanded partnership with Google to build healthcare language model. Expanded alliance with Microsoft to deliver industry solutions. Signed multi-yr agreement with Nuance to scale Dragon ambient experience."
-    publishedDateTime: 2023-08-03T04:32:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/generative-ai-cognizant-to-invest-1-billion-over-next-three-years/article67152783.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/generative-ai-cognizant-to-invest-1-billion-over-next-three-years/article67152783.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/generative-ai-cognizant-to-invest-1-billion-over-next-three-years/article67152783.ece/amp/"
+  - title: "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why"
+    excerpt: "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\""
+    publishedDateTime: 2023-08-04T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-  - title: "Digitate’s New Generative AI Capability Unlocks Innovation and Delivers Greater Agility Across Enterprises"
-    excerpt: "Digitate, a leading provider of SaaS-based enterprise software for IT and business operations, today strengthened its"
-    publishedDateTime: 2023-08-02T20:17:00Z
-    webUrl: "https://www.datanami.com/this-just-in/digitates-new-generative-ai-capability-unlocks-innovation-and-delivers-greater-agility-across-enterprises/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 86
 
 secured: "3XDmqJKsIphVEBnXt9r3S79IecITgStixUYjtSnAdeoXICkKGFU2U/N36SXL4T+i4YeyRhdYe2qpCdLES9h/SF9dXdRBk/8fk7r1/bnaA3QMzRsxGlv6CZps+i3QYgYhw3QhGjB2PnQcAxuEj8n+zV3uUir4WpRs+EFm64Z3+YiPa2ahGPL5q0EsGpVFYKcdHTIxN0q8JRFSKIT34Jmp5Vg5SsVVz1NM/zA0Zq1nZ7eTZzXJQZjgBVFsmPAWADz19C2cteOrVcpBAtP5DDEY7nMVMjy4KWoFeb2IAPUAJ/ATCh8LNKnL5TqBBcxOgwz0ex5gkzyZtJ1tn7OSTjsF4KNHx0aUPR4NuXVTKEd73GI5CeqssEe3WghDNq1LiZLaAmlEUVfbSb/jab7hsbdQLoUaC8q+YXe0Z6sX4XUGdZh66jBbAOII4K1gTBRhRIJ+6eK/9J11q8W9qRV68FajKppswmSbJJdvkyQuVGcbTu/jN1i4OhfNLWRlP0Jw6h3RtSP+QReB8TO7x8I/A6JxJA==;YQBYPnLAtAV5gkU+TDj1xw=="
 ---

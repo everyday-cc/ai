@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-31-googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans.md",
+      "title": "Google's RT-2 AI Model: A Step Closer To Robots That Can Learn Like Humans",
+      "excerpt": "The advent of models such as the RT-2 is a testament to how advancements in AI are swiftly influencing robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7609beb8e510cf216a828/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/googles-rt-2-ai-model-a-step-closer-to-robots-that-can-learn-like-humans/amp/",
+      "publishedDateTime": "2023-07-31T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country.md",
+      "title": "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country",
+      "excerpt": "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
+      "originalUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
+      "publishedDateTime": "2023-07-31T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-banking-on-mainframe-led-digital-transformation-for-financial-services.md",
       "title": "Banking on mainframe-led digital transformation for financial services",
       "excerpt": "Explore why the world’s biggest modernization challenges are concentrated in the banking industry.          \nThe post Banking on mainframe-led digital transformation for financial services appeared first on IBM Blog.\n",
@@ -1124,109 +1220,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-executives-need-to-be-careful-before-diving-into-the-world-of-ai.md",
-      "title": "Executives Need To Be Careful Before Diving Into The World Of AI",
-      "excerpt": "With AI continuing to make headlines, organizations feel under pressure to adopt the new technology. But many questions remain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c54268c990bbf4f1ade19b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
-      "publishedDateTime": "2023-07-29T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-warning-programming-and-learning-can-be-complementary.md",
-      "title": "Warning! Programming And Learning Can Be Complementary!",
-      "excerpt": "Starting with ‘why we like programming,’ Solar-Lezama pointed out the value of generalization, modularity and encapsulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53d940536c203b1ade19b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
-      "publishedDateTime": "2023-07-29T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

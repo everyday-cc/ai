@@ -37,20 +37,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real"
-    excerpt: "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research."
-    publishedDateTime: 2023-08-02T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 81
-    images:
-      - url: "https://images.wsj.net/im-827019/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI in Health Care: 8 Best Stocks to Buy"
     excerpt: "The rise of artificial intelligence technology has created opportunities to optimize the way heath care professionals operate. AI can potentially be used to prevent"
     publishedDateTime: 2023-08-02T15:23:00Z

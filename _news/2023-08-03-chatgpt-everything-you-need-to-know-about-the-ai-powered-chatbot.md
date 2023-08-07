@@ -59,22 +59,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "Fitch downgrades U.S. credit rating, AMD's AI chip plans - what's moving markets"
-    excerpt: "U.S. stock futures fall after Fitch lowers its U.S. credit rating, flagging worries over Washington's ability to resolve pressing fiscal issues in the wake of a t"
-    publishedDateTime: 2023-08-02T09:55:00Z
-    webUrl: "https://www.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359"
-    ampWebUrl: "https://m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/fitch-downgrades-us-credit-rating-amds-ai-chip-plans--whats-moving-markets-3141359?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 69
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB2G0QI_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?"
     excerpt: "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,"
     publishedDateTime: 2023-08-06T06:45:00Z

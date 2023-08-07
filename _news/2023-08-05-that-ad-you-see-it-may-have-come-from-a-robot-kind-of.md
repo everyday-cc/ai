@@ -1,10 +1,10 @@
 ---
 category: news
 title: "That ad you see? It may have come from a robot, kind of."
-excerpt: "Ever wonder where a business logo, catchphrase or ad copy comes from?  These days, it may start with a web-based artificial intelligence machine like ChatGPT or DALLE E.  Ever since ChatGPT burst onto the scene last November,"
+excerpt: "The ad business may evoke images of “Mad Men,” the hit show depicting boozy, smoke-filled brainstorming sessions between admen and clients looking to sell their products in the 1960s. Today’s admen — and women — probably substitute Red Bull and artisanal coffee for the booze and cigarettes. And there’s still plenty of brainstorming."
 publishedDateTime: 2023-08-05T14:01:00Z
-originalUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php?IPID=Times-Union-HP-business-package"
-webUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php?IPID=Times-Union-HP-business-package"
+originalUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
+webUrl: "https://www.timesunion.com/business/article/ad-see-come-robot-kind-of-18274846.php"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "NUXPMaJ1TcFPZlarkl2jsU+ymjfmwfzshc3fvKie/w+ajxhPlCNjZwlMOLg1FiLEo5W1BFOtPAHH0oPha2Z8Ldi2EHDm3BJuRuf5cQczzrX6q34pp7i1pBitdxXXVToiaxBQuEdzdjamkbeFcP8G7IiGvsxuwBDoSr2Um9HO9y+1n8xLm4qfUpRP6SZZU5O1BTPdwpZg3sr6QfNji7DVdJ4u43AowBwhdVLvsZKwkyyZqK6y623kQdif1e2JnZD4E1vny5WBqU3tMHhTmm90Mqk5ZxpcwAjFe+L+31hcxLam3UKy8/LZzjczg6UvMxyKejy19RN7/6Dub5vzVkjkp7pAD+i7X4cNVwj3borVME0=;RRy3msmReapP8RaYVyVB2w=="
+secured: "7+sVc/sXdFqKu2LgRKMuTOYjmQFnYxHtZZsAC3mUusl1BzPA2lbG38DIlGvvziyqjCx2ByOTcmbZstIoou/8FrZ6bCHnyOqAaPlE3Zfu5OBQSfoYV9wdb3cI/+UVj47zlMlKOU0A4pwb8Rwiy0Q3BmabCmRX8GXvk/xN4SMskkWPxsFQ1r5hClCoaCR52eMb43o60Ahssb5Dz9qY7JqezUkd/W1L017lQ8amolDSVy33fPAwAHkaHMhgL0wnyfxMwJ7vl4/wzecp5xGnOdBGjrLmXNOt/TWiumUPL5Qd5RXvwDwHTRPGBoSjWJkKbQVpbTawzkHBmCLLR6H9FJU7jaA5nxfmrA3U95PNE8NbWoASxgjbLLnjy8TNoobVSNuJcYQdGFTit4vD5yn+QSLwqQe4nlu99egSwakRCwbBgbbpU/AACDTfl96eLr4bMMQ+OOxtXk3MdNULtKn5v3tx0N38Ctr+R7UObwS41ebAdKa6EAoyD8tvuI1x0FEFKJFTY7is1JSmmEAoBxoF5FQ4kQ==;W6/CtoWEI/53h8GcQMj06g=="
 ---
 

@@ -69,20 +69,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Google Scientist Uses ChatGPT 4 to Trick AI Guardian"
-    excerpt: "A DeepMind scientist has demonstrated how ChatGPT 4 can be used to bypass LLM security procedures, demonstrating the same with AI-Guardian."
-    publishedDateTime: 2023-08-02T10:08:00Z
-    webUrl: "https://techreport.com/news/google-scientist-uses-chatgpt-4-to-trick-ai-guardian/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2251011855.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
     excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
     publishedDateTime: 2023-08-04T15:38:00Z

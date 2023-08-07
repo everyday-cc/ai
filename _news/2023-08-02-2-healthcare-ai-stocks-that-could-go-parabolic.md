@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-t
 webUrl: "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real"
-    excerpt: "AI enables researchers to weave ‘synthetic data’ from sets of patient data. But CIOs question whether the generated data sufficiently captures the medical variables useful in research."
-    publishedDateTime: 2023-08-02T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 81
-    images:
-      - url: "https://images.wsj.net/im-827019/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "3 Millionaire-Making AI Stocks That Are Flying Under the Radar"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks have exploded to the upside in recent months. It isn’t too"
     publishedDateTime: 2023-08-06T18:19:00Z

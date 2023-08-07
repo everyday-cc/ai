@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fifty Must-Know Crucial Golden Nuggets About AI And The Law That You Need To Know"
-    excerpt: "Start-ups in the LegalTech space see this same opportunity ... Of course, we don’t necessarily need to have a walking and gesturing robot, perhaps AI software is sufficient (though, don’t count out the day that we have both, consisting of the AI ..."
-    publishedDateTime: 2023-08-02T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/02/fifty-must-know-crucial-golden-nuggets-about-ai-and-the-law-that-you-need-to-know/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c9fc427710022fdf69db63/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 754
-        isCached: true
-  - title: "The Looming Ubiquity Of AI: Navigating Cloud Efficiency And Environmental Impact With CAST AI"
-    excerpt: "The allure from those who have invested billions into Generative AI startups have not considered the underlying reality of these high costs that threaten this current boom"
-    publishedDateTime: 2023-08-02T10:05:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/02/the-looming-ubiquity-of-ai-navigating-cloud-efficiency-and-environmental-impact-with-cast-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ca220be7faf6a593775a99/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1129
-        isCached: true
   - title: "Getting The Most Out Of AI: Businesses Need Skilled Prompt Engineers"
     excerpt: "The success of the prompt engineer will rely on the ability to bridge the natural language we use every day with domain-agnostic and formal language."
     publishedDateTime: 2023-08-04T13:00:00Z
@@ -85,6 +53,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/960x540/p0g4t28f.png"
         width: 960
         height: 540
+        isCached: true
+  - title: "Age of Generative AI: Ai Palette aiming to optimise food innovation and boost product launches"
+    excerpt: "Singapore-based tech firm Ai Palette has developed a new tool called FoodGPT, which harnesses the power of generative AI and natural language processing to elevate data-backed innovations and increase the success rate of product launches."
+    publishedDateTime: 2023-08-07T03:28:00Z
+    webUrl: "https://www.foodnavigator-asia.com/Article/2023/08/07/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai"
+    type: article
+    provider:
+      name: FoodNavigator-Asia
+      domain: foodnavigator-asia.com
+    quality: 27
+    images:
+      - url: "https://www.foodnavigator-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/headlines/markets/ai-palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-ai/16608294-1-eng-GB/Ai-Palette-aiming-to-optimise-food-innovation-and-boost-product-launches-via-generative-AI.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "QeRn+4aja6B581/eY5dD0nRc5mRnq5V0NZD7TO38VnRpHjieBJfDyRbYk7S5AMQPU7E+9hdNIPSZH+PWyZ7f5A7bOkT7y/p7L+Bexu9NqXx1HACgcd2ZSUKYouVk2YT3fKQPN9Ee2evVhPw8xqc2YQM+9lBvRH5pz2H65s/ZFnqDQMyXK3WqGC2G1aeZs4SVT9SpRQBRG9dNtUUJQSLTb5fdorn6wDhIUDX3E9O7rDvFywcSq+wEW/xUmtvqxpTqA9mQ29z5STZk/4yDQKYaW+C3waWNKsch3ruyRhSN93/BChMEjZrCTFXRMBbVwRfw4kijh30nwIHNRJhfzkPT0X2/DTXgtWfO9P79fjObKnc=;iweGpTVZLvb6/mzhkP/hrQ=="

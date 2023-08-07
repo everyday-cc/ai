@@ -1,0 +1,83 @@
+---
+category: news
+title: "Politics live: Dutton ‘insulting Australians’ with voice stance, Uluru Dialogue co-chair Pat Anderson says"
+excerpt: "First Nations called for a voice enshrined in the constitution. The voice comes from a historic consensus and is both symbolic and substantive recognition based on our experience with successive governments. Dutton has not listened. He says he supports a ..."
+publishedDateTime: 2023-08-07T03:26:00Z
+originalUrl: "https://www.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr?page=with:block-64d064098f082f4d58914a51"
+webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr?page=with:block-64d064098f082f4d58914a51"
+ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
+type: article
+quality: 41
+heat: 41
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/9a23107bc92a515433fd50afd1075ef2820f59f7/4125_1408_4004_2403/master/4004.jpg?width=620&quality=85&auto=format&fit=max&s=be518cd64c4b35070e06d6371ab21fa4"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "Australia news live: Teals’ ‘distress and disgust’ at sea dumping bill; Business Council declares support for voice"
+    excerpt: "The voice is a proposed advisory body which would make recommendations to the federal government and parliament on laws and policies affecting Indigenous people. A vote proposing constitutional recognition of Indigenous people and enshrining a voice will ..."
+    publishedDateTime: 2023-08-02T21:50:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/03/australia-news-live-barrier-reef-carbon-capture-housing-bill-greens-anthony-albanese-indigenous-voice-to-parliament?filterKeyEvents=true&page=with:block-64ca39af8f08374acbafa62c"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/aug/03/australia-news-live-barrier-reef-carbon-capture-housing-bill-greens-anthony-albanese-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/aug/03/australia-news-live-barrier-reef-carbon-capture-housing-bill-greens-anthony-albanese-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 22
+    images:
+      - url: "https://i.guim.co.uk/img/media/c898e5d82cfc5729b2e6006525778c0f60c1f7af/110_804_3505_2103/master/3505.jpg?width=620&quality=85&auto=format&fit=max&s=f77ae75f69515cd7d8c6666867be7863"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Australia news live: former Nationals MP says Coalition’s opposition to voice is short-sighted and ‘doesn’t make sense’"
+    excerpt: "Andrew Gee says Indigenous voice to parliament referendum ‘is being weaponised politically’. Follow the day’s news live Australia the only former colony without constitutional recognition for first peoples, PM says Back to the prime minister’s ..."
+    publishedDateTime: 2023-08-06T23:20:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr?topics=ORG%3ALabor"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 20
+    images:
+      - url: "https://i.guim.co.uk/img/media/a5ac40700a2390f42da1e623f587923228f54bf7/0_111_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=137614f42102224dcb51b18249fbe944"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "‘Unifying moment for Australia’: Dutton backs Indigenous constitutional recognition"
+    excerpt: "I think 80% of Australians would vote YES [for a constitutional recognition]”, Dutton explained. He emphasised the importance of providing Australian people with the facts and allowing them to make up their"
+    publishedDateTime: 2023-08-03T01:56:00Z
+    webUrl: "https://www.2gb.com/unifying-moment-for-australia-dutton-backs-indigenous-constitutional-recognition/"
+    type: article
+    provider:
+      name: 2GB
+      domain: 2gb.com
+    quality: 18
+    images:
+      - url: "https://www.2gb.com/wp-content/uploads/sites/2/2023/08/GettyImages-1465732518-scaled.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
+
+secured: "/wjTJMqKQ2MnlzXVF/WX21xFg84eB909+vZ6sJxMyMQQM3BcRKMx7HzyAE2RmbBPbL8zRPGQHaypm671j4OJSasR5ED3xfqquRD/Y9WtRscmVU7Na57oLNmABTMRwvPhJAZp8WEp1EhZCynhSAf2tTfREjIZrBuMwBGj28ZBYxebn2Dv4S0sntBuSAoy6BiCcW/FNwmZHWSQJ2XVNcWzj/NIQhf6AjT8Mg/mhxgOaAc80y85S7Rt31ssI5eFLMcCvqcRmSZaNaJUl4/nj2ZCixJzUKBaZx9pl+CKk1cmL2czOZOhwYuYKiJFjgMbwhEBIbou4TjVYNZzDF6O4E7lMsqMWGWnjFVPxNOsi0Wf2A4=;Wc0ml72XYZM76+W2qmVgWQ=="
+---
+

@@ -31,21 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "PM accuses Coalition of ‘creating noise and confusion’ over voice – as it happened"
-    excerpt: "The newly formed Northern Alliance says the referendum on the voice to parliament will be an opportunity ... one where Aboriginal and Torres Strait Islander peoples receive necessary recognition in the nation’s founding documents. The alliance includes ..."
-    publishedDateTime: 2023-08-05T08:07:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/05/australia-news-live-anthony-albanese-garma-festival-indigenous-voice-to-parliament-peter-dutton-tasmanian-liberal-meeting?page=with:block-64cde9068f08d95cff6bd121"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/aug/05/australia-news-live-anthony-albanese-garma-festival-indigenous-voice-to-parliament-peter-dutton-tasmanian-liberal-meeting"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/aug/05/australia-news-live-anthony-albanese-garma-festival-indigenous-voice-to-parliament-peter-dutton-tasmanian-liberal-meeting"
+  - title: "Politics live: Dutton ‘insulting Australians’ with voice stance, Uluru Dialogue co-chair Pat Anderson says"
+    excerpt: "First Nations called for a voice enshrined in the constitution. The voice comes from a historic consensus and is both symbolic and substantive recognition based on our experience with successive governments. Dutton has not listened. He says he supports a ..."
+    publishedDateTime: 2023-08-07T03:26:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr?page=with:block-64d064098f082f4d58914a51"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/aug/07/australia-politics-live-indigenous-voice-to-parliament-question-time-anthony-albanese-peter-dutton-sofronoff-lehrmann-act-andrew-barr"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 38
+    quality: 41
     images:
-      - url: "https://i.guim.co.uk/img/media/75205ecc8eeb4a2273dcd36504172cf159b15f58/0_550_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=760aa3fa53dd8b2783b8c9889d474e7d"
+      - url: "https://i.guim.co.uk/img/media/9a23107bc92a515433fd50afd1075ef2820f59f7/4125_1408_4004_2403/master/4004.jpg?width=620&quality=85&auto=format&fit=max&s=be518cd64c4b35070e06d6371ab21fa4"
         width: 620
         height: 372
+        isCached: true
+  - title: "Australia news live: Teals’ ‘distress and disgust’ at sea dumping bill; Business Council declares support for voice"
+    excerpt: "The voice is a proposed advisory body which would make recommendations to the federal government and parliament on laws and policies affecting Indigenous people. A vote proposing constitutional recognition of Indigenous people and enshrining a voice will ..."
+    publishedDateTime: 2023-08-02T21:50:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/aug/03/australia-news-live-barrier-reef-carbon-capture-housing-bill-greens-anthony-albanese-indigenous-voice-to-parliament?filterKeyEvents=true&page=with:block-64ca39af8f08374acbafa62c"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/aug/03/australia-news-live-barrier-reef-carbon-capture-housing-bill-greens-anthony-albanese-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/aug/03/australia-news-live-barrier-reef-carbon-capture-housing-bill-greens-anthony-albanese-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 22
+    images:
+      - url: "https://i.guim.co.uk/img/media/c898e5d82cfc5729b2e6006525778c0f60c1f7af/110_804_3505_2103/master/3505.jpg?width=620&quality=85&auto=format&fit=max&s=f77ae75f69515cd7d8c6666867be7863"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "‘Unifying moment for Australia’: Dutton backs Indigenous constitutional recognition"
+    excerpt: "I think 80% of Australians would vote YES [for a constitutional recognition]”, Dutton explained. He emphasised the importance of providing Australian people with the facts and allowing them to make up their"
+    publishedDateTime: 2023-08-03T01:56:00Z
+    webUrl: "https://www.2gb.com/unifying-moment-for-australia-dutton-backs-indigenous-constitutional-recognition/"
+    type: article
+    provider:
+      name: 2GB
+      domain: 2gb.com
+    quality: 18
+    images:
+      - url: "https://www.2gb.com/wp-content/uploads/sites/2/2023/08/GettyImages-1465732518-scaled.jpg"
+        width: 2560
+        height: 1704
         isCached: true
 
 secured: "+DS3krz1dEDpb9XGMvV6XQHd1+IegTVitfvlluxs2jB6Fn2PFCfjwBcNCUtm4cT+dFMX1ySKu2Ae4KO90TronubAmNHK2+wbipwUuALxCe7W1svC2sJIoxTNdrpZm4Pt8Iv23s7tqAoFKDb03cqrwXzPVEdE17U9HQJMRk2N0UpKhzn7OG3OiKGKazvrQ/4DG7qMJ8pyw4rJlMRwEJEcsTCmA88h9YO1MxLGAB9+P8jnRfSy6CeeXjP2/ERwM2V7RyJ475fVkrgby11KG/XnGu7zh72lX1b405Q6UJ9YCYL2Yntovr4em4BqwcqW7SeNi6ar5/Hf+40vx0O/Lok/wDcA8miMQ6WuV5EiZ67o9Dc=;WZwExikymJB0ZmNRpXekgQ=="

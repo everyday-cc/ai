@@ -45,15 +45,6 @@ related:
     quality: 21
   - title: "Indigenous voice to parliament Yes side insists treaties decades away"
     excerpt: "The Yes campaign has insisted treaties take decades to finalise as it seeks to distance the process from the voice referendum and Anthony Albanese rules out the commonwealth pursuing agreements with Indigenous Australians in this term of parliament."
-    publishedDateTime: 2023-08-02T09:52:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-side-insists-treaties-decades-away/news-story/0288bdd7f55d28856cabf9c2cfda96f9"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
-  - title: "Indigenous voice to parliament Yes side insists treaties decades away"
-    excerpt: "The Yes campaign has insisted treaties take decades to finalise as it seeks to distance the process from the voice referendum and Anthony Albanese rules out the commonwealth pursuing agreements with Indigenous Australians in this term of parliament."
     publishedDateTime: 2023-08-02T19:13:00Z
     webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-yes-side-insists-treaties-decades-away/news-story/0288bdd7f55d28856cabf9c2cfda96f9"
     type: article

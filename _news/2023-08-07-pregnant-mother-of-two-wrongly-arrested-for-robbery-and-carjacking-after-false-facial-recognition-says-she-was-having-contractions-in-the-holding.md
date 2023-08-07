@@ -2,9 +2,9 @@
 category: news
 title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
 excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery. Porcha Woodruff, 32, was shocked when six police officers ..."
-publishedDateTime: 2023-08-07T01:37:00Z
-originalUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
-webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
+publishedDateTime: 2023-08-07T01:56:00Z
+originalUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html?ns"
+webUrl: "https://www.dailymail.co.uk/news/article-12379181/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html?ns"
 ampWebUrl: "https://www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12379181/amp/Pregnant-mother-two-wrongly-arrested-robbery-carjacking-false-facial-recognition-says-having-contractions-holding-cell-Shoddy-technology-lead-SIX-people-black-mistakenly-charged.html"
 type: article
@@ -106,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oLJWBCwO6RrqoRQ865Y1uV55vqH4gtWwclnZDQOzEs6Dgi/R9Q28/sFciop4aT8ZB7sJSLQrxVFPpUtR0/kYxIKlYSwt4tsH2VD+wz6NHZigCGF06jQZtw4tFpzmTrmOphggnFEVAc7JiN1LdpM2XeWkFNXmixBI+7uFo6PrLQuvzKZETqfywzr9CoXSqEcsLgyWnkGG2dnhJsIH/fKnprM6VbVDeGVv9x2GvpC760wSRNjzh0RWxh9VpwfEQfYhC9WCIdQanMAvQID+K/m7WQ1V+TJ2Am1HJ4bc9T7LbIpTBrOF+LoH600YtWYbqnoKGTQaqBbVPriFUshHHMK+BIwNjrTa9vA0HTWJCMjhrR8=;c4ndzEVApEW3nQoMYFJ5kA=="
+secured: "c5rKAMNZH4hpkeSqOv+JwuqRRtr0k0xkmWI+LRCERDrvP6wSiOhFRruT+rl7xTzVQxQzQsYvTnH9TCQpc/i9+9Wljs2uu0m4wStf8jyYahTEYKo1nFAJu6knjzLeZRtW/6WUhbjK+HV7ho19oFl4y6CwUFCHVzClckMGQiNuZ7xgk4AXNDdahydnfdw7Ny/zgq/GKUFku2cWd6RfknuNMj5/qZBAAkgiyTZM3Uu3QFkfuYQxN3oXOl+N0di+FGll1ND506YkS/DEyGQOmKA9doJUzq51zyQWFDlBRePabQG0q0gZ2svGN259zuYNKropC3AynRWgqFLvHBlWgG5igJPlIkf+lL6Du15zmKeR2Rw=;s2X59HmmI8MD3nWSDAtHlA=="
 ---
 

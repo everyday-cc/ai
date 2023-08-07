@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-31-five-ways-entrepreneurs-can-use-artificial-intelligence.md",
+      "title": "Five Ways Entrepreneurs Can Use Artificial Intelligence",
+      "excerpt": "When it comes to mechanical tasks and time-intensive processes, you may be better off delegating them to AI to free up more of your time for human-centered work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&crop=752,423,x0,y78,safe&width=1200",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-31T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-ai-is-the-future-of-health-care-but-heres-what-it-can-never-replace.md",
+      "title": "AI is the future of health care, but here's what it can never replace",
+      "excerpt": "AI should be viewed as a tool to assist a physician by removing tedious administrative tasks, enhancing diagnostic capability, and improving patient outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace",
+      "originalUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cd60392-d2ad-44a6-81e7-6e274b66a4ae/2d72dd9f-59e1-4876-970b-40c3f8b45c87/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp",
+      "publishedDateTime": "2023-05-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
       "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
       "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
@@ -1275,101 +1379,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-rapid-ai-adoption-could-cause-medical-errors-patient-harm-who-warns-urging-oversight.md",
-      "title": "Rapid AI adoption could cause medical errors, patient harm, WHO warns, urging oversight",
-      "excerpt": "The World Health Organization is warning that the “meteoric” rise of artificial intelligence tools in healthcare threatens the safety of patients if caution is not exercised. Because of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/",
-      "originalUrl": "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/oP6cwgcir90QLwRrImv-Wze2VyQDH_juBDMgN1dj5yg/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNjU1MzQ4MDIuanBn.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-healthcare-bi-market-size-share-trends-analysis-report-2029-aimr.md",
-      "title": "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR",
-      "excerpt": "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

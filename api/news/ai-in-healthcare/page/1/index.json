@@ -45,6 +45,51 @@
       ]
     },
     {
+      "path": "_news/2023-08-05-artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why.md",
+      "title": "Artificial Intelligence: Generative AI In Cyber Should Worry Us, Here’s Why",
+      "excerpt": "\"As AI becomes more integrated into society, it's important for lawmakers, judges, and other decision-makers to understand the technology and its implications.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/08/04/artificial-intelligence-generative-ai-in-cyber-should-worry-us-heres-why/amp/",
+      "publishedDateTime": "2023-08-04T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-fmu-grant-to-transform-healthcare-with-the-use-of-ai.md",
       "title": "FMU grant to transform healthcare with the use of AI",
       "excerpt": "Francis Marion University has been awarded $416,800 from the National Science Foundation as part of a $20 million investment to advance healthcare with the use of AI.",
@@ -140,6 +185,51 @@
       ]
     },
     {
+      "path": "_news/2023-08-02-transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning.md",
+      "title": "Transforming Healthcare: The Pioneering Path of Sumedh Datar in Computer Vision and Deep Learning",
+      "excerpt": "Introduction: In the rapidly developing science of machine learning, Deep Learning has emerged as a transformational area of study, captivating the attention of researchers and developers worldwide. Its exceptional pattern recognition capabilities have made it particularly valuable in computer vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
+      "originalUrl": "https://techbullion.com/transforming-healthcare-the-pioneering-path-of-sumedh-datar-in-computer-vision-and-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/08/bb6b4281-0874-40fa-a336-2042bf87d8f2-1000x600.jpeg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-2-healthcare-ai-stocks-that-could-go-parabolic.md",
       "title": "2 Healthcare AI Stocks That Could Go Parabolic",
       "excerpt": "In May, Recursion increased its AI-powered capability by agreeing to buy two AI-focused drug discovery start-ups, Cyclica and Valance, for a total of $87.5 million. GE Healthcare's shares are up nearly 40% to start the year. The recent spinoff from ...",
@@ -148,7 +238,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1374,110 +1464,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
-      "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
-      "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 940,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "publishedDateTime": "2023-07-19T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-what-can-ubiquitous-radio-waves-do-for-healthcare.md",
-      "title": "What Can Ubiquitous Radio Waves Do For Healthcare?",
-      "excerpt": "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
-      "publishedDateTime": "2023-07-19T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

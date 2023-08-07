@@ -23,17 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "New Instagram Star Turns out to Be an Artificial Intelligence Creation, According to DeepTech"
-    excerpt: "Milla Sofia, a 19-year-old model from Finland, has become the new center of attention in the world of social media, as reported by DeepTech, a media organization covering news in the field of artificial intelligence and information technologies."
-    publishedDateTime: 2023-08-02T11:00:00Z
-    webUrl: "https://techbullion.com/new-instagram-star-turns-out-to-be-an-artificial-intelligence-creation-according-to-deeptech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 6
-
 secured: "UwFo7Yc6qp5ujfD28OGzLODkt6Ym0gHS6wWWA8PMBeeECLB8iyBUEtqQMgRDJOrrUUdPRAZkbfZ8UeU1j7TeIrKixFlt1rwXG/JYyiH1XSKXN1i72rsFsltQA/ltYUxKJuskc8/J8aX9Ar++2yPWjFs4ROEVfdl2la7V1koYpkigp0EHCXwNXBR+VIN6y+mUAk3WACvLvHMonffg1xZEA8XDkQ8FUR0TjNp5I9hdntERAh57QH2LCYACYBCUk+ZDCpmnblg3yZhu2uL/Rr14/jQZHnz/743QOI/wuXlZWKHmVYkWA5xfZQ/FxHBje6uzCAQ1RlWLCwlVnVc6zJCT+AKluV0HMGwBfHLV7n8ikHg=;c9qlp8V869rwE+naXQpXqQ=="
 ---
 
