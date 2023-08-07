@@ -64,20 +64,6 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 23
-  - title: "Sleep Wellness Revolution: Exploring the Success of Sleep Aid Devices Market Shows Steady Expansion at 6.9% CAGR by 2032 | FMI Report"
-    excerpt: "The Sleep Aid Devices Market has witnessed substantial growth in recent years as the prevalence of sleep disorders and insomnia continues to rise. Sleep deprivation and poor sleep quality have become significant health concerns,"
-    publishedDateTime: 2023-08-02T05:45:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-08-02/sleep-wellness-revolution-exploring-the-success-of-sleep-aid-devices-market-shows-steady-expansion"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 8
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "w0p/Xw6QvzUU1nFpWH6xvgWkfxaHTeQP/+iEQwjJMuocIXAy5Q6E+POJNKbvFrFbbR6Eh3zfI96iR0o3+CEzMdAdK9B0TtgNMH1IZi4Qc+jW5WXba1tWymm5a9p/YghLeGGzAC1zTQtE1NzniR7c/4CJP5lxBKy68wVqa9zZPI/PehA9VTarxiUjaiPjkOag1osj+ZDdU4wFJtYA7ECgkZHsWf0umZyRaCi6Xltkp3m7eG3ScyN8uS08iL76rvvPji1wbcg2d01KkOjaSmfrWU6OyzmVOJpq4qqyxQkJLQxJ2mLYCPJT/trXKPguCwTuGeCR2pchCsOwj95sH/SvVCyCkjk5C698SBEznuUdGto=;BpTvZ+IKBwq2XGHOiBGzAw=="
 ---

@@ -84,15 +84,6 @@ related:
       name: IT News Africa
       domain: itnewsafrica.com
     quality: 19
-  - title: "Exploring Fintech's Next Frontier - Physical Branches"
-    excerpt: "Traditionally known for their digital-first approach, some fintech companies are now exploring the idea of establishing physical branches to complement their online presence. In this blog, we will explore - how physical branches might differ from existing incumbent bank branches and what unique features they could offer to create a more customer-centric experience."
-    publishedDateTime: 2023-08-02T05:45:00Z
-    webUrl: "https://www.finextra.com/blogposting/24665/exploring-fintechs-next-frontier---quotphysical-branchesquot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
     excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
     publishedDateTime: 2023-08-03T11:45:00Z
@@ -101,6 +92,15 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
+    quality: 4
+  - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
+    excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
+    publishedDateTime: 2023-08-04T16:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/04/9859806.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 4
   - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
     excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"

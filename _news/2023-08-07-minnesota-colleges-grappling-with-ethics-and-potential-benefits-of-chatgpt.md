@@ -1,27 +1,27 @@
 ---
 category: news
-title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
-excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
-publishedDateTime: 2023-08-04T15:38:00Z
-originalUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
-webUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
+title: "Minnesota colleges grappling with ethics and potential benefits of ChatGPT"
+excerpt: "As the fall semester approaches, academics are weighing the pros and cons of the artificial intelligence tool in the classroom."
+publishedDateTime: 2023-08-06T22:18:00Z
+originalUrl: "https://www.startribune.com/minnesota-colleges-grappling-with-ethics-and-potential-benefits-of-chatgpt-artificial-intelligence/600295274/"
+webUrl: "https://www.startribune.com/minnesota-colleges-grappling-with-ethics-and-potential-benefits-of-chatgpt-artificial-intelligence/600295274/"
 type: article
-quality: 32
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: Star Tribune
+  domain: startribune.com
 
 topics:
-  - Natural Language Processing
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
-    width: 1500
-    height: 843
+  - url: "https://chorus.stimg.co/24531959/merlin_70262489.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -83,21 +83,21 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Minnesota colleges grappling with ethics and potential benefits of ChatGPT"
-    excerpt: "As the fall semester approaches, academics are weighing the pros and cons of the artificial intelligence tool in the classroom."
-    publishedDateTime: 2023-08-06T22:18:00Z
-    webUrl: "https://www.startribune.com/minnesota-colleges-grappling-with-ethics-and-potential-benefits-of-chatgpt-artificial-intelligence/600295274/"
+  - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
+    excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
+    publishedDateTime: 2023-08-04T15:38:00Z
+    webUrl: "https://www.tweaktown.com/news/92709/openai-files-trademark-for-gpt-5-revealing-some-clues-about-next-generation-chatgpt/index.html"
     type: article
     provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 37
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
     images:
-      - url: "https://chorus.stimg.co/24531959/merlin_70262489.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
+      - url: "https://static.tweaktown.com/news/9/2/92709_3652_openai-files-trademark-for-gpt-5-the-next-iteration-of-famous-chatgpt_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
-secured: "fRYyFkg0GGv4g454uvQAH4JwNBS6XkUFqF7FsUEfP8nWylzN/3wTE9NEwt+SUCgBewQRjV2U/eG2evDHNfzy0HAuBYBmGYGTwrd9tI8nk42W8PnuFjba2yQRnL/bNf0GBb3+T7RYA5jeu0t7ZCfNePQ6a+5l02tNRdvwzvwhdj43rZNwwBXml/+znecFNHJeADEOUFiCG3hJEdBpzSj5dggdpmVRv+DrC684eA/iLsDZgoVgXU2JQOL4pAOy/FLu8JWueKm2b9ucPFshY5fRw2TaMxZhXA1T9YGe307EHhV8L89HK1Gm6rSijwo/R2vjyTBWo0EIQCQa1y1MLpGu2MG7yoUxeA9FtJN956x3u2+VSCEs0kF7ofCuY9B7LmkS68XH669ITPTFWXnw5DDkOuLooZhRNDhgDDsLLpFKXkhaVTXqhRKt2N2jIYYEuAGq3imPf05a5p8bIdBD/e323pjk6qT76a+PldGdeqTOSmCo9fRNFR4zcEDIIEq7uVNdCj2ux7dWwf1eL50NpyMjXg==;U0QXT2pYOk9Qo3I5SSwy3Q=="
+secured: "iTTvUocIxBDC3c/f7dgF4K2kEL2o2FI0YmvqGZ96jJsLK0NZUi29RTj3Em3oKFumLuQ2Uu6YwDYXWm20sMNpA5RkEbBWHS4v3xEZcPmqfk9ljz1/fZWHdiaCA8oyxE0tSIEiXoLgY6p2SoQIQtqUCJcnqLkkcPOgiHBf1sf4/OU5AvUJdJwGyBFlr1HhHBrmXoNFwy6a6tI53k7fBLcPPf5z8JXed+BV5warBKYD8qcvNuOLHQ6ocitOKQ3TX0maVPOOF0GqgWjxeqzidqM0AsdVoC+zs0X5jf4zJYM652lSSOwYNt9SxSBDQHmteFt8mGDgNNnKqkQQKqBInA/aZqSIhNd+XkC0/V694xLauCg=;OrB2vqb/1KymGkRiyfmlCA=="
 ---
 

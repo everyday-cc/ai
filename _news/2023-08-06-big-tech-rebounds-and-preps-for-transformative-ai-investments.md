@@ -106,6 +106,20 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "4 Ways Conversational AI Improves Customer Experience"
+    excerpt: "In a race to secure their position in the competitive future, businesses embracing conversational AI can supercharge sales."
+    publishedDateTime: 2023-08-04T20:33:00Z
+    webUrl: "https://www.inc.com/srini-pagidyala/4-ways-conversational-ai-improves-customer-experience.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1489392590_533027_gb7ysh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "+xEI4gu3EHlxPJiopZNXZQzwY3tZFXtpnpu6MpCrEoCCohuHE1OFbU7Tkz9TJHeC6XLEtly6Z821BMg7MTe7j9AoZLAqrftOeFxYZsgz/DO/1lC/s2RTTEWLEA/UVgkqHjJ+LDx6JUJpDPmwCQcUBQ/bz6FiBMld79inSX3NMwLGNkZXjXgJXt6AUnIjq7vdvUrh0GjYdQHgd4+7l+oWP2BtzBQK5Vwqk0IY7f6rU4vhXiwNYzFtppwmajuP1CFpZmlU+98aF17/WW/Yx1qysLvo9Yqg4urtJyEMM5z2FKxzHsgnSHqNlMoaouYoIZxaWLqRxyy6lFvmhrI3J3WPceQLD1EwYuSmEKE0jdKxzD0=;4KyopR/1UcHi/K8TsBebhQ=="
 ---

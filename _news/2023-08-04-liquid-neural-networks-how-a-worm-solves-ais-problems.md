@@ -33,7 +33,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 107
+    quality: 109
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_vintage_advertisement_illustration_of_geometric_DNA__a3b072d6-e1a1-45df-9e69-124fe1087fdc.png?w=1200&strip=all"
         width: 858

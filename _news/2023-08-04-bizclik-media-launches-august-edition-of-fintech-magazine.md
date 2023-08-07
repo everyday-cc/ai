@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
-excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
-publishedDateTime: 2023-08-04T12:23:00Z
-originalUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
-webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
+title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
+excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
+publishedDateTime: 2023-08-04T16:18:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/04/9859806.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/04/9859806.htm"
 type: article
-quality: 19
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -75,6 +75,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Digital Finance Africa Recap: Unlocking the Future of Fintech"
+    excerpt: "Christoff Pienaar and Anelisa Ndebele from Webber Wentzel touched on subjects like emerging trends in Fintech, like crypto currency being declared an asset, financial inclusion and exploring the opportunities for a rand backed digital currency and the influence of geopolitics on the African Market."
+    publishedDateTime: 2023-08-04T12:23:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/08/digital-finance-africa-recap-unlocking-the-future-of-fintech/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 19
   - title: "Fintech Firms Stavvy and Brace to Enhance Servicing Innovation"
     excerpt: "Stavvy, the Fintech company reshaping digital and remote collaboration ... Our unified team of industry experts combined with research and investments in generative AI and customizable workflows positions Stavvy to independently reduce the need for ..."
     publishedDateTime: 2023-08-03T11:45:00Z
@@ -83,15 +92,6 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 4
-  - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
-    excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
-    publishedDateTime: 2023-08-04T16:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/04/9859806.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 4
   - title: "BIZCLIK MEDIA LAUNCHES AUGUST EDITION OF FINTECH MAGAZINE"
     excerpt: "LONDON, Aug. 4, 2023 /PRNewswire/ -- BizClik is the UK's fastest growing publishing company, has published the August edition of FinTech Magazine The digital edition of FinTech Magazine, is a trusted industry source for in-depth reports and interviews with the leading minds in the financial sector"
@@ -130,6 +130,6 @@ related:
       domain: indiatimes.com
     quality: 0
 
-secured: "In8kcSnjXBeL0H44qmuGOCnfNKB+t5j4xiBRWvMG4cL4pDtrqoc9FuL86kxx5whX1cFdJczu6qrbxwPaXIN6Ihq/4KjSDg0OJ6ztpe93jbzKSXK7Vx2XGNHrjyLsAyw83x/kIYb9S5fq4M2f1wGPtBN8t+xc+Dhg3w+WkYNIdgLKHj0dS5LSP6tNl+J7mvNCaScZfZm9JqbWBjRlbu/I3w7tw794YY9TK8D4XRPbcqLoI8DnXp6iJNDqTHwOgA5GNJI18YubTjRnUWpVUjvkbz74CQPb5zIFciRWbdeR6aX5vlCYHdRkv0IhJYDnhpTKeB479gp/ho7Sya6aY2A1QVnyip4g11Pu79m/CrHfbyI=;pHvKe3CR3pLgWUn7E/ibmA=="
+secured: "h1gs+v0TOz4onNkWq3P5gP8EFSQCl6L0gpPaVEYgzceREA3vBqmCsiST0AXJPtkpTVMC9eHGaOBAqUBmnBGrveujE9z/C5QzKZ2v4mFb5ilBvp1sFjXrpyGbbtq9cLWVe0gkDK+NLQPsV0cRZzam/y+gR6VDFfa/coKvW/bIEv8G7AR8TvFdXbmwjfN34sjXlRcqPfAepJ8QjyMJFC9C4bjxvI/FTFp5GrgIJMHvUlNYRErTEBQ6OxDzI6KYNmU73x2IhbE7uq1sTJrWRr/EFDkDiODUH9zkOUO/Q3tSuMWjVQ0eUzPhkzYJL1WuMyCKEp6AQvXpiQdojfV9k9+Nh0QpimERCrPXbOXNFpmwFvA=;uJ/tPTxKP8rab77M8weZxg=="
 ---
 

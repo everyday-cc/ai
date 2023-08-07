@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2023/08/04/karachi-airport-gets-facial-recog
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/04/karachi-airport-gets-facial-recognition-system/amp/?fbclid=IwAR0kGOK5jrXbSkDshdsWCfODSoeSAtueC8a8qh7oHybza6HI8VOboX8y_M8_aem_ATC5GBx3C2jcWVPvi7VnrcXApUYCvTd3I8z1oIMvfe7UOhMLx53HW1TXFRmVdT1aVRI"
 type: article
 quality: 74
-heat: 86
+heat: 74
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1000
     height: 560
     isCached: true
-
-related:
-  - title: "Sindh Police Deploys Facial Recognition Cameras in Karachi"
-    excerpt: "In a bid to enhance security measures and curb criminal activities, Sindh Police has embarked on a progressive journey by deploying facial recognition"
-    publishedDateTime: 2023-08-02T06:44:00Z
-    webUrl: "https://propakistani.pk/2023/08/02/sindh-police-deploys-facial-recognition-cameras-in-karachi/"
-    ampWebUrl: "https://propakistani.pk/2023/08/02/sindh-police-deploys-facial-recognition-cameras-in-karachi/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/02/sindh-police-deploys-facial-recognition-cameras-in-karachi/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2020/10/cctv.jpg"
-        width: 1000
-        height: 560
-        isCached: true
 
 secured: "eFJSvqW9SBl8xgTB0iULkDDaLEVdlCO3jfmligOiJCuCwuFwd90Wpz3peLTOeFhy+SAR2Ljd5TWMoy6YIb8FMU5mXmiEr/ZC6gz1gCibqY88yyeYnORCRWSCrE+YrQiZIh7CKPqWJGYHv9FmqCEB1CAewVHXsk8uyWmNlRn32IfgRAeQlOIidvz9nAaA4JltkqtlsGSm6bsHyHyrU82McvSGC+/BcOh7Wxi2DeN5hnXahrZ8TxTI2nrlT2S91J/oAlL5qy6rr5VDiK1sDIp1amPRy5LHlNV2LeTnACEH1mmjKTmOZngNmxfRSYy5ISkx+ppl3WKEilRxY+/+4E3dgt+24vbwPg7MZV1OMDgeXCM=;a69UawfR6mlHn8+u8CrOow=="
 ---

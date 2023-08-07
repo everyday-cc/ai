@@ -97,6 +97,20 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "4 Ways Conversational AI Improves Customer Experience"
+    excerpt: "In a race to secure their position in the competitive future, businesses embracing conversational AI can supercharge sales."
+    publishedDateTime: 2023-08-04T20:33:00Z
+    webUrl: "https://www.inc.com/srini-pagidyala/4-ways-conversational-ai-improves-customer-experience.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1489392590_533027_gb7ysh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Big Tech rebounds and preps for transformative AI investments"
     excerpt: "A YEAR ago, the tech industry’s prospects looked bleak. Google’s profit dropped. Shares of Facebook’s parent company, Meta, were in free fall. Business growth at Amazon had slowed to its lowest level in two decades."
     publishedDateTime: 2023-08-06T09:37:00Z

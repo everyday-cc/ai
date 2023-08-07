@@ -69,6 +69,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Minnesota colleges grappling with ethics and potential benefits of ChatGPT"
+    excerpt: "As the fall semester approaches, academics are weighing the pros and cons of the artificial intelligence tool in the classroom."
+    publishedDateTime: 2023-08-06T22:18:00Z
+    webUrl: "https://www.startribune.com/minnesota-colleges-grappling-with-ethics-and-potential-benefits-of-chatgpt-artificial-intelligence/600295274/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 37
+    images:
+      - url: "https://chorus.stimg.co/24531959/merlin_70262489.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI files trademark for GPT-5 revealing some clues about a next-generation ChatGPT"
     excerpt: "OpenAI has already filed a trademark for the next iteration of its GPT large language model, introducing GPT-5, the company's next-gen LLM."
     publishedDateTime: 2023-08-04T15:38:00Z

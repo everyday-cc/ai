@@ -7,7 +7,7 @@ originalUrl: "https://www.packworld.com/machinery/robotics/article/22866396/ai-a
 webUrl: "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:

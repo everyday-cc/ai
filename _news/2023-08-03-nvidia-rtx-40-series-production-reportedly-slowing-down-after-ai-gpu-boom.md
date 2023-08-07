@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Will the AI boom see companies buy gaming GPUs to meet the demand?"
-    excerpt: "AI company buys boxes of AMD Radeon RX 7900 XTX GPUs and plans to buy a lot more, and this could be a sign that a new era of GPU shortages is coming."
-    publishedDateTime: 2023-08-02T05:59:00Z
-    webUrl: "https://www.tweaktown.com/news/92666/will-the-ai-boom-see-companies-buy-gaming-gpus-to-meet-demand/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92666_01_will-the-ai-boom-see-companies-buy-gaming-gpus-to-meet-demand_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Nvidia allegedly halts RTX 40 series GPU production"
     excerpt: "Nvidia has paused gaming GPU production, according to leaks, and is stopping distributors from passing existing RTX 4000 models to retailers."
     publishedDateTime: 2023-08-03T10:38:00Z

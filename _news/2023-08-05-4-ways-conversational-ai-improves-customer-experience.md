@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Big Tech rebounds and prepares for transformative AI investments"
-excerpt: "Companies are hoping that artificial intelligence will be the answer to their problems and a way to refresh aging product lines that haven't changed all that much in recent years"
-publishedDateTime: 2023-08-06T03:13:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-prepares-for-transformative-ai-investments/articleshow/102464444.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-prepares-for-transformative-ai-investments/articleshow/102464444.cms"
+title: "4 Ways Conversational AI Improves Customer Experience"
+excerpt: "In a race to secure their position in the competitive future, businesses embracing conversational AI can supercharge sales."
+publishedDateTime: 2023-08-04T20:33:00Z
+originalUrl: "https://www.inc.com/srini-pagidyala/4-ways-conversational-ai-improves-customer-experience.html"
+webUrl: "https://www.inc.com/srini-pagidyala/4-ways-conversational-ai-improves-customer-experience.html"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: Inc
+  domain: inc.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://img.etimg.com/thumb/msid-102464652,width-1070,height-580,imgsize-59912,overlay-ettech/photo.jpg"
-    width: 1070
-    height: 580
+  - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1489392590_533027_gb7ysh.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -97,19 +96,19 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "4 Ways Conversational AI Improves Customer Experience"
-    excerpt: "In a race to secure their position in the competitive future, businesses embracing conversational AI can supercharge sales."
-    publishedDateTime: 2023-08-04T20:33:00Z
-    webUrl: "https://www.inc.com/srini-pagidyala/4-ways-conversational-ai-improves-customer-experience.html"
+  - title: "Big Tech rebounds and prepares for transformative AI investments"
+    excerpt: "Companies are hoping that artificial intelligence will be the answer to their problems and a way to refresh aging product lines that haven't changed all that much in recent years"
+    publishedDateTime: 2023-08-06T03:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/big-tech-rebounds-and-prepares-for-transformative-ai-investments/articleshow/102464444.cms"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1489392590_533027_gb7ysh.jpg"
-        width: 1024
-        height: 576
+      - url: "https://img.etimg.com/thumb/msid-102464652,width-1070,height-580,imgsize-59912,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
         isCached: true
   - title: "Big Tech rebounds and preps for transformative AI investments"
     excerpt: "A YEAR ago, the tech industry’s prospects looked bleak. Google’s profit dropped. Shares of Facebook’s parent company, Meta, were in free fall. Business growth at Amazon had slowed to its lowest level in two decades."
@@ -121,6 +120,6 @@ related:
       domain: businesstimes.com.sg
     quality: 21
 
-secured: "+I8j2QIpXkLEJ1FtVuZOFdqJ5/LUPQKvKjq18RwcQiaHbGITylQDYIuV80yitrCsFUwz+EuMsIW2iq/1VJamoOAsoqh2AVfXvP45koziG7Rv8vWpyEmV3JNWDa34aIKD+JpQyPffwEx1Sq/XzcZpIWIFX2cF5Nn93YVwbPerN6kVdguYj5e7wHRQGH7Yo7Bs1roV7k4lN8e9R8FwiUKZOu+ONB9WUustgmF7dO3BjKGkvPyAavDyA1l8fQMMHqclyrrYD51aig3mqy0FdtHfpxNJDfMmpbqFm6ZCTQrIVmnStcEduo+7GsIcphyrI71qXsC0mDgDCKwlUGmoiL8jnV491F636pM94OzgyMHGXQo=;VFwq2lONXuO31OU0W1pIww=="
+secured: "uh4/QEs22vfBvLghpP9mTThpr9aDE2M2XYtesoVnghvaTJFbr0z6c3YqPNAe3D1E0ahigKTdI2O2EWkP/yDDmsCahAre80OeA8sBvviu420YrdAev7PV8Up0AabbqZmWxQsIj2k/7xkmNj84zvgJUbZsXa+8xElXOruIaak2FPkgZ6zWQK4Ey24r3cfwYM89yBEcRR3SZubVAIuY+rB4d5TP6kmxJRROSIKG/b74kGtUimR+bZCyrRBdJKPNAiawBKTojUV7AvGFHulZJCS+EeBomGp/cHu6muo9TkNA6/nltgv5hmHLzbS/BgvKuxAl0HlenBUvwkhllUscRYfzlOQNamyo9oxU1olOCALA5pQ=;TLhhUJ6N+5+YTsp54sjI7Q=="
 ---
 

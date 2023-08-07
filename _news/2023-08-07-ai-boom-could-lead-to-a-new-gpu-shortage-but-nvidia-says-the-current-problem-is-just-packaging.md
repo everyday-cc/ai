@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-sho
 webUrl: "https://www.techspot.com/news/99682-ai-boom-could-lead-new-gpu-shortage-but.html"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Will the AI boom see companies buy gaming GPUs to meet the demand?"
-    excerpt: "AI company buys boxes of AMD Radeon RX 7900 XTX GPUs and plans to buy a lot more, and this could be a sign that a new era of GPU shortages is coming."
-    publishedDateTime: 2023-08-02T05:59:00Z
-    webUrl: "https://www.tweaktown.com/news/92666/will-the-ai-boom-see-companies-buy-gaming-gpus-to-meet-demand/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92666_01_will-the-ai-boom-see-companies-buy-gaming-gpus-to-meet-demand_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Nvidia RTX 40-series production reportedly slowing down after AI GPU boom"
     excerpt: "Nvidia is reportedly winding down production of its RTX 40-series graphics cards, following a boom in AI product demand."
     publishedDateTime: 2023-08-03T11:41:00Z
@@ -86,6 +72,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "pHg/6XkiohESUpzh9qqJB+yDDwDfRjgAL8e9jYprW7fdlIsum/d5YLix/t8Wd+iUvX9e0Xq0u6rzkSbUGwg/xjNd4x++vwxPv7slCSbT6cCEIQCPBm1QCVNfIyk8cxAy2+ZyhZBNuApJxkjDAdfkOTwYAcMEsgW08Cjaw82+4gzy6XpSjum7RNaBt7FDNCothKNgsaPDOA/FNWZUlW9mjwhKYnXuBKYNBYZv2B4REm/Q5WBn+jo3VTbz1aI2DmtLXTCTGERR2w5z39mQlkp3WVIRnCVUwlnOrYvuxfpRHgVm0kZI5Th2zRtWit8SmtoBXSYqRym7VHttvaxIP5gC+3dqXei7iRpXptxp+QGvnMI=;qZ4a5bUjVGVLWF8Fw9cqbQ=="
+secured: "n0GaNSXVsDRVEpdJCLbWkFDhDIdVzgtE8hosTpoIVP1XOMqe8UyZ5pJY7Wl44W8bgRFraENU4w2Scg2MPI8Qr6k6W5w+P8pHsVpx34J56UTIxvxpl8UfSAQqNEU39fqb83Z7X5qA4BeakAKVDF+Mqmo/cP+sG9I5TSTWH0kmBVHbtnzyZoWT63X5gkTqMB3CnNTMTFDTCWvQBdx3LnYKdW27Lj5TrTo2DgGhE2s7mOdNKVV83Rr+gTAWSYjIY2ACYwdzlgF/gonNxsfq1vG5XFQEqv+MeITIOGKdH+1MXSuRxxuUN7wfINDS4puUkBAoCGta4SaS+lg4vj7VLQiB61kO1HgCxQL9N4xWPaHKLYZbT/cBk+53881HZBf1rO1LB2oHz5xJvhZhKfrgQ5VNjiNHfO0t3m2fbo78Jmu3Ckm+KLqqGygJJIlUnlEIZvuu8/nSid3NaY5Kx/aKqcVB/bNr3dksg6ovmiwz/hycQwY5QYdgb/rBxySh8KkeulFGNsCEsUPAxJd4XyED1t8BBQ==;uKls3DYauLy4yVDZqlq0QA=="
 ---
 

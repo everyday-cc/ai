@@ -56,20 +56,6 @@ related:
         width: 533
         height: 316
         isCached: true
-  - title: "Weaponizing artificial intelligence and the gospel"
-    excerpt: "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.”"
-    publishedDateTime: 2023-08-02T05:15:00Z
-    webUrl: "https://www.timesleader.net/weaponizing-artificial-intelligence-and-the-gospel/article_447a9b9f-1a7c-5e90-8567-e0f6e9aad243.html"
-    type: article
-    provider:
-      name: Times Leader
-      domain: timesleader.net
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/timesleader.net/content/tncms/custom/image/a70f5850-43b1-11e6-afa7-b39419830601.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "oLw4M7941+mf1yQ0XbNwJsCg660/NS/+kliUtx580ySV84X5yhXVRqaPB1RIuH5LL/1C72DfZ0pt07twghxBE9I/jdBXRbtpdiDvFG0yQSEOxET+2vIsEyY2r0+Xe4qYy8yFf4HoymqBdEq5GMskhV3F7+FbKJI4MpzO5iAEEtsFOApEPIX5kVVPQ04jBuIjH6RD5PVqaI0t1b7EhXBiMWGq3uas7pKJRBz6SeTyFlDdhhaq/QJibp5dVDAvtOho5SMv7K/1/1Qbp7BDzuDXPJK6OqqgHrYL3g3HNoGMTIKstA8QiqT5ZO45XjIF+ezvK/d3aibujnKIhzhtakG4hHs5wU1Dlnqf8LpHJhu/ckIBTQwOWkxhkvgkTDrh8+E8ZXbwM7n5vswus7NbFDSCZtqIkU0v7dn77aSA2dPBxaTWjKko0J2VqubtuHEm4v46fl2yv0T+5eNhSURgLQAfefJFOLk4gHPOBjf8v0yexB4jUXoRo2LoRzg7laM5bS8LOOhX3qz11HITXh8rZuuogA==;N4wudcw9tL4Ze1bJQgIY4A=="
 ---
