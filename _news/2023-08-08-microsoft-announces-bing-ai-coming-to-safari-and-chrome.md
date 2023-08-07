@@ -59,6 +59,15 @@ related:
         width: 7753
         height: 4353
         isCached: true
+  - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
+    excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
+    publishedDateTime: 2023-08-07T17:51:00Z
+    webUrl: "https://www.wired.com/story/microsoft-ai-red-team/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 64
   - title: "Leidos Announces AI Collaboration With Microsoft"
     excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
     publishedDateTime: 2023-08-04T10:41:00Z
@@ -89,8 +98,8 @@ related:
         isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
-    publishedDateTime: 2023-08-07T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hclsoftware-collaborates-with-microsoft-accelerate-ai-fueled-offerings-/2023/08/07/9860278.htm"
+    publishedDateTime: 2023-08-07T14:05:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860278.htm"
     type: article
     provider:
       name: TMCnet
@@ -106,6 +115,6 @@ related:
       domain: inferse.com
     quality: 31
 
-secured: "Dcp23jM/8JKrKzrdghnNpeh+nWZeTtIflEA7Y7SkqHyhGwt4gHuI3G/hbbszarANNtNWoUKJVVRg2xfwxf6qjfKMHkJs1UVoJhPfdX2gH7azQnqfBsC961ANQpvkpphd51blNke8tEaJit/cu23yrSiK07BE26p4rZfcD3UzhbxY9+tKCAjBtTu7V2BOunDRHCuZFLF61F+0wlr9uTxOXaG4u5We6J9am3sTQr7d5kDWTMlk2duUrQeduTUY1W5HGZsjX7WVc7aD8Nl/5xR1CABb25lqHwRBKI3uNa6QW2DunqPobep3RhD7fqLNU0FWVmN66QMWNibKVG1KNQlstySnwlgfnKA1TBkfrLYz93o=;DgwSaK/uV1VOdUIdp5UsEQ=="
+secured: "dHcYf6aIhUFWja+RAw6UwZSmwsq5folhewbBz5LWBnWgjTTcbo7sVRe6aNIU9AdxmmALE9b2/8AcaRbqWk1OrNMLc5wzdFHdiSCKS+J7cfPXPjmK3xlzZVXx/FJyPaadK5uWUpucWHvjLvRE7qeB5tjzNi9qQGCi51hkDnopyrnRYu3ArgV4DICwfB6YxPD6x++AF8y38g6r7wvp9n9KmHQ3eehN0PA2NP8rqPxQ22vzcOayKk2KLtleO5cLEN8XEPwb46jEswoJEZytL3EyROeBIbSfHrfyx37Z2dj3rVXyK7m18p91btCyVDtvrT5RPDBFhWCyP36xtwJZpIGl2kPqDSWlczYYT/4ZGPuSgkdr4RunL4kzEO42WXek4QyUpULk3XOXFUQFKarxk95ZWvWgohtsLaUUUed1TBrPJNGzuON8zzAFGbah0YdQCe606LEtwmZK88eWWUOCB+cinD2K4W2GzavEcuh/IfytGjQg9wF8N/ehJdrO2HcT49W4Z99SjEKQlVXeyUqALM7lfg==;cC6xbmNavUeqMHH0nw1Lfg=="
 ---
 

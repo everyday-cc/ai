@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Hyundai Motor invests $50m in Canadian AI chip startup Tenstorrent"
-    excerpt: "Hyundai Motor Group said Thursday it has invested $50 million in Canadian artificial intelligence semiconductor startup Tenstorrent in a move to secure key technology for future mobility. Tenstorrent recently closed a $100 million strategic funding round,"
-    publishedDateTime: 2023-08-03T04:51:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20230803000514"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230803000514"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230803000514"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 76
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F03%2F20230803000531_0.jpg"
-        width: 630
-        height: 421
-        isCached: true
   - title: "AI chip maker Tenstorrent raises $100 million from Hyundai, Samsung in a bid to rival Nvidia's chip dominance"
     excerpt: "Canadian startup Tenstorrent secures $100m in funding from Hyundai, Samsung, and Kia to challenge Nvidia's dominance in AI chip supply."
     publishedDateTime: 2023-08-03T05:36:00Z
@@ -52,34 +36,6 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/08/03/600x338/newsroom-230801-1120x745_1691038355009_1691038367133.png"
         width: 600
         height: 337
-        isCached: true
-  - title: "AI chip firm Tenstorrent raises USD 100 mln from Hyundai, Samsung"
-    excerpt: "Tenstorrent, which before this funding had already raised USD 234.5 million was valued at USD 1 billion, is one of several upstarts looking to challenge Nvidia, the market leader in supplying chips to develop artificial intelligence products like ChatGPT."
-    publishedDateTime: 2023-08-03T02:46:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/ai-chip-firm-tenstorrent-raises-usd-100-mln-from-hyundai-samsung/102370050"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102370050,imgsize-152950,width-1200,height=765,overlay-etauto/auto-technology/ai-chip-firm-tenstorrent-raises-usd-100-mln-from-hyundai-samsung.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Hyundai takes stake in AI chip maker"
-    excerpt: "Hyundai Motor Group (HMG) said it was investing US$50m in Canadian artificial intelligence (AI) semiconductor company Tenstorrent to increase integration of AI into future Hyundai, Kia and Genesis models and in air mobility (AAM) vehicles and robotics."
-    publishedDateTime: 2023-08-03T10:06:00Z
-    webUrl: "https://www.just-auto.com/news/hyundai-takes-stake-in-ai-chip-maker/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/08/HyundaiTenstorrent.png"
-        width: 1118
-        height: 743
         isCached: true
   - title: "S. Korea's Hyundai Motor to invest in AI chip startup"
     excerpt: "South Korea Hyundai Motor Group said Thursday that it will make a strategic investment in Tenstorrent an artificial intelligence AI"

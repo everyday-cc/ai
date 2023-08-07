@@ -2,9 +2,9 @@
 category: news
 title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
 excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
-publishedDateTime: 2023-08-07T15:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hclsoftware-collaborates-with-microsoft-accelerate-ai-fueled-offerings-/2023/08/07/9860278.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hclsoftware-collaborates-with-microsoft-accelerate-ai-fueled-offerings-/2023/08/07/9860278.htm"
+publishedDateTime: 2023-08-07T14:05:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/08/07/9860278.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860278.htm"
 type: article
 quality: 33
 heat: -1
@@ -67,6 +67,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
+    excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
+    publishedDateTime: 2023-08-07T17:51:00Z
+    webUrl: "https://www.wired.com/story/microsoft-ai-red-team/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 64
   - title: "Leidos Announces AI Collaboration With Microsoft"
     excerpt: "The collaboration aims to accelerate artificial intelligence transformation for new and existing customers in the public sector."
     publishedDateTime: 2023-08-04T10:41:00Z
@@ -105,6 +114,6 @@ related:
       domain: inferse.com
     quality: 31
 
-secured: "l/GsMU/YYugfNMKYkiQhiZBCsvdn1VIpN3XmY3dhVauZp2+xjiw/w0rwngK2VGRTGH6qSfBs68dSKpItXB5b49cg+5VY8Tb8Chqd3CGEtjnql75RlL+ygxmc6c0EwjbQZ7tp5BXo2PGsWOXK+1UKIbsz61+HOOMS+542Z7WisQ/eH/WNmI8KGCsmjvQe0ND6E9PLzv3WkN6uEFNr07s40yKS8wsr3mC8nijCRJaXHPBmA/8wKgOIzZE6bR5Gu3knnpldOI8Qa9EjaR15/T95FI+BBjn0wSdMNy8Kxs0Kz6tD7RIPhKAVGH5mT2O+Iv7FSZgySD7zFt7nqwtKT4qXscH9l4TA5J+UT8A7prz67CU=;cEYGCro/E4g5oo/RKbFqww=="
+secured: "LoCL7TpCp5QG+NjsLHFCw/jVzGA3h6krkeiPcvqtVFlwyYGOnP2y69C92VST9LcKpKDInEIOU1a7M2qazits0jJAUE+Viir3Epx2FZSnonsS5bKU2ZTsscGt+M7LLst7jgnwui95XvfC2+KAeNF9ZUL0gCoFErDj05nNy09tGf73PuZFoMKVPnBrQdcrlb9RD/w6Uf2+n5k+o8yejJyNJwYLyMF3cI8xmP7hWB10waQ/zukTrprM+wqZDO9KgBcarA0Mg/a0Mizp/t8YkeMK2wQH9TbHxmQezzaAACRrFtmdJGUuU0yIa0bb8fzn7XJxSlEvSmWrd4L/l+PJNNMyA5NBBmkqSG4WHpYzSAaw8M8=;ukF+BQvp1wZLPYm+kPK+NQ=="
 ---
 

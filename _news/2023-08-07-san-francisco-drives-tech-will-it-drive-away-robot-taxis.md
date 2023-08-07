@@ -34,6 +34,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan"
+    excerpt: "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up"
+    publishedDateTime: 2023-08-07T13:35:00Z
+    webUrl: "https://thebusinessjournal.com/recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan/"
+    type: article
+    provider:
+      name: Fresno Business Journal
+      domain: thebusinessjournal.com
+    quality: 10
+    images:
+      - url: "https://tbjlive.wpenginepowered.com/wp-content/uploads/2019/05/login-graphic-01-1.png"
+        width: 1459
+        height: 1491
+        isCached: true
 
 secured: "xUOV4vYj9hS8n5bkAw1XKVlCKkSkjtpGG53HTCMQFbSS3j5q5eQNhVXXvWJThEQeJD6vGhTMxSwvjVBWvRz7cQSarK5t2whiH1pnznlvH5z1hpwqyvSZFr9mD4bXu90ZLblZXE/KEjVSi5fp7cinSuJ7+cjmR8QVC33r2aP3LxeJwR7RJUMcUFVM3i+hGu1VNlFm1aMt/hbOZnQQSQlOi0x/U8UkkguhnEgawvKEjj9Fk4ULoflc2aFJ3sefRUpd8z1x8XopEcaVkN6sB4ZQa+0rOIq0UTYPgZv4DgxSw9wBavA7Yk7TCCSGwDKPkqIoHLbjO0hwyRlGW11eio6oxRShsyV94+sfVDs1iV4zqv/Qiz2ZvnhlWtZbBzk5NmfAo88/x7FyOSgZ6HgmNFSAh6Ae7Fi8r8sA3klzsafgsDfXOjEyis8oR6CMmKaspSF6gGw0EMrAT/zfd7lrZqNA6iuKdOrd33KGN3ZhdCMRKJx9cDduKuDjyiHvv4txNsRJRmLS5ddP57Ie2hflJnSc3w==;gKzSOfjJdkaF/4n4L1qAzQ=="
 ---

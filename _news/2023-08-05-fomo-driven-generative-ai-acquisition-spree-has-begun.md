@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2023/08/05/fomo-driven-generative-ai-acquisition-spree-has-begun/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/55736-113232-SiriGPT-xl.jpg"
         width: 1312
         height: 738
-        isCached: true
-  - title: "Generative AI needs humans in the loop for widespread adoption"
-    excerpt: "Generative AI by itself has many positives, but it is currently a work in progress and it will need to work with humans for it to transform the world - which it is almost certain to do."
-    publishedDateTime: 2023-08-03T05:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Generative-AI-needs-humans-in-the-loop-for-widespread-adoption"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg"
-        width: 1200
-        height: 400
         isCached: true
 
 secured: "tp046RuFi9oyJOdS3JbFWjQ2PjvnuArIEFgZCd/3VXw6qZi/CxpCM7eOV7QWzgT6qhuO0gNNAQPgELojG5M/hUBtlnDqYhT+q3bznxHSnR3AFa2UVzaBvcSholSa32Tux59UomL+dl2d/0VpkAEWS5KX8uxZp2dqCv+PgqDR0MXCd/x0zs2qIKAzbaA4Tg1PQJ6G5zPKhAB7KM8rl6aKqB+Wtget0nu7Yz/kkkRaBFzq+0iGF+EmIdEvVlrt2g2xZrl/YlwzAOv1QzS+G0pxG8409f7g+t0Q2qsg9l/Lg9eoK897FauBRyagadayuRV+6VeRXvi95zMS8czdnhCi3LgepXUuciKR0eN9vY82vIx7pgqxLNxAnMcy8VAQr2bnRHRuVeFi4wvrCPVnBK+bzSQtMf6UrqW2czCvzvGpBLpb0fG6SPw/PJoUTWMnt+suSHspxpWlRuiy82wqpM4lPWqn4EYECbs2Z0a9SPkPjfGcM6HLQBQGGi1Bd0cuUVgHoiqzr0C5ZAtxgzW4xA/dSg==;CCKQlt7EBB6HPIhY0zhN4Q=="

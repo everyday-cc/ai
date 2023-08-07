@@ -73,6 +73,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft’s AI Red Team Has Already Made the Case for Itself"
+    excerpt: "Since 2018, a dedicated team within Microsoft has attacked machine learning systems to make them safer. But with the public release of new generative AI tools, the field is already evolving."
+    publishedDateTime: 2023-08-07T17:51:00Z
+    webUrl: "https://www.wired.com/story/microsoft-ai-red-team/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 64
   - title: "Microsoft says AI-powered Bing Chat will come to more mobile browsers soon, but it’ll be worse"
     excerpt: "Microsoft has revealed that it is planning to launch its AI assistant Bing Chat on third-party mobile browsers \"soon.\""
     publishedDateTime: 2023-08-07T16:37:00Z
@@ -89,8 +98,8 @@ related:
         isCached: true
   - title: "HCLSoftware Collaborates with Microsoft to Accelerate AI-fueled Offerings"
     excerpt: "\"Working together, we will combine our AI expertise to create AI-fueled offerings that will enable businesses to further automate and scale their processes and make informed decisions based on data-driven insights,"
-    publishedDateTime: 2023-08-07T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hclsoftware-collaborates-with-microsoft-accelerate-ai-fueled-offerings-/2023/08/07/9860278.htm"
+    publishedDateTime: 2023-08-07T14:05:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860278.htm"
     type: article
     provider:
       name: TMCnet

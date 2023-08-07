@@ -108,6 +108,15 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 19
+  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
+    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
+    publishedDateTime: 2023-08-07T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "As Gen AI Explodes, Will Legal Tech Companies Get More Aggressive Protecting Company Secrets?"
     excerpt: "Some legal tech organizations are rethinking their employment contractions in the face of the competition fueled by generative AI. Still, experts told Legaltech News they expect to see more litigation around employment contracts going forward."
     publishedDateTime: 2023-08-03T19:56:00Z

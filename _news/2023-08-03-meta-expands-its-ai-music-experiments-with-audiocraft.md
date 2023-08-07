@@ -39,20 +39,6 @@ related:
         width: 2764
         height: 1555
         isCached: true
-  - title: "Meta Unveils AudioCraft, A New Generative AI for Audio and Music"
-    excerpt: "Meta has just unveiled 'AudioCraft', a new family of generative Al models built for generating high-quality, realistic audio & music from text."
-    publishedDateTime: 2023-08-03T04:24:00Z
-    webUrl: "https://www.indianweb2.com/2023/08/meta-unveils-audiocraft-new-generative.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 39
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1lj_L-l2FCI2mlgA4etgLoUm8Q0V6csHhjwmSGKSVfEQcX9lUsUQHhOOWNMIiMq3IHGpW8MEILwHjZ-qf7NfCYECa50hJyyJeVVDTMZ0x6jCo-FVZpAayT_VqoeSuozO_cR2wyqEMbn5j2kcuaZZizfo0H99Oj55Dl8MY522JFRALmfmp90fnhRwiboI/s16000/364044687_188110547422666_6558067645303623389_n.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "rGyNa8Gu2+8sBI3EQVCV1JsYpwUhrPrcULyY0XVbIEk8lFi0+hSFZRBz9tHTZHC9uHRNKBXSYMkIuIoIvV9eX9FFYVzoGX4y4xpuk2rKDDUnr8LoZphywNXy15AJwd4G5jidzukn3VZftXcYbVrgLg2Qlm1/fmoZBhCjcIwhtJ7jH2weXvxfA2Pss2J3DvYMBGKTGSV1XOWaOHGDwS/ImH2f56kbD1QX1P7H43gl9ra0qfa6SdmeNKIlWOucbPArpXx3ORtVajUDZ6iFISWXb+7Pfc/bOTDp+m/kHnbE6Ek8Ost8gOJjwQLhcEil9+nYK4RbyjMCUDX0fjkWP53wj7Q93VJXpGIbTlS6xz2VFn4MTmkw5c24W+kK37VPivlWuQSYpExm+5AodPrx+wm+rAIOcVDvMtTSfTH33+214O4kXwYVdeTeaQKVzaycTMXHkHy1FvfHGv3y8KE5DMm0YGlIJOWZouFHkCZS0QAkCG32+4BmzN9TmWHJlQ0jLWbvhjXMm8gT4Dpi2nI2Yf7mPg==;czmCSrarTHkuPYgIKNG0fA=="
 ---

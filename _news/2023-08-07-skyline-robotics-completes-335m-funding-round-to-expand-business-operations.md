@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Must See! Robotics Developers Create Massive Robo-Boxer Using 1-To-1 Human Controlled Movement"
+    excerpt: "You've probably heard of battlebots, but this is something completely next level. This is the human controlled boxing robot being developed by Chinese tech firm Qibo Robot Company. Buzz60’s Tony"
+    publishedDateTime: 2023-08-07T15:05:00Z
+    webUrl: "https://www.nbcrightnow.com/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_22be5fa3-90ba-561d-9f40-0f642af9fba4.html"
+    type: article
+    provider:
+      name: NBC Right Now
+      domain: nbcrightnow.com
+    quality: 22
+
 secured: "SY9DfeKUNNiZWbzcuDp2eiVJawyMiXrucRdcTOumuXQvEwtzIZA0kYaDpI+zv305Aum5WnHLTdQRps84sGicR8t4GCZm34edxKOu0oPWBsR++UV7DCH4ixlH30Yuor3670+oNepFwivYf11GWjUikkyb/99xvj5cwwciXeKWLjwO8rqxKzN7uKCghF1+28gv3ytd+zgKRN9/dOelj9vaDLP9/yRANOfInbh3bcu0I8DMhTZKg+vlPEq/BQ2XiPzaG3oNSyl5lKyuqqu9RTPctDq3CePo+VD5T6HBNihxK2E36GEpkwd0hJ5JFn7Y1sDLiaFnXKHRV7ROxsCH/hAFOz0+hIeUXAvDDsCPqVfgHjw=;9JTWKy38WQEzMIgUWWNRNw=="
 ---
 

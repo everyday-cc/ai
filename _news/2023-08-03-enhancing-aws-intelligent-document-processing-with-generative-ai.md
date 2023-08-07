@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intell
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
+    quality: 19
+  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
+    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
+    publishedDateTime: 2023-08-07T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
   - title: "5 Steps For Creating a Breakout Generative AI Startup"
     excerpt: "You can also use open-source frameworks that streamline the process of building generative AI apps. One is LangChain. It allows for integrating many LLMs (Large Language Models) -- even those that are free -- as well as providing access to data sources, such as Google and Wikipedia. You can even connect with popular apps like Notion."

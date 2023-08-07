@@ -53,20 +53,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face"
-    excerpt: "Effort aims to widen access to NASA earth science data for geospatial intelligence and accelerate climate-related discoveries"
-    publishedDateTime: 2023-08-03T04:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9858664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM and NASA open-source foundation AI model for analyzing satellite data"
     excerpt: "IBM and NASA jointly trained their model on a geospatial dataset called Harmonized Landsat Sentinel-2. The dataset includes images of the Earth’s surface that were taken by NASA’s Landsat-8 satellite. It also contains measurements from Sentinel-2, a satellite constellation operated by the European Space Agency."
     publishedDateTime: 2023-08-03T19:38:00Z

@@ -1,29 +1,34 @@
 ---
 category: news
 title: "Must See! Robotics Developers Create Massive Robo-Boxer Using 1-To-1 Human Controlled Movement"
-excerpt: "Partly cloudy skies. A stray shower or thunderstorm is possible. Low around 65F. Winds SE at 5 to 10 mph."
-publishedDateTime: 2023-08-07T15:53:00Z
-originalUrl: "https://www.gjsentinel.com/news/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_7f26826a-0e69-55c2-9ad0-95576ce37ca6.html"
-webUrl: "https://www.gjsentinel.com/news/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_7f26826a-0e69-55c2-9ad0-95576ce37ca6.html"
+excerpt: "You've probably heard of battlebots, but this is something completely next level. This is the human controlled boxing robot being developed by Chinese tech firm Qibo Robot Company. Buzz60’s Tony"
+publishedDateTime: 2023-08-07T15:05:00Z
+originalUrl: "https://www.nbcrightnow.com/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_22be5fa3-90ba-561d-9f40-0f642af9fba4.html"
+webUrl: "https://www.nbcrightnow.com/national/must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement/video_22be5fa3-90ba-561d-9f40-0f642af9fba4.html"
 type: article
-quality: 42
-heat: 42
+quality: 22
+heat: -1
 published: false
 
 provider:
-  name: The Grand Junction Daily Sentinel
-  domain: gjsentinel.com
+  name: NBC Right Now
+  domain: nbcrightnow.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/7/f2/7f26826a-0e69-55c2-9ad0-95576ce37ca6/64d111ca469f6.image.jpg?crop=1119%2C587%2C0%2C20&resize=1119%2C587&order=crop%2Cresize"
-    width: 1119
-    height: 587
-    isCached: true
+related:
+  - title: "Skyline Robotics Completes $3.35M Funding Round to Expand Business Operations"
+    excerpt: "Skyline Robotics, developers of OZMO, the world's first high-rise window-cleaning robot, today announced the successful completion of a $3.35M funding round. The funding was raised through a SAFE Note (Simple Agreement for Future Equity) and will be used toward the company's ongoing 2023 business operations plan."
+    publishedDateTime: 2023-08-07T14:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/07/9860304.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
 
-secured: "ivw8KcRbVs16Y9qDt1PZH924LM/3EHVXp2D0QUSfdXAGo1UW3XIBSUGkKRUmOoeZnShAHDbw+EKj9rAbLMSIZA5Y89gNUFHcheAZQ9rKvFDo8P24dmUJd2fzjTHrfTMx5EfzpKZtGnULrbSL0HGZ7uJDbBNRLP0Fwhd6DuGM/GOuj6SzDpNi1cHTOOurVYajkGa8PAlEH1bDzYfcawd+59Y9ndDS4hOC5MEXoBh5Cl1Bd8iHU3A928sZY9ZkV1xZtyggatd+lEjJuVV11QjsOYCTQk4PC8X83fvSBk7knvpj5M0jts0H9+S9LI9K6vBrf7UfREuiQrIJqsPxn0wi14jwtWthgGtxccl2GpigoRw=;WgVEq6IP40+GBxEexzcUpA=="
+secured: "LB5oBqMKh+/03571teccouG7Em7ZQreAzULk6ZKCeeNlIQBoCaS995zqH1YueoWD6DhLbKlNUJ7coD1FhfkHNZIBqFYtcOmsoOeiqELMlSg+t3bZmcGlSowl96Eainy3/aO+c6spHfwAXd+ZGsDhbjRSXLrsYFojRSgB8HtKmu4fDkvUAXjaspMNdyBN/lowaYVNs+jIywwbeFuvrzMpB6RiGRnQJ3CXAJFUCF93oLXJgQmjWrag4rjHQZh9QGxIHWzfgzhDPxnv4CT73rFLeGKboodVEBVsp2TyE/AfkEo+IQ2rana252CmiqLC/odsKoi1V52BoIkUGIx0GrZ8NozUJ3oRUSfT0oHVuXHjPt3r+k+GP6tblWZVCZggCVQSF90ia2U5e9sxCdmf8Axi0ut7oVJ59+fpVR2VcjXdL9x4SG75hhf1Tds75gcWnoGaOTO5cxW4Ly/gcbVgxzb987fVCnoSoESK9vPmTdL1Wb99ITa9fByWLtkU68qTH51LrWvwUh+ozGwnzqAb/jCsjg==;fp+Ou2Xx/HLm3A902LrguA=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "AI companies aren’t afraid of regulation – we want it to be international and inclusive"

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Business leaders back Australia's Indigenous Voice"
-    excerpt: "Australia biggest companies have thrown their support behind the Indigenous Voice to Parliament The Business Council of Australia"
-    publishedDateTime: 2023-08-03T03:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273919728/business-leaders-back-australias-indigenous-voice"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Q+A: Voice to Parliament referendum date yet to be set because Australians still 'need to be reached', Labor senator says"
     excerpt: "which will be held between October and December Prime Minister Anthony Albanese says the referendum will not be delayed Prime Minister Anthony Albanese first announced a referendum on Indigenous recognition and an Indigenous Voice during last year's ..."
     publishedDateTime: 2023-08-07T11:35:00Z

@@ -25,6 +25,17 @@ images:
     height: 684
     isCached: true
 
+related:
+  - title: "6 Emerging Tech Trends in the Healthcare Industry"
+    excerpt: "If you work within the healthcare industry, you will know only too well how new technologies are shaping the future of the sector. From artificial intelligence to remote care, virtual reality to predictive analysis,"
+    publishedDateTime: 2023-08-04T13:13:00Z
+    webUrl: "https://techbullion.com/6-emerging-tech-trends-in-the-healthcare-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
+
 secured: "99/5Z2zr5D+VTOKn77+gG/A7WbcrNaL0C03LiYtglOodSKkkzCuUS1WNMnHS2EgmCbE54twekafVqTMR2GuQEc17kSGT2ewZNsKg7ogTDjaMrhXkvc2xGBXQgp4KM/9fupNTFh7GsaDDW++KhwfAhRkV1kkK5XZdJF8M0cbwRtPoK87XPNb8/lxfepVlriJJc0VsWiXCdgdwWrbvYyzUAf0L/m2LQwOf1ZkOyMF5WT+4rQukW17a3SMIfQQV5iFn87pkYo7ej3f3RJDgx6qbXiYKQYI2yrrD2BN5d09XTi/aBRNHX4ESTvw0xARkzaCoRILQh7CAudDDCGWYJRXGnlYtNQ4K9HSUSmTAHoVozVw=;ULHOOX5iRplqhzbvnwPr9A=="
 ---
 

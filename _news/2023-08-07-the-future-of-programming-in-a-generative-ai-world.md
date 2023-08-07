@@ -105,6 +105,15 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 19
+  - title: "Sivi AI: Pioneering the Design Revolution With Generative AI"
+    excerpt: "In the fast-paced world of digital marketing and content creation, visuals play a pivotal role in capturing audience attention and conveying brand messages effectively. As the demand for captivating designs grows,"
+    publishedDateTime: 2023-08-07T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/ab33607119/sivi-ai-pioneering-the-design-revolution-with-generative-ai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "5 Steps For Creating a Breakout Generative AI Startup"
     excerpt: "You can also use open-source frameworks that streamline the process of building generative AI apps. One is LangChain. It allows for integrating many LLMs (Large Language Models) -- even those that are free -- as well as providing access to data sources, such as Google and Wikipedia. You can even connect with popular apps like Notion."
     publishedDateTime: 2023-08-03T12:02:00Z
@@ -133,6 +142,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "RXq9g/DJBDCA7ekaDvfeFNrfk+EI1hu7CsrZASSOwGcG+Xv7lDcyetcNZAFLo3MOqKeLJSxL5qEl9sB2AjLLsJmlIRlBeQ0e0wc9hHyPP4bgd6duCJMUobx7ImZ/QCia5BrkyiUKWPUd2LwOHAp82H4ATnqCbkCm4t+71xjSCJZO55elFO5kVtoWHiRtkeRpeOb9aWXrXcoCiiqbVY49K2JccA8ygSIVRpJUubBdPKzgZLbETtgUMfq2eNeNM76EUoLTM7F+dYPF9TugUGfjZ7TuArBLB60LhBuEdtOAn07/wi7aokaltEGJ8jKDka5yi0rajwkLxDjSUsF/6m0oEOci/6UpBLnuMlzweuXLmKs=;0x0t3Bpp+gzMFUEQG+AtYA=="
+secured: "PJRd167yDI6oJIW0OByVhbl+SbW9gtT6DBlaRsR+rY5T56pny7bmx+IPOC11uUM23JTKZ5ttqbBaLgxDTcG1XMXk15b+WCb8CcYEL5SMWzi+ICo6wq5tMp2GRLS9Dw08Mcr8NpbnDzIRCD1Xb0Y4U0Z8vO3iGsHw+r5IWqiNFrATA4LJp1I0ViL7dUnEbimhJhhV8x0/XFGLRilQTKw5rGkOcZmoMDwZQss7NIxLOubT4cgnLEP6IqI1GADAMH3yD6A2MxbZnUt76gpZ2TCd0c+OoAi5dZ5VGd89kTfw0+iCGfXiLyW+gtiY9toFE74WXZw6yT42M3d3HfZ4XRXMc4UkjWt4NlR2CUGq29ewxqYaBOW8DQhGEfYvmVJ5mJbfoSlMlH6v+a8No2n/lxeoGWa3PzRXeBLlpin7GMLGWLyIo30dV15kBq2jx/yHnZM+x9ZT2ZPiXiIaUnIvvGwbA1PCcXR/fBt/HIlAo+vzRee7lm437jmInCkrVhcfmUUS4zHTg4FDuQjqMg3bqhUbXA==;ULZhJxn7pvoucgf1vKaObg=="
 ---
 

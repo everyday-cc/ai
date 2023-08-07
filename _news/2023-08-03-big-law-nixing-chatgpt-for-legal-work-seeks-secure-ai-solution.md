@@ -144,6 +144,15 @@ related:
         width: 696
         height: 436
         isCached: true
+  - title: "Why doctors aren’t prepared for use of ChatGPT in medicine"
+    excerpt: "While artificial intelligence systems like ChatGPT are making their way into everyday use, doctors are less likely to adopt them over lack of skills to interpret and act according to it, finds a study."
+    publishedDateTime: 2023-08-07T19:04:00Z
+    webUrl: "https://www.canindia.com/why-doctors-arent-prepared-for-use-of-chatgpt-in-medicine-18/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 4
 
 secured: "mIdAsdpZKwAX200A3aMKtY83sEKiLRDQ1pRCTlgGhgHTxSErDqOb47I+wdaTIkOaLZsuLlZCzSP+LSm1IKGmCWqYg3oQxAZTx1Sw4mPI3DBV8D21fJj72c68tCb/JI8YasaYBVA9q1Bqbg78Fxbry9r7LbO9zS7eqd+v0YZ5qt3b6jPJ0Ye1fjS+IOvxxwcTJfhWWrQa3c4v3xmhEF1BWLDPoDiWTcXn0Ce7utXYJsxcJUKbZsickgI5HLi0Mg7m6i4A9+Px3wQjFZ6CB/PEMJg0Il1uRCqP+hgWeFu/5HzqrMJEvgKM8FMjgXnV/YcPPHXCyxVgr1ZJf7JIDVLcD7SoFJz+4SEBkpazf9N5HZTQsHXjaJsjdenq+1Dc9syOaTc9tOU2p40/AWZGf7yr4s/PUaqcBvTbA9qb2eWJQN+hVy4I22bY0nJ31xJDceQXB9XLuCtOepyBTaX/rdSgF8+qYtbf0Jsuw0ZdydTTDqR3IyPfTAc17tnPiV/+AQRt92YKI9IW8g3E5J5NNL9MMw==;aQrBYWthwnNb3Gq1DStTjQ=="
 ---

@@ -61,20 +61,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face"
-    excerpt: "Effort aims to widen access to NASA earth science data for geospatial intelligence and accelerate climate-related discoveries"
-    publishedDateTime: 2023-08-03T04:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/03/9858664.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "bwy3Qim/UjjoanuzqzrZHeBHzNFGd5yquQoJPbLf3pwOUJJuTVJ6QCpI4B+c8Hb+HxfjNpjkdiP0lq52SNwiDb+StQXxNNbXdAg7D6qVcvg+ZyHWQ8bXHBaqhHutIE3fgOGqp4rUiwIEykaAbau/2BjZJAn7MLRjwCUYPGBidUA4UvWWGwlFoQ9vSy6/N5Wob0tq4sndZeVU/NYf/q3aqN0Vferj3wIZebRWthGSs9Hl6qrHANSPZdsSJ5TF41k6qegx2Cka8e/u83UkpnZA3is6EN4+J+RqSiIxi/713qPGwcvY21tAW6g8cUuFh+2t7WjynY/8HJOKYr6JZSpMSJ6xqYwGzxYfsPlQhRDls0l1nTq/KS6HqHI6Fjulhwvxk6lYq9vyqUhzTQkVvoPqKcS54B3km+DTRcgRLDwkXM2F+OvcA3lQcFHPpvE8nTpR4D6xyByIfy2QyjJagM/+jotU4cJBroSCTBcfHTu8FsYOQzbb9DQcTJTX7mkA5QfQjGYmCtkQuKiE43ISiBxLZQ==;06rwhGwGEpH8EWw0fVEjxA=="
 ---

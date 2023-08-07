@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Innocent pregnant woman jailed amid faulty facial recognition trend"
+    excerpt: "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people."
+    publishedDateTime: 2023-08-07T18:39:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+  - title: "Pregnant woman arrested after facial recognition tech error"
+    excerpt: "Porcha Woodruff is the third person wrongly arrested by Detroit police due to the AI software in as many years."
+    publishedDateTime: 2023-08-07T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/facial-recognition-false-arrest-detroit/"
+    ampWebUrl: "https://www.popsci.com/technology/facial-recognition-false-arrest-detroit/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/facial-recognition-false-arrest-detroit/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/07/Depositphotos_179213404_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Pregnant US Woman, Arrested After False Facial Recognition Match, Sues Police"
     excerpt: "After being charged with the two crimes, Porcha Woodruff was released on a $100,000 personal bond. A month later, the case against her was dismissed."
     publishedDateTime: 2023-08-07T06:28:00Z
@@ -124,6 +149,20 @@ related:
         width: 800
         height: 492
         isCached: true
+  - title: "Detroit Facial Recognition Software Results in Wrongful Arrest of Pregnant Woman"
+    excerpt: "Recent reports have revealed that the Detroit Police Department wrongly arrested a pregnant Black woman for a crime she did not commit after she was misidentified by the city’s facial recognition software."
+    publishedDateTime: 2023-08-07T19:36:00Z
+    webUrl: "https://truthout.org/articles/detroit-facial-recognition-software-results-in-wrongful-arrest-of-pregnant-woman/"
+    type: article
+    provider:
+      name: Truthout
+      domain: truthout.org
+    quality: 34
+    images:
+      - url: "https://truthout.org/app/uploads/2023/08/2023_0807-cops-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "A Black Mother Is Suing After She Was Wrongfully Arrested Due to Faulty Facial Recognition ID"
     excerpt: "A woman is suing the city of Detroit after she was wrongfully arrested for robbery and carjacking over faulty facial recognition technology. Porcha Woodruff was eight months pregnant and getting her two children ready for school when six police officers showed up at her home in February to take her into custody."
     publishedDateTime: 2023-08-07T15:18:00Z
@@ -138,15 +177,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "In every reported case where police mistakenly arrested someone using facial recognition, that person has been Black"
-    excerpt: "For several years, civil liberties groups, tech experts, and activists have warned that the use of facial recognition technology will only increase racial inequities in policing. As time goes on, it is becoming even more clear that these warnings were right."
-    publishedDateTime: 2023-08-06T19:41:00Z
-    webUrl: "https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Woman files lawsuit, claims 'faulty' DPD facial recognition hit prompted her false arrest"
     excerpt: "Woman, who says she was arrested while she was pregnant, claims 'pattern of racial discrimination' in how DPD uses technology"
     publishedDateTime: 2023-08-06T16:52:00Z
@@ -170,6 +200,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Woman Falsely Arrested Sues Detroit Over Facial Recognition"
+    excerpt: "A woman who was eight months pregnant when faulty facial recognition technology led to her false arrest on carjacking charges is suing the city of Detroit and the police detective assigned to her case."
+    publishedDateTime: 2023-08-07T19:50:00Z
+    webUrl: "https://www.govtech.com/public-safety/woman-falsely-arrested-sues-detroit-over-facial-recognition"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
   - title: "Pregnant mother-of-two wrongly arrested for robbery and carjacking after false facial recognition says she was having contractions in the holding cell: 'Shoddy technology' has ..."
     excerpt: "A Michigan woman who was eight months pregnant became the latest person to be falsely charged after police used facial recognition technology to arrest her on suspicion of carjacking and robbery. Porcha Woodruff, 32, was shocked when six police officers ..."
     publishedDateTime: 2023-08-07T01:56:00Z
